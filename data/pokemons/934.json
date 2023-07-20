@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "garganacl": {
+            "primary": "Sale Purificante",
+            "secondary": "Vigore",
+            "hidden": "Corpochiaro"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Roccia",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Minerale",
+        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
+        "Pokémon con statistiche base totali di 500"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/garganacl.mp3",
+    "dex_entries": {
+        "garganacl": {
+            "scarlet": "Sfrega le dita per cospargere di sale i Pokémon feriti e guarire all'istante anche le lesioni più gravi.",
+            "violet": "Sono molti i Pokémon che si raccolgono attorno a Garganacl per leccare il suo sale ricchissimo di minerali."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 9,
+    "height": {
+        "garganacl": "2,3 m"
+    },
+    "id": 934,
+    "name": "Garganacl",
+    "name_origin": "Garganacl potrebbe derivare da Gargantuan  e NaCl . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Salgemma",
+    "sprites": {
+        "garganacl": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5d/Homem0934.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homemsh0934.png"
+        }
+    },
+    "stats": {
+        "garganacl": {
+            "hp": 100,
+            "atk": 100,
+            "def": 130,
+            "spa": 45,
+            "spd": 90,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "garganacl": 500
+    },
+    "types": {
+        "garganacl": [
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "garganacl": "240,0 kg"
+    }
+}

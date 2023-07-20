@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "zebstrika": {
+            "primary": "Parafulmine",
+            "secondary": "Elettrorapid",
+            "hidden": "Mangiaerba"
+        }
+    },
+    "curiosities": [
+        "Zebstrika condivide la categoria con Electivire. Sono entrambi conosciuti come Pokémon Saetta.",
+        "In inglese la sua categoria  coincide con il nome di una mossa, essendo entrambi noti come Thunderbolt Pokémon.",
+        "Zebstrika è l'unico Pokémon con la somma di statistiche base pari a 497."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/zebstrika.mp3",
+    "dex_entries": {
+        "zebstrika": {
+            "black": "È scattante come una saetta. Se corre alla massima velocità, si sente un rimbombo di tuoni.",
+            "white": "Quando si arrabbia, diventa impetuoso e temibile. Lancia scariche elettriche in ogni direzione con la criniera.",
+            "black-2": "Ha un temperamento sanguigno. Quando si arrabbia dalla criniera lancia saette in ogni direzione.",
+            "white-2": "Ha un temperamento sanguigno. Quando si arrabbia dalla criniera lancia saette in ogni direzione.",
+            "x": "Ha un temperamento sanguigno. Quando si arrabbia dalla criniera lancia saette in ogni direzione.",
+            "y": "È scattante come una saetta. Se corre alla massima velocità, si sente un rimbombo di tuoni.",
+            "omega-ruby": "Ha un temperamento sanguigno. Quando si arrabbia dalla criniera lancia saette in ogni direzione.",
+            "alpha-sapphire": "È scattante come una saetta. Se corre alla massima velocità, si sente un rimbombo di tuoni."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "zebstrika": "1,6 m"
+    },
+    "id": 523,
+    "name": "Zebstrika",
+    "name_origin": "Il nome deriva dall'unione della parola zebra con la corruzione della parola inglese strike . Potrebbe anche derivare dal giapponese 雷火 raika , da elettrica, o dal corrispondente spagnolo eléctrica. ",
+    "origin": "Zebstrika è ispirato ad una zebra. Potrebbe essere ispirato inoltre ai cavalli che trainavano il carro infuocato del dio greco Helios . ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Saetta",
+    "sprites": {
+        "zebstrika": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e7/Homem0523.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d4/Homemsh0523.png"
+        }
+    },
+    "stats": {
+        "zebstrika": {
+            "hp": 75,
+            "atk": 100,
+            "def": 63,
+            "spa": 80,
+            "spd": 63,
+            "spe": 116
+        }
+    },
+    "stats_sum": {
+        "zebstrika": 497
+    },
+    "types": {
+        "zebstrika": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "zebstrika": "79,5 kg"
+    }
+}

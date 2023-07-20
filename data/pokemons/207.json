@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "gligar": {
+            "primary": "Ipertaglio",
+            "secondary": "Sabbiavelo",
+            "hidden": "Immunità"
+        }
+    },
+    "curiosities": [
+        "Prima della quinta generazione Gligar e Gliscor avevano una combinazione di tipi unica.",
+        "Gligar può essere visto come un \"parallelo\" di Sneasel: sono entrambi di doppio tipo; tutti e due sono stati introdotti in seconda generazione; hanno lo stesso totale delle statistiche di base; le loro rispettive evoluzioni sono stata introdotte in quarta generazione; si evolvono di notte tenendo strumenti che contengono nel nome parte della parola affilato .",
+        "Gli sprite di quarta generazione non cromatici hanno tutti una sfumatura di colore diversa.\n\tLa versione cromatica di Gligar in Pokémon Platino può essere facilmente confusa con la sua forma normale, a causa della colorazione molto simile.",
+        "La versione cromatica di Gligar in Pokémon Platino può essere facilmente confusa con la sua forma normale, a causa della colorazione molto simile.",
+        "Sebbene sia uno scorpione, il suo pungiglione sia velenoso e sia di colore viola, non è un tipo Veleno. Tuttavia può imparare mosse di questo tipo.",
+        "Gligar e la sua evoluzione Gliscor possono imparare ben sei mosse che hanno alte probabilità di infliggere un brutto colpo, più di ogni altro Pokémon.",
+        "Nonostante non possa imparare Terremoto tramite MT in seconda generazione, un Gligar che conosce Terremoto è una ricompensa in Pokémon Stadium 2 per aver battuto il rivale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gligar.mp3",
+    "dex_entries": {
+        "gligar": {
+            "gold": "Vola verso il viso del nemico, lo atterrisce e poi lo afferra per iniettargli il suo veleno.",
+            "silver": "Di solito sta attaccato agli scogli. Attacca la preda spalancando le ali e planando.",
+            "crystal": "Si fa il nido su ripide scogliere. Prima plana, poi saltella sul terreno per tornare al nido.",
+            "ruby": "GLIGAR fende l'aria impercettibilmente come se stesse scivolando. Questo POKéMON si aggrappa al viso del nemico usando le zampe posteriori artigliate e le possenti chele sulle zampe anteriori, poi avvelena la preda con il suo aculeo.",
+            "sapphire": "GLIGAR fende l'aria impercettibilmente come se stesse scivolando. Questo POKéMON si aggrappa al viso del nemico usando le zampe posteriori artigliate e le possenti chele sulle zampe anteriori, poi avvelena la preda con il suo aculeo.",
+            "emerald": "GLIGAR scivola nell'aria senza far rumore. Si aggrappa al viso del nemico con gli artigli posteriori e le chele anteriori, poi l'avvelena con il suo aculeo.",
+            "firered": "Di solito sta attaccato agli scogli. Attacca la preda spalancando le ali e planando.",
+            "leafgreen": "Atterrisce il nemico volando direttamente verso il suo volto, per poi afferrarlo e iniettargli il suo veleno.",
+            "diamond": "Si fa trasportare dai venti con le ali spalancate e colpisce la preda dall'alto mirando al volto.",
+            "pearl": "Si fa trasportare dai venti con le ali spalancate e colpisce la preda dall'alto mirando al volto.",
+            "platinum": "Vola planando nell'aria. Sorprende i nemici aggrappandosi al loro volto, poi inietta il suo veleno.",
+            "heartgold": "Vola in picchiata sulla testa del nemico, lo atterra e gli inietta il suo veleno.",
+            "soulsilver": "Di solito sta attaccato agli scogli. Attacca la preda spalancando le ali e planando.",
+            "black": "Vola planando nell'aria. Sorprende i nemici aggrappandosi al loro volto, poi inietta il suo veleno.",
+            "white": "Vola planando nell'aria. Sorprende i nemici aggrappandosi al loro volto, poi inietta il suo veleno.",
+            "black-2": "D'un tratto salta addosso alla preda e, approfittando del suo smarrimento, la infilza con l'aculeo che ha sulla coda.",
+            "white-2": "D'un tratto salta addosso alla preda e, approfittando del suo smarrimento, la infilza con l'aculeo che ha sulla coda.",
+            "x": "Di solito sta attaccato agli scogli. Attacca la preda spalancando le ali e planando.",
+            "y": "Vola in picchiata sulla testa del nemico, lo atterra e gli inietta il suo veleno.",
+            "omega-ruby": "Gligar fende l'aria impercettibilmente come se stesse scivolando. Questo Pokémon si aggrappa al viso del nemico usando le zampe posteriori artigliate e le possenti chele sulle zampe anteriori, poi avvelena la preda con il suo aculeo.",
+            "alpha-sapphire": "Gligar fende l'aria impercettibilmente come se stesse scivolando. Questo Pokémon si aggrappa al viso del nemico usando le zampe posteriori artigliate e le possenti chele sulle zampe anteriori, poi avvelena la preda con il suo aculeo.",
+            "legends-arceus": "Copre il volto della preda ostruendole la vista e poi la sopprime affondando il grosso aculeo velenifero posto all'estremità della coda."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 2,
+    "height": {
+        "gligar": "1,1 m"
+    },
+    "id": 207,
+    "name": "Gligar",
+    "name_origin": "Il suo nome probabilmente deriva dalle parole inglesi glider  e gargoyle. ",
+    "origin": "Potrebbe essere ispirato alle mosche scorpione. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Aliscorpio",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/1/16/Homem0207.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0e/Homemsh0207.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f4/Homef0207.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8a/Homefsh0207.png"
+        }
+    },
+    "stats": {
+        "gligar": {
+            "hp": 65,
+            "atk": 75,
+            "def": 105,
+            "spa": 35,
+            "spd": 65,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "gligar": 430
+    },
+    "types": {
+        "gligar": [
+            "Terra",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "gligar": "64,8 kg"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "lotad": {
+            "primary": "Nuotovelox",
+            "secondary": "Copripioggia",
+            "hidden": "Mente Locale"
+        }
+    },
+    "curiosities": [
+        "Lotad è l'unico Pokémon che è attualmente in grado di imparare Pistolacqua tramite accoppiamento. In Pokémon Cristallo, l'unico era Phanpy.",
+        "Fino alla settima generazione nessun Pokémon ha la stessa combinazione di Gruppi Uova di Lotad e della sua famiglia: Acqua 1 ed Erba",
+        "Lotad può essere visto come la controparte di Seedot: entrambi sono Pokémon di terza generazione di tipo Erba, fanno parte di una linea evolutiva a tre stadi e si evolvono prima al livello 14 e poi con una Pietra evolutiva  e le loro linee evolutive si trovano l'una accanto l'altra nel Pokédex. Lotad è esclusivo di Zaffiro e Seedot di Rubino e si trovano negli stessi luoghi. Entrambi possono essere incontrati in Pokémon Diamante e Perla e Pokémon Platino, con la modalità dual-slot, inserendo Rubino per Seedot e Zaffiro per Lotad. Entrambi si trovano nella Foresta Bianca in Pokémon Bianco.",
+        "La linea evolutiva di Lotad presenta alcune peculiarità:\n\tHanno una combinazione di tipi unica.\n\tSono gli unici Pokémon che fanno parte sia del Gruppo Uova Acqua 1 che del Gruppo Uova Erba.\n\tSono gli unici Pokémon che possono avere Copripioggia come abilità senza che sia speciale.",
+        "Hanno una combinazione di tipi unica.",
+        "Sono gli unici Pokémon che fanno parte sia del Gruppo Uova Acqua 1 che del Gruppo Uova Erba.",
+        "Sono gli unici Pokémon che possono avere Copripioggia come abilità senza che sia speciale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lotad.mp3",
+    "dex_entries": {
+        "lotad": {
+            "ruby": "LOTAD vive in stagni e laghi, galleggiando a pelo d'acqua. S'indebolisce se muoiono le larghe foglie in superficie. In rare occasioni si avventura sulla terraferma in cerca di acqua pulita.",
+            "sapphire": "Si dice che prima LOTAD vivesse sulla terraferma. Tuttavia, si dice che sia tornato all'acqua perché le foglie che ha sulla testa erano diventate troppo grandi e pesanti. Ora vive galleggiando a pelo d'acqua.",
+            "emerald": "LOTAD vive in stagni di acqua pulita. Trasporta altri piccoli POKéMON da una sponda all'altra facendoli accomodare sulla foglia che ha in testa.",
+            "firered": "Vaga alla ricerca di acqua pulita. Se non beve per parecchio tempo, la foglia che ha sul capo appassisce.",
+            "leafgreen": "Vaga alla ricerca di acqua pulita. Se non beve per parecchio tempo, la foglia che ha sul capo appassisce.",
+            "diamond": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "pearl": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "platinum": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "heartgold": "Pare che viva a galla in acqua a causa della foglia che ha in testa, diventata troppo grande e pesante.",
+            "soulsilver": "Pare che viva a galla in acqua a causa della foglia che ha in testa, diventata troppo grande e pesante.",
+            "black": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "white": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "black-2": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "white-2": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "x": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "y": "Vaga alla ricerca di acqua pulita. Se non beve per parecchio tempo, la foglia che ha sul capo appassisce.",
+            "omega-ruby": "Lotad vive in stagni e laghi, galleggiando a pelo dell'acqua. S'indebolisce se muoiono le foglie larghe in superficie. In rare occasioni si avventura sulla terraferma in cerca di acqua pulita.",
+            "alpha-sapphire": "Si dice che prima Lotad vivesse sulla terraferma. Tuttavia,si dice che sia tornato all'acqua perché le foglie che ha sulla testa erano diventate troppo grandi e pesanti. Ora vive galleggiando a pelo d'acqua.",
+            "sword": "Vaga alla ricerca di acqua pulita. Se non beve per parecchio tempo, la foglia che ha sul capo appassisce.",
+            "shield": "La foglia che ha in testa, diventata troppo grande e pesante, lo ha spinto a vivere galleggiando a pelo d'acqua.",
+            "brilliant-diamond": "Assomiglia a una pianta acquatica. I Pokémon che non sanno nuotare lo usano per farsi traghettare.",
+            "shining-pearl": "Assomiglia a una pianta acquatica. I Pokémon che non sanno nuotare lo usano per farsi traghettare."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Erba"
+    ],
+    "generation": 3,
+    "height": {
+        "lotad": "0,50 m"
+    },
+    "id": 270,
+    "name": "Lotad",
+    "name_origin": "Il nome di Lotad è una combinazione di lotus, loto, e tadpole, girino, o lily pad, ninfea. ",
+    "origin": "Lotad sembra essere un esempio di ninfea. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Alga",
+    "sprites": {
+        "lotad": {
+            "default": "https://media.pokemoncentral.it/wiki/0/08/Homem0270.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0270.png"
+        }
+    },
+    "stats": {
+        "lotad": {
+            "hp": 40,
+            "atk": 30,
+            "def": 30,
+            "spa": 40,
+            "spd": 50,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "lotad": 220
+    },
+    "types": {
+        "lotad": [
+            "Erba",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "lotad": "2,6 kg"
+    }
+}

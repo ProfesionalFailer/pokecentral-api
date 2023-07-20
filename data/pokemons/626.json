@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "bouffalant": {
+            "primary": "Temerarietà",
+            "secondary": "Mangiaerba",
+            "hidden": "Antisuono"
+        }
+    },
+    "curiosities": [
+        "Bouffalant ha una grande somiglianza con Tauros, infatti si pensava fosse la sua evoluzione. Tuttavia, a differenza sua, possiede entrambi i sessi.",
+        "Bouffalant è l'unico Pokémon in grado di apprendere la mossa Ricciolata.",
+        "Bouffalant rappresenta il mese di maggio  nell'oroscopo di Unima."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bouffalant.mp3",
+    "dex_entries": {
+        "bouffalant": {
+            "black": "Anche se riceve una violenta testata, la folta pelliccia minimizza l'impatto.",
+            "white": "Sferra testate contro tutto e tutti. Ha una forza distruttiva tale da far deragliare un treno in corsa.",
+            "black-2": "Si lancia a testa bassa contro tutto ciò che minaccia di invadere il suo territorio, treni compresi, e lo spedisce via lontano.",
+            "white-2": "Si lancia a testa bassa contro tutto ciò che minaccia di invadere il suo territorio, treni compresi, e lo spedisce via lontano.",
+            "x": "Sferra testate contro tutto e tutti. Ha una forza distruttiva tale da far deragliare un treno in corsa.",
+            "y": "Anche se riceve una violenta testata, la folta pelliccia minimizza l'impatto.",
+            "omega-ruby": "Sferra testate contro tutto e tutti. Ha una forza distruttiva tale da far deragliare un treno in corsa.",
+            "alpha-sapphire": "Anche se riceve una violenta testata, la folta pelliccia minimizza l'impatto.",
+            "sword": "Può distruggere un'automobile a testate. Più la criniera è voluminosa, più prominente è la sua posizione nella mandria.",
+            "shield": "Vive in mandrie di circa 20 esemplari. Per qualche motivo, i Bouffalant che tradiscono il gruppo perdono la chioma."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "bouffalant": "1,6 m"
+    },
+    "id": 626,
+    "name": "Bouffalant",
+    "name_origin": "Il suo nome deriva probabilmente dall'inglese buffalo  e bouffant , ma potrebbe anche involvere il termine gallant . ",
+    "origin": "Questo Pokémon è ispirato a un bisonte, in particolare ricorda molto il bisonte americano, anche se le sue corna si ispirano più probabilmente a quelle di un bufalo nero. Inoltre il suo pelo sulla testa si potrebbe basare sull'acconciatura afro. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Sfondatoro",
+    "sprites": {
+        "bouffalant": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b4/Homem0626.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3a/Homemsh0626.png"
+        }
+    },
+    "stats": {
+        "bouffalant": {
+            "hp": 95,
+            "atk": 110,
+            "def": 95,
+            "spa": 40,
+            "spd": 95,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "bouffalant": 490
+    },
+    "types": {
+        "bouffalant": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "bouffalant": "94,6 kg"
+    }
+}

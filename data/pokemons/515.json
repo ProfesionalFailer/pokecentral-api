@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "panpour": {
+            "primary": "Voracità",
+            "hidden": "Acquaiuto"
+        }
+    },
+    "curiosities": [
+        "Panpour di Maisello",
+        "Panpour di Goh"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/panpour.mp3",
+    "dex_entries": {
+        "panpour": {
+            "black": "L'acqua accumulata nel ciuffo è ricca di nutrimento e fa crescere rigogliose le piante che ne vengono annaffiate.",
+            "white": "Risente degli ambienti molto asciutti. Per tenersi umido, sparge dalla coda l'acqua contenuta nel ciuffo sulla testa.",
+            "black-2": "L'acqua contenuta nel suo ciuffo è ricca di nutrienti e la usa per annaffiare le piante con la coda.",
+            "white-2": "L'acqua contenuta nel suo ciuffo è ricca di nutrienti e la usa per annaffiare le piante con la coda.",
+            "x": "L'acqua contenuta nel suo ciuffo è ricca di nutrienti e la usa per annaffiare le piante con la coda.",
+            "y": "L'acqua accumulata nel ciuffo è ricca di nutrimento e fa crescere rigogliose le piante che ne vengono annaffiate.",
+            "omega-ruby": "L'acqua contenuta nel suo ciuffo è ricca di nutrienti e la usa per annaffiare le piante con la coda.",
+            "alpha-sapphire": "L'acqua accumulata nel ciuffo è ricca di nutrimento e fa crescere rigogliose le piante che ne vengono annaffiate."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "panpour": "0,6 m"
+    },
+    "id": 515,
+    "name": "Panpour",
+    "name_origin": "Il nome Panpour è la combinazione della parola pan  con la parola inglese pour . ",
+    "origin": "È basato su una scimmia e su una fontana. Insieme a Pansage e a Pansear si ispira alle tre scimmie sagge del santuario di Nikko. Pansear rappresenta Mizaru, la scimmia che \"Non vede il Male\", motivo per il quale ha gli occhi chiusi. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Annaffiatore",
+    "sprites": {
+        "panpour": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0515.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homemsh0515.png"
+        }
+    },
+    "stats": {
+        "panpour": {
+            "hp": 50,
+            "atk": 53,
+            "def": 48,
+            "spa": 53,
+            "spd": 48,
+            "spe": 64
+        }
+    },
+    "stats_sum": {
+        "panpour": 316
+    },
+    "types": {
+        "panpour": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "panpour": "13,5 kg"
+    }
+}

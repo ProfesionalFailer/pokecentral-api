@@ -1,0 +1,97 @@
+{
+    "abilities": {
+        "linoone": {
+            "primary": "Raccolta",
+            "secondary": "Voracità",
+            "hidden": "Piedisvelti"
+        },
+        "forma-di-galar": {
+            "primary": "Raccolta",
+            "secondary": "Voracità",
+            "hidden": "Piedisvelti"
+        }
+    },
+    "curiosities": [
+        "Linoone è l'unico Pokémon che può usare l'Elisir Mix in Pokémon Mystery Dungeon: Esploratori del Cielo.",
+        "Gli sprite di Linoone non cambiano tra i giochi di terza generazione e i giochi di quarta ."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/linoone.mp3",
+    "dex_entries": {
+        "linoone": {
+            "ruby": "LINOONE è solito correre a tutta velocità e sempre in linea retta. Davanti ad un ostacolo fa una curva ad angolo retto per evitarlo. Questo POKéMON si trova in difficoltà su percorsi con curve poco accentuate.",
+            "sapphire": "Quando caccia, LINOONE si lancia rapido sulla preda. Infatti riesce a raggiungere la velocità di 100 km/h ma prima di girare è costretto a fermarsi in modo brusco e repentino.",
+            "emerald": "LINOONE riesce a correre a tutta velocità, ma solo in linea retta. Se individua una preda nell'acqua, vi salta dentro e la cattura con i suoi artigli affilati.",
+            "firered": "Quando corre in rettilineo può raggiungere i 100 km/h, ma rallenta molto in curva.",
+            "leafgreen": "Quando corre in rettilineo può raggiungere i 100 km/h, ma rallenta molto in curva.",
+            "diamond": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "pearl": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "platinum": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "heartgold": "Quando corre in rettilineo può raggiungere i 100 km/h, ma le curve non sono il suo forte.",
+            "soulsilver": "Quando corre in rettilineo può raggiungere i 100 km/h, ma le curve non sono il suo forte.",
+            "black": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "white": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "black-2": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "white-2": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "x": "Quando corre in rettilineo può raggiungere i 100 km/h, ma le curve non sono il suo forte.",
+            "y": "Carica la preda a una velocità di 100 km/h. ma dal momento che va solo dritto, sbaglia spesso.",
+            "omega-ruby": "Linoone è solito correre a tutta velocità e sempre in linea retta. Davanti a un ostacolo fa una curva ad angolo retto per evitarlo. Questo Pokémon si trova in difficoltà su percorsi con curve poco accentuate.",
+            "alpha-sapphire": "Quando caccia, Linoone si lancia rapido sulla preda. Infatti riesce a raggiungere la velocità di 100 km/h ma prima di girare è costretto a fermarsi in modo brusco e repentino.",
+            "sword": "Ha un pelo forte e resistente. I pennelli da barba realizzati con le setole perse da questo Pokémon sono molto pregiati.",
+            "shield": "Si serve della sua straordinaria forza esplosiva e dei suoi artigli affilati per abbattere la preda. Correre lungo strade tortuose non è il suo forte.",
+            "brilliant-diamond": "Carica la preda a una velocità di 100 km/h. Ma dal momento che va solo dritto, spesso la manca.",
+            "shining-pearl": "Carica la preda a una velocità di 100 km/h. Ma dal momento che va solo dritto, spesso la manca."
+        },
+        "linoone-di-galar": {
+            "sword": "Provoca l'avversario con la sua lingua lunga e, dopo averlo mandato su tutte le furie, lo attacca con spintoni poderosi.",
+            "shield": "Ha un'indole molto bellicosa. È così sconsiderato da affrontare avversari molto più forti di lui senza pensarci due volte."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 3,
+    "height": {
+        "linoone": "0,5 m"
+    },
+    "id": 264,
+    "name": "Linoone",
+    "name_origin": "Il nome di Linoone è una combinazione di linea, e Procyon lotor. Potrebbe anche riferirsi alla sua abilità di correre in linea retta. Massuguma potrebbe essere la combinazione di まっすぐ massugu, che significa dritto, e 洗い熊 araiguma, cioè il Procyon lotor, o 穴熊 anaguma, cioè il Meles meles. ",
+    "origin": "L'aspetto di Linoone è forse un incrocio tra il Meles meles e il Mustela putorius furo.\nLinoone può essere basato anche sulla creatura leggendaria del Kamaitachi.\nPuò anche essere basata sul Ramidreju; una lunga donnola, che ha l'ossessione dell'oro. Su questo potrebbe basarsi l'ossessione di Linoone per gli oggetti rotondi. Linoone di Galar potrebbero assomigliare a Paul Stanley dal gruppo musicale \"Kiss\". ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Sfrecciante",
+    "sprites": {
+        "linoone": {
+            "default": "https://media.pokemoncentral.it/wiki/9/95/Homem0264.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/09/Homemsh0264.png"
+        },
+        "forma-di-galar": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c8/Homem0264G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0264G.png"
+        }
+    },
+    "stats": {
+        "linoone": {
+            "hp": 78,
+            "atk": 70,
+            "def": 61,
+            "spa": 50,
+            "spd": 61,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "linoone": 420
+    },
+    "types": {
+        "linoone": [
+            "Normale"
+        ],
+        "forma-di-galar": [
+            "Buio",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "linoone": "32,5 kg"
+    }
+}

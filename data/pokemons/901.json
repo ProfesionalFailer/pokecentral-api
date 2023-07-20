@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "ursaluna": {
+            "primary": "Dentistretti",
+            "secondary": "Antiproiettile",
+            "hidden": "Agitazione"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di ottava generazione",
+        "Pokémon di tipo Terra",
+        "Pokémon di tipo Normale",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore Marrone",
+        "Pokémon dalla sagoma n. Sconosciuta",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Sconosciuto",
+        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
+        "Pokémon con statistiche base totali di 550",
+        "Pokémon con evoluzioni trans-generazionali"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ursaluna.mp3",
+    "dex_entries": {
+        "ursaluna": {
+            "legends-arceus": "Ritengo che sia stato il terreno palustre di Hisui ad averlo reso nerboruto e ad avergli donato la facoltà di manipolare la torba a suo piacere."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 8,
+    "height": {
+        "ursaluna": "2,4 m"
+    },
+    "id": 901,
+    "name": "Ursaluna",
+    "name_origin": "Ursaluna potrebbe essere una combinazione di ursa, latino per orso, e luna. Gachiguma potrebbe essere una combinazione di 月輪 gachirin, luna piena, e 熊 kuma, orso. ",
+    "origin": "Ursaluna potrebbe essere basato su un orso bruno dell'Amur, una sottospecie di orso bruno presente ad Hokkaidō . La sua forma simile ad una montagna e il tipo Terra potrebbero essere un riferimento a Kim-un-kamuy, il dio Ainu  degli orsi e delle montagne. In alternativa, questi aspetti potrebbero riferirsi all'abitudine degli orso bruno dell'Amur di vivere in tane scavate nei fianchi delle colline. ",
+    "shape": "sconosciuto",
+    "specie": "Pokémon Torba",
+    "sprites": {
+        "ursaluna": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0901.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0901.png"
+        }
+    },
+    "stats": {
+        "ursaluna": {
+            "hp": 130,
+            "atk": 140,
+            "def": 105,
+            "spa": 45,
+            "spd": 80,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "ursaluna": 550
+    },
+    "types": {
+        "ursaluna": [
+            "Terra",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "ursaluna": "290,0 kg"
+    }
+}

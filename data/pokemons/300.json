@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "skitty": {
+            "primary": "Incantevole",
+            "secondary": "Normalità",
+            "hidden": "Splendicute"
+        }
+    },
+    "curiosities": [
+        "Skitty è l'unico Pokémon di terza generazione ad evolversi tramite Pietralunare.",
+        "Per via della sua inclusione nel Gruppo Uova Campo, è possibile far accoppiare uno Skitty con un Pokémon estremamente diverso come Wailord. Da questo è derivata la battuta Hot Skitty on Wailord Action.",
+        "La faccia di Skitty ha la forma simile a una mezzaluna, forse un riferimento alla sua evoluzione tramite Pietralunare.",
+        "Prima di Pokémon Platino, uno Skitty con l'abilità Normalità non poteva danneggiare in alcun modo i tipi Spettro. Ora può farlo, imparando Preveggenza."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/skitty.mp3",
+    "dex_entries": {
+        "skitty": {
+            "ruby": "SKITTY ha l'abitudine di lasciarsi ammaliare dagli oggetti in movimento e seguirli dando loro la caccia. Questo POKéMON è noto anche per rincorrere la sua stessa coda fino a rimanere stordito.",
+            "sapphire": "SKITTY è noto per il suo movimento rotatorio inteso a mordere la propria coda. Allo stato brado, vive all'interno di tronchi cavi nella foresta. È molto amato come animale domestico grazie all'aspetto estremamente dolce.",
+            "emerald": "SKITTY è un POKéMON molto apprezzato per la dolcezza del suo comportamento. In lotta, gonfia la coda ed emette un ringhio acuto che spaventa l'avversario.",
+            "firered": "È molto apprezzato per la dolcezza dell'aspetto e del comportamento, benché sia difficile guadagnarsi la sua fiducia.",
+            "leafgreen": "È molto apprezzato per la dolcezza dell'aspetto e del comportamento, benché sia difficile guadagnarsi la sua fiducia.",
+            "diamond": "Non riesce ad evitare di inseguire tutto ciò che si muove e corre in tondo a caccia della propria coda.",
+            "pearl": "Non riesce ad evitare di inseguire tutto ciò che si muove e corre in tondo a caccia della propria coda.",
+            "platinum": "Non riesce ad evitare di inseguire tutto ciò che si muove e corre in tondo a caccia della propria coda.",
+            "heartgold": "Insegue spesso la propria coda fino a rimanere stordito. È arduo conquistare il suo affetto.",
+            "soulsilver": "Insegue spesso la propria coda fino a rimanere stordito. È arduo conquistare il suo affetto.",
+            "black": "Non riesce ad evitare di inseguire tutto ciò che si muove e corre in tondo a caccia della propria coda.",
+            "white": "Non riesce ad evitare di inseguire tutto ciò che si muove e corre in tondo a caccia della propria coda.",
+            "black-2": "È davvero carino quando barcolla per i giramenti di testa, dopo aver cercato di mordersi la coda.",
+            "white-2": "È davvero carino quando barcolla per i giramenti di testa, dopo aver cercato di mordersi la coda.",
+            "x": "Non riesce ad evitare di inseguire tutto ciò che si muove e corre in tondo a caccia della propria coda.",
+            "y": "È davvero carino quando barcolla per i giramenti di testa, dopo aver cercato di mordersi la coda.",
+            "omega-ruby": "Skitty ha l'abitudine di lasciarsi ammaliare dagli oggetti in movimento e seguirli dando loro la caccia. Questo Pokémon è noto anche per rincorrere la sua stessa coda fino a rimanere stordito.",
+            "alpha-sapphire": "Skitty è noto per il suo movimento rotatorio inteso a mordere la propria coda. Allo stato brado, vive all'interno di tronchi cavi nella foresta. È molto amato come animale domestico grazie all'aspetto estremamente dolce.",
+            "brilliant-diamond": "Non riesce a fare a meno di inseguire tutto ciò che si muove. Corre in tondo a caccia della propria coda.",
+            "shining-pearl": "Non riesce a fare a meno di inseguire tutto ciò che si muove. Corre in tondo a caccia della propria coda."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Magico"
+    ],
+    "generation": 3,
+    "height": {
+        "skitty": "0,60 m"
+    },
+    "id": 300,
+    "name": "Skitty",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi skittish, giocherellone, vivace, e kitty, gattino. Il suo nome giapponese, エネコ Eneko, potrebbe derivare dall'unione delle parole 狗尾草 enokorogusa, coda di volpe, un tipo di pianta che la sua coda ricorda, e 猫 neko, gatto. ",
+    "origin": "Skitty è basato sul gatto domestico. L'aspetto della sua coda assomiglia l'erba coda. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Micio",
+    "sprites": {
+        "skitty": {
+            "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0300.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0300.png"
+        }
+    },
+    "stats": {
+        "skitty": {
+            "hp": 50,
+            "atk": 45,
+            "def": 45,
+            "spa": 35,
+            "spd": 35,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "skitty": 260
+    },
+    "types": {
+        "skitty": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "skitty": "11,0 kg"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Nuotovelox",
+            "secondary": "Adattabilità",
+            "hidden": "Rompiforma"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di ottava generazione",
+        "Pokémon di tipo Acqua",
+        "Pokémon di tipo Spettro",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore Sconosciuto",
+        "Pokémon dalla sagoma n. Sconosciuta",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Sconosciuto",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con evoluzioni ramificate",
+        "Pokémon con statistiche base totali di 530",
+        "Pokémon con evoluzioni trans-generazionali"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/basculegion.mp3",
+    "dex_entries": {
+        "basculegion": {
+            "legends-arceus": "È avvolto dagli spiriti dei suoi simili caduti durante l'ardua risalita da foce a sorgente. Nessuna tra le forme di vita che abitano i fiumi di Hisui è in grado di tenergli testa."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 8,
+    "height": {
+        "basculegion": "3 m"
+    },
+    "id": 902,
+    "name": "Basculegion",
+    "name_origin": "Basculegion potrebbe derivare da Basculin e legion, legione, o Legione, un gruppo di demoni biblici. Idaitou potrebbe essere una combinazione di 偉大 idai, grande, e イトウ itou , il Taimen di Sakhalin. Potrebbe anche comprendere 哀悼 aitou, cordoglio. ",
+    "origin": "Il suo aspetto ed il concetto delle anime defunte di Basculin ricordano i salmoni rossi, poiché sono pesci che si trovano in alcune parti dell'Oceano Pacifico settentrionale e nei fiumi che vi si riversano, compresa l'area settentrionale dell'Isola di Hokkaidō in Giappone, e molti di loro non sopravvivono quando migrano a monte. Poiché Basculegion è un conglomerato di molti spiriti irrequieti, potrebbe anche essere ispirato dal Gashadokuro. Basculegion potrebbe inoltre essere basato su un boccalone. ",
+    "shape": "sconosciuto",
+    "specie": "Pokémon Pescegrosso",
+    "sprites": {
+        "basculegion": {
+            "default": "https://media.pokemoncentral.it/wiki/5/52/Homem0902.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4a/Homemsh0902.png"
+        }
+    },
+    "stats": {
+        "maschio": {
+            "hp": 120,
+            "atk": 112,
+            "def": 65,
+            "spa": 80,
+            "spd": 75,
+            "spe": 78
+        },
+        "femmina": {
+            "hp": 120,
+            "atk": 92,
+            "def": 65,
+            "spa": 100,
+            "spd": 75,
+            "spe": 78
+        }
+    },
+    "stats_sum": {
+        "maschio": 530,
+        "femmina": 530
+    },
+    "types": {
+        "basculegion": [
+            "Spettro",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "basculegion": "110 kg"
+    }
+}

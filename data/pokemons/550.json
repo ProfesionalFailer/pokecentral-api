@@ -1,0 +1,99 @@
+{
+    "abilities": {
+        "forma-linearossa": {
+            "primary": "Temerarietà",
+            "secondary": "Adattabilità",
+            "hidden": "Rompiforma"
+        },
+        "forma-lineablu": {
+            "primary": "Testadura",
+            "secondary": "Adattabilità",
+            "hidden": "Rompiforma"
+        },
+        "forma-lineabianca": {
+            "primary": "Paura",
+            "secondary": "Adattabilità",
+            "hidden": "Rompiforma"
+        }
+    },
+    "curiosities": [
+        "Un Basculin Lineablu con l'abilità Testadura si può ottenere legittimamente tramite uno scambio in Pokémon Bianco con un giocatore virtuale di Libecciopoli in cambio di un Minccino.",
+        "Basculin condivide la sua specie con Zweilous. Entrambi sono infatti conosciuti come Pokémon Irruenza."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/basculin.mp3",
+    "dex_entries": {
+        "basculin": {
+            "black": "I Basculin con la linea rossa e quelli con la linea blu litigano per un nonnulla. Sono dei Pokémon molto aggressivi.",
+            "white": "I Basculin con la linea rossa e quelli con la linea blu non vanno d'accordo ma, chissà perché, in gruppo si mescolano.",
+            "black-2": "I Basculin con la linea rossa e quelli con la linea blu sono molto violenti e litigano spesso.",
+            "white-2": "I Basculin con la linea rossa e quelli con la linea blu sono molto violenti e litigano spesso.",
+            "x": "I Basculin con la linea rossa e quelli con la linea blu sono molto violenti e litigano spesso.",
+            "y": "I Basculin con la linea rossa e quelli con la linea blu non vanno d'accordo ma, chissà perché, in gruppo si mescolano.",
+            "omega-ruby": "I Basculin con la linea rossa e quelli con la linea blu sono molto violenti e litigano spesso.",
+            "alpha-sapphire": "I Basculin con la linea rossa e quelli con la linea blu non vanno d'accordo ma, chissà perché, in gruppo si mescolano."
+        },
+        "forma-linearossa": {
+            "ultra-sun": "È un Pokémon particolarmente violento e feroce. I Basculin con la linea rossa e quelli con la linea blu litigano spesso per il territorio.",
+            "ultra-moon": "I Basculin sono così violenti che, quando arrivano in gruppo in un lago, tutti i Pokémon spariscono a parte i Corphish e i Crawdaunt.",
+            "sword": "È popolare tra i pescatori per le sue lotte audaci. Continua a proliferare perché numerosi esemplari vengono rilasciati nei laghi senza permesso.",
+            "shield": "Utilizzati in passato in cucina, i Basculin Forma Linearossa erano ritenuti adatti ai giovani per la loro carne ad alto contenuto di grassi.",
+            "scarlet": "Hanno una natura violenta e impetuosa. Sono una specie molto vitale, capace di moltiplicare il proprio numero in men che non si dica.",
+            "violet": "La loro ferocia gli ha dato la nomea di \"canaglie dei fiumi\", ma anche loro possono essere preda di Dondozo e Bombirdier."
+        },
+        "forma-lineablu": {
+            "ultra-sun": "La sua grande mandibola gli permette di divorare tutto quello che gli capita a tiro, ma cade comunque preda di Pokémon più forti di lui.",
+            "ultra-moon": "Alcuni li chiamano \"canaglie dei laghi\". Non si sa ancora se le differenti colorazioni abbiano un significato particolare.",
+            "sword": "In passato veniva usato spesso in cucina. Pare che le carni dei Basculin Forma Lineablu fossero più leggere e delicate.",
+            "shield": "Noti per la loro ferocia, spesso attaccano briga con i banchi di Basculin Forma Linearossa.",
+            "scarlet": "Gli esemplari dello stesso colore si riuniscono a formare dei banchi. I loro acerrimi nemici sono i banchi di Basculin di colore rosso.",
+            "violet": "Ha una forza tale nelle mascelle da lasciare il segno dei denti su una lastra di ferro. Ha anche un carattere estremamente feroce."
+        },
+        "forma-lineabianca": {
+            "legends-arceus": "Differisce da Basculin in vari rispetti, tra cui l'indole mite. Ciò non ostante, i tratti in comune abbondano, perciò lo classifico come sua forma regionale."
+        }
+    },
+    "egg_groups": [
+        "Acqua 2"
+    ],
+    "generation": 5,
+    "height": {
+        "basculin": "1,0 m"
+    },
+    "id": 550,
+    "name": "Basculin",
+    "name_origin": "Basculin potrebbe derivare dall'insieme della parola inglese bass, pesce persico, e masculine, maschile o mascolino. ",
+    "origin": "È basato sul persico trota, pesce di origini nord-americane vorace ed aggressivo che tende a invadere altri territori e scacciare le altre specie. Alcuni tratti fisici comuni potrebbero ispirarsi al betta combattente, pesce che quando spaventato o si presta ad attaccare, mostra delle fasce colorate orizzontali, equiparabili alla Linearossa e Lineablu di Basculin. ",
+    "shape": "pinne",
+    "specie": "Pokémon Irruenza",
+    "sprites": {
+        "forma-linearossa": {
+            "default": "https://media.pokemoncentral.it/wiki/5/51/Homem0550.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0550.png"
+        },
+        "forma-lineablu": {
+            "default": "https://media.pokemoncentral.it/wiki/9/94/Homem0550B.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0550B.png"
+        }
+    },
+    "stats": {
+        "basculin": {
+            "hp": 70,
+            "atk": 92,
+            "def": 65,
+            "spa": 80,
+            "spd": 55,
+            "spe": 98
+        }
+    },
+    "stats_sum": {
+        "basculin": 460
+    },
+    "types": {
+        "basculin": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "basculin": "18,0 kg"
+    }
+}

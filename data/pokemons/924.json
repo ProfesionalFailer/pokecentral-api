@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "tandemaus": {
+            "primary": "Fugafacile",
+            "secondary": "Raccolta",
+            "hidden": "Mente Locale"
+        }
+    },
+    "curiosities": [
+        "È stato rivelato per errore nel trailer del 6 ottobre 2022 di Scarlatto e Violetto  insieme a Squawkabilly e a Nacli.",
+        "Tandemaus è l'unico Pokémon per cui non viene mostrata sempre l'animazione di evoluzione e di aggiornamento del Pokédex. Nello specifico, viene mostrata solo se Tandemaus partecipa alla lotta che lo fa salire di livello."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tandemaus.mp3",
+    "dex_entries": {
+        "tandemaus": {
+            "scarlet": "Sono una coppia molto affiatata. Se trovano del materiale utile per la loro tana, lo ritagliano con gli incisivi e lo portano via.",
+            "violet": "Si muovono in coppia in ogni circostanza. Se trovano del cibo, lo dividono esattamente a metà e lo mangiano tutti contenti."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Magico"
+    ],
+    "generation": 9,
+    "height": {
+        "tandemaus": "0,3 m"
+    },
+    "id": 924,
+    "name": "Tandemaus",
+    "name_origin": "Tandemaus è una combinazione di tandem e maus . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Coppia",
+    "sprites": {
+        "tandemaus": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0924.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0924.png"
+        }
+    },
+    "stats": {
+        "tandemaus": {
+            "hp": 50,
+            "atk": 50,
+            "def": 45,
+            "spa": 40,
+            "spd": 45,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "tandemaus": 305
+    },
+    "types": {
+        "tandemaus": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "tandemaus": "1,8 kg"
+    }
+}

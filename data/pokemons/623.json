@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "golurk": {
+            "primary": "Ferropugno",
+            "secondary": "Impaccio",
+            "hidden": "Nullodifesa"
+        }
+    },
+    "curiosities": [
+        "Prima della settima generazione Golett e Golurk avevano una combinazione di tipi unica.",
+        "Game Freak ha confermato che Golett e Golurk sono stati disegnati da James Turner.",
+        "Golurk è il Pokémon non leggendario più pesante introdotto in quinta generazione.\n\tÈ anche il Pokémon non leggendario di tipo Spettro più pesante.",
+        "È anche il Pokémon non leggendario di tipo Spettro più pesante.",
+        "Golurk è il Pokémon Spettro non leggendario più alto.",
+        "Nonostante la sua voce Pokédex in Nero affermi che Golurk “vola alla velocità del suono”, la sua statistica Velocità è mediocre.",
+        "Golurk è l'unico Pokémon del Gruppo Uova Minerale in grado di imparare Volo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/golurk.mp3",
+    "dex_entries": {
+        "golurk": {
+            "black": "Vola alla velocità del suono. Se rimuove il sigillo che ha sul petto, sprigiona una energia incontrollabile.",
+            "white": "Si narra che gli antichi costruttori dei Golurk avessero ordinato loro di proteggere gli uomini e i Pokémon.",
+            "black-2": "È stato creato dagli antichi per proteggere gli uomini e i Pokémon. È mosso da un'energia misteriosa.",
+            "white-2": "È stato creato dagli antichi per proteggere gli uomini e i Pokémon. È mosso da un'energia misteriosa.",
+            "x": "Si narra che gli antichi costruttori dei Golurk avessero ordinato loro di proteggere gli uomini e i Pokémon.",
+            "y": "Vola alla velocità del suono. Se rimuove il sigillo che ha sul petto, sprigiona un'energia incontrollabile.",
+            "omega-ruby": "Si narra che gli antichi costruttori dei Golurk avessero ordinato loro di proteggere gli uomini e i Pokémon.",
+            "alpha-sapphire": "Vola alla velocità del suono. Se rimuove il sigillo che ha sul petto, sprigiona un'energia incontrollabile.",
+            "ultra-sun": "Pare che sia stato creato dagli antichi per aiutare nei lavori pesanti. Esegue gli ordini del suo padrone senza battere ciglio.",
+            "ultra-moon": "Se il sigillo che ha sul petto viene rimosso, perde il controllo e distrugge tutto ciò che incontra, riducendo intere città in macerie.",
+            "sword": "Nelle mura degli antichi castelli si trovano dei basamenti, simili a quelli dei cannoni, dai quali i Golurk potevano sparare i loro raggi.",
+            "shield": "Si dice che all'interno del corpo abbia un motore perpetuo che produce energia, ma a tutt'oggi non è ancora chiaro se sia così."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 5,
+    "height": {
+        "golurk": "2,8 m"
+    },
+    "id": 623,
+    "name": "Golurk",
+    "name_origin": "Il nome deriva dalle parole golem e lurk, nascosto, riferendosi al suo tipo Spettro. ",
+    "origin": "Golurk sembra basato sui golem, uomini di argilla che secondo alcune versioni della mitologia possono essere animati da incantesimi scritti su una pergamena posta al loro interno, che potrebbe corrispondere all'energia misteriosa che anima Golurk. Data la sua postura e la capacità di imparare Volo potrebbe essere stato concepito anche traendo ispirazione di vari robot giganti d'animazione. Golurk pare aver preso ispirazione da un golem della mitologia ebraica, il Golem di Praga in quanto entrambi hanno una spaccatura sul petto e un cinturino su di essa. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Statuanimata",
+    "sprites": {
+        "golurk": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b8/Homem0623.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ec/Homemsh0623.png"
+        }
+    },
+    "stats": {
+        "golurk": {
+            "hp": 89,
+            "atk": 124,
+            "def": 80,
+            "spa": 55,
+            "spd": 80,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "golurk": 483
+    },
+    "types": {
+        "golurk": [
+            "Terra",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "golurk": "330,0 kg"
+    }
+}

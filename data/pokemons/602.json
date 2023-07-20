@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "tynamo": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "Tynamo e la sua famiglia evolutiva sono gli unici Pokémon a non avere debolezze. Questo è dovuto alla loro abilità Levitazione, che elimina la loro unica vulnerabilità al tipo Terra. Da ciò consegue che sono gli unici Pokémon con un solo tipo senza debolezze.",
+        "Tynamo è l'unico Pokémon di quinta generazione che non può imparare MT o MN nella generazione di introduzione.",
+        "Il verso di Tynamo è molto simile a quello di Shinx, solo un po' più alto.",
+        "Con i suoi 0,3 kg, Tynamo è il Pokémon più leggero di quinta generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tynamo.mp3",
+    "dex_entries": {
+        "tynamo": {
+            "black": "La carica elettrica di un Tynamo è debole, ma se più esemplari si uniscono raggiungono la potenza di un fulmine.",
+            "white": "Pokémon che agisce in gruppo. È dotato di un apparato che produce scariche elettriche, utile nei momenti critici.",
+            "black-2": "Da soli producono poca elettricità, per cui formano dei grossi branchi se vogliono lanciare una scossa più potente.",
+            "white-2": "Da soli producono poca elettricità, per cui formano dei grossi branchi se vogliono lanciare una scossa più potente.",
+            "x": "La carica elettrica di un Tynamo è debole, ma se più esemplari si uniscono raggiungono la potenza di un fulmine.",
+            "y": "Da soli producono poca elettricità, per cui formano dei grossi branchi se vogliono lanciare una scossa più potente.",
+            "omega-ruby": "La carica di un Tynamo è debole, ma se più esemplari si uniscono raggiungono la potenza di un fulmine.",
+            "alpha-sapphire": "Da soli producono poca elettricità, per cui formano dei grossi branchi se vogliono lanciare una scossa più potente.",
+            "scarlet": "La carica elettrica di un Tynamo è debole, ma se più esemplari si uniscono raggiungono la potenza di un fulmine.",
+            "violet": "Pokémon che agisce in gruppo. Dotato di un apparato che genera elettricità, nei momenti critici emette scariche elettriche."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "generation": 5,
+    "height": {
+        "tynamo": "0,2 m"
+    },
+    "id": 602,
+    "name": "Tynamo",
+    "name_origin": "Il nome potrebbe derivare da tiny, piccolo, mini, o tyke, bambino, riferendosi alle sue dimensioni ridotte, e dynamo, dinamo, riferendosi al suo legame con l'elettricità. ",
+    "origin": "Tynamo è basato su un pesce elettroforo. In particolare potrebbe trarre ispirazione da un'anguilla elettrica, dagli agnati come le lamprede, dalle sanguisughe, o dai cefalocordati. Il suo tipo Elettro potrebbe essere ispirato alla bioelettrogenesi, la generazione di energia elettrica da parte di organismi viventi tramite impulsi nervosi, un fenomeno che appartiene alla scienza della elettrofisiologia. Il suo aspetto è simile anche a quello di un leptocefalo , o ancora ad un pesce coltello. Il segno giallo sul corpo lo fa assomigliare anche ad un haikouichthys, un antico pesce ormai estinto, mentre la sua abilità di saper levitare fa pensare ad un rod. un'altra possibile ispirazione è il tubo di Crookes o di Geissler. ",
+    "shape": "pinne",
+    "specie": "Pokémon Elettropesce",
+    "sprites": {
+        "tynamo": {
+            "default": "https://media.pokemoncentral.it/wiki/0/09/Homem0602.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/da/Homemsh0602.png"
+        }
+    },
+    "stats": {
+        "tynamo": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spa": 45,
+            "spd": 40,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "tynamo": 275
+    },
+    "types": {
+        "tynamo": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "tynamo": "0,3 kg"
+    }
+}

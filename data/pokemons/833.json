@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "chewtle": {
+            "primary": "Ferromascella",
+            "secondary": "Guscioscudo",
+            "hidden": "Nuotovelox"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di ottava generazione",
+        "Pokémon di tipo Acqua",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Verde",
+        "Pokémon dalla sagoma n. 08",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Mostro",
+        "Pokémon di Gruppo Uova Acqua 1",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 284",
+        "Pokémon con statistiche base totali uniche"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/chewtle.mp3",
+    "dex_entries": {
+        "chewtle": {
+            "sword": "Addenta tutto ciò che gli capita davanti. Sembra che lo faccia d'istinto, a causa del prurito provocato dagli incisivi che stanno crescendo.",
+            "shield": "Per attaccare usa il corno sulla testa, che è duro come la pietra. Quando il nemico è indebolito, lo morde e non molla più la presa.",
+            "scarlet": "Il suo grande incisivo sta ancora crescendo e, quando gli causa prurito, questo Pokémon gioca a mordicchiare il corno dei suoi simili.",
+            "violet": "Un gioco popolare tra i bambini consiste nel sollevare rami che i Chewtle stanno mordendo e vedere quale di loro molla la presa più tardi."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Acqua 1"
+    ],
+    "generation": 8,
+    "height": {
+        "chewtle": "0,3 m"
+    },
+    "id": 833,
+    "name": "Chewtle",
+    "name_origin": "Chewtle potrebbe essere una combinazione di chew, masticare, e turtle, tartaruga. Kamukame potrebbe essere una combinazion di 噛む kamu, mordere, e 亀 kame, tartaruga. ",
+    "origin": "Chewtle potrebbe essere basato su una testuggine azzannatrice. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Mordace",
+    "sprites": {
+        "chewtle": {
+            "default": "https://media.pokemoncentral.it/wiki/1/15/Homem0833.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/63/Homemsh0833.png"
+        }
+    },
+    "stats": {
+        "chewtle": {
+            "hp": 50,
+            "atk": 64,
+            "def": 50,
+            "spa": 38,
+            "spd": 38,
+            "spe": 44
+        }
+    },
+    "stats_sum": {
+        "chewtle": 284
+    },
+    "types": {
+        "chewtle": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "chewtle": "8,5 kg"
+    }
+}

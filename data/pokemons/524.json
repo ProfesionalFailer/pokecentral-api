@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "roggenrola": {
+            "primary": "Vigore",
+            "secondary": "Sottilguscio",
+            "hidden": "Silicoforza"
+        }
+    },
+    "curiosities": [
+        "Roggenrola assomiglia a Geodude: entrambi sono di tipo Roccia, entrambi evolvono al livello 25 e successivamente tramite scambio.",
+        "Nell'anime il Pokédex afferma che i Roggenrola hanno un nucleo duro come l'acciaio, e nei giochi è in grado di apprendere per livello una mossa del sopracitato tipo  oltre che tramite MT Cannonflash e col metodo di accoppiamento Sganciapesi e Pesobomba nonostante esso resti sempre di tipo singolo Roccia, e non acquisisce il tipo Acciaio, neanche con l'evoluzione.",
+        "Roggenrola è il Pokémon con la più bassa difesa speciale fra tutti i Pokémon di tipo Roccia.\n\tRoggenrola ha anche la somma di statistiche base più bassa fra tutti i Pokémon di tipo Roccia. L'altro Pokémon ad avere questa caratteristica è Rockruff.",
+        "Roggenrola ha anche la somma di statistiche base più bassa fra tutti i Pokémon di tipo Roccia. L'altro Pokémon ad avere questa caratteristica è Rockruff."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/roggenrola.mp3",
+    "dex_entries": {
+        "roggenrola": {
+            "black": "Ha un solo orecchio di forma esagonale. Essendo stato compresso sotto terra, il suo corpo è duro quasi come l'acciaio.",
+            "white": "Scoperto nelle spaccature del terreno dopo il grande terremoto di 100 anni fa. Ha all'interno un nucleo di energia.",
+            "black-2": "La conca esagonale è il suo orecchio. Ha l'abitudine di camminare nella direzione dalla quale proviene il rumore.",
+            "white-2": "La conca esagonale è il suo orecchio. Ha l'abitudine di camminare nella direzione dalla quale proviene il rumore.",
+            "x": "Ha un solo orecchio di forma esagonale. Essendo stato compresso sotto terra, il suo corpo è duro quasi come l'acciaio.",
+            "y": "Scoperto nelle spaccature del terreno dopo il grande terremoto di 100 anni fa. Ha all'interno un nucleo di energia.",
+            "omega-ruby": "Ha un solo orecchio di forma esagonale. Essendo stato compresso sotto terra, il suo corpo è duro quasi come l'acciaio.",
+            "alpha-sapphire": "Scoperto nelle spaccature del terreno dopo il grande terremoto di 100 anni fa. Ha all'interno un nucleo di energia.",
+            "sun": "Questo Pokémon è nato sottoterra. Si diverte a fare gare di durezza con i suoi amici Geodude e Carbink.",
+            "moon": "La conca esagonale è il suo orecchio. Ha l'abitudine di camminare in direzione dei rumori, ma se questi cessano, si confonde e cade.",
+            "ultra-sun": "La conca esagonale è il suo orecchio, al cui interno si trova un nucleo di energia. Per questo si arrabbia se qualcuno ci infila una mano.",
+            "ultra-moon": "È stato trovato nelle spaccature del terreno. Il suo corpo è composto da terra risalente a centinaia di anni fa.",
+            "sword": "È duro quasi quanto l'acciaio, ma sembra che si ammorbidisca leggermente se viene immerso a lungo in acqua.",
+            "shield": "Si muove reagendo ai rumori. È tiepido al tatto per via del nucleo di energia al suo interno."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 5,
+    "height": {
+        "roggenrola": "0,4 m"
+    },
+    "id": 524,
+    "name": "Roggenrola",
+    "name_origin": "Il nome deriva, molto probabilmente, dalla traslitterazione in giapponese di rock and roll, o dalla pronuncia di\nrock-'n'-roller . Da notare i termini visti separatamente: rock , roll . ",
+    "origin": "Roggenrola sembra essere basato su un geode, una cavità interna della roccia. ",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Placca",
+    "sprites": {
+        "roggenrola": {
+            "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0524.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0524.png"
+        }
+    },
+    "stats": {
+        "roggenrola": {
+            "hp": 55,
+            "atk": 75,
+            "def": 85,
+            "spa": 25,
+            "spd": 25,
+            "spe": 15
+        }
+    },
+    "stats_sum": {
+        "roggenrola": 280
+    },
+    "types": {
+        "roggenrola": [
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "roggenrola": "18,0 kg"
+    }
+}

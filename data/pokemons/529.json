@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "drilbur": {
+            "primary": "Remasabbia",
+            "secondary": "Silicoforza",
+            "hidden": "Rompiforma"
+        }
+    },
+    "curiosities": [
+        "Drilbur è stato rivelato nel programma televisivo Oha Suta il 27 giugno 2010.",
+        "Drilbur è l'unico Pokémon tipo Terra puro introdotto della quinta generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/drilbur.mp3",
+    "dex_entries": {
+        "drilbur": {
+            "black": "Avanza sotto terra a una velocità di oltre 50 km/h. Una bella sfida anche per un'auto che corre in superficie.",
+            "white": "Sfreccia a gran velocità sotto terra, avvitandosi su se stesso, mentre si apre un passaggio scavando con le unghie.",
+            "black-2": "Quando gira su se stesso, scava la terra scendendo in verticale alla velocità di 50 km/h.",
+            "white-2": "Quando gira su se stesso, scava la terra scendendo in verticale alla velocità di 50 km/h.",
+            "x": "Sfreccia a gran velocità sotto terra, avvitandosi su se stesso, mentre si apre un passaggio scavando con le unghie.",
+            "y": "Quando gira su se stesso, scava la terra scendendo in verticale alla velocità di 50 km/h.",
+            "omega-ruby": "Sfreccia a gran velocità sotto terra, avvitandosi su se stesso, mentre si apre un passaggio scavando con le unghie.",
+            "alpha-sapphire": "Quando gira su se stesso, scava la terra scendendo in verticale alla velocità di 50 km/h.",
+            "sword": "Congiunge le unghie e si avvita su se stesso a gran velocità per poi lanciarsi sulla preda.",
+            "shield": "Non è ben visto dagli agricoltori per la sua abitudine di scavare cunicoli sottoterra con le unghie, rovinando gli ortaggi."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "drilbur": "0,3 m"
+    },
+    "id": 529,
+    "name": "Drilbur",
+    "name_origin": "Drilbur è una combinazione di drill  e burrow  o bur , riferendosi agli artigli. ",
+    "origin": "Drilbur è basato su una talpa. I suoi artigli sono simili a delle pale. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Talpa",
+    "sprites": {
+        "drilbur": {
+            "default": "https://media.pokemoncentral.it/wiki/2/26/Homem0529.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0a/Homemsh0529.png"
+        }
+    },
+    "stats": {
+        "drilbur": {
+            "hp": 60,
+            "atk": 85,
+            "def": 40,
+            "spa": 30,
+            "spd": 45,
+            "spe": 68
+        }
+    },
+    "stats_sum": {
+        "drilbur": 328
+    },
+    "types": {
+        "drilbur": [
+            "Terra"
+        ]
+    },
+    "weight": {
+        "drilbur": "8,5 kg"
+    }
+}

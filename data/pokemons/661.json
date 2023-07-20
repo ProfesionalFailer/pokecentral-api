@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "fletchling": {
+            "primary": "Pettinfuori",
+            "hidden": "Aliraffica"
+        }
+    },
+    "curiosities": [
+        "Fletchling, Pancham, Helioptile e Gogoat sono i primi 4 Pokémon a comparire prima sui siti occidentali che su quello giapponese.",
+        "Fletchling è il primo Pokémon di tipo Volante e di tipo Normale a imparare la mossa Nitrocarica.",
+        "Fletchling è l'unico Pokémon di tipo Volante che si trova all'inizio del gioco che non ha come ultimo stadio evolutivo un Pokémon di tipo Normale/Volante."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/fletchling.mp3",
+    "dex_entries": {
+        "fletchling": {
+            "x": "Ha una natura amichevole. Comunica con i suoi simili tramite meravigliosi cinguettii e movimenti delle penne della coda.",
+            "y": "Cinguetta in modo meraviglioso, ma diventa estremamente aggressivo se un nemico invade il suo territorio.",
+            "omega-ruby": "Ha una natura amichevole. Comunica con i suoi simili tramite meravigliosi cinguettii e movimenti delle penne della coda.",
+            "alpha-sapphire": "Cinguetta in modo meraviglioso, ma diventa estremamente aggressivo se un nemico invade il suo territorio.",
+            "sun": "È facile da allenare grazie alla sua indole amichevole, ma nella lotta diventa estremamente aggressivo.",
+            "moon": "Quando si innervosisce, la sua temperatura corporea sale fino a raddoppiare e gli ormoni ribollono.",
+            "ultra-sun": "Ha un’indole amichevole, ma se viene infastidito aumenta all’istante la sua temperatura corporea provocando ustioni al colpevole.",
+            "ultra-moon": "Il suo corpo è sempre caldo e per questo gli Allenatori che vivono in zone fredde a volte lo lasciano dormire nel loro letto.",
+            "sword": "I suoi meravigliosi cinguettii sono in realtà versi minacciosi. Becca senza pietà chi invade il suo territorio.",
+            "shield": "Quando si innervosisce, la sua temperatura corporea sale di colpo, tanto da causare scottature a chi lo tocca a mani nude.",
+            "scarlet": "Di solito ha un’indole molto tranquilla, ma quando lotta il suo equilibrio ormonale cambia, rendendolo aggressivo.",
+            "violet": "I Fletchling vivono sia in campagna che in città. Una contesa territoriale con gli Squawkabilly è sfociata in una grande rissa per la città."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 6,
+    "height": {
+        "fletchling": "0,3 m"
+    },
+    "id": 661,
+    "name": "Fletchling",
+    "name_origin": "Fletchling probabilmente deriva dalle combinazioni di fletching , fledgling , e hatchling . Yayakoma probabilmente deriva dalle combinazioni di 矢 ya  e コマドリ komadori . ",
+    "origin": "Fletchling è basato sul Pettirosso giapponese. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Pettirosso",
+    "sprites": {
+        "fletchling": {
+            "default": "https://media.pokemoncentral.it/wiki/1/13/Homem0661.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0661.png"
+        }
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 45,
+            "atk": 50,
+            "def": 43,
+            "spa": 40,
+            "spd": 38,
+            "spe": 62
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 278
+    },
+    "types": {
+        "fletchling": [
+            "Normale",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "fletchling": "1,7 kg"
+    }
+}

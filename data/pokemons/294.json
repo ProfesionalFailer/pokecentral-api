@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "loudred": {
+            "primary": "Antisuono",
+            "hidden": "Nervisaldi"
+        }
+    },
+    "curiosities": [
+        "Le statistiche base di Loudred sono di 20 maggiori della sua pre-evoluzione Whismur e, prima della sesta generazione, 20 minori della sua evoluzione Exploud.",
+        "Le tre striscie poste sulla schiena sono un riferimento alle tre onde sonore presenti nel simbolo di un altoparlante."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/loudred.mp3",
+    "dex_entries": {
+        "loudred": {
+            "ruby": "I suoni assordanti emessi da LOUDRED sono in grado di abbattere anche una casa in legno. La sua voce è così potente da poter essere usata come attacco contro i nemici. Le sue orecchie tonde fungono da altoparlanti.",
+            "sapphire": "LOUDRED urla pestando i piedi. Alla fine dei suoi strepiti è temporaneamente incapace di udire qualsiasi rumore. Questo è considerato il suo tallone d'Achille.",
+            "emerald": "LOUDRED aggredisce il nemico emettendo onde ultrasoniche assordanti dalle sue orecchie-altoparlanti. Pesta i piedi a terra per accumulare energia.",
+            "firered": "Quando urla pestando i piedi a terra genera onde ultrasoniche capaci di distruggere un edificio.",
+            "leafgreen": "Quando urla pestando i piedi a terra genera onde ultrasoniche capaci di distruggere un edificio.",
+            "diamond": "Le onde d’urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "pearl": "Le onde d’urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "platinum": "Le onde d’urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "heartgold": "Leva potenti grida inspirando tanta aria e poi sparandola fuori con tutta la forza degli addominali.",
+            "soulsilver": "Leva potenti grida inspirando tanta aria e poi sparandola fuori con tutta la forza degli addominali.",
+            "black": "Le onde d'urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "white": "Le onde d'urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "black-2": "Le onde d'urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "white-2": "Le onde d'urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "x": "Leva potenti grida inspirando tanta aria e poi sparandola fuori con tutta la forza degli addominali.",
+            "y": "Le onde d'urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "omega-ruby": "I suoni assordanti emessi da Loudred sono in grado di abbattere anche una casa in legno. La sua voce è così potente da poter essere usata come attacco contro i nemici. Le sue orecchie tonde fungono da altoparlanti.",
+            "alpha-sapphire": "Loudred urla pestando i piedi. Alla fine dei suoi strepiti è temporaneamente incapace di udire qualsiasi rumore. Questo è considerato il suo punto debole.",
+            "sword": "Le sue orecchie fungono da altoparlanti e sono in grado di emettere onde sonore talmente potenti da abbattere una casa.",
+            "shield": "Oltre a colpire l'udito, la sua potente voce produce anche delle onde d'urto con le quali spazza via e danneggia i nemici.",
+            "brilliant-diamond": "Le onde d'urto dei suoi versi possono ribaltare anche i camion. Accumula energia battendo pesantemente i piedi per terra.",
+            "shining-pearl": "Le onde d'urto dei suoi versi possono ribaltare anche i camion. Accumula energia battendo pesantemente i piedi per terra."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Campo"
+    ],
+    "generation": 3,
+    "height": {
+        "loudred": "1,0 m"
+    },
+    "id": 294,
+    "name": "Loudred",
+    "name_origin": "Deriva dalle parole loud, sonoro, rumoroso, e dread, spaventoso. ",
+    "origin": "Basato su un stereo con altoparlanti. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Vocione",
+    "sprites": {
+        "loudred": {
+            "default": "https://media.pokemoncentral.it/wiki/5/50/Homem0294.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0294.png"
+        }
+    },
+    "stats": {
+        "loudred": {
+            "hp": 84,
+            "atk": 71,
+            "def": 43,
+            "spa": 71,
+            "spd": 43,
+            "spe": 48
+        }
+    },
+    "stats_sum": {
+        "loudred": 360
+    },
+    "types": {
+        "loudred": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "loudred": "40,5 kg"
+    }
+}

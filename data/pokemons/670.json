@@ -1,0 +1,104 @@
+{
+    "abilities": {
+        "floette": {
+            "primary": "Fiorvelo",
+            "hidden": "Simbiosi"
+        }
+    },
+    "curiosities": [
+        "Nel Castello Lotta, la Baronessa Francine possiede un Flabèbè che ha lo stesso verso di Floette.",
+        "Floette è l'unico Pokémon con un totale di statistiche base pari a 371.",
+        "Pur avendo un evidente rapporto con la natura i membri della linea evolutiva di Floette non sono di tipo Erba."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/floette.mp3",
+    "dex_entries": {
+        "floette": {
+            "x": "Vola sui campi di fiore in fiore e si prende cura delle piante che si stanno seccando. Lotta sfruttando i poteri nascosti dei fiori.",
+            "y": "Quando i fiori di un'aiuola ben curata sbocciano, appare e celebra l'evento con una danza graziosa.",
+            "omega-ruby": "Vola sui campi di fiore in fiore e si prende cura delle piante che si stanno seccando. Lotta sfruttando i poteri nascosti dei fiori.",
+            "alpha-sapphire": "Quando i fiori di un'aiuola ben curata sbocciano, appare e celebra l'evento con una danza graziosa.",
+            "ultra-sun": "Fa crescere il suo fiore e lo utilizza come arma. Più il fiore è bello, maggiore è il potere che racchiude.",
+            "ultra-moon": "Trasmette il suo potere ai fiori e se ne prende cura con tutto il suo amore. Non ha alcuna pietà per chi deturpa le sue aiuole."
+        },
+        "fiore-rosso": {
+            "scarlet": "Riesce a tirare fuori l’energia rimasta nei fiori ormai secchi, rivitalizzandoli. Questo Floette stringe un fiore rosso.",
+            "violet": "Utilizza le lunghezze d’onda del rosso per trasmettere la propria energia ai fiori, risvegliando così il loro potenziale nascosto."
+        },
+        "fiore-giallo": {
+            "scarlet": "Ha la capacità di sfruttare la forza dei fiori gialli, incanalandola in mosse protettive.",
+            "violet": "È in grado di sviluppare il potenziale latente dei Pokémon di tipo Erba. Entra particolarmente in sintonia con i fiori gialli."
+        },
+        "fiore-arancione": {
+            "scarlet": "Riesce a trarre maggior forza dai fiori arancioni, con cui riesce a entrare più in sintonia rispetto a quelli di altri colori.",
+            "violet": "Da solo non sa sferrare alcuna mossa, ma entrando in sintonia con i fiori diventa capace di usare mosse di tipo Erba."
+        },
+        "fiore-blu": {
+            "scarlet": "Quando trova piante da fiore secche le porta con sé nel suo territorio e se ne prende cura finché non tornano in forze.",
+            "violet": "Scambia potere con i fiori attraverso la lunghezza d’onda dei loro colori. Questo Floette può entrare in sintonia con il colore blu."
+        },
+        "fiore-bianco": {
+            "scarlet": "I Floette che prediligono i fiori bianchi riescono a entrare facilmente in sintonia anche con fiori di colori diversi.",
+            "violet": "Se trova qualcuno intento a deturpare le aiuole, lo attacca senza pietà. Ha a cuore i fiori bianchi in particolare."
+        },
+        "fiore-eterno": {
+            "ultra-sun": "Il fiore che tiene non può più essere trovato in nessun luogo. Si pensa che contenga un potere terrificante.",
+            "ultra-moon": "Una terribile energia è racchiusa nel suo fiore infausto, ma Floette continua a farlo oscillare innocentemente."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "generation": 6,
+    "height": {
+        "floette": "0,2 m"
+    },
+    "id": 670,
+    "name": "Floette",
+    "name_origin": "Il suo nome deriva dall'unione delle parole francesi flore  e fleurette . ",
+    "origin": "Floette è basato su una fata o su una ninfa. Potrebbe essere ispirato alle figure delle Cariti o di Flora. Il suo aspetto ricorda una creatura dotata di parasole. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Monofiore",
+    "sprites": {
+        "fiore-rosso": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6a/Homef0670.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homefsh0670.png"
+        },
+        "fiore-giallo": {
+            "default": "https://media.pokemoncentral.it/wiki/c/ce/Homef0670G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homefsh0670G.png"
+        },
+        "fiore-arancione": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2f/Homef0670A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9c/Homefsh0670A.png"
+        },
+        "fiore-blu": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0b/Homef0670Bl.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/42/Homefsh0670Bl.png"
+        },
+        "fiore-bianco": {
+            "default": "https://media.pokemoncentral.it/wiki/6/68/Homef0670Bi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homefsh0670Bi.png"
+        }
+    },
+    "stats": {
+        "floette": {
+            "hp": 54,
+            "atk": 45,
+            "def": 47,
+            "spa": 75,
+            "spd": 98,
+            "spe": 52
+        }
+    },
+    "stats_sum": {
+        "floette": 371
+    },
+    "types": {
+        "floette": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "floette": "0,9 kg"
+    }
+}

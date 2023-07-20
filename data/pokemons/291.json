@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "ninjask": {
+            "primary": "Acceleratore",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "Ninjask è il terzo Pokémon con la statistica base Velocità più alta in assoluto, superato solo dalla forma Velocità di Deoxys e da Regieleki.\n\tNella maggior parte dei casi la Velocità di Ninjask può superare quella di Deoxys e Regieleki dopo una singola attivazione della sua abilità Acceleratore.",
+        "Nella maggior parte dei casi la Velocità di Ninjask può superare quella di Deoxys e Regieleki dopo una singola attivazione della sua abilità Acceleratore.",
+        "Ninjask ha la statistica base Velocità più alta di tutti i Pokémon non leggendari, di tipo Coleottero e di tipo Volante.",
+        "Ninjask non poteva imparare mosse di tipo Volante aumentando di livello fino all'Ottava generazione, nonostante sia in parte di questo tipo.",
+        "Sebbene si dica che Ninjask sia un Pokémon estremamente veloce, non può imparare nessuna mossa prioritaria non di stato.",
+        "Ninjask è l'unico Pokémon ad avere come statistiche totali 456.",
+        "Ninjask condivide la sua categoria con Greninja. Sono entrambi noti come il Pokémon Ninja.\n\tEntrambi hanno anche la parola \"ninja\" nel nome.",
+        "Entrambi hanno anche la parola \"ninja\" nel nome."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ninjask.mp3",
+    "dex_entries": {
+        "ninjask": {
+            "ruby": "NINJASK si muove ad una velocità tale da rendersi praticamente invisibile, nonostante il suo verso si possa udire chiaramente. Per questo motivo, per molto tempo si è pensato che fosse effettivamente invisibile.",
+            "sapphire": "Se NINJASK non viene allenato adeguatamente, si rifiuta di obbedire all'ALLENATORE, lamentandosi di continuo. Questa sua caratteristica mette alla prova le capacità di ciascun ALLENATORE di POKéMON.",
+            "emerald": "NINJASK sfreccia a una tal velocità da rendersi praticamente invisibile. I suoi versi caratteristici fanno venire il mal di testa a chi li ascolta troppo a lungo.",
+            "firered": "È così rapido che sembra in grado di schivare qualsiasi attacco. Ama nutrirsi della linfa degli alberi.",
+            "leafgreen": "È così rapido che sembra in grado di schivare qualsiasi attacco. Ama nutrirsi della linfa degli alberi.",
+            "diamond": "Si muove così in fretta da risultare quasi invisibile. Lo si vede in gruppo attorno agli alberi ricchi di linfa.",
+            "pearl": "Si muove così in fretta da risultare quasi invisibile. Lo si vede in gruppo attorno agli alberi ricchi di linfa.",
+            "platinum": "Si muove così in fretta da risultare quasi invisibile. Lo si vede in gruppo attorno agli alberi ricchi di linfa.",
+            "heartgold": "I suoi continui lamenti provocano atroci emicranie. Si sposta così velocemente che... non si vede!",
+            "soulsilver": "I suoi continui lamenti provocano atroci emicranie. Si sposta così velocemente che... non si vede!",
+            "black": "Si muove così in fretta da risultare quasi invisibile. Lo si vede in gruppo attorno agli alberi ricchi di linfa.",
+            "white": "Si muove così in fretta da risultare quasi invisibile. Lo si vede in gruppo attorno agli alberi ricchi di linfa.",
+            "black-2": "Si muove così in fretta da risultare quasi invisibile. Lo si vede in gruppo attorno agli alberi ricchi di linfa.",
+            "white-2": "Si muove così in fretta da risultare quasi invisibile. Lo si vede in gruppo attorno agli alberi ricchi di linfa.",
+            "x": "I suoi continui lamenti provocano atroci emicranie. Si sposta così velocemente che... non si vede!",
+            "y": "Si muove così in fretta da risultare quasi invisibile. Lo si vede in gruppo attorno agli alberi ricchi di linfa.",
+            "omega-ruby": "Ninjask si muove a una velocità tale da rendersi praticamente invisibile, nonostante il suo verso si possa udire chiaramente. Per questo motivo, per molto tempo si è pensato che fosse effettivamente invisibile.",
+            "alpha-sapphire": "Se Ninjask non viene allenato adeguatamente, si rifiuta di obbedire all'Allenatore, lamentandosi di continuo. Questa sua caratteristica mette alla prova la capacità di ciascun Allenatore di Pokémon.",
+            "sword": "I suoi continui lamenti provocano atroci emicranie. Si sposta così velocemente che... non si vede!",
+            "shield": "È così rapido che si dice sia in grado di schivare qualsiasi attacco. Ama nutrirsi della linfa degli alberi.",
+            "brilliant-diamond": "Si muove così in fretta da risultare quasi invisibile. I Pokémon di questa specie si radunano intorno alla linfa degli alberi.",
+            "shining-pearl": "Si muove così in fretta da risultare quasi invisibile. I Pokémon di questa specie si radunano intorno alla linfa degli alberi."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 3,
+    "height": {
+        "ninjask": "0,80 m"
+    },
+    "id": 291,
+    "name": "Ninjask",
+    "name_origin": "Ninjask potrebbe derivare da ninja e mask . ",
+    "origin": "Ninjask è basato su una cicala adulta, in particolare la Magicicala, ma i suoi colori ricordano un'ape e un ninja. ",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Ninja",
+    "sprites": {
+        "ninjask": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3a/Homem0291.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0291.png"
+        }
+    },
+    "stats": {
+        "ninjask": {
+            "hp": 61,
+            "atk": 90,
+            "def": 45,
+            "spa": 50,
+            "spd": 50,
+            "spe": 160
+        }
+    },
+    "stats_sum": {
+        "ninjask": 456
+    },
+    "types": {
+        "ninjask": [
+            "Volante",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "ninjask": "12,0 kg"
+    }
+}

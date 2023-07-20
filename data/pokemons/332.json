@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "cacturne": {
+            "primary": "Sabbiavelo",
+            "hidden": "Assorbacqua"
+        }
+    },
+    "curiosities": [
+        "Nessun altro Pokémon ha gli stessi due Gruppi Uova di Cacturne e della sua pre-evoluzione. Infatti sono gli unici ad essere Erba e Umanoide.",
+        "È uno dei Pokémon con più debolezze, ben 7."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cacturne.mp3",
+    "dex_entries": {
+        "cacturne": {
+            "ruby": "Di giorno CACTURNE rimane immobile in modo da non perdere neanche una goccia d'acqua al sole cocente del deserto. Il POKéMON si desta di notte quando cala la temperatura.",
+            "sapphire": "Se un viaggiatore passa attraverso il deserto nella notte tenebrosa, un gruppo scomposto di CACTURNE lo segue. Poi attende pazientemente che il malcapitato sia esausto e incapace di muoversi.",
+            "emerald": "Avendo vissuto per migliaia di anni in deserti ostili, il sangue di CACTURNE si è trasformato in una sostanza uguale alla sabbia. Predilige cacciare di notte.",
+            "firered": "Vive nei deserti. È attivo la notte, quando va a caccia delle prede stremate dalla calura del deserto.",
+            "leafgreen": "Vive nei deserti. È attivo la notte, quando va a caccia delle prede stremate dalla calura del deserto.",
+            "diamond": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
+            "pearl": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
+            "platinum": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
+            "heartgold": "Gruppi di CACTURNE nel deserto braccano i passanti finché questi, spossati, non si muovono più.",
+            "soulsilver": "Gruppi di CACTURNE nel deserto braccano i passanti finché questi, spossati, non si muovono più.",
+            "black": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
+            "white": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
+            "black-2": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
+            "white-2": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
+            "x": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
+            "y": "Gruppi di Cacturne nel deserto braccano i passanti finché questi, spossati, non si muovono più.",
+            "omega-ruby": "Di giorno Cacturne rimane immobile in modo da non perdere neanche una goccia d'acqua al sole cocente del deserto. Il Pokémon si desta di notte quando cala la temperatura.",
+            "alpha-sapphire": "Se un viaggiatore passa attraverso il deserto nella notte tenebrosa, un gruppo scomposto di Cacturne lo segue. Poi attende pazientemente che il malcapitato sia esausto e incapace di muoversi.",
+            "brilliant-diamond": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
+            "shining-pearl": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
+            "scarlet": "Gruppi di Cacturne pedinano i viandanti nel deserto, aspettando che perdano i sensi in preda alla stanchezza.",
+            "violet": "Vive nei deserti. È attivo durante la notte, quando va a caccia delle prede stremate dalla calura del deserto."
+        }
+    },
+    "egg_groups": [
+        "Erba",
+        "Umanoide"
+    ],
+    "generation": 3,
+    "height": {
+        "cacturne": "1,30 m"
+    },
+    "id": 332,
+    "name": "Cacturne",
+    "name_origin": "Il suo nome deriva dalla parola cactus e dal termine inglese nocturne . Potrebbe derivare anche da tricorne . ",
+    "origin": "Basato su un cactus particolare , ma il suo aspetto ricorda uno spaventapasseri. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Spavento",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ae/Homem0332.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0332.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/1/17/Homef0332.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homefsh0332.png"
+        }
+    },
+    "stats": {
+        "cacturne": {
+            "hp": 70,
+            "atk": 115,
+            "def": 60,
+            "spa": 115,
+            "spd": 60,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "cacturne": 475
+    },
+    "types": {
+        "cacturne": [
+            "Erba",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "cacturne": "77,4 kg"
+    }
+}

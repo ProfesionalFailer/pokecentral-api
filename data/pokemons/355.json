@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "duskull": {
+            "primary": "Levitazione",
+            "hidden": "Indagine"
+        }
+    },
+    "curiosities": [
+        "Prima della sesta generazione non possedeva nessuna abilità speciale.",
+        "Duskull può essere visto come un parallelo di Shuppet."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/duskull.mp3",
+    "dex_entries": {
+        "duskull": {
+            "ruby": "DUSKULL riesce a passare attraverso i muri indipendentemente dal loro spessore. Una volta scelto un bersaglio perseguita la vittima designata fino all'alba.",
+            "sapphire": "DUSKULL vaga come un'anima persa nella tetra oscurità notturna. Spesso ai bimbi capricciosi si dice che questo POKéMON si porti via i bambini che fanno arrabbiare la mamma.",
+            "emerald": "DUSKULL vaga nella tetra oscurità della notte. Un solo sguardo lanciato dal suo occhio scarlatto fa raggelare il sangue anche a un adulto forte e coraggioso.",
+            "firered": "Si avvicina alla preda rendendosi invisibile. Ha la capacità di passare attraverso spesse pareti.",
+            "leafgreen": "Si avvicina alla preda rendendosi invisibile. Ha la capacità di passare attraverso spesse pareti.",
+            "diamond": "Segue ostinatamente la preda ovunque essa vada. Abbandona la caccia solo all'alba.",
+            "pearl": "Segue ostinatamente la preda ovunque essa vada. Abbandona la caccia solo all'alba.",
+            "platinum": "Adora il pianto dei bambini. Spaventa i bimbi cattivi passando attraverso le pareti.",
+            "heartgold": "Si racconta che questo Pokémon porti via nella notte i bambini che sono stati disobbedienti.",
+            "soulsilver": "Si racconta che questo Pokémon porti via nella notte i bambini che sono stati disobbedienti.",
+            "black": "Adora il pianto dei bambini. Spaventa i bimbi cattivi passando attraverso le pareti.",
+            "white": "Adora il pianto dei bambini. Spaventa i bimbi cattivi passando attraverso le pareti.",
+            "black-2": "Adora il pianto dei bambini. Spaventa i bimbi cattivi passando attraverso le pareti.",
+            "white-2": "Adora il pianto dei bambini. Spaventa i bimbi cattivi passando attraverso le pareti.",
+            "x": "Segue ostinatamente la preda ovunque essa vada. Abbandona la caccia solo all'alba.",
+            "y": "Si racconta che questo Pokémon porti via nella notte i bambini che sono stati disobbedienti.",
+            "omega-ruby": "Duskull riesce a passare attraverso i muri indipendentemente dal loro spessore. Una volta scelto un bersaglio perseguita la vittima designata fino all'alba.",
+            "alpha-sapphire": "Duskull vaga come un'anima persa nella tetra oscurità notturna. Spesso ai bimbi capricciosi si dice che questo Pokémon si porti via i bambini che fanno arrabbiare la mamma.",
+            "sword": "Si racconta che questo Pokémon porti via nella notte i bambini che sono stati disobbedienti.",
+            "shield": "Si avvicina alla preda rendendosi invisibile. Ha la capacità di passare attraverso spesse pareti.",
+            "brilliant-diamond": "Segue ostinatamente la preda ovunque essa vada. Abbandona la caccia solo all'alba.",
+            "shining-pearl": "Segue ostinatamente la preda ovunque essa vada. Abbandona la caccia solo all'alba.",
+            "legends-arceus": "Pare che i fanciulli di Hisui si facciano ubbidienti nell'udire che questa creatura vaga a notte fonda per ghermire i monelli alla stregua di un orco."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "generation": 3,
+    "height": {
+        "duskull": "0,80 m"
+    },
+    "id": 355,
+    "name": "Duskull",
+    "name_origin": "Deriva dall'unione delle parole inglesi dusk  e skull . ",
+    "origin": "Basato sul Tristo Mietitore e nel Baubau, l'equivalente Giapponese del Baubau è Namahage. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Requiem",
+    "sprites": {
+        "duskull": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d2/Homem0355.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0355.png"
+        }
+    },
+    "stats": {
+        "duskull": {
+            "hp": 20,
+            "atk": 40,
+            "def": 90,
+            "spa": 30,
+            "spd": 90,
+            "spe": 25
+        }
+    },
+    "stats_sum": {
+        "duskull": 295
+    },
+    "types": {
+        "duskull": [
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "duskull": "15,0 kg"
+    }
+}

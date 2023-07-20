@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "bayleef": {
+            "primary": "Erbaiuto",
+            "hidden": "Fogliamanto"
+        }
+    },
+    "curiosities": [
+        "Bayleef è il Pokémon iniziale mediamente evoluto più alto.",
+        "Le foglie sul collo di Bayleef sono spesso descritte come aventi un aroma pungente e speziato, mentre le vere foglie di alloro, da cui prende il nome, hanno un sapore amaro ed erbaceo, simile a quello del timo.",
+        "Bayleef è l'unico starter della regione di Johto di Ash che si è evoluto in questa regione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bayleef.mp3",
+    "dex_entries": {
+        "bayleef": {
+            "gold": "Dal suo collo si spande un profumo di spezie, che spinge alla lotta chi lo avverte.",
+            "silver": "Dal suo collo si propaga un profumo vivace. È un profumo che stimola il recupero della salute.",
+            "crystal": "Il profumo che emana dalle foglie sul collo riempie di energia chiunque lo avverta.",
+            "ruby": "Il collo di BAYLEEF è agghindato da foglie, dentro cui è presente il piccolo germoglio di un albero. L'aroma emanato da questo germoglio ha un effetto energizzante sull'uomo.",
+            "sapphire": "Il collo di BAYLEEF è agghindato da foglie, dentro cui è presente il piccolo germoglio di un albero. L'aroma emanato da questo germoglio ha un effetto energizzante sull'uomo.",
+            "emerald": "Il collo di BAYLEEF è agghindato da foglie dentro cui si trova il germoglio di un albero. Questo germoglio emana un aroma dall'effetto energizzante.",
+            "firered": "Dal suo collo si propaga un profumo vivace. È un profumo che stimola la guarigione.",
+            "leafgreen": "Dal suo collo si spande un profumo di spezie, che spinge alla lotta chi lo avverte.",
+            "diamond": "Le foglie attorno al suo collo emanano un aroma speziato dall'effetto energizzante.",
+            "pearl": "Le foglie attorno al suo collo emanano un aroma speziato dall'effetto energizzante.",
+            "platinum": "Le foglie attorno al suo collo emanano un aroma speziato dall'effetto energizzante.",
+            "heartgold": "Dal suo collo si spande un profumo di spezie, che spinge alla lotta chi lo avverte.",
+            "soulsilver": "Dal suo collo si propaga un profumo vivace. Esso stimola il recupero della salute.",
+            "black": "Le foglie attorno al suo collo emanano un aroma speziato dall'effetto energizzante.",
+            "white": "Le foglie attorno al suo collo emanano un aroma speziato dall'effetto energizzante.",
+            "black-2": "Le foglie attorno al suo collo emanano un aroma speziato dall'effetto energizzante.",
+            "white-2": "Le foglie attorno al suo collo emanano un aroma speziato dall'effetto energizzante.",
+            "x": "Dal suo collo si propaga un profumo vivace. Esso stimola il recupero della salute.",
+            "y": "Usa la foglia sulla sua testa per misurare la temperatura e l'umidità. Ama crogiolarsi al sole.",
+            "omega-ruby": "Il collo di Bayleef è agghindato da foglie, dentro cui è presente il piccolo germoglio di un albero. L'aroma emanato da questo germoglio ha un effetto energizzante sull'uomo.",
+            "alpha-sapphire": "Il collo di Bayleef è agghindato da foglie, dentro cui è presente il piccolo germoglio di un albero. L'aroma emanato da questo germoglio ha un effetto energizzante sull'uomo."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Erba"
+    ],
+    "generation": 2,
+    "height": {
+        "bayleef": "1,2 m"
+    },
+    "id": 153,
+    "name": "Bayleef",
+    "name_origin": "Il suo nome è la corruzione dalla parola bay leaf, alloro che è una pianta. ",
+    "origin": "Questo Pokémon è basato su un gruppo di dinosauri chiamati Sauropodi, precisamente l'Apatosauro, mentre le foglie che ha sul corpo sono ispirate alle foglie di bay laurel, usato per curare tramite aromaterapia. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Foglia",
+    "sprites": {
+        "bayleef": {
+            "default": "https://media.pokemoncentral.it/wiki/8/83/Homem0153.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0153.png"
+        }
+    },
+    "stats": {
+        "bayleef": {
+            "hp": 60,
+            "atk": 62,
+            "def": 80,
+            "spa": 63,
+            "spd": 80,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "bayleef": 405
+    },
+    "types": {
+        "bayleef": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "bayleef": "15,8 kg"
+    }
+}

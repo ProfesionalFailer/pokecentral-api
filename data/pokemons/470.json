@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "leafeon": {
+            "primary": "Fogliamanto",
+            "hidden": "Clorofilla"
+        }
+    },
+    "curiosities": [
+        "Oro HeartGold e Argento SoulSilver sono gli unici giochi dove non è possibile far evolvere Eevee in Leafeon. Lo stesso vale per Magnezone, Probopass e Glaceon, infatti l'unico modo per ottenerli è scambiarli da Diamante e Perla o da Platino.",
+        "In Pokémon Nero 2 e Bianco 2 Leafeon appartiene al Pokédex regionale ma non è ottenibile prima di aver ricevuto il Pokédex Nazionale , poiché la Roccia Muschio si trova nel Bosco Girandola che non è accessibile nella prima parte di gioco. Condivide questa peculiarità con Glaceon, dato che il Monte Vite e di conseguenza la Roccia Ghiaccio non sono accessibili prima di essere entrati nella Sala d'Onore."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/leafeon.mp3",
+    "dex_entries": {
+        "leafeon": {
+            "diamond": "Usa la fotosintesi, proprio come una pianta. Pertanto è sempre circondato da aria pulita.",
+            "pearl": "Usa la fotosintesi, proprio come una pianta. Pertanto è sempre circondato da aria pulita.",
+            "platinum": "Rifugge le lotte. Ha una struttura cellulare simile a quella delle piante, perciò usa la fotosintesi.",
+            "heartgold": "Nelle belle giornate si sdraia al sole e usa la fotosintesi, producendo aria pulita.",
+            "soulsilver": "Nelle belle giornate si sdraia al sole e usa la fotosintesi, producendo aria pulita.",
+            "black": "Rifugge le lotte. Ha una struttura cellulare simile a quella delle piante, perciò usa la fotosintesi.",
+            "white": "Rifugge le lotte. Ha una struttura cellulare simile a quella delle piante, perciò usa la fotosintesi.",
+            "black-2": "Le sue cellule sono simili a quelle delle piante. Rende l'aria più pulita effettuando la fotosintesi.",
+            "white-2": "Le sue cellule sono simili a quelle delle piante. Rende l'aria più pulita effettuando la fotosintesi.",
+            "x": "Nelle belle giornate si sdraia al sole e usa la fotosintesi, producendo aria pulita.",
+            "y": "Usa la fotosintesi, proprio come una pianta. Pertanto è sempre circondato da aria pulita.",
+            "omega-ruby": "Nelle belle giornate si sdraia al sole e usa la fotosintesi, producendo aria pulita.",
+            "alpha-sapphire": "Usa la fotosintesi, proprio come una pianta. Pertanto è sempre circondato da aria pulita.",
+            "sun": "Le sue cellule hanno caratteristiche molto simili a quelle dei vegetali. Può ricavare energia vitale tramite fotosintesi.",
+            "moon": "Quando è giovane emette un forte profumo di erba fresca, ma nella vecchiaia odora di foglie morte.",
+            "ultra-sun": "Non ama battersi, ma se deve difendere i suoi compagni non esita a lottare trasformando la foglia della coda in una lama affilata.",
+            "ultra-moon": "Si nutre grazie alla fotosintesi. Vive nel cuore delle foreste dove scorrono fiumi limpidi, in luoghi immersi nella pace e nella tranquillità.",
+            "sword": "La singolare fragranza emanata dalle sue foglie è molto apprezzata a Galar e i profumi che se ne ricavano sono molto popolari.",
+            "shield": "Va molto fiero della sua coda affilata come una lama, con cui può tranciare in due persino un grosso albero.",
+            "brilliant-diamond": "Usa la fotosintesi, proprio come una pianta. Pertanto è sempre circondato da aria pulita.",
+            "shining-pearl": "Usa la fotosintesi, proprio come una pianta. Pertanto è sempre circondato da aria pulita.",
+            "legends-arceus": "Nel suo vello ho rinvenuto cellule analoghe a quelle vegetali. La coda robusta, affilata più d'una spada pregiata, può recidere alberi massicci.",
+            "scarlet": "Nelle belle giornate dorme al sole e usa la fotosintesi, producendo aria pulita.",
+            "violet": "Quando è giovane emette un forte profumo d’erba fresca, ma nella vecchiaia odora di foglie morte."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 4,
+    "height": {
+        "leafeon": "1,0 m"
+    },
+    "id": 470,
+    "name": "Leafeon",
+    "name_origin": "Deriva dalle parole leaf  ed eon  un suffisso presente su ogni Eevoluzione. ",
+    "origin": "Basato su una volpe e su un felino anche in comportamento visto che si arrampica sugli alberi, anche il suo verso è molto simile a quello di un gatto di una volpe, i suoi colori tuttavia ricordano un gatto siamese o una volpe rossa. Leafeon ha anche tratti di piante come fare la fotosintesi e le zampe marroni sembrano in realtà sporche di terra, potrebbe anche essere ispirata alla leggenda giapponese che se un animale domestico viene abbandonato nel bosco esso diventa un tutt'uno con la natura, naturalmente qui la cosa è esagerata. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Rigoglioso",
+    "sprites": {
+        "leafeon": {
+            "default": "https://media.pokemoncentral.it/wiki/0/07/Homem0470.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homemsh0470.png"
+        }
+    },
+    "stats": {
+        "leafeon": {
+            "hp": 65,
+            "atk": 110,
+            "def": 130,
+            "spa": 60,
+            "spd": 65,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "leafeon": 525
+    },
+    "types": {
+        "leafeon": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "leafeon": "25,5 kg"
+    }
+}

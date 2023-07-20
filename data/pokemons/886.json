@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "drakloak": {
+            "primary": "Corpochiaro",
+            "secondary": "Intrapasso",
+            "hidden": "Corpofunesto"
+        }
+    },
+    "curiosities": [
+        "Drakloak, la sua pre-evoluzione Dreepy e la sua evoluzione Dragapult sono gli unici Pokémon che si trovano nel Gruppo Uova Drago e Amorfo.",
+        "Giratina, Dragapult e le sue pre-evoluzioni Dreepy e Drakloak sono gli unici Pokémon con doppio tipo ad essere deboli ai loro stessi tipi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/drakloak.mp3",
+    "dex_entries": {
+        "drakloak": {
+            "sword": "Vola a una velocità di 200 km/h. Lotta assieme a Dreepy e se ne prende cura fino a quando non si evolve.",
+            "shield": "Se non ha un Dreepy sulla testa di cui prendersi cura, non riesce a stare tranquillo e cerca di sostituirlo con altri Pokémon.",
+            "scarlet": "Vola a una velocità di 200 km/h. Se viene sconfitto in una lotta, il Dreepy che è con lui lo pianta in asso senza troppi complimenti.",
+            "violet": "Accumula energia nei polmoni per poi spararla fuori. Lotta assieme a Dreepy e se ne prende cura finché questo non raggiunge la maturità."
+        }
+    },
+    "egg_groups": [
+        "Amorfo",
+        "Drago"
+    ],
+    "generation": 8,
+    "height": {
+        "drakloak": "1,4 m"
+    },
+    "id": 886,
+    "name": "Drakloak",
+    "name_origin": "Drakloak potrebbe essere una combinazione di dragon, drago, e cloak, occultamento. Doronch potrebbe essere una combinazione di dragon, drago, e launch, lancio. ",
+    "origin": "Drakloak potrebbe essere basato su un Diplocaulus con alcuni elementi di un aereo da caccia e una balestra. Il suo comportamento potrebbe ispirarsi alla cura paterna presente in molti anfibi. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Sostegno",
+    "sprites": {
+        "drakloak": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d5/Homem0886.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0886.png"
+        }
+    },
+    "stats": {
+        "drakloak": {
+            "hp": 68,
+            "atk": 80,
+            "def": 50,
+            "spa": 60,
+            "spd": 50,
+            "spe": 102
+        }
+    },
+    "stats_sum": {
+        "drakloak": 410
+    },
+    "types": {
+        "drakloak": [
+            "Spettro",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "drakloak": "11,0 kg"
+    }
+}

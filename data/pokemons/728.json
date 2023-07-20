@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "popplio": {
+            "primary": "Acquaiuto",
+            "hidden": "Idrovoce"
+        }
+    },
+    "curiosities": [
+        "Popplio condivide la sua categoria con Seel e Dewgong, essendo noti tutti e tre come Pokémon Otaria."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/popplio.mp3",
+    "dex_entries": {
+        "popplio": {
+            "sun": "È conosciuto per la sua forza di volontà. Lancia sul nemico dei palloncini pieni d’acqua che gonfia con il naso.",
+            "moon": "Crea dei palloncini d’acqua che controlla nella lotta. Si allena costantemente per riuscire a produrre palloni di grandi dimensioni.",
+            "ultra-sun": "Grazie al costante allenamento, i palloncini che gonfia con il naso diventano ogni giorno un po' più grandi.",
+            "ultra-moon": "Sfrutta l'elasticità dei palloncini d'acqua per rimbalzarci sopra e saltare ancora più in alto. Anche nelle lotte è un vero acrobata!",
+            "sword": "Produce dei palloncini speciali dalla superficie elastica, che esplodendo feriscono l'avversario.",
+            "shield": "Si allena con impegno tutti i giorni fino a quando non è in grado di produrre palloncini d'acqua abbastanza grandi e utili ai suoi scopi."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "generation": 7,
+    "height": {
+        "popplio": "0,4 m"
+    },
+    "id": 728,
+    "name": "Popplio",
+    "name_origin": "Popplio trae forse origine dalle parole pop star, in riferimento alla sua peculiarità di esibirsi in salti e figure acrobatiche, o semplicemente da pop, l'onomatopea dello scoppio di una bolla, nonché da sea lion, otaria in inglese.\nPotrebbe derivare anche da Ilio-holo-i-ka-uaua, il nome della foca monaca delle Hawaii, che in hawaiano significa letteralmente: cane che corre nell'acqua agitata. Ashimari potrebbe essere una combinazione di 海驢 ashika, otaria, da 鞠 mari, palla, e marine, marino. ",
+    "origin": "Popplio è ispirato ad un'otaria o ad una foca monaca delle Hawaii, oltre ad un clown. ",
+    "shape": "pinne",
+    "specie": "Pokémon Otaria",
+    "sprites": {
+        "popplio": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fa/Homem0728.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0728.png"
+        }
+    },
+    "stats": {
+        "popplio": {
+            "hp": 50,
+            "atk": 54,
+            "def": 54,
+            "spa": 66,
+            "spd": 56,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "popplio": 320
+    },
+    "types": {
+        "popplio": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "popplio": "7,5 kg"
+    }
+}

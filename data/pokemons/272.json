@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "ludicolo": {
+            "primary": "Nuotovelox",
+            "secondary": "Copripioggia",
+            "hidden": "Mente Locale"
+        }
+    },
+    "curiosities": [
+        "La linea evolutiva di Ludicolo presenta alcune peculiarità:\n\tHanno una combinazione di tipi unica.\n\tSono gli unici Pokémon che fanno parte sia del Gruppo Uova Acqua 1 che del Gruppo Uova Erba.\n\tSono gli unici Pokémon che possono avere Copripioggia come abilità senza che sia speciale.",
+        "Hanno una combinazione di tipi unica.",
+        "Sono gli unici Pokémon che fanno parte sia del Gruppo Uova Acqua 1 che del Gruppo Uova Erba.",
+        "Sono gli unici Pokémon che possono avere Copripioggia come abilità senza che sia speciale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ludicolo.mp3",
+    "dex_entries": {
+        "ludicolo": {
+            "ruby": "LUDICOLO inizia a ballare appena sente una musica allegra e festosa. Pare che questo POKéMON appaia quando sente il canto gioioso dei bambini durante le escursioni.",
+            "sapphire": "Quando sente un motivetto allegro e vivace, le cellule corporee di LUDICOLO diventano attive e piene di energia. Anche in lotta il POKéMON dimostra una potenza incredibile.",
+            "emerald": "Se sente una musica festosa, LUDICOLO comincia a muoversi a ritmo perché le sue cellule vengono sollecitate. Non ha paura neppure di fronte ai nemici più potenti.",
+            "firered": "Le sue cellule sono sollecitate dalla musica festosa, che lo rende più potente.",
+            "leafgreen": "Le sue cellule sono sollecitate dalla musica festosa, che lo rende più potente.",
+            "diamond": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "pearl": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "platinum": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "heartgold": "Danzando al ritmo di una musica gioiosa, aumenta la propria forza.",
+            "soulsilver": "Danzando al ritmo di una musica gioiosa, aumenta la propria forza.",
+            "black": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "white": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "black-2": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "white-2": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "x": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "y": "Le sue cellule sono sollecitate dalla musica festosa, che lo rende più potente.",
+            "omega-ruby": "Ludicolo inizia a ballare appena sente una musica allegra e festosa. Pare che questo Pokémon appaia quando sente il canto gioioso dei bambini durante le escursioni.",
+            "alpha-sapphire": "Quando sente un motivetto allegro e vivace, le cellule corporee di Ludicolo diventano attive e piene di energia. Anche in lotta il Pokémon dimostra una potenza incredibile.",
+            "sword": "Le sue cellule sono sollecitate dalla musica festosa, che lo rende più potente.",
+            "shield": "Aumenta la propria forza danzando al ritmo di una musica giocosa.",
+            "brilliant-diamond": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce a fare a meno di ballare.",
+            "shining-pearl": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce a fare a meno di ballare."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Erba"
+    ],
+    "generation": 3,
+    "height": {
+        "ludicolo": "1,50 m"
+    },
+    "id": 272,
+    "name": "Ludicolo",
+    "name_origin": "Il nome di Ludicolo forse è una combinazione di ludic o ludicrous , e Colocynth, una pianta che ha un frutto tondo di colore giallo e verde.\nRumpappa potrebbe essere una combinazione di ルンルン runrun, felice e morbido, e pappa, che forse è il suono di un veloce rullo di tamburo. Potrebbe essere anche una combinazione di rumba e kappa. ",
+    "origin": "Ludicolo è probabilmente basato su una papera o su kappa, un ballerino messicano, e un grande Colocynth o un ananas. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Spensierato",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2f/Homem0272.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/50/Homemsh0272.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fc/Homef0272.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bb/Homefsh0272.png"
+        }
+    },
+    "stats": {
+        "ludicolo": {
+            "hp": 80,
+            "atk": 70,
+            "def": 70,
+            "spa": 90,
+            "spd": 100,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "ludicolo": 480
+    },
+    "types": {
+        "ludicolo": [
+            "Erba",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "ludicolo": "55,0 kg"
+    }
+}

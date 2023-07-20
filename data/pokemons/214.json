@@ -1,0 +1,117 @@
+{
+    "abilities": {
+        "heracross": {
+            "primary": "Aiutinsetto",
+            "secondary": "Dentistretti",
+            "hidden": "Arroganza"
+        },
+        "megaheracross": {
+            "primary": "Abillegame"
+        }
+    },
+    "curiosities": [
+        "Prima della settima generazione Heracross aveva una combinazione di tipi unica.",
+        "È uno dei quattro Pokémon di tipo Lotta che, aumentando di livello, impara una mossa di tipo Volante. Gli altri sono Blaziken, Infernape e Mienshao.",
+        "MegaHeracross ha la più alta statistica base di Attacco di tutti i Pokémon non leggendari e di tutti i Pokémon di tipo Coleottero.",
+        "Heracross è uno dei quattordici Pokémon ottenibili in Diamante e Perla con la descrizione del Pokédex in una lingua straniera."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/heracross.mp3",
+    "dex_entries": {
+        "heracross": {
+            "gold": "Questo potente POKéMON infilza con il corno la pancia del nemico, sollevandolo e tirandolo lontano.",
+            "silver": "È pacifico, ma se lo si disturba mentre gusta il miele scaccia l'intruso con il suo corno.",
+            "crystal": "La forza erculea gli permette di lanciare oggetti 100 volte più pesanti di lui.",
+            "ruby": "HERACROSS si lancia all'attacco dritto contro il nemico, lo afferra con forza, lo solleva in aria e poi lo incorna violentemente scagliandolo lontano. Riesce ad abbattere un grosso albero.",
+            "sapphire": "HERACROSS è dotato di artigli affilati sulle zampe inferiori, che conficca nel terreno o nella corteccia degli alberi per guadagnare stabilità mentre incorna violentemente i nemici e li scaglia lontano.",
+            "emerald": "HERACROSS è ghiotto della dolce linfa degli alberi, che trova nelle foreste. È rivestito da una corazza dura come l'acciaio e usa il corno per scagliare lontano i nemici.",
+            "firered": "È pacifico, ma se lo si disturba mentre gusta il miele scaccia l'intruso con il suo corno.",
+            "leafgreen": "Questo potente POKéMON infilza con il corno la pancia del nemico, sollevandolo e lanciandolo lontano.",
+            "diamond": "Si aggira nelle foreste in cerca di linfa, di cui è ghiotto. È tanto forte da scagliare lontano i nemici.",
+            "pearl": "Grazie alle zampe poderose e agli artigli, riesce a scaraventare lontanissimo qualsiasi nemico.",
+            "platinum": "È ghiotto di miele e per non farselo rubare usa il suo possente corno per scagliare lontano i nemici.",
+            "heartgold": "Questo potente Pokémon infilza con il corno la pancia del nemico, sollevandolo e lanciandolo lontano.",
+            "soulsilver": "Pacifico, ma se lo si disturba mentre gusta il miele scaccia l’intruso con il suo corno.",
+            "black": "È ghiotto di miele e per non farselo rubare usa il suo possente corno per scagliare lontano i nemici.",
+            "white": "È ghiotto di miele e per non farselo rubare usa il suo possente corno per scagliare lontano i nemici.",
+            "black-2": "Vanta un corno possente con il quale scaglia l'avversario a grande distanza, qualunque sia il suo peso.",
+            "white-2": "Vanta un corno possente con il quale scaglia l'avversario a grande distanza, qualunque sia il suo peso.",
+            "x": "Questo potente Pokémon infilza con il corno la pancia del nemico, sollevandolo e lanciandolo lontano.",
+            "y": "La forza erculea gli permette di lanciare oggetti 100 volte più pesanti di lui.",
+            "omega-ruby": "Heracross si lancia all'attacco dritto contro il nemico, lo afferra con forza, lo solleva in aria e poi lo incorna violentemente scagliandolo lontano. Riesce ad abbattere un grosso albero.",
+            "alpha-sapphire": "Heracross è dotato di artigli affilati sulle zampe inferiori, che conficca nel terreno o nella corteccia degli alberi per guadagnare stabilità mentre incorna violentemente i nemici e li scaglia lontano.",
+            "ultra-sun": "Il grosso corno è il suo punto di forza. Ad Alola ha una forte rivalità con i Vikavolt, con i quali è costantemente in lotta.",
+            "ultra-moon": "Si aggira per le foreste in cerca di miele. Possiede una forza spaventosa di cui va fiero, ma non è molto abile nel volo.",
+            "sword": "È ghiotto della dolce linfa degli alberi. Perlustra la foresta alla sua ricerca, sfruttando le antenne per percepire gli odori.",
+            "shield": "Questo Pokémon va molto fiero della sua forza erculea, che gli permette di sollevare senza fatica oggetti 100 volte più pesanti di lui.",
+            "brilliant-diamond": "Si aggira nelle foreste in cerca di linfa, di cui è ghiotto. È molto forte e con il suo corno robusto può scagliare lontano i nemici.",
+            "shining-pearl": "Grazie alle zampe poderose e agli artigli affilati, può scaraventare lontanissimo qualsiasi nemico.",
+            "legends-arceus": "Vanta un incomparabile corno e una forza tale da scaraventare nell'aere in un sol colpo numerosi lottatori esperti di arti marziali.",
+            "scarlet": "È ghiotto della dolce linfa degli alberi e per non farsela rubare scaglia lontano i nemici con il suo possente corno.",
+            "violet": "La forza erculea gli permette di lanciare oggetti 100 volte più pesanti di lui con facilità."
+        },
+        "megaheracross": {
+            "ultra-sun": "Usando le sue corna riesce a sollevare oggetti 500 volte più pesanti di lui.",
+            "ultra-moon": "La formidabile energia della megaevoluzione fa sviluppare i suoi muscoli, ma quando torna al suo stato normale è tutto indolenzito."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 2,
+    "height": {
+        "heracross": "1,5 m",
+        "megaheracross": "1.7 m"
+    },
+    "id": 214,
+    "name": "Heracross",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione della parola greca \"Ἡρακλῆς\"  con la parola inglese \"cross\" . ",
+    "origin": "È ispirato allo scarabeo rinoceronte giapponese, insetto coleottero con i quali condivide il corno. Questi insetti sono conosciuti per la loro forza, e vengono usati nelle lotte tra insetti, cosa che spiega il tipo Lotta. MegaHeracross è basato su uno scarabeo Ercole. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Monocorno",
+    "sprites": {
+        "heracross ": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0214.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0214.png"
+        },
+        "heracross -f": {
+            "default": "https://media.pokemoncentral.it/wiki/0/02/Homef0214.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homefsh0214.png"
+        },
+        "megaheracross": {
+            "default": "https://media.pokemoncentral.it/wiki/6/61/Homem0214M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0214M.png"
+        }
+    },
+    "stats": {
+        "heracross": {
+            "hp": 80,
+            "atk": 125,
+            "def": 75,
+            "spa": 40,
+            "spd": 95,
+            "spe": 85
+        },
+        "megaheracross": {
+            "hp": 80,
+            "atk": 185,
+            "def": 115,
+            "spa": 40,
+            "spd": 105,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "heracross": 500,
+        "megaheracross": 600
+    },
+    "types": {
+        "heracross": [
+            "Coleot",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "heracross": "54,0 kg",
+        "megaheracross": "62.5 kg"
+    }
+}

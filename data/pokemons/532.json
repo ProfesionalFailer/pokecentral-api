@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "timburr": {
+            "primary": "Dentistretti",
+            "secondary": "Forzabruta",
+            "hidden": "Ferropugno"
+        }
+    },
+    "curiosities": [
+        "Timburr è simile a Machop. Entrambi sono di tipo Lotta con un totale di 305 di statistiche di base; sono i Pokémon più comunemente associati con i cantieri nelle rispettive regioni; raggiungono la loro prima evoluzione per livello e hanno la loro evoluzione finale innescata da uno scambio. Tuttavia, Timburr evolve in Gurdurr al livello 25, mentre Machop si evolve in Machoke al livello 28."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/timburr.mp3",
+    "dex_entries": {
+        "timburr": {
+            "black": "Lotta brandendo una trave di legno. Quando arriva a portarla senza sforzo, l'evoluzione è vicina.",
+            "white": "Porta sempre con sé una tavola di legno. Appare nei cantieri dove aiuta nei lavori.",
+            "black-2": "Porta con sé una tavola di legno e aiuta nei lavori edilizi. Quando cresce sceglie oggetti più pesanti da trasportare.",
+            "white-2": "Porta con sé una tavola di legno e aiuta nei lavori edilizi. Quando cresce sceglie oggetti più pesanti da trasportare.",
+            "x": "Porta sempre con sé una tavola di legno. Appare nei cantieri dove aiuta nei lavori.",
+            "y": "Porta sempre con sé una tavola di legno e aiuta nei lavori edilizi. Quando cresce si sceglie una tavola più grande.",
+            "omega-ruby": "Porta sempre con sé una tavola di legno. Appare nei cantieri dove aiuta nei lavori.",
+            "alpha-sapphire": "Porta sempre con sé una tavola di legno e aiuta nei lavori edilizi. Quando cresce si sceglie una tavola più grande.",
+            "sword": "Gli piace dare una mano nei lavori edili, e quando vengono interrotti per la pioggia, si sfoga facendo roteare la sua trave.",
+            "shield": "Quando diventa capace di reggere travi di legno tre volte più grandi di lui, l'evoluzione è vicina."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 5,
+    "height": {
+        "timburr": "0,6 m"
+    },
+    "id": 532,
+    "name": "Timburr",
+    "name_origin": "Timburr è una corruzione di timber . Potrebbe derivare inoltre da burly . ",
+    "origin": "Si basa sui lavoratori edili. Per la forma del suo naso, potrebbe anche ispirarsi a una sorta di clown. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Forzaimmane",
+    "sprites": {
+        "timburr": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d5/Homem0532.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bc/Homemsh0532.png"
+        }
+    },
+    "stats": {
+        "timburr": {
+            "hp": 75,
+            "atk": 80,
+            "def": 55,
+            "spa": 25,
+            "spd": 35,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "timburr": 305
+    },
+    "types": {
+        "timburr": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "timburr": "12,5 kg"
+    }
+}

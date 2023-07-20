@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "larvesta": {
+            "primary": "Corpodifuoco",
+            "hidden": "Aiutinsetto"
+        }
+    },
+    "curiosities": [
+        "Prima dell'ottava generazione Larvesta e Volcarona avevano una combinazione di tipi unica.",
+        "È il Pokémon alla forma base che si evolve più tardi. Il Pokémon che si evolve più tardi in assoluto è Zweilous.",
+        "Larvesta e Volcarona sono gli unici Pokémon non leggendari ad imparare una mossa al livello 100."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/larvesta.mp3",
+    "dex_entries": {
+        "larvesta": {
+            "black": "Si crede sia un Pokémon nato dal sole. Quando si evolve, il suo corpo è avvolto interamente dalle fiamme.",
+            "white": "Vive ai piedi dei vulcani. Se attaccato, mette in fuga il nemico lanciando fiamme dai suoi cinque corni.",
+            "black-2": "Si dice che sia nato dal sole. Prima di evolversi, avvolge tutto il suo corpo nelle fiamme emesse dai corni.",
+            "white-2": "Si dice che sia nato dal sole. Prima di evolversi, avvolge tutto il suo corpo nelle fiamme emesse dai corni.",
+            "x": "Si dice che sia nato dal sole. Prima di evolversi, avvolge tutto il suo corpo nelle fiamme emesse dai corni.",
+            "y": "Vive ai piedi dei vulcani. Se attaccato, mette in fuga il nemico lanciando fiamme dai suoi cinque corni.",
+            "omega-ruby": "Si dice che sia nato dal sole. Prima di evolversi, avvolge tutto il suo corpo nelle fiamme emesse dai corni.",
+            "alpha-sapphire": "Vive ai piedi dei vulcani. Se attaccato, mette in fuga il nemico lanciando fiamme dai suoi cinque corni.",
+            "ultra-sun": "Lotta contro i suoi avversari lanciando fiamme dai suoi cinque corni a una temperatura che può raggiungere i 3.000 °C.",
+            "ultra-moon": "Si protegge grazie alle sue fiamme. Nell'antichità si credeva che facesse il nido nel sole.",
+            "sword": "Anticamente si credeva che Larvesta fosse caduto dal sole.",
+            "shield": "Il suo corpo è molto caldo. Lancia fiamme dalle corna per intimidire i nemici e le prede.",
+            "scarlet": "Veniva chiamato la \"larva che ha rubato il sole\". Con le fiamme che lancia dalle corna può tagliare anche lastre di ferro.",
+            "violet": "Nell’antichità veniva adorato come messaggero del sole, ma era anche malvisto a causa della sua propensione a provocare incendi boschivi."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 5,
+    "height": {
+        "larvesta": "1,1 m"
+    },
+    "id": 636,
+    "name": "Larvesta",
+    "name_origin": "Il nome di Larvesta è una combinazione delle parole larva e Vesta, una dea del focolare della mitologia romana, oppure potrebbe essere ispirato a lava. ",
+    "origin": "Larvesta è basato su una larva di falena, nello specifico la farfalla cobra, e sul famoso monumento giapponese noto come Torre del Sole di Osaka, mentre le corna possono ricordare il sole o il kanji 大 dai . Potrebbe essere anche ispirato a una torcia. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Torcia",
+    "sprites": {
+        "larvesta": {
+            "default": "https://media.pokemoncentral.it/wiki/7/75/Homem0636.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0636.png"
+        }
+    },
+    "stats": {
+        "larvesta": {
+            "hp": 55,
+            "atk": 85,
+            "def": 55,
+            "spa": 50,
+            "spd": 55,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "larvesta": 360
+    },
+    "types": {
+        "larvesta": [
+            "Coleot",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "larvesta": "28,8 kg"
+    }
+}

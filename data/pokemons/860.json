@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "morgrem": {
+            "primary": "Burla",
+            "secondary": "Indagine",
+            "hidden": "Arraffalesto"
+        }
+    },
+    "curiosities": [
+        "Morgrem, la sua pre-evoluzione Impidimp e la sua evoluzione Grimmsnarl sono i primi Pokémon a presentare la combinazione di tipi Buio/Folletto.",
+        "Morgrem condivide la sua categoria con Purrloin. Entrambi sono conosciuti come Pokémon Furbizia.",
+        "Le linee evolutive di Hatenna e di Impidimp possono essere considerate delle controparti. Morgrem e Hattrem sono di ottava generazione ed entrambi si evolvono prima al livello 32 e successivamente al livello 42. La linea evolutiva di Impidimp è solamente di sesso maschile, mentre quella di Hatenna è solamente di sesso femminile. Gli stadi finali di entrambi i Pokémon sono di tipo Folletto, con la stessa esperienza base e lo stesso tasso di cattura; entrambi hanno anche la stessa somma delle statistiche base. Sono basati anche su esseri mitologici del floklore e della mitologia europea: Hattrem ricorda una strega, mentre Morgrem un goblin. Entrambi i Pokémon utilizzano i capelli come arma.",
+        "Morgrem, la sua pre-evoluzione Impidimp e la sua evoluzione Grimmsnarl sono gli unici Pokémon che si trovano nel Gruppo Uova Magico e Umanoide."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/morgrem.mp3",
+    "dex_entries": {
+        "morgrem": {
+            "sword": "Nella lotta si prostra fingendo di chiedere pietà e infilza il nemico con il ciuffo di capelli appuntito come una lancia che gli parte dalla nuca.",
+            "shield": "Attira le prede nel bosco di notte con l'astuzia. Sembra che abbia il potere di far crescere ogni tipo di prodotto agricolo.",
+            "scarlet": "Nella lotta preferisce ricorrere ai colpi a tradimento e ad altri vili stratagemmi poiché non ha grande fiducia nella propria forza fisica.",
+            "violet": "Assorbe sentimenti negativi, trasformandoli in energia. È particolarmente apprezzato da chi ha un’indole pessimista."
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Umanoide"
+    ],
+    "generation": 8,
+    "height": {
+        "morgrem": "0,8 m"
+    },
+    "id": 860,
+    "name": "Morgrem",
+    "name_origin": "Morgrem potrebbe essere una combinazione di morbid, raccapricciante, e gremlin, spiritello maligno. Potrebbe derivare anche da grem, una vecchia parola inglese e tedesca che significa letteralmente \"alla rabbia\". Gimoh potrebbe essere una combinazione di 欺罔 gimō, inganno, 毛 mō, pelo, e demon, demone. ",
+    "origin": "Morgrem potrebbe essere basato sul clurichaun di Monaghan, una variante subdola del leprechaun del folklore irlandese che si inchina per attirare il suo avversario per poi infilzare i suoi occhi con il cappello a punta. Ricorda anche il Redcap, un goblin omicida delle leggende inglesi che porta con sé una picca su cui sembra prendere spunto la coda dei capelli di Morgrem. Come suggerisce il nome, potrebbe essere ispirato su un gremlin. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Furbizia",
+    "sprites": {
+        "morgrem": {
+            "default": "https://media.pokemoncentral.it/wiki/5/55/Homem0860.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/66/Homemsh0860.png"
+        }
+    },
+    "stats": {
+        "morgrem": {
+            "hp": 65,
+            "atk": 60,
+            "def": 45,
+            "spa": 75,
+            "spd": 55,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "morgrem": 370
+    },
+    "types": {
+        "morgrem": [
+            "Folletto",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "morgrem": "12,5 kg"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "frigibax": {
+            "primary": "Termoscambio",
+            "hidden": "Corpogelo"
+        }
+    },
+    "curiosities": [
+        "Frigibax e Dreepy sono le uniche forme base di Pokémon pseudo-leggendari a non avere il totale delle statistiche base pari a 300."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/frigibax.mp3",
+    "dex_entries": {
+        "frigibax": {
+            "scarlet": "Assorbe il calore con la pinna dorsale e lo trasforma in energia Ghiaccio. Più alta è la temperatura, più energia accumula.",
+            "violet": "Vive nelle foreste e in aree rocciose. Usa la cresta dorsale per raffreddare l'interno della tana quasi come fosse un frigorifero."
+        }
+    },
+    "egg_groups": [
+        "Drago",
+        "Minerale"
+    ],
+    "generation": 9,
+    "height": {
+        "frigibax": "0,5 m"
+    },
+    "id": 995,
+    "name": "Frigibax",
+    "name_origin": "Frigibax potrebbe essere una combinazione di frigid  e back . ",
+    "origin": "Frigibax e Dreepy sono le uniche forme base di Pokémon pseudo-leggendari a non avere il totale delle statistiche base pari a 300. ",
+    "shape": "None",
+    "specie": "Pokémon Gelopinna",
+    "sprites": {
+        "frigibax": {
+            "default": "https://media.pokemoncentral.it/wiki/0/05/Homem0996.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a0/Homemsh0996.png"
+        }
+    },
+    "stats": {
+        "frigibax": {
+            "hp": 65,
+            "atk": 75,
+            "def": 45,
+            "spa": 35,
+            "spd": 45,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "frigibax": 320
+    },
+    "types": {
+        "frigibax": [
+            "Ghiaccio",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "frigibax": "17,0 kg"
+    }
+}

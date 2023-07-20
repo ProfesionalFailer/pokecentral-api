@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "lampent": {
+            "primary": "Fuocardore",
+            "secondary": "Corpodifuoco",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "Prima della settima generazione Litwick, Lampent e Chandelure avevano una combinazione di tipi unica.",
+        "Lampent rappresenta il mese di ottobre  nell'Oroscopo di Unima.",
+        "Prima della sesta generazione l'abilità speciale di Lampent era Pedinombra, ma non era ottenibile legalmente."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lampent.mp3",
+    "dex_entries": {
+        "lampent": {
+            "black": "È temuto come portatore di cattiva sorte. Si aggira ramingo per le città alla ricerca degli spiriti perduti.",
+            "white": "Appare sul finire della vita, per risucchiare l'energia delle anime vagabonde.",
+            "black-2": "La sua fiamma si accende quando risucchia gli spettri. Si trova spesso nei pressi dei cimiteri, dove questi abbondano.",
+            "white-2": "La sua fiamma si accende quando risucchia gli spettri. Si trova spesso nei pressi dei cimiteri, dove questi abbondano.",
+            "x": "La sua fiamma si accende quando risucchia gli spettri. Si trova spesso nei pressi dei cimiteri, dove questi abbondano.",
+            "y": "Appare sul finire della vita per risucchiare l'energia delle anime vagabonde.",
+            "omega-ruby": "La sua fiamma si accende quando risucchia gli spettri. Si trova spesso nei pressi dei cimiteri, dove questi abbondano.",
+            "alpha-sapphire": "Appare sul finire della vita per risucchiare l'energia delle anime vagabonde.",
+            "sword": "Appare quando qualcuno sta per morire. Per questo è considerato l'aiutante della divinità della morte ed è molto temuto.",
+            "shield": "Si mimetizza nel paesaggio cittadino fingendosi una lampada. Quando incontra una persona prossima alla morte, la segue silenzioso."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "generation": 5,
+    "height": {
+        "lampent": "0,6 m"
+    },
+    "id": 608,
+    "name": "Lampent",
+    "name_origin": "Il suo nome deriva probabilmente dall'unione delle parole inglesi lamp  e lambent , o repent , oppure potrebbe essere un riferimento a lament , o una corruzione di rampant , o ancora potrebbe venire da bent , o entity . Potrebbe anche derivare da pent . ",
+    "origin": "Lampent è una combinazione di un Hitodama  e una lampada ad olio. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Lanterna",
+    "sprites": {
+        "lampent": {
+            "default": "https://media.pokemoncentral.it/wiki/7/77/Homem0608.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0608.png"
+        }
+    },
+    "stats": {
+        "lampent": {
+            "hp": 60,
+            "atk": 40,
+            "def": 60,
+            "spa": 95,
+            "spd": 60,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "lampent": 370
+    },
+    "types": {
+        "lampent": [
+            "Spettro",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "lampent": "13,0 kg"
+    }
+}

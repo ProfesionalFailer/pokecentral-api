@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "spidops": {
+            "primary": "Insonnia",
+            "hidden": "Sorveglianza"
+        }
+    },
+    "curiosities": [
+        "Spidops condivide la sua specie con Trapinch e Stunfisk: sono tutti noti come \"Pokémon trappola\"."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/spidops.mp3",
+    "dex_entries": {
+        "spidops": {
+            "scarlet": "Usando il suo filo per appendersi ai rami e ai soffitti, può muoversi senza far rumore. Finisce la preda prima che questa se ne renda conto.",
+            "violet": "Protegge il proprio territorio dagli intrusi piazzandovi tele resistenti e appiccicose che usa come trappole."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 9,
+    "height": {
+        "spidops": "1,0 m"
+    },
+    "id": 918,
+    "name": "Spidops",
+    "name_origin": "Spidops potrebbe essere una combinazione di spider  e chops . Wanaida potrebbe essere una combinazione di 罠 wana  and スパイダ supaida . ",
+    "origin": "Spidops potrebbe essere basato sui ragni della famiglia Deinopidae, caratterizzati dai grandi occhi mediani, l'addome allungato e le lunghe zampe anteriori, che usano per tendere la ragnatela e gettarla sulla preda come una rete. ",
+    "shape": "None",
+    "specie": "Pokémon Trappola",
+    "sprites": {
+        "spidops": {
+            "default": "https://media.pokemoncentral.it/wiki/9/95/Homem0918.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0918.png"
+        }
+    },
+    "stats": {
+        "spidops": {
+            "hp": 60,
+            "atk": 79,
+            "def": 92,
+            "spa": 52,
+            "spd": 86,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "spidops": 404
+    },
+    "types": {
+        "spidops": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "spidops": "16,5 kg"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "lumineon": {
+            "primary": "Nuotovelox",
+            "secondary": "Acquascolo",
+            "hidden": "Idrovelo"
+        }
+    },
+    "curiosities": [
+        "Per ragioni sconosciute, Lumineon in sesta generazione non può imparare Naturforza tramite MT, mentre la sua pre-evoluzione, Finneon, può.",
+        "Lumineon può essere visto come parallelo di Lanturn:\n\tHanno lo stesso totale di statistiche.\n\tSecondo alcune voci del Pokédex, si contendono cibo e zone di caccia, oltre ad avere comportamenti simili e la stessa abilità nel emettere luce propria.\n\tAnche le loro pre-evoluzioni, Finneon e Chinchou, hanno le medesime somiglianze, soprattutto alle statistiche.",
+        "Hanno lo stesso totale di statistiche.",
+        "Secondo alcune voci del Pokédex, si contendono cibo e zone di caccia, oltre ad avere comportamenti simili e la stessa abilità nel emettere luce propria.",
+        "Anche le loro pre-evoluzioni, Finneon e Chinchou, hanno le medesime somiglianze, soprattutto alle statistiche."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lumineon.mp3",
+    "dex_entries": {
+        "lumineon": {
+            "diamond": "Vive negli abissi marini. Attira le prede illuminando i motivi delle sue quattro pinne.",
+            "pearl": "Per non farsi scoprire dai nemici, si muove lentamente sui fondali marini con le due pinne pettorali.",
+            "platinum": "Si sposta sui fondali con le lunghe pinne anteriori. LANTURN è suo rivale nella ricerca del cibo.",
+            "heartgold": "LUMINEON brilla negli abissi marini e sembra proprio una stella che risplende nel cielo notturno.",
+            "soulsilver": "LUMINEON brilla negli abissi marini e sembra proprio una stella che risplende nel cielo notturno.",
+            "black": "Si sposta sui fondali con le lunghe pinne anteriori. Lanturn è suo rivale nella ricerca del cibo.",
+            "white": "Si sposta sui fondali con le lunghe pinne anteriori. Lanturn è suo rivale nella ricerca del cibo.",
+            "black-2": "Si sposta sui fondali con le lunghe pinne anteriori. Lanturn è suo rivale nella ricerca del cibo.",
+            "white-2": "Si sposta sui fondali con le lunghe pinne anteriori. Lanturn è suo rivale nella ricerca del cibo.",
+            "x": "Vive negli abissi marini. Attira le prede illuminando i motivi delle sue quattro pinne.",
+            "y": "Per non farsi scoprire dai nemici, si muove lentamente sui fondali marini con le due pinne pettorali.",
+            "omega-ruby": "Vive negli abissi marini. Attira le prede illuminando i motivi delle sue quattro pinne.",
+            "alpha-sapphire": "Per non farsi scoprire dai nemici, si muove lentamente sui fondali marini con le due pinna pettorali.",
+            "sun": "Con la sua luce attira le prede, ma anche i Pokémon acquatici suoi predatori.",
+            "moon": "Vive negli abissi marini. Si sposta sui fondali muovendo agilmente le pinne in cerca degli Starmie, di cui è ghiotto.",
+            "ultra-sun": "I fondali marini non gli offrono molte occasioni per cibarsi, perciò si scontra continuamente con i Lanturn per accaparrarsi le prede migliori.",
+            "ultra-moon": "Avanza strisciando sul fondo degli abissi marini. La luce meravigliosa delle sue pinne ricorda le stelle risplendenti del cielo notturno.",
+            "brilliant-diamond": "Vive sui fondali degli abissi marini. Attira le prede illuminando i motivi delle sue quattro pinne.",
+            "shining-pearl": "Per non farsi scoprire dai suoi nemici naturali, si muove sui fondali marini strisciando con le due pinne pettorali.",
+            "legends-arceus": "Adopra le pinne luminescenti per cacciare. Nelle notti in cui i Lumineon si adunano, la superficie marina rivaleggia con lo splendore del firmamento.",
+            "scarlet": "Con la sua luce attira le prede, ma anche i feroci Pokémon acquatici che sono suoi predatori naturali.",
+            "violet": "I Lumineon che brillano negli abissi marini sembrano proprio stelle che risplendono nel cielo notturno."
+        }
+    },
+    "egg_groups": [
+        "Acqua 2"
+    ],
+    "generation": 4,
+    "height": {
+        "lumineon": "1,2 m"
+    },
+    "id": 457,
+    "name": "Lumineon",
+    "name_origin": "Deriva dalle parole luminous  e neon, riferito alla sua bioluminescenza e al pesce neon. ",
+    "origin": "È basato su un pesce farfalla, anche se le pinne caudali ricordano le ali di una farfalla vera e propria. Inoltre, ha delle somiglianze con il pesce combattente o con il neon cardinale. ",
+    "shape": "pinne",
+    "specie": "Pokémon Neon",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7e/Homem0457.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homemsh0457.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/8/88/Homef0457.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/15/Homefsh0457.png"
+        }
+    },
+    "stats": {
+        "lumineon": {
+            "hp": 69,
+            "atk": 69,
+            "def": 76,
+            "spa": 69,
+            "spd": 86,
+            "spe": 91
+        }
+    },
+    "stats_sum": {
+        "lumineon": 460
+    },
+    "types": {
+        "lumineon": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "lumineon": "24,0 kg"
+    }
+}

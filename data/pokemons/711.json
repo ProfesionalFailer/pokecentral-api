@@ -1,0 +1,124 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Raccolta",
+            "secondary": "Indagine",
+            "hidden": "Insonnia"
+        }
+    },
+    "curiosities": [
+        "Gourgeist impara molte mosse di tipo Fuoco, probabilmente perché è ispirato ad una zucca di Halloween, che solitamente vengono riempite con candele accese.",
+        "Gourgeist può essere visto come una controparte di Trevenant, in quanto entrambi possiedono la stessa combinazione di tipi, si evolvono tramite scambio e sono stati introdotti nella sesta generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gourgeist.mp3",
+    "dex_entries": {
+        "gourgeist": {
+            "x": "Vaga per le città nelle notti di luna nuova intonando una melodia sinistra. Chi la ascolta, viene colpito da una maledizione.",
+            "y": "Intrappola i nemici con i suoi artigli simili a capelli e canta dolcemente mentre queste si dibattono per liberarsi.",
+            "omega-ruby": "Vaga per le città nelle notti di luna nuova intonando una melodia sinistra. Chi la ascolta, viene colpito da una maledizione.",
+            "alpha-sapphire": "Intrappola i nemici con i suoi artigli simili a capelli e canta dolcemente mentre queste si dibattono per liberarsi."
+        },
+        "normale": {
+            "sword": "Si dice che il lamento sinistro che fuoriesce dal suo corpo a notte fonda sia la voce dei morti che soffrono nell'aldilà.",
+            "shield": "Nelle notti di luna nuova bussa alle porte delle case e porta nell'aldilà chi gli apre."
+        },
+        "mini": {
+            "sword": "I Gourgeist Mini si fingono bambini per ingannare gli adulti e portarli nell'aldilà.",
+            "shield": "Si è evoluto da un Pumpkaboo Mini. Le dimensioni sono ereditarie."
+        },
+        "grande": {
+            "sword": "I Gourgeist Grandi si fingono adulti e prendono i bambini per mano per portarli nell'aldilà.",
+            "shield": "Si è evoluto da un Pumpkaboo Grande. Le dimensioni sono ereditarie."
+        },
+        "maxi": {
+            "sword": "I Gourgeist Maxi portano nell'aldilà con la forza chiunque gli capiti a tiro.",
+            "shield": "Si è evoluto da un Pumpkaboo Maxi. Le dimensioni sono ereditarie."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "generation": 6,
+    "height": {
+        "normale": "0,9 m",
+        "mini": "0,7 m",
+        "grande": "1,1 m",
+        "maxi": "1,7 m"
+    },
+    "id": 711,
+    "name": "Gourgeist",
+    "name_origin": "Gourgeist è una combinazione tra gourd  e geist , ma potrebbe anche essere la distorsione di gorgeous , data la natura femminea e semi-umanoide del Pokémon. Pumpjin è una combinazione tra pumpkin  e 神 shin , 人 jin , o jinn. ",
+    "origin": "Gourgeist sembra essere basato su una zucca di Halloween. Le varie dimensioni di Gourgeist forse alludono al fatto che le zucche intagliate hanno varie dimensioni. La parte superiore del corpo potrebbe basarsi anche su una candela come riferimento al fatto che esse stanno spesso dentro le zucche durante Halloween, infatti il ricciolo potrebbe essere lo stoppino mentre i capelli la cera sciolta. ",
+    "shape": "quadrupede",
+    "specie": "Pokémon Zucca",
+    "sprites": {
+        "normale": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem0711.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0711.png"
+        },
+        "mini": {
+            "default": "https://media.pokemoncentral.it/wiki/1/12/Homem0711S.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0711S.png"
+        },
+        "grande": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e2/Homem0711L.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0711L.png"
+        },
+        "maxi": {
+            "default": "https://media.pokemoncentral.it/wiki/3/30/Homem0711XL.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a2/Homemsh0711XL.png"
+        }
+    },
+    "stats": {
+        "normale": {
+            "hp": 65,
+            "atk": 90,
+            "def": 122,
+            "spa": 58,
+            "spd": 75,
+            "spe": 84
+        },
+        "mini": {
+            "hp": 55,
+            "atk": 85,
+            "def": 122,
+            "spa": 58,
+            "spd": 75,
+            "spe": 99
+        },
+        "grande": {
+            "hp": 75,
+            "atk": 95,
+            "def": 122,
+            "spa": 58,
+            "spd": 75,
+            "spe": 69
+        },
+        "maxi": {
+            "hp": 85,
+            "atk": 100,
+            "def": 122,
+            "spa": 58,
+            "spd": 75,
+            "spe": 54
+        }
+    },
+    "stats_sum": {
+        "normale": 494,
+        "mini": 494,
+        "grande": 494,
+        "maxi": 494
+    },
+    "types": {
+        "gourgeist": [
+            "Erba",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "normale": "12,5 kg",
+        "mini": "9,5 kg",
+        "grande": "14,0 kg",
+        "maxi": "39,0 kg"
+    }
+}

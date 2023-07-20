@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "dartrix": {
+            "primary": "Erbaiuto",
+            "hidden": "Distacco"
+        }
+    },
+    "curiosities": [
+        "Dartrix è l'unica forma evoluta di un Pokémon iniziale a cambiare tipo con l'evoluzione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dartrix.mp3",
+    "dex_entries": {
+        "dartrix": {
+            "sun": "È un po' vanitoso e non perde mai l'occasione di dedicarsi alla cura delle proprie ali. A volte rinuncia a lottare per non sporcarsi le piume.",
+            "moon": "Bersaglia nemici e prede con le sue piume affilate. Non manca quasi mai il bersaglio.",
+            "ultra-sun": "È narcisista e ama la pulizia al punto di smettere di obbedire se non ci si prende cura di lui come si deve.",
+            "ultra-moon": "È molto sensibile all'ambiente circostante. Percepisce la presenza del nemico dietro di sé e lo abbatte scagliando le sue piume affilate.",
+            "sword": "Bersaglia i nemici con le sue piume affilate come coltelli, colpendo con precisione i loro punti deboli.",
+            "shield": "Non trascura mai la cura delle proprie ali, non solo perché tiene al proprio aspetto, ma anche per mantenere affilate le sue piume.",
+            "legends-arceus": "Si crogiola con assiduità al sole per accumulare vigore, presumo per via del rigido clima. Ciononostante, nessun mutamento ha inficiato il filo tagliente del suo piumaggio alare."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 7,
+    "height": {
+        "dartrix": "0,7 m"
+    },
+    "id": 723,
+    "name": "Dartrix",
+    "name_origin": "Dartrix potrebbe essere una combinazione di darts, dardo e dal genere Strix o tricks, trucchi. Fukusurō potrebbe derivare da 梟 fukurō, gufo, e throw, scagliare. ",
+    "origin": "Dartrix sembra essere basato su un gufo e sull'archetipo di una persona elegante. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Piumaffilata",
+    "sprites": {
+        "dartrix": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f6/Homem0723.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0723.png"
+        }
+    },
+    "stats": {
+        "dartrix": {
+            "hp": 78,
+            "atk": 75,
+            "def": 75,
+            "spa": 70,
+            "spd": 70,
+            "spe": 52
+        }
+    },
+    "stats_sum": {
+        "dartrix": 420
+    },
+    "types": {
+        "dartrix": [
+            "Erba",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "dartrix": "16,0 kg"
+    }
+}

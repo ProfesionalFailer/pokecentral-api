@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "rellor": {
+            "primary": "Insettocchi",
+            "hidden": "Muta"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Coleottero",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Coleottero",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 270"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/rellor.mp3",
+    "dex_entries": {
+        "rellor": {
+            "scarlet": "Mischiando energia Psico a terra e sabbia crea una palla di fango che considera più preziosa della sua stessa vita.",
+            "violet": "Rotola una palla di fango per accumulare l'energia necessaria alla sua evoluzione. Quando i tempi sono maturi, si evolve."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 9,
+    "height": {
+        "rellor": "0,2 m"
+    },
+    "id": 953,
+    "name": "Rellor",
+    "name_origin": "Rellor è la parola roller, inglese per rullo, scritto al contrario. Shigaroko potrebbe essere la parola 転がし korogashi, rotolare qualcosa, al contrario. ",
+    "origin": "Rellor è basato sugli scarabei stercorari. ",
+    "shape": "None",
+    "specie": "Pokémon Rotolatore",
+    "sprites": {
+        "rellor": {
+            "default": "https://media.pokemoncentral.it/wiki/6/63/Homem0953.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0953.png"
+        }
+    },
+    "stats": {
+        "rellor": {
+            "hp": 41,
+            "atk": 50,
+            "def": 60,
+            "spa": 31,
+            "spd": 58,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "rellor": 270
+    },
+    "types": {
+        "rellor": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "rellor": "1,0 kg"
+    }
+}

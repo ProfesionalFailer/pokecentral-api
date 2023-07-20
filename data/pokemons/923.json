@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "pawmot": {
+            "primary": "Assorbivolt",
+            "secondary": "Alternacura",
+            "hidden": "Ferropugno"
+        }
+    },
+    "curiosities": [
+        "Pawmo, Pawmot e Manoferrea sono i primi Pokémon con la combinazione ti tipi Elettro/Lotta."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pawmot.mp3",
+    "dex_entries": {
+        "pawmot": {
+            "scarlet": "Di solito è piuttosto flemmatico, ma quando si trova a lottare atterra il nemico con movimenti fulminei.",
+            "violet": "La sua pelliccia soffice funge da batteria. Può immagazzinare tanta elettricità quanto un'automobile elettrica."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 9,
+    "height": {
+        "pawmot": "0,9 m"
+    },
+    "id": 923,
+    "name": "Pawmot",
+    "name_origin": "Pawmot potrebbe essere una combinazione di Pawmi e marmot . Pamotto potrebbe essere una combinazione di パモ Pamo  e marmot. ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Toccasana",
+    "sprites": {
+        "pawmot": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f3/Homem0923.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0b/Homemsh0923.png"
+        }
+    },
+    "stats": {
+        "pawmot": {
+            "hp": 70,
+            "atk": 115,
+            "def": 70,
+            "spa": 70,
+            "spd": 60,
+            "spe": 105
+        }
+    },
+    "stats_sum": {
+        "pawmot": 490
+    },
+    "types": {
+        "pawmot": [
+            "Elettro",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "pawmot": "41,0 kg"
+    }
+}

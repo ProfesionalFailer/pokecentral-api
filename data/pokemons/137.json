@@ -1,0 +1,106 @@
+{
+    "abilities": {
+        "porygon": {
+            "primary": "Traccia",
+            "secondary": "Download",
+            "hidden": "Ponderazione"
+        }
+    },
+    "curiosities": [
+        "Porygon è l'unico Pokémon che si evolve due volte tenendo uno strumento durante uno scambio: la prima in Porygon2 se scambiato con Upgrade, la seconda  in Porygon-Z se scambiato con Dubbiodisco.",
+        "Porygon è l'unico Pokémon avente due evoluzioni appartenenti a due Pokédex regionali diversi, rispettivamente Johto e Sinnoh.",
+        "L'episodio EP038, con Porygon in un ruolo importante, ha causato problemi di convulsioni e occhi irritati in alcuni spettatori. Dopo di cio', l'episodio è stato censurato e Porygon non è più apparso nell'anime, nonostante fosse stato il Pikachu di Ash con il suo Tuonoshock a causare tutto.",
+        "Porygon è l'unico Pokémon che evolve in un Pokémon più piccolo e dopo nuovamente in uno più grande.",
+        "La linea evolutiva di Porygon è l'unica in cui tutti i membri possono apprendere sia Gigaimpatto che Iper Raggio.",
+        "La linea evolutiva di Porygon ha tre mosse esclusive, tante quante Hitmonlee*, Cubone e Marowak* e Vespiquen, il numero più alto tra tutti i Pokémon.",
+        "Porygon è uno dei cinque Pokémon che inizialmente non aveva né evoluzioni né pre-evoluzioni mentre adesso ha una linea evolutiva a tre stadi. Gli altri quattro sono Chansey, Magmar, Electabuzz e Roselia.\n\tTuttavia, diversamente da Porygon che ha ricevuto due evoluzioni, tutti questi hanno ricevuto un'evoluzione ed una pre-evoluzione.",
+        "Tuttavia, diversamente da Porygon che ha ricevuto due evoluzioni, tutti questi hanno ricevuto un'evoluzione ed una pre-evoluzione.",
+        "Nonostante sia un Pokémon artificiale, Porygon è in grado di accoppiarsi e produrre uova. Condivide questa caratteristica con Voltorb, Golett e Rotom ma non con Tipo Zero.",
+        "Sebbene sia un Pokémon base in grado di evolversi due volte, Porygon ha la somma delle statistiche base più alta di Butterfree, Beedrill, Beautifly e Dustox, quattro Pokémon che si sono già evoluti due volte.",
+        "In seconda generazione Porygon, Porygon2 e Smeargle erano gli unici Pokémon in grado di ottenere entrambi gli effetti di Maledizione: l'uno semplicemente usando la mossa, l'altro dopo aver ottenuto il tipo Spettro usando Conversione o Conversione2. In terza generazione Porygon e Porygon2 perdono questa possibilità perché Maledizione non è più una MT, ma la ottengono nuovamente in settima grazie alla compatibilità con i giochi su Virtual Console.\n\tMolti altri Pokémon potrebbero sfruttare entrambi gli effetti di Maledizione grazie a Inondazione o Halloween, con la differenza che non sono in grado di farlo autonomamente perché devono subire una di queste mosse.",
+        "Molti altri Pokémon potrebbero sfruttare entrambi gli effetti di Maledizione grazie a Inondazione o Halloween, con la differenza che non sono in grado di farlo autonomamente perché devono subire una di queste mosse.",
+        "Nei giochi 3D Porygon può staccare arti e testa dal corpo quando necessario: lo si vede tirare la testa verso l'esterno finché non si stacca per qualche secondo.\n\tIn Pokémon Ranger e Pokémon Snap è rivelato che Porygon può cambiare colore e rendersi trasparente, anche se non è in grado di imparare Camuffamento. Nello sprite di Pokémon Cristallo Porygon perde la propria texture rivelando il suo wireframe.",
+        "In Pokémon Ranger e Pokémon Snap è rivelato che Porygon può cambiare colore e rendersi trasparente, anche se non è in grado di imparare Camuffamento. Nello sprite di Pokémon Cristallo Porygon perde la propria texture rivelando il suo wireframe.",
+        "Porygon ha la somma delle statistiche base più alta fra tutti i Pokémon non evoluti appartenenti ad una famiglia evolutiva di 3 stadi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/porygon.mp3",
+    "dex_entries": {
+        "porygon": {
+            "red": "Formato per intero da codici programmatici può muoversi liberamente nel ciberspazio.",
+            "blue": "Formato per intero da codici programmatici può muoversi liberamente nel ciberspazio.",
+            "yellow": "Per gli esperti è l'unico POKéMON che potrà andare nello spazio, ma nessuno sa ancora come e quando.",
+            "gold": "È un POKéMON creato dall'uomo. Non avendo bisogno di respirare, è utilizzato in ogni tipo di ambiente.",
+            "silver": "Un POKéMON creato dall'uomo, risultato di una ricerca. Esegue solo i movimenti principali.",
+            "crystal": "È un POKéMON artificiale, nato dalla ricerca. Può solo eseguire ciò che è previsto dal programma.",
+            "ruby": "PORYGON è in grado di regredire ai suoi codici di programmazione originari ed entrare nel ciberspazio. Questo POKéMON è dotato di un sistema anti-pirateria per evitarne la duplicazione illecita.",
+            "sapphire": "PORYGON è in grado di regredire ai suoi codici di programmazione originari ed entrare nel ciberspazio. Questo POKéMON è dotato di un sistema anti-pirateria per evitarne la duplicazione illecita.",
+            "emerald": "PORYGON può regredire ai suoi codici di programmazione originari ed entrare nel ciberspazio. È dotato di un sistema antipirateria per evitare la duplicazione.",
+            "firered": "Le tecnologie più avanzate hanno finalmente permesso agli scienziati di creare il primo POKéMON artificiale.",
+            "leafgreen": "Formato per intero da codici programmatici, può muoversi liberamente nel ciberspazio.",
+            "diamond": "Il primo Pokémon al mondo creato artificialmente. Riesce a muoversi liberamente nel ciberspazio.",
+            "pearl": "Il primo Pokémon al mondo creato artificialmente. Riesce a muoversi liberamente nel ciberspazio.",
+            "platinum": "Il primo Pokémon al mondo creato artificialmente. Riesce a muoversi liberamente nel ciberspazio.",
+            "heartgold": "Questo Pokémon, creato dall'uomo, non ha bisogno di respirare ed è utilizzato in ogni tipo di ambiente.",
+            "soulsilver": "Questo Pokémon è il risultato di una ricerca umana. Esegue solo i movimenti più elementari.",
+            "black": "Un Pokémon creato dall'uomo con metodi scientifici avanzatissimi. Si muove liberamente nel ciberspazio.",
+            "white": "Un Pokémon creato dall'uomo con metodi scientifici avanzatissimi. Si muove liberamente nel ciberspazio.",
+            "black-2": "Un Pokémon creato dall'uomo con metodi scientifici avanzatissimi. Si muove liberamente nel ciberspazio.",
+            "white-2": "Un Pokémon creato dall'uomo con metodi scientifici avanzatissimi. Si muove liberamente nel ciberspazio.",
+            "x": "Questo Pokémon è il risultato di una ricerca umana. Esegue solo i movimenti più elementari.",
+            "y": "Formato per intero da codici programmatici, può muoversi liberamente nel ciberspazio.",
+            "omega-ruby": "Porygon è in grado di regredire ai suoi codici di programmazione originari ed entrare nel cyberspazio. Questo Pokémon è dotato di un sistema antipirateria per evitare la duplicazione illecita.",
+            "alpha-sapphire": "Porygon è in grado di regredire ai suoi codici di programmazione originari ed entrare nel cyberspazio. Questo Pokémon è dotato di un sistema antipirateria per evitarne la duplicazione illecita.",
+            "sun": "Un Pokémon artificiale creato circa 20 anni fa sfruttando le conoscenze scientifiche più avanzate dell'epoca.",
+            "moon": "Il suo corpo può essere digitalizzato, rendendolo in grado di entrare nel cyberspazio.",
+            "ultra-sun": "Un Pokémon creato circa 20 anni fa grazie alle conoscenze scientifiche dell’epoca. Molte sue parti sono ormai obsolete.",
+            "ultra-moon": "Un Pokémon creato 20 anni fa da alcuni scienziati che sognavano di esplorare lo spazio. Il loro sogno non è stato ancora realizzato.",
+            "lets-go-pikachu": "Si ritiene che sia l'unico Pokémon in grado di volare fino allo spazio, ma ad oggi non è ancora successo.",
+            "lets-go-eevee": "Si ritiene che sia l'unico Pokémon in grado di volare fino allo spazio, ma ad oggi non è ancora successo.",
+            "sword": "È il primo Pokémon della storia a essere stato creato tramite programmi, grazie all'impiego di tecnologie all'avanguardia.",
+            "shield": "Negli ultimi anni ha assunto un ruolo di rilevanza nel cyberspazio, in cui si aggira per assicurarsi che non ci siano dati sospetti.",
+            "brilliant-diamond": "Il primo Pokémon al mondo creato in maniera artificiale. Riesce a muoversi liberamente nel ciberspazio.",
+            "shining-pearl": "Il primo Pokémon al mondo creato in maniera artificiale. Riesce a muoversi liberamente nel ciberspazio.",
+            "legends-arceus": "Non ci è dato avvertire il pulsare del suo cuore o il respiro, eppure ciò non ne ostacola l'attività. Una singolare creatura che lascia perplessi."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 1,
+    "height": {
+        "porygon": "0,8 m"
+    },
+    "id": 137,
+    "name": "Porygon",
+    "name_origin": "Il nome di Porygon deriva da polygon, \"poligono\", scritto con una R in riferimento al fatto che il Giapponese non distingue i suoni di R e L. Potrebbe anche contenere la parola origami. ",
+    "origin": "Porygon è probabilmente basato su un origami di un uccello creato con un software di rendering 3D rudimentale. Gli strumenti Upgrade e Dubbiodisco, invece, sono ispirati ai CD-ROM. ",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Virtuale",
+    "sprites": {
+        "porygon": {
+            "default": "https://media.pokemoncentral.it/wiki/0/01/Homem0137.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0137.png"
+        }
+    },
+    "stats": {
+        "porygon": {
+            "hp": 65,
+            "atk": 60,
+            "def": 70,
+            "spa": 85,
+            "spd": 75,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "porygon": 395
+    },
+    "types": {
+        "porygon": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "porygon": "36,5 kg"
+    }
+}

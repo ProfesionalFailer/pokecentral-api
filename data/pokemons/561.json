@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "sigilyph": {
+            "primary": "Splendicute",
+            "secondary": "Magicscudo",
+            "hidden": "Lentifumé"
+        }
+    },
+    "curiosities": [
+        "Sigilyph è l'unico Pokémon che può avere Splendicute come abilità non nascosta.",
+        "È l'unico Pokémon di quinta generazione in grado di imparare Cosmoforza."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sigilyph.mp3",
+    "dex_entries": {
+        "sigilyph": {
+            "black": "Vola seguendo sempre la stessa rotta, perché conserva il ricordo della città antica che un tempo proteggeva.",
+            "white": "Era lo spirito custode di un'antica città. Attaccava con poteri psichici i nemici che invadevano il suo territorio.",
+            "black-2": "Era lo spirito custode di un'antica città. Percorreva sempre lo stesso percorso per assicurarsi non ci fossero intrusi.",
+            "white-2": "Era lo spirito custode di un'antica città. Percorreva sempre lo stesso percorso per assicurarsi non ci fossero intrusi.",
+            "x": "Era lo spirito custode di un'antica città. Attaccava con poteri psichici i nemici che invadevano il suo territorio.",
+            "y": "Era lo spirito custode di un'antica città. Percorreva sempre lo stesso percorso per assicurarsi che non ci fossero intrusi.",
+            "omega-ruby": "Era lo spirito custode di un'antica città. Attaccava con poteri psichici i nemici che invadevano il suo territorio.",
+            "alpha-sapphire": "Era lo spirito custode di un'antica città. Percorreva sempre lo stesso percorso per assicurarsi che non ci fossero intrusi.",
+            "sword": "Vola grazie ai suoi poteri psichici. Si dice che fosse lo spirito custode di un'antica città o il suo messaggero.",
+            "shield": "Nella zona desertica sorvolata da questi Pokémon sono stati disseppelliti i resti di un'antica città."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 5,
+    "height": {
+        "sigilyph": "1,4 m"
+    },
+    "id": 561,
+    "name": "Sigilyph",
+    "name_origin": "Sigilyph potrebbe essere una combinazione dei termini inglesi sigil , glyph , e sylph . ",
+    "origin": "Sigilyph è molto probabilmente basato sulle linee di Nazca, specialmente a quella del colibrì, infatti come queste si trova nelle zone desertiche. Il suo aspetto ricorda anche il fūrin, un campanellino del vento tipico del Giappone, e le bambole kachina . ",
+    "shape": "testa e base",
+    "specie": "Pokémon Pseuduccello",
+    "sprites": {
+        "sigilyph": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1a/Homem0561.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0561.png"
+        }
+    },
+    "stats": {
+        "sigilyph": {
+            "hp": 72,
+            "atk": 58,
+            "def": 80,
+            "spa": 103,
+            "spd": 80,
+            "spe": 97
+        }
+    },
+    "stats_sum": {
+        "sigilyph": 490
+    },
+    "types": {
+        "sigilyph": [
+            "Psico",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "sigilyph": "14,0 kg"
+    }
+}

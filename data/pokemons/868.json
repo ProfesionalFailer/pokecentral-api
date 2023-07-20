@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "milcery": {
+            "primary": "Dolcevelo",
+            "hidden": "Aromavelo"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di ottava generazione",
+        "Pokémon di tipo Folletto",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Bianco",
+        "Pokémon dalla sagoma n. 01",
+        "Pokémon esclusivamente femmine",
+        "Pokémon di Gruppo Uova Magico",
+        "Pokémon di Gruppo Uova Amorfo",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 270",
+        "Pokémon che si evolvono tramite un metodo esclusivo",
+        "Pokémon che si evolvono tramite strumento tenuto",
+        "Pokémon che si evolvono in base al tempo"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/milcery.mp3",
+    "dex_entries": {
+        "milcery": {
+            "sword": "Il suo corpo è fatto di panna. È nato dall'unione di particelle di profumo dolce disperse nell'aria.",
+            "shield": "Si dice che le pasticcerie in cui è apparso un Milcery avranno un successo assicurato!"
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Amorfo"
+    ],
+    "generation": 8,
+    "height": {
+        "milcery": "0,2 m"
+    },
+    "id": 868,
+    "name": "Milcery",
+    "name_origin": "Milcery potrebbe essere una combinazione di milk, latte, e sorcery, magia, o mercurio. Mahomil potrebbe essere una combinazione di 魔法 mahō, magico, e milk, latte. ",
+    "origin": "Milcery potrebbe essere basato su una goccia di latte o di crema. ",
+    "shape": "testa",
+    "specie": "Pokémon Pannafresca",
+    "sprites": {
+        "milcery": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d2/Homef0868.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homefsh0868.png"
+        }
+    },
+    "stats": {
+        "milcery": {
+            "hp": 45,
+            "atk": 40,
+            "def": 40,
+            "spa": 50,
+            "spd": 61,
+            "spe": 34
+        }
+    },
+    "stats_sum": {
+        "milcery": 270
+    },
+    "types": {
+        "milcery": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "milcery": "0,3 kg"
+    }
+}

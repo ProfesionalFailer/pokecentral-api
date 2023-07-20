@@ -1,0 +1,98 @@
+{
+    "abilities": {
+        "goodra": {
+            "primary": "Mangiaerba",
+            "secondary": "Idratazione",
+            "hidden": "Viscosità"
+        },
+        "forma-di-hisui": {
+            "primary": "Mangiaerba",
+            "secondary": "Guscioscudo",
+            "hidden": "Viscosità"
+        }
+    },
+    "curiosities": [
+        "Goodra, a pari merito con MegaLatias, ha la più alta statistica base di Difesa Speciale di tutti i Pokémon di tipo Drago.",
+        "Fra i Pokémon pseudo-leggendari, Goodra è:\n\tL'unico non di doppio tipo.\n\tIl secondo che sorride dopo Dragonite.\n\tIl primo ad avere due possibili abilità non speciali.\n\tIl primo a non avere un'immunità dovuta al suo tipo .\n\tQuello con il valore più alto di una singola statistica base, grazie ai 150 punti in Difesa Speciale (escludendo le megaevoluzioni.\n\tL'unico a necessitare di una specifica condizione atmosferica per evolversi.\n\tQuello con il valore di attacco più basso: 100.",
+        "L'unico non di doppio tipo.",
+        "Il secondo che sorride dopo Dragonite.",
+        "Il primo ad avere due possibili abilità non speciali.",
+        "Il primo a non avere un'immunità dovuta al suo tipo .",
+        "Quello con il valore più alto di una singola statistica base, grazie ai 150 punti in Difesa Speciale (escludendo le megaevoluzioni.",
+        "L'unico a necessitare di una specifica condizione atmosferica per evolversi.",
+        "Quello con il valore di attacco più basso: 100."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/goodra.mp3",
+    "dex_entries": {
+        "goodra": {
+            "x": "Un Pokémon Drago davvero amichevole. Ama fare le feste al suo Allenatore lasciandolo ricoperto di bava.",
+            "y": "Attacca con i corni che possono allungarsi e accorciarsi. Ha una forza pari a quella di 100 pugili professionisti.",
+            "omega-ruby": "Un Pokémon Drago davvero amichevole. Ama fare le feste al suo Allenatore lasciandolo ricoperto di bava.",
+            "alpha-sapphire": "Attacca con i corni che possono allungarsi e accorciarsi. Ha una forza pari a quella di 100 pugili professionisti.",
+            "sun": "Questo Pokémon adora la compagnia e, se viene trascurato, si rattrista e si mette a piangere versando viscidi lacrimoni.",
+            "moon": "Chi lo prende in giro credendolo inoffensivo potrebbe ritrovarsi ad assaggiare la potenza dei suoi corni e della sua grossa coda.",
+            "ultra-sun": "È molto socievole e se si affeziona a qualcuno lo abbraccia ricoprendolo di bava appiccicosa. Ci vuole pazienza con questo Pokémon...",
+            "ultra-moon": "Sotto la sua pelle viscosa c'è uno spesso strato di grasso che assorbe i colpi dei nemici.",
+            "sword": "A volte non capisce gli ordini del suo Allenatore e rimane immobile con un'aria stupita. Molti lo trovano adorabile proprio per questo.",
+            "shield": "Distende i suoi lunghi corni e si lancia all'attacco con una potenza 100 volte superiore al pugno di un peso massimo.",
+            "scarlet": "Questo Pokémon mite adora i diluvi, tanto che spesso lo si vede camminare per monti e per valli sotto la pioggia scrosciante.",
+            "violet": "Quando si arrabbia non c’è verso di calmarlo: si scatena con colpi di coda capaci di rivoltare persino un autocarro."
+        },
+        "forma-di-hisui": {
+            "legends-arceus": "Può regolare la durezza del carapace metallico. Rifugge la solitudine e monta su tutte le furie se abbandonato da coloro a cui è più affezionato."
+        }
+    },
+    "egg_groups": [
+        "Drago"
+    ],
+    "generation": 6,
+    "height": {
+        "goodra": "2,0 m"
+    },
+    "id": 706,
+    "name": "Goodra",
+    "name_origin": "Goodra deriva dall'unione delle parole inglesi goo  e dragon . Potrebbe anche derivare da good . Numelgon è una combinazione tra 滑る numeru , gel e dragon . ",
+    "origin": "Goodra è basato su un gasteropode e su un drago. La sua natura di drago e le corna retrattili fanno pensare che questo Pokémon prenda spunto da Lou Carcolh, un serpente/mollusco mitologico proveniente dal folklore francese. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Drago",
+    "sprites": {
+        "goodra": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a4/Homem0706.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0706.png"
+        }
+    },
+    "stats": {
+        "goodra": {
+            "hp": 90,
+            "atk": 100,
+            "def": 70,
+            "spa": 110,
+            "spd": 150,
+            "spe": 80
+        },
+        "forma-di-hisui": {
+            "hp": 80,
+            "atk": 100,
+            "def": 100,
+            "spa": 110,
+            "spd": 150,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "goodra": 600,
+        "forma-di-hisui": 600
+    },
+    "types": {
+        "goodra": [
+            "Drago"
+        ],
+        "forma-di-hisui": [
+            "Acciaio",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "goodra": "150,5 kg"
+    }
+}

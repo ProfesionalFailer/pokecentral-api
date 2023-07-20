@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "poochyena": {
+            "primary": "Fugafacile",
+            "secondary": "Piedisvelti",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Nonostante sia di tipo Buio e il Pokédex dica che cattura la preda inseguendola, non può imparare la mossa Inseguimento.",
+        "Poochyena ha la più bassa statistica base di Punti Salute, Attacco Speciale, e il più basso totale di statistiche base di tutti i Pokémon di tipo Buio.",
+        "Poochyena condivide la propria categoria con Mightyena e Drednaw, sono tutti noti come Pokémon Morso."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/poochyena.mp3",
+    "dex_entries": {
+        "poochyena": {
+            "ruby": "POOCHYENA azzanna al minimo movimento anche senza sapere cos'è. Caccia la sua preda finché questa non è tanto stanca da cedere. Tuttavia, se il nemico contrattacca, POOCHYENA talvolta scappa.",
+            "sapphire": "POOCHYENA è onnivoro: mangia di tutto. Una caratteristica distintiva è la dimensione delle zanne rispetto al corpo. Cerca di intimidire i nemici rizzando il pelo della coda.",
+            "emerald": "POOCHYENA intimidisce i nemici mostrando le zanne e dà la caccia con tenacia a quelli che fuggono. Talvolta, se il nemico contrattacca, POOCHYENA se la dà a gambe.",
+            "firered": "POKéMON molto tenace. L'olfatto sviluppatissimo gli permette di seguire una preda senza mai perderne le tracce.",
+            "leafgreen": "POKéMON molto tenace. L'olfatto sviluppatissimo gli permette di seguire una preda senza mai perderne le tracce.",
+            "diamond": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "pearl": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "platinum": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "heartgold": "Insegue la preda prescelta fino a spossarla. Tuttavia, se viene attaccato indietreggia.",
+            "soulsilver": "Insegue la preda prescelta fino a spossarla. Tuttavia, se viene attaccato indietreggia.",
+            "black": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "white": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "black-2": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "white-2": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "x": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "y": "Pokémon molto tenace. L'olfatto sviluppatissimo gli permette di seguire una preda senza mai perderne le tracce.",
+            "omega-ruby": "Poochyena azzanna al minimo movimento senza riflettere. Caccia la sua preda finché questa non è tanto stanca da cedere. Tuttavia, se il nemico contrattacca, Poochyena talvolta scappa.",
+            "alpha-sapphire": "Poochyena è onnivoro: mangia di tutto. Una caratteristica distintiva è la dimensione delle zanne rispetto al corpo. Cerca di intimidire i nemici rizzando il pelo della coda.",
+            "brilliant-diamond": "Pokémon dalla natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "shining-pearl": "Pokémon dalla natura ostinata. Insegue la preda prescelta finché questa non è esausta."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 3,
+    "height": {
+        "poochyena": "0,50 m"
+    },
+    "id": 261,
+    "name": "Poochyena",
+    "name_origin": "Deriva dalle parole pooch , e hyena . ",
+    "origin": "Basato su un lupo e una iena. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Morso",
+    "sprites": {
+        "poochyena": {
+            "default": "https://media.pokemoncentral.it/wiki/1/13/Homem0261.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/21/Homemsh0261.png"
+        }
+    },
+    "stats": {
+        "poochyena": {
+            "hp": 35,
+            "atk": 55,
+            "def": 35,
+            "spa": 30,
+            "spd": 30,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "poochyena": 220
+    },
+    "types": {
+        "poochyena": [
+            "Buio"
+        ]
+    },
+    "weight": {
+        "poochyena": "13,6 kg"
+    }
+}

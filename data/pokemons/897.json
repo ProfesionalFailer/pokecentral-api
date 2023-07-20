@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "spectrier": {
+            "primary": "Nitrito Nero"
+        }
+    },
+    "curiosities": [
+        "L'Attacco e l'Attacco Speciale di Spectrier sono invertiti rispetto a quelli di Glastrier.",
+        "Spectrier e Glastrier sono gli unici Pokémon introdotti in Le terre innevate della corona a non essere stati rivelati prima del rilascio dell'espansione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/spectrier.mp3",
+    "dex_entries": {
+        "spectrier": {
+            "sword": "Sonda l'area circostante con tutti i suoi sensi, esclusa la vista. Si narra che chi subisce i suoi calci venga privato dell'anima.",
+            "shield": "Galoppa nelle notti buie assorbendo l'energia vitale delle creature addormentate. Ama la solitudine e la quiete."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 8,
+    "height": {
+        "spectrier": "2,0 m"
+    },
+    "id": 897,
+    "name": "Spectrier",
+    "name_origin": "Spectrier potrebbe essere una combinazione di spectre, spettro, e rider, cavallerizzo, o destrier, destriero. Wraithpos potrebbe essere una combinazione di wraith, demone, e horse, cavallo. ",
+    "origin": "",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Sveltequino",
+    "sprites": {
+        "spectrier": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0897.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0897.png"
+        }
+    },
+    "stats": {
+        "spectrier": {
+            "hp": 100,
+            "atk": 65,
+            "def": 60,
+            "spa": 145,
+            "spd": 80,
+            "spe": 130
+        }
+    },
+    "stats_sum": {
+        "spectrier": 580
+    },
+    "types": {
+        "spectrier": [
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "spectrier": "44,5 kg"
+    }
+}

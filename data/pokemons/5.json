@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "charmeleon": {
+            "primary": "Aiutofuoco",
+            "hidden": "Solarpotere"
+        }
+    },
+    "curiosities": [
+        "Charmeleon e Charizard condividono la loro categoria con Flareon, Moltres e Infernape. Tutti e cinque sono noti come Pokémon Fiamma.",
+        "Charmeleon, Quilava e le loro rispettive famiglie evolutive possiedono le stesse statistiche base."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/charmeleon.mp3",
+    "dex_entries": {
+        "charmeleon": {
+            "red": "Quando agita la sua coda infuocata porta la temperatura a livelli insostenibili.",
+            "blue": "Quando agita la sua coda infuocata porta la temperatura a livelli insostenibili.",
+            "yellow": "Si innervosisce durante le lotte più dure e talvolta sputa fiamme blu e bianche.",
+            "gold": "È turbolento di natura, sempre alla ricerca di avversari. Si placa solo dopo aver vinto.",
+            "silver": "Ha un'indole spietata. Durante la lotta frusta con la forte coda e taglia con artigli affilati.",
+            "crystal": "Se s'innervosisce nella lotta, sputa potenti fiamme che inceneriscono l'area circostante.",
+            "ruby": "CHARMELEON distrugge il nemico senza pietà con i suoi artigli affilati. Quando incontra un avversario molto forte diventa aggressivo. In questo stato di grande agitazione la fiamma della coda diventa di colore bianco bluastro.",
+            "sapphire": "CHARMELEON distrugge il nemico senza pietà con i suoi artigli affilati. Quando incontra un avversario molto forte diventa aggressivo. In questo stato di grande agitazione la fiamma della coda diventa di colore bianco bluastro.",
+            "emerald": "Usa gli artigli affilati per distruggere il nemico senza pietà. Di fronte a un nemico molto forte diventa aggressivo e la fiamma sulla coda si colora di un bianco bluastro.",
+            "firered": "Fa cadere a terra il nemico colpendolo con la coda, per poi finirlo con gli artigli affilati.",
+            "leafgreen": "Quando agita la sua coda infuocata porta la temperatura a livelli insostenibili.",
+            "diamond": "Sui monti rocciosi, sua dimora, la coda di CHARMELEON brilla come una stella nella notte.",
+            "pearl": "Sui monti rocciosi, sua dimora, la coda di CHARMELEON brilla come una stella nella notte.",
+            "platinum": "Sui monti rocciosi, sua dimora, la coda di CHARMELEON brilla come una stella nella notte.",
+            "heartgold": "Turbolento di natura, è sempre alla ricerca di avversari. Si placa solo dopo aver vinto.",
+            "soulsilver": "Ha un’indole spietata. Durante la lotta frusta con la forte coda e taglia con artigli affilati.",
+            "black": "Sui monti rocciosi, sua dimora, la coda di Charmeleon brilla come una stella nella notte.",
+            "white": "Sui monti rocciosi, sua dimora, la coda di Charmeleon brilla come una stella nella notte.",
+            "black-2": "Sui monti rocciosi, sua dimora, la coda di Charmeleon brilla come una stella nella notte.",
+            "white-2": "Sui monti rocciosi, sua dimora, la coda di Charmeleon brilla come una stella nella notte.",
+            "x": "Fa cadere a terra il nemico colpendolo con la coda, per poi finirlo con gli artigli affilati.",
+            "y": "Quando agita la sua coda infuocata porta la temperatura a livelli insostenibili.",
+            "omega-ruby": "Charmeleon distrugge il nemico senza pietà con i suoi artigli affilati. Quando incontra un avversario molto forte diventa aggressivo. In questo stato di grande agitazione la fiamma della coda diventa di colore bianco bluastro.",
+            "alpha-sapphire": "Charmeleon distrugge il nemico senza pietà con i suoi artigli affilati. Quando incontra un avversario molto forte diventa aggressivo. In questo stato di grande agitazione la fiamma della coda diventa di colore bianco bluastro.",
+            "lets-go-pikachu": "Si infervora durante le lotte più dure e talvolta sputa fiamme bluastre.",
+            "lets-go-eevee": "Si infervora durante le lotte più dure e talvolta sputa fiamme bluastre.",
+            "sword": "Ha un’indole feroce. Usa la coda fiammeggiante come una frusta e lacera l’avversario con gli artigli affilati.",
+            "shield": "Se s’infervora nella lotta, sputa potenti fiamme che inceneriscono l’area circostante.",
+            "brilliant-diamond": "Di notte, sui monti rocciosi dove vivono i Charmeleon, si vedono le loro code brillare come stelle.",
+            "shining-pearl": "Di notte, sui monti rocciosi dove vivono i Charmeleon, si vedono le loro code brillare come stelle."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "generation": 1,
+    "height": {
+        "charmeleon": "1,1 m"
+    },
+    "id": 5,
+    "name": "Charmeleon",
+    "name_origin": "Charmeleon potrebbe essere una combinazione di char, carbonizzare, e chameleon, camaleonte. Lizardo potrebbe derivare dall'inglese lizard, lucertola. ",
+    "origin": "Charmeleon e la sua famiglia evolutiva sono basati su una lucertola, probabilmente sulla salamandra mitologica. Secondo Ken Sugimori e Atsuko Nishida, l'artista si è basata su un criterio opposto rispetto alla sua forma finale, il che significa che Charmeleon è direttamente basato su Charizard. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Fiamma",
+    "sprites": {
+        "charmeleon": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d0/Homem0005.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0005.png"
+        }
+    },
+    "stats": {
+        "charmeleon": {
+            "hp": 58,
+            "atk": 64,
+            "def": 58,
+            "spa": 80,
+            "spd": 65,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "charmeleon": 405
+    },
+    "types": {
+        "charmeleon": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "charmeleon": "19,0 kg"
+    }
+}

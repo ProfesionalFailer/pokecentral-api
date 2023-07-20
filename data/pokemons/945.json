@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "grafaiai": {
+            "primary": "Agiltecnica",
+            "secondary": "Velentocco",
+            "hidden": "Burla"
+        }
+    },
+    "curiosities": [
+        "Grafaiai e la sua pre-evoluzione Shroodle sono i primi Pokémon ad avere la combinazione di tipi Veleno/Normale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/grafaiai.mp3",
+    "dex_entries": {
+        "grafaiai": {
+            "scarlet": "Traccia dei motivi sugli alberi della foresta con le dita imbrattate di saliva velenosa, il cui colore cambia in base all'alimentazione.",
+            "violet": "I motivi che disegnano variano da esemplare a esemplare, e ogni individuo traccia lo stesso motivo per tutta la vita."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 9,
+    "height": {
+        "grafaiai": "0,7 m"
+    },
+    "id": 945,
+    "name": "Grafaiai",
+    "name_origin": "Grafaiai potrebbe essere composto da graffiti e aye-aye. ",
+    "origin": "Grafaiai potrebbe essere ispirato ad un aye-aye. ",
+    "shape": "None",
+    "specie": "Pokémon Velenprimate",
+    "sprites": {
+        "grafaiai": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f1/Homem0945.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homemsh0945.png"
+        }
+    },
+    "stats": {
+        "grafaiai": {
+            "hp": 63,
+            "atk": 95,
+            "def": 65,
+            "spa": 80,
+            "spd": 72,
+            "spe": 110
+        }
+    },
+    "stats_sum": {
+        "grafaiai": 485
+    },
+    "types": {
+        "grafaiai": [
+            "Normale",
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "grafaiai": "27,2 kg"
+    }
+}

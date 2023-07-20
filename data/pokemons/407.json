@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "roserade": {
+            "primary": "Alternacura",
+            "secondary": "Velenopunte",
+            "hidden": "Tecnico"
+        }
+    },
+    "curiosities": [
+        "Dato che non è necessario raggiungere un particolare livello per consentire l'evoluzione da Roselia , Roserade è uno dei due Pokémon di terzo stadio in grado di poter essere allenato sin dal livello 1 .",
+        "Roserade condivide con Exeggutor il più alto Attacco Speciale fra tutti i Pokémon di tipo Erba non megaevoluti.",
+        "Roserade e la sua pre-evoluzione sono gli unici Pokémon di tipo Veleno facenti parte del Gruppo Uova Magico."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/roserade.mp3",
+    "dex_entries": {
+        "roserade": {
+            "diamond": "Attira la preda con un dolce aroma, poi l’abbatte con le fruste spinose celate fra i bouquet delle braccia.",
+            "pearl": "Con i movimenti di una ballerina, colpisce con le fruste, piene di spine velenose.",
+            "platinum": "Le due diverse tossine sulle mani di ROSERADE hanno un effetto quasi letale quando il Pokémon colpisce.",
+            "heartgold": "Attira la preda con un dolce aroma, poi l’abbatte con il veleno. Più dolce l’aroma, più forte il veleno.",
+            "soulsilver": "Attira la preda con un dolce aroma, poi l’abbatte con il veleno. Più dolce l’aroma, più forte il veleno.",
+            "black": "Le due diverse tossine sulle mani di Roserade hanno un effetto quasi letale quando il Pokémon colpisce.",
+            "white": "Le due diverse tossine sulle mani di Roserade hanno un effetto quasi letale quando il Pokémon colpisce.",
+            "black-2": "Attira la preda con il suo profumo soave per poi afferrarla e abbatterla con gli arti velenosi.",
+            "white-2": "Attira la preda con il suo profumo soave per poi afferrarla e abbatterla con gli arti velenosi.",
+            "x": "Attira la preda con il suo profumo soave per poi afferrarla e abbatterla con gli arti velenosi.",
+            "y": "Con i movimenti di una ballerina, colpisce con le fruste, piene di spine velenose.",
+            "omega-ruby": "Attira la preda con il suo profumo soave per poi afferrarla e abbatterla con gli arti velenosi.",
+            "alpha-sapphire": "Con i movimenti di una ballerina, colpisce con le fruste, piene di spine velenose.",
+            "sword": "Stordisce l’avversario con il profumo intenso dei suoi fiori e lo colpisce con le sue fruste piene di spine.",
+            "shield": "Il veleno nel bouquet destro ha effetto istantaneo, quello nel sinistro ha effetto ritardato. Entrambi possono essere letali.",
+            "brilliant-diamond": "Attira la preda con un dolce aroma, poi l'abbatte con le fruste spinose celate fra i bouquet delle braccia.",
+            "shining-pearl": "Attacca con le fruste piene di spine velenose mentre si muove a passo di danza.",
+            "legends-arceus": "Cela velenifere fruste spinose nei mazzolini degli arti. Circuisce la preda con suadenti movenze per poi colpirla con le impietose fruste."
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Erba"
+    ],
+    "generation": 4,
+    "height": {
+        "roserade": "0,9 m"
+    },
+    "id": 407,
+    "name": "Roserade",
+    "name_origin": "Il nome di Roserade è probabilmente la combinazione di rose  e masquerade , come si può desumere anche dal fatto che sembra che indossi una maschera. Il nome è anche un anagramma di a red rose  - tuttavia questa pare essere solo una coincidenza in quanto oltre ad una rosa rossa, Roserade tiene in mano pure una rosa blu. ",
+    "origin": "Roserade è basato su una rosa, oltre che su un partecipante ad un ballo in maschera. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Floreale",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f8/Homem0407.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/45/Homemsh0407.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ea/Homef0407.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2e/Homefsh0407.png"
+        }
+    },
+    "stats": {
+        "roserade": {
+            "hp": 60,
+            "atk": 70,
+            "def": 65,
+            "spa": 125,
+            "spd": 105,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "roserade": 515
+    },
+    "types": {
+        "roserade": [
+            "Erba",
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "roserade": "14,5 kg"
+    }
+}

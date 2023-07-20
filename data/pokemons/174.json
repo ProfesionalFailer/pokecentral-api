@@ -1,0 +1,93 @@
+{
+    "abilities": {
+        "igglybuff": {
+            "primary": "Incantevole",
+            "secondary": "Tenacia",
+            "hidden": "Amicoscudo"
+        }
+    },
+    "curiosities": [
+        "Igglybuff è l'unico Pokémon di seconda generazione il cui nome comincia per I.",
+        "La sua voce Pokédex in Zaffiro dice che può emanare un odore per calmare i nemici, ma non può imparare Profumino.",
+        "Igglybuff ha la statistica base Velocità più bassa di tutti i tipi Folletto. Condivide questa peculiarità con Cleffa.",
+        "Igglybuff e le sue evoluzioni hanno lo stesso nome di specie di Qwilfish e Drifloon: sono tutti noti come Pokémon Pallone.",
+        "Igglybuff, a pari merito con altri cinque Pokémon, ha la statistica base di Difesa Speciale più bassa di tutti i Pokémon.\n\tInoltre, ha la statistica base di Difesa Speciale più bassa di tutti i Pokémon di tipo Normale e Folletto.",
+        "Inoltre, ha la statistica base di Difesa Speciale più bassa di tutti i Pokémon di tipo Normale e Folletto.",
+        "Uno schizzo pre-alpha mostra un Pokémon inutilizzato con lo stesso numero del Pokédex di Igglybuff."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/igglybuff.mp3",
+    "dex_entries": {
+        "igglybuff": {
+            "gold": "Il suo corpo è morbidissimo. Se inizia a rotolare, rimbalza così forte che è impossibile fermarlo.",
+            "silver": "Il corpo molto flessibile ed elastico lo fa rimbalzare da ogni parte continuamente.",
+            "crystal": "Anziché camminare sulle sue corte zampe, preferisce rimbalzare sul suo corpo soffice e delicato.",
+            "ruby": "Le corde vocali di IGGLYBUFF non sono sufficientemente sviluppate. Se eccede nel canto, gli viene il mal di gola. È solito fare i gargarismi con l'acqua corrente dei torrenti puri.",
+            "sapphire": "IGGLYBUFF, così morbido e soffice, sembra fatto di gommapiuma rosa. Il suo corpo emana un lieve aroma che placa le emozioni e l'aggressività del nemico.",
+            "emerald": "Il corpo di IGGLYBUFF è morbido ed elastico. Quando canta a squarciagola senza fermarsi, il suo corpo si colora di un rosa intenso ed uniforme.",
+            "firered": "Il corpo molto flessibile ed elastico lo fa rimbalzare da ogni parte continuamente.",
+            "leafgreen": "Il suo corpo è morbidissimo. Se inizia a rotolare, rimbalza così tanto che è impossibile fermarlo.",
+            "diamond": "Ha un corpo morbido ed elastico. Quando comincia a saltellare è praticamente impossibile fermarlo.",
+            "pearl": "Ha un corpo morbido ed elastico. Quando comincia a saltellare è praticamente impossibile fermarlo.",
+            "platinum": "Ha un corpo morbido ed elastico. Quando comincia a saltellare è praticamente impossibile fermarlo.",
+            "heartgold": "Il suo corpo è morbidissimo. Se inizia a rotolare, rimbalza così forte che è impossibile fermarlo.",
+            "soulsilver": "Il corpo molto flessibile ed elastico lo fa rimbalzare da ogni parte continuamente.",
+            "black": "Ha un corpo morbido ed elastico. Quando comincia a saltellare è praticamente impossibile fermarlo.",
+            "white": "Ha un corpo morbido ed elastico. Quando comincia a saltellare è praticamente impossibile fermarlo.",
+            "black-2": "Il suo corpo è mordido, elastico ed emette un profumo dolce e delicato. Se inizia a rimbalzare è impossibile fermarlo.",
+            "white-2": "Il suo corpo è mordido, elastico ed emette un profumo dolce e delicato. Se inizia a rimbalzare è impossibile fermarlo.",
+            "x": "Anziché camminare sulle sue corte zampe, preferisce rimbalzare sul suo corpo soffice e delicato.",
+            "y": "Il suo corpo è morbidissimo. Se inizia a rotolare, rimbalza così forte che è impossibile fermarlo.",
+            "omega-ruby": "Le corde vocali di Igglybuff non sono sufficientemente sviluppate. Se eccede nel canto, gli viene il mal di gola. È solito fare i gargarismi con l'acqua corrente dei torrenti puri.",
+            "alpha-sapphire": "Igglybuff, così morbido e soffice, sembra fatto di gommapiuma rosa. Il suo corpo emana un lieve aroma che placa le emozioni e l'aggressività del nemico.",
+            "sun": "Gli piace molto cantare, ma è ancora inesperto. Se incoraggiato nel modo giusto, migliora a poco a poco.",
+            "moon": "Si muove rimbalzando e quando suda molto emana un lieve aroma dolciastro.",
+            "ultra-sun": "Si allena continuamente nel canto per migliorare. Anche mentre dorme, continua a cantare in sogno.",
+            "ultra-moon": "Se lasciato fare, si allena nel canto senza sosta. Ogni tanto è meglio fargli fare una pausa per evitare che si faccia male alla gola.",
+            "sword": "Adora cantare. Il suo corpo simile al marshmallow emana una lieve e dolce fragranza.",
+            "shield": "Si sposta facendo rimbalzare il suo corpo morbido. Quando la sua temperatura corporea si alza, si colora di un rosa intenso.",
+            "scarlet": "Il suo corpo morbido ed elastico emette un profumo dolce e delicato. Se inizia a rimbalzare è impossibile fermarlo.",
+            "violet": "Gli piace molto cantare, ma è ancora inesperto. Se incoraggiato nel modo giusto, migliora a poco a poco."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 2,
+    "height": {
+        "igglybuff": "0,3 m"
+    },
+    "id": 174,
+    "name": "Igglybuff",
+    "name_origin": "Il suo nome deriva da una variazione e un'accorciamento dei nomi delle sue evoluzioni, Jigglypuff e Wigglytuff. ",
+    "origin": "Basato su un palloncino, ricorda anche Kirby. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Pallone",
+    "sprites": {
+        "igglybuff": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8b/Homem0174.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/27/Homemsh0174.png"
+        }
+    },
+    "stats": {
+        "igglybuff": {
+            "hp": 90,
+            "atk": 30,
+            "def": 15,
+            "spa": 40,
+            "spd": 20,
+            "spe": 15
+        }
+    },
+    "stats_sum": {
+        "igglybuff": 210
+    },
+    "types": {
+        "igglybuff": [
+            "Folletto",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "igglybuff": "1,0 kg"
+    }
+}

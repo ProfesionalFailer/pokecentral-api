@@ -1,0 +1,93 @@
+{
+    "abilities": {
+        "omanyte": {
+            "primary": "Nuotovelox",
+            "secondary": "Guscioscudo",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Il nome originario di Omanyte era \"Ess\", che deriva dall'inizio della parola \"escargot\" .",
+        "Omanyte è uno dei pochi Pokémon la cui cessione di punti esperienza è cambiata in quarta generazione . Gli altri sono Abra, Machop, Geodude e Kabuto.",
+        "In prima generazione, Omanyte poteva imparare Sparalance, sebbene non possedesse spine. Tuttavia la sua evoluzione Omastar le possiede."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/omanyte.mp3",
+    "dex_entries": {
+        "omanyte": {
+            "red": "Sebbene estinto, in rari casi può essere geneticamente resuscitato dai fossili.",
+            "blue": "Sebbene estinto, in rari casi può essere geneticamente resuscitato dai fossili.",
+            "yellow": "POKéMON primitivo resuscitato da un fossile. Nuota agitando con maestria i suoi 10 tentacoli.",
+            "gold": "Questo POKéMON, resuscitato da un antico fossile, usa l'aria del guscio per immergersi.",
+            "silver": "Sembra che questo POKéMON dell'antichità nuotasse per i mari con i suoi 10 tentacoli.",
+            "crystal": "Nella preistoria, nuotava sul fondo del mare mangiando plancton. A volte se ne ritrovano dei fossili.",
+            "ruby": "OMANYTE è uno degli antichi POKéMON estinti, recentemente rigenerati dall'uomo. In caso di aggressione da parte di un nemico, si ritira all'interno della sua dura corazza.",
+            "sapphire": "OMANYTE è uno degli antichi POKéMON estinti, recentemente rigenerati dall'uomo. In caso di aggressione da parte di un nemico, si ritira all'interno della sua dura corazza.",
+            "emerald": "OMANYTE è uno degli antichi POKéMON estinti rigenerati di recente dall'uomo. Se viene aggredito da un nemico, si ritira all'interno della sua dura corazza.",
+            "firered": "POKéMON preistorico, che viveva nel mare primordiale. Nuota facendo oscillare i suoi dieci tentacoli.",
+            "leafgreen": "Sebbene estinto, in rari casi può essere geneticamente resuscitato dai fossili.",
+            "diamond": "Pokémon rigenerato da un fossile grazie alla scienza moderna. Nuotava nei mari ancestrali.",
+            "pearl": "Pokémon rigenerato da un fossile grazie alla scienza moderna. Nuotava nei mari ancestrali.",
+            "platinum": "Pokémon rigenerato da un fossile grazie alla scienza moderna. Nuotava nei mari ancestrali.",
+            "heartgold": "Questo Pokémon, resuscitato da un antico fossile, usa l’aria del guscio per immergersi.",
+            "soulsilver": "Sembra che questo Pokémon dell’antichità nuotasse per i mari con i suoi dieci tentacoli.",
+            "black": "Pokémon rigenerato da un fossile grazie alla scienza moderna. Nuotava nei mari ancestrali.",
+            "white": "Pokémon rigenerato da un fossile grazie alla scienza moderna. Nuotava nei mari ancestrali.",
+            "black-2": "Pokémon rigenerato da un fossile grazie alla scienza moderna. Nuotava nei mari ancestrali.",
+            "white-2": "Pokémon rigenerato da un fossile grazie alla scienza moderna. Nuotava nei mari ancestrali.",
+            "x": "Pokémon preistorico, che viveva nel mare primordiale. Nuota facendo oscillare i suoi dieci tentacoli.",
+            "y": "Questo Pokémon, resuscitato da un antico fossile, usa l'aria del guscio per immergersi.",
+            "omega-ruby": "Omanyte è uno degli antichi Pokémon estinti, recentemente rigenerati dall'uomo. In caso di aggressione da parte di un nemico, si ritira all'interno della sua dura corazza.",
+            "alpha-sapphire": "Omanyte è uno degli antichi Pokémon estinti, recentemente rigenerati dall'uomo. In caso di aggressione da parte di un nemico, si ritira all'interno della sua dura corazza.",
+            "ultra-sun": "Pokémon che viveva nei mari ancestrali. Per via dei segni di zanne ritrovati sui fossili, si pensa che venisse cacciato dagli Archeops.",
+            "ultra-moon": "Durante scavi in luoghi anticamente sommersi si trovano spesso degli Helixfossili, da cui questo Pokémon viene rigenerato.",
+            "lets-go-pikachu": "Pokémon preistorico rigenerato da un fossile. Nuotava nei mari primordiali agitando con maestria i suoi dieci tentacoli.",
+            "lets-go-eevee": "Pokémon preistorico rigenerato da un fossile. Nuotava nei mari primordiali agitando con maestria i suoi dieci tentacoli.",
+            "sword": "Questo Pokémon si sta rivelando un problema perché a volte fugge o viene liberato dopo essere stato rigenerato.",
+            "shield": "È un antico Pokémon ormai estinto. Quando nuota usando i suoi dieci tentacoli sembra fluttuare nell'acqua.",
+            "brilliant-diamond": "Pokémon rigenerato da un fossile grazie ai prodigi della scienza moderna. Nuotava nei mari primordiali.",
+            "shining-pearl": "Pokémon rigenerato da un fossile grazie ai prodigi della scienza moderna. Nuotava nei mari primordiali."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 3"
+    ],
+    "generation": 1,
+    "height": {
+        "omanyte": "0,4 m"
+    },
+    "id": 138,
+    "name": "Omanyte",
+    "name_origin": "Omanyte è un anagramma fonetico di ammonite, la creatura su cui si basa. ",
+    "origin": "Si basa sulla ammonite. ",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Spirale",
+    "sprites": {
+        "omanyte": {
+            "default": "https://media.pokemoncentral.it/wiki/4/47/Homem0138.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0138.png"
+        }
+    },
+    "stats": {
+        "omanyte": {
+            "hp": 35,
+            "atk": 40,
+            "def": 100,
+            "spa": 90,
+            "spd": 55,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "omanyte": 355
+    },
+    "types": {
+        "omanyte": [
+            "Roccia",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "omanyte": "7,5 kg"
+    }
+}

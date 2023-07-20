@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "zangoose": {
+            "primary": "Immunità",
+            "hidden": "Velenimpeto"
+        }
+    },
+    "curiosities": [
+        "Zangoose ed il suo rivale Seviper condividono diverse caratteristiche: fanno parte del Gruppo Uova Campo, risiedono nello stesso Campo Base e sono gli unici due Pokémon con statistiche base totali di 458.\n\tZangoose e Seviper presentano tuttavia tassi di crescita opposti: Zangoose ha una crescita irregolare, mentre Seviper ha una crescita fluttuante.",
+        "Zangoose e Seviper presentano tuttavia tassi di crescita opposti: Zangoose ha una crescita irregolare, mentre Seviper ha una crescita fluttuante.",
+        "Se, in Pokémon X e Y, il giocatore si imbatte in un'orda composta da Zangoose e Seviper, questi si attaccheranno a vicenda.",
+        "Nonostante i suoi artigli affilati e un'origine del nome basata parzialmente sull'atto del \"tagliare\", Zangoose non può imparare Taglio.",
+        "Nei giochi di terza generazione, gli artigli di Zangoose sono viola ma, a partire dalla quarta generazione, diventano neri."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/zangoose.mp3",
+    "dex_entries": {
+        "zangoose": {
+            "ruby": "I ricordi delle lotte contro il suo acerrimo nemico SEVIPER sono insiti in ogni cellula del corpo di ZANGOOSE. Questo POKéMON riesce a schivare gli attacchi con incredibile maestria.",
+            "sapphire": "Di solito ZANGOOSE cammina a quattro zampe, ma quando si infuria si alza sulle zampe posteriori ed estrae gli artigli. Questo POKéMON è acerrimo nemico di SEVIPER, infatti la loro inimicizia è ormai leggendaria.",
+            "emerald": "ZANGOOSE attacca il nemico con gli artigli affilati delle zampe anteriori stando in equilibrio su quelle posteriori. Se incontra un SEVIPER, la sua pelliccia si increspa.",
+            "firered": "Se vede SEVIPER assume una posizione di lotta, con la pelliccia increspata. Gli artigli sono la sua arma migliore.",
+            "leafgreen": "Se vede SEVIPER assume una posizione di lotta, con la pelliccia increspata. Gli artigli sono la sua arma migliore.",
+            "diamond": "Da generazioni, è acerrimo nemico di SEVIPER. Gli artigli aguzzi sono le sue armi più potenti.",
+            "pearl": "Da generazioni, è acerrimo nemico di SEVIPER. Gli artigli aguzzi sono le sue armi più potenti.",
+            "platinum": "Da generazioni, è acerrimo nemico di SEVIPER. Gli artigli aguzzi sono le sue armi più potenti.",
+            "heartgold": "Se sente anche solo l’odore di SEVIPER, gli si rizza la pelliccia. Lacera il nemico con artigli affilati.",
+            "soulsilver": "Se sente anche solo l’odore di SEVIPER, gli si rizza la pelliccia. Lacera il nemico con artigli affilati.",
+            "black": "Da generazioni, è acerrimo nemico di Seviper. Gli artigli aguzzi sono le sue armi più potenti.",
+            "white": "Da generazioni, è acerrimo nemico di Seviper. Gli artigli aguzzi sono le sue armi più potenti.",
+            "black-2": "Acerrimo nemico di Seviper. Se l'incontra, lo minaccia immancabilmente sfoderando gli artigli.",
+            "white-2": "Acerrimo nemico di Seviper. Se l'incontra, lo minaccia immancabilmente sfoderando gli artigli.",
+            "x": "Da generazioni, è acerrimo nemico di Seviper. Gli artigli aguzzi sono le sue armi più potenti.",
+            "y": "Se sente anche solo l'odore di Seviper, gli si rizza la pelliccia. Lacera il nemico con artigli affilati.",
+            "omega-ruby": "I ricordi delle lotte contro il suo acerrimo nemico Seviper sono insiti in ogni cellula del corpo di Zangoose. Questo Pokémon riesce a schivare gli attacchi con incredibile maestria.",
+            "alpha-sapphire": "Di solito Zangoose cammina a quattro zampe, ma quando si infuria si alza sulle zampe posteriori ed estrae gli artigli. Questo Pokémon è acerrimo nemico di Seviper, infatti la loro inimicizia è ormai leggendaria.",
+            "brilliant-diamond": "Da generazioni, è acerrimo nemico di Seviper. Gli artigli aguzzi sono le sue armi più potenti.",
+            "shining-pearl": "Da generazioni, è acerrimo nemico di Seviper. Gli artigli aguzzi sono le sue armi più potenti.",
+            "scarlet": "Acerrimo nemico di Seviper. Quando lo incontra, sfodera subito gli artigli per minacciarlo.",
+            "violet": "Appena scorge un Seviper rizza subito il pelo e assume una posizione d’attacco. Gli affilatissimi artigli sono la sua arma migliore."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 3,
+    "height": {
+        "zangoose": "1,3 m"
+    },
+    "id": 335,
+    "name": "Zangoose",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole giapponesi 刪 san, taglio, 残痕 zankon, cicatrice, e la parola inglese mongoose, mangusta. Potrebbe anche includere il termine portoghese zangado, arrabbiato. ",
+    "origin": "Il suo aspetto ricorda quello di una mangusta. In particolare la mangusta egiziana è in grado di nutrirsi di vipere; questo spiega la rivalità del Pokémon nei confronti di Seviper. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Furogatto",
+    "sprites": {
+        "zangoose": {
+            "default": "https://media.pokemoncentral.it/wiki/c/ce/Homem0335.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/55/Homemsh0335.png"
+        }
+    },
+    "stats": {
+        "zangoose": {
+            "hp": 73,
+            "atk": 115,
+            "def": 60,
+            "spa": 60,
+            "spd": 60,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "zangoose": 458
+    },
+    "types": {
+        "zangoose": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "zangoose": "40,3 kg"
+    }
+}

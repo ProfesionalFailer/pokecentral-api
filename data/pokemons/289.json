@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "slaking": {
+            "primary": "Pigrone"
+        }
+    },
+    "curiosities": [
+        "Slaking possiede le statistiche di base più alte per un Pokémon non leggendario, 670, cifra che gli permette di pareggiare Kyogre, Groudon,Regigigas, Koraidon e Miraidon.",
+        "Insieme a Regigigas, Slaking ha l'attacco più alto tra tutti i Pokémon di tipo Normale.\n\tCuriosamente, entrambi posseggono un abilità negativa che tende a bilanciare la loro eccessiva forza, Lentoinizio nel caso di Regigigas e Pigrone nel caso di Slaking.",
+        "Curiosamente, entrambi posseggono un abilità negativa che tende a bilanciare la loro eccessiva forza, Lentoinizio nel caso di Regigigas e Pigrone nel caso di Slaking."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/slaking.mp3",
+    "dex_entries": {
+        "slaking": {
+            "ruby": "SLAKING passa tutto il giorno disteso comodamente, mangiando l'erba che cresce a portata di mano. Anche dopo aver esaurito l'erba vicino a sé, è raro che si sposti in un altro luogo.",
+            "sapphire": "Dove vive SLAKING, si formano anelli del raggio di un metro nei prati erbosi. Infatti, quando questo POKéMON si stende prono al suolo, mangia tutta l'erba che riesce a raggiungere.",
+            "emerald": "Quando i frutti giungono a maturazione, gli SLAKING si raggruppano sotto gli alberi e aspettano pazientemente che cadano a terra.",
+            "firered": "È il POKéMON più pigro del mondo, ma può sprigionare di colpo una quantità spaventosa di energia a lungo repressa.",
+            "leafgreen": "È il POKéMON più pigro del mondo, ma può sprigionare di colpo una quantità spaventosa di energia a lungo repressa.",
+            "diamond": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per attaccare",
+            "pearl": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per attaccare",
+            "platinum": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per attaccare",
+            "heartgold": "Il più pigro Pokémon del mondo. Si sposta solo quando non ha più cibo a portata di mano.",
+            "soulsilver": "Il più pigro Pokémon del mondo. Si sposta solo quando non ha più cibo a portata di mano.",
+            "black": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per attaccare.",
+            "white": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per attaccare.",
+            "black-2": "Sta tutto il tempo disteso a terra. Si sposta rotolando solo quando ha mangiato tutta l'erba circostante.",
+            "white-2": "Sta tutto il tempo disteso a terra. Si sposta rotolando solo quando ha mangiato tutta l'erba circostante.",
+            "x": "Il più pigro Pokémon del mondo. Si sposta solo quando non ha più cibo a portata di mano.",
+            "y": "È il Pokémon più pigro del mondo, ma può sprigionare di colpo una quantità spaventosa di energia a lungo repressa.",
+            "omega-ruby": "Slaking passa tutto il giorno disteso pigramente, mangiando l'erba che cresce a portata di mano. Dopo aver esaurito l'erba vicino a sé, si sposta controvoglia in un altro luogo.",
+            "alpha-sapphire": "Dove vive Slaking, si formano anelli del raggio di un metro nei prati erbosi. Infatti, quando questo Pokémon si stende prono al suolo, mangia tutta l'erba che riesce a raggiungere.",
+            "brilliant-diamond": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per contrattaccare.",
+            "shining-pearl": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per contrattaccare.",
+            "scarlet": "È il Pokémon più pigro del mondo, ma può sprigionare di colpo una potenza spaventosa grazie all’energia accumulata.",
+            "violet": "Vive perennemente sdraiato e si muove solo per cambiare lato quando attorno a lui non c’è più erba da mangiare."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 3,
+    "height": {
+        "slaking": "2,0 m"
+    },
+    "id": 289,
+    "name": "Slaking",
+    "name_origin": "Il nome probabilmente deriva dall'inglese slack  e dalla parola king , o da slacking . ",
+    "origin": "Slaking è ispirato a un gorilla. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Pigrizia",
+    "sprites": {
+        "slaking": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fc/Homem0289.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homemsh0289.png"
+        }
+    },
+    "stats": {
+        "slaking": {
+            "hp": 150,
+            "atk": 160,
+            "def": 100,
+            "spa": 95,
+            "spd": 65,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "slaking": 670
+    },
+    "types": {
+        "slaking": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "slaking": "130,5 kg"
+    }
+}

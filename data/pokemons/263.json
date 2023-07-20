@@ -1,0 +1,100 @@
+{
+    "abilities": {
+        "zigzagoon": {
+            "primary": "Raccolta",
+            "secondary": "Voracità",
+            "hidden": "Piedisvelti"
+        },
+        "forma-di-galar": {
+            "primary": "Raccolta",
+            "secondary": "Voracità",
+            "hidden": "Piedisvelti"
+        }
+    },
+    "curiosities": [
+        "Nel gruppo dei roditori, Zigzagoon è l'unico a non avere sembianze da roditore.",
+        "Zigzagoon è uno dei due Pokémon a non essere presente nel PokéRap di Hoenn. L'altro è Relicanth.",
+        "Zigzagoon e Aipom sono gli unici Pokémon con l'abilità Raccolta che mantengono quest'abilità dopo l'evoluzione.",
+        "In terza generazione, se si manda la propria cartuccia a Nintendo a causa del Blocco dell'Orologio e si ha uno spazio disponibile in squadra, al giocatore verrà regalato uno Zigzagoon cromatico.",
+        "Sul sito ufficiale Pokémon, viene affermato che lo Zigzagoon di Galar rappresenta il ramo più antico della specie."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/zigzagoon.mp3",
+    "dex_entries": {
+        "zigzagoon": {
+            "ruby": "ZIGZAGOON scorrazza a destra e a manca senza sosta, a causa della sua indole molto curiosa. Qualunque cosa veda riesce ad attirare la sua attenzione.",
+            "sapphire": "La schiena di ZIGZAGOON è caratterizzata da una folta pelliccia rizzata. Per delimitare il suo territorio strofina il suo pelo irsuto contro i tronchi degli alberi. Per confondere i nemici, in lotta si finge morto.",
+            "emerald": "ZIGZAGOON si muove di continuo a destra e a manca strofinando il muso sul terreno alla ricerca di qualcosa. Si distingue per le tracce a zig zag che lascia.",
+            "firered": "L'estrema curiosità lo porta a spostarsi di continuo in ogni direzione.",
+            "leafgreen": "L'estrema curiosità lo porta a spostarsi di continuo in ogni direzione.",
+            "diamond": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "pearl": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "platinum": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "heartgold": "Va zigzagando a destra e a manca, attirato da questo e quello. La sua specialità è trovare le cose.",
+            "soulsilver": "Va zigzagando a destra e a manca, attirato da questo e quello. La sua specialità è trovare le cose.",
+            "black": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "white": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "black-2": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "white-2": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "x": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "y": "L'estrema curiosità lo porta a spostarsi di continuo in ogni direzione.",
+            "omega-ruby": "Zigzagoon scorrazza a destra e manca senza sosta, a causa della sua indole molto curiosa. Qualunque cosa veda riesce ad attirare la sua attenzione.",
+            "alpha-sapphire": "La schiena di Zigzagoon è caratterizzata da una folta pelliccia rizzata. Per delimitare il suo territorio strofina il suo pelo irsuto contro i tronchi degli alberi. Per confondere i nemici, in lotta si finge morto.",
+            "sword": "Strofina la sua pelliccia ispida contro i tronchi degli alberi per delimitare il suo territorio. Ha un carattere più pacifico dello Zigzagoon di Galar.",
+            "shield": "Lo Zigzagoon di Galar ha assunto questo aspetto negli altri territori in cui si è diffuso. Ritrovare gli oggetti smarriti è la sua specialità.",
+            "brilliant-diamond": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "shining-pearl": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno."
+        },
+        "forma-di-galar": {
+            "sword": "Corre qua e là senza sosta. Quando trova un altro Pokémon, gli va addosso di proposito per attaccare briga.",
+            "shield": "Pare che questa sia la forma originaria di Zigzagoon. Si muove a zig zag mettendo a soqquadro tutto ciò che lo circonda."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 3,
+    "height": {
+        "zigzagoon": "0,4 m"
+    },
+    "id": 263,
+    "name": "Zigzagoon",
+    "name_origin": "Il nome deriva dall'unione di zig-zag con il nome inglese raccoon . ",
+    "origin": "Ha delle somiglianze con i procioni. Zigzagoon di Galar potrebbe assomigliare a Paul Stanley dal gruppo musicale \"Kiss\". ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Procione",
+    "sprites": {
+        "zigzagoon": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bd/Homem0263.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e6/Homemsh0263.png"
+        },
+        "forma-di-galar": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4e/Homem0263G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0263G.png"
+        }
+    },
+    "stats": {
+        "zigzagoon": {
+            "hp": 38,
+            "atk": 30,
+            "def": 41,
+            "spa": 30,
+            "spd": 41,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "zigzagoon": 240
+    },
+    "types": {
+        "zigzagoon": [
+            "Normale"
+        ],
+        "forma-di-galar": [
+            "Buio",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "zigzagoon": "17,5 kg"
+    }
+}

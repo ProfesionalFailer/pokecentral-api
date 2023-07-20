@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "tinkatink": {
+            "primary": "Rompiforma",
+            "secondary": "Mente Locale",
+            "hidden": "Arraffalesto"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Folletto",
+        "Pokémon di tipo Acciaio",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Medio-Lento",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon esclusivamente femmine",
+        "Pokémon di Gruppo Uova Magico",
+        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
+        "Pokémon con statistiche base totali di 297",
+        "Pokémon con statistiche base totali uniche"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tinkatink.mp3",
+    "dex_entries": {
+        "tinkatink": {
+            "scarlet": "Si difende adoperando un martello che ha forgiato personalmente, anche se spesso i Pokémon ghiotti di metallo glielo rubano.",
+            "violet": "Forgia il suo martello colpendo ripetutamente dei pezzi di ferraglia. Se non è soddisfatto del risultato, ricomincia più e più volte da capo."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "generation": 9,
+    "height": {
+        "tinkatink": "0,4 m"
+    },
+    "id": 957,
+    "name": "Tinkatink",
+    "name_origin": "Tinkatink potrebbe essere una combinazione di tinker  e pink . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Forgiatore",
+    "sprites": {
+        "tinkatink": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b9/Homef0957.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homemsh0957.png"
+        }
+    },
+    "stats": {
+        "tinkatink": {
+            "hp": 50,
+            "atk": 45,
+            "def": 45,
+            "spa": 35,
+            "spd": 64,
+            "spe": 58
+        }
+    },
+    "stats_sum": {
+        "tinkatink": 297
+    },
+    "types": {
+        "tinkatink": [
+            "Acciaio",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "tinkatink": "8,9 kg"
+    }
+}

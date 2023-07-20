@@ -1,0 +1,100 @@
+{
+    "abilities": {
+        "abra": {
+            "primary": "Sincronismo",
+            "secondary": "Forza Interiore",
+            "hidden": "Magicscudo"
+        }
+    },
+    "curiosities": [
+        "\"Hocus\" fu il nome inglese originale di Abra.",
+        "Abra e le sue evoluzioni hanno tutte per nome una parola magica.",
+        "Abra è uno dei pochi Pokémon che non imparano per livello mosse con bonus di tipo.",
+        "Nelle prime tre generazioni, Abra è sempre stato il primo Pokémon in ordine alfabetico nel Pokédex. Tuttavia, dalla quarta generazione lo è diventato Abomasnow.",
+        "Abra è il primo Pokémon di tipo Psico secondo l'ordine del Pokédex Nazionale.",
+        "Abra è uno dei 5 Pokémon di Kanto la cui esperienza base è cambiata in terza generazione: il suo valore di esperienza base era 73. Gli altri sono Machop, Geodude, Omanyte e Kabuto.",
+        "L'unico sprite di Abra in cui si vedono i suoi occhi è lo sprite di Pokémon Oro, ma anche lì gli occhi sono strizzati.",
+        "Sebbene il Pokédex dica che Abra si teletrasporta mentre dorme, quando è addormentato non può usare Teletrasporto.",
+        "Abra ha avuto fino alla quarta generazione la statistica base di Attacco Speciale più alta fra tutti i Pokémon allora non evoluti appartenenti ad una famiglia evolutiva di tre stadi. Ora condivide questa particolarità con Solosis."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/abra.mp3",
+    "dex_entries": {
+        "abra": {
+            "red": "Con la capacità di leggere nella mente, prevede i pericoli e si TELETRASPORTA in un luogo sicuro.",
+            "blue": "Con la capacità di leggere nella mente, prevede i pericoli e si TELETRASPORTA in un luogo sicuro.",
+            "yellow": "Dorme 18 ore al giorno, ma se percepisce un pericolo si teletrasporta al sicuro.",
+            "gold": "Avverte gli attacchi imminenti e si TELETRASPORTA in salvo prima che l'attacco lo possa colpire.",
+            "silver": "Se inizia ad usare TELETRASPORTO a caso, si ha l'illusione che abbia creato copie di se stesso.",
+            "crystal": "S'ipnotizza per TELETRASPORTarsi in salvo se avverte un pericolo, persino se sta dormendo.",
+            "ruby": "ABRA dorme per 18 ore al giorno, ma riesce a captare la presenza dei nemici anche durante il sonno. In questo caso il POKéMON si teletrasporta immediatamente al sicuro.",
+            "sapphire": "ABRA ha bisogno di 18 ore di sonno al giorno. In caso contrario perde le sue abilità telecinetiche. Se attaccato, ABRA fugge usando TELETRASPORTO mentre dorme.",
+            "emerald": "ABRA dorme 18 ore al giorno. Gli studiosi hanno osservato che si trasferisce da un posto all'altro ogni ora usando TELETRASPORTO.",
+            "firered": "Dorme 18 ore al giorno. Anche da addormentato utilizza una serie di poteri extrasensoriali.",
+            "leafgreen": "Con la capacità di leggere nella mente, prevede i pericoli e si TELETRASPORTA in un luogo sicuro.",
+            "diamond": "Dorme per 18 ore al giorno. Anche da sveglio, si teletrasporta rimanendo seduto.",
+            "pearl": "Anche mentre dorme tiene attivo il radar telepatico. Si teletrasporta quando si sente minacciato.",
+            "platinum": "L’utilizzo dei suoi poteri psichici è così stancante da costringerlo a dormire 18 ore al giorno.",
+            "heartgold": "Avverte gli attacchi imminenti e si teletrasporta in salvo prima che l’attacco lo possa colpire.",
+            "soulsilver": "Se inizia a teletrasportarsi a destra e a manca, si ha l’illusione che abbia creato delle copie di se stesso.",
+            "black": "L'utilizzo dei suoi poteri psichici è così stancante da costringerlo a dormire 18 ore al giorno.",
+            "white": "L'utilizzo dei suoi poteri psichici è così stancante da costringerlo a dormire 18 ore al giorno.",
+            "black-2": "L'utilizzo dei suoi poteri psichici è così stancante da costringerlo a dormire 18 ore al giorno.",
+            "white-2": "L'utilizzo dei suoi poteri psichici è così stancante da costringerlo a dormire 18 ore al giorno.",
+            "x": "Dorme 18 ore al giorno. Anche da addormentato utilizza una serie di poteri extrasensoriali.",
+            "y": "Avverte gli attacchi imminenti e si teletrasporta in salvo prima che l'attacco lo possa colpire.",
+            "omega-ruby": "Abra dorme per 18 ore al giorno, ma riesce a captare la presenza dei nemici anche durante il sonno. In questo caso il Pokémon si teletrasporta immediatamente al sicuro.",
+            "alpha-sapphire": "Abra ha bisogno di 18 ore di sonno al giorno. In caso contrario perde le sue abilità telecinetiche. Se attaccato, Abra fugge usando Teletrasporto mentre dorme.",
+            "sun": "Dorme 18 ore al giorno. Anche nel sonno, si teletrasporta sugli alberi, coglie le bacche e le mangia.",
+            "moon": "Può teletrasportarsi al sicuro anche mentre dorme, ma quando si sveglia non capisce dove si trova e viene preso dall'agitazione.",
+            "ultra-sun": "Può usare i suoi poteri psichici anche mentre dorme. Per questo è difficile capire se è sveglio oppure no.",
+            "ultra-moon": "Grazie alla sua capacità di leggere nel pensiero, prevede il pericolo e si teletrasporta lontano. Per catturarlo bisogna svuotare la mente.",
+            "lets-go-pikachu": "Dorme 18 ore al giorno. Se percepisce un pericolo, riesce a teletrasportarsi anche senza svegliarsi.",
+            "lets-go-eevee": "Dorme 18 ore al giorno. Se percepisce un pericolo, riesce a teletrasportarsi anche senza svegliarsi.",
+            "sword": "Il contenuto dei suoi sogni influisce sui suoi poteri psichici, che può utilizzare anche mentre dorme.",
+            "shield": "È in grado di teletrasportarsi mentre dorme. Si dice che più profondo sia il suo sonno, più possa spostarsi lontano.",
+            "brilliant-diamond": "Dorme per 18 ore al giorno. Anche da sveglio, si teletrasporta rimanendo seduto.",
+            "shining-pearl": "Anche mentre dorme tiene attivo il radar telepatico. Si teletrasporta quando si sente minacciato.",
+            "legends-arceus": "Dedica al sonno 18 ore al dì. Nondimeno, i suoi poteri psichici restano vigili, trasportandolo tosto altrove all'incombere di un pericolo."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 1,
+    "height": {
+        "abra": "0,9 m"
+    },
+    "id": 63,
+    "name": "Abra",
+    "name_origin": "Il nome di Abra è parte di una formula magica usata per effettuare incantesimi, Abracadabra. Il suo nome giapponese può essere derivato da 消し飛ぶ keshitobu, lanciare lontano, in riferimento alla sua tendenza a teletrasportarsi lontano dalla lotta. ",
+    "origin": "Sembra basato su un mago. Può anche essere messo in riferimento con Edgar Cayce, un \"profeta dormiente\" che asseriva di avere delle visioni durante degli stati di trance. È anche simile alla Capra hircus ed alla Volpe. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Psico",
+    "sprites": {
+        "abra": {
+            "default": "https://media.pokemoncentral.it/wiki/9/99/Homem0063.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homemsh0063.png"
+        }
+    },
+    "stats": {
+        "abra": {
+            "hp": 25,
+            "atk": 20,
+            "def": 15,
+            "spa": 105,
+            "spd": 55,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "abra": 310
+    },
+    "types": {
+        "abra": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "abra": "19,5 kg"
+    }
+}

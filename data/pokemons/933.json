@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "naclstack": {
+            "primary": "Sale Purificante",
+            "secondary": "Vigore",
+            "hidden": "Corpochiaro"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Roccia",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Minerale",
+        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
+        "Pokémon con statistiche base totali di 355"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/naclstack.mp3",
+    "dex_entries": {
+        "naclstack": {
+            "scarlet": "Spruzza sale addosso alla preda fino a ricoprirla del tutto per estrarne i liquidi corporei.",
+            "violet": "Comprime salgemma all'interno del corpo per creare proiettili salini, che spara con una potenza tale da trafiggere lastre di ferro."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 9,
+    "height": {
+        "naclstack": "0,6 m"
+    },
+    "id": 933,
+    "name": "Naclstack",
+    "name_origin": "Naclstack potrebbe derivare da NaCl , e stack . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Salgemma",
+    "sprites": {
+        "naclstack": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0933.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0933.png"
+        }
+    },
+    "stats": {
+        "naclstack": {
+            "hp": 60,
+            "atk": 60,
+            "def": 100,
+            "spa": 35,
+            "spd": 65,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "naclstack": 355
+    },
+    "types": {
+        "naclstack": [
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "naclstack": "105,0 kg"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "sewaddle": {
+            "primary": "Aiutinsetto",
+            "secondary": "Clorofilla",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Sewaddle fu visto per la prima volta sul sito ufficiale di Pokémon di Yahoo. Fu poi rivelato nel numero di settembre del CoroCoro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sewaddle.mp3",
+    "dex_entries": {
+        "sewaddle": {
+            "black": "Quando nasce dall'Uovo, Leavanny gli fa un vestito e glielo fa indossare. Dorme coprendosi la testa con il cappuccio.",
+            "white": "Si prepara da sé i vestiti, tagliando le foglie e usando i fili viscosi che secerne dalla bocca per cucirli.",
+            "black-2": "Taglia le foglie per farne vestiti. Per questo motivo è la mascotte preferita di molti stilisti.",
+            "white-2": "Taglia le foglie per farne vestiti. Per questo motivo è la mascotte preferita di molti stilisti.",
+            "x": "Si prepara da sé i vestiti, tagliando le foglie e usando i fili viscosi che secerne dalla bocca per cucirli.",
+            "y": "Taglia le foglie per farne vestiti. Per questo motivo è la mascotte preferita di molti stilisti.",
+            "omega-ruby": "Si prepara da sé i vestiti, tagliando le foglie e usando i fili viscosi che secerne dalla bocca per cucirli.",
+            "alpha-sapphire": "Taglia le foglie per farne vestiti. Per questo motivo è la mascotte preferita di molti stilisti."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 5,
+    "height": {
+        "sewaddle": "0,3 m"
+    },
+    "id": 540,
+    "name": "Sewaddle",
+    "name_origin": "Il suo nome molto probabilmente deriva da sew, cucire, e waddle, ancheggiare, riferendosi al modo in cui si muove un bambino, o swaddle, fasciare, riferito all'avvolgere in fasce un bambino, o al vestito di foglie di Sewaddle. ",
+    "origin": "Sewaddle è basato su un bruco di Epargyreus Clarus: questo animale si appallottola per difendersi e produce molta seta. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Grancucito",
+    "sprites": {
+        "sewaddle": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1d/Homem0540.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0540.png"
+        }
+    },
+    "stats": {
+        "sewaddle": {
+            "hp": 45,
+            "atk": 53,
+            "def": 70,
+            "spa": 40,
+            "spd": 60,
+            "spe": 42
+        }
+    },
+    "stats_sum": {
+        "sewaddle": 310
+    },
+    "types": {
+        "sewaddle": [
+            "Erba",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "sewaddle": "2,5 kg"
+    }
+}

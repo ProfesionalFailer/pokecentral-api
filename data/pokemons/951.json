@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "capsakid": {
+            "primary": "Clorofilla",
+            "secondary": "Insonnia",
+            "hidden": "Impaccio"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Erba",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Erba",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 304"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/capsakid.mp3",
+    "dex_entries": {
+        "capsakid": {
+            "scarlet": "Più si espone alla luce solare e più all'interno del suo corpo aumentano le sostanze che determinano la piccantezza delle sue mosse.",
+            "violet": "La cucina di Paldea fa ampio uso degli incisivi caduti dei Capsakid, che rendono i piatti estremamente piccanti."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 9,
+    "height": {
+        "capsakid": "0,3 m"
+    },
+    "id": 951,
+    "name": "Capsakid",
+    "name_origin": "Capsakid è l'unione di capsaicina, la sostanza che causa la piccantezza nel cibo, e kid, ragazzino. Kapusaiji potrebbe essere la combinazione di カプサイシン kapusaishin  e 児 ji . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Habanero",
+    "sprites": {
+        "capsakid": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8d/Homem0951.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f5/Homemsh0951.png"
+        }
+    },
+    "stats": {
+        "capsakid": {
+            "hp": 50,
+            "atk": 62,
+            "def": 40,
+            "spa": 62,
+            "spd": 40,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "capsakid": 304
+    },
+    "types": {
+        "capsakid": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "capsakid": "3,0 kg"
+    }
+}

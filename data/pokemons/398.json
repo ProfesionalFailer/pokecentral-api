@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "staraptor": {
+            "primary": "Prepotenza",
+            "hidden": "Temerarietà"
+        }
+    },
+    "curiosities": [
+        "Staraptor di Ash"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/staraptor.mp3",
+    "dex_entries": {
+        "staraptor": {
+            "diamond": "Ha un'indole selvaggia. Sfida coraggiosamente i nemici più grossi di lui.",
+            "pearl": "I muscoli di ali e zampe sono molto sviluppati. Vola senza fatica anche portando un piccolo Pokémon.",
+            "platinum": "Non smette di attaccare neanche quando è ferito. Si preoccupa che la sua cresta sia sempre in ordine.",
+            "heartgold": "Per diventare STARAPTOR, lascia il gruppo e affronta la vita da solo. Possiede ali robustissime.",
+            "soulsilver": "Per diventare STARAPTOR, lascia il gruppo e affronta la vita da solo. Possiede ali robustissime.",
+            "black": "Non smette di attaccare neanche quando è ferito. Si preoccupa che la sua cresta sia sempre in ordine.",
+            "white": "Non smette di attaccare neanche quando è ferito. Si preoccupa che la sua cresta sia sempre in ordine.",
+            "black-2": "Non smette di attaccare neanche quando è ferito. Si preoccupa che la sua cresta sia sempre in ordine.",
+            "white-2": "Non smette di attaccare neanche quando è ferito. Si preoccupa che la sua cresta sia sempre in ordine.",
+            "x": "I muscoli di ali e zampe sono molto sviluppati. Vola senza fatica anche portando un piccolo Pokémon.",
+            "y": "Per diventare Staraptor, lascia il gruppo e affronta la vita da solo. Possiede ali robustissime.",
+            "omega-ruby": "I muscoli di ali e zampe sono molto sviluppati. Vola senza fatica anche portando un piccolo Pokémon.",
+            "alpha-sapphire": "Per diventare Staraptor, lascia il gruppo e affronta la vita da solo. Possiede ali robustissime.",
+            "brilliant-diamond": "È un Pokémon feroce che sfida senza pensarci due volte anche i nemici più grossi di lui.",
+            "shining-pearl": "I muscoli di ali e zampe sono molto sviluppati. Vola senza fatica anche trasportando con sé i piccoli Pokémon che cattura.",
+            "legends-arceus": "Ha acquisito la forza di vivere in autonomia lungi dallo stormo. Impressiona la sua abilità nel volo, che è tale da permettergli di ghermire e trarre via con sé colossi.",
+            "scarlet": "Non appena si evolve, lascia lo stormo e affronta la vita da solo. Le sue ali sono estremamente robuste.",
+            "violet": "Non smette di attaccare neanche quando è ferito. Si premura di avere la cresta sempre in ordine."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 4,
+    "height": {
+        "staraptor": "1,2 m"
+    },
+    "id": 398,
+    "name": "Staraptor",
+    "name_origin": "Deriva dalle parole starling  e raptor . ",
+    "origin": "Basato su uno storno grigio, anche se ha molte somiglianze con i rapaci tra cui l'aquila crestalunga. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Rapace",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/9/97/Homem0398.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e2/Homemsh0398.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/6/69/Homef0398.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/13/Homefsh0398.png"
+        }
+    },
+    "stats": {
+        "staraptor": {
+            "hp": 85,
+            "atk": 120,
+            "def": 70,
+            "spa": 50,
+            "spd": 60,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "staraptor": 485
+    },
+    "types": {
+        "staraptor": [
+            "Normale",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "staraptor": "24,9 kg"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "crabrawler": {
+            "primary": "Ipertaglio",
+            "secondary": "Ferropugno",
+            "hidden": "Grancollera"
+        }
+    },
+    "curiosities": [
+        "Crabrawler è l'unico Pokémon in grado di imparare Martellata e a non riceverne il bonus di tipo.",
+        "Crabrawler è l'unico Pokémon con la somma di statistiche base pari a 338."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/crabrawler.mp3",
+    "dex_entries": {
+        "crabrawler": {
+            "sun": "Protegge con le chele i propri punti deboli e, al momento opportuno, contrattacca con potenti pugni. Quando perde, crolla schiumante al suolo.",
+            "moon": "A furia di sferrare pugni, le chele gli si staccano, ma ricrescono sempre. La polpa al loro interno è poca, ma molto saporita.",
+            "ultra-sun": "Utilizza le robuste chele sia per attaccare che per difendersi. Le lotte tra Crabrawler assomigliano molto a incontri di boxe.",
+            "ultra-moon": "A volte si arrampica sugli Exeggutor, prendendoli per vere palme. Per tutta risposta, questi si adirano, lo scaraventano a terra e lo calpestano.",
+            "scarlet": "Prende a pugni gli alberi, per poi cibarsi delle bacche che cadono dai rami. In questo modo, si allena e si procaccia il cibo simultaneamente.",
+            "violet": "Se perde le chele, queste ricrescono subito. Dal loro guscio si ricava un ottimo brodo, infatti sono un ingrediente molto apprezzato per la paella."
+        }
+    },
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "generation": 7,
+    "height": {
+        "crabrawler": "0,6 m"
+    },
+    "id": 739,
+    "name": "Crabrawler",
+    "name_origin": "Crabrawler potrebbe essere una combinazione di crab, granchio, e brawler, attaccabrighe. Makenkani potrebbe essere una combinazione di 負けん気 makenki, odia perdere, 喧嘩 kenka, lotta, e カニ kani, granchio. ",
+    "origin": "Crabrawler è basato su un Birgus latro  e su un pugile. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Pugile",
+    "sprites": {
+        "crabrawler": {
+            "default": "https://media.pokemoncentral.it/wiki/5/55/Homem0739.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/45/Homemsh0739.png"
+        }
+    },
+    "stats": {
+        "crabrawler": {
+            "hp": 47,
+            "atk": 82,
+            "def": 57,
+            "spa": 42,
+            "spd": 47,
+            "spe": 63
+        }
+    },
+    "stats_sum": {
+        "crabrawler": 338
+    },
+    "types": {
+        "crabrawler": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "crabrawler": "7,0 kg"
+    }
+}

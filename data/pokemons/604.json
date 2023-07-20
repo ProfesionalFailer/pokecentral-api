@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "eelektross": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "Eelektross e la sua famiglia evolutiva non possiedono debolezze grazie alla loro abilità Levitazione, che elimina la loro unica vulnerabilità al tipo Terra.",
+        "Nonostante Eelektross e la sua linea evolutiva siano basati su animali acquatici e vivano in acqua, non possiedono il tipo Acqua. Condividono questa caratteristica con Malamar e Grapploct.",
+        "Nonostante la sua voce Pokédex di Bianco affermi che Eelektross fulmina le prede attraverso i denti, non può apprendere Fulmindenti."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/eelektross.mp3",
+    "dex_entries": {
+        "eelektross": {
+            "black": "Striscia fuori dal mare con la sola forza dei propri arti. Poi attacca la preda a riva e con un guizzo la trascina con sé.",
+            "white": "Si attacca alla preda con la bocca a ventosa e la fulmina attraverso i denti conficcati.",
+            "black-2": "Si attacca alla preda con la bocca a ventosa, conficca i denti nel suo corpo e rilascia una potente scarica elettrica.",
+            "white-2": "Si attacca alla preda con la bocca a ventosa, conficca i denti nel suo corpo e rilascia una potente scarica elettrica.",
+            "x": "Si attacca alla preda con la bocca a ventosa e la fulmina attraverso i denti conficcati.",
+            "y": "Striscia fuori dal mare con la sola forza dei propri arti. Poi attacca la preda a riva e con un guizzo la trascina con sé.",
+            "omega-ruby": "Si attacca alla preda con la bocca a ventosa e la fulmina attraverso i denti conficcati.",
+            "alpha-sapphire": "Striscia fuori dal mare con la sola forza dei propri arti. Poi attacca la preda a riva e con un guizzo la trascina con sé.",
+            "scarlet": "Striscia fuori dal mare con la sola forza dei propri arti. Poi attacca la preda a riva e con un guizzo la trascina con sé in acqua.",
+            "violet": "Si attacca alla preda con la bocca a ventosa, conficca i denti nel suo corpo e rilascia una potente scarica elettrica."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "generation": 5,
+    "height": {
+        "eelektross": "2,1 m"
+    },
+    "id": 604,
+    "name": "Eelektross",
+    "name_origin": "Il nome Eelektross è una combinazione tra le parole eel , electric  e boss  oppure gross . La \"k\", potrebbe esprimere un'onomatopea del crepitio elettrico. Il suo nome giapponese, シビルドン Shibirudon, potrebbe essere una combinazione tra le parole 痺れ shibire , しびれうなぎ shibireunagi , ビリビリ biribiri , e -don . ",
+    "origin": "Eelektross è basato su un pesce elettroforo. In particolare potrebbe trarre ispirazione da un'anguilla elettrica, dagli agnati come le lamprede, dalle sanguisughe, o dai cefalocordati. Il suo tipo Elettro potrebbe essere ispirato alla bioelettrogenesi, la generazione di energia elettrica da parte di organismi viventi tramite impulsi nervosi, un fenomeno che appartiene alla scienza della elettrofisiologia. ",
+    "shape": "pinne",
+    "specie": "Pokémon Elettropesce",
+    "sprites": {
+        "eelektross": {
+            "default": "https://media.pokemoncentral.it/wiki/6/62/Homem0604.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/12/Homemsh0604.png"
+        }
+    },
+    "stats": {
+        "eelektross": {
+            "hp": 85,
+            "atk": 115,
+            "def": 80,
+            "spa": 105,
+            "spd": 80,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "eelektross": 515
+    },
+    "types": {
+        "eelektross": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "eelektross": "80,5 kg"
+    }
+}

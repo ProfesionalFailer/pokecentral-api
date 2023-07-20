@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "cryogonal": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "Cryogonal ha la più alta statistica base di Difesa Speciale di tutti i Pokémon non-leggendari di tipo Ghiaccio.",
+        "Cryogonal e Mew sono gli unici Pokémon asessuati capaci di imparare Attrazione. Tuttavia questa mossa fallirà sempre se usata da un Pokémon asessuato.",
+        "Cryogonal è l'unico Pokémon non leggendario di tipo Ghiaccio asessuato assieme a Rotom Gelo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cryogonal.mp3",
+    "dex_entries": {
+        "cryogonal": {
+            "black": "Quando la sua temperatura aumenta, si dissolve in una nuvola di vapore, ma se si abbassa, ridiventa di ghiaccio.",
+            "white": "È nato nelle nuvole cariche di neve. Cattura le prede con una catena fatta di cristalli di ghiaccio.",
+            "black-2": "Cattura le sue prede con catene fatte di cristalli di ghiaccio, poi le congela a una temperatura di -100°C.",
+            "white-2": "Cattura le sue prede con catene fatte di cristalli di ghiaccio, poi le congela a una temperatura di -100°C.",
+            "x": "È nato nelle nuvole cariche di neve. Cattura le prede con una catena fatta di cristalli di ghiaccio.",
+            "y": "Cattura le sue prede con catene fatte di cristalli di ghiaccio, poi le congela a una temperatura di -100°C.",
+            "omega-ruby": "È nato nelle nuvole cariche di neve. Cattura le prede con una catena fatta di cristalli di ghiaccio.",
+            "alpha-sapphire": "Cattura le sue prede con catene fatte di cristalli di ghiaccio, poi le congela a una temperatura di -100°C.",
+            "sword": "Maneggia una catena di ghiaccio, con cui congela e trascina via chiunque incontri.",
+            "shield": "Quando fa caldo si dissolve in una nuvola di vapore acqueo. Per questo è molto raro vederlo in estate.",
+            "scarlet": "Appare nelle stagioni fredde. Si dice sia la reincarnazione di Pokémon ed esseri umani scomparsi sulle montagne innevate.",
+            "violet": "Avvolge il nemico usando delle catene fatte di ghiaccio e lo congela così com’è in un istante."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 5,
+    "height": {
+        "cryogonal": "1,1 m"
+    },
+    "id": 615,
+    "name": "Cryogonal",
+    "name_origin": "Cryogonal è una combinazione del greco antico κρύος cryos  o dell'inglese cry , con il suffisso -gonal . Il nome giapponese, フリージオ Freegeo, potrebbe essere una combinazione dei termini inglesi freeze , frigid  e geometrical . ",
+    "origin": "L'aspetto di Cryogonal sembra essere basato su fiocchi di neve e cristalli di ghiaccio. Imparando anche alcune mosse basate sulla luce, potrebbe ispirarsi in aggiunta a uno specchio. La sua abilità di intrappolare le prede nel ghiaccio ricorda quella analoga dei Hrímþursar, i giganti di ghiaccio nella mitologia norrena. ",
+    "shape": "testa",
+    "specie": "Pokémon Cristallo",
+    "sprites": {
+        "cryogonal": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6c/Homem0615.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fb/Homemsh0615.png"
+        }
+    },
+    "stats": {
+        "cryogonal": {
+            "hp": 80,
+            "atk": 50,
+            "def": 50,
+            "spa": 95,
+            "spd": 135,
+            "spe": 105
+        }
+    },
+    "stats_sum": {
+        "cryogonal": 515
+    },
+    "types": {
+        "cryogonal": [
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "cryogonal": "148,0 kg"
+    }
+}

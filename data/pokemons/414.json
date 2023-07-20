@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "mothim": {
+            "primary": "Aiutinsetto",
+            "hidden": "Lentifumé"
+        }
+    },
+    "curiosities": [
+        "Mothim e Wormadam sono gli unici Pokémon con un totale di statistiche base pari a 424.",
+        "A differenza di Wormadam, non ha differenze di forma."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mothim.mp3",
+    "dex_entries": {
+        "mothim": {
+            "diamond": "Ama il nettare dei fiori. Ruba e mangia il nettare raccolto da COMBEE.",
+            "pearl": "Non ha una tana fissa. Vola su campi e monti in perenne ricerca del nettare dei fiori.",
+            "platinum": "Anche se ama il nettare dei fiori, non lo raccoglie. Preferisce rubarlo ai COMBEE.",
+            "heartgold": "Vola qua e là di notte per derubare i COMBEE del loro nettare mentre dormono, e poi fuggire.",
+            "soulsilver": "Vola qua e là di notte per derubare i COMBEE del loro nettare mentre dormono, e poi fuggire.",
+            "black": "Anche se ama il nettare dei fiori, non lo raccoglie. Preferisce rubarlo ai Combee.",
+            "white": "Anche se ama il nettare dei fiori, non lo raccoglie. Preferisce rubarlo ai Combee.",
+            "black-2": "Anche se ama il nettare dei fiori, non lo raccoglie. Preferisce rubarlo ai Combee.",
+            "white-2": "Anche se ama il nettare dei fiori, non lo raccoglie. Preferisce rubarlo ai Combee.",
+            "x": "Ama il nettare dei fiori. Ruba e mangia il nettare raccolto da Combee.",
+            "y": "Vola qua e là di notte per derubare i Combee del loro nettare mentre dormono, e poi fuggire.",
+            "omega-ruby": "Ama il nettare dei fiori. Ruba e mangia il nettare raccolto da Combee.",
+            "alpha-sapphire": "Vola qua e là di notte per derubare i Combee del loro nettare mentre dormono, e poi fuggire.",
+            "brilliant-diamond": "Ama il nettare dei fiori. Ruba quello raccolto dai Combee per mangiarlo.",
+            "shining-pearl": "Non ha una tana fissa. Vola su campi e monti in perenne ricerca del nettare dei fiori di cui è ghiotto.",
+            "legends-arceus": "Sbatte le ali spargendo scaglie color acciaio. Benché il polline paia essere il suo alimento primario, di rado si palesa nei campi in fiore."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 4,
+    "height": {
+        "mothim": "0,9 m"
+    },
+    "id": 414,
+    "name": "Mothim",
+    "name_origin": "Deriva dalle parole moth  con il pronome him . ",
+    "origin": "Basato su un maschio adulto di un lepidottero, precisamente la falena adulata della famiglia delle Psychidae . ",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Falena",
+    "sprites": {
+        "mothim": {
+            "default": "https://media.pokemoncentral.it/wiki/6/69/Homem0414.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0414.png"
+        }
+    },
+    "stats": {
+        "mothim": {
+            "hp": 70,
+            "atk": 94,
+            "def": 50,
+            "spa": 94,
+            "spd": 50,
+            "spe": 66
+        }
+    },
+    "stats_sum": {
+        "mothim": 424
+    },
+    "types": {
+        "mothim": [
+            "Volante",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "mothim": "23,3 kg"
+    }
+}

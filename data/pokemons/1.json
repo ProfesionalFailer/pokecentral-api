@@ -1,0 +1,97 @@
+{
+    "abilities": {
+        "bulbasaur": {
+            "primary": "Erbaiuto",
+            "hidden": "Clorofilla"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Rosso, Verde e Blu giapponesi, in Pokémon Rosso e Blu inglesi e in Pokémon Rosso Fuoco e Verde Foglia giapponesi, il Professor Oak classifica Bulbasaur come \"しょくぶつポケモン Shokubutsu Pokémon\", nei giochi giapponesi, e \"Plant Pokémon\", nei giochi inglesi, quando il giocatore deve scegliere uno tra i tre Pokémon iniziali, usando il termine in riferimento al tipo del Pokémon.\n\tQuesto accade anche nel primo episodio di Pokémon Le origini.",
+        "Questo accade anche nel primo episodio di Pokémon Le origini.",
+        "Bulbasaur, Ivysaur e Venusaur condividono la loro categoria con Sunkern. Tutti e quattro sono noti come Pokémon Seme.",
+        "Bulbasaur è il primo Pokémon del Pokédex di Kanto, del Pokédex Nazionale e del Navigatore di Fiore.",
+        "Lo stato del Niue ha rilasciato una moneta da un dollaro con Bulbasaur su un lato come promozione commemorativa del franchise Pokémon; dall'altro lato della moneta vi è lo stemma dell'isola.",
+        "La linea evolutiva di Bulbasaur è l'unica, fra quelle dei Pokémon iniziali, che compare almeno una volta nella serie Super Smash Bros.",
+        "Tutti i Pokémon inziali di Kanto hanno l'abilità speciale correlata alle condizioni atmosferiche: Bulbasaur ha Clorofilla, Charmander ha Solarpotere e Squirtle ha Copripioggia.",
+        "A causa della censura che impedisce che Pokémon con soprannomi offensivi siano scambiati via GTS, un Bulbasaur inglese non può essere scambiato via GTS senza un soprannome in Pokémon Nero e Bianco.",
+        "In Pokémon Oro e Argento, Bulbasaur era programmato per essere in grado di imparare Fascino attraverso l'accoppiamento, ma nessun altro Pokémon del Gruppo Uova Erba o Mostro poteva legittimamente impararla e tramandarla come mossa Uovo in quei giochi. Nella terza e quarta generazione, Bulbasaur può ereditare la mossa da Shroomish grazie a una catena di accoppiamenti; dalla quinta generazione alla settima generazione, Bulbasaur può ereditare la mossa direttamente da Cottonee.",
+        "Nonostante Bulbasaur non sia considerato come fonte di ispirazione per la nomenclatura scientifica del Bulbasaurus, un genere estinto di dicinodonte, è stato indicato che le somiglianze nel nome \"non sono totalmente casuali\"."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bulbasaur.mp3",
+    "dex_entries": {
+        "bulbasaur": {
+            "red": "Un seme raro gli è stato piantato sulla schiena alla nascita. La pianta sboccia e cresce con lui.",
+            "blue": "Un seme raro gli è stato piantato sulla schiena alla nascita. La pianta sboccia e cresce con lui.",
+            "yellow": "Questo POKéMON può stare a lungo senza nutrimento. Accumula energia nel bulbo che ha sulla schiena.",
+            "gold": "Il seme che ha sul dorso è ricco di sostanze nutrienti. Il seme cresce costantemente con il suo corpo.",
+            "silver": "Dalla nascita ha un seme sul dorso. Quando cresce, anche il seme diventa più grande.",
+            "crystal": "Da piccolo usa le sostanze nutritive dei semi sul dorso per poter crescere.",
+            "ruby": "È possibile vedere BULBASAUR mentre schiaccia un pisolino sotto il sole. Ha un seme piantato sulla schiena. Grazie ai raggi solari il seme cresce ingrandendosi progressivamente.",
+            "sapphire": "È possibile vedere BULBASAUR mentre schiaccia un pisolino sotto il sole. Ha un seme piantato sulla schiena. Grazie ai raggi solari il seme cresce ingrandendosi progressivamente.",
+            "emerald": "È possibile vedere BULBASAUR mentre schiaccia un pisolino sotto il sole. Ha un seme piantato sulla schiena che cresce e si ingrandisce grazie ai raggi solari.",
+            "firered": "Da quando è nato, questo POKéMON ha un seme sulla schiena, che cresce lentamente.",
+            "leafgreen": "Un seme raro gli è stato piantato sulla schiena alla nascita. La pianta sboccia e cresce con lui.",
+            "diamond": "Dopo la nascita, cresce traendo nutrimento dal seme piantato sul suo dorso.",
+            "pearl": "Dopo la nascita, cresce traendo nutrimento dal seme piantato sul suo dorso.",
+            "platinum": "Dopo la nascita, cresce traendo nutrimento dal seme piantato sul suo dorso.",
+            "heartgold": "Il seme che ha sul dorso è ricco di sostanze nutrienti. Il seme cresce costantemente con il suo corpo.",
+            "soulsilver": "Dalla nascita ha un seme sul dorso. Quando cresce, anche il seme diventa più grande.",
+            "black": "Dopo la nascita, cresce traendo nutrimento dal seme piantato sul suo dorso.",
+            "white": "Dopo la nascita, cresce traendo nutrimento dal seme piantato sul suo dorso.",
+            "black-2": "Dopo la nascita, cresce traendo nutrimento dal seme piantato sul suo dorso.",
+            "white-2": "Dopo la nascita, cresce traendo nutrimento dal seme piantato sul suo dorso.",
+            "x": "Alla nascita gli è stato piantato sulla schiena un seme raro. La pianta sboccia e cresce con lui.",
+            "y": "Dopo la nascita, cresce traendo nutrimento dal seme piantato sul suo dorso.",
+            "omega-ruby": "È possibile vedere Bulbasaur mentre schiaccia un pisolino sotto il sole. Ha un seme piantato sulla schiena. Grazie ai raggi solari il seme cresce ingrandendosi progressivamente.",
+            "alpha-sapphire": "È possibile vedere Bulbasaur mentre schiaccia un pisolino sotto il sole. Ha un seme piantato sulla schiena. Grazie ai raggi solari il seme cresce ingrandendosi progressivamente.",
+            "lets-go-pikachu": "Questo Pokémon può stare a lungo senza mangiare. Accumula energia nel bulbo che ha sulla schiena.",
+            "lets-go-eevee": "Questo Pokémon può stare a lungo senza mangiare. Accumula energia nel bulbo che ha sulla schiena.",
+            "sword": "Fin dalla nascita questo Pokémon ha sulla schiena un seme che cresce lentamente.",
+            "shield": "Appena nato, trae nutrimento dalle sostanze contenute nel seme sul dorso.",
+            "brilliant-diamond": "Dopo la nascita, cresce traendo nutrimento dal seme piantato sul suo dorso.",
+            "shining-pearl": "Dopo la nascita, cresce traendo nutrimento dal seme piantato sul suo dorso."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Erba"
+    ],
+    "generation": 1,
+    "height": {
+        "bulbasaur": "0,7 m"
+    },
+    "id": 1,
+    "name": "Bulbasaur",
+    "name_origin": "Bulbasaur potrebbe essere una combinazione di bulb, bulbo, e σαῦρος sauros, lucertola in greco antico. Fushigidane potrebbe essere una combinazione di 不思議 fushigi, strano o misterioso, e 種 tane, seme, o だね dane, \"non è così?\". ",
+    "origin": "Bulbasaur è basato su una rana. Secondo Ken Sugimori e Atsuko Nishida, l'artista si è basata su un criterio opposto rispetto alla sua forma finale, il che significa che Bulbasaur è stato l'ultimo della famiglia evolutiva ad essere stato progettato ed è anche basato su Venusaur. In particolare, la coporatura del Pokémon ricorda la rana del diavolo, una rana vissuta nel tardo Cretaceo. Il bulbo sulla schiena ricorda quello di un giglio o di una cipolla. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Seme",
+    "sprites": {
+        "bulbasaur": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e2/Homem0001.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0001.png"
+        }
+    },
+    "stats": {
+        "bulbasaur": {
+            "hp": 45,
+            "atk": 49,
+            "def": 49,
+            "spa": 65,
+            "spd": 65,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "bulbasaur": 318
+    },
+    "types": {
+        "bulbasaur": [
+            "Erba",
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "bulbasaur": "6,9 kg"
+    }
+}

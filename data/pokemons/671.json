@@ -1,0 +1,101 @@
+{
+    "abilities": {
+        "florges": {
+            "primary": "Fiorvelo",
+            "hidden": "Simbiosi"
+        }
+    },
+    "curiosities": [
+        "La sua è la prima catena evolutiva esclusivamente di un sesso della sesta generazione.",
+        "In sesta generazione è il primo Pokémon che si evolve tramite una pietra.",
+        "Florges ha la più alta statistica base di Difesa Speciale di tutti i Pokémon di tipo Folletto.",
+        "Florges è l'unico Pokémon con un totale di statistiche base pari a 552."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/florges.mp3",
+    "dex_entries": {
+        "florges": {
+            "x": "Il suo habitat preferito sono i meravigliosi giardini fioriti. Assorbe e utilizza l'energia di piante e fiori.",
+            "y": "Anticamente, i padroni dei castelli ricorrevano al suo aiuto per abbellire i loro giardini con tanti fiori diversi.",
+            "omega-ruby": "Il suo habitat preferito sono i meravigliosi giardini fioriti. Assorbe e utilizza l'energia di piante e fiori.",
+            "alpha-sapphire": "Anticamente, i padroni dei castelli ricorrevano al suo aiuto per abbellire i loro giardini con tanti fiori diversi.",
+            "ultra-sun": "Ha il potere di controllare i fiori che coltiva. È in grado di creare tempeste di fiori tanto meravigliose quanto devastanti.",
+            "ultra-moon": "Può vivere per centinaia di anni e dedica la sua intera esistenza alla cura dei giardini fioriti."
+        },
+        "fiore-rosso": {
+            "scarlet": "Questo Pokémon trasforma il proprio territorio in uno splendido giardino fiorito. I suoi poteri derivano dai fiori rossi che ha attorno al collo.",
+            "violet": "Si dice che nei giardini fioriti realizzati dai Florges si riversi costantemente un potere capace di guarire il corpo e la mente."
+        },
+        "fiore-giallo": {
+            "scarlet": "Si dice che un Florges abbia protetto il giardino fiorito del suo castello per più di 300 anni.",
+            "violet": "Lotta traendo il potere dai fiori gialli. Fa soffrire senza pietà chi danneggia le piante."
+        },
+        "fiore-arancione": {
+            "scarlet": "I suoi fiori arancioni attaccano sparando potenti raggi proprio come una batteria di cannoni.",
+            "violet": "Anticamente, i padroni dei castelli allevavano con amore i Florges perché si prendessero cura dei loro meravigliosi giardini."
+        },
+        "fiore-blu": {
+            "scarlet": "È di indole caritatevole, ma dà una caccia spietata a chiunque deturpi i suoi giardini. Ignora anche le suppliche di avere salva la vita.",
+            "violet": "In passato il blu era un pigmento prezioso, perciò i dipinti che ritraggono esemplari di questo colore valgono molto."
+        },
+        "fiore-bianco": {
+            "scarlet": "I giardini creati dai Florges Fiore Bianco sono ricchi di piante variopinte e perciò molto belli.",
+            "violet": "Gli esemplari adornati con fiori bianchi riescono a sincronizzarsi con le lunghezze d’onda di vari colori e sfruttarne così il potere."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "generation": 6,
+    "height": {
+        "florges": "1,1 m"
+    },
+    "id": 671,
+    "name": "Florges",
+    "name_origin": "Il suo nome deriva dall'unione delle parole francesi flore, flora, e orge, orzo. ",
+    "origin": "Florges è basato su una fata o su una ninfa. Potrebbe essere ispirato alla mandragora. Il suo aspetto ricorda quello di una dama francese del Settecento. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Giardino",
+    "sprites": {
+        "fiore-rosso": {
+            "default": "https://media.pokemoncentral.it/wiki/8/85/Homef0671.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b0/Homefsh0671.png"
+        },
+        "fiore-giallo": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0a/Homef0671G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/af/Homefsh0671G.png"
+        },
+        "fiore-arancione": {
+            "default": "https://media.pokemoncentral.it/wiki/6/68/Homef0671A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f0/Homefsh0671A.png"
+        },
+        "fiore-blu": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c9/Homef0671Bl.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/68/Homefsh0671Bl.png"
+        },
+        "fiore-bianco": {
+            "default": "https://media.pokemoncentral.it/wiki/2/28/Homef0671Bi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/50/Homefsh0671Bi.png"
+        }
+    },
+    "stats": {
+        "florges": {
+            "hp": 78,
+            "atk": 65,
+            "def": 68,
+            "spa": 112,
+            "spd": 154,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "florges": 552
+    },
+    "types": {
+        "florges": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "florges": "10,0 kg"
+    }
+}

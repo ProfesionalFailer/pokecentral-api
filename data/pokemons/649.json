@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "genesect": {
+            "primary": "Download"
+        }
+    },
+    "curiosities": [
+        "Genesect ha le statistiche più alte dei Pokémon Coleottero .",
+        "Genesect è uno dei due Pokémon di tipo Coleottero e non Volante a poter imparare Volo, l'altro è Volcarona.",
+        "Pur essendo Tecnobotto la mossa esclusiva di Genesect, il Pokémon non ne riceve il bonus di tipo.",
+        "Casualmente sia Genesect che Arceus, gli unici ad apprendere una mossa che cambia tipo in base all'oggetto tenuto, sono gli ultimi Pokémon del loro Pokédex regionale.",
+        "Genesect è, dopo Mewtwo e la linea evolutiva di Porygon, il quinto Pokémon creato o alterato dall'intervento umano la cui origine artificiale è dichiarata chiaramente nei giochi.\n\tSebbene solo questi Pokémon siano dichiarati ufficialmente come artificiali, ce ne sono altri che sembrano essere artificiali come Ditto e la catena evolutiva di Magnemite, ma sebbene il loro aspetto o le loro origini suggeriscano che siano di manifattura umana nei giochi o in altre fonti non c'è nulla che sembra dare prove certe di ciò.",
+        "Sebbene solo questi Pokémon siano dichiarati ufficialmente come artificiali, ce ne sono altri che sembrano essere artificiali come Ditto e la catena evolutiva di Magnemite, ma sebbene il loro aspetto o le loro origini suggeriscano che siano di manifattura umana nei giochi o in altre fonti non c'è nulla che sembra dare prove certe di ciò.",
+        "Quando Genesect non tiene alcun modulo, il suo sprite presenta comunque un modulo inserito nel cannone.",
+        "Genesect, assieme a Pichu e Spinda, è l'unico Pokémon che ha variazioni di sprite ma che non vengono considerate ufficialmente forme alternative.",
+        "Le descrizioni di Pokémon Bianco e di Pokémon Bianco 2 e Nero 2 sono in contrapposizione: la prima dice che Genesect aveva già il cannone sulla schiena, e che il Team Plasma l'ha potenziato; la seconda invece dice che è stato proprio il Team Plasma a montare il cannone su Genesect.",
+        "Genesect è l'unico Pokémon misterioso di tipo Coleottero."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/genesect.mp3",
+    "dex_entries": {
+        "genesect": {
+            "black": "300 milioni di anni fa era temuto come il più forte fra i cacciatori. È stato modificato dal Team Plasma.",
+            "white": "Antico Pokémon coleottero modificato dal Team Plasma, che ne ha notevolmente potenziato il cannone sulla schiena.",
+            "black-2": "Esiste da più di 300 milioni di anni. Il Team Plasma ne ha modificato il corpo montandogli un cannone sul dorso.",
+            "white-2": "Esiste da più di 300 milioni di anni. Il Team Plasma ne ha modificato il corpo montandogli un cannone sul dorso.",
+            "x": "Antico Pokémon Coleottero modificato dal Team Plasma, che ne ha notevolmente potenziato il cannone sulla schiena.",
+            "y": "Esiste da più di 300 milioni di anni. Il Team Plasma ne ha modificato il corpo montandogli un cannone sul dorso.",
+            "omega-ruby": "Antico Pokémon Coleottero modificato dal Team Plasma, che ne ha notevolmente potenziato il cannone sulla schiena.",
+            "alpha-sapphire": "Esiste da più di 300 milioni di anni. Il Team Plasma ne ha modificato il corpo montandogli un cannone sul dorso."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 5,
+    "height": {
+        "genesect": "1,5 m"
+    },
+    "id": 649,
+    "name": "Genesect",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi gene o genetic  ed insect . ",
+    "origin": "Genesect si basa in genere sugli insetti giganti dell'era paleozoica, infatti esiste da 300 milioni di anni, il che lo rende antico come lo scarafaggio. Il suo tipo acciaio e le sue caratteristiche che gli danno un aspetto un po' robotico potrebbero essere un riferimento ai robot alieni dell'immaginario collettivo fantascientifico, ma ciò potrebbe anche essere a causa delle modifiche apportate dal Team Plasma. Il suo design è probabilmente ispirato ai \"Mecha\" presenti in vari anime di fantascienza prodotti in Giappone; in particolar modo il fatto che possa \"trasformarsi\" da una forma antropomorfa ad una secondaria simile ad un velivolo, può essere tratto da Transformers più precisamente da un Insecticon. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Paleozoico",
+    "sprites": {
+        "senza-modulo": {
+            "default": "https://media.pokemoncentral.it/wiki/1/13/Homem0649.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a6/Homemsh0649.png"
+        },
+        "con-idromodulo": {
+            "default": "https://media.pokemoncentral.it/wiki/0/08/Homem0649I.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homemsh0649I.png"
+        },
+        "con-voltmodulo": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1f/Homem0649V.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4a/Homemsh0649V.png"
+        },
+        "con-piromodulo": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b9/Homem0649P.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0649P.png"
+        },
+        "con-gelomodulo": {
+            "default": "https://media.pokemoncentral.it/wiki/1/18/Homem0649G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f6/Homemsh0649G.png"
+        }
+    },
+    "stats": {
+        "genesect": {
+            "hp": 71,
+            "atk": 120,
+            "def": 95,
+            "spa": 120,
+            "spd": 95,
+            "spe": 99
+        }
+    },
+    "stats_sum": {
+        "genesect": 600
+    },
+    "types": {
+        "genesect": [
+            "Acciaio",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "genesect": "82,5 kg"
+    }
+}

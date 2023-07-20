@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "petilil": {
+            "primary": "Clorofilla",
+            "secondary": "Mente Locale",
+            "hidden": "Fogliamanto"
+        }
+    },
+    "curiosities": [
+        "Articoli incompleti",
+        "Pokémon",
+        "Pokémon di quinta generazione",
+        "Pokémon di tipo Erba",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Verde",
+        "Pokémon dalla sagoma n. 05",
+        "Pokémon esclusivamente femmine",
+        "Pokémon di Gruppo Uova Erba",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con evoluzioni ramificate",
+        "Pokémon con statistiche base totali di 280",
+        "Pokémon con evoluzioni trans-generazionali",
+        "Pokémon che si evolvono solo ad Hisui",
+        "Pokémon che si evolvono tramite una pietra evolutiva",
+        "Pokémon che si evolvono tramite Pietrasolare"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/petilil.mp3",
+    "dex_entries": {
+        "petilil": {
+            "black": "Le foglie che ha sul capo sono molto amare ma, se masticate, hanno l'effetto di rinvigorire il corpo stanco.",
+            "white": "Dato che predilige i terreni ricchi di acqua e nutrimento, nelle zone in cui vive Petilil i raccolti sono rigogliosi.",
+            "black-2": "Se le foglie sul suo capo cadono, ricrescono subito. Sono molto amare, ma se masticate rimettono subito in salute.",
+            "white-2": "Se le foglie sul suo capo cadono, ricrescono subito. Sono molto amare, ma se masticate rimettono subito in salute.",
+            "x": "Le foglie che ha sul capo sono molto amare ma, se masticate, hanno l'effetto di rinvigorire il corpo stanco.",
+            "y": "Dato che predilige i terreni ricchi di acqua e nutrimento, nelle zone in cui vive Petilil i raccolti sono rigogliosi.",
+            "omega-ruby": "Le foglie che ha sul corpo sono molto amare ma, se masticate, hanno l'effetto di rinvigorire il corpo stanco.",
+            "alpha-sapphire": "Dato che predilige i terreni ricchi di acqua e nutrimento, nelle zone in cui vive Petilil i raccolti sono rigogliosi.",
+            "sun": "Le foglie che ha sul capo sono marissime, ma hanno un effetto rinvigorente per il corpo. Bevute in infusione, sono ancora più efficaci.",
+            "moon": "Le foglie che ha sul capo vanno spuntate di tanto in tanto per permettergli di crescere florido e pieno.",
+            "ultra-sun": "Le foglie che ha sul capo sono molto amate dagli anziani perché, essiccate al sole e bevute come tisana, hanno un effetto rinvigorente.",
+            "ultra-moon": "I Petilil prediligono i luoghi caratterizzati da terra e acqua pulite. Se il loro ambiente si deteriora, si trasferiscono in massa.",
+            "sword": "Appare in prossimità di acque limpide. Il decotto ottenuto dalle foglie che ha sulla testa a volte viene usato come repellente per gli insetti.",
+            "shield": "Più il colore delle foglie è intenso, più è in salute. A volte si stabilisce in campi o aiuole ben curate.",
+            "legends-arceus": "Dalle foglie sul capo, se disseccate al sole, si trae un infuso impiegato diffusamente come ottimo farmaco contro la spossatezza, seppur amaro.",
+            "scarlet": "Se le foglie sul suo capo cadono, ricrescono subito. Sono molto amare, ma se masticate rimettono subito in forze.",
+            "violet": "Le foglie che ha sul capo vanno spuntate di tanto in tanto per permettergli di crescere florido e bello rotondo."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 5,
+    "height": {
+        "petilil": "0,5 m"
+    },
+    "id": 548,
+    "name": "Petilil",
+    "name_origin": "Petilil deriva probabilmente dall'insieme della parola francese petit , o dall'inglese petite , petal , o petunia, e dalla parola inglese lily , o li'l . ",
+    "origin": "Petilil è basato sul bulbo di una liliacea, probabilmente della pianta del tulipano. ",
+    "shape": "quadrupede",
+    "specie": "Pokémon Radice",
+    "sprites": {
+        "petilil": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9f/Homef0548.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/06/Homefsh0548.png"
+        }
+    },
+    "stats": {
+        "petilil": {
+            "hp": 45,
+            "atk": 35,
+            "def": 50,
+            "spa": 70,
+            "spd": 50,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "petilil": 280
+    },
+    "types": {
+        "petilil": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "petilil": "6,6 kg"
+    }
+}

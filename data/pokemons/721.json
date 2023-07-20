@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "volcanion": {
+            "primary": "Assorbacqua"
+        }
+    },
+    "curiosities": [
+        "Volcanion è l'unico Pokémon ad avere la combinazione di tipo Fuoco/Acqua.",
+        "Volcanion è stato scoperto in largo anticipo dall'hacker Smealum, insieme a Diancie, Hoopa e alle Megaevoluzioni di Latias e Latios."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/volcanion.mp3",
+    "dex_entries": {
+        "volcanion": {
+            "x": "Espelle i vapori interni dalle braccia sulla schiena. Il vapore è cosi forte da poter abbattere una montagna.",
+            "y": "Rilascia nuvole di vapore e scompare nella densa nebbia. Si dice che viva nelle montagne non visitate dall'uomo.",
+            "omega-ruby": "Rilascia nuvole di vapore e scompare nella densa nebbia. Si dice che viva nelle montagne non visitate dall'uomo.",
+            "alpha-sapphire": "Espelle i vapori interni dalle braccia sulla schiena. Il vapore è cosi forte da poter abbattere una montagna."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 7,
+    "height": {
+        "volcanion": "1,7 m"
+    },
+    "id": 721,
+    "name": "Volcanion",
+    "name_origin": "Il nome è una combinazione di Volcano  e Lion , potrebbe contenere anche una corruzione di Cannon . ",
+    "origin": "Volcanion sembra essere basato sul Ryukyuran, Shisa o al Komainu, creature mitologiche simili a leoni, tigri e cani, le statue di queste creature sono messe in coppia davanti ai templi per invitare spiriti benevoli e scacciare quelli malevoli, l'aspetto meccanico e le \"braccia\" sulla schiena ricordano un carro armato, oppure potrebbe essere basato ad un motore a vapore. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Vapore",
+    "sprites": {
+        "volcanion": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3a/Homem0721.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0721.png"
+        }
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 80,
+            "atk": 110,
+            "def": 120,
+            "spa": 130,
+            "spd": 90,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 600
+    },
+    "types": {
+        "volcanion": [
+            "Acqua",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "volcanion": "195,0 kg"
+    }
+}

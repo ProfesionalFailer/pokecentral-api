@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "gothorita": {
+            "primary": "Indagine",
+            "secondary": "Tenacia",
+            "hidden": "Pedinombra"
+        }
+    },
+    "curiosities": [
+        "Gothorita condivide la categoria con Grumpig. Entrambi sono noti come Pokémon Raggiro.\n\tCuriosamente, sono entrambi Pokémon di tipo Psico.",
+        "Curiosamente, sono entrambi Pokémon di tipo Psico.",
+        "Gothorita rappresenta il mese di settembre  nell'oroscopo di Unima.",
+        "La voce del Pokédex di Gothorita in Pokémon Nero menziona la sua attitudine ad ipnotizzare le persone per farle cadere in trance, caratteristica che condivide con Hypno. Nonostante ciò, non può imparare la mossa Ipnosi.",
+        "Nonostante la voce del Pokédex in Pokémon Bianco dica che la luce delle stelle sia la fonte della forza di Gothorita, non può imparare la mossa Cosmoforza.",
+        "Gothorita può essere visto come un parallelo di Duosion: sono entrambi Pokémon di tipo Psico di quinta generazione, entrambi si evolvono dalle loro forme base al livello 32 e si evolvono al livello 41. Gothorita è esclusivo di Nero, mentre Duosion di Bianco."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gothorita.mp3",
+    "dex_entries": {
+        "gothorita": {
+            "black": "Con l'ipnotismo controlla persone e Pokémon. Molte sono le storie di gente portata via nel sonno da Gothorita.",
+            "white": "Trae energia dalla luce delle stelle. Ne traccia la posizione facendo levitare le pietre coi poteri psichici.",
+            "black-2": "Si racconta che nelle notti stellate, per giocare con i bambini addormentati, si diverte a muoverli come pupazzi.",
+            "white-2": "Si racconta che nelle notti stellate, per giocare con i bambini addormentati, si diverte a muoverli come pupazzi.",
+            "x": "Trae energia dalla luce delle stelle. Ne traccia la posizione facendo levitare le pietre con i poteri psichici.",
+            "y": "Si racconta che nelle notti stellate, per giocare con i bambini addormentati, si diverta a muoverli come pupazzi.",
+            "omega-ruby": "Trae energia dalla luce delle stelle. Ne traccia la posizione facendo levitare le pietre con i poteri psichici.",
+            "alpha-sapphire": "Si racconta che nelle notti stellate, per giocare con i bambini addormentati, si diverta a muoverli come pupazzi.",
+            "sword": "Si dice che nelle notti stellate porti via con sé i bambini addormentati. Per questo è chiamato anche \"strega del castigo\".",
+            "shield": "Si dice che accumuli energia psichica soprattutto nelle notti stellate, ma la sua connessione con l'universo rimane un mistero.",
+            "scarlet": "Addormenta i bambini con l’ipnosi e li porta via con sé. Quando le stelle del cielo rischiarano la notte, la prudenza non è mai troppa.",
+            "violet": "Allinea dei sassi con i suoi poteri psichici per ricreare le costellazioni. Alcuni pensano che venga dallo spazio."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 5,
+    "height": {
+        "gothorita": "0,7 m"
+    },
+    "id": 575,
+    "name": "Gothorita",
+    "name_origin": "Il suo nome deriva probabilmente dall'unione di gothic lolita e dello spagnolo señorita . ",
+    "origin": "Gothorita è basata su una ragazza vestita secondo la moda gothic lolita. Potrebbe inoltre essere basata sulla costellazione della bilancia, che rispecchia sulla posizione in cui spesso tiene mani, che sembrano sorreggere due pesi  e la sua connessione con le stelle. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Raggiro",
+    "sprites": {
+        "gothorita": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1c/Homem0575.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homemsh0575.png"
+        }
+    },
+    "stats": {
+        "gothorita": {
+            "hp": 60,
+            "atk": 45,
+            "def": 70,
+            "spa": 75,
+            "spd": 85,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "gothorita": 390
+    },
+    "types": {
+        "gothorita": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "gothorita": "18,0 kg"
+    }
+}

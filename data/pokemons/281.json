@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "kirlia": {
+            "primary": "Sincronismo",
+            "secondary": "Traccia",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Kirlia condivide la categoria con Mesprit. Entrambi sono noti come Pokémon Emozione.",
+        "Il numero Kirlia nel Pokédex di Sinnoh  e nel Navigatore di Almia è lo stesso: 158.",
+        "Kirlia è l'unico Pokémon che perde una immunità ad un tipo evolvendosi senza acquisirne un'altra diventando Gallade.",
+        "Kirlia è uno dei cinque Pokémon la cui evoluzione è basata sul genere. Gli altri quattro sono Burmy in Wormadam e Mothim, Combee in Vespiquen, Snorunt in Froslass e Salandit in Salazzle."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kirlia.mp3",
+    "dex_entries": {
+        "kirlia": {
+            "ruby": "Si dice che KIRLIA cresca molto bene se viene esposto alle emozioni positive del suo ALLENATORE. Questo POKéMON è dotato di poteri psicocinetici grazie al suo cervello altamente sviluppato.",
+            "sapphire": "KIRLIA usa le corna sul capo per amplificare il potere psicocinetico. Quando il POKéMON usa tali poteri, l'aria circostante assume un aspetto distorto, creando miraggi di scenari inesistenti.",
+            "emerald": "Con i suoi poteri psichici, KIRLIA crea una frattura spazio-temporale che gli consente di vedere il futuro. Si dice che ami danzare al sole mattutino.",
+            "firered": "Lo spirito gioioso è alla base dei suoi poteri psicocinetici. Quando è felice si lancia in danze e piroette.",
+            "leafgreen": "Lo spirito gioioso è alla base dei suoi poteri psicocinetici. Quando è felice si lancia in danze e piroette.",
+            "diamond": "Percepisce molto bene i sentimenti del suo Allenatore. Danza quando si sente felice.",
+            "pearl": "Percepisce molto bene i sentimenti del suo Allenatore. Danza quando si sente felice.",
+            "platinum": "Quando il suo Allenatore si sente felice, trabocca di energia e inizia a ballare girando su se stesso.",
+            "heartgold": "Usa i suoi poteri psichici per dare all'aria circostante un aspetto distorto e prevedere l'avvenire.",
+            "soulsilver": "Usa i suoi poteri psichici per dare all'aria circostante un aspetto distorto e prevedere l'avvenire.",
+            "black": "Quando il suo Allenatore si sente felice, trabocca di energia e inizia a ballare girando su se stesso.",
+            "white": "Quando il suo Allenatore si sente felice, trabocca di energia e inizia a ballare girando su se stesso.",
+            "black-2": "Quando il suo Allenatore si sente felice, trabocca di energia e inizia a ballare girando su se stesso.",
+            "white-2": "Quando il suo Allenatore si sente felice, trabocca di energia e inizia a ballare girando su se stesso.",
+            "x": "Lo spirito gioioso è alla base dei suoi poteri psicocinetici. Quando è felice si lancia in danze e piroette.",
+            "y": "Usa i suoi poteri psichici per dare all'aria circostante un aspetto distorto e prevedere l'avvenire.",
+            "omega-ruby": "Si dice che Kirlia cresca molto bene se viene esposto alle emozioni positive del suo Allenatore. Questo Pokémon è dotato di poteri psicocinetici grazie al suo cervello altamente sviluppato.",
+            "alpha-sapphire": "Kirlia usa le corna sul suo capo per amplificare i suoi poteri psicocinetici. Quando il Pokémon usa tali poteri, l'aria circostante assume un aspetto distorto, creando miraggi di scenari inesistenti.",
+            "sword": "Quando il suo Allenatore si sente felice, trabocca di energia e inizia a ballare girando su se stesso.",
+            "shield": "Sfruttando i suoi poteri psichici può distorcere lo spazio circostante per prevedere l'avvenire.",
+            "brilliant-diamond": "È in grado di percepire con grande precisione i sentimenti del suo Allenatore. Danza quando si sente felice.",
+            "shining-pearl": "È in grado di percepire con grande precisione i sentimenti del suo Allenatore. Danza quando si sente felice.",
+            "legends-arceus": "Le fattezze rimembrano una fanciulla. Possiede il mirabile potere di creare visioni ultraterrene, probabilmente per mezzo dei rossi fermagli.",
+            "scarlet": "Sfruttando i suoi poteri psichici, può distorcere lo spazio circostante per prevedere l’avvenire.",
+            "violet": "Più felice è la sua Allenatrice o il suo Allenatore, più sono potenti i suoi poteri psichici. Quando è di buonumore, si lancia in danze e piroette."
+        }
+    },
+    "egg_groups": [
+        "Amorfo",
+        "Umanoide",
+        "VIII"
+    ],
+    "generation": 3,
+    "height": {
+        "kirlia": "0,80 m"
+    },
+    "id": 281,
+    "name": "Kirlia",
+    "name_origin": "Deriva da Semyon Davidovich Kirlian, uno scienziato russo inventore dell'effetto Kirlian. ",
+    "origin": "È basato su una ballerina di danza classica. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Emozione",
+    "sprites": {
+        "kirlia": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ef/Homem0281.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/18/Homemsh0281.png"
+        }
+    },
+    "stats": {
+        "kirlia": {
+            "hp": 38,
+            "atk": 35,
+            "def": 35,
+            "spa": 65,
+            "spd": 55,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "kirlia": 278
+    },
+    "types": {
+        "kirlia": [
+            "Psico",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "kirlia": "20,2 kg"
+    }
+}

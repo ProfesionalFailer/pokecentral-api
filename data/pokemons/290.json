@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "nincada": {
+            "primary": "Insettocchi",
+            "hidden": "Fugafacile"
+        }
+    },
+    "curiosities": [
+        "In terza generazione Nincada aveva una combinazione di tipi unica.",
+        "Nincada è l'unico Pokémon di sesso non sconosciuto che non può imparare mosse come Attrazione o Fascino. Il motivo potrebbe essere il fatto che evolvendosi in Shedinja quest'ultimo erediterebbe tali mosse e non potrebbe usarle, poiché è un Pokémon di sesso sconosciuto.",
+        "Nincada è l'unico Pokémon che può evolversi in due Pokémon contemporaneamente, sempre che si consideri Shedinja un appartenente alla sua linea evolutiva.",
+        "Se non si considera Shedinja un membro della famiglia evolutiva di Nincada, allora questi e Phione sono gli unici Pokémon a poter nascere da un Pokémon in cui non si evolvono.",
+        "È l'unico Pokémon ad avere come statistiche totali 266.",
+        "È l'unico Pokémon ad avere le statistiche totali superiori alla sua evoluzione, infatti ha 30 punti in più di Shedinja ."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/nincada.mp3",
+    "dex_entries": {
+        "nincada": {
+            "ruby": "NINCADA vive sottoterra per molti anni nell'oscurità più assoluta. Questo POKéMON assume le sostanze nutritive dalle radici degli alberi. Rimane immobile in attesa dell'evoluzione.",
+            "sapphire": "NINCADA vive sottoterra. Usa i suoi artigli affilati per incidere le radici degli alberi e assorbirne l'acqua e altre sostanze nutritive. Il POKéMON non sopporta la luce del sole, quindi cerca di evitarla.",
+            "emerald": "NINCADA fa il suo rifugio tra le radici di giganteschi alberi. Si muove nell'oscurità sottoterra sondando il terreno con le sue antenne, che sono simili a dei baffi.",
+            "firered": "Poiché passa quasi tutta l'esistenza sottoterra, è quasi cieco. Usa le antenne per orientarsi.",
+            "leafgreen": "Poiché passa quasi tutta l'esistenza sottoterra, è quasi cieco. Usa le antenne per orientarsi.",
+            "diamond": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "pearl": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "platinum": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "heartgold": "Gli capita di restare anche più di dieci anni sottoterra. Si nutre delle radici di enormi alberi.",
+            "soulsilver": "Gli capita di restare anche più di dieci anni sottoterra. Si nutre delle radici di enormi alberi.",
+            "black": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "white": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "black-2": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "white-2": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "x": "Poiché passa quasi tutta l'esistenza sottoterra, è quasi cieco. Usa le antenne per orientarsi.",
+            "y": "Gli capita di restare anche più di dieci anni sottoterra. Si nutre delle radici di enormi alberi.",
+            "omega-ruby": "Nincada vive sottoterra per molti anni nell'oscurità più assoluta. Questo Pokémon assume le sostanze nutritive dalle radici degli alberi. Rimane immobile in attesa dell'evoluzione.",
+            "alpha-sapphire": "Nincada vive sottoterra. Usa i suoi artigli affilati per incidere le radici degli alberi e assorbirne l'acqua e altre sostanze nutritive. Il Pokémon non sopporta la luce del sole, quindi cerca di evitarla.",
+            "sword": "Poiché passa quasi tutta l'esistenza sottoterra, è quasi cieco. Usa le antenne per sondare ciò che lo circonda.",
+            "shield": "Gli capita di restare anche più di dieci anni sottoterra. Assorbe le sostanze nutritive dalle radici degli alberi.",
+            "brilliant-diamond": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "shining-pearl": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 3,
+    "height": {
+        "nincada": "0,50 m"
+    },
+    "id": 290,
+    "name": "Nincada",
+    "name_origin": "Nincada è probabilmente l'unione di ninja e cicada . ",
+    "origin": "Nincada è basato su una larva di cicala. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Novizio",
+    "sprites": {
+        "nincada": {
+            "default": "https://media.pokemoncentral.it/wiki/f/ff/Homem0290.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2e/Homemsh0290.png"
+        }
+    },
+    "stats": {
+        "nincada": {
+            "hp": 31,
+            "atk": 45,
+            "def": 90,
+            "spa": 30,
+            "spd": 30,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "nincada": 266
+    },
+    "types": {
+        "nincada": [
+            "Terra",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "nincada": "5,5 kg"
+    }
+}

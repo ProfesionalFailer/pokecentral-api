@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Pressione",
+            "secondary": "Agitazione",
+            "hidden": "Blindospecchio"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Spada e Scudo, un personaggio non giocabile afferma che, secondo una vecchia leggenda, se i Corviknight dovessero sparire, il destino della regione di Galar sarebbe segnato. Questo potrebbe essere un riferimento alla leggenda legata ai corvi della Torre di Londra secondo cui \"se i corvi della Torre di Londra moriranno o voleranno via, la Corona cadrà e con essa la Gran Bretagna\".",
+        "Insieme a Orbeetle Gigamax, Corviknight Gigamax è la forma Gigamax più bassa.",
+        "Corviknight è stato annunciato il 5 giugno 2019 durante un Pokémon Direct.",
+        "Come da lui stesso confermato, Hitoshi Ariga s'è occupato della progettazione di Rookidee, Corvisquire e Corviknight."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/corviknight.mp3",
+    "dex_entries": {
+        "corviknight": {
+            "sword": "Nei cieli di Galar non ha rivali. La vista del suo corpo di acciaio nero e lucente intimorisce i suoi avversari.",
+            "shield": "È dotato di eccellenti capacità di volo e di grande intelligenza. Nella regione di Galar si rende utile come taxi del cielo.",
+            "scarlet": "A Paldea non può fare da taxi, poiché gli attacchi dei suoi nemici naturali metterebbero in pericolo i passeggeri durante il volo.",
+            "violet": "Una parte delle sue ali si è tramutata in acciaio, ma riesce a librarsi in volo tranquillamente malgrado il peso aggiuntivo."
+        },
+        "corviknight-gigamax": {
+            "sword": "Grazie all'energia del fenomeno Gigamax, quando sbatte le ali causa venti più forti di un uragano, che spazzano via qualunque cosa.",
+            "shield": "Le otto penne che ha sul dorso, dette \"aviolame\", si staccano dal corpo e attaccano il nemico in modo indipendente."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 8,
+    "height": {
+        "corviknight": "2,2 m",
+        "corviknight-gigamax": "> 14,0 m"
+    },
+    "id": 823,
+    "name": "Corviknight",
+    "name_origin": "Corviknight potrebbe essere una combinazione di Corvidae o corvis, corvo in latino, e knight, cavaliere in inglese. Armorga potrebbe essere una combinazione di armor, armatura in inglese, ガアガア gāgā, onomatopea dello starnazzo, e 鴉 a, corvo. ",
+    "origin": "Corviknight potrebbe essere basato su un corvo, su una taccola eurasiatica o su una cornacchia, tutti e tre dei corvidi che si trova comunemente nelle Isole britanniche. Le piume delle ali ricordano l'armatura e le spalline di un cavaliere e la testa assomiglia ad un elmo da cavaliere. Nel complesso il suo aspetto potrebbe essere basato su un cavaliere dei racconti medievali. Potrebbe essere basato anche su un corvo imperiale. La particolare forma delle ali di Corviknight potrebbero anche fare riferimento ai corvi della Torre di Londra. Solitamente a questi corvi vengono parzialmente tarpate le ali in modo che non possano fuggire dal loro incarico di proteggere la Corona britannica. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Corvo",
+    "sprites": {
+        "corviknight": {
+            "default": "https://media.pokemoncentral.it/wiki/8/81/Homem0823.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3a/Homemsh0823.png"
+        },
+        "corviknight-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/4/44/Homem0823Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bb/Homemsh0823Gi.png"
+        }
+    },
+    "stats": {
+        "corviknight": {
+            "hp": 98,
+            "atk": 87,
+            "def": 105,
+            "spa": 53,
+            "spd": 85,
+            "spe": 67
+        }
+    },
+    "stats_sum": {
+        "corviknight": 495
+    },
+    "types": {
+        "corviknight": [
+            "Acciaio",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "corviknight": "75,0 kg",
+        "corviknight-gigamax": "???,? kg"
+    }
+}

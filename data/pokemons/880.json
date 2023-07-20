@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "dracozolt": {
+            "primary": "Assorbivolt",
+            "secondary": "Tuttafretta",
+            "hidden": "Remasabbia"
+        }
+    },
+    "curiosities": [
+        "Dracozolt condivide la sua categoria con Aerodactyl, Arctozolt, Dracovish e Arctovish. Tutti e cinque sono noti come Pokémon Fossile.",
+        "Dracozolt, Arctozolt, Dracovish e Arctovish sono i primi fossili Pokémon a non essere di tipo Roccia e a non avere un sesso.",
+        "Come da lui stesso confermato, Hitoshi Ariga s'è occupato della progettazione di Dracozolt, Arctozolt, Dracovish e Arctovish.",
+        "Nella serie animata, è Petros Pavaldo a dare a Dracozolt il nome della sua specie."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dracozolt.mp3",
+    "dex_entries": {
+        "dracozolt": {
+            "sword": "Nell'antichità era invincibile grazie alla possente parte inferiore del corpo, ma si è estinto perché ha mangiato tutte le piante di cui si nutriva.",
+            "shield": "Produce elettricità con i possenti muscoli della coda. La parte superiore del suo corpo è troppo piccola se paragonata a quella inferiore."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 8,
+    "height": {
+        "dracozolt": "1,8 m"
+    },
+    "id": 880,
+    "name": "Dracozolt",
+    "name_origin": "Dracozolt potrebbe essere una combinazione di dracō, drago in latino, e volt o jolt, scossa. Patchiragon potrebbe essere una combinazione di パチパチ pachipachi, l'onomatopea dello scoppiettio, e dragon, drago. ",
+    "origin": "Dracozolt, come le sue controparti, potrebbe prendere ispirazione dai dinosauri di Crystal Palace, una serie di sculture disassemblate di dinosauri e altri animali estinti esposte nel Parco di Crystal Palace di Londra. Nel caso di Dracozolt, la parte superiore sembra essere basata su un paraves, mentre la metà inferiore potrebbe essere ispirata a uno stegosauro. Sembra ricordare anche una chimera ed altre creature mitologiche simili a quest'ultima, mostri che presentano caratteristiche di diverse specie animali e che sono spesso interpretati scientificamente come costruiti da diverse parti di animali. Le voci del Pokédex di tutti i fossili di Galar menzionano che gli stessi Pokémon sono la causa della loro stessa estinzione. Questo potrebbe essere un riferimento all'ipotesi, obsoleta, che i dinosauri fossero inerti evolutivi; ciò li avrebbe resi più grandi, lenti e stupidi al punto da non potersela cavare. Il fatto che Dracozolt non sia in grado di accoppiarsi potrebbe essere un riferimento agli animali ibridi, quindi sterili. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Fossile",
+    "sprites": {
+        "dracozolt": {
+            "default": "https://media.pokemoncentral.it/wiki/0/00/Homem0880.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/83/Homemsh0880.png"
+        }
+    },
+    "stats": {
+        "dracozolt": {
+            "hp": 90,
+            "atk": 100,
+            "def": 90,
+            "spa": 80,
+            "spd": 70,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "dracozolt": 505
+    },
+    "types": {
+        "dracozolt": [
+            "Elettro",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "dracozolt": "190,0 kg"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "gholdengo": {
+            "primary": "Corpo Aureo"
+        }
+    },
+    "curiosities": [
+        "Gholdengo, Slowbro di Galar e Slowking di Galar sono gli unici Pokémon ad ottenere un secondo tipo evolvendosi, ma che hanno il nuovo tipo come tipo primario anziché secondario.",
+        "Nonostante il suo nome giapponese, la sua immagine nel Pokédex e la sua capacità di creare una tavola da surf mentre attraversa l'acqua, Gholdengo non è in grado di imparare la mossa Surf."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gholdengo.mp3",
+    "dex_entries": {
+        "gholdengo": {
+            "scarlet": "Pare che il suo corpo sia formato da 1.000 monete. È molto socievole e fa subito amicizia con chiunque.",
+            "violet": "Il suo corpo, formato da pile di monete, è molto robusto. Annienta i nemici lanciando raffiche di monete."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 9,
+    "height": {
+        "gholdengo": "1,2 m"
+    },
+    "id": 999,
+    "name": "Gholdengo",
+    "name_origin": "Gholdengo potrebbe essere una combinazione di golden  e ghost . Surfugo potrebbe essere una combinazione di surf e gold . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Tesoro",
+    "sprites": {
+        "gholdengo": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem1000.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh1000.png"
+        }
+    },
+    "stats": {
+        "gholdengo": {
+            "hp": 87,
+            "atk": 60,
+            "def": 95,
+            "spa": 133,
+            "spd": 91,
+            "spe": 84
+        }
+    },
+    "stats_sum": {
+        "gholdengo": 550
+    },
+    "types": {
+        "gholdengo": [
+            "Acciaio",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "gholdengo": "30,0 kg"
+    }
+}

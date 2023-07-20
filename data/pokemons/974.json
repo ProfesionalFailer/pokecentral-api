@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "cetoddle": {
+            "primary": "Grassospesso",
+            "secondary": "Mantelneve",
+            "hidden": "Forzabruta"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Ghiaccio",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon di sesso sconosciuto",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 334"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cetoddle.mp3",
+    "dex_entries": {
+        "cetoddle": {
+            "scarlet": "Gli esemplari di questa specie, a quanto pare imparentata con i Wailmer, lasciarono il mare in tempi remoti per vivere sulla terraferma.",
+            "violet": "Vive in regioni fredde in branchi di circa cinque esemplari. È ghiotto dei minerali contenuti nella neve e nel ghiaccio."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 9,
+    "height": {
+        "cetoddle": "1,2 m"
+    },
+    "id": 974,
+    "name": "Cetoddle",
+    "name_origin": "Cetoddle potrebbe derivare dall'unione delle parole cetacean, inglese per cetaceo, e toddler, inglese per bambino piccolo. ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Balenotterra",
+    "sprites": {
+        "cetoddle": {
+            "default": "https://media.pokemoncentral.it/wiki/1/10/Homem0974.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2a/Homemsh0974.png"
+        }
+    },
+    "stats": {
+        "cetoddle": {
+            "hp": 108,
+            "atk": 68,
+            "def": 45,
+            "spa": 30,
+            "spd": 40,
+            "spe": 43
+        }
+    },
+    "stats_sum": {
+        "cetoddle": 334
+    },
+    "types": {
+        "cetoddle": [
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "cetoddle": "45,0 kg"
+    }
+}

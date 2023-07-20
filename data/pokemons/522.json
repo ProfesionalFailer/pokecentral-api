@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "blitzle": {
+            "primary": "Parafulmine",
+            "secondary": "Elettrorapid",
+            "hidden": "Mangiaerba"
+        }
+    },
+    "curiosities": [
+        "Articoli incompleti",
+        "Pokémon",
+        "Pokémon di quinta generazione",
+        "Pokémon di tipo Elettro",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Nero",
+        "Pokémon dalla sagoma n. 08",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 295"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/blitzle.mp3",
+    "dex_entries": {
+        "blitzle": {
+            "black": "Quando libera scariche elettriche, gli si illumina la criniera. Variando il tipo di illuminazione comunica con i compagni.",
+            "white": "Appare quando il cielo si riempie di fulmini e saette. Accumula elettricità attirando i fulmini con la criniera.",
+            "black-2": "Se emette scariche la sua criniera brilla. Comunica con i suoi simili tramite il ritmo e la frequenza delle pulsazioni luminose.",
+            "white-2": "Se emette scariche la sua criniera brilla. Comunica con i suoi simili tramite il ritmo e la frequenza delle pulsazioni luminose.",
+            "x": "Appare quando il cielo si riempie di fulmini e saette. Accumula elettricità attirando i fulmini con la criniera.",
+            "y": "Se emette scariche la sua criniera brilla. Comunica con i suoi simili tramite il ritmo e la frequenza delle pulsazioni luminose.",
+            "omega-ruby": "Appare quando il cielo si riempie di fulmini e saette. Accumula elettricità attirando i fulmini con la criniera.",
+            "alpha-sapphire": "Se emette scariche la sua criniera brilla. Comunica con i suoi simili tramite il ritmo e la frequenza delle pulsazioni luminose."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "blitzle": "0,8 m"
+    },
+    "id": 522,
+    "name": "Blitzle",
+    "name_origin": "Il nome potrebbe derivare dall'unione della parola tedesca blitz  con la parola inglese little . ",
+    "origin": "Blitzle è basato su una giovane zebra. Potrebbe inoltre ispirarsi ai cavalli che trainavano il carro di fuoco del dio greco Elio . ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Caricavolt",
+    "sprites": {
+        "blitzle": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fd/Homem0522.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/36/Homemsh0522.png"
+        }
+    },
+    "stats": {
+        "blitzle": {
+            "hp": 45,
+            "atk": 60,
+            "def": 32,
+            "spa": 50,
+            "spd": 32,
+            "spe": 76
+        }
+    },
+    "stats_sum": {
+        "blitzle": 295
+    },
+    "types": {
+        "blitzle": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "blitzle": "29,8 kg"
+    }
+}

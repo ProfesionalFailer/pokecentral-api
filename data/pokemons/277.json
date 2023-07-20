@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "swellow": {
+            "primary": "Dentistretti",
+            "hidden": "Nervisaldi"
+        }
+    },
+    "curiosities": [
+        "Escludendo la forma danza di Meloetta, Swellow è il Pokémon di tipo Normale più veloce, con una statistica Velocità base pari a 125. Rimane comunque il Pokémon non leggendario di tipo Normale più veloce."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/swellow.mp3",
+    "dex_entries": {
+        "swellow": {
+            "ruby": "SWELLOW vola alto sopra le nostre teste disegnando armoniosi archi in cielo. Appena scova una preda si lancia su di essa in picchiata. SWELLOW cattura poi la sventurata preda con le sue zampe artigliate impedendole la fuga.",
+            "sapphire": "SWELLOW è molto attento a mantenere le proprie ali sempre lucide e splendenti. Spesso si incontra coi propri simili e questi POKéMON in gruppo si lisciano vicendevolmente le piume.",
+            "emerald": "SWELLOW si lancia dall'alto in picchiata sulla preda, senza mai sbagliare un colpo. Lo si vede volare alto nei cieli alla ricerca di terre dal clima mite.",
+            "firered": "Se le due penne sulla coda sono ritte, significa che è in buona salute. Si libra elegantemente nel cielo.",
+            "leafgreen": "Se le due penne sulla coda sono ritte, significa che è in buona salute. Si libra elegantemente nel cielo.",
+            "diamond": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "pearl": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "platinum": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "heartgold": "Trova nella foresta le sue prede, vi si scaglia sopra in picchiata e le afferra con i suoi artigli affilati.",
+            "soulsilver": "Trova nella foresta le sue prede, vi si scaglia sopra in picchiata e le afferra con i suoi artigli affilati.",
+            "black": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "white": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "black-2": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "white-2": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "x": "Se le sue due penne sulla coda sono ritte, significa che è in buona salute. Si libra elegantemente nel cielo.",
+            "y": "Trova nella foresta le sue prede, vi si scaglia sopra in picchiata e le afferra con i suoi artigli affilati.",
+            "omega-ruby": "Swellow volta alto sopra le nostre teste disegnando armoniosi archi in cielo. Appena scova una preda si lancia su di essa in picchiata. Swellow cattura poi la sventurata preda con le sue zampe artigliate impedendole la fuga.",
+            "alpha-sapphire": "Swellow è molto attento a mantenere le proprie ali sempre lucide e splendenti. Spesso si incontra coi propri simili e questi Pokémon in gruppo si lisciano vicendevolmente le piume.",
+            "brilliant-diamond": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "shining-pearl": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 3,
+    "height": {
+        "swellow": "0,70 m"
+    },
+    "id": 277,
+    "name": "Swellow",
+    "name_origin": "Il suo nome deriva molto probabilmente dalla parola inglese swallow . Potrebbe includere il termine swell . ",
+    "origin": "Basato su una rondine o sul serpentario. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Rondine",
+    "sprites": {
+        "swellow": {
+            "default": "https://media.pokemoncentral.it/wiki/4/49/Homem0277.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ef/Homemsh0277.png"
+        }
+    },
+    "stats": {
+        "swellow": {
+            "hp": 60,
+            "atk": 85,
+            "def": 60,
+            "spa": 75,
+            "spd": 50,
+            "spe": 125
+        }
+    },
+    "stats_sum": {
+        "swellow": 455
+    },
+    "types": {
+        "swellow": [
+            "Normale",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "swellow": "19,8 kg"
+    }
+}

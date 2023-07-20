@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "rhyperior": {
+            "primary": "Parafulmine",
+            "secondary": "Solidroccia",
+            "hidden": "Temerarietà"
+        }
+    },
+    "curiosities": [
+        "Rhyperior è il Pokémon che impara più mosse fisiche.\n\tSalendo di livello, infatti, impara solamente mosse fisiche e due di stato.",
+        "Salendo di livello, infatti, impara solamente mosse fisiche e due di stato.",
+        "Fino alla quarta generazione era l'unico Pokémon in grado di imparare, salendo di livello, la mossa Devastomasso. Con la quinta generazione anche Dwebble e Crustle possono imparare Devastomasso.",
+        "Rhyperior e la sua pre-evoluzione condividono la categoria con Nidoking e Nidoqueen. Sono tutti noti come Pokémon Trapano.\n\tCuriosamente, sono tutti Pokémon di tipo Terra.",
+        "Curiosamente, sono tutti Pokémon di tipo Terra."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/rhyperior.mp3",
+    "dex_entries": {
+        "rhyperior": {
+            "diamond": "Mette rocce nelle cavità dei suoi palmi e le getta con tutta la sua forza. Talvolta lancia GEODUDE.",
+            "pearl": "Mette rocce nelle cavità dei suoi palmi e le getta con tutta la sua forza. Talvolta lancia GEODUDE.",
+            "platinum": "Può gettare una roccia che tiene in mano come un missile contraendo ed estendendo velocemente i muscoli.",
+            "heartgold": "Mette dei GEODUDE nelle cavità dei palmi e li lancia. Usa Copertura per resistere alle eruzioni vulcaniche.",
+            "soulsilver": "Mette dei GEODUDE nelle cavità dei palmi e li lancia. Usa Copertura per resistere alle eruzioni vulcaniche.",
+            "black": "Può gettare una roccia che tiene in mano come un missile contraendo ed estendendo velocemente i muscoli.",
+            "white": "Può gettare una roccia che tiene in mano come un missile contraendo ed estendendo velocemente i muscoli.",
+            "black-2": "Può gettare una roccia che tiene in mano come un missile contraendo ed estendendo velocemente i muscoli.",
+            "white-2": "Può gettare una roccia che tiene in mano come un missile contraendo ed estendendo velocemente i muscoli.",
+            "x": "Mette dei Geodude nelle cavità dei palmi e li lancia. Usa Copertura per resistere alle eruzioni vulcaniche.",
+            "y": "Mette rocce nelle cavità dei suoi palmi e le getta con tutta la sua forza. Talvolta lancia Geodude.",
+            "omega-ruby": "Mette dei Geodude nelle cavità dei palmi e li lancia. Usa Copertura per resistere alle eruzioni vulcaniche.",
+            "alpha-sapphire": "Mette rocce nella cavità dei suoi palmi e le getta con tutta la sua forza. Talvolta lancia Geodude.",
+            "sword": "Inserisce delle rocce o dei Roggenrola nelle cavità dei suoi palmi e poi li lancia. Può caricarne fino a tre per braccio.",
+            "shield": "Respinge gli attacchi con la sua Copertura e approfitta del momento di esitazione dell’avversario per perforarlo con il suo trapano.",
+            "brilliant-diamond": "Mette rocce nelle cavità dei suoi palmi e le getta con tutta la sua forza. Talvolta lancia Geodude.",
+            "shining-pearl": "Mette rocce nelle cavità dei suoi palmi e le getta con tutta la sua forza. Talvolta lancia Geodude.",
+            "legends-arceus": "Si è evoluto per mezzo di un singolare strumento. La cute simile a pietra è composta da materiali ignoti, inscalfibili persino dalle lame più pregiate."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Campo"
+    ],
+    "generation": 4,
+    "height": {
+        "rhyperior": "2,4 m"
+    },
+    "id": 464,
+    "name": "Rhyperior",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi rhinoceros , rhyolite  e superior  o Hyperion . ",
+    "origin": "Rhyperior è basato sia sui rinoceronti che sui ceratopsidi. La sua coda dalle caratteristiche di una mazza ricorda quella di un anchilosauro. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Trapano",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/0/01/Homem0464.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0464.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e4/Homef0464.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homefsh0464.png"
+        }
+    },
+    "stats": {
+        "rhyperior": {
+            "hp": 115,
+            "atk": 140,
+            "def": 130,
+            "spa": 55,
+            "spd": 55,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "rhyperior": 535
+    },
+    "types": {
+        "rhyperior": [
+            "Terra",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "rhyperior": "282,8 kg"
+    }
+}

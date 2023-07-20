@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "krabby": {
+            "primary": "Ipertaglio",
+            "secondary": "Guscioscudo",
+            "hidden": "Forzabruta"
+        }
+    },
+    "curiosities": [
+        "Il numero di Krabby nel Pokédex Nazionale e nel Pokédex di Galar è lo stesso: 098."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/krabby.mp3",
+    "dex_entries": {
+        "krabby": {
+            "red": "Le sue chele, potenti armi, lo mantengono in equilibrio quando cammina lateralmente.",
+            "blue": "Le sue chele, potenti armi, lo mantengono in equilibrio quando cammina lateralmente.",
+            "yellow": "Le sue chele sono armi formidabili. Se si rompono durante la lotta ricrescono immediatamente.",
+            "gold": "Se si sente in pericolo, si circonda di bolle che produce con la bocca per sembrare più grande.",
+            "silver": "Le chele si rompono facilmente. Se ne perde una diventa incapace di camminare lateralmente.",
+            "crystal": "Se non può trovare del cibo, ingoia un po' di sabbia per assorbirne le sostanze nutritive.",
+            "ruby": "KRABBY vive in spiaggia, nascosto in buche scavate nella sabbia. Sulle spiagge molto sabbiose, dove scarseggia il cibo, è possibile vedere questi POKéMON attaccarsi a vicenda in difesa del proprio territorio.",
+            "sapphire": "KRABBY vive in spiaggia, nascosto in buche scavate nella sabbia. Sulle spiagge molto sabbiose, dove scarseggia il cibo, è possibile vedere questi POKéMON attaccarsi a vicenda in difesa del proprio territorio.",
+            "emerald": "KRABBY vive in buche scavate nella sabbia. Sulle spiagge dove il cibo scarseggia, questo POKéMON difende il proprio territorio attaccando i suoi simili.",
+            "firered": "Si trova vicino al mare. Le grandi chele, se asportate, ricrescono.",
+            "leafgreen": "Le sue chele, potenti armi, lo mantengono in equilibrio quando cammina lateralmente.",
+            "diamond": "Vive in buche scavate sulle spiagge sabbiose. Le sue chele ricrescono se si spezzano nella lotta.",
+            "pearl": "Vive in buche scavate sulle spiagge sabbiose. Le sue chele ricrescono se si spezzano nella lotta.",
+            "platinum": "Vive in buche scavate sulle spiagge sabbiose. Le sue chele ricrescono se si spezzano nella lotta.",
+            "heartgold": "Se si sente in pericolo, si circonda di bolle che produce con la bocca per sembrare più grande.",
+            "soulsilver": "Le chele si rompono facilmente. Se ne perde una diventa incapace di camminare lateralmente.",
+            "black": "Vive in buche scavate sulle spiagge sabbiose. Le sue chele ricrescono se si spezzano nella lotta.",
+            "white": "Vive in buche scavate sulle spiagge sabbiose. Le sue chele ricrescono se si spezzano nella lotta.",
+            "black-2": "Vive in buche scavate sulle spiagge sabbiose. Le sue chele ricrescono se si spezzano nella lotta.",
+            "white-2": "Vive in buche scavate sulle spiagge sabbiose. Le sue chele ricrescono se si spezzano nella lotta.",
+            "x": "Se si sente in pericolo, si circonda di bolle che produce con la bocca per sembrare più grande.",
+            "y": "Si trova vicino al mare. Le grandi chele, se asportate, ricrescono.",
+            "omega-ruby": "Krabby vive in spiaggia, nascosto in buche scavate nella sabbia. Sulle spiagge molto sabbiose, dove scarseggia il cibo, è possibile vedere questi Pokémon attaccarsi a vicenda in difesa del proprio territorio.",
+            "alpha-sapphire": "Krabby vive in spiaggia, nascosto in buche scavate nella sabbia. Sulle spiagge molto sabbiose, dove scarseggia il cibo, è possibile vedere questi Pokémon attaccarsi a vicenda in difesa del proprio territorio.",
+            "lets-go-pikachu": "Le sue chele sono armi formidabili. A volte si staccano durante la lotta, ma ricrescono immediatamente.",
+            "lets-go-eevee": "Le sue chele sono armi formidabili. A volte si staccano durante la lotta, ma ricrescono immediatamente.",
+            "sword": "Lo si può trovare vicino al mare. Le grandi chele, se si staccano, ricrescono.",
+            "shield": "Se si sente in pericolo, emette bolle dalla bocca e se ne circonda per sembrare più grande."
+        }
+    },
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "generation": 1,
+    "height": {
+        "krabby": "0,4 m"
+    },
+    "id": 98,
+    "name": "Krabby",
+    "name_origin": "Krabby potrebbe essere una combinazione di crabby, irritabile o scontroso, e crab, granchio. Crab potrebbe derivare da crab, granchio. ",
+    "origin": "Krabby potrebbe essere basato su un granchio, probabilmente su un Heikegani o su un granchio gorgogliatore di sabbia. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Granchio",
+    "sprites": {
+        "krabby": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4e/Homem0098.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/31/Homemsh0098.png"
+        }
+    },
+    "stats": {
+        "krabby": {
+            "hp": 30,
+            "atk": 105,
+            "def": 90,
+            "spa": 25,
+            "spd": 25,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "krabby": 325
+    },
+    "types": {
+        "krabby": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "krabby": "6,5 kg"
+    }
+}

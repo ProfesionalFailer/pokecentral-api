@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "shroomish": {
+            "primary": "Spargispora",
+            "secondary": "Velencura",
+            "hidden": "Piedisvelti"
+        }
+    },
+    "curiosities": [
+        "Shroomish e la sua evoluzione condividono la categoria con Paras, Parasect, Foongus e Amoonguss: sono tutti noti come Pokémon Fungo.",
+        "Shroomish può essere visto come un parallelo di Paras: entrambi sono Pokémon Fungo di tipo Erba. Shroomish è esclusivo di Pokémon Nero mentre Paras di Pokémon Bianco. Entrambi si trovano nel Percorso 11 come comparse massicce.",
+        "Nonostante non abbia le braccia, può comunque imparare mosse come Assorbipugno o Centripugno, in quanto la sua evoluzione le impara."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/shroomish.mp3",
+    "dex_entries": {
+        "shroomish": {
+            "ruby": "SHROOMISH vive nel suolo umido nel cuore della foresta buia. Spesso si nasconde sotto le foglie cadute. Si ciba dell'humus creato dal letto di foglie decomposte sul terreno.",
+            "sapphire": "In caso di pericolo SHROOMISH agita il proprio corpo spargendo spore dalla sommità del capo. Le spore di questo POKéMON sono così tossiche da far appassire fiori e piante.",
+            "emerald": "Gli SHROOMISH prediligono come nutrimento l'humus della foresta. Dopo lunghe piogge, è facile vederli riempirsene la pancia.",
+            "firered": "Predilige le aree umide. Di giorno resta immobile nell'ombra della foresta. Dal capo rilascia polvere tossica.",
+            "leafgreen": "Predilige le aree umide. Di giorno resta immobile nell'ombra della foresta. Dal capo rilascia polvere tossica.",
+            "diamond": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "pearl": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "platinum": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "heartgold": "Quando fiuta il pericolo, si difende spargendo spore tossiche dalla sommità del capo.",
+            "soulsilver": "Quando fiuta il pericolo, si difende spargendo spore tossiche dalla sommità del capo.",
+            "black": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "white": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "black-2": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "white-2": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "x": "Predilige le aree umide. Di giorno resta immobile nell'ombra della foresta. Dal capo rilascia polvere tossica.",
+            "y": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "omega-ruby": "Shroomish vive nel suolo umido nel cuore della foresta buia. Spesso si nasconde sotto le foglie cadute. Si ciba dell'humus creato dal letto di foglie decomposte sul terreno.",
+            "alpha-sapphire": "In caso di pericolo Shroomish agita il proprio corpo spargendo spore dalla sommità del capo. Le spore di questo Pokémon sono così tossiche da far appassire fiori e piante.",
+            "brilliant-diamond": "Dalla sommità del capo sparge spore tossiche che, se inalate, provocano dolore in tutto il corpo.",
+            "shining-pearl": "Dalla sommità del capo sparge spore tossiche che, se inalate, provocano dolore in tutto il corpo.",
+            "scarlet": "Predilige le aree umide. Di giorno resta immobile nell’ombra della foresta. Dal capo rilascia una polvere tossica.",
+            "violet": "Quando fiuta il pericolo, si difende spargendo spore tossiche dalla sommità del capo."
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Erba"
+    ],
+    "generation": 3,
+    "height": {
+        "shroomish": "0,40 m"
+    },
+    "id": 285,
+    "name": "Shroomish",
+    "name_origin": "Il suo nome deriva dall'unione della parola inglesi \"mushroom\"  con il suffisso \"-ish\" . ",
+    "origin": "È basato su un fungo. ",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Fungo",
+    "sprites": {
+        "shroomish": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0285.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d4/Homemsh0285.png"
+        }
+    },
+    "stats": {
+        "shroomish": {
+            "hp": 60,
+            "atk": 40,
+            "def": 60,
+            "spa": 40,
+            "spd": 60,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "shroomish": 295
+    },
+    "types": {
+        "shroomish": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "shroomish": "4,5 kg"
+    }
+}

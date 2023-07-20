@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "vikavolt": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "Vikavolt condivide il nome della sua categoria con Pinsir, essendo noti entrambi come Pokémon Cervolante.",
+        "Vikavolt è stato disegnato da Hitoshi Ariga.",
+        "Vikavolt ha la più alta statistica base di Attacco Speciale di tutti i Pokémon di tipo Coleottero."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/vikavolt.mp3",
+    "dex_entries": {
+        "vikavolt": {
+            "sun": "Sorvola l'area in attesa dell’occasione giusta per attaccare. Nelle grandi mandibole concentra energia elettrica che scarica contro il nemico.",
+            "moon": "Genera elettricità tramite un organo situato nella pancia. I Pokémon alati di solito battono in ritirata dinanzi ai suoi raggi elettrici.",
+            "ultra-sun": "Nella pancia ha un organo che genera elettricità. Accumula energia nelle mandibole per poi rilasciare potenti scariche elettriche.",
+            "ultra-moon": "Confonde i nemici con voli acrobatici e, non appena li vede esitare, li colpisce con un raggio elettrico.",
+            "sword": "Concentra nelle grandi mandibole l'elettricità generata nella pancia per colpire l'avversario con un raggio ad altissima potenza.",
+            "shield": "Quando vola portando con sé un Charjabug come batteria di riserva, può sparare una raffica di potentissimi raggi elettromagnetici."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 7,
+    "height": {
+        "vikavolt": "1,5 m",
+        "dominante": "2,6 m"
+    },
+    "id": 738,
+    "name": "Vikavolt",
+    "name_origin": "Vikavolt potrebbe derivare da volt. Kuwaganon potrebbe essere una combinazione di 鍬形虫 kuwagatamushi, lucanidi  e cannon . ",
+    "origin": "Vikavolt potrebbe essere ispriato ad un cervo volante. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Cervolante",
+    "sprites": {
+        "vikavolt": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8c/Homem0738.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0738.png"
+        }
+    },
+    "stats": {
+        "vikavolt": {
+            "hp": 77,
+            "atk": 70,
+            "def": 90,
+            "spa": 145,
+            "spd": 75,
+            "spe": 43
+        }
+    },
+    "stats_sum": {
+        "vikavolt": 500
+    },
+    "types": {
+        "vikavolt": [
+            "Elettro",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "vikavolt": "45,0 kg",
+        "dominante": "147,5 kg"
+    }
+}

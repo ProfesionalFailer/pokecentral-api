@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "cyclizar": {
+            "primary": "Muta",
+            "hidden": "Rigenergia"
+        }
+    },
+    "curiosities": [
+        "Cyclizar è stato annunciato il 21 agosto 2022 durante la cerimonia di chiusura dei Campionati Mondiali Pokémon.",
+        "Cyclizar condivide la sua categoria con Skiddo e Gogoat. Tutti e tre sono noti come Pokémon Cavalcatura."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cyclizar.mp3",
+    "dex_entries": {
+        "cyclizar": {
+            "scarlet": "Sembra che trasportasse esseri umani sul dorso già nell'antichità. È rappresentato in pitture rupestri risalenti a 10.000 anni fa.",
+            "violet": "Trasporta esseri umani sfrecciando a una velocità di 120 km/h. La temperatura corporea di chi trasporta gli scalda il dorso, dandogli energia."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 9,
+    "height": {
+        "cyclizar": "1,6 m"
+    },
+    "id": 967,
+    "name": "Cyclizar",
+    "name_origin": "Cyclizar è una possibile combinazione delle parole motorcycle, inglese per motocicletta, e lizard, lucertola. Mototokage è probabilmente una combinazione di motor  o motorcycle  e 蜥蜴 tokage . ",
+    "origin": "Cyclizar sembra essere basato su una lucertola, più nello specifico una del genere anolidi, oppure del genere Sarada o Sitana, comunemente note come lucertole dalla coda a ventaglio, della sottofamiglia Draconinae. Possiede anche elementi che rimandano a delle moto, come il casco che assomiglia ad un tagliavento o ad un elmetto. La parte inferiore della schiena invece assomiglia ad un sedile da moto, mentre la sacca giugulare e la coda, soprattutto quest'ultima se arricciata, ricordano delle ruote. ",
+    "shape": "None",
+    "specie": "Pokémon Cavalcatura",
+    "sprites": {
+        "cyclizar": {
+            "default": "https://media.pokemoncentral.it/wiki/8/88/Homem0967.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1e/Homemsh0967.png"
+        }
+    },
+    "stats": {
+        "cyclizar": {
+            "hp": 70,
+            "atk": 95,
+            "def": 65,
+            "spa": 85,
+            "spd": 65,
+            "spe": 121
+        }
+    },
+    "stats_sum": {
+        "cyclizar": 501
+    },
+    "types": {
+        "cyclizar": [
+            "Normale",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "cyclizar": "63,0 kg"
+    }
+}

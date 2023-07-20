@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "electrike": {
+            "primary": "Statico",
+            "secondary": "Parafulmine",
+            "hidden": "Meno"
+        }
+    },
+    "curiosities": [
+        "Electrike condivide la categoria con Jolteon, infatti entrambi sono detti Pokémon Fulmine.",
+        "Il colore di Electrike cromatico assomiglia molto al colore normale della sua evoluzione Manectric."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/electrike.mp3",
+    "dex_entries": {
+        "electrike": {
+            "ruby": "ELECTRIKE accumula l'elettricità nella sua folta pelliccia. Stimola i muscoli degli arti inferiori con cariche elettriche, grazie alle quali ottiene prestazioni e accelerazioni esplosive.",
+            "sapphire": "ELECTRIKE corre più velocemente di quanto l'occhio umano possa percepire. L'attrito dovuto alla corsa viene trasformato in elettricità, accumulata poi nella pelliccia del POKéMON.",
+            "emerald": "ELECTRIKE genera elettricità grazie all'attrito con l'atmosfera circostante. Nella stagione secca, lo si vede scintillare a causa delle violente scariche elettriche.",
+            "firered": "Accumula elettricità statica nella pelliccia, che poi scarica. Se si avvicina una tempesta, lo si vede scintillare.",
+            "leafgreen": "Accumula elettricità statica nella pelliccia, che poi scarica. Se si avvicina una tempesta, lo si vede scintillare.",
+            "diamond": "L'elettricità immagazzinata nella pelliccia gli stimola i muscoli e aumenta la sua velocità di reazione.",
+            "pearl": "L'elettricità immagazzinata nella pelliccia gli stimola i muscoli e aumenta la sua velocità di reazione.",
+            "platinum": "L'elettricità immagazzinata nella pelliccia gli stimola i muscoli e aumenta la sua velocità di reazione.",
+            "heartgold": "Accumula elettricità nella pelliccia. Nella stagione secca, il suo corpo sprizza scintille.",
+            "soulsilver": "Accumula elettricità nella pelliccia. Nella stagione secca, il suo corpo sprizza scintille.",
+            "black": "L'elettricità immagazzinata nella pelliccia gli stimola i muscoli e aumenta la sua velocità di reazione.",
+            "white": "L'elettricità immagazzinata nella pelliccia gli stimola i muscoli e aumenta la sua velocità di reazione.",
+            "black-2": "L'elettricità immagazzinata nella pelliccia gli stimola i muscoli e aumenta la sua velocità di reazione.",
+            "white-2": "L'elettricità immagazzinata nella pelliccia gli stimola i muscoli e aumenta la sua velocità di reazione.",
+            "x": "L'elettricità immagazzinata nella pelliccia gli stimola i muscoli e aumenta la sua velocità di reazione.",
+            "y": "Accumula elettricità statica nella pelliccia, che poi scarica. Se si avvicina una tempesta, lo si vede scintillare.",
+            "omega-ruby": "Electrike accumula l'elettricità nella sua folta pelliccia. Stimola i muscoli degli arti inferiori con cariche elettriche, grazie alle quali ottiene prestazioni e accelerazioni esplosive.",
+            "alpha-sapphire": "Electrike corre più velocemente di quanto l'occhio umano possa percepire. L'attrito dovuto alla corsa viene trasformato in elettricità, accumulata poi nella pelliccia del Pokémon.",
+            "ultra-sun": "L'attrito fra l'atmosfera e la sua pelliccia genera elettricità statica e quando corre si avverte un crepitio.",
+            "ultra-moon": "Accumula elettricità statica in tutto il corpo sfregando la folta pelliccia. Il suo punto di forza è la velocità.",
+            "sword": "Accumula l'elettricità statica nella pelliccia e poi la rilascia. Se si avvicina una tempesta, emette scintille.",
+            "shield": "Accumula elettricità statica nella pelliccia. Nella stagione secca, il suo corpo sprizza scintille.",
+            "brilliant-diamond": "Aumenta la propria velocità di reazione stimolando i muscoli con l'elettricità immagazzinata nella pelliccia.",
+            "shining-pearl": "Aumenta la propria velocità di reazione stimolando i muscoli con l'elettricità immagazzinata nella pelliccia."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 3,
+    "height": {
+        "electrike": "0,60 m"
+    },
+    "id": 309,
+    "name": "Electrike",
+    "name_origin": "Deriva dalle parole electric, elettrico, e strike, attacco, colpo. ",
+    "origin": "Basato su un crisocione ma potrebbe essere ispirato ad un Raijū. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Lampo",
+    "sprites": {
+        "electrike": {
+            "default": "https://media.pokemoncentral.it/wiki/4/43/Homem0309.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0309.png"
+        }
+    },
+    "stats": {
+        "electrike": {
+            "hp": 40,
+            "atk": 45,
+            "def": 40,
+            "spa": 65,
+            "spd": 40,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "electrike": 295
+    },
+    "types": {
+        "electrike": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "electrike": "15,2 kg"
+    }
+}

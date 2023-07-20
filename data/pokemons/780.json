@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "drampa": {
+            "primary": "Furore",
+            "secondary": "Mangiaerba",
+            "hidden": "Antimeteo"
+        }
+    },
+    "curiosities": [
+        "Fino alla nona generazione, Drampa era l'unico Pokémon a presentare la combinazione di tipo Normale/Drago.",
+        "Drampa è stato disegnato da Hitoshi Ariga.",
+        "Drampa può essere visto come la controparte di Turtonator. Entrambi sono Pokémon di tipo Drago con lo stesso totale di statistiche base. I valori delle statistiche sono inoltre identici, ma ad eccezione della velocità, sono assegnati a statistiche differenti. Mentre Drampa è esclusivo di Pokémon Luna, Turtonator è esclusivo di Pokémon Sole.",
+        "Assieme a Porygon-Z e MegaPidgeot ha la più alta statistica base di Attacco Speciale tra i Pokémon di tipo Normale.",
+        "Drampa è l'unico Pokémon non leggendario e non di tipo Volante ad imparare la mossa Volo tramite livello."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/drampa.mp3",
+    "dex_entries": {
+        "drampa": {
+            "sun": "Ha un’indole gentile, ma se si arrabbia distrugge tutto quello che ha intorno con un soffio devastante.",
+            "moon": "È molto socievole e adora i bambini, tanto da scendere dalle montagne e recarsi in città per giocare con i suoi piccoli amici.",
+            "ultra-sun": "Se i bambini con cui ha fatto amicizia vengono maltrattati, cerca la casa dei responsabili e la riduce in cenere.",
+            "ultra-moon": "Visita le città per giocare con i bambini ed è sempre pronto a proteggerli. Per questo, quando c'è lui i genitori sono tranquilli.",
+            "sword": "Vive su montagne che superano i 3.000 metri di altezza. Qualche volta scende in città per giocare con i bambini.",
+            "shield": "È socievole e di indole gentile ma quando si arrabbia provoca venti dalla terribile forza distruttiva."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "generation": 7,
+    "height": {
+        "drampa": "3,0 m"
+    },
+    "id": 780,
+    "name": "Drampa",
+    "name_origin": "Drampa potrebbe derivare da una combinazione di grampa , nonno, e di dragon, drago. Jijīron potrebbe essere una combinazione di 爺 jijī, nonnetto, e 龍 lóng, dragone in cinese. ",
+    "origin": "Drampa potrebbe essere ispriato ad un drago cinese e ad un anziano, probabilmente per simboleggiare saggezza. Potrebbe essere basato anche sul Fortunadrago del celebre libro e film La storia infinita, dal quale ne condivide la notevole somiglianza. ",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Tuttacalma",
+    "sprites": {
+        "drampa": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7e/Homem0780.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/da/Homemsh0780.png"
+        }
+    },
+    "stats": {
+        "drampa": {
+            "hp": 78,
+            "atk": 60,
+            "def": 85,
+            "spa": 135,
+            "spd": 91,
+            "spe": 36
+        }
+    },
+    "stats_sum": {
+        "drampa": 485
+    },
+    "types": {
+        "drampa": [
+            "Normale",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "drampa": "185,0 kg"
+    }
+}

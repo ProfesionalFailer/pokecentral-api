@@ -1,0 +1,104 @@
+{
+    "abilities": {
+        "aggron": {
+            "primary": "Vigore",
+            "secondary": "Testadura",
+            "hidden": "Metalpesante"
+        },
+        "megaaggron": {
+            "primary": "Filtro"
+        }
+    },
+    "curiosities": [
+        "In terza generazione Aron, Lairon e Aggron avevano una combinazione di tipi unica.",
+        "Prima di Pokémon Rubino Omega e Zaffiro Alpha, l'intera linea evolutiva di Aggron non imparava nessuna mossa Roccia aumentando di livello pur essendo in parte di questo tipo. Con l'arrivo dei giochi sopracitati è in grado di imparare Rocciotomba e Frana.",
+        "Prima dell'ottava generazione MegaAggron era il Pokémon con la statistica base di Difesa più elevata a pari merito con Shuckle e MegaSteelix.",
+        "È l'unico Pokémon a passare da un doppio tipo ad un tipo puro con la megaevoluzione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/aggron.mp3",
+    "dex_entries": {
+        "aggron": {
+            "ruby": "AGGRON è solito delimitare un'intera montagna come suo territorio esclusivo ed è spietato con coloro che osano violare tali confini. Questo POKéMON pattuglia il proprio spazio senza mai abbassare la guardia.",
+            "sapphire": "AGGRON difende strenuamente il proprio territorio. In caso di frana o incendio, questo POKéMON è in grado di risistemare il terreno, ripiantare gli alberi e ristabilire al meglio il proprio ambiente naturale.",
+            "emerald": "Osservando le corna, che crescono poco alla volta, è possibile determinare l'età di AGGRON. Va fiero dei graffi sull'armatura che considera come dei trofei di lotta.",
+            "firered": "Delimita un'intera montagna come suo territorio esclusivo, scagliandosi spietatamente su chi osa violarlo.",
+            "leafgreen": "Delimita un'intera montagna come suo territorio esclusivo, scagliandosi spietatamente su chi osa violarlo.",
+            "diamond": "Cerca ferro da mangiare scavando tunnel nella roccia con le sue corna d'acciaio.",
+            "pearl": "Cerca ferro da mangiare scavando tunnel nella roccia con le sue corna d'acciaio.",
+            "platinum": "Cerca ferro da mangiare scavando tunnel nella roccia con le sue corna d'acciaio.",
+            "heartgold": "Nella lunghezza delle corna si legge l'età di AGGRON. Ha designato suo territorio un'intera montagna.",
+            "soulsilver": "Nella lunghezza delle corna si legge l'età di AGGRON. Ha designato suo territorio un'intera montagna.",
+            "black": "Cerca ferro da mangiare scavando tunnel nella roccia con le sue corna d'acciaio.",
+            "white": "Cerca ferro da mangiare scavando tunnel nella roccia con le sue corna d'acciaio.",
+            "black-2": "Sceglie come territorio intere montagne. Se ha tante cicatrici sul suo corpo è meglio non scherzare con lui.",
+            "white-2": "Sceglie come territorio intere montagne. Se ha tante cicatrici sul suo corpo è meglio non scherzare con lui.",
+            "x": "Sceglie come territorio intere montagne. Se ha tante cicatrici sul suo corpo, è meglio non scherzare con lui.",
+            "y": "Cerca ferro da mangiare scavando tunnel nella roccia con le sue corna d'acciaio.",
+            "omega-ruby": "Aggron è solito delimitare un'intera montagna come suo territorio esclusivo ed è spietato con coloro che osano violare tale confini. Questo Pokémon pattuglia il proprio spazio senza mai abbassare la guardia.",
+            "alpha-sapphire": "Aggron difende strenuamente il proprio territorio. In caso di frana o incendio, questo Pokémon è in grado di risistemare il terreno, ripiantare gli alberi e ristabilire al meglio il proprio ambiente naturale.",
+            "sword": "Abbatte i nemici caricandoli e speronandoli con le sue corna, talmente affilate da perforare spesse lastre di metallo.",
+            "shield": "In tempi antichi ci fu un re che, aspirando alla forza di Aggron, indossava un elmo ispirato alla testa di questo Pokémon.",
+            "brilliant-diamond": "Cerca ferro da mangiare scavando tunnel nella roccia con le sue corna d'acciaio.",
+            "shining-pearl": "Cerca ferro da mangiare scavando tunnel nella roccia con le sue corna d'acciaio."
+        }
+    },
+    "egg_groups": [
+        "Mostro"
+    ],
+    "generation": 3,
+    "height": {
+        "aggron": "2,1 m",
+        "megaaggron": "2.2 m"
+    },
+    "id": 306,
+    "name": "Aggron",
+    "name_origin": "Aggron potrebbe essere l'unione di aggressive , iron  e don , oppure da Aggro . ",
+    "origin": "Aggron sembra essere basato sui Palgasauri, creatura mitologica coreana che si nutre di ferro, ma sembra essere basato anche sui triceratopi e i teropodi. La sua testa ricorda l'elmo e la maschera menpo dei samurai. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Corazza",
+    "sprites": {
+        "aggron": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0e/Homem0306.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1f/Homemsh0306.png"
+        },
+        "megaaggron": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b4/Homem0306M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/58/Homemsh0306M.png"
+        }
+    },
+    "stats": {
+        "aggron": {
+            "hp": 70,
+            "atk": 110,
+            "def": 180,
+            "spa": 60,
+            "spd": 60,
+            "spe": 50
+        },
+        "megaaggron": {
+            "hp": 70,
+            "atk": 140,
+            "def": 230,
+            "spa": 60,
+            "spd": 80,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "aggron": 530,
+        "megaaggron": 630
+    },
+    "types": {
+        "aggron": [
+            "Acciaio",
+            "Roccia"
+        ],
+        "megaaggron": [
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "aggron": "360,0 kg",
+        "megaaggron": "395.0 kg"
+    }
+}

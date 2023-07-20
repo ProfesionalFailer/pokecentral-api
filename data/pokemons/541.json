@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "swadloon": {
+            "primary": "Fogliamanto",
+            "secondary": "Clorofilla",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Swadloon di Ash"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/swadloon.mp3",
+    "dex_entries": {
+        "swadloon": {
+            "black": "Le foreste in cui vive Swadloon sono lussureggianti, poiché trasforma le foglie morte in sostanze nutritive.",
+            "white": "Si protegge dal freddo avvolgendo il corpo nelle foglie, che ha l'abitudine di mangiare in giro per la foresta.",
+            "black-2": "Predilige i luoghi ombrosi e umidi. Passa le giornate mangiando le foglie cadute dagli alberi che trova intorno a sé.",
+            "white-2": "Predilige i luoghi ombrosi e umidi. Passa le giornate mangiando le foglie cadute dagli alberi che trova intorno a sé.",
+            "x": "Le foreste in cui vive Swadloon sono lussureggianti, poiché trasforma le foglie morte in sostanze nutritive.",
+            "y": "Si protegge dal freddo avvolgendo il corpo nelle foglie, che ha l'abitudine di mangiare in giro per la foresta.",
+            "omega-ruby": "Le foreste in cui vive Swadloon sono lussureggianti, poiché trasforma le foglie morte in sostanze nutritive.",
+            "alpha-sapphire": "Si protegge dal freddo avvolgendo il corpo nelle foglie, che ha l'abitudine di mangiare in giro per la foresta."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 5,
+    "height": {
+        "swadloon": "0,5 m"
+    },
+    "id": 541,
+    "name": "Swadloon",
+    "name_origin": "Il nome di Swadloon deriva probabilmente dalle parole inglesi swaddle  e loom . Potrebbe essere coinvolto anche il termine pantaloons . ",
+    "origin": "Swadloon è basato sulla crisalide della Epargyreus clarus. Il suo comportamento, per il quale spesso si isola, potrebbe essere ispirato a quello degli hikikomori, ai quali si può associare anche la sua espressione, che sembra quasi sofferente. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Coprifoglia",
+    "sprites": {
+        "swadloon": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fb/Homem0541.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7c/Homemsh0541.png"
+        }
+    },
+    "stats": {
+        "swadloon": {
+            "hp": 55,
+            "atk": 63,
+            "def": 90,
+            "spa": 50,
+            "spd": 80,
+            "spe": 42
+        }
+    },
+    "stats_sum": {
+        "swadloon": 380
+    },
+    "types": {
+        "swadloon": [
+            "Erba",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "swadloon": "7,3 kg"
+    }
+}

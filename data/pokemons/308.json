@@ -1,0 +1,100 @@
+{
+    "abilities": {
+        "medicham": {
+            "primary": "Forzapura",
+            "hidden": "Telepatia"
+        },
+        "megamedicham": {
+            "primary": "Forzapura"
+        }
+    },
+    "curiosities": [
+        "In terza generazione Meditite e Medicham avevano una combinazione di tipi unica.",
+        "Medicham e la sua pre-evoluzione sono gli unici Pokémon ad avere Forzapura come abilità."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/medicham.mp3",
+    "dex_entries": {
+        "medicham": {
+            "ruby": "Si dice che, grazie alla meditazione, MEDICHAM incrementi la propria energia fisica e affini il sesto senso. Si nasconde efficacemente mimetizzandosi nei campi e in montagna.",
+            "sapphire": "Grazie alla propria abilità meditativa MEDICHAM ha sviluppato il sesto senso. Ha acquisito anche la capacità di usare i poteri psicocinetici. È noto per rimanere fermo in meditazione un mese intero senza mangiare.",
+            "emerald": "Con rigorosi esercizi di yoga, MEDICHAM ha acquisito la capacità di prevedere le mosse del nemico. I movimenti aggraziati durante la lotta sembrano passi di danza.",
+            "firered": "Evita elegantemente gli attacchi a passo di danza, per poi lanciare devastanti attacchi con la stessa grazia.",
+            "leafgreen": "Evita elegantemente gli attacchi a passo di danza, per poi lanciare devastanti attacchi con la stessa grazia.",
+            "diamond": "Con gli esercizi di yoga ha affinato il sesto senso. I suoi movimenti sono molto eleganti.",
+            "pearl": "Grazie alla meditazione quotidiana affina la sua forza spirituale e riesce a intuire i pensieri altrui.",
+            "platinum": "Riesce a percepire l'aura dei nemici allenando la sua mente tramite il digiuno.",
+            "heartgold": "Conosce le mosse del nemico grazie ai poteri di preveggenza ottenuti con le pratiche yoga.",
+            "soulsilver": "Conosce le mosse del nemico grazie ai poteri di preveggenza ottenuti con le pratiche yoga.",
+            "black": "Riesce a percepire l'aura dei nemici allenando la sua mente tramite il digiuno.",
+            "white": "Riesce a percepire l'aura dei nemici allenando la sua mente tramite il digiuno.",
+            "black-2": "Riesce a percepire l'aura dei nemici allenando la sua mente tramite il digiuno.",
+            "white-2": "Riesce a percepire l'aura dei nemici allenando la sua mente tramite il digiuno.",
+            "x": "Evita elegantemente gli attacchi a passo di danza, per poi lanciare devastanti attacchi con la stessa grazia.",
+            "y": "Conosce le mosse del nemico grazie ai poteri di preveggenza ottenuti con le pratiche yoga.",
+            "omega-ruby": "Si dice che, grazie alla meditazione, Medicham incrementi la propria energia fisica e affini il sesto senso. Si nasconde efficacemente mimetizzandosi nei campi e in montagna.",
+            "alpha-sapphire": "Grazie alla propria abilità meditativa Medicham ha sviluppato il sesto senso. Ha acquisito anche la capacità di usare i poteri psicocinetici. È noto per rimanere fermo in meditazione un mese intero senza mangiare.",
+            "brilliant-diamond": "Ha affinato il sesto senso facendo yoga. I suoi movimenti sono molto eleganti.",
+            "shining-pearl": "Grazie alla meditazione quotidiana affina la sua forza spirituale e riesce a intuire i pensieri altrui.",
+            "scarlet": "È in grado di conoscere in anticipo le mosse del nemico grazie ai poteri di preveggenza ottenuti con le pratiche yoga.",
+            "violet": "Evita gli attacchi con la grazia di un ballerino e controbatte lanciando devastanti colpi altrettanto elegantemente."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 3,
+    "height": {
+        "medicham": "1,30 m"
+    },
+    "id": 308,
+    "name": "Medicham",
+    "name_origin": "Medicham potrebbe essere combinazione di meditate  e champion . Il nome giapponese チャーレム Charem può essere una storpiatura di champ , charm , harem o challenge . ",
+    "origin": "Come per la sua pre-evoluzione ricorda un primato che pratica yoga, il suo aspetto ricorda un danzatore orientale o un jinn. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Meditazione",
+    "sprites": {
+        "medicham ": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c3/Homem0308.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0308.png"
+        },
+        "medicham -f": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c2/Homef0308.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/22/Homefsh0308.png"
+        },
+        "megamedicham": {
+            "default": "https://media.pokemoncentral.it/wiki/4/42/Homem0308M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/36/Homemsh0308M.png"
+        }
+    },
+    "stats": {
+        "medicham": {
+            "hp": 60,
+            "atk": 60,
+            "def": 75,
+            "spa": 60,
+            "spd": 75,
+            "spe": 80
+        },
+        "megamedicham": {
+            "hp": 60,
+            "atk": 100,
+            "def": 85,
+            "spa": 80,
+            "spd": 85,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "medicham": 410,
+        "megamedicham": 510
+    },
+    "types": {
+        "medicham": [
+            "Psico",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "medicham": "31,5 kg"
+    }
+}

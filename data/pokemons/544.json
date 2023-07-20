@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "whirlipede": {
+            "primary": "Velenopunte",
+            "secondary": "Aiutinsetto",
+            "hidden": "Acceleratore"
+        }
+    },
+    "curiosities": [
+        "In quinta generazione, insieme alla sua famiglia evolutiva possiede come abilità speciale Piedisvelti invece di Acceleratore. Se un Whirlipede con Piedisvelti viene trasferito dalla quinta generazione alla sesta generazione tramite il Pokétrasporto, acquisirà l'abilità Acceleratore.",
+        "Il totale delle statistiche di Whirlipede è pari a 360, uguale ai gradi presenti in un angolo giro, che ricorda la peculiarità del Pokémon di girare su se stesso. Condivide questa caratteristica con Spinda."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/whirlipede.mp3",
+    "dex_entries": {
+        "whirlipede": {
+            "black": "È protetto da un guscio resistente. Si scaglia contro il nemico rotolando come uno pneumatico.",
+            "white": "Di solito non si muove, ma se viene attaccato, comincia a turbinare su se stesso e si scaglia contro il nemico.",
+            "black-2": "Si muove poco in attesa dell'evoluzione, ma se un nemico s'avvicina non esita a colpirlo con le spine velenose.",
+            "white-2": "Si muove poco in attesa dell'evoluzione, ma se un nemico s'avvicina non esita a colpirlo con le spine velenose.",
+            "x": "È protetto da un guscio resistente. Si scaglia contro il nemico rotolando come uno pneumatico.",
+            "y": "Di solito non si muove, ma se viene attaccato, comincia a turbinare su se stesso e si scaglia contro il nemico.",
+            "omega-ruby": "È protetto da un guscio resistente. Si scaglia contro il nemico rotolando come uno pneumatico.",
+            "alpha-sapphire": "Di solito non si muove, ma se viene attaccato, comincia a turbinare su se stesso e si scaglia contro il nemico.",
+            "sword": "Attacca l'avversario turbinando rapidamente su se stesso. Può raggiungere una velocità di circa 100 km/h.",
+            "shield": "Mentre accumula l'energia necessaria per evolversi, si difende con il guscio resistente e le spine velenose."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 5,
+    "height": {
+        "whirlipede": "1,2 m"
+    },
+    "id": 544,
+    "name": "Whirlipede",
+    "name_origin": "Probabilmente una combinazione di whirl  e centipede  o millipede . ",
+    "origin": "Basato su un millepiedi. Il suo aspetto ricorda molto quello di un'oniscidea o di un porcellino di terra, piccoli crostacei che quando si sentono attaccati o in pericolo si arrotolano su se stessi. ",
+    "shape": "testa",
+    "specie": "Pokémon Rotopede",
+    "sprites": {
+        "whirlipede": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a8/Homem0544.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0544.png"
+        }
+    },
+    "stats": {
+        "whirlipede": {
+            "hp": 40,
+            "atk": 55,
+            "def": 99,
+            "spa": 40,
+            "spd": 79,
+            "spe": 47
+        }
+    },
+    "stats_sum": {
+        "whirlipede": 360
+    },
+    "types": {
+        "whirlipede": [
+            "Veleno",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "whirlipede": "58,5 kg"
+    }
+}

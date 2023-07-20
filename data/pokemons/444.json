@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "gabite": {
+            "primary": "Sabbiavelo",
+            "hidden": "Cartavetro"
+        }
+    },
+    "curiosities": [
+        "Gabite condivide la categoria con Druddigon. Entrambi sono noti come Pokémon Grotta."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gabite.mp3",
+    "dex_entries": {
+        "gabite": {
+            "diamond": "Molti credono che le medicine fatte con le sue scaglie curino anche i mali incurabili.",
+            "pearl": "È solito scavare per cercare gemme, che conserva nella tana. I ladri tentano spesso di rubargliele.",
+            "platinum": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
+            "heartgold": "Ha l’abitudine di collezionare gemme che trova mentre si scava la tana, appositamente ampliata.",
+            "soulsilver": "Ha l’abitudine di collezionare gemme che trova mentre si scava la tana, appositamente ampliata.",
+            "black": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
+            "white": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
+            "black-2": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
+            "white-2": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
+            "x": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
+            "y": "Ha l'abitudine di collezionare gemme che trova mentre si scava la tana, appositamente ampliata.",
+            "omega-ruby": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
+            "alpha-sapphire": "Ha l'abitudine di collezionare gemme che trova mentre si scava la tana, appositamente ampliata.",
+            "sun": "Con le scaglie che a volte perde durante la muta si possono preparare tonici che alleviano la stanchezza e ripristinano le energie.",
+            "moon": "Adora gli oggetti luccicanti. Passa molto tempo nella sua tana a rimirare la sua scorta di gemme e Carbink.",
+            "ultra-sun": "Adora gli oggetti luccicanti. Se sorprende un Sableye a caccia di Carbink, si infuria e lo attacca.",
+            "ultra-moon": "Quando il suo corpo si ingrandisce, fa la muta. Con la polvere ricavata frantumando le scaglie scartate si preparano dei rimedi naturali.",
+            "sword": "Emette ultrasuoni dalle protuberanze sulla testa per esaminare le grotte anche nel buio più fitto.",
+            "shield": "Accumula pietre preziose nella grotta in cui vive. Fa a pezzi con gli artigli e le zanne chiunque vi si intrufoli.",
+            "brilliant-diamond": "Fin dall'antichità si è sempre creduto, e si crede tuttora, che le medicine fatte con le sue scaglie guariscano anche i mali incurabili.",
+            "shining-pearl": "Ha l'abitudine di conservare nella sua tana le gemme che trova scavando nel terreno. Sono molti i ladri che tentano di rubargliele.",
+            "legends-arceus": "Seppur d'indole irascibile, questo Pokémon si placa non appena gli viene fatto dono di perline in vetro, per cui nutre tangibile interesse.",
+            "scarlet": "Fa la muta molto di rado. Con le scaglie perse in questo modo si possono preparare tonici che alleviano la stanchezza e ripristinano le energie.",
+            "violet": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "generation": 4,
+    "height": {
+        "gabite": "1,4 m"
+    },
+    "id": 444,
+    "name": "Gabite",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione della parola giapponese がぶがぶ gabugabu, onomatopeico per quando si beve tutto d'un fiato, かぶりつく kaburitsuku, scavare, がぶりと gaburito, masticare, がぶりと噛み付く gaburitokamitsuku, affondare un dente in qualcosa, e la parola inglese bite, morso. ",
+    "origin": "Gabite è basato su un drago ed uno squalo. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Grotta",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ae/Homem0444.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0444.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/3/33/Homef0444.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/55/Homefsh0444.png"
+        }
+    },
+    "stats": {
+        "gabite": {
+            "hp": 68,
+            "atk": 90,
+            "def": 65,
+            "spa": 50,
+            "spd": 55,
+            "spe": 82
+        }
+    },
+    "stats_sum": {
+        "gabite": 410
+    },
+    "types": {
+        "gabite": [
+            "Terra",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "gabite": "56,0 kg"
+    }
+}

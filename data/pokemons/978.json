@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "tatsugiri": {
+            "primary": "Torre di Comando",
+            "hidden": "Acquascolo"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Drago",
+        "Pokémon di tipo Acqua",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Acqua 2",
+        "Pokémon che non fanno parte di una linea di evoluzione",
+        "Pokémon con statistiche base totali di 475"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tatsugiri.mp3",
+    "dex_entries": {
+        "forma-arcuata": {
+            "scarlet": "Un Pokémon di tipo Drago di piccole dimensioni. Vive all'interno della bocca di Dondozo, protetto dagli attacchi dei nemici.",
+            "violet": "È un Pokémon estremamente astuto. Attira la preda fingendosi stremato, lasciando che sia il suo alleato ad attaccarla."
+        },
+        "forma-adagiata": {
+            "scarlet": "Pare che le differenze nei colori e nei motivi sul suo corpo siano il risultato di mutazioni avvenute per adeguarsi ai gusti delle prede che attira.",
+            "violet": "Inganna l’avversario fingendosi morto. È piccolo e debole, ma sopravvive grazie alla sua intelligenza."
+        },
+        "forma-tesa": {
+            "scarlet": "Le sue prede principali sono i Pokémon alati. Sa di essere debole e per questo preferisce avere un compagno di caccia.",
+            "violet": "È uno dei Pokémon di tipo Drago più intelligenti. Si mimetizza gonfiando la sacca sulla gola."
+        }
+    },
+    "egg_groups": [
+        "Acqua 2"
+    ],
+    "generation": 9,
+    "height": {
+        "tatsugiri": "0,3 m"
+    },
+    "id": 978,
+    "name": "Tatsugiri",
+    "name_origin": "Tatsugiri deriva dall'unione di 竜 tatsu, drago in giapponese e nigirizushi o おにぎり onigiri,\npalla di riso in giapponese. ",
+    "origin": "Tatsugiri sembra essere basato sul sushi, specificamente il nigirizushi . Le sue forme somigliano rispettivamente al nigiri di gamberi, di tonno e di uova. La sua capacità di entrare nella bocca di un Dondozo è un possibile riferimento al pidocchio mangia lingua, un crostaceo parassita che si attacca alla linga dei pesci per rubare loro il cibo. Il suo tipo drago portrebbe essere un riferimento al Dragon Roll, un tipo di sushi. ",
+    "shape": "None",
+    "specie": "Pokémon Mimetico",
+    "sprites": {
+        "forma-arcuata": {
+            "default": "https://media.pokemoncentral.it/wiki/6/66/Homem0978.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0978.png"
+        },
+        "forma-adagiata": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem0978A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/29/Homemsh0978A.png"
+        },
+        "forma-tesa": {
+            "default": "https://media.pokemoncentral.it/wiki/7/73/Homem0978T.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0978T.png"
+        }
+    },
+    "stats": {
+        "tatsugiri": {
+            "hp": 68,
+            "atk": 50,
+            "def": 60,
+            "spa": 120,
+            "spd": 95,
+            "spe": 82
+        }
+    },
+    "stats_sum": {
+        "tatsugiri": 475
+    },
+    "types": {
+        "tatsugiri": [
+            "Acqua",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "tatsugiri": "8,0 kg"
+    }
+}

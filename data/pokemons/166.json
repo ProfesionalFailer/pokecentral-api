@@ -1,0 +1,102 @@
+{
+    "abilities": {
+        "ledian": {
+            "primary": "Aiutinsetto",
+            "secondary": "Sveglialampo",
+            "hidden": "Ferropugno"
+        }
+    },
+    "curiosities": [
+        "Articoli incompleti",
+        "Pokémon",
+        "Pokémon di seconda generazione",
+        "Pokémon di tipo Coleottero",
+        "Pokémon di tipo Volante",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Veloce",
+        "Pokémon di colore Rosso",
+        "Pokémon dalla sagoma n. 09",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Coleottero",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 390",
+        "Pokémon con un totale massimo di 20 stelle prestazione",
+        "Pokémon con mole 1",
+        "Pokémon Ombra di Pokémon Colosseum"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ledian.mp3",
+    "dex_entries": {
+        "ledian": {
+            "gold": "Si aggira nella notte stellata lasciando cadere una scia di polvere incandescente.",
+            "silver": "Le stelle disegnate sulla schiena sono più grandi o più piccole secondo il numero di stelle nel cielo.",
+            "crystal": "Di giorno quando fa caldo, si appallottola in una grande foglia e cade in un sonno profondo.",
+            "ruby": "Si dice che in luoghi dall'aria pura e dal cielo terso e stellato vivano moltissimi LEDIAN. Ciò è dovuto alla sua abitudine di usare la luce delle stelle come fonte energetica.",
+            "sapphire": "Si dice che in luoghi dall'aria pura e dal cielo terso e stellato vivano moltissimi LEDIAN. Ciò è dovuto alla sua abitudine di usare la luce delle stelle come fonte energetica.",
+            "emerald": "Si dice che in luoghi dall'aria pura e dal cielo terso e stellato vivano moltissimi LEDIAN. Essi, infatti, usano la luce delle stelle come fonte energetica.",
+            "firered": "Le stelle disegnate sul dorso sono più grandi o più piccole secondo il numero di stelle nel cielo.",
+            "leafgreen": "Si aggira nella notte stellata lasciando cadere una scia di polvere incandescente.",
+            "diamond": "La luce delle stelle è la sua fonte d’energia. Un cielo più stellato fa ingrandire i disegni sul suo dorso.",
+            "pearl": "La luce delle stelle è la sua fonte d’energia. Un cielo più stellato fa ingrandire i disegni sul suo dorso.",
+            "platinum": "La luce delle stelle è la sua fonte d’energia. Un cielo più stellato fa ingrandire i disegni sul suo dorso.",
+            "heartgold": "Si aggira nella notte stellata lasciando cadere una scia di polvere incandescente.",
+            "soulsilver": "I puntini sulla schiena sono più grandi o più piccoli secondo il numero di stelle nel cielo.",
+            "black": "La luce delle stelle è la sua fonte d'energia. Un cielo più stellato fa ingrandire i disegni sul suo dorso.",
+            "white": "La luce delle stelle è la sua fonte d'energia. Un cielo più stellato fa ingrandire i disegni sul suo dorso.",
+            "black-2": "La luce delle stelle è la sua fonte d'energia. Un cielo più stellato fa ingrandire i disegni sul suo dorso.",
+            "white-2": "La luce delle stelle è la sua fonte d'energia. Un cielo più stellato fa ingrandire i disegni sul suo dorso.",
+            "x": "Si aggira nella notte stellata lasciando cadere una scia di polvere incandescente.",
+            "y": "I puntini sulla schiena sono più grandi o più piccoli secondo il numero di stelle nel cielo.",
+            "omega-ruby": "Si dice che in luoghi dall'aria pura e dal cielo terso e stellato vivano moltissimi Ledian. Ciò è dovuto alla sua abitudine di usare la luce delle stelle come fonte energetica.",
+            "alpha-sapphire": "Si dice che in luoghi dall'aria pura e dal cielo terso e stellato vivano moltissimi Ledian. Ciò è dovuto alla sua abitudine di usare la luce delle stelle come fonte energetica.",
+            "sun": "Si dice che tragga energia dalla luce delle stelle, ma è anche molto ghiotto di bacche. Di giorno dorme avvolto nell'erba.",
+            "moon": "Lotta sferrando pugni con le sue quattro braccia e sopperisce alla poca potenza dei singoli pugni con temibili scariche.",
+            "ultra-sun": "Si dice che il motivo sul suo dorso abbia una qualche relazione con le stelle, ma non si sa ancora niente di preciso.",
+            "ultra-moon": "Svolazza nel cielo notturno lasciando dietro di sé una scia di polvere luccicante. Si dice che il contatto con essa porti fortuna."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 2,
+    "height": {
+        "ledian": "1,4 m"
+    },
+    "id": 166,
+    "name": "Ledian",
+    "name_origin": "Il suo nome puo' derivare dall'unione delle parole ladybug  e alien . ",
+    "origin": "Basato su una coccinella e un grigio, una specie di razza aliena. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Pentastra",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1b/Homem0166.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0166.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/7/78/Homef0166.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d7/Homefsh0166.png"
+        }
+    },
+    "stats": {
+        "ledian": {
+            "hp": 55,
+            "atk": 35,
+            "def": 50,
+            "spa": 55,
+            "spd": 110,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "ledian": 390
+    },
+    "types": {
+        "ledian": [
+            "Volante",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "ledian": "35,6 kg"
+    }
+}

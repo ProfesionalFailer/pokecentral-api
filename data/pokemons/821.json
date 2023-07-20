@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "rookidee": {
+            "primary": "Sguardofermo",
+            "secondary": "Agitazione",
+            "hidden": "Pettinfuori"
+        }
+    },
+    "curiosities": [
+        "Rookidee condivide la sua categoria con Pidgey, Spearow e Natu. Tutti e quattro sono conosciuti come Pokémon Uccellino.",
+        "Rookidee e Corvisquire sono gli unici Pokémon di tipo Volante puro assieme a Tornadus .\n\tCiò li rende gli unici uccelli regionali che non sono di tipo Normale/Volante in nessuno stadio evolutivo.",
+        "Ciò li rende gli unici uccelli regionali che non sono di tipo Normale/Volante in nessuno stadio evolutivo.",
+        "Insieme a Natu, Rookidee è il Pokémon più piccolo di tipo Volante.",
+        "Come da lui stesso confermato, Hitoshi Ariga s'è occupato della progettazione di Rookidee, Corvisquire e Corviknight."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/rookidee.mp3",
+    "dex_entries": {
+        "rookidee": {
+            "sword": "Ha un'indole temeraria che lo porta ad attaccare briga anche con nemici molto forti. Diventa più forte a forza di subire contrattacchi.",
+            "shield": "Sconfigge i nemici più grossi sfruttando le sue piccole dimensioni per volare con agilità attorno a loro e colpirli nei punti deboli.",
+            "scarlet": "È un Pokémon coraggioso e temerario. Il motivo bianco che ha sotto gli occhi intimorisce i Pokémon più paurosi.",
+            "violet": "Le femmine sono molto più pignole dei maschi. Se qualcuno osa sporcare le loro ali perdono il controllo e beccano furiosamente il responsabile."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 8,
+    "height": {
+        "rookidee": "0,2 m"
+    },
+    "id": 821,
+    "name": "Rookidee",
+    "name_origin": "Rookidee potrebbe essere una combinazione di rookie, novellino o recluta, kid, bambino, e chickadee, cinciallegra. Kokogara potrebbe essere una combinazione di 子 ko, bambino, e 小雀 kogara, cincia bigia alpestre, o 烏 karasu, corvo. ",
+    "origin": "Rookidee potrebbe essere basato su una Parus minor o su una cinciarella, entrambe specie appertenenti alla famiglia dei Paridi. Pur non appartenendo alla famiglia dei corvidi come le probabili ispirazioni di Corvisquire e Corviknight, Rookidee si trova nello stesso ordine, Passeriformes. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Uccellino",
+    "sprites": {
+        "rookidee": {
+            "default": "https://media.pokemoncentral.it/wiki/1/12/Homem0821.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/45/Homemsh0821.png"
+        }
+    },
+    "stats": {
+        "rookidee": {
+            "hp": 38,
+            "atk": 47,
+            "def": 35,
+            "spa": 33,
+            "spd": 35,
+            "spe": 57
+        }
+    },
+    "stats_sum": {
+        "rookidee": 245
+    },
+    "types": {
+        "rookidee": [
+            "Volante"
+        ]
+    },
+    "weight": {
+        "rookidee": "1,8 kg"
+    }
+}

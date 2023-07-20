@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "breloom": {
+            "primary": "Spargispora",
+            "secondary": "Velencura",
+            "hidden": "Tecnico"
+        }
+    },
+    "curiosities": [
+        "Prima della quinta generazione Breloom aveva una combinazione di tipi unica.",
+        "Breloom e la sua pre-evoluzione condividono la categoria con Paras, Parasect, Foongus e Amoonguss: sono tutti noti come Pokémon Fungo.",
+        "Nell'anime, in La Gara della Città d'Argento, si può vedere un Breloom colorato tutto di blu con il collare verde e la punta della coda arancione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/breloom.mp3",
+    "dex_entries": {
+        "breloom": {
+            "ruby": "BRELOOM si avvicina al nemico con passettini leggeri e veloci, poi sferra scariche di pugni con gli elastici arti superiori. Le sue tecniche di lotta superano quelle dei pugili più esperti.",
+            "sapphire": "I semi sulla punta della coda di BRELOOM sono costituiti da spore tossiche indurite. Se ingeriti hanno un effetto orribile, infatti un solo morso a questi semi crea gravi disturbi allo stomaco.",
+            "emerald": "Dai fori presenti sul cappello di BRELOOM fuoriescono delle spore. Predilige i climi tiepidi e umidi e si nutre di alberi e piante che trova in campi e foreste.",
+            "firered": "I semi sulla coda sono formati da spore tossiche. Abbatte i nemici con pugni rapidissimi, praticamente invisibili.",
+            "leafgreen": "I semi sulla coda sono formati da spore tossiche. Abbatte i nemici con pugni rapidissimi, praticamente invisibili.",
+            "diamond": "Tirando pugni, i suoi cortissimi arti si allungano. Usa una tecnica simile a quella dei pugili professionisti.",
+            "pearl": "Tirando pugni, i suoi cortissimi arti si allungano. Usa una tecnica simile a quella dei pugili professionisti.",
+            "platinum": "Tirando pugni, i suoi cortissimi arti si allungano. Usa una tecnica simile a quella dei pugili professionisti.",
+            "heartgold": "Sparge spore tossiche con orribili effetti sul nemico che le respira, e aggiunge una scarica di pugni.",
+            "soulsilver": "Sparge spore tossiche con orribili effetti sul nemico che le respira, e aggiunge una scarica di pugni.",
+            "black": "Tirando pugni, i suoi cortissimi arti si allungano. Usa una tecnica simile a quella dei pugili professionisti.",
+            "white": "Tirando pugni, i suoi cortissimi arti si allungano. Usa una tecnica simile a quella dei pugili professionisti.",
+            "black-2": "Tirando pugni, i suoi cortissimi arti si allungano. Usa una tecnica simile a quella dei pugili professionisti.",
+            "white-2": "Tirando pugni, i suoi cortissimi arti si allungano. Usa una tecnica simile a quella dei pugili professionisti.",
+            "x": "Tirando pugni, i suoi cortissimi arti si allungano. Usa una tecnica simile a quella dei pugili professionisti.",
+            "y": "Sparge spore tossiche con orribili effetti sul nemico che le respira, e aggiunge una scarica di pugni.",
+            "omega-ruby": "Breloom si avvicina al nemico con passettini leggeri e veloci, poi sferra scariche di pugni con gli elastici arti superiori. Le sue tecniche di lotta superano quelle dei pugili più esperti.",
+            "alpha-sapphire": "I semi sulla punta della coda di Breloom sono costituiti da spore tossiche indurite. Se ingeriti hanno un effetto orribile, infatti un solo morso a questi semi crea gravi disturbi allo stomaco.",
+            "brilliant-diamond": "Quando tira pugni, i suoi cortissimi arti si allungano. Persino un pugile professionista sfigurerebbe di fronte alla sua tecnica.",
+            "shining-pearl": "Quando tira pugni, i suoi cortissimi arti si allungano. Persino un pugile professionista sfigurerebbe di fronte alla sua tecnica.",
+            "scarlet": "Dopo aver fatto respirare le sue spore tossiche al nemico, lo finisce con una violenta scarica di pugni.",
+            "violet": "I semi sulla coda sono costituiti da spore tossiche. Abbatte i nemici con pugni rapidissimi, praticamente invisibili."
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Erba"
+    ],
+    "generation": 3,
+    "height": {
+        "breloom": "1,20 m"
+    },
+    "id": 286,
+    "name": "Breloom",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi \"umbrella\"  e \"mushroom\" . Potrebbe anche comprendere il termine latino \"bellum\", guerra  ",
+    "origin": "È basato su un fungo. Presenta inoltre caratteristiche tipiche di alcuni marsupiali. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Fungo",
+    "sprites": {
+        "breloom": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a1/Homem0286.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0286.png"
+        }
+    },
+    "stats": {
+        "breloom": {
+            "hp": 60,
+            "atk": 130,
+            "def": 80,
+            "spa": 60,
+            "spd": 60,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "breloom": 460
+    },
+    "types": {
+        "breloom": [
+            "Erba",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "breloom": "39,2 kg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "sawk": {
+            "primary": "Vigore",
+            "secondary": "Forza Interiore",
+            "hidden": "Rompiforma"
+        }
+    },
+    "curiosities": [
+        "Sawk e la sua controparte sono stati disegnati da Ken Sugimori.",
+        "Sawk e Throh sono il parallelo di Hitmonlee e Hitmonchan, in quanto sono entrambi di tipo Lotta e sembra abbiano legami di parentela.",
+        "Sawk, prima della settima generazione, era l'unico Pokémon in assoluto a imparare Spaccaroccia salendo di livello."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sawk.mp3",
+    "dex_entries": {
+        "sawk": {
+            "black": "Dalle montagne in cui si allena Sawk giunge il suono di pugni che si schiantano contro grandi alberi e rocce.",
+            "white": "La cintura da karate gli dà la carica e aumenta la forza distruttiva dei pugni. Quando si allena, meglio non disturbarlo.",
+            "black-2": "Si allena senza pausa, giorno e notte, sui monti per potenziare al massimo i suoi colpi di karate.",
+            "white-2": "Si allena senza pausa, giorno e notte, sui monti per potenziare al massimo i suoi colpi di karate.",
+            "x": "Si allena senza pausa, giorno e notte, sui monti per potenziare al massimo i suoi colpi di karate.",
+            "y": "La cintura da karate gli dà la carica e aumenta la forza distruttiva dei pugni. Quando si allena, meglio non disturbarlo.",
+            "omega-ruby": "Si allena senza pausa, giorno e notte, sui monti per potenziare al massimo i suoi colpi di karate.",
+            "alpha-sapphire": "La cintura da karate gli dà la carica e aumenta la forza distruttiva dei pugni. Quando si allena, meglio non disturbarlo.",
+            "sword": "Cerca costantemente di diventare più forte. Se lo si incontra in montagna mentre si allena è meglio svignarsela in silenzio",
+            "shield": "Grazie al suo intenso allenamento, può infliggere micidiali colpi di karate capaci di dividere in due le acque dell'oceano."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 5,
+    "height": {
+        "sawk": "1,4 m"
+    },
+    "id": 539,
+    "name": "Sawk",
+    "name_origin": "Il suo nome potrebbe derivare da sock, pugno, colpo, e saw, segare, potrebbe riferirsi al gesto di fendere l'aria con la mano tipico del karate, o whack, battere, percuotere, picchiare. Il nome giapponese, ダゲキ Dageki, probabilmente deriva da 打撃 dageki, pugno, e 鬼 ki, demone. ",
+    "origin": "È basato su un karateka professionista, probabilmente sul creatore del Kyokushinkai , Mas Oyama, oltre che su un oni. Secondo un'intervista con Ken Sugimori, in origine sia Sawk che Throh erano stati pensati con un paio di corna sul capo, cosa che li avrebbe resi più simili a un oni, ma poi sono state sostituite con delle sopracciglia perché non assomigliassero troppo a Tornadus e Thundurus, i cui colori dominanti erano stati pensati inizialmente come rosso e blu, come Sawk e Throh. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Karate",
+    "sprites": {
+        "sawk": {
+            "default": "https://media.pokemoncentral.it/wiki/7/70/Homem0539.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a4/Homemsh0539.png"
+        }
+    },
+    "stats": {
+        "sawk": {
+            "hp": 75,
+            "atk": 125,
+            "def": 75,
+            "spa": 30,
+            "spd": 75,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "sawk": 465
+    },
+    "types": {
+        "sawk": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "sawk": "51,0 kg"
+    }
+}

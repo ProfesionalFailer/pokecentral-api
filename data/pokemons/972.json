@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "houndstone": {
+            "primary": "Remasabbia",
+            "hidden": "Morbidone"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Spettro",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 488"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/houndstone.mp3",
+    "dex_entries": {
+        "houndstone": {
+            "scarlet": "Di solito dorme nei cimiteri. Tra i tanti Pokémon canidi, è quello più fedele a chi lo alleva.",
+            "violet": "È la reincarnazione di un Pokémon molto amato in vita e altrettanto compianto. Detesta che gli si tocchi la protuberanza che ha sulla testa."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 9,
+    "height": {
+        "houndstone": "2,0 m"
+    },
+    "id": 972,
+    "name": "Houndstone",
+    "name_origin": "Houndstone potrebbe essere una combinazione di hound  e headstone . Hakadoggu potrebbe essere una combinazione di 墓 haka  e ドッグ doggu . ",
+    "origin": "Houndstone potrebbe derivare dal cadavere di un cane, per via degli arti scheletrici del Pokémon, oppure anche dal detto che il cane veglia sempre sulla tomba del suo padrone. ",
+    "shape": "None",
+    "specie": "Pokémon Cantasma",
+    "sprites": {
+        "houndstone": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a4/Homem0972.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0972.png"
+        }
+    },
+    "stats": {
+        "houndstone": {
+            "hp": 72,
+            "atk": 101,
+            "def": 100,
+            "spa": 50,
+            "spd": 97,
+            "spe": 68
+        }
+    },
+    "stats_sum": {
+        "houndstone": 488
+    },
+    "types": {
+        "houndstone": [
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "houndstone": "15,0 kg"
+    }
+}

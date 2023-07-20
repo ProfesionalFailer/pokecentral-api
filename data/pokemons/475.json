@@ -1,0 +1,103 @@
+{
+    "abilities": {
+        "gallade": {
+            "primary": "Cuordeciso",
+            "secondary": "Affilama",
+            "hidden": "Giustizia"
+        },
+        "megagallade": {
+            "primary": "Forza Interiore"
+        }
+    },
+    "curiosities": [
+        "Insieme a Scrafty ha la Difesa Speciale più alta tra i Pokémon non leggendari di tipo Lotta.",
+        "Rispetto a Gardevoir i valori di Attacco e Attacco speciale sono invertiti.",
+        "È uno dei pochi Pokémon Psico ad avere l'Attacco più alto dell'Attacco Speciale.",
+        "Ha lo stesso peso di Blaziken e Muk forma Alola.",
+        "In Pokémon Mystery Dungeon: Esploratori del Tempo ed Esploratori dell'Oscurità è il capo di una squadra di avventurieri.",
+        "Negli sprite di quarta generazione le lame sulle braccia sono notevolmente più lunghe rispetto a quelle della quinta e successive generazioni.",
+        "In quinta generazione, Gallade può imparare almeno una mossa per ogni tipo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gallade.mp3",
+    "dex_entries": {
+        "gallade": {
+            "diamond": "Pokémon elegante e ottimo spadaccino, combatte allungando le lame che ha sui gomiti.",
+            "pearl": "Pokémon elegante e ottimo spadaccino, combatte allungando le lame che ha sui gomiti.",
+            "platinum": "Quando protegge qualcuno estende i gomiti come se fossero spade e combatte furiosamente.",
+            "heartgold": "Il suo intuito gli consente di capire cosa pensa il nemico: può così attaccare per primo.",
+            "soulsilver": "Il suo intuito gli consente di capire cosa pensa il nemico: può così attaccare per primo.",
+            "black": "Quando protegge qualcuno estende i gomiti come se fossero spade e combatte furiosamente.",
+            "white": "Quando protegge qualcuno estende i gomiti come se fossero spade e combatte furiosamente.",
+            "black-2": "Quando protegge qualcuno estende i gomiti come se fossero spade e combatte furiosamente.",
+            "white-2": "Quando protegge qualcuno estende i gomiti come se fossero spade e combatte furiosamente.",
+            "x": "Il suo intuito gli consente di capire cosa pensa il nemico: può così attaccare per primo.",
+            "y": "Pokémon elegante e ottimo spadaccino, combatte allungando le lame che ha sui gomiti.",
+            "omega-ruby": "Il suo intuito gli consente di capire cosa pensa il nemico: può così attaccare per primo.",
+            "alpha-sapphire": "Pokémon elegante e ottimo spadaccino, combatte allungando le lame che ha sui gomiti.",
+            "sword": "Viene soprannominato \"il guerriero\". Si serve delle lame sui gomiti solo a scopo difensivo.",
+            "shield": "È in grado di captare con estrema sensibilità lo stato d’animo di chi si trova nei guai e può così accorrere subito in suo aiuto.",
+            "brilliant-diamond": "Pokémon elegante e ottimo spadaccino, combatte allungando le lame che ha sui gomiti.",
+            "shining-pearl": "Pokémon elegante e ottimo spadaccino, combatte allungando le lame che ha sui gomiti.",
+            "legends-arceus": "Le lame che protrudono dai gomiti tagliano più d'una spada pregiata. Seppur allenatosi autonomamente, mostra una maestria nella scherma che lascia attoniti.",
+            "scarlet": "Quando protegge qualcuno estende i gomiti come se fossero spade e combatte furiosamente.",
+            "violet": "Il suo intuito gli consente di capire cosa pensa il nemico: può così attaccare per primo."
+        }
+    },
+    "egg_groups": [
+        "Amorfo",
+        "Umanoide",
+        "VIII"
+    ],
+    "generation": 4,
+    "height": {
+        "gallade": "1,6 m"
+    },
+    "id": 475,
+    "name": "Gallade",
+    "name_origin": "Deriva dalle parole gallant  e blade  e da Galahad . ",
+    "origin": "Basato su un oplita, o su un gladiatore come il mirmillone. Le sue posizioni di guardia ricordano la scherma moderna. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Lama",
+    "sprites": {
+        "gallade": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3d/Homem0475.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0475.png"
+        },
+        "megagallade": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9c/Homem0475M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/25/Homemsh0475M.png"
+        }
+    },
+    "stats": {
+        "gallade": {
+            "hp": 68,
+            "atk": 125,
+            "def": 65,
+            "spa": 65,
+            "spd": 115,
+            "spe": 80
+        },
+        "megagallade": {
+            "hp": 68,
+            "atk": 165,
+            "def": 95,
+            "spa": 65,
+            "spd": 115,
+            "spe": 110
+        }
+    },
+    "stats_sum": {
+        "gallade": 518,
+        "megagallade": 618
+    },
+    "types": {
+        "gallade": [
+            "Psico",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "gallade": "52,0 kg",
+        "megagallade": "56,4 kg"
+    }
+}

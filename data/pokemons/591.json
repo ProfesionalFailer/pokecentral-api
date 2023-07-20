@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "amoonguss": {
+            "primary": "Spargispora",
+            "hidden": "Rigenergia"
+        }
+    },
+    "curiosities": [
+        "Amoonguss, la sua pre-evoluzione Foongus, Voltorb ed Electrode sono i Pokémon che assomigliano a una Poké Ball.",
+        "Amoonguss e la sua pre-evoluzione Foongus condividono con Paras, Parasect, Breloom e Shroomish la stessa Specie , e sono anche gli unici Pokémon che hanno l'abilità Spargispora, oltre a un'altra abilità speciale.\n\tAnche Morelull e Shiinotic hanno Spargispora come abilità non speciale",
+        "Anche Morelull e Shiinotic hanno Spargispora come abilità non speciale",
+        "Pur essendo basato su un fungo, Amoonguss e la sua pre-evoluzione Foongus possono imparare le mosse Solarraggio e Sintesi.",
+        "Amoonguss è il Pokémon di tipo Erba con i PS base più alti."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/amoonguss.mp3",
+    "dex_entries": {
+        "amoonguss": {
+            "black": "Attira le sue prede con danze, durante le quali fa roteare i dischi simili a Poké Ball che porta sugli arti.",
+            "white": "Cerca di attirare le prede esibendo un cappello a forma di Poké Ball, ma sono pochi i Pokémon che si fanno ingannare.",
+            "black-2": "Muove le estremità degli arti in una danza per attrarre le prede. Predilige i luoghi umidi.",
+            "white-2": "Muove le estremità degli arti in una danza per attrarre le prede. Predilige i luoghi umidi.",
+            "x": "Cerca di attirare le prede esibendo un cappello a forma di Poké Ball, ma sono pochi i Pokémon che si fanno ingannare.",
+            "y": "Attira le sue prede con danze, durante le quali fa roteare i dischi simili a Poké Ball che porta sugli arti.",
+            "omega-ruby": "Cerca di attirare le prede esibendo un cappello a forma di Poké Ball, ma sono pochi i Pokémon che si fanno ingannare.",
+            "alpha-sapphire": "Attira le sue prede con danze, durante le quali fa roteare i dischi simili a Poké Ball che porta sugli arti.",
+            "sword": "Sparge spore velenose. Se non vengono lavate via in fretta, nel luogo in cui si sono depositate cresceranno dei funghi.",
+            "shield": "Generalmente non si muove molto. Di solito si limita a stare immobile vicino a qualche Poké Ball caduta.",
+            "scarlet": "Attenzione alle spore velenose che rilascia nell’aria. Ovunque si posano cresceranno funghi dall’aspetto simile al cappello di Amoonguss.",
+            "violet": "Si mimetizza fingendosi una Poké Ball, ma non si sa quanto questo lo aiuti a nascondersi dagli altri Pokémon."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 5,
+    "height": {
+        "amoonguss": "0,6 m"
+    },
+    "id": 591,
+    "name": "Amoonguss",
+    "name_origin": "Il suo nome molto probabilmente deriva dall'unione delle parole amanita, un genere di funghi, e fungus o humongous . Insieme alla pre-evoluzione, Foongus, è una corruzione dell'espressione inglese fungus among us . ",
+    "origin": "Amoonguss è decisamente basato su un fungo velenoso con un'immagine che rappresenta una Poké Ball sul cappello. In particolare potrebbe ispirarsi all'amanita muscaria o ai funghi del genere agaricus. I dischi sulle estremità delle braccia sembrano scudi. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Fungo",
+    "sprites": {
+        "amoonguss": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8f/Homem0591.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homemsh0591.png"
+        }
+    },
+    "stats": {
+        "amoonguss": {
+            "hp": 114,
+            "atk": 85,
+            "def": 70,
+            "spa": 85,
+            "spd": 80,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "amoonguss": 464
+    },
+    "types": {
+        "amoonguss": [
+            "Erba",
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "amoonguss": "10,5 kg"
+    }
+}

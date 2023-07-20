@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "seel": {
+            "primary": "Grassospesso",
+            "secondary": "Idratazione",
+            "hidden": "Corpogelo"
+        }
+    },
+    "curiosities": [
+        "Seel è uno dei 4 Pokémon non di tipo Ghiaccio che si evolve in un Pokémon di quel tipo, assieme a Shellder, Eevee e Crabrawler.",
+        "Nonostante Seel venne introdotto in prima generazione come un Pokémon d'Acqua puro, non poteva apprendere nessuna mossa d'Acqua tramite livello fino alla quarta generazione.",
+        "Seel e Dewgong condividono la stessa categoria con Popplio: tutti e tre sono conosciuti come Pokémon otaria.",
+        "Seel è l'unico pokemon non di tipo Ghiaccio ad avere accesso all'abilità Corpogelo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/seel.mp3",
+    "dex_entries": {
+        "seel": {
+            "red": "Il corno che gli sporge dalla testa è molto duro. Lo usa per fendere lastroni di ghiaccio.",
+            "blue": "Il corno che gli sporge dalla testa è molto duro. Lo usa per fendere lastroni di ghiaccio.",
+            "yellow": "Adora gli ambienti freddi gelidi. Nuota in acque a temperature polari di circa 10 gradi sotto zero.",
+            "gold": "Sebbene poco abile sulla terraferma, è un elegante nuotatore. Apprezza particolarmente i mari gelidi.",
+            "silver": "Di giorno lo si può trovare addormentato sul fondo del mare in acque basse. Se nuota chiude le narici.",
+            "crystal": "Il pelo azzurro che lo ricopre lo protegge dal freddo. Predilige l'oceano, nuotando tra gli iceberg.",
+            "ruby": "SEEL caccia le prede nel mare gelido sotto le lastre di ghiaccio. Per respirare apre un foro nel ghiaccio usando la protuberanza appuntita sulla sommità del capo.",
+            "sapphire": "SEEL caccia le prede nel mare gelido sotto le lastre di ghiaccio. Per respirare apre un foro nel ghiaccio usando la protuberanza appuntita sulla sommità del capo.",
+            "emerald": "SEEL caccia le prede nel mare gelido sotto le lastre di ghiaccio. Per respirare apre un foro nel ghiaccio usando la protuberanza appuntita sulla sommità del capo.",
+            "firered": "Sotto la pelliccia azzurra ha una pelle spessa e dura. Può resistere ad una temperatura di - 40 ºC.",
+            "leafgreen": "Il corno che gli sporge dalla testa è molto duro. Lo usa per fendere lastroni di ghiaccio.",
+            "diamond": "Pokémon che vive sugli iceberg. Nuota spaccando il ghiaccio con la punta che ha sulla testa.",
+            "pearl": "Pokémon che vive sugli iceberg. Nuota spaccando il ghiaccio con la punta che ha sulla testa.",
+            "platinum": "Pokémon che vive sugli iceberg. Nuota spaccando il ghiaccio con la punta che ha sulla testa.",
+            "heartgold": "Pur poco abile sulla terraferma, è un elegante nuotatore. Apprezza particolarmente i mari gelidi.",
+            "soulsilver": "Di giorno lo si può trovare addormentato sul fondo del mare in acque basse. Se nuota chiude le narici.",
+            "black": "Pokémon che vive sugli iceberg. Nuota spaccando il ghiaccio con la punta che ha sulla testa.",
+            "white": "Pokémon che vive sugli iceberg. Nuota spaccando il ghiaccio con la punta che ha sulla testa.",
+            "black-2": "Più fa freddo, più si sente a suo agio. Si diverte a nuotare tra i blocchi di ghiaccio dei mari più gelidi.",
+            "white-2": "Più fa freddo, più si sente a suo agio. Si diverte a nuotare tra i blocchi di ghiaccio dei mari più gelidi.",
+            "x": "Pokémon che vive sugli iceberg. Nuota spaccando il ghiaccio con la punta che ha sulla testa.",
+            "y": "Sotto la pelliccia azzurra ha una pelle spessa e dura. Può resistere a una temperatura di -40 °C.",
+            "omega-ruby": "Seel caccia le prede nel mare gelido sotto le lastre di ghiaccio. Per respirare apre un foro nel ghiaccio usando la protuberanza appuntita sulla sommità del capo.",
+            "alpha-sapphire": "Seel caccia le prede nel mare gelido sotto le lastre di ghiaccio. Per respirare apre un foro nel ghiaccio usando la protuberanza appuntita sulla sommità del capo.",
+            "ultra-sun": "Finora si pensava che i Seel potessero vivere solo nei mari gelidi, pertanto la loro comparsa ad Alola è alquanto misteriosa.",
+            "ultra-moon": "Grazie al suo spesso strato di grasso nuota tranquillamente nell'acqua gelida. Nei mari caldi rischia facilmente lo sfinimento.",
+            "lets-go-pikachu": "Adora gli ambienti gelidi. Nuota con piacere nell'acqua a temperature di circa -10 °C",
+            "lets-go-eevee": "Adora gli ambienti gelidi. Nuota con piacere nell'acqua a temperature di circa -10 °C"
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "generation": 1,
+    "height": {
+        "seel": "1,1 m"
+    },
+    "id": 86,
+    "name": "Seel",
+    "name_origin": "L'origine del nome di Seel potrebbe derivare da una storpiatura delle parole inglesi sea  e seal . ",
+    "origin": "Seel è basato su cuccioli di foca, con una particolare somiglianza con un cucciolo di foca della Groenlandia. ",
+    "shape": "pinne",
+    "specie": "Pokémon Otaria",
+    "sprites": {
+        "seel": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0086.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/41/Homemsh0086.png"
+        }
+    },
+    "stats": {
+        "seel": {
+            "hp": 65,
+            "atk": 45,
+            "def": 55,
+            "spa": 45,
+            "spd": 70,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "seel": 325
+    },
+    "types": {
+        "seel": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "seel": "90,0 kg"
+    }
+}

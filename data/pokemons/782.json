@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "jangmo-o": {
+            "primary": "Antiproiettile",
+            "secondary": "Antisuono",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Jangmo-o è il primo Pokémon di settima generazione ad essere stato progettato.",
+        "Jangmo-o è uno dei Pokémon con caratteri non alfabetici nel nome."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/jangmo-o.mp3",
+    "dex_entries": {
+        "jangmo-o": {
+            "sun": "Trasmette le sue emozioni scuotendo le squame. Nelle aree montane in cui vive riecheggia spesso un suono metallico.",
+            "moon": "Vive sulle montagne troppo impervie per gli esseri umani. Cresce e diventa più forte poco a poco lottando con i propri simili.",
+            "ultra-sun": "Sbatte con violenza le squame che ha sul capo contro le rocce e sul terreno per spaventare i nemici e per comunicare coi suoi simili.",
+            "ultra-moon": "Lotta senza dare mai le spalle al nemico. I guerrieri del passato lo sceglievano come alleato per la sua indole coraggiosa.",
+            "sword": "Impara a lottare facendo cozzare la squama che ha sulla testa con quella dei suoi simili. In questo modo affina le sue mosse e tempra il suo spirito.",
+            "shield": "Comunica con i suoi simili scuotendo le squame dure come il metallo."
+        }
+    },
+    "egg_groups": [
+        "Drago"
+    ],
+    "generation": 7,
+    "height": {
+        "jangmo-o": "0,6 m"
+    },
+    "id": 782,
+    "name": "Jangmo-o",
+    "name_origin": "Jangmo-o potrebbe derivare da jangling, tintinnio, e da mo'o, lucertola o drago in hawaiano. Jarako potrebbe essere una combinazione di ジャラジャラ jarajara, suono onomatopeico del tintinnio, di draco, latino per drago, e probabilmente di 子 ko, giovane animale. ",
+    "origin": "Jangmo-o sembra essere basato su un Anchilosauro. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Squama",
+    "sprites": {
+        "jangmo-o": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e1/Homem0782.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6c/Homemsh0782.png"
+        }
+    },
+    "stats": {
+        "jangmo-o": {
+            "hp": 45,
+            "atk": 55,
+            "def": 65,
+            "spa": 45,
+            "spd": 45,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "jangmo-o": 300
+    },
+    "types": {
+        "jangmo-o": [
+            "Drago"
+        ]
+    },
+    "weight": {
+        "jangmo-o": "29,7 kg"
+    }
+}

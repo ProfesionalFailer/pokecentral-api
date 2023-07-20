@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "sentret": {
+            "primary": "Fugafacile",
+            "secondary": "Sguardofermo",
+            "hidden": "Indagine"
+        }
+    },
+    "curiosities": [
+        "Sentret, Patrat e Growlithe di Hisui sono noti come Pokémon Esplorante.",
+        "Sentret è l'unico Pokémon ad avere la somma delle statistiche base pari a 215."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sentret.mp3",
+    "dex_entries": {
+        "sentret": {
+            "gold": "È un POKéMON molto cauto, che si alza da terra con la coda per scrutare i dintorni.",
+            "silver": "Ritto sulla coda, guarda lontano. Se nota un nemico fa forti versi per avvertire quelli della sua specie.",
+            "crystal": "La vedetta avverte i suoi compagni del pericolo gridando e battendo la coda sul terreno.",
+            "ruby": "SENTRET dorme soltanto se un suo simile rimane vigile. La vedetta allerta gli altri al primo segnale di pericolo. Se viene allontanato dal branco, questo POKéMON non riesce più a dormire dalla paura.",
+            "sapphire": "SENTRET dorme soltanto se un suo simile rimane vigile. La vedetta allerta gli altri al primo segnale di pericolo. Se viene allontanato dal branco, questo POKéMON non riesce più a dormire dalla paura.",
+            "emerald": "SENTRET dorme soltanto se un suo simile rimane vigile. La vedetta allerta gli altri del pericolo. Se viene allontanato dal branco, non dorme più dalla paura.",
+            "firered": "Ritto sulla coda, guarda lontano. Se nota un nemico lancia forti grida per avvertire i suoi simili.",
+            "leafgreen": "È un POKéMON molto cauto, che si alza da terra con la coda per scrutare i dintorni.",
+            "diamond": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "pearl": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "platinum": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "heartgold": "Pokémon molto cauto. Si alza da terra con la coda per scrutare i dintorni.",
+            "soulsilver": "Ritto sulla coda, guarda lontano. Se nota un nemico lancia forti richiami per avvertire quelli della sua specie.",
+            "black": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "white": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "black-2": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "white-2": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "x": "La vedetta avverte i suoi compagni del pericolo gridando e battendo la coda sul terreno.",
+            "y": "Ritto sulla coda, guarda lontano. Se nota un nemico lancia forti richiami per avvertire quelli della sua specie.",
+            "omega-ruby": "Sentret dorme soltanto se un suo simile rimane vigile. La vedetta allerta gli altri al primo segnale di pericolo. Se viene allontanato dal branco, questo Pokémon non riesce più a dormire dalla paura.",
+            "alpha-sapphire": "Sentret dorme soltanto se un suo simile rimane vigile. La vedetta allerta gli altri al primo segnale di pericolo. Se viene allontanato dal branco, questo Pokémon non riesce più a dormire dalla paura."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 2,
+    "height": {
+        "sentret": "0,8 m"
+    },
+    "id": 161,
+    "name": "Sentret",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi sentry, sentinella, e ferret, furetto. ",
+    "origin": "Basato sullo scoiattolo volante o sul tanuki, fa parte della mitologia del Giappone sin da tempi antichi; si ritiene che siano maliziosi e scherzosi, maestri del travestimento e mutaforma, ma in qualche modo ingenui e distratti. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Esplorante",
+    "sprites": {
+        "sentret": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ad/Homem0161.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/df/Homemsh0161.png"
+        }
+    },
+    "stats": {
+        "sentret": {
+            "hp": 35,
+            "atk": 46,
+            "def": 34,
+            "spa": 35,
+            "spd": 45,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "sentret": 215
+    },
+    "types": {
+        "sentret": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "sentret": "6,0 kg"
+    }
+}

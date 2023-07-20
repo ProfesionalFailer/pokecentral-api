@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "fomantis": {
+            "primary": "Fogliamanto",
+            "hidden": "Inversione"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di settima generazione",
+        "Pokémon di tipo Erba",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Rosa",
+        "Pokémon dalla sagoma n. 06",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Erba",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 250",
+        "Pokémon che si evolvono in base al tempo",
+        "Pokémon che si evolvono solo di giorno"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/fomantis.mp3",
+    "dex_entries": {
+        "fomantis": {
+            "sun": "Di giorno dorme sotto il sole, mentre di notte si mette in cerca di un posto più sicuro per continuare a dormir",
+            "moon": "Emana un odore fresco e dolce. Quando si nasconde nell'erba alta, attira dei Cutiefly che gli si radunano intorno.",
+            "ultra-sun": "Quando esce il sole dispiega le sue quattro foglie per assorbirne la luce. Il suo capo emana un profumo molto gradevole.",
+            "ultra-moon": "Adora la luce del sole. Più resta esposto al sole, più i suoi colori si fanno vividi.",
+            "sword": "Quando è esposto alla luce del sole emette un dolce profumo che attrae i Pokémon di tipo Coleottero.",
+            "shield": "Trascorre le giornate a dormire tranquillo sotto il sole. Quando giunge la notte si sveglia e si mette in movimento.",
+            "scarlet": "Detesta chiunque disturbi le sue pennichelle diurne. Standosene al sole accumula energia che poi rilascia in forma di potenti raggi.",
+            "violet": "Molti Allenatori garantiscono a questo Pokémon l’uso esclusivo di un vaso, così che possa prendere il sole in tranquillità."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 7,
+    "height": {
+        "fomantis": "0,3 m"
+    },
+    "id": 753,
+    "name": "Fomantis",
+    "name_origin": "Fomantis potrebbe essere una combinazione di faux, finto in francese, e di mantis, mantide. Karikiri potrebbe essere una combinazione di 仮 kari, finto, 刈 kari, potare, e 螳螂 kamakiri, mantide religiosa. ",
+    "origin": "Fomantis è probabilmente basato su una mantide orchidea. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Mantiderba",
+    "sprites": {
+        "fomantis": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b0/Homem0753.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cb/Homemsh0753.png"
+        }
+    },
+    "stats": {
+        "fomantis": {
+            "hp": 40,
+            "atk": 55,
+            "def": 35,
+            "spa": 50,
+            "spd": 35,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "fomantis": 250
+    },
+    "types": {
+        "fomantis": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "fomantis": "1,5 kg"
+    }
+}

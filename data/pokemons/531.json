@@ -1,0 +1,94 @@
+{
+    "abilities": {
+        "audino": {
+            "primary": "Curacuore",
+            "secondary": "Rigenergia",
+            "hidden": "Impaccio"
+        },
+        "megaaudino": {
+            "primary": "Curacuore"
+        }
+    },
+    "curiosities": [
+        "Audino è l'unico Pokémon che può essere incontrato in tutte le zolle d'erba di una regione, come Magikarp nelle altre regioni può essere incontrato in qualunque specchio d'acqua che ospita Pokémon selvatici.\n\tPer questo e per la grande quantità di esperienza che rilascia quando sconfitto, Audino è un ottimo modo di allenare rapidamente i Pokémon.",
+        "Per questo e per la grande quantità di esperienza che rilascia quando sconfitto, Audino è un ottimo modo di allenare rapidamente i Pokémon.",
+        "Audino è l'unico Pokémon in grado di imparare Forzasegreta aumentando di livello.\n\tin quinta generazione, è l'unico Pokémon in grado di imparare Forzasegreta, dato che la MT43 non la contiene più.",
+        "in quinta generazione, è l'unico Pokémon in grado di imparare Forzasegreta, dato che la MT43 non la contiene più.",
+        "Audino è l'unico Pokémon la cui somma delle statistiche base è pari a 445.",
+        "È l'unico Pokémon di quinta generazione a possedere una Megaevoluzione: essa è stata accidentalmente rivelata dal sito Pokémon ufficiale coreano il 12 agosto 2014, per poi essere prontamente rimossa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/audino.mp3",
+    "dex_entries": {
+        "audino": {
+            "black": "Quando tocca qualcuno con le antenne delle orecchie, ne percepisce lo stato fisico e psicologico dal battito cardiaco.",
+            "white": "Ha un udito eccezionale. Usa dei suoni impercettibili per analizzare ciò che gli succede intorno.",
+            "black-2": "Le sue orecchie sono antenne capaci di sondare lo stato di salute degli altri o capire quando un uovo si schiuderà.",
+            "white-2": "Le sue orecchie sono antenne capaci di sondare lo stato di salute degli altri o capire quando un uovo si schiuderà.",
+            "x": "Le sue orecchie sono antenne capaci di sondare lo stato di salute degli altri o capire quando un uovo si schiuderà.",
+            "y": "Quando tocca qualcuno con le antenne delle orecchie, ne percepisce lo stato fisico e psicologico dal battito cardiaco.",
+            "omega-ruby": "Le sue orecchie sono antenne capaci di sondare lo stato di salute degli altri o capire quando un uovo si schiuderà.",
+            "alpha-sapphire": "Quando tocca qualcuno con le antenne delle orecchie, ne percepisce lo stato fisico e psicologico dal battito cardiaco.",
+            "sword": "Possiede un udito eccellente, grazie al quale riesce a cogliere anche il suono di un sasso che rotola a 2 km di distanza.",
+            "shield": "Questo Pokémon dal cuore tenero è in grado di percepire le condizioni fisiche e mentali di chi tocca con le antenne."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "generation": 5,
+    "height": {
+        "audino": "1,1 m",
+        "megaaudino": "1,5 m"
+    },
+    "id": 531,
+    "name": "Audino",
+    "name_origin": "Audino deriva da audio, oppure dal latino audire , e il suffisso -ino, usato per gli alterati diminutivi, o anche dalla frase I don't know, \"non lo so\". Altre possibili origini sono din  e lapin . Il nome giapponese タブンネ Tabunne potrebbe venire da 多分ね tabun ne , o più probabilmente da 多聞 tabun ; un'ulteriore derivazione potrebbe essere 耳たぶ mimitabu . ",
+    "origin": "Audino sembra basato su un coniglio e un infermiere, anche perché le orecchie ricordano molto uno stetoscopio. Le antenne delle sue orecchie hanno anche l'aspetto di una coclea, una componente della parte interna dell'orecchio. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Ascolto",
+    "sprites": {
+        "audino": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem0531.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0531.png"
+        },
+        "megaaudino": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f5/Homem0531M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0531M.png"
+        }
+    },
+    "stats": {
+        "audino": {
+            "hp": 103,
+            "atk": 60,
+            "def": 86,
+            "spa": 60,
+            "spd": 86,
+            "spe": 50
+        },
+        "megaaudino": {
+            "hp": 103,
+            "atk": 60,
+            "def": 126,
+            "spa": 80,
+            "spd": 126,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "audino": 445,
+        "megaaudino": 545
+    },
+    "types": {
+        "audino": [
+            "Normale"
+        ],
+        "megaaudino": [
+            "Folletto",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "audino": "31,0 kg",
+        "megaaudino": "32,0 kg"
+    }
+}

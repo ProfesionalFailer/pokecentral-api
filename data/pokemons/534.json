@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "conkeldurr": {
+            "primary": "Dentistretti",
+            "secondary": "Forzabruta",
+            "hidden": "Ferropugno"
+        }
+    },
+    "curiosities": [
+        "La linea evolutiva di Conkeldurr presenta molte analogie con la linea evolutiva di Machamp. Entrambi sono Pokémon di tipo Lotta il cui attacco è la loro statistica più alta, sono entrambi al di sotto della velocità media, hanno lo stesso rapporto tra i sessi, hanno tre stadi evolutivi e raggiungono la loro forma finale attraverso gli scambi.",
+        "Durante un attacco lo sprite di Conkeldurr può venire visualizzato tagliato nel fondo.",
+        "Conkeldurr è il Pokémon di tipo Lotta non megaevoluto con il maggior Attacco.",
+        "A causa del filtro che impedisce lo scambio di Pokémon con soprannomi offensivi nel Global Trade System, un Conkeldurr non può essere scambiato su questa piattaforma senza che gli sia dato un soprannome in Pokémon Bianco e Nero."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/conkeldurr.mp3",
+    "dex_entries": {
+        "conkeldurr": {
+            "black": "Si pensa che la tecnica per fare il cemento sia stata diffusa proprio da Conkeldurr, 2000 anni fa.",
+            "white": "Con un minimo sforzo dei muscoli, è in grado di usare un pilastro di cemento a mo' di bastone da passeggio.",
+            "black-2": "Non si affida solo ai muscoli, ma sfrutta la forza centrifuga per far roteare con maestria i suoi pilastri di cemento.",
+            "white-2": "Non si affida solo ai muscoli, ma sfrutta la forza centrifuga per far roteare con maestria i suoi pilastri di cemento.",
+            "x": "Si pensa che la tecnica per fare il cemento sia stata diffusa proprio da Conkeldurr, 2000 anni fa.",
+            "y": "Non si affida solo ai muscoli, ma sfrutta la forza centrifuga per far roteare con maestria i suoi pilastri di cemento.",
+            "omega-ruby": "Si pensa che la tecnica per fare il cemento sia stata diffusa proprio da Conkeldurr, 2000 anni fa.",
+            "alpha-sapphire": "Non si affida solo ai muscoli, ma sfrutta la forza centrifuga per far roteare con maestria i suoi pilastri di cemento.",
+            "sword": "Il cemento preparato da Conkeldurr è molto più duro e resistente della media, anche se la sua composizione non ha nulla di diverso.",
+            "shield": "Quando decide di fare sul serio, si sbarazza dei pilastri di cemento e si lancia sul nemico armato solo dei suoi pugni."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 5,
+    "height": {
+        "conkeldurr": "1,4 m"
+    },
+    "id": 534,
+    "name": "Conkeldurr",
+    "name_origin": "Il nome di Conkeldurr può essere nato dall'unione delle parole inglesi concrete  e elder . Altre possibili origine sono la parola conk  e burly . ",
+    "origin": "A prima vista, il brutale aspetto umanoide di Conkeldurr sembra trarre ispirazione dagli orchi del folklore. Inoltre, la voce Pokédex della sua pre-evoluzione Timburr sostiene che questa linea evolutiva sia costituita da Pokémon che rappresentano lavoratori edili. Il suo naso rosso e alcune caratteristiche dell'aspetto fisico fanno pensare anche che possa essere ispirato a una sorta di clown. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Forzaimmane",
+    "sprites": {
+        "conkeldurr": {
+            "default": "https://media.pokemoncentral.it/wiki/9/90/Homem0534.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0c/Homemsh0534.png"
+        }
+    },
+    "stats": {
+        "conkeldurr": {
+            "hp": 105,
+            "atk": 140,
+            "def": 95,
+            "spa": 55,
+            "spd": 65,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "conkeldurr": 505
+    },
+    "types": {
+        "conkeldurr": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "conkeldurr": "87,0 kg"
+    }
+}

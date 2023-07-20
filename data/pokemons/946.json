@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "bramblin": {
+            "primary": "Vento Propizio",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Erba",
+        "Pokémon di tipo Spettro",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Erba",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 275"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bramblin.mp3",
+    "dex_entries": {
+        "bramblin": {
+            "scarlet": "Un'anima incapace di passare all'altro mondo, che trasportata via dal vento è rimasta impigliata in un arbusto secco, diventando un Pokémon.",
+            "violet": "Spinto dal vento, rotola per distese brulle senza sapere dove andrà a finire. Detesta bagnarsi."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 9,
+    "height": {
+        "bramblin": "0,6 m"
+    },
+    "id": 946,
+    "name": "Bramblin",
+    "name_origin": "Bramblin potrebbe essere una combinazione di bramble  e ramblin' . ",
+    "origin": "Bramblin è basato sui così detti rotolacampo, dei cespugli secchi tondeggianti che nei deserti rotolano in giro spinti dal vento. ",
+    "shape": "None",
+    "specie": "Pokémon Rotolerba",
+    "sprites": {
+        "bramblin": {
+            "default": "https://media.pokemoncentral.it/wiki/c/ce/Homem0946.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0946.png"
+        }
+    },
+    "stats": {
+        "bramblin": {
+            "hp": 40,
+            "atk": 65,
+            "def": 30,
+            "spa": 45,
+            "spd": 35,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "bramblin": 275
+    },
+    "types": {
+        "bramblin": [
+            "Erba",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "bramblin": "0,6 kg"
+    }
+}

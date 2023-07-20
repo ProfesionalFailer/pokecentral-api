@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "cinccino": {
+            "primary": "Incantevole",
+            "secondary": "Tecnico",
+            "hidden": "Abillegame"
+        }
+    },
+    "curiosities": [
+        "A causa di un errore, Cinccino non può imparare Furto tramite MT in Pokémon Nero e Bianco, al contrario della sua pre-evoluzione, Minccino. Questo problema è stato risolto in Pokémon Nero 2 e Bianco 2."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cinccino.mp3",
+    "dex_entries": {
+        "cinccino": {
+            "black": "Poiché la bianca pelliccia è coperta da una patina di grasso speciale, i colpi dei nemici vengono deviati.",
+            "white": "La sua pelliccia bianca è morbidissima al tatto. Non accumula né polvere né elettricità statica.",
+            "black-2": "Il suo corpo è ricoperto di un grasso speciale sul quale scivolano via i colpi e i pugni dell'avversario.",
+            "white-2": "Il suo corpo è ricoperto di un grasso speciale sul quale scivolano via i colpi e i pugni dell'avversario.",
+            "x": "La sua pelliccia bianca è morbidissima al tatto. Non accumula né polvere né elettricità statica",
+            "y": "Il suo corpo è ricoperto di un grasso speciale sul quale scivolano via i colpi e i pugni dell'avversario.",
+            "omega-ruby": "La sua pelliccia bianca è morbidissima al tatto. Non accumula né polvere né elettricità statica",
+            "alpha-sapphire": "Il suo corpo è ricoperto di un grasso speciale sul quale scivolano via i colpi e i pugni dell'avversario.",
+            "ultra-sun": "Schiva con facilità i colpi dei nemici, che scivolano sulla pelliccia bianca rivestita dal grasso speciale prodotto dal suo corpo.",
+            "ultra-moon": "Il grasso particolarmente oleoso prodotto dal suo corpo è molto efficace contro le irritazioni cutanee.",
+            "sword": "È un maniaco della pulizia e non sopporta la vista neanche di un granello di polvere. Riveste la tana del grasso che trasuda dal suo corpo.",
+            "shield": "Il grasso speciale che ricopre la sua pelliccia può deviare gli attacchi ed è venduto a caro prezzo sul mercato."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "cinccino": "0,5 m"
+    },
+    "id": 573,
+    "name": "Cinccino",
+    "name_origin": "Cinccino deriva dall'italiano cincillà e dall'inglese chino cloth . ",
+    "origin": "Cinccino è basato su un cincillà, sebbene per alcuni aspetti ricordi anche i koala, mentre il pelo che gli scende attorno al collo e come coda è basato su uno scialle, una sciarpa, o un boa di piume. Potrebbe essere una critica contro la caccia dei cincillà per ottenere la loro pelliccia. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Sciarpa",
+    "sprites": {
+        "cinccino": {
+            "default": "https://media.pokemoncentral.it/wiki/1/13/Homem0573.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4f/Homemsh0573.png"
+        }
+    },
+    "stats": {
+        "cinccino": {
+            "hp": 75,
+            "atk": 95,
+            "def": 60,
+            "spa": 65,
+            "spd": 60,
+            "spe": 115
+        }
+    },
+    "stats_sum": {
+        "cinccino": 470
+    },
+    "types": {
+        "cinccino": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "cinccino": "7,5 kg"
+    }
+}

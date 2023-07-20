@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "granbull": {
+            "primary": "Prepotenza",
+            "secondary": "Piedisvelti",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Granbull e la sua pre-evoluzione condividono la stessa categoria di Clefairy e Clefable. Sono tutti noti come Pokémon Fata.",
+        "Granbull è il primo Pokémon ad evolversi su schermo nella serie Pokémon Mystery Dungeon.",
+        "Granbull ha, alla pari con Grimmsnarl, l'Attacco più alto di tutti i Pokémon non leggendari di tipo Folletto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/granbull.mp3",
+    "dex_entries": {
+        "granbull": {
+            "gold": "È timido e facile da spaventare. Se è attaccato, inizia ad agitarsi per tenere lontano il nemico.",
+            "silver": "Sta sempre con il capo piegato in avanti, perché ha i denti troppo pesanti. Il suo MORSO è potente.",
+            "crystal": "Se spalanca la bocca mostrando i grandi denti, quasi tutti i POKéMON fuggono spaventati.",
+            "ruby": "GRANBULL è dotato di una mascella inferiore particolarmente sviluppata. A causa delle enormi e pesanti zanne deve inclinare la testa per mantenersi in equilibrio. Se non è spaventato, non morde in modo inconsulto.",
+            "sapphire": "GRANBULL è dotato di una mascella inferiore particolarmente sviluppata. A causa delle enormi e pesanti zanne deve inclinare la testa per mantenersi in equilibrio. Se non è spaventato, non morde in modo inconsulto.",
+            "emerald": "GRANBULL è dotato di una mascella inferiore molto sviluppata. A causa delle enormi zanne, inclina la testa per stare in equilibrio. Morde solo se viene spaventato.",
+            "firered": "Sta sempre con il capo piegato in avanti perché ha zanne troppo pesanti. Il suo MORSO è potente.",
+            "leafgreen": "È timido e facile da spaventare. Se è attaccato, inizia ad agitarsi per tenere lontano il nemico.",
+            "diamond": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "pearl": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "platinum": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "heartgold": "Timido e facile da spaventare, se attaccato inizia ad agitarsi per tenere lontano il nemico.",
+            "soulsilver": "Sta sempre con il capo piegato in avanti, perché ha le zanne troppo pesanti. Il suo morso è potente.",
+            "black": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "white": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "black-2": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "white-2": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "x": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "y": "Se spalanca la bocca mostrando i grandi denti, quasi tutti i Pokémon fuggono spaventati.",
+            "omega-ruby": "Granbull è dotato di una mascella inferiore particolarmente sviluppata. A causa delle enormi e pesanti zanne deve inclinare la testa per mantenersi in equilibrio. Se non è spaventato, non morde in modo inconsulto.",
+            "alpha-sapphire": "Granbull è dotato di una mascella inferiore particolarmente sviluppata. A causa delle enormi e pesanti zanne deve inclinare la testa per mantenersi in equilibrio. Se non è spaventato, non morde in modo inconsulto.",
+            "sun": "Attacca i nemici con la grossa mascella inferiore, dotata di zanne massicce. Morde solo quando è arrabbiato.",
+            "moon": "È persino più timido di Snubbull. I giovani lo trovano irresistibile proprio per lo scarto tra il suo aspetto minaccioso e il suo carattere.",
+            "ultra-sun": "Ha una mascella molto potente, ma non ama battersi, perciò non ha molte occasioni di dare prova della sua forza.",
+            "ultra-moon": "Piace moltissimo ai giovani. Di indole timida e delicata, non è adatto a fare la guardia."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Magico"
+    ],
+    "generation": 2,
+    "height": {
+        "granbull": "1,4 m"
+    },
+    "id": 210,
+    "name": "Granbull",
+    "name_origin": "Il suo nome deriva dall'unione della parola inglese grand  con la parola bulldog. ",
+    "origin": "Basato su un bulldog. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Fata",
+    "sprites": {
+        "granbull": {
+            "default": "https://media.pokemoncentral.it/wiki/0/04/Homem0210.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homemsh0210.png"
+        }
+    },
+    "stats": {
+        "granbull": {
+            "hp": 90,
+            "atk": 120,
+            "def": 75,
+            "spa": 60,
+            "spd": 60,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "granbull": 450
+    },
+    "types": {
+        "granbull": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "granbull": "48,7 kg"
+    }
+}

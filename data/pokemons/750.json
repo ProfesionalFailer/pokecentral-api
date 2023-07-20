@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "mudsdale": {
+            "primary": "Mente Locale",
+            "secondary": "Sopportazione",
+            "hidden": "Forza Interiore"
+        }
+    },
+    "curiosities": [
+        "Con i suoi 920,0 kg, Mudsdale è il sesto Pokémon più pesante di tutti, venendo dopo MegaMetagross , Groudon  e la sua forma archeorisvegliata , Celesteela  e Cosmoem .\n\tÈ comunque il Pokémon non megaevoluto e non leggendario più pesante.",
+        "È comunque il Pokémon non megaevoluto e non leggendario più pesante."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mudsdale.mp3",
+    "dex_entries": {
+        "mudsdale": {
+            "sun": "Una volta essiccato, il fango che produce dalla bocca resiste alla pioggia e al vento, tanto che un tempo vi si rivestivano i muri delle case.",
+            "moon": "È particolarmente bravo a sferrare calci con le zampe infangate, così potenti da ridurre in un ammasso di ferraglia persino un grosso camion.",
+            "ultra-sun": "Rimane calmo e imperturbabile in qualsiasi circostanza. Produce un fango speciale mescolando nella sua bocca terra e saliva.",
+            "ultra-moon": "È in grado di percorrere strade di montagna per tre giorni e tre notti senza fermarsi trainando dei carichi di ben 10 tonnellate.",
+            "sword": "Il fango secco che ricopre le sue zampe è più duro della pietra. È così forte da fare a pezzi un camion con un calcio solo.",
+            "shield": "È così resistente da poter attraversare l'intera regione di Galar trainando carichi di oltre 10 tonnellate senza mai riposarsi.",
+            "scarlet": "È molto apprezzato sia per i lavori di fatica, sia per il fango che produce, così sopraffino da essere impiegato per realizzare vasellame.",
+            "violet": "Le sue zampe, rinforzate con il fango, sono più dure della roccia. Gli basta un solo calcio per ridurre in rottami un grosso camion."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 7,
+    "height": {
+        "mudsdale": "2,5 m"
+    },
+    "id": 750,
+    "name": "Mudsdale",
+    "name_origin": "Il suo nome deriva da mud, fango, e da Clydesdale, una razza del cavallo. Banbandoro potrebbe essere una combinazione di 輓馬 banba, cavallo da tiro, e 泥 doro, fango. ",
+    "origin": "Mudsdale è basato su un cavallo, in particolare alla razza Clydesdale, noto per le frange che ha nelle zampe. Potrebbe anche essere basato sul celebre Cavallo di Troia o sui cavalli dell'altrettanto noto esercito di terracotta. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Fortequino",
+    "sprites": {
+        "mudsdale": {
+            "default": "https://media.pokemoncentral.it/wiki/2/23/Homem0750.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homemsh0750.png"
+        }
+    },
+    "stats": {
+        "mudsdale": {
+            "hp": 100,
+            "atk": 125,
+            "def": 100,
+            "spa": 55,
+            "spd": 85,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "mudsdale": 500
+    },
+    "types": {
+        "mudsdale": [
+            "Terra"
+        ]
+    },
+    "weight": {
+        "mudsdale": "920,0 kg"
+    }
+}

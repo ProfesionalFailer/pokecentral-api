@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Aiutofuoco",
+            "hidden": "Libero"
+        }
+    },
+    "curiosities": [
+        "Cinderace e la sua linea evolutiva sono gli unici Pokémon di tipo Fuoco puro introdotti in ottava generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cinderace.mp3",
+    "dex_entries": {
+        "cinderace": {
+            "sword": "Crea un pallone da calcio infuocato palleggiando con un sasso e poi tira una cannonata contro il nemico per abbrustolirlo.",
+            "shield": "Eccelle in attacco e in difesa. Se sente il tifo, a volte si fa prendere dall'entusiasmo e inizia a dare spettacolo, finendo per trovarsi in difficoltà."
+        },
+        "cinderace-gigamax": {
+            "sword": "La gigantesca palla infuocata, infusa dell'ardente spirito combattivo di Cinderace, incenerisce l'avversario senza lasciargli scampo.",
+            "shield": "Grazie al potere del Gigamax, la sua palla infuocata può superare i 100 m di diametro."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Umanoide"
+    ],
+    "generation": 8,
+    "height": {
+        "cinderace": "1,4 m",
+        "cinderace-gigamax": "> 27,0 m"
+    },
+    "id": 815,
+    "name": "Cinderace",
+    "name_origin": "Cinderace potrebbe essere una combinazione delle parole cinder, cenere, e ace, campione. Potrebbe derivare anche da race, competizione. Aceburn potrebbe essere una combinazione delle parole ace, campione, e bunny, coniglio. ",
+    "origin": "Cinderace potrebbe essere basato su un coniglio con alcuni elementi condivisi con i giocatori di calcio. Secondo la sua abilità speciale Libero, potrebbe essere basato su un giocatore di calcio che copre l'omonimo ruolo. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Cannoniere",
+    "sprites": {
+        "cinderace": {
+            "default": "https://media.pokemoncentral.it/wiki/3/37/Homem0815.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0815.png"
+        },
+        "cinderace-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d6/Homem0815Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0815Gi.png"
+        }
+    },
+    "stats": {
+        "cinderace": {
+            "hp": 80,
+            "atk": 116,
+            "def": 75,
+            "spa": 65,
+            "spd": 75,
+            "spe": 119
+        }
+    },
+    "stats_sum": {
+        "cinderace": 530
+    },
+    "types": {
+        "cinderace": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "cinderace": "33,0 kg",
+        "cinderace-gigamax": "???,? kg"
+    }
+}

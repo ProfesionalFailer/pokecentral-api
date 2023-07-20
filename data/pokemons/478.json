@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "froslass": {
+            "primary": "Mantelneve",
+            "hidden": "Corpofunesto"
+        }
+    },
+    "curiosities": [
+        "Froslass ha una combinazione di tipi unica.",
+        "Nonostante Froslass fluttui per aria, non può avere l'abilità Levitazione.",
+        "A causa della censura dei soprannomi attuata in Pokémon Nero e Bianco, un Froslass proveniente dalle versioni inglesi non poteva essere scambiato nel Global Trade System senza un soprannome adeguato in questi giochi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/froslass.mp3",
+    "dex_entries": {
+        "froslass": {
+            "diamond": "Congela i nemici con un alito glaciale a -50°C. Il suo corpo è vuoto.",
+            "pearl": "Congela i nemici con un alito glaciale a -50°C. Il suo corpo è vuoto.",
+            "platinum": "Congela le prede con un alito glaciale a -50 °C. Si dice che poi le metta segretamente in mostra.",
+            "heartgold": "Qua e là corre ancora voce che FROSLASS fosse in origine una donna dispersa in montagna tra la neve.",
+            "soulsilver": "Qua e là corre ancora voce che FROSLASS fosse in origine una donna dispersa in montagna tra la neve.",
+            "black": "Congela le prede con un alito glaciale a -50°C. Si dice che poi le metta segretamente in mostra.",
+            "white": "Congela le prede con un alito glaciale a -50°C. Si dice che poi le metta segretamente in mostra.",
+            "black-2": "Congela le prede con un alito glaciale a -50°C. Si dice che poi le metta segretamente in mostra.",
+            "white-2": "Congela le prede con un alito glaciale a -50°C. Si dice che poi le metta segretamente in mostra.",
+            "x": "Congela i nemici con un alito glaciale a -50 °C. Il suo corpo è vuoto.",
+            "y": "Qua e là corre ancora voce che Froslass fosse in origine una donna dispersa in montagna tra la neve.",
+            "omega-ruby": "Congela i nemici con un alito glaciale a -50 °C. Il suo corpo è vuoto.",
+            "alpha-sapphire": "Qua e là corre ancora voce che Froslass fosse in origine una donna dispersa in montagna tra la neve.",
+            "sun": "Congela con il suo alito glaciale gli esseri umani e i Pokémon che gli piacciono e li usa per decorare la sua tana.",
+            "moon": "È una stalattite di ghiaccio animata dallo spirito di una donna dispersa tra le montagne. Si nutre dell'energia vitale degli uomini.",
+            "ultra-sun": "Congela i Montanari che si avventurano su per le montagne innevate e li porta nella sua tana, ma solo se li trova particolarmente attraenti.",
+            "ultra-moon": "Si dice che appaia nei centri abitati nelle notti in cui imperversano bufere di neve. Se bussa alla porta, non bisogna aprire per nessun motivo.",
+            "sword": "Pokémon nato dal rammarico di una donna scomparsa tra le montagne innevate. Si nutre di spiriti congelati.",
+            "shield": "Congela le prede con un alito glaciale a -50 ºC, poi le porta nella sua tana e le allinea con cura.",
+            "brilliant-diamond": "Congela i nemici con un alito glaciale a -50 ºC. La parte del corpo che sembra il suo torso in realtà è vuota.",
+            "shining-pearl": "Congela i nemici con un alito glaciale a -50 ºC. La parte del corpo che sembra il suo torso in realtà è vuota.",
+            "legends-arceus": "Questo Pokémon ospita lo spirito rancoroso di una donna svanita fra le vette innevate. Si narra maledica a morte gli uomini empi, e mi si gela il sangue al sol pensiero.",
+            "scarlet": "Con il suo alito glaciale congela gli esseri umani e i Pokémon che gli piacciono e li usa per decorare la sua tana.",
+            "violet": "Congela le prede con un alito glaciale a -50 ºC. Si dice che poi le metta in mostra in un luogo segreto."
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Minerale"
+    ],
+    "generation": 4,
+    "height": {
+        "froslass": "1,3 m"
+    },
+    "id": 478,
+    "name": "Froslass",
+    "name_origin": "Froslass deriva probabilmente dall'unione delle parole inglesi \"Frost\"  e \"Lass\" . ",
+    "origin": "Froslass è basata su una Yuki-onna, uno spirito del ghiaccio delle leggende giapponesi. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Suolnevoso",
+    "sprites": {
+        "froslass": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4f/Homef0478.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homefsh0478.png"
+        }
+    },
+    "stats": {
+        "froslass": {
+            "hp": 70,
+            "atk": 80,
+            "def": 70,
+            "spa": 80,
+            "spd": 70,
+            "spe": 110
+        }
+    },
+    "stats_sum": {
+        "froslass": 480
+    },
+    "types": {
+        "froslass": [
+            "Spettro",
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "froslass": "26,6 kg"
+    }
+}

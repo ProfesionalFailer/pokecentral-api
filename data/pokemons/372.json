@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "shelgon": {
+            "primary": "Testadura",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Nonostante non abbia denti visibili, Shelgon può imparare Morso, Sgranocchio e Rogodenti.",
+        "Shelgon e la sua evoluzione sono gli unici Pokémon di tipo Drago che possono imparare Rotolamento ma solo fino alla quarta generazione.",
+        "Shelgon ha la difesa più alta tra i Pokémon di tipo Drago non leggendari.",
+        "Negli sprite di terza e quarta generazione le zampe di Shelgon sono grigie, mentre nell'artwork ufficiale sono nere. Dalla quinta generazione, anche nei giochi Shelgon ha le zampe del colore giusto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/shelgon.mp3",
+    "dex_entries": {
+        "shelgon": {
+            "ruby": "All'interno della conchiglia-armatura di SHELGON, le cellule sono in continua trasformazione per creare un corpo completamente nuovo. La conchiglia pesantissima rende difficili i movimenti.",
+            "sapphire": "Il corpo di SHELGON è ricoperto da escrescenze simili ad ossa. La conchiglia è così dura da proteggere completamente dagli attacchi nemici. Si rintana nelle grotte in attesa dell'evoluzione.",
+            "emerald": "Quando è prossimo all'evoluzione, SHELGON non mangia quasi nulla e in questo modo si irrobustisce. Quando si evolve, la sua conchiglia comincia a staccarsi.",
+            "firered": "La sua corazza è capace di respingere qualsiasi attacco, ma lo appesantisce, rendendolo piuttosto pigro.",
+            "leafgreen": "La sua corazza è capace di respingere qualsiasi attacco, ma lo appesantisce, rendendolo piuttosto pigro.",
+            "diamond": "Nella sua dura corazza le cellule hanno cominciato a cambiare. Quando si evolve, la corazza cade.",
+            "pearl": "Nella sua dura corazza le cellule hanno cominciato a cambiare. Quando si evolve, la corazza cade.",
+            "platinum": "Nella sua dura corazza le cellule hanno cominciato a cambiare. Quando si evolve, la corazza cade.",
+            "heartgold": "Conserva le energie per la grande evoluzione del corpo, contenuto in una corazza dura come il ferro.",
+            "soulsilver": "Conserva le energie per la grande evoluzione del corpo, contenuto in una corazza dura come il ferro.",
+            "black": "Nella sua dura corazza le cellule hanno cominciato a cambiare. Quando si evolve, la corazza cade.",
+            "white": "Nella sua dura corazza le cellule hanno cominciato a cambiare. Quando si evolve, la corazza cade.",
+            "black-2": "Nella sua dura corazza le cellule hanno cominciato a cambiare. Quando si evolve, la corazza cade.",
+            "white-2": "Nella sua dura corazza le cellule hanno cominciato a cambiare. Quando si evolve, la corazza cade.",
+            "x": "Nella sua dura corazza le cellule hanno cominciato a cambiare. Quando si evolve, la corazza cade.",
+            "y": "La sua corazza è capace di respingere qualsiasi attacco, ma lo appesantisce, rendendolo piuttosto pigro.",
+            "omega-ruby": "All'interno della corazza-armatura di Shelgon, le cellule sono in continua trasformazione per creare un corpo completamente nuovo. La corazza pesantissima rende difficili i movimenti.",
+            "alpha-sapphire": "Il corpo di Shelgon è ricoperto da escrescenze simili ad ossa. La conchiglia è così dura da proteggere completamente dagli attacchi nemici. Si rintana nelle grotte in attesa dell'evoluzione.",
+            "sun": "Le cellule all'interno della sua corazza mutano a velocità vertiginosa in vista dell'evoluzione.",
+            "moon": "Si rintana nelle grotte senza bere né mangiare nulla. Gli studiosi non hano ancora capito come faccia a sopravvivere.",
+            "ultra-sun": "Le cellule all’interno della dura corazza, composta da materiale osseo, mutano a una velocità vertiginosa.",
+            "ultra-moon": "Vive nelle profondità delle grotte. Resta chiuso nella dura corazza sognando il giorno in cui sarà in grado di volare.",
+            "sword": "Il suo corpo è protetto da una dura corazza composta di materiale osseo. Accumula energia per poi evolversi.",
+            "shield": "Resta a digiuno, sopportando la fame. Sembra che l'evoluzione si inneschi quando esaurisce l'energia accumulata.",
+            "brilliant-diamond": "Le cellule all'interno della sua dura corazza sono in fase di mutamento. Nell'istante in cui si evolve, la corazza si stacca e cade.",
+            "shining-pearl": "Le cellule all'interno della sua dura corazza sono in fase di mutamento. Nell'istante in cui si evolve, la corazza si stacca e cade.",
+            "scarlet": "Le cellule all’interno della sua corazza mutano a velocità vertiginosa in vista dell’evoluzione.",
+            "violet": "La sua corazza è capace di respingere qualsiasi attacco ma lo appesantisce, rallentandone un po’ i movimenti."
+        }
+    },
+    "egg_groups": [
+        "Drago"
+    ],
+    "generation": 3,
+    "height": {
+        "shelgon": "1,10 m"
+    },
+    "id": 372,
+    "name": "Shelgon",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi shell  e dragon . ",
+    "origin": "L'aspetto di Shelgon ricorda quello di un drago e di una crisalide. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Resistenza",
+    "sprites": {
+        "shelgon": {
+            "default": "https://media.pokemoncentral.it/wiki/6/64/Homem0372.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9e/Homemsh0372.png"
+        }
+    },
+    "stats": {
+        "shelgon": {
+            "hp": 65,
+            "atk": 95,
+            "def": 100,
+            "spa": 60,
+            "spd": 50,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "shelgon": 420
+    },
+    "types": {
+        "shelgon": [
+            "Drago"
+        ]
+    },
+    "weight": {
+        "shelgon": "110,5 kg"
+    }
+}

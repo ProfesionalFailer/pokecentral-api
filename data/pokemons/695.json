@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "heliolisk": {
+            "primary": "Pellearsa",
+            "secondary": "Sabbiavelo",
+            "hidden": "Solarpotere"
+        }
+    },
+    "curiosities": [
+        "È l'unico Pokémon insieme alla sua pre-evoluzione ad avere la combinazione di tipi Elettro/Normale.",
+        "Heliolisk è l'unico Pokémon con un totale di statistiche base pari a 481.",
+        "È l'unico Pokémon che non è di tipo Erba ad evolversi con una Pietrasolare.",
+        "É uno dei Pokémon a cui Lem tiene di più. Nell’anime viene mostrato il momento in cui si evolve."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/heliolisk.mp3",
+    "dex_entries": {
+        "heliolisk": {
+            "x": "Può produrre energia elettrica aprendo il collare. Un solo Pokémon di questa specie sarebbe in grado di illuminare un intero grattacielo.",
+            "y": "Stimolando i suoi muscoli con l'elettricità riesce a percorrere 100 m in 5 secondi.",
+            "omega-ruby": "Può produrre energia elettrica aprendo il collare. Un solo Pokémon di questa specie sarebbe in grado di illuminare un intero grattacielo.",
+            "alpha-sapphire": "Stimolando i suoi muscoli con l'elettricità riesce a percorrere 100 m in 5 secondi.",
+            "sword": "Un tempo era tenuto in grande considerazione in un paese desertico ormai scomparso. È giunto a Galar in casse contenenti tesori.",
+            "shield": "L'energia prodotta da un Heliolisk quando apre il suo collare in un luogo soleggiato è sufficiente a soddisfare il fabbisogno di una metropoli."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "generation": 6,
+    "height": {
+        "heliolisk": "1,0 m"
+    },
+    "id": 695,
+    "name": "Heliolisk",
+    "name_origin": "Heliolisk deriva dall'unione della parola greca Ήλιος hēlios  con la parola inglese basilisk . Elezard è una combinazione tra elekiter, エリマキトカゲ erimaki tokage  e lézard . ",
+    "origin": "È ispirato ad un Clamidosauro: come questo animale, anche Heliolisk si serve di un \"clamide\" che può aprire attorno al proprio collare. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Generatore",
+    "sprites": {
+        "heliolisk": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3c/Homem0695.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f5/Homemsh0695.png"
+        }
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 62,
+            "atk": 55,
+            "def": 52,
+            "spa": 109,
+            "spd": 94,
+            "spe": 109
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 481
+    },
+    "types": {
+        "heliolisk": [
+            "Elettro",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "heliolisk": "21,0 kg"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "luxio": {
+            "primary": "Antagonismo",
+            "secondary": "Prepotenza",
+            "hidden": "Dentistretti"
+        }
+    },
+    "curiosities": [
+        "La posizione di Luxio nello sprite di Platino ricorda molto la Sfinge di Giza, in Egitto.",
+        "Luxio ha lo stesso nome in tutte le lingue. Questo è dovuto al fatto che il nome deriva dal latino e non dalle lingue in cui è tradotto.",
+        "Luxio è l'unico Pokémon con le statistiche base totali pari a 363."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/luxio.mp3",
+    "dex_entries": {
+        "luxio": {
+            "diamond": "Dagli artigli rilascia un'elettricità talmente intensa da mandare KO il nemico. Vive in piccoli gruppi.",
+            "pearl": "Comunica mediante gli impulsi elettrici ritmici emessi dagli artigli anteriori, che posa sui suoi simili.",
+            "platinum": "I suoi artigli rilasciano una forte corrente elettrica e con un solo graffio manda KO i nemici.",
+            "heartgold": "Se due LUXIO collegano le code, riescono ad emettere dagli artigli una vigorosa scarica elettrica.",
+            "soulsilver": "Se due LUXIO collegano le code, riescono ad emettere dagli artigli una vigorosa scarica elettrica.",
+            "black": "I suoi artigli rilasciano una forte corrente elettrica e con un solo graffio manda KO i nemici.",
+            "white": "I suoi artigli rilasciano una forte corrente elettrica e con un solo graffio manda KO i nemici.",
+            "black-2": "I suoi artigli rilasciano una forte corrente elettrica e con un solo graffio manda KO i nemici.",
+            "white-2": "I suoi artigli rilasciano una forte corrente elettrica e con un solo graffio manda KO i nemici.",
+            "x": "Dagli artigli rilascia un'elettricità talmente intensa da mandare KO il nemico. Vive in piccoli gruppi.",
+            "y": "I suoi artigli rilasciano una forte corrente elettrica e con un solo graffio manda KO i nemici.",
+            "omega-ruby": "Dagli artigli rilascia un'elettricità talmente intensa da mandare KO il nemico. Vive in piccoli gruppi.",
+            "alpha-sapphire": "I suoi artigli rilasciano una forte corrente elettrica e con un solo graffio manda KO i nemici.",
+            "sword": "Se collega la coda con quella dei suoi simili per ricevere energia elettrica, può emettere scariche elettriche ancora più potenti.",
+            "shield": "Se incontra un nemico, si prepara alla lotta estraendo gli artigli dotati di una potenza pari a 1 milione di volt.",
+            "brilliant-diamond": "Rilascia dagli artigli una corrente elettrica talmente intensa da mandare a KO il nemico in un solo colpo. Vive in piccoli branchi.",
+            "shining-pearl": "Tocca il corpo dei suoi simili per comunicare con loro mediante gli impulsi elettrici ritmici emessi dagli artigli anteriori.",
+            "legends-arceus": "Gli artigli elettrificati sono la sua fiera arma. Di cuore prodigo, condivide equamente con i suoi simili i frutti della caccia.",
+            "scarlet": "Dalla punta degli artigli affilati rilascia una corrente elettrica così intensa che gli basta sfiorare i nemici per metterli KO.",
+            "violet": "Se due Luxio collegano le code, riescono a emettere dagli artigli una scarica elettrica ancora più vigorosa."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 4,
+    "height": {
+        "luxio": "0,9 m"
+    },
+    "id": 404,
+    "name": "Luxio",
+    "name_origin": "Luxio è il risultato dell'unione della parole latine lux  e leo , oppure dell'inglese lion . \"Lux-\" potrebbe derivare anche da Luxor dove è situato il complesso templare di Karnak, che presenta molte sfingi. ",
+    "origin": "Luxio è basato su un giovane leone. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Favilla",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b0/Homem0404.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fb/Homemsh0404.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2d/Homef0404.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homefsh0404.png"
+        }
+    },
+    "stats": {
+        "luxio": {
+            "hp": 60,
+            "atk": 85,
+            "def": 49,
+            "spa": 60,
+            "spd": 49,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "luxio": 363
+    },
+    "types": {
+        "luxio": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "luxio": "30,5 kg"
+    }
+}

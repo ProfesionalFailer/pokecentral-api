@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "rockruff": {
+            "primary": "Sguardofermo",
+            "secondary": "Spiritovivo",
+            "hidden": "Cuordeciso",
+            "event": "Mente Locale"
+        }
+    },
+    "curiosities": [
+        "Rockruff condivide la sua categoria con Growlithe, Lillipup, Yamper e Fidough: infatti sono tutti e cinque noti come Pokémon Cagnolino.",
+        "Rockruff ha la somma di statistiche base più bassa fra tutti i Pokémon di tipo Roccia. L'altro Pokémon ad avere questa caratteristica è Roggenrola.",
+        "Rockruff è l'unico tipo Roccia che non impara Terrempesta."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/rockruff.mp3",
+    "dex_entries": {
+        "rockruff": {
+            "sun": "È ritenuto un Pokémon ideale per Allenatori alle prime armi perché si affeziona facilmente. Crescendo, però, tende a diventare aggressivo.",
+            "moon": "Questo Pokémon vive insieme agli esseri umani da tempo immemore. Se il suo Allenatore è triste, resta al suo fianco per sostenerlo.",
+            "ultra-sun": "Più cresce e più diventa impetuoso e aggressivo. Non sono pochi gli Allenatori che se ne liberano quando non sono più in grado di gestirlo.",
+            "ultra-moon": "Sfrega le appuntite pietre del suo collo addosso agli altri. È un segno di affetto abbastanza doloroso!",
+            "sword": "Si affeziona facilmente, ma ha tendenza a mordere il suo Allenatore. Chi ne vuole allenare uno avrà di certo un bel daffare.",
+            "shield": "Intimorisce l'avversario battendo a terra le rocce che ha sul collo e non appena lo vede esitare si lancia all'attacco.",
+            "scarlet": "I cuccioli di Rockruff si affezionano subito. Crescendo diventano più feroci, ma provano per sempre gratitudine verso chi li ha allenati.",
+            "violet": "I Rockruff rimangono nel branco fin quando non diventano adulti. Quando sono di cattivo umore, battono a terra le rocce che hanno sul collo."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 7,
+    "height": {
+        "rockruff": "0,5 m"
+    },
+    "id": 744,
+    "name": "Rockruff",
+    "name_origin": "Rockruff deriva da rock, roccia, da ruff, woof, l'onomatopea del verso di un cane, e da rough, duro. Iwanko potrebbe essere una combinazione di 岩 iwa, roccia, ワン wan, woof, l'onomatopea del verso del cane, わんこ wanko, cagnolino, e 子 ko, giovane animale. ",
+    "origin": "Rockruff è ispirato ad un cane, probabilmente ad uno spitz. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Cagnolino",
+    "sprites": {
+        "rockruff": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6c/Homem0744.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0b/Homemsh0744.png"
+        }
+    },
+    "stats": {
+        "rockruff": {
+            "hp": 45,
+            "atk": 65,
+            "def": 40,
+            "spa": 30,
+            "spd": 40,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "rockruff": 280
+    },
+    "types": {
+        "rockruff": [
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "rockruff": "9,2 kg"
+    }
+}

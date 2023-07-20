@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "lurantis": {
+            "primary": "Fogliamanto",
+            "hidden": "Inversione"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di settima generazione",
+        "Pokémon di tipo Erba",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Rosa",
+        "Pokémon dalla sagoma n. 12",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Erba",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 480"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lurantis.mp3",
+    "dex_entries": {
+        "lurantis": {
+            "sun": "Passano la maggior parte del tempo a curare i colori vivaci del loro corpo, tanto che per alcuni di essi è un piacevole hobby a tempo pieno.",
+            "moon": "Dai suoi petali a forma di falce sprigiona un raggio capace di tranciare in due una spranga di ferro.",
+            "ultra-sun": "Cerca di farsi passare per Pokémon Coleottero per proteggersi. I petali delle sue braccia sono estremamente affilati.",
+            "ultra-moon": "Trancia il nemico come se stesse danzando. Il suo aspetto elegante gli è valso la fama di essere il più affascinante Pokémon di tipo Erba.",
+            "sword": "Questo Pokémon assomiglia a un bel fiore. Gli esemplari migliori possiedono dei colori incredibilmente sgargianti.",
+            "shield": "I petali delle sue braccia sono sottili e affilati. Li usa per assorbire la luce ed emettere raggi energetici.",
+            "scarlet": "Sfrutta il suo dolce profumo floreale per attrarre i Pokémon Coleottero e li inganna fingendosi uno di loro. Dopodiché, li abbatte con le sue falci.",
+            "violet": "Per mantenere vividi i suoi colori servono molte cure. È un Pokémon che richiede una dedizione totale da parte del suo Allenatore."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 7,
+    "height": {
+        "lurantis": "0,9 m",
+        "dominante": "1,5 m"
+    },
+    "id": 754,
+    "name": "Lurantis",
+    "name_origin": "Lurantis è probabilmente una combinazione di lure, allure, fleur, fiore in francese, e di mantis, mantide. Rarantesu potrebbe essere una combinazione di 蘭 ran, orchidea, e una corruzione di mantis, mantide. ",
+    "origin": "Lurantis è probabilmente basato su una mantide orchidea. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Mantifiore",
+    "sprites": {
+        "lurantis": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0754.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0754.png"
+        }
+    },
+    "stats": {
+        "lurantis": {
+            "hp": 70,
+            "atk": 105,
+            "def": 90,
+            "spa": 80,
+            "spd": 90,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "lurantis": 480
+    },
+    "types": {
+        "lurantis": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "lurantis": "18,5 kg",
+        "dominante": "58,0 kg"
+    }
+}

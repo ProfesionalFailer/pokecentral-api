@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "mudbray": {
+            "primary": "Mente Locale",
+            "secondary": "Sopportazione",
+            "hidden": "Forza Interiore"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di settima generazione",
+        "Pokémon di tipo Terra",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Marrone",
+        "Pokémon dalla sagoma n. 08",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 385"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mudbray.mp3",
+    "dex_entries": {
+        "mudbray": {
+            "sun": "Il fango attaccato alle zampe gli dà un’aderenza tale da permettergli di lanciarsi in una potente corsa senza rischio di scivolare.",
+            "moon": "È testardo e fa tutto secondo il suo ritmo. Passa le giornate a giocare con il fango che crea mangiando terra.",
+            "ultra-sun": "Adora giocare nel fango. Se non si fa il suo bagno di fango quotidiano, accumula stress e non ascolta più le indicazioni del suo Allenatore.",
+            "ultra-moon": "È un Pokémon incredibilmente forte. Può trasportare pesi 50 volte superiori al suo come se niente fosse.",
+            "sword": "È così forte da riuscire a trasportare i carichi 50 volte più pesanti del proprio corpo. Eccelle nell'utilizzo del fango.",
+            "shield": "Ricoprendosi le zampe con il fango che produce masticando terra riesce a percorrere senza scivolare anche i sentieri più accidentati.",
+            "scarlet": "Il fango che ricopre il suo corpo è terra ruminata dal Pokémon stesso e non si secca mai, neppure se esposto al sole per molto tempo.",
+            "violet": "Cammina piano, ma ha molta forza. Riesce a trasportare carichi fino a cinquanta volte il suo peso senza rallentare."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 7,
+    "height": {
+        "mudbray": "1,0 m"
+    },
+    "id": 749,
+    "name": "Mudbray",
+    "name_origin": "Mudbray è probabilmente una combinazione di mud, fango, e di bray, raglio. Dorobanko potrebbe essere una combinazione di 泥 doro, fango, 驢馬 roba, asino, 輓馬 banba, cavallo da tiro, e 子 ko, giovane animale. ",
+    "origin": "Mudbray è basato su un asino, in particolare ad un mulo da soma. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Ciuconiglio",
+    "sprites": {
+        "mudbray": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem0749.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/87/Homemsh0749.png"
+        }
+    },
+    "stats": {
+        "mudbray": {
+            "hp": 70,
+            "atk": 100,
+            "def": 70,
+            "spa": 45,
+            "spd": 55,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "mudbray": 385
+    },
+    "types": {
+        "mudbray": [
+            "Terra"
+        ]
+    },
+    "weight": {
+        "mudbray": "110 kg"
+    }
+}

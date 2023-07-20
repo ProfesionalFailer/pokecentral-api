@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "tranquill": {
+            "primary": "Pettinfuori",
+            "secondary": "Supersorte",
+            "hidden": "Antagonismo"
+        }
+    },
+    "curiosities": [
+        "Tranquill è l'unico Pokémon con la somma di statistiche base pari a 358."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tranquill.mp3",
+    "dex_entries": {
+        "tranquill": {
+            "black": "Per quanto lontano si trovi, è sempre in grado di ritornare dal suo Allenatore.",
+            "white": "Si dice che nel cuore della foresta in cui vive Tranquill si trovi un paese che non conosce conflitti.",
+            "black-2": "Dovunque si trovi, è sempre in grado di ritrovare il suo nido. Allo stesso modo, non perde mai di vista il suo Allenatore.",
+            "white-2": "Dovunque si trovi, è sempre in grado di ritrovare il suo nido. Allo stesso modo, non perde mai di vista il suo Allenatore.",
+            "x": "Si dice che nel cuore della foresta in cui vive Tranquill si trovi un paese che non conosce conflitti.",
+            "y": "Dovunque si trovi, è sempre in grado di ritrovare il suo nido. Allo stesso modo, non perde mai di vista il suo Allenatore.",
+            "omega-ruby": "Si dice che nel cuore della foresta in cui vive Tranquill si trovi un paese che non conosce conflitti.",
+            "alpha-sapphire": "Dovunque si trovi, è sempre in grado di ritrovare il suo nido. Allo stesso modo, non perde mai di vista il suo Allenatore.",
+            "sword": "È abbastanza veloce nel volo. Per quanto lontano si spinga, riesce sempre a ritrovare il proprio nido e il proprio Allenatore.",
+            "shield": "Pokémon intelligente, dotato di una memoria di ferro. Sembra che molti fattorini lo scelgano come compagno."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 5,
+    "height": {
+        "tranquill": "0,6 m"
+    },
+    "id": 520,
+    "name": "Tranquill",
+    "name_origin": "Il nome deriva dall'inglese tranquil  e quill . Il nome giapponese Hatoboh potrebbe essere un'unione di 鳩 hato  e 逃亡 tōbō  o bō . Inoltre potrebbe derivare da イーハトーヴ Ihatov, un mondo immaginario utopico che appare in alcune opere di Kenji Miyazawa . ",
+    "origin": "Il comportamento di Tranquill potrebbe essere basato su una colomba  o su un piccione viaggiatore . Il suo aspetto ricorda un corridore della strada o un serpentario. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Granpiccione",
+    "sprites": {
+        "tranquill": {
+            "default": "https://media.pokemoncentral.it/wiki/0/01/Homem0520.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homemsh0520.png"
+        }
+    },
+    "stats": {
+        "tranquill": {
+            "hp": 62,
+            "atk": 77,
+            "def": 62,
+            "spa": 50,
+            "spd": 42,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "tranquill": 358
+    },
+    "types": {
+        "tranquill": [
+            "Normale",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "tranquill": "15,0 kg"
+    }
+}

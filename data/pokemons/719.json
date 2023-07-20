@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "diancie": {
+            "primary": "Corpochiaro"
+        },
+        "megadiancie": {
+            "primary": "Magispecchio"
+        }
+    },
+    "curiosities": [
+        "Diancie è stato svelato con largo anticipo dall'hacker Smealum, così come Hoopa, Volcanion e le megaevoluzioni di Latios e Latias.",
+        "Per errore il sito ufficiale Pokémon.com ha mostrato la forma cromatica di Diancie prima del rilascio ufficiale sui giochi. Tuttavia, tale immagine è stata prontamente rimossa.",
+        "È l'unico Pokémon introdotto in sesta generazione in grado di megaevolversi.",
+        "È l'unico Pokémon misterioso in grado di megaevolversi.",
+        "Diancie aveva, a pari merito con Deoxys, la più bassa statistica base di PS fra i Pokémon misteriosi prima di Pokémon: Let's Go, Pikachu! e Let's Go, Eevee!, quando il primato è passato a Meltan.",
+        "MegaDiancie è al secondo posto per il totale di statistiche base più alto tra i Pokémon misteriosi, superato solo da Arceus.\n\tMegaDiancie è anche al secondo posto per il totale di statistiche base più alto tra i Pokémon di tipo Folletto, superato da Zacian Re delle Spade.\n\tMegaDiancie primeggia, insieme a MegaTyranitar, per il totale di statistiche base più alto tra i Pokémon di tipo Roccia, escludendo Arceus mentre tiene la Lastrapietra.",
+        "MegaDiancie è anche al secondo posto per il totale di statistiche base più alto tra i Pokémon di tipo Folletto, superato da Zacian Re delle Spade.",
+        "MegaDiancie primeggia, insieme a MegaTyranitar, per il totale di statistiche base più alto tra i Pokémon di tipo Roccia, escludendo Arceus mentre tiene la Lastrapietra."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/diancie.mp3",
+    "dex_entries": {
+        "diancie": {
+            "x": "Questo Pokémon è una mutazione inaspettata di Carbink. Alcuni ritengono che il suo corpo rosa splendente sia la cosa più bella del mondo.",
+            "y": "È in grado di creare una grande quantità di diamanti in un istante comprimendo tra le mani il carbonio presente nell'aria.",
+            "omega-ruby": "Questo Pokémon è una mutazione inaspettata di Carbink. Alcuni ritengono che il suo corpo rosa splendente sia la cosa più bella del mondo.",
+            "alpha-sapphire": "È in grado di creare una grande quantità di diamanti in un istante comprimendo tra le mani il carbonio presente nell'aria."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 6,
+    "height": {
+        "diancie": "0,7 m",
+        "megadiancie": "1,1 m"
+    },
+    "id": 719,
+    "name": "Diancie",
+    "name_origin": "Diancie potrebbe essere la combinazione di Diamond , Fancy  e 石 Ishi . ",
+    "origin": "Diancie è basato su un Carbuncle, una creatura mitologica simile ad una fata che si dice abbia un gioiello incorporato sulla fronte. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Gemma",
+    "sprites": {
+        "diancie": {
+            "default": "https://media.pokemoncentral.it/wiki/1/12/Homem0719.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0719.png"
+        },
+        "megadiancie": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7c/Homem0719M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0719M.png"
+        }
+    },
+    "stats": {
+        "diancie": {
+            "hp": 50,
+            "atk": 100,
+            "def": 150,
+            "spa": 100,
+            "spd": 150,
+            "spe": 50
+        },
+        "megadiancie": {
+            "hp": 50,
+            "atk": 160,
+            "def": 110,
+            "spa": 160,
+            "spd": 110,
+            "spe": 110
+        }
+    },
+    "stats_sum": {
+        "diancie": 600,
+        "megadiancie": 700
+    },
+    "types": {
+        "diancie": [
+            "Folletto",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "diancie": "8,8 kg",
+        "megadiancie": "27,8 kg"
+    }
+}

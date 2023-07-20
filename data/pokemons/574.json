@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "gothita": {
+            "primary": "Indagine",
+            "secondary": "Tenacia",
+            "hidden": "Pedinombra"
+        }
+    },
+    "curiosities": [
+        "Gothita può essere visto come un parallelo di Solosis: sono entrambi Pokémon di tipo Psico di quinta generazione ed entrambi si evolvono al livello 32, per poi evolversi ancora al livello 41. Gothita è esclusivo di Nero, mentre Solosis di Bianco."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gothita.mp3",
+    "dex_entries": {
+        "gothita": {
+            "black": "Amplifica i poteri psichici con le antenne a forma di fiocchetti. Il suo sguardo è sempre fisso.",
+            "white": "Osserva con attenzione i Pokémon e gli Allenatori, come se contemplasse qualcosa che solo lui può vedere.",
+            "black-2": "Osserva con attenzione qualsiasi cosa. A volte è così preso a guardare che non si accorge degli attacchi.",
+            "white-2": "Osserva con attenzione qualsiasi cosa. A volte è così preso a guardare che non si accorge degli attacchi.",
+            "x": "Amplifica i poteri psichici con le antenne a forma di fiocchetti. Il suo sguardo è sempre fisso.",
+            "y": "Osserva con attenzione i Pokémon e gli Allenatori, come se contemplasse qualcosa che solo lui può vedere.",
+            "omega-ruby": "Amplifica i poteri psichici con le antenne a forma di fiocchetti. Il suo sguardo è sempre fisso.",
+            "alpha-sapphire": "Osserva con attenzione i Pokémon e gli Allenatori, come se contemplasse qualcosa che solo lui può vedere.",
+            "sword": "Nonostante sia ancora piccolo, può lottare usando i poteri psichici accumulati nelle antenne a forma di fiocchetti.",
+            "shield": "A volte emette versi anche se non c'è nessuno nei paraggi. Per questo si dice che parli con esseri che nessun altro può vedere.",
+            "scarlet": "Di solito è molto puro e innocente. Quando vede qualcosa di invisibile agli occhi, resta muto senza battere ciglio.",
+            "violet": "Controlla i suoi poteri psichici con le antenne a forma di fiocchetti. Attenzione a non toccarle, o si metterà a piangere a dirotto."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 5,
+    "height": {
+        "gothita": "0,4 m"
+    },
+    "id": 574,
+    "name": "Gothita",
+    "name_origin": "Il nome Gothita è una contrazione del termine gothic lolita. ",
+    "origin": "Gothita è basato su un bambino vestito secondo la moda Gothic Lolita. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Fissosguardo",
+    "sprites": {
+        "gothita": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b9/Homem0574.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/69/Homemsh0574.png"
+        }
+    },
+    "stats": {
+        "gothita": {
+            "hp": 45,
+            "atk": 30,
+            "def": 50,
+            "spa": 55,
+            "spd": 65,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "gothita": 290
+    },
+    "types": {
+        "gothita": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "gothita": "5,8 kg"
+    }
+}

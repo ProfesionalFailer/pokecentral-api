@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Ferropugno"
+        }
+    },
+    "curiosities": [
+        "Melmetal è l'unico Pokémon misterioso che:\n\tappartiene ad una famiglia evolutiva .\n\tha ottenuto una forma Gigamax.",
+        "appartiene ad una famiglia evolutiva .",
+        "ha ottenuto una forma Gigamax.",
+        "Nonostante la categoria di Melmetal sia \"Pokémon Bullone\", il suo corpo è composto parzialmente da dadi, che sono solo una parte del bullone.",
+        "Melmetal e la sua pre-evoluzione Meltan sono gli unici Pokémon a non avere mai avuto un'abilità, in quanto questa meccanica non è presente nei giochi in cui appaiono. Dopo averli trasferiti in Pokémon Spada e Scudo tramite Pokémon HOME però, la loro abilità sarà regolarmente presente.",
+        "Melmetal e la sua pre-evoluzione Meltan sono i soli Pokémon in Let's Go, Pikachu! e Let's Go, Eevee! a non essere stati introdotti nei giochi di prima generazione.\n\tQuesto fa di essi gli unici due Pokémon in Let's Go, Pikachu! e Let's Go, Eevee! i cui numeri nel Pokédex di Kanto  non combaciano con quelli nel Pokédex Nazionale .",
+        "Questo fa di essi gli unici due Pokémon in Let's Go, Pikachu! e Let's Go, Eevee! i cui numeri nel Pokédex di Kanto  non combaciano con quelli nel Pokédex Nazionale .",
+        "Melmetal è programmato per imparare Tuonopugno non appena si evolve, ma ciò è impossibile dato che il Pokémon non può evolversi nei giochi della serie principale.",
+        "Meltan e Melmetal sono gli unici Pokémon introdotti in settima generazione che non sono ottenibili nella regione di Alola."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/melmetal.mp3",
+    "dex_entries": {
+        "melmetal": {
+            "lets-go-pikachu": "In passato era venerato perché lo si riteneva capace di generare ferro. È misteriosamente ricomparso dopo 3.000 anni di assenza.",
+            "lets-go-eevee": "In passato era venerato perché lo si riteneva capace di generare ferro. È misteriosamente ricomparso dopo 3.000 anni di assenza.",
+            "sword": "Alla fine della sua esistenza, si arrugginisce e cade a pezzi. Dopo un po' di tempo, i resti del suo corpo tornano in vita sotto forma di Meltan.",
+            "shield": "Sferra pugni con i suoi dadi metallici sfruttando la forza centrifuga. Si dice che nessun altro Pokémon sia capace di sferrarne di altrettanto potenti."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 7,
+    "height": {
+        "melmetal": "2,5 m",
+        "melmetal-gigamax": "> 25,0 m"
+    },
+    "id": 809,
+    "name": "Melmetal",
+    "name_origin": "Melmetal potrebbe essere una combinazione di melt, fuso, e metal, metallo. ",
+    "origin": "Melmetal è basato su un dado esagonale. Il suo corpo è basato sul mercurio, un metallo che a temperatura ambiente è liquido. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Bullone",
+    "sprites": {},
+    "stats": {
+        "melmetal": {
+            "hp": 135,
+            "atk": 143,
+            "def": 143,
+            "spa": 80,
+            "spd": 65,
+            "spe": 34
+        }
+    },
+    "stats_sum": {
+        "melmetal": 600
+    },
+    "types": {
+        "melmetal": [
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "melmetal": "800,0 kg",
+        "melmetal-gigamax": "???,? kg"
+    }
+}

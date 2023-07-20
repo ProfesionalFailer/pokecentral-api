@@ -1,0 +1,127 @@
+{
+    "abilities": {
+        "persian": {
+            "primary": "Scioltezza",
+            "secondary": "Tecnico",
+            "hidden": "Agitazione"
+        },
+        "forma-di-alola": {
+            "primary": "Foltopelo",
+            "secondary": "Tecnico",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Dalla prima alla terza generazione, Persian imparava Giornopaga salendo di livello come la sua pre-evoluzione Meowth, ma dalla quarta generazione ciò non avviene.",
+        "Lo sprite di Pokémon Cristallo di Persian da fermo è diversa da quello di Pokémon Oro e Argento, rendendolo uno dei pochi Pokémon ad avere tre diversi sprite in seconda generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/persian.mp3",
+    "dex_entries": {
+        "persian": {
+            "red": "Sebbene molto amato per il suo pelo, è difficile addomesticarlo per la volubile crudeltà.",
+            "blue": "Sebbene molto amato per il suo pelo, è difficile addomesticarlo per la volubile crudeltà.",
+            "yellow": "La gemma che ha in fronte brilla di luce propria. Si muove con l'eleganza di una fiera regina.",
+            "gold": "Molti lo amano per il suo aspetto elegante. Tuttavia può scatenarsi e graffiare alla minima provocazione.",
+            "silver": "I muscoli flessibili lo fanno camminare senza fare alcun rumore. Attacca in un lampo.",
+            "crystal": "Dietro l'aspetto elegante e sinuoso si cela una natura feroce: può fare a pezzi un nemico per un nonnulla.",
+            "ruby": "PERSIAN è dotato di sei baffetti furbi che gli conferiscono un aspetto forte. I baffi captano ogni movimento dell'aria riconoscendo presenze vicine. Se afferrato per i baffi, diventa docile.",
+            "sapphire": "PERSIAN è dotato di sei baffetti furbi che gli conferiscono un aspetto forte. I baffi captano ogni movimento dell'aria riconoscendo presenze vicine. Se afferrato per i baffi, diventa docile.",
+            "emerald": "PERSIAN è dotato di sei baffetti furbi che captano ogni movimento dell'aria riconoscendo presenze vicine. Se afferrato per i baffi, diventa docile.",
+            "firered": "POKéMON piuttosto malvagio. Se rizza la coda, meglio stargli alla larga: significa che sta per attaccare.",
+            "leafgreen": "Sebbene molto amato per il suo pelo, è difficile addomesticarlo per la volubile crudeltà.",
+            "diamond": "Un Pokémon molto altezzoso. I fan parlano spesso delle dimensioni del gioiello che ha sulla testa.",
+            "pearl": "Un Pokémon molto altezzoso. I fan parlano spesso delle dimensioni del gioiello che ha sulla testa.",
+            "platinum": "Un Pokémon molto altezzoso. I fan parlano spesso delle dimensioni del gioiello che ha sulla testa.",
+            "heartgold": "Molti lo amano per il suo aspetto elegante. Ma può scatenarsi e graffiare alla minima provocazione.",
+            "soulsilver": "I muscoli flessibili gli consentono di camminare senza fare alcun rumore. Attacca in un lampo.",
+            "black": "Un Pokémon molto altezzoso. I fan parlano spesso delle dimensioni del gioiello che ha sulla testa.",
+            "white": "Un Pokémon molto altezzoso. I fan parlano spesso delle dimensioni del gioiello che ha sulla testa.",
+            "black-2": "Un Pokémon molto altezzoso. I fan parlano spesso delle dimensioni del gioiello che ha sulla testa.",
+            "white-2": "Un Pokémon molto altezzoso. I fan parlano spesso delle dimensioni del gioiello che ha sulla testa.",
+            "x": "Sebbene molto amato per il suo pelo, è difficile addomesticarlo per la volubile crudeltà.",
+            "y": "I muscoli flessibili gli consentono di camminare senza fare alcun rumore. Attacca in un lampo.",
+            "omega-ruby": "Persian è dotato di sei baffetti furbi che gli conferiscono un aspetto forte. I baffi captano ogni movimento dell'aria riconoscendo presenze vicine. Se afferrato per i baffi, diventa docile.",
+            "alpha-sapphire": "Persian è dotato di sei baffetti furbi che gli conferiscono un aspetto forte. I baffi captano ogni movimento dell'aria riconoscendo presenze vicine. Se afferrato per i baffi, diventa docile.",
+            "sun": "È particolarmente suscettibile, tanto da attaccare chiunque lo guardi negli occhi. I suoi artigli affilati provocano profonde ferite.",
+            "moon": "È un Pokémon molto altezzoso, caratteristica particolarmente marcata nei Persian di Alola. Conquistarsi il suo affetto è un'impresa ardua.",
+            "ultra-sun": "La gemma che ha sulla fronte è di un colore diverso da quella dei Persian di Alola, ma è composta praticamente dello stesso materiale.",
+            "ultra-moon": "È molto popolare tra le persone facoltose. A volte viene preso di mira dai cacciatori, attirati dalla gemma che ha sulla fronte.",
+            "lets-go-pikachu": "La gemma che ha in fronte emette una luce splendente. Ha le movenze sinuose ed eleganti di una regina.",
+            "lets-go-eevee": "La gemma che ha in fronte emette una luce splendente. Ha le movenze sinuose ed eleganti di una regina.",
+            "sword": "Conquistarsi il suo affetto è un’impresa ardua perché è molto altezzoso. Se qualcosa non gli va, tira subito fuori gli artigli.",
+            "shield": "Ha un portamento elegante e distinto. Non gli va a genio la rozzezza di Perrserker e i due Pokémon si disprezzano a vicenda.",
+            "brilliant-diamond": "Un Pokémon molto altezzoso. Le dimensioni del gioiello che ha sulla fronte suscitano grande interesse fra gli appassionati.",
+            "shining-pearl": "Un Pokémon molto altezzoso. Le dimensioni del gioiello che ha sulla fronte suscitano grande interesse fra gli appassionati.",
+            "scarlet": "Molti lo vogliono come Pokémon da compagnia per via dello splendido pelo, ma non va preso sotto gamba perché graffia facilmente.",
+            "violet": "Pokémon dal temperamento impetuoso. Quando rizza la coda, meglio stargli alla larga: è segno che sta per scattare e mordere."
+        },
+        "forma-di-alola": {
+            "sun": "Il suo viso perfettamente tondo e il manto più liscio del velluto lo rendono uno dei Pokémon più amati della regione di Alola.",
+            "moon": "Disprezza tutte le altre creature all'infuori di sé. Meschino e codardo, preferisce attaccare il nemico di sorpresa o alle spalle.",
+            "ultra-sun": "Nonostante il muso grazioso ha un’indole crudele, tanto che si diverte a giocare con le prede indebolite senza dar loro il colpo di grazia.",
+            "ultra-moon": "Il suo viso tondo è simbolo di ricchezza e più è grosso e paffuto, più bello viene considerato il Pokémon.",
+            "lets-go-pikachu": "Nella foga della lotta, il suo manto meraviglioso ondeggia. È un vero spettacolo.",
+            "lets-go-eevee": "Nella foga della lotta, il suo manto meraviglioso ondeggia. È un vero spettacolo.",
+            "sword": "Nella regione di Alola le facce tonde sono considerate un simbolo di prosperità e per questo Persian è trattato con molto riguardo.",
+            "shield": "Le sue notevoli abilità fisiche e le sue meschine strategie di lotta lo rendono un avversario davvero temibile."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 1,
+    "height": {
+        "persian": "1,0 m",
+        "forma-di-alola": "1,1 m"
+    },
+    "id": 53,
+    "name": "Persian",
+    "name_origin": "Persian si riferisce ai gatti persiani. Potrebbe anche riferirsi a purr, il suono che fanno i gatti. ",
+    "origin": "La sua fisionomia è evidentemente più simile a quella dei gatti siamesi piuttosto che dei gatti persiani, e la sua specie giapponese è シャムネコ o \"shamuneko\" che singnifica \"Gatto siamese\". È anche simile ai grandi felini come i Puma. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Nobilgatto",
+    "sprites": {
+        "persian": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0d/Homem0053.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0053.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ac/Homem0053A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0053A.png"
+        }
+    },
+    "stats": {
+        "persian": {
+            "hp": 65,
+            "atk": 70,
+            "def": 60,
+            "spa": 65,
+            "spd": 65,
+            "spe": 115
+        },
+        "forma-di-alola": {
+            "hp": 65,
+            "atk": 60,
+            "def": 60,
+            "spa": 75,
+            "spd": 65,
+            "spe": 115
+        }
+    },
+    "stats_sum": {
+        "persian": 440,
+        "forma-di-alola": 440
+    },
+    "types": {
+        "persian": [
+            "Normale"
+        ],
+        "forma-di-alola": [
+            "Buio"
+        ]
+    },
+    "weight": {
+        "persian": "32,0 kg",
+        "forma-di-alola": "33,0 kg"
+    }
+}

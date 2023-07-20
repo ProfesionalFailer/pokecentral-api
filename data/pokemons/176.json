@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "togetic": {
+            "primary": "Tuttafretta",
+            "secondary": "Leggiadro",
+            "hidden": "Supersorte"
+        }
+    },
+    "curiosities": [
+        "Prima dell'ottava generazione, Togetic e la sua evoluzione avevano una combinazione di tipo unica.",
+        "Togetic condivide il nome della sua categoria con Blissey. Sono entrambi noti come il Pokémon Felicità.",
+        "Insieme a Vespiquen, Togetic ha la statistica di Velocità di base più bassa di tutti i Pokémon di tipo Volante."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/togetic.mp3",
+    "dex_entries": {
+        "togetic": {
+            "gold": "Si dice che appaia alle persone buone e premurose, inondandole di felicità.",
+            "silver": "S'intristisce se non si trova con persone gentili. Può veleggiare in aria senza bisogno di muovere le ali.",
+            "crystal": "Pur non battendo molto le ali, può restare sospeso a mezz'aria seguendo il suo allenatore.",
+            "ruby": "TOGETIC pare essere un POKéMON di buon auspicio. Quando riconosce un cuore puro, si dice che condivida la sua felicità con questa persona.",
+            "sapphire": "TOGETIC pare essere un POKéMON di buon auspicio. Quando riconosce un cuore puro, si dice che condivida la sua felicità con questa persona.",
+            "emerald": "TOGETIC pare essere un POKéMON di buon auspicio. Quando riconosce un cuore puro, si dice che condivida la sua felicità con questa persona.",
+            "firered": "S'intristisce se non si trova con persone gentili. Può veleggiare in aria senza bisogno di muovere le ali.",
+            "leafgreen": "Si dice che appaia alle persone buone e premurose, inondandole di felicità.",
+            "diamond": "Pare che appaia alle persone gentili diffondendo un pulviscolo luminoso detto “Polvere della gioia”.",
+            "pearl": "Pare che appaia alle persone gentili diffondendo un pulviscolo luminoso detto “Polvere della gioia”.",
+            "platinum": "Vola intorno al mondo in cerca di persone buone e premurose con le quali condividere la sua felicità.",
+            "heartgold": "Si dice che appaia alle persone buone e premurose, inondandole di felicità.",
+            "soulsilver": "S’intristisce se non si trova con persone gentili. Può restare sospeso in aria senza bisogno di muovere le ali.",
+            "black": "Vola intorno al mondo in cerca di persone buone e premurose con le quali condividere la sua felicità.",
+            "white": "Vola intorno al mondo in cerca di persone buone e premurose con le quali condividere la sua felicità.",
+            "black-2": "Vola intorno al mondo in cerca di persone buone e premurose con le quali condividere la sua felicità.",
+            "white-2": "Vola intorno al mondo in cerca di persone buone e premurose con le quali condividere la sua felicità.",
+            "x": "S'intristisce se non si trova con persone gentili. Può restare sospeso in aria senza bisogno di muovere le ali.",
+            "y": "Si dice che appaia alle persone buone e premurose, inondandole di felicità.",
+            "omega-ruby": "Togetic pare essere un Pokémon di buon auspicio. Quando riconosce un cuore puro, si dice che condivida la sua felicità con questa persona.",
+            "alpha-sapphire": "Togetic pare essere un Pokémon di buon auspicio. Quando riconosce un cuore puro, si dice che condivida la sua felicità con questa persona.",
+            "sword": "Si dice che appaia alle persone buone e premurose, inondandole di felicità.",
+            "shield": "S'intristisce se non ha persone gentili al suo fianco. Può restare sospeso in aria senza dover muovere le ali.",
+            "legends-arceus": "Non esistono resoconti di avvistamenti in natura. Si narra che, col mutare d'aspetto, dispensi gran felicità a chi se ne è preso cura con comprensione."
+        }
+    },
+    "egg_groups": [
+        "Volante",
+        "Magico"
+    ],
+    "generation": 2,
+    "height": {
+        "togetic": "0,6 m"
+    },
+    "id": 176,
+    "name": "Togetic",
+    "name_origin": "Il suo nome deriva dall'unione della parola giapponese 刺 toge  con la parola inglese chick , o chicken . ",
+    "origin": "Potrebbe essere ispirato a un angelo cherubino, ma il suo aspetto ricorda anche una fata, un piccolo di uccello e evidentemente un uovo. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Felicità",
+    "sprites": {
+        "togetic": {
+            "default": "https://media.pokemoncentral.it/wiki/7/78/Homem0176.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0176.png"
+        }
+    },
+    "stats": {
+        "togetic": {
+            "hp": 55,
+            "atk": 40,
+            "def": 85,
+            "spa": 80,
+            "spd": 105,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "togetic": 405
+    },
+    "types": {
+        "togetic": [
+            "Folletto",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "togetic": "3,2 kg"
+    }
+}

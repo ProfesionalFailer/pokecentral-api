@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "keldeo": {
+            "primary": "Giustizia"
+        }
+    },
+    "curiosities": [
+        "Keldeo, Cobalion, Terrakion e Virizion sono comparabili ai quattro protagonisti del romanzo I tre Moschettieri di Alexandre Dumas: Cobalion rappresenta Athos, il leader del gruppo, Terrakion Porthos, il personaggio più forte e prestante, Virizion Aramis, più snello ed elegante, e Keldeo D'Artagnan, il più giovane, oltre che un membro \"esterno\" del gruppo.",
+        "È insieme ai Pokémon Kyurem, Cobalion, Virizion e Terrakion, il protagonista del 15° film Pokémon Kyurem e il Solenne Spadaccino.",
+        "Keldeo e Lucario sono gli unici Pokémon di tipo Lotta con l'Attacco Speciale più alto dell'Attacco.",
+        "Pur non potendo essere trovato selvatico, se si utilizzano trucchi per trovarlo, esso avrà come musica da combattimento la medesima di Cobalion, Terrakion e Virizion.",
+        "Il tipo primario di Keldeo, così come quello degli altri 3 Solenni Spadaccini, sembra voler richiamare i 4 biomi principali che caratterizzano la Terra: L'Acciaio di Cobalion per le grandi metropoli, la Roccia di Terrakion per le imponenti catene montuose, l'Erba di Virizion per le lunghe distese di praterie e foreste, infine l'Acqua di Keldeo per i grandi mari e oceani.\n\tCoincidenza vuole inoltre che i membri principali degli spadaccini sacri abbiano in comune lo stato \"Solido\" di questi suddetti biomi, mentre Keldeo, membro esterno del gruppo, rappresenta lo stato \"Liquido\".",
+        "Coincidenza vuole inoltre che i membri principali degli spadaccini sacri abbiano in comune lo stato \"Solido\" di questi suddetti biomi, mentre Keldeo, membro esterno del gruppo, rappresenta lo stato \"Liquido\".",
+        "Keldeo è stato rivelato in una foto del numero di marzo di CoroCoro ed è stato annunciato ufficialmente il 15 febbraio 2012. La sua forma Risoluta è stata annunciata il 13 giugno 2012."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/keldeo.mp3",
+    "dex_entries": {
+        "keldeo": {
+            "black": "Spara acqua dagli zoccoli, poi si muove scivolando sulla superficie liquida che ha formato. Lotta usando abilmente gli arti.",
+            "white": "Scorrazza per il mondo muovendosi sulla superficie dei mari o dei fiumi. Appare nei lidi più ameni.",
+            "black-2": "Quando è pronto a passare all'azione, si carica d'energia e diventa così veloce che è impossibile seguirlo con gli occhi.",
+            "white-2": "Quando è pronto a passare all'azione, si carica d'energia e diventa così veloce che è impossibile seguirlo con gli occhi.",
+            "x": "Scorrazza per il mondo muovendosi sulla superficie dei mari o dei fiumi. Appare nei lidi più ameni.",
+            "y": "Quando è pronto a passare all'azione, si carica d'energia e diventa così veloce che è impossibile seguirlo con gli occhi.",
+            "omega-ruby": "Scorrazza per il mondo muovendosi sulla superficie dei mari o dei fiumi. Appare nei lidi più ameni.",
+            "alpha-sapphire": "Quando è pronto a passare all'azione, si carica d'energia e diventa così veloce che è impossibile seguirlo con gli occhi."
+        },
+        "forma-normale": {
+            "sword": "Ha imparato a lottare da Cobalion, Terrakion e Virizion. Ora continua i suoi allenamenti in giro per il mondo.",
+            "shield": "Si dice che quando supera difficili battaglie il corno sulla sua fronte si rafforzi e solo allora si risvegli la sua vera forza."
+        },
+        "forma-risoluta": {
+            "sword": "La sua determinazione nella lotta ha infuso nel suo corpo un immenso vigore che ha determinato un cambiamento di forma.",
+            "shield": "L'energia sopita dentro di lui ha pervaso il suo corno trasformandolo in una spada in grado di tagliare qualunque cosa."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 5,
+    "height": {
+        "keldeo": "1,4 m"
+    },
+    "id": 647,
+    "name": "Keldeo",
+    "name_origin": "Il suo nome deriva dalla parola Kelpie, che è un demone del folklore celtico che può assumere la forma di un cavallo. ",
+    "origin": "Keldeo è basato sulla figura di d'Artagnan, personaggio del racconto \"I tre moschettieri\". Come il suo omonimo è il più giovane del gruppo. Il suo aspetto ricorda quello del kelpie uno spirito maligno proveniente dal folklore celtico in grado di assumere la forma di un cavallo bianco, o del kirin, anche chiamato \"unicorno cinese\" che è spesso raffigurato con un unico corno ricurvo all'indietro e possiede la capacità di camminare sull'acqua. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Puledro",
+    "sprites": {
+        "forma-normale": {
+            "default": "https://media.pokemoncentral.it/wiki/4/43/Homem0647.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0647.png"
+        },
+        "forma-risoluta": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a7/Homem0647R.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0647R.png"
+        }
+    },
+    "stats": {
+        "keldeo": {
+            "hp": 91,
+            "atk": 72,
+            "def": 90,
+            "spa": 129,
+            "spd": 90,
+            "spe": 108
+        }
+    },
+    "stats_sum": {
+        "keldeo": 580
+    },
+    "types": {
+        "keldeo": [
+            "Acqua",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "keldeo": "48,5 kg"
+    }
+}

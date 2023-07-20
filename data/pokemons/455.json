@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "carnivine": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "Carnivine è basato su una pianta carnivora e, presumibilmente, si nutre di pokemon di  tipo Coleottero, ai quali però è debole."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/carnivine.mp3",
+    "dex_entries": {
+        "carnivine": {
+            "diamond": "Attira le prede con il dolce aroma della saliva e poi le ingoia. Impiega un giorno per mangiare una preda.",
+            "pearl": "Appeso ai rami con i tentacoli, può sembrare una pianta. Aspetta la preda con la bocca aperta.",
+            "platinum": "Si attacca agli alberi nelle paludi. Attrae le prede con il dolce aroma della saliva e poi le ingoia.",
+            "heartgold": "Manovra abilmente i tentacoli per appostarsi su un ramo ad hoc e da lì piombare sulla preda.",
+            "soulsilver": "Manovra abilmente i tentacoli per appostarsi su un ramo ad hoc e da lì piombare sulla preda.",
+            "black": "Si attacca agli alberi nelle paludi. Attrae le prede con il dolce aroma della saliva e poi le ingoia.",
+            "white": "Si attacca agli alberi nelle paludi. Attrae le prede con il dolce aroma della saliva e poi le ingoia.",
+            "black-2": "Si attacca agli alberi con i suoi tentacoli, in attesa che il dolce aroma della sua saliva attiri una preda.",
+            "white-2": "Si attacca agli alberi con i suoi tentacoli, in attesa che il dolce aroma della sua saliva attiri una preda.",
+            "x": "Attira le prede con il dolce aroma della saliva e poi le ingoia. Impiega un giorno per mangiare una preda.",
+            "y": "Si attacca agli alberi nelle paludi. Attrae le prede con il dolce aroma della saliva e poi le ingoia.",
+            "omega-ruby": "Attira le prede con il dolce aroma della saliva e poi le ingoia. Impiega un giorno per mangiare una preda.",
+            "alpha-sapphire": "Si attacca agli alberi nelle paludi. Attrae le prede con il dolce aroma della saliva e poi le ingoia.",
+            "brilliant-diamond": "Attira le prede con il dolce aroma emanato dalla saliva e poi le ingoia. Impiega un giorno per mangiare una preda.",
+            "shining-pearl": "Se si appende ai rami con i suoi tentacoli e resta immobile, può sembrare una pianta. Aspetta la preda con la bocca aperta.",
+            "legends-arceus": "È avido e aggressivo, nonostante sia un Pokémon vegetale. Aggredisce le prede divaricando le grosse fauci."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 4,
+    "height": {
+        "carnivine": "1,4 m"
+    },
+    "id": 455,
+    "name": "Carnivine",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi carnivore, carnivoro, e vine, vite. ",
+    "origin": "Carnivine è basato sulla venere acchiappamosche. ",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Insettivoro",
+    "sprites": {
+        "carnivine": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e8/Homem0455.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0455.png"
+        }
+    },
+    "stats": {
+        "carnivine": {
+            "hp": 74,
+            "atk": 100,
+            "def": 72,
+            "spa": 90,
+            "spd": 72,
+            "spe": 46
+        }
+    },
+    "stats_sum": {
+        "carnivine": 454
+    },
+    "types": {
+        "carnivine": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "carnivine": "27,0 kg"
+    }
+}

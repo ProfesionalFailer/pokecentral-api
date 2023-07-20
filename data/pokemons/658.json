@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "greninja": {
+            "primary": "Acquaiuto",
+            "hidden": "Mutatipo",
+            "event": "Morfosintonia"
+        },
+        "forma-ash": {
+            "primary": "Morfosintonia"
+        }
+    },
+    "curiosities": [
+        "Greninja ha la Velocità base più alta anche di tutti i Pokémon iniziali di tipo Acqua.\n\tHa anche la Velocità base più alta di tutti i Pokémon iniziali pienamente evoluti se non viene considerata la Megaevoluzione di Sceptile.\n\tIn nona generazione, questo primato gli viene rubato da Meowscarada",
+        "Ha anche la Velocità base più alta di tutti i Pokémon iniziali pienamente evoluti se non viene considerata la Megaevoluzione di Sceptile.",
+        "In nona generazione, questo primato gli viene rubato da Meowscarada",
+        "Greninja condivide la sua categoria con Ninjask. Sono entrambi noti come il Pokémon Ninja.\n\tEntrambi hanno anche la parola \"ninja\" nel nome.",
+        "Entrambi hanno anche la parola \"ninja\" nel nome.",
+        "Greninja ha ottenuto il primo posto nella Elezione Generale Pokémon giapponese , il sondaggio per decidere quale Pokémon sarebbe stato distribuito in Giappone per la prima di Volcanion e la meraviglia meccanica.",
+        "Nonostante la sua forma Ash sia stata introdotta in settima generazione essa non possiede alcuna informazione sul Pokédex perché il dex di Alola non contiene i dati di Greninja.",
+        "Greninja è stato eletto come Pokémon dell'anno 2020. Video dal canale ufficiale Pokémon Italiano."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/greninja.mp3",
+    "dex_entries": {
+        "greninja": {
+            "x": "Crea lame d'acqua micidiali che ruotano ad alta velocità e, se lanciate, possono perforare il metallo.",
+            "y": "Agile e sfuggente come un ninja, si fa beffe dei nemici grazie alla sua velocità e li bersaglia di shuriken d'acqua.",
+            "omega-ruby": "Crea lame d'acqua micidiali che ruotano ad alta velocità e, se lanciate, possono perforare il metallo.",
+            "alpha-sapphire": "Agile e sfuggente come un ninja, si fa beffe dei nemici grazie alla sua velocità e li bersaglia di shuriken d'acqua."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1"
+    ],
+    "generation": 6,
+    "height": {
+        "greninja": "1,5 m"
+    },
+    "id": 658,
+    "name": "Greninja",
+    "name_origin": "Greninja potrebbe derivare da grenouille, rana in francese, e ninja. Gekkouga potrebbe essere una combinazione di げこっ geko, gracchiare, e 甲賀流 Kōga-ryū, un'antica scuola di Ninjutsu. Potrebbe derivare anche da 月光 gekkō, chiaro di luna, in riferimento ad una concezione popolare che vede i ninja attivi di notte o per il tipo Buio che assume il Pokémon con l'evoluzione. ",
+    "origin": "Greninja è basato su una rana. Nello specifico potrebbe ispirarsi alle rane del genere Megophrys o Ceratophrys, dotate di corna riconducibili alle escrescenze che Greninja ha sul capo. La sua colorazione è invece simile a quella della Cruziohyla calcarifer. Le protuberanze, o bolle di schiuma, che ha sugli arti potrebbero basarsi sulle ghiandole parotoidi dei rospi. Come suggerisce il nome della specie, Greninja potrebbe anche essere basato su un ninja. La cultura giapponese associa rane e rospi con i ninja basabdosi sul racconto folkloristico del \"Galante Jiraya\", 児雷也豪傑物語 Jiraiya goketsu monogatari, un ninja che può cambiare forma diventando un rospo. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Ninja",
+    "sprites": {
+        "greninja": {
+            "default": "https://media.pokemoncentral.it/wiki/0/04/Homem0658.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/84/Homemsh0658.png"
+        },
+        "forma-ash": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ec/Homem0658A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fa/Homemsh0658A.png"
+        }
+    },
+    "stats": {
+        "greninja": {
+            "hp": 72,
+            "atk": 95,
+            "def": 67,
+            "spa": 103,
+            "spd": 71,
+            "spe": 122
+        },
+        "forma-ash": {
+            "hp": 72,
+            "atk": 145,
+            "def": 67,
+            "spa": 153,
+            "spd": 71,
+            "spe": 132
+        }
+    },
+    "stats_sum": {
+        "greninja": 530,
+        "forma-ash": 640
+    },
+    "types": {
+        "greninja": [
+            "Buio",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "greninja": "40,0 kg"
+    }
+}

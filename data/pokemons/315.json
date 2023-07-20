@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "roselia": {
+            "primary": "Alternacura",
+            "secondary": "Velenopunte",
+            "hidden": "Fogliamanto"
+        }
+    },
+    "curiosities": [
+        "Roselia è il primo  Pokémon a ricevere una pre-evoluzione e una evoluzione nella stessa generazione diversa dalla sua.",
+        "Roselia è uno dei quattordici Pokémon di cui si possono raccogliere le voci Pokédex straniere in Pokémon Diamante e Perla.",
+        "Roselia e la sua evoluzione sono gli unici Pokémon di tipo Veleno ad appartenere al Gruppo Uova Magico."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/roselia.mp3",
+    "dex_entries": {
+        "roselia": {
+            "ruby": "ROSELIA spara spine molto affilate come fossero proiettili, a tutti coloro che tentano di rubargli i fiori dal braccio. Il profumo di questo POKéMON infonde serenità a tutti gli esseri viventi.",
+            "sapphire": "In qualche rarissima occasione, ROSELIA è stata vista con fiori dai colori inconsueti. Le spine sulla testa di questo POKéMON contengono un veleno micidiale.",
+            "emerald": "Se ROSELIA beve acqua ricca di sostanze nutritive, i suoi fiori diventano bellissimi. Il loro profumo è un'arma che serve a distrarre il nemico.",
+            "firered": "Dai suoi fiori si diffonde una fragranza rilassante. Più intenso è il profumo, più questo POKéMON è forte.",
+            "leafgreen": "Dai suoi fiori si diffonde una fragranza rilassante. Più intenso è il profumo, più questo POKéMON è forte.",
+            "diamond": "ROSELIA, cresciuto bevendo acqua pulita, è noto perché fa crescere fiori dai vividi colori.",
+            "pearl": "I bellissimi fiori sulle sue braccia possiedono spine velenose. Non cercare di raccoglierli!",
+            "platinum": "Più in forma è, più piacevole è il profumo dei suoi fiori. Questa fragranza rilassa le persone.",
+            "heartgold": "Beve solo acqua di fonte, ricca di sostanze nutritive, che conferisce ai suoi fiori dei colori desueti.",
+            "soulsilver": "Beve solo acqua di fonte, ricca di sostanze nutritive, che conferisce ai suoi fiori dei colori desueti.",
+            "black": "Più in forma è, più piacevole è il profumo dei suoi fiori. Questa fragranza rilassa le persone.",
+            "white": "Più in forma è, più piacevole è il profumo dei suoi fiori. Questa fragranza rilassa le persone.",
+            "black-2": "Attacca usando abilmente i due tipi di veleno delle estremità dei suoi arti. Più è forte la sua fragranza, più è in salute.",
+            "white-2": "Attacca usando abilmente i due tipi di veleno delle estremità dei suoi arti. Più è forte la sua fragranza, più è in salute.",
+            "x": "Attacca usando abilmente i due tipi di veleno delle estremità dei suoi arti. Più è forte la sua fragranza, più è in salute.",
+            "y": "Beve solo acqua di fonte, ricca di sostanze nutritive, che conferisce ai suoi fiori dei colori preziosi.",
+            "omega-ruby": "Roselia spara spine molto affilate come fossero proiettili, a tutti coloro che tentano di rubargli i fiori dal braccio. Il profumo di questo Pokémon infonde serenità a tutti gli esseri viventi.",
+            "alpha-sapphire": "In qualche rarissima occasione, Roselia è stato visto con i fiori dai colori inconsueti. Le spine sulla testa di questo Pokémon contengono un veleno micidiale.",
+            "sword": "Dai suoi fiori si diffonde una fragranza rilassante. Più è intenso il suo profumo, più il Pokémon è in salute.",
+            "shield": "Attacca usando abilmente i suoi arti, che contengono veleni diversi. Più è forte la sua fragranza, più è in salute.",
+            "brilliant-diamond": "È risaputo che i Roselia cresciuti bevendo acqua pulita facciano sbocciare fiori dai vividi colori.",
+            "shining-pearl": "I bellissimi fiori sulle sue braccia possiedono spine velenose. Non pensateci nemmeno a provare a raccoglierli!",
+            "legends-arceus": "Di bel sembiante, possiede spine velenifere. È usanza della mia terra inviare queste spine all'avversario a domandare una singolar tenzone."
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Erba"
+    ],
+    "generation": 3,
+    "height": {
+        "roselia": "0,3 m"
+    },
+    "id": 315,
+    "name": "Roselia",
+    "name_origin": "Roselia è una combinazione di \"rose\", rosa, e \"azalea\" o \"buddleia\". ",
+    "origin": "Roselia si basa sui cespugli di rose. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Spina",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/1/19/Homem0315.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/28/Homemsh0315.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e1/Homef0315.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/95/Homefsh0315.png"
+        }
+    },
+    "stats": {
+        "roselia": {
+            "hp": 50,
+            "atk": 60,
+            "def": 45,
+            "spa": 100,
+            "spd": 80,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "roselia": 400
+    },
+    "types": {
+        "roselia": [
+            "Erba",
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "roselia": "2,0 kg"
+    }
+}

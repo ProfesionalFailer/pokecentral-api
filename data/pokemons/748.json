@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "toxapex": {
+            "primary": "Spietatezza",
+            "secondary": "Scioltezza",
+            "hidden": "Rigenergia"
+        }
+    },
+    "curiosities": [
+        "Toxapex ha la statistica base di Difesa e di Difesa Speciale più alta tra tutti i Pokémon di tipo Veleno."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/toxapex.mp3",
+    "dex_entries": {
+        "toxapex": {
+            "sun": "Striscia sui fondali marini con i suoi dodici tentacoli, lasciando dietro di sé una scia di resti di Corsola.",
+            "moon": "Il suo veleno provoca nella vittima tre giorni e tre notti di dolori lancinanti, e lascia dei danni permanenti.",
+            "ultra-sun": "Attacca il nemico lanciando aculei velenosi. Falcia i nemici che gli si avvicinano con gli artigli dei suoi tentacoli.",
+            "ultra-moon": "Con i suoi 12 tentacoli, forma una cupola protettiva che resiste anche alle correnti marine e assicura un piacevole riparo.",
+            "sword": "Per resistere alle basse temperature delle acque di Galar, forma una cupola con i tentacoli e ne scalda l'area interna col calore del suo corpo.",
+            "shield": "La sacca all'interno del suo corpo è piena di un veleno così potente da far star male persino un Wailord per tre giorni e tre notti.",
+            "scarlet": "Vive in una cupola creata coi suoi stessi tentacoli. Usa gli artigli per scandagliare i dintorni e percepire i movimenti della marea.",
+            "violet": "Lotta ferocemente con i Bruxish per il controllo delle zone in cui scorrono le correnti più calde, ma raramente ha la meglio."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1"
+    ],
+    "generation": 7,
+    "height": {
+        "toxapex": "0,7 m"
+    },
+    "id": 748,
+    "name": "Toxapex",
+    "name_origin": "Toxapex può essere la combinazione di toxic, tossico, e apex, apice. Dohidoide può essere la combinazione di ど酷い dohidoi, veramente crudele, e 海星 hitode, stella marina. ",
+    "origin": "Toxapex è basato su una stella corona di spine, una stella marina velenosa che si nutre di coralli. ",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Stellatroce",
+    "sprites": {
+        "toxapex": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7e/Homem0748.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/ca/Homemsh0748.png"
+        }
+    },
+    "stats": {
+        "toxapex": {
+            "hp": 50,
+            "atk": 63,
+            "def": 152,
+            "spa": 53,
+            "spd": 142,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "toxapex": 495
+    },
+    "types": {
+        "toxapex": [
+            "Veleno",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "toxapex": "14,5 kg"
+    }
+}

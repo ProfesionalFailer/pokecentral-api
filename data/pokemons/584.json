@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "vanilluxe": {
+            "primary": "Corpogelo",
+            "secondary": "Scendineve",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "È l'unico Pokémon di tipo Ghiaccio puro a essere al terzo stadio evolutivo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/vanilluxe.mp3",
+    "dex_entries": {
+        "vanilluxe": {
+            "black": "Assorbe enormi quantità di acqua per formare nubi cariche di neve e attaccare il nemico con violente bufere.",
+            "white": "Se le due teste si arrabbiano allo stesso tempo, scatena una bufera dalle corna, coprendo di neve i dintorni.",
+            "black-2": "Ingoia enormi quantità d' acqua che trasforma in nuvole di neve. Quando si arrabbia scatena una terribile bufera.",
+            "white-2": "Ingoia enormi quantità d' acqua che trasforma in nuvole di neve. Quando si arrabbia scatena una terribile bufera.",
+            "x": "Se le due teste si arrabbiano allo stesso tempo, scatena una bufera dalle corna, coprendo di neve i dintorni.",
+            "y": "Ingoia enormi quantità d'acqua che trasforma in nuvole di neve. Quando si arrabbia scatena una terribile bufera.",
+            "omega-ruby": "Se le due teste si arrabbiano allo stesso tempo, scatena una bufera dalle corna, coprendo di neve i dintorni.",
+            "alpha-sapphire": "Ingoia enormi quantità d' acqua che trasforma in nuvole di neve. Quando si arrabbia scatena una terribile bufera.",
+            "sun": "Ha un cervello in ognuna delle due teste. Quando queste riescono a mettersi d'accordo, attacca il nemico scatenando una bufera.",
+            "moon": "Sopravvive senza problemi anche se perde una delle due teste. All'interno del corpo genera nuvole di neve.",
+            "ultra-sun": "Produce tempeste di neve dalle due bocche. È amato da Sciatori e Snowboarder perché può creare la neve ovunque.",
+            "ultra-moon": "È nato da due Vanillish parzialmente squagliatisi al sole, che in una fredda notte si sono uniti e ricongelati.",
+            "sword": "Quando è furibondo, scatena una tormenta di neve che congela sia alleati che nemici.",
+            "shield": "La sua temperatura corporea si aggira intorno ai -6 °C. Si dice che sia nato dall'unione di due Vanillish."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 5,
+    "height": {
+        "vanilluxe": "1,3 m"
+    },
+    "id": 584,
+    "name": "Vanilluxe",
+    "name_origin": "Il nome deriva dalla combinazione delle parole inglesi vanilla, vaniglia, e deluxe, letteralmente significa \"lussuoso\", indica qualcosa di superbo, migliore. ",
+    "origin": "Vanilluxe è basato su un cono gelato con del ghiaccio che fa da cono e della neve che fa da palle di gelato, il cono a forma di barca e le due teste potrebbero essere un riferimento anche alla banana split, i pezzi di ghiaccio invece potrebbero rappresentare pezzi di mandorla o frutta che viene di solito messa sul gelato, inoltre la cannuccia che ha sulla testa sinistra ricorda una cannuccia per alcune bibite. ",
+    "shape": "bipedi",
+    "specie": "Pokémon Bufera",
+    "sprites": {
+        "vanilluxe": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c1/Homem0584.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/af/Homemsh0584.png"
+        }
+    },
+    "stats": {
+        "vanilluxe": {
+            "hp": 71,
+            "atk": 95,
+            "def": 85,
+            "spa": 110,
+            "spd": 95,
+            "spe": 79
+        }
+    },
+    "stats_sum": {
+        "vanilluxe": 535
+    },
+    "types": {
+        "vanilluxe": [
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "vanilluxe": "57,5 kg"
+    }
+}

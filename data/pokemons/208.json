@@ -1,0 +1,111 @@
+{
+    "abilities": {
+        "steelix": {
+            "primary": "Testadura",
+            "secondary": "Vigore",
+            "hidden": "Forzabruta"
+        },
+        "megasteelix": {
+            "primary": "Silicoforza"
+        }
+    },
+    "curiosities": [
+        "Prima della quinta generazione Steelix aveva una combinazione di tipi unica.",
+        "Prima dell'ottava generazione MegaSteelix aveva la statistica base di Difesa più alta in assoluto assieme a MegaAggron e Shuckle.",
+        "Steelix, Marill, Altaria e Fletchinder sono gli unici Pokémon di doppio tipo il cui tipo primario è diverso rispetto alla loro pre-evoluzione.\n\tDi questi, Steelix è l'unico la cui pre-evoluzione non ha Normale come tipo primario.",
+        "Di questi, Steelix è l'unico la cui pre-evoluzione non ha Normale come tipo primario.",
+        "Steelix presenta differenze tra sessi, la sua pre-evoluzione no.",
+        "Escludendo i cameo, tutti gli Steelix apparsi nell'anime hanno usato Codacciaio."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/steelix.mp3",
+    "dex_entries": {
+        "steelix": {
+            "gold": "Il suo corpo, pressato a grandissime profondità, è diventato più duro del diamante.",
+            "silver": "Sembra che se ONIX vive per più di 100 anni, cambi la composizione per diventare duro come il diamante.",
+            "crystal": "I pezzetti di metallo che gli ricoprono il corpo riflettono molto bene la luce intensa.",
+            "ruby": "STEELIX è noto per i suoi scavi in profondità, a distanze maggiori rispetto ad ONIX. Sono stati riportati record di profondità pari a 1 km sottoterra.",
+            "sapphire": "STEELIX è noto per i suoi scavi in profondità, a distanze maggiori rispetto ad ONIX. Sono stati riportati record di profondità pari a 1 km sottoterra.",
+            "emerald": "STEELIX è noto per i suoi scavi in profondità, a distanze maggiori rispetto ad ONIX. Sono stati riportati record di profondità pari a 1 km sottoterra.",
+            "firered": "Sembra che se ONIX vive per più di 100 anni, cambi la composizione per diventare duro come il diamante.",
+            "leafgreen": "Il suo corpo, compresso a grandissime profondità, è diventato più duro del diamante.",
+            "diamond": "Temprato dalla pressione e dal calore sotterraneo, il suo corpo è più duro di qualsiasi metallo.",
+            "pearl": "Distrugge le rocce con le mascelle robuste per farsi strada. I suoi occhi vedono nei bui sotterranei.",
+            "platinum": "Si dice che si sia trasformato a causa del ferro contenuto nella terra che mangia.",
+            "heartgold": "Il suo corpo, pressato a grandissime profondità, è diventato più duro del diamante.",
+            "soulsilver": "Un ONIX vissuto più di 100 anni. Il suo corpo ha cambiato composizione ed è diventato duro come il diamante.",
+            "black": "Si dice che si sia trasformato a causa del ferro contenuto nella terra che mangia.",
+            "white": "Si dice che si sia trasformato a causa del ferro contenuto nella terra che mangia.",
+            "black-2": "Il ferro contenuto nella terra di cui si nutre ha trasformato il suo corpo rendendolo più duro del diamante.",
+            "white-2": "Il ferro contenuto nella terra di cui si nutre ha trasformato il suo corpo rendendolo più duro del diamante.",
+            "x": "Temprato dalla pressione e dal calore sotterraneo, il suo corpo è più duro di qualsiasi metallo.",
+            "y": "Distrugge le rocce con le mascelle robuste per farsi strada. I suoi occhi vedono nei bui sotterranei.",
+            "omega-ruby": "Steelix è noto per i suoi scavi in profondità, a distanze maggiori rispetto ad Onix. Sono stati riportati record di profondità pari a 1 km sottoterra.",
+            "alpha-sapphire": "Steelix è noto per i suoi scavi in profondità, a distanze maggiori rispetto ad Onix. Sono stati riportati record di profondità pari a 1 km sottoterra.",
+            "sword": "Un Onix vissuto più di 100 anni. Il suo corpo ha cambiato composizione ed è diventato duro come il diamante.",
+            "shield": "Si pensa che si sia trasformato a causa del ferro contenuto nella terra che mangia.",
+            "brilliant-diamond": "Il suo corpo, temprato dalla pressione e dal calore sotterranei, è più duro di qualsiasi metallo.",
+            "shining-pearl": "Distrugge le rocce con le mascelle robuste per farsi strada. I suoi occhi riescono a vedere nell'oscurità sotterranea.",
+            "legends-arceus": "Evolutosi per mezzo di un singolare strumento, ha il corpo rivestito di granuli d'acciaio talmente compatti che neppure un diamante può scalfirli."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 2,
+    "height": {
+        "steelix": "9,2 m",
+        "megasteelix": "10,5 m"
+    },
+    "id": 208,
+    "name": "Steelix",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi steel  e helix . Potrebbe anche riferirsi alla parola onyx . ",
+    "origin": "Basato sul wyrm, su un serpente e un millepiedi. ",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Ferroserpe",
+    "sprites": {
+        "steelix ": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7c/Homem0208.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0208.png"
+        },
+        "steelix -f": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a9/Homef0208.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homefsh0208.png"
+        },
+        "megasteelix": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0e/Homem0208M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0208M.png"
+        }
+    },
+    "stats": {
+        "steelix": {
+            "hp": 75,
+            "atk": 85,
+            "def": 200,
+            "spa": 55,
+            "spd": 65,
+            "spe": 30
+        },
+        "megasteelix": {
+            "hp": 75,
+            "atk": 125,
+            "def": 230,
+            "spa": 55,
+            "spd": 95,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "steelix": 510,
+        "megasteelix": 610
+    },
+    "types": {
+        "steelix": [
+            "Acciaio",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "steelix": "400,0 kg",
+        "megasteelix": "740,0 kg"
+    }
+}

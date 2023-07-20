@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "nuzleaf": {
+            "primary": "Clorofilla",
+            "secondary": "Sveglialampo",
+            "hidden": "Arraffalesto"
+        }
+    },
+    "curiosities": [
+        "La Difesa di base di Nuzleaf è più bassa di quella delle sua pre-evoluzione Seedot.",
+        "Nonostante alcune voci Pokédex affermino che può usare la foglia sulla testa come un flauto, non può imparare Meloderba.",
+        "Un Nuzleaf con la faccia del personaggio di Lost John Locke è un personaggio ricorrente della serie webcomic Nuzlocke e la mascotte non ufficiale della Nuzlocke Challenge.",
+        "Nuzleaf è uno dei Pokémon che hanno ben 7 debolezze, insieme a Exeggcute, Exeggutor, Tyranitar, Celebi, la sua evoluzione Shiftry, Cacturne, Snover, Abomasnow, Terrakion e Zarude."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/nuzleaf.mp3",
+    "dex_entries": {
+        "nuzleaf": {
+            "ruby": "NUZLEAF vive in foreste molto fitte. A volte si avventura fuori dalla foresta per spaventare le persone. Questo POKéMON si irrita molto, se qualcuno tenta di pizzicargli il lungo naso.",
+            "sapphire": "NUZLEAF crea una sorta di flauto con la foglia che ha sul capo. Il suono di questo flauto placa la paura e l'incertezza nel cuore di coloro che si sono persi nella foresta.",
+            "emerald": "NUZLEAF vive nella foresta ed è molto abile a salire sugli alberi. Se qualcuno afferra il suo lungo naso appuntito, il POKéMON perde potenza.",
+            "firered": "Vive in buchi scavati in grandi alberi. Il suono del suo flauto di foglia terrorizza chi lo ascolta.",
+            "leafgreen": "Vive in buchi scavati in grandi alberi. Il suono del suo flauto di foglia terrorizza chi lo ascolta.",
+            "diamond": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "pearl": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "platinum": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "heartgold": "Vive nelle foreste più fitte. Con la foglia che ha in testa, crea un flauto dal suono inquietante.",
+            "soulsilver": "Vive nelle foreste più fitte. Con la foglia che ha in testa, crea un flauto dal suono inquietante.",
+            "black": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "white": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "black-2": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "white-2": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "x": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "y": "Vive nelle foreste più fitte. Con la foglia che ha in testa, crea un flauto dal suono inquietante.",
+            "omega-ruby": "Nuzleaf vive in foreste molto fitte. A volte si avventura fuori dalla foresta per spaventare le persone. Questo Pokémon si irrita molto se qualcuno tenta di pizzicargli il lungo naso.",
+            "alpha-sapphire": "Nuzleaf crea una sorta di flauto con la foglia che ha sul capo. Il suono di questo flauto placa la paura e l'incertezza nel cuore di coloro che si sono persi nella foresta.",
+            "sword": "Vive nelle foreste più fitte. Con la foglia che ha in testa, crea un flauto dal suono inquietante.",
+            "shield": "Vive in buchi scavati in grandi alberi. Il suono del suo flauto di foglia inquieta chi lo ascolta.",
+            "brilliant-diamond": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nel fitto della foresta.",
+            "shining-pearl": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nel fitto della foresta."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Erba"
+    ],
+    "generation": 3,
+    "height": {
+        "nuzleaf": "1,00 m"
+    },
+    "id": 274,
+    "name": "Nuzleaf",
+    "name_origin": "Deriva dalle parole nuzzle  e leaf . ",
+    "origin": "Basato su una ghianda o su un tengu. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Scaltro",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0274.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0274.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0a/Homef0274.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homefsh0274.png"
+        }
+    },
+    "stats": {
+        "nuzleaf": {
+            "hp": 70,
+            "atk": 70,
+            "def": 40,
+            "spa": 60,
+            "spd": 40,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "nuzleaf": 340
+    },
+    "types": {
+        "nuzleaf": [
+            "Erba",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "nuzleaf": "28,0 kg"
+    }
+}

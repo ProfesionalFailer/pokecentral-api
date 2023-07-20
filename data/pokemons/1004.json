@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "lunaruggente": {
+            "primary": "Paleoattivazione"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Drago",
+        "Pokémon di tipo Buio",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Lento",
+        "Pokémon di colore Verde",
+        "Pokémon dalla sagoma n.",
+        "Pokémon di sesso sconosciuto",
+        "Pokémon di Gruppo Uova Sconosciuto",
+        "Pokémon che non fanno parte di una linea di evoluzione",
+        "Pokémon con statistiche base totali di 590",
+        "Pokémon Paradosso"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lunaruggente.mp3",
+    "dex_entries": {
+        "lunaruggente": {
+            "scarlet": "È possibile che si tratti della creatura catalogata come \"Lunaruggente\" in un diario di viaggio colmo di misteri.",
+            "violet": "Secondo un articolo di una rivista di dubbia attendibilità, questo Pokémon sarebbe legato a un fenomeno che si verifica in una certa regione."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 9,
+    "height": {
+        "lunaruggente": "2,0 m"
+    },
+    "id": 1004,
+    "name": "Lunaruggente",
+    "name_origin": "Lunaruggente è una combinazione di luna e ruggente. Roaring Moon è una combinazione di roaring, ruggente, e moon, luna. ",
+    "origin": "Lunaruggente è l'unico Pokémon Paradosso ad assomigliare a una Megaevoluzione. ",
+    "shape": "None",
+    "specie": "Pokémon Paradosso",
+    "sprites": {
+        "lunaruggente": {
+            "default": "https://media.pokemoncentral.it/wiki/7/71/Homem1005.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh1005.png"
+        }
+    },
+    "stats": {
+        "lunaruggente": {
+            "hp": 105,
+            "atk": 139,
+            "def": 71,
+            "spa": 55,
+            "spd": 101,
+            "spe": 119
+        }
+    },
+    "stats_sum": {
+        "lunaruggente": 590
+    },
+    "types": {
+        "lunaruggente": [
+            "Buio",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "lunaruggente": "380,0 kg"
+    }
+}

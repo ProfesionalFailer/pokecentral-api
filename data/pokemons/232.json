@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "donphan": {
+            "primary": "Vigore",
+            "hidden": "Sabbiavelo"
+        }
+    },
+    "curiosities": [
+        "Donphan condivide la stessa categoria con Tyranitar. Entrambi sono noti come Pokémon Armatura."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/donphan.mp3",
+    "dex_entries": {
+        "donphan": {
+            "gold": "Ha zanne dure e affilate e la pelle grinzosa. La sua AZIONE è così forte da abbattere una casa.",
+            "silver": "Più grandi sono le zanne, più alto è il suo rango nel branco. Le zanne crescono lentamente.",
+            "crystal": "La pelle di questo POKéMON è così dura che un normale attacco non può neppure scalfirla.",
+            "ruby": "DONPHAN adora attaccare arrotolandosi in forma sferica e puntando sul nemico ad elevata velocità. Una volta partito, questo POKéMON è molto difficile da fermare.",
+            "sapphire": "Il massiccio corpo di DONPHAN dispone di una forza tale da poter abbattere persino una casa. La sua incredibile potenza aiuta a liberare i sentieri montani dopo una frana di massi o fango.",
+            "emerald": "DONPHAN dispone di una forza tale da trainare un autocarro. La sua epidermide è così dura che un attacco normale non può neppure scalfirla.",
+            "firered": "Più grandi sono le zanne, più alto è il suo rango nel branco. Le zanne crescono lentamente.",
+            "leafgreen": "Ha zanne dure e affilate e la pelle grinzosa. La sua AZIONE è così forte da abbattere una casa.",
+            "diamond": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "pearl": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "platinum": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "heartgold": "Ha zanne dure e affilate e la pelle grinzosa. La sua Azione è così forte da abbattere una casa.",
+            "soulsilver": "Più grandi sono le zanne, più alto è il suo rango nel branco. Le zanne crescono lentamente.",
+            "black": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "white": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "black-2": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "white-2": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "x": "Ha zanne dure e affilate e la pelle grinzosa. La sua Azione è così forte da abbattere una casa.",
+            "y": "Più grandi sono le zanne, più alto è il suo rango nel branco. Le zanne crescono lentamente.",
+            "omega-ruby": "Donphan adora attaccare arrotolandosi in forma sferica e puntando sul nemico ad elevata velocità. Una volta partito, questo Pokémon è molto difficile da fermare.",
+            "alpha-sapphire": "Il massiccio corpo di Donphan dispone di una forza tale da poter abbattere persino una casa. La sua incredibile potenza aiuta a liberare i sentieri montani dopo una frana di massi o fango.",
+            "scarlet": "La sua pelle è così dura che anche se sbatte contro una macchina non si fa un graffio. La pioggia è il suo punto debole.",
+            "violet": "Di solito ha un’indole tranquilla, ma se qualcuno lo fa arrabbiare si appallottola e carica rotolando."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 2,
+    "height": {
+        "donphan": "1,1 m"
+    },
+    "id": 232,
+    "name": "Donphan",
+    "name_origin": "È una combinazione di don  e elephant . Potrebbe inoltre derivare da mastodon . ",
+    "origin": "È chiaramente basato su un elefante, probabilmente sull'Elephas maximus borneensis, più comodamente chiamato elefante del Borneo. L'armatura è ispirata ad un elefante da guerra, ovverosia ad elefanti che venivano addestrati per mano degli uomini e successivamente usati in battaglia. Inoltre, la corazza che ha sul dorso, si ispira ad uno pneumatico. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Armatura",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fb/Homem0232.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0232.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/5/55/Homef0232.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/13/Homefsh0232.png"
+        }
+    },
+    "stats": {
+        "donphan": {
+            "hp": 90,
+            "atk": 120,
+            "def": 120,
+            "spa": 60,
+            "spd": 60,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "donphan": 500
+    },
+    "types": {
+        "donphan": [
+            "Terra"
+        ]
+    },
+    "weight": {
+        "donphan": "120,0 kg"
+    }
+}

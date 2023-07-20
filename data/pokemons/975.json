@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "cetitan": {
+            "primary": "Grassospesso",
+            "secondary": "Spalaneve",
+            "hidden": "Forzabruta"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Ghiaccio",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 521"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cetitan.mp3",
+    "dex_entries": {
+        "cetitan": {
+            "scarlet": "Si aggira per le regioni più fredde. Il suo corpo è protetto da poderosi muscoli e da uno spesso strato di grasso sottocutaneo.",
+            "violet": "Concentra l'energia Ghiaccio nel corno sulla mascella superiore, portandolo a temperature talmente basse da congelare ciò che ha intorno."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 9,
+    "height": {
+        "cetitan": "4,5 m"
+    },
+    "id": 975,
+    "name": "Cetitan",
+    "name_origin": "Cetitan potrebbe derivare dall'unione delle parole cetacean, inglese per cetaceo, e titan, inglese per titano. Harukujira potrebbe essere l'unione delle parole hulk, inglese per indicare un oggetto molto grosso, e 鯨 kujira, giapponese per balena. ",
+    "origin": "Cetitan sembra essere basato su diversi cetacei dell'Artide, tra cui la balena artica. La colorazione bianca e la grossa testa potrebbero fare riferimento al beluga, e le corna potrebbero essere un riferimento al narvalo. Potrebbe anche prendere ispirazione dal ningen, un criptide bipede simile a una balena del folclore giapponese moderno. ",
+    "shape": "None",
+    "specie": "Pokémon Balenotterra",
+    "sprites": {
+        "cetitan": {
+            "default": "https://media.pokemoncentral.it/wiki/d/dd/Homem0975.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0b/Homemsh0975.png"
+        }
+    },
+    "stats": {
+        "cetitan": {
+            "hp": 170,
+            "atk": 113,
+            "def": 65,
+            "spa": 45,
+            "spd": 55,
+            "spe": 73
+        }
+    },
+    "stats_sum": {
+        "cetitan": 521
+    },
+    "types": {
+        "cetitan": [
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "cetitan": "700,0 kg"
+    }
+}

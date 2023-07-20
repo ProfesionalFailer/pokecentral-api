@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "phanpy": {
+            "primary": "Raccolta",
+            "hidden": "Sabbiavelo"
+        }
+    },
+    "curiosities": [
+        "Phanpy può essere visto come un parallelo di Teddiursa. Entrambi sono Pokémon di seconda generazione che si evolvono una volta sola e possono avere Raccolta come abilità."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/phanpy.mp3",
+    "dex_entries": {
+        "phanpy": {
+            "gold": "Agita la proboscide per gioco, ma è così forte che può essere pericoloso.",
+            "silver": "Dà colpi con il muso in segno di affetto, ma è così forte che può far volare la gente in questo modo.",
+            "crystal": "Nella quiete del mattino s'avvicina alla riva, usando la proboscide per farsi una doccia.",
+            "ruby": "PHANPY scava il suo nido in fosse scavate in senso verticale nel terreno in riva al fiume. Delimita l'area attorno al nido usando la proboscide per indicare la sua proprietà.",
+            "sapphire": "PHANPY usa la lunga proboscide per farsi la doccia. Questi POKéMON sono soliti raggrupparsi per spruzzarsi d'acqua a vicenda. Poi, è frequente vederli mentre si asciugano il corpo fradicio a riva.",
+            "emerald": "I PHANPY usano le loro enormi orecchie a mo' di ventaglio, sbattendole per rinfrescarsi nelle giornate afose. Sono POKéMON molto forti, anche in tenera età.",
+            "firered": "Dà colpi con il muso in segno di affetto, ma è così forte da far volare la gente.",
+            "leafgreen": "Agita la proboscide per gioco, ma è così forte che può essere pericoloso.",
+            "diamond": "Non è molto grande, ma è forte. Può sollevare un adulto e trasportarlo sul dorso senza fatica.",
+            "pearl": "Non è molto grande, ma è forte. Può sollevare un adulto e trasportarlo sul dorso senza fatica.",
+            "platinum": "Non è molto grande, ma è forte. Può sollevare un adulto e trasportarlo sul dorso senza fatica.",
+            "heartgold": "Agita la proboscide per gioco, ma è così forte che può essere pericoloso.",
+            "soulsilver": "Dà colpi con il muso in segno di affetto, ma è così forte che può far volare la gente in questo modo.",
+            "black": "Non è molto grande, ma è forte. Può sollevare un adulto e trasportarlo sul dorso senza fatica.",
+            "white": "Non è molto grande, ma è forte. Può sollevare un adulto e trasportarlo sul dorso senza fatica.",
+            "black-2": "Non è molto grande, ma è forte. Può sollevare un adulto e trasportarlo sul dorso senza fatica.",
+            "white-2": "Non è molto grande, ma è forte. Può sollevare un adulto e trasportarlo sul dorso senza fatica.",
+            "x": "Dà colpi con il muso in segno di affetto, ma è così forte che può far volare la gente in questo modo.",
+            "y": "Non è molto grande, ma è forte. Può sollevare un adulto e trasportarlo sul dorso senza fatica.",
+            "omega-ruby": "Phanphy scava il suo nido in fosse scavate in senso verticale nel terreno in riva al fiume. Delimita l'area attorno al nido usando la proboscide per indicare la sua proprietà.",
+            "alpha-sapphire": "Phanphy usa la lunga proboscide per farsi la doccia. Questi Pokémon sono soliti raggrupparsi per spruzzarsi d'acqua a vicenda. Poi, è frequente vederli mentre si asciugano il corpo fradicio a riva.",
+            "scarlet": "Vive in tane che costruisce in riva ai fiumi. Dopo aver giocato nel fango, non riesce a star tranquillo finché non si è lavato.",
+            "violet": "È molto più forte di quanto non sembri. Se si viene urtati dalla sua proboscide mentre la fa roteare, ci si può rimettere il braccio."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 2,
+    "height": {
+        "phanpy": "0,5 m"
+    },
+    "id": 231,
+    "name": "Phanpy",
+    "name_origin": "Deriva dalla parola elephant  seguito dal suffisso diminutivo -py, che idica qualcosa di piccolo o infantile. ",
+    "origin": "Phanpy ricorda un cucciolo d'elefante. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Nasone",
+    "sprites": {
+        "phanpy": {
+            "default": "https://media.pokemoncentral.it/wiki/1/19/Homem0231.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0231.png"
+        }
+    },
+    "stats": {
+        "phanpy": {
+            "hp": 90,
+            "atk": 60,
+            "def": 60,
+            "spa": 40,
+            "spd": 40,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "phanpy": 330
+    },
+    "types": {
+        "phanpy": [
+            "Terra"
+        ]
+    },
+    "weight": {
+        "phanpy": "33,5 kg"
+    }
+}

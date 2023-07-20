@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "pelipper": {
+            "primary": "Sguardofermo",
+            "secondary": "Piovischio",
+            "hidden": "Copripioggia"
+        }
+    },
+    "curiosities": [
+        "Pelipper condivide la categoria con Ducklett. Sono entrambi noti come Pokémon Alacquatico.",
+        "Nel manga Pokémon Adventures, la ditta di traslochi impegnata nel trasferimento di Rubino e sua madre ad Hoenn si chiama Traslochi Pelipper."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pelipper.mp3",
+    "dex_entries": {
+        "pelipper": {
+            "ruby": "PELIPPER fa le veci di un aereo cargo poiché trasporta piccoli POKéMON e uova all'interno del suo becco enorme. Questo POKéMON crea il proprio nido sulle scogliere a picco sul mare.",
+            "sapphire": "PELIPPER si avventura in cerca di cibo volando radente sulla cresta delle onde. Immerge il suo becco enorme nell'acqua del mare per catturare la preda e poi inghiotte tutto in un sol boccone.",
+            "emerald": "PELIPPER vola radente sulle onde del mare cercando di individuare le prede, che poi cattura immergendo il suo enorme becco. Lì tiene al sicuro anche le uova.",
+            "firered": "In volo, può trasportare piccoli POKéMON nel becco. Quando è stanco scivola sulle onde per riposare le ali.",
+            "leafgreen": "In volo, può trasportare piccoli POKéMON nel becco. Quando è stanco scivola sulle onde per riposare le ali.",
+            "diamond": "Immerge il suo enorme becco nel mare, raccogliendo acqua e numerose prede.",
+            "pearl": "Funge da postino trasportando piccoli Pokémon nell'enorme becco. Si riposa galleggiando sulle onde.",
+            "platinum": "È un corriere dei cieli e porta uova e piccoli Pokémon nel suo enorme becco.",
+            "heartgold": "Prende i cuccioli nel becco per proteggerli dal nemico. Nei giorni di mare calmo, riposa sulle onde.",
+            "soulsilver": "Prende i cuccioli nel becco per proteggerli dal nemico. Nei giorni di mare calmo, riposa sulle onde.",
+            "black": "È un corriere dei cieli e porta uova e piccoli Pokémon nel suo enorme becco.",
+            "white": "È un corriere dei cieli e porta uova e piccoli Pokémon nel suo enorme becco.",
+            "black-2": "Si libra a pelo dell'acqua del mare pescando il suo cibo e trasportandolo via con il suo grande becco.",
+            "white-2": "Si libra a pelo dell'acqua del mare pescando il suo cibo e trasportandolo via con il suo grande becco.",
+            "x": "Immerge il suo enorme becco nel mare, raccogliendo acqua e numerose prede.",
+            "y": "È un corriere dei cieli e porta uova e piccoli Pokémon nel suo enorme becco.",
+            "omega-ruby": "Pelipper fa le veci di un aereo cargo poiché trasporta piccoli Pokémon e uova all'interno del suo becco enorme. Questo Pokémon crea il proprio nido sulle scogliere a picco sul mare.",
+            "alpha-sapphire": "Pelipper si avventura in cerca di cibo volando radente sulla cresta delle onde. Immerge il suo becco enorme nell'acqua del mare per catturare la preda e poi inghiotte tutto in un sol boccone.",
+            "sun": "Il suo becco è talmente grande che potrebbe contenere senza problemi un bambino piccolo.",
+            "moon": "I giovani maschi hanno il compito di procurare il cibo. Catturano le prede col loro becco enorme e le portano al nido dai loro compagni.",
+            "ultra-sun": "Trasporta piccoli Pokémon tenendoli nel suo enorme becco, ma non si sa dove li porti.",
+            "ultra-moon": "Pesca i Wishiwashi con l'enorme becco e li inghiotte in un sol boccone. Può mangiarne anche 30 per volta.",
+            "sword": "È un corriere dei cieli che trasporta Uova e piccoli Pokémon nel suo enorme becco per condurli in un luogo sicuro.",
+            "shield": "Si libra a pelo dell'acqua del mare pescando il suo cibo e trasportandolo via con il suo grande becco.",
+            "brilliant-diamond": "Immerge il suo enorme becco nel mare, raccogliendo numerose prede in una volta sola.",
+            "shining-pearl": "Funge da corriere trasportando piccoli Pokémon nell'enorme becco. Quando è stanco, si riposa galleggiando nel mare.",
+            "scarlet": "Un fattorino volante capace di trasportare piccoli Pokémon nel becco. Quando è stanco, scivola sulle onde per riposare le ali.",
+            "violet": "Protegge i piccoli nascondendoli nel becco. Nei giorni di mare calmo, si riposa galleggiando sulle onde."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Volante"
+    ],
+    "generation": 3,
+    "height": {
+        "pelipper": "1,20 m"
+    },
+    "id": 279,
+    "name": "Pelipper",
+    "name_origin": "Il nome di Pelipper deriva probabilmente da pelican, pellicano, e skipper, un grado di marinaio, oppure \"flipper\", riferendosi alle sue ali. Potrebbe anche essere la combinazione di pelican e di \"propeller\", elica, come quelle usate nei sottomarini, a causa della sua natura acquatica. ",
+    "origin": "Pelipper è ispirato ad un pellicano. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Alacquatico",
+    "sprites": {
+        "pelipper": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5b/Homem0279.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0279.png"
+        }
+    },
+    "stats": {
+        "pelipper": {
+            "hp": 60,
+            "atk": 50,
+            "def": 100,
+            "spa": 95,
+            "spd": 70,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "pelipper": 440
+    },
+    "types": {
+        "pelipper": [
+            "Volante",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "pelipper": "28,0 kg"
+    }
+}

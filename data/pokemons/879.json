@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Forzabruta",
+            "hidden": "Metalpesante"
+        }
+    },
+    "curiosities": [
+        "Quando Copperajah ha l'abilità Metalpesante diventa il Pokémon più pesante tra tutti ."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/copperajah.mp3",
+    "dex_entries": {
+        "copperajah": {
+            "sword": "La sua pelle verde è resistente all'acqua. Originario di un'altra regione, è giunto a Galar in passato per lavorare insieme agli esseri umani.",
+            "shield": "Vive in gruppo. La stretta della sua proboscide è così forte da mandare in frantumi anche le rocce più grandi.",
+            "scarlet": "Introdotto tempo fa nella regione da un luogo remoto, è dotato di una forza tale da poter trainare un aereo come nulla fosse.",
+            "violet": "Ha un’indole orgogliosa e stizzosa. I Copperajah con la pelle di colore verde acceso sono riveriti dai propri simili."
+        },
+        "copperajah-gigamax": {
+            "sword": "Liberando l'energia accumulata nella proboscide è in grado di spazzare via persino le montagne, cambiando la topografia di intere regioni.",
+            "shield": "Con la proboscide, cresciuta a dismisura grazie al fenomeno Gigamax, può demolire edifici enormi in un colpo solo."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Minerale"
+    ],
+    "generation": 8,
+    "height": {
+        "copperajah": "3,0 m",
+        "copperajah-gigamax": "> 23,0 m"
+    },
+    "id": 879,
+    "name": "Copperajah",
+    "name_origin": "Copperajah potrebbe essere una combinazione di copper, rame, e maharaja, titolo indiano per \"grande re\". Potrebbe derivare anche da gajah, elefante in indonesiano e malese, che a sua volta deriva da गज gaja, elefante in sanscrita. Daioudou potrebbe essere una combinazione di 大王 daiō, grande re, 王道 ōdō, regalità, e 銅 dō, rame, o 黄銅 ōdō, ottone. ",
+    "origin": "Data la storia che lega l'Asia con la Gran Bretagna e l'uso degli elefanti in cattività come animali da lavoro, Copperajah potrebbe prendere ispirazione da un elefante asiatico con una benna da scavo di un escavatore come proboscide. Potrebbe essere basato sulle statue d'elefante in rame e bronzo che sono comuni nell'arte indiana e Thai. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Bronzofante",
+    "sprites": {
+        "copperajah": {
+            "default": "https://media.pokemoncentral.it/wiki/c/ca/Homem0879.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0879.png"
+        },
+        "copperajah-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/2/29/Homem0879Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b0/Homemsh0879Gi.png"
+        }
+    },
+    "stats": {
+        "copperajah": {
+            "hp": 122,
+            "atk": 130,
+            "def": 69,
+            "spa": 80,
+            "spd": 69,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "copperajah": 500
+    },
+    "types": {
+        "copperajah": [
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "copperajah": "650,0 kg",
+        "copperajah-gigamax": "??? kg"
+    }
+}

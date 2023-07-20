@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "dragalge": {
+            "primary": "Velenopunte",
+            "secondary": "Velentocco",
+            "hidden": "Adattabilità"
+        }
+    },
+    "curiosities": [
+        "In sesta generazione Dragalge aveva una combinazione di tipi unica.",
+        "Nonostante sia basato su un dragone foglia, evolvendosi ha perso il tipo Acqua.",
+        "Dragalge e la sua pre-evoluzione sono gli unici Pokémon di tipo Veleno ad essere stati introdotti in sesta generazione.",
+        "Nonostante il Pokédex affermi che il suo veleno sia in grado di corrodere il metallo, Dragalge non può avere l’abilità Corrosione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dragalge.mp3",
+    "dex_entries": {
+        "dragalge": {
+            "x": "Spruzza su chiunque invada il suo territorio un veleno talmente potente da sciogliere lo scafo di una petroliera.",
+            "y": "Si dice che le navi che finiscono alla deriva nelle acque in cui vive questo Pokémon non tornino più indietro.",
+            "omega-ruby": "Spruzza su chiunque invada il suo territorio un veleno talmente potente da sciogliere lo scafo di una petroliera.",
+            "alpha-sapphire": "Si dice che le navi che finiscono alla deriva nelle acque in cui vive questo Pokémon non tornino più indietro.",
+            "ultra-sun": "È spietato e spruzza un liquido velenoso sui Pokémon ostili che gli si avvicinano. Per qualche strano motivo, va d’accordo solo con Dhelmise.",
+            "ultra-moon": "Aspetta la preda nascosto tra le alghe e l’attacca spruzzandole addosso un liquido altamente corrosivo che scioglie anche il metallo.",
+            "sword": "Con il suo liquido altamente corrosivo, capace di sciogliere il metallo, riduce in rottami le petroliere che sconfinano nel suo territorio.",
+            "shield": "Fa uscire la cresta che ha sulla testa fuori dall'acqua per assorbire la luce del sole e convertirla in energia Drago.",
+            "scarlet": "Attacca chiunque osi entrare nel suo territorio con un veleno talmente potente da corrodere persino il fondo delle barche.",
+            "violet": "Poiché nel nuoto non riesce a eguagliare Finizen, si nasconde tra le alghe e lo attacca immobilizzandolo con il suo veleno."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Drago"
+    ],
+    "generation": 6,
+    "height": {
+        "dragalge": "1,8 m"
+    },
+    "id": 691,
+    "name": "Dragalge",
+    "name_origin": "Dragalge è una combinazione di dragon, drago e algae, alga. Dramidoro potrebbe essere una combinazione di dragon, drago e 水綿 aomidoro, spirogyra. ",
+    "origin": "Dragalge è basato su un dragone foglia. ",
+    "shape": "quadrupede",
+    "specie": "Pokémon Similalga",
+    "sprites": {
+        "dragalge": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c5/Homem0691.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0691.png"
+        }
+    },
+    "stats": {
+        "dragalge": {
+            "hp": 65,
+            "atk": 75,
+            "def": 90,
+            "spa": 97,
+            "spd": 123,
+            "spe": 44
+        }
+    },
+    "stats_sum": {
+        "dragalge": 494
+    },
+    "types": {
+        "dragalge": [
+            "Veleno",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "dragalge": "81,5 kg"
+    }
+}

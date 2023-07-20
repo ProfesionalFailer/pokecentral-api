@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "cherubi": {
+            "primary": "Clorofilla"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di quarta generazione",
+        "Pokémon di tipo Erba",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Rosa",
+        "Pokémon dalla sagoma n. 11",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Magico",
+        "Pokémon di Gruppo Uova Erba",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 275",
+        "Pokémon con un totale massimo di 16 stelle prestazione"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cherubi.mp3",
+    "dex_entries": {
+        "cherubi": {
+            "diamond": "La pallina contiene i nutrimenti necessari per l'evoluzione. Dicono che sia molto dolce e deliziosa.",
+            "pearl": "La luce solare lo tinge di rosso. Se la pallina esaurisce i nutrimenti, si avvizzisce indicando l'evoluzione.",
+            "platinum": "La pallina, oltre a contenere sostanze nutritive, è molto gustosa. STARLY cerca spesso di beccarla.",
+            "heartgold": "Ricava l'energia necessaria all'evoluzione dalla pallina, ricca di sostanze nutritive.",
+            "soulsilver": "Ricava l'energia necessaria all'evoluzione dalla pallina, ricca di sostanze nutritive.",
+            "black": "La pallina, oltre a contenere sostanze nutritive, è molto gustosa. Starly cerca spesso di beccarla.",
+            "white": "La pallina, oltre a contenere sostanze nutritive, è molto gustosa. Starly cerca spesso di beccarla.",
+            "black-2": "La pallina, oltre a contenere sostanze nutritive, è molto gustosa. Starly cerca spesso di beccarla.",
+            "white-2": "La pallina, oltre a contenere sostanze nutritive, è molto gustosa. Starly cerca spesso di beccarla.",
+            "x": "La luce solare lo tinge di rosso. Se la pallina esaurisce i nutrimenti, si avvizzisce indicando l'evoluzione.",
+            "y": "Ricava l'energia necessaria all'evoluzione dalla pallina, ricca di sostanze nutritive.",
+            "omega-ruby": "La luce solare lo tinge di rosso. Se la pallina esaurisce i nutrimenti, si avvizzisce indicando l'evoluzione.",
+            "alpha-sapphire": "Ricava l'energia necessaria all'evoluzione dalla pallina, ricca di sostanze nutritive.",
+            "sword": "Fugge dai Pokémon alati, ghiotti della sua pallina ricca di sostanze nutritive.",
+            "shield": "Più è rosso, più è ricco di sostanze nutritive e più la sua pallina si fa dolce e gustosa.",
+            "brilliant-diamond": "La sfera più piccola contiene sostanze nutrienti necessarie per l'evoluzione. Dicono che sia molto dolce e deliziosa.",
+            "shining-pearl": "La luce solare lo tinge di rosso. Quando la sfera più piccola esaurisce i nutrimenti e si avvizzisce, significa che l'evoluzione è imminente.",
+            "legends-arceus": "S'evolve suggendo nutrienti dal frutto che gli cresce a lato allorché si fa grande e paffuto. Quindi il frutto cade e diviene cibo altrui."
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Erba"
+    ],
+    "generation": 4,
+    "height": {
+        "cherubi": "0,4 m"
+    },
+    "id": 420,
+    "name": "Cherubi",
+    "name_origin": "Deriva dalle parole cherry  o cherubic  e ruby . ",
+    "origin": "Cherubi è ispirato ad una ciliegia. ",
+    "shape": "bipedi",
+    "specie": "Pokémon Ciliegia",
+    "sprites": {
+        "cherubi": {
+            "default": "https://media.pokemoncentral.it/wiki/6/68/Homem0420.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0420.png"
+        }
+    },
+    "stats": {
+        "cherubi": {
+            "hp": 45,
+            "atk": 35,
+            "def": 45,
+            "spa": 62,
+            "spd": 53,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "cherubi": 275
+    },
+    "types": {
+        "cherubi": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "cherubi": "3,3 kg"
+    }
+}

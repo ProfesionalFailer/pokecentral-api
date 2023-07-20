@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "noctowl": {
+            "primary": "Insonnia",
+            "secondary": "Sguardofermo",
+            "hidden": "Lentifumé"
+        }
+    },
+    "curiosities": [
+        "Noctowl e la sua pre-evoluzione possono imparare Flash nelle generazioni II e III, ma non in quelle successive.",
+        "Noctowl è stato il primo Pokémon cromatico ad apparire nell'anime.",
+        "Nonostante impari moltissime mosse di tipo Psico tramite livello, e che sia dotato di poteri particolari come la visione notturna, non è di tipo Psico."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/noctowl.mp3",
+    "dex_entries": {
+        "noctowl": {
+            "gold": "Ha degli occhi speciali con cui concentra anche la luce più fioca per poter vedere al buio.",
+            "silver": "Quando pensa ruota la testa di 180 gradi per potenziare le sue capacità intellettive.",
+            "crystal": "Mentre vola, le morbide penne sono silenziosissime. Così, giunge sulla preda senza farsi notare.",
+            "ruby": "NOCTOWL non manca mai la cattura di una preda nell'oscurità. L'infallibilità gli deriva dall'acutissima vista, che gli consente di vedere anche alla luce più flebile, e dalle ali morbide e soffici, silenziosissime in volo.",
+            "sapphire": "NOCTOWL non manca mai la cattura di una preda nell'oscurità. L'infallibilità gli deriva dall'acutissima vista, che gli consente di vedere anche alla luce più flebile, e dalle ali morbide e soffici, silenziosissime in volo.",
+            "emerald": "NOCTOWL è infallibile nella cattura di una preda nell'oscurità, grazie alla sua vista acutissima nella luce flebile e alle sue ali morbide e silenziosissime.",
+            "firered": "Quando pensa ruota la testa di 180 gradi per potenziare le sue capacità intellettive.",
+            "leafgreen": "Ha degli occhi speciali con cui concentra anche la luce più fioca per poter vedere al buio.",
+            "diamond": "Ha una vista acutissima, tanto da riuscire a scorgere oggetti anche con la luce più fioca.",
+            "pearl": "Se mette la testa all'ingiù significa che sta riflettendo su qualche questione estremamente complicata.",
+            "platinum": "Ha una vista acutissima, che gli permette di vedere anche nel buio più profondo e con la luce più fioca.",
+            "heartgold": "Ha degli occhi speciali con cui concentra anche la luce più fioca per poter vedere al buio.",
+            "soulsilver": "Quando pensa ruota la testa di 180 gradi per potenziare le sue capacità intellettive.",
+            "black": "Ha una vista acutissima, che gli permette di vedere anche nel buio più profondo e con la luce più fioca.",
+            "white": "Ha una vista acutissima, che gli permette di vedere anche nel buio più profondo e con la luce più fioca.",
+            "black-2": "Ha una vista acutissima, che gli permette di vedere anche nel buio più profondo e con la luce più fioca.",
+            "white-2": "Ha una vista acutissima, che gli permette di vedere anche nel buio più profondo e con la luce più fioca.",
+            "x": "Ha degli occhi speciali con cui concentra anche la luce più fioca per poter vedere al buio.",
+            "y": "Quando pensa ruota la testa di 180 gradi per potenziare le sue capacità intellettive.",
+            "omega-ruby": "Noctowl non manca mai la cattura di una preda nell'oscurità. L'infallibilità gli deriva dall'acutissima vista, che gli consente di vedere anche alla luce più flebile, e dalle ali morbide e soffici, silenziosissime in volo.",
+            "alpha-sapphire": "Noctowl non manca mai la cattura di una preda nell'oscurità. L'infallibilità gli deriva dall'acutissima vista, che gli consente di vedere anche alla luce più flebile, e dalle ali morbide e soffici, silenziosissime in volo.",
+            "ultra-sun": "Riesce a vedere benissimo anche nell'oscurità e non si lascia mai sfuggire una preda. È chiamato anche \"re della notte\".",
+            "ultra-moon": "Quando capovolge la testa all'ingiù vuol dire che c'è qualcosa che lo preoccupa. Meglio non disturbarlo o si rischia di venire beccati.",
+            "sword": "Grazie alla speciale struttura dei suoi occhi, gli basta la luce più fioca per vedere anche nell'oscurità come fosse pieno giorno.",
+            "shield": "Quando pensa ruota la testa di 180 gradi per potenziare le sue capacità intellettive."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 2,
+    "height": {
+        "noctowl": "1,6 m"
+    },
+    "id": 164,
+    "name": "Noctowl",
+    "name_origin": "Il nome deriva dalla combinazione delle parole inglesi nocturnal  e owl . Potrebbe anche derivare dalla parola latina Noctuǎ . ",
+    "origin": "Basato su un gufo cornuto. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Gufo",
+    "sprites": {
+        "noctowl": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f4/Homem0164.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ac/Homemsh0164.png"
+        }
+    },
+    "stats": {
+        "noctowl": {
+            "hp": 100,
+            "atk": 50,
+            "def": 50,
+            "spa": 86,
+            "spd": 96,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "noctowl": 452
+    },
+    "types": {
+        "noctowl": [
+            "Normale",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "noctowl": "40,8 kg"
+    }
+}

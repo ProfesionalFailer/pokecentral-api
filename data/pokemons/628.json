@@ -1,0 +1,99 @@
+{
+    "abilities": {
+        "braviary": {
+            "primary": "Sguardofermo",
+            "secondary": "Forzabruta",
+            "hidden": "Agonismo"
+        },
+        "forma-di-hisui": {
+            "primary": "Sguardofermo",
+            "secondary": "Forzabruta",
+            "hidden": "Lentifumé"
+        }
+    },
+    "curiosities": [
+        "La controparte femminile di Braviary, Mandibuzz, non è capace di produrre uova di Rufflet. Lo stesso si può osservare anche con Tauros, Pokémon che può essere solo maschio, e Miltank, la sua controparte femminile, che, tuttavia, non può produrre uova di Tauros.",
+        "Braviary rappresenta il mese di agosto  nell'oroscopo di Unima.",
+        "Secondo quanto rivelato da una intervista concessa da Ken Sugimori alla rivista Nintendo Dream, Rufflet e Braviary furono tra i primi Pokémon concepiti durante lo sviluppo di Pokémon Nero e Bianco."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/braviary.mp3",
+    "dex_entries": {
+        "braviary": {
+            "black": "Incurante del pericolo, lotta per difendere i compagni. Può sollevare in volo anche una pesante automobile.",
+            "white": "È l'intrepido guerriero del cielo. Si dice che sia tanto più rispettato dai suoi simili quante più sono le sue cicatrici.",
+            "black-2": "È l'intrepido guerriero del cielo. Per difendere i suoi simili, lotta fino all'ultimo senza badare alle ferite.",
+            "white-2": "È l'intrepido guerriero del cielo. Per difendere i suoi simili, lotta fino all'ultimo senza badare alle ferite.",
+            "x": "È l'intrepido guerriero del cielo. Per difendere i suoi simili, lotta fino all'ultimo senza badare alle ferite.",
+            "y": "Incurante del pericolo, lotta per difendere i compagni. Può sollevare in volo anche una pesante automobile.",
+            "omega-ruby": "È l'intrepido guerriero del cielo. Per difendere i suoi simili, lotta fino all'ultimo senza badare alle ferite",
+            "alpha-sapphire": "Incurante del pericolo, lotta per difendere i compagni. Può sollevare in volo anche una pesante automobile.",
+            "sun": "Pokémon intrepido che non teme nemmeno la morte. Venerato nell'antica Alola, era noto come \"l'eroe del cielo\".",
+            "moon": "Il loro habitat era un tempo minacciato dagli uomini, ma i Braviary lottarono uniti per difenderlo.",
+            "ultra-sun": "Gli esemplari con più cicatrici sul volto sono considerati i più valorosi. Quelli con cicatrici sul dorso, al contrario, sono derisi dal gruppo.",
+            "ultra-moon": "Noto come \"l'eroe del cielo\", è un Pokémon fiero e coraggioso che non scappa mai di fronte al pericolo, neanche quando è ferito.",
+            "sword": "È un Pokémon intrepido e orgoglioso. Appare spesso come motivo araldico per via del suo eroismo.",
+            "shield": "A causa del suo carattere irruente e violento ha perso il posto di corriere a Galar, che gli è stato rubato da Corviknight.",
+            "scarlet": "È l’intrepido guerriero del cielo. Si dice che sia tanto più rispettato dai suoi simili quante più sono le sue cicatrici.",
+            "violet": "È l’intrepido guerriero del cielo. Per difendere i suoi simili, lotta fino all’ultimo senza badare alle ferite."
+        },
+        "forma-di-hisui": {
+            "legends-arceus": "Enorme e feroce volatile che nel cacciare leva un tremendo grido di guerra. Sferza gli specchi d'acqua con onde d'urto e ghermisce le prede in tal modo condotte a galla."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 5,
+    "height": {
+        "braviary": "1,5 m",
+        "forma-di-hisui": "1,7 m"
+    },
+    "id": 628,
+    "name": "Braviary",
+    "name_origin": "Il nome Braviary è una corruzione della parola bravery ovvero coraggioso, può essere anche l'unione delle parole brave  e aviary . Nella tradizione americana, inoltre, si usa dire \"home of the brave\" in riferimento alla bandiera a stelle e strisce. Potrebbe derivare anche dal termine brave usato dai nativi americani per indicare i loro guerrieri, infatti in certe tribù l'aquila era un animale sacro. ",
+    "origin": "Braviary è ispirato ad un'aquila, più precisamente ad un'aquila calva. Tuttavia altre delle sue caratteristiche fisiche, come le zampe piumate corona di piume vividamente colorata al di sopra del suo becco, sono riconducibili all'aquila reale. Le piume sulla sua testa e sulla sua faccia sembrano inoltre formare quello che gli americani chiamano \"war bonnet\", cioè il tipico copricapo utilizzato dai Nativi Americani. Una somiglianza con tale copricapo è presente anche in natura, come è possibile notare osservando una aquila delle filippine. Il colore del piumaggio di Braviary ricorda inoltre quello della bandiera degli Stati Uniti d'America che, per l'appunto, presenta strisce bianche e rosse e un riquadro in alto a sinistra di colore blu. Un ulteriore legame fra questo Pokémon e tale bandiera è proprio il fatto che l'aquila calva, volatile a cui è ispirato Braviary, è l'animale simbolo degli Stati Uniti d'America. La sua forza, il suo coraggio, e la sua corona piumata sono inoltre ispirati ai guerrieri Nativi Americani.\nIn un intervista di Ken Sugimori, è stato confermato che Rufflet e Braviary furono tra i primi Pokémon programmati per i giochi Bianco e Nero. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Baldanza",
+    "sprites": {
+        "braviary": {
+            "default": "https://media.pokemoncentral.it/wiki/2/21/Homem0628.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0628.png"
+        }
+    },
+    "stats": {
+        "braviary": {
+            "hp": 100,
+            "atk": 123,
+            "def": 75,
+            "spa": 57,
+            "spd": 75,
+            "spe": 80
+        },
+        "forma-di-hisui": {
+            "hp": 110,
+            "atk": 83,
+            "def": 70,
+            "spa": 112,
+            "spd": 70,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "braviary": 510,
+        "forma-di-hisui": 510
+    },
+    "types": {
+        "braviary": [
+            "Normale",
+            "Volante"
+        ],
+        "forma-di-hisui": [
+            "Psico",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "braviary": "41,0 kg",
+        "forma-di-hisui": "43,4 kg"
+    }
+}

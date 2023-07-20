@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "tangrowth": {
+            "primary": "Clorofilla",
+            "secondary": "Fogliamanto",
+            "hidden": "Rigenergia"
+        }
+    },
+    "curiosities": [
+        "Prima del rilascio di Pokémon Platino, l'unico modo per avere Tangrowth era catturare un Tangela nei giochi di terza generazione e trasferirlo via Parco Amici, per poi successivamente evolverlo.\n\tGliscor, Magmortar ed Electivire potevano invece essere ottenuti catturando le loro pre-evoluzioni tramite Modalità Dual-Slot.",
+        "Gliscor, Magmortar ed Electivire potevano invece essere ottenuti catturando le loro pre-evoluzioni tramite Modalità Dual-Slot."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tangrowth.mp3",
+    "dex_entries": {
+        "tangrowth": {
+            "diamond": "Intrappola le prede con gli arti, che sono costituiti da liane. Se ne perde uno, non si turba affatto.",
+            "pearl": "Intrappola le prede con gli arti, che sono costituiti da liane. Se ne perde uno, non si turba affatto.",
+            "platinum": "I suoi arti sono composti da liane che si avvinghiano agli oggetti. Se tagliati ricrescono subito.",
+            "heartgold": "Se resta immobile, è visibile solo nella fitta boscaglia. Intrappola con liane l'incauta preda.",
+            "soulsilver": "Nella stagione calda, le sue liane crescono al punto da coprirgli gli occhi.",
+            "black": "I suoi arti sono composti da liane che si avvinghiano agli oggetti. Se tagliati ricrescono subito.",
+            "white": "I suoi arti sono composti da liane che si avvinghiano agli oggetti. Se tagliati ricrescono subito.",
+            "black-2": "Non si preoccupa di perdere un arto. La sua forza rigeneratrice è così potente da farglielo ricrescere in un istante.",
+            "white-2": "Non si preoccupa di perdere un arto. La sua forza rigeneratrice è così potente da farglielo ricrescere in un istante.",
+            "x": "Intrappola le prede con gli arti, che sono costituiti da liane. Se ne perde uno, non si turba affatto.",
+            "y": "Nella stagione calda, le sue liane crescono al punto da coprirgli gli occhi.",
+            "omega-ruby": "Intrappola le prede con gli arti, che sono costituiti da liane. Se ne perde uno, non si turba affatto.",
+            "alpha-sapphire": "Nella stagione calda, le sue liane crescono al punto da coprirgli gli occhi.",
+            "sword": "Può estendere le braccia a piacimento. In seguito a recenti ricerche si è scoperto che sono in realtà fasci di liane.",
+            "shield": "Più il territorio in cui vive è caldo, più le sue liane crescono velocemente. Quando si allungano troppo, le taglia per accorciarle.",
+            "brilliant-diamond": "Intrappola le prede con le braccia, che sono composte da liane. Per lui non è un gran problema perdere un braccio.",
+            "shining-pearl": "Intrappola le prede con le braccia, che sono composte da liane. Per lui non è un gran problema perdere un braccio.",
+            "legends-arceus": "Avvolto da liane fluenti, ha fattezze simili a un cespuglio frondoso. Ghermisce le prede con fasci di liane che adopra a guisa di arti superiori."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 4,
+    "height": {
+        "tangrowth": "2,0 m"
+    },
+    "id": 465,
+    "name": "Tangrowth",
+    "name_origin": "Deriva dalle parole tangle  e growth . ",
+    "origin": "Basato sull'uomo verde , ma con caratteristiche di una pianta rampicante. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Liana",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8f/Homem0465.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7d/Homemsh0465.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/0/00/Homef0465.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homefsh0465.png"
+        }
+    },
+    "stats": {
+        "tangrowth": {
+            "hp": 100,
+            "atk": 100,
+            "def": 125,
+            "spa": 110,
+            "spd": 50,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "tangrowth": 535
+    },
+    "types": {
+        "tangrowth": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "tangrowth": "128,6 kg"
+    }
+}

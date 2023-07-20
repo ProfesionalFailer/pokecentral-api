@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "forma-incarnazione": {
+            "primary": "Burla",
+            "hidden": "Agonismo"
+        },
+        "forma-totem": {
+            "primary": "Assorbivolt"
+        }
+    },
+    "curiosities": [
+        "Nei videogiochi Thundurus può essere considerato più potente di Tornadus, visto che il tipo Elettro è superefficace contro il tipo Volante.\n\tInoltre le loro Forme Incarnazione hanno gli stessi valori base delle statistiche.",
+        "Inoltre le loro Forme Incarnazione hanno gli stessi valori base delle statistiche."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/thundurus.mp3",
+    "dex_entries": {
+        "thundurus": {
+            "black": "Dove passa Thundurus, rimane una scia lunghissima di bruciature nere provocate dai fulmini che scaglia.",
+            "white": "Lancia scariche elettriche dagli aculei della coda. Vola per i cieli di Unima scagliando fulmini.",
+            "black-2": "Non è molto amato perché durante i suoi peregrinaggi nei cieli fa cadere fulmini qua e là che causano incendi dei boschi.",
+            "white-2": "Non è molto amato perché durante i suoi peregrinaggi nei cieli fa cadere fulmini qua e là che causano incendi dei boschi.",
+            "x": "Lancia scariche elettriche dagli aculei della coda. Vola per i cieli di Unima scagliando fulmini.",
+            "y": "Non è molto amato perché durante il suo peregrinare nei cieli fa cadere fulmini qua e là che causano incendi nei boschi.",
+            "omega-ruby": "Lancia scariche elettriche dagli aculei della coda. Vola per i cieli di Unima scagliando fulmini.",
+            "alpha-sapphire": "Non è molto amato perché durante il suo peregrinare nei cieli fa cadere fulmini qua e là che causano incendi nei boschi."
+        },
+        "forma-incarnazione": {
+            "legends-arceus": "Si enarra che da tempi immemorabili lotti brandendo saette contro Tornadus, suo acerrimo inimico. Fortifica la terra con fulmini che incidono il suolo."
+        },
+        "forma-totem": {
+            "legends-arceus": "Si manifesta come fragor di tuono e sfolgorar di fulmine. Scaglia saette dalle sfere concatenate nella coda, annientando gli inimici con potenza sì tremenda da non lasciarne un minuzzolo."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 5,
+    "height": {
+        "forma-incarnazione": "1,5 m",
+        "forma-totem": "3.0 m"
+    },
+    "id": 642,
+    "name": "Thundurus",
+    "name_origin": "Thundurus deriva dalla parola inglese thunder \"tuono\", o da thunderous \"tonante\"; il nome giapponese, ボルトロス Voltolos deriva dalla parola Volt, unità di misura del potenziale elettrico. ",
+    "origin": "La Forma Incarnata è certamente ispirata a Raijin, il Kami del tuono e del fulmine, fratello del kami del vento Fūjin. Richiama il tuono e scatena temporali percuotendo un cerchio di tamburi disposti attorno a lui, di cui la coda di Thundurus rievoca la forma. La Forma Totem è basata sul Dragone Azzurro, due delle cinque bestie guardiane della mitologia cinese. Altra fonte d'ispirazione potrebbe essere Quetzalcoatl, serpente piumato della mitologia azteca. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Fulminante",
+    "sprites": {
+        "forma-incarnazione": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2d/Homem0642.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4c/Homemsh0642.png"
+        },
+        "forma-totem": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7e/Homem0642T.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7b/Homemsh0642T.png"
+        }
+    },
+    "stats": {
+        "forma-incarnazione": {
+            "hp": 79,
+            "atk": 115,
+            "def": 70,
+            "spa": 125,
+            "spd": 80,
+            "spe": 111
+        },
+        "forma-totem": {
+            "hp": 79,
+            "atk": 105,
+            "def": 70,
+            "spa": 145,
+            "spd": 80,
+            "spe": 101
+        }
+    },
+    "stats_sum": {
+        "forma-incarnazione": 580,
+        "forma-totem": 580
+    },
+    "types": {
+        "thundurus": [
+            "Elettro",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "thundurus": "65,0 kg"
+    }
+}

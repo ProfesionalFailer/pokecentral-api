@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "armarouge": {
+            "primary": "Fuocardore",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Fuoco",
+        "Pokémon di tipo Psico",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Lento",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Umanoide",
+        "Pagine con articoli di Johto World",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 525"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/armarouge.mp3",
+    "dex_entries": {
+        "armarouge": {
+            "scarlet": "Si è evoluto in questa forma grazie all'armatura di un guerriero distintosi sul campo di battaglia. È noto per la sua estrema fedeltà.",
+            "violet": "Questo Pokémon indossa un'armatura rinforzata dall'energia Psico e Fuoco. Lancia palle di fuoco incandescenti contro i suoi nemici."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 9,
+    "height": {
+        "armarouge": "1,5 m"
+    },
+    "id": 936,
+    "name": "Armarouge",
+    "name_origin": "Armarouge potrebbe essere una combinazione di armadura, armatura in spagnolo, e rouge, rosso in francese. Gurenaruma potrebbe essere una combinazione di 紅蓮 guren, rosso, e armadura. ",
+    "origin": "Armarouge potrebbe essere ispirato ad un cavaliere e ad armi di artiglieria a lungo raggio. La sua personalità ricorda il codice cavalleresco. ",
+    "shape": "None",
+    "specie": "Pokémon Guerrigneo",
+    "sprites": {
+        "armarouge": {
+            "default": "https://media.pokemoncentral.it/wiki/6/66/Homem0936.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0936.png"
+        }
+    },
+    "stats": {
+        "armarouge": {
+            "hp": 85,
+            "atk": 60,
+            "def": 100,
+            "spa": 125,
+            "spd": 80,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "armarouge": 525
+    },
+    "types": {
+        "armarouge": [
+            "Psico",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "armarouge": "85,0 kg"
+    }
+}

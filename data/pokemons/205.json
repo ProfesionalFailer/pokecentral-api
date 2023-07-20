@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "forretress": {
+            "primary": "Vigore",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Forretress può imparare tutte le varianti di punte: Fielepunte e Punte aumentando di livello, e Levitoroccia tramite Insegnamosse.",
+        "Forretress, assieme a Genesect, Scizor ed Escavalier, ha una sola debolezza x4 , ma non ha debolezze x2.",
+        "Nella sedicesima edizione della Gazzetta PKMN, l'interno del guscio di Forretress è considerato una delle sette meraviglie dei Pokémon, insieme all'intelligenza della coda di Girafarig, ai piedi di Diglett ed alle facce di Arbok.",
+        "Forretress e la sua pre-evoluzione condividono il nome della categoria con Burmy e Wormadam. Sono tutti noti come Pokémon Larva.",
+        "Lo sprite di Forretress di Pokémon Cristallo è leggermente diverso da quello di Oro e Argento, facendolo diventare uno dei pochi Pokémon ad avere tre sprite distinti in Seconda generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/forretress.mp3",
+    "dex_entries": {
+        "forretress": {
+            "gold": "L'intero corpo è protetto da un guscio duro come acciaio. Nessuno sa cosa si trovi sotto l'armatura.",
+            "silver": "Rimane saldamente attaccato al suo albero. Tiene lontani i nemici lanciando pezzi del duro guscio.",
+            "crystal": "Spesso lo si vede appeso al tronco di qualche grosso albero. Se si agita lancia pezzi del suo guscio.",
+            "ruby": "FORRETRESS si nasconde all'interno della sua conchiglia d'acciaio temprato. La conchiglia si apre soltanto per catturare la preda, ma il POKéMON ha una rapidità tale che non è possibile osservarne l'interno.",
+            "sapphire": "FORRETRESS si nasconde all'interno della sua conchiglia d'acciaio temprato. La conchiglia si apre soltanto per catturare la preda, ma il POKéMON ha una rapidità tale che non è possibile osservarne l'interno.",
+            "emerald": "FORRETRESS si nasconde nella conchiglia d'acciaio temprato che apre solo per catturare la preda. Lo fa così rapidamente che è impossibile osservarne l'interno.",
+            "firered": "Rimane saldamente attaccato al suo albero. Tiene lontani i nemici lanciando pezzi del duro guscio.",
+            "leafgreen": "L'intero corpo è protetto da un guscio duro come acciaio. Nessuno sa cosa si trovi sotto il guscio.",
+            "diamond": "È incassato in una conchiglia d'acciaio. A parte gli occhi scrutatori, nessuno sa cosa ci sia all'interno.",
+            "pearl": "È incassato in una conchiglia d'acciaio. A parte gli occhi scrutatori, nessuno sa cosa ci sia all'interno.",
+            "platinum": "È incassato in una conchiglia d'acciaio. A parte gli occhi scrutatori, nessuno sa cosa ci sia all'interno.",
+            "heartgold": "L'intero corpo è protetto da un guscio duro come acciaio. Nessuno sa cosa si trovi sotto l’armatura.",
+            "soulsilver": "Rimane saldamente attaccato al suo albero. Tiene lontani i nemici lanciando pezzi del duro guscio.",
+            "black": "È incassato in una conchiglia d'acciaio. A parte gli occhi scrutatori, nessuno sa cosa ci sia all'interno.",
+            "white": "È incassato in una conchiglia d'acciaio. A parte gli occhi scrutatori, nessuno sa cosa ci sia all'interno.",
+            "black-2": "È incassato in una conchiglia d'acciaio. A parte gli occhi scrutatori, nessuno sa cosa ci sia all'interno.",
+            "white-2": "È incassato in una conchiglia d'acciaio. A parte gli occhi scrutatori, nessuno sa cosa ci sia all'interno.",
+            "x": "È incassato in una conchiglia d'acciaio. A parte gli occhi scrutatori, nessuno sa cosa ci sia all'interno.",
+            "y": "Rimane saldamente attaccato al suo albero. Tiene lontani i nemici lanciando pezzi del duro guscio.",
+            "omega-ruby": "Forretress si nasconde all'interno della sua conchiglia d'acciaio temprato. La conchiglia si apre soltanto per catturare la preda, ma il Pokémon ha una rapidità tale che non è possibile osservarne l'interno.",
+            "alpha-sapphire": "Forretress si nasconde all'interno della sua conchiglia d'acciaio temprato. La conchiglia si apre soltanto per catturare la preda, ma il Pokémon ha una rapidità tale che non è possibile osservarne l'interno.",
+            "ultra-sun": "Scaglia frammenti del suo guscio d’acciaio temprato contro qualunque cosa gli si avvicini, ma si tratta di un riflesso involontario.",
+            "ultra-moon": "L'istante in cui ingoia la preda è l'unico momento in cui è possibile sbirciare nella sua conchiglia. Nessuno sa esattamente come sia fatto.",
+            "brilliant-diamond": "È protetto da un guscio d'acciaio. A parte gli occhi che scrutano fuori, nessuno sa cosa ci sia all'interno.",
+            "shining-pearl": "È protetto da un guscio d'acciaio. A parte gli occhi che scrutano fuori, nessuno sa cosa ci sia all'interno.",
+            "scarlet": "Lo si vede spesso attaccato al tronco di qualche grosso albero. Quando avverte una qualche presenza, scaglia frammenti del suo guscio.",
+            "violet": "L’intero corpo è protetto da un guscio duro come l’acciaio. Nessuno sa cosa ci sia all’interno."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 2,
+    "height": {
+        "forretress": "1,2 m"
+    },
+    "id": 205,
+    "name": "Forretress",
+    "name_origin": "Deriva dalla parola fortress  o da forest . ",
+    "origin": "Basato su un seme di ippocastano. ",
+    "shape": "testa",
+    "specie": "Pokémon Larva",
+    "sprites": {
+        "forretress": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3f/Homem0205.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0205.png"
+        }
+    },
+    "stats": {
+        "forretress": {
+            "hp": 75,
+            "atk": 90,
+            "def": 140,
+            "spa": 60,
+            "spd": 60,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "forretress": 465
+    },
+    "types": {
+        "forretress": [
+            "Acciaio",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "forretress": "125,8 kg"
+    }
+}

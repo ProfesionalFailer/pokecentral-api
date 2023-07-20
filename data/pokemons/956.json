@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "espathra": {
+            "primary": "Scrocco",
+            "secondary": "Indagine",
+            "hidden": "Acceleratore"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Psico",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Volante",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 481"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/espathra.mp3",
+    "dex_entries": {
+        "espathra": {
+            "scarlet": "Immobilizza l'avversario con il potere psichico che emette dalle grandi pupille. Dall'aspetto non si direbbe, ma ha un'indole violenta.",
+            "violet": "Il potere psichico che emette dagli spazi tra le balze colorate del corpo gli permette di correre alla velocità di 200 km/h."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 9,
+    "height": {
+        "espathra": "1,9 m"
+    },
+    "id": 956,
+    "name": "Espathra",
+    "name_origin": "Espathra potrebbe essere una combinazione di ESP , telepath , Cleopatra, e Struthio, il genere degli struzzi. Kuesapatora potrebbe essere una combinazione di イーエスピー i-esupi  e la pronuncia giapponese di Cleopatra. ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Struzzo",
+    "sprites": {
+        "espathra": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d4/Homem0956.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/69/Homemsh0956.png"
+        }
+    },
+    "stats": {
+        "espathra": {
+            "hp": 95,
+            "atk": 60,
+            "def": 60,
+            "spa": 101,
+            "spd": 60,
+            "spe": 105
+        }
+    },
+    "stats_sum": {
+        "espathra": 481
+    },
+    "types": {
+        "espathra": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "espathra": "90,0 kg"
+    }
+}

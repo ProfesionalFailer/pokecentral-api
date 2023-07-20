@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "floragato": {
+            "primary": "Erbaiuto",
+            "hidden": "Mutatipo"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Erba",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di sette maschi per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon di Gruppo Uova Erba",
+        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
+        "Pokémon con statistiche base totali di 410"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/floragato.mp3",
+    "dex_entries": {
+        "floragato": {
+            "scarlet": "Muove con agilità la liana nascosta sotto il lungo pelo e sferza il nemico con il duro bocciolo sulla punta.",
+            "violet": "La durezza della pelliccia cambia in base al suo stato d'animo. Quando si accinge alla lotta, il suo pelo diventa irto di punte acuminate come aghi."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Erba"
+    ],
+    "generation": 9,
+    "height": {
+        "floragato": "0,9 m"
+    },
+    "id": 907,
+    "name": "Floragato",
+    "name_origin": "Floragato potrebbe essere un'unione di flora e gato, spagnolo per gatto. Nyarote potrebbe essere un'unione di ニャー nyā  e brote . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Erbagatto",
+    "sprites": {
+        "floragato": {
+            "default": "https://media.pokemoncentral.it/wiki/7/71/Homem0907.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3e/Homemsh0907.png"
+        }
+    },
+    "stats": {
+        "floragato": {
+            "hp": 61,
+            "atk": 80,
+            "def": 63,
+            "spa": 60,
+            "spd": 63,
+            "spe": 83
+        }
+    },
+    "stats_sum": {
+        "floragato": 410
+    },
+    "types": {
+        "floragato": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "floragato": "12,2 kg"
+    }
+}

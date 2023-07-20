@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "dustox": {
+            "primary": "Polvoscudo",
+            "hidden": "Insettocchi"
+        }
+    },
+    "curiosities": [
+        "Nonostante sia la controparte di Beautifly, ed in passato condividesse con lui il totale delle statistiche base, in sesta generazione hanno aggiunto 10 punti alle statistiche base di Beautifly, ma non a quelle di Dustox.",
+        "Dustox condivide la categoria con Venomoth: sono entrambi noti come Pokémon Velentarma.",
+        "Dustox è l'unico Pokémon di tipo Veleno che si evolve da un Pokémon che non possiede questo tipo. Per questo, se un Cascoon affetto da avvelenamento si evolve, manterrà lo status."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dustox.mp3",
+    "dex_entries": {
+        "dustox": {
+            "ruby": "DUSTOX è istintivamente attratto dalla luce. Nuvoli di questi POKéMON sono attirati dalla luce intensa delle città, dove causano danni ingenti strappando le foglie delle piante di cui si nutrono lungo le strade urbane.",
+            "sapphire": "Quando agita le ali, DUSTOX sparge una polvere sottile tutt'intorno. In realtà si tratta di un potente veleno capace di mettere al tappeto anche un campione di lotta libera. Per cercare il cibo usa le antenne come un radar.",
+            "emerald": "POKéMON notturno, DUSTOX vola su campi e monti attirato dalla luce dei lampioni. Dalle ali rilascia una polvere altamente tossica.",
+            "firered": "Quando avverte il pericolo, libera un'orribile polvere tossica. È attirato dalla luce dei lampioni.",
+            "leafgreen": "Quando avverte il pericolo, libera un'orribile polvere tossica. È attirato dalla luce dei lampioni.",
+            "diamond": "Pokémon notturno. Attirato dalla luce dei lampioni, divora le foglie degli alberi lungo i viali.",
+            "pearl": "Se attaccato, sbatte con forza le ali e sparge una polvere tossica. Lo si vede in giro dopo il tramonto.",
+            "platinum": "Rilascia una polvere tossica dalle ali. Di notte divora le foglie degli alberi lungo i viali.",
+            "heartgold": "Respinge l’attacco del nemico spargendo una polvere velenosa potente. È un Pokémon notturno.",
+            "soulsilver": "Respinge l’attacco del nemico spargendo una polvere velenosa potente. È un Pokémon notturno.",
+            "black": "Rilascia una polvere tossica dalle ali. Di notte divora le foglie degli alberi lungo i viali.",
+            "white": "Rilascia una polvere tossica dalle ali. Di notte divora le foglie degli alberi lungo i viali.",
+            "black-2": "Rilascia una polvere tossica dalle ali. Di notte divora le foglie degli alberi lungo i viali.",
+            "white-2": "Rilascia una polvere tossica dalle ali. Di notte divora le foglie degli alberi lungo i viali.",
+            "x": "Pokémon notturno. Attirato dalla luce dei lampioni, divora le foglie degli alberi lungo i viali.",
+            "y": "Se attaccato, sbatte con forza le ali e sparge una polvere tossica. Lo si vede in giro dopo il tramonto.",
+            "omega-ruby": "Dustox è istintivamente attratto dalla luce. Nugoli di questi Pokémon sono attirati dalla luce intensa della città, dove causano danni ingenti strappando le foglie delle piante di cui si nutrono lungo le strade urbane.",
+            "alpha-sapphire": "Quando agita le ali, Dustox sparge una polvere sottile tutt'intorno. In realtà si tratta del potente veleno capace di mettere al tappeto anche un campione di lotta libera. Per cercare il cibo usa le antenne come radar.",
+            "brilliant-diamond": "Pokémon notturno. Attirato dalla luce dei lampioni, divora le foglie degli alberi lungo i viali.",
+            "shining-pearl": "Se attaccato, sbatte con forza le ali e sparge una polvere tossica. È attivo dopo il tramonto.",
+            "legends-arceus": "I Dustox usano radunarsi attorno a falò nell'oscurità della notte. Diffondono un pulviscolo assai velenifero e tenerli lungi dal villaggio è impresa ostica."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 3,
+    "height": {
+        "dustox": "1,20 m"
+    },
+    "id": 269,
+    "name": "Dustox",
+    "name_origin": "Deriva dalle parole dust  e toxic . ",
+    "origin": "Basato su di una falena della specie Actias artemis. ",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Velentarma",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/4/44/Homem0269.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0269.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/d/db/Homef0269.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homefsh0269.png"
+        }
+    },
+    "stats": {
+        "dustox": {
+            "hp": 60,
+            "atk": 50,
+            "def": 70,
+            "spa": 50,
+            "spd": 90,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "dustox": 385
+    },
+    "types": {
+        "dustox": [
+            "Veleno",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "dustox": "31,6 kg"
+    }
+}

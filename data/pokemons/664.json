@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "scatterbug": {
+            "primary": "Polvoscudo",
+            "secondary": "Insettocchi",
+            "hidden": "Amicoscudo"
+        }
+    },
+    "curiosities": [
+        "Scatterbug e le sue evoluzioni sono gli unici Pokémon di tipo Coleottero introdotti in sesta generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/scatterbug.mp3",
+    "dex_entries": {
+        "scatterbug": {
+            "x": "Se assalito da Pokémon uccello, si difende emettendo velenose scaglie nere che paralizzano al minimo contatto.",
+            "y": "La sua temperatura corporea è regolata dalle scaglie che ne ricoprono il corpo. Grazie ad esse può adattarsi e sopravvivere in qualsiasi condizione climatica.",
+            "omega-ruby": "Se assalito da Pokémon uccello, si difende emettendo velenose scaglie nere che paralizzano al minimo contatto.",
+            "alpha-sapphire": "La sua temperatura corporea è regolata dalle scaglie che ne ricoprono il corpo. Grazie ad esse può adattarsi e sopravvivere in qualsiasi condizione climatica.",
+            "scarlet": "Può mangiare foglie e radici velenose perché è in grado di trasformare le tossine che assorbe in una polvere nera, che poi espelle.",
+            "violet": "Mette in fuga il nemico emettendo una polvere velenosa. Le piante di cui si ciba variano a seconda del luogo in cui vive."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 6,
+    "height": {
+        "scatterbug": "0,3 m"
+    },
+    "id": 664,
+    "name": "Scatterbug",
+    "name_origin": "Scatterbug è una combinazione tra scatter  e bug . Kofukimushi è una combinazione tra コフキコガネ Kofukikogane  e 虫 mushi . ",
+    "origin": "",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Tirascaglie",
+    "sprites": {
+        "scatterbug": {
+            "default": "https://media.pokemoncentral.it/wiki/3/39/Homem0664.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0664.png"
+        }
+    },
+    "stats": {
+        "scatterbug": {
+            "hp": 38,
+            "atk": 35,
+            "def": 40,
+            "spa": 27,
+            "spd": 25,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "scatterbug": 200
+    },
+    "types": {
+        "scatterbug": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "scatterbug": "2,5 kg"
+    }
+}

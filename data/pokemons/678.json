@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "maschio": {
+            "primary": "Sguardofermo",
+            "secondary": "Intrapasso",
+            "hidden": "Burla"
+        },
+        "femmina": {
+            "primary": "Sguardofermo",
+            "secondary": "Intrapasso",
+            "hidden": "Tenacia"
+        }
+    },
+    "curiosities": [
+        "Meowstic condivide con Indeedee la caratteristica di avere due forme differenti in base al sesso, aventi mosse apprese e voce Pokédex diverse.\n\tCuriosamente il suo numero di Pokédex Nazionale, 678, è il contrario di 876, il numero di Indeedee.",
+        "Curiosamente il suo numero di Pokédex Nazionale, 678, è il contrario di 876, il numero di Indeedee.",
+        "Meowstic è l'unico Pokémon con un totale di statistiche base pari a 466."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/meowstic.mp3",
+    "dex_entries": {
+        "meowstic": {
+            "x": "Se si sente minacciato, drizza le orecchie e libera un potere psichico devastante, in grado di accartocciare un camion da 10 t come se fosse una lattina.",
+            "y": "I motivi a forma di occhio all'interno delle orecchie sono la fonte del potere psichico. Li tiene coperti per controllarne l'immensa potenza.",
+            "omega-ruby": "Se si sente minacciato, drizza le orecchie e libera un potere psichico devastante, in grado di accartocciare un camion da 10 t come se fosse una lattina.",
+            "alpha-sapphire": "I motivi a forma di occhio all'interno delle orecchie sono la fonte del potere psichico. Li tiene coperti per controllarne l'immensa potenza."
+        },
+        "maschio": {
+            "sword": "I motivi a forma di occhio all'interno delle orecchie sono la fonte del suo potere psichico. Di solito tiene nascosti i suoi poteri.",
+            "shield": "Il maschio ha un forte istinto protettivo. Se deve difendere se stesso o il suo Allenatore, attacca con una forza formidabile."
+        },
+        "femmina": {
+            "sword": "La femmina è un po' più capricciosa e aggressiva del maschio. Con i suoi poteri psichici concia per le feste i seccatori.",
+            "shield": "Se sprigiona tutto il suo potere psichico, ha una potenza tale da distruggere una petroliera. Ha un carattere scostante, ma fa parte del suo fascino."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 6,
+    "height": {
+        "meowstic": "0,6 m"
+    },
+    "id": 678,
+    "name": "Meowstic",
+    "name_origin": "Meowstic è una combinazione tra meow e mystic . Nyaonikusu è una combinazione tra ニャー  e ὄνυξ ónyx . ",
+    "origin": "Meowstic è basato su un gatto, probabilmente un nekomata. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Temperanza",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/9/93/Homem0678.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0678.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/7/74/Homef0678F.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2a/Homefsh0678F.png"
+        }
+    },
+    "stats": {
+        "meowstic": {
+            "hp": 74,
+            "atk": 48,
+            "def": 76,
+            "spa": 83,
+            "spd": 81,
+            "spe": 104
+        }
+    },
+    "stats_sum": {
+        "meowstic": 466
+    },
+    "types": {
+        "meowstic": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "meowstic": "8,5 kg"
+    }
+}

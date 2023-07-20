@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "pidove": {
+            "primary": "Pettinfuori",
+            "secondary": "Supersorte",
+            "hidden": "Antagonismo"
+        }
+    },
+    "curiosities": [
+        "Nonostante il Pokédex dica che Pidove non capisce i comandi del suo allenatore, nell'anime sembra che li capisca perfettamente.",
+        "Pidove è l'unico Pokémon con il totale delle statistiche pari a 264.",
+        "Pidove è il primo Pokémon apparso in Chi è quel Pokémon? della serie Pokémon: Nero e Bianco.",
+        "Anche se possiede il becco, Pidove e le sue evoluzioni non possono imparare Beccata."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pidove.mp3",
+    "dex_entries": {
+        "pidove": {
+            "black": "Obbedisce sempre scrupolosamente agli ordini dell'Allenatore, ma capita a volte che non capisca quelli più complessi.",
+            "white": "Pokémon che vive in città. Si affeziona facilmente alle persone, perciò non è strano trovarlo in parchi o piazze.",
+            "black-2": "È un Pokémon un po' smemorato. A volte dimentica l'ordine appena ricevuto e allora aspetta di riceverne un altro.",
+            "white-2": "È un Pokémon un po' smemorato. A volte dimentica l'ordine appena ricevuto e allora aspetta di riceverne un altro.",
+            "x": "È un Pokémon un po' smemorato. A volte dimentica l'ordine appena ricevuto e allora aspetta di riceverne un altro.",
+            "y": "Pokémon che vive in città. Si affeziona facilmente alle persone, perciò non è strano trovarlo in parchi o piazze.",
+            "omega-ruby": "È un Pokémon un po' smemorato. A volte dimentica l'ordine appena ricevuto e allora aspetta di riceverne un altro.",
+            "alpha-sapphire": "Pokémon che vive in città. Si affeziona facilmente alle persone, perciò non è strano trovarlo in parchi o piazze.",
+            "sword": "Appare dovunque vivano delle persone. Meglio essere prudenti quando gli si dà del cibo, perché potrebbero accorrere centinaia di esemplari.",
+            "shield": "È un po' smemorato e non molto sveglio. Tuttavia è diligente e si affeziona facilmente, e per questo molti Allenatori lo adorano."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 5,
+    "height": {
+        "pidove": "0,3 m"
+    },
+    "id": 519,
+    "name": "Pidove",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi pigeon  e dove . ",
+    "origin": "Pidove è basato sui piccioni e i colombi. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Piccione",
+    "sprites": {
+        "pidove": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cd/Homem0519.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0519.png"
+        }
+    },
+    "stats": {
+        "pidove": {
+            "hp": 50,
+            "atk": 55,
+            "def": 50,
+            "spa": 36,
+            "spd": 30,
+            "spe": 43
+        }
+    },
+    "stats_sum": {
+        "pidove": 264
+    },
+    "types": {
+        "pidove": [
+            "Normale",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "pidove": "2,1 kg"
+    }
+}

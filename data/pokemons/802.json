@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "marshadow": {
+            "primary": "Tecnico"
+        }
+    },
+    "curiosities": [
+        "Al suo rilascio, Marshadow è stato il primo Pokémon a possedere la combinazione di tipi Lotta/Spettro.\n\tPrima dell'introduzione di Zorua e Zoroark di Hisui, ciò lo rendeva l'unico Pokémon che, utilizzando mosse del proprio tipo, poteva infliggere danno efficace a qualsiasi altro Pokémon.",
+        "Prima dell'introduzione di Zorua e Zoroark di Hisui, ciò lo rendeva l'unico Pokémon che, utilizzando mosse del proprio tipo, poteva infliggere danno efficace a qualsiasi altro Pokémon.",
+        "Marshadow, la famiglia evolutiva di Gengar e Annihilape sono gli unici Pokémon di tipo Spettro ad essere deboli al tipo Psico."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/marshadow.mp3",
+    "dex_entries": {
+        "marshadow": {
+            "sun": "Si nasconde nelle ombre per sfuggire alla vista degli esseri viventi, e per questo si è dubitato per molto tempo della sua esistenza.",
+            "moon": "Si infiltra nell'ombra del nemico, copiandone i movimenti e la forza. È un Pokémon timido e insicuro.",
+            "ultra-sun": "Si infiltra nell'ombra del nemico, copiandone i movimenti e la forza. L'imitazione finisce per diventare più forte dell'originale.",
+            "ultra-moon": "Infiltrandosi nell’ombra di Pokémon ed esseri umani riesce a comprendere il loro stato d’animo e a copiarne le capacità.",
+            "sword": "Si è infiltrato nell'ombra di un maestro di arti marziali e ne ha copiato i movimenti, carpendo così tutti i segreti.",
+            "shield": "A causa della sua capacità di infiltrarsi in qualunque ombra, per lungo tempo nessuno è riuscito ad avvistarlo."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 7,
+    "height": {
+        "marshadow": "0,7 m"
+    },
+    "id": 802,
+    "name": "Marshadow",
+    "name_origin": "Marshadow può essere una combinazione di Mars , martial arts  e shadow . ",
+    "origin": "Marshadow può essere basato sul Shadowboxing . Inoltre, condivide caratteristiche con il Nightmarchers e Menehune della mitologia hawaiana. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Vivinombra",
+    "sprites": {
+        "marshadow": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b6/Homem0802.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/97/Homemsh0802.png"
+        }
+    },
+    "stats": {
+        "marshadow": {
+            "hp": 90,
+            "atk": 125,
+            "def": 80,
+            "spa": 90,
+            "spd": 90,
+            "spe": 125
+        }
+    },
+    "stats_sum": {
+        "marshadow": 600
+    },
+    "types": {
+        "marshadow": [
+            "Spettro",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "marshadow": "22,2 kg"
+    }
+}

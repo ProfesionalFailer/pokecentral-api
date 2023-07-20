@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "houndour": {
+            "primary": "Sveglialampo",
+            "secondary": "Fuocardore",
+            "hidden": "Agitazione"
+        }
+    },
+    "curiosities": [
+        "Prima della settima generazione Houndour e Houndoom avevano una combinazione di tipi unica.",
+        "Nonostante Houndour e Houndoom siano Pokémon di seconda generazione appartenenti al Pokédex regionale di Johto, in Pokémon Oro, Argento e Cristallo sono catturabili solo a Kanto ed in Oro HeartGold e Argento SoulSilver sono ottenibili solamente dopo aver ricevuto il Pokédex Nazionale, a meno che non vengano scambiati da un'altra cartuccia di gioco.\n\tIn seconda generazione Murkrow e Slugma condividevano questa caratteristica, in quarta invece possono essere ottenuti in altri modi: Murkrow è catturabile nella Zona Safari appena viene aperta, mentre Slugma può essere ricevuto come Uovo da Castore.",
+        "In seconda generazione Murkrow e Slugma condividevano questa caratteristica, in quarta invece possono essere ottenuti in altri modi: Murkrow è catturabile nella Zona Safari appena viene aperta, mentre Slugma può essere ricevuto come Uovo da Castore.",
+        "Houndour è uno dei quattordici Pokémon ottenibili in Diamante e Perla con la descrizione del Pokédex in una lingua straniera."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/houndour.mp3",
+    "dex_entries": {
+        "houndour": {
+            "gold": "Usa versi differenti per comunicare con altri del suo tipo e per inseguire la preda.",
+            "silver": "Per circondare la preda, decidono la loro posizione comunicando con guaiti che capiscono solo loro.",
+            "crystal": "All'alba, i suoi sinistri urli riecheggiano nell'aria. In questo modo demarca il territorio.",
+            "ruby": "Gli HOUNDOUR cacciano in squadre organizzate. Comunicano tra loro con svariati versi per intrappolare la preda. Quest'incredibile lavoro di squadra è unico nel suo genere.",
+            "sapphire": "Gli HOUNDOUR cacciano in squadre organizzate. Comunicano tra loro con svariati versi per intrappolare la preda. Quest'incredibile lavoro di squadra è unico nel suo genere.",
+            "emerald": "Gli HOUNDOUR cacciano in squadre comunicando tra loro con svariati versi per intrappolare la preda. Questo lavoro di squadra è unico nel suo genere.",
+            "firered": "Per circondare la preda, si coordinano comunicando con guaiti che solo loro possono decifrare.",
+            "leafgreen": "Usa versi differenti per comunicare con altri della sua specie e per inseguire la preda.",
+            "diamond": "Trasmette i suoi stati d'animo con vari versi. Lavora in gruppo per catturare le prede con l'astuzia.",
+            "pearl": "Trasmette i suoi stati d'animo con vari versi. Lavora in gruppo per catturare le prede con l'astuzia.",
+            "platinum": "Va a caccia in branchi e comunica con gli altri emettendo una varietà di versi.",
+            "heartgold": "Usa versi differenti per comunicare con altri del suo tipo e per inseguire la preda.",
+            "soulsilver": "Per circondare la preda, gli HOUNDOUR si comunicano la posizione reciproca con ululati che capiscono solo loro.",
+            "black": "Va a caccia in branchi e comunica con gli altri emettendo una varietà di versi.",
+            "white": "Va a caccia in branchi e comunica con gli altri emettendo una varietà di versi.",
+            "black-2": "Va a caccia in branchi e comunica con gli altri emettendo una varietà di versi.",
+            "white-2": "Va a caccia in branchi e comunica con gli altri emettendo una varietà di versi.",
+            "x": "All'alba, i suoi sinistri urli riecheggiano nell'aria. In questo modo demarca il territorio.",
+            "y": "Per circondare la preda, gli Houndour si comunicano la posizione reciproca con ululati che capiscono solo loro.",
+            "omega-ruby": "Gli Houndour cacciano in squadre organizzate. Comunicano tra loro con svariati versi per intrappolare la preda. Quest'incredibile lavoro di squadra è unico nel suo genere.",
+            "alpha-sapphire": "Gli Houndour cacciano in squadre organizzate. Comunicano tra loro con svariati versi per intrappolare la preda. Quest'incredibile lavoro di squadra è unico nel suo genere.",
+            "ultra-sun": "Agisce sempre in squadra con i suoi simili. È un compagno fedele e segue attentamente le istruzioni del suo allenatore.",
+            "ultra-moon": "Gli urli sinistri che emette prima dell'alba hanno la funzione di segnalare la presenza del suo branco.",
+            "brilliant-diamond": "Comunica i suoi stati d'animo usando una varietà di versi. Lavora in gruppo per catturare le prede con l'astuzia.",
+            "shining-pearl": "Comunica i suoi stati d'animo usando una varietà di versi. Lavora in gruppo per catturare le prede con l'astuzia.",
+            "scarlet": "È abbastanza intelligente da cacciare in branco, utilizzando una varietà di versi per comunicare con i compagni.",
+            "violet": "Usa versi differenti per comunicare con i suoi simili e per braccare la preda."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 2,
+    "height": {
+        "houndour": "0,6 m"
+    },
+    "id": 228,
+    "name": "Houndour",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi hound  e dour . Il suo nome giapponese potrebbe derivare da una corruzione dell'inglese devil . ",
+    "origin": "Appare basato sul tema degli hellhounds, mastini infernali che compaiono nei racconti inglesi con varie forme e nomi, combinato con la razza canina del Rottweiler. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Buio",
+    "sprites": {
+        "houndour": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8f/Homem0228.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bc/Homemsh0228.png"
+        }
+    },
+    "stats": {
+        "houndour": {
+            "hp": 45,
+            "atk": 60,
+            "def": 30,
+            "spa": 80,
+            "spd": 50,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "houndour": 330
+    },
+    "types": {
+        "houndour": [
+            "Buio",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "houndour": "10,8 kg"
+    }
+}

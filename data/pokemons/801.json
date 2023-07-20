@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "magearna": {
+            "primary": "Cuoreanima"
+        }
+    },
+    "curiosities": [
+        "Magearna è l'unico Pokémon in grado di apprendere MT oltre alle mosse che impara salendo di livello, ma che non può imparare Tossina e Sonnolalia.",
+        "Magearna è l'unico Pokémon misterioso che è stato reso disponibile nella serie principale attraverso un evento attivo indefinitamente.",
+        "La sua forma Colore Antico è l'unica forma di un Pokémon misterioso a non essere ancora disponibile in un titolo della serie principale.\n\tÈ comunque ottenibile in Pokémon HOME come ricompensa per aver completato il Pokédex nazionale.",
+        "È comunque ottenibile in Pokémon HOME come ricompensa per aver completato il Pokédex nazionale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/magearna.mp3",
+    "dex_entries": {
+        "magearna": {
+            "sun": "È un Pokémon artificiale costruito più di 500 anni fa. Capisce il linguaggio degli esseri umani, ma non è in grado di parlare.",
+            "moon": "Il suo corpo meccanico è solo un contenitore. La sua vera essenza è un’anima artificiale chiamata “Cuoreanima”.",
+            "ultra-sun": "Sincronizzando la sua coscienza a quella degli altri, riesce a capire il loro stato d’animo. Grazie a quest’abilità si prende cura degli esseri umani.",
+            "ultra-moon": "Fu costruito circa 500 anni fa da uno scienziato. La sua vera essenza si trova in un componente chiamato “Cuoreanima”."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 7,
+    "height": {
+        "magearna": "1,0 m"
+    },
+    "id": 801,
+    "name": "Magearna",
+    "name_origin": "Magearna potrebbe essere una combinazione di gear, ingranaggio, e una corruzione di machina, latino per macchina. ",
+    "origin": "È probabilmente basato su di una bambola Karakuri e, in particolare per l'ingranaggio che fa da crestino, ad una cameriera. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Artificiale",
+    "sprites": {
+        "magearna": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1f/Homem0801.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bb/Homemsh0801.png"
+        },
+        "colore-antico": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4f/Homem0801A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homemsh0801A.png"
+        }
+    },
+    "stats": {
+        "magearna": {
+            "hp": 80,
+            "atk": 95,
+            "def": 115,
+            "spa": 130,
+            "spd": 115,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "magearna": 600
+    },
+    "types": {
+        "magearna": [
+            "Acciaio",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "magearna": "80,5 kg"
+    }
+}

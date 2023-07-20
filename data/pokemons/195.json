@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "quagsire": {
+            "primary": "Umidità",
+            "secondary": "Assorbacqua",
+            "hidden": "Imprudenza"
+        }
+    },
+    "curiosities": [
+        "In seconda generazione Wooper e Quagsire avevano una combinazione di tipi unica."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/quagsire.mp3",
+    "dex_entries": {
+        "quagsire": {
+            "gold": "Questo POKéMON sbarazzino non si fa grossi problemi: nuotando urta sempre gli scafi delle barche.",
+            "silver": "Con il suo atteggiamento rilassato e disinvolto, nuota scontrando i massi e gli scafi delle barche.",
+            "crystal": "Ha un corpo molto vischioso. Spesso, nuotando, urta con la testa sul fondo dei fiumi, ma non se ne preoccupa.",
+            "ruby": "In acqua QUAGSIRE attende la preda tenendo sempre la bocca spalancata per catturare qualche ignaro malcapitato. Poiché questo POKéMON non fa molto moto, non è mai troppo affamato.",
+            "sapphire": "In acqua QUAGSIRE attende la preda tenendo sempre la bocca spalancata per catturare qualche ignaro malcapitato. Poiché questo POKéMON non fa molto moto, non è mai troppo affamato.",
+            "emerald": "In acqua QUAGSIRE attende con la bocca spalancata per catturare qualche ignaro malcapitato. Poiché non fa molto moto, non è mai troppo affamato.",
+            "firered": "Con il suo atteggiamento rilassato e disinvolto, mentre nuota scontra spesso i massi e gli scafi delle barche.",
+            "leafgreen": "Questo POKéMON sbarazzino non si fa grossi problemi: nuotando urta sempre gli scafi delle barche.",
+            "diamond": "È pigro per natura. Sta sul fondo dei fiumi con la bocca aperta in attesa di afferrare la preda.",
+            "pearl": "Pokémon poco astuto. Non si scompone se sbatte la testa contro le barche o le rocce mentre nuota.",
+            "platinum": "È molto tranquillo per natura. Non si scompone se nuotando sbatte la testa contro barche e scogli.",
+            "heartgold": "Questo Pokémon sbarazzino non si fa grossi problemi: nuotando urta sempre gli scafi delle barche.",
+            "soulsilver": "Con il suo atteggiamento rilassato e disinvolto, nuota scontrandosi spesso contro scogli e scafi di barche.",
+            "black": "È molto tranquillo per natura. Non si scompone se nuotando sbatte la testa contro barche e scogli.",
+            "white": "È molto tranquillo per natura. Non si scompone se nuotando sbatte la testa contro barche e scogli.",
+            "black-2": "È molto tranquillo per natura. Non si scompone se nuotando sbatte la testa contro barche e scogli.",
+            "white-2": "È molto tranquillo per natura. Non si scompone se nuotando sbatte la testa contro barche e scogli.",
+            "x": "È pigro per natura. Sta sul fondo dei fiumi con la bocca aperta in attesa di afferrare la preda.",
+            "y": "Questo Pokémon sbarazzino non si fa grossi problemi: nuotando urta sempre gli scafi delle barche.",
+            "omega-ruby": "In acqua Quagsire attende la preda tenendo sempre la bocca spalancata per catturare qualche ignaro malcapitato. Poiché questo Pokémon non fa molto moto, non è mai troppo affamato.",
+            "alpha-sapphire": "In acqua Quagsire attende la preda tenendo sempre la bocca spalancata per catturare qualche ignaro malcapitato. Poiché questo Pokémon non fa molto moto, non è mai troppo affamato.",
+            "sword": "È molto tranquillo per natura. Non si scompone se nuotando sbatte la testa contro lo scafo delle barche o le rocce dei fiumi.",
+            "shield": "Ha un corpo molto viscido. Spesso, nuotando, sbatte la testa sul letto dei fiumi, ma non se ne preoccupa."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "generation": 2,
+    "height": {
+        "quagsire": "1,4 m"
+    },
+    "id": 195,
+    "name": "Quagsire",
+    "name_origin": "Quagsire è una combinazione di quagmire  e l'onorifico sire o Siren . Nuoh potrebbe essere una combinazione di 沼 numa  e 王 ō  o オオサンショウウオ ōsanshōuo . ",
+    "origin": "Quagsire sembra essere basato su una salamandra gigante asiatica. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Acquapesce",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b3/Homem0195.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0195.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6e/Homef0195.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/ce/Homefsh0195.png"
+        }
+    },
+    "stats": {
+        "quagsire": {
+            "hp": 95,
+            "atk": 85,
+            "def": 85,
+            "spa": 65,
+            "spd": 65,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "quagsire": 430
+    },
+    "types": {
+        "quagsire": [
+            "Terra",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "quagsire": "75,0 kg"
+    }
+}

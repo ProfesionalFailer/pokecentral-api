@@ -1,0 +1,104 @@
+{
+    "abilities": {
+        "manectric": {
+            "primary": "Statico",
+            "secondary": "Parafulmine",
+            "hidden": "Meno"
+        },
+        "megamanectric": {
+            "primary": "Prepotenza"
+        }
+    },
+    "curiosities": [
+        "Manectric ha la stessa altezza e lo stesso peso di Armonio.",
+        "MegaManectric è l'unico Pokémon con un totale di statistiche base pari a 575."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/manectric.mp3",
+    "dex_entries": {
+        "manectric": {
+            "ruby": "MANECTRIC scarica costantemente l'elettricità dalla propria criniera. Spesso le scintille scatenano incendi nei boschi. In lotta questo POKéMON crea nubi temporalesche.",
+            "sapphire": "MANECTRIC scarica forti scosse elettriche dalla propria criniera, usata come collettore dell'elettricità presente nell'atmosfera. Crea inoltre nubi temporalesche in cielo.",
+            "emerald": "Poiché i fulmini cadono sempre nelle loro vicinanze, un tempo si pensava che i MANECTRIC nascessero da essi. In lotta creano nubi temporalesche.",
+            "firered": "Raramente si mostra agli umani. Si dice che nidifichi nelle zone dove è caduto un fulmine.",
+            "leafgreen": "Raramente si mostra agli umani. Si dice che nidifichi nelle zone dove è caduto un fulmine.",
+            "diamond": "Scarica elettricità dalla criniera. Crea nubi temporalesche in cielo che fanno cadere saette.",
+            "pearl": "Scarica elettricità dalla criniera. Crea nubi temporalesche in cielo che fanno cadere saette.",
+            "platinum": "Scarica elettricità dalla criniera. Crea nubi temporalesche in cielo che fanno cadere saette.",
+            "heartgold": "Dicono che si faccia la tana nelle zone dove è caduto un fulmine. Manda scariche elettriche dalla criniera.",
+            "soulsilver": "Dicono che si faccia la tana nelle zone dove è caduto un fulmine. Manda scariche elettriche dalla criniera.",
+            "black": "Scarica elettricità dalla criniera. Crea nubi temporalesche in cielo che fanno cadere saette.",
+            "white": "Scarica elettricità dalla criniera. Crea nubi temporalesche in cielo che fanno cadere saette.",
+            "black-2": "Scarica elettricità dalla criniera. Crea nubi temporalesche in cielo che fanno cadere saette.",
+            "white-2": "Scarica elettricità dalla criniera. Crea nubi temporalesche in cielo che fanno cadere saette.",
+            "x": "Raramente si mostra agli umani. Si dice che nidifichi nelle zone dove è caduto un fulmine.",
+            "y": "Scarica elettricità dalla criniera. Crea nubi temporalesche in cielo che fanno cadere saette.",
+            "omega-ruby": "Manectric scarica forti scosse elettriche dalla propria criniera, usata come collettore dell'elettricità presente nell'atmosfera. Crea inoltre nubi temporalesche sopra la sua testa.",
+            "alpha-sapphire": "Manectric scarica forti scosse elettriche dalla propria criniera, usata come collettore dell'elettricità presente nell'atmosfera. Crea inoltre nubi temporalesche sopra la sua testa.",
+            "ultra-sun": "Se si notano strane nubi temporalesche, sotto di loro si vedrà questo Pokémon. Si dice che sia in grado di correre alla velocità del fulmine.",
+            "ultra-moon": "L'elettricità gli stimola i muscoli rendendolo più veloce e inoltre allevia i suoi dolori muscolari facendolo tornare rapidamente in forma.",
+            "sword": "L'elettricità gli stimola i muscoli rendendolo più veloce e inoltre allieva i suoi dolori muscolari facendolo tornare rapidamente in forma.",
+            "shield": "Raramente si mostra agli umani. Si dice che viva nelle zone dove è caduto un fulmine.",
+            "brilliant-diamond": "Scarica elettricità dalla criniera. Crea nubi temporalesche sopra la sua testa, dalle quali cadono saette che usa per attaccare il nemico.",
+            "shining-pearl": "Scarica elettricità dalla criniera. Crea nubi temporalesche sopra la sua testa, dalle quali cadono saette che usa per attaccare il nemico."
+        },
+        "megamanectric": {
+            "ultra-sun": "Con la megaevoluzione accumula una quantità enorme di elettricità, ma non avendone piena padronanza non riesce a utilizzarla al meglio.",
+            "ultra-moon": "L’eccesso di energia elettrica accumulata nel suo corpo lo rende molto irascibile. Scatena la sua forza esplosiva con la velocità di un fulmine."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 3,
+    "height": {
+        "menectric": "1,5 m",
+        "megamenectric": "1.8 m"
+    },
+    "id": 310,
+    "name": "Manectric",
+    "name_origin": "Deriva dalle parole mane  e electric . ",
+    "origin": "Esso può essere basato su un lupo dalla criniera e un demone della tradizione giapponese, il raijū, una creatura elettrica che può assumere la forma di mammiferi, tra cui una tigre, una scimmia e un lupo. Manectric si basa sulla sua forma lupo, mentre il Pokémon Raikou si basa sulla sua forma tigre. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Scarica",
+    "sprites": {
+        "manectric": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b6/Homem0310.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f8/Homemsh0310.png"
+        },
+        "megamanectric": {
+            "default": "https://media.pokemoncentral.it/wiki/6/66/Homem0310M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/64/Homemsh0310M.png"
+        }
+    },
+    "stats": {
+        "manectric": {
+            "hp": 70,
+            "atk": 75,
+            "def": 60,
+            "spa": 105,
+            "spd": 60,
+            "spe": 105
+        },
+        "megamanectric": {
+            "hp": 70,
+            "atk": 75,
+            "def": 80,
+            "spa": 135,
+            "spd": 80,
+            "spe": 135
+        }
+    },
+    "stats_sum": {
+        "manectric": 475,
+        "megamanectric": 575
+    },
+    "types": {
+        "manectric": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "menectric": "40,2 kg",
+        "megamenectric": "44 kg"
+    }
+}

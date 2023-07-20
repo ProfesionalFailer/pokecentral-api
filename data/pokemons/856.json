@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "hatenna": {
+            "primary": "Curacuore",
+            "secondary": "Presagio",
+            "hidden": "Magispecchio"
+        }
+    },
+    "curiosities": [
+        "Le linee evolutive di Hatenna e di Impidimp possono essere considerate delle controparti. Hatenna e Impidimp sono di ottava generazione ed entrambi si evolvono prima al livello 32 e successivamente al livello 42. La linea evolutiva di Impidimp è solamente di sesso maschile, mentre quella di Hatenna è solamente di sesso femminile. Gli stadi finali di entrambi i Pokémon sono di tipo Folletto, con la stessa esperienza base e lo stesso tasso di cattura; entrambi hanno anche la stessa somma delle statistiche base.",
+        "Hatenna è l'unico Pokémon ad avere Elettrococcola come mossa Uovo e l'unico Pokémon non di tipo Elettro ad impararla."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/hatenna.mp3",
+    "dex_entries": {
+        "hatenna": {
+            "sword": "Percepisce lo stato d'animo degli esseri viventi tramite la protuberanza sulla testa. Apre il suo cuore solo alle persone di indole pacifica.",
+            "shield": "Gli piacciono i luoghi disabitati. Se percepisce la presenza di emozioni forti, se la dà a gambe levate.",
+            "scarlet": "Poiché le emozioni delle creature che lo circondano penetrano costantemente nella sua testa, preferisce starsene in luoghi isolati.",
+            "violet": "Percepisce lo stato d’animo degli esseri viventi. Bisogna fare attenzione a non esporlo troppo a lungo alle emozioni forti, perché lo debilitano."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "generation": 8,
+    "height": {
+        "hatenna": "0,4 m"
+    },
+    "id": 856,
+    "name": "Hatenna",
+    "name_origin": "Hatenna potrebbe essere una combinazione di hat, cappello, e antenna. Mibrim potrebbe essere una combinazione di 身振り miburi, gesto, e brim, tesa. ",
+    "origin": "Hatenna potrebbe essere basata su una piccola strega e su una combinazione di una parrucca e un cappello da pagliaccio. ",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Calma",
+    "sprites": {
+        "hatenna": {
+            "default": "https://media.pokemoncentral.it/wiki/6/68/Homef0856.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/96/Homefsh0856.png"
+        }
+    },
+    "stats": {
+        "hatenna": {
+            "hp": 42,
+            "atk": 30,
+            "def": 45,
+            "spa": 56,
+            "spd": 53,
+            "spe": 39
+        }
+    },
+    "stats_sum": {
+        "hatenna": 265
+    },
+    "types": {
+        "hatenna": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "hatenna": "3,4 kg"
+    }
+}

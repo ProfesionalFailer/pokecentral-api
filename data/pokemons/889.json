@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Scudo Saldo"
+        }
+    },
+    "curiosities": [
+        "Zamazenta condivide la sua categoria con Zacian. Entrambi sono conosciuti come Pokémon Guerriero.",
+        "Zamazenta non può dynamaxizzare.",
+        "Zamazenta Re degli Scudi ha la Difesa e la Difesa Speciale base più alte tra tutti i Pokémon di tipo Lotta.",
+        "Zamazenta Re degli Scudi è il Pokémon più pesante di tipo Lotta.",
+        "Come da lui stesso confermato, Yusuke Ohmura s'è occupato della progettazione di Zacian e Zamazenta.",
+        "Zamazenta è stato annunciato il 5 giugno 2019 durante un Pokémon Direct."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/zamazenta.mp3",
+    "dex_entries": {
+        "eroe-di-mille-lotte": {
+            "sword": "Ha salvato Galar unendo le forze con il re degli uomini. Assorbe il metallo e se ne serve per lottare.",
+            "shield": "Questo Pokémon è rimasto addormentato sotto forma di statua così a lungo da venire completamente dimenticato."
+        },
+        "re-degli-scudi": {
+            "sword": "Quando assume questa forma, è detto \"scudo del re lottatore\" in segno di timore e rispetto per la sua capacità di respingere qualsiasi attacco.",
+            "shield": "Quando assume questa forma perfettamente corazzata, può parare con estrema facilità persino gli attacchi dei Pokémon Dynamax."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 8,
+    "height": {
+        "zamazenta": "2,9 m"
+    },
+    "id": 889,
+    "name": "Zamazenta",
+    "name_origin": "Zamazenta deriva dalla pronuncia giapponese di the magenta, \"il magenta\" in inglese. ",
+    "origin": "Zamazenta potrebbe essere basato sullo scudo di Re Artù, conosciuto come Wynebgwrthucher o Pridwen. Il suo ruolo di guerriero che aiuta un re potrebbe trarre ispirazione dai cavalieri della Tavola Rotonda, personaggi sotto gli ordini di Re Artù che si dice abbiano protetto con lui il regno britannico. Il suo rapporto con Zamazenta potrebbe alludere al rapporto tra Artù e sua sorella Fata Morgana. In alternativa può ricordare un lupo, un animale originario della Gran Bretagna e un importante simbolo araldico per le famiglie nobili durante il medioevo. Ricorda il lupo di ferro della mitologia lituana. La corazza sul suo corpo ricorda anche una barda, un'armatura indossata dai cavalli da guerra durante il Basso Medioevo. La storia di Zacian e Zamazenta che si ritirano nel Bosco Assopito per riprendersi dalle loro ferite e il ritorno ai nostri giorni per salvare Galar è simile alla leggenda del ritorno messianico di Re Artù. L'abilità di Zacian di tagliare qualsiasi cosa con la sua spada e l'abilità di Zamazenta di resistere a qualsiasi tipo di attacco con il suo scudo potrebbe essere un esempio di paradosso dell'onnipotenza. Uno degli esempi più famosi di questo folklore include la storia cinese secondo cui un venditore ambulante vendette una spada e una lancia con abilità simili a quelle dei Pokémon solo per chiedersi cosa sarebbe successo se i due oggetti fossero stati utilizzati l'uno contro l'altro. Un altro esempio narra di un segugio da caccia greco, chiamato Lelapo, che acchiappava qualsiasi cosa gli si capitasse a tiro e della volpe di Teumesso che non poteva mai essere catturata. Era un paradosso senza possibilità di soluzione, quindi vennero tramutati in una roccia e il cane fu sistemato nella costellazione del Cane Maggiore. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Guerriero",
+    "sprites": {
+        "eroe-di-mille-lotte": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9e/Homem0889.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/be/Homemsh0889.png"
+        },
+        "re-degli-scudi": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7a/Homem0889R.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0889R.png"
+        }
+    },
+    "stats": {
+        "eroe-di-mille-lotte": {
+            "hp": 92,
+            "atk": 120,
+            "def": 115,
+            "spa": 80,
+            "spd": 115,
+            "spe": 138
+        },
+        "re-degli-scudi": {
+            "hp": 92,
+            "atk": 120,
+            "def": 140,
+            "spa": 80,
+            "spd": 140,
+            "spe": 128
+        }
+    },
+    "stats_sum": {
+        "eroe-di-mille-lotte": 660,
+        "re-degli-scudi": 700
+    },
+    "types": {
+        "eroe-di-mille-lotte": [
+            "Lotta"
+        ],
+        "re-degli-scudi": [
+            "Acciaio",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "eroe-di-mille-lotte": "210,0 kg",
+        "re-degli-scudi": "785,0 kg"
+    }
+}

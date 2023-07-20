@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "wiglett": {
+            "primary": "Viscosità",
+            "secondary": "Paura",
+            "hidden": "Sabbiavelo"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Acqua",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Acqua 3",
+        "Pagine con articoli di Johto World",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 245"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wiglett.mp3",
+    "dex_entries": {
+        "wiglett": {
+            "scarlet": "Fiuta l'odore di un Veluza da 20 metri di distanza e si nasconde nella sabbia.",
+            "violet": "Malgrado la sua somiglianza con i Diglett, fa in realtà parte di una specie diversa che ha assunto quest'aspetto per adattarsi al proprio habitat."
+        }
+    },
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "generation": 9,
+    "height": {
+        "wiglett": "1,2 m"
+    },
+    "id": 960,
+    "name": "Wiglett",
+    "name_origin": "Wiglett potrebbe essere una combinazione delle parole water, acqua, o wiggle, agitarsi, dimenarsi, e Diglett. Umidiguda potrebbe essere una combinazione di 海 umi, mare, e ディグダ Digda, Diglett. ",
+    "origin": "Wiglett sembra essere basato su una Anguilla da giardino. Il fatto che assomigli nell'aspetto a Diglett può essere un riferimento alla evoluzione convergente, un fenomeno evolutivo che porta organismi differenti a sviluppare caratteristiche fisiche e forme del corpo uguali. ",
+    "shape": "None",
+    "specie": "Pokémon Grongo",
+    "sprites": {
+        "wiglett": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f8/Homem0960.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homemsh0960.png"
+        }
+    },
+    "stats": {
+        "wiglett": {
+            "hp": 10,
+            "atk": 55,
+            "def": 25,
+            "spa": 35,
+            "spd": 25,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "wiglett": 245
+    },
+    "types": {
+        "wiglett": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "wiglett": "1,8 kg"
+    }
+}

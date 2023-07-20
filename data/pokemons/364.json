@@ -1,0 +1,94 @@
+{
+    "abilities": {
+        "sealeo": {
+            "primary": "Grassospesso",
+            "secondary": "Corpogelo",
+            "hidden": "Indifferenza"
+        }
+    },
+    "curiosities": [
+        "Articoli incompleti",
+        "Pokémon",
+        "Pokémon di terza generazione",
+        "Pokémon di tipo Ghiaccio",
+        "Pokémon di tipo Acqua",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Medio-Lento",
+        "Pokémon di colore Blu",
+        "Pokémon dalla sagoma n. 03",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Acqua 1",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
+        "Pokémon con statistiche base totali di 410",
+        "Pokémon con un totale massimo di 16 stelle prestazione"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sealeo.mp3",
+    "dex_entries": {
+        "sealeo": {
+            "ruby": "SEALEO è solito giocare con qualsiasi cosa veda per la prima volta, tenendola in equilibrio sulla punta del naso. Talvolta, si diverte a far rotolare sul proprio naso anche SPHEAL.",
+            "sapphire": "SEALEO gioca spesso tenendo in equilibrio oggetti sulla punta del naso e facendoli rotolare. Riesce così anche ad annusarli e provarne la consistenza per capire se sono di suo gradimento o meno.",
+            "emerald": "I SEALEO vivono in branco su lastre di ghiaccio, che riescono a rompere con le potenti pinne. Cinque volte al giorno si tuffano in mare per pescare.",
+            "firered": "Col naso tasta gli oggetti e ne sente l'odore. Lo usa anche per giocare, facendovi girare SPHEAL.",
+            "leafgreen": "Col naso tasta gli oggetti e ne sente l'odore. Lo usa anche per giocare, facendovi girare SPHEAL.",
+            "diamond": "Fa roteare oggetti sul naso per controllarne l'odore e la consistenza.",
+            "pearl": "Fa roteare oggetti sul naso per controllarne l'odore e la consistenza.",
+            "platinum": "Fa roteare oggetti sul naso per controllarne l'odore e la consistenza.",
+            "heartgold": "Per memorizzare un nuovo oggetto, ha bisogno di toccarlo con il naso, dove risiede la sua sensibilità.",
+            "soulsilver": "Per memorizzare un nuovo oggetto, ha bisogno di toccarlo con il naso, dove risiede la sua sensibilità.",
+            "black": "Fa roteare oggetti sul naso per controllarne l'odore e la consistenza.",
+            "white": "Fa roteare oggetti sul naso per controllarne l'odore e la consistenza.",
+            "black-2": "Fa roteare sul naso qualsiasi cosa abbia forma sferica, Poké Ball e Spheal inclusi.",
+            "white-2": "Fa roteare sul naso qualsiasi cosa abbia forma sferica, Poké Ball e Spheal inclusi.",
+            "x": "Per memorizzare un nuovo oggetto, ha bisogno di toccarlo con il naso, dove risiede la sua sensibilità.",
+            "y": "Fa roteare sul naso qualsiasi cosa abbia forma sferica, Poké Ball e Spheal inclusi.",
+            "omega-ruby": "Sealeo è solito giocare con qualsiasi cosa veda per la prima volta, tenendola in equilibrio sulla punta del naso. Talvolta, si diverte a far rotolare sul proprio naso anche Spheal.",
+            "alpha-sapphire": "Sealeo gioca spesso tenendo in equilibrio oggetti sulla punta del naso e facendoli rotolare. Riesce così anche ad annusarli e provarne la consistenza per capire se sono di suo gradimento o meno.",
+            "sword": "Vive su banchi di ghiaccio alla deriva. Individua le prede fiutandone l'odore mentre nuota.",
+            "shield": "È solito giocare facendo ruotare sulla punta del naso qualsiasi cosa rotonda gli capiti a tiro, compresi Spheal e Poké Ball.",
+            "legends-arceus": "I suoi baffi candidi sono assai sensibili. Pone gli Spheal sulla punta del naso per saggiarne la buona salute attraverso l'odorato e il tatto."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "generation": 3,
+    "height": {
+        "sealeo": "1,1 m"
+    },
+    "id": 364,
+    "name": "Sealeo",
+    "name_origin": "Deriva dalla parola inglese seal  o sea  unita alla parola latina leo , in riferimento ai leoni marini. ",
+    "origin": "Basato su un leone marino. ",
+    "shape": "pinne",
+    "specie": "Pokémon Rotapalla",
+    "sprites": {
+        "sealeo": {
+            "default": "https://media.pokemoncentral.it/wiki/7/71/Homem0364.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ee/Homemsh0364.png"
+        }
+    },
+    "stats": {
+        "sealeo": {
+            "hp": 90,
+            "atk": 60,
+            "def": 70,
+            "spa": 75,
+            "spd": 70,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "sealeo": 410
+    },
+    "types": {
+        "sealeo": [
+            "Ghiaccio",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "sealeo": "87,6 kg"
+    }
+}

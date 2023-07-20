@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "scraggy": {
+            "primary": "Muta",
+            "secondary": "Arroganza",
+            "hidden": "Prepotenza"
+        }
+    },
+    "curiosities": [
+        "In quinta generazione Scraggy e Scrafty avevano una combinazione di tipi unica.",
+        "Scraggy e la sua evoluzione non possono imparare nessuna mossa speciale tramite aumento di livello o accoppiamento.",
+        "Scraggy è l'unico Pokémon introdotto in quinta generazione capace di imparare Tuonopugno, ed uno degli unici due capaci di imparare Gelopugno.",
+        "Anche se può imparare diverse mosse di tipo Lotta e ha un aspetto simile all'uomo, non appartiene al Gruppo Uova Umanoide."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/scraggy.mp3",
+    "dex_entries": {
+        "scraggy": {
+            "black": "Assumono la posizione difensiva tirando su fino al collo la pelle, che è elastica come la gomma e previene i danni.",
+            "white": "Attacca a testate chiunque abbia la sfortuna di incrociare il suo sguardo. Il suo cranio è durissimo.",
+            "black-2": "Va fiero del suo robustissimo cranio. Tira senza preavviso testate così forti da farlo barcollare.",
+            "white-2": "Va fiero del suo robustissimo cranio. Tira senza preavviso testate così forti da farlo barcollare.",
+            "x": "Assumono la posizione difensiva tirando su fino al collo la pelle, che è elastica come la gomma e previene i danni.",
+            "y": "Va fiero del suo robustissimo cranio. Tira senza preavviso testate così forti da farlo barcollare.",
+            "omega-ruby": "Assumono la posizione difensiva tirando su fino al collo la pelle, che è elastica come la gomma e previene i danni.",
+            "alpha-sapphire": "Va fiero del suo robustissimo cranio. Tira senza preavviso testate così forti da farlo barcollare.",
+            "ultra-sun": "Gli Scraggy formano piccoli gruppi e si mettono a gironzolare tirando improvvisamente testate a chiunque incroci il loro sguardo.",
+            "ultra-moon": "Si protegge tirando la pelle su fino al collo. Sembra che gli esemplari dalla pelle più lunga siano quelli più rispettati.",
+            "sword": "È molto molesto e prende a testate chiunque gli capiti a tiro, perciò incrociare il suo sguardo può essere molto pericoloso.",
+            "shield": "Il suo corpo è protetto da una pelle robustissima. Si dice che quando questa raggiunge il limite dell'elasticità, Scraggy sia sul punto di evolversi."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Drago"
+    ],
+    "generation": 5,
+    "height": {
+        "scraggy": "0,6 m"
+    },
+    "id": 559,
+    "name": "Scraggy",
+    "name_origin": "Il nome Scraggy letteralmente significa magro/pelle ossa, potrebbe anche derivare da scrappy  riferendosi al suo stile di combattimento da principiante e infantile e alla sua tendenza a lottare, baggy  riferimento alla pelle morta simile a pantaloni larghi, oppure da scruggly , che invece indica il suo aspetto con la pelle morta. ",
+    "origin": "Scraggy sembra una sorta di lucertola, tuttavia la pelle che gli cade e che sembra un paio di pantaloni ricorda molto alcune sub culture giovanili moderne cioè l'Hip Hop o il Punk. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Mutapelle",
+    "sprites": {
+        "scraggy": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ef/Homem0559.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0559.png"
+        }
+    },
+    "stats": {
+        "scraggy": {
+            "hp": 50,
+            "atk": 75,
+            "def": 70,
+            "spa": 35,
+            "spd": 70,
+            "spe": 48
+        }
+    },
+    "stats_sum": {
+        "scraggy": 348
+    },
+    "types": {
+        "scraggy": [
+            "Buio",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "scraggy": "11,8 kg"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "drifblim": {
+            "primary": "Scoppio",
+            "secondary": "Agiltecnica",
+            "hidden": "Bruciaimpeto"
+        }
+    },
+    "curiosities": [
+        "Drifblim e la sua pre-evoluzione Drifloon hanno diverse peculiarità:\n\tPrima della settima generazione avevano una combinazione di tipi unica.\n\tSono gli unici Pokémon con crescita fluttuante non introdotti in terza generazione.",
+        "Prima della settima generazione avevano una combinazione di tipi unica.",
+        "Sono gli unici Pokémon con crescita fluttuante non introdotti in terza generazione.",
+        "Drifblim ha la statistica base di PS più alta di tutti i Pokémon di tipo Volante e, assieme a Giratina, anche di quelli di tipo Spettro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/drifblim.mp3",
+    "dex_entries": {
+        "drifblim": {
+            "diamond": "Di giorno fluttua con aria sonnolenta, ma di notte vola via in gruppo. Nessuno sa dove vada.",
+            "pearl": "Vola trascinando persone e Pokémon. Poiché si fa portare dal vento, non si sa dove vada a finire.",
+            "platinum": "Al tramonto, gruppi di DRIFBLIM si fanno trascinare dal vento. Se avvistati, scompaiono all'improvviso.",
+            "heartgold": "Può regolare l’altezza dei suoi voli nel cielo grazie alla capacità di produrre gas ed espellerli.",
+            "soulsilver": "Può regolare l’altezza dei suoi voli nel cielo grazie alla capacità di produrre gas ed espellerli.",
+            "black": "Al tramonto, gruppi di Drifblim si fanno trascinare dal vento. Se avvistati, scompaiono all'improvviso.",
+            "white": "Al tramonto, gruppi di Drifblim si fanno trascinare dal vento. Se avvistati, scompaiono all'improvviso.",
+            "black-2": "Trasporta Pokémon e persone, ma poiché si fa trascinare dal vento, non si sa mai dove va a finire.",
+            "white-2": "Trasporta Pokémon e persone, ma poiché si fa trascinare dal vento, non si sa mai dove va a finire.",
+            "x": "Vola trascinando persone e Pokémon. Poiché si fa portare dal vento, non si sa dove vada a finire.",
+            "y": "Di giorno fluttua con aria sonnolenta, ma di notte vola via in gruppo. Nessuno sa dove vada.",
+            "omega-ruby": "Vola trascinando persone e Pokémon. Poiché si fa portare dal vento, non si sa dove vada a finire.",
+            "alpha-sapphire": "Di giorno fluttua con aria sonnolenta, ma di notte vola via in gruppo. Nessuno sa dove vada.",
+            "sun": "Si racconta di un uomo che un giorno è volato via in groppa a un Drifblim. Di lui non si è saputo più nulla.",
+            "moon": "Se si osservano attentamente i gruppi di Drifblim trascinati dal vento al tramonto, si noterà che a un certo punto svaniscono nel nulla.",
+            "ultra-sun": "Gira voce che afferrando un Drifblim mentre vola trasportato dal vento al crepuscolo si venga condotti nell'aldilà.",
+            "ultra-moon": "I gas all'interno del suo corpo sono costituiti da anime. Si dice che, se inizia a sgonfiarsi, nella sua caduta trascini con sé persone e Pokémon.",
+            "sword": "Si dice che sia formato dall'aggregazione di anime che hanno lasciato la vita con dei rimpianti. Fluttua silenzioso all'imbrunire.",
+            "shield": "Afferra persone e Pokémon e li trascina via con sé. Nessuno sa dove li porti.",
+            "brilliant-diamond": "Di giorno fluttua con aria sonnolenta, ma di notte vola via in gruppo. Nessuno sa dove vada.",
+            "shining-pearl": "Vola portando in giro persone e Pokémon. Siccome si lascia trasportare dal vento, non si sa mai quale sia la sua destinazione.",
+            "legends-arceus": "Fluttua silente nell'oscurità del vespro. La sua foggia effimera e malinconica tocca il cuore, ispirando sovente poeti e scrittori.",
+            "scarlet": "Può regolare l’altitudine di volo grazie alla capacità di produrre gas all’interno del proprio corpo e di espellerli.",
+            "violet": "Trasporta Pokémon e persone, ma poiché si lascia trascinare dal vento, non sa mai dove andrà a finire."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "generation": 4,
+    "height": {
+        "drifblim": "1,2 m"
+    },
+    "id": 426,
+    "name": "Drifblim",
+    "name_origin": "Il suo nome deriva da drift, andare alla deriva, e blimp, dirigibile. ",
+    "origin": "Drifblim è basato su una mongolfiera. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Dirigibile",
+    "sprites": {
+        "drifblim": {
+            "default": "https://media.pokemoncentral.it/wiki/2/22/Homem0426.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0426.png"
+        }
+    },
+    "stats": {
+        "drifblim": {
+            "hp": 150,
+            "atk": 80,
+            "def": 44,
+            "spa": 90,
+            "spd": 54,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "drifblim": 498
+    },
+    "types": {
+        "drifblim": [
+            "Spettro",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "drifblim": "15,0 kg"
+    }
+}

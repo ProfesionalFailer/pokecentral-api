@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "slugma": {
+            "primary": "Magmascudo",
+            "secondary": "Corpodifuoco",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Nonostante diverse descrizioni del Pokédex dicano che Slugma non dorma mai, è perfettamente in grado di imparare Riposo e non può possedere l'abilità Insonnia.",
+        "Nonostante sembri fatto di magma, più volte si vede che gli Allenatori lo toccano senza alcun problema. Lo stesso accade con la criniera di Ponyta. Al contrario, nel Poké io&te e nel Poké Relax il giocatore rischia di scottarsi toccando Slugma e la sua evoluzione Magcargo.",
+        "Pur essendo un Pokémon di seconda generazione, era disponibile solo a Kanto in Pokémon Oro, Argento e Cristallo, e la stessa cosa valeva per Murkrow e Houndour. Tutti e tre possono ora essere ottenuti a Johto nella Zona Safari di Oro HeartGold e Argento SoulSilver."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/slugma.mp3",
+    "dex_entries": {
+        "slugma": {
+            "gold": "Non dorme mai. Deve essere sempre in movimento, o il suo corpo di magma si raffredda e si secca.",
+            "silver": "Comune nelle aree vulcaniche, striscia intorno lentamente, sempre alla ricerca di luoghi caldi.",
+            "crystal": "Si riuniscono in aree piuttosto calde. Se cala la temperatura, gli si secca la pelle.",
+            "ruby": "Nel corpo di SLUGMA scorre magma liquido. In caso di congelamento, il magma si raffredda e si solidifica. Il corpo diventa fragile e cade a pezzi consumandosi progressivamente.",
+            "sapphire": "Nel corpo di SLUGMA non scorre nemmeno una goccia di sangue, bensì magma rovente, che garantisce l'apporto di ossigeno e sostanze nutritive fondamentali per i suoi organi.",
+            "emerald": "Se il suo corpo si raffredda, la pelle si solidifica, immobilizzandolo. Pertanto SLUGMA vive nelle zone vulcaniche e dorme sempre in prossimità del magma.",
+            "firered": "Si aggira di frequente nelle zone vulcaniche, sempre alla ricerca di luoghi caldi.",
+            "leafgreen": "Non dorme mai. Deve essere sempre in movimento, o il suo corpo di magma si raffredda e si secca.",
+            "diamond": "Nel suo corpo scorre magma. Se non si muove continuamente, il suo corpo si raffredda e s'indurisce.",
+            "pearl": "Nel suo corpo scorre magma. Se non si muove continuamente, il suo corpo si raffredda e s'indurisce.",
+            "platinum": "Nel suo corpo scorre magma. Se non si muove continuamente, il suo corpo si raffredda e s'indurisce.",
+            "heartgold": "Non dorme mai. Deve essere sempre in movimento o il suo corpo di magma si raffredda e si secca.",
+            "soulsilver": "Comune nelle aree vulcaniche, striscia in giro lentamente, sempre alla ricerca di luoghi caldi.",
+            "black": "Nel suo corpo scorre magma. Se non si muove continuamente, il suo corpo si raffredda e s'indurisce.",
+            "white": "Nel suo corpo scorre magma. Se non si muove continuamente, il suo corpo si raffredda e s'indurisce.",
+            "black-2": "Nel suo corpo scorre magma. Se non si muove continuamente, il suo corpo si raffredda e s'indurisce.",
+            "white-2": "Nel suo corpo scorre magma. Se non si muove continuamente, il suo corpo si raffredda e s'indurisce.",
+            "x": "Comune nelle aree vulcaniche, striscia in giro lentamente, sempre alla ricerca di luoghi caldi.",
+            "y": "Nel suo corpo scorre magma. Se non si muove continuamente, il suo corpo si raffredda e s'indurisce.",
+            "omega-ruby": "Nel corpo di Slugma scorre magma liquido. In caso di congelamento, il magma si raffredda e si solidifica. Il corpo diventa fragile e cade a pezzi consumandosi progressivamente.",
+            "alpha-sapphire": "Nel corpo di Slugma non scorre nemmeno una goccia di sangue, bensì magma rovente, che garantisce l'apporto di ossigeno e sostanze nutritive fondamentali per i suoi organi."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "generation": 2,
+    "height": {
+        "slugma": "0,7 m"
+    },
+    "id": 218,
+    "name": "Slugma",
+    "name_origin": "Il suo nome deriva dalla parola \"slug\"  e \"magma\" .",
+    "origin": "Slugma è ispirato a una lumaca con il corpo di lava, potrebbe essere basato anche sul Cherufe, malvagia creatura di magma e roccia che secondo i miti vive nelle profonde pozze di magma nei vulcani del Cile. La versione cromatica potrebbe essere basata su uno Slugma raffreddato per questo ha un colorito argentato, oppure fatto di solder, un metallo liquido estremamente caldo che si indurisce se raffreddato similmente al magma. ",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Lava",
+    "sprites": {
+        "  ": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4d/Homem0218.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homemsh0218.png"
+        }
+    },
+    "stats": {
+        "slugma": {
+            "hp": 40,
+            "atk": 40,
+            "def": 40,
+            "spa": 70,
+            "spd": 40,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "slugma": 250
+    },
+    "types": {
+        "slugma": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "slugma": "35,0 kg"
+    }
+}

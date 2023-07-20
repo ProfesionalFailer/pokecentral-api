@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "totodile": {
+            "primary": "Acquaiuto",
+            "hidden": "Forzabruta"
+        }
+    },
+    "curiosities": [
+        "Totodile è lo il Pokémon iniziale di tipo acqua non evoluto più alto e più pesante.",
+        "Totodile, insieme a Turtwig, è uno dei due Pokémon iniziali che si evolvono a livello 18, il più alto per un Pokémon iniziale che si può ancora evolvere.",
+        "In quarta generazione, Totodile è l'unico Pokémon che può imparare Dragartigli tramite allevamento, ma non tramite MT02. Tuttavia, questo è stato invertito in quinta generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/totodile.mp3",
+    "dex_entries": {
+        "totodile": {
+            "gold": "Le sue potenti mandibole possono frantumare qualsiasi cosa. Anche l'allenatore dev'essere cauto.",
+            "silver": "È piccolo, ma forte e deciso. Non esita ad avventarsi su qualsiasi cosa si muova.",
+            "crystal": "Particolarmente violento, mastica tutto ciò che trova: è meglio non perderlo d'occhio.",
+            "ruby": "Nonostante il suo corpicino minuto, le mascelle di TOTODILE sono molto potenti. Sebbene creda solo di giocare, il suo morso è così forte e pericoloso da causare serie ferite.",
+            "sapphire": "Nonostante il suo corpicino minuto, le mascelle di TOTODILE sono molto potenti. Sebbene creda solo di giocare, il suo morso è così forte e pericoloso da causare serie ferite.",
+            "emerald": "Nonostante il suo corpo minuto, le mascelle di TOTODILE sono molto potenti. Sebbene creda di giocare, il suo morso è così forte e pericoloso da causare serie ferite.",
+            "firered": "È piccolo, ma forte e deciso. Non esita ad avventarsi su qualsiasi cosa si muova.",
+            "leafgreen": "Le sue potenti mandibole possono frantumare qualsiasi cosa. Anche l'ALLENATORE dev'essere cauto.",
+            "diamond": "Ha l’abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "pearl": "Ha l’abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "platinum": "Ha l’abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "heartgold": "Le sue potenti mandibole possono frantumare qualsiasi cosa. Anche l’Allenatore dev'essere cauto.",
+            "soulsilver": "Piccolo, ma forte e deciso. Non esita ad avventarsi su qualsiasi cosa si muova.",
+            "black": "Ha l'abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "white": "Ha l'abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "black-2": "Ha l'abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "white-2": "Ha l'abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "x": "Piccolo, ma forte e deciso. Non esita ad avventarsi su qualsiasi cosa si muova.",
+            "y": "Le sue potenti mandibole possono frantumare qualsiasi cosa. Anche l'Allenatore dev'essere cauto.",
+            "omega-ruby": "Nonostante il suo corpicino minuto, le mascelle di Totodile sono molto potenti. Sebbene creda solo di giocare, il suo morso è così forte e pericoloso da causare serie ferite.",
+            "alpha-sapphire": "Nonostante il suo corpicino minuto, le mascelle di Totodile sono molto potenti. Sebbene creda solo di giocare, il suo morso è così forte e pericoloso da causare serie ferite."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Acqua 1"
+    ],
+    "generation": 2,
+    "height": {
+        "totodile": "0,6 m"
+    },
+    "id": 158,
+    "name": "Totodile",
+    "name_origin": "Il suo nome deriva dalle parole inglesi tot  e crocodile . ",
+    "origin": "Totodile è basato su un cucciolo di coccodrillo. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Mascellone",
+    "sprites": {
+        "totodile": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a2/Homem0158.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0158.png"
+        }
+    },
+    "stats": {
+        "totodile": {
+            "hp": 50,
+            "atk": 65,
+            "def": 64,
+            "spa": 44,
+            "spd": 48,
+            "spe": 43
+        }
+    },
+    "stats_sum": {
+        "totodile": 314
+    },
+    "types": {
+        "totodile": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "totodile": "9,5 kg"
+    }
+}

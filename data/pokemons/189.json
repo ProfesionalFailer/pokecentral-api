@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "jumpluff": {
+            "primary": "Clorofilla",
+            "secondary": "Fogliamanto",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "In seconda generazione Hoppip, Skiploom e Jumpluff avevano una combinazione di tipi unica.",
+        "Con un peso di 3 kg, Jumpluff è il Pokémon di secondo stadio più leggero.",
+        "Jumpluff è l'unico Pokémon di seconda generazione il cui nome inizia per J.",
+        "Il verso della famiglia evolutiva di Jumpluff utilizzato sin dalle sue prime apparizioni in Oro e Argento è lo stesso, solo diminuito di qualche ottava ad ogni stadio evolutivo.",
+        "In Pokémon Colosseum, le ombre delle spore di Jumpluff sono quadrate e il giocatore è in grado di vedere solo un lato di loro. Questo poi è stato risolto in Pokémon XD: Tempesta Oscura.",
+        "Il nome di Jumpluff e delle sue pre-evoluzioni è stato dato da Nob Ogasawara."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/jumpluff.mp3",
+    "dex_entries": {
+        "jumpluff": {
+            "gold": "Sospinto dal vento controlla con abilità i semi a batuffolo di cotone per volare persino intorno al mondo.",
+            "silver": "Si fa trasportare dai venti stagionali, spargendo ovunque i semi simili al cotone, per moltiplicarsi.",
+            "crystal": "Anche nel vento forte controlla abilmente il suo batuffolo per volare in ogni parte del mondo.",
+            "ruby": "JUMPLUFF si affida alle correnti d'aria calda per attraversare il mare e volare verso terre lontane. Questo POKéMON ridiscende a terra quando incontra una corrente fredda mentre fluttua.",
+            "sapphire": "JUMPLUFF si affida alle correnti d'aria calda per attraversare il mare e volare verso terre lontane. Questo POKéMON ridiscende a terra quando incontra una corrente fredda mentre fluttua.",
+            "emerald": "JUMPLUFF attraversa il mare grazie alle correnti d'aria calda, volando così verso terre lontane. Ridiscende a terra quando, fluttuando, incontra una corrente fredda.",
+            "firered": "Sospinto dai venti stagionali, sparge ovunque i semi simili al cotone per moltiplicarsi.",
+            "leafgreen": "Sospinto dal vento, controlla con abilità i semi a batuffolo di cotone per volare persino intorno al mondo.",
+            "diamond": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "pearl": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "platinum": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "heartgold": "Sospinto dal vento controlla con abilità i semi a batuffolo di cotone per volare anche intorno al mondo.",
+            "soulsilver": "Si fa trasportare dai venti stagionali, spargendo ovunque i suoi semi simili al cotone per moltiplicarsi.",
+            "black": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "white": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "black-2": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "white-2": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "x": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "y": "Anche nel vento forte controlla abilmente il suo batuffolo per volare in ogni parte del mondo.",
+            "omega-ruby": "Jumpluff si affida alle correnti d'aria calda per attraversare il mare e volare verso terre lontane. Questo Pokémon ridiscende a terra quando incontra una corrente fredda mentre fluttua.",
+            "alpha-sapphire": "Jumpluff si affida alle correnti d'aria calda per attraversare il mare e volare verso terre lontane. Questo Pokémon ridiscende a terra quando incontra una corrente fredda mentre fluttua.",
+            "brilliant-diamond": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando le sue spore di cotone.",
+            "shining-pearl": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando le sue spore di cotone.",
+            "scarlet": "Viaggia facendosi trasportare dai venti stagionali. Quando le spore simili al cotone si esauriscono, terminano anche il suo viaggio e la sua vita.",
+            "violet": "Bisogna fare attenzione ai suoi semi simili al cotone. Se inalati provocano tosse e prurito molto fastidiosi."
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Erba"
+    ],
+    "generation": 2,
+    "height": {
+        "jumpluff": "0,8 m"
+    },
+    "id": 189,
+    "name": "Jumpluff",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi jump  e fluff .\nIl suo nome giapponese, ワタッコ Watakko, potrebbe derivare dalla parola 綿 wata . ",
+    "origin": "Basato sul soffione. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Gramigna",
+    "sprites": {
+        "jumpluff": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d9/Homem0189.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9c/Homemsh0189.png"
+        }
+    },
+    "stats": {
+        "jumpluff": {
+            "hp": 75,
+            "atk": 55,
+            "def": 70,
+            "spa": 55,
+            "spd": 95,
+            "spe": 110
+        }
+    },
+    "stats_sum": {
+        "jumpluff": 460
+    },
+    "types": {
+        "jumpluff": [
+            "Erba",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "jumpluff": "3,0 kg"
+    }
+}

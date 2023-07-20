@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "arrokuda": {
+            "primary": "Nuotovelox",
+            "hidden": "Elicopinna"
+        }
+    },
+    "curiosities": [
+        "Arrokuda fu mostrato per la prima volta durante il Nintendo Direct che rivelò Cramorant, dove comparì durante l'effetto dell'abilità Inghiottimissile, ma la sua identità rimase sconosciuta fino all'uscita di Pokémon Spada e Scudo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/arrokuda.mp3",
+    "dex_entries": {
+        "arrokuda": {
+            "sword": "Va orgoglioso della sua mandibola appuntita. Appena nota il minimo movimento, parte subito all'attacco.",
+            "shield": "Quando ha la pancia piena i suoi movimenti si fanno estremamente lenti e rischia di finire inghiottito da un Cramorant.",
+            "scarlet": "Riesce a nuotare velocemente solo in linea retta. Quando mangia troppo i suoi movimenti si fanno lenti e gli stormi di Wattrel lo prendono di mira.",
+            "violet": "Carica le prede per abbatterle con la sua mandibola dura e appuntita, ma è debole di vista quindi non fa spesso centro."
+        }
+    },
+    "egg_groups": [
+        "Acqua 2"
+    ],
+    "generation": 8,
+    "height": {
+        "arrokuda": "0,5 m"
+    },
+    "id": 846,
+    "name": "Arrokuda",
+    "name_origin": "Arrokuda potrebbe essere una combinazione di arrow, freccia, o arowana e barracuda. Sasikamasu potrebbe essere una combinazione di 刺し sashi, puntura, e 梭子魚 kamasu, barracuda. ",
+    "origin": "Arrokuda potrebbe essere basato su un barracuda. Ricorda anche altri pesci predatori come l'houndfish, l'arowana e il luccio. Sembra essere ispirato anche sulle freccette con cui condivide la stessa forma della pinna caudale. ",
+    "shape": "pinne",
+    "specie": "Pokémon Carica",
+    "sprites": {
+        "arrokuda": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3e/Homem0846.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bb/Homemsh0846.png"
+        }
+    },
+    "stats": {
+        "arrokuda": {
+            "hp": 41,
+            "atk": 63,
+            "def": 40,
+            "spa": 40,
+            "spd": 30,
+            "spe": 66
+        }
+    },
+    "stats_sum": {
+        "arrokuda": 280
+    },
+    "types": {
+        "arrokuda": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "arrokuda": "1,0 kg"
+    }
+}

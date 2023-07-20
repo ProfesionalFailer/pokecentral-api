@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "cascoon": {
+            "primary": "Muta"
+        }
+    },
+    "curiosities": [
+        "Cascoon condivide la stessa specie con Metapod, Kakuna e Silcoon: sono tutti noti come Pokémon Bozzolo.",
+        "Cascoon e Silcoon hanno le stesse statistiche base.",
+        "Cascoon può imparare Coleomorso dopo essersi evoluto da Wurmple nonostante non abbia una bocca visibile.",
+        "Cascoon è l'unico Pokémon che può essere trovato in un Safari Amici che non è del suo tipo; si può trovare infatti nel Safari Veleno anche se Cascoon è di tipo Coleottero puro, probabilmente per via della sua evoluzione che acquisisce il tipo Veleno."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cascoon.mp3",
+    "dex_entries": {
+        "cascoon": {
+            "ruby": "CASCOON crea il bozzolo protettivo avvolgendo interamente il proprio corpo con finissima seta secreta dalla bocca. Successivamente la seta si indurisce. A questo punto CASCOON si prepara all'evoluzione.",
+            "sapphire": "In caso di aggressione CASCOON rimane immobile indipendentemente dalla violenza dell'attacco subito. Questo lo aiuta a rafforzare il suo corpo in vista dell'evoluzione. Non dimentica mai il dolore provato.",
+            "emerald": "Per non farsi vedere dal nemico, CASCOON se ne sta immobile sotto ampie foglie e nelle fessure dei tronchi. Talvolta si mimetizza coprendosi di foglie secche.",
+            "firered": "Il corpo di soffice seta si indurisce nel corso del tempo. Quando appaiono crepe, l'evoluzione è vicina.",
+            "leafgreen": "Il corpo di soffice seta si indurisce nel corso del tempo. Quando appaiono crepe, l'evoluzione è vicina.",
+            "diamond": "Dentro, il suo bozzolo è caldo. Ogni cellula del suo corpo contribuisce a creare energia per l’evoluzione.",
+            "pearl": "Si rinchiude nel bozzolo per respingere gli attacchi. Non dimentica mai l’aspetto dei nemici.",
+            "platinum": "Non dimentica mai gli attacchi subiti dentro il bozzolo. Dopo l’evoluzione cerca di vendicarsi.",
+            "heartgold": "Sopporta immobile l’aggressione, trasformando il dolore in energia. Si evolve così in un Pokémon forte.",
+            "soulsilver": "Sopporta immobile l’aggressione, trasformando il dolore in energia. Si evolve così in un Pokémon forte.",
+            "black": "Non dimentica mai gli attacchi subiti dentro il bozzolo. Dopo l'evoluzione cerca di vendicarsi.",
+            "white": "Non dimentica mai gli attacchi subiti dentro il bozzolo. Dopo l'evoluzione cerca di vendicarsi.",
+            "black-2": "Non dimentica mai gli attacchi subiti dentro il bozzolo. Dopo l'evoluzione cerca di vendicarsi.",
+            "white-2": "Non dimentica mai gli attacchi subiti dentro il bozzolo. Dopo l'evoluzione cerca di vendicarsi.",
+            "x": "Il corpo di soffice seta si indurisce nel corso del tempo. Quando appaiono crepe, l'evoluzione è vicina.",
+            "y": "Non dimentica mai gli attacchi subiti dentro il bozzolo. Dopo l’evoluzione cerca di vendicarsi.",
+            "omega-ruby": "Cascoon crea il bozzolo protettivo avvolgendo interamente il proprio corpo con finissima seta secreta dalla bocca. Successivamente la seta si indurisce. A questo punto Cascoon si prepara all'evoluzione.",
+            "alpha-sapphire": "In caso di aggressione Cascoon rimane immobile indipendentemente dalla violenza dell'attacco subito. Questo lo aiuta a evitare di indebolire il suo corpo in vista dell'evoluzione. Non dimentica mai il dolore provato.",
+            "brilliant-diamond": "La temperatura interna del suo bozzolo è molto alta. Ogni cellula del suo corpo contribuisce a creare energia per l'evoluzione.",
+            "shining-pearl": "Resiste agli attacchi chiuso nel suo duro bozzolo. Non dimentica mai l'aspetto dei nemici.",
+            "legends-arceus": "Il filo che lo avvolge è fine ma ben resistente. Colore e fulgore eccedono quelli del filo di Silcoon. È adoprato per la confezione di abiti di pregio."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 3,
+    "height": {
+        "cascoon": "0,70 m"
+    },
+    "id": 268,
+    "name": "Cascoon",
+    "name_origin": "Il nome di Cascoon deriva probabilmente dalla combinazione delle parole inglesi cask, bara, e cocoon, bozzolo. ",
+    "origin": "Cascoon è basato su di una crisalide o sul bozzolo di una falena. ",
+    "shape": "testa",
+    "specie": "Pokémon Bozzolo",
+    "sprites": {
+        "cascoon": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e2/Homem0268.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0268.png"
+        }
+    },
+    "stats": {
+        "cascoon": {
+            "hp": 50,
+            "atk": 35,
+            "def": 55,
+            "spa": 25,
+            "spd": 25,
+            "spe": 15
+        }
+    },
+    "stats_sum": {
+        "cascoon": 205
+    },
+    "types": {
+        "cascoon": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "cascoon": "11,5 kg"
+    }
+}

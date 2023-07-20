@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "kommo-o": {
+            "primary": "Antiproiettile",
+            "secondary": "Antisuono",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Prima della nona generazione, nessun altro Pokémon aveva la stessa combinazione di tipi di Kommo-o e Hakamo-o.",
+        "Kommo-o ha la più bassa statistica base di Punti Salute tra tutti i Pokémon pseudo-leggendari.",
+        "Kommo-o e Baxcalibur sono gli unici Pokémon pseudo-leggendari che non possono avere alcuna immunità.",
+        "Kommo-o è uno dei Pokémon con caratteri non alfabetici nel nome."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kommo-o.mp3",
+    "dex_entries": {
+        "kommo-o": {
+            "sun": "Intimorisce gli avversari con il rumore prodotto dalla vibrazione delle scaglie che ha sulla coda. Sentendolo, i nemici più deboli si danno alla fuga.",
+            "moon": "Le sue squame robuste sono molto versatili. Un tempo venivano utilizzate sia come armi, sia per costruire oggetti d’uso quotidiano.",
+            "ultra-sun": "Quando cattura una preda, lancia un forte urlo. Sentendolo, i suoi simili in ogni luogo esultano facendo echeggiare un rumore metallico.",
+            "ultra-moon": "Lotta con audacia agitando i pugni ricoperti da squame d'acciaio. I montanti sono il suo forte.",
+            "sword": "Quando si imbatte in un nemico, fa risuonare le squame della coda per spaventarlo. Lotta solo contro chi non si lascia intimorire.",
+            "shield": "In antiche rovine sono stati rinvenuti dipinti raffiguranti guerrieri con armature fatte di squame di Kommo-o."
+        }
+    },
+    "egg_groups": [
+        "Drago"
+    ],
+    "generation": 7,
+    "height": {
+        "kommo-o": "1,6 m",
+        "dominante": "2,4 m"
+    },
+    "id": 784,
+    "name": "Kommo-o",
+    "name_origin": "Kommo-o potrebbe essere una combinazione di commander, comandante, mo'o, e drago o lucertola in hawaiano. Potrebbe derivare anche da combat, combattere, e da komodo . Jararanga potrebbe essere una combinazione di ジャラジャラ jarajara, suono onomatopeico del tintinnio, dragon, drago, e がらんがらん garangaran, suono onomatopeico di un rumore metallico. ",
+    "origin": "Kommo-o è probabilmente basato su un dinosauro teropode con alcuni tratti somiglianti all'Anchilosauro. Può anche essere basato su un monaco. La coda di Kommo-o assomiglia a un Khakkhara. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Squama",
+    "sprites": {
+        "kommo-o": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a4/Homem0784.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0784.png"
+        }
+    },
+    "stats": {
+        "kommo-o": {
+            "hp": 75,
+            "atk": 110,
+            "def": 125,
+            "spa": 100,
+            "spd": 105,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "kommo-o": 600
+    },
+    "types": {
+        "kommo-o": [
+            "Lotta",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "kommo-o": "78,2 kg",
+        "dominante": "207,5 kg"
+    }
+}

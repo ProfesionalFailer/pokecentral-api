@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "furret": {
+            "primary": "Fugafacile",
+            "secondary": "Sguardofermo",
+            "hidden": "Indagine"
+        }
+    },
+    "curiosities": [
+        "L'artwork di Furret da Oro HeartGold e Argento SoulSilver ha la stessa posa di quello di Oro e Argento."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/furret.mp3",
+    "dex_entries": {
+        "furret": {
+            "gold": "Il suo nido è adatto al corpo lungo e magro. Gli altri POKéMON non riescono ad entrarci.",
+            "silver": "Impossibile dire dove inizi la coda. Nonostante le zampe corte, è veloce a cacciare i RATTATA.",
+            "crystal": "Vive in strette buche, adatte al suo corpo. Più sono profonde, più somigliano a labirinti.",
+            "ruby": "FURRET è di esile costituzione. Quando è attaccato riesce a scappare intrufolandosi in ogni fessura. Nonostante i suoi arti corti, questo POKéMON è molto agile e rapido nei movimenti.",
+            "sapphire": "FURRET è di esile costituzione. Quando è attaccato riesce a scappare intrufolandosi in ogni fessura. Nonostante i suoi arti corti, questo POKéMON è molto agile e rapido nei movimenti.",
+            "emerald": "FURRET è di esile costituzione. Quando è attaccato sfugge intrufolandosi in ogni fessura. Malgrado i suoi arti siano corti, è molto agile e rapido nei movimenti.",
+            "firered": "Impossibile dire dove inizi la coda. Nonostante le zampe corte, è veloce a cacciare i RATTATA.",
+            "leafgreen": "Il suo nido è adatto al corpo lungo e magro. Gli altri POKéMON non riescono ad entrarci.",
+            "diamond": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "pearl": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "platinum": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "heartgold": "Il suo nido è adatto al corpo lungo e magro. Gli altri Pokémon non riescono ad entrarci.",
+            "soulsilver": "Impossibile dire dove inizi la coda. Nonostante le zampe corte, è veloce a cacciare i RATTATA.",
+            "black": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "white": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "black-2": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "white-2": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "x": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "y": "Il suo nido è adatto al corpo lungo e magro. Gli altri Pokémon non riescono ad entrarci.",
+            "omega-ruby": "Furret è di esile costituzione. Quando è attaccato riesce a scappare intrufolandosi in ogni fessura. Nonostante i suoi arti corti, questo Pokémon è molto agile e rapido nei movimenti.",
+            "alpha-sapphire": "Furret è di esile costituzione. Quando è attaccato riesce a scappare intrufolandosi in ogni fessura. Nonostante i suoi arti corti, questo Pokémon è molto agile e rapido nei movimenti."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 2,
+    "height": {
+        "furret": "1,8 m"
+    },
+    "id": 162,
+    "name": "Furret",
+    "name_origin": "Furret è la combinazione di fur e furetto. È più simile a furetto rispetto a Sentret. Il suo nome giapponese è la combinazione di 大 ō, grande, e 鼬 itachi, donnola, e potrebbe anche includere 尾 o, coda, e 立つ tatsu, posizione, proprio come il nome in giapponese di Sentret. Può derivare anche dalla parola francese che sta per furetto, furet. ",
+    "origin": "Furret sembra basarsi su un furetto. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Lungocorpo",
+    "sprites": {
+        "furret": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0162.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0162.png"
+        }
+    },
+    "stats": {
+        "furret": {
+            "hp": 85,
+            "atk": 76,
+            "def": 64,
+            "spa": 45,
+            "spd": 55,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "furret": 415
+    },
+    "types": {
+        "furret": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "furret": "32,5 kg"
+    }
+}

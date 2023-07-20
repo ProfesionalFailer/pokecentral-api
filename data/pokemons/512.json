@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "simisage": {
+            "primary": "Voracità",
+            "hidden": "Erbaiuto"
+        }
+    },
+    "curiosities": [
+        "Articoli incompleti",
+        "Pokémon",
+        "Pokémon di quinta generazione",
+        "Pokémon di tipo Erba",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Verde",
+        "Pokémon dalla sagoma n. 06",
+        "Pokémon con una proporzione sessuale di sette maschi per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 498"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/simisage.mp3",
+    "dex_entries": {
+        "simisage": {
+            "black": "Di carattere impetuoso, lotta roteando la coda dotata di aculei. Le foglie che ha sul capo sono molto amare.",
+            "white": "Attacca il nemico colpendolo con la coda piena di aculei. Pokémon dal carattere impetuoso.",
+            "black-2": "Attacca il nemico colpendolo con la coda spinata. Le foglie che ha in testa sono estremamente amare.",
+            "white-2": "Attacca il nemico colpendolo con la coda spinata. Le foglie che ha in testa sono estremamente amare.",
+            "x": "Attacca il nemico colpendolo con la coda piena di aculei. Pokémon dal carattere impetuoso.",
+            "y": "Di carattere impetuoso, lotta roteando la coda dotata di aculei. Le foglie che ha sul capo sono molto amare.",
+            "omega-ruby": "Attacca il nemico colpendolo con la coda piena di aculei. Pokémon dal carattere impetuoso.",
+            "alpha-sapphire": "Di carattere impetuoso, lotta roteando la coda dotata di aculei. Le foglie che ha sul capo sono molto amare."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "simisage": "1,1 m"
+    },
+    "id": 512,
+    "name": "Simisage",
+    "name_origin": "Simisage ha origine dai termini inglesi simian  e sage , o dal tedesco sagen . ",
+    "origin": "Simisage si basa su una pianta e una scimmia, in particolare potrebbe giocare sul modo in cui la sottofamiglia dei colombini viene chiamata in inglese, leaf monkey . È ispirato alla scimmia Iwazaru  del santuario di Nikko. La sua acconciatura ricorda i cipressi o le culture bōsōzoku o yankee. Inoltre potrebbe essere ispirato al fenomeno delle scimmie albero . ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Spinpanzé",
+    "sprites": {
+        "simisage": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5b/Homem0512.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f3/Homemsh0512.png"
+        }
+    },
+    "stats": {
+        "simisage": {
+            "hp": 75,
+            "atk": 98,
+            "def": 63,
+            "spa": 98,
+            "spd": 63,
+            "spe": 101
+        }
+    },
+    "stats_sum": {
+        "simisage": 498
+    },
+    "types": {
+        "simisage": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "simisage": "30,5 kg"
+    }
+}

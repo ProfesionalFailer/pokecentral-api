@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "mightyena": {
+            "primary": "Prepotenza",
+            "secondary": "Piedisvelti",
+            "hidden": "Arroganza"
+        }
+    },
+    "curiosities": [
+        "Mightyena è il Pokémon di tipo Buio completamente evoluto con il totale di statistiche base più basso.",
+        "Mightyena condivide la propria categoria con Poochyena e Drednaw, sono tutti noti come Pokémon Morso."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mightyena.mp3",
+    "dex_entries": {
+        "mightyena": {
+            "ruby": "MIGHTYENA invia chiari segnali quando sta preparando un attacco. Inizia a ringhiare cupo e a lisciarsi il pelo. Morde selvaggiamente con le zanne appuntite ed affilate.",
+            "sapphire": "Allo stato brado MIGHTYENA si sposta e agisce soltanto assieme al suo branco. A causa della sua natura selvatica obbedisce solo a quegli ALLENATORI che considera possedere abilità superiori.",
+            "emerald": "Allo stato brado, i MIGHTYENA vivono in branco e cacciano il nemico dando prova di un perfetto lavoro di gruppo. Non disubbidiscono mai agli ordini del capobranco.",
+            "firered": "La sua eccezionale obbedienza verso gli ALLENATORI esperti deriva dall'antica abitudine di vivere in branchi.",
+            "leafgreen": "La sua eccezionale obbedienza verso gli ALLENATORI esperti deriva dall'antica abitudine di vivere in branchi.",
+            "diamond": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "pearl": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "platinum": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "heartgold": "Una decina di MIGHTYENA per branco cacciano e sconfiggono il nemico con un perfetto lavoro di gruppo.",
+            "soulsilver": "Una decina di MIGHTYENA per branco cacciano e sconfiggono il nemico con un perfetto lavoro di gruppo.",
+            "black": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "white": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "black-2": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "white-2": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "x": "La sua eccezionale obbedienza verso gli Allenatori esperti deriva dall'antica abitudine di vivere in branchi.",
+            "y": "Una decina di Mightyena per branco cacciano e sconfiggono il nemico con un perfetto lavoro di gruppo.",
+            "omega-ruby": "Mightyena invia chiari segnali quando sta preparando un attacco. Inizia a ringhiare cupo e si appiattisce. Morde selvaggiamente con le zanne appuntite e affilate.",
+            "alpha-sapphire": "Allo stato brado Mightyena si sposta e agisce soltanto assieme al suo branco. A causa della sua natura selvatica obbedisce solo a quegli Allenatori che considera possedere abilità superiori.",
+            "brilliant-diamond": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "shining-pearl": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 3,
+    "height": {
+        "mightyena": "1,0 m"
+    },
+    "id": 262,
+    "name": "Mightyena",
+    "name_origin": "Deriva dall'unione dell'aggettivo inglese \"mighty\"  con \"hyena\" . ",
+    "origin": "Condivide alcune somiglianze con cani e iene. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Morso",
+    "sprites": {
+        "mightyena": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c5/Homem0262.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/52/Homemsh0262.png"
+        }
+    },
+    "stats": {
+        "mightyena": {
+            "hp": 70,
+            "atk": 90,
+            "def": 70,
+            "spa": 60,
+            "spd": 60,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "mightyena": 420
+    },
+    "types": {
+        "mightyena": [
+            "Buio"
+        ]
+    },
+    "weight": {
+        "mightyena": "37 kg"
+    }
+}

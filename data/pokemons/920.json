@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "lokix": {
+            "primary": "Aiutinsetto",
+            "hidden": "Lentifumé"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Coleottero",
+        "Pokémon di tipo Buio",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Coleottero",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 450"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lokix.mp3",
+    "dex_entries": {
+        "lokix": {
+            "scarlet": "Quando la lotta si fa seria, si erge sulle zampe che di solito tiene ripiegate e assume lo stile assalto per sopraffare il nemico in un lampo.",
+            "violet": "Non può mantenere a lungo lo stile assalto, nel quale sfrutta il paio di zampe che di solito tiene ripiegate, perché gli costa moltissima fatica."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 9,
+    "height": {
+        "lokix": "1,0 m"
+    },
+    "id": 920,
+    "name": "Lokix",
+    "name_origin": "Lokix potrebbe essere una combinazione di locust  e kicks . Exleg potrebbe essere una combinazione di exoskeleton  and leg . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Cavalletta",
+    "sprites": {
+        "lokix": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c1/Homem0920.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0920.png"
+        }
+    },
+    "stats": {
+        "lokix": {
+            "hp": 71,
+            "atk": 102,
+            "def": 78,
+            "spa": 52,
+            "spd": 55,
+            "spe": 92
+        }
+    },
+    "stats_sum": {
+        "lokix": 450
+    },
+    "types": {
+        "lokix": [
+            "Buio",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "lokix": "17,5 kg"
+    }
+}

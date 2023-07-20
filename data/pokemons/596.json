@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "galvantula": {
+            "primary": "Insettocchi",
+            "secondary": "Agitazione",
+            "hidden": "Aiutinsetto"
+        }
+    },
+    "curiosities": [
+        "Prima della settima generazione Joltik e Galvantula avevano una combinazione di tipi unica.",
+        "In quinta generazione Joltik e Galvantula erano gli unici Pokémon a poter avere Agitazione come abilità non speciale.",
+        "Nessun altro Pokémon ha una somma delle statistiche base di 472.",
+        "Nonostante sia basato su un aracnide, ha quattro zampe invece di otto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/galvantula.mp3",
+    "dex_entries": {
+        "galvantula": {
+            "black": "Quando viene attaccato, espelle una rete di fili elettrificati per formare una barriera elettrica.",
+            "white": "Tende trappole con fili elettrificati. Consuma poi con comodo le prede immobilizzate dalla scarica elettrica.",
+            "black-2": "Forma delle barriere con fili elettrificati che paralizzano il nemico, fungendo quindi non solo come difesa ma anche da arma.",
+            "white-2": "Forma delle barriere con fili elettrificati che paralizzano il nemico, fungendo quindi non solo come difesa ma anche da arma.",
+            "x": "Tende trappole con fili elettrificati. Consuma poi con comodo le prede immobilizzate dalla scarica elettrica.",
+            "y": "Quando viene attaccato, espelle una rete di fili elettrificati per formare una barriera elettrica.",
+            "omega-ruby": "Tende trappole con fili elettrificati. Consuma poi con comodo le prede immobilizzate dalla scarica elettrica.",
+            "alpha-sapphire": "Quando viene attaccato, espelle una rete di fili elettrificati per formare una barriera elettrica.",
+            "sword": "Attacca lanciando peli carichi di elettricità dall'addome. Chi viene colpito rimane paralizzato per tre giorni interi.",
+            "shield": "Tesse trappole di fili elettrizzati vicino ai nidi di Pokémon alati per catturare i piccoli che non sanno ancora volare."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 5,
+    "height": {
+        "galvantula": "0,8 m"
+    },
+    "id": 596,
+    "name": "Galvantula",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi galvanization  e tarantula . ",
+    "origin": "Galvantula è basato su una tarantola o su un ragno saltellante. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Elettroragno",
+    "sprites": {
+        "galvantula": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d4/Homem0596.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0596.png"
+        }
+    },
+    "stats": {
+        "galvantula": {
+            "hp": 70,
+            "atk": 77,
+            "def": 60,
+            "spa": 97,
+            "spd": 60,
+            "spe": 108
+        }
+    },
+    "stats_sum": {
+        "galvantula": 472
+    },
+    "types": {
+        "galvantula": [
+            "Elettro",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "galvantula": "14,3 kg"
+    }
+}

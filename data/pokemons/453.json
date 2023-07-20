@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "croagunk": {
+            "primary": "Presagio",
+            "secondary": "Pellearsa",
+            "hidden": "Velentocco"
+        }
+    },
+    "curiosities": [
+        "Prima dell'uscita di Leggende Pokémon: Arceus Croagunk e la sua evoluzione Toxicroak erano gli unici Pokémon possedenti il doppio tipo Veleno/Lotta.",
+        "A Pratopoli, nell'anime, si tiene il festival dei Croagunk.\n\tCroagunk infatti è la mascotte di Pratopoli, come si evince dalla statuetta di legno messa al bancone nel Pokémon-Market della città.\n\tSempre a Pratopoli, nei videogiochi, è presente una figura ritraente Croagunk con un buco all'altezza della testa, dove il giocatore può posizionarsi. Raramente, dal basso può apparire un Croagunk diretto verso la palude.",
+        "Croagunk infatti è la mascotte di Pratopoli, come si evince dalla statuetta di legno messa al bancone nel Pokémon-Market della città.\n\tSempre a Pratopoli, nei videogiochi, è presente una figura ritraente Croagunk con un buco all'altezza della testa, dove il giocatore può posizionarsi. Raramente, dal basso può apparire un Croagunk diretto verso la palude.",
+        "Sempre a Pratopoli, nei videogiochi, è presente una figura ritraente Croagunk con un buco all'altezza della testa, dove il giocatore può posizionarsi. Raramente, dal basso può apparire un Croagunk diretto verso la palude."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/croagunk.mp3",
+    "dex_entries": {
+        "croagunk": {
+            "diamond": "Le sacche delle guance contengono veleno. Infilza i nemici con le sue unghie avvelenate.",
+            "pearl": "Gonfiando le sacche di veleno, emette dei gargarismi misteriosi che intimoriscono il nemico.",
+            "platinum": "Combatte spesso slealmente, ma lo fa per sopravvivere. È molto apprezzato come mascotte.",
+            "heartgold": "Si spreme dalle dita un succo velenoso usato nella ricetta di un rimedio contro la lombaggine.",
+            "soulsilver": "Si spreme dalle dita un succo velenoso usato nella ricetta di un rimedio contro la lombaggine.",
+            "black": "Combatte spesso slealmente, ma lo fa per sopravvivere. È molto apprezzato come mascotte.",
+            "white": "Combatte spesso slealmente, ma lo fa per sopravvivere. È molto apprezzato come mascotte.",
+            "black-2": "Gonfia le sue sacche di veleno emettendo un verso sinistro che può far tentennare l'avversario, poi lo avvelena.",
+            "white-2": "Gonfia le sue sacche di veleno emettendo un verso sinistro che può far tentennare l'avversario, poi lo avvelena.",
+            "x": "Le sacche delle guance contengono veleno. Infilza i nemici con le sue unghie avvelenate.",
+            "y": "Gonfia le sue sacche di veleno emettendo un verso sinistro che può far tentennare l'avversario, poi lo avvelena.",
+            "omega-ruby": "Le sacche delle guance contengono veleno. Infilza i nemici con le sue unghie avvelenate.",
+            "alpha-sapphire": "Gonfia le sue sacche di veleno emettendo un verso sinistro che può far tentennare l'avversario, poi lo avvelena.",
+            "sword": "Spaventa il nemico facendo risuonare le sacche sulle guance e lo avvelena approfittando del momento di esitazione.",
+            "shield": "Se diluito, il suo veleno ha proprietà medicinali. È diventato popolare da quando una casa farmaceutica ne ha fatto la sua mascotte.",
+            "brilliant-diamond": "Le sacche delle guance contengono veleno. Coglie di sorpresa i nemici per infilzarli con le sue dita avvelenate.",
+            "shining-pearl": "Gonfiando le sacche di veleno, emette dei gargarismi misteriosi che intimoriscono il nemico.",
+            "legends-arceus": "È velenifero e iniquo per natura. Malgrado ciò, gode di una certa notorietà grazie al suo singolare verso e ai comici lineamenti facciali.",
+            "scarlet": "Gonfia le sue sacche di veleno emettendo un verso sinistro che fa impietrire l’avversario, poi lo avvelena.",
+            "violet": "Combatte spesso slealmente, ma lo fa per sopravvivere. È molto apprezzato come mascotte."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 4,
+    "height": {
+        "croagunk": "0,7 m"
+    },
+    "id": 453,
+    "name": "Croagunk",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi croak  e gunk . ",
+    "origin": "Basato su una rana freccia. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Inveieleno",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/8/86/Homem0453.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0453.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1d/Homef0453.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6a/Homefsh0453.png"
+        }
+    },
+    "stats": {
+        "croagunk": {
+            "hp": 48,
+            "atk": 61,
+            "def": 40,
+            "spa": 61,
+            "spd": 40,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "croagunk": 300
+    },
+    "types": {
+        "croagunk": [
+            "Veleno",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "croagunk": "23,0 kg"
+    }
+}

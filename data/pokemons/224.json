@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "octillery": {
+            "primary": "Ventose",
+            "secondary": "Cecchino",
+            "hidden": "Altalena"
+        }
+    },
+    "curiosities": [
+        "Il nome Giapponese della sua mossa esclusiva, Octazooka, significa letteralmente Cannone Okutank. Questo fa di Octillery l'unico Pokémon con una mossa con il suo nome dentro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/octillery.mp3",
+    "dex_entries": {
+        "octillery": {
+            "gold": "Cattura i nemici con le ventose dei tentacoli per poi colpirli con il suo capo duro come pietra.",
+            "silver": "S'introduce istintivamente in buchi nella roccia. Se ha sonno occupa la tana di un altro OCTILLERY.",
+            "crystal": "Usa nascondersi nelle buche. Spesso ruba i nidi di altri POKéMON per dormirvi.",
+            "ruby": "OCTILLERY afferra il nemico con i tentacoli immobilizzandolo prima di sferrare il colpo finale. Se il nemico è molto forte, OCTILLERY sputa inchiostro e scappa.",
+            "sapphire": "OCTILLERY afferra il nemico con i tentacoli immobilizzandolo prima di sferrare il colpo finale. Se il nemico è molto forte, OCTILLERY sputa inchiostro e scappa.",
+            "emerald": "OCTILLERY afferra il nemico con i tentacoli immobilizzandolo prima di sferrare il colpo finale. Se il nemico è molto forte, OCTILLERY sputa inchiostro e scappa.",
+            "firered": "S'introduce istintivamente in buchi nella roccia. Se ha sonno occupa la tana di un altro OCTILLERY.",
+            "leafgreen": "Cattura i nemici con le ventose dei tentacoli per poi colpirli con il suo capo duro come pietra.",
+            "diamond": "Vive nelle spaccature delle rocce e del fondo marino. Con le sue ventose afferra saldamente la preda.",
+            "pearl": "Oscura la vista al nemico sputando una nuvola d’inchiostro nero. La sua tana è fra le rocce.",
+            "platinum": "Adora nascondersi nelle spaccature delle rocce. A volte allunga la bocca e sputa inchiostro sulle prede.",
+            "heartgold": "Cattura i nemici con le ventose dei tentacoli per poi colpirli con il suo capo duro come pietra.",
+            "soulsilver": "S'introduce istintivamente in buchi nella roccia. Se ha sonno occupa la tana di un altro OCTILLERY.",
+            "black": "Adora nascondersi nelle spaccature delle rocce. A volte allunga la bocca e sputa inchiostro sulle prede.",
+            "white": "Adora nascondersi nelle spaccature delle rocce. A volte allunga la bocca e sputa inchiostro sulle prede.",
+            "black-2": "Ama rintanarsi nei vasi o nelle fessure della roccia, da dove attacca sparando getti d'inchiostro.",
+            "white-2": "Ama rintanarsi nei vasi o nelle fessure della roccia, da dove attacca sparando getti d'inchiostro.",
+            "x": "Ama rintanarsi nei vasi o nelle fessure della roccia, da dove attacca sparando getti d'inchiostro.",
+            "y": "Cattura i nemici con le ventose dei tentacoli per poi colpirli con il suo capo duro come la pietra.",
+            "omega-ruby": "Octillery afferra il nemico con i tentacoli immobilizzandolo prima di sferrare il colpo finale. Se il nemico è molto forte, Octillery sputa inchiostro e scappa.",
+            "alpha-sapphire": "Octillery afferra il nemico con i tentacoli immobilizzandolo prima di sferrare il colpo finale. Se il nemico è molto forte, Octillery sputa inchiostro e scappa.",
+            "ultra-sun": "Mentre fugge dai nemici sputa un inchiostro che inibisce le funzioni olfattive persino dei Pokémon con l’odorato più sviluppato.",
+            "ultra-moon": "Ha l'abitudine di dormire nelle fessure delle rocce. Spara un inchiostro nerissimo che viene usato anche come ingrediente per cucinare.",
+            "sword": "Ama nascondersi nei buchi. Spesso ruba le tane di altri Pokémon per dormirvi.",
+            "shield": "Cattura i nemici con le ventose dei tentacoli per poi colpirli con il suo capo duro come pietra.",
+            "brilliant-diamond": "Vive tra le rocce o nelle cavità del fondale marino. Si attacca alla preda con le sue ventose, impedendole di fuggire.",
+            "shining-pearl": "Oscura la vista al nemico emettendo una nuvola d’inchiostro nero dalla bocca. Fa la tana in mezzo alle rocce.",
+            "legends-arceus": "Può eiettare acqua al pari di un Remoraid, ma a causa delle sembianze assai difformi si è per lungo tempo escluso che fosse il risultato della sua evoluzione."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 2"
+    ],
+    "generation": 2,
+    "height": {
+        "octillery": "0,9 m"
+    },
+    "id": 224,
+    "name": "Octillery",
+    "name_origin": "Il nome deriva dall'unione della parola octopus, polpo, con la parola inglese artillery, artiglieria.",
+    "origin": "È basato su un polpo. ",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Jet",
+    "sprites": {
+        "  ": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9f/Homem0224.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/04/Homemsh0224.png"
+        },
+        "-f  ": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a7/Homef0224.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/dc/Homefsh0224.png"
+        }
+    },
+    "stats": {
+        "octillery": {
+            "hp": 75,
+            "atk": 105,
+            "def": 75,
+            "spa": 105,
+            "spd": 75,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "octillery": 480
+    },
+    "types": {
+        "octillery": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "octillery": "28,5 kg"
+    }
+}

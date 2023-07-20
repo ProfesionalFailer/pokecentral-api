@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "spritzee": {
+            "primary": "Curacuore",
+            "hidden": "Aromavelo"
+        }
+    },
+    "curiosities": [
+        "Anche se assomiglia ad un uccello, Spritzee non è di tipo Volante",
+        "È il primo Pokémon di sesta generazione ad evolversi tramite scambio.",
+        "La linea evolutiva di Spretzee può essere considerata la controparte di quella di Swirlix. Sono entrambe linee evolutive di tipo Folletto puro, introdotte in sesta generazione, una esclusiva di Pokémon X e Pokémon Spada e l’altra di Pokémon Y e di Pokémon Scudo. Inoltre entrambi si evolvono tramite scambio tenendo un oggetto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/spritzee.mp3",
+    "dex_entries": {
+        "spritzee": {
+            "x": "Il suo corpo emette un profumo che inebria chi lo annusa. La fragranza cambia in base a ciò che mangia.",
+            "y": "Si dice che nell'antichità, al posto del profumo, le nobildonne portassero sempre con loro questo Pokémon, che diffondeva la loro fragranza preferita.",
+            "omega-ruby": "Il suo corpo emette un profumo che inebria chi lo annusa. La fragranza cambia in base a ciò che mangia.",
+            "alpha-sapphire": "Si dice che nell'antichità, al posto del profumo, le nobildonne portassero sempre con loro questo Pokémon, che diffondeva la loro fragranza preferita.",
+            "sword": "Questo Pokémon possiede un organo interno che produce profumo. Il tipo di profumo cambia a seconda del cibo di cui si nutre.",
+            "shield": "Il suo corpo emana un profumo irresistibile che ammalia gli esseri umani. Era particolarmente amato dalle nobildonne."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "generation": 6,
+    "height": {
+        "spritzee": "0,2 m"
+    },
+    "id": 682,
+    "name": "Spritzee",
+    "name_origin": "Spritzee potrebbe derivare dalla parola inglese spritz . Shushupu potrebbe derivare da プシュー pushū . ",
+    "origin": "Sembra essere basato su di un uccello, quali il fenicottero, il corvo, o un trochilide. Il piumaggio rosato e la forma del becco ricordano il cacatua del maggiore Mitchell. La chiazza tonda e bianca sul volto, richiama le maschere carnevalesche indossate tradizionalmente in Europa centrale e meridionale, ma è più probabilmente un riferimento al medico della peste, la cui maschera, dotata di un becco adunco, conteneva fragranze profumate per tener lontani i cattivi odori portati dalle epidemie.\nLa sua forma può ispirarsi allo spray a forma di bulbo caratteristico delle boccette di profumo, mentre la soffice consistenza del suo piumaggio può essere un richiamo ai piumini da cipria.  ",
+    "shape": "insettoide",
+    "specie": "Pokémon Profumo",
+    "sprites": {
+        "spritzee": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5b/Homem0682.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0682.png"
+        }
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 78,
+            "atk": 52,
+            "def": 60,
+            "spa": 63,
+            "spd": 65,
+            "spe": 23
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 341
+    },
+    "types": {
+        "spritzee": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "spritzee": "0,5 kg"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "flittle": {
+            "primary": "Presagio",
+            "secondary": "Indagine",
+            "hidden": "Acceleratore"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Psico",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Volante",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 255"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/flittle.mp3",
+    "dex_entries": {
+        "flittle": {
+            "scarlet": "Il potere psichico che emette dalle balze sull'addome gli permette di sollevarsi da terra di appena un centimetro e fluttuare nell'aria.",
+            "violet": "Passa il tempo scorrazzando per lande brulle. Se qualcuno gli toglie le sue bacche preferite, gli corre dietro senza sosta per vendicarsi."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 9,
+    "height": {
+        "flittle": "0,2 m"
+    },
+    "id": 955,
+    "name": "Flittle",
+    "name_origin": "Flittle potrebbe essere una combinazione di flutter  e little . Hirahina potrebbe essere una combinazione di ひらひら hirahira  e 雛 hina . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Volant",
+    "sprites": {
+        "flittle": {
+            "default": "https://media.pokemoncentral.it/wiki/2/20/Homem0955.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0955.png"
+        }
+    },
+    "stats": {
+        "flittle": {
+            "hp": 30,
+            "atk": 35,
+            "def": 30,
+            "spa": 55,
+            "spd": 30,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "flittle": 255
+    },
+    "types": {
+        "flittle": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "flittle": "1,5 kg"
+    }
+}

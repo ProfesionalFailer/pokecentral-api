@@ -1,0 +1,120 @@
+{
+    "abilities": {
+        "corsola": {
+            "primary": "Tuttafretta",
+            "secondary": "Alternacura",
+            "hidden": "Rigenergia"
+        },
+        "forma-di-galar": {
+            "primary": "Sottilguscio",
+            "hidden": "Corpofunesto"
+        }
+    },
+    "curiosities": [
+        "Pur non essendo un Pokémon di tipo Erba, può apprendere Naturforza e Radicamento.",
+        "Corsola è il Pokémon di tipo Roccia più leggero.",
+        "Come scritto nel Pokédex di Ultraluna, i Corsola della regione di Alola hanno i coralli sulla schiena più corti per via di Mareanie.",
+        "Corsola di Galar mostra gli effetti del cambiamento climatico sui coralli, ossia lo sbiancamento dei coralli.\n\tIl tipo Spettro rappresenta probabilmente un riferimento al fatto che il corallo sbiancato è destinato a morire in pochi giorni se l'alga simbionte non fa ritorno.",
+        "Il tipo Spettro rappresenta probabilmente un riferimento al fatto che il corallo sbiancato è destinato a morire in pochi giorni se l'alga simbionte non fa ritorno.",
+        "La sua forma di Galar sembra essere ispirata alla sua descrizione del Pokédex di Pokémon Y.",
+        "Corsola, insieme a Farfetch'd e Slowpoke, è uno dei Pokémon con due tipi la cui forma regionale ne ha solo uno.\n\tTutte e tre le forme in questione sono forme di Galar.",
+        "Tutte e tre le forme in questione sono forme di Galar."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/corsola.mp3",
+    "dex_entries": {
+        "corsola": {
+            "gold": "Muta la pelle e cresce di continuo. La punta che ha sul capo è un simbolo della sua bellezza.",
+            "silver": "A sud, vi è un popolo di mare che vive in comunità fondate su questo tipo di POKéMON.",
+            "crystal": "Le punte sulla testa assorbono nutrimento dall'acqua pulita. Non sopravvive nell'acqua inquinata.",
+            "ruby": "Le ramificazioni del Corsola brillano in sette meravigliosi colori se esposte alla luce del sole. Se qualche ramo si spezza e cade viene rigenerato nell'arco di una notte.",
+            "sapphire": "I Corsola formano grandi colonie nei mari più caldi dove costituiscono rifugi ideali per POKéMON più piccoli. Quando la temperatura dell'acqua si abbassa, migrano verso i mari del sud.",
+            "emerald": "Corsola vive nei caldi mari del sud. Se il mare viene inquinato, le meravigliose ramificazioni coralline perdono il colore e si sbriciolano in mille pezzi.",
+            "firered": "A sud, vi è un popolo di mare che vive in villaggi costruiti su gruppi di questi POKéMON.",
+            "leafgreen": "Muta la pelle e cresce di continuo. La punta che ha sul capo è un simbolo della sua bellezza.",
+            "diamond": "Vivono numerosi nei limpidi mari del sud. Pare che non riescano a sopravvivere nelle acque inquinate.",
+            "pearl": "Vivono numerosi nei limpidi mari del sud. Pare che non riescano a sopravvivere nelle acque inquinate.",
+            "platinum": "Vivono numerosi nei limpidi mari del sud. Pare che non riescano a sopravvivere nelle acque inquinate.",
+            "heartgold": "Muta la pelle e cresce di continuo. La punta che ha sul capo è un simbolo della sua bellezza.",
+            "soulsilver": "A sud, vi è un popolo di mare che vive in comunità fondate su questo tipo di Pokémon.",
+            "black": "Vivono numerosi nei limpidi mari del sud. Pare che non riescano a sopravvivere nelle acque inquinate.",
+            "white": "Vivono numerosi nei limpidi mari del sud. Pare che non riescano a sopravvivere nelle acque inquinate.",
+            "black-2": "Preferisce i limpidi mari del sud. In quelli inquinati, invece, i suoi coralli si logorano e perdono il loro colore.",
+            "white-2": "Preferisce i limpidi mari del sud. In quelli inquinati, invece, i suoi coralli si logorano e perdono il loro colore.",
+            "x": "Muta la pelle e cresce di continuo. La punta che ha sul capo è un simbolo della sua bellezza.",
+            "y": "Preferisce i limpidi mari del sud. In quelli inquinati, invece, i suoi coralli si logorano e perdono il loro colore.",
+            "omega-ruby": "Le ramificazioni del Corsola brillano in sette meravigliosi colori se esposte alla luce del sole. Se qualche ramo si spezza e cade viene rigenerato nell'arco di una notte.",
+            "alpha-sapphire": "I Corsola formano grandi colonie nei mari più caldi dove costituiscono rifugi ideali per Pokémon più piccoli. Quando la temperatura dell'acqua si abbassa, migrano verso i mari del sud.",
+            "sun": "Sul suo capo crescono dei coralli molto fragili. Se un ramo si spezza e cade, viene rigenerato nell’arco di tre giorni.",
+            "moon": "Quando è inseguito da un Mareanie attirato dai coralli che ha sul capo, li stacca per distrarlo e fuggire più agevolmente.",
+            "ultra-sun": "I Corsola che vivono ad Alola sono di un colore rosa intenso e brillante grazie alle acque marine ricche di elementi nutritivi.",
+            "ultra-moon": "Ad Alola, i rametti sulla testa dei Corsola sono spesso più corti del normale per la presenza massiccia di Mareanie, i loro nemici naturali.",
+            "sword": "Se i coralli che ha sulla testa si spezzano crescono nuovamente. Quelli più belli vengono usati come portafortuna per il parto.",
+            "shield": "Vive nei mari più caldi. Anticamente, numerosi esemplari di questo Pokémon vivevano anche lungo le coste di Galar.",
+            "brilliant-diamond": "Vivono numerosi nei limpidi mari del sud. Pare che non riescano a sopravvivere nelle acque inquinate.",
+            "shining-pearl": "Vivono numerosi nei limpidi mari del sud. Pare che non riescano a sopravvivere nelle acque inquinate."
+        },
+        "forma-di-galar": {
+            "sword": "Spesso giace a terra in luoghi che in passato erano fondali oceanici. Se qualcuno lo calcia scambiandolo per un ciottolo, viene maledetto.",
+            "shield": "È un antico Corsola morto a causa di repentini cambiamenti climatici. Risucchia la forza vitale degli esseri umani attraverso i suoi rametti."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 3"
+    ],
+    "generation": 2,
+    "height": {
+        "corsola": "0,6 m"
+    },
+    "id": 222,
+    "name": "Corsola",
+    "name_origin": "Il nome è la combinazione di \"Coral\"  e \"Sola\"  oppure da \"Solar\" . ",
+    "origin": "È basato su un corallo, in particolare al corallo rosso, usato per creare pietre preziose. La sua Forma di Galar è basata su un corallo sbiancato, ossia un corallo che ha perso i suoi simbionti in seguito ad un aumento della temperatura dell'acqua in cui vive. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Corallo",
+    "sprites": {
+        "corsola": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c6/Homem0222.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0222.png"
+        },
+        "forma-di-galar": {
+            "default": "https://media.pokemoncentral.it/wiki/2/21/Homem0222G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0222G.png"
+        }
+    },
+    "stats": {
+        "corsola": {
+            "hp": 65,
+            "atk": 55,
+            "def": 95,
+            "spa": 65,
+            "spd": 95,
+            "spe": 35
+        },
+        "forma-di-galar": {
+            "hp": 60,
+            "atk": 55,
+            "def": 100,
+            "spa": 65,
+            "spd": 100,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "corsola": 410,
+        "forma-di-galar": 410
+    },
+    "types": {
+        "corsola": [
+            "Roccia",
+            "Acqua"
+        ],
+        "forma-di-galar": [
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "corsola": "5,0 kg",
+        "forma-di-galar": "0,5 kg"
+    }
+}

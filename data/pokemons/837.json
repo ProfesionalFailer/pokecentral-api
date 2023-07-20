@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "rolycoly": {
+            "primary": "Vapormacchina",
+            "secondary": "Antifuoco",
+            "hidden": "Fuocardore"
+        }
+    },
+    "curiosities": [
+        "Rolycoly condivide la sua categoria con Carkol, Coalossal e Torkoal. Tutti e quattro sono conosciuti come Pokémon Carbone.",
+        "Rolycoly è l'unico Pokémon non di tipo Fuoco che ha l'abilità Fuocardore.",
+        "Rolycoly è stato annunciato l'8 luglio 2019 in un trailer nel canale YouTube ufficiale di Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/rolycoly.mp3",
+    "dex_entries": {
+        "rolycoly": {
+            "sword": "È stato scoperto più di 400 anni fa in una miniera. Il suo corpo è prevalentemente composto di una sostanza uguale al carbone.",
+            "shield": "Corre in lungo e in largo come un monociclo anche sulle strade sassose più accidentate. Vive grazie alla combustione del carbone.",
+            "scarlet": "Nei giorni di sole esce all’aperto a scorrazzare per i prati e mangia l’erba che rimane attaccata alla zampa, che sembra una ruota.",
+            "violet": "Con il tempo, alcuni pezzi sulla superficie del suo corpo si staccano e cadono a terra. Vengono usati come combustibile al posto del carbone."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 8,
+    "height": {
+        "rolycoly": "0,3 m"
+    },
+    "id": 837,
+    "name": "Rolycoly",
+    "name_origin": "Rokycoly potrebbe essere una combinazione di roly-poly, cicciotto, e coal, carbone. Tandon potrebbe essere una combinazione di 炭 tan, carbone, e どん don, sparo. ",
+    "origin": "Rolycoly potrebbe essere basato su un pezzo di carbone e su una ruota. ",
+    "shape": "testa",
+    "specie": "Pokémon Carbone",
+    "sprites": {
+        "rolycoly": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8f/Homem0837.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0837.png"
+        }
+    },
+    "stats": {
+        "rolycoly": {
+            "hp": 30,
+            "atk": 40,
+            "def": 50,
+            "spa": 40,
+            "spd": 50,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "rolycoly": 240
+    },
+    "types": {
+        "rolycoly": [
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "rolycoly": "12,0 kg"
+    }
+}

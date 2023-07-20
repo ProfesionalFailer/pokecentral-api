@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "cursola": {
+            "primary": "Sottilguscio",
+            "hidden": "Ultimotocco"
+        }
+    },
+    "curiosities": [
+        "Cursola e Sirfetch'd possono essere considerati controparti.\n\tEntrambi sono le evoluzioni finali di due Pokémon che nella loro forma originale non possono evolversi.\n\tEntrambi cambiano tipo dalla forma originale a quella di Galar, diventando Pokémon con un unico tipo.\n\tMentre Cursola è esclusivo di Pokémon Scudo, Sirfetch'd è esclusivo di Pokémon Spada.\n\tOnion utilizza Cursola in Pokémon Scudo, mentre Fabia utilizza Sirfetch'd in Pokémon Spada.",
+        "Entrambi sono le evoluzioni finali di due Pokémon che nella loro forma originale non possono evolversi.",
+        "Entrambi cambiano tipo dalla forma originale a quella di Galar, diventando Pokémon con un unico tipo.",
+        "Mentre Cursola è esclusivo di Pokémon Scudo, Sirfetch'd è esclusivo di Pokémon Spada.",
+        "Onion utilizza Cursola in Pokémon Scudo, mentre Fabia utilizza Sirfetch'd in Pokémon Spada."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cursola.mp3",
+    "dex_entries": {
+        "cursola": {
+            "sword": "Un accumulo di energia misteriosa lo ha separato dal suo guscio. Protegge l'anima contenuta nel suo nucleo in una sorta di ectoplasma.",
+            "shield": "Il corpo di ectoplasma che avvolge la sua anima è pericolosissimo: chi lo tocca si immobilizza come se fosse stato tramutato in pietra."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 3"
+    ],
+    "generation": 8,
+    "height": {
+        "cursola": "1,0 m"
+    },
+    "id": 864,
+    "name": "Cursola",
+    "name_origin": "Cursola potrebbe essere una combinazione di curse, maledizione, Corsola e sole, un pezzo di corallo, o solar, solare. Sunigoon potrebbe essere una combinazione di sunny, soleggiato, 珊瑚 sango, corallo, サニーゴ Sunnygo, Corsola, Gorgon, Gorgone, e gone, passato. ",
+    "origin": "Cursola potrebbe essere ispirato sullo sbiancamento dei coralli, un fenomeno in cui il corallo espelle le alghe che fanno assumere il tipico colore dell'animale a causa dei cambiamenti climatici e dell'innalzamento della temperatura dell'acqua. Questo causa la morte del corallo, giustificando il fantasma che ricopre il corpo del Pokémon. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Corallo",
+    "sprites": {
+        "cursola": {
+            "default": "https://media.pokemoncentral.it/wiki/6/69/Homem0864.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/27/Homemsh0864.png"
+        }
+    },
+    "stats": {
+        "cursola": {
+            "hp": 60,
+            "atk": 95,
+            "def": 50,
+            "spa": 145,
+            "spd": 130,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "cursola": 510
+    },
+    "types": {
+        "cursola": [
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "cursola": "0,4 kg"
+    }
+}

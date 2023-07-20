@@ -1,0 +1,126 @@
+{
+    "abilities": {
+        "alakazam": {
+            "primary": "Sincronismo",
+            "secondary": "Forza Interiore",
+            "hidden": "Magicscudo"
+        },
+        "megaalakazam": {
+            "primary": "Traccia"
+        }
+    },
+    "curiosities": [
+        "Alakazam pesa meno della sua pre-evoluzione Kadabra. Condivide questo fatto con Porygon2, Bellossom, Venomoth, Salamence, Shedinja e Gliscor.",
+        "Sebbene non possieda una coda, Alakazam può apprendere la mossa Codacciaio, probabilmente per il fatto che le sue pre-evoluzioni hanno la coda.",
+        "Nonostante si dica che abbia muscoli deboli , lo si è visto usare attacchi fisici, come i pugni, molte volte nell'anime e di solito con grandi effetti.",
+        "Alakazam può essere visto come una controparte di Machamp. Sono entrambi l'ultimo stadio di una famiglia evolutiva di tre elementi, entrambi raggiungono il loro stadio finale tramite scambio ed entrambi hanno una percentuale di esemplari maschi del 75%. Inoltre, Alakazam eccelle in Attacco Speciale, mentre Machamp eccelle in Attacco.",
+        "Alakazam e le sue pre-evoluzioni sono in tutti i Pokédex regionali.",
+        "Alakazam e le sue pre-evoluzioni hanno tutte per nome una parola magica."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/alakazam.mp3",
+    "dex_entries": {
+        "alakazam": {
+            "red": "Il suo cervello può superare un supercomputer. Il suo quoziente intellettivo è di 5000.",
+            "blue": "Il suo cervello può superare un supercomputer. Il suo quoziente intellettivo è di 5000.",
+            "yellow": "Questo POKéMON molto intelligente ha un'ottima memoria, infatti non dimentica mai nulla.",
+            "gold": "Se chiude gli occhi potenzia gli altri sensi. Così può sfruttare al meglio le sue capacità.",
+            "silver": "Le cellule cerebrali si moltiplicano di continuo. Perciò ricorda qualsiasi cosa.",
+            "crystal": "Il suo quoziente intellettivo è 5000. Nella lotta esegue molti calcoli per avvantaggiarsi.",
+            "ruby": "Il cervello di ALAKAZAM cresce in continuazione rendendo la sua testa troppo pesante per il collo. Pertanto è costretto ad usare i suoi poteri psicocinetici per sostenerla.",
+            "sapphire": "Il cervello di ALAKAZAM cresce in continuazione, moltiplicando all'infinito le cellule cerebrali. Questo gli assegna un sorprendente QI di 5.000. Ricorda nei minimi dettagli ogni evento accaduto nel mondo.",
+            "emerald": "ALAKAZAM è dotato di un'intelligenza e di poteri psichici fuori dal comune, dei quali si serve per muoversi. I suoi muscoli, invece, sono molto deboli.",
+            "firered": "Non ama gli attacchi fisici. Preferisce attaccare i nemici servendosi dei suoi poteri extrasensoriali.",
+            "leafgreen": "Il suo cervello può superare un supercomputer. Il suo quoziente intellettivo è di 5.000.",
+            "diamond": "La sua incredibile memoria gli fa ricordare ogni evento fin dalla nascita. Il suo QI supera 5000.",
+            "pearl": "Il suo cervello molto sviluppato è simile a un supercomputer. Può usare ogni tipo di abilità psichica.",
+            "platinum": "Si dice che abbia creato i cucchiai che tiene in mano grazie ai suoi poteri psichici.",
+            "heartgold": "Se chiude gli occhi potenzia gli altri sensi. Così può sfruttare al meglio le sue capacità.",
+            "soulsilver": "Le sue cellule cerebrali si moltiplicano di continuo. Perciò ricorda qualsiasi cosa gli accada.",
+            "black": "Si dice che abbia creato i cucchiai che tiene in mano grazie ai suoi poteri psichici.",
+            "white": "Si dice che abbia creato i cucchiai che tiene in mano grazie ai suoi poteri psichici.",
+            "black-2": "Si dice che abbia creato i cucchiai che tiene in mano grazie ai suoi poteri psichici.",
+            "white-2": "Si dice che abbia creato i cucchiai che tiene in mano grazie ai suoi poteri psichici.",
+            "x": "Le sue cellule cerebrali si moltiplicano di continuo. Perciò ricorda qualsiasi cosa gli accada.",
+            "y": "Il suo cervello può superare un supercomputer. Il suo quoziente intellettivo è di 5000.",
+            "omega-ruby": "Il cervello di Alakazam cresce in continuazione rendendo la sua testa troppo pesante per il collo. Pertanto è costretto ad usare i suoi poteri psicocinetici per sostenerla.",
+            "alpha-sapphire": "il cervello di Alakazam cresce in continuazione, moltiplicando all'infinito le cellule cerebrali. Questo gli assegna un sorprendente QI di 5000. Ricorda nei minimi dettagli ogni evento accaduto nel mondo.",
+            "sun": "Ha un quoziente intellettivo di circa 5.000. I suoi poteri psicocinetici sono talmente intensi da far venire mal di testa a chi gli sta vicino.",
+            "moon": "Le sue cellule celebrali continuano a moltiplicarsi per tutta la vita e man mano che cresce la sua testa diventa sempre più grossa.",
+            "ultra-sun": "I cucchiai che ha con sé sono stati creati grazie ai suoi poteri psichici e sono esemplari unici al mondo.",
+            "ultra-moon": "Chi si guadagna la sua piena fiducia ottiene in regalo uno dei suoi cucchiai. Se usato per mangiare, dà un sapore delizioso a tutti i cibi.",
+            "lets-go-pikachu": "Questo Pokémon intelligentissimo ha una memoria prodigiosa e non dimentica mai ciò che impara.",
+            "lets-go-eevee": "Questo Pokémon intelligentissimo ha una memoria prodigiosa e non dimentica mai ciò che impara.",
+            "sword": "Possiede un intelletto estremamente elevato e si dice sia in grado di ricordare ogni evento della sua vita, dalla nascita alla morte.",
+            "shield": "Padroneggia potenti poteri psichici, con i quali si dice abbia creato i cucchiai che tiene in mano.",
+            "brilliant-diamond": "La sua incredibile memoria gli permette di ricordare tutto quello che ha vissuto fin dalla nascita. Il suo QI supera 5.000.",
+            "shining-pearl": "Il suo cervello molto sviluppato è simile a un supercomputer. Sa usare ogni tipo di potere psichico.",
+            "legends-arceus": "La mole e il peso del suo capo crescono quanto più avanza con l'età. Gli studi mostrano che più è grave il capo, maggiori sono i suoi poteri psichici."
+        },
+        "megaalakazam": {
+            "sun": "La megaevoluzione ha trasformato ogni sua forza, compresa quella muscolare, in puro potere psichico.",
+            "moon": "Ha scatenato i suoi poteri psichici latenti e ora ne ha il pieno controllo. Gli basta un'occhiata per sapere tutto del nemico, dalla nascita alla morte.",
+            "ultra-sun": "Scatena i suoi poteri psichici tramite l’organo rosso sulla fronte e li usa per scoprire tutti i segreti del suo avversario.",
+            "ultra-moon": "La megaevoluzione ha sprigionato la sua vera potenza a scapito dei muscoli. Grazie ai suoi poteri psichici può conoscere ogni cosa.",
+            "lets-go-pikachu": "È abilissimo nel predire il futuro. Quando evita tutti gli attacchi del suo avversario, è perché riesce a prevederli.",
+            "lets-go-eevee": "È abilissimo nel predire il futuro. Quando evita tutti gli attacchi del suo avversario, è perché riesce a prevederli."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 1,
+    "height": {
+        "alakazam": "1,5 m",
+        "megaalakazam": "1,2 m"
+    },
+    "id": 65,
+    "name": "Alakazam",
+    "name_origin": "Il nome di Alakazam è parte di una formula magica usata per effettuare incantesimi, simile ad Abracadabra. Il suo nome giapponese può essere pronunciato Houdin ed è probabilmente riferito a Jean Eugène Robert-Houdin e Harry Houdini, entrambi famosi illusionisti. ",
+    "origin": "I cucchiai di Alakazam sono un riferimento a Uri Geller, che affermò di possedere l'abilità di piegare i cucchiai con la sua mente. Come Abra e Kadabra, Alakazam condivide tratti somatici con capre e volpi. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Psico",
+    "sprites": {
+        "alakazam ": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ef/Homem0065.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6c/Homemsh0065.png"
+        },
+        "alakazam -f": {
+            "default": "https://media.pokemoncentral.it/wiki/9/92/Homef0065.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/de/Homefsh0065.png"
+        },
+        "megaalakazam": {
+            "default": "https://media.pokemoncentral.it/wiki/7/77/Homem0065M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0065M.png"
+        }
+    },
+    "stats": {
+        "alakazam": {
+            "hp": 55,
+            "atk": 50,
+            "def": 45,
+            "spa": 135,
+            "spd": 95,
+            "spe": 120
+        },
+        "megaalakazam": {
+            "hp": 55,
+            "atk": 50,
+            "def": 65,
+            "spa": 175,
+            "spd": 105,
+            "spe": 150
+        }
+    },
+    "stats_sum": {
+        "alakazam": 500,
+        "megaalakazam": 600
+    },
+    "types": {
+        "alakazam": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "alakazam": "48,0 kg"
+    }
+}

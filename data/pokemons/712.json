@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "bergmite": {
+            "primary": "Mente Locale",
+            "secondary": "Corpogelo",
+            "hidden": "Vigore"
+        }
+    },
+    "curiosities": [
+        "A partire dall'ottava generazione, Bergmite appartiene anche al Gruppo Uova Minerale.\n\tBergmite e Avalugg sono gli unici Pokémon ad appartenere ai Gruppi Uova Mostro e Minerale.",
+        "Bergmite e Avalugg sono gli unici Pokémon ad appartenere ai Gruppi Uova Mostro e Minerale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bergmite.mp3",
+    "dex_entries": {
+        "bergmite": {
+            "x": "Si difende dagli attacchi nemici grazie al ghiaccio che ricopre il suo corpo. Se viene danneggiato, rigenera lo strato protettivo, riparandolo.",
+            "y": "Congela i nemici soffiando aria a -100°C. Vive in gruppo nelle montagne ricoperte da nevi perenni.",
+            "omega-ruby": "Si difende dagli attacchi nemici grazie al ghiaccio che ricopre il suo corpo. Se viene danneggiato, rigenera lo strato protettivo, riparandolo.",
+            "alpha-sapphire": "Congela i nemici soffiando aria a -100°C. Vive in gruppo nelle montagne ricoperte da nevi perenni.",
+            "sword": "Cristallizza l'umidità presente nell'aria con un soffio ghiacciato a -100 °C, creando una corazza con cui protegge il proprio corpo.",
+            "shield": "Abita le regioni più fredde. Si ancora alla schiena di Avalugg congelando la base delle sue zampe.",
+            "legends-arceus": "Dimora nei picchi ammantati di nevi perpetue. Protegge le membra indossando un cimiero glaciale formato gelando l'umidità dell'aere.",
+            "scarlet": "Questo Pokémon vive in gelide regioni montane, ma di tanto in tanto sale in groppa a un Avalugg e attraversa i mari per cambiare habitat.",
+            "violet": "Si protegge coprendosi con il ghiaccio formato con aria a -100 ºC. Se incappa in un Frigibax, i due si lanciano immediatamente in una zuffa."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Minerale",
+        "VIII"
+    ],
+    "generation": 6,
+    "height": {
+        "bergmite": "1,0 m"
+    },
+    "id": 712,
+    "name": "Bergmite",
+    "name_origin": "Bergmite è una combinazione tra iceberg, mite  e probabilmente stalagmite. Kachikōru è una combinazione tra かちかち kachikachi , 凍る kooru  e コールド cold . ",
+    "origin": "Bergmite è basato su un iceberg o su una stalagmite. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Ghiacciolo",
+    "sprites": {
+        "bergmite": {
+            "default": "https://media.pokemoncentral.it/wiki/5/58/Homem0712.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c1/Homemsh0712.png"
+        }
+    },
+    "stats": {
+        "bergmite": {
+            "hp": 55,
+            "atk": 69,
+            "def": 85,
+            "spa": 32,
+            "spd": 35,
+            "spe": 28
+        }
+    },
+    "stats_sum": {
+        "bergmite": 304
+    },
+    "types": {
+        "bergmite": [
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "bergmite": "99,5 kg"
+    }
+}

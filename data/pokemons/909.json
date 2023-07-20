@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "fuecoco": {
+            "primary": "Aiutofuoco",
+            "hidden": "Imprudenza"
+        }
+    },
+    "curiosities": [
+        "Fuecoco di Roy"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/fuecoco.mp3",
+    "dex_entries": {
+        "fuecoco": {
+            "scarlet": "Le sue squame rettangolari gli permettono di assorbire il calore dalle rocce calde su cui si sdraia per trasformarlo in energia Fuoco.",
+            "violet": "La sua sacca ignea è piccola e l'energia trabocca, fuoriuscendo sotto forma di fiammelle tremule da una fessura sulla testa."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 9,
+    "height": {
+        "fuecoco": "0,4 m"
+    },
+    "id": 909,
+    "name": "Fuecoco",
+    "name_origin": "Fuecoco potrebbe essere una combinazione di fuego, fuoco in spagnolo, e cocodrilo, coccodrillo in spagnolo. Hogēta potrebbe essere una combinazione di 火 ho, fuoco, ほげー hogē, onomatopea che rappresenta la sorpresa, e gator, alligatore. Potrebbe includere anche fogata e hoguera, falò. ",
+    "origin": "Fuecoco potrebbe essere basato su un cucciolo di coccodrillo, anche se presenta similitudini con i dinosauri teropodi. I due ciuffi in testa, i colori e la forma del corpo lo fa assomigliare ad una mela o ad un peperoncino. ",
+    "shape": "None",
+    "specie": "Pokémon Fuocodrillo",
+    "sprites": {
+        "fuecoco": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0a/Homem0909.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0909.png"
+        }
+    },
+    "stats": {
+        "fuecoco": {
+            "hp": 67,
+            "atk": 45,
+            "def": 59,
+            "spa": 63,
+            "spd": 40,
+            "spe": 36
+        }
+    },
+    "stats_sum": {
+        "fuecoco": 310
+    },
+    "types": {
+        "fuecoco": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "fuecoco": "9,8 kg"
+    }
+}

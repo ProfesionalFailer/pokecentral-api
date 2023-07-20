@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "hoothoot": {
+            "primary": "Insonnia",
+            "secondary": "Sguardofermo",
+            "hidden": "Lentifumé"
+        }
+    },
+    "curiosities": [
+        "Hoothoot era la mascotte di Pokéteca, ex membro spagnolo di Encyclopædiæ Pokémonis.",
+        "In seconda generazione, Hoothoot poteva essere trovato usando Bottintesta su alcuni alberi e a seconda del momento del giorno poteva trovarsi addormentato. Nella generazione successiva ha acquisito l'abilità Insonnia, che gli impedisce di addormentarsi.",
+        "Nell'artwork della quarta generazione, la sua zampa sembra quella di un gufo del mondo reale.",
+        "In Aria contro fuoco, l'Hoothoot di Valerio si regge su due zampe, anche se tecnicamente Hoothoot si regge su una zampa sola.",
+        "Nel volume 134 di Nintendo Power, Ken Sugimori ha rivelato che Hoothoot è il suo Pokémon preferito perché aveva un pupazzo di un uccello che si reggeva su una zampa sola."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/hoothoot.mp3",
+    "dex_entries": {
+        "hoothoot": {
+            "gold": "Sta sempre su un piede solo. Cambia piede così rapidamente che è raro vederlo mentre lo fa.",
+            "silver": "Ha un eccezionale senso del ritmo. Tiene il tempo piegando la testa a intervalli regolari.",
+            "crystal": "Emettono il loro verso ogni giorno alla stessa ora. Alcuni allenatori li usano come veri e propri orologi.",
+            "ruby": "HOOTHOOT è dotato di un organo interno che percepisce e segue la rotazione terrestre. Grazie a questo speciale organo inizia ad urlare esattamente alla stessa ora ogni giorno.",
+            "sapphire": "HOOTHOOT è dotato di un organo interno che percepisce e segue la rotazione terrestre. Grazie a questo speciale organo inizia ad urlare esattamente alla stessa ora ogni giorno.",
+            "emerald": "HOOTHOOT è dotato di un organo interno che percepisce e segue la rotazione terrestre. Grazie ad esso, inizia ad ululare esattamente alla stessa ora ogni giorno.",
+            "firered": "Ha un eccezionale senso del ritmo. Tiene il tempo piegando la testa a intervalli regolari.",
+            "leafgreen": "Sta sempre su un piede solo. Cambia piede così rapidamente che è raro vederlo mentre lo fa.",
+            "diamond": "Sta sempre ritto su un piede solo e non mette giù l’altro neppure quando viene attaccato.",
+            "pearl": "Cambia così in fretta il piede su cui si regge che non lo si nota. Si fa sentire ogni giorno alla stessa ora.",
+            "platinum": "Segna il tempo con precisione. In alcuni paesi è considerato un amico saggio ed esperto del mondo.",
+            "heartgold": "Sta sempre su un piede solo. Cambia piede così rapidamente che è raro vederlo mentre lo fa.",
+            "soulsilver": "Ha un eccezionale senso del ritmo. Tiene il tempo piegando la testa a intervalli regolari.",
+            "black": "Segna il tempo con precisione. In alcuni paesi è considerato un amico saggio ed esperto del mondo.",
+            "white": "Segna il tempo con precisione. In alcuni paesi è considerato un amico saggio ed esperto del mondo.",
+            "black-2": "Segna il tempo con precisione. In alcuni paesi è considerato un amico saggio ed esperto del mondo.",
+            "white-2": "Segna il tempo con precisione. In alcuni paesi è considerato un amico saggio ed esperto del mondo.",
+            "x": "Ha un eccezionale senso del ritmo. Tiene il tempo piegando la testa a intervalli regolari.",
+            "y": "Sta sempre su un piede solo. Cambia piede così rapidamente che è raro vederlo mentre lo fa.",
+            "omega-ruby": "Hoothoot è dotato di un organo interno che percepisce e segue la rotazione terrestre. Grazie a questo speciale organo inizia ad urlare esattamente alla stessa ora ogni giorno.",
+            "alpha-sapphire": "Hoothoot è dotato di un organo interno che percepisce e segue la rotazione terrestre. Grazie a questo speciale organo inizia ad urlare esattamente alla stessa ora ogni giorno.",
+            "ultra-sun": "Ogni giorno piega la testa a intervalli regolari. In passato questi Pokémon venivano usati come veri e propri orologi.",
+            "ultra-moon": "Fa il suo verso ogni giorno alla stessa ora. In passato era trattato con rispetto, poiché lo si credeva il messaggero di una divinità del tempo.",
+            "sword": "Sta sempre su una zampa sola. Cambia zampa così rapidamente che è quasi impossibile seguirne i movimenti.",
+            "shield": "Emette il suo verso ogni giorno alla stessa ora. Alcuni Allenatori preferiscono affidarsi a questo Pokémon anziché usare un orologio."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 2,
+    "height": {
+        "hoothoot": "0,7 m"
+    },
+    "id": 163,
+    "name": "Hoothoot",
+    "name_origin": "Il nome Hoothoot è un suono onomatopeico del verso della civetta. ",
+    "origin": "Sembra essere basato sulla combinazione di una civetta e di un orologio, visto che le sue sopracciglia hanno la forma delle lancette delle ore e dei minuti di un orologio; in aggiunta, ha l'abilità di tenere traccia del tempo. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Gufo",
+    "sprites": {
+        "hoothoot": {
+            "default": "https://media.pokemoncentral.it/wiki/5/50/Homem0163.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e4/Homemsh0163.png"
+        }
+    },
+    "stats": {
+        "hoothoot": {
+            "hp": 60,
+            "atk": 30,
+            "def": 30,
+            "spa": 36,
+            "spd": 56,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "hoothoot": 262
+    },
+    "types": {
+        "hoothoot": [
+            "Normale",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "hoothoot": "21,2 kg"
+    }
+}

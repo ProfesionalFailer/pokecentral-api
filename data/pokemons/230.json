@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "kingdra": {
+            "primary": "Nuotovelox",
+            "secondary": "Cecchino",
+            "hidden": "Umidità"
+        }
+    },
+    "curiosities": [
+        "Prima della quarta generazione Kingdra aveva una combinazione di tipi unica.",
+        "Kingdra è stato il primo Pokémon di tipo Drago a non far parte della famiglia evolutiva di Dratini.",
+        "Anche se il Pokédex dice che Kingdra crea dei vortici, può imparare la mossa Mulinello solo tramite MN.\n\tTuttavia molte voci del Pokédex informano della creazione di vortici dai suoi sbadigli, e infatti Kingdra può imparare Sbadiglio.",
+        "Tuttavia molte voci del Pokédex informano della creazione di vortici dai suoi sbadigli, e infatti Kingdra può imparare Sbadiglio.",
+        "Kingdra può ruotare la testa di 360 gradi.",
+        "Kingdra è l'unico Pokémon di tipo Drago introdotto in seconda generazione.",
+        "Kingdra è spesso mal tradotto in \"Kingora\" nella traduzione Chuang-Yi di Pokémon Adventures.",
+        "Kingdra condivide la sua categoria con Dratini e le sue evoluzioni, Salamence e Goodra. Sono tutti noti come Pokémon Drago.",
+        "Kingdra, Haxorus e Flygon sono gli unici Pokémon di tipo Drago evoluti due volte a non essere dei Pokémon pseudo-leggendari."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kingdra.mp3",
+    "dex_entries": {
+        "kingdra": {
+            "gold": "Si dice che si nasconda in grotte sott'acqua. Il suo sbadiglio può provocare dei vortici.",
+            "silver": "Dorme sul fondo dell'oceano per ricaricarsi di energia. Si dice che causi uragani quando si sveglia.",
+            "crystal": "Accumula energia dormendo sott'acqua a profondità proibitive per ogni altra forma di vita.",
+            "ruby": "KINGDRA vive negli abissi oceanici di solito privi di ogni forma di vita. Si crede che uno sbadiglio di KINGDRA generi correnti oceaniche spiraliformi.",
+            "sapphire": "KINGDRA vive negli abissi oceanici di solito privi di ogni forma di vita. Si crede che uno sbadiglio di KINGDRA generi correnti oceaniche spiraliformi.",
+            "emerald": "KINGDRA dorme pacifico sui fondali marini. Tuttavia, quando decide di muoversi verso la superficie provoca dei vortici tali da inghiottire persino una nave.",
+            "firered": "Dorme sul fondo dell'oceano per ricaricarsi di energia. Si dice che causi uragani quando si sveglia.",
+            "leafgreen": "Si dice che si nasconda in grotte sott'acqua. Il suo sbadiglio può provocare dei vortici.",
+            "diamond": "Vive in caverne sui fondali marini e crea vortici giganteschi ogni volta che si muove.",
+            "pearl": "Vive in caverne sui fondali marini e crea vortici giganteschi ogni volta che si muove.",
+            "platinum": "Vive in caverne sui fondali marini e crea vortici giganteschi ogni volta che si muove.",
+            "heartgold": "Si dice che si nasconda in grotte sott'acqua. Il suo sbadiglio può provocare dei vortici.",
+            "soulsilver": "Dorme sul fondo dell’oceano per ricaricarsi di energia. Si dice che causi uragani quando si sveglia.",
+            "black": "Vive in caverne sui fondali marini e crea vortici giganteschi ogni volta che si muove.",
+            "white": "Vive in caverne sui fondali marini e crea vortici giganteschi ogni volta che si muove.",
+            "black-2": "Vive in caverne sui fondali marini e crea vortici giganteschi ogni volta che si muove.",
+            "white-2": "Vive in caverne sui fondali marini e crea vortici giganteschi ogni volta che si muove.",
+            "x": "Si dice che si nasconda in grotte sott'acqua. Il suo sbadiglio può provocare dei vortici.",
+            "y": "Accumula energia dormendo sott'acqua a profondità proibitive per ogni altra forma di vita.",
+            "omega-ruby": "Kingdra vive negli abissi oceanici di solito privi di ogni forma di vita. Si crede che uno sbadiglio di Kingdra generi correnti oceaniche spiraliformi.",
+            "alpha-sapphire": "Kingdra dorme sui fondali marini dove di solito non esistono forme di vita. Si dice che in caso di tempesta Kingdra si svegli e vada in cerca di prede.",
+            "sword": "Appare in superficie con l'arrivo delle tempeste. Se si imbatte in Dragonite, si lancia in una lotta feroce.",
+            "shield": "Le scaglie che perde sono così pregiate e splendenti che vengono offerte in dono alle famiglie reali."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Drago"
+    ],
+    "generation": 2,
+    "height": {
+        "kingdra": "1,8 m"
+    },
+    "id": 230,
+    "name": "Kingdra",
+    "name_origin": "Il nome Kingdra deriva dalla combinazione dei nomi inglesi king  e dragon . ",
+    "origin": "Kingdra è basato sul drago marino comune data la sua caratteristica di soffermarsi sul fondo del mare, mentre la creazione di vortici potrebbe essere un riferimento a Cariddi. ",
+    "shape": "quadrupede",
+    "specie": "Pokémon Drago",
+    "sprites": {
+        "kingdra": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8b/Homem0230.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0230.png"
+        }
+    },
+    "stats": {
+        "kingdra": {
+            "hp": 75,
+            "atk": 95,
+            "def": 95,
+            "spa": 95,
+            "spd": 95,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "kingdra": 540
+    },
+    "types": {
+        "kingdra": [
+            "Acqua",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "kingdra": "152,0 kg"
+    }
+}

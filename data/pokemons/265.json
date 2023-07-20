@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "wurmple": {
+            "primary": "Polvoscudo",
+            "hidden": "Fugafacile"
+        }
+    },
+    "curiosities": [
+        "Wurmple condivide lo stesso nome di specie con Caterpie. Entrambi sono noti come Pokémon Baco.",
+        "Wurmple, insieme a Caterpie e Weedle, si evolve al livello 7, il livello più basso di tutti i Pokémon per aumento di livello.\n\tLe loro abilità sono le stesse: Polvoscudo e Fugafacile.",
+        "Le loro abilità sono le stesse: Polvoscudo e Fugafacile.",
+        "Tutti i Pokémon della famiglia di Wurmple condividono il nome della specie con un Pokémon della prima generazione.",
+        "Wurmple è l'unico Pokémon le cui evoluzioni ramificate si evolvono ancora.",
+        "Wurmple è l'unico Pokémon la cui evoluzione è influenzata direttamente dal valore di personalità.\n\tAnche i Pokémon che si evolvono in base al sesso sono influenzati dalla personalità, ma nel loro caso questo valore è visibile.",
+        "Anche i Pokémon che si evolvono in base al sesso sono influenzati dalla personalità, ma nel loro caso questo valore è visibile.",
+        "Nell'anime, Vera cattura un Wurmple che in seguito si evolverà in un Beautifly. Gelosa della bellezza del Pokémon, anche Jessie ne cattura uno, ma per sua sfortuna si evolve in una Dustox. Questo fatto evidenzia l'influenza del comportamento dell'Allenatore sull'evoluzione Pokémon.",
+        "Prima della sesta generazione lo stile del corpo di Wrumple nel Pokédex era ."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wurmple.mp3",
+    "dex_entries": {
+        "wurmple": {
+            "ruby": "Grazie agli aculei sulla parte posteriore del corpo, WURMPLE scorteccia i tronchi degli alberi e si nutre della loro linfa. Le sue zampe sono dotate di ventose che gli consentono di attaccarsi ai vetri senza scivolare.",
+            "sapphire": "WURMPLE è la preda favorita di SWELLOW. Questo POKéMON cerca di resistere puntando gli aculei irti sulla schiena contro il predatore che attacca. Poi indebolisce il nemico emettendo veleno da questi aculei.",
+            "emerald": "WURMPLE si aggrappa ai rami degli alberi e ne mangia le foglie. Il filamento che secerne diventa appiccicoso a contatto con l'aria e serve a rallentare il nemico.",
+            "firered": "Vive nelle foreste e tra l'erba alta. Se è attaccato, resiste puntando gli aculei velenosi verso il nemico.",
+            "leafgreen": "Vive nelle foreste e tra l'erba alta. Se è attaccato, resiste puntando gli aculei velenosi verso il nemico.",
+            "diamond": "Ama mangiare le foglie. Se STARLY lo attacca, si difende con gli aculei che ha sulla parte posteriore.",
+            "pearl": "Sputa un filo di seta bianco che diventa appiccicoso a contatto con l’aria. Con esso immobilizza i nemici.",
+            "platinum": "Viene spesso attaccato dai Pokémon uccello. Si difende emettendo veleno dagli aculei che ha sulla coda.",
+            "heartgold": "Vive nelle foreste e tra l’erba alta. Se è attaccato, usa gli aculei velenosi che ha sulla parte posteriore.",
+            "soulsilver": "Vive nelle foreste e tra l’erba alta. Se è attaccato, usa gli aculei velenosi che ha sulla parte posteriore.",
+            "black": "Viene spesso attaccato dai Pokémon uccello. Si difende emettendo veleno dagli aculei che ha sulla coda.",
+            "white": "Viene spesso attaccato dai Pokémon uccello. Si difende emettendo veleno dagli aculei che ha sulla coda.",
+            "black-2": "Viene spesso attaccato dai Pokémon uccello. Si difende emettendo veleno dagli aculei che ha sulla coda.",
+            "white-2": "Viene spesso attaccato dai Pokémon uccello. Si difende emettendo veleno dagli aculei che ha sulla coda.",
+            "x": "Ama mangiare le foglie. Se Starly lo attacca, si difende con gli aculei che ha sulla parte posteriore.",
+            "y": "Vive nelle foreste e tra l'erba alta. Se è attaccato, usa gli aculei velenosi che ha sulla parte posteriore.",
+            "omega-ruby": "Grazie agli aculei sulla parte posteriore del corpo, Wurmple scorteccia i tronchi degli alberi e si nutre della loro linfa. Le sue zampe sono dotate di ventose che gli consentono di attaccarsi ai vetri senza scivolare.",
+            "alpha-sapphire": "Wurmple è la preda favorita di Swellow. Questo Pokémon cerca di resistere puntando gli aculei irti sulla schiena contro il predatore che attacca. Poi indebolisce il nemico emettendo veleno da questi aculei.",
+            "brilliant-diamond": "Emette dalla bocca un filo di seta bianco che diventa appiccicoso a contatto con l'aria e con il quale immobilizza i nemici.",
+            "shining-pearl": "Ama mangiare le foglie. Se uno Starly lo attacca, lo respinge con gli aculei che ha sulla parte posteriore.",
+            "legends-arceus": "Ama la linfa e si trova facilmente in piane e monti. La sua evoluzione è, per qualche oscura ragione, biforme e non è prevedibile dal suo aspetto."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 3,
+    "height": {
+        "wurmple": "0,30 m"
+    },
+    "id": 265,
+    "name": "Wurmple",
+    "name_origin": "Il suo nome è la combinazione di \"worm\"  e \"rumple\"  oppure da \"Simple\" . ",
+    "origin": "Wurmple è basato su un bruco. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Baco",
+    "sprites": {
+        "wurmple": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4d/Homem0265.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7c/Homemsh0265.png"
+        }
+    },
+    "stats": {
+        "wurmple": {
+            "hp": 45,
+            "atk": 45,
+            "def": 35,
+            "spa": 20,
+            "spd": 30,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "wurmple": 195
+    },
+    "types": {
+        "wurmple": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "wurmple": "3,6 kg"
+    }
+}

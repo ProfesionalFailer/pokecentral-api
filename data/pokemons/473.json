@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "mamoswine": {
+            "primary": "Indifferenza",
+            "secondary": "Mantelneve",
+            "hidden": "Grassospesso"
+        }
+    },
+    "curiosities": [
+        "La descrizione del Pokédex di questo Pokémon da Pokémon Diamante e Perla e Pokémon Argento SoulSilver si riferiscono all'estinzione del mammut lanoso.",
+        "Mamoswine e la sua famiglia sono gli unici Pokémon deboli a tutti i tipi degli starter: Fuoco, Acqua ed Erba.\n\tComunque, possono perdere la debolezza al fuoco con l'abilità Grassospesso.",
+        "Comunque, possono perdere la debolezza al fuoco con l'abilità Grassospesso.",
+        "Le mosse con bonus di tipo di Mamoswine e famiglia possono essere superefficaci su ben nove tipi: Veleno, Volante, Terra, Roccia, Fuoco, Erba, Elettro e Drago.",
+        "Mamoswine e le sue pre-evoluzioni Piloswine e Swinub sono gli unici Pokémon ad avere il doppio tipo Ghiaccio/Terra.",
+        "Mamoswine è il Pokémon di tipo Ghiaccio più pesante.",
+        "Essendo sia di tipo Ghiaccio che di tipo Terra, è in grado di resistere sia a Terrempesta che a Grandine."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mamoswine.mp3",
+    "dex_entries": {
+        "mamoswine": {
+            "diamond": "Ha enormi zanne di ghiaccio. La popolazione di questo Pokémon è diminuita alla fine dell'era glaciale.",
+            "pearl": "Ha enormi zanne di ghiaccio. La popolazione di questo Pokémon è diminuita alla fine dell'era glaciale.",
+            "platinum": "Un esemplare congelato risalente a 10.000 anni fa si è risvegliato tra lo stupore generale.",
+            "heartgold": "Un Pokémon antico al punto che ne sono stati ritrovati degli esemplari tra i ghiacci di 10000 anni fa.",
+            "soulsilver": "Un Pokémon molto diffuso durante l'era glaciale ma i cui esemplari sono drasticamente diminuiti dopo.",
+            "black": "Un esemplare congelato risalente a 10.000 anni fa si è risvegliato tra lo stupore generale.",
+            "white": "Un esemplare congelato risalente a 10.000 anni fa si è risvegliato tra lo stupore generale.",
+            "black-2": "Si dice che molti Mamoswine sparirono verso la fine dell'era glaciale a causa dell'aumento della temperatura.",
+            "white-2": "Si dice che molti Mamoswine sparirono verso la fine dell'era glaciale a causa dell'aumento della temperatura.",
+            "x": "Un Pokémon antico al punto che ne sono stati ritrovati degli esemplari tra i ghiacci di 10000 anni fa.",
+            "y": "Ha enormi zanne di ghiaccio. La popolazione di questo Pokémon è diminuita alla fine dell'era glaciale.",
+            "omega-ruby": "Un Pokémon antico al punto che ne sono stati ritrovati degli esemplari tra i ghiacci di 10000 anni fa.",
+            "alpha-sapphire": "Ha enormi zanne di ghiaccio. La popolazione di questo Pokémon è diminuita alla fine dell'era glaciale.",
+            "sword": "Si trova raffigurato nelle pitture rupestri di 10.000 anni fa. Per un periodo si riteneva che fosse estinto.",
+            "shield": "È forte, proprio come il suo aspetto lascia intendere. Più freddo fa, più spesse e lunghe diventano le sue zanne di ghiaccio.",
+            "brilliant-diamond": "Ha enormi zanne di ghiaccio. Il numero di questi Pokémon è diminuito alla fine dell'era glaciale per via dell'aumento delle temperature.",
+            "shining-pearl": "Ha enormi zanne di ghiaccio. Il numero di questi Pokémon è diminuito alla fine dell'era glaciale per via dell'aumento delle temperature.",
+            "legends-arceus": "Giunse all'apice dello sviluppo durante l'epoca glaciale. Il rigore del clima di Hisui si confà al suo organismo e ha forse destato in lui un potere latente."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 4,
+    "height": {
+        "mamoswine": "2,5 m"
+    },
+    "id": 473,
+    "name": "Mamoswine",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi mammoth  e swine . ",
+    "origin": "Basato su un mammut lanoso con caratteristiche di un cinghiale. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Duezanne",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ee/Homem0473.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0473.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/6/65/Homef0473.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e6/Homefsh0473.png"
+        }
+    },
+    "stats": {
+        "mamoswine": {
+            "hp": 110,
+            "atk": 130,
+            "def": 80,
+            "spa": 70,
+            "spd": 60,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "mamoswine": 530
+    },
+    "types": {
+        "mamoswine": [
+            "Terra",
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "mamoswine": "291,0 kg"
+    }
+}

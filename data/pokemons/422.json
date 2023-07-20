@@ -1,0 +1,102 @@
+{
+    "abilities": {
+        "shellos": {
+            "primary": "Antifurto",
+            "secondary": "Acquascolo",
+            "hidden": "Silicoforza"
+        }
+    },
+    "curiosities": [
+        "Secondo un’intervista a Ken Sugimori, Shellos e Gastrodon erano in origine programmati per Pokémon Rubino e Zaffiro, ma non furono inclusi per delle limitazioni di tempo.\n\tInfatti il backsprite sia di Shellos che di Gastrodon sono presenti nella beta di Pokémon Diamante e Perla, senza però alcun frontsprite.",
+        "Infatti il backsprite sia di Shellos che di Gastrodon sono presenti nella beta di Pokémon Diamante e Perla, senza però alcun frontsprite.",
+        "In Diamante e Perla nessun Allenatore utilizza la forma Mare Est di Shellos in battaglia, anche se l'Allenatore si trova a est del Monte Corona. Questo poi è stato corretto in Platino.",
+        "La descrizione inglese del Pokédex di Shellos in Pokémon Oro HeartGold e Argento SoulSilver è la più corta di ogni gioco Pokémon, in quanto consiste in sole nove parole."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/shellos.mp3",
+    "dex_entries": {
+        "shellos": {
+            "diamond": "Forma e colori variano di regione in regione. Pare che nella regione di Sinnoh ne esistano due tipi.",
+            "pearl": "Vive in prossimità dell'acqua. La forma del suo corpo è mutata per adattarsi all'habitat.",
+            "platinum": "Se si esercita una forte pressione sul suo corpo, ne fuoriesce un misterioso liquido viola.",
+            "heartgold": "Cambia facilmente aspetto e colore secondo il luogo di provenienza.",
+            "soulsilver": "Cambia facilmente aspetto e colore secondo il luogo di provenienza.",
+            "black": "Se si esercita una forte pressione sul suo corpo, ne fuoriesce un misterioso liquido viola.",
+            "white": "Se si esercita una forte pressione sul suo corpo, ne fuoriesce un misterioso liquido viola.",
+            "black-2": "Se si esercita una forte pressione sul suo corpo, ne fuoriesce un misterioso liquido viola.",
+            "white-2": "Se si esercita una forte pressione sul suo corpo, ne fuoriesce un misterioso liquido viola.",
+            "x": "Se si esercita una forte pressione sul suo corpo, ne fuoriesce un misterioso liquido viola.",
+            "y": "Cambia facilmente aspetto e colore secondo il luogo di provenienza.",
+            "omega-ruby": "Se si esercita una forte pressione sul suo corpo, ne fuoriesce un misterioso liquido viola.",
+            "alpha-sapphire": "Cambia facilmente aspetto e colore secondo il luogo di provenienza.",
+            "brilliant-diamond": "La sua forma e il suo colore variano a seconda del suo habitat. Nella regione di Sinnoh è stata confermata la presenza di due tipologie diverse.",
+            "shining-pearl": "Vive in prossimità dell'acqua. La forma del suo corpo è mutata per adattarsi all'habitat."
+        },
+        "mare-ovest": {
+            "sun": "Vive principalmente sui litorali rocciosi. La forma e il colore del suo corpo mutano in base all'habitat e al cibo di cui si nutre.",
+            "moon": "Quando lo si tocca, lascia sulle mani un viscoso liquido viola difficile da rimuovere anche dopo ripetuti lavaggi.",
+            "ultra-sun": "Vive solitamente in mare, ma può spostarsi anche sulla terraferma e restarvi finché la pelle non inizia a seccarsi.",
+            "ultra-moon": "Quando avverte il pericolo, secerne un liquido viola. Si ritiene sia un fenomeno simile ai sudori freddi causati dalla paura.",
+            "sword": "Il suo aspetto cambia in base all’habitat. Secondo alcune teorie, assume questa forma nei mari più caldi.",
+            "shield": "Se premuto con forza secerne un misterioso liquido viola molto appiccicoso, ma non nocivo.",
+            "legends-arceus": "Prospera nelle miti acque costiere. Curiosamente amichevole, si appropinqua di buon grado agli umani, cospargendoli di bava da capo a piè.",
+            "scarlet": "In passato aveva una conchiglia sul dorso. La sua specie è strettamente imparentata con quella di Shellder e altri Pokémon simili.",
+            "violet": "Secerne un liquido viola per intimidire il nemico. Il numero di esemplari con questa forma è aumentato rispetto al passato."
+        },
+        "mare-est": {
+            "sun": "Si nutre del plancton presente nel mare. Più sono pulite le acque in cui vive, più i suoi colori sono brillanti.",
+            "moon": "La diversa colorazione negli Shellos è dovuta alla loro alimentazione. Non sembra però indicare particolari differenze nella loro forza.",
+            "ultra-sun": "Nelle situazioni di pericolo emette un liquido viola. Alcuni pensano che sia una specie di sudore freddo dovuto al nervosismo.",
+            "ultra-moon": "Possiede un'incredibile capacità rigenerativa. La sua struttura cellulare è tuttora oggetto di ricerche approfondite da parte degli scienziati.",
+            "sword": "Il motivo del suo cambiamento di forma è ancora oggetto di studio. Secondo alcuni, è dovuto all'alimentazione.",
+            "shield": "Cambia aspetto in base all’ambiente. Secondo alcuni, assume questa forma nei mari in cui la temperatura dell’acqua è bassa.",
+            "legends-arceus": "Se ne trovano svariati esemplari nelle piagge dalle fresche acque. Se si tasta la sua superficie con una certa forza, ne fuoriesce un fluido viola che macchia le vesti.",
+            "scarlet": "Secondo studi recenti, gli esemplari di Shellos in questa forma stanno diminuendo.",
+            "violet": "Si trova spesso sulle coste rocciose ma è in grado anche di restare sulla terraferma per qualche tempo."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Amorfo"
+    ],
+    "generation": 4,
+    "height": {
+        "shellos": "0,3 m"
+    },
+    "id": 422,
+    "name": "Shellos",
+    "name_origin": "Deriva dalle parole shell  e less  o loss . ",
+    "origin": "Basato su un nudibranco. ",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Lumacomare",
+    "sprites": {
+        "mare-ovest": {
+            "default": "https://media.pokemoncentral.it/wiki/b/ba/Homem0422.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/98/Homemsh0422.png"
+        },
+        "mare-est": {
+            "default": "https://media.pokemoncentral.it/wiki/0/05/Homem0422E.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0422E.png"
+        }
+    },
+    "stats": {
+        "shellos": {
+            "hp": 76,
+            "atk": 48,
+            "def": 48,
+            "spa": 57,
+            "spd": 62,
+            "spe": 34
+        }
+    },
+    "stats_sum": {
+        "shellos": 325
+    },
+    "types": {
+        "shellos": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "shellos": "6,3 kg"
+    }
+}

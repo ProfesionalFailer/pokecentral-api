@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "dusclops": {
+            "primary": "Pressione",
+            "hidden": "Indagine"
+        }
+    },
+    "curiosities": [
+        "Gli sprite di terza generazione di Dusclops lo mostrano con quattro dita in ogni mano, mentre nell'artwork ufficiale e negli sprite successivi ne ha cinque.",
+        "Di tutti i Pokémon capaci di evolversi, Dusclops ha la Difesa Speciale più alta.",
+        "Dusclops non possedeva un'abilità speciale prima della sesta generazione, in cui acquista Indagine.",
+        "Dusclops sembra essere un parallelo di Banette: entrambi sono usciti in terza generazione, entrambi sono di tipo Spettro puro, Banette ha una funzionalità offensiva mentre invece Dusclops è più resistente.\n\tPrima della quarta generazione i due Pokémon condividevano anche il fatto di avere solamente uno stadio evolutivo. In quarta generazione, tuttavia, Dusknoir fa il suo debutto, dando un secondo stadio evolutivo a Dusclops e spezzando questa similitudine. In sesta generazione con l'invenzione delle Megapietre anche Banette acquisisce un ulteriore stadio evolutivo , riconfermando il parallelismo dei due Pokémon.",
+        "Prima della quarta generazione i due Pokémon condividevano anche il fatto di avere solamente uno stadio evolutivo. In quarta generazione, tuttavia, Dusknoir fa il suo debutto, dando un secondo stadio evolutivo a Dusclops e spezzando questa similitudine. In sesta generazione con l'invenzione delle Megapietre anche Banette acquisisce un ulteriore stadio evolutivo , riconfermando il parallelismo dei due Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dusclops.mp3",
+    "dex_entries": {
+        "dusclops": {
+            "ruby": "Il corpo di DUSCLOPS è completamente vuoto. Non contiene assolutamente nulla. Infatti si dice che sia una sorta di buco nero. Il POKéMON assorbe ogni cosa all'interno del proprio corpo, ma non rilascia mai nulla.",
+            "sapphire": "DUSCLOPS assorbe qualsiasi cosa indipendentemente dalle sue dimensioni. Questo POKéMON ipnotizza il nemico con un macabro movimento delle mani e con il suo unico occhio, costringendolo ad eseguire i suoi ordini.",
+            "emerald": "Secondo una teoria, il corpo di DUSCLOPS è vuoto, se non per una spettrale palla di fuoco che brucia al suo interno. Questa ipotesi non è mai stata confermata.",
+            "firered": "Il suo corpo è completamente vuoto all'interno. Apre la bocca per risucchiare qualsiasi cosa, come un buco nero.",
+            "leafgreen": "Il suo corpo è completamente vuoto all'interno. Apre la bocca per risucchiare qualsiasi cosa, come un buco nero.",
+            "diamond": "Il suo corpo è vuoto. Pare che chiunque si avvicini per guardare dentro venga risucchiato.",
+            "pearl": "Il suo corpo è vuoto. Pare che chiunque si avvicini per guardare dentro venga risucchiato.",
+            "platinum": "Va in cerca di fuochi fatui e li risucchia nel suo corpo vuoto. Cosa succeda all'interno è un mistero.",
+            "heartgold": "Se si osserva troppo da vicino la palla di fuoco dentro DUSCLOPS, la propria anima viene risucchiata.",
+            "soulsilver": "Se si osserva troppo da vicino la palla di fuoco dentro DUSCLOPS, la propria anima viene risucchiata.",
+            "black": "Va in cerca di fuochi fatui e li risucchia nel suo corpo vuoto. Cosa succeda all'interno è un mistero.",
+            "white": "Va in cerca di fuochi fatui e li risucchia nel suo corpo vuoto. Cosa succeda all'interno è un mistero.",
+            "black-2": "Va in cerca di fuochi fatui e li risucchia nel suo corpo vuoto. Cosa succeda all'interno è un mistero.",
+            "white-2": "Va in cerca di fuochi fatui e li risucchia nel suo corpo vuoto. Cosa succeda all'interno è un mistero.",
+            "x": "Se si osserva troppo da vicino la palla di fuoco dentro Dusclops, la propria anima viene risucchiata.",
+            "y": "Il suo corpo è vuoto. Pare che chiunque si avvicini per guardare dentro venga risucchiato.",
+            "omega-ruby": "Il corpo di Dusclops è completamente vuoto. Non contiene assolutamente nulla. Infatti si dice che ci sia una sorta di buco nero. Il Pokémon assorbe ogni cosa all'interno del proprio corpo, ma non rilascia mai nulla.",
+            "alpha-sapphire": "Dusclops assorbe qualsiasi cosa indipendentemente dalle sue dimensioni. Questo Pokémon ipnotizza il nemico con un macabro movimento delle mani e con il suo unico occhio, costringendolo a eseguire i suoi ordini.",
+            "sword": "L'interno del suo corpo è completamente vuoto. Apre la bocca per risucchiare qualsiasi cosa, come un buco nero.",
+            "shield": "Va in cerca di fuochi fatui e li risucchia nel suo corpo vuoto. Cosa succeda all'interno è un mistero.",
+            "brilliant-diamond": "Il suo corpo è vuoto. Pare che chiunque si avvicini per guardare dentro venga risucchiato.",
+            "shining-pearl": "Il suo corpo è vuoto. Pare che chiunque si avvicini per guardare dentro venga risucchiato.",
+            "legends-arceus": "Corre voce che chiunque cerchi di scrutare tra i pertugi delle bende che lo avvolgono ne venga per sempre inghiottito. La paura mi frena dal verificare quanto tali voci siano fondate."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "generation": 3,
+    "height": {
+        "dusclops": "1,60 m"
+    },
+    "id": 356,
+    "name": "Dusclops",
+    "name_origin": "Il nome deriva dalla combinazione delle parole inglesi dusk, crepuscolo, e cyclops, ciclope. ",
+    "origin": "Ispirato ad un chōchinobake, una lanterna di carta maledetta con un occhio. Ha anche alcune caratteristiche delle mummie. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Ipnosguardo",
+    "sprites": {
+        "dusclops": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c4/Homem0356.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/23/Homemsh0356.png"
+        }
+    },
+    "stats": {
+        "dusclops": {
+            "hp": 40,
+            "atk": 70,
+            "def": 130,
+            "spa": 60,
+            "spd": 130,
+            "spe": 25
+        }
+    },
+    "stats_sum": {
+        "dusclops": 455
+    },
+    "types": {
+        "dusclops": [
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "dusclops": "30,6 kg"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "skiddo": {
+            "primary": "Mangiaerba",
+            "hidden": "Peloderba"
+        }
+    },
+    "curiosities": [
+        "Come la sua evoluzione Gogoat, Skiddo è utile per spostarsi nell'overworld dei giochi Pokémon di sesta generazione. La sua particolarità è quella di poter scavalcare i gradini, cosa che fino ad oggi non era normalmente possibile per i giocatori.",
+        "Skiddo è il primo Pokémon basato su una capra.",
+        "Skiddo e Gogoat condividono la loro categoria con Cyclizar. Tutti e tre sono noti come Pokémon Cavalcatura."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/skiddo.mp3",
+    "dex_entries": {
+        "skiddo": {
+            "x": "Ha un carattere pacifico ed è considerato il primo Pokémon ad aver stretto amicizia con l'uomo.",
+            "y": "Ricava energia dal sole e dall'acqua grazie alle foglie che ha sul dorso. In questo modo può sopravvivere anche senza mangiare.",
+            "omega-ruby": "Ha un carattere pacifico ed è considerato il primo Pokémon ad avere stretto amicizia con l'uomo.",
+            "alpha-sapphire": "Ricava energia dal sole e dall'acqua grazie alle foglie che ha sul dorso. In questo modo può sopravvivere anche senza mangiare.",
+            "scarlet": "Fino a poco tempo fa, la gente di montagna era solita percorrere i sentieri montani in groppa a degli Skiddo.",
+            "violet": "Le sue foglie riescono a ricavare energia dal sole e dall’acqua, permettendogli di vivere anche su monti rocciosi in cui non c’è cibo."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 6,
+    "height": {
+        "skiddo": "0,9 m"
+    },
+    "id": 672,
+    "name": "Skiddo",
+    "name_origin": "Skiddo potrebbe essere una combinazione di skid  e kiddo . Me'ēkuru potrebbe essere una combinazione di メー mē , e ビークル bīkuru . ",
+    "origin": "Skiddo è basato su una capra. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Cavalcatura",
+    "sprites": {
+        "skiddo": {
+            "default": "https://media.pokemoncentral.it/wiki/c/ce/Homem0672.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0672.png"
+        }
+    },
+    "stats": {
+        "skiddo": {
+            "hp": 66,
+            "atk": 65,
+            "def": 48,
+            "spa": 62,
+            "spd": 57,
+            "spe": 52
+        }
+    },
+    "stats_sum": {
+        "skiddo": 350
+    },
+    "types": {
+        "skiddo": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "skiddo": "31,0 kg"
+    }
+}

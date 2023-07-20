@@ -1,0 +1,94 @@
+{
+    "abilities": {
+        "lilligant": {
+            "primary": "Clorofilla",
+            "secondary": "Mente Locale",
+            "hidden": "Fogliamanto"
+        },
+        "forma-di-hisui": {
+            "primary": "Clorofilla",
+            "secondary": "Tuttafretta",
+            "hidden": "Fogliamanto"
+        }
+    },
+    "curiosities": [
+        "Lilligant condivide la sua categoria con Gossifleur, sono entrambi noti come Pokémon Fiorfronzolo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lilligant.mp3",
+    "dex_entries": {
+        "lilligant": {
+            "black": "Neanche gli Allenatori più navigati riescono sempre a fare schiudere il suo fiore. Va di moda fra le celebrità.",
+            "white": "I fiori che ha sulla testa spandono un profumo rilassante, ma necessitano di continue attenzioni per non appassire.",
+            "black-2": "I fiori che ha sulla testa emettono un profumo davvero rilassante, ma è molto difficile prendersene cura.",
+            "white-2": "I fiori che ha sulla testa emettono un profumo davvero rilassante, ma è molto difficile prendersene cura.",
+            "x": "I fiori che ha sulla testa spandono un profumo rilassante, ma necessitano di continue attenzioni per non appassire.",
+            "y": "Neanche gli Allenatori più navigati riescono sempre a fare schiudere il suo fiore. Va di moda fra le celebrità.",
+            "omega-ruby": "I fiori che ha sulla testa spandono un profumo rilassante, ma necessitano di continue attenzioni per non appassire.",
+            "alpha-sapphire": "Neanche gli Allenatori più navigati riescono sempre a fare schiudere il suo fiore. Va di moda fra le celebrità.",
+            "sun": "Per quanto si possano impiegare tempo, denaro e fatica nella cura di questo Pokémon, il suo fiore sarà sempre più bello se sboccia in natura.",
+            "moon": "Appena trova un compagno, il meraviglioso fiore che ha sulla testa appassisce e si secca.",
+            "ultra-sun": "Il profumo del suo fiore, che varia lievemente in base alla composizione del terreno dove il Pokémon è cresciuto, dona serenità.",
+            "ultra-moon": "La sua bellezza affascina anche gli altri Pokémon. Il fiore che ha sulla testa necessita di continue attenzioni, altrimenti appassisce.",
+            "sword": "Si dice che riuscire a far sbocciare il fiore sulla sua testa sia un'impresa ardua anche per i floricoltori più esperti.",
+            "shield": "L'olio essenziale che si ottiene dal fiore ha un profumo sublime, ma costa un occhio della testa.",
+            "scarlet": "Il fiore che ha sulla testa emette un profumo davvero rilassante, ma è molto difficile prendersene cura.",
+            "violet": "Per quanto si possano impiegare tempo, denaro e fatica nella cura di questo Pokémon, il suo fiore sarà sempre più bello se sboccia in natura."
+        },
+        "forma-di-hisui": {
+            "legends-arceus": "L'inerpicarsi per innevati sentieri montani parrebbe averne sviluppato maggiormente le gambe. Il fiore della sua corona spande un aroma capace di dare animo a chi ha d'intorno."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 5,
+    "height": {
+        "lilligant": "1,1 m"
+    },
+    "id": 549,
+    "name": "Lilligant",
+    "name_origin": "Lilligant deriva dalle parole inglese lily  ed elegant , ma potrebbe anche derivare da giant . ",
+    "origin": "Potrebbe essere basata sul giglio, sul hoya, o sulla rafflesia. Il suo rilasciare aromi profumati ricorda invece più il garofano o gli agrumi come il mandarino, il pompelmo, il mandarancio, usati per le loro fragranze come oli aromaterapeutici. Sempre facendo riferimento a questo, le sue foglie potrebbero essere basate sulla menta piperita o sulla salvia. È basata inoltre sul bulbo di un tulipano o di una liliacea. Il suo \"abbigliamento\" ricorda quello di una donna delle classi nobili del tardo 1700, mente la leggiadria di movimento e l'apprendimento di alcune mosse la riconduce ad una ballerina. ",
+    "shape": "quadrupede",
+    "specie": "Pokémon Fiorfronzolo",
+    "sprites": {
+        "lilligant": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b8/Homef0549.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homefsh0549.png"
+        }
+    },
+    "stats": {
+        "lilligant": {
+            "hp": 70,
+            "atk": 60,
+            "def": 75,
+            "spa": 110,
+            "spd": 75,
+            "spe": 90
+        },
+        "forma-di-hisui": {
+            "hp": 70,
+            "atk": 105,
+            "def": 75,
+            "spa": 50,
+            "spd": 75,
+            "spe": 105
+        }
+    },
+    "stats_sum": {
+        "lilligant": 480,
+        "forma-di-hisui": 480
+    },
+    "types": {
+        "lilligant": [
+            "Erba"
+        ],
+        "forma-di-hisui": [
+            "Erba",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "lilligant": "16,3 kg"
+    }
+}

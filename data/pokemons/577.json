@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "solosis": {
+            "primary": "Copricapo",
+            "secondary": "Magicscudo",
+            "hidden": "Rigenergia"
+        }
+    },
+    "curiosities": [
+        "Solosis ha la statistica base di Attacco Speciale più alta fra tutti i Pokémon non evoluti appartenenti ad una famiglia evolutiva di tre stadi. Condivide questa particolarità con Abra.",
+        "Solosis può essere visto come un parallelo di Gothita: sono entrambi Pokémon di tipo Psico di quinta generazione ed entrambi si evolvono al livello 32, per poi evolversi ancora al livello 41. Solosis è esclusivo di Bianco, mentre Gothita di Nero."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/solosis.mp3",
+    "dex_entries": {
+        "solosis": {
+            "black": "Utilizza i suoi poteri psichici per respingere gli aggressori. Comunica con i compagni usando la telepatia.",
+            "white": "Il suo corpo è avvolto in un liquido speciale, che gli permette di vivere in qualsiasi ambiente.",
+            "black-2": "Il liquido speciale in cui è avvolto il suo corpo gli permette di resistere alle condizioni più estreme.",
+            "white-2": "Il liquido speciale in cui è avvolto il suo corpo gli permette di resistere alle condizioni più estreme.",
+            "x": "Il liquido speciale in cui è avvolto il suo corpo gli permette di resistere alle condizioni più estreme.",
+            "y": "Utilizza i suoi poteri psichici per respingere gli aggressori. Comunica con i compagni usando la telepatia.",
+            "omega-ruby": "Il liquido speciale in cui è avvolto il suo corpo gli permette di resistere alle condizioni più estreme.",
+            "alpha-sapphire": "Utilizza i suoi poteri psichici per respingere gli aggressori. Comunica con i compagni usando la telepatia.",
+            "sword": "Comunica con i suoi simili tramite la telepatia. Se subisce un impatto violento, il liquido speciale in cui è immerso il suo corpo fuoriesce.",
+            "shield": "Si dice che il liquido speciale in cui è immerso il suo corpo gli permetta di vivere persino nello spazio."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "generation": 5,
+    "height": {
+        "solosis": "0,3 m"
+    },
+    "id": 577,
+    "name": "Solosis",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione della parola italiana solo con la parola inglese mitosis  o meiosis . Il suo nome giapponese, ユニラン Uniran, probabilmente deriva dall'unione del prefisso uni-  con la parola 乱 ran , o 卵 ran . È poi basato su un gioco di parole con l'espressione spagnola se unirán . ",
+    "origin": "Solosis è basato su una cellula che compie il processo di mitosi. La sostanza verde in cui è immerso rappresenta il citoplasma, mentre gli elementi presenti sul corpo  rappresentano gli organuli. Potrebbe anche essere un'allusione alla fase embrionale di segmentazione, che porta alla fase di morula. ",
+    "shape": "testa",
+    "specie": "Pokémon Cellula",
+    "sprites": {
+        "solosis": {
+            "default": "https://media.pokemoncentral.it/wiki/2/20/Homem0577.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0577.png"
+        }
+    },
+    "stats": {
+        "solosis": {
+            "hp": 45,
+            "atk": 30,
+            "def": 40,
+            "spa": 105,
+            "spd": 50,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "solosis": 290
+    },
+    "types": {
+        "solosis": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "solosis": "1,0 kg"
+    }
+}

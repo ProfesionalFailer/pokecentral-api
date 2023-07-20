@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "masquerain": {
+            "primary": "Prepotenza",
+            "hidden": "Agitazione"
+        }
+    },
+    "curiosities": [
+        "Masquerain è finora l'unico Pokémon con una base totale di statistiche pari a 414.",
+        "Traducendo il suo nome da un Creolo mix della Lingua Spagnola e della Lingua Inglese viene fuori Mas que rain, cioè Più che pioggia .",
+        "Masquerain può essere visto come la controparte di Araquanid. Entrambi sono di tipo Coleottero ed entrambi possono essere trovati al Giardino di Malie in Pokémon Sole e Luna, prendendo il posto dell'altro a seconda del tempo, essendo Masquerain trovabile di notte mentre Araquanid di giorno."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/masquerain.mp3",
+    "dex_entries": {
+        "masquerain": {
+            "ruby": "MASQUERAIN intimorisce i nemici con il motivo a forma d'occhio sulle antenne. Agita le quattro ali per volare libero in ogni direzione, anche lateralmente e posteriormente, come fosse un elicottero.",
+            "sapphire": "Le antenne di MASQUERAIN presentano un motivo a forma d'occhio che gli conferisce un aspetto aggressivo. Quando questa specie di occhi ha l'aspetto triste e depresso significa che si sta avvicinando un acquazzone.",
+            "emerald": "MASQUERAIN spaventa i nemici con il motivo a forma d'occhio sulle antenne. Poiché non sa volare con le ali bagnate, si ripara dalla pioggia sotto grandi alberi e cornicioni.",
+            "firered": "Le antenne, che presentano disegni a forma d'occhio, si appesantiscono sotto la pioggia, impedendo al POKéMON di volare.",
+            "leafgreen": "Le antenne, che presentano disegni a forma d'occhio, si appesantiscono sotto la pioggia, impedendo al POKéMON di volare.",
+            "diamond": "Le sue antenne presentano un motivo ad occhi. Con le quattro ali riesce a volare in ogni direzione.",
+            "pearl": "Le sue antenne presentano un motivo ad occhi. Con le quattro ali riesce a volare in ogni direzione.",
+            "platinum": "Le sue antenne presentano un motivo ad occhi. Con le quattro ali riesce a volare in ogni direzione.",
+            "heartgold": "Spalanca le quattro ali per poter svolazzare a piacimento avanti e indietro, a destra e a sinistra.",
+            "soulsilver": "Spalanca le quattro ali per poter svolazzare a piacimento avanti e indietro, a destra e a sinistra.",
+            "black": "Le sue antenne presentano un motivo ad occhi. Con le quattro ali riesce a volar in ogni direzione.",
+            "white": "Le sue antenne presentano un motivo ad occhi. Con le quattro ali riesce a volar in ogni direzione.",
+            "black-2": "Le sue antenne presentano un motivo ad occhi. Con le quattro ali riesce a volar in ogni direzione.",
+            "white-2": "Le sue antenne presentano un motivo ad occhi. Con le quattro ali riesce a volar in ogni direzione.",
+            "x": "Le sue antenne presentano un motivo a occhi. Con le quattro ali riesce a volare in ogni direzione.",
+            "y": "Spalanca le quattro ali per poter svolazzare a piacimento avanti e indietro, a destra e a sinistra.",
+            "omega-ruby": "Masquerain intimorisce i nemici con il motivo a forma d'occhio sulle antenne. Agita le quattro ali per volare libero in ogni direzione, anche lateralmente e posteriormente, come fosse un elicottero.",
+            "alpha-sapphire": "Le antenne di Masquerain presentano un motivo a forma d'occhio che gli conferisce un aspetto aggressivo. Quando questi motivi simili a occhi hanno un aspetto triste e depresso significa che si sta avvicinando un acquazzone.",
+            "sun": "Intimorisce i nemici con i motivi a forma di occhio sulle antenne. Vola libero in ogni direzione agitando le sue quattro ali.",
+            "moon": "Le ali e le antenne sono molto sensibili all'umidità. Se ha piovuto, vola al sole per farle asciugare.",
+            "ultra-sun": "Intimorisce i nemici con i motivi a forma di occhio. Se lo stratagemma non funziona, fugge via agitando le quattro ali.",
+            "ultra-moon": "Le sue antenne, simili ad ali sottili, assorbono l'umidità. Quando piove si rifugia all'interno delle cavità degli alberi.",
+            "brilliant-diamond": "Le sue antenne presentano un motivo a forma di occhio. Con le quattro ali riesce ad alzarsi in volo e a spostarsi in ogni direzione.",
+            "shining-pearl": "Le sue antenne presentano un motivo a forma di occhio. Con le quattro ali riesce ad alzarsi in volo e a spostarsi in ogni direzione.",
+            "scarlet": "Le sue quattro ali gli permettono di volare a piacimento in ogni direzione.",
+            "violet": "Quando piove, le sue antenne con motivi a forma di occhio si appesantiscono tanto da impedirgli di librarsi in volo."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Coleottero"
+    ],
+    "generation": 3,
+    "height": {
+        "masquerain": "0,80 m"
+    },
+    "id": 284,
+    "name": "Masquerain",
+    "name_origin": "Masquerain è una combinazione di \"masquerade\"  e \"rain\" . ",
+    "origin": "Masquerain si basa sulla falena. ",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Occhi",
+    "sprites": {
+        "masquerain": {
+            "default": "https://media.pokemoncentral.it/wiki/1/18/Homem0284.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homemsh0284.png"
+        }
+    },
+    "stats": {
+        "masquerain": {
+            "hp": 70,
+            "atk": 60,
+            "def": 62,
+            "spa": 100,
+            "spd": 82,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "masquerain": 454
+    },
+    "types": {
+        "masquerain": [
+            "Volante",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "masquerain": "3,6 kg"
+    }
+}

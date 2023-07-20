@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "quilladin": {
+            "primary": "Erbaiuto",
+            "hidden": "Antiproiettile"
+        }
+    },
+    "curiosities": [
+        "Articoli incompleti",
+        "Pokémon",
+        "Pokémon di sesta generazione",
+        "Pokémon di tipo Erba",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Lento",
+        "Pokémon di colore Verde",
+        "Pokémon dalla sagoma n. 06",
+        "Pokémon con una proporzione sessuale di sette maschi per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
+        "Pokémon con statistiche base totali di 405"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/quilladin.mp3",
+    "dex_entries": {
+        "quilladin": {
+            "x": "Respinge gli attacchi dei nemici grazie al guscio che gli ricopre il corpo e contrattacca con gli aculei affilati.",
+            "y": "Allena la parte inferiore del corpo scontrandosi con i suoi simili. Ha una natura mite e non inizia mai una lotta per primo.",
+            "omega-ruby": "Respinge gli attacchi dei nemici grazie al guscio che gli ricopre il corpo e contrattacca con gli aculei affilati.",
+            "alpha-sapphire": "Allena la parte inferiore del corpo scontrandosi con i suoi simili. Ha una natura mite e non inizia mai una lotta per primo."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 6,
+    "height": {
+        "quilladin": "0,7 m"
+    },
+    "id": 651,
+    "name": "Quilladin",
+    "name_origin": "Quilladin deriva dall'inglese quill  e paladin . ",
+    "origin": "Come la sua pre-evoluzione, Quilladin è basato su uno scoiattolo striato del genere Tamias, più conosciuto come scoiattolo striato. Tuttavia, la somiglianza con un riccio di castagna già accennata in Chespin, qui si fa più evidente, con Quilladin che dopo l'evoluzione si fa più robusto e viene quasi totalmente ricoperto dal guscio. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Spincorazza",
+    "sprites": {
+        "quilladin": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4c/Homem0651.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7d/Homemsh0651.png"
+        }
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 61,
+            "atk": 78,
+            "def": 95,
+            "spa": 56,
+            "spd": 58,
+            "spe": 57
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 405
+    },
+    "types": {
+        "quilladin": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "quilladin": "29,0 kg"
+    }
+}

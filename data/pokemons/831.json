@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "wooloo": {
+            "primary": "Morbidone",
+            "secondary": "Fugafacile",
+            "hidden": "Antiproiettile"
+        }
+    },
+    "curiosities": [
+        "Wooloo è stato annunciato il 5 giugno 2019 durante un Pokémon Direct."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wooloo.mp3",
+    "dex_entries": {
+        "wooloo": {
+            "sword": "Il suo vello riccioluto gli fornisce una perfetta imbottitura. Non si farebbe nulla nemmeno cadendo da un precipizio.",
+            "shield": "Se gli cresce troppo il pelo, non riesce più a muoversi. Il tessuto fatto con la sua lana è sorprendentemente resistente."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 8,
+    "height": {
+        "wooloo": "0,6 m"
+    },
+    "id": 831,
+    "name": "Wooloo",
+    "name_origin": "Wooloo e Wooluu potrebbero essere una combinazione di wool, lana, e loom, telaio. ",
+    "origin": "Wooloo potrebbe essere basato su una pecora nera, in particolar modo una pecora Naso Nero del Vallese. La forma della sua lana potrebbe essere un riferimento al batuffolo di cotone. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Pecora",
+    "sprites": {
+        "wooloo": {
+            "default": "https://media.pokemoncentral.it/wiki/8/86/Homem0831.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/87/Homemsh0831.png"
+        }
+    },
+    "stats": {
+        "wooloo": {
+            "hp": 42,
+            "atk": 40,
+            "def": 55,
+            "spa": 40,
+            "spd": 45,
+            "spe": 48
+        }
+    },
+    "stats_sum": {
+        "wooloo": 270
+    },
+    "types": {
+        "wooloo": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "wooloo": "6,0 kg"
+    }
+}

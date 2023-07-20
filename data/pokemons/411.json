@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "bastiodon": {
+            "primary": "Vigore",
+            "hidden": "Antisuono"
+        }
+    },
+    "curiosities": [
+        "Bastiodon ha la più alta difesa e difesa speciale di tutti i Pokémon Fossile."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bastiodon.mp3",
+    "dex_entries": {
+        "bastiodon": {
+            "diamond": "Respinge qualsiasi attacco frontale. È un Pokémon docile che si nutre di erba e di bacche.",
+            "pearl": "Se più esemplari vengono attaccati, formano un muro protettivo con i loro musi per proteggere i cuccioli.",
+            "platinum": "Se si mettono uno di fianco all'altro nessun nemico riesce a passare. Proteggono così i loro cuccioli.",
+            "heartgold": "Se attaccati dal nemico si mettono uno di fianco all'altro e si difendono a muso duro.",
+            "soulsilver": "Se attaccati dal nemico si mettono uno di fianco all'altro e si difendono a muso duro.",
+            "black": "Se si mettono uno di fianco all'altro nessun nemico riesce a passare. Proteggono così i loro cuccioli.",
+            "white": "Se si mettono uno di fianco all'altro nessun nemico riesce a passare. Proteggono così i loro cuccioli.",
+            "black-2": "Se si mettono uno di fianco all'altro nessun nemico riesce a passare. Proteggono così i loro cuccioli.",
+            "white-2": "Se si mettono uno di fianco all'altro nessun nemico riesce a passare. Proteggono così i loro cuccioli.",
+            "x": "Se si mettono uno di fianco all'altro nessun nemico riesce a passare. Proteggono così i loro cuccioli.",
+            "y": "Respinge qualsiasi attacco frontale. È un Pokémon docile che si nutre di erba e di bacche.",
+            "omega-ruby": "Se si mettono uno di fianco all'altro nessun nemico riesce a passare. Proteggono così i loro cuccioli.",
+            "alpha-sapphire": "Respinge qualsiasi attacco frontale. È un Pokémon docile che si nutre di erba e di bacche.",
+            "sun": "La sua difesa è impenetrabile se viene attaccato di fronte, ma se viene preso alle spalle è estremamente vulnerabile.",
+            "moon": "In passato condivideva l’habitat con Rampardos. Spesso i loro scontri finivano in parità e non è raro trovarli fossilizzati insieme.",
+            "ultra-sun": "Prima che venisse rigenerato si riteneva erroneamente che le grandi e solide ossa del muso facessero parte del dorso.",
+            "ultra-moon": "Questo Pokémon esisteva 100 milioni di anni fa. Il suo muso, incredibilmente resistente, può essere persino più duro dell’acciaio.",
+            "brilliant-diamond": "Respinge qualsiasi attacco frontale. È docile e si nutre di erba e di bacche.",
+            "shining-pearl": "Se vengono attaccati, formano un muro protettivo con i loro musi per proteggere i cuccioli del branco.",
+            "legends-arceus": "Vanta una difesa inespugnabile grazie al viso massiccio, inscalfibile al pari di un diamante. Il suo habitat e altri dati ecologici restano prevalentemente ignoti."
+        }
+    },
+    "egg_groups": [
+        "Mostro"
+    ],
+    "generation": 4,
+    "height": {
+        "bastiodon": "1,3 m"
+    },
+    "id": 411,
+    "name": "Bastiodon",
+    "name_origin": "Deriva dalle parole bastion  e il suffisso -don  o da Bastille  e mastodon . ",
+    "origin": "Bastiodon sembra essere basato su un dinosauro ceratopsiano, la cresta tuttavia rimanda alle mura di un castello o alla testa di un zuniceratopo. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Schermo",
+    "sprites": {
+        "bastiodon": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5d/Homem0411.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/52/Homemsh0411.png"
+        }
+    },
+    "stats": {
+        "bastiodon": {
+            "hp": 60,
+            "atk": 52,
+            "def": 168,
+            "spa": 47,
+            "spd": 138,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "bastiodon": 495
+    },
+    "types": {
+        "bastiodon": [
+            "Acciaio",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "bastiodon": "149,5 kg"
+    }
+}

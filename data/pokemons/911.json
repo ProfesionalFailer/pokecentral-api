@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "skeledirge": {
+            "primary": "Aiutofuoco",
+            "hidden": "Imprudenza"
+        }
+    },
+    "curiosities": [
+        "L'uccellino di fuoco che ha sul muso è \"nato\" dall'uovo che c'era dentro il nido sulla testa di Crocalor, la sua pre-evoluzione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/skeledirge.mp3",
+    "dex_entries": {
+        "skeledirge": {
+            "scarlet": "Si dice che l'uccello di fuoco, plasmato in varie forme dal suo canto, sia uno spirito che ha preso dimora nella sua palla di fuoco.",
+            "violet": "Il suo dolce canto placa l'animo di chiunque lo ascolti. Riduce in cenere il nemico con fiamme che raggiungono i 3.000 ºC."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 9,
+    "height": {
+        "skeledirge": "1,6 m"
+    },
+    "id": 911,
+    "name": "Skeledirge",
+    "name_origin": "Skeledirge potrebbe essere una combinazione di skeleton  e dirge . Loudbone potrebbe essere una combinazione di loud  o laúd  e bone . ",
+    "origin": "Skeledirge è basato su un coccodrillo, mentre l'uccellino di fuoco sul suo muso potrebbe richiamare gli \"uccelli dentisti\", ovvero quelli che mantengono pulita la bocca dei coccodrilli. ",
+    "shape": "None",
+    "specie": "Pokémon Cantante",
+    "sprites": {
+        "skeledirge": {
+            "default": "https://media.pokemoncentral.it/wiki/9/93/Homem0911.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3a/Homemsh0911.png"
+        }
+    },
+    "stats": {
+        "skeledirge": {
+            "hp": 104,
+            "atk": 75,
+            "def": 100,
+            "spa": 110,
+            "spd": 75,
+            "spe": 66
+        }
+    },
+    "stats_sum": {
+        "skeledirge": 530
+    },
+    "types": {
+        "skeledirge": [
+            "Spettro",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "skeledirge": "326,5 kg"
+    }
+}

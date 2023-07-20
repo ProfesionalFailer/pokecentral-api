@@ -1,0 +1,92 @@
+{
+    "abilities": {
+        "onix": {
+            "primary": "Testadura",
+            "secondary": "Vigore",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Onix è il Pokémon più lungo e più pesante non evoluto.",
+        "Di tutti i Pokémon che si possono evolvere, Onix ha la difesa base più alta.",
+        "La famiglia di Onix è l'unica in cui entrambi i membri possono essere ottenuti tramite scambi interni al gioco. Però ciò è possibile solo in Oro HeartGold e Argento SoulSilver in cui il giocatore può scambiare Bellsprout per un Onix a Violapoli e qualunque Pokémon per Steelix a Olivinopoli.",
+        "Lo strumento Rallentocoda assomiglia alla parte finale della coda di un Onix."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/onix.mp3",
+    "dex_entries": {
+        "onix": {
+            "red": "Crescendo, la parte rocciosa del suo corpo si indurisce diventando simile a un diamante nero.",
+            "blue": "Crescendo, la parte rocciosa del suo corpo si indurisce diventando simile a un diamante nero.",
+            "yellow": "Scava veloce nel terreno in cerca di cibo lasciando lunghi cunicoli usati poi come casa dai DIGLETT.",
+            "gold": "Si contorce e si dimena attraverso il terreno. Il cupo boato del suo scavare giunge molto lontano.",
+            "silver": "Si fa strada nel terreno fino ad 80 km/h contorcendosi e agitando il corpo grande e possente.",
+            "crystal": "Mentre scava nel terreno assorbe molti oggetti duri: per questo il suo corpo è così solido.",
+            "ruby": "ONIX nel cervello ha una calamita, che agisce da bussola per consentirgli di non perdere l'orientamento mentre scava sottoterra. Con il passare del tempo il suo corpo diventa sempre più smussato e levigato.",
+            "sapphire": "ONIX nel cervello ha una calamita, che agisce da bussola per consentirgli di non perdere l'orientamento mentre scava sottoterra. Con il passare del tempo il suo corpo diventa sempre più smussato e levigato.",
+            "emerald": "Grazie alla calamita nel cervello, ONIX non perde l'orientamento quando scava sottoterra. Col passare del tempo, il suo corpo diventa sempre più smussato e levigato.",
+            "firered": "Di solito vive sottoterra. Cerca cibo scavando cunicoli nel terreno alla velocità di 80 km/h.",
+            "leafgreen": "Crescendo, la parte rocciosa del suo corpo si indurisce diventando simile a un diamante nero.",
+            "diamond": "Si muove sottoterra provocando scosse e boati. Può raggiungere anche la velocità di 80 km/h.",
+            "pearl": "Avanza contorcendosi nel terreno con il suo corpo lungo e robusto. Mentre scava, mangia di continuo.",
+            "platinum": "Si muove sottoterra a una velocità di 80 km/h nutrendosi di grossi massi.",
+            "heartgold": "Si contorce e si dimena attraverso il terreno. Il cupo boato del suo scavare giunge molto lontano.",
+            "soulsilver": "Si fa strada nel terreno fino ad 80 km/h contorcendosi e agitando il corpo grande e possente.",
+            "black": "Si muove sottoterra a una velocità di 80 km/h nutrendosi di grossi massi.",
+            "white": "Si muove sottoterra a una velocità di 80 km/h nutrendosi di grossi massi.",
+            "black-2": "Costruisce tunnel lunghissimi ingoiando enormi quantità di terra con la sua bocca enorme.",
+            "white-2": "Costruisce tunnel lunghissimi ingoiando enormi quantità di terra con la sua bocca enorme.",
+            "x": "Scava veloce nel terreno in cerca di cibo lasciando lunghi cunicoli usati poi come casa dai Diglett.",
+            "y": "Di solito vive sottoterra. Cerca cibo scavando cunicoli nel terreno alla velocità di 80 km/h.",
+            "omega-ruby": "Onix nel cervello ha una calamita, che agisce da bussola per consentirgli di non perdere l'orientamento mentre scava sottoterra. Con il passare del tempo il suo corpo diventa sempre più smussato e levigato.",
+            "alpha-sapphire": "Onix nel cervello ha una calamita, che agisce da bussola per consentirgli di non perdere l'orientamento mentre scava sottoterra. Con il passare del tempo il suo corpo diventa sempre più smussato e levigato.",
+            "lets-go-pikachu": "Scava nel terreno con incredibile vigore in cerca di cibo, creando cunicoli usati come tana dai Diglett.",
+            "lets-go-eevee": "Scava nel terreno con incredibile vigore in cerca di cibo, creando cunicoli usati come tana dai Diglett.",
+            "sword": "Scava nel terreno assorbendo gli oggetti più duri per irrobustire il suo corpo.",
+            "shield": "Scava nel terreno a una velocità di 80 km/h contorcendo e agitando il corpo grande e possente.",
+            "brilliant-diamond": "Si muove sottoterra provocando scosse e boati. Può raggiungere anche una velocità di 80 km/h.",
+            "shining-pearl": "Avanza sottoterra contorcendo il suo corpo lungo e robusto. Scava mangiando di continuo.",
+            "legends-arceus": "Ha l'aspetto d'una serpe bislunga composta di macigni. S'immerge nelle profondità e, divorando la roccia, scava cunicoli e cagiona sismi."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 1,
+    "height": {
+        "onix": "8,8 m"
+    },
+    "id": 95,
+    "name": "Onix",
+    "name_origin": "Il nome Onix deriva dalla parola onice, un minerale, in inglese onyx, ma potrebbe anche derivare da helix . Il suo nome giapponese potrebbe essere la combinazione di 岩 iwa, roccia, e スネ−ク snake, serpente. ",
+    "origin": "Onix è basato su un serpente ed un lombrico. Molto probabilmente potrebbe anche essere basato sul Wyrm, un tipo di drago senza arti. ",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Serpesasso",
+    "sprites": {
+        "onix": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1a/Homem0095.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0095.png"
+        }
+    },
+    "stats": {
+        "onix": {
+            "hp": 35,
+            "atk": 45,
+            "def": 160,
+            "spa": 30,
+            "spd": 45,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "onix": 385
+    },
+    "types": {
+        "onix": [
+            "Terra",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "onix": "210,0 kg"
+    }
+}

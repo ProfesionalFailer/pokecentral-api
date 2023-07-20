@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "larvitar": {
+            "primary": "Dentistretti",
+            "hidden": "Sabbiavelo"
+        }
+    },
+    "curiosities": [
+        "Le animazioni di Larvitar cambiano da Diamante e Perla a Platino, tuttavia lo sprite statico rimane lo stesso.",
+        "In quarta generazione, Larvitar può imparare Oltraggio e Ferroscudo tramite allevamento, ma non tramite Insegnamosse. Non è più il caso di Pokémon Nero 2 e Bianco 2, dove può impararle entrambe tramite Insegnamosse."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/larvitar.mp3",
+    "dex_entries": {
+        "larvitar": {
+            "gold": "Si nutre di terra. Dopo aver divorato una montagna intera, si addormenta per poter crescere.",
+            "silver": "Nato nel profondo sottosuolo, non può emerge finché non ha consumato tutto il terreno intorno a sé.",
+            "crystal": "Nasce nel profondo sottosuolo; dopo aver mangiato una montagna di terra si trasforma in una crisalide.",
+            "ruby": "LARVITAR nasce nelle viscere della terra. Per emergere in superficie deve farsi strada inghiottendo la terra che lo ostacola. LARVITAR non può vedere il volto dei propri genitori finché non emerge.",
+            "sapphire": "LARVITAR nasce nelle viscere della terra. Per emergere in superficie deve farsi strada inghiottendo la terra che lo ostacola. LARVITAR non può vedere il volto dei propri genitori finché non emerge.",
+            "emerald": "LARVITAR nasce nelle viscere della terra. Per emergere in superficie si fa strada inghiottendo terra. Non vede il volto dei propri genitori finché non emerge.",
+            "firered": "Nato nel profondo sottosuolo, non può emergere finché non ha consumato tutto il terreno intorno a sé.",
+            "leafgreen": "Si nutre di terra. Dopo aver divorato una montagna intera, si addormenta per poter crescere.",
+            "diamond": "Pokémon che mangia la terra. Dopo aver mangiato un’intera montagna, va a dormire per poter crescere.",
+            "pearl": "Pokémon che mangia la terra. Dopo aver mangiato un’intera montagna, va a dormire per poter crescere.",
+            "platinum": "Pokémon che mangia la terra. Dopo aver mangiato un’intera montagna, va a dormire per poter crescere.",
+            "heartgold": "Si nutre di terra. Dopo aver divorato una montagna intera, si addormenta per poter crescere.",
+            "soulsilver": "Nato nel profondo sottosuolo, non può emergere finché non ha consumato tutto il terreno intorno a sé.",
+            "black": "Pokémon che mangia la terra. Dopo aver mangiato un'intera montagna, va a dormire per poter crescere.",
+            "white": "Pokémon che mangia la terra. Dopo aver mangiato un'intera montagna, va a dormire per poter crescere.",
+            "black-2": "Nasce nelle profondità del sottosuolo. Dopo aver divorato la terra circostante emerge in superficie e diventa crisalide.",
+            "white-2": "Nasce nelle profondità del sottosuolo. Dopo aver divorato la terra circostante emerge in superficie e diventa crisalide.",
+            "x": "Si nutre di terra. Dopo aver divorato una montagna intera, si addormenta per poter crescere.",
+            "y": "Nasce nelle profondità del sottosuolo. Dopo aver divorato la terra circostante emerge in superficie e diventa crisalide.",
+            "omega-ruby": "Larvitar nasce nelle viscere della terra. Per emergere in superficie deve farsi strada inghiottendo la terra che lo ostacola. Larvitar non può vedere il volto dei propri genitori finché non emerge.",
+            "alpha-sapphire": "Larvitar nasce nelle viscere della terra. Per emergere in superficie deve farsi strada inghiottendo la terra che lo ostacola. Larvitar non può vedere il volto dei propri genitori finché non emerge.",
+            "ultra-sun": "Nasce sottoterra e risale in superficie verso i genitori mangiando la terra lungo il cammino. Detesta la luce, che trova troppo abbagliante.",
+            "ultra-moon": "Cresce assorbendo nutrimento dal terreno. Dopo aver divorato una quantità di terra pari a una montagna, diventa crisalide.",
+            "sword": "Nasce nelle profondità del sottosuolo. Dopo aver divorato la terra circostante emerge in superficie e diventa crisalide.",
+            "shield": "Si nutre di terra. Dopo aver divorato una montagna intera, si addormenta per poter crescere.",
+            "brilliant-diamond": "Si nutre di terra. Dopo aver spianato un'intera montagna, va a dormire per crescere.",
+            "shining-pearl": "Si nutre di terra. Dopo aver spianato un'intera montagna, va a dormire per crescere.",
+            "scarlet": "Nasce nel profondo sottosuolo e dopo aver mangiato una montagna di terra si trasforma in una crisalide.",
+            "violet": "Nasce nel profondo sottosuolo e non può emergere in superficie finché non ha consumato tutto il terreno intorno a sé."
+        }
+    },
+    "egg_groups": [
+        "Mostro"
+    ],
+    "generation": 2,
+    "height": {
+        "larvitar": "0,6 m"
+    },
+    "id": 246,
+    "name": "Larvitar",
+    "name_origin": "Il suo nome deriva dalla parola \"Larva\". ",
+    "origin": "Larvitar ha svariate somiglianze con i dinosauri. Il fatto che lui si nutra delle montagne fanno ricordare la leggenda del Tarasco. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Peldisasso",
+    "sprites": {
+        "larvitar": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7b/Homem0246.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0246.png"
+        }
+    },
+    "stats": {
+        "larvitar": {
+            "hp": 50,
+            "atk": 64,
+            "def": 50,
+            "spa": 45,
+            "spd": 50,
+            "spe": 41
+        }
+    },
+    "stats_sum": {
+        "larvitar": 300
+    },
+    "types": {
+        "larvitar": [
+            "Terra",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "larvitar": "72,0 kg"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "chandelure": {
+            "primary": "Fuocardore",
+            "secondary": "Corpodifuoco",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "Eccetto i Pokémon leggendari, misteriosi, le Ultracreature, le forme megaevolute e la Forma Ash di Greninja, Chandelure, insieme a Vikavolt e Cursola, ha la statistica base Attacco Speciale più alta di tutti i Pokémon.",
+        "Prima della settima generazione Litwick, Lampent e Chandelure avevano una combinazione di tipi unica.",
+        "Nonostante fluttui, non può possedere l'abilità Levitazione.",
+        "Nonostante la descrizione del Pokédex di Nero, non può imparare Ipnosi.",
+        "Prima della sesta generazione l'abilità speciale di Chandelure era Pedinombra, ma non era ottenibile legittimamente."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/chandelure.mp3",
+    "dex_entries": {
+        "chandelure": {
+            "black": "Brucia consumando le anime che ha aspirato. Ipnotizza l'avversario facendo tremolare le fiammelle sugli arti.",
+            "white": "Le fiamme di Chandelure risucchiano lo spirito e lasciano il corpo come un guscio vuoto.",
+            "black-2": "Le anime bruciate dalle sue fiamme cupe perdono la strada e rimangono a vagare in questo mondo per l'eternità.",
+            "white-2": "Le anime bruciate dalle sue fiamme cupe perdono la strada e rimangono a vagare in questo mondo per l'eternità.",
+            "x": "Le fiamme di Chandelure risucchiano lo spirito e lasciano il corpo come un guscio vuoto.",
+            "y": "Le anime bruciate dalle sue fiamme cupe perdono la strada e rimangono a vagare in questo mondo per l'eternità.",
+            "omega-ruby": "Le fiamme di Chandelure risucchiano lo spirito e lasciano il corpo come un guscio vuoto.",
+            "alpha-sapphire": "Le anime bruciate dalle sue fiamme cupe perdono la strada e rimangono a vagare in questo mondo per l'eternità.",
+            "sword": "Infesta vecchie case. Ipnotizza l'avversario facendo tremolare le fiammelle sugli arti.",
+            "shield": "Si dice che nelle ville in cui i Chandelure erano utilizzati al posto dei lampadari i funerali si susseguissero senza sosta."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "generation": 5,
+    "height": {
+        "chandelure": "1,0 m"
+    },
+    "id": 609,
+    "name": "Chandelure",
+    "name_origin": "Il nome Chandelure potrebbe derivare dalla parola inglese chandelier  e lure o allure .",
+    "origin": "È una combinazione di Hitodama  e un lampadario. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Attiranime",
+    "sprites": {
+        "  ": {
+            "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0609.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/75/Homemsh0609.png"
+        }
+    },
+    "stats": {
+        "chandelure": {
+            "hp": 60,
+            "atk": 55,
+            "def": 90,
+            "spa": 145,
+            "spd": 90,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "chandelure": 520
+    },
+    "types": {
+        "chandelure": [
+            "Spettro",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "chandelure": "34,3 kg"
+    }
+}

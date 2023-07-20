@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "skrelp": {
+            "primary": "Velenopunte",
+            "secondary": "Velentocco",
+            "hidden": "Adattabilità"
+        }
+    },
+    "curiosities": [
+        "Skrelp e l'evoluzione Dragalge sono gli unici Pokémon di tipo veleno introdotti in sesta generazione.",
+        "Skrelp, assieme alla linea evolutiva di Mareanie, è l'unico ad avere la combinazione Veleno/Acqua invece che Acqua/Veleno."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/skrelp.mp3",
+    "dex_entries": {
+        "skrelp": {
+            "x": "Si mimetizza assumendo l'aspetto della vegetazione marina in decomposizione. Spruzza sulle prede ignare un liquido velenoso per poi finirle.",
+            "y": "Il suo aspetto ricorda la vegetazione marina in decomposizione. Sfugge ai nemici mimetizzandosi e resta nascosto accumulando energie per l'evoluzione.",
+            "omega-ruby": "Si mimetizza assumendo l'aspetto della vegetazione marina in decomposizione. Spruzza sulle prede ignare un liquido velenoso per poi finirle.",
+            "alpha-sapphire": "Il suo aspetto ricorda la vegetazione marina in decomposizione. Sfugge ai nemici mimetizzandosi e resta nascosto accumulando energie per l'evoluzione.",
+            "ultra-sun": "Si nasconde immobile tra la vegetazione marina per sfuggire ai Pokémon più grandi. Si nutre prevalentemente di alghe in decomposizione.",
+            "ultra-moon": "È un pessimo nuotatore e preferisce restare avvinghiato alle alghe. Nella regione di Alola lo si trova spesso al fianco di Dhelmise.",
+            "sword": "Galleggia nel mare mimetizzandosi fra le alghe fluttuanti e agguanta i Pokémon che si avvicinano per nutrirsi.",
+            "shield": "Il suo aspetto simile a quello di alghe fluttuanti in decomposizione gli permette di mimetizzarsi per sfuggire allo sguardo del nemico.",
+            "scarlet": "Galleggia nel mare fra le alghe fluttuanti per nascondersi agli occhi dei nemici. Genera il suo veleno divorando alghe putrefatte.",
+            "violet": "Non è molto abile a nuotare. A volte viene trascinato lontano da una tempesta e non riesce più a far ritorno a casa."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Drago"
+    ],
+    "generation": 6,
+    "height": {
+        "skrelp": "0,5 m"
+    },
+    "id": 690,
+    "name": "Skrelp",
+    "name_origin": "Skrelp è una combinazione tra scrawny  e kelp . Kuzumō è una corruzione di クサモドキ kusamodoki . ",
+    "origin": "Skrelp è basato su un Drago marino. ",
+    "shape": "quadrupede",
+    "specie": "Pokémon Similalga",
+    "sprites": {
+        "skrelp": {
+            "default": "https://media.pokemoncentral.it/wiki/2/21/Homem0690.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/79/Homemsh0690.png"
+        }
+    },
+    "stats": {
+        "skrelp": {
+            "hp": 50,
+            "atk": 60,
+            "def": 60,
+            "spa": 60,
+            "spd": 60,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "skrelp": 320
+    },
+    "types": {
+        "skrelp": [
+            "Veleno",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "skrelp": "7,3 kg"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "skiploom": {
+            "primary": "Clorofilla",
+            "secondary": "Fogliamanto",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "In seconda generazione Hoppip, Skiploom e Jumpluff avevano una combinazione di tipi unica.",
+        "Il colore normale di Skiploom e il colore cromatico sono il contrario della sua pre-evoluzione, Hoppip.",
+        "Skiploom è l'ultimo Pokémon menzionato nel Pokérap GS.",
+        "Il nome di Skiploom, della sua pre-evoluzione e della sua evoluzione è stato dato da Nob Ogasawara."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/skiploom.mp3",
+    "dex_entries": {
+        "skiploom": {
+            "gold": "Il fiore sul capo si apre e si chiude con il continuo mutare della temperatura corporea.",
+            "silver": "Spalanca i petali per assorbire la luce solare. Fluttua nell'aria per essere più vicino al sole.",
+            "crystal": "Se piove chiude il fiore e corre a ripararsi sotto un albero per evitare di bagnarsi.",
+            "ruby": "Il fiore di SKIPLOOM sboccia quando la temperatura sale oltre i 18 gradi C. L'apertura del fiore dipende dalla temperatura. Per questo motivo il POKéMON è usato anche come termometro.",
+            "sapphire": "Il fiore di SKIPLOOM sboccia quando la temperatura sale oltre i 18 gradi C. L'apertura del fiore dipende dalla temperatura. Per questo motivo il POKéMON è usato anche come termometro.",
+            "emerald": "Il fiore di SKIPLOOM è sensibile alla temperatura e sboccia quando questa supera i 18 gradi centigradi. Questo POKéMON è usato anche come termometro.",
+            "firered": "Spalanca i petali per assorbire la luce solare. Fluttua nell'aria per essere più vicino al sole.",
+            "leafgreen": "Il fiore sul capo si apre e si chiude con il mutare della temperatura.",
+            "diamond": "Il suo fiore sboccia appena l’aria si riscalda. Fluttua nel cielo per assorbire l'energia solare.",
+            "pearl": "Il suo fiore sboccia appena l’aria si riscalda. Fluttua nel cielo per assorbire l'energia solare.",
+            "platinum": "Il suo fiore sboccia appena l’aria si riscalda. Fluttua nel cielo per assorbire l'energia solare.",
+            "heartgold": "Il fiore sul capo si apre e si chiude con il continuo mutare della temperatura corporea.",
+            "soulsilver": "Spalanca i petali per assorbire la luce solare. Fluttua nell'aria per essere più vicino al sole.",
+            "black": "Il suo fiore sboccia appena l'aria si riscalda. Fluttua nel cielo per assorbire l'energia solare.",
+            "white": "Il suo fiore sboccia appena l'aria si riscalda. Fluttua nel cielo per assorbire l'energia solare.",
+            "black-2": "Il suo fiore sboccia appena l'aria si riscalda. Fluttua nel cielo per assorbire l'energia solare.",
+            "white-2": "Il suo fiore sboccia appena l'aria si riscalda. Fluttua nel cielo per assorbire l'energia solare.",
+            "x": "Il fiore sul capo si apre e si chiude con il continuo mutare della temperatura corporea.",
+            "y": "Spalanca i petali per assorbire la luce solare. Fluttua nell'aria per essere più vicino al sole.",
+            "omega-ruby": "Il fiore di Skiploom sboccia quando la temperatura sale oltre i 18 gradi °C. L'apertura del fiore dipende dalla temperatura. Per questo motivo il Pokémon è usato anche come termometro.",
+            "alpha-sapphire": "Il fiore di Skiploom sboccia quando la temperatura sale oltre i 18 gradi °C. L'apertura del fiore dipende dalla temperatura. Per questo motivo il Pokémon è usato anche come termometro.",
+            "brilliant-diamond": "Il suo fiore sboccia appena l'aria si riscalda. Fluttua nel cielo per assorbire più luce solare possibile.",
+            "shining-pearl": "Il suo fiore sboccia appena l'aria si riscalda. Fluttua nel cielo per assorbire più luce solare possibile.",
+            "scarlet": "Gli appassionati di questo Pokémon sanno riconoscerne il luogo di nascita dal profumo che emana il fiore sulla sua testa.",
+            "violet": "Con il freddo il suo fiore si chiude e il processo di fotosintesi si interrompe. Quando ciò accade, vola via verso regioni più calde."
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Erba"
+    ],
+    "generation": 2,
+    "height": {
+        "skiploom": "0,6 m"
+    },
+    "id": 188,
+    "name": "Skiploom",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi skip  e bloom .\nIl suo nome giapponese, ポポッコ Popokko, potrebbe derivare dalla parola 蒲公英 tanpopo . ",
+    "origin": "Skiploom sembra basarsi su una lampadina e un fiore, in particolare un dente di leone. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Gramigna",
+    "sprites": {
+        "skiploom": {
+            "default": "https://media.pokemoncentral.it/wiki/5/57/Homem0188.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0d/Homemsh0188.png"
+        }
+    },
+    "stats": {
+        "skiploom": {
+            "hp": 55,
+            "atk": 45,
+            "def": 50,
+            "spa": 45,
+            "spd": 65,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "skiploom": 340
+    },
+    "types": {
+        "skiploom": [
+            "Erba",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "skiploom": "1,0 kg"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Fuocardore",
+            "secondary": "Fumochiaro",
+            "hidden": "Corpodifuoco"
+        }
+    },
+    "curiosities": [
+        "Centiskorch è il Pokémon più alto di tipo Coleottero.",
+        "Centiskorch ha la forma Gigamax più alta.",
+        "Nonostante Centiskorch e Scolipede vivano in zone differenti della regione di Galar, la voce del Pokédex di Scolipede parla della rivalità ostile tra i due Pokémon.",
+        "La forma Gigamax di Centiskorch ha esattamente cento zampe, cinquanta per ogni lato.",
+        "Come da lui stesso confermato, James Turner s'è occupato della progettazione di Centiskorch e di Centiskorch Gigamax."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/centiskorch.mp3",
+    "dex_entries": {
+        "centiskorch": {
+            "sword": "Quando genera calore, la temperatura del suo corpo raggiunge gli 800 °C. Si lancia all'attacco usando il corpo come una frusta.",
+            "shield": "Ha una natura aggressiva. Il suo corpo incandescente lo rende molto pericoloso, così come le sue lunghe zanne appuntite."
+        },
+        "centiskorch-gigamax": {
+            "sword": "L'energia del fenomeno Gigamax ha fatto salire la sua temperatura corporea a oltre 1.000 °C. Arrostisce i nemici con onde termiche.",
+            "shield": "Il calore che emana per effetto del fenomeno Gigamax è così forte da sconvolgere le correnti atmosferiche causando tempeste."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 8,
+    "height": {
+        "centiskorch": "3,0 m",
+        "centiskorch-gigamax": "> 75,0 m"
+    },
+    "id": 851,
+    "name": "Centiskorch",
+    "name_origin": "Centiskorch potrebbe essere una combinazione di centipede, centopiedi, e scorch, bruciatura. Maruyakude potrebbe essere una combinazione di 丸焼け maruyake, completamente bruciato, e 馬陸 yasude, millepiedi, o 百足 mukade, centopiedi. ",
+    "origin": "Centiskorch potrebbe essere basato su un radiatore o su un centopiedi, come l'Orphaneus brevilabiatus, noto anche come \"centopiedi di fuoco\" a causa della sua bioluminescenza. Potrebbe essere ispirato anche su un millepiedi bioluminescente, il Motyxia. In aggiunta, potrebbe essere basato anche su un Ōmukade, un centipede gigante della mitologia giapponese; le zampe della creatura sono descritte come simili a migliaia di torce. I \"baffi infuocati\" ricordano un kabuto, un tipo di elmo tipicamente giapponese. ",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Termogeno",
+    "sprites": {
+        "centiskorch": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8e/Homem0851.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/70/Homemsh0851.png"
+        },
+        "centiskorch-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7e/Homem0851Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5f/Homemsh0851Gi.png"
+        }
+    },
+    "stats": {
+        "centiskorch": {
+            "hp": 100,
+            "atk": 115,
+            "def": 65,
+            "spa": 90,
+            "spd": 90,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "centiskorch": 525
+    },
+    "types": {
+        "centiskorch": [
+            "Coleot",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "centiskorch": "120,0 kg",
+        "centiskorch-gigamax": "???,? kg"
+    }
+}

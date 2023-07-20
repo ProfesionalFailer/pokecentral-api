@@ -1,0 +1,98 @@
+{
+    "abilities": {
+        "cloyster": {
+            "primary": "Guscioscudo",
+            "secondary": "Abillegame",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Cloyster ha la Difesa più alta insieme a Mega Slowbro dei Pokémon di tipo Acqua e la seconda tra quelli di tipo Ghiaccio, secondo solo ad Avalugg.",
+        "Lo sprite di Cloyster di Pokémon Rosso e Blu mostra la sua conchiglia posizionata orizzontalmente invece che verticalmente.",
+        "Cloyster è l'unico Pokémon di tipo Ghiaccio del colore viola nel Pokédex.",
+        "Cloyster e la sua pre-evoluzione sono sembrati in grado di volare a mezz'aria in Pokémon Snap, un comportamento che non hanno mostrato da nessun'altra parte.",
+        "Shellder e Cloyster condividono lo stesso nome di specie con Clamperl: sono tutti noti come Pokémon bivalve."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cloyster.mp3",
+    "dex_entries": {
+        "cloyster": {
+            "red": "Se attaccato, scaglia rapide raffiche di corna. Non è mai stato visto internamente.",
+            "blue": "Se attaccato, scaglia rapide raffiche di corna. Non è mai stato visto internamente.",
+            "yellow": "È protetto da una conchiglia dura come il diamante. Talvolta attacca sparando lance dalla conchiglia.",
+            "gold": "Quando richiude il guscio nessuno può aprirlo, neppure chi è dotato di una forza straordinaria.",
+            "silver": "Ai CLOYSTER che vivono in mari con forti maree crescono grandi aculei affilati sui gusci.",
+            "crystal": "Neppure un missile potrebbe scalfire le punte con cui colpisce i nemici. Sono ancora più dure del guscio.",
+            "ruby": "CLOYSTER è in grado di nuotare in mare aperto, ingerendo acqua dalla bocca per poi espellerla violentemente a mo' di propulsore. Questo POKéMON usa lo stesso metodo per sparare punte dalla conchiglia.",
+            "sapphire": "CLOYSTER è in grado di nuotare in mare aperto, ingerendo acqua dalla bocca per poi espellerla violentemente a mo' di propulsore. Questo POKéMON usa lo stesso metodo per sparare punte dalla conchiglia.",
+            "emerald": "CLOYSTER nuota in mare aperto ingerendo acqua dalla bocca per poi espellerla a mo' di propulsore. Usa lo stesso metodo per sparare punte dalla conchiglia.",
+            "firered": "Neppure una bomba può scalfire il suo duro guscio, che apre soltanto quando sta attaccando.",
+            "leafgreen": "Se attaccato, scaglia rapide raffiche di corna. Non è mai stato visto internamente.",
+            "diamond": "Quando lotta si protegge tenendo la conchiglia chiusa e spara punte per respingere i nemici.",
+            "pearl": "Quando lotta si protegge tenendo la conchiglia chiusa e spara punte per respingere i nemici.",
+            "platinum": "Quando lotta si protegge tenendo la conchiglia chiusa e spara punte per respingere i nemici.",
+            "heartgold": "Quando richiude il guscio nessuno può aprirlo, neppure chi è dotato di una forza straordinaria.",
+            "soulsilver": "Ai CLOYSTER che vivono in mari con forti maree crescono grandi aculei affilati sui gusci.",
+            "black": "Quando lotta si protegge tenendo la conchiglia chiusa e spara punte per respingere i nemici.",
+            "white": "Quando lotta si protegge tenendo la conchiglia chiusa e spara punte per respingere i nemici.",
+            "black-2": "Quando lotta si protegge tenendo la conchiglia chiusa e spara punte per respingere i nemici.",
+            "white-2": "Quando lotta si protegge tenendo la conchiglia chiusa e spara punte per respingere i nemici.",
+            "x": "Ai Cloyster che vivono in mari con forti maree crescono grandi aculei affilati sui gusci.",
+            "y": "Neppure una bomba può scalfire il suo duro guscio, che apre soltanto quando sta attaccando.",
+            "omega-ruby": "Cloyster è in grado di nuotare in mare aperto, ingerendo acqua dalla bocca per poi espellerla violentemente a mo' di propulsore. Questo Pokémon usa lo stesso metodo per sparare punte dalla conchiglia.",
+            "alpha-sapphire": "Cloyster è in grado di nuotare in mare aperto, ingerendo acqua dalla bocca per poi espellerla violentemente a mo' di propulsore. Questo Pokémon usa lo stesso metodo per sparare punte dalla conchiglia.",
+            "sun": "Il suo guscio non può essere scalfito neanche da una bomba. Nessuno sa cosa si cela al suo interno.",
+            "moon": "Nei tumuli di popoli dediti alla caccia sono state rinvenute lance fabbricate con aculei provenienti dal guscio di questo Pokémon.",
+            "ultra-sun": "Ha un guscio estremamente duro. Le parti danneggiate si ispessiscono fino a diventare dei grossi aculei affilati.",
+            "ultra-moon": "A volte sale sulla terraferma in cerca di Slowpoke perché va matto per la sua coda.",
+            "lets-go-pikachu": "Usa la sua conchiglia dura come il diamante per proteggersi e può anche scagliare gli aculei di cui è dotata per attaccare.",
+            "lets-go-eevee": "Usa la sua conchiglia dura come il diamante per proteggersi e può anche scagliare gli aculei di cui è dotata per attaccare.",
+            "sword": "Neppure una bomba può scalfire il suo duro guscio, che apre soltanto quando sta attaccando.",
+            "shield": "Quando richiude il guscio nessuno può aprirlo, neppure chi è dotato di una forza straordinaria.",
+            "brilliant-diamond": "Quando lotta si protegge tenendo la conchiglia chiusa e spara aculei per respingere i nemici.",
+            "shining-pearl": "Quando lotta si protegge tenendo la conchiglia chiusa e spara aculei per respingere i nemici.",
+            "scarlet": "Ai Cloyster che vivono in mari con forti correnti crescono grandi aculei appuntiti sul guscio.",
+            "violet": "Se attaccato, scaglia gli aculei di cui è dotato in rapida successione. Nessuno sa cosa si celi al suo interno."
+        }
+    },
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "generation": 1,
+    "height": {
+        "cloyster": "1,5 m"
+    },
+    "id": 91,
+    "name": "Cloyster",
+    "name_origin": "Il nome Cloyster può essere una combinazione di cloister , in cui si ritira o si apparta e oyster . Potrebbe anche essere una combinazione di clam  e oyster . ",
+    "origin": "Sembra essere basato su un bivalve, in particolare allo Spondylus, la testa è ovviamente basata su una perla nera. ",
+    "shape": "testa",
+    "specie": "Pokémon Bivalve",
+    "sprites": {
+        "cloyster": {
+            "default": "https://media.pokemoncentral.it/wiki/1/15/Homem0091.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d5/Homemsh0091.png"
+        }
+    },
+    "stats": {
+        "cloyster": {
+            "hp": 50,
+            "atk": 95,
+            "def": 180,
+            "spa": 85,
+            "spd": 45,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "cloyster": 525
+    },
+    "types": {
+        "cloyster": [
+            "Ghiaccio",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "cloyster": "132,5 kg"
+    }
+}

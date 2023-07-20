@@ -1,0 +1,112 @@
+{
+    "abilities": {
+        "forma-di-kyurem": {
+            "primary": "Pressione"
+        },
+        "kyurem-bianco": {
+            "primary": "Piroturbina"
+        },
+        "kyurem-nero": {
+            "primary": "Teravolt"
+        }
+    },
+    "curiosities": [
+        "È il Pokémon leggendario a Unima catturabile al livello più alto.",
+        "In quinta generazione Kyurem nelle sue due forme alternative era il Pokémon con le statistiche base più alte dopo Arceus, pari a 700. Successivamente è stato superato da varie altre forme alternative.",
+        "Kyurem si può trasformare solo in Kyurem Bianco o Kyurem Nero anche se nel gioco N afferma che in origine Kyurem, Zekrom e Reshiram erano un unico Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kyurem.mp3",
+    "dex_entries": {
+        "kyurem": {
+            "black": "Produce all'interno del suo corpo una potente e gelida energia. Ma l'aria fredda che esala lo ha congelato.",
+            "white": "Ha il potere di generare un freddo glaciale, ma ha finito per congelare il suo stesso corpo.",
+            "black-2": "Questo leggendario Pokémon dei ghiacci attende l'eroe che gli restituirà le sue vere sembianze con gli ideali o la verità.",
+            "white-2": "Questo leggendario Pokémon dei ghiacci attende l'eroe che gli restituirà le sue vere sembianze con gli ideali o la verità.",
+            "x": "Questo leggendario Pokémon dei ghiacci attende l'eroe che gli restituirà le sue vere sembianze con gli ideali o la verità.",
+            "y": "Produce all'interno del suo corpo una potente e gelida energia. Ma l'aria fredda che esala lo ha congelato.",
+            "omega-ruby": "Questo leggendario Pokémon dei ghiacci attende l'eroe che gli restituirà le sue vere sembianze con gli ideali o la verità.",
+            "alpha-sapphire": "Produce all'interno del suo corpo una potente e gelida energia. Ma l'aria fredda che esala lo ha congelato."
+        },
+        "forma-di-kyurem": {
+            "sword": "La sua forza supera quella di Reshiram e Zekrom, ma è sigillata dalla temperatura glaciale del suo corpo.",
+            "shield": "Sembra che abbia finito con il congelarsi producendo un soffio gelido al fine di stabilizzare la sua struttura cellulare."
+        },
+        "kyurem-bianco": {
+            "sword": "Assorbendo Reshiram, che possiede il suo stesso DNA, ha acquisito la capacità di usare l'energia del fuoco e del ghiaccio.",
+            "shield": "Ha profetizzato l'avvento di un mondo di verità per Pokémon ed esseri umani ed è deciso a fare di tutto perché ciò si avveri."
+        },
+        "kyurem-nero": {
+            "sword": "Si dice che lotti per la futura realizzazione di un mondo ideale per Pokémon ed esseri umani.",
+            "shield": "Assorbendo Zekrom, che possiede il suo stesso DNA, ha acquisito la capacità di usare l'energia dell'elettricità e del ghiaccio."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 5,
+    "height": {
+        "forma-di-kyurem": "3,0 m",
+        "kyurem-nero": "3.3 m",
+        "kyurem-bianco": "3.6 m"
+    },
+    "id": 646,
+    "name": "Kyurem",
+    "name_origin": "Il suo nome deriva dalla combinazione di 冷 rei  e 急冷 kyuurei  o 雪 yuki  con i kana invertiti e 無 mu . In alternativa potrebbe derivare da 零 rei , il rem finale potrebbe alludere al rom di Zekrom e al ram di Reshiram. ",
+    "origin": "Come Reshiram e Zekrom, anche Kyurem è basato sullo ying yang, per essere più specifici sul wuji della cosmologia taoista che simboleggia l'assenza dello ying e dello yang. Il suo design come con Zekrom sembra essere basato su un dinosauro carnivoro o un drago, in particolare le zampe posteriori che sono ispirate al Tirannosaurus Rex. Il tipo Ghiaccio di Kyurem può simboleggiare lo zero assoluto siccome ora lui è solo un guscio di ciò che rimane del Drago Originale. Le sue origini come extraterrestri arrivato con una cometa e il suo design roccioso sono ispirati alle comete, infatti esse sono composte in parte da ghiaccio. Siccome il suo nome deriva dal giapponese mu, potrebbe anche derivare dal koan mu. Potrebbe anche essere ispirato semplicemente ad un drago dei ghiacci visto il tipo. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Confine",
+    "sprites": {
+        "forma-di-kyurem": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem0646.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/44/Homemsh0646.png"
+        },
+        "kyurem-bianco": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5b/Homem0646B.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2e/Homemsh0646B.png"
+        },
+        "kyurem-nero": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b9/Homem0646N.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0646N.png"
+        }
+    },
+    "stats": {
+        "forma-di-kyurem": {
+            "hp": 125,
+            "atk": 130,
+            "def": 90,
+            "spa": 130,
+            "spd": 90,
+            "spe": 95
+        },
+        "kyurem-bianco": {
+            "hp": 125,
+            "atk": 120,
+            "def": 90,
+            "spa": 170,
+            "spd": 100,
+            "spe": 95
+        },
+        "kyurem-nero": {
+            "hp": 125,
+            "atk": 170,
+            "def": 100,
+            "spa": 120,
+            "spd": 90,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "forma-di-kyurem": 660,
+        "kyurem-bianco": 700,
+        "kyurem-nero": 700
+    },
+    "types": {
+        "kyurem": [
+            "Ghiaccio",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "kyurem": "325,0 kg"
+    }
+}

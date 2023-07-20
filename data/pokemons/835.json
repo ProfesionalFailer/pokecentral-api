@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "yamper": {
+            "primary": "Raccattapalle",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Yamper condivide la sua categoria con Growlithe, Lillipup, Rockruff e Fidough. Tutti e cinque sono conosciuti come Pokémon Cagnolino.",
+        "Yamper è stato rivelato l'11 giugno 2019 come Pokémon presente nella demo giocabile di Pokémon Spada e Scudo presso l'E3 2019. È stato in seguito annunciato ufficialmente l'8 luglio 2019 in un trailer nel canale YouTube ufficiale di Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/yamper.mp3",
+    "dex_entries": {
+        "yamper": {
+            "sword": "Quando corre produce elettricità dalla base della coda. A Galar è apprezzato soprattutto per l'aiuto che fornisce ai pastori nei pascoli.",
+            "shield": "È un golosone e aiuta gli uomini in cambio di ghiottonerie. Corre di qua e di là emettendo scintille da tutto il corpo."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 8,
+    "height": {
+        "yamper": "0,3 m"
+    },
+    "id": 835,
+    "name": "Yamper",
+    "name_origin": "Yamper potrebbe essere una combinazione di yap, guaire, ampere e scamper, correre via. Wanpachi potrebbe essere una combinazione di ワンワン wanwan, onomatopea per il latrato, e da パチパチ pachipachi, l'onomatopea dello scoppiettio. ",
+    "origin": "Yamper potrebbe essere basato su un Welsh Corgi, una razza di cane famosa per essere l'attuale animale domestico della regina del Regno Unito, il Paese su cui si basa la regione di Galar. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Cagnolino",
+    "sprites": {
+        "yamper": {
+            "default": "https://media.pokemoncentral.it/wiki/3/37/Homem0835.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homemsh0835.png"
+        }
+    },
+    "stats": {
+        "yamper": {
+            "hp": 59,
+            "atk": 45,
+            "def": 50,
+            "spa": 40,
+            "spd": 50,
+            "spe": 26
+        }
+    },
+    "stats_sum": {
+        "yamper": 270
+    },
+    "types": {
+        "yamper": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "yamper": "13,5 kg"
+    }
+}

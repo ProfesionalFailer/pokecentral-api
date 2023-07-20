@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "carkol": {
+            "primary": "Vapormacchina",
+            "secondary": "Corpodifuoco",
+            "hidden": "Fuocardore"
+        }
+    },
+    "curiosities": [
+        "Carkol condivide la sua categoria con Rolycoly, Coalossal e Torkoal. Tutti e quattro sono conosciuti come Pokémon Carbone."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/carkol.mp3",
+    "dex_entries": {
+        "carkol": {
+            "sword": "Gli antichi abitanti di Galar usavano il carbone prodotto da questo Pokémon all'interno del suo corpo per le loro necessità quotidiane.",
+            "shield": "Corre a 30 km/h facendo girare velocemente le zampe. Emette fiamme a 1.000 ºC.",
+            "scarlet": "Se si emoziona, la sua temperatura interna sale. Corre freneticamente qua e là sputando fiamme.",
+            "violet": "Genera catrame all’interno della montagna di carbone che porta sulla schiena, in modo da potersi muovere rapidamente senza farla crollare."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 8,
+    "height": {
+        "carkol": "1,1 m"
+    },
+    "id": 838,
+    "name": "Carkol",
+    "name_origin": "Carkol potrebbe essere una combinazione di car, macchina, cart, carrello, e coal, carbone. Potrebbe essere anche un gioco di parole con charcoal, carbonella. Toroggon potrebbe essere una combinazione di トロッコ torokko, carrello da miniera, e wagon, carro. ",
+    "origin": "Carkol potrebbe essere basato su un carrello da miniera pieno di carbone. ",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Carbone",
+    "sprites": {
+        "carkol": {
+            "default": "https://media.pokemoncentral.it/wiki/7/70/Homem0838.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0838.png"
+        }
+    },
+    "stats": {
+        "carkol": {
+            "hp": 80,
+            "atk": 60,
+            "def": 90,
+            "spa": 60,
+            "spd": 70,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "carkol": 410
+    },
+    "types": {
+        "carkol": [
+            "Roccia",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "carkol": "78,0 kg"
+    }
+}

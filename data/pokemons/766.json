@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "passimian": {
+            "primary": "Ricezione",
+            "hidden": "Agonismo"
+        }
+    },
+    "curiosities": [
+        "Passimian sembra essere la controparte di Oranguru dato che il primo si può trovare solo in Pokémon Sole e il secondo in Pokémon Luna. Inoltre possiedono un loro strumento vegetale caratteristico  e sono entrambi Pokémon simili a scimmie.",
+        "Pur non avendo nessun gruppo in comune, sia Passimian che Oranguru sono elencati nella stessa pagina del Pokédex di Pokémon Sole e Luna. Condividono questo tratto con Tauros e Miltank.",
+        "Curiosamente, pur essendo entrambi ispirati a delle scimmie, non fanno parte del Gruppo Uova Umanoide."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/passimian.mp3",
+    "dex_entries": {
+        "passimian": {
+            "sun": "Si muove in gruppi di circa 20 esemplari che, uniti da un fortissimo legame, sono pronti a tutto per aiutarsi a vicenda.",
+            "moon": "Sceglie le bacche più dure per sfruttare una tecnica di lotta tramandata attraverso i leader del gruppo di generazione in generazione.",
+            "ultra-sun": "Le foglie sulle spalle, attaccate con la saliva, formano un simbolo che identifica il gruppo di appartenenza di ogni Passimian.",
+            "ultra-moon": "Utilizza le bacche sia come arma che come cibo. Il Passimian che riesce a scagliarle più lontano diventa il capo del suo gruppo.",
+            "sword": "Seguono fedelmente gli ordini del capo e si aiutano sempre fra loro per cercare le bacche di cui sono ghiotti con un perfetto gioco di squadra.",
+            "shield": "Vivono in gruppi di circa 20 individui. Riescono a sopravvivere in ambienti naturali ostili svolgendo ognuno un ruolo specifico.",
+            "scarlet": "Lotta lanciando delle durissime bacche. Non ne vuole sapere di dar retta agli Allenatori incapaci di lanciare le Poké Ball.",
+            "violet": "Il capo sceglie dieci esemplari per andare a caccia. Le prede catturate vengono poi divise equamente con il resto del branco."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 7,
+    "height": {
+        "passimian": "2,0 m"
+    },
+    "id": 766,
+    "name": "Passimian",
+    "name_origin": "Passamian deriva da pass, passare, e simian, scimmiesco. Nagetsukesaru deriva da 投げつける nagetsukeru, lanciare, e 猿 saru, scimmia. ",
+    "origin": "Passimian sembra essere ispirato ad un lemure o ad un sifaka, e ad un giocatore di Rugby. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Giocosquadra",
+    "sprites": {
+        "passimian": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c0/Homem0766.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/22/Homemsh0766.png"
+        }
+    },
+    "stats": {
+        "passimian": {
+            "hp": 100,
+            "atk": 120,
+            "def": 90,
+            "spa": 40,
+            "spd": 60,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "passimian": 490
+    },
+    "types": {
+        "passimian": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "passimian": "82,8 kg"
+    }
+}

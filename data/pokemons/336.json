@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "seviper": {
+            "primary": "Muta",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "Nonostante il Pokédex dica che i due Pokémon siano acerrimi nemici, Seviper può accoppiarsi con Zangoose, poiché sono entrambi del Gruppo Uova Campo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/seviper.mp3",
+    "dex_entries": {
+        "seviper": {
+            "ruby": "Da generazioni SEVIPER è in lotta contro ZANGOOSE, suo nemico dichiarato. Le cicatrici sul suo corpo sono prove di scontri efferati. Questo POKéMON attacca usando la coda a forma di spada.",
+            "sapphire": "La coda a forma di spada di SEVIPER ha una duplice funzione: lacera il nemico e gli inietta un potente veleno. Il POKéMON non dimentica mai le lotte con il suo secolare nemico, ZANGOOSE.",
+            "emerald": "SEVIPER respinge gli attacchi dell'agile ZANGOOSE, suo acerrimo nemico, con la coda a forma di spada, che secerne anche un micidiale veleno.",
+            "firered": "Affila la coda simile a una spada nella dura roccia. Si nasconde nell'erba colpendo le prede con i denti velenosi.",
+            "leafgreen": "Affila la coda simile a una spada nella dura roccia. Si nasconde nell'erba colpendo le prede con i denti velenosi.",
+            "diamond": "È acerrimo nemico di ZANGOOSE. Prima della lotta, affila sulle rocce la sua coda simile ad una spada.",
+            "pearl": "È acerrimo nemico di ZANGOOSE. Prima della lotta, affila sulle rocce la sua coda simile ad una spada.",
+            "platinum": "È acerrimo nemico di ZANGOOSE. Prima della lotta, affila sulle rocce la sua coda simile ad una spada.",
+            "heartgold": "Respinge gli attacchi dell'agile ZANGOOSE con la coda affilatissima, che secerne un micidiale veleno.",
+            "soulsilver": "Respinge gli attacchi dell'agile ZANGOOSE con la coda affilatissima, che secerne un micidiale veleno.",
+            "black": "È acerrimo nemico di Zangoose. Prima della lotta, affila sulle rocce la sua coda simile ad una spada.",
+            "white": "È acerrimo nemico di Zangoose. Prima della lotta, affila sulle rocce la sua coda simile ad una spada.",
+            "black-2": "Affila di continuo la lama della sua coda sulle rocce per renderla taglientissima. È un acerrimo nemico di Zangoose.",
+            "white-2": "Affila di continuo la lama della sua coda sulle rocce per renderla taglientissima. È un acerrimo nemico di Zangoose.",
+            "x": "Respinge gli attacchi dell'agile Zangoose con la coda affilatissima, che secerne un micidiale veleno.",
+            "y": "Affila di continuo la lama della sua coda sulle rocce per renderla taglientissima. È un acerrimo nemico di Zangoose.",
+            "omega-ruby": "Da generazioni Seviper è in lotta contro Zangoose, suo nemico dichiarato. Le cicatrici sul suo corpo sono prove di scontri efferati. Questo POKéMON attacca usando la coda a forma di spada.",
+            "alpha-sapphire": "La coda a forma di spada di Seviper ha una duplice funzione: lacera il nemico e gli inietta un potente veleno. Il Pokémon non dimentica mai le lotte con il suo secolare nemico Zangoose.",
+            "brilliant-diamond": "Si batte contro Zangoose da generazioni. Prima della lotta, affila sulle rocce la sua coda simile a una spada.",
+            "shining-pearl": "Si batte contro Zangoose da generazioni. Prima della lotta, affila sulle rocce la sua coda simile a una spada.",
+            "scarlet": "Affila la coda simile a una lama utilizzando le rocce più dure. Striscia nascosto nell’erba alta, attaccando le prede con le sue zanne velenose.",
+            "violet": "Affila di continuo sulle rocce la sua coda a forma di lama, rendendola sempre più tagliente. È l’acerrimo nemico di Zangoose."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Drago"
+    ],
+    "generation": 3,
+    "height": {
+        "seviper": "2,7 m"
+    },
+    "id": 336,
+    "name": "Seviper",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi severe, violento, intenso, o dal verbo to sever, tagliare, staccare, e viper, vipera. ",
+    "origin": "Seviper è basato sugli habu, nome comune dato a varie specie di vipere velenose endemiche della regione del Kyushu, su cui Hoenn è basata. Il suo antagonismo con il Pokémon Zangoose deriva dal fatto che le manguste sono in grado di cacciare i serpenti. ",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Zannaserpe",
+    "sprites": {
+        "seviper": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1e/Homem0336.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/83/Homemsh0336.png"
+        }
+    },
+    "stats": {
+        "seviper": {
+            "hp": 73,
+            "atk": 100,
+            "def": 60,
+            "spa": 100,
+            "spd": 60,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "seviper": 458
+    },
+    "types": {
+        "seviper": [
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "seviper": "52,5 kg"
+    }
+}

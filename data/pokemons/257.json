@@ -1,0 +1,102 @@
+{
+    "abilities": {
+        "blaziken": {
+            "primary": "Aiutofuoco",
+            "hidden": "Acceleratore"
+        },
+        "megablaziken": {
+            "primary": "Acceleratore"
+        }
+    },
+    "curiosities": [
+        "In terza generazione Combusken e Blaziken avevano una combinazione di tipi unica. Tale combinazione era esclusiva dei Pokémon iniziali di tipo Fuoco di terza, quarta e quinta generazione, escluse le loro forme base, fino all'ottava generazione.",
+        "Inizialmente Blaziken e Latias erano un solo Pokémon, ma poi si è deciso di \"dividerli\".",
+        "Blaziken, Decidueye e Tapu Koko sono gli unici Pokémon non di tipo Volante ad imparare Baldeali .",
+        "Blaziken è l'unico Pokémon iniziale completamente evoluto ad apparire nell'anime prima del debutto della sua generazione.",
+        "MegaBlaziken possiede le statistiche base più alte di tutti i Pokémon di tipo Lotta non leggendari.",
+        "È stato il primo Pokémon iniziale di terza generazione a possedere una megaevoluzione, infatti tra quelli di Hoenn è l'unico la cui Megapietra è disponibile in Pokémon X e Y ."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/blaziken.mp3",
+    "dex_entries": {
+        "blaziken": {
+            "ruby": "In lotta BLAZIKEN emette fiamme micidiali coi suoi pugni, attaccando coraggiosamente il nemico. Più forte è il nemico, tanto più intenso è il fuoco proveniente dai pugni.",
+            "sapphire": "BLAZIKEN è dotato di zampe molto potenti in grado di radere al suolo un edificio di 30 piani in un colpo solo. I suo pugni fulminei lasciano il nemico ustionato e talvolta carbonizzato.",
+            "emerald": "BLAZIKEN si dedica alle arti marziali che usano pugni e calci. A cicli di molti anni, le sue piume bruciano, lasciando il posto a un nuovo morbido piumaggio.",
+            "firered": "Quando affronta un forte nemico lancia fiammate dai polsi. Le zampe poderose gli permettono di scavalcare interi palazzi.",
+            "leafgreen": "Quando affronta un forte nemico lancia fiammate dai polsi. Le zampe poderose gli permettono di scavalcare interi palazzi.",
+            "diamond": "Le fiamme che fuoriescono dai suoi polsi gli avvolgono i pugni. Quando colpisce il nemico, lo scotta.",
+            "pearl": "Le fiamme che fuoriescono dai suoi polsi gli avvolgono i pugni. Quando colpisce il nemico, lo scotta.",
+            "platinum": "Le fiamme che fuoriescono dai suoi polsi gli avvolgono i pugni. Quando colpisce il nemico, lo scotta.",
+            "heartgold": "Riesce a superare un edificio di 30 piani con un salto. I suoi pugni di fuoco inceneriscono il nemico.",
+            "soulsilver": "Riesce a superare un edificio di 30 piani con un salto. I suoi pugni di fuoco inceneriscono il nemico.",
+            "black": "Le fiamme che fuoriescono dai suoi polsi gli avvolgono i pugni. Quando colpisce il nemico, lo scotta.",
+            "white": "Le fiamme che fuoriescono dai suoi polsi gli avvolgono i pugni. Quando colpisce il nemico, lo scotta.",
+            "black-2": "Le fiamme che fuoriescono dai suoi polsi gli avvolgono i pugni. Quando colpisce il nemico, lo scotta.",
+            "white-2": "Le fiamme che fuoriescono dai suoi polsi gli avvolgono i pugni. Quando colpisce il nemico, lo scotta.",
+            "x": "Riesce a superare un edificio di 30 piani con un salto. I suoi pugni di fuoco inceneriscono il nemico.",
+            "y": "Quando affronta un forte nemico lancia fiammate dai polsi. Le zampe poderose gli permettono di scavalcare interi palazzi.",
+            "omega-ruby": "In lotta Blaziken emette fiamme micidiali coi suoi pugni, attaccando coraggiosamente il nemico. Più forte è il nemico, tanto più intenso è il fuoco proveniente dai pugni.",
+            "alpha-sapphire": "Blaziken è dotato di zampe molto potenti in grado di radere al suolo un edificio di 30 piani in un colpo solo. I suoi pugni fulminei lasciano il nemico ustionato e talvolta carbonizzato.",
+            "brilliant-diamond": "Le fiamme che fuoriescono dai suoi polsi gli avvolgono i pugni. Quando colpisce il nemico, lo scotta.",
+            "shining-pearl": "Le fiamme che fuoriescono dai suoi polsi gli avvolgono i pugni. Quando colpisce il nemico, lo scotta."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 3,
+    "height": {
+        "blaziken": "1,9 m"
+    },
+    "id": 257,
+    "name": "Blaziken",
+    "name_origin": "Il suo nome è un incrocio tra le parole inglesi blaze  e chicken .\nIl suo nome giapponese, バシャーモ Bursyamo, deriva dall'inglese burst  o burn  e da 軍鶏 Shamo. ",
+    "origin": "Blaziken è probabilmente basato sugli Shamo, razza di galli da combattimento giapponese riconoscibili dalle lunghe zampe e l'inusuale posa eretta. Potrebbe anche essere ispirato al Basan, gallo yōkai del folclore giapponese che si nutre di braci ardenti. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Vampe",
+    "sprites": {
+        "blaziken ": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c8/Homem0257.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/19/Homemsh0257.png"
+        },
+        "blaziken -f": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a2/Homef0257.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homefsh0257.png"
+        },
+        "megablaziken": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d3/Homem0257M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/92/Homemsh0257M.png"
+        }
+    },
+    "stats": {
+        "blaziken": {
+            "hp": 80,
+            "atk": 120,
+            "def": 70,
+            "spa": 110,
+            "spd": 70,
+            "spe": 80
+        },
+        "megablaziken": {
+            "hp": 80,
+            "atk": 160,
+            "def": 80,
+            "spa": 130,
+            "spd": 80,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "blaziken": 530,
+        "megablaziken": 630
+    },
+    "types": {
+        "blaziken": [
+            "Lotta",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "blaziken": "52,0 kg"
+    }
+}

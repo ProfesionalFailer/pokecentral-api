@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "komala": {
+            "primary": "Sonno Assoluto"
+        }
+    },
+    "curiosities": [
+        "Komala, grazie alla sua abilità esclusiva, è l'unico Pokémon completamente immune a qualsiasi problema di stato.\n\tAnche i Pokémon con l'abilità Magispecchio non possono essere colpiti da mosse di stato che causano problemi di stato, possono però subire i problemi di stato da mosse che infliggono danni a causa di eventuali effetti aggiuntivi.",
+        "Anche i Pokémon con l'abilità Magispecchio non possono essere colpiti da mosse di stato che causano problemi di stato, possono però subire i problemi di stato da mosse che infliggono danni a causa di eventuali effetti aggiuntivi.",
+        "Komala condivide la sua categoria con Musharna. Sono entrambi noti come Pokémon Dormiveglia."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/komala.mp3",
+    "dex_entries": {
+        "komala": {
+            "sun": "Trascorre la sua intera esistenza dormendo. Pare che le sue azioni siano determinate da quello che sta sognando.",
+            "moon": "Il tronco che ha con sé è un dono dei genitori ricevuto alla nascita. Quando è molto affezionato al proprio Allenatore, si aggrappa al suo braccio.",
+            "ultra-sun": "Dorme ininterrottamente fin dalla nascita. Quando il suo sonno è particolarmente profondo rimane completamente immobile.",
+            "ultra-moon": "Poiché le foglie di cui si nutre contengono una sostanza soporifera, Komala trascorre la sua intera vita dormendo.",
+            "scarlet": "Trascorre la sua intera vita addormentato. Nelle foglie di cui si nutre è presente un veleno che solo questo Pokémon riesce a decomporre.",
+            "violet": "Diluendo la saliva di Komala si può realizzare un potente anestetico, utilizzato in tempi antichi per le operazioni chirurgiche."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 7,
+    "height": {
+        "komala": "0,4 m"
+    },
+    "id": 775,
+    "name": "Komala",
+    "name_origin": "Komala potrebbe essere una combinazione di coma e koala. Nekkoara potrebbe essere una combinazione di 根っ子 nekko, radice, 寝 ne, sonno, 子 ko, cucciolo, e koala. ",
+    "origin": "Komala è ispirato ad un koala. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Dormiveglia",
+    "sprites": {
+        "komala": {
+            "default": "https://media.pokemoncentral.it/wiki/4/47/Homem0775.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0775.png"
+        }
+    },
+    "stats": {
+        "komala": {
+            "hp": 65,
+            "atk": 115,
+            "def": 65,
+            "spa": 75,
+            "spd": 95,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "komala": 480
+    },
+    "types": {
+        "komala": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "komala": "19,9 kg"
+    }
+}

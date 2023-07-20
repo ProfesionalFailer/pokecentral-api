@@ -1,0 +1,95 @@
+{
+    "abilities": {
+        "finneon": {
+            "primary": "Nuotovelox",
+            "secondary": "Acquascolo",
+            "hidden": "Idrovelo"
+        }
+    },
+    "curiosities": [
+        "Articoli incompleti",
+        "Pokémon",
+        "Pokémon di quarta generazione",
+        "Pokémon di tipo Acqua",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Irregolare",
+        "Pokémon di colore Blu",
+        "Pokémon dalla sagoma n. 03",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Acqua 2",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 330",
+        "Pokémon con un totale massimo di 19 stelle prestazione"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/finneon.mp3",
+    "dex_entries": {
+        "finneon": {
+            "diamond": "Dopo una lunga esposizione al sole, i motivi sulle sue pinne brillano vividamente al calar dell’oscurità.",
+            "pearl": "Il modo in cui agita le sue due pinne nuotando gli è valso il soprannome di “BEAUTIFLY dei mari”.",
+            "platinum": "La linea che contorna il suo corpo immagazzina la luce solare. Di notte si illumina di una luce splendente.",
+            "heartgold": "Nuota battendo le due pinne caudali come fossero ali di BEAUTIFLY. Di notte i disegni sulle pinne brillano.",
+            "soulsilver": "Nuota battendo le due pinne caudali come fossero ali di BEAUTIFLY. Di notte i disegni sulle pinne brillano.",
+            "black": "La linea che contorna il suo corpo immagazzina la luce solare. Di notte si illumina di una luce splendente.",
+            "white": "La linea che contorna il suo corpo immagazzina la luce solare. Di notte si illumina di una luce splendente.",
+            "black-2": "La linea che contorna il suo corpo immagazzina la luce solare. Di notte si illumina di una luce splendente.",
+            "white-2": "La linea che contorna il suo corpo immagazzina la luce solare. Di notte si illumina di una luce splendente.",
+            "x": "La linea che contorna il suo corpo immagazzina la luce solare. Di notte si illumina di una luce splendente.",
+            "y": "Dopo una lunga esposizione al sole, i motivi sulle sue pinne brillano vividamente al calar dell'oscurità.",
+            "omega-ruby": "La linea che contorna il suo corpo immagazzina la luce solare. Di notte si illumina di una luce splendente.",
+            "alpha-sapphire": "Dopo una lunga esposizione al sole, i motivi sulle sue pinne brillano vividamente al calar dell'oscurità.",
+            "sun": "I motivi rosa sul suo corpo brillano dopo aver immagazzinato la luce solare. Pare che questa sia una forma di mimetismo.",
+            "moon": "Le pinne caudali gli permettono di saltare fuori dall'acqua. Spesso Wingull approfitta di questi momenti per acchiapparlo al volo.",
+            "ultra-sun": "I motivi rosa sul suo corpo brillano di notte. Poiché è molto amato dai sub, alcuni centri turistici li attirano con il cibo.",
+            "ultra-moon": "Attira la preda con le sue brillanti pinne. Di giorno nuota vicino alla superficie del mare, mentre di notte si sposta in profondità.",
+            "brilliant-diamond": "Al calare dell'oscurità, dopo una lunga esposizione al sole, i motivi sulle sue pinne caudali brillano intensamente.",
+            "shining-pearl": "Il modo in cui agita le sue due pinne caudali quando nuota gli è valso il soprannome di \"Beautifly dei mari\".",
+            "legends-arceus": "Nuota elegantemente agitando le lunghe pinne caudali tinte di rosa. Queste sue sembianze gli hanno valso l'appellativo di \"pesce vestito a festa\".",
+            "scarlet": "La linea che contorna il suo corpo immagazzina la luce solare. Di notte si illumina di una luce splendente.",
+            "violet": "I motivi rosa sul suo corpo brillano dopo aver immagazzinato la luce solare. Pare che questa sia una forma di mimetismo."
+        }
+    },
+    "egg_groups": [
+        "Acqua 2"
+    ],
+    "generation": 4,
+    "height": {
+        "finneon": "0,4 m"
+    },
+    "id": 456,
+    "name": "Finneon",
+    "name_origin": "Deriva dalle parole fin  e neon, ricordando oltre che il brillare dei motivi sulle pinne caricati di luce solare, il pesce neon. ",
+    "origin": "Potrebbe essere basato su un pesce farfalla, come il pesce farfalla africano. Ricorda molto il neon cardinale o il tetra neon. La sua coda tuttavia ha la sembianza di ali di una vera e propria farfalla. ",
+    "shape": "pinne",
+    "specie": "Pokémon Pescealato",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/4/42/Homem0456.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0456.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/9/91/Homef0456.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b8/Homefsh0456.png"
+        }
+    },
+    "stats": {
+        "finneon": {
+            "hp": 49,
+            "atk": 49,
+            "def": 56,
+            "spa": 49,
+            "spd": 61,
+            "spe": 66
+        }
+    },
+    "stats_sum": {
+        "finneon": 330
+    },
+    "types": {
+        "finneon": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "finneon": "7,0 kg"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "ledyba": {
+            "primary": "Aiutinsetto",
+            "secondary": "Sveglialampo",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Ledyba può essere visto come la controparte di Spinarak. Sono entrambi dei Pokémon di tipo Coleottero introdotti in seconda generazione. Ledyba è esclusivo di Pokémon Argento e di Pokémon Argento SoulSilver mentre Spinarak di Pokémon Oro e Pokémon Oro HeartGold. Nei suddetti giochi, Ledyba è un Pokémon mattutino, mentre Spinarak è un Pokémon notturno. In aggiunta, la loro rarità è invertita, con Ledyba più comune in Pokémon Verde Foglia mentre Spinarak in Pokémon Rosso Fuoco. Entrambi inoltre sono stati aggiunti alla Zona Safari di Pokémon Smeraldo, ed entrambi possono essere ottenuti solo allevando le loro forme evolute in Pokémon Diamante e Perla, Platino, Nero e Bianco. Inoltre, in Pokémon Bianco 2, nel Percorso 22 è possibile trovare la sua evoluzione nelle comparse massicce, mentre in Pokémon Nero 2 l'evoluzione di Spinarak."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ledyba.mp3",
+    "dex_entries": {
+        "ledyba": {
+            "gold": "È timidissimo. Ha sempre paura di muoversi da solo. Ma in gruppo sa diventare molto attivo.",
+            "silver": "Quando inizia a far freddo, i LEDYBA si riuniscono da ogni luogo per scaldarsi tra loro.",
+            "crystal": "Timidi, stanno sempre uniti. La traccia del liquido che esce dalle zampe mostra dove si trovano.",
+            "ruby": "Dalla giuntura delle zampe col corpo LEDYBA secerne un fluido aromatico usato per comunicare con i simili. Questo POKéMON comunica le sue sensazioni alterando l'odore del fluido.",
+            "sapphire": "Dalla giuntura delle zampe col corpo LEDYBA secerne un fluido aromatico usato per comunicare con i simili. Questo POKéMON comunica le sue sensazioni alterando l'odore del fluido.",
+            "emerald": "Dalla giuntura delle zampe col corpo LEDYBA secerne un fluido aromatico con cui comunica le sue sensazioni ai suoi simili alterandone l'odore.",
+            "firered": "Quando inizia a far freddo, i LEDYBA si riuniscono da ogni luogo per scaldarsi tra loro.",
+            "leafgreen": "È timidissimo. Ha sempre paura di muoversi da solo. Ma in gruppo sa diventare molto attivo.",
+            "diamond": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "pearl": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "platinum": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "heartgold": "Timidissimo. Ha sempre paura di muoversi da solo. Ma in gruppo sa diventare molto attivo.",
+            "soulsilver": "Quando inizia a far freddo, i LEDYBA si riuniscono da ogni luogo per scaldarsi tra loro.",
+            "black": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "white": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "black-2": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "white-2": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "x": "Quando inizia a far freddo, i Ledyba si riuniscono da ogni luogo per scaldarsi tra loro.",
+            "y": "Timidi, stanno sempre uniti. La traccia del liquido che esce dalle zampe mostra dove si trovano.",
+            "omega-ruby": "Dalla giuntura delle zampe col corpo Ledyba secerne un fluido aromatico usato per comunicare con i simili. Questo Pokémon comunica le sue sensazioni alterando l'odore del fluido.",
+            "alpha-sapphire": "Dalla giuntura delle zampe col corpo Ledyba secerne un fluido aromatico usato per comunicare con i simili. Questo Pokémon comunica le sue sensazioni alterando l'odore del fluido.",
+            "sun": "È molto timido e senza il suo gruppo si sente perso. Il motivo sul suo dorso è leggermente diverso in ciascun esemplare.",
+            "moon": "Secerne un liquido aromatico per comunicare con i suoi simili. Quando è arrabbiato, l'odore si fa pungente.",
+            "ultra-sun": "Nel clima temperato di Alola, questo Pokémon estremamente sensibile al freddo è arzillo e pieno di vita.",
+            "ultra-moon": "È un Pokémon incredibilmente timido. Protegge il nido usando Riflesso assieme ai suoi simili."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 2,
+    "height": {
+        "ledyba": "1,0 m"
+    },
+    "id": 165,
+    "name": "Ledyba",
+    "name_origin": "Ledyba può essere una corruzione di \"ladybug\"  o un accorciamento corrotto di \"ladybird\". ",
+    "origin": "Ledyba si basa su un Coccinellidae. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Pentastra",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0165.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f2/Homemsh0165.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/7/78/Homef0165.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/92/Homefsh0165.png"
+        }
+    },
+    "stats": {
+        "ledyba": {
+            "hp": 40,
+            "atk": 20,
+            "def": 30,
+            "spa": 40,
+            "spd": 80,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "ledyba": 265
+    },
+    "types": {
+        "ledyba": [
+            "Volante",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "ledyba": "10,8 kg"
+    }
+}

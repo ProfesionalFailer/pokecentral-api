@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "sunflora": {
+            "primary": "Clorofilla",
+            "secondary": "Solarpotere",
+            "hidden": "Sveglialampo"
+        }
+    },
+    "curiosities": [
+        "In terza generazione, Sunflora è l'unico tipo Erba che può imparare Semitraglia aumentando di livello.",
+        "Sunflora condivide lo stesso nome di specie con Espeon e Volcarona. Sono tutti conosciuti come Pokémon Sole.\n\tPur essendo un Pokémon classificato come Pokémon Sole, Sunflora non poteva imparare Giornodisole salendo di livello, ma solo tramite l'apprendimento come mossa Uovo. Tuttavia, da Pokémon Nero e Bianco, Sunflora può imparare per livello questa mossa.",
+        "Pur essendo un Pokémon classificato come Pokémon Sole, Sunflora non poteva imparare Giornodisole salendo di livello, ma solo tramite l'apprendimento come mossa Uovo. Tuttavia, da Pokémon Nero e Bianco, Sunflora può imparare per livello questa mossa.",
+        "Sunflora è il travestimento più frequentemente utilizzato da Meowth nell'anime."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sunflora.mp3",
+    "dex_entries": {
+        "sunflora": {
+            "gold": "Converte la luce solare in energia. Nell'oscurità, dopo il tramonto, richiude i petali e si fa quieto.",
+            "silver": "Di giorno si muove freneticamente, ma quando cala il sole si ferma e interrompe ogni attività.",
+            "crystal": "Con l'avvicinarsi della bella stagione, i suoi petali si fanno più vivi e splendenti.",
+            "ruby": "SUNFLORA converte l'energia solare in nutrimento. È attivo durante il giorno quando fa caldo. Tuttavia, appena il sole tramonta non fa più il minimo movimento.",
+            "sapphire": "SUNFLORA converte l'energia solare in nutrimento. È attivo durante il giorno quando fa caldo. Tuttavia, appena il sole tramonta non fa più il minimo movimento.",
+            "emerald": "SUNFLORA converte l'energia solare in nutrimento. È attivo durante il giorno quando fa caldo, ma appena il sole tramonta non fa più il minimo movimento.",
+            "firered": "Di giorno si muove freneticamente, ma quando cala il sole si ferma e interrompe ogni attività.",
+            "leafgreen": "Converte la luce solare in energia. Dopo il tramonto, nell'oscurità, richiude i petali, acquietandosi.",
+            "diamond": "Trae energia dalla luce del sole e si muove di continuo per cercare di assorbirne sempre di più.",
+            "pearl": "Trae energia dalla luce del sole e si muove di continuo per cercare di assorbirne sempre di più.",
+            "platinum": "Trae energia dalla luce del sole e si muove di continuo per cercare di assorbirne sempre di più.",
+            "heartgold": "Converte la luce solare in energia. Nell'oscurità, dopo il tramonto, richiude i petali e si fa quieto.",
+            "soulsilver": "Di giorno si muove freneticamente, ma quando cala il sole si ferma e interrompe ogni attività.",
+            "black": "Trae energia dalla luce del sole e si muove di continuo per cercare di assorbirne sempre di più.",
+            "white": "Trae energia dalla luce del sole e si muove di continuo per cercare di assorbirne sempre di più.",
+            "black-2": "Guarda sempre in direzione del sole per raccogliere i suoi raggi e trasformarli in energia.",
+            "white-2": "Guarda sempre in direzione del sole per raccogliere i suoi raggi e trasformarli in energia.",
+            "x": "Con l'avvicinarsi della bella stagione, i suoi petali si fanno più vivi e splendenti.",
+            "y": "Trae energia dalla luce del sole e si muove di continuo per cercare di assorbirne sempre di più.",
+            "omega-ruby": "Sunflora converte l'energia solare in nutrimento. È attivo durante il giorno quando fa caldo. Tuttavia, appena il sole tramonta non fa più il minimo movimento.",
+            "alpha-sapphire": "Sunflora converte l'energia solare in nutrimento. È attivo durante il giorno quando fa caldo. Tuttavia, appena il sole tramonta non fa più il minimo movimento.",
+            "scarlet": "Di giorno si muove freneticamente, ma quando cala il sole si ferma e interrompe ogni attività.",
+            "violet": "Durante il giorno è sempre rivolto verso il sole per assorbirne i raggi e trasformarli in energia."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 2,
+    "height": {
+        "sunflora": "0,8 m"
+    },
+    "id": 192,
+    "name": "Sunflora",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi sunflower  e flora.\nIl suo nome giapponese, キマワリ, Kimawari, potrebbe derivare da 向日葵 himawari . ",
+    "origin": "Si basa su un girasole. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Sole",
+    "sprites": {
+        "sunflora": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2b/Homem0192.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0192.png"
+        }
+    },
+    "stats": {
+        "sunflora": {
+            "hp": 75,
+            "atk": 75,
+            "def": 55,
+            "spa": 105,
+            "spd": 85,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "sunflora": 425
+    },
+    "types": {
+        "sunflora": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "sunflora": "8,5 kg"
+    }
+}

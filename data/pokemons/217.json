@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "ursaring": {
+            "primary": "Dentistretti",
+            "secondary": "Piedisvelti",
+            "hidden": "Agitazione"
+        }
+    },
+    "curiosities": [
+        "Il numero di artigli di Ursaring è cambiato col tempo. Nel suo artwork originale, ha quattro artigli visibili; tuttavia, nel suo artwork di Pokémon Oro HeartGold e Argento SoulSilver, ha cinque artigli. Nei giochi di seconda generazione, ha tre artigli. Da Pokémon Rubino e Zaffiro fino a Pokémon Platino, ha quattro artigli. Da Oro HeartGold e Argento SoulSilver, ha cinque artigli nei suoi sprite nelle lotte. Nell'anime ha sempre avuto cinque artigli."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ursaring.mp3",
+    "dex_entries": {
+        "ursaring": {
+            "gold": "È un buon scalatore, ma preferisce raccogliere BACCHE scrollando gli alberi con le zampe anteriori.",
+            "silver": "Con la sua abilità di distinguere qualsiasi odore, trova cibo nel terreno anche a grandi profondità.",
+            "crystal": "Nonostante la stazza, è abile ad arrampicarsi in cima agli alberi, dove mangia e dorme.",
+            "ruby": "Si dice che nelle foreste in cui vive URSARING ci siano molti corsi d'acqua e alberi giganti dove questo POKéMON nasconde le proprie scorte di cibo. Ogni giorno si aggira nella foresta alla ricerca di alimenti.",
+            "sapphire": "Si dice che nelle foreste in cui vive URSARING ci siano molti corsi d'acqua e alberi giganti dove questo POKéMON nasconde le proprie scorte di cibo. Ogni giorno si aggira nella foresta alla ricerca di alimenti.",
+            "emerald": "Si dice che URSARING viva in foreste con molti corsi d'acqua e alberi giganti dove nasconde le scorte di cibo. Si aggira sempre nella foresta cercando alimenti.",
+            "firered": "Grazie al suo fenomenale olfatto, trova cibo nel terreno anche a grandi profondità.",
+            "leafgreen": "È un buon scalatore, ma preferisce raccogliere BACCHE scrollando gli alberi con le zampe anteriori.",
+            "diamond": "Nel suo territorio, lascia graffi sugli alberi che hanno bacche o frutti deliziosi.",
+            "pearl": "Nel suo territorio, lascia graffi sugli alberi che hanno bacche o frutti deliziosi.",
+            "platinum": "Nel suo territorio, lascia graffi sugli alberi che hanno bacche o frutti deliziosi.",
+            "heartgold": "Anche se è un buono scalatore, raccoglie le bacche scrollando gli alberi con le zampe anteriori.",
+            "soulsilver": "Con la sua capacità di distinguere qualsiasi odore, trova cibo nel terreno anche a grandi profondità.",
+            "black": "Nel suo territorio, lascia graffi sugli alberi che hanno bacche o frutti deliziosi.",
+            "white": "Nel suo territorio, lascia graffi sugli alberi che hanno bacche o frutti deliziosi.",
+            "black-2": "Nel suo territorio, lascia graffi sugli alberi che hanno bacche o frutti deliziosi.",
+            "white-2": "Nel suo territorio, lascia graffi sugli alberi che hanno bacche o frutti deliziosi.",
+            "x": "Con la sua capacità di distinguere qualsiasi odore, trova cibo nel terreno anche a grandi profondità.",
+            "y": "Nonostante la stazza, è abile ad arrampicarsi in cima agli alberi, dove mangia e dorme.",
+            "omega-ruby": "Si dice che nelle foreste in cui vive Ursaring ci siano molti corsi d'acqua e alberi giganti dove questo Pokémon nasconde le proprie scorte di cibo. Ogni giorno si aggira nella foresta alla ricerca di alimenti.",
+            "alpha-sapphire": "Si dice che nelle foreste in cui vive Ursaring ci siano molti corsi d'acqua e alberi giganti dove questo Pokémon nasconde le proprie scorte di cibo. Ogni giorno si aggira nella foresta alla ricerca di alimenti.",
+            "brilliant-diamond": "Nel suo territorio, lascia graffi sugli alberi che hanno bacche o frutti deliziosi.",
+            "shining-pearl": "Nel suo territorio, lascia graffi sugli alberi che hanno bacche o frutti deliziosi.",
+            "legends-arceus": "Durante la stagione fredda, vaga per le piane e i monti di Hisui in cerca delle bacche predilette. L'insaziabile voracità può renderlo iracondo e assai feroce.",
+            "scarlet": "Ha un’aria temeraria, ma quando lecca il miele di cui è ghiotto gli si dipinge un sorriso sul muso.",
+            "violet": "Si arrampica abilmente sugli alberi. Se quando è in cerca di bacche si imbatte in un Primeape, la lite è assicurata."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 2,
+    "height": {
+        "ursaring": "1,8 m"
+    },
+    "id": 217,
+    "name": "Ursaring",
+    "name_origin": "Deriva dalla parola latina ursa, orso, con la parola inglese ring, anello. ",
+    "origin": "Ursaring è ispirato ad un orso tibetano, conosciuto anche con il nome di orso della luna. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Letargo",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5e/Homem0217.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/aa/Homemsh0217.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bd/Homef0217.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/76/Homefsh0217.png"
+        }
+    },
+    "stats": {
+        "ursaring": {
+            "hp": 90,
+            "atk": 130,
+            "def": 75,
+            "spa": 75,
+            "spd": 75,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "ursaring": 500
+    },
+    "types": {
+        "ursaring": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "ursaring": "125,8 kg"
+    }
+}

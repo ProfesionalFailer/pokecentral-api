@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "tangela": {
+            "primary": "Clorofilla",
+            "secondary": "Fogliamanto",
+            "hidden": "Rigenergia"
+        }
+    },
+    "curiosities": [
+        "Il nome originario di Tangela era \"Meduza\".",
+        "Tangela è il primo Pokémon di tipo Erba puro nel Pokédex Nazionale e l'unico di prima generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tangela.mp3",
+    "dex_entries": {
+        "tangela": {
+            "red": "Ha il corpo tutto coperto di larghe liane, simili a alghe marine, che ondeggiano quando cammina.",
+            "blue": "Ha il corpo tutto coperto di larghe liane, simili a alghe marine, che ondeggiano quando cammina.",
+            "yellow": "Il suo aspetto è nascosto sotto una massa di fitte liane blu che non smettono mai di crescere.",
+            "gold": "Le liane che coprono il suo corpo dondolano in continuazione. Ciò innervosisce molto i nemici.",
+            "silver": "Intrappola nelle liane qualsiasi cosa che si muova. Il loro lieve movimento può fare il solletico.",
+            "crystal": "Nella lotta agita continuamente le liane che gli ricoprono il corpo per innervosire l'avversario.",
+            "ruby": "Se afferrate, le liane di TANGELA si staccano con facilità, ma in modo indolore, consentendo così una pratica scappatoia. Le liane cadute vengono sostituite da quelle nuove il giorno dopo.",
+            "sapphire": "Se afferrate, le liane di TANGELA si staccano con facilità, ma in modo indolore, consentendo così una pratica scappatoia. Le liane cadute vengono sostituite da quelle nuove il giorno dopo.",
+            "emerald": "Se afferrate, le liane di TANGELA si staccano con facilità e in modo indolore, consentendogli di scappare facilmente. Le liane crescono di nuovo il giorno dopo.",
+            "firered": "Si nasconde sotto un groviglio di liane blu, avviluppando tutto ciò con cui viene a contatto.",
+            "leafgreen": "Ha il corpo tutto coperto di grosse liane, simili ad alghe marine, che ondeggiano quando cammina.",
+            "diamond": "È ricoperto di liane blu. Nessuno ha mai visto il suo volto, poiché è celato dal groviglio di liane.",
+            "pearl": "È ricoperto di liane blu. Nessuno ha mai visto il suo volto, poiché è celato dal groviglio di liane.",
+            "platinum": "Le liane blu che nascondono il suo corpo sono rivestite di peli sottili. Si dice che soffra il solletico.",
+            "heartgold": "Le liane che coprono il suo corpo dondolano in continuazione. Ciò innervosisce molto i nemici.",
+            "soulsilver": "Intrappola nelle liane qualsiasi cosa si muova. Il loro lieve movimento può fare il solletico.",
+            "black": "Le liane blu che nascondono il suo corpo sono rivestite di peli sottili. Si dice che soffra il solletico.",
+            "white": "Le liane blu che nascondono il suo corpo sono rivestite di peli sottili. Si dice che soffra il solletico.",
+            "black-2": "Una moltitudine di liane brulicanti, in crescita perenne, ne ricopre il corpo celandone la vera forma.",
+            "white-2": "Una moltitudine di liane brulicanti, in crescita perenne, ne ricopre il corpo celandone la vera forma.",
+            "x": "Una moltitudine di liane brulicanti, in crescita perenne, ne ricopre il corpo celandone la vera forma.",
+            "y": "Intrappola nelle liane qualsiasi cosa si muova. Il lieve movimento di queste può fare il solletico.",
+            "omega-ruby": "Se afferrate, le liane di Tangela si staccano con facilità, ma in modo indolore, consentendo così una pratica scappatoia. Le liane cadute vengono sostituite da quelle nuove il giorno dopo.",
+            "alpha-sapphire": "Se afferrate, le liane di Tangela si staccano con facilità, ma in modo indolore, consentendo così una pratica scappatoia. Le liane cadute vengono sostituite da quelle nuove il giorno dopo.",
+            "lets-go-pikachu": "È coperto da una massa di liane blu che non smettono mai di crescere. Nessuno sa quale sia il suo vero aspetto.",
+            "lets-go-eevee": "È coperto da una massa di liane blu che non smettono mai di crescere. Nessuno sa quale sia il suo vero aspetto.",
+            "sword": "Non è ancora chiaro quale sia il vero aspetto celato dietro alle sue liane, che crescono all'infinito anche dopo essere state recise.",
+            "shield": "Le sue liane emanano un odore peculiare. In alcune zone di Galar vengono usate come erbe aromatiche.",
+            "legends-arceus": "Cela le membra dietro una fitta trama di liane cerulee. Refrigeranti se masticate, queste liane vengono adoprate per insaporire pietanze."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 1,
+    "height": {
+        "tangela": "1,0 m"
+    },
+    "id": 114,
+    "name": "Tangela",
+    "name_origin": "Tangela può essere una combinazione di \"tangle\", groviglio, e \"Medusa\". ",
+    "origin": "Tangela è probabilmente sulla base di Medusa, la Gorgone della mitologia greca, che aveva una testa di serpenti e tramutava ogni creatura che la guardava in pietra o semplicemente si basa su un cespuglio di liane. ",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Liana",
+    "sprites": {
+        "tangela": {
+            "default": "https://media.pokemoncentral.it/wiki/0/00/Homem0114.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0114.png"
+        }
+    },
+    "stats": {
+        "tangela": {
+            "hp": 65,
+            "atk": 55,
+            "def": 115,
+            "spa": 100,
+            "spd": 40,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "tangela": 435
+    },
+    "types": {
+        "tangela": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "tangela": "35,0 kg"
+    }
+}

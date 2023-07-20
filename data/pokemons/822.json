@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "corvisquire": {
+            "primary": "Sguardofermo",
+            "secondary": "Agitazione",
+            "hidden": "Pettinfuori"
+        }
+    },
+    "curiosities": [
+        "Rookidee e Corvisquire sono gli unici Pokémon di tipo Volante puro assieme a Tornadus .\n\tCiò li rende gli unici uccelli regionali che non sono di tipo Normale/Volante in nessuno stadio evolutivo.",
+        "Ciò li rende gli unici uccelli regionali che non sono di tipo Normale/Volante in nessuno stadio evolutivo.",
+        "Come da lui stesso confermato, Hitoshi Ariga s'è occupato della progettazione di Rookidee, Corvisquire e Corviknight."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/corvisquire.mp3",
+    "dex_entries": {
+        "corvisquire": {
+            "sword": "È in grado di adoperare oggetti. Ad esempio, sa afferrare e scagliare pietre con le zampe o avvolgere il nemico con una corda.",
+            "shield": "Avendo affrontato lotte molto ardue, ha imparato a valutare con precisione la forza del nemico.",
+            "scarlet": "Si dice che il suo elevato intelletto sia dovuto alle dimensioni del suo cervello, più grosso rispetto a quello degli altri Pokémon alati.",
+            "violet": "È un Pokémon molto intelligente: può imparare facilmente a utilizzare vari oggetti con il becco o con le zampe."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 8,
+    "height": {
+        "corvisquire": "0,8 m"
+    },
+    "id": 822,
+    "name": "Corvisquire",
+    "name_origin": "Corvisquire potrebbe essere una combinazione di corvid, corvide, e squire, scudiero. Aogarasu potrebbe essere una combinazione di 青 ao, blu, 青雀 aogara, cinciarella, e 烏 karasu, corvo o corvo imperiale. ",
+    "origin": "Corvisquire potrebbe essere basato su un corvo. Potrebbe essere ispirato anche su un corvo della Nuova Caledonia che è riconosciuto per la sua intelligenza nel creare e usare strumenti. La sua colorazione ricorda la ghiandaia di Steller. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Corvo",
+    "sprites": {
+        "corvisquire": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f7/Homem0822.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0c/Homemsh0822.png"
+        }
+    },
+    "stats": {
+        "corvisquire": {
+            "hp": 68,
+            "atk": 67,
+            "def": 55,
+            "spa": 43,
+            "spd": 55,
+            "spe": 77
+        }
+    },
+    "stats_sum": {
+        "corvisquire": 365
+    },
+    "types": {
+        "corvisquire": [
+            "Volante"
+        ]
+    },
+    "weight": {
+        "corvisquire": "16,0 kg"
+    }
+}

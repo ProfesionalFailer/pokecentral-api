@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "cleffa": {
+            "primary": "Incantevole",
+            "secondary": "Magicscudo",
+            "hidden": "Amicoscudo"
+        }
+    },
+    "curiosities": [
+        "Cleffa condivide il nome della categoria con Staryu. Sono entrambi noti come Pokémon Stella.",
+        "Cleffa è l'unico Pokémon con un totale di statistiche base pari a 218.",
+        "Cleffa condivide con Pawmi il record per il nome giapponese più corto tra tutti i Pokémon , essendo scritto solo con due kanji.",
+        "Cleffa, insieme a Igglybuff, è il Pokémon più lento di tipo Folletto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cleffa.mp3",
+    "dex_entries": {
+        "cleffa": {
+            "gold": "Per il suo aspetto bizzarro, a forma di stella, c'è chi crede che provenga da una meteora.",
+            "silver": "Quando molte meteore illuminano il cielo notturno, stranamente si avvistano molti più CLEFFA.",
+            "crystal": "Se si individua il punto d'impatto di un meteorite, nelle vicinanze si troverà certamente questo POKéMON.",
+            "ruby": "In notti con molte stelle cadenti, è facile vedere molti CLEFFA danzare in cerchio. Ballano per tutta la notte fermandosi soltanto alle prime luci dell'alba per dissetarsi bevendo le gocce di rugiada.",
+            "sapphire": "In notti con molte stelle cadenti, è facile vedere molti CLEFFA danzare in cerchio. Ballano per tutta la notte fermandosi soltanto alle prime luci dell'alba per dissetarsi bevendo le gocce di rugiada.",
+            "emerald": "Nelle notti con tante stelle cadenti, si vedono molti CLEFFA danzare in cerchio. Si fermano solo alle prime luci dell'alba per dissetarsi con le gocce di rugiada.",
+            "firered": "Quando molte meteore illuminano il cielo notturno, stranamente si avvistano molti più CLEFFA.",
+            "leafgreen": "Per il suo aspetto bizzarro, a forma di stella, c'è chi crede che provenga da una meteora.",
+            "diamond": "La sua sagoma ricorda quella di una stella. Si ritiene che giunga a cavallo di stelle cadenti.",
+            "pearl": "Se ne vedono molti nelle notti in cui il cielo è pieno di stelle cadenti. Spariscono all'alba.",
+            "platinum": "È facile avvistarlo nelle notti con tante stelle cadenti. Si dice che arrivi cavalcandone una.",
+            "heartgold": "Per il suo aspetto bizzarro, a forma di stella, c’è chi crede che provenga da una meteora.",
+            "soulsilver": "Quando molte meteore illuminano il cielo notturno, stranamente si avvistano molti più CLEFFA.",
+            "black": "È facile avvistarlo nelle notti con tante stelle cadenti. Si dice che arrivi cavalcandone una.",
+            "white": "È facile avvistarlo nelle notti con tante stelle cadenti. Si dice che arrivi cavalcandone una.",
+            "black-2": "Si dice che sia facile incontrarlo dove sono cadute delle stelle cadenti.",
+            "white-2": "Si dice che sia facile incontrarlo dove sono cadute delle stelle cadenti.",
+            "x": "Per il suo aspetto bizzarro, a forma di stella, c'è chi crede che provenga da una meteora.",
+            "y": "Se ne vedono molti nelle notti in cui il cielo è pieno di stelle cadenti. Spariscono all'alba.",
+            "omega-ruby": "In notti con molte stelle cadenti, è facile vedere molti Cleffa danzare in cerchio. Ballano per tutta la notte fermandosi soltanto alle prime luci dell'alba per dissetarsi bevendo le gocce di rugiada.",
+            "alpha-sapphire": "In notti con molte stelle cadenti, è facile vedere molti Cleffa danzare in cerchio. Ballano per tutta la notte fermandosi soltanto alle prime luci dell'alba per dissetarsi bevendo le gocce di rugiada.",
+            "sun": "Nel cuore della notte rimane a guardare le stelle cadenti pensando alla sua terra natale.",
+            "moon": "Il suo strano aspetto fa pensare che sia la reincarnazione di una stella. Per qualche motivo sconosciuto, gli piacciono molto i Minior.",
+            "ultra-sun": "Nelle notti con molte stelle cadenti, i Cleffa si riuniscono per danzare in cerchio. Si dice che assistere alla loro danza sia di buon augurio.",
+            "ultra-moon": "Si dice che sia arrivato in groppa a una stella cadente. Sembra che appaia principalmente in luoghi in cui in passato è caduto un meteorite.",
+            "sword": "Si dice che sia facile incontrarlo dove sono precipitate delle stelle cadenti.",
+            "shield": "Per il suo aspetto bizzarro, che ricorda una stella, c'è chi crede che provenga da una stella cadente.",
+            "legends-arceus": "L'aspetto rammenta una stella scintillante. Allorché danzano tutti insieme nelle notti trapunte di astri cadenti paiono l'incarnazione del firmamento."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 2,
+    "height": {
+        "cleffa": "0,3 m"
+    },
+    "id": 173,
+    "name": "Cleffa",
+    "name_origin": "Il nome Cleffa deriva dal francese clef  e dall'inglese fairy . È inoltre una contrazione del nome Clefairy, ad indicare che ne è una pre-evoluzione. Il suo nome giapponese, ピィ Py, è un'abbreviazione di pixie  e inoltre la contrazione di Pippi, il nome giapponese di Clefairy. ",
+    "origin": "Basato su una fata, come un pixie. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Stella",
+    "sprites": {
+        "cleffa": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6a/Homem0173.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0173.png"
+        }
+    },
+    "stats": {
+        "cleffa": {
+            "hp": 50,
+            "atk": 25,
+            "def": 28,
+            "spa": 45,
+            "spd": 55,
+            "spe": 15
+        }
+    },
+    "stats_sum": {
+        "cleffa": 218
+    },
+    "types": {
+        "cleffa": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "cleffa": "3,0 kg"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "kingambit": {
+            "primary": "Agonismo",
+            "secondary": "Generale Supremo",
+            "hidden": "Pressione"
+        }
+    },
+    "curiosities": [
+        "Pawniard, Bisharp e Kingambit sono gli unici Pokémon ad avere il doppio tipo Buio/Acciaio."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kingambit.mp3",
+    "dex_entries": {
+        "kingambit": {
+            "scarlet": "Solo il Bisharp che si erge alla vetta della propria armata può evolversi in Kingambit.",
+            "violet": "Lotta al comando di un grande battaglione, ma non è bravo a escogitare strategie sofisticate, perciò si limita a usare la forza bruta."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 9,
+    "height": {
+        "kingambit": "2,0 m"
+    },
+    "id": 983,
+    "name": "Kingambit",
+    "name_origin": "Kingambit potrebbe essere una combinazione di king  e gambit . Potrebbe anche essere un riferimento alla mossa degli scacchi King's Gambit . Dodokezan potrebbe essere una combinazione di 奴 do , 土下座 dogeza , e 斬 zan . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Granspada",
+    "sprites": {
+        "kingambit": {
+            "default": "https://media.pokemoncentral.it/wiki/0/07/Homem0983.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0983.png"
+        }
+    },
+    "stats": {
+        "kingambit": {
+            "hp": 100,
+            "atk": 135,
+            "def": 120,
+            "spa": 60,
+            "spd": 85,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "kingambit": 550
+    },
+    "types": {
+        "kingambit": [
+            "Acciaio",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "kingambit": "120,0 kg"
+    }
+}

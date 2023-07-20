@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "shinx": {
+            "primary": "Antagonismo",
+            "secondary": "Prepotenza",
+            "hidden": "Dentistretti"
+        }
+    },
+    "curiosities": [
+        "Shinx somiglia a uno dei falsi Pokémon creati per il Pesce d'aprile 2005.",
+        "Shinx è l'unico Pokémon con la somma totale delle statistiche base a 263.",
+        "Si pensava che la traduzione inglese del nome di Shinx fosse \"Spinx\" a causa della bassa qualità della foto su cui è stato visto la prima volta.",
+        "Shinx e la sua evoluzione Luxio si evolvono agli stessi livelli di Mareep e Flaaffy.\n\tCuriosamente, sono tutti Pokémon di tipo Elettro.",
+        "Curiosamente, sono tutti Pokémon di tipo Elettro.",
+        "Nella serie Pokémon Mystery Dungeon gli sprite di Shinx mostrano una pupilla nera, nonostante negli artwork e nell'anime questa sia gialla."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/shinx.mp3",
+    "dex_entries": {
+        "shinx": {
+            "diamond": "In caso di pericolo, la sua pelliccia si illumina. Il nemico rimane accecato e lui ne approfitta per fuggire.",
+            "pearl": "È in grado di generare elettricità con i muscoli delle zampe anteriori. Il suo corpo brilla se è in pericolo.",
+            "platinum": "Produce elettricità contraendo e rilassando i muscoli. Quando si sente minacciato si illumina.",
+            "heartgold": "Produce elettricità stiracchiando i muscoli. In caso di pericolo, la sua pelliccia si illumina abbagliando.",
+            "soulsilver": "Produce elettricità stiracchiando i muscoli. In caso di pericolo, la sua pelliccia si illumina abbagliando.",
+            "black": "Produce elettricità contraendo e rilassando i muscoli. Quando si sente minacciato si illumina.",
+            "white": "Produce elettricità contraendo e rilassando i muscoli. Quando si sente minacciato si illumina.",
+            "black-2": "Produce elettricità contraendo e rilassando i muscoli. Quando si sente minacciato si illumina.",
+            "white-2": "Produce elettricità contraendo e rilassando i muscoli. Quando si sente minacciato si illumina.",
+            "x": "Produce elettricità contraendo e rilassando i muscoli. Quando si sente minacciato si illumina.",
+            "y": "In caso di pericolo, la sua pelliccia si illumina. Il nemico rimane accecato e lui ne approfitta per fuggire.",
+            "omega-ruby": "Produce elettricità contraendo e rilassando i muscoli. Quando si sente minacciato si illumina.",
+            "alpha-sapphire": "In caso di pericolo, la sua pelliccia si illumina. Il nemico rimane accecato e lui ne approfitta per fuggire.",
+            "sword": "Produce elettricità contraendo i muscoli. Quando è scosso da tremiti, è segno che ne sta generando in notevole quantità.",
+            "shield": "La sua pelliccia irradia luce per via dell'elettricità. Invia segnali ai suoi simili agitando la punta luminosa della coda.",
+            "brilliant-diamond": "Il caso di pericolo, la sua pelliccia si illumina. Il nemico rimane accecato e lui ne approfitta per fuggire.",
+            "shining-pearl": "È in grado di generare elettricità con i muscoli delle zampe anteriori. Il suo corpo brilla se è in pericolo.",
+            "legends-arceus": "Scuote le membra per ingenerare elettricità. Benché sia minuto, possiede un'indole selvaggia. Ammansirlo esige notevole pazienza.",
+            "scarlet": "Quando si muove, le contrazioni dei suoi muscoli producono elettricità. Se si sente minacciato, il suo corpo si illumina.",
+            "violet": "Il movimento dei suoi muscoli produce elettricità. In caso di pericolo, la sua pelliccia si illumina tanto da diventare abbagliante."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 4,
+    "height": {
+        "shinx": "0,5 m"
+    },
+    "id": 403,
+    "name": "Shinx",
+    "name_origin": "Shinx può essere combinazione di shining  o shine  e lynx  o Sphinx . Potrebbe inoltre derivare da shock . Il nome giapponese コリンク Kolink potrebbe essere fusione di 子 ko  e blink  o lynx . ",
+    "origin": "Shinx è basato su un leoncino o un cucciolo di lince. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Baleno",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0403.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/87/Homemsh0403.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/7/72/Homef0403.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/96/Homefsh0403.png"
+        }
+    },
+    "stats": {
+        "shinx": {
+            "hp": 45,
+            "atk": 65,
+            "def": 34,
+            "spa": 40,
+            "spd": 34,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "shinx": 263
+    },
+    "types": {
+        "shinx": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "shinx": "9,5 kg"
+    }
+}

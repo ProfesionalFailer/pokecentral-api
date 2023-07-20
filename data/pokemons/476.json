@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "probopass": {
+            "primary": "Vigore",
+            "secondary": "Magnetismo",
+            "hidden": "Silicoforza"
+        }
+    },
+    "curiosities": [
+        "Probopass e Registeel hanno la più alta Difesa Speciale di tutti i Pokémon Acciaio.",
+        "Siccome nessuna area con un campo magnetico speciale è accessibile in Pokémon Oro HeartGold e Argento SoulSilver, è impossibile far evolvere un Nosepass in questi giochi. Lo stesso accade con Magneton. Entrambi devono essere scambiati dalle versioni Pokémon Diamante e Perla e Pokémon Platino per essere ottenuti. In tutti i giochi successivi è presente almeno una zona con tale campo magnetico per permettere l'evoluzione di questi Pokémon.",
+        "Probopass impara una nuova mossa ogni 6 livelli  fino al livello 79.",
+        "A causa della censura dei soprannomi attuata in Pokémon Nero e Bianco, un Probopass proveniente dalla versione inglese non può essere trasferito nel GTS senza un soprannome adeguato."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/probopass.mp3",
+    "dex_entries": {
+        "probopass": {
+            "diamond": "Emana un forte magnetismo da tutto il corpo. Controlla tre piccole unità, dette Mininasi.",
+            "pearl": "Emana un forte magnetismo da tutto il corpo. Controlla tre piccole unità, dette Mininasi.",
+            "platinum": "Controlla tre piccole unità, dette Mininasi, usando la forza magnetica.",
+            "heartgold": "Controllando magneticamente tre piccole unità dette Mininasi, può battere il nemico da tre punti diversi.",
+            "soulsilver": "Controllando magneticamente tre piccole unità dette Mininasi, può battere il nemico da tre punti diversi.",
+            "black": "Controlla tre piccole unità, dette Mininasi, usando la forza magnetica.",
+            "white": "Controlla tre piccole unità, dette Mininasi, usando la forza magnetica.",
+            "black-2": "Controlla tre piccole unità, dette Mininasi, usando la forza magnetica.",
+            "white-2": "Controlla tre piccole unità, dette Mininasi, usando la forza magnetica.",
+            "x": "Emana un forte magnetismo da tutto il corpo. Controlla tre piccole unità, dette Mininasi.",
+            "y": "Controlla tre piccole unità, dette Mininasi, usando la forza magnetica.",
+            "omega-ruby": "Emana un forte magnetismo da tutto il corpo. Controlla tre piccole unità, dette Mininasi.",
+            "alpha-sapphire": "Controlla tre piccole unità, dette Mininasi, usando la forza magnetica.",
+            "sun": "Emette un forte campo magnetico che manda in cortocircuito le apparecchiature elettriche rendendole inutilizzabili.",
+            "moon": "È in grado di controllare tre piccole unità dette Mininasi per catturare le sue prede senza doversi spostare.",
+            "ultra-sun": "Controlla delle unità dette Mininasi, ma pare che a volte queste si smarriscano e non riescano più a tornare.",
+            "ultra-moon": "Usa le tre piccole unità per procacciare il cibo e lottare contro i nemici. Il corpo centrale si limita quasi esclusivamente a impartire ordini.",
+            "brilliant-diamond": "Emana un'intensa forza magnetica da tutto il corpo. Controlla tre piccole unità, dette \"Mininasi\".",
+            "shining-pearl": "Emana un'intensa forza magnetica da tutto il corpo. Controlla tre piccole unità, dette \"Mininasi\".",
+            "legends-arceus": "Genera forti campi magnetici con cui manovra la sabbia ferrosa immagazzinata a guisa di baffi. Attacca le prede con dure selci e le abbatte."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 4,
+    "height": {
+        "probopass": "1,4 m"
+    },
+    "id": 476,
+    "name": "Probopass",
+    "name_origin": "Probopass è una combinazione delle parole proboscis  e compass . Il nome giapponese, ダイノーズ Dainose, è una combinazione delle parole 大 dai  e l'inglese nose . ",
+    "origin": "Probopass è basato sulle statue moai dell'Isola di Pasqua. Potrebbe anche essere un omaggio a Super Mario. Il suo naso e i mini-nasi , indicano come aghi di una bussola il nord e i restanti punti cardinali est, ovest e sud. ",
+    "shape": "bipedi",
+    "specie": "Pokémon Bussola",
+    "sprites": {
+        "probopass": {
+            "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0476.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ad/Homemsh0476.png"
+        }
+    },
+    "stats": {
+        "probopass": {
+            "hp": 60,
+            "atk": 55,
+            "def": 145,
+            "spa": 75,
+            "spd": 150,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "probopass": 525
+    },
+    "types": {
+        "probopass": [
+            "Acciaio",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "probopass": "340,0 kg"
+    }
+}

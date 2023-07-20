@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "tyrogue": {
+            "primary": "Dentistretti",
+            "secondary": "Cuordeciso",
+            "hidden": "Spiritovivo"
+        }
+    },
+    "curiosities": [
+        "Tyrogue è uno dei Pokémon con lo stesso valore in tutte le statistiche base.",
+        "Lo sprite cromatico di Tyrogue ha i colori di Hitmontop in forma normale, invece i colori normali di Tyrogue richiamano i colori di Hitmontop cromatico.",
+        "Tyrogue ed Eevee sono gli unici Pokémon le cui linee evolutive sono ramificate in più di due Pokémon in parallelo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tyrogue.mp3",
+    "dex_entries": {
+        "tyrogue": {
+            "gold": "È sempre traboccante di energia. Per rinforzarsi continua a combattere anche dopo aver perso.",
+            "silver": "È piccolo, ma non passa inosservato, perché colpisce senza preavviso qualsiasi oggetto nelle vicinanze.",
+            "crystal": "Sfida chiunque per mettere alla prova le sua abilità nella lotta. Ha un forte spirito agonistico.",
+            "ruby": "TYROGUE ha bisogno di allenarsi ogni giorno per scaricare la sua energia. Gli ALLENATORI che lo allevano devono stabilire e praticare diverse metodologie di allenamento.",
+            "sapphire": "TYROGUE ha bisogno di allenarsi ogni giorno per scaricare la sua energia. Gli ALLENATORI che lo allevano devono stabilire e praticare diverse metodologie di allenamento.",
+            "emerald": "TYROGUE ha bisogno di allenarsi ogni giorno per scaricare la sua energia. Chi lo alleva deve stabilire allenamenti metodici e regolari.",
+            "firered": "È piccolo, ma non passa inosservato, perché colpisce senza preavviso qualsiasi oggetto nelle vicinanze.",
+            "leafgreen": "È sempre traboccante di energia. Per rinforzarsi continua a combattere anche dopo aver perso.",
+            "diamond": "È famoso per la sua brama di lotta. Subisce sempre ferite dai nemici più forti di lui che sfida.",
+            "pearl": "È famoso per la sua brama di lotta. Subisce sempre ferite dai nemici più forti di lui che sfida.",
+            "platinum": "È famoso per la sua brama di lotta. Subisce sempre ferite dai nemici più forti di lui che sfida.",
+            "heartgold": "Sempre traboccante di energia. Per rinforzarsi continua a combattere anche dopo aver perso.",
+            "soulsilver": "Pur essendo piccolo, non passa inosservato: colpisce senza preavviso qualsiasi oggetto nelle vicinanze.",
+            "black": "È famoso per la sua brama di lotta. Subisce sempre ferite dai nemici più forti di lui che sfida.",
+            "white": "È famoso per la sua brama di lotta. Subisce sempre ferite dai nemici più forti di lui che sfida.",
+            "black-2": "È famoso per la sua brama di lotta. Quando sfida nemici più forti di lui, subisce sempre ferite.",
+            "white-2": "È famoso per la sua brama di lotta. Quando sfida nemici più forti di lui, subisce sempre ferite.",
+            "x": "Sempre traboccante di energia. Per rinforzarsi continua a combattere anche dopo aver perso.",
+            "y": "Sfida chiunque per mettere alla prova le sue abilità nella lotta. Ha un forte spirito agonistico.",
+            "omega-ruby": "Tyrogue ha bisogno di allenarsi ogni giorno per scaricare la sua energia. Gli allenatori che lo allevano devono stabilire e praticare diverse metodologie di allenamento.",
+            "alpha-sapphire": "Tyrogue ha bisogno di allenarsi ogni giorno per scaricare la sua energia. Gli allenatori che lo allevano devono stabilire e praticare diverse metodologie di allenamento.",
+            "sword": "Sempre traboccante di energia. Per rinforzarsi continua a sfidare il suo avversario anche dopo essere stato ripetutamente sconfitto.",
+            "shield": "Anche se è piccolo, non bisogna abbassare la guardia: quando trova un avversario che fa al caso suo, inizia subito a tempestarlo di colpi.",
+            "brilliant-diamond": "Ha la fama di vero attaccabrighe. Sfida spesso nemici più grandi di lui e per questo è sempre ricoperto di ferite.",
+            "shining-pearl": "Ha la fama di vero attaccabrighe. Sfida spesso nemici più grandi di lui e per questo è sempre ricoperto di ferite."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 2,
+    "height": {
+        "tyrogue": "0,7 m"
+    },
+    "id": 236,
+    "name": "Tyrogue",
+    "name_origin": "Deriva dalle parole tyro  e rogue . ",
+    "origin": "È basato su un lottatore, in particolare un apprendista del wrestling. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Baruffa",
+    "sprites": {
+        "tyrogue": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ec/Homem0236.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f4/Homemsh0236.png"
+        }
+    },
+    "stats": {
+        "tyrogue": {
+            "hp": 35,
+            "atk": 35,
+            "def": 35,
+            "spa": 35,
+            "spd": 35,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "tyrogue": 210
+    },
+    "types": {
+        "tyrogue": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "tyrogue": "21,0 kg"
+    }
+}

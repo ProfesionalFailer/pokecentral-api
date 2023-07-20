@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "ariados": {
+            "primary": "Aiutinsetto",
+            "secondary": "Insonnia",
+            "hidden": "Cecchino"
+        }
+    },
+    "curiosities": [
+        "Ariados è uno dei pochi Pokémon che hanno lo stesso sprite sia in Oro che in Argento.",
+        "Nonostante il suo nome e il suo aspetto ricordano un ragno, Ariados non ha le 8 zampe necessarie per essere un vero aracnide.",
+        "Ariados e la sua pre-evoluzione Spinarak sono gli unici Pokémon di tipo Coleottero che possono imparare Ombra Notturna.",
+        "Nelle versioni di Diamante, Perla e Platino, Ariados, Banette e Ledian possono essere trovati selvatici, al contrario delle loro pre-evoluzioni. L'unico modo per ottenere queste ultime è tramite allevamento, nonostante non siano collegati con nessun Pokémon baby.",
+        "Il suo nome nell'anime è stato pronunciato sia ar-ia-dos che er-ia-dos.",
+        "Nonostante Ariados possieda delle zanne molto simili a quelle che vengono mostrate nell’animazione di Velenodenti della sesta generazione, non può imparare questa mossa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ariados.mp3",
+    "dex_entries": {
+        "ariados": {
+            "gold": "Tesse un filo sia dalla bocca, sia dall'estremità opposta. È dura distinguerne l'inizio e la fine.",
+            "silver": "Sputa un filo ininterrotto dalla sua parte posteriore. Seguendo il filo si giunge al suo nido.",
+            "crystal": "Piuttosto che fare una tana in un luogo preciso, preferisce girare di notte alla ricerca di cibo.",
+            "ruby": "Le zampe di ARIADOS sono dotate di artigli uncinati che gli consentono di aggrapparsi a soffitti e pareti. Questo POKÉMON intrappola il nemico con la sua ragnatela sottile e robusta.",
+            "sapphire": "Le zampe di ARIADOS sono dotate di artigli uncinati che gli consentono di aggrapparsi a soffitti e pareti. Questo POKÉMON intrappola il nemico con la sua ragnatela sottile e robusta.",
+            "emerald": "Le zampe di ARIADOS sono dotate di artigli uncinati che gli consentono di aggrapparsi a soffitti e pareti. Intrappola il nemico con la sua ragnatela sottile e robusta.",
+            "firered": "Dalla sua parte posteriore si sviluppa un filo ininterrotto. Seguendo il filo si raggiunge il nido di questo POKéMON.",
+            "leafgreen": "Tesse un filo sia dalla bocca, sia dall'estremità opposta. È dura distinguere l'inizio e la fine.",
+            "diamond": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "pearl": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "platinum": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "heartgold": "Seguendo il filo che gli esce da dietro, si giunge di certo fino al suo nido.",
+            "soulsilver": "Tesse un filo ininterrotto dalla sua parte posteriore. Seguendo il filo si giunge al suo nido.",
+            "black": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "white": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "black-2": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "white-2": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "x": "Seguendo il filo che gli esce da dietro, si giunge di certo fino al suo nido.",
+            "y": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "omega-ruby": "Le zampe di Ariados sono dotate di artigli uncinati che gli consentono di aggrapparsi a soffitti e pareti. Questo Pokémon intrappola il nemico con la sua ragnatela sottile e robusta.",
+            "alpha-sapphire": "Le zampe di Ariados sono dotate di artigli uncinati che gli consentono di aggrapparsi a soffitti e pareti. Questo Pokémon intrappola il nemico con la sua ragnatela sottile e robusta.",
+            "sun": "In alcune regioni il filo di Ariados viene usato per tessere al telaio, grazie alla sua straordinaria resistenza.",
+            "moon": "Tesse un filo sia dalla bocca che dalla parte posteriore del corpo. Vi avvolge la preda e lentamente ne succhia i fluidi vitali.",
+            "ultra-sun": "Vaga di notte in cerca di prede. Quando ne trova una, usa il suo filo per immobilizzarla e poi la divora con le sue zanne.",
+            "ultra-moon": "Intrappola la preda usando il filo che secerne dalla bocca. Quando scende la notte si allontana dalla tela per cacciare."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 2,
+    "height": {
+        "ariados": "1,1 m"
+    },
+    "id": 168,
+    "name": "Ariados",
+    "name_origin": "Il nome di Ariados deriva probabilmente da aracnide, ragno in latino o Arianna, Aracne. Dos potrebbe derivare dal giapponese 脅す odosu, minacciare. Come alternativa, dos potrebbe riferirsi alla parola spagnola dos che significa due, usata forse perché il Pokémon ha due pungiglioni, o perché è la seconda forma della sua linea evolutiva. ",
+    "origin": "L'aspetto di Ariados sembra basarsi sul Myrmarachne formicaria, ma ricorda due yōkai: l'ushi-oni e lo tsuchigumo, chiamato anche Yatsukahagi, che di solito appare come un ragno gigante. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Lungazampa",
+    "sprites": {
+        "ariados": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2c/Homem0168.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0168.png"
+        }
+    },
+    "stats": {
+        "ariados": {
+            "hp": 70,
+            "atk": 90,
+            "def": 70,
+            "spa": 60,
+            "spd": 70,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "ariados": 400
+    },
+    "types": {
+        "ariados": [
+            "Veleno",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "ariados": "33,5 kg"
+    }
+}

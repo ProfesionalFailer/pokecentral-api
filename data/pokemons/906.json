@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "sprigatito": {
+            "primary": "Erbaiuto",
+            "hidden": "Mutatipo"
+        }
+    },
+    "curiosities": [
+        "Sprigatito di Liko"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sprigatito.mp3",
+    "dex_entries": {
+        "sprigatito": {
+            "scarlet": "Il suo pelo vellutato ha una composizione simile a quella delle piante. Si lava il muso di frequente per evitare che si disidrati.",
+            "violet": "Il dolce profumo che emana dal corpo incanta chiunque si trovi nelle vicinanze e si intensifica quando il Pokemon si espone al sole."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Erba"
+    ],
+    "generation": 9,
+    "height": {
+        "sprigatito": "0,4 m"
+    },
+    "id": 906,
+    "name": "Sprigatito",
+    "name_origin": "Sprigatito potrebbe essere una combinazione di sprig, rametto, e gatito, gattino in spagnolo. Nyahoja potrebbe essere una combinazione di ニャー nyā, onomatopea del miagolio, e hoja, foglia in spagnolo. Potrebbe includere 葉 ha, foglia. ",
+    "origin": "Sprigatito potrebbe essere basato su un gattino a pelo semilungo, nello specifico a un cucciolo di gatto delle foreste norvegesi, vista l'associazione con il tipo Erba. ",
+    "shape": "None",
+    "specie": "Pokémon Erbagatto",
+    "sprites": {
+        "sprigatito": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7d/Homem0906.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5a/Homemsh0906.png"
+        }
+    },
+    "stats": {
+        "sprigatito": {
+            "hp": 40,
+            "atk": 61,
+            "def": 54,
+            "spa": 45,
+            "spd": 45,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "sprigatito": 310
+    },
+    "types": {
+        "sprigatito": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "sprigatito": "4,1 kg"
+    }
+}

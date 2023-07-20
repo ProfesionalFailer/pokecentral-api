@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "druddigon": {
+            "primary": "Cartavetro",
+            "secondary": "Forzabruta",
+            "hidden": "Rompiforma"
+        }
+    },
+    "curiosities": [
+        "Druddigon è l'unico Pokémon non leggendario a fase singola ad essere di tipo puro Drago.",
+        "Druddigon non può imparare Volo anche se ha le ali.",
+        "Druddigon condivide la categoria con Gabite. Entrambi sono noti come Pokémon Grotta.",
+        "Nonostante nelle descrizioni Pokédex sia menzionata la sua abilità nell'assorbire la luce solare, Druddigon non può in alcun modo imparare Solarraggio."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/druddigon.mp3",
+    "dex_entries": {
+        "druddigon": {
+            "black": "Si riscalda assorbendo la luce del sole dalle ali. Quando la sua temperatura si abbassa, non riesce più a muoversi.",
+            "white": "Percorre le grotte anguste catturando le prede con gli artigli affilati. La pelle del muso è più dura della roccia.",
+            "black-2": "Percorre gli stretti tunnel scavati da Excadrill e Onix, catturando le prede con artigli affilati.",
+            "white-2": "Percorre gli stretti tunnel scavati da Excadrill e Onix, catturando le prede con artigli affilati.",
+            "x": "Percorre le grotte anguste catturando le prede con gli artigli affilati. La pelle del muso è più dura della roccia.",
+            "y": "Si riscalda assorbendo la luce del sole dalle ali. Quando la sua temperatura si abbassa, non riesce più a muoversi.",
+            "omega-ruby": "Percorre le grotte anguste catturando le prede con gli artigli affilati. La pelle del muso è più dura della roccia.",
+            "alpha-sapphire": "Si riscalda assorbendo la luce del sole dalle ali. Quando la sua temperatura si abbassa, non riesce più a muoversi.",
+            "ultra-sun": "La pelle rossa del muso è più dura della pietra. Affronta i nemici in grotte anguste lanciandosi contro di loro e colpendoli a testate.",
+            "ultra-moon": "Si intrufola nei tunnel scavati dai Diglett e dai Dugtrio aspettando in silenzio l'arrivo di una preda.",
+            "sword": "Vive in cavità sotterranee, ma poiché non riesce più a muoversi se il suo corpo si raffredda, non può fare a meno dei bagni di sole.",
+            "shield": "Brutale e scaltro, si appropria delle tane scavate da altri Pokémon facendone la propria dimora."
+        }
+    },
+    "egg_groups": [
+        "Drago",
+        "Mostro"
+    ],
+    "generation": 5,
+    "height": {
+        "druddigon": "1,6 m"
+    },
+    "id": 621,
+    "name": "Druddigon",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi dragon  e ruddy . ",
+    "origin": "Il suo aspetto e il modo in cui il Pokédex definisce la sua pelle, ovvero \"rocciosa\", fanno pensare che Druddigon sia basato su un gargoyle, mentre il suo aspetto fisico lo fa sembrare un drago europeo. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Grotta",
+    "sprites": {
+        "druddigon": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7c/Homem0621.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0621.png"
+        }
+    },
+    "stats": {
+        "druddigon": {
+            "hp": 77,
+            "atk": 120,
+            "def": 90,
+            "spa": 60,
+            "spd": 90,
+            "spe": 48
+        }
+    },
+    "stats_sum": {
+        "druddigon": 485
+    },
+    "types": {
+        "druddigon": [
+            "Drago"
+        ]
+    },
+    "weight": {
+        "druddigon": "139,0 kg"
+    }
+}

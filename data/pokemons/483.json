@@ -1,0 +1,93 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Pressione",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Prima dell'ottava generazione Dialga aveva una combinazione di tipi unica.",
+        "Dialga potrebbe rappresentare lo stato di aggregazione solido.",
+        "In Pokémon Mystery Dungeon: Esploratori del Tempo, dell'Oscurità e del Cielo Dialga è uno dei tre Pokémon che appare con un colore diverso dal solito, gli altri due sono il Kecleon viola commerciante di Borgo Tesoro e il Celebi cromatico del futuro.\n\tIn particolare Dialga è il secondo Pokémon ad apparire nella serie Pokémon Mystery Dungeon con una colorazione alternativa diversa da quella cromatica, dopo Kecleon.\n\tNessuno dei tre può essere ottenuto legittimamente in un gioco della serie principale con questi colori alternativi. Celebi e Kecleon di colorazione alternativa sono presenti nella lista di questo codice, ma per motivi ignoti Dialga no: per questa ragione Dialga Oscuro non può essere giocato in alcun modo nelle cartucce originali della serie.",
+        "In particolare Dialga è il secondo Pokémon ad apparire nella serie Pokémon Mystery Dungeon con una colorazione alternativa diversa da quella cromatica, dopo Kecleon.\n\tNessuno dei tre può essere ottenuto legittimamente in un gioco della serie principale con questi colori alternativi. Celebi e Kecleon di colorazione alternativa sono presenti nella lista di questo codice, ma per motivi ignoti Dialga no: per questa ragione Dialga Oscuro non può essere giocato in alcun modo nelle cartucce originali della serie.",
+        "Nessuno dei tre può essere ottenuto legittimamente in un gioco della serie principale con questi colori alternativi. Celebi e Kecleon di colorazione alternativa sono presenti nella lista di questo codice, ma per motivi ignoti Dialga no: per questa ragione Dialga Oscuro non può essere giocato in alcun modo nelle cartucce originali della serie.",
+        "Secondo Junichi Masuda, il nome occidentale è stato suggerito dai traduttori spagnoli perché simile ad alga.",
+        "Dialga ha l'Attacco Speciale più alto di tutti i Pokémon di tipo Acciaio.\n\tFino alla sesta generazione aveva anche il totale di statistiche base più alto fra i Pokémon di questo tipo, prima di essere superato da MegaMetagross.",
+        "Fino alla sesta generazione aveva anche il totale di statistiche base più alto fra i Pokémon di questo tipo, prima di essere superato da MegaMetagross.",
+        "Dialga, insieme a Palkia, Giratina e vari altri Pokémon, in sesta generazione ha ricevuto un nuovo verso."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dialga.mp3",
+    "dex_entries": {
+        "dialga": {
+            "diamond": "Ha il potere di controllare il tempo. Descritto nei miti della regione di Sinnoh come un’antica divinità.",
+            "pearl": "Pokémon menzionato nelle leggende. Pare che il tempo abbia avuto origine alla nascita di DIALGA.",
+            "platinum": "Pokémon leggendario della regione di Sinnoh. Si dice che il tempo scorra al battere del suo cuore.",
+            "heartgold": "Regola a piacimento il fluire del tempo, potendo così viaggiare nel passato o nel futuro.",
+            "soulsilver": "Regola a piacimento il fluire del tempo, potendo così viaggiare nel passato o nel futuro.",
+            "black": "Pokémon leggendario della regione di Sinnoh. Si dice che il tempo scorra al battere del suo cuore.",
+            "white": "Pokémon leggendario della regione di Sinnoh. Si dice che il tempo scorra al battere del suo cuore.",
+            "black-2": "Pokémon leggendario della regione di Sinnoh. Si dice che il tempo scorra al battere del suo cuore.",
+            "white-2": "Pokémon leggendario della regione di Sinnoh. Si dice che il tempo scorra al battere del suo cuore.",
+            "x": "Pokémon menzionato nelle leggende. Pare che il tempo abbia avuto origine alla nascita di Dialga.",
+            "y": "Ha il potere di controllare il tempo. Descritto nei miti della regione di Sinnoh come un'antica divinità.",
+            "omega-ruby": "Pokémon menzionato nelle leggende. Pare che il tempo abbia avuto origine alla nascita di Dialga.",
+            "alpha-sapphire": "Ha il potere di controllare il tempo. Descritto nei miti della regione di Sinnoh come un'antica divinità.",
+            "brilliant-diamond": "Ha il potere di controllare il tempo. Viene descritto nei miti della regione di Sinnoh come un'antica divinità.",
+            "shining-pearl": "Le leggende in cui compare questo Pokémon narrano che la sua nascita sia all'origine dello scorrere del tempo.",
+            "legends-arceus": "È venerato quale divinità in certe leggende di Hisui. Al suo divenire, il tempo prese a scorrere nel mondo terreno come un fiume impetuoso."
+        },
+        "forma-originale": {
+            "legends-arceus": "La luce ha cagionato in lui un cambio di forma radicale, rendendolo un simulacro della divinità creatrice sì potente che fatico a non ritenere questa la sua forma veritiera."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 4,
+    "height": {
+        "dialga": "5,4 m"
+    },
+    "id": 483,
+    "name": "Dialga",
+    "name_origin": "Dovrebbe derivare dalla parola diamond  e una corruzione di dragon, drago. Potrebbe anche derivare dallo spagnolo dia, giorno, inteso come unità di tempo, o da sundial  e da 鋼 hagane, acciaio. ",
+    "origin": "Basato sulle leggende di Izanami e Izanagi. Il suo aspetto assomiglia a quello del dinosauro Brachytrachelopan. I disegni color turchese chiaro sul suo corpo ricordano le lancette di un orologio. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Tempo",
+    "sprites": {
+        "dialga": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0483.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7c/Homemsh0483.png"
+        }
+    },
+    "stats": {
+        "dialga": {
+            "hp": 100,
+            "atk": 120,
+            "def": 120,
+            "spa": 150,
+            "spd": 100,
+            "spe": 90
+        },
+        "forma-originale": {
+            "hp": 100,
+            "atk": 100,
+            "def": 120,
+            "spa": 150,
+            "spd": 120,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "dialga": 680,
+        "forma-originale": 680
+    },
+    "types": {
+        "dialga": [
+            "Acciaio",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "dialga": "683,0 kg"
+    }
+}

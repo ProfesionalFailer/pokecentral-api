@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "bewear": {
+            "primary": "Morbidone",
+            "secondary": "Impaccio",
+            "hidden": "Agitazione"
+        }
+    },
+    "curiosities": [
+        "Bewear "
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bewear.mp3",
+    "dex_entries": {
+        "bewear": {
+            "sun": "La sua devastante forza fisica lo rende estremamente pericoloso, tanto che di solito è vietato l'accesso alle zone in cui vive.",
+            "moon": "Ha il vizio di abbracciare gli amici con una forza disumana. Le sue effusioni hanno un effetto distruttivo sulle ossa del proprio Allenatore.",
+            "ultra-sun": "Agita energicamente le braccia in segno di minaccia o di avvertimento. L'unica via di scampo è darsela a gambe.",
+            "ultra-moon": "Va fiero della propria forza smisurata. Molti ritengono che Bewear sia il Pokémon più pericoloso di Alola.",
+            "sword": "Cerca di abbracciare chi considera suo amico in segno di affetto, ma bisogna guardarsi dalla sua stretta, talmente potente da frantumare le ossa.",
+            "shield": "Dopo aver abbattuto le prede con mosse che farebbero impallidire i lottatori più esperti, se le carica una per zampa e se ne torna alla tana."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 7,
+    "height": {
+        "bewear": "2,1 m"
+    },
+    "id": 760,
+    "name": "Bewear",
+    "name_origin": "Bewear deriva probabilmente da to beware, temere in inglese, wear, indossare, e da bear, orso in inglese. Kiteruguma potrebbe essere una combinazione di 着てる kuma, indossare, e 熊 kuma, orso. ",
+    "origin": "Bewear è ispirato ad un orso, ma possiede delle caratteristiche in comune con il panda minore, come le orecchie, la coda e il muso. Il suo concept può anche essere basato sul Bear hug, una tecnica di sottomissione del wrestling. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Fortebraccio",
+    "sprites": {
+        "bewear": {
+            "default": "https://media.pokemoncentral.it/wiki/4/42/Homem0760.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0760.png"
+        }
+    },
+    "stats": {
+        "bewear": {
+            "hp": 120,
+            "atk": 125,
+            "def": 80,
+            "spa": 55,
+            "spd": 60,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "bewear": 500
+    },
+    "types": {
+        "bewear": [
+            "Normale",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "bewear": "135,0 kg"
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "shelmet": {
+            "primary": "Idratazione",
+            "secondary": "Guscioscudo",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Shelmet e Karrablast sono stati distribuiti come Pokémon evento nonostante siano facilmente reperibili all'interno del gioco.",
+        "Karrablast e Shelmet sono gli unici Pokémon che devono essere scambiati con un Pokémon specifico per farli evolvere, in quanto devono essere scambiati fra di loro.",
+        "Anche se Escavalier guadagna il tipo Acciaio per via della sua armatura, Shelmet è di tipo Coleottero puro nonostante la indossi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/shelmet.mp3",
+    "dex_entries": {
+        "shelmet": {
+            "black": "Se viene attaccato, si richiude nella conchiglia per difendersi e spruzza un veleno viscoso dalla fessura.",
+            "white": "Se riceve una scarica elettrica assieme a Karrablast, si evolve. Il motivo non è chiaro.",
+            "black-2": "Quando incontra Karrablast si crea della corrente elettrica che stimola entrambi i Pokémon causandone l'evoluzione.",
+            "white-2": "Quando incontra Karrablast si crea della corrente elettrica che stimola entrambi i Pokémon causandone l'evoluzione.",
+            "x": "Quando incontra Karrablast si crea della corrente elettrica che stimola entrambi i Pokéemon causandone l'evoluzione.",
+            "y": "Se riceve una scarica elettrica assieme a Karrablast, si evolve. Il motivo non è chiaro.",
+            "omega-ruby": "Quando incontra Karrablast si crea della corrente elettrica che stimola entrambi i Pokémon causandone l'evoluzione.",
+            "alpha-sapphire": "Se riceve una scarica elettrica assieme a Karrablast, si evolve. Il motivo non è chiaro.",
+            "sword": "Quando viene attaccato, si rinchiude nella conchiglia sigillando la visiera per proteggersi. Solo Karrablast riesce a superare queste difese.",
+            "shield": "Il suo corpo reagisce misteriosamente all'energia elettrica. Pare che si evolva se si trova in presenza di Karrablast."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 5,
+    "height": {
+        "shelmet": "0,4 m"
+    },
+    "id": 616,
+    "name": "Shelmet",
+    "name_origin": "Il nome deriva dall'unione delle parole inglesi shell  e helmet . ",
+    "origin": "Probabilmente basato sul nautilus e su un elmo. Potrebbe ispirarsi inoltre a una chiocciola e a un verme tubo gigante. ",
+    "shape": "testa",
+    "specie": "Pokémon Lumachina",
+    "sprites": {
+        "shelmet": {
+            "default": "https://media.pokemoncentral.it/wiki/5/58/Homem0616.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ac/Homemsh0616.png"
+        }
+    },
+    "stats": {
+        "shelmet": {
+            "hp": 50,
+            "atk": 40,
+            "def": 85,
+            "spa": 40,
+            "spd": 65,
+            "spe": 25
+        }
+    },
+    "stats_sum": {
+        "shelmet": 305
+    },
+    "types": {
+        "shelmet": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "shelmet": "7,7 kg"
+    }
+}

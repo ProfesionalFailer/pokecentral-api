@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "ducklett": {
+            "primary": "Sguardofermo",
+            "secondary": "Pettinfuori",
+            "hidden": "Idratazione"
+        }
+    },
+    "curiosities": [
+        "Ducklett condivide la categoria con Pelipper. Entrambi sono infatti conosciuti come Pokémon Alacquatico."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ducklett.mp3",
+    "dex_entries": {
+        "ducklett": {
+            "black": "Pokémon uccello specializzato nelle immersioni. Poiché è ghiotto di sfagno, sta sempre in acqua.",
+            "white": "Quando viene attaccato schizza acqua da tutte le piume del corpo. Fugge dileguandosi in una nuvola di spruzzi.",
+            "black-2": "È più ferrato nel nuoto che nel volo. Si immerge nell'acqua per mangiare i licheni marini di cui va matto.",
+            "white-2": "È più ferrato nel nuoto che nel volo. Si immerge nell'acqua per mangiare i licheni marini di cui va matto.",
+            "x": "Quando viene attaccato schizza acqua da tutte le piume del corpo. Fugge dileguandosi in una nuvola di spruzzi.",
+            "y": "È più ferrato nel nuoto che nel volo. Si immerge nell'acqua per mangiare i licheni marini di cui va matto.",
+            "omega-ruby": "Quando viene attaccato schizza acqua da tutte le piume del corpo. Fugge dileguandosi in una nuvola di spruzzi.",
+            "alpha-sapphire": "È più ferrato nel nuoto che nel volo. Si immerge nell'acqua per mangiare i licheni marini di cui va matto."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Volante"
+    ],
+    "generation": 5,
+    "height": {
+        "ducklett": "0,5 m"
+    },
+    "id": 580,
+    "name": "Ducklett",
+    "name_origin": "Il suo nome deriva dall'inglese duckling  e wet , oppure un'abbreviazione del suffisso -ette . ",
+    "origin": "Si basa su un piccolo di anatra o cigno; il fatto che Swanna sia basato appunto su un cigno, potrebbe essere un riferimento alla favola del brutto anatroccolo. Il piumaggio inferiore più scuro ricorda i salvagenti ad anello , e con l'evoluzione assume l'aspetto di un bikini. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Alacquatico",
+    "sprites": {
+        "ducklett": {
+            "default": "https://media.pokemoncentral.it/wiki/9/93/Homem0580.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0580.png"
+        }
+    },
+    "stats": {
+        "ducklett": {
+            "hp": 62,
+            "atk": 44,
+            "def": 50,
+            "spa": 44,
+            "spd": 50,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "ducklett": 305
+    },
+    "types": {
+        "ducklett": [
+            "Volante",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "ducklett": "5,5 kg"
+    }
+}

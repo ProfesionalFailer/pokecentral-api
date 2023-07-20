@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "yanma": {
+            "primary": "Acceleratore",
+            "secondary": "Insettocchi",
+            "hidden": "Indagine"
+        }
+    },
+    "curiosities": [
+        "Yanma pesa esattamente quanto il protagonista maschile di Pokémon Diamante e Perla e Platino. Condivide questa peculiarità con Sudowoodo, Skuntank, Togekiss e Fearow.",
+        "Yanma condivide la stessa statistica base di Velocità con la sua evolzuone, Yanmega.",
+        "Yanma è l'ultimo Pokémon nell'ordine del Pokédex di Johto che ha lo stesso numero nel Nuovo Pokédex, dato che la sua evoluzione e quelle di Aipom, Lickitung, Piloswine e Tangela sono state tutte aggiunte al Pokédex di Johto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/yanma.mp3",
+    "dex_entries": {
+        "yanma": {
+            "gold": "Se agita le ali ad altissima velocità può generare onde che distruggono i vetri delle finestre nella zona.",
+            "silver": "I suoi grandi occhi vedono a 360 gradi, cercando in ogni direzione insetti da catturare.",
+            "crystal": "Guardando in ogni direzione senza muovere i grandi occhi, scorge i nemici e il cibo più facilmente.",
+            "ruby": "YANMA è dotato di un campo visivo a 360º senza bisogno di muovere gli occhi. Grazie alle grandi ali riesce a fermarsi improvvisamente e virare a mezz'aria. Sfrutta la sua abilità in volo per abbattere la preda al suolo.",
+            "sapphire": "YANMA è dotato di un campo visivo a 360º senza bisogno di muovere gli occhi. Grazie alle grandi ali riesce a fermarsi improvvisamente e virare a mezz'aria. Sfrutta la sua abilità in volo per abbattere la preda al suolo.",
+            "emerald": "È dotato di un campo visivo a 360 gradi senza muovere gli occhi. Mentre vola si ferma all'improvviso e vira a mezz'aria, riuscendo così a raggiungere la preda.",
+            "firered": "I suoi grandi occhi vedono a 360 gradi, cercando in ogni direzione insetti da catturare.",
+            "leafgreen": "Se agita le ali ad altissima velocità può generare onde che distruggono i vetri delle finestre nella zona.",
+            "diamond": "Ha un campo visivo a 360° senza muovere la testa. Riesce a vedere persino le prede alle sue spalle.",
+            "pearl": "Ha un campo visivo a 360° senza muovere la testa. Riesce a vedere persino le prede alle sue spalle.",
+            "platinum": "Può fermarsi a mezz'aria sbattendo velocemente le ali. Vola di qua e di là per difendere il suo territorio.",
+            "heartgold": "Se agita le ali ad altissima velocità può generare onde che distruggono i vetri delle finestre nella zona.",
+            "soulsilver": "I suoi grandi occhi vedono a 360 gradi, cercando in ogni direzione insetti da catturare.",
+            "black": "Può fermarsi a mezz'aria sbattendo velocemente le ali. Vola di qua e di là per difendere il suo territorio.",
+            "white": "Può fermarsi a mezz'aria sbattendo velocemente le ali. Vola di qua e di là per difendere il suo territorio.",
+            "black-2": "Grazie alle velocissime ali si libra in volo con grazia e agilità. Neanche fermarsi a mezz'aria costituisce un problema.",
+            "white-2": "Grazie alle velocissime ali si libra in volo con grazia e agilità. Neanche fermarsi a mezz'aria costituisce un problema.",
+            "x": "Ha un campo visivo a 360 gradi senza muovere la testa. Riesce a vedere persino le prede alle sue spalle.",
+            "y": "Se agita le ali ad altissima velocità può generare onde che distruggono i vetri delle finestre nella zona.",
+            "omega-ruby": "Yanma è dotato di un campo visivo a 360º senza bisogno di muovere gli occhi. Grazie alle grandi ali riesce a fermarsi improvvisamente e virare a mezz'aria. Sfrutta la sua abilità in volo per abbattere la preda al suolo.",
+            "alpha-sapphire": "Yanma è dotato di un campo visivo a 360º senza bisogno di muovere gli occhi. Grazie alle grandi ali riesce a fermarsi improvvisamente e virare a mezz'aria. Sfrutta la sua abilità in volo per abbattere la preda al suolo.",
+            "legends-arceus": "Le sottili ali traslucide parrebbero inaffidabili, eppure possono cagionare nell'aere correnti tali da spazzare via case."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 2,
+    "height": {
+        "yanma": "1,2 m"
+    },
+    "id": 193,
+    "name": "Yanma",
+    "name_origin": "Il suo nome deriva dal suo nome giapponese, ヤンヤンマ Yanyanma, che deriva da 蜻蜓 yanma . ",
+    "origin": "Basato su una libellula. ",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Alachiara",
+    "sprites": {
+        "yanma": {
+            "default": "https://media.pokemoncentral.it/wiki/9/93/Homem0193.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0193.png"
+        }
+    },
+    "stats": {
+        "yanma": {
+            "hp": 65,
+            "atk": 65,
+            "def": 45,
+            "spa": 75,
+            "spd": 45,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "yanma": 390
+    },
+    "types": {
+        "yanma": [
+            "Volante",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "yanma": "38,0 kg"
+    }
+}

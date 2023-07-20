@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "varoom": {
+            "primary": "Copricapo",
+            "hidden": "Lentoinizio"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Acciaio",
+        "Pokémon di tipo Veleno",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Minerale",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 300"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/varoom.mp3",
+    "dex_entries": {
+        "varoom": {
+            "scarlet": "Pare sia nato quando un misterioso Pokémon di tipo Veleno prese possesso di un motore abbandonato in un deposito di rottami.",
+            "violet": "Il suo corpo è la parte d'acciaio. Si attacca alle rocce per trasformare la materia di cui sono composte nell'energia che usa per muoversi."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 9,
+    "height": {
+        "varoom": "1,0 m"
+    },
+    "id": 965,
+    "name": "Varoom",
+    "name_origin": "Varoom potrebbe derivare da vroom . Buroron potrebbe derivare da ブルルン bururun . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Monocilindro",
+    "sprites": {
+        "varoom": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8c/Homem0965.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/df/Homemsh0965.png"
+        }
+    },
+    "stats": {
+        "varoom": {
+            "hp": 45,
+            "atk": 70,
+            "def": 63,
+            "spa": 30,
+            "spd": 45,
+            "spe": 47
+        }
+    },
+    "stats_sum": {
+        "varoom": 300
+    },
+    "types": {
+        "varoom": [
+            "Acciaio",
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "varoom": "35,0 kg"
+    }
+}

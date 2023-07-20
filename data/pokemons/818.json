@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Acquaiuto",
+            "hidden": "Cecchino"
+        }
+    },
+    "curiosities": [
+        "Inteleon condivide con:\n\tSceptile i PS base più bassi tra tutti i Pokémon iniziali totalmente evoluti.\n\tSceptile ed Emboar la Difesa e la Difesa Speciale base più basse tra tutti i Pokémon iniziali totalmente evoluti.",
+        "Sceptile i PS base più bassi tra tutti i Pokémon iniziali totalmente evoluti.",
+        "Sceptile ed Emboar la Difesa e la Difesa Speciale base più basse tra tutti i Pokémon iniziali totalmente evoluti.",
+        "Mentre la voce del Pokédex menziona che Inteleon utilizza le membrane nittitanti per individuare il bersaglio, il sito ufficiale riporta che utilizza delle \"lenti speciali\". Similarmente, ciò accade anche con la lingua giapponese, tedesca, francese e spagnola, ma non con quella inglese."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/inteleon.mp3",
+    "dex_entries": {
+        "inteleon": {
+            "sword": "Ha vari assi nella manica. Emette getti d'acqua dalle dita e si fa trasportare dal vento grazie alla membrana che ha sulla schiena.",
+            "shield": "Spara getti d'acqua dalla punta delle dita a una velocità di Mach 3. Grazie alle sue membrane nittitanti individua i punti deboli del nemico."
+        },
+        "inteleon-gigamax": {
+            "sword": "Il suo getto d'acqua raggiunge la velocità di Mach 7. Aggiusta la mira sfruttando la cresta per rilevare il vento e la temperatura.",
+            "shield": "La sua abilità di tiratore è ineguagliabile. Centra in pieno una bacca a 15 km di distanza come se nulla fosse."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "generation": 8,
+    "height": {
+        "inteleon": "1,9 m",
+        "inteleon-gigamax": "> 40,0 m"
+    },
+    "id": 818,
+    "name": "Inteleon",
+    "name_origin": "Inteleon ed Intereon potrebbero essere una combinazione di intelligence, spionaggio, e chameleon, camaleonte. ",
+    "origin": "Inteleon potrebbe essere basato su un camaleonte, in particolare sul camaleonte velato, per via della cresta e per la colorazione simile a quella degli esemplari maschili della specie, o sul Basiliscus. Tuttavia, l'aspetto del Pokémon sembra indicare che sia basato anche su un drago volante. Inoltre, Inteleon ricorda anche l'intelligence britannica, in particolare la figura di James Bond. Le zampe superiori sono poste come una pistola e, in aggiunta, la colorazione della pancia ricorda vagamente una giacca blu sopra ad una camincia bianca e quella delle gambe, invece, ricorda dei pantaloni neri, il tipico abbigliamento utilizzato da James Bond. Potrebbe essere basato anche sui supereroi. Inteleon Gigamax sembra essere ispirato da un cecchino appostato su un tetto. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Agente",
+    "sprites": {
+        "inteleon": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d7/Homem0818.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5a/Homemsh0818.png"
+        },
+        "inteleon-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/4/43/Homem0818Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0818Gi.png"
+        }
+    },
+    "stats": {
+        "inteleon": {
+            "hp": 70,
+            "atk": 85,
+            "def": 65,
+            "spa": 125,
+            "spd": 65,
+            "spe": 120
+        }
+    },
+    "stats_sum": {
+        "inteleon": 530
+    },
+    "types": {
+        "inteleon": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "inteleon": "45,2 kg",
+        "inteleon-gigamax": "???,? kg"
+    }
+}

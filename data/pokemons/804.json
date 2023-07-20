@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "naganadel": {
+            "primary": "Ultraboost"
+        }
+    },
+    "curiosities": [
+        "Naganadel è finora l'unica Ultracreatura ad avere una pre-evoluzione.",
+        "Naganadel e la sua pre-evoluzione sono stati ideati da James Turner.",
+        "Naganadel è l'unica Ultracreatura a non avere un numero primo come statistica base: la sua statistica base della Velocità è infatti 121.",
+        "Naganadel condivide il nome della sua categoria con la sua pre-evoluzione, Nidoran♀, Nidorina, Nidoran♂ e Nidorino. Sono tutti conosciuti come Pokémon Velenago.",
+        "In tutte le versioni in lingua europea di Pokémon Ultrasole e Ultraluna, in un trailer promozionale dedicatogli, Naganadel è visto venire mandato in campo con una UC Ball. Tuttavia, nei giochi non vi è alcun modo legittimo di ottenere un Poipole, e di conseguenza un Naganadel, nella suddetta Ball. Questo perché il Pokémon è ottenibile esclusivamente attraverso un regalo durante la storia principale ed è sempre contenuto in una Poké Ball.",
+        "Naganadel ha il totale di statistiche base più basso di tutte le Ultracreature allo stadio evolutivo finale, ossia 540 mentre le altre hanno 570."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/naganadel.mp3",
+    "dex_entries": {
+        "naganadel": {
+            "ultra-sun": "È una delle forme di vita note come Ultracreature. Il suo corpo contiene centinaia di litri di veleno.",
+            "ultra-moon": "Una delle Ultracreature. Il luminoso liquido tossico che emette dagli aculei è caratterizzato da un’elevata viscosità."
+        },
+        "": {}
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 7,
+    "height": {
+        "naganadel": "3,6 m"
+    },
+    "id": 804,
+    "name": "Naganadel",
+    "name_origin": "Naganadel è una combinazione tra Nāga e Nadel . Āgoyon è una combinazione tra 顎 ago  oppure ago, 四 yon  e dragon  oppure 용 yong . UC Aculeus è una combinazione tra UC, sigla di Ultracreatura, e la parola latina aculeus . ",
+    "origin": "Il suo aspetto ricorda una vespa. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Velenago",
+    "sprites": {
+        "naganadel": {
+            "default": "https://media.pokemoncentral.it/wiki/6/64/Homem0804.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homemsh0804.png"
+        }
+    },
+    "stats": {
+        "naganadel": {
+            "hp": 73,
+            "atk": 73,
+            "def": 73,
+            "spa": 127,
+            "spd": 73,
+            "spe": 121
+        }
+    },
+    "stats_sum": {
+        "naganadel": 540
+    },
+    "types": {
+        "naganadel": [
+            "Veleno",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "naganadel": "150,0 kg"
+    }
+}

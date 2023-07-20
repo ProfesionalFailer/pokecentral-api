@@ -1,0 +1,96 @@
+{
+    "abilities": {
+        "chansey": {
+            "primary": "Alternacura",
+            "secondary": "Leggiadro",
+            "hidden": "Curacuore"
+        }
+    },
+    "curiosities": [
+        "Il nome originario di Chansey era \"Lucky\".",
+        "Chansey è il primo Pokémon nel Pokédex Nazionale a essere correlato con l'evoluzione da due generazioni diverse dalla sua.",
+        "Chansey condivide lo stesso nome di specie con Exeggcute. Sono entrambi conosciuti come Pokémon Uovo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/chansey.mp3",
+    "dex_entries": {
+        "chansey": {
+            "red": "Questo POKéMON raro e sfuggente si dice che porti la felicità a chiunque riesca a catturarlo.",
+            "blue": "Questo POKéMON raro e sfuggente si dice che porti la felicità a chiunque riesca a catturarlo.",
+            "yellow": "Un POKéMON gentile e generoso pronto a condividere le sue nutrienti uova con chi si trova in difficoltà.",
+            "gold": "Cammina con prudenza per non rompere il suo uovo. Tuttavia, può fuggire con estrema rapidità.",
+            "silver": "Poco numerosi e difficili da prendere, si dice che portino fortuna a chi riesce a catturarli.",
+            "crystal": "Molti provano a catturarlo per le uova molto nutrienti, ma si fa vedere molto raramente.",
+            "ruby": "Ogni giorno CHANSEY depone uova molto nutrienti. Queste uova sono così buone da far tornare l'appetito a chi lo ha perso.",
+            "sapphire": "Ogni giorno CHANSEY depone uova molto nutrienti. Queste uova sono così buone da far tornare l'appetito a chi lo ha perso.",
+            "emerald": "Ogni giorno CHANSEY depone uova molto nutrienti. Queste uova sono così buone da far tornare l'appetito a chi lo ha perso.",
+            "firered": "Ogni giorno depone diverse uova, che sembrano essere deliziose e molto nutrienti.",
+            "leafgreen": "Questo POKéMON raro e sfuggente si dice che porti la felicità a chiunque riesca a catturarlo.",
+            "diamond": "Si dice che porti felicità. È molto altruista e condivide le uova con chi è ferito.",
+            "pearl": "Depone molte uova al giorno e non le condivide con chi ha un animo malvagio.",
+            "platinum": "Un Pokémon altruista che depone uova molto nutrienti. Le condivide con persone o Pokémon feriti.",
+            "heartgold": "Cammina con prudenza per non rompere il suo uovo. Tuttavia, può fuggire con estrema rapidità.",
+            "soulsilver": "Poco numerosi e difficili da prendere, si dice che portino fortuna a chi riesce a catturarli.",
+            "black": "Un Pokémon altruista che depone uova molto nutrienti. Le condivide con persone o Pokémon feriti.",
+            "white": "Un Pokémon altruista che depone uova molto nutrienti. Le condivide con persone o Pokémon feriti.",
+            "black-2": "Un Pokémon altruista che depone uova molto nutrienti. Le condivide con persone o Pokémon feriti.",
+            "white-2": "Un Pokémon altruista che depone uova molto nutrienti. Le condivide con persone o Pokémon feriti.",
+            "x": "Si dice che porti felicità. È molto altruista e condivide le uova con chi è ferito.",
+            "y": "Ogni giorno depone diverse uova, che sembrano essere deliziose e molto nutrienti.",
+            "omega-ruby": "Ogni giorno Chansey depone uova molto nutrienti. Queste uova sono così buone da far tornare l'appetito a chi lo ha perso.",
+            "alpha-sapphire": "Ogni giorno Chansey depone uova molto nutrienti. Queste uova sono così buone da far tornare l'appetito a chi lo ha perso.",
+            "sun": "Le uova di Chansey sono molto nutrienti e molti Pokémon ne vanno ghiotti.",
+            "moon": "Esistono pochi esemplari di questo Pokémon, che inoltre è anche velocissimo nella fuga. Solo chi ha la fortuna dalla sua riesce a trovarlo!",
+            "ultra-sun": "Molti Pokémon cercano di rubare le sue uova gustose e nutrienti. Probabilmente per questo è diventato velocissimo nella fuga.",
+            "ultra-moon": "In passato è stato vittima di una caccia sfrenata per le sue uova. Per questo motivo non sono rimasti molti esemplari di questo Pokémon.",
+            "lets-go-pikachu": "Un Pokémon gentile e generoso, sempre pronto a condividere le sue uova nutrienti con chi si trova in difficoltà.",
+            "lets-go-eevee": "Un Pokémon gentile e generoso, sempre pronto a condividere le sue uova nutrienti con chi si trova in difficoltà.",
+            "sword": "Il suo uovo è molto nutriente ed estremamente saporito, tanto che viene considerato un ingrediente di lusso.",
+            "shield": "Sarebbe lento per natura, ma è diventato svelto nella fuga per difendersi da chi vuole rubare il suo uovo.",
+            "brilliant-diamond": "Si dice che porti la felicità. È molto altruista e condivide le sue uova con chi è ferito.",
+            "shining-pearl": "Depone molte uova al giorno ma non le condivide con chi ha un animo malvagio.",
+            "legends-arceus": "Puro di cuore, condivide con chi è ferito le sue nutrienti uova, note ai più con il curioso epiteto di \"scacciadottore\".",
+            "scarlet": "Un Pokémon altruista che depone uova molto nutrienti e le condivide con persone o Pokémon feriti.",
+            "violet": "Cammina con prudenza per non rompere il suo uovo. Tuttavia, può fuggire con estrema rapidità."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "generation": 1,
+    "height": {
+        "chansey": "1,1 m"
+    },
+    "id": 113,
+    "name": "Chansey",
+    "name_origin": "Chansey è una corruzione di \"chance\" e \"chancy\". Riferito ad una rarità e/o alla possibilità di una cattura di successo. ",
+    "origin": "La sua tendenza a portare le uova in un sacchetto la associa ad un marsupiale. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Uovo",
+    "sprites": {
+        "chansey": {
+            "default": "https://media.pokemoncentral.it/wiki/4/47/Homef0113.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homefsh0113.png"
+        }
+    },
+    "stats": {
+        "chansey": {
+            "hp": 250,
+            "atk": 5,
+            "def": 5,
+            "spa": 35,
+            "spd": 105,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "chansey": 450
+    },
+    "types": {
+        "chansey": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "chansey": "34,6 kg"
+    }
+}

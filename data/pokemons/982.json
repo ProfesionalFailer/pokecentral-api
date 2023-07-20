@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "dudunsparce": {
+            "primary": "Leggiadro",
+            "secondary": "Fugafacile",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Il verso di Dudunsparce è composto dal verso di Dunsparce riprodotto due volte, riferimento a come questo Pokémon sia una versione \"allungata\" di Dunsparce."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dudunsparce.mp3",
+    "dex_entries": {
+        "forma-bimetamero": {
+            "scarlet": "Con la dura coda perfora gli strati rocciosi del sottosuolo per farne la sua tana, che può raggiungere i 10 km di profondità.",
+            "violet": "Scaccia i nemici che si intrufolano nella sua tana con violente raffiche di vento che emette dai lunghi polmoni dopo averli riempiti d'aria."
+        },
+        "forma-trimetamero": {
+            "scarlet": "Ha un temperamento docile. Fa salire sul suo dorso i Pokémon che finiscono per sbaglio nella sua tana e li riaccompagna all’ingresso.",
+            "violet": "Dalle ultime ricerche è emerso che il numero di segmenti del suo corpo è determinato a livello genetico."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 9,
+    "height": {
+        "forma-bimetamero": "3,6 m",
+        "forma-trimetamero": "4,5 m"
+    },
+    "id": 982,
+    "name": "Dudunsparce",
+    "name_origin": "Dudunsparce potrebbe essere un gioco di parole su Dunsparce e sul fatto che parti del suo corpo si ripetano in segmenti. ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Terraserpe",
+    "sprites": {
+        "dudunsparce": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ef/Homem0982.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d6/Homemsh0982.png"
+        }
+    },
+    "stats": {
+        "dudunsparce": {
+            "hp": 125,
+            "atk": 100,
+            "def": 80,
+            "spa": 85,
+            "spd": 75,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "dudunsparce": 520
+    },
+    "types": {
+        "dudunsparce": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "forma-bimetamero": "39,2 kg",
+        "forma-trimetamero": "47,4 kg"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "tapu-bulu": {
+            "primary": "Erbogenesi",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Tapu Bulu è uno dei Pokémon con caratteri non alfabetici nel nome.\n\tLui e gli altri Pokémon protettori sono gli unici Pokémon ad avere un punto mediano all'interno del proprio nome giapponese.",
+        "Lui e gli altri Pokémon protettori sono gli unici Pokémon ad avere un punto mediano all'interno del proprio nome giapponese.",
+        "Tapu Bulu condivide la sua categoria con Tapu Koko, Tapu Lele e Tapu Fini. Sono tutti conosciuti come Pokémon Nume Locale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tapubulu.mp3",
+    "dex_entries": {
+        "tapu-bulu": {
+            "sun": "Sradica gli alberi e li fa roteare maneggiandoli abilmente. Fa crescere la vegetazione per poi assorbirne l’energia.",
+            "moon": "Protettore di Ula Ula, è un Pokémon molto pigro. Controlla la vegetazione con cui immobilizza il nemico per poi trafiggerlo con le sue corna.",
+            "ultra-sun": "È considerato un Pokémon protettore, ma annienta senza pietà tutti quelli che considera nemici.",
+            "ultra-moon": "Protettore di Ula Ula, ha il potere di controllare la vegetazione. Fa risuonare la coda per segnalare la sua presenza ed evitare lotte inutili."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 7,
+    "height": {
+        "tapu-bulu": "1,9 m"
+    },
+    "id": 787,
+    "name": "Tapu Bulu",
+    "name_origin": "Tapu Bulu potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e bulu, toro in hawaiiano. Kapu-Bururu potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e bulu, toro in hawaiiano. ",
+    "origin": "Tapu Bulu potrebbe essere ispirato ad un toro. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Nume Locale",
+    "sprites": {
+        "tapu-bulu": {
+            "default": "https://media.pokemoncentral.it/wiki/d/de/Homem0787.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8a/Homemsh0787.png"
+        }
+    },
+    "stats": {
+        "tapu-bulu": {
+            "hp": 70,
+            "atk": 130,
+            "def": 115,
+            "spa": 85,
+            "spd": 95,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "tapu-bulu": 570
+    },
+    "types": {
+        "tapu-bulu": [
+            "Erba",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "tapu-bulu": "45,5 kg"
+    }
+}

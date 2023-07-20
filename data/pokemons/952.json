@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "scovillain": {
+            "primary": "Clorofilla",
+            "secondary": "Insonnia",
+            "hidden": "Altalena"
+        }
+    },
+    "curiosities": [
+        "Scovillain è il primo Pokémon ad avere la combinazione di tipi Erba/Fuoco.",
+        "Scovillain è l'unico Pokémon con l'abilità Altalena ad avere questa abilità sin dal proprio gioco di introduzione, poiché tutti gli altri Pokémon che la hanno sono stati introdotti prima della quinta generazione.\n\tÈ anche il primo Pokémon introdotto in un gioco 3D ad avere questa abilità.",
+        "È anche il primo Pokémon introdotto in un gioco 3D ad avere questa abilità."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/scovillain.mp3",
+    "dex_entries": {
+        "scovillain": {
+            "scarlet": "La testa rossa trasforma le proprie sostanze pungenti in energia Fuoco che usa per lanciare fiammate superpiccanti.",
+            "violet": "Le sue sostanze piccanti influiscono sul cervello della testa verde, rendendola feroce. Quando va fuori di senno, non c'è modo di fermarla."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 9,
+    "height": {
+        "scovillain": "0,9 m"
+    },
+    "id": 952,
+    "name": "Scovillain",
+    "name_origin": "Scovillain è la combinazione di Scoville, riferimento alla scala di Scoville, ovvero la scala utilizzata per misurare la piccantezza, e villain, inglese per cattivo. ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Habanero",
+    "sprites": {
+        "scovillain": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ad/Homem0952.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0952.png"
+        }
+    },
+    "stats": {
+        "scovillain": {
+            "hp": 65,
+            "atk": 108,
+            "def": 65,
+            "spa": 108,
+            "spd": 65,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "scovillain": 486
+    },
+    "types": {
+        "scovillain": [
+            "Erba",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "scovillain": "15,0 kg"
+    }
+}

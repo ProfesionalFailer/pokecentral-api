@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "goomy": {
+            "primary": "Mangiaerba",
+            "secondary": "Idratazione",
+            "hidden": "Viscosità"
+        }
+    },
+    "curiosities": [
+        "Goomy è il Pokémon di tipo Drago con altezza e peso più bassi.",
+        "Come affermato da più voci Pokédex Goomy ha bisogno di mantenersi costantemente idratato per sopravvivere. Nonostante ciò, né Goomy, né le sue evoluzioni sono di tipo Acqua.\n\tPerò può imparare ben 4 mosse di tipo Acqua tramite livello.",
+        "Però può imparare ben 4 mosse di tipo Acqua tramite livello."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/goomy.mp3",
+    "dex_entries": {
+        "goomy": {
+            "x": "È il Pokémon Drago più debole di tutti. Vive in ambienti umidi e in ombra per evitare che il suo corpo si secchi.",
+            "y": "Il suo corpo è coperto da una membrana viscida che fa scivolare e devia i colpi dei nemici.",
+            "omega-ruby": "È il Pokémon Drago più debole di tutti. Vive in ambienti umidi e in ombra per evitare che il suo corpo si secchi.",
+            "alpha-sapphire": "Il suo corpo è coperto da una membrana viscida che fa scivolare e devia i colpi dei nemici.",
+            "sun": "È il Pokémon di tipo Drago più debole di tutti. La sua pelle deve restare umida per poter respirare e per questo si rifugia nell'ombra.",
+            "moon": "Il suo corpo è protetto da un membrana viscida che pullula di batteri. Meglio lavarsi bene le mani dopo averlo toccato!",
+            "ultra-sun": "I corni con cui sonda l’ambiente circostante sono così sensibili che, se qualcuno glieli afferra, il Pokémon resta pietrificato per lo shock.",
+            "ultra-moon": "Il suo corpo è formato prevalentemente d'acqua e se si disidrata rischia di morire. Per questo se ne sta rintanato all'ombra.",
+            "sword": "Il suo corpo è composto quasi esclusivamente di acqua. Se si secca, avvizzisce. È il più debole dei Pokémon di tipo Drago.",
+            "shield": "I suoi corni sono degli straordinari organi sensoriali. Riesce a sopravvivere nascondendosi non appena percepisce la presenza del nemico.",
+            "legends-arceus": "Cela se stesso all'ombra di madide fronde. Perde tosto vigore se il liquido viscido che lo ricopre si essicca.",
+            "scarlet": "Il suo corpo è composto quasi esclusivamente di acqua. È ricoperto da una membrana che non lo fa disidratare nei climi troppo secchi.",
+            "violet": "I suoi corni sono organi straordinari che captano informazioni relative a tutti e cinque i sensi. Sente il pericolo grazie ai movimenti dell’aria."
+        }
+    },
+    "egg_groups": [
+        "Drago"
+    ],
+    "generation": 6,
+    "height": {
+        "goomy": "0,3 m"
+    },
+    "id": 704,
+    "name": "Goomy",
+    "name_origin": "Goomy è una combinazione tra goo  e gummy  o slimy . Numera deriva da 滑る numeru  e ぬらぬら nuranura . ",
+    "origin": "Goomy assomiglia notevolmente al preistorico wiwaxia. Goomy sembra inoltre essere basato sui gasteropodi con corpo molle, come le lumache e i nudibranchia; la sua immagine e l'eventuale disegno del drago nelle evoluzioni può essere un riferimento alla lumaca di mare \"drago blu\". Può anche essere basato sul concetto di melma vivente della cultura popolare. ",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Mollusco",
+    "sprites": {
+        "goomy": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fc/Homem0704.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0704.png"
+        }
+    },
+    "stats": {
+        "goomy": {
+            "hp": 45,
+            "atk": 50,
+            "def": 35,
+            "spa": 55,
+            "spd": 75,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "goomy": 300
+    },
+    "types": {
+        "goomy": [
+            "Drago"
+        ]
+    },
+    "weight": {
+        "goomy": "2,8 kg"
+    }
+}

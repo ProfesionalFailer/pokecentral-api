@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "natu": {
+            "primary": "Sincronismo",
+            "secondary": "Sveglialampo",
+            "hidden": "Magispecchio"
+        }
+    },
+    "curiosities": [
+        "Nelle versioni inglesi di Pokémon Oro e Argento Natu era conosciuto come il Pokémon Piccolouccello , mentre da Pokémon Cristallo in poi hanno aggiunto uno spazio, quindi \"Little Bird\", ossia Uccellino nella versione italiana del gioco.\n\tNatu condivide dunque la sua categoria con Pidgey e Spearow.",
+        "Natu condivide dunque la sua categoria con Pidgey e Spearow.",
+        "Natu è il Pokémon di tipo Volante più piccolo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/natu.mp3",
+    "dex_entries": {
+        "natu": {
+            "gold": "Poiché le sue ali non sono ancora ben sviluppate, deve saltellare. Sembra fissare sempre qualcosa.",
+            "silver": "Di solito cerca il cibo per terra, ma in rare occasioni può saltare sui rami e beccare i germogli.",
+            "crystal": "È molto bravo ad arrampicarsi sui tronchi degli alberi per mangiare i germogli.",
+            "ruby": "NATU non riesce a volare a causa delle ali non ancora totalmente sviluppate. Se lo si guarda negli occhi, ricambia lo sguardo, ma al primo movimento scappa via per mettersi al sicuro.",
+            "sapphire": "NATU ha una spiccata attitudine al salto. È in grado di raggiungere con un balzo rami più alti di un adulto, e si ciba dei germogli di cui va ghiotto.",
+            "emerald": "NATU si arrampica sugli alberi della savana alla ricerca di germogli. Il suo sguardo sembra sempre essere fisso su qualcosa.",
+            "firered": "Di solito cerca il cibo per terra, ma in rare occasioni può saltare sui rami alla ricerca di germogli.",
+            "leafgreen": "Poiché le sue ali non sono ancora ben sviluppate, deve saltellare. Sembra fissare sempre qualcosa.",
+            "diamond": "Raccoglie cibo dai cactus, evitando agilmente germogli e spine. Si muove saltellando.",
+            "pearl": "Raccoglie cibo dai cactus, evitando agilmente germogli e spine. Si muove saltellando.",
+            "platinum": "Raccoglie cibo dai cactus, evitando agilmente germogli e spine. Si muove saltellando.",
+            "heartgold": "Poiché le sue ali non sono ancora ben sviluppate, deve saltellare. Sembra fissare sempre qualcosa.",
+            "soulsilver": "Di solito cerca il cibo per terra, ma in rare occasioni può saltare sui rami e beccare i germogli.",
+            "black": "Raccoglie cibo dai cactus, evitando agilmente germogli e spine. Si muove saltellando.",
+            "white": "Raccoglie cibo dai cactus, evitando agilmente germogli e spine. Si muove saltellando.",
+            "black-2": "Raccoglie cibo dai cactus, evitando agilmente germogli e spine. Si muove saltellando.",
+            "white-2": "Raccoglie cibo dai cactus, evitando agilmente germogli e spine. Si muove saltellando.",
+            "x": "Poiché le sue ali non sono ancora ben sviluppate, deve saltellare. Sembra fissare sempre qualcosa.",
+            "y": "Di solito cerca il cibo per terra, ma in rare occasioni può saltare sui rami e beccare i germogli.",
+            "omega-ruby": "Natu non riesce a volare a causa delle ali non ancora totalmente sviluppate. Se lo si guarda negli occhi, ricambia lo sguardo, ma al primo movimento scappa via per mettersi al sicuro.",
+            "alpha-sapphire": "Natu ha una spiccata attitudine al salto. È in grado di raggiungere con un balzo rami più alti di un adulto, e si ciba dei germogli di cui va ghiotto.",
+            "ultra-sun": "Non sa ancora volare, ma spiccando salti eccezionali riesce a raggiungere anche i rami più alti per cibarsi dei germogli che vi crescono.",
+            "ultra-moon": "Sembra osservare ciò che lo circonda con sguardo inquisitore. Se si accenna appena ad avvicinarsi, scappa via saltellando.",
+            "sword": "È molto bravo ad arrampicarsi sui tronchi degli alberi per mangiare i germogli appena spuntati.",
+            "shield": "Poiché le sue ali non sono ancora ben sviluppate, è costretto ad andarsene in giro saltellando. Sembra sempre intento a fissare qualcosa."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 2,
+    "height": {
+        "natu": "0,2 m"
+    },
+    "id": 177,
+    "name": "Natu",
+    "name_origin": "Potrebbe derivare dalla parola native  e Atu  o dalla parola latina natus . ",
+    "origin": "Basato tra un pappagallo e una quaglia. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Uccellino",
+    "sprites": {
+        "natu": {
+            "default": "https://media.pokemoncentral.it/wiki/3/38/Homem0177.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/93/Homemsh0177.png"
+        }
+    },
+    "stats": {
+        "natu": {
+            "hp": 40,
+            "atk": 50,
+            "def": 45,
+            "spa": 70,
+            "spd": 45,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "natu": 320
+    },
+    "types": {
+        "natu": [
+            "Psico",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "natu": "2,0 kg"
+    }
+}

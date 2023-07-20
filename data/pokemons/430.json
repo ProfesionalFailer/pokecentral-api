@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "honchkrow": {
+            "primary": "Insonnia",
+            "secondary": "Supersorte",
+            "hidden": "Arroganza"
+        }
+    },
+    "curiosities": [
+        "Prima della quinta generazione Murkrow e Honchkrow avevano una combinazione di tipi unica.",
+        "Honchkrow viene usato da vari antagonisti principali: Cyrus, Giovanni ed Elisio.",
+        "Nonostante sia anche di tipo Volante l'unica mossa che può imparare di tale tipo aumentando di livello è Attacco d'Ala."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/honchkrow.mp3",
+    "dex_entries": {
+        "honchkrow": {
+            "diamond": "Diventa attivo di notte e lo si vede spesso in compagnia di numerosi MURKROW.",
+            "pearl": "Si fa portare il cibo dai suoi amici MURKROW, mentre lui passa il tempo a lisciarsi le penne nel nido.",
+            "platinum": "Se emette un verso profondo, molti MURKROW accorrono all'istante. È detto \"Evocatore della notte\".",
+            "heartgold": "Ha un carattere spietato. Pare che non perdoni il minimo errore commesso dai MURKROW suoi seguaci.",
+            "soulsilver": "Ha un carattere spietato. Pare che non perdoni il minimo errore commesso dai MURKROW suoi seguaci.",
+            "black": "Se emette un verso profondo, molti Murkrow accorrono all'istante. È detto \"Evocatore della notte\".",
+            "white": "Se emette un verso profondo, molti Murkrow accorrono all'istante. È detto \"Evocatore della notte\".",
+            "black-2": "Se emette un verso profondo, molti Murkrow accorrono all'istante. È detto \"Evocatore della notte\".",
+            "white-2": "Se emette un verso profondo, molti Murkrow accorrono all'istante. È detto \"Evocatore della notte\".",
+            "x": "Se emette un verso profondo, molti Murkrow accorrono all'istante. È detto \"Evocatore della notte\".",
+            "y": "Diventa attivo di notte e lo si vede spesso in compagnia di numerosi Murkrow.",
+            "omega-ruby": "Se emette un verso profondo, molti Murkrow accorrono all'istante. È detto \"Evocatore della notte\".",
+            "alpha-sapphire": "Diventa attivo di notte e lo si vede spesso in compagnia di numerosi Murkrow.",
+            "sun": "È un Pokémon notturno. Basta un suo solo verso per far accorrere all'istante centinaia di Murkrow suoi seguaci.",
+            "moon": "Se uno dei Murkrow suoi seguaci non riesce a catturare la preda o tradisce la sua fiducia, Honchkrow lo insegue ovunque per punirlo.",
+            "ultra-sun": "Non perdona niente ai suoi seguaci, dai tradimenti ai più piccoli errori. Non c’è altro modo per mantenere la disciplina nel gruppo.",
+            "ultra-moon": "Lascia che siano i suoi seguaci a lottare contro il nemico e si scomoda solo per assestare il colpo di grazia.",
+            "brilliant-diamond": "Diventa attivo di notte. È famoso per la sua tendenza a radunare attorno a sé numerosi Murkrow, di cui diventa il capo.",
+            "shining-pearl": "Si fa portare il cibo dai suoi scagnozzi Murkrow, mentre lui passa il tempo a lisciarsi le penne nel nido.",
+            "legends-arceus": "Un solo canto di codesta creatura richiama stuoli di Murkrow, che oscurano il cielo come se fosse notte, stendendo una coltre corvina sul mondo.",
+            "scarlet": "Ha un carattere spietato. Pare che non perdoni il minimo errore commesso dai Murkrow suoi seguaci.",
+            "violet": "È un Pokémon notturno. Basta un suo solo verso per far accorrere all’istante un centinaio di Murkrow suoi seguaci."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 4,
+    "height": {
+        "honchkrow": "0,9 m"
+    },
+    "id": 430,
+    "name": "Honchkrow",
+    "name_origin": "Il suo nome deriva dalla parola spagnola \"honcho\"  e dalla parola inglese \"crow\" . ",
+    "origin": "Honchkrow è basato sui corvi, soprattutto sulle cornacchie grigie. Nonostante Murkrow assomigli più alle streghe, Honchkrow sembra un boss criminale, dando una nuova interpretazione a Murkrow come membro criminale: la sua cresta infatti ricorda vagamente un Borsalino, cappello spesso associato ai mafiosi. La sua coda invece, come la pre-evoluzione, ha un'aspetto simile ad una scopa e porta anche una barba bianca, tutto ciò lo rende vagamente simile anche ad un mago o uno stregone. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Grancapo",
+    "sprites": {
+        "honchkrow": {
+            "default": "https://media.pokemoncentral.it/wiki/6/62/Homem0430.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1c/Homemsh0430.png"
+        }
+    },
+    "stats": {
+        "honchkrow": {
+            "hp": 100,
+            "atk": 125,
+            "def": 52,
+            "spa": 105,
+            "spd": 52,
+            "spe": 71
+        }
+    },
+    "stats_sum": {
+        "honchkrow": 505
+    },
+    "types": {
+        "honchkrow": [
+            "Buio",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "honchkrow": "27,3 kg"
+    }
+}

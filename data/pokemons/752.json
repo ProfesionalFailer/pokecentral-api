@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "araquanid": {
+            "primary": "Bolladacqua",
+            "hidden": "Assorbacqua"
+        }
+    },
+    "curiosities": [
+        "Araquanid può essere visto come la controparte di Masquerain. Entrambi sono di tipo Coleottero ed hanno lo stesso totale di statistiche base ed entrambi possono essere trovati al Giardino di Malie in Pokémon Sole e Luna, prendendo il posto dell'altro a seconda del tempo, essendo Araquanid trovabile di giorno mentre Masquerain di notte."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/araquanid.mp3",
+    "dex_entries": {
+        "araquanid": {
+            "sun": "Usa la bolla d'acqua sulla testa per dare delle testate. I Pokémon di piccola taglia vengono direttamente intrappolati nella bolla e affogano.",
+            "moon": "Nonostante l'apparenza, è molto protettivo. Quando trova dei suoi simili più piccoli e deboli, li accoglie nella sua bolla d’acqua.",
+            "ultra-sun": "Se ne sta per lo più in acqua. Quando è sazio, conserva le prede che ha catturato nella bolla che ha in testa.",
+            "ultra-moon": "Conserva le cose importanti nella sua bolla d'acqua. Potrebbe provare a metterci anche il suo Allenatore, se questo non sta attento.",
+            "sword": "Con le zampe lancia bolle d'acqua contro la preda per farla annegare. Dopo averla catturata, se la gusta senza fretta.",
+            "shield": "Tiene un Dewpider nella bolla e se ne prende cura lasciando che si nutra dei suoi avanzi."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Coleottero"
+    ],
+    "generation": 7,
+    "height": {
+        "araquanid": "1,8 m",
+        "dominante": "3,1 m"
+    },
+    "id": 752,
+    "name": "Araquanid",
+    "name_origin": "Araquanid può essere la combinazione di arachnide e aqua. Onishizukumo può essere la combinazione di 鬼蜘蛛 onigumo , 鬼 oni  e 滴 shizuku . ",
+    "origin": "Araquanid è basato su di un ragno palombaro. Le protuberanze sulla sua testa possono essere ispirate dal ragno dalla faccia sorridente, tipico delle Hawaii. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Bolladacqua",
+    "sprites": {
+        "araquanid": {
+            "default": "https://media.pokemoncentral.it/wiki/2/29/Homem0752.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homemsh0752.png"
+        }
+    },
+    "stats": {
+        "araquanid": {
+            "hp": 68,
+            "atk": 70,
+            "def": 92,
+            "spa": 50,
+            "spd": 132,
+            "spe": 42
+        }
+    },
+    "stats_sum": {
+        "araquanid": 454
+    },
+    "types": {
+        "araquanid": [
+            "Coleot",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "araquanid": "82,0 kg",
+        "dominante": "217,5 kg"
+    }
+}

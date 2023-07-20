@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "dedenne": {
+            "primary": "Guancegonfie",
+            "secondary": "Raccolta",
+            "hidden": "Più"
+        }
+    },
+    "curiosities": [
+        "Nel 2021 è risultato essere il Pokémon più popolare tra i fan in un sondaggio indotto da The Pokémon Company in Giappone, .",
+        "In sesta generazione Dedenne aveva una combinazione di tipi unica.",
+        "Dedenne è l'unico Pokémon con le statistiche base totali pari a 431."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dedenne.mp3",
+    "dex_entries": {
+        "dedenne": {
+            "x": "I suoi baffi fungono da antenne che trasmettono e ricevono onde radio. Se ne serve per comunicare con i suoi simili.",
+            "y": "Con la coda può assorbire energia dalle prese di corrente di centrali elettriche e abitazioni per poi scaricarla dai baffi.",
+            "omega-ruby": "I suoi baffi fungono da antenne che trasmettono e ricevono onde radio. Se ne serve per comunicare con i suoi simili.",
+            "alpha-sapphire": "Con la coda può assorbire energia dalle prese di corrente di centrali elettriche e abitazioni per poi scaricarla dai baffi.",
+            "ultra-sun": "Si intrufola nelle case per rubare energia dalle prese elettriche. Se la bolletta della luce è stranamente alta, c’è di sicuro il suo zampino!",
+            "ultra-moon": "I baffi superiori sono sensori con cui sonda l'ambiente circostante, mentre quelli inferiori sono organi che emettono elettricità.",
+            "sword": "Usa i baffi per captare le onde radio emesse dai suoi simili. Così condivide informazioni su dove trovare cibo ed elettricità.",
+            "shield": "Non riuscendo a produrre molta elettricità, la ruba dalle prese di corrente o da altri Pokémon di tipo Elettro.",
+            "scarlet": "A causa del corpo piccolo, l’organo che genera elettricità non è molto sviluppato. Si ricarica assorbendo l’elettricità dalle case con la coda.",
+            "violet": "Usa i baffi che ha sulle guance per produrre onde radio con cui comunica con i suoi simili. Se finisce l’elettricità, si raggomitola e si addormenta."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Magico"
+    ],
+    "generation": 6,
+    "height": {
+        "dedenne": "0,2 m"
+    },
+    "id": 702,
+    "name": "Dedenne",
+    "name_origin": "Il suo nome ha origine dal giapponese 電気 denki, elettricità, e probabilmente dal francese antenne, antenna. ",
+    "origin": "Sembra essere basato su un criceto dorato, mentre la coda ricorda quella dei Gerboa. Data la forma del corpo, la linea sulla schiena ed il typing, però, potrebbe anche essere basato sul mouse di un computer. I baffi, ovviamente, sono basati su delle antenne. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Antenna",
+    "sprites": {
+        "dedenne": {
+            "default": "https://media.pokemoncentral.it/wiki/5/54/Homem0702.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0702.png"
+        }
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 67,
+            "atk": 58,
+            "def": 57,
+            "spa": 81,
+            "spd": 67,
+            "spe": 101
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 431
+    },
+    "types": {
+        "dedenne": [
+            "Elettro",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "dedenne": "2,2 kg"
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "abilities": {
+        "vivillon": {
+            "primary": "Polvoscudo",
+            "secondary": "Insettocchi",
+            "hidden": "Amicoscudo"
+        }
+    },
+    "curiosities": [
+        "I motivi colorati sulle sue ali sono differenti a seconda della nazione presso la quale il Nintendo 3DS è registrato nelle impostazioni.",
+        "Vivillon è l'unico Pokémon completamente evoluto che può avere Amicoscudo come abilità."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/vivillon.mp3",
+    "dex_entries": {
+        "vivillon": {
+            "x": "Nel mondo ne esistono diverse varietà che si differenziano per i motivi sulle ali. Sembra che questi dipendano dal clima del loro habitat.",
+            "y": "I motivi sulle ali cambiano a seconda della zona e del clima in cui vive. Dal suo corpo si staccano scaglie dai colori vivaci.",
+            "omega-ruby": "Nel mondo ne esistono diverse varietà che si differenziano per i motivi sulle ali. Sembra che questi dipendano dal clima del loro habitat.",
+            "alpha-sapphire": "I motivi sulle sue ali cambiano a seconda della zona e del clima in cui vive. Dal suo corpo si staccano scaglie dai colori vivaci."
+        },
+        "motivo-nevi-perenni": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume nelle regioni più fredde.",
+            "violet": "Proviene da terre estremamente fredde. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-nordico": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in terre innevate.",
+            "violet": "Proviene da terre con nevi abbondanti. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-manto-di-neve": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Assume questa forma in aree in cui il freddo è intenso.",
+            "violet": "Proviene da terre in cui il freddo è intenso. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-continentale": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in aree molto vaste.",
+            "violet": "Proviene da terre molto vaste. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-prato": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in aree ricche di verde.",
+            "violet": "Proviene da terre ricche di vegetazione. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-eleganza": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in aree con stagioni marcate.",
+            "violet": "Proviene da terre con stagioni marcate. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-giardinfiore": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in aree fiorite.",
+            "violet": "Proviene da terre fiorite. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-trendy": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in aree con sole ardente.",
+            "violet": "Proviene da terre in cui il sole è ardente. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-marino": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume dove soffia la brezza marina.",
+            "violet": "Proviene da terre in cui soffia la brezza marina. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-arcipelago": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume negli arcipelaghi.",
+            "violet": "Proviene dagli arcipelaghi. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-deserto": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in aree in cui piove di rado.",
+            "violet": "Proviene da terre in cui piove di rado. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-sabbia": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in aree aride.",
+            "violet": "Proviene da terre aride. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-fluviale": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume dove scorrono grandi fiumi.",
+            "violet": "Proviene da terre in cui scorrono grandi fiumi. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-pluviale": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in aree con piogge torrenziali.",
+            "violet": "Proviene da terre con piogge torrenziali. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-savana": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in aree dal clima tropicale.",
+            "violet": "Proviene da terre dal clima tropicale. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-solare": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in aree molto soleggiate.",
+            "violet": "Proviene da terre molto soleggiate. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-oceanico": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in aree con clima estivo.",
+            "violet": "Proviene da terre con clima estivo. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-giungla": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume nelle foreste tropicali.",
+            "violet": "Proviene da terre con foreste tropicali. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-sbarazzino": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in terre misteriose.",
+            "violet": "Proviene da terre misteriose. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        },
+        "motivo-poké-ball": {
+            "scarlet": "Il motivo sulle ali cambia a seconda del clima e dell’ambiente del luogo in cui nasce. Questa è la forma che assume in terre speciali.",
+            "violet": "Proviene da terre speciali. Lotta rilasciando dalle ali scaglie velenose dai colori vividi."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 6,
+    "height": {
+        "vivillon": "1,2 m"
+    },
+    "id": 666,
+    "name": "Vivillon",
+    "name_origin": "Vivillon potrebbe essere una combinazione tra vivid  e papillon . Bibiyon potrebbe essere un misto di 美 bi , vivid, e papillon. ",
+    "origin": "Vivillon è basato su una farfalla. Il variare della colorazione delle ali nelle sue diverse forme può essere basato sul concetto di evoluzione divergente o sul mimetismo. Il tipo di disegno sulle ali può ispirarsi alla pixel art. ",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Farfascaglia",
+    "sprites": {
+        "vivillon": {
+            "default": "https://media.pokemoncentral.it/wiki/4/44/Homem0666.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0666.png"
+        }
+    },
+    "stats": {
+        "vivillon": {
+            "hp": 80,
+            "atk": 52,
+            "def": 50,
+            "spa": 90,
+            "spd": 50,
+            "spe": 89
+        }
+    },
+    "stats_sum": {
+        "vivillon": 411
+    },
+    "types": {
+        "vivillon": [
+            "Volante",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "vivillon": "17,0 kg"
+    }
+}

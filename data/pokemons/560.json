@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "scrafty": {
+            "primary": "Muta",
+            "secondary": "Arroganza",
+            "hidden": "Prepotenza"
+        }
+    },
+    "curiosities": [
+        "In quinta generazione Scraggy e Scrafty avevano una combinazione di tipi unica.",
+        "Scrafty ha la difesa di base piu alta di tutti i Pokémon lotta non leggendari. Condivide con Gallade la difesa speciale piu alta di tutti i Pokémon Lotta.",
+        "Scrafty è uno degli unici due Pokémon con un totale di statistiche base pari a 488. L'altro è Unfezant.",
+        "Nonostante il Pokédex dica che sputi acido, non è in grado di imparare né Acido, né Acidobomba, e neanche Gastroacido.\n\tTuttavia è in grado di imparare Fangobomba.",
+        "Tuttavia è in grado di imparare Fangobomba.",
+        "Scrafty è l'unico Pokémon di tipo Lotta che è in grado di imparare Dragodanza."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/scrafty.mp3",
+    "dex_entries": {
+        "scrafty": {
+            "black": "Attaccano in gruppo chi entra nel loro territorio. Sputano acido dalla bocca.",
+            "white": "Il capo del gruppo viene scelto in base alla grandezza della cresta. Spacca blocchi di cemento con dei calci.",
+            "black-2": "Quando tira calci, si protegge dai danni con la pelle della muta. Più grande è la cresta e più si da arie.",
+            "white-2": "Quando tira calci, si protegge dai danni con la pelle della muta. Più grande è la cresta e più si da arie.",
+            "x": "Quando tira calci, si protegge dai danni con la pelle della muta. Più grande è la cresta e più arie si dà.",
+            "y": "Il capo del gruppo viene scelto in base alla grandezza della cresta. Spacca blocchi di cemento con dei calci.",
+            "omega-ruby": "Quando tira calci, si protegge dai danni con la pelle della muta. Più grande è la cresta e più arie si dà.",
+            "alpha-sapphire": "Il capo del gruppo viene scelto in base alla grandezza della cresta. Spacca blocchi di cemento con dei calci.",
+            "ultra-sun": "È un Pokémon violento, ma al tempo stesso molto dedito alla famiglia, ai membri del proprio gruppo e al suo territorio.",
+            "ultra-moon": "Provoca il nemico sputandogli addosso. Quando conquista un territorio, non lo abbandona più per tutta la vita.",
+            "sword": "Pur se tirati con aria svogliata, i suoi calci sono così distruttivi da sgretolare perfino i pilastri di cemento di Conkeldurr.",
+            "shield": "Ha un'indole estremamente aggressiva, ma se si tratta della sua famiglia, dei suoi compagni e del suo territorio, diventa molto protettivo."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Drago"
+    ],
+    "generation": 5,
+    "height": {
+        "scrafty": "1,1 m"
+    },
+    "id": 560,
+    "name": "Scrafty",
+    "name_origin": "Il suo nome deriva dalle parole inglesi scraggy  o scrappy  e crafty . ",
+    "origin": "Scrafty è basato su una lucertola. In aggiunta, a causa del suo cappuccio, della cresta e dei \"pantaloni\", Scrafty è uno stereotipo dell'hip hop e del punk. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Furfante",
+    "sprites": {
+        "scrafty": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0560.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3d/Homemsh0560.png"
+        }
+    },
+    "stats": {
+        "scrafty": {
+            "hp": 65,
+            "atk": 90,
+            "def": 115,
+            "spa": 45,
+            "spd": 115,
+            "spe": 58
+        }
+    },
+    "stats_sum": {
+        "scrafty": 488
+    },
+    "types": {
+        "scrafty": [
+            "Buio",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "scrafty": "30 kg"
+    }
+}

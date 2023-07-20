@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "togedemaru": {
+            "primary": "Spineferrate",
+            "secondary": "Parafulmine",
+            "hidden": "Vigore"
+        }
+    },
+    "curiosities": [
+        "Togedemaru condivide con la linea evolutiva di Magnemite il primato per il maggior numero di resistenze: ben 12 su 18, considerando anche l'immunità al Veleno.",
+        "Togedemaru è il Pokémon di settima generazione con accesso al numero maggiore di Mosse Uovo, ossia nove.",
+        "Nonostante sia in parte di tipo Acciaio, non può imparare mosse di quel tipo salendo di livello."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/togedemaru.mp3",
+    "dex_entries": {
+        "togedemaru": {
+            "sun": "Normalmente tiene le spine che ha sulla schiena abbassate, ma se viene infastidito le drizza per trafiggere chi lo attacca.",
+            "moon": "Si serve delle grandi spine che ha sulla schiena come parafulmini, attirando i fulmini su di sé per incamerare elettricità.",
+            "ultra-sun": "Quando viene infastidito o colto di sorpresa, le 14 spine che ha sulla schiena si drizzano spontaneamente.",
+            "ultra-moon": "Poiché la sua capacità di generare elettricità non è molto sviluppata, si espone ai fulmini per ricaricarsi.",
+            "sword": "Si serve della lunga spina che ha sulla schiena per attirare e incamerare l'energia elettrica dei fulmini e dei Pokémon di tipo Elettro.",
+            "shield": "In caso di pericolo si appallottola, drizza le spine sulla schiena e scarica energia elettrica all'impazzata."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Magico"
+    ],
+    "generation": 7,
+    "height": {
+        "togedemaru": "0,3 m",
+        "dominante": "0,6 m"
+    },
+    "id": 777,
+    "name": "Togedemaru",
+    "name_origin": "Togedemaru potrebbe derivare da 棘 toge, spina, 電気 denki, elettricità e 丸 maru, rotondo. Potrebbe anche essere letto letteralmente come 棘で丸 toge de maru, rotondo e spinoso. La traduzione letterale di Togedemaru è rotondo con spine, un riferimento alle spine triangolari presenti sul suo corpo. ",
+    "origin": "Togedemaru sembra essere basato su un riccio o su un ratto spinoso di Ryūkyū . ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Ricciopalla",
+    "sprites": {
+        "togedemaru": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7b/Homem0777.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/50/Homemsh0777.png"
+        }
+    },
+    "stats": {
+        "togedemaru": {
+            "hp": 65,
+            "atk": 98,
+            "def": 63,
+            "spa": 40,
+            "spd": 73,
+            "spe": 96
+        }
+    },
+    "stats_sum": {
+        "togedemaru": 435
+    },
+    "types": {
+        "togedemaru": [
+            "Elettro",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "togedemaru": "3,3 kg",
+        "dominante": "13,0 kg"
+    }
+}

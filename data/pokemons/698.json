@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "amaura": {
+            "primary": "Pellegelo",
+            "hidden": "Scendineve"
+        }
+    },
+    "curiosities": [
+        "Nessun Pokémon ha la stessa combinazione di tipi di Amaura e della sua evoluzione.",
+        "Fino all'ottava generazione, con l'avvento di Arctozolt e Arctovish, era l'unico Pokémon di tipo Ghiaccio ad essere rigenerato da un fossile."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/amaura.mp3",
+    "dex_entries": {
+        "amaura": {
+            "x": "Pokémon preistorico riportato in vita dopo più di 100 milioni di anni grazie a parti del suo corpo rinvenute nel ghiaccio.",
+            "y": "Pokémon dal carattere tranquillo. Abitava in terre fredde, in cui non doveva temere la presenza di terribili predatori come i Tyrantrum.",
+            "omega-ruby": "Pokémon preistorico riportato in vita dopo più di 100 milioni di anni grazie a parti del suo corpo rinvenute nel ghiaccio.",
+            "alpha-sapphire": "Pokémon dal carattere tranquillo. Abitava in terre fredde,in cui non doveva temere la presenza di terribili predatori come i Tyrantrum.",
+            "ultra-sun": "In passato abitava nelle terre più fredde. Si dice che quando emette il suo verso, nel cielo notturno compaia l’aurora boreale.",
+            "ultra-moon": "È stato rigenerato con successo, ma si pensa che il clima attuale sia troppo caldo e che la sua speranza di vita non sia molto elevata.",
+            "sword": "È stato rigenerato da un fossile. Viveva in gruppo in regioni fredde, dove i predatori scarseggiavano.",
+            "shield": "Pokémon dell’antichità ormai estinto. A volte ne vengono scoperti esemplari conservatisi all’interno di blocchi di ghiaccio."
+        }
+    },
+    "egg_groups": [
+        "Mostro"
+    ],
+    "generation": 6,
+    "height": {
+        "amaura": "1,3 m"
+    },
+    "id": 698,
+    "name": "Amaura",
+    "name_origin": "Amaura è una contrazione di Amargasaurus unito ad aurora. Amarus è una contrazione di Amargasaurus. ",
+    "origin": "Amaura è basato su vari sauropodi come il Diplodocus. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Tundra",
+    "sprites": {
+        "amaura": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b5/Homem0698.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ee/Homemsh0698.png"
+        }
+    },
+    "stats": {
+        "amaura": {
+            "hp": 77,
+            "atk": 59,
+            "def": 50,
+            "spa": 67,
+            "spd": 63,
+            "spe": 46
+        }
+    },
+    "stats_sum": {
+        "amaura": 362
+    },
+    "types": {
+        "amaura": [
+            "Roccia",
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "amaura": "25,2 kg"
+    }
+}

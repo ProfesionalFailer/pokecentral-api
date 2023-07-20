@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "lunala": {
+            "primary": "Spettroguardia"
+        }
+    },
+    "curiosities": [
+        "Lunala potrebbe rappresentare il concetto alchemico dello spirito.",
+        "Lunala presenta la stessa combinazione di tipi di Hoopa Vincolato.",
+        "Lunala e Solgaleo sono i primi e gli unici leggendari che presentano pre-evoluzioni.",
+        "Lunala e la sua controparte Solgaleo sono gli unici Leggendari mascotte che fanno parte della prima coppia di giochi di una generazione ad avere una statistica di base sotto il 90. Nel caso di Lunala, questa statistica corrisponde alla Difesa.",
+        "Lunala, evolvendo da Cosmoem, ha la maggior perdita di peso di qualsiasi altro Pokémon. La loro differenza di peso è 879,9 kilogrammi.",
+        "Lunala, a pari merito con Giratina, ha il totale di statistiche base più alto tra tutti i Pokémon di tipo Spettro.",
+        "Anche se il Pokédex di Alola afferma che Lunala sia l'evoluzione femminile di Cosmoem, il Pokémon rimane di sesso sconosciuto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lunala.mp3",
+    "dex_entries": {
+        "lunala": {
+            "sun": "Si dice che sia l'evoluzione femminile di Cosmog. Quando il suo terzo occhio si manifesta, significa che sta volando verso un altro mondo.",
+            "moon": "Si dice che viva in un altro mondo. Assorbe la luce facendo calare le tenebre anche sulle giornate più luminose.",
+            "ultra-sun": "In antichissimi documenti si parla di lui come della \"creatura che evoca la luna\".",
+            "ultra-moon": "A volte gli Ultravarchi che apre servono da passaggio verso il nostro mondo per forze e forme di vita sconosciute.",
+            "sword": "Viene chiamato \"la creatura che evoca la luna\". Converte qualsiasi tipo di luce in energia per sostentarsi.",
+            "shield": "Assorbe tutta la luce che lo circonda per assumere la forma di una splendente luna piena che illumina l'oscurità notturna."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 7,
+    "height": {
+        "lunala": "4,0 m"
+    },
+    "id": 792,
+    "name": "Lunala",
+    "name_origin": "Lunala potrebbe essere una combinazione di luna e ala, in riferimento alla forma delle sue ali. ",
+    "origin": "È probabilmente basato su un pipistrello e su di un acchiappasogni, a cui sono stati aggiunti elementi ricordanti la luna. Potrebbe anche essere ispirato a Itzpapalotl, una divinità Azteca spesso raffigurata come un pipistrello con delle ali a forma di lama; a Camazotz, una divinità Maya a forma di pipistrello associata alla notte, alla morte e al sacrificio; alla dea protettrice delle Isole Samoa; e a Pe'a-pe'a-makawalu, un pipistrello a cui vennero strappati gli otto occhi dal semidio Hawaiano Maui. Questa potrebbe essere anche l'ispirazione per l'occhio ausiliario di Lunala visibile durante la sua fase luna piena. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Lunare",
+    "sprites": {
+        "lunala": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f1/Homem0792.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0792.png"
+        }
+    },
+    "stats": {
+        "lunala": {
+            "hp": 137,
+            "atk": 113,
+            "def": 89,
+            "spa": 137,
+            "spd": 107,
+            "spe": 97
+        }
+    },
+    "stats_sum": {
+        "lunala": 680
+    },
+    "types": {
+        "lunala": [
+            "Psico",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "lunala": "120,0 kg"
+    }
+}

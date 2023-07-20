@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "forma-melodia-e-toxtricity-gigamax-(melodia)": {
+            "primary": "Punk Rock",
+            "secondary": "Più",
+            "hidden": "Tecnico"
+        },
+        "forma-basso-e-toxtricity-gigamax-(basso)": {
+            "primary": "Punk Rock",
+            "secondary": "Meno",
+            "hidden": "Tecnico"
+        }
+    },
+    "curiosities": [
+        "Toxtricity e la sua pre-evoluzione Toxel sono i primi Pokémon ad avere la combinazione di tipi Elettro/Veleno.",
+        "Toxtricity è l'unico Pokémon con il totale delle statistiche base pari a 502.",
+        "Tutte la nature che diminuiscono l'Attacco  possono essere ottenute solamente da Toxtricity Forma Basso, mentre quelle che diminuiscono la Difesa Speciale  possono essere ottenute solamente da Toxtricity Forma Melodia.",
+        "Come da lui stesso confermato, Yusuke Kozaki s'è occupato della progettazione di Toxtricity."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/toxtricity.mp3",
+    "dex_entries": {
+        "forma-melodia": {
+            "sword": "Quando produce energia elettrica strofinando le protuberanze che ha sul petto, tutt'intorno riverbera un suono simile a quello di una chitarra.",
+            "shield": "È litigioso e irascibile. Ingurgita acqua stagnante in grandi quantità per assorbire le tossine in essa contenute.",
+            "scarlet": "Quando secerne il suo sudore velenoso mentre rilascia elettricità, diffonde intorno una melodia che ricorda il suono di una chitarra.",
+            "violet": "Le scariche elettriche che genera sfregando violentemente le protuberanze che ha sul petto possono superare facilmente i 15.000 volt."
+        },
+        "forma-basso": {
+            "sword": "È in grado di produrre scariche elettriche fino a 15.000 volt. Tende a sottovalutare qualunque nemico si trovi davanti.",
+            "shield": "Quando produce elettricità dagli organi che ha nel petto, si sente un suono simile a quello di un basso elettrico.",
+            "scarlet": "Molti giovani lo ammirano per l’atteggiamento imperturbabile di fronte a qualunque avversario e la nonchalance con cui attacca briga.",
+            "violet": "Quando ingurgita acqua stagnante e genera elettricità all’interno del corpo, si sente un suono ritmico simile a quello di un basso elettrico."
+        },
+        "toxtricity-gigamax": {
+            "sword": "Usa la sua sovrabbondante elettricità come arma. Le sue riserve di energia elettrica sono superiori persino a quelle di una nube temporalesca.",
+            "shield": "Il suo veleno gli è arrivato al cervello, facendogli perdere del tutto il controllo. Quando si scatena gronda un sudore tossico che inquina il terreno."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 8,
+    "height": {
+        "toxtricity": "1,6 m",
+        "toxtricity-gigamax": "> 24,0 m"
+    },
+    "id": 849,
+    "name": "Toxtricity",
+    "name_origin": "Toxtricity potrebbe essere una combinazione di toxic, tossico, ed electricity, elettricità. Ricorda anche toxicity, tossicità. Strinder potrebbe essere una combinazione di strings, le corde di uno strumento, e salamander, salamandra. ",
+    "origin": "Toxtricity potrebbe essere basato su una lucertola, in particolare quelle del genere Agama, come la Agama mwanzae o la Agama planiceps. Come Toxtricity, questo genere di lucertola è conosciuto per la sua varietà di colori vivaci e per le punte che possiede intorno alle orecchie. Lottano usando le loro code come fruste. Potrebbe essere basato anche sulla musica rock o sui chitarristi punk rock. La Forma Melodia e la Forma Basso potrebbero ispirarsi alla chitarra elettrica e al basso, con il numero delle sporgenze sul torace pari al numero di corde della chitarra su cui sono ispirati  che fanno un suono simile ai rispettivi strumenti musicali quando suonati dal Pokémon. L'abitudine di Toxtricity Gigamax di generare una chitarra per utilizzarla per attaccare potrebbe essere un riferimento ad un atto eseguito da diversi artisti che rompono la chitarra sul palco dopo aver suonato una canzone famosa. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Punk",
+    "sprites": {
+        "forma-melodia": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6c/Homem0849.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/63/Homemsh0849.png"
+        },
+        "forma-basso": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a6/Homem0849B.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0849B.png"
+        },
+        "toxtricity-gigamax-(melodia)": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d8/Homem0849Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b4/Homemsh0849Gi.png"
+        }
+    },
+    "stats": {
+        "toxtricity": {
+            "hp": 75,
+            "atk": 98,
+            "def": 70,
+            "spa": 114,
+            "spd": 70,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "toxtricity": 502
+    },
+    "types": {
+        "toxtricity": [
+            "Elettro",
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "toxtricity": "40,0 kg",
+        "toxtricity-gigamax": "???,? kg"
+    }
+}

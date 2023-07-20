@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Accendilotta"
+        }
+    },
+    "curiosities": [
+        "Il tipo della famiglia evolutiva di Aegislash, Acciaio/Spettro, era unico tra tutte le famiglie evolutive prima della nona generazione.",
+        "Nella Forma Spada, possiede la statistica di Difesa più bassa del tipo Acciaio.",
+        "Detiene inoltre lo stesso record della famiglia evolutiva di Magnezone: ben 12 tipi hanno un'efficacia minore di 1 contro di lui.\n\tTuttavia la similitudine si ferma qui visto che ha 3 immunità e 9 resistenze contro la singola immunità e le 11 resistenze di Magnezone.",
+        "Tuttavia la similitudine si ferma qui visto che ha 3 immunità e 9 resistenze contro la singola immunità e le 11 resistenze di Magnezone."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/aegislash.mp3",
+    "dex_entries": {
+        "aegislash": {
+            "x": "Ha accompagnato generazioni di re. È in grado di controllare e manipolare esseri umani e Pokémon col suo potere spettrale.",
+            "y": "Si dice che sia in grado di riconoscere chi possiede le qualità per diventare re e che le persone da lui indicate siano effettivamente destinate al trono.",
+            "omega-ruby": "Ha accompagnato generazioni di re. È in grado di controllare e manipolare esseri umani e Pokémon col suo potere spettrale.",
+            "alpha-sapphire": "Si dice che sia in grado di riconoscere chi possiede le qualità per diventare re e che le persone da lui indicate siano effettivamente destinate al trono."
+        },
+        "forma-scudo": {
+            "sword": "Con il suo corpo metallico e la sua barriera psichica può opporre una difesa in grado di indebolire qualsiasi tipo di attacco.",
+            "shield": "Ha manipolato il pensiero di esseri umani e Pokémon con il suo potere spettrale facendogli costruire un paese adatto alle sue esigenze."
+        },
+        "forma-spada": {
+            "sword": "Questa forma è specializzata nell'attacco. Sfrutta il peso e la durezza dell'acciaio per fare a pezzi il nemico.",
+            "shield": "In passato, un re conquistò un paese affiancato da un Aegislash, ma la sua energia vitale venne assorbita e il regno cadde in rovina."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 6,
+    "height": {
+        "aegislash": "1,7 m"
+    },
+    "id": 681,
+    "name": "Aegislash",
+    "name_origin": "Il nome Aegislash è l'unione del nome di Aegis  e della parola Slash ovvero lacerare. Gillguard deriva da Gilgamesh, 斬る kiru  e shield  ",
+    "origin": "Sembra essere basato su uno scudo e una spada posseduti da un'anima antica, il fatto che l'allenatore che sceglie è destinato a diventare re sembra essere basato sulle leggende di alcune spade europee come Excalibur e Durandal. ",
+    "shape": "quadrupede",
+    "specie": "Pokémon Spadareale",
+    "sprites": {
+        "forma-scudo": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b2/Homem0681.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0681.png"
+        },
+        "forma-spada": {
+            "default": "https://media.pokemoncentral.it/wiki/7/77/Homem0681S.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0681S.png"
+        }
+    },
+    "stats": {
+        "forma-scudo": {
+            "hp": 60,
+            "atk": 50,
+            "def": 140,
+            "spa": 50,
+            "spd": 140,
+            "spe": 60
+        },
+        "forma-spada": {
+            "hp": 60,
+            "atk": 140,
+            "def": 50,
+            "spa": 140,
+            "spd": 50,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "forma-scudo": 500,
+        "forma-spada": 500
+    },
+    "types": {
+        "aegislash": [
+            "Acciaio",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "aegislash": "53,0 kg"
+    }
+}

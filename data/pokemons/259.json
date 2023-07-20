@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "marshtomp": {
+            "primary": "Acquaiuto",
+            "hidden": "Umidità"
+        }
+    },
+    "curiosities": [
+        "Marshtomp è l'unico starter di tipo Acqua di primo stadio con due tipi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/marshtomp.mp3",
+    "dex_entries": {
+        "marshtomp": {
+            "ruby": "La superficie corporea di MARSHTOMP è avvolta da una spessa pellicola appiccicosa che gli consente di vivere sulla terraferma. Questo POKéMON gioca con la fanghiglia sul fondo del mare nei momenti di bassa marea.",
+            "sapphire": "MARSHTOMP è molto più a suo agio nel fango che non in acqua e sa muoversi con estrema rapidità. La parte inferiore del suo corpo mostra un chiaro sviluppo, consentendogli di camminare solo sugli arti inferiori.",
+            "emerald": "Grazie alle robuste zampe posteriori, riesce a stare ritto in piedi. Si indebolisce se l'epidermide si secca, perciò la mantiene umida giocando nel fango.",
+            "firered": "Predilige i terreni fangosi, dove l'equilibrio è precario. Nel fango si disfa rapidamente dei nemici.",
+            "leafgreen": "Predilige i terreni fangosi, dove l'equilibrio è precario. Nel fango si disfa rapidamente dei nemici.",
+            "diamond": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "pearl": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "platinum": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "heartgold": "Dato che si allena sempre sguazzando nel fango, si ritrova con due arti inferiori fortissimi.",
+            "soulsilver": "Dato che si allena sempre sguazzando nel fango, si ritrova con due arti inferiori fortissimi.",
+            "black": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "white": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "black-2": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "white-2": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "x": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "y": "Dato che si allena sempre sguazzando nel fango, si ritrova con due arti inferiori fortissimi.",
+            "omega-ruby": "La superficie corporea di Marshtomp è avvolta da una spessa pellicola appiccicosa che gli consente di vivere sulla terraferma. Questo Pokémon gioca con la fanghiglia sul fondo del mare nei momenti di bassa marea.",
+            "alpha-sapphire": "Marshtomp è molto più a suo agio nel fango che non in acqua e sa muoversi con estrema rapidità. La parte inferiore del suo corpo mostra un chiaro sviluppo, consentendogli di camminare solo sugli arti inferiori.",
+            "brilliant-diamond": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "shining-pearl": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Acqua 1"
+    ],
+    "generation": 3,
+    "height": {
+        "marshtomp": "0,70 m"
+    },
+    "id": 259,
+    "name": "Marshtomp",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi marsh  e stomp .\nIl suo nome giapponese, ヌマクロー Numacraw, probabilmente deriva da 沼 numa  e da crawfish . ",
+    "origin": "Basato su una specie di saltafango o su un Ambystoma mexicanum ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Fango Pesce",
+    "sprites": {
+        "marshtomp": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8d/Homem0259.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0259.png"
+        }
+    },
+    "stats": {
+        "marshtomp": {
+            "hp": 70,
+            "atk": 85,
+            "def": 70,
+            "spa": 60,
+            "spd": 70,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "marshtomp": 405
+    },
+    "types": {
+        "marshtomp": [
+            "Terra",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "marshtomp": "28 kg"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Gelofaccia"
+        }
+    },
+    "curiosities": [
+        "Eiscue condivide la sua categoria con Piplup e Prinplup. Tutti e tre sono conosciuti come Pokémon Pinguino."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/eiscue.mp3",
+    "dex_entries": {
+        "gelofaccia": {
+            "sword": "È arrivato da un luogo freddissimo trasportato dalla corrente. Mantiene sempre fredda la testa servendosi del ghiaccio.",
+            "shield": "Raffredda costantemente la testa con del ghiaccio perché non sopporta il caldo. Usa il pelo che ha sul capo per pescare le sue prede.",
+            "scarlet": "Trascorrono i giorni più caldi in gruppo, tenendo attaccati insieme i blocchi di ghiaccio sulle teste per raffreddarsi a vicenda.",
+            "violet": "Il ghiaccio della testa ha un gusto leggermente salato. È giunto da una lontana terra gelida trasportato dalle correnti marine."
+        },
+        "liquefaccia": {
+            "sword": "Assume questa forma quando il ghiaccio che ricopre il suo volto va in frantumi. Molti vanno matti per la sua buffa espressione corrucciata.",
+            "shield": "Il pelo che ha sul capo è collegato direttamente al suo cervello. Quando si mette a pensare genera una corrente di aria fredda.",
+            "scarlet": "Forma assunta quando il ghiaccio sul volto va in frantumi. Emette aria fredda dalla punta del pelo per proteggere il volto sensibile al calore.",
+            "violet": "Nonostante l’aspetto, non è portato per il nuoto. Attira la preda con sfere di ghiaccio create sulla punta del pelo per poi pescarla."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "generation": 8,
+    "height": {
+        "eiscue": "1,4 m"
+    },
+    "id": 875,
+    "name": "Eiscue",
+    "name_origin": "Eiscue potrebbe essere una combinazione di Eis, ghiaccio o gelato in tedesco, e ice cube, cubo di ghiaccio. Korippo potrebbe essere una combinazione di 氷 kōri, ghiaccio, e 立方 rippō, cubo. ",
+    "origin": "Eiscue potrebbe essere basato su un pinguino con un cubo di ghiaccio in testa. Il suo aspetto potrebbe trarre ispirazione da un'alca impenne, un uccello incapace di volare che abitava le Isole britanniche prima della sua estinzione. L'alca impenne era noto per il suo comportamento: galleggiava con la testa fuori dall'acqua e veniva cacciato per essere utilizzato come esca per i pesci. La testa dell'animale diventava più bianca durante gli inverni. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Pinguino",
+    "sprites": {
+        "gelofaccia": {
+            "default": "https://media.pokemoncentral.it/wiki/2/28/Homem0875.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/80/Homemsh0875.png"
+        },
+        "liquefaccia": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8e/Homem0875L.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0875L.png"
+        }
+    },
+    "stats": {
+        "gelofaccia": {
+            "hp": 75,
+            "atk": 80,
+            "def": 110,
+            "spa": 65,
+            "spd": 90,
+            "spe": 50
+        },
+        "liquefaccia": {
+            "hp": 75,
+            "atk": 80,
+            "def": 70,
+            "spa": 65,
+            "spd": 50,
+            "spe": 130
+        }
+    },
+    "stats_sum": {
+        "gelofaccia": 470,
+        "liquefaccia": 470
+    },
+    "types": {
+        "eiscue": [
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "eiscue": "89,0 kg"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "abilities": {
+        "zubat": {
+            "primary": "Forza Interiore",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "Nessun altro Pokémon ha la stessa combinazione di tipo di Zubat e della sua famiglia evolutiva.",
+        "Zubat e Golbat sono presenti in tutti i Pokédex regionali .",
+        "Stranamente Zubat può utilizzare l'attacco Malosguardo nonostante non abbia occhi.",
+        "Zubat era l'ultimo Pokémon in ordine alfabetico fino alla quarta generazione. Dalla Quinta, Zweilous ha preso il suo posto e dalla sesta l'ultimo è Zygarde.",
+        "Fino ad ora, tutte le organizzazioni nemiche nelle principali serie di videogiochi hanno almeno uno dei loro membri che utilizza Zubat e/o un membro della sua famiglia evolutiva.",
+        "Zubat condivide il nome della specie con le sue evoluzioni Golbat e Crobat e con Woobat: sono tutti noti come Pokémon Pipistrello.",
+        "Nella regione di Kalos è presente la Grotta Trait d'Union, denominata Tana degli Zubat in quanto unico luogo della regione in cui siano presenti tali Pokémon.",
+        "Zubat può essere contrapposto a Noibat in quanto sono entrambi di tipo Volante, hanno entrambi Intrapasso come abilità speciale e hanno esattamente le stesse statistiche di base, solamente con Attacco e Attacco Speciale scambiati.",
+        "La famiglia evolutiva di Zubat ha tre doppie resistenze, seconda solo a Heatran, che ne ha cinque.",
+        "Fino alla quarta generazione, né Zubat né Golbat potevano imparare Volo pur essendo di tipo Volante.",
+        "Zubat e la sua linea evolutiva sembrano essere simili alla famiglia evolutiva di Woobat: tutti i membri di entrambe le famiglie evolutive sono conosciuti come Pokémon Pipistrello , vivono in grotte o altri luoghi bui, le loro forme base non hanno occhi visibili, le loro forme finali si evolvono tramite affetto e hanno le forme cromatiche simili ; in più, i loro nomi si assomigliano avendo il suffisso bat ."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/zubat.mp3",
+    "dex_entries": {
+        "zubat": {
+            "red": "Forma colonie in luoghi oscuri. Usa ultrasuoni per identificare e avvicinarsi ai suoi obiettivi.",
+            "blue": "Forma colonie in luoghi oscuri. Usa ultrasuoni per identificare e avvicinarsi ai suoi obiettivi.",
+            "yellow": "Durante il volo emette degli ultrasuoni per localizzare gli ostacoli circostanti.",
+            "gold": "Mentre vola emette continuamente ultrasuoni dalla bocca per analizzare l'ambiente circostante.",
+            "silver": "Capace di volare tranquillamente al buio, emette versi ad ultrasuoni per schivare gli ostacoli.",
+            "crystal": "Durante il giorno riposano insieme, appesi ai soffitti di vecchi edifici o all'interno di grotte.",
+            "ruby": "ZUBAT rimane perfettamente immobile al buio durante le ore diurne più luminose. Infatti la prolungata esposizione al sole gli provoca gravi ustioni.",
+            "sapphire": "ZUBAT evita la luce del sole perché nociva per la sua salute. Durante il giorno sta rintanato in grotte o sotto i cornicioni di vecchie case, dormendo appeso a testa in giù.",
+            "emerald": "Poiché ZUBAT vive in grotte oscure, i suoi occhi si sono atrofizzati. Pur non vedendo, è in grado di identificare gli ostacoli grazie agli ultrasuoni che emette.",
+            "firered": "Non ha occhi, ma si sposta agilmente nella notte emettendo ultrasuoni la cui eco lo avverte degli ostacoli.",
+            "leafgreen": "Forma colonie in luoghi oscuri. Usa ultrasuoni per identificare e avvicinarsi ai suoi obiettivi.",
+            "diamond": "Non ha occhi, ma avverte gli ostacoli con le onde ultrasoniche che emette dalla bocca.",
+            "pearl": "Non ama la luce solare, pertanto si nasconde nelle fitte foreste e nelle grotte fino al tramonto.",
+            "platinum": "Rileva la sua posizione e sonda l’area circostante con le onde ultrasoniche che emette dalla bocca.",
+            "heartgold": "Mentre vola emette continuamente ultrasuoni dalla bocca analizzando così l’ambiente circostante.",
+            "soulsilver": "Capace di volare tranquillamente al buio, emette versi ad ultrasuoni per schivare gli ostacoli.",
+            "black": "Rileva la sua posizione e sonda l'area circostante con le onde ultrasoniche che emette dalla bocca.",
+            "white": "Rileva la sua posizione e sonda l'area circostante con le onde ultrasoniche che emette dalla bocca.",
+            "black-2": "È privo degli occhi, ma non ha problemi a volare qui e là. Percepisce l'ambiente circostante emettendo ultrasuoni.",
+            "white-2": "È privo degli occhi, ma non ha problemi a volare qui e là. Percepisce l'ambiente circostante emettendo ultrasuoni.",
+            "x": "Non ha occhi, ma avverte gli ostacoli con le onde ultrasoniche che emette dalla bocca.",
+            "y": "Non ha occhi, ma si sposta agilmente nella notte emettendo ultrasuoni la cui eco lo avverte degli ostacoli.",
+            "omega-ruby": "Zubat rimane perfettamente immobile al buio durante le ore diurne più luminose. Infatti la prolungata esposizione al sole gli provoca delle bruciature.",
+            "alpha-sapphire": "Zubat evita la luce del sole perché nociva per la sua salute. Durante il giorno sta rintanato in grotte o sotto i cornicioni di vecchie case, dormendo appeso a testa in giù.",
+            "sun": "Di giorno dorme dentro le grotte. Non ha occhi e quando vola emette ultrasuoni tramite i quali percepisce l'ambiente circostante.",
+            "moon": "L'esposizione alla luce del sole gli provoca delle bruciature. La frequenza degli ultrasuoni che emette varia da un gruppo all'altro.",
+            "ultra-sun": "Non ha occhi e non può vedere, ma è in grado di percepire l'ambiente circostante emettendo ultrasuoni dalla bocca.",
+            "ultra-moon": "Ha una pelle così sottile che la luce solare gli provoca delle bruciature. Quando fa freddo si stringe ai suoi simili per scaldarsi.",
+            "lets-go-pikachu": "Durante il volo emette degli ultrasuoni dalla bocca per localizzare gli ostacoli sul suo percorso.",
+            "lets-go-eevee": "Durante il volo emette degli ultrasuoni dalla bocca per localizzare gli ostacoli sul suo percorso.",
+            "sword": "Sonda l'ambiente circostante emettendo ultrasuoni dalla bocca. In questo modo riesce a volteggiare agilmente anche in caverne strette.",
+            "shield": "Vive in grotte mai rischiarate dalla luce del sole. Quando si fa giorno, si raggruppa con i suoi simili per scaldarsi mentre dorme.",
+            "brilliant-diamond": "Non ha occhi, ma avverte gli ostacoli con le onde ultrasoniche che emette dalla bocca.",
+            "shining-pearl": "Non ama la luce solare, pertanto si nasconde nel fitto delle foreste e nelle grotte fino al tramonto.",
+            "legends-arceus": "Fa di antri tenebrosi il suo giaciglio. È cieco a causa della perdita di entrambi gli occhi, ma vola sondando l'ambiente circostante con onde sonore che emette dalle fauci."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 1,
+    "height": {
+        "zubat": "0,8 m"
+    },
+    "id": 41,
+    "name": "Zubat",
+    "name_origin": "Il nome Zubat deriva dalla parole inglese bat  e della parola giapponese ずばっと zubatto . Inoltre potrebbe essere un riferimento all'eroe della serie televisiva giapponese Kaiketsu Zubat. ",
+    "origin": "Zubat è ispirato ad un pipistrello, mentre la sua mancanza di occhi è un riferimento all'idea sbagliata che i pipistrelli siano ciechi. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Pipistrello",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/4/48/Homem0041.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0041.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a2/Homef0041.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homefsh0041.png"
+        }
+    },
+    "stats": {
+        "zubat": {
+            "hp": 40,
+            "atk": 45,
+            "def": 35,
+            "spa": 30,
+            "spd": 40,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "zubat": 245
+    },
+    "types": {
+        "zubat": [
+            "Veleno",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "zubat": "7,5 kg"
+    }
+}

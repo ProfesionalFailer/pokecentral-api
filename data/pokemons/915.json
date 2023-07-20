@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "lechonk": {
+            "primary": "Aromavelo",
+            "secondary": "Voracità",
+            "hidden": "Grassospesso"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Normale",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pagine con articoli di Johto World",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con evoluzioni ramificate",
+        "Pokémon con statistiche base totali di 254",
+        "Pokémon con statistiche base totali uniche"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lechonk.mp3",
+    "dex_entries": {
+        "lechonk": {
+            "scarlet": "Possiede un olfatto altamente sviluppato che usa solo per cercare cibo tutto il giorno.",
+            "violet": "Si nutre esclusivamente del cibo più pregiato. Il suo corpo emette un odore di erbe che i Pokemon Coleottero detestano."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 9,
+    "height": {
+        "lechonk": "0,5 m"
+    },
+    "id": 915,
+    "name": "Lechonk",
+    "name_origin": "Lechonk potrebbe derivare da lechón, spagnolo per maialino da latte, oink, onomatopea del verso del maiale, e chonk, gergo di internet per indicare un animale paffuto. Gureton potrebbe derivare da グルグル guruguru, onomatopea per l'atto di rotolarsi, ton, tonnellata, e glutton, ghiottone. ",
+    "origin": "Lechonk potrebbe essere basato sul maiale nero iberico, una razza di maiale molto antica situata in Spagna e in Portogallo, con il quale condivide, oltre che la colorazione, la dieta a base di frutta e noci. ",
+    "shape": "None",
+    "specie": "Pokémon Porcellino",
+    "sprites": {
+        "lechonk": {
+            "default": "https://media.pokemoncentral.it/wiki/4/46/Homem0915.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0915.png"
+        }
+    },
+    "stats": {
+        "lechonk": {
+            "hp": 54,
+            "atk": 45,
+            "def": 40,
+            "spa": 35,
+            "spd": 45,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "lechonk": 254
+    },
+    "types": {
+        "lechonk": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "lechonk": "10,2 kg"
+    }
+}

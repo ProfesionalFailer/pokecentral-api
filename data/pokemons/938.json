@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "tadbulb": {
+            "primary": "Mente Locale",
+            "secondary": "Statico",
+            "hidden": "Umidità"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Elettro",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Acqua 1",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 272",
+        "Pokémon con statistiche base totali uniche"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tadbulb.mp3",
+    "dex_entries": {
+        "tadbulb": {
+            "scarlet": "Genera energia elettrica muovendo la coda. Se percepisce un pericolo fa lampeggiare la testa per avvisare i suoi simili.",
+            "violet": "Fluttua grazie all'elettricità immagazzinata nel suo corpo. Quando in cielo compaiono nubi temporalesche fluttua più in alto del solito."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1"
+    ],
+    "generation": 9,
+    "height": {
+        "tadbulb": "0,3 m"
+    },
+    "id": 938,
+    "name": "Tadbulb",
+    "name_origin": "Tadbulb è la combinazione di tadpole  e light bulb . Zupika potrebbe essere la combinazione di 悪漢 zu  e ピカピカ光る pikapika . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Amperino",
+    "sprites": {
+        "tadbulb": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8c/Homem0938.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c5/Homemsh0938.png"
+        }
+    },
+    "stats": {
+        "tadbulb": {
+            "hp": 61,
+            "atk": 31,
+            "def": 41,
+            "spa": 59,
+            "spd": 35,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "tadbulb": 272
+    },
+    "types": {
+        "tadbulb": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "tadbulb": "0,4 kg"
+    }
+}

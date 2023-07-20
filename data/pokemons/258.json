@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "mudkip": {
+            "primary": "Acquaiuto",
+            "hidden": "Umidità"
+        }
+    },
+    "curiosities": [
+        "Mudkip è l'unico starter di tipo Acqua ad essere quadrupede, anche se le sue evoluzioni Marshtomp e Swampert sono in grado di camminare anche su due zampe.\n\tTuttavia, Froakie è in grado di camminare sia su due che su quattro zampe.",
+        "Tuttavia, Froakie è in grado di camminare sia su due che su quattro zampe.",
+        "Mudkip ha la più alta statistica di Attacco tra tutti i Pokémon iniziali nella loro forma base.",
+        "In un sondaggio condotto da Nintendo of Europe, Mudkip è stato votato come il Pokémon iniziale favorito dei fan, con Typhlosion e Blastoise subito a ridosso.",
+        "Nonostante abbia nel nome la parola Inglese mud , non possiede il tipo terra.\n\tTuttavia lo acquisisce evolvendosi.",
+        "Tuttavia lo acquisisce evolvendosi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mudkip.mp3",
+    "dex_entries": {
+        "mudkip": {
+            "ruby": "La pinna sulla testa di MUDKIP agisce come un radar sensibilissimo. Usando questa pinna come sensore in acqua e in aria, riesce a determinare cosa succede attorno a lui senza bisogno di guardare.",
+            "sapphire": "In acqua MUDKIP respira usando le branchie sulle mascelle. In caso di situazioni critiche in lotta scatena la sua forza strabiliante, riuscendo a frantumare rocce più grandi di lui.",
+            "emerald": "MUDKIP riesce a sollevare enormi rocce piantando le sue quattro zampe nel terreno e facendo forza. Dorme nascosto sotto terra vicino all'acqua.",
+            "firered": "La grande pinna sulla coda gli conferisce una straordinaria accelerazione in acqua. È minuto, ma forte.",
+            "leafgreen": "La grande pinna sulla coda gli conferisce una straordinaria accelerazione in acqua. È minuto, ma forte.",
+            "diamond": "Con la pinna sulla testa percepisce i movimenti dell’acqua e sta in guardia. Riesce a sollevare rocce.",
+            "pearl": "Con la pinna sulla testa percepisce i movimenti dell’acqua e sta in guardia. Riesce a sollevare rocce.",
+            "platinum": "Con la pinna sulla testa percepisce i movimenti dell’acqua e sta in guardia. Riesce a sollevare rocce.",
+            "heartgold": "Riesce a frantumare grandi rocce. Dorme accucciandosi nel fango che ristagna nel letto dei fiumi.",
+            "soulsilver": "Riesce a frantumare grandi rocce. Dorme accucciandosi nel fango che ristagna nel letto dei fiumi.",
+            "black": "Con la pinna sulla testa percepisce i movimenti dell'acqua e sta in guardia. Riesce a sollevare rocce.",
+            "white": "Con la pinna sulla testa percepisce i movimenti dell'acqua e sta in guardia. Riesce a sollevare rocce.",
+            "black-2": "Con la pinna sulla testa percepisce i movimenti dell'acqua e sta in guardia. Riesce a sollevare rocce.",
+            "white-2": "Con la pinna sulla testa percepisce i movimenti dell'acqua e sta in guardia. Riesce a sollevare rocce.",
+            "x": "La grande pinna sulla coda gli conferisce una straordinaria accelerazione in acqua. È minuto, ma forte.",
+            "y": "Con la pinna sulla testa percepisce i movimenti dell'acqua e sta in guardia. Riesce a sollevare rocce.",
+            "omega-ruby": "La pinna sulla testa di Mudkip agisce come un radar sensibilissimo. Usando questa pinna come sensore in acqua e in aria, riesce a determinare cosa succede intorno a lui senza bisogno di guardare.",
+            "alpha-sapphire": "In acqua Mudkip respira usando le branchie sulle mascelle. In caso di situazioni critiche nella lotta scatena la sua forza strabiliante, riuscendo a frantumare rocce più grandi di lui.",
+            "brilliant-diamond": "Analizzando le correnti d'acqua con la pinna che ha sulla testa, può percepire cosa gli succede intorno. È in grado di sollevare rocce.",
+            "shining-pearl": "Analizzando le correnti d'acqua con la pinna che ha sulla testa, può percepire cosa gli succede intorno. È in grado di sollevare rocce."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Acqua 1"
+    ],
+    "generation": 3,
+    "height": {
+        "mudkip": "0,40 m"
+    },
+    "id": 258,
+    "name": "Mudkip",
+    "name_origin": "Il nome Mudkip è una combinazione di mud, fango, e skip, saltare, ed è stato probabilmente scelto perché suona come mudskipper, saltafango, oppure mudpuppy, una salamandra acquatica del sottordine salamandroidea. Il suo nome giapponese è probabilmente basato su 水 mizu, \"acqua\" e ムツゴロウ mutsugorō, saltafango. ",
+    "origin": "Questo Pokémon si basa sul mudpuppy o forse sul Ambystoma mexicanum. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Fango Pesce",
+    "sprites": {
+        "mudkip": {
+            "default": "https://media.pokemoncentral.it/wiki/7/76/Homem0258.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homemsh0258.png"
+        }
+    },
+    "stats": {
+        "mudkip": {
+            "hp": 50,
+            "atk": 70,
+            "def": 50,
+            "spa": 50,
+            "spd": 50,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "mudkip": 310
+    },
+    "types": {
+        "mudkip": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "mudkip": "7,6 kg"
+    }
+}

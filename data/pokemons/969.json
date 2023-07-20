@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "glimmet": {
+            "primary": "Mantossina",
+            "hidden": "Corrosione"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Roccia",
+        "Pokémon di tipo Veleno",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Minerale",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 350"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/glimmet.mp3",
+    "dex_entries": {
+        "glimmet": {
+            "scarlet": "Assorbe sostanze nutritive dalle pareti delle caverne. Il suo corpo è avvolto da petali composti da cristalli velenosi.",
+            "violet": "I suoi cristalli di veleno sembrano in tutto e per tutto dei petali. Per proteggersi sparge polvere tossica come se fosse polline."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 9,
+    "height": {
+        "glimmet": "0,7 m"
+    },
+    "id": 969,
+    "name": "Glimmet",
+    "name_origin": "Glimmet potrebbe derivare da Glimmer . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Minerale",
+    "sprites": {
+        "glimmet": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f7/Homem0969.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0969.png"
+        }
+    },
+    "stats": {
+        "glimmet": {
+            "hp": 48,
+            "atk": 35,
+            "def": 42,
+            "spa": 105,
+            "spd": 60,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "glimmet": 350
+    },
+    "types": {
+        "glimmet": [
+            "Veleno",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "glimmet": "8,0 kg"
+    }
+}

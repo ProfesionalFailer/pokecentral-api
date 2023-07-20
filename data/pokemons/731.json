@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "pikipek": {
+            "primary": "Sguardofermo",
+            "secondary": "Abillegame",
+            "hidden": "Raccolta"
+        }
+    },
+    "curiosities": [
+        "Pikipek è il primo Pokémon di settima generazione ad essere stato presentato, durante il trailer di annuncio di Pokémon Sole e Luna del 27 febbraio 2016. In realtà in tale occasione viene mostrato solo il modello 3D in fase di creazione colorato solo parzialmente e senza indicazioni su nome, tipo o altro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pikipek.mp3",
+    "dex_entries": {
+        "pikipek": {
+            "sun": "Riesce a beccare i tronchi degli alberi al ritmo di 16 colpi al secondo. Usa i buchi così scavati come nido o per immagazzinare cibo.",
+            "moon": "Si nutre di bacche. Usa come proiettili i semi delle bacche mangiate, sputandoli dal becco per attaccare.",
+            "ultra-sun": "Picchia sul legno con il suo duro becco. Dal ritmo dei suoi colpi è possibile capire il suo umore e il suo stato di salute.",
+            "ultra-moon": "Sembra esile ma nel collo ha muscoli d'acciaio. Riesce a beccare i tronchi degli alberi al ritmo di 16 colpi al secondo."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 7,
+    "height": {
+        "pikipek": "0,3 m"
+    },
+    "id": 731,
+    "name": "Pikipek",
+    "name_origin": "Pikipek deriva probabilmente da peck, beccare, nonché il nome inglese della mossa Beccata, riferimento al fatto che assomiglia ad un picchio. Tsutsukera potrebbe essere una combinazione di 突き tsutsuki, beccare, e 啄木鳥 keratsutsuki, picchio. ",
+    "origin": "Pikipek è basato su un picchio. Il suo aspetto ricorda quello del cardinale rosso, uccello tipico delle Hawaii e dei climi tropicali. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Picchio",
+    "sprites": {
+        "pikipek": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d8/Homem0731.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0731.png"
+        }
+    },
+    "stats": {
+        "pikipek": {
+            "hp": 35,
+            "atk": 75,
+            "def": 30,
+            "spa": 30,
+            "spd": 30,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "pikipek": 265
+    },
+    "types": {
+        "pikipek": [
+            "Normale",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "pikipek": "1,2 kg"
+    }
+}

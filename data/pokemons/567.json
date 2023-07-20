@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "archeops": {
+            "primary": "Sconforto"
+        }
+    },
+    "curiosities": [
+        "Archeops ha una somma delle statistiche base unica, pari a 567, ed è anche l'unico Pokémon per cui tale somma è uguale al numero d'indice nel Pokédex Nazionale.\n\tLa sua somma delle statistiche base è anche la più alta tra tutti i Pokémon fossile.",
+        "La sua somma delle statistiche base è anche la più alta tra tutti i Pokémon fossile.",
+        "Archeops e la sua pre-evoluzione sono gli unici Pokémon fossile privi di abilità speciale.",
+        "Nessun Pokémon condivide la combinazione di Gruppi Uova della famiglia evolutiva di Archeops."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/archeops.mp3",
+    "dex_entries": {
+        "archeops": {
+            "black": "Spicca il volo prendendo la rincorsa da terra. Collabora coi suoi simili per catturare le prede.",
+            "white": "È più versato nella corsa che nel volo. Cattura le prede correndo a una velocità pari a quella di un'automobile.",
+            "black-2": "È più versato nella corsa che nel volo. Si lancia in aria a una velocità di 40 km/h sbattendo le ali.",
+            "white-2": "È più versato nella corsa che nel volo. Si lancia in aria a una velocità di 40 km/h sbattendo le ali.",
+            "x": "Spicca il volo prendendo la rincorsa da terra. Collabora coi suoi simili per catturare le prede.",
+            "y": "È più versato nella corsa che nel volo. Si lancia in aria a una velocità di 40 km/h sbattendo le ali.",
+            "omega-ruby": "Spicca il volo prendendo la rincorsa da terra. Collabora coi suoi simili per catturare le prede.",
+            "alpha-sapphire": "È più versato nella corsa che nel volo. Si lancia in aria a una velocità di 40 km/h sbattendo le ali.",
+            "sun": "Nonostante sapesse volare, si spostava principalmente via terra a una velocità media di 40 km/h.",
+            "moon": "Cacciava in gruppo: alcuni Pokémon intrappolavano la preda e i loro compagni la assalivano.",
+            "ultra-sun": "È un Pokémon antico dal piumaggio molto fitto. Solo i più esperti riescono a rigenerarlo con successo.",
+            "ultra-moon": "Si ritiene che sia l’antenato dei Pokémon alati. Ha i muscoli delle ali non ancora sviluppati e per volare deve prendere la rincorsa.",
+            "sword": "Prende la rincorsa per volare, percorrendo circa 4 km a una velocità di 40 km/h.",
+            "shield": "Si sa che questo Pokémon era in grado di volare, ma pare che fosse molto più abile nel cacciare le prede a terra."
+        }
+    },
+    "egg_groups": [
+        "Volante",
+        "Acqua 3"
+    ],
+    "generation": 5,
+    "height": {
+        "archeops": "1,4 m"
+    },
+    "id": 567,
+    "name": "Archeops",
+    "name_origin": "Il nome di Archeops deriva da Archaeopteryx. Il suffisso -ops è comune in molti generi di dinosauro. ",
+    "origin": "L'aspetto di Archeops ricorda quello di Microraptor, un piccolo dinosauro piumato, così come ricorda l'Archaeopteryx, ritenuto il primo uccello mai esistito. Potrebbe anche alludere ai serpenti piumati delle leggende mesoamericane. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Paleouccello",
+    "sprites": {
+        "archeops": {
+            "default": "https://media.pokemoncentral.it/wiki/1/19/Homem0567.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0567.png"
+        }
+    },
+    "stats": {
+        "archeops": {
+            "hp": 75,
+            "atk": 140,
+            "def": 65,
+            "spa": 112,
+            "spd": 65,
+            "spe": 110
+        }
+    },
+    "stats_sum": {
+        "archeops": 567
+    },
+    "types": {
+        "archeops": [
+            "Roccia",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "archeops": "32,0 kg"
+    }
+}

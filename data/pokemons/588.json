@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "karrablast": {
+            "primary": "Aiutinsetto",
+            "secondary": "Muta",
+            "hidden": "Nullodifesa"
+        }
+    },
+    "curiosities": [
+        "Karrablast e Shelmet sono stati distribuiti come Pokémon evento nonostante siano facilmente reperibili all'interno del gioco.",
+        "Karrablast e Shelmet sono gli unici Pokémon che devono essere scambiati con un Pokémon specifico per farli evolvere, in quanto devono essere scambiati fra di loro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/karrablast.mp3",
+    "dex_entries": {
+        "karrablast": {
+            "black": "Pokémon misterioso che si evolve ricevendo uno stimolo elettrico, se si trova in presenza di Shelmet.",
+            "white": "Se avverte un pericolo respinge il nemico spruzzando un liquido acido dalla bocca. Prende di mira Shelmet.",
+            "black-2": "Per qualche motivo, si evolve a contatto dell'energia elettrica che si crea quando attacca Shelmet.",
+            "white-2": "Per qualche motivo, si evolve a contatto dell'energia elettrica che si crea quando attacca Shelmet.",
+            "x": "Pokémon misterioso che si evolve ricevendo uno stimolo elettrico se si trova in presenza di Shelmet.",
+            "y": "Per qualche motivo, si evolve a contatto dell'energia elettrica che si crea quando attacca Shelmet.",
+            "omega-ruby": "Pokémon misterioso che si evolve ricevendo uno stimolo elettrico se si trova in presenza di Shelmet.",
+            "alpha-sapphire": "Per qualche motivo, si evolve a contatto dell'energia elettrica che si crea quando attacca Shelmet.",
+            "sword": "Il suo corpo reagisce misteriosamente all'energia elettrica. Si evolve se si trova in presenza di Shelmet.",
+            "shield": "Scioglie la conchiglia di Shelmet con il liquido che spruzza dalla bocca e ne mangia il contenuto."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 5,
+    "height": {
+        "karrablast": "0,5 m"
+    },
+    "id": 588,
+    "name": "Karrablast",
+    "name_origin": "Karrablast potrebbe essere una combinazione di Carabidae  o del greco κέρας kéras  o di carapace e blast  o plastron . ",
+    "origin": "Sembra essere basato sui Carabidae, in particolare sul Carabus  blaptoides, coleottero giapponese  la cui dieta è essenzialmente a base di lumache.\nKarrablast e Shelmet potrebbero basarsi sul concetto di coevoluzione, processo per il quale l'evoluzione di una specie influenza anche quella di altre specie, in questo caso riferito a predatore  e preda . ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Addentatore",
+    "sprites": {
+        "karrablast": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ee/Homem0588.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0588.png"
+        }
+    },
+    "stats": {
+        "karrablast": {
+            "hp": 50,
+            "atk": 75,
+            "def": 45,
+            "spa": 40,
+            "spd": 45,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "karrablast": 315
+    },
+    "types": {
+        "karrablast": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "karrablast": "5,9 kg"
+    }
+}

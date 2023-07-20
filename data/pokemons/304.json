@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "aron": {
+            "primary": "Vigore",
+            "secondary": "Testadura",
+            "hidden": "Metalpesante"
+        }
+    },
+    "curiosities": [
+        "In terza generazione Aron, Lairon e Aggron avevano una combinazione di tipi unica.",
+        "Aron ha la statistica base di Difesa più alta fra tutti i Pokémon non evoluti appartenenti ad una famiglia evolutiva di tre stadi. Condivide questa particolarità con Geodude."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/aron.mp3",
+    "dex_entries": {
+        "aron": {
+            "ruby": "Il corpo di ARON è costituito d'acciaio. Per mantenerne la consistenza ARON si ciba di pepite di ferro rinvenute scavando in montagna. Talvolta crea enorme scompiglio poiché si nutre anche di ponti e ferrovie.",
+            "sapphire": "ARON è dotato di un corpo d'acciaio. Con una sola potente carica riesce a demolire anche un camion a rimorchio. Questo costituisce poi un sano e ricco pasto per il POKéMON.",
+            "emerald": "ARON è rivestito da un'armatura d'acciaio, che viene sostituita da una nuova quando il POKéMON evolve. Quella vecchia è utilizzata per produrre vari oggetti di metallo.",
+            "firered": "Si nutre di ferro per formare il suo corpo d'acciaio. Scende dalle montagne per divorare i ponti e le ferrovie.",
+            "leafgreen": "Si nutre di ferro per formare il suo corpo d'acciaio. Scende dalle montagne per divorare i ponti e le ferrovie.",
+            "diamond": "Vive generalmente sui monti ma, spinto dalla fame, scende per cibarsi di ferrovie e automobili.",
+            "pearl": "Vive generalmente sui monti ma, spinto dalla fame, scende per cibarsi di ferrovie e automobili.",
+            "platinum": "Vive generalmente sui monti ma, spinto dalla fame, scende per cibarsi di ferrovie e automobili.",
+            "heartgold": "L'armatura d'acciaio che riveste ARON viene sostituita da una nuova quando il Pokémon si evolve.",
+            "soulsilver": "L'armatura d'acciaio che riveste ARON viene sostituita da una nuova quando il Pokémon si evolve.",
+            "black": "Vive generalmente sui monti ma, spinto dalla fame, scende per cibarsi di binari ferroviari e automobili.",
+            "white": "Vive generalmente sui monti ma, spinto dalla fame, scende per cibarsi di binari ferroviari e automobili.",
+            "black-2": "Si nutre di rocce ricche di ferro per alimentare il suo corpo d'acciaio. A volte mangia rotaie, creando seri problemi.",
+            "white-2": "Si nutre di rocce ricche di ferro per alimentare il suo corpo d'acciaio. A volte mangia rotaie, creando seri problemi.",
+            "x": "Vive generalmente sui monti ma, spinto dalla fame, scende per cibarsi di binari ferroviari e automobili.",
+            "y": "L'armatura d'acciaio che riveste Aron viene sostituita da una nuova quando il Pokémon si evolve.",
+            "omega-ruby": "Il corpo di Aron è costituito d'acciaio. Per mantenerne la consistenza Aron si ciba di pepite di ferro rinvenute scavando in montagna. Talvolta crea enorme scompiglio poiché si nutre anche di ponti e ferrovie.",
+            "alpha-sapphire": "Aron è dotato di un corpo d'acciaio. Con una sola potente carica riesce a demolire anche un camion a rimorchio. Questo costituisce poi un sano e ricco pasto per il Pokémon.",
+            "sword": "Si ciba di minerali ferrosi e talvolta di rotaie, che vanno poi a costituire l'armatura d'acciaio che protegge il suo corpo.",
+            "shield": "Quando si evolve, l'armatura d'acciaio si stacca. In passato, gli esseri umani la raccoglievano per utilizzarla in attività quotidiane.",
+            "brilliant-diamond": "Vive generalmente sui monti ma, spinto dalla fame, scende per cibarsi di binari ferroviari e automobili.",
+            "shining-pearl": "Vive generalmente sui monti ma, spinto dalla fame, scende per cibarsi di binari ferroviari e automobili."
+        }
+    },
+    "egg_groups": [
+        "Mostro"
+    ],
+    "generation": 3,
+    "height": {
+        "aron": "0,40 m"
+    },
+    "id": 304,
+    "name": "Aron",
+    "name_origin": "Aron è l'unione di Armor  e iron . Potrebbe anche aver a che fare con armadillo. ",
+    "origin": "Aron è basato sul Palgasauro, mostro mangiatore di ferro della mitologia coreana. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Corazza",
+    "sprites": {
+        "aron": {
+            "default": "https://media.pokemoncentral.it/wiki/8/82/Homem0304.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homemsh0304.png"
+        }
+    },
+    "stats": {
+        "aron": {
+            "hp": 50,
+            "atk": 70,
+            "def": 100,
+            "spa": 40,
+            "spd": 40,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "aron": 330
+    },
+    "types": {
+        "aron": [
+            "Acciaio",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "aron": "60,0 kg"
+    }
+}

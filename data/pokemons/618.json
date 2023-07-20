@@ -1,0 +1,102 @@
+{
+    "abilities": {
+        "stunfisk": {
+            "primary": "Statico",
+            "secondary": "Scioltezza",
+            "hidden": "Sabbiavelo"
+        },
+        "forma-di-galar": {
+            "primary": "Mimetismo"
+        }
+    },
+    "curiosities": [
+        "Nonostante sia basato su un pesce e viva nell'acqua, non è di tipo Acqua.\n\tLa sua voce Pokédex di Pokémon Bianco afferma che può vivere anche sottoterra, sebbene gli attacchi di tipo Terra e Acqua siano super efficaci contro di lui.",
+        "La sua voce Pokédex di Pokémon Bianco afferma che può vivere anche sottoterra, sebbene gli attacchi di tipo Terra e Acqua siano super efficaci contro di lui.",
+        "Stunfisk è l'unico Pokémon con il totale delle statistiche pari a 471.",
+        "Stunfisk è il Pokémon di tipo Elettro più lento.",
+        "È l'unico Pokémon di tipo Elettro rappresentato col colore marrone nel gioco.",
+        "Fino all'ottava generazione Stunfisk aveva una combinazione di tipi unica.",
+        "Le due abilità non speciali di Stunfisk sono correlate alla paralisi: Scioltezza ne impedisce l'effetto mentre Statico può causarla.",
+        "Stunfisk condivide la sua specie con Trapinch e Spidops: tutti e tre sono conosciuti come Pokémon Trappola.",
+        "Dalla sesta generazione l'abilità Scioltezza è ridondante in quanto immune alla paralisi perché di tipo Elettro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/stunfisk.mp3",
+    "dex_entries": {
+        "stunfisk": {
+            "black": "Ha la pelle così dura che un lottatore di sumo potrebbe calpestarlo senza fargli male. L'elettricità gli fa il solletico.",
+            "white": "Attende al varco le prede, sepolto nel fango in riva al mare. Se lo sfiorano, le paralizza con una scarica elettrica.",
+            "black-2": "Quando non riesce a paralizzare il nemico si dà alla fuga contorcendo il corpo e rimbalzando ad una velocità inaspettata.",
+            "white-2": "Quando non riesce a paralizzare il nemico si dà alla fuga contorcendo il corpo e rimbalzando ad una velocità inaspettata.",
+            "x": "Ha la pelle così dura che un lottatore di sumo potrebbe calpestarlo senza fargli male. L'elettricità gli fa il solletico.",
+            "y": "Attende al varco le prede, sepolto nel fango in riva al mare. Se lo sfiorano, le paralizza con una scarica elettrica.",
+            "omega-ruby": "Ha la pelle così dura che un lottatore di sumo potrebbe calpestarlo senza fargli male. L'elettricità gli fa il solletico.",
+            "alpha-sapphire": "Attende al varco le prede, sepolto nel fango in riva al mare. Se lo sfiorano, le paralizza con una scarica elettrica.",
+            "sword": "Abita i fondali che emergono durante la bassa marea. Ha sviluppato un organo che produce elettricità grazie a un batterio che vive nel fango.",
+            "shield": "Per qualche strano motivo accenna sempre un sorriso quando rilascia una forte scarica elettrica dai motivi gialli sul suo corpo."
+        },
+        "forma-di-galar": {
+            "sword": "Ha sviluppato un corpo di solido acciaio vivendo in luoghi fangosi ricchi di ferro.",
+            "shield": "Si nasconde nel fango e si serve delle labbra appariscenti per attirare la preda, poi la agguanta con le pinne d'acciaio seghettate."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Amorfo"
+    ],
+    "generation": 5,
+    "height": {
+        "stunfisk": "0,7 m"
+    },
+    "id": 618,
+    "name": "Stunfisk",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi stun , fish  e disk , oppure da fisk . ",
+    "origin": "Stunfisk può essere basato sul pesce prete, un pesce che spende la maggior parte del suo tempo sui fondali dei mari e che può emanare scariche elettriche se disturbato. ",
+    "shape": "pinne",
+    "specie": "Pokémon Trappola",
+    "sprites": {
+        "stunfisk": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a7/Homem0618.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/37/Homemsh0618.png"
+        },
+        "forma-di-galar": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c5/Homem0618G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0618G.png"
+        }
+    },
+    "stats": {
+        "stunfisk": {
+            "hp": 109,
+            "atk": 66,
+            "def": 84,
+            "spa": 81,
+            "spd": 99,
+            "spe": 32
+        },
+        "forma-di-galar": {
+            "hp": 109,
+            "atk": 81,
+            "def": 99,
+            "spa": 66,
+            "spd": 84,
+            "spe": 32
+        }
+    },
+    "stats_sum": {
+        "stunfisk": 471,
+        "forma-di-galar": 471
+    },
+    "types": {
+        "stunfisk": [
+            "Elettro",
+            "Terra"
+        ],
+        "forma-di-galar": [
+            "Acciaio",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "stunfisk": "11,0 kg",
+        "forma-di-galar": "20,5 kg"
+    }
+}

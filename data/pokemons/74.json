@@ -1,0 +1,120 @@
+{
+    "abilities": {
+        "geodude": {
+            "primary": "Testadura",
+            "secondary": "Vigore",
+            "hidden": "Sabbiavelo"
+        },
+        "forma-di-alola": {
+            "primary": "Magnetismo",
+            "secondary": "Vigore",
+            "hidden": "Pellelettro"
+        }
+    },
+    "curiosities": [
+        "Geodude ha la statistica base di Difesa più alta fra tutti i Pokémon non evoluti appartenenti ad una famiglia evolutiva a tre stadi. Condivide questa particolarità con Aron.",
+        "Geodude è uno dei cinque Pokémon di prima generazione che ha cambiato la cessione di Punti Esperienza in terza generazione, da 86 a 73. Gli altri sono Abra, Machop, Omanyte e Kabuto.",
+        "In molti anime e giochi, Geodude è visto levitare in aria. Tuttavia non può possedere l'abilità Levitazione né imparare la mossa Magnetascesa.\n\tNonostante questo, la Forma Alola di Geodude impara Magnetascesa per accoppiamento.",
+        "Nonostante questo, la Forma Alola di Geodude impara Magnetascesa per accoppiamento.",
+        "In un episodio della serie animata Disney Fillmore!, un Allenatore di tifo dice alla sua squadra di costruire una piramide umana \"Solida come un Geodude che usa la mossa Rafforzatore\". Tuttavia, dopo la seconda generazione, Geodude e la sua famiglia diventano incapaci di usare quella mossa.",
+        "Nonostante Geodude sia anche un Pokémon di tipo Terra, nell'episodio La grande sfida, il Pikachu di Ash sconfigge il Geodude di Brock due volte, utilizzando mosse di tipo Elettro.",
+        "Geodude è sempre usato da personaggi importanti specializzati nel tipo Roccia. Brock tuttavia è l'unico che lo fa evolvere nelle varie generazioni, nella I generazione e nella III ha un Geodude, nella II e nella IV è evoluto in un Graveler e nella V è ormai un Golem.",
+        "La forma cromatica di Geodude potrebbe essere un riferimento alla pepita d'oro. Tuttavia, in seconda generazione non ha un colore dorato, ma una semplice variante del suo colore originale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/geodude.mp3",
+    "dex_entries": {
+        "geodude": {
+            "red": "Trovato nei campi e in montagna. Se confuso con una roccia, può succedere di inciamparvi.",
+            "blue": "Trovato nei campi e in montagna. Se confuso con una roccia, può succedere di inciamparvi.",
+            "yellow": "Di solito si trova vicino ai sentieri di montagna. Se per sbaglio viene urtato diventa furioso.",
+            "gold": "Possono passare inosservati, ma se si guarda con attenzione si possono notare parecchi GEODUDE.",
+            "silver": "Scala di continuo ripide montagne con le braccia. Se è arrabbiato inizia ad agitare i pugni.",
+            "crystal": "Fieri dei loro corpi robusti, si divertono a scontrarsi per vedere chi ha il fisico più forte.",
+            "ruby": "Col passare del tempo, i profili di GEODUDE diventano sempre più levigati, rendendolo più tondeggiante. Tuttavia il cuore di questo POKéMON rimane sempre duro, ruvido e roccioso.",
+            "sapphire": "Quando GEODUDE dorme profondamente si nasconde parzialmente nel terreno. Non si sveglia neanche se i passanti lo calpestano involontariamente. La mattina questo POKéMON rotola a valle in cerca di cibo.",
+            "emerald": "GEODUDE è in grado di arrampicarsi su strade di montagna con la sola forza delle braccia. Poiché è simile ad una roccia, può accadere di inciamparvi involontariamente.",
+            "firered": "La forma arrotondata lo rende facilmente afferrabile, come una palla di neve da lanciare contro gli amici.",
+            "leafgreen": "Si trova nei campi e in montagna. Se confuso con una roccia, può succedere di inciamparvi.",
+            "diamond": "Molti vivono sui sentieri montani e se ne stanno mezzi infossati nel terreno ad osservare gli scalatori.",
+            "pearl": "È impossibile distinguerlo dalle rocce. Si scaglia contro gli altri per vedere chi è più duro.",
+            "platinum": "Quando riposa sembra un sasso. Se viene calpestato, si infuria e agita i pugni.",
+            "heartgold": "Possono passare inosservati, ma se si guarda con attenzione si possono notare parecchi GEODUDE.",
+            "soulsilver": "Scala di continuo ripide montagne con le braccia. Se è arrabbiato inizia ad agitare i pugni.",
+            "black": "Quando riposa sembra un sasso. Se viene calpestato, si infuria e agita i pugni.",
+            "white": "Quando riposa sembra un sasso. Se viene calpestato, si infuria e agita i pugni.",
+            "black-2": "Quando riposa sembra un sasso. Se viene calpestato, si infuria e agita i pugni.",
+            "white-2": "Quando riposa sembra un sasso. Se viene calpestato, si infuria e agita i pugni.",
+            "x": "Si trova nei campi e in montagna. Se confuso con una roccia, può succedere di inciamparvi.",
+            "y": "È impossibile distinguerlo dalle rocce. Si scaglia contro gli altri per vedere chi è più duro.",
+            "omega-ruby": "Col passare del tempo, i profili di Geodude diventano sempre più levigati, rendendolo più tondeggiante. Tuttavia il cuore di questo Pokémon rimane sempre duro, ruvido e roccioso.",
+            "alpha-sapphire": "Quando Geodude dorme profondamente si nasconde parzialmente nel terreno. Non si sveglia neanche se i passanti lo calpestano involontariamente. La mattina questo Pokémon rotola a valle in cerca di cibo.",
+            "sun": "La forma arrotondata lo rende facilmente afferrabile, ma è duro e pesante. Lanciarlo come se fosse una palla di neve è pericoloso.",
+            "moon": "Se ne trovano spesso in gran numero ai lati delle strade. Uno studioso senza nulla di meglio da fare ne ha contati 100 in un certo percorso.",
+            "ultra-sun": "Col passare degli anni le asperità del suo corpo vengono levigate, rendendolo perfettamente rotondo, e il suo carattere si fa più tranquillo.",
+            "ultra-moon": "Scala pareti scoscese a mani nude. Si dice che la pratica del bouldering sia stata ispirata da questo Pokémon.",
+            "lets-go-pikachu": "Lo si può trovare vicino ai sentieri di montagna. Bisogna fare attenzione a non calpestarlo per sbaglio, altrimenti diventa furioso.",
+            "lets-go-eevee": "Lo si può trovare vicino ai sentieri di montagna. Bisogna fare attenzione a non calpestarlo per sbaglio, altrimenti diventa furioso.",
+            "brilliant-diamond": "Molti vivono sui sentieri montani e rimangono parzialmente sepolti nel terreno a osservare gli scalatori.",
+            "shining-pearl": "È impossibile distinguerlo dalle rocce. Si scaglia contro i suoi simili per vedere chi è più duro.",
+            "legends-arceus": "Dimora tra le alture e usa le braccia per inerpicarsi su per ripidi sentieri. Insegue con astio chi incautamente lo calpesta e può pertanto risultare molesto."
+        },
+        "forma-di-alola": {
+            "sun": "Ha un corpo di pietra magnetizzato. Nei punti in cui il magnetismo è più intenso si formano grumi di polvere metallica.",
+            "moon": "Chi calpesta accidentalmente un Geodude che dorme a terra udirà uno schiocco e sentirà una scarica elettrica corrergli lungo la schiena.",
+            "ultra-sun": "Se lo si pesta scambiandolo per un sasso, si arrabbia e attacca con delle testate che, oltre a far male, danno anche la scossa.",
+            "ultra-moon": "Sfida i suoi simili facendo a testate. La polvere metallica sulla testa si raggruma nei punti in cui l'attrazione magnetica è più forte.",
+            "lets-go-pikachu": "La sua testa rocciosa è elettrica e magnetica. Chi lo calpesta accidentalmente viene colpito da una dolorosa scarica.",
+            "lets-go-eevee": "La sua testa rocciosa è elettrica e magnetica. Chi lo calpesta accidentalmente viene colpito da una dolorosa scarica."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 1,
+    "height": {
+        "geodude": "0,4 m"
+    },
+    "id": 74,
+    "name": "Geodude",
+    "name_origin": "\"Geodude\" è l'unione della parola greca \"geos\"  con quella inglese \"dude\" , oppure da \"geode\"  e \"dude\". ",
+    "origin": "Geodude potrebbe essere basato sulla \"roccia peluche\" . Comunque Geodude potrebbe essere ispirato solamente ad una roccia vivente. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Roccia",
+    "sprites": {
+        "geodude": {
+            "default": "https://media.pokemoncentral.it/wiki/1/19/Homem0074.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0074.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b7/Homem0074A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a0/Homemsh0074A.png"
+        }
+    },
+    "stats": {
+        "geodude": {
+            "hp": 40,
+            "atk": 80,
+            "def": 100,
+            "spa": 30,
+            "spd": 30,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "geodude": 300
+    },
+    "types": {
+        "geodude": [
+            "Terra",
+            "Roccia"
+        ],
+        "forma-di-alola": [
+            "Elettro",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "geodude": "20,0 kg",
+        "forma-di-alola": "20,3 kg"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Regalfiore"
+        }
+    },
+    "curiosities": [
+        "Cherrim è uno degli unici due Pokémon che cambiano la loro forma a seconda del tempo, l'altro è Castform.\n\tCherrim è anche uno dei due Pokémon in grado di trasformarsi in una forma alternativa, mentre la sua pre-evoluzione non può. L'altro è Darmanitan.",
+        "Cherrim è anche uno dei due Pokémon in grado di trasformarsi in una forma alternativa, mentre la sua pre-evoluzione non può. L'altro è Darmanitan.",
+        "Anche se il Pokédex in Pokémon Diamante e Perla e in Pokémon Platino permette di visualizzare diverse forme di un Pokémon, Cherrim è l'unico Pokémon la cui forma alternativa non può essere visualizzata."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cherrim.mp3",
+    "dex_entries": {
+        "cherrim": {
+            "diamond": "Sboccia quando fa caldo e cerca di godersi fino all'ultimo ogni momento che può passare al sole.",
+            "pearl": "È un timido germoglio che si rallegra quando fiorisce. Al calar del sole, torna ad essere germoglio.",
+            "platinum": "Quando splende il sole, ama aprire i suoi petali per assorbire i raggi solari con tutto il corpo.",
+            "heartgold": "Sboccia quando si espone ai raggi solari, espandendo la corolla e diventando molto attivo.",
+            "soulsilver": "Sboccia quando si espone ai raggi solari, espandendo la corolla e diventando molto attivo.",
+            "black": "Quando splende il sole, ama aprire i suoi petali per assorbire i raggi solari con tutto il corpo.",
+            "white": "Quando splende il sole, ama aprire i suoi petali per assorbire i raggi solari con tutto il corpo.",
+            "black-2": "Quando splende il sole, ama aprire i suoi petali per assorbire i raggi solari con tutto il corpo.",
+            "white-2": "Quando splende il sole, ama aprire i suoi petali per assorbire i raggi solari con tutto il corpo.",
+            "x": "Sboccia quando si espone ai raggi solari, espandendo la corolla e diventando molto attivo.",
+            "y": "Quando splende il sole, ama aprire i suoi petali per assorbire i raggi solari con tutto il corpo.",
+            "omega-ruby": "Sboccia quando si espone ai raggi solari, espandendo la corolla e diventando molto attivo.",
+            "alpha-sapphire": "Quando splende il sole, ama aprire i suoi petali per assorbire i raggi solari con tutto il corpo.",
+            "brilliant-diamond": "Sboccia quando la luce del sole si fa intensa, liberandosi all'istante di tutta la frustrazione e la rabbia accumulate quando era un bocciolo.",
+            "shining-pearl": "Da bocciolo è tutto serio, ma quando sboccia è sempre sorridente. Al calar del sole, torna a essere un bocciolo."
+        },
+        "forma-nuvola": {
+            "sword": "Quando è un bocciolo rimane pressoché immobile in attesa che spunti il sole.",
+            "shield": "I petali ripiegati sono molto duri e lo proteggono dalle beccate dei Pokémon alati.",
+            "legends-arceus": "Eccetto pochi flebili tremori, giammai si muove. La fragranza che trapela dai suoi petali chiusi attira copiosi Pokémon d'ogni sorta."
+        },
+        "forma-splendore": {
+            "sword": "Assume questa forma dopo essersi esposto alla luce solare e aver fatto il pieno di energia. Resta vivace fino al crepuscolo.",
+            "shield": "Il profumo delicato emanato dai suoi petali in piena fioritura attira i Pokémon di tipo Coleottero.",
+            "legends-arceus": "Nelle giornate soleggiate è assai alacre e gioviale. Purtuttavia al calar del sole chiude tosto i petali, cessando ogni attività."
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Erba"
+    ],
+    "generation": 4,
+    "height": {
+        "cherrim": "0,5 m"
+    },
+    "id": 421,
+    "name": "Cherrim",
+    "name_origin": "Cherrim è una combinazione di cherry  e blossom  o cherubim , ma potrebbero anche essere coinvolti i termini cherimoya  e l'irlandese tirim  ",
+    "origin": "Sembra che Cherrim si basi sui fiori di ciliegio. I fiori di ciliegio sono fiori che simboleggiano il Giappone. ",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Bocciolo",
+    "sprites": {
+        "forma-nuvola": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c4/Homem0421.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0421.png"
+        },
+        "forma-splendore": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3f/Homem0421S.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/09/Homemsh0421S.png"
+        }
+    },
+    "stats": {
+        "forma-nuvola": {
+            "hp": 70,
+            "atk": 60,
+            "def": 70,
+            "spa": 87,
+            "spd": 78,
+            "spe": 85
+        },
+        "forma-splendore": {
+            "hp": 70,
+            "atk": 90,
+            "def": 70,
+            "spa": 87,
+            "spd": 117,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "forma-nuvola": 450,
+        "forma-splendore": 519
+    },
+    "types": {
+        "cherrim": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "cherrim": "9,3 kg"
+    }
+}

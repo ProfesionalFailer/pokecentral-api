@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "hippowdon": {
+            "primary": "Sabbiafiume",
+            "hidden": "Silicoforza"
+        }
+    },
+    "curiosities": [
+        "Nonostante sia il Pokémon Grandepeso, ci sono ben 20 Pokémon più pesanti di Hippowdon, contando le due forme di Giratina come due Pokémon diversi.",
+        "Pur avendo evidenti differenze di sesso, sia Hippowdon che la sua pre-evoluzione hanno solo uno sprite nel menu e solo un'immagine nel Dream World, che rappresentano entrambe la versione maschile del Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/hippowdon.mp3",
+    "dex_entries": {
+        "hippowdon": {
+            "diamond": "Immagazzina sabbia all'interno del corpo e l'espelle con violenza dai pori, formando enormi vortici.",
+            "pearl": "La sua bocca enorme misura quasi 2 metri. È tanto forte da poter demolire un'automobile.",
+            "platinum": "Si infuria molto facilmente. Per mostrare la sua forza tiene la bocca spalancata.",
+            "heartgold": "Mostra la propria forza spalancando le fauci. Attacca sollevando immani quantità di sabbia.",
+            "soulsilver": "Mostra la propria forza spalancando le fauci. Attacca sollevando immani quantità di sabbia.",
+            "black": "Si infuria molto facilmente. Per mostrare la sua forza tiene la bocca spalancata.",
+            "white": "Si infuria molto facilmente. Per mostrare la sua forza tiene la bocca spalancata.",
+            "black-2": "Si infuria molto facilmente. Per mostrare la sua forza tiene la bocca spalancata.",
+            "white-2": "Si infuria molto facilmente. Per mostrare la sua forza tiene la bocca spalancata.",
+            "x": "Mostra la propria forza spalancando le fauci. Attacca sollevando immani quantità di sabbia.",
+            "y": "Immagazzina sabbia all'interno del corpo e l'espelle con violenza dai pori, formando enormi vortici.",
+            "omega-ruby": "Mostra la propria forza spalancando le fauci. Attacca sollevando immani quantità di sabbia.",
+            "alpha-sapphire": "Immagazzina sabbia all'interno del corpo e l'espelle con violenza dai pori, formando enormi vortici.",
+            "sword": "Protegge con zelo i Dwebble, perché lo aiutano a liberarsi delle pietre che a volte si incastrano nei pori che ha sul dorso.",
+            "shield": "Quando si arrabbia diventa molto violento ed espelle la sabbia che ha immagazzinato provocando tempeste di sabbia.",
+            "brilliant-diamond": "Immagazzina sabbia all'interno del corpo e la espelle con violenza dai pori per attaccare, formando enormi vortici.",
+            "shining-pearl": "La sua enorme bocca misura quasi 2 m. È tanto forte da poter demolire un'automobile.",
+            "legends-arceus": "È iracondo e per nulla paziente. Genera dei turbini di vento e sabbia per debilitare l'inimico e indi assalirlo.",
+            "scarlet": "Si infuria molto facilmente. Per mostrare la sua forza tiene la bocca spalancata.",
+            "violet": "Mostra la propria forza spalancando le fauci. Attacca sollevando immani quantità di sabbia."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 4,
+    "height": {
+        "hippowdon": "2,0 m"
+    },
+    "id": 450,
+    "name": "Hippowdon",
+    "name_origin": "Deriva dalle parole hippopotamus , powder  e lo spagnolo don . ",
+    "origin": "Hippowdon è ispirato ad un ippopotamo. Per la sabbia che gli esce costantemente dai pori della schiena, potrebbe essere basato sulla leggenda del bahamut, pesce della mitologia musulmana che in alcune versioni si sostiene abbia una testa di ippopotamo e sorregga un letto di sabbia. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Grandepeso",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/2/26/Homem0450.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0450.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f5/Homef0450.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homefsh0450.png"
+        }
+    },
+    "stats": {
+        "hippowdon": {
+            "hp": 108,
+            "atk": 112,
+            "def": 118,
+            "spa": 68,
+            "spd": 72,
+            "spe": 47
+        }
+    },
+    "stats_sum": {
+        "hippowdon": 525
+    },
+    "types": {
+        "hippowdon": [
+            "Terra"
+        ]
+    },
+    "weight": {
+        "hippowdon": "300,0 kg"
+    }
+}

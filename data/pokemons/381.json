@@ -1,0 +1,97 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "Sebbene nel film Pokémon Heroes sia stato dimostrato che Latios e Latias si riproducono questa specie fa parte del gruppo Sconosciuto.",
+        "Latios, la sua controparte Latias e UltraNecrozma sono gli unici Pokémon a possedere il doppio tipo Drago/Psico.",
+        "Nonostante Latios possa apparire in molti percorsi, vi sono percorsi in cui appare più frequentemente: Percorso 110 e Percorso 121.",
+        "Insieme a Latias, è l'unico Pokémon a poter usare l'Ipervolo in Pokémon Rubino Omega e Zaffiro Alpha .",
+        "Latios, Latias, Rayquaza e Mewtwo sono gli unici Pokémon leggendari in grado di megaevolvere .",
+        "Nonostante la sua megaevoluzione sia stata ufficialmente rivelata in Pokémon Rubino Omega e Zaffiro Alpha, come per Latias, i dati relativi esistono anche in X e Y. Tuttavia la Megapietra non è ottenibile senza ricorrere all'uso di cheat.",
+        "In uno speciale video dedicato alla distribuzione di Latios e Latias in Pokémon Sole e Luna e Ultrasole e Ultraluna, Shigeki Morimoto ha rivelato che l'abilità Levitazione è stata assegnata a loro per ovviare all'impossibilità di dare il tipo Volante ai Pokémon Eone , ma renderli comunque immuni alle mosse di tipo Terra dato che volano."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/latios.mp3",
+    "dex_entries": {
+        "latios": {
+            "ruby": "LATIOS ha l'abilità di far vedere al proprio nemico l'immagine di ciò che ha visto o immaginato nella propria testa. Questo POKéMON è intelligente e capisce il linguaggio umano.",
+            "sapphire": "LATIOS apre il proprio cuore ad ALLENATORI d'animo buono e generoso. Il POKéMON riesce a volare più veloce di un aereo a reazione, piegando le zampe anteriori per minimizzare l'attrito dell'aria.",
+            "emerald": "Anche quando si nasconde, LATIOS riesce a individuare gli altri e a percepirne le emozioni grazie alla telepatia. È molto intelligente e capisce il linguaggio umano.",
+            "firered": "Di temperamento docile, non ama combattere. Ripiegando le zampe anteriori vola più veloce di un jet.",
+            "leafgreen": "Di temperamento docile, non ama combattere. Ripiegando le zampe anteriori vola più veloce di un jet.",
+            "diamond": "Pokémon molto intelligente. Ripiegando indietro le ali, riesce a volare più veloce di un jet.",
+            "pearl": "Pokémon molto intelligente. Ripiegando indietro le ali, riesce a volare più veloce di un jet.",
+            "platinum": "Pokémon molto intelligente. Ripiegando indietro le ali, riesce a volare più veloce di un jet.",
+            "heartgold": "Dotato di grande intelligenza, capisce il linguaggio umano. Pacifico, non ama combattere.",
+            "soulsilver": "Dotato di grande intelligenza, capisce il linguaggio umano. Pacifico, non ama combattere.",
+            "black": "Pokémon molto intelligente. Ripiegando indietro le ali, riesce a volare più veloce di un jet.",
+            "white": "Pokémon molto intelligente. Ripiegando indietro le ali, riesce a volare più veloce di un jet.",
+            "black-2": "Pokémon molto intelligente. Ripiegando indietro le ali, riesce a volare più veloce di un jet.",
+            "white-2": "Pokémon molto intelligente. Ripiegando indietro le ali, riesce a volare più veloce di un jet.",
+            "x": "Pokémon molto intelligente. Ripiegando indietro le ali, riesce a volare più veloce di un jet.",
+            "y": "Dotato di grande intelligenza, capisce il linguaggio umano. Pacifico, non ama combattere.",
+            "omega-ruby": "Latios ha l'abilità di far vedere agli altri l'immagine di ciò che ha visto o immaginato nella propria testa. Questo Pokémon è intelligente e capisce il linguaggio umano.",
+            "alpha-sapphire": "Latios apre il proprio cuore ad Allenatori d'animo buono e generoso. Il Pokémon riesce a volare più veloce di un aereo a reazione, piegando le zampe anteriori per minimizzare l'attrito dell'aria.",
+            "brilliant-diamond": "È molto intelligente. Ripiegando le braccia, riesce a volare più veloce di un jet.",
+            "shining-pearl": "È molto intelligente. Ripiegando le braccia, riesce a volare più veloce di un jet."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 3,
+    "height": {
+        "latios": "2,0 m",
+        "megalatios": "2.3 m"
+    },
+    "id": 381,
+    "name": "Latios",
+    "name_origin": "È possibile che il nome Latios sia basato sulla parola latina lateo . Il suffisso -os nel suo nome indica che è un maschio, mentre quello -as di Latias indica che è una femmina. ",
+    "origin": "Latios sembra essere un incrocio tra un jet ed un drago, sebbene lui e Latias possano aver attinto ispirazione dalla filosofia dello Yin/Yang e dalla psicologia io/ego. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Eone",
+    "sprites": {
+        "latios": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0381.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/50/Homemsh0381.png"
+        },
+        "megalatios": {
+            "default": "https://media.pokemoncentral.it/wiki/7/71/Homem0381M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0381M.png"
+        }
+    },
+    "stats": {
+        "latios": {
+            "hp": 80,
+            "atk": 90,
+            "def": 80,
+            "spa": 130,
+            "spd": 110,
+            "spe": 110
+        },
+        "megalatios": {
+            "hp": 80,
+            "atk": 130,
+            "def": 100,
+            "spa": 160,
+            "spd": 120,
+            "spe": 110
+        }
+    },
+    "stats_sum": {
+        "latios": 600,
+        "megalatios": 700
+    },
+    "types": {
+        "latios": [
+            "Psico",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "latios": "60,0 kg",
+        "megalatios": "70.0 kg"
+    }
+}

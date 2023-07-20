@@ -1,0 +1,114 @@
+{
+    "abilities": {
+        "calyrex": {
+            "primary": "Agitazione"
+        },
+        "cavaliere-glaciale-e-cavaliere-spettrale": {
+            "primary": "Sintonia Equina"
+        }
+    },
+    "curiosities": [
+        "Calyrex Cavaliere Spettrale ha la Velocità base più alta tra tutti i Pokémon di tipo Spettro.\n\tCondivide con Giratina, Lunala e Necrozma Ali dell'Aurora la somma delle statistiche base più alta tra tutti i Pokémon di tipo Spettro.",
+        "Condivide con Giratina, Lunala e Necrozma Ali dell'Aurora la somma delle statistiche base più alta tra tutti i Pokémon di tipo Spettro.",
+        "Calyrex Cavaliere Glaciale è il Pokémon più pesante di tipo Ghiaccio.",
+        "Calyrex è l'unico Pokémon che può intercambiare forma ad avere mosse apprese tramite MT, DT e tutor che variano in base alla sua forma.",
+        "Quando Calyrex dynamaxizza, la sua aura è blu invece che rossa come avviene per tutti gli altri Pokémon. Questo vale per tutte e tre le sue forme.",
+        "Calyrex è l'unico Pokémon in grado di fondersi con un altro Pokémon che può essere catturato quando è fuso. I Pokémon precedenti in grado di fondersi, Kyurem e Necrozma, possono essere catturati solo se separati dagli altri Pokémon.",
+        "È uno dei Pokémon con più debolezze, ben 7.",
+        "Calyrex è stato annunciato il 9 gennaio 2020 durante un Pokémon Direct."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/calyrex.mp3",
+    "dex_entries": {
+        "calyrex": {
+            "sword": "Portatore di rigogliosità e dotato di poteri curativi, questo Pokémon compassionevole regnò su Galar in tempi antichi.",
+            "shield": "Il re delle leggende che dominò su Galar in un lontano passato. È in grado di calmare gli animi e far germogliare la vegetazione."
+        },
+        "cavaliere-glaciale": {
+            "sword": "Si racconta che non mostrava alcuna pietà per chi ostacolava il suo cammino, ma che dopo la lotta guariva le ferite dei suoi avversari.",
+            "shield": "Si racconta che in una sola notte abbia trasferito altrove un'immensa foresta e tutte le creature che ci vivevano."
+        },
+        "cavaliere-spettrale": {
+            "sword": "Si narra che abbia percorso l'intera Galar insieme a un Pokémon a cui era profondamente legato per rendere fertili le terre sterili della regione.",
+            "shield": "Si dice che grazie alla sua capacità di vedere ogni avvenimento passato e futuro abbia salvato da un meteorite le creature di un'intera foresta."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 8,
+    "height": {
+        "calyrex": "1,1 m",
+        "cavaliere-glaciale": "2,4 m",
+        "cavaliere-spettrale": "2,4 m"
+    },
+    "id": 898,
+    "name": "Calyrex",
+    "name_origin": "Calyrex potrebbe essere una combinazione di calyx, bocciolo in latino, e rex, re in latino. Budrex potrebbe essere una combinazione di bud, germoglio, e rex, re in latino. ",
+    "origin": "Calyrex potrebbe essere basato su una lepre e una corona. I grandi bulbi sulla testa ricordano delle bacche e dei fiori. Presenta alcune somiglianze anche con alcuni animali immaginari del folclore americano, come il Jackalope, o quello tedesco, come il Wolpertinger. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Re",
+    "sprites": {
+        "calyrex": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8c/Homem0898.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/78/Homemsh0898.png"
+        },
+        "cavaliere-glaciale": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d5/Homem0898G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/70/Homemsh0898G.png"
+        },
+        "cavaliere-spettrale": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0898S.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f2/Homemsh0898S.png"
+        }
+    },
+    "stats": {
+        "calyrex": {
+            "hp": 100,
+            "atk": 80,
+            "def": 80,
+            "spa": 80,
+            "spd": 80,
+            "spe": 80
+        },
+        "cavaliere-glaciale": {
+            "hp": 100,
+            "atk": 165,
+            "def": 150,
+            "spa": 85,
+            "spd": 130,
+            "spe": 50
+        },
+        "cavaliere-spettrale": {
+            "hp": 100,
+            "atk": 85,
+            "def": 80,
+            "spa": 165,
+            "spd": 100,
+            "spe": 150
+        }
+    },
+    "stats_sum": {
+        "calyrex": 500,
+        "cavaliere-glaciale": 680,
+        "cavaliere-spettrale": 680
+    },
+    "types": {
+        "calyrex": [
+            "Psico",
+            "Erba"
+        ],
+        "cavaliere-glaciale": [
+            "Psico",
+            "Ghiaccio"
+        ],
+        "cavaliere-spettrale": [
+            "Psico",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "calyrex": "7,7 kg",
+        "cavaliere-glaciale": "809,1 kg",
+        "cavaliere-spettrale": "53,6 kg"
+    }
+}

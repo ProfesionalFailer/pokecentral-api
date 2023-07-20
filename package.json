@@ -1,0 +1,29 @@
+{
+  "name": "pokecentral-api",
+  "version": "1.0.0",
+  "description": "An unofficial api to retrieve data from pokemoncentral",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfesionalFailer/pokecentral-api.git"
+  },
+  "keywords": [
+    "pokemon",
+    "api"
+  ],
+  "author": "ProfesionalFailer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProfesionalFailer/pokecentral-api/issues"
+  },
+  "homepage": "https://github.com/ProfesionalFailer/pokecentral-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

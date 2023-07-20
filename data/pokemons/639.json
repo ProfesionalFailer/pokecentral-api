@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "terrakion": {
+            "primary": "Giustizia"
+        }
+    },
+    "curiosities": [
+        "Terrakion è l'unico Pokémon che possiede il tipo Roccia/Lotta.",
+        "Terrakion è debole ai tipi primari degli altri tre Solenni Spadaccini: è infatti debole al tipo Acciaio di Cobalion, al tipo Erba di Virizion, al tipo Acqua di Keldeo, oltre che al tipo Lotta, comune tra tutti e quattro i Pokémon, Terrakion compreso.",
+        "È uno dei Pokémon con più debolezze, ben 7."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/terrakion.mp3",
+    "dex_entries": {
+        "terrakion": {
+            "black": "Ha lottato contro gli esseri umani per proteggere i Pokémon scacciati dalle loro dimore a causa delle guerre.",
+            "white": "Quando carica, ha una forza tale da sfondare un'enorme muraglia. Si racconta di lui nelle leggende.",
+            "black-2": "Si racconta di lui nelle leggende. Per salvare i Pokémon, ha distrutto un castello con il suo immenso potere.",
+            "white-2": "Si racconta di lui nelle leggende. Per salvare i Pokémon, ha distrutto un castello con il suo immenso potere.",
+            "x": "Quando carica, ha una forza tale da sfondare un'enorme muraglia. Si racconta di lui nelle leggende.",
+            "y": "Si racconta di lui nelle leggende. Per salvare i Pokémon, ha distrutto un castello con il suo immenso potere.",
+            "omega-ruby": "Quando carica, ha una forza tale da sfondare un'enorme muraglia. Si racconta di lui nelle leggende.",
+            "alpha-sapphire": "Si racconta di lui nelle leggende. Per salvare i Pokémon, ha distrutto un castello con il suo immenso potere.",
+            "sword": "Possiede una forza straordinaria. Non ha alcuna pietà per quelli che se la prendono con i Pokémon più piccoli di loro.",
+            "shield": "Le leggende della regione di Unima narrano delle sue lotte contro gli esseri umani per proteggere i Pokémon."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 5,
+    "height": {
+        "terrakion": "1,9 m"
+    },
+    "id": 639,
+    "name": "Terrakion",
+    "name_origin": "Il suo nome, probabilmente, deriva dalla parola terra o terracotta e dalla parola inglese champion  o lion . ",
+    "origin": "Terrakion è basato sulla figura di Porthos, personaggio del racconto \"I tre moschettieri\". Come il suo omonimo è il più forte, pesante e robusto del gruppo. Il suo aspetto ricorda quello del bighorn, una pecora nordamericana, o del bue. Il colore del manto è un riferimento esplicito al terra cotta. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Caverna",
+    "sprites": {
+        "terrakion": {
+            "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0639.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0639.png"
+        }
+    },
+    "stats": {
+        "terrakion": {
+            "hp": 91,
+            "atk": 129,
+            "def": 90,
+            "spa": 72,
+            "spd": 90,
+            "spe": 108
+        }
+    },
+    "stats_sum": {
+        "terrakion": 580
+    },
+    "types": {
+        "terrakion": [
+            "Roccia",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "terrakion": "260,0 kg"
+    }
+}

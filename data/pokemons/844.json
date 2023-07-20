@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Sputasabbia",
+            "secondary": "Muta",
+            "hidden": "Sabbiavelo"
+        }
+    },
+    "curiosities": [
+        "Anche se il Pokédex sostiene che sia in grado di sputare fino a 100 Kg di sabbia, Sandaconda ne pesa solo 65."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sandaconda.mp3",
+    "dex_entries": {
+        "sandaconda": {
+            "sword": "Può rimpicciolire il suo corpo espellendo dalle narici 100 kg di sabbia. Quando esaurisce la sabbia, viene preso dallo sconforto.",
+            "shield": "Il modo particolare in cui si attorciglia su se stesso gli permette di espellere sabbia dalla sua sacca in modo più efficiente.",
+            "scarlet": "Contrae il suo corpo fino all’estremo per poi espellere sabbia con una potenza tale da trascinare via anche un mezzo pesante.",
+            "violet": "La ghiaia appuntita che si trova nella sabbia che espelle è in realtà sabbia mista a saliva solidificatasi in forme irregolari."
+        },
+        "sandaconda-gigamax": {
+            "sword": "La sua sacca di sabbia è diventata anch'essa gigantesca. Il vortice di sabbia che lo circonda ha un peso di oltre un milione di tonnellate.",
+            "shield": "La sabbia che turbina ad alta velocità attorno al suo corpo ha una potenza distruttiva tale da polverizzare anche i grattacieli."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Drago"
+    ],
+    "generation": 8,
+    "height": {
+        "sandaconda": "3,8 m",
+        "sandaconda-gigamax": "> 22,0 m"
+    },
+    "id": 844,
+    "name": "Sandaconda",
+    "name_origin": "Sandaconda potrebbe essere una combinazione di sand, sabbia, e anaconda. Sadaija potrebbe essere una combinazione di 沙 sa, sabbia, e 大蛇 daija, serpente. ",
+    "origin": "Sandaconda potrebbe essere basato su un'anaconda, sebbene possa ricordare alcune razze di serpenti che vivono nei deserti come il crotalo ceraste, un serpente noto per i suoi particolari movimenti ondulatori che compie quando striscia sulla sabbia. Potrebbe essere basato anche su una doppietta. Sandaconda ricorda, inoltre, il pitone reale, anche chiamato pitone palla per via della sua tendenza ad arricciarsi quando stressato o spaventato. La sua forma Gigamax potrebbe essere basata su un diavolo di sabbia. ",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Sabbiaserpe",
+    "sprites": {
+        "sandaconda": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4e/Homem0844.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0844.png"
+        },
+        "sandaconda-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fd/Homem0844Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/79/Homemsh0844Gi.png"
+        }
+    },
+    "stats": {
+        "sandaconda": {
+            "hp": 72,
+            "atk": 107,
+            "def": 125,
+            "spa": 65,
+            "spd": 70,
+            "spe": 71
+        }
+    },
+    "stats_sum": {
+        "sandaconda": 510
+    },
+    "types": {
+        "sandaconda": [
+            "Terra"
+        ]
+    },
+    "weight": {
+        "sandaconda": "65,5 kg",
+        "sandaconda-gigamax": "???,? kg"
+    }
+}

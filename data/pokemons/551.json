@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "sandile": {
+            "primary": "Prepotenza",
+            "secondary": "Arroganza",
+            "hidden": "Grancollera"
+        }
+    },
+    "curiosities": [
+        "Fino alla nona generazione, nessun Pokémon aveva la stessa combinazione di tipi di Sandile e la sua linea evolutiva."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sandile.mp3",
+    "dex_entries": {
+        "sandile": {
+            "black": "Vive nella sabbia del deserto che, scaldata dal sole, impedisce alla sua temperatura corporea di scendere.",
+            "white": "Si nasconde sotto la sabbia e si sposta cacciando fuori gli occhi e il naso. Una membrana nera gli protegge gli occhi.",
+            "black-2": "Vive nascosto tra le calde sabbie del deserto per evitare che la temperatura del suo corpo diminuisca.",
+            "white-2": "Vive nascosto tra le calde sabbie del deserto per evitare che la temperatura del suo corpo diminuisca.",
+            "x": "Si nasconde sotto la sabbia e si sposta cacciando fuori gli occhi e il naso. Una membrana nera gli protegge gli occhi.",
+            "y": "Vive nella sabbia del deserto che, scaldata dal sole, impedisce alla sua temperatura corporea di scendere.",
+            "omega-ruby": "Si nasconde sotto la sabbia e si sposta cacciando fuori gli occhi e il naso. Una membrana nera gli protegge gli occhi.",
+            "alpha-sapphire": "Vive nella sabbia del deserto che, scaldata dal sole, impedisce alla sua temperatura corporea di scendere.",
+            "sun": "Si nasconde sotto la sabbia e si sposta come se nuotasse. In questo modo evita i nemici e mantiene alta la sua temperatura corporea.",
+            "moon": "Si nasconde sotto la sabbia e azzanna le zampe dei Pokémon che gli camminano sopra. È ghiotto di Trapinch.",
+            "ultra-sun": "Le temperature tropicali di Alola rendono questa regione l’ambiente ideale per i Sandile, tanto che vengono avvistati anche fuori dai deserti.",
+            "ultra-moon": "La caccia non è il suo forte e si ciba soprattutto di prede che trova già morte nel deserto. Per questo viene chiamato \"spazzino del deserto\".",
+            "sword": "Affronta le fredde notti del deserto rintanandosi in profondità sotto la sabbia e dormendo fino al sorgere del sole.",
+            "shield": "Nonostante la corporatura minuta, ha zampe robuste. Si fa strada nel deserto come nuotando nella sabbia.",
+            "scarlet": "Si nasconde sotto la sabbia e si sposta come se nuotasse. In questo modo evita i nemici e mantiene alta la propria temperatura corporea.",
+            "violet": "Vive nascosto tra le calde sabbie del deserto per evitare che la temperatura del suo corpo diminuisca."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "sandile": "0,7 m"
+    },
+    "id": 551,
+    "name": "Sandile",
+    "name_origin": "Il nome Sandile è la combinazione delle parole sand  e crocodile . Il suo nome giapponese, メグロコ Meguroco, probabilmente deriva dalla parola 目黒 meguro  e dall'inglese crocodile . ",
+    "origin": "Sandile è probabilmente basto su un coccodrillo catafratto, anche se presenta tratti ricordanti un caimano dagli occhiali e di uno scinco. Il suo corpo a righe è simile allo stereotipo di un ladro. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Sabbiadrillo",
+    "sprites": {
+        "sandile": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c8/Homem0551.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/94/Homemsh0551.png"
+        }
+    },
+    "stats": {
+        "sandile": {
+            "hp": 50,
+            "atk": 72,
+            "def": 35,
+            "spa": 35,
+            "spd": 35,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "sandile": 292
+    },
+    "types": {
+        "sandile": [
+            "Terra",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "sandile": "15,2 kg"
+    }
+}

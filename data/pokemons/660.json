@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "diggersby": {
+            "primary": "Raccolta",
+            "secondary": "Guancegonfie",
+            "hidden": "Macroforza"
+        }
+    },
+    "curiosities": [
+        "Fino all'uscita di Leggende Pokémon: Arceus, Diggersby era l'unico Pokémon ad avere la combinazione di tipo Normale/Terra, adesso condivisa con Ursaluna.",
+        "Diggersby è l'unico Pokémon con un totale di statistiche base pari a 423.",
+        "Curiosamente, Diggersby è l'unico Pokémon di tipo Terra ad imparare Punte.",
+        "La sua forma cromatica ha una colorazione molto simile a Bugs Bunny."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/diggersby.mp3",
+    "dex_entries": {
+        "diggersby": {
+            "x": "Con le sue grandi orecchie può sollevare facilmente massi da più di una tonnellata. Può essere di grande aiuto nei cantieri edili.",
+            "y": "Le orecchie potenti quanto una scavatrice gli permettono di sbriciolare anche rocce durissime. Quando ha finito di scavare, si rilassa beatamente.",
+            "omega-ruby": "Con le sue grandi orecchie può sollevare facilmente massi da più di una tonnellata. Può essere di grande aiuto nei cantieri edili.",
+            "alpha-sapphire": "Le orecchie potenti quanto una scavatrice gli permettono di sbriciolare anche rocce durissime. Quando ha finito di scavare, si rilassa beatamente.",
+            "sword": "Riesce a scavare strati rocciosi durissimi grazie alla sua forza pari a quella di una scavatrice. È di grande aiuto nei lavori di scavo dei tunnel.",
+            "shield": "La pelliccia sul suo addome lo mantiene caldo. Gli antichi confezionavano abiti termici resistenti al freddo con il pelo raccolto dopo la sua muta."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 6,
+    "height": {
+        "diggersby": "1,0 m"
+    },
+    "id": 660,
+    "name": "Diggersby",
+    "name_origin": "Diggersby deriva da diggers  e bunny . Horūdo deriva probabilmente da 掘る horu  e 土 do . ",
+    "origin": "Diggersby sembra essere basato su un coniglio o una lepre. Le sue orecchie ricordano le pale di un escavatore, e il suo aspetto trasandato ricorda uno stereotipato operaio di cantiere. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Scavabuche",
+    "sprites": {
+        "diggersby": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f5/Homem0660.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0660.png"
+        }
+    },
+    "stats": {
+        "diggersby": {
+            "hp": 85,
+            "atk": 56,
+            "def": 77,
+            "spa": 50,
+            "spd": 77,
+            "spe": 78
+        }
+    },
+    "stats_sum": {
+        "diggersby": 423
+    },
+    "types": {
+        "diggersby": [
+            "Terra",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "diggersby": "42,4 kg"
+    }
+}

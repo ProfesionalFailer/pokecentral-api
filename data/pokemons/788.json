@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "tapu-fini": {
+            "primary": "Nebbiogenesi",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Tapu Fini è uno dei Pokémon con caratteri non alfabetici nel nome.\n\tLui e gli altri Pokémon protettori sono gli unici Pokémon ad avere un punto mediano all'interno del proprio nome giapponese.",
+        "Lui e gli altri Pokémon protettori sono gli unici Pokémon ad avere un punto mediano all'interno del proprio nome giapponese.",
+        "Tapu Fini condivide la sua categoria con Tapu Koko, Tapu Lele e Tapu Bulu. Sono tutti conosciuti come Pokémon Nume Locale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tapufini.mp3",
+    "dex_entries": {
+        "tapu-fini": {
+            "sun": "Avvolge il nemico in una fitta nebbia che lo induce ad attaccare se stesso. Le correnti marine sono la fonte della sua energia.",
+            "moon": "Protettore di Poni, ha il potere di controllare i flutti. Si narra che possa generare acqua limpidissima che neutralizza qualsiasi impurità.",
+            "ultra-sun": "Protettore di Poni, ha il potere di controllare i flutti. Vive in una fitta nebbia, venerato e temuto allo stesso tempo.",
+            "ultra-moon": "È considerato un Pokémon protettore, ma a volte arreca sciagure tremende a chi gli si avvicina in modo avventato."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 7,
+    "height": {
+        "tapu-fini": "1,3 m"
+    },
+    "id": 788,
+    "name": "Tapu Fini",
+    "name_origin": "Tapu Fini potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e fin, pinna. Kapu-Rehire potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e 鰭 hire, pinna. ",
+    "origin": "Tapu Fini, quando chiude la sua conchiglia, sembra essere ispirato ad un marlin. Potrebbe essere ispirato a Kanaloa, una delle quattro principali divinità della mitologia hawaiana, generalmente associata con l'oceano. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Nume Locale",
+    "sprites": {
+        "tapu-fini": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f8/Homem0788.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0788.png"
+        }
+    },
+    "stats": {
+        "tapu-fini": {
+            "hp": 70,
+            "atk": 75,
+            "def": 115,
+            "spa": 95,
+            "spd": 130,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "tapu-fini": 570
+    },
+    "types": {
+        "tapu-fini": [
+            "Folletto",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "tapu-fini": "21,2 kg"
+    }
+}

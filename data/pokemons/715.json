@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "noivern": {
+            "primary": "Indagine",
+            "secondary": "Intrapasso",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Quando è stato introdotto Noivern era il Pokémon di tipo Drago più veloce, con 123 punti base; in Pokémon Rubino Omega e Zaffiro Alpha è stato superato da MegaSceptile.",
+        "Prima dell'ottava generazione Noivern e la sua pre-evoluzione, Noibat, erano gli unici Pokémon a possedere il tipo Volante come tipo primario.",
+        "Nonostante il Pokédex affermi che possa sbriciolare enormi massi, non può imparare la mossa Spaccaroccia.",
+        "Noivern può essere visto come un parallelo di Crobat:\n\tSono Pokémon di tipo Volante.\n\tPossono avere Intrapasso come abilità.\n\tHanno la stessa statistica base di PS, Difesa e Difesa Speciale.\n\tCondividono il totale di statistiche pari a 535",
+        "Sono Pokémon di tipo Volante.",
+        "Possono avere Intrapasso come abilità.",
+        "Hanno la stessa statistica base di PS, Difesa e Difesa Speciale.",
+        "Condividono il totale di statistiche pari a 535"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/noivern.mp3",
+    "dex_entries": {
+        "noivern": {
+            "x": "Vola nelle notti senza luna e attacca le prede approfittando di ogni loro minima distrazione. Nell'oscurità è invincibile.",
+            "y": "Grazie agli ultrasuoni che emette dalle orecchie, è in grado di sbriciolare enormi massi. Attacca col favore dell'oscurità.",
+            "omega-ruby": "Vola nelle notti senza luna e attacca le prede approfittando di ogni loro minima distrazione. Nell'oscurità è invincibile.",
+            "alpha-sapphire": "Grazie agli ultrasuoni che emette dalle orecchie, è in grado di sbriciolare enormi massi. Attacca col favore dell'oscurità.",
+            "ultra-sun": "È di indole aggressiva, ma se qualcuno gli offre i frutti maturi di cui va matto cambia completamente atteggiamento e diventa docile.",
+            "ultra-moon": "È un Pokémon aggressivo che attacca tutto ciò che incontra sul suo cammino con ultrasuoni così potenti da frantumare anche i massi.",
+            "sword": "Non esita ad attaccare i nemici che vagano spaesati e indifesi nelle tenebre. Ha una natura impetuosa e brutale.",
+            "shield": "Vola nell'oscurità ferendo gli avversari con ultrasuoni in grado di frantumare anche i massi, per poi finirli con i suoi denti affilati.",
+            "scarlet": "I suoi ultrasuoni riescono a frantumare persino enormi massi. Questo Pokémon ha un temperamento crudele.",
+            "violet": "Quando regna l’oscurità, persino gli Hydreigon hanno il terrore di questo Pokémon. Quando è chiaro, invece, rifugge le lotte."
+        }
+    },
+    "egg_groups": [
+        "Volante",
+        "Drago",
+        "VIII"
+    ],
+    "generation": 6,
+    "height": {
+        "noivern": "1,5 m"
+    },
+    "id": 715,
+    "name": "Noivern",
+    "name_origin": "Noivern è una combinazione tra noise  e wyvern . ",
+    "origin": "Noivern è basato su varie fonti: viverna, pipistrello della frutta, pipistrello dal naso a foglia, altoparlanti e tweeter. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Ondasonora",
+    "sprites": {
+        "noivern": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1f/Homem0715.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0715.png"
+        }
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 85,
+            "atk": 70,
+            "def": 80,
+            "spa": 97,
+            "spd": 80,
+            "spe": 123
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 535
+    },
+    "types": {
+        "noivern": [
+            "Volante",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "noivern": "85,0 kg"
+    }
+}

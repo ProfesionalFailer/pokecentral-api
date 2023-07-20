@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "heatmor": {
+            "primary": "Voracità",
+            "secondary": "Fuocardore",
+            "hidden": "Fumochiaro"
+        }
+    },
+    "curiosities": [
+        "Per alcune ragioni sconosciute, Heatmor è stato rimosso dalle versioni Europee del videogioco \"Impara con Pokémon: avventura tra i tasti\".",
+        "Heatmor è il predatore di Durant, come si evince dai loro tipi.",
+        "Heatmor e il suo rivale sono stati disegnati da Ken Sugimori."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/heatmor.mp3",
+    "dex_entries": {
+        "heatmor": {
+            "black": "Attizza la fiamma all'interno del corpo aspirando l'aria da un foro nella coda. I Durant sono le sue prede.",
+            "white": "Con la sua lingua infuocata scioglie la corazza d'acciaio di Durant e ne consuma l'interno.",
+            "black-2": "Converte l'aria che aspira dalla coda in una lingua di fiamme che usa per sciogliere i Durant prima di consumarli.",
+            "white-2": "Converte l'aria che aspira dalla coda in una lingua di fiamme che usa per sciogliere i Durant prima di consumarli.",
+            "x": "Con la sua lingua infuocata scioglie la corazza d'acciaio di Durant e ne consuma l'interno.",
+            "y": "Converte l'aria che aspira dalla coda in una lingua di fiamme che usa per sciogliere i Durant prima di consumarli.",
+            "omega-ruby": "Con la sua lingua infuocata scioglie la corazza d'acciaio di Durant e ne consuma l'interno.",
+            "alpha-sapphire": "Converte l'aria che aspira dalla coda in una lingua di fiamme che usa per sciogliere i Durant prima di consumarli.",
+            "sword": "Aspira aria dal foro nella coda per produrre delle fiamme. Se il foro viene tappato, inizia a sentirsi male.",
+            "shield": "Usa la fiamma a mo' di lingua. Liquefà il duro esoscheletro dei Durant e poi ne fa un sol boccone."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "heatmor": "1,4 m"
+    },
+    "id": 631,
+    "name": "Heatmor",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi heat  e mortar , oppure armor . Inoltre è un gioco di parole su eat more . ",
+    "origin": "È basato su un formichiere, con elementi riconducibili a un lanciafiamme o una ferriera. I suoi polsi ricordano i filtri dell'aria, mentre la sua coda ricorda un silenziatore di un motore. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Formichiere",
+    "sprites": {
+        "heatmor": {
+            "default": "https://media.pokemoncentral.it/wiki/d/de/Homem0631.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c5/Homemsh0631.png"
+        }
+    },
+    "stats": {
+        "heatmor": {
+            "hp": 85,
+            "atk": 97,
+            "def": 66,
+            "spa": 105,
+            "spd": 66,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "heatmor": 484
+    },
+    "types": {
+        "heatmor": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "heatmor": "58 kg"
+    }
+}

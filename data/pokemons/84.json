@@ -1,0 +1,93 @@
+{
+    "abilities": {
+        "doduo": {
+            "primary": "Fugafacile",
+            "secondary": "Sveglialampo",
+            "hidden": "Intricopiedi"
+        }
+    },
+    "curiosities": [
+        "Il nome inglese di Doduo doveva essere lo stesso nome giapponese: Dodo.",
+        "Anche se Doduo e Dodrio si basano sul dodo, un uccello con molte difficoltà a volare, possono imparare la mossa Volo perché il nome giapponese per la mossa può anche essere tradotto come \"salto cielo\" ed entrambi sono noti per la loro abilità nel saltare.",
+        "Doduo può anche imparare Alacciaio e Baldeali pur non avendo le ali.",
+        "Prima della quarta generazione, il collo di Doduo era nero , mentre quello della sua evoluzione Dodrio era marrone .",
+        "Il Pokédex afferma che Doduo può correre fino a circa 100 km/h, mentre Dodrio fino a circa 60 km/h. Nonostante ciò, Dodrio ha la statistica base di Velocità più alta.",
+        "Nell'album di figurine Panini, uscito dopo la messa in onda della prima serie TV, Doduo è presentato come evoluzione di Farfetch'd. La notizia è curiosa se si pensa che l'album era ufficiale, approvato da Nintendo e Hasbro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/doduo.mp3",
+    "dex_entries": {
+        "doduo": {
+            "red": "Uccello incapace di volare, ma eccellente corridore. Lascia orme enormi.",
+            "blue": "Uccello incapace di volare, ma eccellente corridore. Lascia orme enormi.",
+            "yellow": "Le cortissime ali non gli permettono di volare. Può tuttavia correre velocissimo sulle zampe sviluppate.",
+            "gold": "Alzando e abbassando le 2 teste alternativamente, si rende più stabile durante la corsa.",
+            "silver": "Corre a grandi balzi per le praterie, lasciando orme che arrivano fino a 10 cm di profondità.",
+            "crystal": "Vive in praterie, dove può vedere fino a grandi distanze. Se scorge un nemico fugge a 100 km/h.",
+            "ruby": "Le due teste di DODUO non dormono mai nello stesso momento, in modo che una sia sempre vigile per difendersi dai nemici, mentre l'altra può riposare tranquilla.",
+            "sapphire": "Le due teste di DODUO contengono lo stesso identico cervello. Secondo uno studio scientifico sono stati riportati rari casi di POKéMON con cervelli diversi.",
+            "emerald": "Anche mentre mangia o dorme, una delle due teste di DODUO rimane sempre vigile per controllare che non ci siano pericoli. Se si spaventa, può correre a oltre 100 km/h.",
+            "firered": "POKéMON a due teste, scoperto a seguito di un'improvvisa mutazione. Può correre a 100 km/h.",
+            "leafgreen": "Uccello incapace di volare, ma eccellente corridore. Lascia orme enormi.",
+            "diamond": "I suoi due cervelli si comunicano le emozioni grazie ai poteri telepatici.",
+            "pearl": "I suoi due cervelli si comunicano le emozioni grazie ai poteri telepatici.",
+            "platinum": "I suoi due cervelli si comunicano le emozioni grazie ai poteri telepatici.",
+            "heartgold": "Alzando e abbassando le due teste alternativamente, si rende più stabile durante la corsa.",
+            "soulsilver": "Corre a grandi balzi per le praterie, lasciando orme che arrivano fino a 10 cm di profondità.",
+            "black": "I suoi due cervelli si comunicano le emozioni grazie ai poteri telepatici.",
+            "white": "I suoi due cervelli si comunicano le emozioni grazie ai poteri telepatici.",
+            "black-2": "I suoi due cervelli si comunicano le emozioni grazie ai poteri telepatici.",
+            "white-2": "I suoi due cervelli si comunicano le emozioni grazie ai poteri telepatici.",
+            "x": "Pokémon a due deste, scoperto a seguito di un'improvvisa mutazione. Può correre a 100 km/h.",
+            "y": "I suoi due cervelli si comunicano le emozioni grazie ai poteri telepatici.",
+            "omega-ruby": "Le due teste di Doduo non dormono mai nello stesso momento, in modo che una sia sempre vigile per difendersi dai nemici, mentre l'altra può riposare tranquilla.",
+            "alpha-sapphire": "Le due teste di Doduo contengono lo stesso identico cervello. Secondo uno studio scientifico sono stati riportati rari casi di Doduo con cervelli diversi.",
+            "lets-go-pikachu": "Le cortissime ali non gli permettono di volare. Può tuttavia correre velocissimo grazie alle zampe ben sviluppate.",
+            "lets-go-eevee": "Le cortissime ali non gli permettono di volare. Può tuttavia correre velocissimo grazie alle zampe ben sviluppate."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 1,
+    "height": {
+        "doduo": "1,4 m"
+    },
+    "id": 84,
+    "name": "Doduo",
+    "name_origin": "Il nome è la combinazione delle parole Dodo  e Duo. ",
+    "origin": "Nonostante il suo nome, Doduo assomiglia di più ad uno struzzo che a un dodo. Possiede anche alcune similitudini con il moa, un uccello non volante estinto indigeno della Nuova Zelanda, oppure anche all'emu, altro uccello non volante, o addirittura al kiwi. ",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Biuccello",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fc/Homem0084.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/dc/Homemsh0084.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ac/Homef0084.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b8/Homefsh0084.png"
+        }
+    },
+    "stats": {
+        "doduo": {
+            "hp": 35,
+            "atk": 85,
+            "def": 45,
+            "spa": 35,
+            "spd": 35,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "doduo": 310
+    },
+    "types": {
+        "doduo": [
+            "Normale",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "doduo": "39,2 kg"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "lairon": {
+            "primary": "Vigore",
+            "secondary": "Testadura",
+            "hidden": "Metalpesante"
+        }
+    },
+    "curiosities": [
+        "In terza generazione Aron, Lairon e Aggron avevano una combinazione di tipi unica.",
+        "Prima di Pokémon Rubino Omega e Zaffiro Alpha, l'intera linea evolutiva di Lairon non imparava nessuna mossa Roccia aumentando di livello pur essendo in parte di questo tipo. Con l'arrivo dei giochi sopracitati è in grado di imparare Rocciotomba e Frana.",
+        "Lairon pesa esattamente quanto Rhydon, un altro Pokémon Roccia al secondo stadio evolutivo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lairon.mp3",
+    "dex_entries": {
+        "lairon": {
+            "ruby": "LAIRON tempra la sua fibra d'acciaio ingerendo dosi enormi di minerali altamente nutritivi presenti nell'acqua di sorgente. Questo POKéMON crea la propria dimora nei pressi di sorgenti d'acqua purissima.",
+            "sapphire": "LAIRON si nutre del ferro contenuto nelle rocce e nell'acqua. Crea la propria dimora in montagna vicino a giacimenti ferrosi. Per questo motivo il POKéMON si scontra spesso con minatori alla ricerca di pepite di ferro.",
+            "emerald": "Se due LAIRON si incontrano, si contendono il territorio scagliandosi l'uno contro l'altro con i corpi d'acciaio, producendo un rumore udibile a chilometri di distanza.",
+            "firered": "Per sfoggiare la sua potenza, crea grandi scintille scontrandosi contro i massi con il suo corpo d'acciaio.",
+            "leafgreen": "Per sfoggiare la sua potenza, crea grandi scintille scontrandosi contro i massi con il suo corpo d'acciaio.",
+            "diamond": "Scava per cercare ferro, di cui si nutre. Si schianta contro gli altri nella lotta per il territorio.",
+            "pearl": "Scava per cercare ferro, di cui si nutre. Si schianta contro gli altri nella lotta per il territorio.",
+            "platinum": "Scava per cercare ferro, di cui si nutre. Si schianta contro gli altri nella lotta per il territorio.",
+            "heartgold": "Adora i minerali di ferro. Scaglia il suo corpo d’acciaio contro gli altri nella lotta per il territorio.",
+            "soulsilver": "Adora i minerali di ferro. Scaglia il suo corpo d’acciaio contro gli altri nella lotta per il territorio.",
+            "black": "Scava per cercare ferro, di cui si nutre. Si schianta contro gli altri nella lotta per il territorio.",
+            "white": "Scava per cercare ferro, di cui si nutre. Si schianta contro gli altri nella lotta per il territorio.",
+            "black-2": "Quando due Lairon si scontrano per difendere il territorio, i loro corpi di metallo fanno letteralmente scintille.",
+            "white-2": "Quando due Lairon si scontrano per difendere il territorio, i loro corpi di metallo fanno letteralmente scintille.",
+            "x": "Adora i minerali di ferro. Scaglia il suo corpo d'acciaio contro gli altri nella lotta per il territorio.",
+            "y": "Per sfoggiare la sua potenza, crea grandi scintille scontrandosi contro i massi con il suo corpo d'acciaio.",
+            "omega-ruby": "Lairon tempra la sua fibra d'acciaio ingerendo dosi enormi di minerali altamente nutritivi presenti nell'acqua di sorgente. Questo Pokémon crea la propria dimora nei pressi di sorgenti d'acqua purissima.",
+            "alpha-sapphire": "Lairon si nutre del ferro contenuto nelle rocce e nell'acqua. Crea la propria dimora in montagna vicino a giacimenti ferrosi. Per questo motivo il Pokémon si scontra spesso con minatori alla ricerca di pepite di ferro.",
+            "sword": "I monti in cui vive sono ricchi di minerali ferrosi e sorgenti d'acqua. Per questo, spesso in passato questo Pokémon si scontrava con gli esseri umani.",
+            "shield": "I Lairon lottano per il territorio scagliandosi l'uno contro l'altro. A un'osservazione attenta, la loro armatura d'acciaio mostra graffi e ammaccature.",
+            "brilliant-diamond": "Scava per cercare il ferro di cui si nutre. Lotta scagliandosi contro i suoi simili per la supremazia sul territorio.",
+            "shining-pearl": "Scava per cercare il ferro di cui si nutre. Lotta scagliandosi contro i suoi simili per la supremazia sul territorio."
+        }
+    },
+    "egg_groups": [
+        "Mostro"
+    ],
+    "generation": 3,
+    "height": {
+        "lairon": "0,90 m"
+    },
+    "id": 305,
+    "name": "Lairon",
+    "name_origin": "Il nome \"Lairon\" potrebbe essere l'unione di lairy  o di lair  con iron . ",
+    "origin": "Lairon sembra essere basato sul Palgasauro, una creatura mitologica coreana che si nutre di metallo, ma assomiglia anche ai Placerias, un gruppo di rettili che avrebbe dato origine ai mammiferi del periodo Triassico. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Corazza",
+    "sprites": {
+        "lairon": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0a/Homem0305.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0305.png"
+        }
+    },
+    "stats": {
+        "lairon": {
+            "hp": 60,
+            "atk": 90,
+            "def": 140,
+            "spa": 50,
+            "spd": 50,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "lairon": 430
+    },
+    "types": {
+        "lairon": [
+            "Acciaio",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "lairon": "120,0 kg"
+    }
+}

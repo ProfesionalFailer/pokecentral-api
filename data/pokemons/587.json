@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "emolga": {
+            "primary": "Statico",
+            "hidden": "Elettrorapid"
+        }
+    },
+    "curiosities": [
+        "Emolga è stato visto per la prima volta in un'immagine il 7 agosto 2010.",
+        "Emolga continua la tradizione dei Pokémon elettrici basati su roditori introdotti in ogni generazione, come Pikachu, Pichu, Plusle, Minun, Pachirisu prima di lui e Dedenne, Togedemaru e Morpeko dopo di lui.\n\tEmolga è stato il primo tra i Pokémon sopracitati a non essere di tipo Elettro puro, essendo in parte di tipo Volante.\n\tCiò lo rende unico a non possedere la debolezza per il tipo Terra.",
+        "Emolga è stato il primo tra i Pokémon sopracitati a non essere di tipo Elettro puro, essendo in parte di tipo Volante.\n\tCiò lo rende unico a non possedere la debolezza per il tipo Terra.",
+        "Ciò lo rende unico a non possedere la debolezza per il tipo Terra.",
+        "Emolga è l'unico Pokémon con la somma delle statistiche base uguale a 428."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/emolga.mp3",
+    "dex_entries": {
+        "emolga": {
+            "black": "Accumula nelle membrane l'elettricità che produce all'interno delle guance, poi la rilascia planando.",
+            "white": "Vive nelle foreste sulle cime degli alberi. Plana usando una membrana simile a un mantello, elettrificata all'interno.",
+            "black-2": "Vola usando la sua membrana e fulmina il nemico con l'energia accumulata nelle fossette elettriche sulle sue guance.",
+            "white-2": "Vola usando la sua membrana e fulmina il nemico con l'energia accumulata nelle fossette elettriche sulle sue guance.",
+            "x": "Vive nelle foreste sulle cime degli alberi. Plana usando una membrana simile a un mantello, elettrificata all'interno.",
+            "y": "Accumula nelle membrane l'elettricità che produce all'interno delle guance, poi la rilascia planando.",
+            "omega-ruby": "Vive nelle foreste sulle cime degli alberi. Plana usando una membrana simile a un mantello, elettrificata all'interno.",
+            "alpha-sapphire": "Accumula nelle membrane l'elettricità che produce all'interno delle guance, poi la rilascia planando.",
+            "sun": "Si serve della membrana simile a un mantello per planare. Emana scariche elettriche che possono colpire nemici e alleati.",
+            "moon": "Arrostisce bacche e Pokémon Coleottero con scariche elettriche per poi mangiarli. Fa il nido nei buchi degli alberi fatti da Pikipek.",
+            "ultra-sun": "Si carica di energia e si alza in volo. Nelle notti di fulmini e tempesta, questi Pokémon sono così numerosi da invadere tutto il cielo.",
+            "ultra-moon": "Vola emettendo scariche elettriche che tengono alla larga gli altri Pokémon alati, e per questo non fa molta fatica a procurarsi il cibo.",
+            "sword": "Vola nei cieli come danzando mentre sprigiona elettricità. È molto grazioso, ma può creare dei fastidi.",
+            "shield": "Va ghiotto di bacche dolci. A volte accumula troppo cibo nelle guance e fa fatica a volare."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "emolga": "0,4 m"
+    },
+    "id": 587,
+    "name": "Emolga",
+    "name_origin": "Emolga potrebbe essere una corruzione del suo nome giapponese Emonga il quale deriva dall'unione di 衣紋 emon  e momonga . ",
+    "origin": "Emolga è basato su uno scoiattolo volante del Giappone. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Petauro",
+    "sprites": {
+        "emolga": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f4/Homem0587.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/97/Homemsh0587.png"
+        }
+    },
+    "stats": {
+        "emolga": {
+            "hp": 55,
+            "atk": 75,
+            "def": 60,
+            "spa": 75,
+            "spd": 60,
+            "spe": 103
+        }
+    },
+    "stats_sum": {
+        "emolga": 428
+    },
+    "types": {
+        "emolga": [
+            "Elettro",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "emolga": "5 kg"
+    }
+}

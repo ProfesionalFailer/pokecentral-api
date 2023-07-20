@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "emboar": {
+            "primary": "Aiutofuoco",
+            "hidden": "Temerarietà"
+        }
+    },
+    "curiosities": [
+        "È l'unica evoluzione dei Pokémon iniziali di Unima a possedere due tipi.",
+        "È stato il primo Pokémon di tipo Fuoco a poter imparare una mossa di tipo Acqua .",
+        "Emboar, Samurott e Serperior condividono lo stesso totale delle statistiche di base pari a 528.",
+        "Emboar è l'unico Pokémon iniziale che possiede un'abilità diversa dalle sue pre-evoluzioni.",
+        "Emboar possiede le statistiche PS e Attacco più alte tra tutti i Pokémon iniziali completamente evoluti .\n\tAl contrario, insieme a Sceptile ha la statistica Difesa più bassa tra tutti i Pokémon iniziali completamente evoluti.",
+        "Al contrario, insieme a Sceptile ha la statistica Difesa più bassa tra tutti i Pokémon iniziali completamente evoluti.",
+        "Emboar e la sua famiglia evolutiva sono stati ideati da Lee Hyunjong.",
+        "Nonostante le descrizioni di alcuni Pokédex, Emboar può imparare Fuocopugno solo tramite Insegnamosse."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/emboar.mp3",
+    "dex_entries": {
+        "emboar": {
+            "black": "Infiamma i pugni sulla barba ardente, poi sferra attacchi di fuoco sui nemici. Ha molta considerazione per i suoi simili.",
+            "white": "La sua barba è avvolta dalle fiamme. Padroneggia mosse di lotta che combinano potenza e rapidità.",
+            "black-2": "Le fiamme della sua barba ardono più intensamente quando fa sul serio. Può imparare un vasto numero di mosse.",
+            "white-2": "Le fiamme della sua barba ardono più intensamente quando fa sul serio. Può imparare un vasto numero di mosse.",
+            "x": "Infiamma i pugni sulla barba ardente, poi sferra attacchi di fuoco sui nemici. Ha molta considerazione per i suoi simili.",
+            "y": "La sua barba è avvolta dalle fiamme. Padroneggia mosse di lotta che combinano potenza e rapidità.",
+            "omega-ruby": "Infiamma i pugni sulla barba ardente, poi sferra attacchi di fuoco sui nemici. Ha molta considerazione per i suoi simili.",
+            "alpha-sapphire": "La sua barba è avvolta dalle fiamme. Padroneggia mosse di lotta che combinano potenza e rapidità."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "emboar": "1,6 m"
+    },
+    "id": 500,
+    "name": "Emboar",
+    "name_origin": "Il suo nome deriva dall'inglese ember  e boar . Potrebbe anche derivare da titoli imperiali come emperor , caesar , o tsar . ",
+    "origin": "Sembra sia basato su un cinghiale o un maiale Berkshire e un wrestler o un luchador, oltre che su un soldato del romanzo dei tre regni. Ken Sugimori ha dichiarato che la sua linea evolutiva è disegnata secondo lo stile cinese. Questo potrebbe far presupporre che Pignite tragga ispirazione da Zhu Wuneng. Le decorazioni sul suo corpo inoltre ricordano un vaso ding, ma sono molto simili anche ad alcune composizioni sulle ceramiche greche. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Suincendio",
+    "sprites": {
+        "emboar": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0500.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homemsh0500.png"
+        }
+    },
+    "stats": {
+        "emboar": {
+            "hp": 110,
+            "atk": 123,
+            "def": 65,
+            "spa": 100,
+            "spd": 65,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "emboar": 528
+    },
+    "types": {
+        "emboar": [
+            "Lotta",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "emboar": "150 kg"
+    }
+}

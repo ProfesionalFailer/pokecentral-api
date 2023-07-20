@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "combusken": {
+            "primary": "Aiutofuoco",
+            "hidden": "Acceleratore"
+        }
+    },
+    "curiosities": [
+        "In terza generazione, Combusken e Blaziken avevano una combinazione di tipi unica. Tale combinazione rimane comunque esclusiva dei Pokémon iniziali di tipo Fuoco di terza, quarta e quinta generazione, escluse le loro forme base.\n\tIn nona generazione anche una forma regionale di Tauros possiede i tipi Fuoco e Lotta.",
+        "In nona generazione anche una forma regionale di Tauros possiede i tipi Fuoco e Lotta.",
+        "Anche se il Pokédex dice che emette strilli acuti per aumentare la sua concentrazione, non può imparare Gridodilotta.",
+        "In ottava generazione, la versione cromatica di Combusken è cambiata."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/combusken.mp3",
+    "dex_entries": {
+        "combusken": {
+            "ruby": "COMBUSKEN allena gli arti superiori e inferiori correndo in campagna e in montagna. Le zampe inferiori sono rapide e potenti e riescono a sferrare dieci calci al secondo.",
+            "sapphire": "COMBUSKEN combatte sputando fiamme roventi dal becco e sferrando calci dall'enorme potenza distruttiva. Il verso di questo POKéMON è lacerante e distrae gli avversari.",
+            "emerald": "COMBUSKEN è in grado di sferrare 10 calci al secondo. Il suo spirito di combattente lo spinge a persistere nella lotta fintanto che il nemico non desiste.",
+            "firered": "Per concentrarsi, emette grida violente. Sferra calci di straordinaria potenza distruttiva.",
+            "leafgreen": "Per concentrarsi, emette grida violente. Sferra calci di straordinaria potenza distruttiva.",
+            "diamond": "Possiede l'abilità di sferrare anche 10 calci al secondo. Emette urla strazianti per intimorire i nemici.",
+            "pearl": "Possiede l'abilità di sferrare anche 10 calci al secondo. Emette urla strazianti per intimorire i nemici.",
+            "platinum": "Possiede l'abilità di sferrare anche 10 calci al secondo. Emette urla strazianti per intimorire i nemici.",
+            "heartgold": "Quando lotta, il suo fuoco interiore diventa incandescente. Sferra calci di notevole potenza distruttiva.",
+            "soulsilver": "Quando lotta, il suo fuoco interiore diventa incandescente. Sferra calci di notevole potenza distruttiva.",
+            "black": "Possiede l'abilità di sferrare anche 10 calci al secondo. Emette urla strazianti per intimorire i nemici.",
+            "white": "Possiede l'abilità di sferrare anche 10 calci al secondo. Emette urla strazianti per intimorire i nemici.",
+            "black-2": "Possiede l'abilità di sferrare anche 10 calci al secondo. Emette urla strazianti per intimorire i nemici.",
+            "white-2": "Possiede l'abilità di sferrare anche 10 calci al secondo. Emette urla strazianti per intimorire i nemici.",
+            "x": "Possiede l'abilità di sferrare anche dieci calci al secondo. Emette urla strazianti per intimorire i nemici.",
+            "y": "Quando lotta, il suo fuoco interiore diventa incandescente. Sferra calci di notevole potenza distruttiva.",
+            "omega-ruby": "Combusken si allena correndo in campagna e in montagna. Le zampe inferiori sono rapide e potenti e riescono a sferrare dieci calci al secondo.",
+            "alpha-sapphire": "Combusken combatte sputando fiamme roventi dal becco e sferrando calci dall'enorme potenza distruttiva. Il verso di questo Pokémon è lacerante e distrae gli avversari.",
+            "brilliant-diamond": "Possiede l'abilità di sferrare anche dieci calci al secondo. Emette urla acute per intimorire i nemici.",
+            "shining-pearl": "Possiede l'abilità di sferrare anche dieci calci al secondo. Emette urla acute per intimorire i nemici."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 3,
+    "height": {
+        "combusken": "0,90 m"
+    },
+    "id": 256,
+    "name": "Combusken",
+    "name_origin": "Il suo nome è un incrocio tra le parole inglesi combustible, combustibile, e chicken, pollo.\nIl suo nome giapponese, ワカシャモ Wakashamo, deriva dall'unione delle parole ワカイ wakai, giovane, 赤 aka, rosso, e 軍鶏 shamo, razza di uccelli giapponesi, in origine allevata per i combattimenti tra galli. ",
+    "origin": "Combusken è probabilmente basato su un pollo da combattimento. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Rampollo",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/3/32/Homem0256.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5e/Homemsh0256.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/9/93/Homef0256.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homefsh0256.png"
+        }
+    },
+    "stats": {
+        "combusken": {
+            "hp": 60,
+            "atk": 85,
+            "def": 60,
+            "spa": 85,
+            "spd": 60,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "combusken": 405
+    },
+    "types": {
+        "combusken": [
+            "Lotta",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "combusken": "19,5 kg"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "charjabug": {
+            "primary": "Batteria"
+        }
+    },
+    "curiosities": [
+        "Charjabug è stato disegnato da Hitoshi Ariga.",
+        "Charjabug e Yamper sono gli unici Pokémon che perdono la loro abilità esclusiva con l'evoluzione.",
+        "Escludendo gli spin-off, Charjabug, Eevee, Feebas e Magneton sono gli unici Pokémon che si evolvono in modi diversi in giochi diversi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/charjabug.mp3",
+    "dex_entries": {
+        "charjabug": {
+            "sun": "Può immagazzinare elettricità all'interno del corpo. Per questo la sua compagnia è utile quando si va in campeggio.",
+            "moon": "Genera energia elettrica durante la digestione e la conserva in una sacca interna.",
+            "ultra-sun": "Si nasconde tra le foglie cadute a terra e rimane immobile nutrendosi esclusivamente di humus. Chi lo pesta per sbaglio prende la scossa.",
+            "ultra-moon": "Il suo robusto esoscheletro lo protegge dagli attacchi. Se il nemico non molla, contrattacca con scariche elettriche.",
+            "sword": "È protetto da un robusto esoscheletro. Contrattacca con l'elettricità che rilascia dalle punte che ha sulla mandibola.",
+            "shield": "Produce energia tramite la digestione delle foglie morte di cui si nutre e la conserva nella sacca apposita che ha nel ventre."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 7,
+    "height": {
+        "charjabug": "0,5 m"
+    },
+    "id": 737,
+    "name": "Charjabug",
+    "name_origin": "Charjabug è una combinazione di charge, inteso come caricare una batteria, e bug . Dendimushi potrebbe essere una combinazione di 電池 denchi  e 地虫 jimushi . ",
+    "origin": "Charjabug potrebbe essere ispriato ad un insetto dentro ad un bozzolo e ad una batteria. Il suo verso e la sua forma possono essere ricondotti a quelli di una fisarmonica. ",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Batteria",
+    "sprites": {
+        "charjabug": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f7/Homem0737.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ed/Homemsh0737.png"
+        }
+    },
+    "stats": {
+        "charjabug": {
+            "hp": 57,
+            "atk": 82,
+            "def": 95,
+            "spa": 55,
+            "spd": 75,
+            "spe": 36
+        }
+    },
+    "stats_sum": {
+        "charjabug": 400
+    },
+    "types": {
+        "charjabug": [
+            "Elettro",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "charjabug": "10,5 kg"
+    }
+}

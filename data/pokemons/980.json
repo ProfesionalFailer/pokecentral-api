@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "clodsire": {
+            "primary": "Velenopunte",
+            "secondary": "Assorbacqua",
+            "hidden": "Imprudenza"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Veleno",
+        "Pokémon di tipo Terra",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Acqua 1",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 430"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/clodsire.mp3",
+    "dex_entries": {
+        "clodsire": {
+            "scarlet": "Quando si trova sotto attacco, controbatte sfoderando le spesse spine retrattili, mettendo così a repentaglio anche se stesso.",
+            "violet": "Vive sui fondali degli stagni e delle paludi. Si carica i Wooper sulla schiena e li traghetta da una sponda all'altra."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "generation": 9,
+    "height": {
+        "clodsire": "1,8 m"
+    },
+    "id": 980,
+    "name": "Clodsire",
+    "name_origin": "Clodsire potrebbe essere una combinazione di clod  e l'onorifico sire o Siren . Dooh potrebbe essere una combinazione di 土 do  e 王 ō  o オオサンショウウオ ōsanshōuo . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Pescespine",
+    "sprites": {
+        "clodsire": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8d/Homem0980.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/45/Homemsh0980.png"
+        }
+    },
+    "stats": {
+        "clodsire": {
+            "hp": 130,
+            "atk": 75,
+            "def": 60,
+            "spa": 45,
+            "spd": 100,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "clodsire": 430
+    },
+    "types": {
+        "clodsire": [
+            "Terra",
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "clodsire": "223,0 kg"
+    }
+}

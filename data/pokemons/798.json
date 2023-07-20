@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "kartana": {
+            "primary": "Ultraboost"
+        }
+    },
+    "curiosities": [
+        "Kartana ha la più alta statistica base di Attacco di tutti i Pokémon senza considerare Megaevoluzioni, abilità o Mosse.",
+        "A pari merito con Ferrothorn ha la statistica base di Difesa più alta di tutti i Pokémon di tipo Erba.\n\tCuriosamente, entrambi posseggono la stessa combinazione di tipi.",
+        "Curiosamente, entrambi posseggono la stessa combinazione di tipi.",
+        "Con solo 0.1 kg, Kartana è assieme a Gastly, Haunter, Flabébé e Cosmog il Pokémon più leggero di tutti.",
+        "Ha anche la statistica base di Difesa Speciale più bassa di tutti i Pokémon di tipo Acciaio.",
+        "Data la rimozione della MN01, Taglio, Kartana è l'unico Pokémon di settima generazione a poterla apprendere, in quanto la impara per livello."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kartana.mp3",
+    "dex_entries": {
+        "kartana": {
+            "sun": "Un'Ultracreatura arrivata attraverso un Ultravarco. Non attacca di propria iniziativa, ma il suo corpo affilato è un’arma letale.",
+            "moon": "Questa Ultracreatura è stata vista tagliare in due un traliccio dell’alta tensione con un solo colpo.",
+            "ultra-sun": "Ultracreatura dal corpo sottile come un foglio di carta e affilato come la lama di una spada.",
+            "ultra-moon": "Nel nostro mondo il suo aspetto appare strano e minaccioso, ma sembra che in quello da cui proviene sia una creatura molto comune."
+        },
+        "": {}
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 7,
+    "height": {
+        "kartana": "0,3 m"
+    },
+    "id": 798,
+    "name": "Kartana",
+    "name_origin": "Kartana può essere una combinazione di Katana e carta. Kamitsurugi deriva da 紙 kami , 神 kami  e 剣 tsurugi . UC 04 Sectio è una combinazione tra UC, sigla di Ultracreatura, 04 e la parola latina Sectio . ",
+    "origin": "Kartana può essere basato su un Origami e un Samurai. In particolare, ha una forte somiglianza con il noshi, un origami cerimoniale usato per accompagnare i regali di congratulazioni come segno di buona fortuna. Potrebbe anche essere un riferimento agli shikigami, figure di carta tagliate nella forma di una persona o animale e intrise di potere spirituale, create secondo le tecniche del taoismo esoterico per scacciare o invocare maledizioni, o eseguire gli ordini di chi le ha create. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Spadatratta",
+    "sprites": {
+        "kartana": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4a/Homem0798.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homemsh0798.png"
+        }
+    },
+    "stats": {
+        "kartana": {
+            "hp": 59,
+            "atk": 181,
+            "def": 131,
+            "spa": 59,
+            "spd": 31,
+            "spe": 109
+        }
+    },
+    "stats_sum": {
+        "kartana": 570
+    },
+    "types": {
+        "kartana": [
+            "Erba",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "kartana": "0,1 kg"
+    }
+}

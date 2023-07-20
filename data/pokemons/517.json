@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "munna": {
+            "primary": "Premonizione",
+            "secondary": "Sincronismo",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Probabilmente è solo una coincidenza, ma c'è una remota possibilità che Munna fosse già stato ideato alle origini della serie: in prima e in terza generazione, nel Percorso 10, è presente una Picnic Girl che afferma \"I POKéMON qui sono così grossi! Ce ne dev'essere uno rosa a fiori!\", ma prima dell'introduzione di Munna non era presente nessun Pokémon rosa a fiori.",
+        "Nonostante la sua voce Pokédex di Pokémon Nero affermi che fluttua nell'aria, non può possedere legittimamente l'abilità Levitazione senza uso di trucchi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/munna.mp3",
+    "dex_entries": {
+        "munna": {
+            "black": "Quando Munna mangia i sogni di qualcuno, questi dimentica che cosa ha sognato. Galleggia costantemente in aria.",
+            "white": "Si nutre dei sogni di uomini e Pokémon. Se mangia sogni piacevoli, esala un fumo di colore rosa.",
+            "black-2": "Compare accanto a Pokémon e uomini tormentati dagli incubi per nutrirsi di tutti i loro brutti sogni.",
+            "white-2": "Compare accanto a Pokémon e uomini tormentati dagli incubi per nutrirsi di tutti i loro brutti sogni.",
+            "x": "Compare accanto a Pokémon e uomini tormentati dagli incubi per nutrirsi di tutti i loro brutti sogni.",
+            "y": "Si nutre dei sogni di uomini e Pokémon. Se mangia sogni piacevoli, esala un fumo di colore rosa.",
+            "omega-ruby": "Compare accanto a Pokémon e uomini tormentati dagli incubi per nutrirsi di tutti i loro brutti sogni.",
+            "alpha-sapphire": "Si nutre dei sogni di uomini e Pokémon. Se mangia sogni piacevoli, esala un fumo di colore rosa.",
+            "sword": "Appare vicino al guanciale nel cuore della notte. Quando mangia i sogni, i motivi che ha sul corpo si illuminano lievemente.",
+            "shield": "Si nutre di sogni. Esala un fumo rosa se sono sogni piacevoli e nero se sono incubi."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "munna": "0,6 m"
+    },
+    "id": 517,
+    "name": "Munna",
+    "name_origin": "Munna potrebbe derivare da 夢 mu  e dal latino luna o dalla storpiatura della parola inglese moon , oltre che da 花 hana  e ムシャムシャ mushamusha . ",
+    "origin": "Munna è probabilmente basato sul koro, un bruciatore d'incenso tipico giapponese. I koro, come i salvadanai, possono avere la forma di un porcellino, oppure essere decorati in svariati modi fra i quali ricorrono i motivi floreali. Si ispira inoltre al Baku, una creatura mitologica simile a un tapiro che divora gli incubi allontanando il male. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Divorasogni",
+    "sprites": {
+        "munna": {
+            "default": "https://media.pokemoncentral.it/wiki/8/83/Homem0517.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/de/Homemsh0517.png"
+        }
+    },
+    "stats": {
+        "munna": {
+            "hp": 76,
+            "atk": 25,
+            "def": 45,
+            "spa": 67,
+            "spd": 55,
+            "spe": 24
+        }
+    },
+    "stats_sum": {
+        "munna": 292
+    },
+    "types": {
+        "munna": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "munna": "23,3 kg"
+    }
+}

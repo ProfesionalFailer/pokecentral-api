@@ -1,0 +1,103 @@
+{
+    "abilities": {
+        "flabébé": {
+            "primary": "Fiorvelo",
+            "hidden": "Simbiosi"
+        }
+    },
+    "curiosities": [
+        "Flabébé, insieme a Joltik, Cutiefly, Comfey, Cosmoem e Sinistea, è il Pokémon più basso. Insieme a Gastly, Haunter, Cosmog e Kartana, è il Pokémon più leggero.",
+        "Senza considerare i Pokémon delle generazioni precedenti, che hanno ottenuto il tipo Folletto solo a partire dalla sesta generazione, Flabébé è il primo Pokémon di questo tipo. Quindi, nel Pokédex Nazionale non è il primo in elenco.",
+        "È il primo Pokémon ad avere un solo sesso della sesta generazione.",
+        "È il primo Pokémon ad avere accenti nel suo nome inglese/italiano.",
+        "Nel Castello Lotta, il Flabébé della Baronessa Sibilla ha un verso differente, quello di Floette, la sua evoluzione.",
+        "Pur avendo un evidente rapporto con la natura i membri della linea evolutiva di Flabébé non sono di tipo Erba."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/flabébé.mp3",
+    "dex_entries": {
+        "flabébé": {
+            "x": "È in grado di controllare a piacimento la forza nascosta dei fiori. Il fiore a cui si aggrappa fa parte del suo stesso corpo.",
+            "y": "Una volta trovato un fiore di suo gradimento, rimane in simbiosi con esso per tutta la vita. Va in giro lasciandosi trasportare dal vento.",
+            "omega-ruby": "È in grado di controllare a piacimento la forza nascosta dei fiori. Il fiore a cui si aggrappa fa parte del suo stesso corpo.",
+            "alpha-sapphire": "Una volta trovato un fiore di suo gradimento, rimane in simbiosi con esso per tutta la vita. Va in giro lasciandosi trasportare dal vento.",
+            "ultra-sun": "Senza il potere di un fiore è vulnerabile, tuttavia viaggia senza sosta finché non ne trova uno di un colore e di una forma che lo soddisfano.",
+            "ultra-moon": "La corona sulla testa è realizzata con il polline che raccoglie dai fiori e ha proprietà curative."
+        },
+        "fiore-rosso": {
+            "scarlet": "Possiede il dono di estrarre la forza nascosta dei fiori che sbocciano nei campi. Ama in particolar modo i fiori rossi.",
+            "violet": "Un Flabébé sopra a un fiore rosso. Appena nato, questo Pokémon si lancia subito in volo alla ricerca di un fiore che gli vada a genio."
+        },
+        "fiore-giallo": {
+            "scarlet": "Un Flabébé su un fiore giallo. Finché non trova un fiore da cui ricavare la forza è indifeso e vulnerabile.",
+            "violet": "Sferra una varietà di mosse sfruttando la forza dei fiori. Predilige i fiori gialli."
+        },
+        "fiore-arancione": {
+            "scarlet": "Un Flabébé su un fiore arancione. Porta sulla testa una corona di polline dalle proprietà curative.",
+            "violet": "Riceve la forza dai fiori e dà loro in cambio parte della sua energia. Gli piacciono i fiori arancioni."
+        },
+        "fiore-blu": {
+            "scarlet": "Una volta trovato un fiore di suo gradimento, se ne prende cura per tutta la vita. Questo Flabébé è su un fiore blu.",
+            "violet": "Preferisce i fiori blu. Fluttua dolcemente nell’aria usando il potere sprigionato dal suo fiore."
+        },
+        "fiore-bianco": {
+            "scarlet": "Un Flabébé su un fiore bianco. Si lascia trasportare dal vento alla ricerca di un prato fiorito.",
+            "violet": "Al tramonto cerca un terreno in cui siano sbocciati fiori bianchi come il suo per andare a dormire."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "generation": 6,
+    "height": {
+        "flabébé": "0,1 m"
+    },
+    "id": 669,
+    "name": "Flabébé",
+    "name_origin": "Flabébé è una combinazione tra flower, fiore, e bébé, francese per bambino. Furabebe è una combinazione tra フラワー Furawā, fiore, e bébé. ",
+    "origin": "Flabébé sembra essere basato su una fata e una ninfa, in particolare Anthea, per via del suo fiore e della \"corona\" sulla sua testa, così come eventualmente Clori. Potrebbe essere stato ispirato anche al concetto di impollinazione degli insetti, considerando la sua piccola statura e il fatto che colga l'organo femminile del fiore, lo stigma. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Monofiore",
+    "sprites": {
+        "fiore-rosso": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0d/Homef0669.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homefsh0669.png"
+        },
+        "fiore-giallo": {
+            "default": "https://media.pokemoncentral.it/wiki/7/77/Homef0669G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bc/Homefsh0669G.png"
+        },
+        "fiore-arancione": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ea/Homef0669A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/06/Homefsh0669A.png"
+        },
+        "fiore-blu": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c4/Homef0669Bl.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e4/Homefsh0669Bl.png"
+        },
+        "fiore-bianco": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cc/Homef0669Bi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homefsh0669Bi.png"
+        }
+    },
+    "stats": {
+        "flabébé": {
+            "hp": 44,
+            "atk": 38,
+            "def": 39,
+            "spa": 61,
+            "spd": 79,
+            "spe": 42
+        }
+    },
+    "stats_sum": {
+        "flabébé": 303
+    },
+    "types": {
+        "flabébé": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "flabébé": "0,1 kg"
+    }
+}

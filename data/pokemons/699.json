@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "aurorus": {
+            "primary": "Pellegelo",
+            "hidden": "Scendineve"
+        }
+    },
+    "curiosities": [
+        "È il Pokémon di sesta generazione non leggendario più alto, con i suoi 270 cm. È subito seguito da Tyrantrum, che misura 250 cm.",
+        "Aurorus ha la più alta statistica base di Punti Salute fra tutti i Pokémon di tipo Roccia."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/aurorus.mp3",
+    "dex_entries": {
+        "aurorus": {
+            "x": "Emette aria gelida a -150 °C dai cristalli romboidali che ha sul corpo congelando i nemici.",
+            "y": "Si difende dagli attacchi dei nemici creando in pochi istanti un muro di ghiaccio grazie ai cristalli romboidali del suo corpo.",
+            "omega-ruby": "Emette aria gelida a -150 °C dai cristalli romboidali che ha sul corpo congelando i nemici.",
+            "alpha-sapphire": "Si difende dagli attacchi dei nemici creando in pochi istanti un muro di ghiaccio grazie ai cristalli romboidali del suo corpo.",
+            "ultra-sun": "Di recente ha fatto notizia il ritrovamento di un esemplare in perfetto stato di conservazione intrappolato in un iceberg.",
+            "ultra-moon": "La superficie del suo corpo ha una temperatura di -150 °C. È un Pokémon generalmente molto tranquillo e docile.",
+            "sword": "È stato rigenerato da un fossile. Si dice che quando Aurorus ulula, nel cielo notturno compaia l’aurora boreale.",
+            "shield": "Quando è in preda all’ira emette un getto violento di aria gelida che congela tutto ciò che lo circonda."
+        }
+    },
+    "egg_groups": [
+        "Mostro"
+    ],
+    "generation": 6,
+    "height": {
+        "aurorus": "2,7 m"
+    },
+    "id": 699,
+    "name": "Aurorus",
+    "name_origin": "Aurorus è una combinazione tra aurora e Amargasaurus. Amaruruga deriva da Amargasaurus. ",
+    "origin": "Probabilmente è basato su un Diplodocus e le creste rappresentano l'aurora boreale, fenomeno che appare solo in paesi molto freddi, il che si va a collegare con il tipo ghiaccio del Pokémon. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Tundra",
+    "sprites": {
+        "aurorus": {
+            "default": "https://media.pokemoncentral.it/wiki/0/02/Homem0699.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0699.png"
+        }
+    },
+    "stats": {
+        "aurorus": {
+            "hp": 123,
+            "atk": 77,
+            "def": 72,
+            "spa": 99,
+            "spd": 92,
+            "spe": 58
+        }
+    },
+    "stats_sum": {
+        "aurorus": 521
+    },
+    "types": {
+        "aurorus": [
+            "Roccia",
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "aurorus": "225,0 kg"
+    }
+}

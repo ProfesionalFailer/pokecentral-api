@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Maturazione",
+            "secondary": "Voracità",
+            "hidden": "Grassospesso"
+        }
+    },
+    "curiosities": [
+        "Applin, Flapple e Appletun sono gli unici Pokémon che si trovano nel Gruppo Uova Erba e Drago.",
+        "Flapple ed Appletun hanno una forma Gigamax fisicamente identica, ma sono comunque considerati due Pokémon differenti con voci del Pokédex, mosse Gigamax e versi distinti."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/appletun.mp3",
+    "dex_entries": {
+        "appletun": {
+            "sword": "Si è evoluto dopo aver mangiato una mela dolce. Si nutre di Pokémon Coleottero, che attira emanando un dolce profumo dal corpo.",
+            "shield": "È ricoperto di una specie di sciroppo. La buccia sulla sua schiena, particolarmente dolce, una volta veniva data ai bambini per merenda.",
+            "scarlet": "Si nutre principalmente di mele dolci, ma non disdegna nemmeno i piccoli Pokémon Coleottero attratti dal suo dolce sciroppo.",
+            "violet": "Quando Lechonk si avvicina per leccare il dolce sciroppo che ha sulla schiena, Appletun lo allontana sputandogli addosso nettare vischioso."
+        },
+        "appletun-gigamax": {
+            "sword": "Spruzza il nemico con un enorme fiotto di sciroppo, cospargendolo di un liquido vischioso che lo fa soffocare.",
+            "shield": "Il suo sciroppo, diventato ancora più viscoso grazie all'energia del fenomeno Gigamax, attutisce i danni."
+        }
+    },
+    "egg_groups": [
+        "Erba",
+        "Drago"
+    ],
+    "generation": 8,
+    "height": {
+        "appletun": "0,4 m",
+        "appletun-gigamax": "> 24,0 m"
+    },
+    "id": 842,
+    "name": "Appletun",
+    "name_origin": "Appletun potrebbe derivare da appleton, un toponimo che significa \"un frutteto\" o \"un luogo dove crescono le mele\". Potrebbe essere anche una combinazione di apple, mela, e ton, tonellata. Potrebbe essere anche un gioco di parole con apple turnover, Appleflap. Tarupple potrebbe essere una combinazione di tart, tartina, 怠い tarui, pigro, たっぷり tappuri, pieno, e apple, mela. ",
+    "origin": "Appletun potrebbe essere basato su una torta di mele e su Ladone, un drago della mitologia greca che sorveglia i pomi d'oro nel giardino delle Esperidi. Potrebbe trarre ispirazione anche dai serpenti biblici, spesso associati ai draghi. Uno di questi serpenti persuade Eva e le fa mangiare un frutto dell'albero della conoscenza, più volte rappresentato come una mela. Appletun potrebbe essere basato anche sulla storia di Bel e il Drago che narra di un drago che si squarciò dopo aver mangiato una torta di mele e tartarughe. La sua forma Gigamax potrebbe essere basata su una mela caramellata. Il fatto che Flapple ed Appletun abbiano la stessa forma Gigamax potrebbe essere un riferimento alla convergenza evolutiva, il fenomeno per cui specie diverse che vivono nello stesso tipo di ambiente, sulla spinta delle stesse pressioni ambientali, si evolvono sviluppando, per selezione naturale, determinate strutture o adattamenti che li portano ad assomigliarsi moltissimo. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Pomisucco",
+    "sprites": {
+        "appletun": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f6/Homem0842.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0842.png"
+        },
+        "appletun-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e9/Homem0841Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0841Gi.png"
+        }
+    },
+    "stats": {
+        "appletun": {
+            "hp": 110,
+            "atk": 85,
+            "def": 80,
+            "spa": 100,
+            "spd": 80,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "appletun": 485
+    },
+    "types": {
+        "appletun": [
+            "Erba",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "appletun": "13,0 kg",
+        "appletun-gigamax": "???,? kg"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "fennekin": {
+            "primary": "Aiutofuoco",
+            "hidden": "Prestigiatore"
+        }
+    },
+    "curiosities": [
+        "Fennekin, anche se è più simile a una volpe che ad un cane, è rappresentato nello zodiaco cinese sotto forma di \"cane\", come tutti gli altri Pokémon iniziali di tipo fuoco .",
+        "Fennekin e le sue evoluzioni condividono la categoria con le famiglie evolutive di Vulpix e Nickit. Appartengono infatti tutti alla categoria Pokémon Volpe."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/fennekin.mp3",
+    "dex_entries": {
+        "fennekin": {
+            "x": "Fa il pieno di energie mangiando ramoscelli ed emette aria calda dalle grandi orecchie a una temperatura di oltre 200°C.",
+            "y": "Se ne va in giro sgranocchiando un rametto. Intimidisce i nemici emettendo aria calda dalle orecchie.",
+            "omega-ruby": "Fa il pieno di energie mangiando ramoscelli ed emette aria calda dalle grandi orecchie a una temperatura di oltre 200°C.",
+            "alpha-sapphire": "Se ne va in giro sgranocchiando un rametto. Intimidisce i nemici emettendo aria calda dalle orecchie."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 6,
+    "height": {
+        "fennekin": "0,4 m"
+    },
+    "id": 653,
+    "name": "Fennekin",
+    "name_origin": "Fennekin è una combinazione di fennec, una piccola volpe del deserto, e kindle, inglese per accendere, in riferimento al tipo Fuoco. Fokko è una combinazione tra fox, volpe in inglese e 狐 ko, volpe, o 子 ko, bambino. ",
+    "origin": "Fennekin è basato sul Fennec, una piccola volpe dalle grandi orecchie che vive nel deserto del Sahara e nella penisola araba. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Volpe",
+    "sprites": {
+        "fennekin": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0a/Homem0653.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0653.png"
+        }
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 40,
+            "atk": 45,
+            "def": 40,
+            "spa": 62,
+            "spd": 60,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 307
+    },
+    "types": {
+        "fennekin": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "fennekin": "9,4 kg"
+    }
+}

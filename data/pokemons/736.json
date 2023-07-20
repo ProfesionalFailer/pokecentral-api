@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "grubbin": {
+            "primary": "Aiutinsetto"
+        }
+    },
+    "curiosities": [
+        "Grubbin è stato disegnato da Hitoshi Ariga."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/grubbin.mp3",
+    "dex_entries": {
+        "grubbin": {
+            "sun": "Raschia le cortecce degli alberi con le sue robuste mandibole per succhiarne la linfa. Vive solitamente sottoterra.",
+            "moon": "Per difendersi dai Pokémon alati, spesso si rifugia nei luoghi abitati da Pokémon di tipo Elettro.",
+            "ultra-sun": "Se trovi un nido di Grubbin, non infilarci dentro la mano: non amano le intrusioni e rischi di farti dare un bel morso.",
+            "ultra-moon": "Secerne un filo appiccicoso con cui immobilizza l'avversario per poi stritolarlo tra le sue robuste mandibole.",
+            "sword": "Può spezzare grossi rami con le robuste mandibole, che mettono in fuga persino il suo nemico naturale, Rookidee.",
+            "shield": "Si crea una tana scavando nel terreno con le grandi mandibole. Va matto per la dolce linfa degli alberi."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 7,
+    "height": {
+        "grubbin": "0,4 m"
+    },
+    "id": 736,
+    "name": "Grubbin",
+    "name_origin": "Grubbin potrebbe essere una combinazione di grub  e di grubbing . Agojimushi potrebbe essere una combinazione di 顎 ago  e di 地虫 jimushi . ",
+    "origin": "Grubbin sembra essere basato su di una larva di coleottero. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Coleolarva",
+    "sprites": {
+        "grubbin": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c2/Homem0736.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0736.png"
+        }
+    },
+    "stats": {
+        "grubbin": {
+            "hp": 47,
+            "atk": 62,
+            "def": 45,
+            "spa": 55,
+            "spd": 45,
+            "spe": 46
+        }
+    },
+    "stats_sum": {
+        "grubbin": 300
+    },
+    "types": {
+        "grubbin": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "grubbin": "4,4 kg"
+    }
+}

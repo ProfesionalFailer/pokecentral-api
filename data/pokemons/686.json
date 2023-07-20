@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "inkay": {
+            "primary": "Inversione",
+            "secondary": "Ventose",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "Gli Inkay, così come la loro evoluzione Malamar, hanno una combinazioni di tipi unica nel loro genere. Infatti sono gli unici Pokémon ad essere del doppio tipo Buio/Psico.\n\tLa cosa è corretta se non si conta Hoopa Libero, anche se lui ha i tipi invertiti rispetto alla famiglia evolutiva di Inkay.",
+        "La cosa è corretta se non si conta Hoopa Libero, anche se lui ha i tipi invertiti rispetto alla famiglia evolutiva di Inkay.",
+        "Inkay è il Pokémon di tipo Buio più piccolo.",
+        "Inkay è l'unico Pokémon che si evolve capovolgendo il Nintendo 3ds o la Nintendo Switch, dopo aver raggiunto il livello 30."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/inkay.mp3",
+    "dex_entries": {
+        "inkay": {
+            "x": "I nemici che guardano la luce lampeggiante emessa dal suo corpo rimangono abbagliati e perdono il loro spirito combattivo.",
+            "y": "Fa lampeggiare i motivi sul suo corpo in una sequenza ipnotica per far perdere lo spirito combattivo ai nemici, riuscendo così a fuggire.",
+            "omega-ruby": "I nemici che guardano la luce lampeggiante emessa dal suo corpo rimangono abbagliati e perdono il loro spirito combattivo.",
+            "alpha-sapphire": "Fa lampeggiare i motivi sul suo corpo in una sequenza ipnotica per far perdere lo spirito combattivo ai nemici, riuscendo così a fuggire.",
+            "ultra-sun": "Attira a sé la preda con luci lampeggianti per poi immobilizzarla avvinghiandola con i suoi tentacoli.",
+            "ultra-moon": "Scambia informazioni con i suoi simili facendo lampeggiare i motivi sul suo corpo in sequenze complesse.",
+            "sword": "Gira su se stesso facendo lampeggiare i motivi che ha sul corpo. Comunica con i suoi simili emettendo segnali luminosi.",
+            "shield": "Fa perdere ai nemici lo spirito combattivo grazie alla luce lampeggiante che emette dal suo corpo e ne approfitta per scappare."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 2"
+    ],
+    "generation": 6,
+    "height": {
+        "inkay": "0,4 m"
+    },
+    "id": 686,
+    "name": "Inkay",
+    "name_origin": "Inkay deriva da inkfish e da okay . Il nome giapponese Māīka può essere una combinazione di 魔 ma  e 烏賊 ika  o 真烏賊 maika . ",
+    "origin": "Inkay è basato su un calamaro. ",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Volteggio",
+    "sprites": {
+        "inkay": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c5/Homem0686.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0686.png"
+        }
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 53,
+            "atk": 54,
+            "def": 53,
+            "spa": 37,
+            "spd": 46,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 288
+    },
+    "types": {
+        "inkay": [
+            "Psico",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "inkay": "3,5 kg"
+    }
+}

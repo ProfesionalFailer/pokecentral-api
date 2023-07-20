@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "pidgeotto": {
+            "primary": "Sguardofermo",
+            "secondary": "Intricopiedi",
+            "hidden": "Pettinfuori"
+        }
+    },
+    "curiosities": [
+        "Pidgeotto è l'unico Pokémon con il totale delle statistiche base pari a 349.",
+        "Il nome prototipo inglese di Pidgeotto era \"Pidgeot\", lo stesso della sua evoluzione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pidgeotto.mp3",
+    "dex_entries": {
+        "pidgeotto": {
+            "red": "Strenuo difensore del suo ampio territorio, becca ferocemente ogni intruso.",
+            "blue": "Strenuo difensore del suo ampio territorio, becca ferocemente ogni intruso.",
+            "yellow": "Un POKéMON pieno di vitalità che vola instancabile sul suo territorio in cerca di prede ignare.",
+            "gold": "Ha una vista eccellente. Per quanto alto stia volando, scorge sempre i movimenti della preda.",
+            "silver": "Immobilizza la preda con artigli ben sviluppati, per poi trasportarla al suo nido, a più di 100 km.",
+            "crystal": "Compie lentamente ampi cerchi nel cielo, per perlustrare l'area alla ricerca di una preda.",
+            "ruby": "PIDGEOTTO delimita come proprio un territorio immenso, che difende controllandolo costantemente. Se tale territorio viene invaso, questo POKéMON non ha pietà nel punire i nemici con i suoi artigli affilati.",
+            "sapphire": "PIDGEOTTO delimita come proprio un territorio immenso, che difende controllandolo costantemente. Se tale territorio viene invaso, questo POKéMON non ha pietà nel punire i nemici con i suoi artigli affilati.",
+            "emerald": "PIDGEOTTO difende e controlla costantemente il proprio immenso territorio. Se viene invaso, punisce senza pietà i nemici con i suoi artigli affilati.",
+            "firered": "Grazie ai potenti artigli può trasportare una preda delle dimensioni di un EXEGGCUTE per oltre 100 km.",
+            "leafgreen": "Strenuo difensore del suo ampio territorio, becca ferocemente ogni intruso.",
+            "diamond": "Sorvola il suo ampio territorio a caccia di prede, afferrandole con i suoi artigli affilati.",
+            "pearl": "Sorvola il suo ampio territorio a caccia di prede, afferrandole con i suoi artigli affilati.",
+            "platinum": "Sorvola il suo ampio territorio a caccia di prede, afferrandole con i suoi artigli affilati.",
+            "heartgold": "Ha una vista eccellente. Per quanto alto stia volando, scorge sempre i movimenti della preda.",
+            "soulsilver": "Immobilizza la preda con artigli ben sviluppati e può trasportarla per più di 100 km fino al suo nido.",
+            "black": "Sorvola il suo ampio territorio a caccia di prede, afferrandole con i suoi artigli affilati.",
+            "white": "Sorvola il suo ampio territorio a caccia di prede, afferrandole con i suoi artigli affilati.",
+            "black-2": "Sorvola il suo ampio territorio a caccia di prede, afferrandole con i suoi artigli affilati.",
+            "white-2": "Sorvola il suo ampio territorio a caccia di prede, afferrandole con i suoi artigli affilati.",
+            "x": "Grazie ai potenti artigli può trasportare una preda delle dimensioni di un Exeggcute per oltre 100 km.",
+            "y": "Strenuo difensore del suo ampio territorio, becca ferocemente ogni intruso.",
+            "omega-ruby": "Pidgeotto delimita come proprio un territorio immenso, che difende controllandolo costantemente. Se tale territorio viene invaso, questo Pokémon non ha pietà nel punire i nemici con i suoi artigli affilati.",
+            "alpha-sapphire": "Pidgeotto delimita come proprio un territorio immenso, che difende controllandolo costantemente. Se tale territorio viene invaso, questo Pokémon non ha pietà nel punire i nemici con i suoi artigli affilati.",
+            "lets-go-pikachu": "Un Pokémon pieno di vitalità che vola instancabile sul suo territorio in cerca di prede.",
+            "lets-go-eevee": "Un Pokémon pieno di vitalità che vola instancabile sul suo territorio in cerca di prede.",
+            "brilliant-diamond": "Sorvola il suo ampio territorio a caccia di prede, abbattendole con i suoi poderosi artigli.",
+            "shining-pearl": "Sorvola il suo ampio territorio a caccia di prede, abbattendole con i suoi poderosi artigli."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 1,
+    "height": {
+        "pidgeotto": "1,1 m"
+    },
+    "id": 17,
+    "name": "Pidgeotto",
+    "name_origin": "Pidgeotto potrebbe essere una combinazione di pigeon, piccione, e diciotto . Il suo nome potrebbe riferirsi anche a Otto Lilienthal un pioniere dell'aviazione tedesca che è conosciuto come il re degli alianti. Pigeon potrebbe derivare da ピジョン pigeon, piccione. ",
+    "origin": "Nonostante il suo nome, Pidgeotto potrebbe essere basato su un falco pescatore o su un rapace piuttosto che su un piccione. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Uccello",
+    "sprites": {
+        "pidgeotto": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2a/Homem0017.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cb/Homemsh0017.png"
+        }
+    },
+    "stats": {
+        "pidgeotto": {
+            "hp": 63,
+            "atk": 60,
+            "def": 55,
+            "spa": 50,
+            "spd": 50,
+            "spe": 71
+        }
+    },
+    "stats_sum": {
+        "pidgeotto": 349
+    },
+    "types": {
+        "pidgeotto": [
+            "Normale",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "pidgeotto": "30,0 kg"
+    }
+}

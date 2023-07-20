@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "sizzlipede": {
+            "primary": "Fuocardore",
+            "secondary": "Fumochiaro",
+            "hidden": "Corpodifuoco"
+        }
+    },
+    "curiosities": [
+        "Nonostante Sizzlipede e Venipede vivano in zone differenti della regione di Galar, entrambi le loro voci del Pokédex parlano della rivalità ostile tra i due."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sizzlipede.mp3",
+    "dex_entries": {
+        "sizzlipede": {
+            "sword": "Genera calore grazie ai gas combustibili accumulati nel suo corpo. Le parti gialle del suo addome sono particolarmente calde.",
+            "shield": "Stritola le prede con il suo corpo ardente e, quando sono belle abbrustolite, le divora."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 8,
+    "height": {
+        "sizzlipede": "0,7 m"
+    },
+    "id": 850,
+    "name": "Sizzlipede",
+    "name_origin": "Sizzlipede potrebbe essere una combinazione di sizzle, sibilare, millipede, millepiedi, e centipede, centopiedi. Yakude potrebbe essere una combinazione di 焼く yaku, bruciare, e 蚰蜒 yasude, millepiedi, o 百足 mukade, centopiedi. ",
+    "origin": "Sizzlipede potrebbe essere basato su un radiatore o su un centopiedi, come l'Orphaneus brevilabiatus, noto anche come \"centopiedi di fuoco\" a causa della sua bioluminescenza. Potrebbe essere ispirato anche su un millepiedi bioluminescente, il Motyxia. ",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Termogeno",
+    "sprites": {
+        "sizzlipede": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c0/Homem0850.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0850.png"
+        }
+    },
+    "stats": {
+        "sizzlipede": {
+            "hp": 50,
+            "atk": 65,
+            "def": 45,
+            "spa": 50,
+            "spd": 50,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "sizzlipede": 305
+    },
+    "types": {
+        "sizzlipede": [
+            "Coleot",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "sizzlipede": "1,0 kg"
+    }
+}

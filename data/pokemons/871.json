@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "pincurchin": {
+            "primary": "Parafulmine",
+            "hidden": "Elettrogenesi"
+        }
+    },
+    "curiosities": [
+        "Pincurchin ha la Velocità base più bassa tra tutti i Pokémon di tipo Elettro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pincurchin.mp3",
+    "dex_entries": {
+        "pincurchin": {
+            "sword": "Sprigiona elettricità dalla punta dei suoi aculei. Usa i denti affilati per raschiare dalle rocce le alghe di cui si nutre.",
+            "shield": "Ogni singolo aculeo è carico di elettricità. Quando se ne rompe uno, continua a emettere scariche elettriche per tre ore.",
+            "scarlet": "Mentre digerisce il cibo, genera elettricità. Usa i cinque durissimi denti per raschiare via dalle cose le alghe di cui si nutre.",
+            "violet": "È talmente fifone che gli basta sfiorare un’alga per emettere scariche elettriche dallo spavento. Le sue labbra non conducono elettricità."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Amorfo"
+    ],
+    "generation": 8,
+    "height": {
+        "pincurchin": "0,3 m"
+    },
+    "id": 871,
+    "name": "Pincurchin",
+    "name_origin": "Pincurchin potrebbe essere una combinazione di pin, spillo, e sea urchin, riccio di mare. Potrebbe essere un gioco di parole con pincushion, puntaspilli. Bachinuni potrebbe essere una combinazione di バチン bachin, onomatopea dello scoppiettio dell'elettricità, e 海胆 uni, riccio di mare. Potrebbe derivare anche da バフンウニ bafununi, l'Hemicentrotus pulcherrimus, una delle specie più popolari del riccio di mare. ",
+    "origin": "Pincurchin potrebbe essere basato su un riccio di mare, in particolare sulla specie Echinometra mathaei. Il suo comportamento può fare riferimento alla capacità di alcuni ricci di rigenerare gli aculei che si rompono per iniettare veleno come meccanisco di difesa; nel caso di Pincurchin trasmette elettricità. Le parti gialle della bocca potrebbero essere un riferimento alle uova di riccio di mare  che spesso sono gialle e considerate una prelibatezza. Può trarre ispirazione anche dai puntaspilli. ",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Echino",
+    "sprites": {
+        "pincurchin": {
+            "default": "https://media.pokemoncentral.it/wiki/9/91/Homem0871.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b4/Homemsh0871.png"
+        }
+    },
+    "stats": {
+        "pincurchin": {
+            "hp": 48,
+            "atk": 101,
+            "def": 95,
+            "spa": 91,
+            "spd": 85,
+            "spe": 15
+        }
+    },
+    "stats_sum": {
+        "pincurchin": 435
+    },
+    "types": {
+        "pincurchin": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "pincurchin": "1,0 kg"
+    }
+}

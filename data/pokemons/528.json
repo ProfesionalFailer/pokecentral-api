@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "swoobat": {
+            "primary": "Imprudenza",
+            "secondary": "Impaccio",
+            "hidden": "Disinvoltura"
+        }
+    },
+    "curiosities": [
+        "La linea evolutiva di Swoobat presenta delle similitudini con quella di Crobat: entrambe sono basate su dei pipistrelli che raggiungono le loro rispettive forme finali per affetto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/swoobat.mp3",
+    "dex_entries": {
+        "swoobat": {
+            "black": "Emette dal naso onde sonore di varie frequenze, alcune in grado di distruggere anche la pietra.",
+            "white": "È molto piacevole essere investiti dalle onde ultrasoniche che il maschio emette quando corteggia la femmina.",
+            "black-2": "Quando emette delle onde ultrasoniche così forti da rompere il cemento, la coda gli oscilla con forza.",
+            "white-2": "Quando emette delle onde ultrasoniche così forti da rompere il cemento, la coda gli oscilla con forza.",
+            "x": "Quando emette delle onde ultrasoniche così forti da rompere il cemento, la coda gli oscilla con forza.",
+            "y": "È molto piacevole essere investiti dalle onde ultrasoniche che il maschio emette quando corteggia la femmina.",
+            "omega-ruby": "Quando emette delle onde ultrasoniche così forti da rompere il cemento, la coda gli oscilla con forza.",
+            "alpha-sapphire": "È molto piacevole essere investiti dalle onde ultrasoniche che il maschio emette quando corteggia la femmina.",
+            "sword": "Dopo aver emesso delle potentissime onde sonore è così stanco da non poter volare per un po'.",
+            "shield": "Si dice che in alcune regioni venga venerato per via della forma del suo naso, ritenuta di buon auspicio."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Volante"
+    ],
+    "generation": 5,
+    "height": {
+        "swoobat": "0,9 m"
+    },
+    "id": 528,
+    "name": "Swoobat",
+    "name_origin": "Il nome Swoobat potrebbe essere una combinazione tra le parole inglesi swoon  o Swoop  e bat , inoltre il nome Swoobat contiene il nome della pre-evoluzione Woobat. ",
+    "origin": "Swoobat è basato sulle volpi volanti e sui pipistrelli dal naso a cuore. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Cercamore",
+    "sprites": {
+        "swoobat": {
+            "default": "https://media.pokemoncentral.it/wiki/5/55/Homem0528.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homemsh0528.png"
+        }
+    },
+    "stats": {
+        "swoobat": {
+            "hp": 67,
+            "atk": 57,
+            "def": 55,
+            "spa": 77,
+            "spd": 55,
+            "spe": 114
+        }
+    },
+    "stats_sum": {
+        "swoobat": 425
+    },
+    "types": {
+        "swoobat": [
+            "Psico",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "swoobat": "10,5 kg"
+    }
+}

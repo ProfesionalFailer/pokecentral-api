@@ -1,0 +1,136 @@
+{
+    "abilities": {
+        "stato-normale": {
+            "primary": "Forzabruta",
+            "hidden": "Stato Zen"
+        },
+        "stato-zen-e-stato-zen-(galar)": {
+            "primary": "Stato Zen"
+        },
+        "forma-di-galar": {
+            "primary": "Vigorilla",
+            "hidden": "Stato Zen"
+        }
+    },
+    "curiosities": [
+        "Darmanitan in Forma Normalità possiede la statistica di attacco più alta fra tutti i Pokémon di tipo Fuoco non leggendari o misteriosi e non megaevoluti.",
+        "La Forma Zen di Darmanitan è l'unica forma alternativa che non appare in Pokémon Super Mystery Dungeon.",
+        "La forma stato zen del Darmanitan di Galar ha una combinazione di tipi unica."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/darmanitan.mp3",
+    "dex_entries": {
+        "darmanitan": {
+            "black": "La sua fiamma interna, alla temperatura di 1400°C, sviluppa una potenza tale da distruggere un autocarro.",
+            "white": "Se indebolito in combattimento, si trasforma in una statua, attiva la mente e combatte con la forza dello spirito.",
+            "black-2": "Se resta ferito durante una battaglia violenta, diventa duro come la pietra e medita per purificare la mente.",
+            "white-2": "Se resta ferito durante una battaglia violenta, diventa duro come la pietra e medita per purificare la mente.",
+            "x": "Se resta ferito durante una battaglia violenta, diventa duro come la pietra e medita per purificare la mente.",
+            "y": "La sua fiamma interna, alla temperatura di 1400 °C, sviluppa una potenza tale da distruggere un autocarro.",
+            "omega-ruby": "Se resta ferito durante una battaglia violenta, diventa duro come la pietra e medita per purificare la mente.",
+            "alpha-sapphire": "La sua fiamma interna, alla temperatura di 1400 °C, sviluppa una potenza tale da distruggere un autocarro."
+        },
+        "forma-normalità": {
+            "sword": "Pokémon dal sangue caldo. I pugni che sferra con i suoi massicci arti superiori possono ridurre in polvere anche un autocarro.",
+            "shield": "La sua fiamma interna può raggiungere temperature di oltre 1.400 °C. Più intensamente arde, più la potenza del Pokémon aumenta."
+        },
+        "stato-zen": {
+            "sword": "Attraverso la meditazione, placa il suo animo impetuoso e affina i suoi poteri psichici.",
+            "shield": "Se subisce danni, diventa immobile come un sasso e medita per temprare lo spirito."
+        },
+        "forma-di-galar": {
+            "sword": "Conserva il cibo nella palla di neve che ha sulla testa. Nei giorni di tormenta, scende fino alle zone abitate.",
+            "shield": "Ha un carattere mite ma è molto forte. Congela la palla di neve che ha sulla testa per poi prendere a testate il nemico."
+        },
+        "forma-di-galar-stato-zen": {
+            "sword": "La sua ira riattiva la sacca ignea che in condizioni normali è atrofizzata. Sputa fiamme a destra e a manca senza badare a ciò che lo circonda.",
+            "shield": "Assume questa forma quando è infuriato. Finché non si calma sputa fiamme a destra e a manca, anche a costo di squagliarsi."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "darmanitan-forma-normalità": "1,3 m",
+        "darmanitan-stato-zen": "1,3 m",
+        "forma-di-galar-forma-normalità": "1,7 m",
+        "forma-di-galar-stato-zen": "1,7 m"
+    },
+    "id": 555,
+    "name": "Darmanitan",
+    "name_origin": "Darmanitan deriva da dharma e orangutan, orngotango. Il nome giapponese, ヒヒダルマ Hihidaruma, deriva da ヒヒ hihi, babbuino, 火達磨 hidaruma, l'essere ricoperto di fiamme, e だるま daruma.",
+    "origin": "Darmanitan è basato su una bambola dharma, con riferimenti a Bodhidharma, e su una scimmia antropomorfa, oltre ad avere degli aspetti in comune con l'orangotango e il babbuino. Il suo Stato Zen è ispirato inoltre alle tre scimmie sagge: \"colei che non sente il male\", \"colei che non vede il male\" e \"colei che non parla del male\", segni riportati dalle mani con cui si tappa le orecchie, gli occhi vuoti, privi di pupilla, la bocca sottile e fermamente chiusa. La sua forma Zen di Galar è ispirata a un pupazzo di neve, che in giapponese è Yukidaruma . ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Altefiamme",
+    "sprites": {
+        "stato-normale  ": {
+            "default": "https://media.pokemoncentral.it/wiki/0/00/Homem0555.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/79/Homemsh0555.png"
+        },
+        "stato-zen  ": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7c/Homem0555Z.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6c/Homemsh0555Z.png"
+        },
+        "forma-di-galar  ": {
+            "default": "https://media.pokemoncentral.it/wiki/4/44/Homem0555G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/be/Homemsh0555G.png"
+        },
+        "stato-zen-(galar)  ": {
+            "default": "https://media.pokemoncentral.it/wiki/1/12/Homem0555GZ.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0555GZ.png"
+        }
+    },
+    "stats": {
+        "stato-normale-e-forma-di-galar": {
+            "hp": 105,
+            "atk": 140,
+            "def": 55,
+            "spa": 30,
+            "spd": 55,
+            "spe": 95
+        },
+        "stato-zen": {
+            "hp": 105,
+            "atk": 30,
+            "def": 105,
+            "spa": 140,
+            "spd": 105,
+            "spe": 55
+        },
+        "stato-zen-(galar)": {
+            "hp": 105,
+            "atk": 160,
+            "def": 55,
+            "spa": 30,
+            "spd": 55,
+            "spe": 135
+        }
+    },
+    "stats_sum": {
+        "stato-normale-e-forma-di-galar": 480,
+        "stato-zen": 540,
+        "stato-zen-(galar)": 540
+    },
+    "types": {
+        "stato-normale": [
+            "Fuoco"
+        ],
+        "stato-zen": [
+            "Psico",
+            "Fuoco"
+        ],
+        "forma-di-galar": [
+            "Ghiaccio"
+        ],
+        "stato-zen-(galar)": [
+            "Ghiaccio",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "darmanitan-forma-normalità": "92,9 kg",
+        "darmanitan-stato-zen": "92,9 kg",
+        "forma-di-galar-forma-normalità": "120,0 kg",
+        "forma-di-galar-stato-zen": "120,0 kg"
+    }
+}

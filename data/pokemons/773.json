@@ -1,0 +1,256 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Sistema Primevo"
+        }
+    },
+    "curiosities": [
+        "Come il Pokédex suggerisce, Silvally deve il nome a Iridio",
+        "Arceus e Silvally condividono diverse caratteristiche:\n\tCambiano tipo tenendo uno strumento apposito.\n\tHanno una mossa esclusiva che cambia tipo in base a quello strumento, e che quindi riceve sempre il bonus di tipo.\n\tSono i Pokémon con più forme alternative fra quelli in grado di cambiare forma.\n\tProbabilmente Silvally deriva in qualche modo da Arceus: infatti le informazioni per creare la sua abilità Sistema Primevo sono state recuperate alla Biblioteca di Canalipoli, dove si trovano alcuni miti proprio riguardanti Arceus.",
+        "Cambiano tipo tenendo uno strumento apposito.",
+        "Hanno una mossa esclusiva che cambia tipo in base a quello strumento, e che quindi riceve sempre il bonus di tipo.",
+        "Sono i Pokémon con più forme alternative fra quelli in grado di cambiare forma.",
+        "Probabilmente Silvally deriva in qualche modo da Arceus: infatti le informazioni per creare la sua abilità Sistema Primevo sono state recuperate alla Biblioteca di Canalipoli, dove si trovano alcuni miti proprio riguardanti Arceus.",
+        "Con Pokémon Spada e Scudo, Silvally è il Pokémon con più descrizioni individuali in un singolo Pokédex regionale: ben 18.",
+        "Silvally è uno dei Pokémon con lo stesso valore in tutte le statistiche base.",
+        "È stato rivelato nell'edizione di CoroCoro di ottobre 2016."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/silvally.mp3",
+    "dex_entries": {
+        "tipo-normale": {
+            "sun": "La fiducia nel proprio Allenatore gli consente di risvegliare il suo potere nascosto. Durante la lotta può cambiare il suo tipo a piacimento.",
+            "moon": "Deve il suo nome al ragazzo che ha fatto evolvere Tipo Zero per la prima volta.",
+            "ultra-sun": "Ha risvegliato il suo potere nascosto e si è evoluto. Svincolato dalla pesante maschera, la sua velocità è notevolmente aumentata.",
+            "ultra-moon": "Il legame di fiducia con il proprio Allenatore gli ha permesso di acquistare una grande forza d'animo e distruggere la maschera.",
+            "sword": "Lo stretto legame con il suo Allenatore ha risvegliato il suo potere nascosto. Può cambiare tipo a suo piacimento.",
+            "shield": "Il fattore decisivo che permette di liberare la sua vera potenza è il legame di fiducia che lo unisce al suo Allenatore."
+        },
+        "tipo-lotta": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Lotta se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Lotta."
+        },
+        "tipo-volante": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Volante se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Volante."
+        },
+        "tipo-veleno": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Veleno se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Veleno."
+        },
+        "tipo-terra": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Terra se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Terra."
+        },
+        "tipo-roccia": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Roccia se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Roccia."
+        },
+        "tipo-coleottero": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Coleottero se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Coleottero."
+        },
+        "tipo-spettro": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Spettro se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Spettro."
+        },
+        "tipo-acciaio": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Acciaio se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Acciaio."
+        },
+        "tipo-fuoco": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Fuoco se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Fuoco."
+        },
+        "tipo-acqua": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Acqua se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Acqua."
+        },
+        "tipo-erba": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Erba se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Erba."
+        },
+        "tipo-elettro": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Elettro se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Elettro."
+        },
+        "tipo-psico": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Psico se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Psico."
+        },
+        "tipo-ghiaccio": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Ghiaccio se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Ghiaccio."
+        },
+        "tipo-drago": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Drago se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Drago."
+        },
+        "tipo-buio": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Buio se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Buio."
+        },
+        "tipo-folletto": {
+            "sun": "È riuscito a distruggere la maschera che lo controllava e ora può cambiare tipo grazie a delle speciali ROM.",
+            "moon": "Quando si sveglia, il Sistema Primevo si attiva. Modifica il proprio tipo grazie a delle speciali ROM per affrontare al meglio il nemico.",
+            "ultra-sun": "È riuscito a risvegliare il suo potere nascosto. Può cambiare tipo per lottare al meglio, come un altro Pokémon di cui si narra nelle leggende.",
+            "ultra-moon": "È riuscito a liberare il suo potere, grazie al quale può cambiare tipo a piacimento. L'energia che emana lo fa brillare di una luce argentea.",
+            "sword": "Ora che ha risvegliato il suo potere latente, può assumere il tipo Folletto se è equipaggiato con la ROM adatta.",
+            "shield": "Ha la capacità di cambiare tipo in base alla ROM equipaggiata. Questa è la forma di tipo Folletto."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 7,
+    "height": {
+        "silvally": "2,3 m"
+    },
+    "id": 773,
+    "name": "Silvally",
+    "name_origin": "Silvally potrebbe essere una combinazione di silver, argento e ally, alleato. Silvadi potrebbe essere una combinazione di silver, argento in inglese, e buddy, compagno in inglese. ",
+    "origin": "",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Multigene",
+    "sprites": {
+        "silvally": {
+            "default": "https://media.pokemoncentral.it/wiki/8/84/Homem0773.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0773.png"
+        }
+    },
+    "stats": {
+        "silvally": {
+            "hp": 95,
+            "atk": 95,
+            "def": 95,
+            "spa": 95,
+            "spd": 95,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "silvally": 570
+    },
+    "types": {
+        "tipo-normale": [
+            "Normale"
+        ],
+        "tipo-lotta": [
+            "Lotta"
+        ],
+        "tipo-volante": [
+            "Volante"
+        ],
+        "tipo-veleno": [
+            "Veleno"
+        ],
+        "tipo-terra": [
+            "Terra"
+        ],
+        "tipo-roccia": [
+            "Roccia"
+        ],
+        "tipo-coleottero": [
+            "Coleottero"
+        ],
+        "tipo-spettro": [
+            "Spettro"
+        ],
+        "tipo-acciaio": [
+            "Acciaio"
+        ],
+        "tipo-fuoco": [
+            "Fuoco"
+        ],
+        "tipo-acqua": [
+            "Acqua"
+        ],
+        "tipo-erba": [
+            "Erba"
+        ],
+        "tipo-elettro": [
+            "Elettro"
+        ],
+        "tipo-psico": [
+            "Psico"
+        ],
+        "tipo-ghiaccio": [
+            "Ghiaccio"
+        ],
+        "tipo-drago": [
+            "Drago"
+        ],
+        "tipo-buio": [
+            "Buio"
+        ],
+        "tipo-folletto": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "silvally": "100,5 kg"
+    }
+}

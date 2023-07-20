@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "oranguru": {
+            "primary": "Forza Interiore",
+            "secondary": "Telepatia",
+            "hidden": "Simbiosi"
+        }
+    },
+    "curiosities": [
+        "Oranguru sembra essere la controparte di Passimian dato che il primo si può trovare solo in Pokémon Luna e il secondo in Pokémon Sole. Inoltre, sono entrambi basati su primati ed hanno lo stesso totale di statistiche base.\n\tCuriosamente, pur essendo entrambi ispirati a delle scimmie, non fanno parte del Gruppo Uova Umanoide.",
+        "Curiosamente, pur essendo entrambi ispirati a delle scimmie, non fanno parte del Gruppo Uova Umanoide.",
+        "Pur non facenti parte di un certo gruppo, entrambi sono elencati nella stessa pagina del Pokédex in Pokémon Sole e Luna. Condividono questo tratto con Tauros e Miltank."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/oranguru.mp3",
+    "dex_entries": {
+        "oranguru": {
+            "sun": "Famoso per la sua intelligenza, questo Pokémon tende a guardare dall'alto in basso gli Allenatori poco esperti e a prediligere i più competenti.",
+            "moon": "Vive sugli alberi nel profondo della giungla. Raramente viene avvistato sul litorale, dove si cimenta in gare d'intelligenza con Slowking.",
+            "ultra-sun": "Solitamente passa il tempo meditando in cima agli alberi. A volte si diverte a lanciare Poké Ball e dare ordini agli altri Pokémon.",
+            "ultra-moon": "Gli Oranguru non vanno d'accordo tra di loro e si sfidano sempre in prove d'intelligenza per stabilire chi sia il più sagace.",
+            "sword": "Sventolando il ventaglio fatto di foglie e ciuffi di pelliccia assume il controllo degli altri Pokémon, facendogli fare tutto ciò che vuole.",
+            "shield": "Conosce alla perfezione ogni angolo della foresta e quando trova un Pokémon ferito cerca subito una pianta medicinale per curarlo.",
+            "scarlet": "Vedendolo dare ordini agli altri Pokémon nella foresta, in passato la gente lo scambiava spesso per un essere umano.",
+            "violet": "Vive tranquillo nel profondo della foresta. I peli viola che lo ricoprono a mo’ di mantello si allungano con il passare degli anni."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 7,
+    "height": {
+        "oranguru": "1,5 m"
+    },
+    "id": 765,
+    "name": "Oranguru",
+    "name_origin": "Oranguru deriva da orangutan, orangotango, e guru. Yareyūtan deriva da やれ yare, \"fallo\", e オランウータン oran'ūtan, orangotango. ",
+    "origin": "Oranguru è ispirato ad un orangotango ed alla figura di un saggio guru, da cui viene il suo nome. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Saggio",
+    "sprites": {
+        "oranguru": {
+            "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0765.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0765.png"
+        }
+    },
+    "stats": {
+        "oranguru": {
+            "hp": 90,
+            "atk": 60,
+            "def": 80,
+            "spa": 90,
+            "spd": 110,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "oranguru": 490
+    },
+    "types": {
+        "oranguru": [
+            "Psico",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "oranguru": "76,0 kg"
+    }
+}

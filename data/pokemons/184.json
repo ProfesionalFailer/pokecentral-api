@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "azumarill": {
+            "primary": "Grassospesso",
+            "secondary": "Macroforza",
+            "hidden": "Mangiaerba"
+        }
+    },
+    "curiosities": [
+        "In quinta generazione, Azumarill e Marill potevano avere il tipo Elettro come unica debolezza grazie all'abilità Mangiaerba.",
+        "In sesta generazione Marill e Azumarill avevano una combinazione di tipi unica.",
+        "Azumarill è l'unico Pokémon della sua catena evolutiva che non è stato rivelato prima dell'arrivo della sua generazione.",
+        "In Pokémon Mystery Dungeon: Squadra di Soccorso DX è il Supernemico del Monte Vampa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/azumarill.mp3",
+    "dex_entries": {
+        "azumarill": {
+            "gold": "Stando in silenzio e ascoltando con attenzione può dire ciò che si trova anche nei fiumi impetuosi.",
+            "silver": "Quando gioca in acqua arrotola le lunghe orecchie perché non si bagnino all'interno.",
+            "crystal": "Le bolle disegnate sulla pancia gli permettono di mimetizzarsi quando si trova in acqua.",
+            "ruby": "Le lunghe orecchie di AZUMARILL sono sensori indispensabili. Concentrandosi sull'udito, è in grado di identificare che tipo di prede ci siano nelle vicinanze, anche in torrenti rapidi e impetuosi.",
+            "sapphire": "AZUMARILL riesce a creare bolle d'aria in grado di aiutare un POKéMON che sta per affogare. Quando ne vede uno, AZUMARILL gli manda una bolla per aiutarlo a respirare.",
+            "emerald": "AZUMARILL trascorre tutta la giornata in acqua. Il colore e la forma del suo corpo gli permettono di mimetizzarsi, pertanto i nemici hanno difficoltà a localizzarlo.",
+            "firered": "Quando gioca in acqua arrotola le lunghe orecchie per evitare che si bagnino all'interno.",
+            "leafgreen": "Se resta in silenzio e si concentra può persino percepire rumori provenienti da torrenti impetuosi.",
+            "diamond": "Vive nei fiumi e nei laghi. Il suo colore e i disegni confondono i nemici in acqua.",
+            "pearl": "Le lunghe orecchie sono ottimi sensori. Distingue i movimenti di esseri viventi sui fondali fluviali.",
+            "platinum": "Può rimanere a lungo in acqua poiché è in grado di inalare e immagazzinare molta aria.",
+            "heartgold": "Ascoltando in silenzio con attenzione capisce ciò che si può trovare anche nei fiumi più impetuosi.",
+            "soulsilver": "Quando gioca in acqua arrotola le lunghe orecchie perché non si bagnino all'interno.",
+            "black": "Può rimanere a lungo in acqua poiché è in grado di inalare e immagazzinare molta aria.",
+            "white": "Può rimanere a lungo in acqua poiché è in grado di inalare e immagazzinare molta aria.",
+            "black-2": "Le sue lunghe orecchie sono ricettori sensibilissimi. Riesce a distinguere ogni minimo rumore perfino sott'acqua.",
+            "white-2": "Le sue lunghe orecchie sono ricettori sensibilissimi. Riesce a distinguere ogni minimo rumore perfino sott'acqua.",
+            "x": "Le lunghe orecchie sono ottimi sensori. Distingue i movimenti di esseri viventi sui fondali fluviali.",
+            "y": "Le bolle disegnate sulla pancia gli permettono di mimetizzarsi quando si trova in acqua.",
+            "omega-ruby": "Le lunghe orecchie di Azumarill sono sensori indispendabili. Concentrandosi sull'udito, è in grado di identificare che tipo di prede ci siano nelle vicinanze, anche in torrenti rapidi e impetuosi.",
+            "alpha-sapphire": "Azumarill riesce a creare bolle d'aria in grado di aiutare un Pokémon che sta per affogare. Quando ne vede uno, Azumarill gli manda una bolla per aiutarlo a respirare.",
+            "sword": "Passa la maggior parte della giornata in acqua. Se è bel tempo galleggia in superficie per prendere il sole.",
+            "shield": "Crea delle bolle d'aria con cui avvolge dolcemente gli Azurill che giocano nel fiume.",
+            "brilliant-diamond": "Vive nei fiumi e nei laghi. Il suo colore e i disegni sul suo corpo confondono i nemici in acqua.",
+            "shining-pearl": "Le lunghe orecchie sono ottimi sensori. Riesce a distinguere i suoni prodotti dai diversi esseri viventi che si spostano sui fondali fluviali.",
+            "scarlet": "Le sue lunghe orecchie sono ricettori sensibilissimi. Riesce a distinguere e identificare ogni minimo rumore perfino sott’acqua.",
+            "violet": "Se rimane immobile e aguzza le orecchie, riesce a capire cosa si nasconde nelle acque dei fiumi, anche nelle rapide travolgenti."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Magico"
+    ],
+    "generation": 2,
+    "height": {
+        "azumarill": "0,8 m"
+    },
+    "id": 184,
+    "name": "Azumarill",
+    "name_origin": "Il suo nome deriva dall'unione della parola spagnola azure  con le parole inglesi marine  e rill , ma ci sono possibilità che prenda origine, come il suo nome giapponese, dalle parole 丸い marui, 鞠 mari e 瑠璃 ruri . Inoltre è un'allungamento del nome della sua pre-evoluzione Marill, e sembra un'unione di Marill e Azurill, sebbene quest'ultimo sia stato introdotto nella generazione successiva ",
+    "origin": "Basato su un coniglio e su una boa. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Acquniglio",
+    "sprites": {
+        "azumarill": {
+            "default": "https://media.pokemoncentral.it/wiki/2/23/Homem0184.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0184.png"
+        }
+    },
+    "stats": {
+        "azumarill": {
+            "hp": 100,
+            "atk": 50,
+            "def": 80,
+            "spa": 60,
+            "spd": 80,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "azumarill": 420
+    },
+    "types": {
+        "azumarill": [
+            "Folletto",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "azumarill": "28,5 kg"
+    }
+}

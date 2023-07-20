@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "wimpod": {
+            "primary": "Fuggifuggi"
+        }
+    },
+    "curiosities": [
+        "Wimpod è l'unico Pokémon con un totale di statistiche base pari a 230."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wimpod.mp3",
+    "dex_entries": {
+        "wimpod": {
+            "sun": "È un gran fifone e fugge agitando rapidamente le sue numerose zampette. Dopo il suo passaggio, tutto è lindo e pulito.",
+            "moon": "Vive dappertutto, dalle spiagge ai fondali marini. Mangia volentieri anche sostanze putrescenti, perciò viene chiamato lo spazzino della natura.",
+            "ultra-sun": "Raccoglie da terra ogni tipo di oggetto. Quando trova delle monete viene preso di mira da Murkrow e Meowth.",
+            "ultra-moon": "È un Pokémon estremamente timoroso. Non appena qualcosa gli si avvicina, Wimpod se la svigna a gran velocità agitando le zampette.",
+            "sword": "Poiché mangia di tutto, anche immondizia e sostanze putrescenti, è detto lo spazzino della natura. Attorno alla sua tana regna la pulizia.",
+            "shield": "Si muovono in gruppo e stanno sempre sul chi va là. Non appena percepiscono la presenza del nemico scappano in ogni direzione."
+        }
+    },
+    "egg_groups": [
+        "Coleottero",
+        "Acqua 3"
+    ],
+    "generation": 7,
+    "height": {
+        "wimpod": "0,5 m"
+    },
+    "id": 767,
+    "name": "Wimpod",
+    "name_origin": "Wimpod potrebbe derivare da wimp, fifone, e dal termine tassonomico pod, Isopoda. Kosokumushi potrebbe essere una combinazione di 小 ko, piccolo, 足 soku, piede o 姑息 kosoku, subdolo, e 虫 mushi, insetto. ",
+    "origin": "Wimpod è ispirato ad un isopode, in particolare della specie Ligia exotica o Ligia oceanica. ",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Lestopode",
+    "sprites": {
+        "wimpod": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0767.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh0767.png"
+        }
+    },
+    "stats": {
+        "wimpod": {
+            "hp": 25,
+            "atk": 35,
+            "def": 40,
+            "spa": 20,
+            "spd": 30,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "wimpod": 230
+    },
+    "types": {
+        "wimpod": [
+            "Coleot",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "wimpod": "12,0 kg"
+    }
+}

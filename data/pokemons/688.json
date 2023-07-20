@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "binacle": {
+            "primary": "Unghiedure",
+            "secondary": "Cecchino",
+            "hidden": "Arraffalesto"
+        }
+    },
+    "curiosities": [
+        "Binacle è l'unico Pokémon con un totale di statistiche base pari a 306.",
+        "Binacle è il Pokémon preferito di Tomoaki Imakuni."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/binacle.mp3",
+    "dex_entries": {
+        "binacle": {
+            "x": "I Binacle vivono su una roccia. Quando litigano, uno dei due finisce per spostarsi su una pietra diversa.",
+            "y": "Si muovono allungando il corpo a turno, in modo da sollevare la pietra. Si nutrono di alghe portate a riva dalle onde.",
+            "omega-ruby": "I Binacle vivono su una roccia. Quando litigano, uno dei due finisce per spostarsi su una pietra diversa.",
+            "alpha-sapphire": "Si muovono allungando il corpo a turno, in modo da sollevare la pietra. Si nutrono di alghe portate a riva dalle onde.",
+            "sword": "Vivono in riva al mare attaccati a due a due su rocce adatte. Quando sale la marea, i membri di ciascun duo collaborano per raccogliere cibo.",
+            "shield": "Se non vanno d'accordo non riescono né ad attaccare né a difendersi efficacemente e la loro probabilità di sopravvivenza si riduce."
+        }
+    },
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "generation": 6,
+    "height": {
+        "binacle": "0,5 m"
+    },
+    "id": 688,
+    "name": "Binacle",
+    "name_origin": "Binacle potrebbe derivare da bi  e barnacle . Kametete deriva da 手々 tete  e 亀の手 kamenote . ",
+    "origin": "Binacle è basato su un cirripede dell'ordine dei Pedunculata. Il suo aspetto ricorda la Mano di Fatima. ",
+    "shape": "bipedi",
+    "specie": "Pokémon Bimano",
+    "sprites": {
+        "binacle": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a0/Homem0688.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/aa/Homemsh0688.png"
+        }
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 42,
+            "atk": 52,
+            "def": 67,
+            "spa": 39,
+            "spd": 56,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 306
+    },
+    "types": {
+        "binacle": [
+            "Roccia",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "binacle": "31,0 kg"
+    }
+}

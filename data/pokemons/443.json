@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "gible": {
+            "primary": "Sabbiavelo",
+            "hidden": "Cartavetro"
+        }
+    },
+    "curiosities": [
+        "La famiglia di Gible debutta nell'anime in ordine inverso alla loro evoluzione. Garchomp appare in Il coraggio di Paul, Gabite in Gabite mangia la polvere! e Gible in Rivalità per un Gible!."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gible.mp3",
+    "dex_entries": {
+        "gible": {
+            "diamond": "Nidifica in piccole cavità orizzontali nelle pareti delle grotte. Si avventa sulle prede che si avvicinano.",
+            "pearl": "Un tempo viveva ai tropici. Per evitare il freddo, vive in grotte riscaldate dal calore geotermico.",
+            "platinum": "Attacca con la sua enorme bocca. È forte, ma molto maldestro e spesso si danneggia da solo.",
+            "heartgold": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta.",
+            "soulsilver": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta.",
+            "black": "Attacca con la sua enorme bocca. È forte, ma molto maldestro e spesso si danneggia da solo.",
+            "white": "Attacca con la sua enorme bocca. È forte, ma molto maldestro e spesso si danneggia da solo.",
+            "black-2": "Attacca con la sua enorme bocca. È forte, ma molto maldestro e spesso si danneggia da solo.",
+            "white-2": "Attacca con la sua enorme bocca. È forte, ma molto maldestro e spesso si danneggia da solo.",
+            "x": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta.",
+            "y": "Nidifica in piccole cavità orizzontali nelle pareti delle grotte. Si avventa sulle prede che si avvicinano.",
+            "omega-ruby": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta.",
+            "alpha-sapphire": "Nidifica in piccole cavità orizzontali nelle pareti delle grotte. Si avventa sulle prede che si avvicinano.",
+            "sun": "I Gible vivono in gallerie scaldate dal calore geotermico. Se hanno freddo, fanno gruppo e rimangono appiccicati gli uni agli altri.",
+            "moon": "Aspetta nemici e prede in agguato nella sua tana. Quando gli arrivano a tiro, li addenta con tale forza che a volte si spezza i denti.",
+            "ultra-sun": "Appena sente qualcosa muoversi, salta fuori e lo addenta. Spesso si fa male da solo, ma non se ne preoccupa particolarmente.",
+            "ultra-moon": "È abituato a climi più caldi di quello di Alola. Avere un Gible in casa significa incorrere in bollette del riscaldamento salate.",
+            "sword": "Ama le strette nicchie nelle pareti delle grotte scaldate dal calore geotermico. Non ha freddo neanche se all'esterno ci sono tormente di neve.",
+            "shield": "Attacca indiscriminatamente qualunque cosa si muova, per poi trascinarla nella tana. La bocca ha dimensioni notevoli ma lo stomaco è piccolo.",
+            "brilliant-diamond": "Nidifica in piccoli tunnel nelle pareti delle grotte. Si avventa rapido sulle prede per catturarle quando si avvicinano.",
+            "shining-pearl": "Un tempo viveva ai tropici. Per ripararsi dal freddo, vive in grotte riscaldate dal calore geotermico.",
+            "legends-arceus": "Fa di oscuri antri la propria dimora. I suoi denti aguzzi, pur cadendo per via dell'usura o d'urti, tornano a formarsi in pochi giorni.",
+            "scarlet": "Aspetta nemici e prede in agguato nella sua tana. Quando gli arrivano a tiro, li addenta con tale forza che a volte si spezza i denti.",
+            "violet": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "generation": 4,
+    "height": {
+        "gible": "0,7 m"
+    },
+    "id": 443,
+    "name": "Gible",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione della parola inglese gobble, trangugiare, ingurgitare, o ground, terra, con il verbo nibble, sgranocchiare. In giapponese è フカマル Fukuamaru, che unisce 鱶 fuka, squalo, con 丸 maru, tondo. ",
+    "origin": "Gible è basato su un drago ed uno squalo. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Squaloterra",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/9/99/Homem0443.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0443.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/5/55/Homef0443.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homefsh0443.png"
+        }
+    },
+    "stats": {
+        "gible": {
+            "hp": 58,
+            "atk": 70,
+            "def": 45,
+            "spa": 40,
+            "spd": 45,
+            "spe": 42
+        }
+    },
+    "stats_sum": {
+        "gible": 300
+    },
+    "types": {
+        "gible": [
+            "Terra",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "gible": "20,5 kg"
+    }
+}

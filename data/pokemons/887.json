@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "dragapult": {
+            "primary": "Corpochiaro",
+            "secondary": "Intrapasso",
+            "hidden": "Corpofunesto"
+        }
+    },
+    "curiosities": [
+        "Dragapult ha la Difesa Speciale base più bassa tra tutti i Pokémon pseudo-leggendari.",
+        "Dragapult ha la Velocità base più alta tra tutti i Pokémon pseudo-leggendari.\n\tDragapult è anche il Pokémon di tipo Drago non megaevoluto più veloce.",
+        "Dragapult è anche il Pokémon di tipo Drago non megaevoluto più veloce.",
+        "Dragapult e le sue pre-evoluzioni Dreepy e Drakloak sono gli unici Pokémon che si trovano nel Gruppo Uova Drago e Amorfo.",
+        "Dragapult è il Pokémon pseudo-leggendario più leggero, ma anche il più alto.",
+        "Dragapult è l'unico Pokémon pseudo-leggendario che non può imparare Terremoto.",
+        "Se Dragapult dynamaxizza, scompare temporaneamente quando raggiunge la sua dimensione più grande.",
+        "Giratina, Dragapult e le sue pre-evoluzioni Dreepy e Drakloak sono gli unici Pokémon con doppio tipo ad essere deboli ai loro stessi tipi.",
+        "Nel sondaggio Pokémon of the Year tenuto da The Pokémon Company nel 2020, Dragapult è stato votato come Pokémon più popolare dell'ottava generazione, con 57.973 voti. È inoltre l'undicesimo Pokémon più popolare tra tutte le generazioni."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dragapult.mp3",
+    "dex_entries": {
+        "dragapult": {
+            "sword": "Vive assieme ai Dreepy, che ospita all'interno dei buchi sulle sue corna. Quando lotta li espelle alla velocità del suono.",
+            "shield": "I Dreepy che vivono nelle sue corna attendono ansiosamente di essere sparati alla velocità del suono.",
+            "scarlet": "Con la sola forza della concentrazione può rendere completamente invisibile se stesso e i Dreepy all’interno delle sue corna.",
+            "violet": "Il più rapido del gruppo è costantemente attorniato da Dreepy desiderosi di essere sparati via alla velocità del suono."
+        }
+    },
+    "egg_groups": [
+        "Amorfo",
+        "Drago"
+    ],
+    "generation": 8,
+    "height": {
+        "dragapult": "3,0 m"
+    },
+    "id": 887,
+    "name": "Dragapult",
+    "name_origin": "Dragapult e Dorapult potrebbero essere una combinazione di dragon, drago, e catapult, catapulta. ",
+    "origin": "Dragapult potrebbe essere basato su un Diplocaulus, un anfibio estinto e con un cranio simile a quello del Pokémon. Non è mai stata trovata una coda completa in un fossile di Diplocaulus, questo potrebbe spiegare la coda a motivo spettrale e traslucida di Dragapult. La sua testa ricorda un B-2 Spirit, un bombardiere strategico subsonico. Il nome e l'attitudine a sparare i Dreepy potrebbe essere un riferimento ad armi e proiettili come catapulte e balestre. Il suo comportamento potrebbe ispirarsi alla cura paterna presente in molti anfibi. Il tipo Drago potrebbe essere un riferimento al proteo, una specie di salamandra originaria dell'Europa centrale e sud-orientale che si credeva fosse un discendente dei draghi. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Furtivo",
+    "sprites": {
+        "dragapult": {
+            "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0887.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/ce/Homemsh0887.png"
+        }
+    },
+    "stats": {
+        "dragapult": {
+            "hp": 88,
+            "atk": 120,
+            "def": 75,
+            "spa": 100,
+            "spd": 75,
+            "spe": 142
+        }
+    },
+    "stats_sum": {
+        "dragapult": 600
+    },
+    "types": {
+        "dragapult": [
+            "Spettro",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "dragapult": "50,0 kg"
+    }
+}

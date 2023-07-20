@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "sunkern": {
+            "primary": "Clorofilla",
+            "secondary": "Solarpotere",
+            "hidden": "Sveglialampo"
+        }
+    },
+    "curiosities": [
+        "Sunkern è uno dei Pokémon con lo stesso valore in tutte le statistiche base.",
+        "Fino alla sesta generazione Sunkern aveva la somma delle statistiche più bassa di tutti i Pokémon, pari a 180. In settima il record negativo è passato a Wishiwashi Forma Individuale, che ha un totale di 175.\n\tTra i Pokémon di tipo Erba inoltre Sunkern ha la più bassa statistica base di PS, Difesa  e Difesa Speciale .",
+        "Tra i Pokémon di tipo Erba inoltre Sunkern ha la più bassa statistica base di PS, Difesa  e Difesa Speciale .",
+        "Sunkern ha la possibilità di ottenere il massimo in tutte le prestazioni Pokéathlon nonostante sia uno dei Pokémon con le statistiche di lotta più basse.",
+        "È l'unico Pokémon non estinto di cui è possibile trovare un fossile, anche se solo nell'anime e senza un nome proprio .",
+        "Sunkern condivide la categoria con la linea evolutiva di Bulbasaur. Sono infatti noti come Pokémon Seme.",
+        "L'artwork ufficiale di Sunkern assomiglia molto di più alla sua versione cromatica che alla sua versione regolare in Pokémon Oro e Argento. Questo è stato parzialmente risolto in Pokémon Cristallo, anche se l'artwork continuava ad assomigliare di più alla versione cromatica. Il problema è stato completamente risolto dai giochi di terza generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sunkern.mp3",
+    "dex_entries": {
+        "sunkern": {
+            "gold": "Piomba dall'alto improvvisamente. Se è attaccato da uno SPEAROW, agita violentemente le foglie.",
+            "silver": "Vive nutrendosi delle gocce di rugiada che cadono dalle foglie delle piante. Pare che non mangi altro.",
+            "crystal": "Debolissimo, la sua unica difesa è scrollare disperatamente le foglie su chi lo attacca.",
+            "ruby": "SUNKERN cerca di muoversi il meno possibile per preservare le sostanze nutritive che ha immagazzinato nel corpo per la sua evoluzione. Non mangia nulla, si nutre solo di rugiada mattutina.",
+            "sapphire": "SUNKERN cerca di muoversi il meno possibile per preservare le sostanze nutritive che ha immagazzinato nel corpo per la sua evoluzione. Non mangia nulla, si nutre solo di rugiada mattutina.",
+            "emerald": "SUNKERN cerca di muoversi il meno possibile per preservare le sostanze nutritive immagazzinate nel corpo per l'evoluzione. Si nutre solo di rugiada mattutina.",
+            "firered": "Vive nutrendosi delle gocce di rugiada che cadono dalle foglie delle piante. Pare che non mangi altro.",
+            "leafgreen": "Piomba dall'alto improvvisamente. Se è attaccato da uno SPEAROW, agita violentemente le foglie.",
+            "diamond": "Cade improvvisamente giù dal cielo al mattino. Dopo un’estate fredda, la popolazione di SUNKERN esplode.",
+            "pearl": "Cade improvvisamente giù dal cielo al mattino. Dopo un’estate fredda, la popolazione di SUNKERN esplode.",
+            "platinum": "Cade improvvisamente giù dal cielo al mattino. Dopo un’estate fredda, la popolazione di SUNKERN esplode.",
+            "heartgold": "Piomba dall’alto improvvisamente. Se è attaccato da uno SPEAROW, agita violentemente le foglie.",
+            "soulsilver": "Vive nutrendosi delle gocce di rugiada che cadono dalle foglie delle piante. Pare che non mangi altro.",
+            "black": "Cade improvvisamente giù dal cielo al mattino. Dopo un'estate fredda, la popolazione di Sunkern esplode.",
+            "white": "Cade improvvisamente giù dal cielo al mattino. Dopo un'estate fredda, la popolazione di Sunkern esplode.",
+            "black-2": "Cade improvvisamente giù dal cielo al mattino. Sa di essere debole e cerca di nutrirsi al meglio in attesa di evolversi.",
+            "white-2": "Cade improvvisamente giù dal cielo al mattino. Sa di essere debole e cerca di nutrirsi al meglio in attesa di evolversi.",
+            "x": "Piomba dall'alto improvvisamente. Se è attaccato da uno Spearow, agita violentemente le foglie.",
+            "y": "Vive nutrendosi delle gocce di rugiada che cadono dalle foglie delle piante. Pare che non mangi altro.",
+            "omega-ruby": "Sunkern cerca di muoversi il meno possibile per preservare le sostanze nutritive che ha immagazzinato nel corpo per la sua evoluzione. Non mangia nulla, si nutre solo di rugiada mattutina.",
+            "alpha-sapphire": "Sunkern cerca di muoversi il meno possibile per preservare le sostanze nutritive che ha immagazzinato nel corpo per la sua evoluzione. Non mangia nulla, si nutre solo di rugiada mattutina.",
+            "scarlet": "Cade improvvisamente giù dal cielo al mattino. Sa di essere debole e cerca di nutrirsi al meglio in attesa di evolversi.",
+            "violet": "È debolissimo. Se viene attaccato, non può fare altro che agitare disperatamente le foglie nel tentativo di scacciare via il nemico."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 2,
+    "height": {
+        "sunkern": "0,3 m"
+    },
+    "id": 191,
+    "name": "Sunkern",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi \"sunflower\", girasole, e \"kernel\", seme, nocciolo, o \"corn\", granoturco. Il suo nome giapponese, ヒマナッツ Himanattsu, potrebbe derivare da 向日葵 himawari, girasole, e la parola inglese \"nuts\", noccioline. ",
+    "origin": "Sunkern è basato su un seme di girasole. ",
+    "shape": "testa",
+    "specie": "Pokémon Seme",
+    "sprites": {
+        "sunkern": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f3/Homem0191.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2b/Homemsh0191.png"
+        }
+    },
+    "stats": {
+        "sunkern": {
+            "hp": 30,
+            "atk": 30,
+            "def": 30,
+            "spa": 30,
+            "spd": 30,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "sunkern": 180
+    },
+    "types": {
+        "sunkern": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "sunkern": "1,8 kg"
+    }
+}

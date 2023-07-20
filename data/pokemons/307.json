@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "meditite": {
+            "primary": "Forzapura",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "In terza generazione Meditite e Medicham avevano una combinazione di tipi unica.",
+        "Nonostante la sua voce del Pokédex di Smeraldo affermi che può volare e fluttuare, Meditite non può imparare la mossa Volo e non può avere l'abilità Levitazione.",
+        "Meditite e la sua evoluzione sono gli unici Pokémon a poter avere Forzapura come abilità.",
+        "È uno dei pochi Pokémon ad usare il suo sprite in-game femminile come artwork ufficiale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/meditite.mp3",
+    "dex_entries": {
+        "meditite": {
+            "ruby": "MEDITITE esegue rigorosi esercizi mentali in montagna. Tuttavia, quando è immerso in meditazione, perde sempre la concentrazione, dovendo così ricominciare da capo. Il suo esercizio dunque non finisce mai.",
+            "sapphire": "MEDITITE incrementa la sua energia interiore grazie alla meditazione. La sua alimentazione minima si nutre di una bacca al giorno è un'altra peculiarità dell'esercizio di questo POKéMON.",
+            "emerald": "MEDITITE medita per ore e ore ogni giorno. Grazie a questi costanti esercizi di yoga ha affinato il suo potere spirituale a tal punto da riuscire a volare.",
+            "firered": "Non rinuncia mai alla sua ora di yoga quotidiana. Aumenta la sua forza interiore tramite la meditazione.",
+            "leafgreen": "Non rinuncia mai alla sua ora di yoga quotidiana. Aumenta la sua forza interiore tramite la meditazione.",
+            "diamond": "Mangia solo una bacca al giorno. Resistendo alla fame, il suo spirito viene temprato e rinvigorito.",
+            "pearl": "Non rinuncia mai agli esercizi quotidiani di yoga ed eleva la sua forza spirituale con la meditazione.",
+            "platinum": "Si allena in montagna per elevare il suo potere spirituale. Con la meditazione riesce a levitare.",
+            "heartgold": "Levita nel cielo grazie all'energia spirituale tratta dalla meditazione. Mangia una bacca al giorno.",
+            "soulsilver": "Levita nel cielo grazie all'energia spirituale tratta dalla meditazione. Mangia una bacca al giorno.",
+            "black": "Si allena in montagna per elevare il suo potere spirituale. Con la meditazione riesce a levitare.",
+            "white": "Si allena in montagna per elevare il suo potere spirituale. Con la meditazione riesce a levitare.",
+            "black-2": "Si allena in montagna per elevare il suo potere spirituale. Con la meditazione riesce a levitare.",
+            "white-2": "Si allena in montagna per elevare il suo potere spirituale. Con la meditazione riesce a levitare.",
+            "x": "Si allena in montagna per elevare il suo potere spirituale. Con la meditazione riesce a levitare.",
+            "y": "Mangia solo una bacca al giorno. Resistendo alla fame, il suo spirito viene temprato e rinvigorito.",
+            "omega-ruby": "Meditite esegue rigorosi esercizi mentali in montagna. Tuttavia, quando è immerso in meditazione, perde sempre la concentrazione, dovendo così ricominciare da capo. Il suo esercizio dunque non finisce mai.",
+            "alpha-sapphire": "Meditite incrementa la sua energia interiore grazie alla meditazione. La sua alimentazione minima si nutre di una bacca al giorno è un'altra peculiarità dell'esercizio di questo Pokémon.",
+            "brilliant-diamond": "Tempra il suo spirito con la meditazione. Mangia solo una bacca al giorno.",
+            "shining-pearl": "Non rinuncia mai agli esercizi quotidiani di yoga ed eleva la sua forza spirituale con la meditazione.",
+            "scarlet": "Non rinuncia mai alla sua ora di yoga quotidiana. La meditazione gli permette di aumentare la sua forza interiore.",
+            "violet": "Levita grazie all’energia interiore ricavata dalla meditazione. Si nutre di una sola bacca al giorno."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 3,
+    "height": {
+        "meditite": "0,60 m"
+    },
+    "id": 307,
+    "name": "Meditite",
+    "name_origin": "Meditite può essere una combinazione delle corruzioni di \"meditate\" e forse \"tyke\". ",
+    "origin": "Basato su una specie di primate che pratica yoga in questo caso si trova nella posizione del loto. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Meditazione",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/0/08/Homem0307.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0307.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/4/43/Homef0307.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homefsh0307.png"
+        }
+    },
+    "stats": {
+        "meditite": {
+            "hp": 30,
+            "atk": 40,
+            "def": 55,
+            "spa": 40,
+            "spd": 55,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "meditite": 280
+    },
+    "types": {
+        "meditite": [
+            "Psico",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "meditite": "11,2 kg"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "wyrdeer": {
+            "primary": "Prepotenza",
+            "secondary": "Indagine",
+            "hidden": "Mangiaerba"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di ottava generazione",
+        "Pokémon di tipo Normale",
+        "Pokémon di tipo Psico",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore Grigio",
+        "Pokémon dalla sagoma n. Sconosciuta",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Sconosciuto",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 525",
+        "Pokémon con evoluzioni trans-generazionali"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wyrdeer.mp3",
+    "dex_entries": {
+        "wyrdeer": {
+            "legends-arceus": "Quando si accinge a creare pareti invisibili, le sue atre sfere rifulgono di luce sinistra. I crini caduti dalla barba vengon adoprati per confezionare caldi abiti invernali."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 8,
+    "height": {
+        "wyrdeer": "1,8 m"
+    },
+    "id": 899,
+    "name": "Wyrdeer",
+    "name_origin": "Wyrdeer potrebbe essere una combinazione di wyrd, concetto di destino nella cultura antica inglese, weird, strano, e deer, cervo. Ayashishi potrebbe essere una combinazione di 怪しい ayashii, strano, e 鹿威し shishiodoshi, un dispositivo giapponese tradizionalmente usato per spaventare e far allontanare cervi e uccelli dai giardini. ",
+    "origin": "Wyrdeer potrebbe essere basato su una renna. Per via della sua criniera bianca simile a una barba e delle sopracciglia, assomiglia anche a un uomo anziano. ",
+    "shape": "sconosciuto",
+    "specie": "Pokémon Grancorno",
+    "sprites": {
+        "wyrdeer": {
+            "default": "https://media.pokemoncentral.it/wiki/7/74/Homem0899.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b9/Homemsh0899.png"
+        }
+    },
+    "stats": {
+        "wyrdeer": {
+            "hp": 103,
+            "atk": 105,
+            "def": 72,
+            "spa": 105,
+            "spd": 75,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "wyrdeer": 525
+    },
+    "types": {
+        "wyrdeer": [
+            "Psico",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "wyrdeer": "95,1 kg"
+    }
+}

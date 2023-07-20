@@ -1,0 +1,91 @@
+{
+    "abilities": {
+        "swinub": {
+            "primary": "Indifferenza",
+            "secondary": "Mantelneve",
+            "hidden": "Grassospesso"
+        }
+    },
+    "curiosities": [
+        "Swinub e la sua famiglia evolutiva sono gli unici Pokémon di tipo Ghiaccio ad essere di colore marrone.",
+        "Nonostante venne introdotto come Pokémon di tipo Terra in seconda generazione, non fu in grado di apprendere nessuna mossa di tale tipo fino alla terza generazione.",
+        "Swinub è uno dei pochi Pokémon a mantenere invariato il suo sprite in Pokémon Oro e Argento.",
+        "Tra le novità introdotte da Oro HeartGold e Argento SoulSilver si cita l'apprendimento della mossa Colpodifango da parte di Swinub.",
+        "Grazie alla sua combinazione di tipi unica, Swinub e la sua famiglia evolutiva sono gli unici Pokémon ad essere immuni a tutte le condizioni atmosferiche.",
+        "Swinub ha il totale di statistiche base più basso di tutti i Pokémon di tipo Ghiaccio.",
+        "Swinub e la sua famiglia sono gli unici Pokémon deboli a tutti e tre i tipi dei Pokémon iniziali.",
+        "Nel capitolo VS Bellossom del manga Pokémon: La Grande Avventura, Swinub viene visto per la prima volta con gli occhi aperti."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/swinub.mp3",
+    "dex_entries": {
+        "swinub": {
+            "gold": "Sfrega il muso sul terreno per scovare del cibo. Talvolta scopre sorgenti d'acqua calda.",
+            "silver": "Appena avverte un profumo invitante, cerca subito di capire la provenienza di quell'odore.",
+            "crystal": "Scava con la punta del muso alla ricerca di cibo. Il muso è così duro che rompe anche il ghiaccio.",
+            "ruby": "SWINUB cerca il proprio nutrimento strofinando il muso sul terreno. È ghiotto dei funghi che crescono sotto la coltre di erba e fogliame rinsecchito. Talvolta scova qualche sorgente termale.",
+            "sapphire": "SWINUB cerca il proprio nutrimento strofinando il muso sul terreno. È ghiotto dei funghi che crescono sotto la coltre di erba e fogliame rinsecchito. Talvolta scova qualche sorgente termale.",
+            "emerald": "SWINUB strofina il muso sul terreno, scovando i funghi di cui è ghiotto sotto il fogliame rinsecchito. Talvolta scova qualche sorgente termale.",
+            "firered": "Appena avverte un profumo invitante, cerca subito di capire la provenienza di quell'odore.",
+            "leafgreen": "Sfrega il muso sul terreno per scovare del cibo. Talvolta scopre sorgenti d'acqua calda.",
+            "diamond": "Ama mangiare i funghi che crescono sotto l’erba secca. Mentre cerca, talvolta trova sorgenti termali.",
+            "pearl": "Ama mangiare i funghi che crescono sotto l’erba secca. Mentre cerca, talvolta trova sorgenti termali.",
+            "platinum": "Ama mangiare i funghi che crescono sotto l’erba secca. Mentre cerca, talvolta trova sorgenti termali.",
+            "heartgold": "Sfrega il muso sul terreno per scovare del cibo. Talvolta scopre sorgenti d’acqua calda.",
+            "soulsilver": "Appena avverte un profumo invitante, cerca subito di capire la provenienza di quell'odore.",
+            "black": "Grazie al suo olfatto sviluppato trova funghi, bacche e persino sorgenti termali sotto al ghiaccio.",
+            "white": "Grazie al suo olfatto sviluppato trova funghi, bacche e persino sorgenti termali sotto al ghiaccio.",
+            "black-2": "Annusa il terreno e scava alla ricerca di cibo. A volte scopre persino delle sorgenti termali.",
+            "white-2": "Annusa il terreno e scava alla ricerca di cibo. A volte scopre persino delle sorgenti termali.",
+            "x": "Sfrega il muso sul terreno per scovare del cibo. Talvolta scopre sorgenti d’acqua calda.",
+            "y": "Appena avverte un profumino invitante, cerca subito di capire la provenienza di quell'odore.",
+            "omega-ruby": "Swinub cerca il proprio nutrimento strofinando il muso sul terreno. È ghiotto dei funghi che crescono sotto la coltre di erba e fogliame rinsecchito. Talvolta scova qualche sorgente termale.",
+            "alpha-sapphire": "Swinub cerca il proprio nutrimento strofinando il muso sul terreno. È ghiotto dei funghi che crescono sotto la coltre di erba e fogliame rinsecchito. Talvolta scova qualche sorgente termale.",
+            "sword": "Scava con il muso nel terreno per scovare del cibo. Talvolta scopre sorgenti d'acqua calda.",
+            "shield": "Appena avverte un profumo invitante, si fionda nella direzione da cui proviene senza la minima esitazione.",
+            "brilliant-diamond": "Ama mangiare i funghi che crescono sotto l'erba secca. Nel cercarli, annusando qua e là, talvolta rinviene delle sorgenti termali.",
+            "shining-pearl": "Ama mangiare i funghi che crescono sotto l'erba secca. Nel cercarli, annusando qua e là, talvolta rinviene delle sorgenti termali.",
+            "legends-arceus": "Con il suo eccellente olfatto trova funghi sepolti nell'erba alta e nella neve, talento che da lungo tempo torna sovente utile alle genti di Hisui."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 2,
+    "height": {
+        "swinub": "0,4 m"
+    },
+    "id": 220,
+    "name": "Swinub",
+    "name_origin": "Il suo nome deriva dall'unione delle parole Swine  e nub . ",
+    "origin": "L'aspetto di Swinub, per alcune caratteristiche, ricorda quello di un suide. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Maiale",
+    "sprites": {
+        "swinub": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e8/Homem0220.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c9/Homemsh0220.png"
+        }
+    },
+    "stats": {
+        "swinub": {
+            "hp": 50,
+            "atk": 50,
+            "def": 40,
+            "spa": 30,
+            "spd": 30,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "swinub": 250
+    },
+    "types": {
+        "swinub": [
+            "Terra",
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "swinub": "6,5 kg"
+    }
+}

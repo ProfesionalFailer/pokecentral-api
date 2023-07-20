@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "haxorus": {
+            "primary": "Antagonismo",
+            "secondary": "Rompiforma",
+            "hidden": "Agitazione"
+        }
+    },
+    "curiosities": [
+        "Nelle versioni Pokémon Nero 2 e Pokémon Bianco 2 è possibile incontrare un Haxorus cromatico seguendo la trama principale, esattamente come accadeva per il Gyarados Rosso nei giochi di seconda generazione e nei loro remake Pokémon Oro HeartGold e Argento SoulSilver.",
+        "Haxorus, Kingdra e Flygon sono gli unici Pokémon di tipo Drago evoluti due volte a non essere dei Pokémon pseudo-leggendari."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/haxorus.mp3",
+    "dex_entries": {
+        "haxorus": {
+            "black": "Ha un carattere gentile, ma non perdona chi devasta il suo territorio. Le sue zanne possono tagliare l'acciaio.",
+            "white": "Ha forti zanne che non si spezzano neanche quando trancia travi d'acciaio. È protetto da una resistente armatura.",
+            "black-2": "La forza distruttiva delle sue zanne non ha paragoni. Trancia con estrema facilità anche spesse travi d'acciaio.",
+            "white-2": "La forza distruttiva delle sue zanne non ha paragoni. Trancia con estrema facilità anche spesse travi d'acciaio.",
+            "x": "Ha un carattere gentile, ma non perdona chi devasta il suo territorio. Le sue zanne possono tagliare l'acciaio.",
+            "y": "Ha forti zanne che non si spezzano neanche quando trancia travi d'acciaio. È protetto da una resistente armatura.",
+            "omega-ruby": "Ha un carattere gentile, ma non perdona chi devasta il suo territorio. Le sue zanne possono tagliare l'acciaio.",
+            "alpha-sapphire": "Ha forti zanne che non si spezzano neanche quado trancia travi d'acciaio. È protetto da una resistente armatura.",
+            "sword": "Va fiero delle sue zanne grandi e robuste, e assorbe i minerali necessari a mantenerle in ottime condizioni leccando la terra.",
+            "shield": "È di natura mite, ma se si arrabbia sono guai. Le zanne, di cui va fiero, possono fare a pezzi anche il cemento armato.",
+            "scarlet": "Nidifica in grotte e miniere abbandonate. È pacifico ma bisogna fare attenzione, perché si arrabbia se le zanne gli vengono toccate.",
+            "violet": "Soggioga il nemico con le zanne, di cui va fiero. Queste sono così affilate da poter tagliare un traliccio d’acciaio con un solo colpo."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "generation": 5,
+    "height": {
+        "haxorus": "1,8 m"
+    },
+    "id": 612,
+    "name": "Haxorus",
+    "name_origin": "Il suo nome potrebbe essere una combinazione di hack  e axe  con la parte finale della parola greca σαῦρος sauros . ",
+    "origin": "È basato su un dinosauro erbivoro, come confermato dallo stesso Ken Sugimori in un'intervista. Le sue zanne appaiono simili a quelle dello scutosauro o agli zigomi sporgenti dei ceratopi e si basano su un'ascia bipenne. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Mascellascia",
+    "sprites": {
+        "haxorus": {
+            "default": "https://media.pokemoncentral.it/wiki/2/20/Homem0612.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b4/Homemsh0612.png"
+        }
+    },
+    "stats": {
+        "haxorus": {
+            "hp": 76,
+            "atk": 147,
+            "def": 90,
+            "spa": 60,
+            "spd": 70,
+            "spe": 97
+        }
+    },
+    "stats_sum": {
+        "haxorus": 540
+    },
+    "types": {
+        "haxorus": [
+            "Drago"
+        ]
+    },
+    "weight": {
+        "haxorus": "105,5 kg"
+    }
+}

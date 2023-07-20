@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "musharna": {
+            "primary": "Premonizione",
+            "secondary": "Sincronismo",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Musharna è l'unico Pokémon con la somma delle statistiche base uguale a 487.",
+        "Musharna condivide la categoria con Komala. Sono entrambi conosciuti come Pokémon Dormiveglia."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/musharna.mp3",
+    "dex_entries": {
+        "musharna": {
+            "black": "Nel fumo che gli esce dalla fronte sono racchiusi molti sogni di esseri umani e di Pokémon.",
+            "white": "Riesce a materializzare i sogni mangiati. Il fumo che gli esce dalla fronte prende la forma di ciò che appare nel sogno.",
+            "black-2": "Il fumo che esce dalla sua fronte cambia colore a seconda del contenuto del sogno che ha mangiato.",
+            "white-2": "Il fumo che esce dalla sua fronte cambia colore a seconda del contenuto del sogno che ha mangiato.",
+            "x": "Nel fumo che gli esce dalla fronte sono racchiusi molti sogni di esseri umani e di Pokémon.",
+            "y": "Il fumo che esce dalla sua fronte cambia colore a seconda del contenuto del sogno che ha mangiato.",
+            "omega-ruby": "Nel fumo che gli esce dalla fronte sono racchiusi molti sogni di esseri umani e di Pokémon.",
+            "alpha-sapphire": "Il fumo che esce dalla sua fronte cambia colore a seconda del contenuto del sogno che ha mangiato.",
+            "sword": "Meglio non avvicinarsi quando emette un fumo di colore scuro, perché gli incubi diventano realtà.",
+            "shield": "Sonnecchia costantemente, sognando. Quando si sveglia è di pessimo umore, quindi è meglio tenersi a debita distanza."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "musharna": "1,1 m"
+    },
+    "id": 518,
+    "name": "Musharna",
+    "name_origin": "Musharna è una combinazione dei temini giapponesi ムシャムシャ mushamusha , 夢 mu  e l'inglese moon  e il corrispettivo latino o italiano luna. ",
+    "origin": "Musharna è probabilmente basato sul koro, un bruciatore d'incenso tipico giapponese. I koro, come i salvadanai, possono avere la forma di un porcellino, oppure essere decorati in svariati modi fra i quali ricorrono i motivi floreali. Si ispira inoltre al Baku, una creatura mitologica simile a un tapiro che divora gli incubi allontanando il male. Ha una curiosa somiglianza ad un feto. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Dormiveglia",
+    "sprites": {
+        "musharna": {
+            "default": "https://media.pokemoncentral.it/wiki/6/64/Homem0518.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0518.png"
+        }
+    },
+    "stats": {
+        "musharna": {
+            "hp": 116,
+            "atk": 55,
+            "def": 85,
+            "spa": 107,
+            "spd": 95,
+            "spe": 29
+        }
+    },
+    "stats_sum": {
+        "musharna": 487
+    },
+    "types": {
+        "musharna": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "musharna": "60,5 kg"
+    }
+}

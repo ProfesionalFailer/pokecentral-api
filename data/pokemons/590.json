@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "foongus": {
+            "primary": "Spargispora",
+            "hidden": "Rigenergia"
+        }
+    },
+    "curiosities": [
+        "Foongus, insieme alla sua evoluzione, è simile a Voltorb ed Electrode: nel senso che assomiglia ad una Poké Ball.\n\tLa colorazione cromatica di Foongus ricorda quella della Master Ball.",
+        "La colorazione cromatica di Foongus ricorda quella della Master Ball.",
+        "Foongus è il Pokémon di tipo Veleno più lento."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/foongus.mp3",
+    "dex_entries": {
+        "foongus": {
+            "black": "Simile a una Poké Ball, adesca i nemici e sparge spore velenose. Da dove venga questa somiglianza è un vero mistero.",
+            "white": "Per un qualche motivo assomiglia a una Poké Ball. Soffia spore velenose contro il nemico per sfuggire alla cattura.",
+            "black-2": "Attira a sé altri Pokémon con la sua forma a Poké Ball e soffia su di loro le sue spore velenose.",
+            "white-2": "Attira a sé altri Pokémon con la sua forma a Poké Ball e soffia su di loro le sue spore velenose.",
+            "x": "Simile a una Poké Ball, adesca i nemici e sparge spore velenose. Da dove venga questa somiglianza è un vero mistero.",
+            "y": "Attira a sé altri Pokémon con la sua forma a Poké Ball e soffia su di loro le sue spore velenose.",
+            "omega-ruby": "Simile a una Poké Ball, adesca i nemici e sparge spore velenose. Da dove venga questa somiglianza è un vero mistero.",
+            "alpha-sapphire": "Attira a sé altri Pokémon con la sua forma a Poké Ball e soffia su di loro le sue spore velenose.",
+            "sword": "A tutt'oggi nessuno è a conoscenza del significato o dell'origine del motivo simile a una Poké Ball che sfoggia.",
+            "shield": "Le spore che rilascia dalle mani sono molto velenose, ma se sono essiccate pare che possano essere usate come farmaco gastrointestinale.",
+            "scarlet": "C’è chi teorizza che questo Pokémon piacesse molto all’inventore delle Poké Ball. Nessuno però sa se sia vero o no.",
+            "violet": "Preferisce i terreni umidi. Spruzza spore velenose per allontanare i nemici che si avvicinano."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 5,
+    "height": {
+        "foongus": "0,2 m"
+    },
+    "id": 590,
+    "name": "Foongus",
+    "name_origin": "Foongus è una corruzione di fungus, o una combinazione di quest'ultimo temine con fool . Assieme alla sua evoluzione, Amoonguss, è corruzione della frase fungus among us . ",
+    "origin": "Sembra essere sulla base di funghi del genere agaricus o su una amanita muscaria, a causa del tipo Veleno. Il disegno sulla cappella rappresenta una Poké Ball. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Fungo",
+    "sprites": {
+        "foongus": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6f/Homem0590.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/63/Homemsh0590.png"
+        }
+    },
+    "stats": {
+        "foongus": {
+            "hp": 69,
+            "atk": 55,
+            "def": 45,
+            "spa": 55,
+            "spd": 55,
+            "spe": 15
+        }
+    },
+    "stats_sum": {
+        "foongus": 294
+    },
+    "types": {
+        "foongus": [
+            "Erba",
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "foongus": "1,0 kg"
+    }
+}

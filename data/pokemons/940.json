@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "wattrel": {
+            "primary": "Energia Eolica",
+            "secondary": "Assorbivolt",
+            "hidden": "Tenacia"
+        }
+    },
+    "curiosities": [
+        "Nonostante Wattrel e la sua evoluzione siano basati su uccelli acquatici, essi non sono di tipo Acqua."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wattrel.mp3",
+    "dex_entries": {
+        "wattrel": {
+            "scarlet": "Le ossa delle sue ali generano energia elettrica sfruttando il vento. Si tuffa in mare e folgora le prede per poi catturarle.",
+            "violet": "Nidifica sui dirupi a picco sul mare. Il suo nido è una prelibatezza molto amata per l'insolita consistenza scoppiettante."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Volante"
+    ],
+    "generation": 9,
+    "height": {
+        "wattrel": "0,4 m"
+    },
+    "id": 940,
+    "name": "Wattrel",
+    "name_origin": "Wattrel è l'unione di watt e petrel . ",
+    "origin": "Wattrel è basato su un uccello appartenente alla famiglia degli Hydrobatidae, uccelli marini che possono cacciare anche in caso di forti tempeste. ",
+    "shape": "None",
+    "specie": "Pokémon Idrobatide",
+    "sprites": {
+        "wattrel": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3a/Homem0940.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0940.png"
+        }
+    },
+    "stats": {
+        "wattrel": {
+            "hp": 40,
+            "atk": 40,
+            "def": 35,
+            "spa": 55,
+            "spd": 40,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "wattrel": 280
+    },
+    "types": {
+        "wattrel": [
+            "Elettro",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "wattrel": "3,6 kg"
+    }
+}

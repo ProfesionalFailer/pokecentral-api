@@ -1,0 +1,116 @@
+{
+    "abilities": {
+        "graveler": {
+            "primary": "Testadura",
+            "secondary": "Vigore",
+            "hidden": "Sabbiavelo"
+        },
+        "forma-di-alola": {
+            "primary": "Magnetismo",
+            "secondary": "Vigore",
+            "hidden": "Pellelettro"
+        }
+    },
+    "curiosities": [
+        "Graveler è uno dei quattro Pokémon ad avere quattro braccia, gli altri sono Machamp, Ledian e Cofagrigus.\n\tDi questi Graveler è l'unico che si evolve ancora .\n\tI disegni di Mato del Pokémon mostrano il Graveler di Giallo con solo due braccia invece che quattro, probabilmente per una interpretazione errata dell'artwork del Pokémon. Tutti gli altri Graveler che sono successivamente apparsi in Pokémon Adventures hanno il giusto numero di braccia.",
+        "Di questi Graveler è l'unico che si evolve ancora .",
+        "I disegni di Mato del Pokémon mostrano il Graveler di Giallo con solo due braccia invece che quattro, probabilmente per una interpretazione errata dell'artwork del Pokémon. Tutti gli altri Graveler che sono successivamente apparsi in Pokémon Adventures hanno il giusto numero di braccia.",
+        "Lo sprite di Graveler di Cristallo è diverso da quello di Oro e Argento, rendendolo uno dei pochi Pokémon ad avere tre diversi sprite in seconda generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/graveler.mp3",
+    "dex_entries": {
+        "graveler": {
+            "red": "Si muove rotolando in discesa. Rotola su ogni ostacolo senza frenare o mutare direzione.",
+            "blue": "Si muove rotolando in discesa. Rotola su ogni ostacolo senza frenare o mutare direzione.",
+            "yellow": "Spesso viene visto rotolare giù per i sentieri di montagna, dove travolge tutto ciò che incontra.",
+            "gold": "Di natura libera e incurante, non si preoccupa se perde dei pezzi mentre si rotola giù dai monti.",
+            "silver": "Lento a camminare, si sposta rotolando. Non fa attenzione agli oggetti che trova sulla sua strada.",
+            "crystal": "Si muove rotolando per i sentieri di montagna. Se è troppo veloce si ferma scontrando enormi rocce.",
+            "ruby": "GRAVELER si ciba di rocce. Pare che preferisca quelle ricoperte di muschio. Questo POKéMON mangia ogni giorno dieci quintali di pietre.",
+            "sapphire": "Il cibo preferito da GRAVELER sono le rocce. Infatti è capace di risalire un monte dalla base alla cima, sgranocchiando rocce tutto il tempo. Una volta raggiunta la cima, si lancia in discesa rotolando.",
+            "emerald": "GRAVELER rotola giù dai ripidi sentieri di montagna con una veemenza talmente dirompente da abbattere gli alberi e fracassare i massi che incontra.",
+            "firered": "Camminando in montagna, si potrebbe essere sorpresi da un GRAVELER che rotola giù per un sentiero.",
+            "leafgreen": "Si lancia in discesa, rotolando su ogni ostacolo senza frenare o mutare direzione.",
+            "diamond": "Costruisce la sua tana in fessure scavate nelle pareti di precipizi e dirupi scoscesi.",
+            "pearl": "Ruzzola dai pendii anche se parti del corpo gli si staccano. Mangia una tonnellata di rocce al giorno.",
+            "platinum": "Si sposta rotolando per i sentieri di montagna. Quando prende velocità, è quasi impossibile fermarlo.",
+            "heartgold": "Di natura libera e incurante, non si preoccupa se perde dei pezzi mentre si rotola giù dai monti.",
+            "soulsilver": "Lento a camminare, si sposta rotolando. Non fa attenzione agli oggetti che trova sulla sua strada.",
+            "black": "Si sposta rotolando per i sentieri di montagna. Quando prende velocità, è quasi impossibile fermarlo.",
+            "white": "Si sposta rotolando per i sentieri di montagna. Quando prende velocità, è quasi impossibile fermarlo.",
+            "black-2": "Si sposta rotolando per i sentieri di montagna. Quando prende velocità, è quasi impossibile fermarlo.",
+            "white-2": "Si sposta rotolando per i sentieri di montagna. Quando prende velocità, è quasi impossibile fermarlo.",
+            "x": "Di natura libera e incurante, non si preoccupa se perde dei pezzi mentre si rotola giù dai monti.",
+            "y": "Si lancia in discesa, rotolando su ogni ostacolo senza frenare o mutare direzione.",
+            "omega-ruby": "Graveler si ciba di rocce. Pare che preferisca quelle ricoperte di muschio. Questo Pokémon mangia ogni giorno dieci quintali di pietre.",
+            "alpha-sapphire": "Il cibo preferito di Graveler sono le rocce. Infatti è capace di risalire un monte dalla base alla cima, sgranocchiando rocce tutto il tempo. Una volta raggiunta la cima, si lancia in discesa rotolando.",
+            "sun": "Adora mangiare le rocce coperte di muschio. Ogni giorno ne sgranocchia più di 10 quintali.",
+            "moon": "È molto lento nel camminare e si sposta rotolando. Se acquista velocità, può superare i 100 km/h.",
+            "ultra-sun": "Scala le pareti scoscese delle montagne e, una volta raggiunta la vetta, rotola giù lungo lo stesso percorso.",
+            "ultra-moon": "Si sposta rotolando lungo dirupi scoscesi. Se finisce dentro a un fiume, viene colto dalla disperazione e si fa esplodere.",
+            "lets-go-pikachu": "Spesso viene visto rotolare giù per i sentieri di montagna, travolgendo tutto ciò che incontra.",
+            "lets-go-eevee": "Spesso viene visto rotolare giù per i sentieri di montagna, travolgendo tutto ciò che incontra.",
+            "brilliant-diamond": "Si costruisce la tana scavando grotte nelle pareti di precipizi e dirupi scoscesi.",
+            "shining-pearl": "Ruzzola lungo i pendii incurante dei pezzi di corpo che gli si staccano. Mangia una tonnellata di rocce al giorno.",
+            "legends-arceus": "Abita le cavità delle pareti rocciose e ama ruzzolare giù alla stregua di un masso. Nelle vie montane è bene, perciò, procedere con cautela."
+        },
+        "forma-di-alola": {
+            "sun": "Si nutre preferibilmente di rocce di dravite. I minerali ingeriti diventano dei cristalli che poi emergono sulla superficie del suo corpo.",
+            "moon": "I Graveler litigano spesso per le pietre di cui si nutrono. Quando cozzano l'uno contro l'altro si verifica una piccola esplosione.",
+            "ultra-sun": "Quando i Graveler lottano fra di loro, provocano lampi e botti. Gli abitanti di Alola li chiamano fuochi artificiali di terra.",
+            "ultra-moon": "Per effetto delle rocce di cui è ghiotto, il suo corpo è interamente pervaso dall'elettricità. Ha un carattere molto litigioso.",
+            "lets-go-pikachu": "Quando rotola giù dai sentieri di montagna travolge e dà la scossa a tutto ciò che trova sul suo cammino.",
+            "lets-go-eevee": "Quando rotola giù dai sentieri di montagna travolge e dà la scossa a tutto ciò che trova sul suo cammino."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 1,
+    "height": {
+        "graveler": "1,0 m"
+    },
+    "id": 75,
+    "name": "Graveler",
+    "name_origin": "Graveler può essere derivato da gravel, ghiaia, o da grave, tomba. Può anche essere una corruzione di groveler, qualcuno che si inchina ai piedi di un superiore. Golone può essere una combinazione di golem e stone. In più, ゴロゴローン gorogorōn è il suono di rotolare, un passatempo di Graveler. ",
+    "origin": "Graveler non condivide molto con altro che non siano massi. Le sue quattro braccia possono essere basate su divinità Hindu come Shiva o Vishnu. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Roccia",
+    "sprites": {
+        "graveler": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d1/Homem0075.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0075.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/8/87/Homem0075A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0075A.png"
+        }
+    },
+    "stats": {
+        "graveler": {
+            "hp": 55,
+            "atk": 95,
+            "def": 115,
+            "spa": 45,
+            "spd": 45,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "graveler": 390
+    },
+    "types": {
+        "graveler": [
+            "Terra",
+            "Roccia"
+        ],
+        "forma-di-alola": [
+            "Elettro",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "graveler": "105,0 kg",
+        "forma-di-alola": "110,0 kg"
+    }
+}

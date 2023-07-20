@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "vullaby": {
+            "primary": "Pettinfuori",
+            "secondary": "Copricapo",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Nero, a volte, capita che lo sprite di un Vullaby selvatico si illumini, ma che poi diventi subito scuro.",
+        "Vullaby e Mandibuzz sono stati concepiti da James Turner.",
+        "Nonostante non sia in grado di volare può apprendere Volo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/vullaby.mp3",
+    "dex_entries": {
+        "vullaby": {
+            "black": "Le piccole ali non gli consentono di volare. Quando si avvicina il momento di evolversi, si libera del teschio.",
+            "white": "Ha l'abitudine di ripararsi il dorso trovando delle ossa appropriate. Dà la caccia ai Pokémon deboli.",
+            "black-2": "Le sue ali sono ancora piccole e non può volare. Usa delle ossa ricevute da Mandibuzz per riparare il suo bacino.",
+            "white-2": "Le sue ali sono ancora piccole e non può volare. Usa delle ossa ricevute da Mandibuzz per riparare il suo bacino.",
+            "x": "Le piccole ali non gli consentono di volare. Quando si avvicina il momento di evolversi, si libera del teschio.",
+            "y": "Le sue ali sono ancora piccole e non può volare. Usa delle ossa ricevute da Mandibuzz per riparare il suo bacino.",
+            "omega-ruby": "Le piccole ali non gli consentono di volare. Quando si avvicina il momento di evolversi, si libera del teschio.",
+            "alpha-sapphire": "Le sue ali sono ancora piccole e non può volare. Usa delle ossa ricevute da Mandibuzz per riparare il suo bacino.",
+            "sun": "Protegge il debole bacino con i teschi delle prede di cui si nutre. Man mano che cresce, deve cambiare il teschio.",
+            "moon": "È un giocherellone. Non potendo volare a causa delle ali poco sviluppate, si sposta saltellando.",
+            "ultra-sun": "Ha ricevuto il suo teschio da Mandibuzz. Poiché le corte ali non gli permettono di volare, saltella sognando un giorno di poterlo fare.",
+            "ultra-moon": "Ha un grande appetito e cresce a vista d'occhio. Man mano che la sua taglia aumenta, deve cambiare il teschio che indossa.",
+            "sword": "Indossa il teschio per proteggere il suo bacino. Spesso litiga con i suoi consimili per accaparrarsi il teschio più comodo.",
+            "shield": "Cresce così velocemente che il teschio gli va presto stretto. I teschi smessi restano nel nido e vengono usati dalle generazioni successive."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 5,
+    "height": {
+        "vullaby": "0,5 m"
+    },
+    "id": 629,
+    "name": "Vullaby",
+    "name_origin": "Il suo nome deriva dai termini inglesi vulture  e baby , oppure lullaby . Potrebbe anche essere coinvolto il termine skull . ",
+    "origin": "Vullaby è stato ispirato ad un avvoltoio, come la sua evoluzione Mandibuzz, in particolare a un piccolo di avvoltoio, sgusciato dall'uovo. Il suo uovo ricorda la parte superiore di un teschio capovolta, che va a completarsi con la parte inferiore presente in Mandibuzz. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Pannolino",
+    "sprites": {
+        "vullaby": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0f/Homef0629.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homefsh0629.png"
+        }
+    },
+    "stats": {
+        "vullaby": {
+            "hp": 70,
+            "atk": 55,
+            "def": 75,
+            "spa": 45,
+            "spd": 65,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "vullaby": 370
+    },
+    "types": {
+        "vullaby": [
+            "Buio",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "vullaby": "9,0 kg"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "scorbunny": {
+            "primary": "Aiutofuoco",
+            "hidden": "Libero"
+        }
+    },
+    "curiosities": [
+        "Scorbunny e Raboot condividono la loro categoria con Buneary e Lopunny. Tutti e quattro sono conosciuti come Pokémon Coniglio.",
+        "Scorbunny è il Pokémon più piccolo di tipo Fuoco insieme a Castform Forma Sole, Rotom Calore e Litwick.",
+        "Scorbunny è l'unico Pokémon iniziale di tipo Fuoco a non poter imparare Lanciafiamme salendo di livello.",
+        "Scorbunny e la sua linea evolutiva sono gli unici Pokémon di tipo Fuoco puro ad essere stati introdotti in ottava generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/scorbunny.mp3",
+    "dex_entries": {
+        "scorbunny": {
+            "sword": "Quando corre, la sua temperatura corporea sale pervadendolo di un'energia infuocata che gli permette di scatenare la sua vera potenza.",
+            "shield": "Quando si prepara a lottare, la punta del naso e i cuscinetti sotto le zampe irradiano calore."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Umanoide"
+    ],
+    "generation": 8,
+    "height": {
+        "scorbunny": "0,3 m"
+    },
+    "id": 813,
+    "name": "Scorbunny",
+    "name_origin": "Scorbunny potrebbe essere una combinazione di scorch, bruciacchiare, e bunny, coniglio. Hibanny potrebbe essere una combinazione di 火 hi, fuoco, 火花 hibana, scintilla, e bunny, coniglio. ",
+    "origin": "Scorbunny potrebbe essere basato su un coniglio. Potrebbe essere ispirato anche alla temperatura corporea, molto alta, dei conigli che si aggira intorno ai 38,5 e i 40 °C. Il fatto che Scorbunny sia di tipo Fuoco potrebbe essere un riferimento al racconto 316 dei Jātaka, dove un coniglio non viene bruciato dalle fiamme. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Coniglio",
+    "sprites": {
+        "scorbunny": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0e/Homem0813.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/eb/Homemsh0813.png"
+        }
+    },
+    "stats": {
+        "scorbunny": {
+            "hp": 50,
+            "atk": 71,
+            "def": 40,
+            "spa": 40,
+            "spd": 40,
+            "spe": 69
+        }
+    },
+    "stats_sum": {
+        "scorbunny": 310
+    },
+    "types": {
+        "scorbunny": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "scorbunny": "4,5 kg"
+    }
+}

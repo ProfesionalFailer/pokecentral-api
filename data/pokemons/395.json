@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "empoleon": {
+            "primary": "Acquaiuto",
+            "hidden": "Agonismo"
+        }
+    },
+    "curiosities": [
+        "Empoleon possiede alcune caratteristiche uniche dovute al proprio tipo Acciaio:\n\tHa una combinazione di tipo unica .\n\tInsieme ad Infernape, è l'unico Pokémon iniziale che presenta una debolezza verso entrambi gli altri due Pokémon iniziali della sua stessa generazione .\n\tÈ l'unico Pokémon iniziale di tipo Acqua che non è debole al tipo Erba.",
+        "Ha una combinazione di tipo unica .",
+        "Insieme ad Infernape, è l'unico Pokémon iniziale che presenta una debolezza verso entrambi gli altri due Pokémon iniziali della sua stessa generazione .",
+        "È l'unico Pokémon iniziale di tipo Acqua che non è debole al tipo Erba.",
+        "Nonostante Empoleon sia di secondo tipo Acciaio, impara una sola mossa di questo tipo  crescendo di livello e la impara quando è ancora un Prinplup.",
+        "Empoleon può imparare sette mosse MN, il numero più grande tra tutti gli starter. L'unica mossa MN che non può imparare è Volo, nonostante abbia le ali.",
+        "La statura di Empoleon è grossomodo la stessa del suo \"omonimo\" Napoleone Bonaparte."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/empoleon.mp3",
+    "dex_entries": {
+        "empoleon": {
+            "diamond": "I tre corni che si allungano dal suo becco attestano la sua forza. Il capogruppo ha i corni più grossi.",
+            "pearl": "Nuota veloce come una moto d'acqua. Le estremità delle ali sono aguzze, spaccano anche il ghiaccio.",
+            "platinum": "Chi osa ferirlo nell'orgoglio, viene colpito dalle sue ali tanto possenti da fendere un banco di ghiaccio.",
+            "heartgold": "Non attacca briga senza motivo, ma se un nemico minaccia la pace del branco, lo pesta senza pietà.",
+            "soulsilver": "Non attacca briga senza motivo, ma se un nemico minaccia la pace del branco, lo pesta senza pietà.",
+            "black": "Chi osa ferirlo nell'orgoglio, viene colpito dalle sue ali tanto possenti da fendere un banco di ghiaccio.",
+            "white": "Chi osa ferirlo nell'orgoglio, viene colpito dalle sue ali tanto possenti da fendere un banco di ghiaccio.",
+            "black-2": "Chi osa ferirlo nell'orgoglio, viene colpito dalle sue ali tanto possenti da fendere un banco di ghiaccio.",
+            "white-2": "Chi osa ferirlo nell'orgoglio, viene colpito dalle sue ali tanto possenti da fendere un banco di ghiaccio.",
+            "x": "Nuota veloce come una moto d'acqua. Le estremità delle ali sono aguzze, spaccano anche il ghiaccio.",
+            "y": "Le tre corna che si allungano dal suo becco attestano la sua forza. Il capogruppo ha le corna più grosse.",
+            "omega-ruby": "Nuota veloce come una moto d'acqua. Le estremità delle ali sono aguzze, spaccano anche il ghiaccio.",
+            "alpha-sapphire": "Le tre corna che si allungano dal suo becco attestano la sua forza. Il capogruppo ha le corna più grosse.",
+            "brilliant-diamond": "È dotato di tre corna sul becco che attestano la sua forza. Il capogruppo le ha più grandi.",
+            "shining-pearl": "Nuota veloce come una moto d'acqua. Le estremità delle ali sono talmente aguzze da fendere banchi di ghiaccio.",
+            "legends-arceus": "Da tempi remoti è noto alle genti di Hisui come il \"signore dei flutti\". Le sue ali fendono al pari di lame forgiate da sopraffini maestri."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "generation": 4,
+    "height": {
+        "empoleon": "1,7 m"
+    },
+    "id": 395,
+    "name": "Empoleon",
+    "name_origin": "Deriva dalle parole emperor, imperatore, pole, polo, come in Polo Sud, e il nome Napoleon, Napoleone Bonaparte. ",
+    "origin": "Basato su un pinguino imperatore o su un pinguino reale. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Imperatore",
+    "sprites": {
+        "empoleon": {
+            "default": "https://media.pokemoncentral.it/wiki/2/22/Homem0395.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/19/Homemsh0395.png"
+        }
+    },
+    "stats": {
+        "empoleon": {
+            "hp": 84,
+            "atk": 86,
+            "def": 88,
+            "spa": 111,
+            "spd": 101,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "empoleon": 530
+    },
+    "types": {
+        "empoleon": [
+            "Acciaio",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "empoleon": "84,5 kg"
+    }
+}

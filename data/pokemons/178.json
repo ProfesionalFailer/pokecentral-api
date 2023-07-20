@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "xatu": {
+            "primary": "Sincronismo",
+            "secondary": "Sveglialampo",
+            "hidden": "Magispecchio"
+        }
+    },
+    "curiosities": [
+        "Xatu condivide lo stesso nome di specie con Flygon. Sono entrambi conosciuti come Pokémon Magico.",
+        "Nei giochi Pokémon Argento, Pokémon Rosso Fuoco e Pokémon Argento SoulSilver le voci Pokédex di Xatu affermano che in Sud America esistono leggende attorno a lui. Questo è un esempio di connessione tra mondo dei Pokémon e mondo reale.",
+        "Nello sprite di Pokémon Oro Xatu aveva degli occhi disegnati sulle ali e una striscia nera e una gialla anziché entrambe gialle. Da Pokémon Cristallo in poi, questi particolari sono stati cambiati, rendendo Xatu uno dei pochi Pokémon ad avere tre differenti sprite per ogni gioco di Seconda generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/xatu.mp3",
+    "dex_entries": {
+        "xatu": {
+            "gold": "Si dice che sia così quieto perché sta osservando passato e futuro allo stesso tempo.",
+            "silver": "In Sudamerica si dice che il suo occhio destro veda il futuro, e quello sinistro il passato.",
+            "crystal": "Quando, all'alba, inizia a meditare, riesce a rimanere immobile fino alla fine del giorno.",
+            "ruby": "XATU rimane in piedi immobile nello stesso punto tutto il giorno. Qualcuno crede che si comporti così per gli eventi terribili che ha previsto per il futuro.",
+            "sapphire": "XATU è noto per la sua immobilità mentre guarda il sole stando in piedi tutto il giorno. Alcuni lo considerano un POKéMON mistico, convinti che XATU possegga il potere di prevedere il futuro.",
+            "emerald": "Gli XATU sono POKéMON molto enigmatici in grado di prevedere il futuro. Persone di paesi diversi credono da lungo tempo che provengano da un altro mondo.",
+            "firered": "In Sudamerica si dice che il suo occhio destro veda il futuro, e quello sinistro il passato.",
+            "leafgreen": "Si dice che sia così quieto perché sta osservando passato e futuro allo stesso tempo.",
+            "diamond": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "pearl": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "platinum": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "heartgold": "Si dice che sia così quieto perché sta osservando passato e futuro allo stesso tempo.",
+            "soulsilver": "In Sudamerica si dice che il suo occhio destro veda il futuro e quello sinistro il passato.",
+            "black": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "white": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "black-2": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "white-2": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "x": "Quando, all'alba, inizia a meditare, riesce a rimanere immobile fino alla fine del giorno.",
+            "y": "Si dice che sia così quieto perché sta osservando passato e futuro allo stesso tempo.",
+            "omega-ruby": "Xatu rimane in piedi immobile nello stesso punto tutto il giorno. Qualcuno crede che si comporti così per gli eventi terribili che ha previsto per il futuro.",
+            "alpha-sapphire": "Xatu è noto per la sua immobilità mentre guarda il sole stando in piedi tutto il giorno. Alcuni lo considerano un Pokémon mistico, convinti che Xatu possegga il potere di prevedere il futuro.",
+            "ultra-sun": "Si dice che questo Pokémon abbia il potere di prevedere il futuro, ma non di cambiarlo.",
+            "ultra-moon": "Prevede il futuro ma non gradisce i mutamenti che vi scorge. Per questo pare che se ne stia sempre immobile.",
+            "sword": "Si dice che se ne stia immobile e in silenzio perché sta osservando passato e futuro allo stesso tempo.",
+            "shield": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 2,
+    "height": {
+        "xatu": "1,5 m"
+    },
+    "id": 178,
+    "name": "Xatu",
+    "name_origin": "L'origine del nome è stato rivelato da Jeff Kalles, uno dei responsabili dell'adattamento dei nomi dal giapponese all'americano: la X in Xatu deriva dal fatto che la Pokémon Company desiderasse avere almeno un Pokémon per ogni lettera dell' alfabeto, atu invece come in Natu è l'abbreviazione della parola natura. ",
+    "origin": "Sembra essere basato su un Quetzal splendente con elementi di design simili a un totem dei nativi americani o dei Kachina. Il fatto che rimanga sempre fermo ricorda la meditazione Sun Gazing, nella quale infatti bisogna stare fermi in contemplazione. Questa pratica di meditazione è di origine Atzeca e si dice che conferisca abilità psichiche, che gli Xatu hanno. Potrebbe essere anche ispirato a Camio, un demone dalla testa di uccello capace di prevedere il futuro. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Magico",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0a/Homem0178.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh0178.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ea/Homef0178.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homefsh0178.png"
+        }
+    },
+    "stats": {
+        "xatu": {
+            "hp": 65,
+            "atk": 75,
+            "def": 70,
+            "spa": 95,
+            "spd": 70,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "xatu": 470
+    },
+    "types": {
+        "xatu": [
+            "Psico",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "xatu": "15,0 kg"
+    }
+}

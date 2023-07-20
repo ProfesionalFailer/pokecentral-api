@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "arboliva": {
+            "primary": "Spargisemi",
+            "hidden": "Coglibacche"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Erba",
+        "Pokémon di tipo Normale",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Erba",
+        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
+        "Pokémon con statistiche base totali di 510"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/arboliva.mp3",
+    "dex_entries": {
+        "arboliva": {
+            "scarlet": "Ha un'indole tranquilla ed estremamente compassionevole. Dona il suo olio delizioso e nutriente ai Pokémon debilitati.",
+            "violet": "Respinge i nemici con un getto del suo olio corposo e profumato, così potente da frantumare anche la roccia."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 9,
+    "height": {
+        "arboliva": "1,4 m"
+    },
+    "id": 930,
+    "name": "Arboliva",
+    "name_origin": "Arboliva potrebbe essere una combinazione di arbor , olive, e diva. Oriva potrebbe essere la combinazione di オリーブ ori-bu  e diva. ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Oliva",
+    "sprites": {
+        "arboliva": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b0/Homem0930.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f1/Homemsh0930.png"
+        }
+    },
+    "stats": {
+        "arboliva": {
+            "hp": 78,
+            "atk": 69,
+            "def": 90,
+            "spa": 125,
+            "spd": 109,
+            "spe": 39
+        }
+    },
+    "stats_sum": {
+        "arboliva": 510
+    },
+    "types": {
+        "arboliva": [
+            "Erba",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "arboliva": "48,2 kg"
+    }
+}

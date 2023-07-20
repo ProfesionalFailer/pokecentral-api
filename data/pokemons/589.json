@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "escavalier": {
+            "primary": "Aiutinsetto",
+            "secondary": "Guscioscudo",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Nonostante il Pokédex di Pokémon Nero riporti che Escavalier \"infilza i nemici con le lance appuntite, sfrecciando a gran velocità\", la Velocità è una delle statistiche più basse del Pokémon: tra i Pokémon che non possono evolversi, infatti, solo Shuckle è più lento, avendo una Velocità base pari a 5."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/escavalier.mp3",
+    "dex_entries": {
+        "escavalier": {
+            "black": "Infilza i nemici con le lance appuntite, sfrecciando a gran velocità. Affronta con valore anche avversari temibili.",
+            "white": "Pokémon che si è evoluto appropriandosi della conchiglia di Shelmet. Un'armatura d'acciaio protegge tutto il suo corpo.",
+            "black-2": "Protegge il corpo con la conchiglia che ha rubato a Shelmet mentre spunzona il nemico con due lance.",
+            "white-2": "Protegge il corpo con la conchiglia che ha rubato a Shelmet mentre spunzona il nemico con due lance.",
+            "x": "Protegge il corpo con la conchiglia che ha rubato a Shelmet mentre spunzona il nemico con due lance.",
+            "y": "Pokémon che si è evoluto appropriandosi della conchiglia di Shelmet. Un'armatura d'acciaio protegge tutto il suo corpo.",
+            "omega-ruby": "Protegge il corpo con la conchiglia che ha rubato a Shelmet mentre spunzona il nemico con due lance.",
+            "alpha-sapphire": "Pokémon che si è evoluto appropriandosi della conchiglia di Shelmet. Un'armatura d'acciaio protegge tutto il suo corpo.",
+            "sword": "Si appropria della conchiglia di Shelmet e la usa per proteggere tutto il suo corpo. È amatissimo dagli abitanti di Galar.",
+            "shield": "Carica il nemico con le sue lance. Un famoso dipinto lo ritrae durante un duello con Sirfetch'd."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 5,
+    "height": {
+        "escavalier": "1,0 m"
+    },
+    "id": 589,
+    "name": "Escavalier",
+    "name_origin": "Il suo nome deriva dai termini francesi escargot  e cavalier  o chevalier . Potrebbe inoltre riferirsi ad Excalibur. ",
+    "origin": "Escavalier è basato su un cavaliere, fornito di corazza e lance, che ricordano le lance da giostra medioevali. Sembra inoltre essere basato sui Carabidae, in particolare sullo Scaphinotus angusticollis, oppure potrebbe ispirarsi al Carabus  blaptoides, un coleottero giapponese  la cui dieta è essenzialmente a base di lumache. Oltre a questo, si basa sul concetto di coevoluzione, processo per il quale l'evoluzione di una specie influenza anche altre specie, in questo caso riferito a predatore  e preda . Dopo che Karrablast si è evoluto ha acquistato l'armatura di Shelmet  sviluppandone una simile ma più resistente assumendo il tipo Acciaio. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Cavaliere",
+    "sprites": {
+        "escavalier": {
+            "default": "https://media.pokemoncentral.it/wiki/0/06/Homem0589.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6d/Homemsh0589.png"
+        }
+    },
+    "stats": {
+        "escavalier": {
+            "hp": 70,
+            "atk": 135,
+            "def": 105,
+            "spa": 60,
+            "spd": 105,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "escavalier": 495
+    },
+    "types": {
+        "escavalier": [
+            "Acciaio",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "escavalier": "33 kg"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "pawmo": {
+            "primary": "Assorbivolt",
+            "secondary": "Alternacura",
+            "hidden": "Ferropugno"
+        }
+    },
+    "curiosities": [
+        "Pawmo, Pawmot e Manoferrea sono i primi Pokémon con la combinazione di tipi Elettro/Lotta.",
+        "Pawmi e Pawmo condividono la loro categoria con Rattata, Raticate, Sandshrew, Sandslash, Pikachue Raichu. Tutti e otto sono noti come Pokémon Topo.\n\tSono anche gli unici tra questi a non essere stati introdotti in prima generazione e a non avere una forma di Alola nella loro linea evolutiva.",
+        "Sono anche gli unici tra questi a non essere stati introdotti in prima generazione e a non avere una forma di Alola nella loro linea evolutiva."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pawmo.mp3",
+    "dex_entries": {
+        "pawmo": {
+            "scarlet": "Quando il branco viene attaccato, lotta in prima fila contro il nemico per atterrarlo con tecniche marziali che rilasciano scariche elettriche.",
+            "violet": "Utilizza una tecnica speciale di lotta corpo a corpo: colpisce il nemico con le zampe anteriori rilasciando al contempo elettricità dai cuscinetti."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 9,
+    "height": {
+        "pawmo": "0,4 m"
+    },
+    "id": 922,
+    "name": "Pawmo",
+    "name_origin": "Pawmo potrebbe essere una combinazione di Pawmi, marmot  e dynamo. Pamot potrebbe essere una combinazione di パモ Pamo  e marmot. ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Topo",
+    "sprites": {
+        "pawmo": {
+            "default": "https://media.pokemoncentral.it/wiki/2/25/Homem0922.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2d/Homemsh0922.png"
+        }
+    },
+    "stats": {
+        "pawmo": {
+            "hp": 60,
+            "atk": 75,
+            "def": 40,
+            "spa": 50,
+            "spd": 40,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "pawmo": 350
+    },
+    "types": {
+        "pawmo": [
+            "Elettro",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "pawmo": "6,5 kg"
+    }
+}

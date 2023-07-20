@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "flamigo": {
+            "primary": "Nervisaldi",
+            "secondary": "Intricopiedi",
+            "hidden": "Coprotagonismo"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Volante",
+        "Pokémon di tipo Lotta",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Volante",
+        "Pokémon che non fanno parte di una linea di evoluzione",
+        "Pokémon con statistiche base totali di 500"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/flamigo.mp3",
+    "dex_entries": {
+        "flamigo": {
+            "scarlet": "Sembra che il nodo che fa alla base del collo serva a evitare che l'energia accumulata nel suo stomaco fuoriesca dal becco.",
+            "violet": "Ha l'abitudine di agire all'unisono con i membri del suo gruppo per lanciare un attacco perfettamente sincronizzato."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 9,
+    "height": {
+        "flamigo": "1,6 m"
+    },
+    "id": 973,
+    "name": "Flamigo",
+    "name_origin": "Flamigo potrebbe essere una combinazione di flamingo  e amigo . ",
+    "origin": "Flamigo è basato su un fenicottero rosa. ",
+    "shape": "None",
+    "specie": "Pokémon Sincronia",
+    "sprites": {
+        "flamigo": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6f/Homem0973.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b9/Homemsh0973.png"
+        }
+    },
+    "stats": {
+        "flamigo": {
+            "hp": 82,
+            "atk": 115,
+            "def": 74,
+            "spa": 75,
+            "spd": 64,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "flamigo": 500
+    },
+    "types": {
+        "flamigo": [
+            "Volante",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "flamigo": "37,0 kg"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "archen": {
+            "primary": "Sconforto"
+        }
+    },
+    "curiosities": [
+        "Nessun altro Pokémon  possiede lo stesso Gruppo Uova.",
+        "Archen è l'unico Pokémon che ha le statistiche base pari a 401.",
+        "Archen e la sua evoluzione sono gli unici Pokémon reperibili da fossili che non possiedono l'abilità speciale.",
+        "Archen è il Pokémon fossile più piccolo e leggero."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/archen.mp3",
+    "dex_entries": {
+        "archen": {
+            "black": "Si dice sia antenato dei Pokémon uccello. Siccome non sa volare, si sposta di ramo in ramo saltando.",
+            "white": "Pokémon risvegliatosi da un fossile. Si ritiene che sia l'antenato di tutti i Pokémon uccello.",
+            "black-2": "Rigenerato da un fossile, viveva sugli alberi e rincorreva le prede saltando di ramo in ramo perché non sapeva volare.",
+            "white-2": "Rigenerato da un fossile, viveva sugli alberi e rincorreva le prede saltando di ramo in ramo perché non sapeva volare.",
+            "x": "Pokémon risvegliatosi da un fossile. Si ritiene che sia l'antenato di tutti i Pokémon uccello.",
+            "y": "Si dice sia antenato dei Pokémon uccello. Siccome non sa volare, si sposta di ramo in ramo saltando.",
+            "omega-ruby": "Pokémon risvegliatosi da un fossile. Si ritiene che sia l'antenato di tutti i Pokémon uccello.",
+            "alpha-sapphire": "Si dice sia antenato dei Pokémon uccello. Siccome non sa volare, si sposta di ramo in ramo saltando.",
+            "sun": "È l'antenato di tutti i Pokémon alati. Poiché non sapeva volare, si spostava tra gli alberi saltando.",
+            "moon": "Sembra che, non essendo in grado di volare, catturasse le prede planando da alti rami.",
+            "ultra-sun": "Si è sempre pensato che fosse l’antenato di tutti i Pokémon alati, ma studi recenti hanno messo in dubbio questa tesi.",
+            "ultra-moon": "Pokémon molto antico rigenerato da un fossile. Nonostante abbia le ali, non è in grado di volare.",
+            "sword": "È stato rigenerato da un fossile. Come mostrato dalle ricerche, non può volare, ma è molto abile nei salti.",
+            "shield": "Si dice sia l'antenato dei Pokémon alati. Viveva sugli alberi, nutrendosi di bacche e Pokémon di tipo Coleottero."
+        }
+    },
+    "egg_groups": [
+        "Volante",
+        "Acqua 3"
+    ],
+    "generation": 5,
+    "height": {
+        "archen": "0,5 m"
+    },
+    "id": 566,
+    "name": "Archen",
+    "name_origin": "Deriva chiaramente dal nome del dinosauro Archaeopteryx. ",
+    "origin": "Archen trae ispirazione da un uccello estinto di nome Archaeopteryx, ovvero l'anello di congiunzione fra dinosauri e uccelli. Però, siccome la descrizione nel Pokédex dice che non sa volare, il Pokémon potrebbe derivare da piccoli dinosauri piumati incapaci di compiere tale azione, come il Caudipteryx o il Velociraptor. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Paleouccello",
+    "sprites": {
+        "archen": {
+            "default": "https://media.pokemoncentral.it/wiki/0/04/Homem0566.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9e/Homemsh0566.png"
+        }
+    },
+    "stats": {
+        "archen": {
+            "hp": 55,
+            "atk": 112,
+            "def": 45,
+            "spa": 74,
+            "spd": 45,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "archen": 401
+    },
+    "types": {
+        "archen": [
+            "Roccia",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "archen": "9,5 kg"
+    }
+}

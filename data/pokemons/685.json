@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "slurpuff": {
+            "primary": "Dolcevelo",
+            "hidden": "Agiltecnica"
+        }
+    },
+    "curiosities": [
+        "Slurpuff può essere considerato la controparte di Aromatisse. Sono entrambi Pokémon di tipo Folletto di sesta generazione, esclusivi di Pokémon X e Y, ed entrambi si evolvono tramite scambio tenendo un oggetto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/slurpuff.mp3",
+    "dex_entries": {
+        "slurpuff": {
+            "x": "È dotato di un olfatto sensibilissimo che gli permette di distinguere anche gli odori più sottili. Si serve di questo talento per aiutare i pasticcieri.",
+            "y": "Il suo olfatto è milioni di volte più sviluppato di quello degli esseri umani. Grazie ad esso, riesce a percepire l'ambiente circostante attraverso gli odori più sottili.",
+            "omega-ruby": "È dotato di un olfatto sensibilissimo che gli permette di distinguere anche gli odori più sottili. Si serve di questo talento per aiutare i pasticcieri.",
+            "alpha-sapphire": "Il suo olfatto è milioni di volte più sviluppato di quello degli esseri umani. Grazie ad esso, riesce a percepire l'ambiente circostante attraverso gli odori più sottili.",
+            "sword": "È in grado di comprendere lo stato fisico e mentale altrui dall'odore. Questa capacità potrebbe essere molto utile in campo medico.",
+            "shield": "La grande quantità d'aria contenuta nella sua pelliccia la rende soffice al tatto. È più leggero di quanto possa sembrare."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "generation": 6,
+    "height": {
+        "slurpuff": "0,8 m"
+    },
+    "id": 685,
+    "name": "Slurpuff",
+    "name_origin": "Slurpuff è una combinazione tra slurp e puff. È anche un gioco di parole della parola surplus. Peroream è una combinazione tra ペロペロ peropero, suono onomatopeico di leccare, e cream, crema. ",
+    "origin": "Slurpuff è basato sulla meringa, un dolce a base di albume d'uovo e zucchero, talvolta servito con panna montata e frutta per formare dei nidi di meringa. Potrebbe anche essere ispirato a un cupcake, chiamati anche fairy cake in Inghilterra. Date alcune caratteristiche fisiche come la lingua, il naso e le zampe, potrebbe essere basato anche su un cane di razza Bichon frisé o Barbone. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Panna",
+    "sprites": {
+        "slurpuff": {
+            "default": "https://media.pokemoncentral.it/wiki/4/44/Homem0685.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3c/Homemsh0685.png"
+        }
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 82,
+            "atk": 80,
+            "def": 86,
+            "spa": 85,
+            "spd": 75,
+            "spe": 72
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 480
+    },
+    "types": {
+        "slurpuff": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "slurpuff": "5,0 kg"
+    }
+}

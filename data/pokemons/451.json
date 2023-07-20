@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "skorupi": {
+            "primary": "Lottascudo",
+            "secondary": "Cecchino",
+            "hidden": "Sguardofermo"
+        }
+    },
+    "curiosities": [
+        "Skorupi è l'unico Pokémon di tipo Coleottero che perde il suddetto tipo con l'evoluzione.",
+        "Di tutti i Pokémon con la combinazione di tipi Coleottero/Veleno, Skorupi è l'unico che ha il Veleno come tipo primario."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/skorupi.mp3",
+    "dex_entries": {
+        "skorupi": {
+            "diamond": "Afferra le prede con gli artigli della coda e non si allontana finché il veleno che inietta non agisce.",
+            "pearl": "Vive in terre aride. Si seppellisce nella sabbia e aspetta l’arrivo di una preda ignara del pericolo.",
+            "platinum": "Rilascia veleno dagli artigli sulla coda. Può resistere senza cibo per un anno.",
+            "heartgold": "Si seppellisce nella sabbia e tende agguati alle prede, poi inietta loro il veleno dagli artigli della coda.",
+            "soulsilver": "Si seppellisce nella sabbia e tende agguati alle prede, poi inietta loro il veleno dagli artigli della coda.",
+            "black": "Rilascia veleno dagli artigli sulla coda. Può resistere senza cibo per un anno.",
+            "white": "Rilascia veleno dagli artigli sulla coda. Può resistere senza cibo per un anno.",
+            "black-2": "Vive in territori aridi e può aspettare la sua preda immobile per un anno intero senza bisogno di mangiare.",
+            "white-2": "Vive in territori aridi e può aspettare la sua preda immobile per un anno intero senza bisogno di mangiare.",
+            "x": "Afferra le prede con gli artigli della coda e non si allontana finché il veleno che inietta non agisce.",
+            "y": "Si seppellisce nella sabbia e tende agguati alle prede, poi inietta loro il veleno dagli artigli della coda.",
+            "omega-ruby": "Afferra le prede con gli artigli della coda e non si allontana finché il veleno che inietta non agisce.",
+            "alpha-sapphire": "Si seppellisce nella sabbia e tende agguati alle prede, poi inietta loro il veleno dagli artigli della coda.",
+            "sword": "Si nasconde nella sabbia e aspetta immobile la preda. Lui e Sizzlipede hanno antenati in comune.",
+            "shield": "Attacca la preda afferrandola con gli artigli velenosi della coda, poi inietta il veleno per immobilizzarla.",
+            "brilliant-diamond": "Afferra le prede con gli artigli della coda per avvelenarle. È talmente tenace da non mollare la presa finché il veleno che inietta non agisce.",
+            "shining-pearl": "Vive in terre aride. Scava buche nella sabbia in cui si nasconde mentre aspetta l'arrivo di una preda ignara del pericolo.",
+            "legends-arceus": "Un Pokémon invero periglioso, la cui affilata chela caudale contiene veleno. Non tollera le basse temperature."
+        }
+    },
+    "egg_groups": [
+        "Coleottero",
+        "Acqua 3"
+    ],
+    "generation": 4,
+    "height": {
+        "skorupi": "0,8 m"
+    },
+    "id": 451,
+    "name": "Skorupi",
+    "name_origin": "Deriva da una corruzione della parola scorpion . ",
+    "origin": "Basato su uno scorpione. Ha caratteristiche in comune con l'Uropygi. Il fatto che sia inserito nel Gruppo Uova Acqua 3, potrebbe indicare che tragga ispirazione da un antico animale, l'euripteride. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Scorpione",
+    "sprites": {
+        "skorupi": {
+            "default": "https://media.pokemoncentral.it/wiki/3/37/Homem0451.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/af/Homemsh0451.png"
+        }
+    },
+    "stats": {
+        "skorupi": {
+            "hp": 40,
+            "atk": 50,
+            "def": 90,
+            "spa": 30,
+            "spd": 55,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "skorupi": 330
+    },
+    "types": {
+        "skorupi": [
+            "Veleno",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "skorupi": "12,0 kg"
+    }
+}

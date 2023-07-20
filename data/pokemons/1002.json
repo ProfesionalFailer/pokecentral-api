@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "ting-lu": {
+            "primary": "Vaso Nefasto"
+        }
+    },
+    "curiosities": [
+        "Ting-Lu è uno dei Pokémon con caratteri non alfabetici nel nome."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ting-lu.mp3",
+    "dex_entries": {
+        "ting-lu": {
+            "scarlet": "Prese vita quando le angosce riversate in un antico vaso cerimoniale si fusero con roccia e terra.",
+            "violet": "La sua testa è talmente pesante che anche solo appoggiandola delicatamente a terra può causare spaccature profonde fino a 50 metri."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 9,
+    "height": {
+        "ting-lu": "2,7 m"
+    },
+    "id": 1002,
+    "name": "Ting-Lu",
+    "name_origin": "Ting-Lu e Dinlu potrebbero essere una combinazione di 鼎 dǐng  and 鹿 lù . ",
+    "origin": "",
+    "shape": "None",
+    "specie": "Pokémon Disgrazia",
+    "sprites": {
+        "ting-lu": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4d/Homem1003.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh1003.png"
+        }
+    },
+    "stats": {
+        "ting-lu": {
+            "hp": 155,
+            "atk": 110,
+            "def": 125,
+            "spa": 55,
+            "spd": 80,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "ting-lu": 570
+    },
+    "types": {
+        "ting-lu": [
+            "Buio",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "ting-lu": "669,7 kg"
+    }
+}

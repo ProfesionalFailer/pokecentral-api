@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "wingull": {
+            "primary": "Sguardofermo",
+            "secondary": "Idratazione",
+            "hidden": "Copripioggia"
+        }
+    },
+    "curiosities": [
+        "Wingull è uno dei quattordici Pokémon ad avere la descrizione Pokédex straniera in Pokémon Diamante e Perla.",
+        "Wingull ha esattamente le stesse statistiche base di Taillow, l'unica differenza è che l'Attacco Speciale e l'Attacco sono, rispettivamente, invertiti."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wingull.mp3",
+    "dex_entries": {
+        "wingull": {
+            "ruby": "WINGULL ha l'abitudine di trasportare prede e oggetti preziosi nel becco per poi nasconderli dappertutto. Questo POKéMON vola a cavallo dei venti planando in cielo.",
+            "sapphire": "WINGULL segue le correnti ascensionali presenti sul mare allargando le sue ali lunghe e strette per planare. Il lungo becco del POKéMON è utile per catturare la preda.",
+            "emerald": "WINGULL nidifica su scogliere a picco sul mare. Poiché non riesce a sbattere le ali molto a lungo, si fa trasportare dalle correnti ascensionali sul mare.",
+            "firered": "Vola sulle onde dell'oceano come un deltaplano. D'inverno, nasconde cibo vicino al nido.",
+            "leafgreen": "Vola sulle onde dell'oceano come un deltaplano. D'inverno, nasconde cibo vicino al nido.",
+            "diamond": "Nidifica su scogliere a picco sul mare. Si fa trasportare ad alta quota dalle correnti ascensionali.",
+            "pearl": "Segue i venti marini con le sue lunghe ali e si libra in volo come un aliante. Si riposa piegando le ali.",
+            "platinum": "Si fa trasportare ad alta quota dalle correnti ascensionali. Trasporta il cibo nel becco.",
+            "heartgold": "Volteggia nel cielo ad ali ferme, grazie alle correnti ascensionali. Fa il nido lungo la costa.",
+            "soulsilver": "Volteggia nel cielo ad ali ferme, grazie alle correnti ascensionali. Fa il nido lungo la costa.",
+            "black": "Si fa trasportare ad alta quota dalle correnti ascensionali. Trasporta il cibo nel becco.",
+            "white": "Si fa trasportare ad alta quota dalle correnti ascensionali. Trasporta il cibo nel becco.",
+            "black-2": "Costruisce il nido a ridosso dei precipizi. Sfrutta la brezza marina per levarsi alto in cielo.",
+            "white-2": "Costruisce il nido a ridosso dei precipizi. Sfrutta la brezza marina per levarsi alto in cielo.",
+            "x": "Segue i venti marini con le lunghe ali e libra in volo come un aliante. Si riposa piegando le ali.",
+            "y": "Nidifica su scogliere a picco sul mare. Si fa trasportare ad alta quota dalle correnti ascensionali.",
+            "omega-ruby": "Wingull ha l'abitudine di trasportare prede e oggetti preziosi nel becco per poi nasconderli dappertutto. Questo Pokémon vola a cavallo dei venti planando in cielo.",
+            "alpha-sapphire": "Wingull segue le correnti ascensionali presenti sul mare allargando le sue ali lunghe e strette per planare. Il lungo becco del pokemon è utile per catturare la preda.",
+            "sun": "Volteggia lieve nel cielo sfruttando le correnti grazie alle ossa leggere e alle grandi ali.",
+            "moon": "I pescatori li tengono d'occhi per via della loro abitudine di volare sui tratti di mare dove si radunano i Pokémon acquatici.",
+            "ultra-sun": "Grazie alle ali lunghe e strette, vola in alto lasciandosi trasportare dalle correnti ascensionali come un aliante.",
+            "ultra-moon": "Fa il nido sulle rocce a picco lungo la costa. Vola sul mare in cerca delle sue prede preferite, i Wishiwashi.",
+            "sword": "Costruisce il nido a ridosso dei precipizi. Sfrutta la brezza marina per levarsi alto in cielo.",
+            "shield": "Sfrutta le correnti ascensionali per volteggiare nel cielo senza sbattere le ali. Fa il nido nelle scogliere lungo la costa.",
+            "brilliant-diamond": "Nidifica su scogliere a picco sul mare. Si fa trasportare ad alta quota dalle correnti ascensionali.",
+            "shining-pearl": "Usa le sue lunghe ali per farsi sostenere dai venti marini, librandosi in volo come un aliante. Quando riposa, le ripiega.",
+            "scarlet": "Si lascia trasportare ad alta quota dalle correnti ascensionali, librandosi nel cielo come un aliante e trasportando il cibo nel becco.",
+            "violet": "Vola scivolando sulla brezza marina come un aliante. D’inverno, nasconde il cibo attorno al nido."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Volante"
+    ],
+    "generation": 3,
+    "height": {
+        "wingull": "0,60 m"
+    },
+    "id": 278,
+    "name": "Wingull",
+    "name_origin": "È l'unione delle parole inglesi wing, ala, e seagull, gabbiano. ",
+    "origin": "È chiaramente basato su un gabbiano. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Gabbiano",
+    "sprites": {
+        "wingull": {
+            "default": "https://media.pokemoncentral.it/wiki/2/26/Homem0278.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/36/Homemsh0278.png"
+        }
+    },
+    "stats": {
+        "wingull": {
+            "hp": 40,
+            "atk": 30,
+            "def": 30,
+            "spa": 55,
+            "spd": 30,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "wingull": 270
+    },
+    "types": {
+        "wingull": [
+            "Volante",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "wingull": "9,5 kg"
+    }
+}

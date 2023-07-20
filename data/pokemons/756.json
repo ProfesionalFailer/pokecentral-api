@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "shiinotic": {
+            "primary": "Risplendi",
+            "secondary": "Spargispora",
+            "hidden": "Copripioggia"
+        }
+    },
+    "curiosities": [
+        "Shiinotic e la sua pre-evoluzione sono gli unici Pokémon ad avere Copripioggia che non possono imparare Pioggiadanza.",
+        "Shiinotic è l'unico Pokémon di tipo Erba a non avere alcuna mossa basata su una condizione atmosferica.",
+        "Shiinotic può essere visto come la controparte di Parasect. Entrambi sono di tipo Erba ed hanno lo stesso totale di statistiche base, entrambi possono imparare Spora ed entrambi sono apparsi nella prova della Giungla Ombrosa in Pokémon Sole e Luna a seconda della versione di gioco, con Shiinotic trovabile in Pokémon Luna mentre Parasect in Pokémon Sole."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/shiinotic.mp3",
+    "dex_entries": {
+        "shiinotic": {
+            "sun": "Meglio non avventurarsi di notte in un bosco abitato da questi Pokémon, perché le loro luci fanno perdere il senso dell'orientamento.",
+            "moon": "Libera spore soporifere che emettono una luce intermittente di cui si serve per addormentare le sue prede, a cui poi succhia l'energia vitale.",
+            "ultra-sun": "Addormenta la preda e utilizza le estremità delle sue braccia per rubarle l’energia vitale, che può anche trasmettere ai compagni in difficoltà.",
+            "ultra-moon": "Quando Shiinotic e Parasect lottano per il dominio di un territorio, finiscono per coprire ogni cosa con le loro spore.",
+            "sword": "Attira a sé la preda con la luce intermittente delle sue spore e l'addormenta. Poi ne succhia l'energia vitale con le estremità delle dita.",
+            "shield": "Se di notte si scorge una luce nel cuore della foresta, meglio non avvicinarsi: si rischia di finire vittima delle spore soporifere di Shiinotic."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 7,
+    "height": {
+        "shiinotic": "1,0 m"
+    },
+    "id": 756,
+    "name": "Shiinotic",
+    "name_origin": "Shiinotic può essere una combinazione di shiitake e hypnotic, ipnotico. Mashēdo può essere una combinazione di mushroom, fungo, e shade, ombra. ",
+    "origin": "Shiinotic è ispirato ad un fungo luminescente, forse ad una Gerronema viridilucens. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Luminescenza",
+    "sprites": {
+        "shiinotic": {
+            "default": "https://media.pokemoncentral.it/wiki/5/54/Homem0756.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/dd/Homemsh0756.png"
+        }
+    },
+    "stats": {
+        "shiinotic": {
+            "hp": 60,
+            "atk": 45,
+            "def": 80,
+            "spa": 90,
+            "spd": 100,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "shiinotic": 405
+    },
+    "types": {
+        "shiinotic": [
+            "Erba",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "shiinotic": "11,5 kg"
+    }
+}

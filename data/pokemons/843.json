@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "silicobra": {
+            "primary": "Sputasabbia",
+            "secondary": "Muta",
+            "hidden": "Sabbiavelo"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di ottava generazione",
+        "Pokémon di tipo Terra",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Verde",
+        "Pokémon dalla sagoma n. 02",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon di Gruppo Uova Drago",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 315"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/silicobra.mp3",
+    "dex_entries": {
+        "silicobra": {
+            "sword": "Conserva nella sacca del collo la sabbia che ingoia scavando buche. Può accumularne ben 8 kg.",
+            "shield": "Espelle sabbia dalle narici accecando il nemico per distrarlo e ne approfitta per nascondersi sottoterra.",
+            "scarlet": "La sacca nel collo può gonfiarsi come un palloncino, e diventa più elastica ogni volta che fa la muta.",
+            "violet": "Le sue grandi narici sono specializzate nell’espellere sabbia, quindi l’olfatto di questo Pokémon è abbastanza limitato."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Drago"
+    ],
+    "generation": 8,
+    "height": {
+        "silicobra": "2,2 m"
+    },
+    "id": 843,
+    "name": "Silicobra",
+    "name_origin": "Silicobra potrebbe essere una combinazione di silicon, silicio , e cobra. Potrebbe derivare anche da silt, limo. Sunahebi potrebbe essere una combinazione di 砂 suna, sabbia, e 蛇 hebi, serpente. ",
+    "origin": "Silicobra potrebbe essere basato su diverse razze di serpente e il sacco di sabbia attorno al collo è simile al cappuccio di un cobra. ",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Sabbiaserpe",
+    "sprites": {
+        "silicobra": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0843.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0843.png"
+        }
+    },
+    "stats": {
+        "silicobra": {
+            "hp": 52,
+            "atk": 57,
+            "def": 75,
+            "spa": 35,
+            "spd": 50,
+            "spe": 46
+        }
+    },
+    "stats_sum": {
+        "silicobra": 315
+    },
+    "types": {
+        "silicobra": [
+            "Terra"
+        ]
+    },
+    "weight": {
+        "silicobra": "7,6 kg"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "elekid": {
+            "primary": "Statico",
+            "hidden": "Spiritovivo"
+        }
+    },
+    "curiosities": [
+        "Elekid ha la statistica base di Velocità più alta fra tutti i Pokémon non evoluti appartenenti ad una famiglia evolutiva di tre stadi.",
+        "Elekid e la sua evoluzione, Electabuzz hanno l'attacco speciale più elevato rispetto all'attacco, quando però il Pokémon si evolve in Electivire l'attacco speciale diventa più basso dell'attacco.",
+        "Elekid e la sua evoluzione condividono la loro categoria con Zapdos. Sono tutti noti come Pokémon Elettrico."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/elekid.mp3",
+    "dex_entries": {
+        "elekid": {
+            "gold": "Genera elettricità ruotando le braccia, ma non fa mai una ricarica completa perché si stanca presto.",
+            "silver": "Anche nelle più impetuose tempeste questo POKéMON gioca allegramente se ode il rombo di un tuono in cielo.",
+            "crystal": "Ama i violenti tuoni. Quando carica energia, lo spazio tra le corna si colora di blu biancastro.",
+            "ruby": "ELEKID immagazzina elettricità nel corpo. Se, a contatto col metallo, scarica accidentalmente l'elettricità accumulata, inizia a far oscillare gli arti superiori con movimenti circolari per ricaricarsi.",
+            "sapphire": "ELEKID immagazzina elettricità nel corpo. Se, a contatto col metallo, scarica accidentalmente l'elettricità accumulata, inizia a far oscillare gli arti superiori con movimenti circolari per ricaricarsi.",
+            "emerald": "Se, a contatto col metallo, ELEKID scarica accidentalmente l'elettricità immagazzinata nel corpo, si ricarica con movimenti circolari degli arti superiori.",
+            "firered": "Anche durante le tempeste più impetuose questo POKéMON gioca allegramente se ode il rombo di un tuono in cielo.",
+            "leafgreen": "Genera elettricità ruotando gli arti superiori, ma non fa mai una ricarica completa perché si stanca presto.",
+            "diamond": "Genera elettricità roteando le braccia. Tuttavia, non riesce ad immagazzinare l'energia creata.",
+            "pearl": "Genera elettricità roteando le braccia. Tuttavia, non riesce ad immagazzinare l'energia creata.",
+            "platinum": "Una debole corrente elettrica scorre tra le sue corna. Chi vi passa una mano rimane fulminato.",
+            "heartgold": "Genera elettricità ruotando le braccia, ma non fa mai una ricarica completa perché si stanca presto.",
+            "soulsilver": "Anche nelle più impetuose tempeste questo Pokémon gioca allegramente se ode il rombo di un tuono in cielo.",
+            "black": "Una debole corrente elettrica scorre tra le sue corna. Chi vi passa una mano rimane fulminato.",
+            "white": "Una debole corrente elettrica scorre tra le sue corna. Chi vi passa una mano rimane fulminato.",
+            "black-2": "Quando rotea le braccia per produrre elettricità, le sue corna si illuminano.",
+            "white-2": "Quando rotea le braccia per produrre elettricità, le sue corna si illuminano.",
+            "x": "Genera elettricità roteando le braccia. Tuttavia, non riesce a immagazzinare l'energia creata.",
+            "y": "Quando rotea le braccia per produrre elettricità, le sue corna si illuminano.",
+            "omega-ruby": "Elekid immagazzina elettricità nel corpo. Se, a contatto col metallo, scarica accidentalmente l'elettricità accumulata, inizia a far oscillare gli arti superiori con movimenti circolari per ricaricarsi.",
+            "alpha-sapphire": "Elekid immagazzina elettricità nel corpo. Se, a contatto col metallo, scarica accidentalmente l'elettricità accumulata, inizia a far oscillare gli arti superiori con movimenti circolari per ricaricarsi.",
+            "sun": "Quando si trova in una casa, succhia l'energia elettrica attaccandosi alle prese di corrente.",
+            "moon": "Spesso si azzuffa con i Togedemaru che entrano in casa per rubare l'energia elettrica. In genere, i loro scontri finiscono in parità.",
+            "ultra-sun": "Il rombo dei tuoni lo mette di buon umore, perciò è utile averne una registrazione a portata di mano per quando è triste.",
+            "ultra-moon": "Quando le corna si illuminano di una luce biancastra dalle sfumature blu, è carico di elettricità. Chi lo tocca rimane fulminato.",
+            "sword": "Quando si sta per scatenare una tempesta perde il controllo. Si fa prendere dall'agitazione se sente il rombo dei tuoni.",
+            "shield": "Non è ancora abile nell'immagazzinare elettricità. Si intrufola nelle abitazioni in cerca di prese di corrente, che sfrutta per nutrirsi.",
+            "brilliant-diamond": "Genera elettricità roteando le braccia. Tuttavia, non riesce a immagazzinarla.",
+            "shining-pearl": "Genera elettricità roteando le braccia. Tuttavia, non riesce a immagazzinarla.",
+            "legends-arceus": "Genera elettricità roteando gli arti superiori. Se durante i temporali si odono nelle piane e nei monti risa gioiose di fanciulli, si tratta in realtà di Elekid."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 2,
+    "height": {
+        "elekid": "0,6 m"
+    },
+    "id": 239,
+    "name": "Elekid",
+    "name_origin": "Elekid è una combinazione di エレキ eleki  e kid . ",
+    "origin": "Elekid è basato sulle spine elettriche giapponesi e statunitensi. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Elettrico",
+    "sprites": {
+        "elekid": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0e/Homem0239.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homemsh0239.png"
+        }
+    },
+    "stats": {
+        "elekid": {
+            "hp": 45,
+            "atk": 63,
+            "def": 37,
+            "spa": 65,
+            "spd": 55,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "elekid": 360
+    },
+    "types": {
+        "elekid": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "elekid": "23,5 kg"
+    }
+}

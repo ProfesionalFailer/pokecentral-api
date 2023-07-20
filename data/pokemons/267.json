@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "beautifly": {
+            "primary": "Aiutinsetto",
+            "hidden": "Antagonismo"
+        }
+    },
+    "curiosities": [
+        "Beautifly condivide la categoria con Butterfree. Entrambi sono noti come Pokémon Farfalla."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/beautifly.mp3",
+    "dex_entries": {
+        "beautifly": {
+            "ruby": "Il nutrimento preferito da BEAUTIFLY è il polline dei fiori. Per attirare questo POKéMON basta mettere una pianta fiorita sul davanzale: senza dubbio si avvicinerà in cerca di polline.",
+            "sapphire": "La bocca di BEAUTIFLY è costituita da un ago spiraliforme, molto utile per succhiare il polline dai fiori. Questo POKéMON si fa trasportare dal vento nei suoi viaggi alla ricerca del polline.",
+            "emerald": "BEAUTIFLY ha delle favolose ali colorate. È solito volare su campi ricoperti di fiori per raccogliere il polline. Se provocato, attacca il nemico in modo molto aggressivo.",
+            "firered": "POKéMON aggressivo, nonostante l'aspetto. Attacca conficcando la bocca lunga e sottile nel corpo del nemico.",
+            "leafgreen": "POKéMON aggressivo, nonostante l'aspetto. Attacca conficcando la bocca lunga e sottile nel corpo del nemico.",
+            "diamond": "Ha un'indole aggressiva. Conficca la sua bocca lunga e sottile nelle prede e ne succhia i fluidi.",
+            "pearl": "Quando i fiori sbocciano nei campi, vola qua e là raccogliendo polline. Nonostante l'aspetto, è crudele.",
+            "platinum": "Malgrado l'aspetto, è feroce. Se disturbato in cerca di polline, attacca con la bocca lunga e sottile.",
+            "heartgold": "Sulle ali ha splendidi, vividi colori. Succhia il dolce polline dai fiori allungando la bocca sottile.",
+            "soulsilver": "Sulle ali ha splendidi, vividi colori. Succhia il dolce polline dai fiori allungando la bocca sottile.",
+            "black": "Malgrado l'aspetto, è feroce. Se disturbato in cerca di polline, attacca con la bocca lunga e sottile.",
+            "white": "Malgrado l'aspetto, è feroce. Se disturbato in cerca di polline, attacca con la bocca lunga e sottile.",
+            "black-2": "Malgrado l'aspetto, è feroce. Se disturbato in cerca di polline, attacca con la bocca lunga e sottile.",
+            "white-2": "Malgrado l'aspetto, è feroce. Se disturbato in cerca di polline, attacca con la bocca lunga e sottile.",
+            "x": "Sulle ali ha splendidi, vividi colori. Succhia il dolce polline dai fiori allungando la bocca sottile.",
+            "y": "Ha un'indole aggressiva. Conficca la sua bocca lunga e sottile nelle prede e ne succhia i fluidi.",
+            "omega-ruby": "Il nutrimento preferito da Beautifly è il polline dei fiori. Per attirare questo Pokémon basta mettere una pianta fiorita sul davanzale: senza dubbio si avvicinerà in cerca di polline.",
+            "alpha-sapphire": "La bocca di Beautyfly è costituita da un ago spiraliforme,molto utile per succhiare il polline dai fiori.Questo Pokémon si fa trasportare dal vento nei suoi viaggi alla ricerca del polline.",
+            "brilliant-diamond": "Ha un'indole aggressiva. Conficca l'ago lungo e sottile che ha sulla bocca nelle prede e ne succhia i fluidi.",
+            "shining-pearl": "Quando i fiori sbocciano nei campi, vola qua e là raccogliendo polline. Ha un aspetto docile, ma è in realtà piuttosto aggressivo.",
+            "legends-arceus": "Multicolore e bello alla vista, è di natura avida. Scaccia i Combee che raccolgono nettare per tenere per sé il suo nutrimento favorito."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "generation": 3,
+    "height": {
+        "beautifly": "1,00 m"
+    },
+    "id": 267,
+    "name": "Beautifly",
+    "name_origin": "Beautifly deriva dall'inglese beauty  e butterfly . Potrebbe anche essere un gioco di parole su beautiful , o beautify . ",
+    "origin": "Basato su di una farfalla della famiglia dei Papilionidi. ",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Farfalla",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6e/Homem0267.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0267.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b8/Homef0267.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e2/Homefsh0267.png"
+        }
+    },
+    "stats": {
+        "beautifly": {
+            "hp": 60,
+            "atk": 70,
+            "def": 50,
+            "spa": 100,
+            "spd": 50,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "beautifly": 395
+    },
+    "types": {
+        "beautifly": [
+            "Volante",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "beautifly": "28,4 kg"
+    }
+}

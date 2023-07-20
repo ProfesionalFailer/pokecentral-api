@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "sinistea": {
+            "primary": "Sottilguscio",
+            "hidden": "Corpofunesto"
+        }
+    },
+    "curiosities": [
+        "Sinistea è il Pokémon più piccolo di tipo Spettro e, insieme a Joltik, Flabébé, Cutiefly, Comfey e Cosmoem, è il Pokémon più piccolo tra tutti.",
+        "Come da lui stesso confermato, James Turner s'è occupato della progettazione di Sinistea."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sinistea.mp3",
+    "dex_entries": {
+        "forma-contraffatta": {
+            "sword": "Si dice che questo Pokémon sia nato quando un'anima solitaria si è impossessata di una tazza dimenticata piena di tè ormai freddo.",
+            "shield": "La tazza da tè in cui vive è un vero pezzo di antiquariato di cui circolano molte copie contraffatte.",
+            "scarlet": "Nasce quando l’anima di una persona morta in solitudine prende possesso di una tazza di tè lasciata a metà. Si palesa spesso in case e hotel.",
+            "violet": "Si infiltra nel corpo di chi lo beve, rubando le sue energie vitali dall’interno. Ha un sapore davvero pessimo."
+        },
+        "forma-autentica": {
+            "sword": "La spirale al centro del suo corpo è il suo punto debole. Se viene mescolato, perde integrità ed è colto da vertigini.",
+            "shield": "Assorbe l'energia vitale di chi lo beve. Attende pazientemente di essere bevuto, ma a causa del suo cattivo sapore molti lo sputano subito.",
+            "scarlet": "Alcuni fanatici di questo Pokémon preparano delle tazze e del tè con impeccabile cura e aspettano che un Sinistea se ne impossessi.",
+            "violet": "Assume questa forma vivendo in una tazza da tè d’antiquariato. È un Pokémon molto prezioso, ma ha comunque un saporaccio."
+        }
+    },
+    "egg_groups": [
+        "Minerale",
+        "Amorfo"
+    ],
+    "generation": 8,
+    "height": {
+        "sinistea": "0,1 m"
+    },
+    "id": 854,
+    "name": "Sinistea",
+    "name_origin": "Sinistea potrebbe essere una combinazione di sinister, sinistro, e tea, tè. Yabacha potrebbe essere una combinazione di やばい yabai, pericoloso o terribile, e 茶 cha, tè. ",
+    "origin": "Sinistea potrebbe essere basato su un poltergeist, oltre che su una tazzina da tè e sul tè nero. ",
+    "shape": "testa",
+    "specie": "Pokémon Tè",
+    "sprites": {
+        "forma-contraffatta": {
+            "default": "https://media.pokemoncentral.it/wiki/6/62/Homem0854.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bd/Homemsh0854.png"
+        },
+        "forma-autentica": {
+            "default": "https://media.pokemoncentral.it/wiki/6/62/Homem0854.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bd/Homemsh0854.png"
+        }
+    },
+    "stats": {
+        "sinistea": {
+            "hp": 40,
+            "atk": 45,
+            "def": 45,
+            "spa": 74,
+            "spd": 54,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "sinistea": 308
+    },
+    "types": {
+        "sinistea": [
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "sinistea": "0,2 kg"
+    }
+}

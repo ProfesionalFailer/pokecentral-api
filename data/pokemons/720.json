@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Prestigiatore"
+        }
+    },
+    "curiosities": [
+        "In sesta generazione Hoopa Vincolato aveva una combinazione di tipi unica.",
+        "Hoopa fu svelato con largo anticipo dall'hacker Smealum, insieme a Diancie, Volcanion e alle megaevoluzioni di Latios e Latias.",
+        "Hoopa Libero è il Pokémon Buio con il più alto Attacco Speciale e, assieme ad Umbreon e MegaGyarados, quello con la più alta Difesa Speciale.",
+        "Fino all'ottava generazione, con l'avvento di alcune forme regionali, era l'unico Pokémon a possedere due classificazioni di specie .",
+        "Hoopa è l'unico Pokémon di sesta generazione che possiede una descrizione del Pokédex distinta per ogni gioco fino ad ora uscito."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/hoopa.mp3",
+    "dex_entries": {
+        "hoopa": {
+            "x": "È un gran combinaguai e spedisce lontano tutto ciò che gli capita a tiro grazie ai suoi anelli in grado di piegare lo spazio.",
+            "y": "Usa i suoi anelli per intrappolare qualunque cosa gli piaccia e teletrasportarla in un luogo segreto.",
+            "omega-ruby": "Quando assume la sua vera forma, acquisisce un'energia straordinaria. Secondo la leggenda, è talmente bramoso di gioielli che può rubare un castello intero per impossessarsi dei suoi tesori.",
+            "alpha-sapphire": "Può prendere tutto ciò che vuole con le sue sei enormi braccia e i suoi sei anelli. Quando il suo potere è sigillato prende una forma molto più piccola."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 6,
+    "height": {
+        "hoopa-vincolato": "0,5 m",
+        "hoopa-libero": "6.5 m"
+    },
+    "id": 720,
+    "name": "Hoopa",
+    "name_origin": "Il nome Hoopa è una corruzione della parola hoop, anello. Potrebbe anche derivare da hoopla, trambusto, questa parola viene usata per rumori molto forti, che attirano l'attenzione o fuorvianti. ",
+    "origin": "Hoopa Vincolato sembra essere ispirato alla rappresentazione classica dei geni, avendo appunto una coda spettrale e un codino, sembra essersi ispirato soprattutto al Genio di Aladdin a causa degli anelli attorno ai polsi. Hoopa Libero è pur sempre ispirato ad un genio, ma non solo, le sei braccia possono essere un riferimento alla divinità indù Shakti, che si dice abbia braccia multiple. Potrebbe essere basato anche sui Gegenees, una tribù di giganti con sei braccia che combattevano contro gli Argonauti. Le corna e la coda possono invece essere basate sulle comuni rappresentazioni dei demoni. Entrambe le forme sembrano essere ispirate anche alla leggenda del Nezha, divinità venerata nel Taoismo e nel folklore popolare cinese, questa divinità è nota per fare molti scherzi e per proteggere il mondo, similmente ad Hoopa Libero inoltre è rappresentato con gli anelli ai polsi e con braccia multiple. L'utilizzo degli anelli invece è basato sui portali transplanari. Il rapporto tra Hoopa e il Vaso del vincolo è molto simile a quello dei geni e la propria lampada in quanto Hoopa in realtà è imprigionato al suo interno non potendo usare tutte le sue abilità, il fatto che la forma è limitata per solo tre giorni, potrebbe essere un riferimento ai desideri limite dei geni, che sono appunto tre. Il colore dorato della versione cromatica di entrambe le forme, rispecchiano l'origine dei geni secondo la mitologia araba. ",
+    "shape": "insettoide",
+    "specie": "Pokémon Birba",
+    "sprites": {
+        "vincolato": {
+            "default": "https://media.pokemoncentral.it/wiki/4/43/Homem0720.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homemsh0720.png"
+        },
+        "libero": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9a/Homem0720L.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0720L.png"
+        }
+    },
+    "stats": {
+        "vincolato": {
+            "hp": 80,
+            "atk": 110,
+            "def": 60,
+            "spa": 150,
+            "spd": 130,
+            "spe": 70
+        },
+        "libero": {
+            "hp": 80,
+            "atk": 160,
+            "def": 60,
+            "spa": 170,
+            "spd": 130,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "vincolato": 600,
+        "libero": 680
+    },
+    "types": {
+        "vincolato": [
+            "Psico",
+            "Spettro"
+        ],
+        "libero": [
+            "Psico",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "hoopa-vincolato": "9,0 kg",
+        "hoopa-libero": "490.0 kg"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "lillipup": {
+            "primary": "Spiritovivo",
+            "secondary": "Raccolta",
+            "hidden": "Fugafacile"
+        }
+    },
+    "curiosities": [
+        "Lillipup condivide la sua specie con Growlithe, Rockruff, Yamper e Fidough: tutti e cinque sono conosciuti come \"Pokémon Cagnolino\".",
+        "Lillipup è l'unico Pokémon di quinta generazione, escludendo i Pokémon iniziali di Unima, a evolversi prima del livello 20.",
+        "In uno spot televisivo di Pokémon Nero e Bianco, l'attrice e conduttrice televisiva italiana Valentina Correani sostiene che il suo Pokémon preferito è Lillipup."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lillipup.mp3",
+    "dex_entries": {
+        "lillipup": {
+            "black": "Affronta con valore anche gli avversari più forti, ma la sua intelligenza gli fa evitare le lotte troppo svantaggiose.",
+            "white": "I lunghi peli che gli coprono il volto sono un radar molto sensibile alle variazioni dell'ambiente circostante.",
+            "black-2": "È un Pokémon molto intrepido, ma ha l'intelligenza di valutare la forza del nemico prima di decidere se lottare o no.",
+            "white-2": "È un Pokémon molto intrepido, ma ha l'intelligenza di valutare la forza del nemico prima di decidere se lottare o no.",
+            "x": "I lunghi peli che gli coprono il volto sono un radar molto sensibile alle variazioni dell'ambiente circostante.",
+            "y": "È un Pokémon molto intrepido, ma ha l'intelligenza di valutare la forza del nemico prima di decidere se lottare o no.",
+            "omega-ruby": "I lunghi peli che gli coprono il volto sono un radar molto sensibile alle variazioni dell'ambiente circostante.",
+            "alpha-sapphire": "È un Pokémon molto intrepido, ma ha l'intelligenza di valutare la forza del nemico prima di decidere se lottare o no.",
+            "sun": "Niente affatto rumoroso, è molto popolare tra gli Allenatori che vivono nei condomini.",
+            "moon": "I lunghi peli che gli coprono il muso fungono da radar e gli permettono di capire le condizioni del nemico durante le lotte.",
+            "ultra-sun": "È molto perspicace e capisce al volo se può competere con l'avversario. Se sa di non poterlo battere, fugge con la coda fra le gambe.",
+            "ultra-moon": "È molto popolare per la sua intelligenza e per la docilità nel seguire le istruzioni, che lo rendono adatto anche agli Allenatori principianti.",
+            "sword": "Coraggioso e al contempo prudente. Capta informazioni sull'ambiente circostante grazie ai morbidi peli che gli ricoprono il muso.",
+            "shield": "È molto più intelligente di un bambino. Non scorda né l'affetto ricevuto né i maltrattamenti subiti."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 5,
+    "height": {
+        "lillipup": "0,4 m"
+    },
+    "id": 506,
+    "name": "Lillipup",
+    "name_origin": "Il suo nome deriva da lilliputian  o Lilliput e pup . ",
+    "origin": "Il suo aspetto si basa sul Yorkshire Terrier. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Cagnolino",
+    "sprites": {
+        "lillipup": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f2/Homem0506.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0506.png"
+        }
+    },
+    "stats": {
+        "lillipup": {
+            "hp": 45,
+            "atk": 60,
+            "def": 45,
+            "spa": 25,
+            "spd": 45,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "lillipup": 275
+    },
+    "types": {
+        "lillipup": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "lillipup": "4,1 kg"
+    }
+}

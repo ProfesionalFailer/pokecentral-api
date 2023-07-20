@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "nosepass": {
+            "primary": "Vigore",
+            "secondary": "Magnetismo",
+            "hidden": "Silicoforza"
+        }
+    },
+    "curiosities": [
+        "Nosepass ha subito un completo restyling nel suo sprite di quarta generazione, decisamente diverso da quello di terza."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/nosepass.mp3",
+    "dex_entries": {
+        "nosepass": {
+            "ruby": "Il naso magnetico di NOSEPASS è sempre puntato verso nord. Quando incontra un suo simile, non riesce a guardarlo in volto da vicino perché i nasi magnetici si respingono l'un l'altro.",
+            "sapphire": "Pare che NOSEPASS sia completamente immobile, sempre col naso magnetico puntato verso nord. Tuttavia, studi più dettagliati hanno rivelato che questo POKéMON si sposta di un centimetro all'anno.",
+            "emerald": "Il corpo di NOSEPASS emette una potente forza magnetica, grazie alla quale riesce a attirare la preda di cui si nutre. Questa forza si intensifica nella stagione fredda.",
+            "firered": "Ha un naso magnetico che punta sempre verso nord, e che i viaggiatori controllano per orientarsi.",
+            "leafgreen": "Ha un naso magnetico che punta sempre verso nord, e che i viaggiatori controllano per orientarsi.",
+            "diamond": "Il suo naso è magnetico. Per questo motivo lo tiene sempre puntato verso nord.",
+            "pearl": "Il suo naso è magnetico. Per questo motivo lo tiene sempre puntato verso nord.",
+            "platinum": "Quando è in pericolo si protegge con la sua forza magnetica, attirando oggetti di ferro su di sé.",
+            "heartgold": "Due NOSEPASS non possono stare vicini perché i loro due nasi magnetici si respingono a vicenda.",
+            "soulsilver": "Due NOSEPASS non possono stare vicini perché i loro due nasi magnetici si respingono a vicenda.",
+            "black": "Quando è in pericolo si protegge con la sua forza magnetica, attirando oggetti di ferro su di sé.",
+            "white": "Quando è in pericolo si protegge con la sua forza magnetica, attirando oggetti di ferro su di sé.",
+            "black-2": "Rafforza le sue difese attirando su di sé gli oggetti di ferro circostanti con il suo naso magnetico che indica sempre il nord.",
+            "white-2": "Rafforza le sue difese attirando su di sé gli oggetti di ferro circostanti con il suo naso magnetico che indica sempre il nord.",
+            "x": "Rafforza le sue difese attirando su di sé gli oggetti di ferro circostanti con il suo naso magnetico che indica sempre il nord.",
+            "y": "Ha un naso magnetico che punta sempre verso nord, e che i viaggiatori controllano per orientarsi.",
+            "omega-ruby": "Il naso magnetico di Nosepass è sempre puntato verso nord. Quando incontra un suo simile, non riesce a guardarlo in volto da vicino perché i nasi magnetici si respingono l'un l'altro.",
+            "alpha-sapphire": "Pare che Nosepass sia completamente immobile, sempre col naso magnetico puntato verso nord. Tuttavia, studi più dettagliati hanno rivelato che questo Pokémon si sposta di un centimetro all'anno.",
+            "sun": "Il naso magnetico di Nosepass è una bussola infallibile e questo lo rende il compagno di viaggio ideale per ogni Allenatore.",
+            "moon": "Il suo potente magnetismo gli permette di attirare le prede e anche oggetti di ferro, che usa per proteggersi.",
+            "ultra-sun": "Si sposta di 1 cm all’anno, ma quando si trova in difficoltà ruota su se stesso e in un attimo si nasconde sottoterra.",
+            "ultra-moon": "Il suo potente magnetismo gli permette di attirare le prede senza muoversi, ma a volte attrae anche i suoi nemici naturali.",
+            "brilliant-diamond": "Il suo naso è un magnete. Per questo motivo è sempre rivolto verso il polo nord.",
+            "shining-pearl": "Il suo naso è un magnete. Per questo motivo è sempre rivolto verso il polo nord.",
+            "legends-arceus": "Il naso rosso punta invariabilmente a nord, alla stregua delle antiche bussole. Ben lo sa il popolo di Hisui, che se ne avvale durante lunghi viaggi."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 3,
+    "height": {
+        "nosepass": "1,0 m"
+    },
+    "id": 299,
+    "name": "Nosepass",
+    "name_origin": "Potrebbe essere la combinazione delle parole \"nose\", naso, e \"compass\", bussola. ",
+    "origin": "Basato sui Moai dell'Isola di Pasqua. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Bussola",
+    "sprites": {
+        "nosepass": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a4/Homem0299.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/19/Homemsh0299.png"
+        }
+    },
+    "stats": {
+        "nosepass": {
+            "hp": 30,
+            "atk": 45,
+            "def": 135,
+            "spa": 45,
+            "spd": 90,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "nosepass": 375
+    },
+    "types": {
+        "nosepass": [
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "nosepass": "97,0 kg"
+    }
+}

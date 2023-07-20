@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "dracovish": {
+            "primary": "Assorbacqua",
+            "secondary": "Ferromascella",
+            "hidden": "Remasabbia"
+        }
+    },
+    "curiosities": [
+        "Dracovish condivide la sua categoria con Aerodactyl, Dracozolt, Arctozolt e Arctovish. Tutti e cinque sono noti come Pokémon Fossile.",
+        "Dracozolt, Arctozolt, Dracovish e Arctovish sono i primi fossili Pokémon a non essere di tipo Roccia e a non avere un sesso.",
+        "Come da lui stesso confermato, Hitoshi Ariga s'è occupato della progettazione di Dracozolt, Arctozolt, Dracovish e Arctovish.",
+        "Nella serie animata, è Fossilia Di Strattis a dare a Dracovish il nome della sua specie.",
+        "Nella serie animata, Dracovish è stato l'ultimo Pokémon catturato da Ash Ketchum."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dracovish.mp3",
+    "dex_entries": {
+        "dracovish": {
+            "sword": "Anticamente era invincibile grazie all'incredibile potenza delle sue gambe e delle sue mascelle, ma si è estinto dopo aver esaurito tutte le prede.",
+            "shield": "Vanta gambe molto potenti che gli permettono di correre a una velocità superiore a 60 km/h, ma può respirare solo sott'acqua."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 8,
+    "height": {
+        "dracovish": "2,3 m"
+    },
+    "id": 882,
+    "name": "Dracovish",
+    "name_origin": "Dracovish potrebbe essere una combinazione di dracō, drago in latino, e fish, pesce. Uonoragon potrebbe essere una combinazione di 魚 uo, pesce, e dragon, drago. ",
+    "origin": "Dracovish, come le sue controparti, potrebbe prendere ispirazione dai dinosauri di Crystal Palace, una serie di sculture disassemblate di dinosauri e altri animali estinti esposte nel Parco di Crystal Palace di Londra. Il posizionamento della testa sulla punta della coda potrebbe essere un riferimento all'elasmosauro come era stato descritto inizialmente in maniera erronea da Edward Drinker Cope. Sembra ricordare anche una chimera ed altre creature mitologiche simili a quest'ultima, mostri che presentano caratteristiche di diverse specie animali e che sono spesso interpretati scientificamente come costruiti da diverse parti di animali. Nel caso di Dracovish, la parte superiore sembra essere basata su un Dunkleosteus, sebbene la coppia di pinne frontali assomigli a quelle possedute da pesci come quelli dell'ordine celacantiformi, mentre la metà inferiore potrebbe essere ispirata a uno stegosauro. Le voci del Pokédex di tutti i fossili di Galar menzionano che gli stessi Pokémon sono la causa della loro stessa estinzione. Questo potrebbe essere un riferimento all'ipotesi, obsoleta, che i dinosauri fossero evolutivamente inerti; ciò li avrebbe resi più grandi, lenti e stupidi al punto da non potersela cavare. Il fatto che Dracovish non sia in grado di accoppiarsi potrebbe essere un riferimento agli animali ibridi, quindi sterili. ",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Fossile",
+    "sprites": {
+        "dracovish": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0882.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0882.png"
+        }
+    },
+    "stats": {
+        "dracovish": {
+            "hp": 90,
+            "atk": 90,
+            "def": 100,
+            "spa": 70,
+            "spd": 80,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "dracovish": 505
+    },
+    "types": {
+        "dracovish": [
+            "Acqua",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "dracovish": "215,0 kg"
+    }
+}

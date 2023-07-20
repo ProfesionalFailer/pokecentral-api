@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "buizel": {
+            "primary": "Nuotovelox",
+            "hidden": "Idrovelo"
+        }
+    },
+    "curiosities": [
+        "Buizel è stato rivelato in largo anticipo nel marzo del 2006 in promozione col film Pokémon Ranger e il Tempio del Mare, insieme a Mantyke e Chatot."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/buizel.mp3",
+    "dex_entries": {
+        "buizel": {
+            "diamond": "Ha un collare che funge da galleggiante. Quando nuota, la sua testa rimane sempre fuori dall'acqua.",
+            "pearl": "Nuota roteando le due code come fossero viti. Quando si immerge, il suo galleggiante si sgonfia.",
+            "platinum": "Usa le sue due code come eliche per spostarsi nell'acqua e con esse taglia anche le alghe che s'impigliano.",
+            "heartgold": "Gonfia il suo collare galleggiante e nuota con la testa fuori dall'acqua in cerca di prede terrestri.",
+            "soulsilver": "Gonfia il suo collare galleggiante e nuota con la testa fuori dall'acqua in cerca di prede terrestri.",
+            "black": "Usa le sue due code come eliche per spostarsi nell'acqua e con esse taglia anche le alghe che s'impigliano.",
+            "white": "Usa le sue due code come eliche per spostarsi nell'acqua e con esse taglia anche le alghe che s'impigliano.",
+            "black-2": "Gonfia il salvagente che ha attorno al collo per mantenere la testa fuori dall'acqua mentre controlla i paraggi.",
+            "white-2": "Gonfia il salvagente che ha attorno al collo per mantenere la testa fuori dall'acqua mentre controlla i paraggi.",
+            "x": "Nuota roteando le due code come fossero viti. Quando si immerge, il suo galleggiante si sgonfia.",
+            "y": "Gonfia il salvagente che ha attorno al collo per mantenere la testa fuori dall'acqua mentre controlla i paraggi.",
+            "omega-ruby": "Nuota roteando le due code come fossero viti. Quando si immerge, il suo galleggiante si sgonfia.",
+            "alpha-sapphire": "Gonfia il salvagente che ha attorno al collo per mantenere la testa fuori dall'acqua mentre controlla i paraggi.",
+            "brilliant-diamond": "Se riempito d'aria, il suo collare si gonfia come un galleggiante. Quando nuota, la sua testa rimane sempre fuori dall'acqua.",
+            "shining-pearl": "Nuota roteando le due code come fosse una vite. Quando si immerge, il suo galleggiante si sgonfia.",
+            "legends-arceus": "Si muove liberamente in acqua per mezzo della forza propulsiva delle due code che ricordano, del tutto fortuitamente, l'elica d'un vaporetto.",
+            "scarlet": "Facendo girare le sue code a mo’ di elica si sposta nell’acqua e riesce anche a falciare le alghe quando rimane impigliato.",
+            "violet": "Gonfia il suo collare galleggiante e rimane con la testa fuori dall’acqua in cerca di prede sulla terraferma."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "generation": 4,
+    "height": {
+        "buizel": "0,7 m"
+    },
+    "id": 418,
+    "name": "Buizel",
+    "name_origin": "Deriva dalle parole buoy  e weasel . ",
+    "origin": "Basato su una lontra con caratteristiche di una donnola. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Maridonnola",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/5/56/Homem0418.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homemsh0418.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/3/35/Homef0418.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homefsh0418.png"
+        }
+    },
+    "stats": {
+        "buizel": {
+            "hp": 55,
+            "atk": 65,
+            "def": 35,
+            "spa": 60,
+            "spd": 30,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "buizel": 330
+    },
+    "types": {
+        "buizel": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "buizel": "29,5 kg"
+    }
+}

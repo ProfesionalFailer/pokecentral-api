@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "cutiefly": {
+            "primary": "Mielincetta",
+            "secondary": "Polvoscudo",
+            "hidden": "Dolcevelo"
+        }
+    },
+    "curiosities": [
+        "È l'unico Pokémon, introdotto finora, insieme alla sua evoluzione, a possedere la combinazione di tipi Coleottero/Folletto.",
+        "Cutiefly, assieme alla sua evoluzione, sono gli unici Pokémon appartenenti sia al Gruppo Uova Coleottero che al Gruppo Uova Magico.",
+        "Cutiefly è, assieme a Joltik, Flabébé, Comfey e Cosmoem il Pokémon più piccolo.",
+        "Cutiefly è il Pokémon di tipo Coleottero più leggero."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cutiefly.mp3",
+    "dex_entries": {
+        "cutiefly": {
+            "sun": "Si nutre di nettare e polline. È in grado di percepire l’aura di tutte le cose intorno a sé e avverte quando un fiore sta per sbocciare.",
+            "moon": "Svolazzano numerosi sulla testa di persone che emanano un’aura somigliante in qualche modo a quella dei fiori.",
+            "ultra-sun": "Adora il nettare e il polline. Lo si vede spesso nei prati mentre bisticcia con i Butterfree per accaparrarsi il cibo.",
+            "ultra-moon": "Percepisce l'aura degli esseri viventi, riuscendo così ad anticipare i loro movimenti. Per questo ha sempre la meglio sui nemici.",
+            "sword": "Adora il nettare e il polline. Svolazza vicino a Gossifleur attirato dal suo polline.",
+            "shield": "Prevede la prossima mossa del nemico percependone l'aura. Schiva agilmente i suoi colpi e poi contrattacca."
+        }
+    },
+    "egg_groups": [
+        "Coleottero",
+        "Magico"
+    ],
+    "generation": 7,
+    "height": {
+        "cutiefly": "0,1 m"
+    },
+    "id": 742,
+    "name": "Cutiefly",
+    "name_origin": "Cutiefly potrebbe essere una combinazione di cutie-pie, carino e bee fly, bombilide. Abuly potrebbe essere una combinazione di 吊虻 tsuriabu, bombilide, lovely, amorevole e フェアリー fairy, fata. ",
+    "origin": "Cutiefly sembra essere basato su di un bombilide, in particolare la specie Anastoechus nitidulus. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Bombilide",
+    "sprites": {
+        "cutiefly": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b5/Homem0742.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f1/Homemsh0742.png"
+        }
+    },
+    "stats": {
+        "cutiefly": {
+            "hp": 40,
+            "atk": 45,
+            "def": 40,
+            "spa": 55,
+            "spd": 40,
+            "spe": 84
+        }
+    },
+    "stats_sum": {
+        "cutiefly": 304
+    },
+    "types": {
+        "cutiefly": [
+            "Folletto",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "cutiefly": "0,2 kg"
+    }
+}

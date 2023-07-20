@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "wo-chien": {
+            "primary": "Amuleto Nefasto"
+        }
+    },
+    "curiosities": [
+        "Wo-Chien è uno dei Pokémon con caratteri non alfabetici nel nome.",
+        "È uno dei Pokémon con più debolezze, ben 7."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wo-chien.mp3",
+    "dex_entries": {
+        "wo-chien": {
+            "scarlet": "Prese vita quando delle foglie secche si unirono all'astio di una persona punita per aver scritto le malefatte di un re su delle tavolette di legno.",
+            "violet": "Riesce ad assorbire l'energia vitale della vegetazione, facendo seccare all'istante i boschi e rendendo sterili i campi."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 9,
+    "height": {
+        "wo-chien": "1,5 m"
+    },
+    "id": 1000,
+    "name": "Wo-Chien",
+    "name_origin": "Wo-Chien potrebbe essere una combinazione di 蝸 / 蜗 wō  e 簡 / 简 jiǎn . Chionjen potrebbe essere una combinazione di 蟲 / 虫 chóng  e 簡 / 简 jiǎn . ",
+    "origin": "Secondo la professoressa Morasia, questo Pokémon, assieme al Quartetto nefasto, in realtà sarebbe un dono offerto a un re. Dopo che i Pokémon leggendari videro la malizia di quest'ultimo, scatenarono la loro furia sul tiranno e, pertanto, furono sigillati in degli appositi templi a Paldea. ",
+    "shape": "None",
+    "specie": "Pokémon Disgrazia",
+    "sprites": {
+        "wo-chien": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem1001.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh1001.png"
+        }
+    },
+    "stats": {
+        "wo-chien": {
+            "hp": 85,
+            "atk": 85,
+            "def": 100,
+            "spa": 95,
+            "spd": 135,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "wo-chien": 570
+    },
+    "types": {
+        "wo-chien": [
+            "Erba",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "wo-chien": "74,2 kg"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "cranidos": {
+            "primary": "Rompiforma",
+            "hidden": "Forzabruta"
+        }
+    },
+    "curiosities": [
+        "Cranidos e la sua evoluzione Rampardos sono gli unici Pokémon Fossile ad essere esclusivamente di tipo Roccia, tutti gli altri hanno un tipo secondario.",
+        "Cranidos è il Pokémon non evoluto con la statistica base di Attacco più alta.\n\tInoltre, ha la statistica base di Difesa più bassa di tutti i Pokémon di tipo Roccia.",
+        "Inoltre, ha la statistica base di Difesa più bassa di tutti i Pokémon di tipo Roccia.",
+        "Anche se è detto che Cranidos usa come arma principale la testa, non poteva imparare Metaltestata fino a Pokémon Platino. Inoltre, non può in alcun modo imparare Capocciata né avere l'abilità Testadura.",
+        "Cranidos e Shieldon si evolvono al livello 30, cioè prima di tutti gli altri fossili.",
+        "In Pokémon Spada e Scudo, Shieldon e Cranidos sono gli unici fossili a non essere stati aggiunti con il secondo aggiornamento del Pass di espansione di Pokémon Spada e Scudo, Le terre innevate della corona."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cranidos.mp3",
+    "dex_entries": {
+        "cranidos": {
+            "diamond": "Viveva nella giungla circa 100 milioni di anni fa. Il suo cranio è duro come il ferro.",
+            "pearl": "È stato fatto rivivere da un fossile di ferro simile a una palla. Abbatte le prede con le punte sulla testa.",
+            "platinum": "Abitava nella giungla già 100 milioni di anni fa. Abbatte gli alberi che lo ostacolano con delle testate.",
+            "heartgold": "I CRANIDOS usano rinforzarsi la testa prendendosi a testate tra loro. È pur sempre allenamento.",
+            "soulsilver": "I CRANIDOS usano rinforzarsi la testa prendendosi a testate tra loro. È pur sempre allenamento.",
+            "black": "Abitava nella giungla già 100 milioni di anni fa. Abbatte gli alberi che lo ostacolano con delle testate.",
+            "white": "Abitava nella giungla già 100 milioni di anni fa. Abbatte gli alberi che lo ostacolano con delle testate.",
+            "black-2": "Abitava nella giungla già 100 milioni di anni fa. Abbatte gli alberi che lo ostacolano con delle testate.",
+            "white-2": "Abitava nella giungla già 100 milioni di anni fa. Abbatte gli alberi che lo ostacolano con delle testate.",
+            "x": "È stato fatto rivivere da un fossile di ferro simile a una palla. Abbatte le prede con le punte sulla testa.",
+            "y": "Abitava nella giungla già 100 milioni di anni fa. Abbatte gli alberi che lo ostacolano con delle testate.",
+            "omega-ruby": "È stato fatto rivivere da un fossile di ferro simile a una palla. Abbatte le prede con le punte sulla testa.",
+            "alpha-sapphire": "Abitava nella giungla già 100 milioni di anni fa. Abbatte gli alberi che lo ostacolano con delle testate.",
+            "sun": "Viveva nella giungla circa 100 milioni di anni fa. Si difendeva con potenti testate dal suo nemico naturale Aerodactyl.",
+            "moon": "Nelle zone ricche di fossili di Cranidos si trovano spesso anche numerosi fossili di alberi spezzati.",
+            "ultra-sun": "Pokémon che esisteva in epoca antica, dotato di un cranio duro e resistente ma dall'intelligenza non altrettanto sviluppata.",
+            "ultra-moon": "Era caratterizzato da un cranio durissimo, grazie al quale spezzava gli alberi a testate per poi cibarsi delle bacche mature.",
+            "brilliant-diamond": "Viveva nella giungla circa 100 milioni di anni fa. Il suo cranio è duro come il ferro.",
+            "shining-pearl": "Pokémon dell'antichità, rigenerato a partire da un fossile simile a una palla di ferro. Abbatteva le prede prendendole a testate.",
+            "legends-arceus": "Questi Pokémon si palesano assai di rado. Lottano tra simili cozzando le dure teste, che risuonano come fragorose campane."
+        }
+    },
+    "egg_groups": [
+        "Mostro"
+    ],
+    "generation": 4,
+    "height": {
+        "cranidos": "0,9 m"
+    },
+    "id": 408,
+    "name": "Cranidos",
+    "name_origin": "Deriva dalla parola cranium, cranio. ",
+    "origin": "Basato su un pachicefalosauro. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Cranioso",
+    "sprites": {
+        "cranidos": {
+            "default": "https://media.pokemoncentral.it/wiki/c/ca/Homem0408.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0408.png"
+        }
+    },
+    "stats": {
+        "cranidos": {
+            "hp": 67,
+            "atk": 125,
+            "def": 40,
+            "spa": 30,
+            "spd": 30,
+            "spe": 58
+        }
+    },
+    "stats_sum": {
+        "cranidos": 350
+    },
+    "types": {
+        "cranidos": [
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "cranidos": "31,5 kg"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "kilowattrel": {
+            "primary": "Energia Eolica",
+            "secondary": "Assorbivolt",
+            "hidden": "Tenacia"
+        }
+    },
+    "curiosities": [
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Elettro",
+        "Pokémon di tipo Volante",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Sconosciuto",
+        "Pokémon di colore",
+        "Pokémon dalla sagoma n.",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Acqua 1",
+        "Pokémon di Gruppo Uova Volante",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 490"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kilowattrel.mp3",
+    "dex_entries": {
+        "kilowattrel": {
+            "scarlet": "Gonfia la sacca nella gola per amplificare la sua energia elettrica. Quando vola sfrutta il vento, arrivando a percorrere 700 km in un giorno.",
+            "violet": "Immagazzina nella sacca giugulare l'elettricità generata con le ali. Non avendo molto olio sulle piume, è un pessimo nuotatore."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Volante"
+    ],
+    "generation": 9,
+    "height": {
+        "kilowattrel": "1,4 m"
+    },
+    "id": 941,
+    "name": "Kilowattrel",
+    "name_origin": "Kilowattrel è l'unione di kilowatt e petrel . ",
+    "origin": "Kilowattrel è basato su una fregata, un uccello marino i cui maschi hanno una vistosa sacca golare presente anche in questo pokémon. ",
+    "shape": "None",
+    "specie": "Pokémon Fregata",
+    "sprites": {
+        "kilowattrel": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0d/Homem0941.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0941.png"
+        }
+    },
+    "stats": {
+        "kilowattrel": {
+            "hp": 70,
+            "atk": 70,
+            "def": 60,
+            "spa": 105,
+            "spd": 60,
+            "spe": 125
+        }
+    },
+    "stats_sum": {
+        "kilowattrel": 490
+    },
+    "types": {
+        "kilowattrel": [
+            "Elettro",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "kilowattrel": "38,6 kg"
+    }
+}

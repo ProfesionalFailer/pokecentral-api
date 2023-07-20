@@ -1,0 +1,100 @@
+{
+    "abilities": {
+        "murkrow": {
+            "primary": "Insonnia",
+            "secondary": "Supersorte",
+            "hidden": "Burla"
+        }
+    },
+    "curiosities": [
+        "Prima della quinta generazione Murkrow e Honchkrow avevano una combinazione di tipi unica.",
+        "Murkrow condivide la stessa categoria con Sableye. Entrambi sono noti come Pokémon Oscurità.",
+        "Pur essendo un Pokémon di seconda generazione, era disponibile solo a Kanto in Pokémon Oro, Argento e Cristallo, la stessa cosa vale per Slugma e Houndour. Tutti e tre possono essere ottenuti a Johto via Zona Safari in Oro HeartGold e Argento SoulSilver.",
+        "Nonostante sia stato dimostrato che è in grado di imitare le voci, non può imparare Schiamazzo.",
+        "Murkrow può essere visto come un parallelo di Misdreavus. Entrambi sono Pokémon di seconda generazione che si evolvono tramite Neropietra. Murkrow è esclusivo di Rosso Fuoco, Diamante e Nero mentre Misdreavus è esclusivo di Verde Foglia, Perla e Bianco. In aggiunta, entrambi sembrano essere ispirati alle streghe.",
+        "Murkrow è il Pokémon di tipo Buio più leggero.",
+        "Murkow viene prima di Misdreavus nel Pokédex di Johto, ma Honchkrow viene dopo Mismagius nella parte di Sinnoh del Pokédex Nazionale.",
+        "Murkrow è l'unico Pokémon non di tipo Spettro ad evolversi con una Neropietra.",
+        "Nonostante alcune descrizioni Pokédex dicano che questo Pokémon rubi oggetti di valore come anelli, può imparare la mossa Furto solo tramite MT."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/murkrow.mp3",
+    "dex_entries": {
+        "murkrow": {
+            "gold": "Molti lo temono e lo detestano credendo che porti sfortuna a tutti coloro che lo vedono di notte.",
+            "silver": "Si dice che quando è inseguito attiri il nemico verso oscure montagne, per farlo perdere.",
+            "crystal": "Nasconde in un luogo segreto ogni oggetto che trova. MURKROW e MEOWTH si derubano tra di loro.",
+            "ruby": "MURKROW era temuto e disprezzato poiché si pensava portasse sfortuna. Questo POKéMON mostra un vivo interesse per tutto ciò che luccica e brilla. Arriva persino a tentare di rubare gli anelli alle signore.",
+            "sapphire": "MURKROW era temuto e disprezzato poiché si pensava portasse sfortuna. Questo POKéMON mostra un vivo interesse per tutto ciò che luccica e brilla. Arriva persino a tentare di rubare gli anelli alle signore.",
+            "emerald": "MURKROW era temuto e disprezzato poiché si pensava portasse sfortuna. È attratto da tutto ciò che luccica, arrivando persino a tentare di rubare gli anelli alle signore.",
+            "firered": "Si dice che quando è inseguito attiri il nemico verso oscuri sentieri di montagna, per farlo perdere.",
+            "leafgreen": "Molti lo temono e lo detestano credendo che porti sfortuna a tutti quelli che incontra di notte.",
+            "diamond": "Si dice che l’incontro notturno con questo Pokémon sia un presagio infausto.",
+            "pearl": "Attira gli ignari viaggiatori in fitte foreste. Si dice che porti sfortuna.",
+            "platinum": "Se individuato, cerca di farsi inseguire, per poi far perdere le sue tracce su sentieri di montagna.",
+            "heartgold": "Molti lo temono e lo detestano credendo che porti sfortuna a coloro che lo vedono di notte.",
+            "soulsilver": "Si dice che quando è inseguito attiri il nemico verso montagne buie per farlo perdere.",
+            "black": "Se individuato, cerca di farsi inseguire, per poi far perdere le sue tracce su sentieri di montagna.",
+            "white": "Se individuato, cerca di farsi inseguire, per poi far perdere le sue tracce su sentieri di montagna.",
+            "black-2": "Se individuato, cerca di farsi inseguire, per poi far perdere le sue tracce su sentieri di montagna.",
+            "white-2": "Se individuato, cerca di farsi inseguire, per poi far perdere le sue tracce su sentieri di montagna.",
+            "x": "Nasconde in un luogo segreto ogni oggetto che trova. Murkrow e Meowth si derubano tra di loro.",
+            "y": "Molti lo temono e lo detestano credendo che porti sfortuna a coloro che lo vedono di notte.",
+            "omega-ruby": "Murkrow era temuto e disprezzato poiché si pensava portasse sfortuna. Questo Pokémon mostra un vivo interesse per tutto ciò che luccica e brilla. Arriva persino a tentare di rubare gli anelli alle signore.",
+            "alpha-sapphire": "Murkrow era temuto e disprezzato poiché si pensava portasse sfortuna. Questo Pokémon mostra un vivo interesse per tutto ciò che luccica e brilla. Arriva persino a tentare di rubare gli anelli alle signore.",
+            "sun": "Si sveglia al tramonto e vola nella notte buia. Un vecchio proverbio consiglia di tornare a casa prima che Murkrow si alzi in volo.",
+            "moon": "Molti lo detestano credendo che porti sfortuna. Se si affeziona al suo Allenatore, gli porta in regalo oggetti luccicanti.",
+            "ultra-sun": "Adora gli oggetti luccicanti. La sua brama di tesori lo porta a infiltrarsi nelle tane dei Gabite per rubare le pietre preziose che custodiscono.",
+            "ultra-moon": "Va in cerca di oggetti luccicanti per il suo capo. Molti lo temono e lo detestano credendo che porti sfortuna.",
+            "brilliant-diamond": "Non sono in pochi a credere che se si incontra questo Pokémon di notte, accadrà di sicuro qualcosa di terribile.",
+            "shining-pearl": "Si radunano nelle vicinanze di viaggiatori con l’intenzione di attirarli nel fitto della foresta. Si dice che portino sfortuna.",
+            "legends-arceus": "Ritenuto presagio di sciagure, viene evitato dai più. Si dice che recitare \"Workrum... Workrum...\" scongiuri la malasorte che il suo incontro arreca.",
+            "scarlet": "Molti lo temono e lo detestano credendo che porti sfortuna a chiunque lo veda di notte.",
+            "violet": "Se individuato, cerca di attirare il malcapitato che lo insegue su sentieri di montagna per farlo smarrire."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 2,
+    "height": {
+        "murkrow": "0,5 m"
+    },
+    "id": 198,
+    "name": "Murkrow",
+    "name_origin": "Deriva dalle parole inglesi \"Murky\"  e \"Crow\" , oppure da \"Murder\" . ",
+    "origin": "Murkrow è ispirato ai corvi, più specificatamente alle cornacchie nere, ma il becco di colore giallo lo riconduce anche al merlo. La sua cresta ricorda quella delle Aquile Black-Hawk, oppure potrebbe essere ispirato a un cappello da strega, cosi come la sua coda ricorda una scopa ricordando dunque una strega in volo. Potrebbe anche essere ispirato a una gang di teppisti, visto che loro sono sempre sotto la guida di un Honchkrow, la capacità di imitare i suoi è un riferimento al fatto che i corvi pure possono imitare i suoni. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Oscurità",
+    "sprites": {
+        "": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e2/Homem0198.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/73/Homemsh0198.png"
+        },
+        "-f": {
+            "default": "https://media.pokemoncentral.it/wiki/3/38/Homef0198.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homefsh0198.png"
+        }
+    },
+    "stats": {
+        "murkrow": {
+            "hp": 60,
+            "atk": 85,
+            "def": 42,
+            "spa": 85,
+            "spd": 42,
+            "spe": 91
+        }
+    },
+    "stats_sum": {
+        "murkrow": 405
+    },
+    "types": {
+        "murkrow": [
+            "Buio",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "murkrow": "2,1 kg"
+    }
+}

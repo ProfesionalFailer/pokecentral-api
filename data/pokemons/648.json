@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Leggiadro"
+        }
+    },
+    "curiosities": [
+        "In quinta generazione Meloetta Forma Danza aveva una combinazione di tipi unica.",
+        "Nonostante sia basato su una cantante e una ballerina, Meloetta è di sesso sconosciuto.\n\tNonostante questo, nell'anime sembra essere femmina visto che Oshawott e Piplup si innamorano di lei.",
+        "Nonostante questo, nell'anime sembra essere femmina visto che Oshawott e Piplup si innamorano di lei."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/meloetta.mp3",
+    "dex_entries": {
+        "meloetta": {
+            "black": "Controlla a suo piacimento le emozioni di coloro che ascoltano i suoi singolari vocalizzi.",
+            "white": "Sono molte le canzoni composte traendo ispirazione dalla melodia suonata da Meloetta.",
+            "black-2": "Canta una melodia che ha il potere di portare la gioia o la tristezza nel cuore dei Pokémon che l'ascoltano.",
+            "white-2": "Canta una melodia che ha il potere di portare la gioia o la tristezza nel cuore dei Pokémon che l'ascoltano.",
+            "x": "Canta una melodia che ha il potere di portare la gioia o la tristezza nel cuore dei Pokémon che l'ascoltano.",
+            "y": "Controlla a suo piacimento le emozioni di coloro che ascoltano i suoi singolari vocalizzi.",
+            "omega-ruby": "Canta una melodia che ha il potere di portare la gioia o la tristezza nel cuore dei Pokémon che l'ascoltano.",
+            "alpha-sapphire": "Controlla a suo piacimento le emozioni di coloro che ascoltano i suoi singolari vocalizzi."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "generation": 5,
+    "height": {
+        "meloetta": "0,6 m"
+    },
+    "id": 648,
+    "name": "Meloetta",
+    "name_origin": "Il suo nome probabilmente deriva dalla parola greca melòs . ",
+    "origin": "Meloetta è basata su una cantante nella Forma Canto, e nella Forma Danza su una ballerina. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Melodia",
+    "sprites": {
+        "forma-canto": {
+            "default": "https://media.pokemoncentral.it/wiki/7/75/Homem0648.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0648.png"
+        },
+        "forma-danza": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ec/Homem0648D.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0648D.png"
+        }
+    },
+    "stats": {
+        "forma-canto": {
+            "hp": 100,
+            "atk": 77,
+            "def": 77,
+            "spa": 128,
+            "spd": 128,
+            "spe": 90
+        },
+        "forma-danza": {
+            "hp": 100,
+            "atk": 128,
+            "def": 90,
+            "spa": 77,
+            "spd": 77,
+            "spe": 128
+        }
+    },
+    "stats_sum": {
+        "forma-canto": 600,
+        "forma-danza": 600
+    },
+    "types": {
+        "forma-canto": [
+            "Psico",
+            "Normale"
+        ],
+        "forma-danza": [
+            "Normale",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "meloetta": "6,5 kg"
+    }
+}

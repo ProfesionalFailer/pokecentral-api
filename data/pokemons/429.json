@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "mismagius": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "Mismagius ha le stesse statistiche base in PS, Attacco e Difesa della sua pre-evoluzione Misdreavus, ma Attacco Speciale, Difesa Speciale e Velocità sono superiori .",
+        "È l'unico Pokémon di tipo Spettro ad apprendere Fogliamagica aumentando di livello."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mismagius.mp3",
+    "dex_entries": {
+        "mismagius": {
+            "diamond": "I suoi versi sembrano incantesimi. Chi li sente è tormentato da emicranie e allucinazioni.",
+            "pearl": "Recita incantesimi che tormentano il nemico. Tuttavia, alcune formule portano felicità.",
+            "platinum": "I suoi versi sembrano incantesimi. Pare che a volte contengano un potere che porta felicità.",
+            "heartgold": "Tormenta i malcapitati con un verso simile a formule magiche. Appare dovunque in qualsiasi momento.",
+            "soulsilver": "Tormenta i malcapitati con un verso simile a formule magiche. Appare dovunque in qualsiasi momento.",
+            "black": "I suoi versi sembrano incantesimi. Pare che a volte contengano un potere che porta felicità.",
+            "white": "I suoi versi sembrano incantesimi. Pare che a volte contengano un potere che porta felicità.",
+            "black-2": "I suoi versi sembrano incantesimi. Pare che a volte contengano un potere che porta felicità.",
+            "white-2": "I suoi versi sembrano incantesimi. Pare che a volte contengano un potere che porta felicità.",
+            "x": "Recita incantesimi che tormentano il nemico. Tuttavia, alcune formule portano felicità.",
+            "y": "Tormenta i malcapitati con un verso simile a formule magiche. Appare dovunque in qualsiasi momento.",
+            "omega-ruby": "Recita incantesimi che tormentano il nemico. Tuttavia, alcune formule portano felicità.",
+            "alpha-sapphire": "Tormenta i malcapitati con un verso simile a formule magiche. Appare dovunque in qualsiasi momento.",
+            "sun": "Appare dal nulla recitando formule magiche che causano sventura o provocano spaventose visioni.",
+            "moon": "Conosce formule magiche e incantesimi d'amore. Molti fanno della sua ricerca la loro ragione di vita.",
+            "ultra-sun": "È temuto perché lancia maledizioni e causa sventure, ma a volte decide di usare i suoi incantesimi per aiutare le persone.",
+            "ultra-moon": "Infligge tormenti al nemico recitando formule malefiche che causano terribili emicranie o provocano spaventose visioni.",
+            "brilliant-diamond": "I suoi versi sembrano incantesimi. Chi li sente è tormentato da emicranie e allucinazioni.",
+            "shining-pearl": "Degli incantesimi che recita, alcuni tormentano il nemico, ma altri sono in grado di portare la felicità.",
+            "legends-arceus": "Invitato assai gradito in ogni casa per i suoi incantesimi apotropaici. Nondimeno, è bene non indisporlo o apporterà grandi sciagure.",
+            "scarlet": "Il suo verso sembra una formula magica e si dice che, in rari casi, abbia l’effetto di rendere felice chi lo ascolta.",
+            "violet": "Tormenta i malcapitati con un verso sinistro simile a formule magiche. È un Pokémon sfuggente che appare e scompare all’improvviso."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "generation": 4,
+    "height": {
+        "mismagius": "0,9 m"
+    },
+    "id": 429,
+    "name": "Mismagius",
+    "name_origin": "Mismagius ha origine da mischievous , magic  e magus . Mumargi potrebbe essere una combinazione di 夢魔 muma e mage o magic. ",
+    "origin": "Mismagius è basato su un mago o una strega, ma anche sulla creatura mitologica della banshee. La sua colorazione potrebbe essere un riferimento al Nasu-babā, uno Yōkai con la pelle viola, mentre la sua forma ricorda un teru teru bōzu ",
+    "shape": "testa",
+    "specie": "Pokémon Stregone",
+    "sprites": {
+        "mismagius": {
+            "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0429.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0429.png"
+        }
+    },
+    "stats": {
+        "mismagius": {
+            "hp": 60,
+            "atk": 60,
+            "def": 60,
+            "spa": 105,
+            "spd": 105,
+            "spe": 105
+        }
+    },
+    "stats_sum": {
+        "mismagius": 495
+    },
+    "types": {
+        "mismagius": [
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "mismagius": "4,4 kg"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "hitmontop": {
+            "primary": "Prepotenza",
+            "secondary": "Tecnico",
+            "hidden": "Cuordeciso"
+        }
+    },
+    "curiosities": [
+        "A differenza di Hitmonlee e Hitmonchan, il nome di Hitmontop non deriva in nessuna lingua da persone famose.",
+        "Hitmontop può imparare più mosse di priorità di ogni altro Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/hitmontop.mp3",
+    "dex_entries": {
+        "hitmontop": {
+            "gold": "Se ci si fa incantare dall'elegante danza dei suoi calci, si rischia di ricevere una bella lezione.",
+            "silver": "Gira su se stesso tirando calci. Se gira molto velocemente può scavare una fossa nel terreno.",
+            "crystal": "Prima esegue una verticale per spiazzare il nemico, poi parte con i suoi calci spettacolari.",
+            "ruby": "HITMONTOP fa roteare la testa ad alta velocità sferrando calci violenti. Questa tecnica è molto efficace sia in attacco che in difesa. Il POKéMON si muove molto più velocemente roteando che non camminando.",
+            "sapphire": "HITMONTOP fa roteare la testa ad alta velocità sferrando calci violenti. Questa tecnica è molto efficace sia in attacco che in difesa. Il POKéMON si muove molto più velocemente roteando che non camminando.",
+            "emerald": "HITMONTOP fa roteare la testa velocemente sferrando calci violenti, tecnica efficace sia in attacco che in difesa e utile per muoversi con rapidità.",
+            "firered": "Gira su se stesso tirando calci. Se gira molto velocemente può scavare una fossa nel terreno.",
+            "leafgreen": "Se ci si fa incantare dall'elegante danza dei suoi calci, si rischia di ricevere una bella lezione.",
+            "diamond": "Combatte mentre gira come una trottola. La forza centrifuga decuplica il suo potere distruttivo.",
+            "pearl": "Combatte mentre gira come una trottola. La forza centrifuga decuplica il suo potere distruttivo.",
+            "platinum": "Combatte mentre gira come una trottola. La forza centrifuga decuplica il suo potere distruttivo.",
+            "heartgold": "Se ci si fa incantare dall'elegante danza dei suoi calci, si rischia di ricevere una bella lezione.",
+            "soulsilver": "Gira su se stesso tirando calci. Se gira molto velocemente può scavare una fossa nel terreno.",
+            "black": "Combatte mentre gira come una trottola. La forza centrifuga decuplica il suo potere distruttivo.",
+            "white": "Combatte mentre gira come una trottola. La forza centrifuga decuplica il suo potere distruttivo.",
+            "black-2": "Combatte mentre gira come una trottola. La forza centrifuga decuplica il suo potere distruttivo.",
+            "white-2": "Combatte mentre gira come una trottola. La forza centrifuga decuplica il suo potere distruttivo.",
+            "x": "Combatte mentre gira come una trottola. La forza centrifuga decuplica il suo potere distruttivo.",
+            "y": "Se ci si fa incantare dall'elegante danza dei suoi calci, si rischia di ricevere una bella lezione.",
+            "omega-ruby": "Hitmontop fa roteare la testa ad alta velocità sferrando calci violenti. Questa tecnica è molto efficace sia in attacco che in difesa. Il Pokémon si muove molto più velocemente roteando che non camminando.",
+            "alpha-sapphire": "Hitmontop fa roteare la testa ad alta velocità sferrando calci violenti. Questa tecnica è molto efficace sia in attacco che in difesa. Il Pokémon si muove molto più velocemente roteando che non camminando.",
+            "sword": "Gira su se stesso tirando calci. Se gira molto velocemente può scavare una fossa nel terreno.",
+            "shield": "Prima esegue una verticale per spiazzare il nemico, poi parte con i suoi calci spettacolari.",
+            "brilliant-diamond": "Lotta girando come una trottola. La forza centrifuga decuplica il suo potere distruttivo.",
+            "shining-pearl": "Lotta girando come una trottola. La forza centrifuga decuplica il suo potere distruttivo."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "generation": 2,
+    "height": {
+        "hitmontop": "1,4 m"
+    },
+    "id": 237,
+    "name": "Hitmontop",
+    "name_origin": "Il suo nome è formato dall'unione delle parole inglesi hit , mon , e top , forse a significare \"il mostro che colpisce come una trottola\". Il suo nome è simile a quello delle sue due evoluzioni parallele, Hitmonchan e Hitmonlee. ",
+    "origin": "Hitmontop potrebbe essere basato su un breakdancer. La relazione tra il tipo Lotta e la danza è confermata da Meloetta. Potrebbe essere basato anche su di un lottatore di Capoeira. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Verticale",
+    "sprites": {
+        "hitmontop": {
+            "default": "https://media.pokemoncentral.it/wiki/0/08/Homem0237.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/eb/Homemsh0237.png"
+        }
+    },
+    "stats": {
+        "hitmontop": {
+            "hp": 50,
+            "atk": 95,
+            "def": 95,
+            "spa": 35,
+            "spd": 110,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "hitmontop": 455
+    },
+    "types": {
+        "hitmontop": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "hitmontop": "48,0 kg"
+    }
+}

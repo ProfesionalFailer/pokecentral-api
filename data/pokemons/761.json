@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "bounsweet": {
+            "primary": "Fogliamanto",
+            "secondary": "Indifferenza",
+            "hidden": "Dolcevelo"
+        }
+    },
+    "curiosities": [
+        "Buonsweet condivide la sua categoria con Tropius, Steenee e Tsareena, essendo noti tutti e quattro come Pokémon Frutto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bounsweet.mp3",
+    "dex_entries": {
+        "bounsweet": {
+            "sun": "Emana dal corpo un profumino delizioso, che per sua sfortuna spinge i Toucannon a inghiottirlo in un solo boccone.",
+            "moon": "Il suo sudore è eccessivamente dolce, ma se viene diluito con la quantità giusta d’acqua diventa una bevanda gradevolmente zuccherata.",
+            "ultra-sun": "A causa del suo profumino delizioso, Bounsweet è preda di molti Pokémon alati, ma non essendo molto perspicace non se ne preoccupa granché.",
+            "ultra-moon": "Quando un Pokémon alato sta per inghiottirlo, Bounsweet cerca di resistere ruotando le foglie che ha sul capo, con scarsi risultati.",
+            "sword": "Il dolce profumo fruttato che sprigiona il suo corpo stimola notevolmente l'appetito dei Pokémon alati.",
+            "shield": "Quando viene attaccato produce un sudore dolce e delizioso, il cui profumo attira ulteriori nemici.",
+            "scarlet": "In tempi antichi, quando i cibi dolci erano rari, questo Pokémon era molto apprezzato per via del suo sudore dolce come marmellata.",
+            "violet": "Attirati dal suo dolce profumo, i Greedent mettono spesso questo Pokémon tra le bacche che portano nella coda."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "generation": 7,
+    "height": {
+        "bounsweet": "0,3 m"
+    },
+    "id": 761,
+    "name": "Bounsweet",
+    "name_origin": "Bounsweet potrebbe essere una combinazione di bounce, balzo, riferito alla sua abitudine di scappare balzando, e sweet, dolce, riferito al suo buon profumo. Amakaji potrebbe essere una combinazione di 甘い amai, dolce, e 果実 kajitsu, frutto. ",
+    "origin": "Bounsweet è ispirato ad un mangostano, oppure ad una Pitaya, frutto tipico hawaiiano chiamato anche \"frutto del drago\" per il suo aspetto che lo fa sembrare costantemente in fiamme. ",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Frutto",
+    "sprites": {
+        "bounsweet": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a5/Homef0761.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homefsh0761.png"
+        }
+    },
+    "stats": {
+        "bounsweet": {
+            "hp": 42,
+            "atk": 30,
+            "def": 38,
+            "spa": 30,
+            "spd": 38,
+            "spe": 32
+        }
+    },
+    "stats_sum": {
+        "bounsweet": 210
+    },
+    "types": {
+        "bounsweet": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "bounsweet": "3,2 kg"
+    }
+}

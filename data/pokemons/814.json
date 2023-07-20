@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "raboot": {
+            "primary": "Aiutofuoco",
+            "hidden": "Libero"
+        }
+    },
+    "curiosities": [
+        "Raboot e Scorbunny condividono la loro categoria con Buneary e Lopunny. Tutti e quattro sono conosciuti come Pokémon Coniglio.",
+        "Raboot e la sua linea evolutiva sono gli unici Pokémon di tipo Fuoco puro introdotti in ottava generazione.",
+        "Raboot è il Pokémon più leggero tra i primi stadi evolutivi di un Pokémon iniziale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/raboot.mp3",
+    "dex_entries": {
+        "raboot": {
+            "sword": "Grazie alla folta pelliccia resiste al freddo ed è in grado di sferrare mosse infuocate a temperature ancora più alte.",
+            "shield": "Per perfezionare i suoi calci, si esercita prendendo le bacche dai rami degli alberi e palleggiando senza usare le mani."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Umanoide"
+    ],
+    "generation": 8,
+    "height": {
+        "raboot": "0,6 m"
+    },
+    "id": 814,
+    "name": "Raboot",
+    "name_origin": "Raboot potrebbe essere una combinazione delle parole rabbit, coniglio, boot, calcio, e foot, piede, o soot, fuliggine. Rabbifuto potrebbe essere una combinazione delle parole rabbit, coniglio, e foot, piede. ",
+    "origin": "Raboot potrebbe essere basato su un coniglio. Alcuni suoi elementi estetici potrebbero essere basati sugli abiti d'allenamento indossati dagli atleti. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Coniglio",
+    "sprites": {
+        "raboot": {
+            "default": "https://media.pokemoncentral.it/wiki/2/27/Homem0814.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0814.png"
+        }
+    },
+    "stats": {
+        "raboot": {
+            "hp": 65,
+            "atk": 86,
+            "def": 60,
+            "spa": 55,
+            "spd": 60,
+            "spe": 94
+        }
+    },
+    "stats_sum": {
+        "raboot": 420
+    },
+    "types": {
+        "raboot": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "raboot": "9,0 kg"
+    }
+}

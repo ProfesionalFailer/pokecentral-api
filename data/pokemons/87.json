@@ -1,0 +1,91 @@
+{
+    "abilities": {
+        "dewgong": {
+            "primary": "Grassospesso",
+            "secondary": "Idratazione",
+            "hidden": "Corpogelo"
+        }
+    },
+    "curiosities": [
+        "In origine, il nome inglese di Dewgong era \"Manaty\".",
+        "Dewgong è il primo Pokémon Ghiaccio secondo l'ordine del Pokédex Nazionale.",
+        "Dewgong e la linea evolutiva di Spheal sono i soli Pokémon ad avere una \"tripla resistenza\", grazie all'abilità Grassospesso.",
+        "Nello sprite di Pokémon Smeraldo, Dewgong possiede una lingua blu, mentre in tutti gli altri sprite è rossa.",
+        "Seel e Dewgong condividono la stessa categoria con Popplio: tutti e tre sono conosciuti come Pokémon otaria."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dewgong.mp3",
+    "dex_entries": {
+        "dewgong": {
+            "red": "Accumula energia termica nel suo corpo. Nuota a 8 nodi costanti anche in acqua molto fredda.",
+            "blue": "Accumula energia termica nel suo corpo. Nuota a 8 nodi costanti anche in acqua molto fredda.",
+            "yellow": "Il suo corpo è bianco candido. Riesce a nuotare velocissimo anche in acque congelate.",
+            "gold": "Il suo corpo affusolato ha poco attrito nell'acqua. Le basse temperature lo rendono vivace.",
+            "silver": "Ama le acque gelide, in cui galleggia il ghiaccio. Muovendo la coda, può cambiare rapidamente direzione.",
+            "crystal": "Di giorno dorme nell'oceano, a poca profondità. Di notte, quando fa più freddo, ricerca il cibo.",
+            "ruby": "DEWGONG adora riposare su una gelida lastra di ghiaccio. In passato i marinai confondevano l'immagine di questo POKéMON addormentato sulla superficie gelata con una sirena.",
+            "sapphire": "DEWGONG adora riposare su una gelida lastra di ghiaccio. In passato i marinai confondevano l'immagine di questo POKéMON addormentato sulla superficie gelata con una sirena.",
+            "emerald": "DEWGONG adora riposare su una gelida lastra di ghiaccio. In passato i marinai scambiavano questo POKéMON addormentato sulla superficie gelata per una sirena.",
+            "firered": "Ha il corpo ricoperto da una candida pelliccia bianca. Più fa freddo, più questo POKéMON è attivo.",
+            "leafgreen": "Accumula energia termica nel suo corpo. Nuota a 8 nodi costanti anche in acque molto fredde.",
+            "diamond": "Ha il corpo ricoperto da una pelliccia bianca che, sulla neve, lo rende meno visibile ai predatori.",
+            "pearl": "Ha il corpo ricoperto da una pelliccia bianca che, sulla neve, lo rende meno visibile ai predatori.",
+            "platinum": "Ha il corpo ricoperto da una pelliccia bianca che, sulla neve, lo rende meno visibile ai predatori.",
+            "heartgold": "Il suo corpo affusolato ha poco attrito nell'acqua. Le basse temperature lo rendono vivace.",
+            "soulsilver": "Ama le acque gelide dove galleggia il ghiaccio. Muovendo la coda, può cambiare rapidamente direzione.",
+            "black": "Ha il corpo ricoperto da una pelliccia bianca che, sulla neve, lo rende meno visibile ai predatori.",
+            "white": "Ha il corpo ricoperto da una pelliccia bianca che, sulla neve, lo rende meno visibile ai predatori.",
+            "black-2": "Il suo corpo affusolato subisce meno attrito con l'acqua e può sfrecciare nel mare gelato alla velocità di 8 nodi.",
+            "white-2": "Il suo corpo affusolato subisce meno attrito con l'acqua e può sfrecciare nel mare gelato alla velocità di 8 nodi.",
+            "x": "Ha il corpo ricoperto da una candida pelliccia bianca. Più fa freddo, più questo Pokémon è attivo.",
+            "y": "Il suo corpo affusolato ha poco attrito nell'acqua. Le basse temperature lo rendono vivace.",
+            "omega-ruby": "Dewgong adora riposare su una gelida lastra di ghiaccio. In passato i marinai confondevano il profilo di questo Pokémon addormentato sulla superficie gelata con una sirena.",
+            "alpha-sapphire": "Dewgong adora riposare su una gelida lastra di ghiaccio. In passato i marinai confondevano il profilo di questo Pokémon addormentato sulla superficie gelata con una sirena.",
+            "ultra-sun": "Nuota nel mare alla velocità di 8 nodi alla ricerca dei Pokémon di cui si nutre. È particolarmente ghiotto di Wishiwashi.",
+            "ultra-moon": "Dopo mangiato prende il sole sulla spiaggia per far aumentare la sua temperatura corporea e favorire la digestione.",
+            "lets-go-pikachu": "Il suo corpo è bianco come la neve. Non soffre il freddo e nuota senza problemi anche in acque gelide.",
+            "lets-go-eevee": "Il suo corpo è bianco come la neve. Non soffre il freddo e nuota senza problemi anche in acque gelide."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "generation": 1,
+    "height": {
+        "dewgong": "1,7 m"
+    },
+    "id": 87,
+    "name": "Dewgong",
+    "name_origin": "Dewgong è l'unione delle parole inglesi dew e dugong. ",
+    "origin": "Dewgong si basa sull'otaria, sul dugongo e sulla sirena, in quanto i dugonghi in passato venivano scambiati dai marinai per delle sirene. ",
+    "shape": "pinne",
+    "specie": "Pokémon Otaria",
+    "sprites": {
+        "dewgong": {
+            "default": "https://media.pokemoncentral.it/wiki/6/69/Homem0087.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0087.png"
+        }
+    },
+    "stats": {
+        "dewgong": {
+            "hp": 90,
+            "atk": 70,
+            "def": 80,
+            "spa": 70,
+            "spd": 95,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "dewgong": 475
+    },
+    "types": {
+        "dewgong": [
+            "Ghiaccio",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "dewgong": "120,0 kg"
+    }
+}

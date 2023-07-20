@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "dhelmise": {
+            "primary": "Tempracciaio"
+        }
+    },
+    "curiosities": [
+        "Dhelmise ha la statistica base di Attacco più alta di tutti i tipi Erba e Spettro.",
+        "Dhelmise è l'unico Pokémon non di tipo Acqua che si può trovare selvatico solo pescando.",
+        "Dhelmise è l'unico Pokémon con un totale di statistiche base pari a 517.",
+        "Dhelmise è l'unico Pokémon a ricevere di fatto tre bonus di tipo: due sono acquisiti dal doppio tipo Erba/Spettro, mentre il terzo è dato dalla sua abilità, che aumenta la potenza delle mosse di tipo Acciaio del 50%."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dhelmise.mp3",
+    "dex_entries": {
+        "dhelmise": {
+            "sun": "Roteando l'enorme ancora, è capace di mandare KO con un solo colpo persino un Wailord. Il suo vero corpo è composto da alghe verdi.",
+            "moon": "È la reincarnazione dello spirito delle alghe marine. Si protegge stringendo a sé i rifiuti che trova in mare avvolgendoli nelle sue alghe.",
+            "ultra-sun": "Ruba l’energia vitale della preda avvolgendola con le sue alghe verdi. Prende di mira solo i Pokémon di grossa stazza come Wailord.",
+            "ultra-moon": "Le sue alghe formano una specie di catena che può allungarsi per diverse centinaia di metri. Per qualche strano motivo, va d'accordo con Skrelp.",
+            "sword": "Alcune alghe, impigliandosi a dei pezzi di relitti sul fondo del mare, si sono tramutate in questo Pokémon di tipo Spettro.",
+            "shield": "Cattura le prede calando la sua ancora in mare. Riesce ad assorbire l'energia vitale persino di Pokémon enormi come Wailord."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 7,
+    "height": {
+        "dhelmise": "3,9 m"
+    },
+    "id": 781,
+    "name": "Dhelmise",
+    "name_origin": "Dhelmise è una combinazione tra demise  e helm . Dadarin è una combinazione tra 祟り tatari  e 舵輸 darin . ",
+    "origin": "",
+    "shape": "quadrupede",
+    "specie": "Pokémon Brandellalga",
+    "sprites": {
+        "dhelmise": {
+            "default": "https://media.pokemoncentral.it/wiki/8/81/Homem0781.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/15/Homemsh0781.png"
+        }
+    },
+    "stats": {
+        "dhelmise": {
+            "hp": 70,
+            "atk": 131,
+            "def": 100,
+            "spa": 86,
+            "spd": 90,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "dhelmise": 517
+    },
+    "types": {
+        "dhelmise": [
+            "Erba",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "dhelmise": "210,0 kg"
+    }
+}

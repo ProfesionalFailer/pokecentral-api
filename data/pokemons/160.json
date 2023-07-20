@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "feraligatr": {
+            "primary": "Acquaiuto",
+            "hidden": "Forzabruta"
+        }
+    },
+    "curiosities": [
+        "Feraligatr è la più alta  forma evolutiva finale di un Pokémon starter di tipo acqua.",
+        "Feraligatr raggiunge il suo stadio evolutivo finale al livello 30, prima di qualsiasi di altro Pokémon starter. Casualmente la sua prima forma evolutiva, Totodile, si evolve al livello 18, che insieme a Turtwig è l'evoluzione più tarda tra le prime forme degli starter.",
+        "La mancanza di una vocale tra la T e la R e dovuta al limite dei dieci caratteri sui nomi Pokémon, condivide questa caratteristica con Victreebel.",
+        "Feraligatr condivide con Blastoise le stesse statistiche di base, ma distribuiti in maniera diversa.",
+        "In Pokémon Oro e Argento il corpo di Feraligatr è dello stesso colore sia nello sprite normale che in quello cromatico che è stato poi modificato in Pokémon Cristallo.",
+        "Feraligatr è l'unica forma evolutiva finale di uno starter di Johto che compare in PokéPark Wii: la grande avventura di Pikachu."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/feraligatr.mp3",
+    "dex_entries": {
+        "feraligatr": {
+            "gold": "Mordendo con le grandi e potenti mandibole, agita il capo riducendo la vittima in brandelli.",
+            "silver": "Non potendo reggere il suo grande peso fuori dall'acqua, si muove a quattro zampe, ma è molto rapido.",
+            "crystal": "Nonostante il corpo pesante, con le potenti zampe posteriori si muove bene anche sulla terraferma.",
+            "ruby": "FERALIGATR spaventa il nemico spalancando la sua bocca enorme. In lotta pesta pesantemente il terreno con le sue possenti zampe posteriori per scagliarsi contro il nemico ad un'incredibile velocità.",
+            "sapphire": "FERALIGATR spaventa il nemico spalancando la sua bocca enorme. In lotta pesta pesantemente il terreno con le sue possenti zampe posteriori per scagliarsi contro il nemico ad un'incredibile velocità.",
+            "emerald": "FERALIGATR spalanca l'enorme bocca per spaventare il nemico. In lotta, pesta il terreno con le possenti zampe posteriori per scagliarsi con furia contro il nemico.",
+            "firered": "Non potendo reggere il suo grande peso fuori dall'acqua, si muove a quattro zampe, ma è molto rapido.",
+            "leafgreen": "Mordendo con le grandi e potenti mandibole, agita il capo riducendo la vittima in brandelli.",
+            "diamond": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "pearl": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "platinum": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "heartgold": "Mordendo con le grandi e potenti mandibole, agita il capo riducendo la vittima in brandelli.",
+            "soulsilver": "Fuori dall’acqua cammina su due zampe, ma è molto pesante. Perciò le usa tutte e quattro se vuole essere più veloce.",
+            "black": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "white": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "black-2": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "white-2": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "x": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "y": "Mordendo con le grandi e potenti mandibole, agita il capo riducendo la vittima in brandelli.",
+            "omega-ruby": "Feraligatr spaventa il nemico spalancando la sua bocca enorme. Nella lotta pesta pesantemente il terreno con le sue possenti zampe posteriori per scagliarsi contro il nemico a un'incredibile velocità.",
+            "alpha-sapphire": "Feraligatr spaventa il nemico spalancando la sua bocca enorme. Nella lotta pesta pesantemente il terreno con le sue possenti zampe posteriori per scagliarsi contro il nemico a un'incredibile velocità."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Acqua 1"
+    ],
+    "generation": 2,
+    "height": {
+        "feraligatr": "2,3 m"
+    },
+    "id": 160,
+    "name": "Feraligatr",
+    "name_origin": "Il suo nome probabilmente deriva dalle parole inglesi feral  e alligator  oppure da ferocious . Il fatto che la parte finale del nome sia Gatr, anziche Gator è dovuto al limite di dieci lettere per nome. ",
+    "origin": "Come le sue pre-evoluzioni, Feraligatr è ispirato ad un coccodrillo, tuttavia il suo aspetto potrebbe ricordare anche un alligatore. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Mascellone",
+    "sprites": {
+        "feraligatr": {
+            "default": "https://media.pokemoncentral.it/wiki/6/67/Homem0160.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a8/Homemsh0160.png"
+        }
+    },
+    "stats": {
+        "feraligatr": {
+            "hp": 85,
+            "atk": 105,
+            "def": 100,
+            "spa": 79,
+            "spd": 83,
+            "spe": 78
+        }
+    },
+    "stats_sum": {
+        "feraligatr": 530
+    },
+    "types": {
+        "feraligatr": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "feraligatr": "88,8 kg"
+    }
+}

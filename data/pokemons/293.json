@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "whismur": {
+            "primary": "Antisuono",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "La coda di Whismur assomiglia ad un ingresso o porta di uscita su un amplificatore elettronico.",
+        "Il segno che Whismur ha sul retro assomiglia al simbolo dell'altoparlante quando è al minimo . La sua evoluzione Loudred invece, ne possiede ben 3, simboleggiando l'aumento del volume dei versi del Pokémon.",
+        "Tutte le statistiche base di Whismur salgono di 20 quando si evolve in Loudred."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/whismur.mp3",
+    "dex_entries": {
+        "whismur": {
+            "ruby": "Normalmente la voce di WHISMUR è molto tenue, quasi impercettibile, anche se ci si concentra. Tuttavia, se questo POKéMON percepisce un pericolo, inizia a emettere suoni assordanti.",
+            "sapphire": "WHISMUR è estremamente timido. Se gli capita di emettere suoni forti, è atterrito nell'udire la sua stessa voce, quindi urla ancora più fragorosamente. Quando finalmente si placa, va a dormire, spossato.",
+            "emerald": "Le urla di WHISMUR sono assordanti quanto il frastuono di un jet. Poiché inala attraverso le orecchie, riesce a strillare di continuo senza prendere il fiato.",
+            "firered": "Di solito sussurra, ma se avverte un pericolo lancia grida acute, che interrompe quando ha le orecchie chiuse.",
+            "leafgreen": "Di solito sussurra, ma se avverte un pericolo lancia grida acute, che interrompe quando ha le orecchie chiuse.",
+            "diamond": "Di solito ha una voce molto tenue, ma se si spaventa, emette un suono assordante quanto un jet.",
+            "pearl": "Di solito ha una voce molto tenue, ma se si spaventa, emette un suono assordante quanto un jet.",
+            "platinum": "Di solito ha una voce molto tenue, ma se si spaventa, emette un suono assordante quanto un jet.",
+            "heartgold": "Se sospetta un pericolo, leva grida agli stessi assordanti decibel di un jet, gettando nel panico i nemici.",
+            "soulsilver": "Se sospetta un pericolo, leva grida agli stessi assordanti decibel di un jet, gettando nel panico i nemici.",
+            "black": "Di solito ha una voce molto tenue, ma se si spaventa, emette un suono assordante quanto un jet.",
+            "white": "Di solito ha una voce molto tenue, ma se si spaventa, emette un suono assordante quanto un jet.",
+            "black-2": "Di solito ha una voce molto tenue, ma se si spaventa, emette un suono assordante quanto un jet.",
+            "white-2": "Di solito ha una voce molto tenue, ma se si spaventa, emette un suono assordante quanto un jet.",
+            "x": "Di solito sussurra, ma se avverte un pericolo lancia grida acute, che interrompe quando ha le orecchie chiuse.",
+            "y": "Se sospetta un pericolo, leva grida agli stessi assordanti decibel di un jet, gettando nel panico i nemici.",
+            "omega-ruby": "Normalmente la voce di Whismur è molto tenue, quasi impercettibile, anche se ci si concentra. Tuttavia, se questo Pokémon percepisce un pericolo, inizia a emettere suoni assordanti.",
+            "alpha-sapphire": "Whismur è estremamente timido. Se gli capita di emettere suoni forti, è atterrito nell'udire la sua stessa voce, quindi urla ancora più fragorosamente. Quando finalmente si placa, va a dormire, spossato.",
+            "sword": "Il suo grido, che può superare i 100 decibel, fa venire mal di testa per tutta la giornata a chiunque si trovi nelle vicinanze.",
+            "shield": "Se inizia a gridare, si spaventa al suono della sua stessa voce e urla ancora di più. Quando si stanca di urlare, va a dormire.",
+            "brilliant-diamond": "Di solito ha una voce molto tenue. Se si spaventa, però, emette un suono assordante quanto quello di un jet.",
+            "shining-pearl": "Di solito ha una voce molto tenue. Se si spaventa, però, emette un suono assordante quanto quello di un jet."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Campo"
+    ],
+    "generation": 3,
+    "height": {
+        "whismur": "0,60 m"
+    },
+    "id": 293,
+    "name": "Whismur",
+    "name_origin": "Il nome deriva dall'unione delle parole inglesi whisper  e murmur . ",
+    "origin": "Whismur si basa su un coniglio o un peluche e le orecchie assomigliano a delle cuffie che vengono utilizzate per proteggere le orecchie contro i forti rumori. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Sussurro",
+    "sprites": {
+        "whismur": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0293.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bf/Homemsh0293.png"
+        }
+    },
+    "stats": {
+        "whismur": {
+            "hp": 64,
+            "atk": 51,
+            "def": 23,
+            "spa": 51,
+            "spd": 23,
+            "spe": 28
+        }
+    },
+    "stats_sum": {
+        "whismur": 240
+    },
+    "types": {
+        "whismur": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "whismur": "16,3 kg"
+    }
+}

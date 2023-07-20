@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "fletchinder": {
+            "primary": "Corpodifuoco",
+            "hidden": "Aliraffica"
+        }
+    },
+    "curiosities": [
+        "Fletchinder è il primo Pokémon in assoluto  a possedere un nome formato da più di dieci lettere.",
+        "Assieme a Skarmory, Fletchinder è l'unico Pokémon che impara Alacciaio salendo di livello.",
+        "Fletchinder è l'unico Pokémon con un totale di statistiche base pari a 382.",
+        "Fletchinder condivide la categoria con Simisear. Sono entrambi noti come Pokémon Sfavillante.",
+        "Fletchinder, Marill, Altaria e Steelix sono gli unici Pokémon di doppio tipo il cui tipo primario è diverso rispetto alla loro forma pre-evoluta."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/fletchinder.mp3",
+    "dex_entries": {
+        "fletchinder": {
+            "x": "Incendia i cespugli producendo scintille con il becco e cattura le prede che ne escono spaventate.",
+            "y": "Nel ventre ha una sacca ardente che gli permette di volare più velocemente in base all'intensità del fuoco, ma per riscaldarla al punto giusto occorre del tempo.",
+            "omega-ruby": "Incendia i cespugli producendo scintille con il becco e cattura le prede che ne escono spaventate.",
+            "alpha-sapphire": "Nel ventre ha una sacca ardente che gli permette di volare più velocemente in base all'intensità del fuoco, ma per riscaldarla al punto giusto occorre del tempo.",
+            "sun": "Attacca le prede scagliando scintille dal becco e, dopo averle catturate, le arrostisce e le mangia.",
+            "moon": "Difende gelosamente il suo territorio, che si estende per vari chilometri, tenendo lontani gli altri Fletchinder.",
+            "ultra-sun": "Sparge scintille per incendiare i cespugli e fa man bassa dei Pokémon Coleottero che saltano fuori spaventati.",
+            "ultra-moon": "La velocità che raggiunge subito dopo aver spiccato il volo è una delle più alte registrate tra i Pokémon alati.",
+            "sword": "Scaglia scintille nelle tane delle prede e attacca con i suoi artigli affilati quelle che ne escono spaventate.",
+            "shield": "È molto territoriale e aggressivo. Si contende il territorio di caccia con gli altri Fletchinder.",
+            "scarlet": "Sparge scintille nell’erba alta tra cui pensa siano nascosti dei Pokémon Coleottero e, non appena saltano fuori, li acchiappa.",
+            "violet": "Il suo territorio ha un raggio di 2-3 km. Non mostra alcuna pietà per i Pokémon alati che ne varcano i confini."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "generation": 6,
+    "height": {
+        "fletchinder": "0,7 m"
+    },
+    "id": 662,
+    "name": "Fletchinder",
+    "name_origin": "Fletchinder deriva dall'unione delle parole inglesi fletching  e cinder . Hinoyakoma è una combinazione tra 火の粉 hinoko , 矢 ya  e 駒鳥 komadori . ",
+    "origin": "Fletchinder è basato su un pettirosso giapponese. Il suo tipo fuoco può alludere al pettirosso di fuoco. ",
+    "shape": "testa e base",
+    "specie": "Pokémon Sfavillante",
+    "sprites": {
+        "fletchinder": {
+            "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0662.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0662.png"
+        }
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 62,
+            "atk": 73,
+            "def": 55,
+            "spa": 56,
+            "spd": 52,
+            "spe": 84
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 382
+    },
+    "types": {
+        "fletchinder": [
+            "Volante",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "fletchinder": "16,0 kg"
+    }
+}

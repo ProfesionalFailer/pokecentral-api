@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "torracat": {
+            "primary": "Aiutofuoco",
+            "hidden": "Prepotenza"
+        }
+    },
+    "curiosities": [
+        "Torracat di Ash",
+        "Torracat di Professor Kukui",
+        "En"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/torracat.mp3",
+    "dex_entries": {
+        "torracat": {
+            "sun": "Quando si mette a sputare fuoco, il sonaglio infuocato che tiene al collo emette un forte tintinnio.",
+            "moon": "Va molto fiero della potenza delle sue zampe anteriori, grazie alle quali è capace di piegare una spranga di ferro con un colpo solo.",
+            "ultra-sun": "Quando si affeziona, Il suo Allenatore deve stare attento ai suoi slanci: data la sua forza e i suoi artigli affilati, rischia di ritrovarsi pieno di graffi.",
+            "ultra-moon": "Quando la sua criniera è ritta, vuol dire che è in buona salute. Se sta male, invece, la lascia cadere all'indietro.",
+            "sword": "Durante la lotta, la sacca alla base del collo aumenta la produzione di energia termica ed emette un tintinnio simile a un sonaglio.",
+            "shield": "Quando affronta un nemico molto forte il suo spirito combattivo e l'energia termica prodotta dal sonaglio infuocato aumentano."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 7,
+    "height": {
+        "torracat": "0,7 m"
+    },
+    "id": 726,
+    "name": "Torracat",
+    "name_origin": "Torracat potrebbe essere una combinazione di torrid, molto caldo e secco, e cat, gatto. Potrebbe anche derivare da 虎 tora, il giapponese di tigre. Nyahīto potrebbe essere una combinazione di ニャー nyā, il miagolio di un gatto, 火 hi, fuoco, ed heat, calore. ",
+    "origin": "Torracat è ispirato ad un Gatto soriano e ad un cucciolo di tigre. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Pirofelino",
+    "sprites": {
+        "torracat": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fa/Homem0726.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homemsh0726.png"
+        }
+    },
+    "stats": {
+        "torracat": {
+            "hp": 65,
+            "atk": 85,
+            "def": 50,
+            "spa": 80,
+            "spd": 50,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "torracat": 420
+    },
+    "types": {
+        "torracat": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "torracat": "25,0 kg"
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "huntail": {
+            "primary": "Nuotovelox",
+            "hidden": "Idrovelo"
+        }
+    },
+    "curiosities": [
+        "Nonostante sia un Pokémon di tipo Acqua Huntail ha la PokéTattica di tipo Buio in Pokémon Ranger: Ombre su Almia",
+        "Nel Navigatore di Almia si dice che Huntail attacchi usando Neropulsar, ma non può imparare tale mossa nei videogiochi della serie principale.",
+        "Alcune voci Pokédex dicono che la sua coda si illumina, ma nonostante ciò non può imparare Codadiluce né tantomeno Flash.",
+        "La coda di Huntail ricorda la forma di Gorebyss questo vale anche per la coda di Gorebyss che ricorda la pinna sulla testa di Huntail.",
+        "Huntail è l'unico Pokémon che si evolve scambiando la sua prima forma  mentre tiene Dente Abissi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/huntail.mp3",
+    "dex_entries": {
+        "huntail": {
+            "ruby": "L'esistenza di HUNTAIL è rimasta a lungo sconosciuta perché vive solo in mare ad incredibili profondità. La sua vista così acuta riesce a vedere chiaramente persino nel buio pesto degli abissi oceanici.",
+            "sapphire": "La coda di HUNTAIL è a forma di pesce. Il POKéMON la usa come esca per la preda, che poi ingoia intera con l'enorme bocca spalancata. Nuota ondeggiando il corpo snello a forma di serpente.",
+            "emerald": "Grazie alla spina dorsale spessa e robusta, HUNTAIL può resistere alla pressione degli abissi. La sua coda a forma di piccolo pesce ha degli occhi che si illuminano.",
+            "firered": "Vive in mare a grandi profondità, dove non filtra nessuna luce. Attira le prede illuminando la codina a forma di pesce.",
+            "leafgreen": "Vive in mare a grandi profondità, dove non filtra nessuna luce. Attira le prede illuminando la codina a forma di pesce.",
+            "diamond": "Vive nei mari profondi. Con la coda a forma di pesciolino attrae prede ignare del pericolo.",
+            "pearl": "Vive nei mari profondi. Con la coda a forma di pesciolino attrae prede ignare del pericolo.",
+            "platinum": "Vive nei mari profondi. Con la coda a forma di pesciolino attrae prede ignare del pericolo.",
+            "heartgold": "Vive nelle buie profondità marine. Attira le prede muovendo la coda a guisa di essere vivente.",
+            "soulsilver": "Vive nelle buie profondità marine. Attira le prede muovendo la coda a guisa di essere vivente.",
+            "black": "Vive nei mari profondi. Con la coda a forma di pesciolino attrae prede ignare del pericolo.",
+            "white": "Vive nei mari profondi. Con la coda a forma di pesciolino attrae prede ignare del pericolo.",
+            "black-2": "Vive nei mari profondi. Con la coda a forma di pesciolino attrae prede ignare del pericolo.",
+            "white-2": "Vive nei mari profondi. Con la coda a forma di pesciolino attrae prede ignare del pericolo.",
+            "x": "Vive in mare a grandi profondità, dove non filtra nessuna luce. Attira le prede illuminando la codina a forma di pesce.",
+            "y": "Vive nei mari profondi. Con la coda a forma di pesciolino attrae prede ignare del pericolo.",
+            "omega-ruby": "L'esistenza di Huntail è rimasta a lungo sconosciuta perché vive solo in mare ad incredibili profondità. La sua vista così acuta riesce a vedere chiaramente persino nel buio pesto degli abissi oceanici.",
+            "alpha-sapphire": "La coda di Huntail è a forma di pesce. Il Pokémon la usa come esca per la preda, che poi ingoia intera con l'enorme bocca spalancata. Nuota ondeggiando il corpo snello a forma di serpente.",
+            "ultra-sun": "Non è un grande nuotatore. Attira la preda agitando la coda, e non appena si avvicina la ingoia in un boccone.",
+            "ultra-moon": "Vive nelle profondità marine. Secondo le leggende, quando un Huntail si arena sulla riva è segno che sta per accadere una disgrazia."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1"
+    ],
+    "generation": 3,
+    "height": {
+        "huntail": "1,70 m"
+    },
+    "id": 367,
+    "name": "Huntail",
+    "name_origin": "Il nome di Huntail sembra l'unione di hunt, cacciare, o 斑点 hanten, macchiolina, e tail, coda. ",
+    "origin": "Huntail è certamente basato sui pesci abissali, probabilmente sul regaleco, o su un qualunque rappresentante della famiglia Stomiidae o dell'ordine Saccopharyngiformes. ",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Abissi",
+    "sprites": {
+        "huntail": {
+            "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0367.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1b/Homemsh0367.png"
+        }
+    },
+    "stats": {
+        "huntail": {
+            "hp": 55,
+            "atk": 104,
+            "def": 105,
+            "spa": 94,
+            "spd": 75,
+            "spe": 52
+        }
+    },
+    "stats_sum": {
+        "huntail": 485
+    },
+    "types": {
+        "huntail": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "huntail": "27,0 kg"
+    }
+}

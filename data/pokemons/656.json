@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "froakie": {
+            "primary": "Acquaiuto",
+            "hidden": "Mutatipo"
+        }
+    },
+    "curiosities": [
+        "Froakie ha la Velocità di base più alta di tutti i Pokémon iniziali non evoluti a pari merito con Scorbunny."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/froakie.mp3",
+    "dex_entries": {
+        "froakie": {
+            "x": "Dal petto e dalla schiena secerne una schiuma che gli permette di attutire i danni causati dagli attacchi nemici.",
+            "y": "Si protegge avvolgendo il corpo in una schiuma delicata. Nonostante l'aria spensierata, scruta sempre l'ambiente circostante con molta attenzione.",
+            "omega-ruby": "Dal petto e dalla schiena secerne una schiuma che gli permette di attutire i danni causati dagli attacchi nemici.",
+            "alpha-sapphire": "Si protegge avvolgendo il corpo in una schiuma delicata. Nonostante l'aria spensierata, scruta sempre l'ambiente circostante con molta attenzione."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1"
+    ],
+    "generation": 6,
+    "height": {
+        "froakie": "0,3 m"
+    },
+    "id": 656,
+    "name": "Froakie",
+    "name_origin": "Froakie deriva da frog , froth  e croak . Il nome giapponese ケロマツ Keromatsu, viene da ケロケロ kerokero  e 沫 matsu  o 飛沫 himatsu . ",
+    "origin": "Froakie è basato su una rana. ",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Schiumorana",
+    "sprites": {
+        "froakie": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f2/Homem0656.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh0656.png"
+        }
+    },
+    "stats": {
+        "froakie": {
+            "hp": 41,
+            "atk": 56,
+            "def": 40,
+            "spa": 62,
+            "spd": 44,
+            "spe": 71
+        }
+    },
+    "stats_sum": {
+        "froakie": 314
+    },
+    "types": {
+        "froakie": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "froakie": "7,0 kg"
+    }
+}

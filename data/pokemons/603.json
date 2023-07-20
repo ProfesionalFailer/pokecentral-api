@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "eelektrik": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "Eelektrik e la sua famiglia evolutiva sono gli unici Pokémon a non avere debolezze. Questo è dovuto alla loro abilità Levitazione, che elimina la loro unica vulnerabilità al tipo Terra. Da ciò consegue che sono gli unici Pokémon con un solo tipo senza debolezze."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/eelektrik.mp3",
+    "dex_entries": {
+        "eelektrik": {
+            "black": "I motivi circolari sono organi generatori di corrente. Dopo aver avvolto il nemico lo fulmina con una scarica elettrica.",
+            "white": "Pokémon dal grande appetito. Quando attacca, immobilizza il nemico paralizzandolo con l'elettricità.",
+            "black-2": "Si avvinghia alla preda e la paralizza rilasciando elettricità dalle macchie tonde, poi la ingoia intera.",
+            "white-2": "Si avvinghia alla preda e la paralizza rilasciando elettricità dalle macchie tonde, poi la ingoia intera.",
+            "x": "Si avvinghia alla preda e la paralizza rilasciando elettricità dalle macchie tonde, poi la ingoia intera.",
+            "y": "Pokémon dal grande appetito. Quando attacca, immobilizza il nemico paralizzandolo con l'elettricità.",
+            "omega-ruby": "Si avvinghia alla preda e la paralizza rilasciando eletrricità dalle macchie tonde, poi la ingoia intera.",
+            "alpha-sapphire": "Pokémon dal grande appetito. Quando attacca, immobilizza il nemico paralizzandolo con l'elettricità.",
+            "scarlet": "I motivi circolari sono organi generatori di corrente. Si avvolge al nemico premendoglieli addosso per poi rilasciare una scarica elettrica.",
+            "violet": "Pokémon dal grande appetito. Quando scova una preda, la assale e poi la mangia dopo averla paralizzata con l’elettricità."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "generation": 5,
+    "height": {
+        "eelektrik": "1,2 m"
+    },
+    "id": 603,
+    "name": "Eelektrik",
+    "name_origin": "Eelektrik deriva dall'inglese eel  ed electric . Le \"k\" potrebbero esprimere un'onomatopea del crepitio elettrico. ",
+    "origin": "Eelektrik è basato su un pesce elettroforo. In particolare potrebbe trarre ispirazione da un'anguilla elettrica, dagli agnati come le lamprede, dalle sanguisughe, o dai cefalocordati. Il suo tipo Elettro potrebbe essere ispirato alla bioelettrogenesi, la generazione di energia elettrica da parte di organismi viventi tramite impulsi nervosi, un fenomeno che appartiene alla scienza della elettrofisiologia. ",
+    "shape": "pinne",
+    "specie": "Pokémon Elettropesce",
+    "sprites": {
+        "eelektrik": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ab/Homem0603.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1f/Homemsh0603.png"
+        }
+    },
+    "stats": {
+        "eelektrik": {
+            "hp": 65,
+            "atk": 85,
+            "def": 70,
+            "spa": 75,
+            "spd": 70,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "eelektrik": 405
+    },
+    "types": {
+        "eelektrik": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "eelektrik": "22,0 kg"
+    }
+}

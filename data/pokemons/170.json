@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "chinchou": {
+            "primary": "Assorbivolt",
+            "secondary": "Risplendi",
+            "hidden": "Assorbacqua"
+        }
+    },
+    "curiosities": [
+        "Prima della quinta generazione Chinchou e Lanturn avevano una combinazione di tipi unica.",
+        "Anche se nell'anime lo si è visto camminare sulla terraferma, nei giochi Chinchou può essere catturato solo in zone acquatiche ed è privo di impronte.",
+        "Il suono vocale nel nome inglese di Chinchou è invertito rispetto al suono vocale del nome giapponese."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/chinchou.mp3",
+    "dex_entries": {
+        "chinchou": {
+            "gold": "Spara elettricità positiva e negativa tra le punte delle due antenne per colpire i nemici.",
+            "silver": "Negli oscuri fondali oceanici il suo unico mezzo di comunicazione sono le luci sempre lampeggianti.",
+            "crystal": "Tra le antenne, evoluzione di primitive pinne, corre energia negativa e positiva.",
+            "ruby": "CHINCHOU libera una carica elettrica positiva e negativa dalle due antenne per intontire la preda. Il POKéMON usa le sue luci elettriche per scambiare segnali coi suoi simili.",
+            "sapphire": "Le due antenne di CHINCHOU contengono cellule che generano un'elettricità incredibile, tanto forte da farlo vibrare tutto.",
+            "emerald": "Quando percepisce un pericolo, CHINCHOU emana scariche elettriche positive e negative dalle due antenne. Vive in profondità al riparo dalla luce del sole.",
+            "firered": "Negli oscuri fondali oceanici il suo unico mezzo di comunicazione sono le luci sempre lampeggianti.",
+            "leafgreen": "Tra le punte delle due antenne scorre elettricità positiva e negativa, di cui si serve per colpire i nemici.",
+            "diamond": "Dalle antenne emette scariche elettriche positive e negative con le quali colpisce i nemici.",
+            "pearl": "Dalle antenne emette scariche elettriche positive e negative con le quali colpisce i nemici.",
+            "platinum": "Dalle antenne emette scariche elettriche positive e negative con le quali colpisce i nemici.",
+            "heartgold": "Spara elettricità positiva e negativa tra le punte delle due antenne per colpire i nemici.",
+            "soulsilver": "Negli oscuri fondali oceanici il suo unico mezzo di comunicazione sono le luci sempre lampeggianti.",
+            "black": "Dalle antenne emette scariche elettriche positive e negative con le quali colpisce i nemici.",
+            "white": "Dalle antenne emette scariche elettriche positive e negative con le quali colpisce i nemici.",
+            "black-2": "Dalle antenne emette scariche elettriche positive e negative con le quali colpisce i nemici.",
+            "white-2": "Dalle antenne emette scariche elettriche positive e negative con le quali colpisce i nemici.",
+            "x": "Negli oscuri fondali oceanici il suo unico mezzo di comunicazione sono le luci sempre lampeggianti.",
+            "y": "Spara elettricità positiva e negativa tra le punte delle due antenne per colpire i nemici.",
+            "omega-ruby": "Chinchou libera una carica elettrica positiva e negativa dalle due antenne per intontire la preda. Il Pokémon usa le sue luci elettriche per scambiare segnali coi suoi simili.",
+            "alpha-sapphire": "Le due antenne di Chinchou contengono cellule che generano un'elettricità incredibile, tanto forte da farlo vibrare tutto.",
+            "sun": "Le sue antenne sono l'evoluzione di pinne primitive da cui emette scariche elettriche per tramortire la preda prima di attaccarla.",
+            "moon": "Vive in profondità marine al riparo della luce del sole. Usa le antenne luminose per comunicare con i suoi simili.",
+            "ultra-sun": "Dalle antenne emette una debole luce che usa per attirare a sé le prede. È un compagno perfetto per la pesca notturna.",
+            "ultra-moon": "Vive nelle profondità marine, al riparo dalla luce del sole. Usa le antenne luminose per comunicare con i suoi simili.",
+            "sword": "Le sue antenne, evoluzione di pinne primitive, sono attraversate da energia elettrica, positiva in una e negativa nell'altra.",
+            "shield": "Il suo unico mezzo di comunicazione negli oscuri fondali oceanici sono le luci delle sue antenne, che lampeggiano costantemente.",
+            "brilliant-diamond": "Dalle antenne emette scariche elettriche positive e negative con le quali fulmina i nemici.",
+            "shining-pearl": "Dalle antenne emette scariche elettriche positive e negative con le quali fulmina i nemici."
+        }
+    },
+    "egg_groups": [
+        "Acqua 2"
+    ],
+    "generation": 2,
+    "height": {
+        "chinchou": "0,5 m"
+    },
+    "id": 170,
+    "name": "Chinchou",
+    "name_origin": "Il suo nome deriva dalla parola giapponese 提灯 chōchin, lanterna. ",
+    "origin": "Basato sui pesci Lophiiformes. ",
+    "shape": "pinne",
+    "specie": "Pokémon Pescatore",
+    "sprites": {
+        "chinchou": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cd/Homem0170.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0170.png"
+        }
+    },
+    "stats": {
+        "chinchou": {
+            "hp": 75,
+            "atk": 38,
+            "def": 38,
+            "spa": 56,
+            "spd": 56,
+            "spe": 67
+        }
+    },
+    "stats_sum": {
+        "chinchou": 330
+    },
+    "types": {
+        "chinchou": [
+            "Elettro",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "chinchou": "12,0 kg"
+    }
+}

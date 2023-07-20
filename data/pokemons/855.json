@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "polteageist": {
+            "primary": "Sottilguscio",
+            "hidden": "Corpofunesto"
+        }
+    },
+    "curiosities": [
+        "Polteageist è il primo Pokémon a pesare 0,4 kg.",
+        "Come da lui stesso confermato, James Turner s'è occupato della progettazione di Polteageist.",
+        "La descrizione di Pokémon Scudo di Polteageist forma contraffatta presenta un possibile errore: sostiene che dia vita ad altri Polteageist versando se stesso nelle tazze di tè, ma il Pokémon associato alla tazza di tè è Sinistea, mentre Polteageist vive in una teiera."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/polteageist.mp3",
+    "dex_entries": {
+        "forma-contraffatta": {
+            "sword": "Prende dimora in una teiera antica. Quelle in circolazione sono quasi tutte contraffatte, ma a volte ne trova una autentica.",
+            "shield": "Se trova una tazza di tè abbandonata, ci versa dentro un po' del suo corpo per far nascere un Polteageist.",
+            "scarlet": "Il suo corpo, costituito di tè, ha un sapore peculiare ma piacevole. Tuttavia, berne troppo può essere fatale.",
+            "violet": "Si introduce furtivamente nelle teiere e versa parte del suo corpo nel tè avanzato, creando così nuovi Sinistea."
+        },
+        "forma-autentica": {
+            "sword": "Ha un gusto e un profumo molto particolari. Se si fida del suo Allenatore, gli concede un piccolo assaggio.",
+            "shield": "Quando si arrabbia, lancia il suo corpo fatto di tè mirando alla bocca dell'avversario. Chi lo ingerisce è scosso da violenti brividi di febbre.",
+            "scarlet": "La teiera in cui entra non lo influenza, ma pare che il tipo di tè da cui ha origine ne modifichi il carattere.",
+            "violet": "È pericoloso da bere, ma ha un ottimo sapore. I buongustai che non temono il rischio bevono Polteageist ogni giorno."
+        }
+    },
+    "egg_groups": [
+        "Minerale",
+        "Amorfo"
+    ],
+    "generation": 8,
+    "height": {
+        "polteageist": "0,2 m"
+    },
+    "id": 855,
+    "name": "Polteageist",
+    "name_origin": "Polteageist potrebbe essere una combinazione di poltergeist e tea, tè. Potdeath potrebbe essere una combinazione di pot, teiera, death, morte, e ポットです potto desu, \"è una teiera\". ",
+    "origin": "Polteageist potrebbe essere basato su una teiera e il tè nero. Potrebbe essere ispirato anche a un zenfushō, un demone giapponese analogo ai poltergeist occidentali e che risiede nelle teiere, appartenente alla categoria degli tsukumogami, creature mitologiche che hanno la capacità di possedere oggetti di uso comune. Le sue forme potrebbero essere un riferimento alle teiere contraffatte prodotte nel Regno Unito. Inoltre, potrebbe trarre ispirazione dallo yōkai Morinji-no-okama. ",
+    "shape": "testa",
+    "specie": "Pokémon Tè",
+    "sprites": {
+        "forma-contraffatta": {
+            "default": "https://media.pokemoncentral.it/wiki/1/12/Homem0855.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0855.png"
+        },
+        "forma-autentica": {
+            "default": "https://media.pokemoncentral.it/wiki/1/12/Homem0855.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0855.png"
+        }
+    },
+    "stats": {
+        "polteageist": {
+            "hp": 60,
+            "atk": 65,
+            "def": 65,
+            "spa": 134,
+            "spd": 114,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "polteageist": 508
+    },
+    "types": {
+        "polteageist": [
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "polteageist": "0,4 kg"
+    }
+}

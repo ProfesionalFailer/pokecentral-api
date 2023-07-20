@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "dwebble": {
+            "primary": "Vigore",
+            "secondary": "Guscioscudo",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Nessun altro Pokémon possiede la combinazione di Gruppi Uova di Dwebble e Crustle."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dwebble.mp3",
+    "dex_entries": {
+        "dwebble": {
+            "black": "Poiché secerne dalla bocca un liquido in grado di sciogliere le pietre, riesce ad aprirsi varchi anche nella dura roccia.",
+            "white": "Scava un buco in una pietra adatta, per farne la sua dimora. Se si rompe, non si dà pace finché non ne trova un'altra.",
+            "black-2": "Quando trova una pietra della sua misura crea un buco con il liquido che secerne dalla bocca e ci si infila dentro.",
+            "white-2": "Quando trova una pietra della sua misura crea un buco con il liquido che secerne dalla bocca e ci si infila dentro.",
+            "x": "Scava un buco in una pietra adatta per farne la sua dimora. Se si rompe, non si dà pace finché non ne trova un'altra.",
+            "y": "Quando trova una pietra della sua misura crea un buco con il liquido che secerne dalla bocca e ci si infila dentro.",
+            "omega-ruby": "Scava un buco in una pietra adatta per farne la sua dimora. Se si rompe, non si dà pace finché non ne trova un'altra.",
+            "alpha-sapphire": "Quando trova una pietra della sua misura crea un buco con il liquido che secerne dalla bocca e ci si infila dentro.",
+            "sword": "Scava un buco in una piccola pietra di suo gradimento per farne la sua dimora. È il nemico naturale di Roggenrola e di Rolycoly.",
+            "shield": "A volte, quando non riesce a trovare una pietra adatta, usa come sua dimora i pori di Hippowdon."
+        }
+    },
+    "egg_groups": [
+        "Coleottero",
+        "Minerale"
+    ],
+    "generation": 5,
+    "height": {
+        "dwebble": "0,3 m"
+    },
+    "id": 557,
+    "name": "Dwebble",
+    "name_origin": "Il nome deriva dalle parole dwell  o dwelling  e pebble . ",
+    "origin": "Dwebble è ispirato ad un paguro che vive in una pietra; questa pietra è chiaramente ispirata ad una conchiglia. ",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Pietracasa",
+    "sprites": {
+        "dwebble": {
+            "default": "https://media.pokemoncentral.it/wiki/9/92/Homem0557.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0557.png"
+        }
+    },
+    "stats": {
+        "dwebble": {
+            "hp": 50,
+            "atk": 65,
+            "def": 85,
+            "spa": 35,
+            "spd": 35,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "dwebble": 325
+    },
+    "types": {
+        "dwebble": [
+            "Roccia",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "dwebble": "14,5 kg"
+    }
+}

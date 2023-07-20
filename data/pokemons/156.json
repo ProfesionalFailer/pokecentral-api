@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "quilava": {
+            "primary": "Aiutofuoco",
+            "hidden": "Fuocardore"
+        }
+    },
+    "curiosities": [
+        "Quilava condivide il nome della specie con Typhlosion ed Entei. Sono tutti e tre noti come Pokémon Vulcano.\n\tCuriosamente, ognuno di loro può imparare Eruzione.",
+        "Curiosamente, ognuno di loro può imparare Eruzione.",
+        "Nonostante quanto detto dal Pokédex in Argento e RossoFuoco, Quilava non è immune alle mosse fuoco a meno che non abbia l'abilità speciale Fuocardore.",
+        "Quilava rimane al suo stadio evolutivo per 22 livelli, mettendolo alla pari con Monferno tra i Pokémon iniziali più longevi. Per coincidenza, sono entrambi di tipo Fuoco.",
+        "Senza contare Pikachu, Quilava e la sua famiglia sono gli unici Pokémon iniziali nel gruppo colore Giallo.",
+        "Quilava e la sua famiglia possono imparare Codacciaio tramite MT23 in seconda generazione, ma non possono più farlo nelle generazioni successive.",
+        "In seconda generazione la forma cromatica di Quilava aveva le fiamme viola. Tuttavia, dalla terza generazione in poi, le fiamme sono tornate ad essere come quelle normali."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/quilava.mp3",
+    "dex_entries": {
+        "quilava": {
+            "gold": "Nella lotta, se s'incurva vuol dire che sta per attaccare con le fiamme che ha sul dorso.",
+            "silver": "Un POKéMON completamente ricoperto da una pelliccia non infiammabile. Può resistere a qualsiasi attacco.",
+            "crystal": "Prima di lottare mostra il dorso al nemico per impressionarlo con la potenza delle sue fiamme.",
+            "ruby": "QUILAVA tiene a bada il nemico grazie all'intensità delle sue fiamme e a getti di aria rovente. Questo POKéMON sfrutta la sua estrema destrezza per evitare gli attacchi anche mentre ustiona il nemico.",
+            "sapphire": "QUILAVA tiene a bada il nemico grazie all'intensità delle sue fiamme e a getti di aria rovente. Questo POKéMON sfrutta la sua estrema destrezza per evitare gli attacchi anche mentre ustiona il nemico.",
+            "emerald": "QUILAVA tiene a bada il nemico con le sue fiamme e con getti di aria rovente. Sfrutta la sua estrema destrezza per evitare gli attacchi anche mentre scotta il nemico.",
+            "firered": "Un POKéMON completamente ricoperto da una pelliccia non infiammabile. Può resistere a qualsiasi attacco col fuoco.",
+            "leafgreen": "Se mostra il dorso al nemico, significa che sta per attaccarlo con le fiamme che si trovano proprio sulla schiena.",
+            "diamond": "Intimorisce i nemici con il calore delle sue fiamme. Se è pronto a lottare, le vampate sono più ardenti.",
+            "pearl": "Intimorisce i nemici con il calore delle sue fiamme. Se è pronto a lottare, le vampate sono più ardenti.",
+            "platinum": "Intimorisce i nemici con il calore delle sue fiamme. Se è pronto a lottare, le vampate sono più ardenti.",
+            "heartgold": "Nella lotta, se s’incurva vuol dire che sta per attaccare con le fiamme che ha sul dorso.",
+            "soulsilver": "Un Pokémon completamente ricoperto da una pelliccia non infiammabile. Può resistere a qualsiasi attacco di fuoco.",
+            "black": "Intimorisce i nemici con il calore delle sue fiamme. Se è pronto a lottare, le vampate sono più ardenti.",
+            "white": "Intimorisce i nemici con il calore delle sue fiamme. Se è pronto a lottare, le vampate sono più ardenti.",
+            "black-2": "Intimorisce i nemici con il calore delle sue fiamme. Se è pronto a lottare, le vampate sono più ardenti.",
+            "white-2": "Intimorisce i nemici con il calore delle sue fiamme. Se è pronto a lottare, le vampate sono più ardenti.",
+            "x": "Prima di lottare mostra il dorso al nemico per impressionarlo con la potenza delle sue fiamme.",
+            "y": "Nella lotta, se s'incurva vuol dire che sta per attaccare con le fiamme che ha sul dorso.",
+            "omega-ruby": "Quilava tiene a bada il nemico grazie all'intensità delle sue fiamme e a getti di aria rovente. Questo pokemon sfrutta la sua estrema destrezza per evitare gli attacchi anche mentre ustiona il nemico.",
+            "alpha-sapphire": "Quilava tiene a bada il nemico grazie all'intensità delle sue fiamme e a getti di aria rovente. Questo pokemon sfrutta la sua estrema destrezza per evitare gli attacchi anche mentre ustiona il nemico.",
+            "legends-arceus": "Giammai s'è visto il suo misterioso vello prendere fuoco. Allorché rivolge il dorso, è d'uopo prendere riparo, giacché è una palese avvisaglia d'attacco."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 2,
+    "height": {
+        "quilava": "0,9 m"
+    },
+    "id": 156,
+    "name": "Quilava",
+    "name_origin": "Il suo nome probabilmente deriva dalle parole inglesi Quill  e da Lava, ovvero della roccia fusa. ",
+    "origin": "Il corpo di Quilava ricorda molto quello degli animali legati al genere Mustela, tuttavia ha molte più somiglianze con l'ermellino a causa della mancanza di una vera e propria coda e del pelo più scuro sul dorso rispetto a quello sul ventre, ha anche delle somiglianze con il Paca, un roditore sudamericano dal corpo allungato e maculato con piccole orecchie. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Vulcano",
+    "sprites": {
+        "quilava": {
+            "default": "https://media.pokemoncentral.it/wiki/4/40/Homem0156.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0156.png"
+        }
+    },
+    "stats": {
+        "quilava": {
+            "hp": 58,
+            "atk": 64,
+            "def": 58,
+            "spa": 80,
+            "spd": 65,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "quilava": 405
+    },
+    "types": {
+        "quilava": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "quilava": "19,0 kg"
+    }
+}

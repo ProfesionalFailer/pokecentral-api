@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "tutte-le-forme": {
+            "primary": "Scudosoglia"
+        }
+    },
+    "curiosities": [
+        "Minior è stato disegnato da Hitoshi Ariga.",
+        "Minior condivide la sua combinazione di tipi con Archen, Archeops, Aerodactyl e MegaAerodactyl.",
+        "Nonostante sia di tipo Volante, può imparare una sola mossa di quel tipo, Acrobazia, e solo tramite MT."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/minior.mp3",
+    "dex_entries": {
+        "forma-meteora": {
+            "sun": "Vive normalmente nello strato d'ozono, ma quando il guscio esterno si indurisce precipita a terra.",
+            "moon": "Ha avuto origine da una mutazione improvvisa di nanoparticelle. Un attacco violento può fargli perdere il guscio esterno.",
+            "ultra-sun": "Vive nello strato d’ozono, dove Pokémon più forti di lui lo cacciano per cibarsene. Spesso precipita sulla terraferma cercando di fuggire.",
+            "ultra-moon": "Il suo guscio esterno è estremamente resistente, ma quando precipita dallo strato d'ozono l'impatto con il suolo lo fa andare in mille pezzi."
+        },
+        "nucleo": {
+            "sun": "Si nutre del pulviscolo atmosferico e il suo nucleo cambia colore a seconda degli elementi assimilati.",
+            "moon": "Se il nucleo rimane esposto all'aria, inizia a disgregarsi e per mantenerlo in vita bisogna farlo entrare immediatamente in una Poké Ball.",
+            "ultra-sun": "Alola è uno dei rari luoghi in cui di notte è possibile vedere dei Minior cadere dal cielo.",
+            "ultra-moon": "Un Minior che ha perso il suo guscio. Le diverse colorazioni del nucleo dipendono dagli elementi che assimila."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "generation": 7,
+    "height": {
+        "minior": "0,3 m"
+    },
+    "id": 774,
+    "name": "Minior",
+    "name_origin": "Minior è probabilmente una combinazione di mini, piccolo, meteor, meteora, e di junior, giovane. Meteno potrebbe essere una corruzione della parola meteor, meteora. ",
+    "origin": "Minior è basato su una meteora. Inoltre, può essere ispirato dalla secolare caramella giapponese, Konpeito. Queste sono caramelle zuccherate a forma di stella che possono essere di vari colori. ",
+    "shape": "testa",
+    "specie": "Pokémon Meteora",
+    "sprites": {
+        "minior": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d3/Homem0774.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homem0774.png"
+        }
+    },
+    "stats": {
+        "forma-meteora": {
+            "hp": 60,
+            "atk": 60,
+            "def": 100,
+            "spa": 60,
+            "spd": 100,
+            "spe": 60
+        },
+        "forma-nucleo": {
+            "hp": 60,
+            "atk": 100,
+            "def": 60,
+            "spa": 100,
+            "spd": 60,
+            "spe": 120
+        }
+    },
+    "stats_sum": {
+        "forma-meteora": 440,
+        "forma-nucleo": 500
+    },
+    "types": {
+        "minior": [
+            "Roccia",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "minior": "40,0 kg"
+    }
+}

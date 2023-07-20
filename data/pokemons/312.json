@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "minun": {
+            "primary": "Meno",
+            "hidden": "Assorbivolt"
+        }
+    },
+    "curiosities": [
+        "In quinta generazione le orecchie di Minun sono a punta mentre nelle generazioni precedenti sono ricurve.",
+        "In quarta generazione si rischiarì il blu che Minun ha sul corpo in celeste.",
+        "Minun condivide la categoria con il suo partner, Plusle. Entrambi sono noti come Pokémon Incitamento.",
+        "Minun e Plusle hanno la stessa quantità di statistiche di base, anche se la distribuzione è diversa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/minun.mp3",
+    "dex_entries": {
+        "minun": {
+            "ruby": "MINUN si impegna a tenere alto il morale dei suoi compagni di squadra, anche a rischio della sua stessa sicurezza. Crea vivaci cortocircuiti con la sua elettricità fisica per rallegrare tutta la squadra.",
+            "sapphire": "MINUN ama tenere alto il morale della squadra in lotta, emanando scintille da tutto il corpo. Se la sua squadra è in difficoltà, emette una maggiore quantità di scintille.",
+            "emerald": "Secondo alcuni studiosi di POKéMON, l'esposizione all'elettricità di un PLUSLE e di un MINUN favorirebbe la circolazione sanguigna e aumenterebbe la vitalità.",
+            "firered": "Poiché odia l'acqua, quando piove si rifugia sotto i cornicioni. Incita i compagni con pompon di scintille.",
+            "leafgreen": "Poiché odia l'acqua, quando piove si rifugia sotto i cornicioni. Incita i compagni con pompon di scintille.",
+            "diamond": "Incoraggia gli amici e, se questi perdono, il suo corpo emette una maggiore quantità di scintille.",
+            "pearl": "Incoraggia gli amici e, se questi perdono, il suo corpo emette una maggiore quantità di scintille.",
+            "platinum": "Incoraggia gli amici e, se questi perdono, il suo corpo emette una maggiore quantità di scintille.",
+            "heartgold": "L'elettricità tra un PLUSLE e un MINUN favorisce la circolazione sanguigna e scioglie le tensioni.",
+            "soulsilver": "L'elettricità tra un PLUSLE e un MINUN favorisce la circolazione sanguigna e scioglie le tensioni.",
+            "black": "Incoraggia gli amici e, se questi perdono, il suo corpo emette una maggiore quantità di scintille.",
+            "white": "Incoraggia gli amici e, se questi perdono, il suo corpo emette una maggiore quantità di scintille.",
+            "black-2": "Incoraggia gli amici e, se questi perdono, il suo corpo emette una maggiore quantità di scintille.",
+            "white-2": "Incoraggia gli amici e, se questi perdono, il suo corpo emette una maggiore quantità di scintille.",
+            "x": "L'elettricità tra un Plusle e un Minun favorisce la circolazione sanguigna e scioglie le tensioni.",
+            "y": "Incoraggia gli amici e, se questi perdono, il suo corpo emette una maggiore quantità di scintille.",
+            "omega-ruby": "Minun si impegna a tenere alto il morale dei suoi compagni di squadra, anche a rischio della sua stessa sicurezza. Crea vivaci cortocircuiti con la sua elettricità fisica per rallegrare tutta la squadra.",
+            "alpha-sapphire": "Minun ama tenere alto il morale della squadra nella lotta, emanando scintille da tutto il corpo. Se la sua squadra è in difficoltà, emette una maggiore quantità di scintille.",
+            "brilliant-diamond": "Fa il tifo per i suoi amici e, se questi stanno per perdere, il suo corpo emette una maggiore quantità di scintille.",
+            "shining-pearl": "Fa il tifo per i suoi amici e, se questi stanno per perdere, il suo corpo emette una maggiore quantità di scintille."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "generation": 3,
+    "height": {
+        "minun": "0,40 m"
+    },
+    "id": 312,
+    "name": "Minun",
+    "name_origin": "Il nome Minun è basato su minus, meno, riferendosi a qualcosa con una carica elettrica negativa. ",
+    "origin": "Sembra essere basato su un topo o un coniglio. ",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Incitamento",
+    "sprites": {
+        "minun": {
+            "default": "https://media.pokemoncentral.it/wiki/7/74/Homem0312.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0a/Homemsh0312.png"
+        }
+    },
+    "stats": {
+        "minun": {
+            "hp": 60,
+            "atk": 40,
+            "def": 50,
+            "spa": 75,
+            "spd": 85,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "minun": 405
+    },
+    "types": {
+        "minun": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "minun": "4,2 kg"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "litleo": {
+            "primary": "Antagonismo",
+            "secondary": "Agitazione",
+            "hidden": "Arroganza"
+        }
+    },
+    "curiosities": [
+        "Litleo e Pyroar sono gli unici Pokémon a possedere il doppio tipo Fuoco/Normale.",
+        "Litleo è l'unico Pokémon con un totale di statistiche base pari a 369.",
+        "La sua linea evolutiva è la sola ad avere una probabilità di 7♀:1♂."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/litleo.mp3",
+    "dex_entries": {
+        "litleo": {
+            "x": "Più l'avversario che affronta è temibile, più la sua criniera si scalda, aumentandone la forza.",
+            "y": "Si allontana dal gruppo e inizia una vita solitaria per diventare più forte. Ha un carattere impetuoso ed è sempre pronto a gettarsi nella mischia.",
+            "omega-ruby": "Più l'avversario che affronta è temibile, più la sua criniera si scalda, aumentandone la forza.",
+            "alpha-sapphire": "Si allontana dal gruppo e inizia una vita solitaria per diventare più forte. Ha un carattere impetuoso ed è sempre pronto a gettarsi nella mischia.",
+            "ultra-sun": "Da piccolo vive in gruppo con i suoi simili, ma appena impara a catturare da solo le sue prede viene allontanato e diventa indipendente.",
+            "ultra-moon": "Ha una spiccata curiosità ed è pieno di energie. Quando si arrabbia o si appresta a lottare, la sua corta criniera si scalda.",
+            "scarlet": "Da cucciolo impara a cacciare dalle femmine di Pyroar. Una volta cresciuto, si allontana dal gruppo per vivere in autonomia.",
+            "violet": "Più un Litleo ha allenato corpo e spirito lottando contro nemici potenti, più alta è la temperatura della sua criniera."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "generation": 6,
+    "height": {
+        "litleo": "0,6 m"
+    },
+    "id": 667,
+    "name": "Litleo",
+    "name_origin": "Litleo è una combinazione tra little  e leo. Shishiko è una combinazione tra 獅子 shishi  e 子 ko . ",
+    "origin": "Litleo è basato su un cucciolo di leone. ",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Leoncino",
+    "sprites": {
+        "litleo": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4c/Homem0667.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b0/Homemsh0667.png"
+        }
+    },
+    "stats": {
+        "litleo": {
+            "hp": 62,
+            "atk": 50,
+            "def": 58,
+            "spa": 73,
+            "spd": 54,
+            "spe": 72
+        }
+    },
+    "stats_sum": {
+        "litleo": 369
+    },
+    "types": {
+        "litleo": [
+            "Normale",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "litleo": "13,5 kg"
+    }
+}
