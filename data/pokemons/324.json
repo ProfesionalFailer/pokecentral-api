@@ -46,6 +46,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "torkoal",
     "generation": 3,
     "height": {
         "torkoal": "0,50 m"
@@ -54,13 +55,16 @@
     "name": "Torkoal",
     "name_origin": "Il nome potrebbe derivare dall'unione delle parole inglesi tortoise , oppure torch  e coal . ",
     "origin": "Torkoal è basato su una tartaruga gigante con caratteristiche da forno o stufa di cucina a causa anche delle cavità del guscio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Torkoal",
     "shape": "più di 4 arti",
     "specie": "Pokémon Carbone",
     "sprites": {
         "torkoal": {
             "default": "https://media.pokemoncentral.it/wiki/e/eb/Homem0324.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0324.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0324.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/84/Artwork0324_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/89/Artwork0324_RZ.png"
     },
     "stats": {
         "torkoal": {

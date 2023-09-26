@@ -28,6 +28,7 @@
         "Erba",
         "Minerale"
     ],
+    "flat_name": "ferroseed",
     "generation": 5,
     "height": {
         "ferroseed": "0,6 m"
@@ -36,13 +37,16 @@
     "name": "Ferroseed",
     "name_origin": "Ferroseed potrebbe derivare dall'unione della parola italiana ferro e quella inglese seed . ",
     "origin": "Ferroseed è basato su un frutto o un seme spinoso, quali la nappola spinosa, il durian, l'ippocastano, o la mela delle spine. Inoltre si basa sulla parte culminante di un mazzafrusto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ferroseed",
     "shape": "testa",
     "specie": "Pokémon Spinaseme",
     "sprites": {
         "ferroseed": {
             "default": "https://media.pokemoncentral.it/wiki/8/8a/Homem0597.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2e/Homemsh0597.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2e/Homemsh0597.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cc/Artwork0597_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/82/Artwork0597_NB.png"
     },
     "stats": {
         "ferroseed": {

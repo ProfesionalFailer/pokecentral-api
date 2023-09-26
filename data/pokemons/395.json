@@ -39,6 +39,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "empoleon",
     "generation": 4,
     "height": {
         "empoleon": "1,7 m"
@@ -47,13 +48,16 @@
     "name": "Empoleon",
     "name_origin": "Deriva dalle parole emperor, imperatore, pole, polo, come in Polo Sud, e il nome Napoleon, Napoleone Bonaparte. ",
     "origin": "Basato su un pinguino imperatore o su un pinguino reale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Empoleon",
     "shape": "due paia di ali",
     "specie": "Pokémon Imperatore",
     "sprites": {
         "empoleon": {
             "default": "https://media.pokemoncentral.it/wiki/2/22/Homem0395.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/19/Homemsh0395.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/19/Homemsh0395.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d2/Artwork0395_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fe/Artwork0395_DP.png"
     },
     "stats": {
         "empoleon": {
@@ -70,8 +74,8 @@
     },
     "types": {
         "empoleon": [
-            "Acciaio",
-            "Acqua"
+            "Acqua",
+            "Acciaio"
         ]
     },
     "weight": {

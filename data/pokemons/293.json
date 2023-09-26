@@ -41,6 +41,7 @@
         "Mostro",
         "Campo"
     ],
+    "flat_name": "whismur",
     "generation": 3,
     "height": {
         "whismur": "0,60 m"
@@ -49,13 +50,16 @@
     "name": "Whismur",
     "name_origin": "Il nome deriva dall'unione delle parole inglesi whisper  e murmur . ",
     "origin": "Whismur si basa su un coniglio o un peluche e le orecchie assomigliano a delle cuffie che vengono utilizzate per proteggere le orecchie contro i forti rumori. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Whismur",
     "shape": "due paia di ali",
     "specie": "Pokémon Sussurro",
     "sprites": {
         "whismur": {
             "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0293.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/bf/Homemsh0293.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bf/Homemsh0293.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c3/Artwork0293_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c9/Artwork0293_RZ.png"
     },
     "stats": {
         "whismur": {

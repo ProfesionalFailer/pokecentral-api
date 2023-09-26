@@ -24,6 +24,7 @@
     "egg_groups": [
         "Drago"
     ],
+    "flat_name": "hakamo-o",
     "generation": 7,
     "height": {
         "hakamo-o": "1,2 m"
@@ -32,13 +33,16 @@
     "name": "Hakamo-o",
     "name_origin": "Hakamo-o potrebbe essere una combinazione di Haka, un tipo di danza Māori, e da mo'o, hawaiano per drago o lucertola. Jarango potrebbe essere una combinazione di ジャラジャラ jarajara, suono onomatopeico del tintinnio, e di dragon, inglese per drago. ",
     "origin": "Hakamo-o è probabilmente basato su un dinosauro teropode con alcuni tratti somiglianti all'Anchilosauro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hakamo-o",
     "shape": "due paia di ali",
     "specie": "Pokémon Squama",
     "sprites": {
         "hakamo-o": {
             "default": "https://media.pokemoncentral.it/wiki/d/d7/Homem0783.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0783.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0783.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/86/Artwork0783_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a7/Artwork0783_SL.png"
     },
     "stats": {
         "hakamo-o": {
@@ -55,8 +59,8 @@
     },
     "types": {
         "hakamo-o": [
-            "Lotta",
-            "Drago"
+            "Drago",
+            "Lotta"
         ]
     },
     "weight": {

@@ -30,6 +30,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "cetoddle",
     "generation": 9,
     "height": {
         "cetoddle": "1,2 m"
@@ -38,13 +39,16 @@
     "name": "Cetoddle",
     "name_origin": "Cetoddle potrebbe derivare dall'unione delle parole cetacean, inglese per cetaceo, e toddler, inglese per bambino piccolo. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cetoddle",
     "shape": "None",
     "specie": "Pokémon Balenotterra",
     "sprites": {
         "cetoddle": {
             "default": "https://media.pokemoncentral.it/wiki/1/10/Homem0974.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2a/Homemsh0974.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2a/Homemsh0974.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/98"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0974_SV.png"
     },
     "stats": {
         "cetoddle": {

@@ -40,6 +40,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "swalot",
     "generation": 3,
     "height": {
         "swalot": "1,7 m"
@@ -48,17 +49,20 @@
     "name": "Swalot",
     "name_origin": "Il nome Swalot potrebbe derivare dall'unione di swallow, inghiottire, e a lot, molto. Il nome Marunoom potrebbe derivare dall'unione di 丸呑み marunomi, inghiottire per intero, e 呑む nomu, inglobare. ",
     "origin": "Swalot potrebbe essere basato su una miriade di vari organi o ghiandole, come uno stomaco, una cistifellea o una singola ghiandola velenosa gigante. Potrebbe anche essere basato su un organismo generico che utilizza pseudopodi. La sua forma generale ricorda quella di una lumaca. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Swalot",
     "shape": "insettoide",
     "specie": "Pokémon Velenosacco",
     "sprites": {
-        "": {
+        "swalot": {
             "default": "https://media.pokemoncentral.it/wiki/f/f6/Homem0317.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1e/Homemsh0317.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1e/Homemsh0317.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/75/Artwork0317_Corp.png"
         },
-        "-f": {
+        "swalot-f": {
             "default": "https://media.pokemoncentral.it/wiki/b/b0/Homef0317.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homefsh0317.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d2/Artwork0317_RZ.png"
     },
     "stats": {
         "swalot": {

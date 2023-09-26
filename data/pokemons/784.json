@@ -26,6 +26,7 @@
     "egg_groups": [
         "Drago"
     ],
+    "flat_name": "kommo-o",
     "generation": 7,
     "height": {
         "kommo-o": "1,6 m",
@@ -35,13 +36,16 @@
     "name": "Kommo-o",
     "name_origin": "Kommo-o potrebbe essere una combinazione di commander, comandante, mo'o, e drago o lucertola in hawaiano. Potrebbe derivare anche da combat, combattere, e da komodo . Jararanga potrebbe essere una combinazione di ジャラジャラ jarajara, suono onomatopeico del tintinnio, dragon, drago, e がらんがらん garangaran, suono onomatopeico di un rumore metallico. ",
     "origin": "Kommo-o è probabilmente basato su un dinosauro teropode con alcuni tratti somiglianti all'Anchilosauro. Può anche essere basato su un monaco. La coda di Kommo-o assomiglia a un Khakkhara. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kommo-o",
     "shape": "due paia di ali",
     "specie": "Pokémon Squama",
     "sprites": {
         "kommo-o": {
             "default": "https://media.pokemoncentral.it/wiki/a/a4/Homem0784.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0784.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0784.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/41/Artwork0784_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c3/Artwork0784_SL.png"
     },
     "stats": {
         "kommo-o": {
@@ -58,8 +62,8 @@
     },
     "types": {
         "kommo-o": [
-            "Lotta",
-            "Drago"
+            "Drago",
+            "Lotta"
         ]
     },
     "weight": {

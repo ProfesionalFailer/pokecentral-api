@@ -19,6 +19,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "pawmot",
     "generation": 9,
     "height": {
         "pawmot": "0,9 m"
@@ -27,13 +28,16 @@
     "name": "Pawmot",
     "name_origin": "Pawmot potrebbe essere una combinazione di Pawmi e marmot . Pamotto potrebbe essere una combinazione di パモ Pamo  e marmot. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pawmot",
     "shape": "None",
     "specie": "Pokémon Toccasana",
     "sprites": {
         "pawmot": {
             "default": "https://media.pokemoncentral.it/wiki/f/f3/Homem0923.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0b/Homemsh0923.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0b/Homemsh0923.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e0/Artwork0923_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9c/Artwork0923_SV.png"
     },
     "stats": {
         "pawmot": {

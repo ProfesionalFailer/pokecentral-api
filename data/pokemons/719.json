@@ -13,8 +13,7 @@
         "È l'unico Pokémon introdotto in sesta generazione in grado di megaevolversi.",
         "È l'unico Pokémon misterioso in grado di megaevolversi.",
         "Diancie aveva, a pari merito con Deoxys, la più bassa statistica base di PS fra i Pokémon misteriosi prima di Pokémon: Let's Go, Pikachu! e Let's Go, Eevee!, quando il primato è passato a Meltan.",
-        "MegaDiancie è al secondo posto per il totale di statistiche base più alto tra i Pokémon misteriosi, superato solo da Arceus.\n\tMegaDiancie è anche al secondo posto per il totale di statistiche base più alto tra i Pokémon di tipo Folletto, superato da Zacian Re delle Spade.\n\tMegaDiancie primeggia, insieme a MegaTyranitar, per il totale di statistiche base più alto tra i Pokémon di tipo Roccia, escludendo Arceus mentre tiene la Lastrapietra.",
-        "MegaDiancie è anche al secondo posto per il totale di statistiche base più alto tra i Pokémon di tipo Folletto, superato da Zacian Re delle Spade.",
+        "MegaDiancie è al secondo posto per il totale di statistiche base più alto tra i Pokémon misteriosi, superato solo da Arceus.\n\tMegaDiancie primeggia, insieme a MegaTyranitar, per il totale di statistiche base più alto tra i Pokémon di tipo Roccia, escludendo Arceus mentre tiene la Lastrapietra.",
         "MegaDiancie primeggia, insieme a MegaTyranitar, per il totale di statistiche base più alto tra i Pokémon di tipo Roccia, escludendo Arceus mentre tiene la Lastrapietra."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/diancie.mp3",
@@ -29,6 +28,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "diancie",
     "generation": 6,
     "height": {
         "diancie": "0,7 m",
@@ -36,19 +36,22 @@
     },
     "id": 719,
     "name": "Diancie",
-    "name_origin": "Diancie potrebbe essere la combinazione di Diamond , Fancy  e 石 Ishi . ",
-    "origin": "Diancie è basato su un Carbuncle, una creatura mitologica simile ad una fata che si dice abbia un gioiello incorporato sulla fronte. ",
+    "name_origin": "Diancie potrebbe essere la combinazione di diamond , fancy  e 石 ishi . ",
+    "origin": "Diancie è basato su un carbuncle, una creatura mitologica simile ad una fata che si dice abbia un gioiello incorporato sulla fronte. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Diancie",
     "shape": "insettoide",
     "specie": "Pokémon Gemma",
     "sprites": {
         "diancie": {
             "default": "https://media.pokemoncentral.it/wiki/1/12/Homem0719.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0719.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0719.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/97/Artwork0719M_Corp_2.png"
         },
         "megadiancie": {
             "default": "https://media.pokemoncentral.it/wiki/7/7c/Homem0719M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0719M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cf/Artwork0719_XY.png"
     },
     "stats": {
         "diancie": {

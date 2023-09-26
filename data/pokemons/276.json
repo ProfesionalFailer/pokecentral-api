@@ -36,6 +36,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "taillow",
     "generation": 3,
     "height": {
         "taillow": "0,30 m"
@@ -44,13 +45,16 @@
     "name": "Taillow",
     "name_origin": "È una combinazione di parole: \"tail\", coda, e \"swallow\", rondine. ",
     "origin": "È ispirato ad una rondine. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Taillow",
     "shape": "testa e base",
     "specie": "Pokémon Rondine",
     "sprites": {
         "taillow": {
             "default": "https://media.pokemoncentral.it/wiki/c/c1/Homem0276.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c3/Homemsh0276.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c3/Homemsh0276.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d9/Artwork0276_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/61/Artwork0276_RZ.png"
     },
     "stats": {
         "taillow": {
@@ -67,8 +71,8 @@
     },
     "types": {
         "taillow": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

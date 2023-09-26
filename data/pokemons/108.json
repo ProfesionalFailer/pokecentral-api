@@ -56,6 +56,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "lickitung",
     "generation": 1,
     "height": {
         "lickitung": "1,2 m"
@@ -64,13 +65,16 @@
     "name": "Lickitung",
     "name_origin": "Il nome di Lickitung è una corruzione e una combinazione dell'inglese \"lick\", \"leccare\" e \"tongue\", \"lingua\". ",
     "origin": "Potrebbe essere basato su certi tipi di lucertole dotate di lingue estensibili, come la Tiliqua, o gli stessi camaleonti. Condivide certune caratteristiche anche con i formichieri. L'artiglio sul pollice lo collega anche all'iguanodonte. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lickitung",
     "shape": "due paia di ali",
     "specie": "Pokémon Linguaccia",
     "sprites": {
         "lickitung": {
             "default": "https://media.pokemoncentral.it/wiki/c/ca/Homem0108.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh0108.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh0108.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/48/Artwork0108_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/10/Artwork0108_RFVF.png"
     },
     "stats": {
         "lickitung": {

@@ -23,6 +23,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "espurr",
     "generation": 6,
     "height": {
         "espurr": "0,3 m"
@@ -31,13 +32,16 @@
     "name": "Espurr",
     "name_origin": "Il suo nome deriva probabilmente dall'unione tra l'acronimo inglese ESP  e purr . Inoltre ricorda vagamente Esper . ",
     "origin": "Espurr è basato su un gatto, in particolare su uno Scottish Fold. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Espurr",
     "shape": "due paia di ali",
     "specie": "Pokémon Moderazione",
     "sprites": {
         "espurr": {
             "default": "https://media.pokemoncentral.it/wiki/3/3d/Homem0677.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0677.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0677.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f9/Artwork0677_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/48/Artwork0677_XY.png"
     },
     "stats": {
         "espurr": {

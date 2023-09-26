@@ -55,6 +55,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "murkrow",
     "generation": 2,
     "height": {
         "murkrow": "0,5 m"
@@ -63,17 +64,20 @@
     "name": "Murkrow",
     "name_origin": "Deriva dalle parole inglesi \"Murky\"  e \"Crow\" , oppure da \"Murder\" . ",
     "origin": "Murkrow è ispirato ai corvi, più specificatamente alle cornacchie nere, ma il becco di colore giallo lo riconduce anche al merlo. La sua cresta ricorda quella delle Aquile Black-Hawk, oppure potrebbe essere ispirato a un cappello da strega, cosi come la sua coda ricorda una scopa ricordando dunque una strega in volo. Potrebbe anche essere ispirato a una gang di teppisti, visto che loro sono sempre sotto la guida di un Honchkrow, la capacità di imitare i suoi è un riferimento al fatto che i corvi pure possono imitare i suoni. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Murkrow",
     "shape": "testa e base",
     "specie": "Pokémon Oscurità",
     "sprites": {
-        "": {
+        "murkrow": {
             "default": "https://media.pokemoncentral.it/wiki/e/e2/Homem0198.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/73/Homemsh0198.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/73/Homemsh0198.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c6/Artwork0198_Corp.png"
         },
-        "-f": {
+        "murkrow-f": {
             "default": "https://media.pokemoncentral.it/wiki/3/38/Homef0198.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homefsh0198.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0198_RFVF.png"
     },
     "stats": {
         "murkrow": {
@@ -90,8 +94,8 @@
     },
     "types": {
         "murkrow": [
-            "Buio",
-            "Volante"
+            "Volante",
+            "Buio"
         ]
     },
     "weight": {

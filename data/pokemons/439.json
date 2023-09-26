@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "mime-jr.": {
+        "mime-jr": {
             "primary": "Antisuono",
             "secondary": "Filtro",
             "hidden": "Tecnico"
@@ -16,7 +16,7 @@
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mimejr..mp3",
     "dex_entries": {
-        "mime-jr.": {
+        "mime-jr": {
             "diamond": "Imita i movimenti dei nemici. Quando un nemico viene imitato, non riesce più a distogliere lo sguardo da lui.",
             "pearl": "Ama i luoghi affollati. Imita i nemici per confonderli, poi ne approfitta per fuggire.",
             "platinum": "Imita i movimenti e le espressioni di coloro che vede per capire i sentimenti degli altri.",
@@ -42,24 +42,28 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "mime-jr",
     "generation": 4,
     "height": {
-        "mime-jr.": "0,6 m"
+        "mime-jr": "0,6 m"
     },
     "id": 439,
     "name": "Mime Jr.",
     "name_origin": "Il suo nome è un ovvio riferimento al fatto che si tratta della pre-evoluzione di Mr. Mime. ",
     "origin": "È basato su un mimo ed un clown. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mime_Jr.",
     "shape": "un paio di ali",
     "specie": "Pokémon Mimo",
     "sprites": {
-        "mime-jr.": {
+        "mime-jr": {
             "default": "https://media.pokemoncentral.it/wiki/f/f9/Homem0439.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0439.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0439.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bb/Artwork0439_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/46/Artwork0439_DP.png"
     },
     "stats": {
-        "mime-jr.": {
+        "mime-jr": {
             "hp": 20,
             "atk": 25,
             "def": 45,
@@ -69,15 +73,15 @@
         }
     },
     "stats_sum": {
-        "mime-jr.": 310
+        "mime-jr": 310
     },
     "types": {
-        "mime-jr.": [
+        "mime-jr": [
             "Psico",
             "Folletto"
         ]
     },
     "weight": {
-        "mime-jr.": "13,0 kg"
+        "mime-jr": "13,0 kg"
     }
 }

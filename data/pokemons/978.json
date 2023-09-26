@@ -38,6 +38,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "tatsugiri",
     "generation": 9,
     "height": {
         "tatsugiri": "0,3 m"
@@ -46,12 +47,14 @@
     "name": "Tatsugiri",
     "name_origin": "Tatsugiri deriva dall'unione di 竜 tatsu, drago in giapponese e nigirizushi o おにぎり onigiri,\npalla di riso in giapponese. ",
     "origin": "Tatsugiri sembra essere basato sul sushi, specificamente il nigirizushi . Le sue forme somigliano rispettivamente al nigiri di gamberi, di tonno e di uova. La sua capacità di entrare nella bocca di un Dondozo è un possibile riferimento al pidocchio mangia lingua, un crostaceo parassita che si attacca alla linga dei pesci per rubare loro il cibo. Il suo tipo drago portrebbe essere un riferimento al Dragon Roll, un tipo di sushi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tatsugiri",
     "shape": "None",
     "specie": "Pokémon Mimetico",
     "sprites": {
         "forma-arcuata": {
             "default": "https://media.pokemoncentral.it/wiki/6/66/Homem0978.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0978.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0978.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/eb"
         },
         "forma-adagiata": {
             "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem0978A.png",
@@ -60,7 +63,8 @@
         "forma-tesa": {
             "default": "https://media.pokemoncentral.it/wiki/7/73/Homem0978T.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0978T.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/40/Artwork0978_SV.png"
     },
     "stats": {
         "tatsugiri": {
@@ -77,8 +81,8 @@
     },
     "types": {
         "tatsugiri": [
-            "Acqua",
-            "Drago"
+            "Drago",
+            "Acqua"
         ]
     },
     "weight": {

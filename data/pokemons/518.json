@@ -28,6 +28,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "musharna",
     "generation": 5,
     "height": {
         "musharna": "1,1 m"
@@ -36,13 +37,16 @@
     "name": "Musharna",
     "name_origin": "Musharna è una combinazione dei temini giapponesi ムシャムシャ mushamusha , 夢 mu  e l'inglese moon  e il corrispettivo latino o italiano luna. ",
     "origin": "Musharna è probabilmente basato sul koro, un bruciatore d'incenso tipico giapponese. I koro, come i salvadanai, possono avere la forma di un porcellino, oppure essere decorati in svariati modi fra i quali ricorrono i motivi floreali. Si ispira inoltre al Baku, una creatura mitologica simile a un tapiro che divora gli incubi allontanando il male. Ha una curiosa somiglianza ad un feto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Musharna",
     "shape": "un paio di ali",
     "specie": "Pokémon Dormiveglia",
     "sprites": {
         "musharna": {
             "default": "https://media.pokemoncentral.it/wiki/6/64/Homem0518.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0518.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0518.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0518_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b4/Artwork0518_NB.png"
     },
     "stats": {
         "musharna": {

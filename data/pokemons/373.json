@@ -60,6 +60,7 @@
     "egg_groups": [
         "Drago"
     ],
+    "flat_name": "salamence",
     "generation": 3,
     "height": {
         "salamence": "1,5 m",
@@ -69,17 +70,21 @@
     "name": "Salamence",
     "name_origin": "Salamence deriva dall'unione delle parole inglesi salamander  e menace  o vengance  o vehemence  o violence . ",
     "origin": "Salamence sembra basato sul classico drago europeo sputafuoco e su un varano di Komodo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Salamence",
     "shape": "più di 4 arti",
     "specie": "Pokémon Drago",
     "sprites": {
         "salamence": {
             "default": "https://media.pokemoncentral.it/wiki/2/2a/Homem0373.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/ab/Homemsh0373.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ab/Homemsh0373.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/81/Artwork0373_Corp.png"
         },
         "megasalamence": {
             "default": "https://media.pokemoncentral.it/wiki/7/79/Homem0373M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homemsh0373M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homemsh0373M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fa/Artwork0373M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/98/Artwork0373_RZ.png"
     },
     "stats": {
         "salamence": {
@@ -105,8 +110,8 @@
     },
     "types": {
         "salamence": [
-            "Volante",
-            "Drago"
+            "Drago",
+            "Volante"
         ]
     },
     "weight": {

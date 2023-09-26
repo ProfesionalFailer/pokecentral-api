@@ -52,6 +52,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "jynx",
     "generation": 1,
     "height": {
         "jynx": "1,4 m"
@@ -60,13 +61,16 @@
     "name": "Jynx",
     "name_origin": "Il suo nome deriva dalla parola inglese jinx . ",
     "origin": "Jynx è basata su di un gioco di parole. Principalmente si ispira alla yamanba , uno youkai che appare come un'orrida vecchia dai lunghi capelli ingialliti che indossa un vecchio kimono a brandelli: abita nelle montagne e assalle sia bambini che viaggiatori, corre come il vento e può fare uso di potenti incantesimi. La parola yamanba è anche usata come slang per descrivere il lato più estremo della moda ganguro, caratterizzato da capelli decolorati, trucco pesante  e una forte abbronzatura artificiale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Jynx",
     "shape": "un paio di ali",
     "specie": "Pokémon Umanoide",
     "sprites": {
         "jynx": {
             "default": "https://media.pokemoncentral.it/wiki/7/7a/Homef0124.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0c/Homefsh0124.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0c/Homefsh0124.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cf/Artwork0124_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4a/Artwork0124_RFVF.png"
     },
     "stats": {
         "jynx": {

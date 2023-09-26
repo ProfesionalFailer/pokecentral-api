@@ -1,0 +1,38 @@
+.row {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.row>[class*='col-'] {
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    overflow-x: hidden;
+    /* Hide scrollbars */
+}
+
+.hints button {
+    border-radius: 15px 5px;
+}
+
+.hints .btn-outline-primary {
+    pointer-events: none;
+}
+
+.border-box {
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 0 20px;
+    margin-top: 5px;
+}
+
+.border-center {
+    padding: 0 20px;
+    margin-top: 5px;
+    text-align: center;
+}

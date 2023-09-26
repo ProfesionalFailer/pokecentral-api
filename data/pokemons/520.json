@@ -27,6 +27,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "tranquill",
     "generation": 5,
     "height": {
         "tranquill": "0,6 m"
@@ -35,13 +36,16 @@
     "name": "Tranquill",
     "name_origin": "Il nome deriva dall'inglese tranquil  e quill . Il nome giapponese Hatoboh potrebbe essere un'unione di 鳩 hato  e 逃亡 tōbō  o bō . Inoltre potrebbe derivare da イーハトーヴ Ihatov, un mondo immaginario utopico che appare in alcune opere di Kenji Miyazawa . ",
     "origin": "Il comportamento di Tranquill potrebbe essere basato su una colomba  o su un piccione viaggiatore . Il suo aspetto ricorda un corridore della strada o un serpentario. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tranquill",
     "shape": "testa e base",
     "specie": "Pokémon Granpiccione",
     "sprites": {
         "tranquill": {
             "default": "https://media.pokemoncentral.it/wiki/0/01/Homem0520.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homemsh0520.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homemsh0520.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cd/Artwork0520_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ef/Artwork0520_NB.png"
     },
     "stats": {
         "tranquill": {
@@ -58,8 +62,8 @@
     },
     "types": {
         "tranquill": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

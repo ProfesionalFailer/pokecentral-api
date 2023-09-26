@@ -37,6 +37,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "dusknoir",
     "generation": 4,
     "height": {
         "dusknoir": "2,2 m"
@@ -45,13 +46,16 @@
     "name": "Dusknoir",
     "name_origin": "Deriva dalle parole dusk  con la parola francese noir . ",
     "origin": "Dusknoir sembra essere ispirato a un ciclope fantasma, l'ispirazione potrebbe anche essere data dallo Yamawarawa, una creatura con un occhio solo della mitologia giapponese che vive nelle montagna, mentre il fatto che riceve trasmissioni dall'oltretomba potrebbe essere ispirato al fenomeno paranormale delle voci elettroniche. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dusknoir",
     "shape": "insettoide",
     "specie": "Pokémon Pinza",
     "sprites": {
         "dusknoir": {
             "default": "https://media.pokemoncentral.it/wiki/3/35/Homem0477.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a1/Homemsh0477.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a1/Homemsh0477.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4d/Artwork0477_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0477_DP.png"
     },
     "stats": {
         "dusknoir": {

@@ -33,6 +33,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "sandile",
     "generation": 5,
     "height": {
         "sandile": "0,7 m"
@@ -41,13 +42,16 @@
     "name": "Sandile",
     "name_origin": "Il nome Sandile è la combinazione delle parole sand  e crocodile . Il suo nome giapponese, メグロコ Meguroco, probabilmente deriva dalla parola 目黒 meguro  e dall'inglese crocodile . ",
     "origin": "Sandile è probabilmente basto su un coccodrillo catafratto, anche se presenta tratti ricordanti un caimano dagli occhiali e di uno scinco. Il suo corpo a righe è simile allo stereotipo di un ladro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sandile",
     "shape": "più di 4 arti",
     "specie": "Pokémon Sabbiadrillo",
     "sprites": {
         "sandile": {
             "default": "https://media.pokemoncentral.it/wiki/c/c8/Homem0551.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/94/Homemsh0551.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/94/Homemsh0551.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5c/Artwork0551_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/22/Artwork0551_NB.png"
     },
     "stats": {
         "sandile": {

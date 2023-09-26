@@ -19,6 +19,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "tinkaton",
     "generation": 9,
     "height": {
         "tinkaton": "0,7 m"
@@ -27,13 +28,16 @@
     "name": "Tinkaton",
     "name_origin": "Tinkaton potrebbe essere una combinazione di tinker  e gigaton o ton . ",
     "origin": "Tinkaton potrebbe essere basata sulla figura del nano del folklore germanico, rappresentato come un essere umanoide molto basso dedito soprattutto all'estrazione di minerali e alla forgiatura di armi e armature. L'abitudine di attaccare i Corviknight in volo la associa inoltre ai gremlin, descritti come folletti dispettosi che giocavano brutti scherzi ai piloti dell'aviazione britannica. L'aspetto femminile e gracile associato al martello potrebbe inoltre ricordare il tropo della ragazza con il super martello, tipico di personaggi quali Amy Rose nell'anime Sonic X o Harley Quinn nelle opere DC Comics. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tinkaton",
     "shape": "None",
     "specie": "Pokémon Martello",
     "sprites": {
         "tinkaton": {
             "default": "https://media.pokemoncentral.it/wiki/c/cb/Homef0959.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homemsh0959.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homemsh0959.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fc/Artwork0959_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1f/Artwork0959_SV.png"
     },
     "stats": {
         "tinkaton": {
@@ -50,8 +54,8 @@
     },
     "types": {
         "tinkaton": [
-            "Acciaio",
-            "Folletto"
+            "Folletto",
+            "Acciaio"
         ]
     },
     "weight": {

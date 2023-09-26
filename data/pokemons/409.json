@@ -40,6 +40,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "rampardos",
     "generation": 4,
     "height": {
         "rampardos": "1,6 m"
@@ -48,13 +49,16 @@
     "name": "Rampardos",
     "name_origin": "Deriva dalle parole rampage  o rampart  con il suffisso -don  o dal francese os . ",
     "origin": "Basato su un pachicefalosauro con caratteristiche dello stygimoloch. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rampardos",
     "shape": "due paia di ali",
     "specie": "Pokémon Cranioso",
     "sprites": {
         "rampardos": {
             "default": "https://media.pokemoncentral.it/wiki/a/ac/Homem0409.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0409.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0409.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7b/Artwork0409_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/eb/Artwork0409_DP.png"
     },
     "stats": {
         "rampardos": {

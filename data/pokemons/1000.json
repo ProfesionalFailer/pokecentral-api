@@ -1,59 +1,63 @@
 {
     "abilities": {
-        "wo-chien": {
-            "primary": "Amuleto Nefasto"
+        "gholdengo": {
+            "primary": "Corpo Aureo"
         }
     },
     "curiosities": [
-        "Wo-Chien è uno dei Pokémon con caratteri non alfabetici nel nome.",
-        "È uno dei Pokémon con più debolezze, ben 7."
+        "Gholdengo, Slowbro di Galar e Slowking di Galar sono gli unici Pokémon ad ottenere un secondo tipo evolvendosi, ma che hanno il nuovo tipo come tipo primario anziché secondario.",
+        "Nonostante il suo nome giapponese, la sua immagine nel Pokédex e la sua capacità di creare una tavola da surf mentre attraversa l'acqua, Gholdengo non è in grado di imparare la mossa Surf."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/wo-chien.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gholdengo.mp3",
     "dex_entries": {
-        "wo-chien": {
-            "scarlet": "Prese vita quando delle foglie secche si unirono all'astio di una persona punita per aver scritto le malefatte di un re su delle tavolette di legno.",
-            "violet": "Riesce ad assorbire l'energia vitale della vegetazione, facendo seccare all'istante i boschi e rendendo sterili i campi."
+        "gholdengo": {
+            "scarlet": "Pare che il suo corpo sia formato da 1.000 monete. È molto socievole e fa subito amicizia con chiunque.",
+            "violet": "Il suo corpo, formato da pile di monete, è molto robusto. Annienta i nemici lanciando raffiche di monete."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "gholdengo",
     "generation": 9,
     "height": {
-        "wo-chien": "1,5 m"
+        "gholdengo": "1,2 m"
     },
     "id": 1000,
-    "name": "Wo-Chien",
-    "name_origin": "Wo-Chien potrebbe essere una combinazione di 蝸 / 蜗 wō  e 簡 / 简 jiǎn . Chionjen potrebbe essere una combinazione di 蟲 / 虫 chóng  e 簡 / 简 jiǎn . ",
-    "origin": "Secondo la professoressa Morasia, questo Pokémon, assieme al Quartetto nefasto, in realtà sarebbe un dono offerto a un re. Dopo che i Pokémon leggendari videro la malizia di quest'ultimo, scatenarono la loro furia sul tiranno e, pertanto, furono sigillati in degli appositi templi a Paldea. ",
+    "name": "Gholdengo",
+    "name_origin": "Gholdengo potrebbe essere una combinazione di golden  e ghost . Surfugo potrebbe essere una combinazione di surf e gold . ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gholdengo",
     "shape": "None",
-    "specie": "Pokémon Disgrazia",
+    "specie": "Pokémon Tesoro",
     "sprites": {
-        "wo-chien": {
-            "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem1001.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh1001.png"
-        }
+        "gholdengo": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem1000.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh1000.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e6"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork1000_SV.png"
     },
     "stats": {
-        "wo-chien": {
-            "hp": 85,
-            "atk": 85,
-            "def": 100,
-            "spa": 95,
-            "spd": 135,
-            "spe": 70
+        "gholdengo": {
+            "hp": 87,
+            "atk": 60,
+            "def": 95,
+            "spa": 133,
+            "spd": 91,
+            "spe": 84
         }
     },
     "stats_sum": {
-        "wo-chien": 570
+        "gholdengo": 550
     },
     "types": {
-        "wo-chien": [
-            "Erba",
-            "Buio"
+        "gholdengo": [
+            "Spettro",
+            "Acciaio"
         ]
     },
     "weight": {
-        "wo-chien": "74,2 kg"
+        "gholdengo": "30,0 kg"
     }
 }

@@ -24,6 +24,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "spritzee",
     "generation": 6,
     "height": {
         "spritzee": "0,2 m"
@@ -32,13 +33,16 @@
     "name": "Spritzee",
     "name_origin": "Spritzee potrebbe derivare dalla parola inglese spritz . Shushupu potrebbe derivare da プシュー pushū . ",
     "origin": "Sembra essere basato su di un uccello, quali il fenicottero, il corvo, o un trochilide. Il piumaggio rosato e la forma del becco ricordano il cacatua del maggiore Mitchell. La chiazza tonda e bianca sul volto, richiama le maschere carnevalesche indossate tradizionalmente in Europa centrale e meridionale, ma è più probabilmente un riferimento al medico della peste, la cui maschera, dotata di un becco adunco, conteneva fragranze profumate per tener lontani i cattivi odori portati dalle epidemie.\nLa sua forma può ispirarsi allo spray a forma di bulbo caratteristico delle boccette di profumo, mentre la soffice consistenza del suo piumaggio può essere un richiamo ai piumini da cipria.  ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spritzee",
     "shape": "insettoide",
     "specie": "Pokémon Profumo",
     "sprites": {
         "spritzee": {
             "default": "https://media.pokemoncentral.it/wiki/5/5b/Homem0682.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0682.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0682.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/98/Artwork0682_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5b/Artwork0682_XY.png"
     },
     "stats": {
         "statistiche-base": {

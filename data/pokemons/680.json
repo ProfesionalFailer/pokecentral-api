@@ -21,6 +21,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "doublade",
     "generation": 6,
     "height": {
         "doublade": "0,8 m"
@@ -29,13 +30,16 @@
     "name": "Doublade",
     "name_origin": "Doublade viene da termini inglesi double  e blade . Nidangir viene da 二ni, 断dan e 斬るkiru. ",
     "origin": "Doublade sembra essere basato sul concetto di oggetto magico posseduto e completamente senziente, il fatto che è spesso mostrato come due spade incrociate e che questi due corpi sono tenuti insieme da uno scudo, potrebbe essere basato anche su uno stemma. Il fatto che Honedge, il suo stadio base inizia come una comune spada possa rimandare la mito del Bushido riguardo alle katene, secondo cui esse siano possedute dalle anime dei samurai e che attacchino di loro spontanea volontà. Vista la forma dell'elsa sembra che le spade di Doublade siano ispirate alle spade spatha, claymore o la spada jian, anche se il panno sembra essere ispirato a quelli usati nelle sciabole che assomigliano a degli arti pensili, tale teoria è rafforzata anche dal fatto che lo scudo è formato dai due foderi insieme. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Doublade",
     "shape": "bipedi",
     "specie": "Pokémon Armabianca",
     "sprites": {
         "doublade": {
             "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0680.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0680.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0680.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1d/Artwork0680_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6a/Artwork0680_XY.png"
     },
     "stats": {
         "statistiche-base": {
@@ -52,8 +56,8 @@
     },
     "types": {
         "doublade": [
-            "Acciaio",
-            "Spettro"
+            "Spettro",
+            "Acciaio"
         ]
     },
     "weight": {

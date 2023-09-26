@@ -62,6 +62,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "sharpedo",
     "generation": 3,
     "height": {
         "sharpedo": "1,8 m",
@@ -71,17 +72,21 @@
     "name": "Sharpedo",
     "name_origin": "Sharpedo è una combinazione di shark  e torpedo , oppure potrebbe derivare da sharp  in riferimento alla pelle ruvida e all'abilità Cartavetro. ",
     "origin": "Sharpedo è basato su uno squalo con il corpo di un siluro. Ricorda anche un pesce luna, sia per via della forma del corpo, sia per la pelle ruvida. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sharpedo",
     "shape": "pinne",
     "specie": "Pokémon Brutale",
     "sprites": {
         "sharpedo": {
             "default": "https://media.pokemoncentral.it/wiki/6/6d/Homem0319.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0319.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0319.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/66/Artwork0319_Corp.png"
         },
         "megasharpedo": {
             "default": "https://media.pokemoncentral.it/wiki/7/7e/Homem0319M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/10/Homemsh0319M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/10/Homemsh0319M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/81/Artwork0319M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0319_RZ.png"
     },
     "stats": {
         "sharpedo": {
@@ -107,8 +112,8 @@
     },
     "types": {
         "sharpedo": [
-            "Buio",
-            "Acqua"
+            "Acqua",
+            "Buio"
         ]
     },
     "weight": {

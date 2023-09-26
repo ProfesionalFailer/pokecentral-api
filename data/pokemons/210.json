@@ -45,6 +45,7 @@
         "Campo",
         "Magico"
     ],
+    "flat_name": "granbull",
     "generation": 2,
     "height": {
         "granbull": "1,4 m"
@@ -53,13 +54,16 @@
     "name": "Granbull",
     "name_origin": "Il suo nome deriva dall'unione della parola inglese grand  con la parola bulldog. ",
     "origin": "Basato su un bulldog. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Granbull",
     "shape": "due paia di ali",
     "specie": "Pokémon Fata",
     "sprites": {
         "granbull": {
             "default": "https://media.pokemoncentral.it/wiki/0/04/Homem0210.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homemsh0210.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homemsh0210.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f8/Artwork0210_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a8/Artwork0210_HGSS.png"
     },
     "stats": {
         "granbull": {

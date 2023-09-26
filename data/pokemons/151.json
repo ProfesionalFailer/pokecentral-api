@@ -59,6 +59,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "mew",
     "generation": 1,
     "height": {
         "mew": "0,4 m"
@@ -67,13 +68,16 @@
     "name": "Mew",
     "name_origin": "Il nome di Mew è probabilmente un'onomatopea di un miagolio in riferimento al suo aspetto vagamente felino. Potrebbe anche essere collegato alla parola myō, \"strano/unico\", oppure da \"myūtanto\" ovvero mutante, in alternativa potrebbe essere l'unione delle parole Mystery e New . ",
     "origin": "L'aspetto di Mew è simile a quello di un embrione e a jerboa per via delle grandi zampe e della lunga coda, il fatto che secondo gli scienziati abbia il DNA di tutti i Pokémon è un riferimento alla teoria della ricapitolazione, inoltre possiede alcuni tratti somatici dei felini. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mew",
     "shape": "due paia di ali",
     "specie": "Pokémon Novaspecie",
     "sprites": {
         "mew": {
             "default": "https://media.pokemoncentral.it/wiki/2/2d/Homem0151.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/84/Homemsh0151.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/84/Homemsh0151.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/da/Artwork0151_Corp_3.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/79/Artwork0151_RFVF.png"
     },
     "stats": {
         "mew": {

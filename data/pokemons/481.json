@@ -33,6 +33,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "mesprit",
     "generation": 4,
     "height": {
         "mesprit": "0,3 m"
@@ -41,13 +42,16 @@
     "name": "Mesprit",
     "name_origin": "Deriva dalla parola inglese me  e da sprite  o dal francese esprit . ",
     "origin": "Potrebbe basarsi su uno spirito fatato e sul colore magenta, in quanto colore primario insieme al giallo e al ciano . Inoltre si ispira al Yasakani no Magatama, la gemma di giada simbolo di benevolenza, una delle insegne imperiali del giappone, sulle quali l'intero trio dei Guardiani dei laghi si basa. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mesprit",
     "shape": "due paia di ali",
     "specie": "Pokémon Emozione",
     "sprites": {
         "mesprit": {
             "default": "https://media.pokemoncentral.it/wiki/b/b4/Homem0481.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0481.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0481.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/99/Artwork0481_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4b/Artwork0481_DP.png"
     },
     "stats": {
         "mesprit": {

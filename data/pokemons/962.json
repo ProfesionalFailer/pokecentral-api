@@ -31,6 +31,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "bombirdier",
     "generation": 9,
     "height": {
         "bombirdier": "1,5 m"
@@ -39,13 +40,16 @@
     "name": "Bombirdier",
     "name_origin": "Bombirdier potrebbe essere una combinazione di bombardier  e bird . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bombirdier",
     "shape": "None",
     "specie": "Pokémon Gettaoggetti",
     "sprites": {
         "bombirdier": {
             "default": "https://media.pokemoncentral.it/wiki/4/46/Homem0962.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b9/Homemsh0962.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b9/Homemsh0962.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/ac"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fb/Artwork0962_SV.png"
     },
     "stats": {
         "bombirdier": {
@@ -62,8 +66,8 @@
     },
     "types": {
         "bombirdier": [
-            "Buio",
-            "Volante"
+            "Volante",
+            "Buio"
         ]
     },
     "weight": {

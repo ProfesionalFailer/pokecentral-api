@@ -65,6 +65,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "marowak",
     "generation": 1,
     "height": {
         "marowak": "1,0 m",
@@ -75,17 +76,21 @@
     "name": "Marowak",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi marrow  e whack . ",
     "origin": "Si pensa che sia la reincarnazione di un rettile o di un dinosauro bipede. Nella forma di Alola potrebbe essere basato su di uno sciamano o di un danzatore del fuoco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Marowak",
     "shape": "due paia di ali",
     "specie": "Pokémon Guardaossi",
     "sprites": {
         "marowak": {
             "default": "https://media.pokemoncentral.it/wiki/b/b7/Homem0105.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1e/Homemsh0105.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1e/Homemsh0105.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/68/Artwork0105_Corp_2.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/1/1f/Homem0105A.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/41/Homemsh0105A.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/41/Homemsh0105A.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f9/Artwork0105A_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/20/Artwork0105_RFVF.png"
     },
     "stats": {
         "marowak": {
@@ -105,8 +110,8 @@
             "Terra"
         ],
         "forma-di-alola": [
-            "Spettro",
-            "Fuoco"
+            "Fuoco",
+            "Spettro"
         ]
     },
     "weight": {

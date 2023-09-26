@@ -45,6 +45,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "aipom",
     "generation": 2,
     "height": {
         "aipom": "0,8 m"
@@ -53,17 +54,20 @@
     "name": "Aipom",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi ape  e palm . ",
     "origin": "La figura di Aipom si può basare semplicemente su una scimmia con una stravagante coda prensile, oppure ad un Ahuizotl, una creatura leggendaria tipica della religione azteca dotato di mani prensili più una mano aggiuntiva sulla coda. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Aipom",
     "shape": "due paia di ali",
     "specie": "Pokémon Lungacoda",
     "sprites": {
-        "": {
+        "aipom": {
             "default": "https://media.pokemoncentral.it/wiki/c/c4/Homem0190.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh0190.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh0190.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/66/Artwork0190_Corp_2.png"
         },
-        "-f": {
+        "aipom-f": {
             "default": "https://media.pokemoncentral.it/wiki/8/86/Homef0190.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homefsh0190.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/24/Artwork0190_HGSS.png"
     },
     "stats": {
         "aipom": {

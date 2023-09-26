@@ -85,6 +85,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "diglett",
     "generation": 1,
     "height": {
         "diglett": "0,2 m"
@@ -93,17 +94,21 @@
     "name": "Diglett",
     "name_origin": "Diglett deriva dalla combinazione del verbo inglese dig, scavare, e dal suffisso diminutivo -let. ",
     "origin": "Diglett sembra molto simile alle talpe artificiali usate in Acchiappa la talpa, a cui c'è un riferimento nella sua frase a piena salute di Pokémon Mystery Dungeon: Squadra Rossa e Squadra Blu. C'è anche una somiglianza con i vermi. La forma di Alola potrebbe basarsi inoltre sui cosiddetti \"capelli di Pele\", un tipo di vetro vulcanico caratteristico dei vulcani hawaiani. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Diglett",
     "shape": "quadrupede",
     "specie": "Pokémon Talpa",
     "sprites": {
         "diglett": {
             "default": "https://media.pokemoncentral.it/wiki/3/3e/Homem0050.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0050.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0050.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4e/Artwork0050_Corp.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0050A.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c1/Homemsh0050A.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c1/Homemsh0050A.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/af/Artwork0050A_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/dd/Artwork0050_RFVF.png"
     },
     "stats": {
         "diglett": {
@@ -132,8 +137,8 @@
             "Terra"
         ],
         "forma-di-alola": [
-            "Acciaio",
-            "Terra"
+            "Terra",
+            "Acciaio"
         ]
     },
     "weight": {

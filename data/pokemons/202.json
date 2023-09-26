@@ -52,6 +52,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "wobbuffet",
     "generation": 2,
     "height": {
         "wobbuffet": "1,3 m"
@@ -60,17 +61,20 @@
     "name": "Wobbuffet",
     "name_origin": "Il suo nome deriva probabilmente dall'incrocio delle parole inglesi wobble, dondolio, e buffet, schiaffo. ",
     "origin": "Wobbuffet è probabilmente basato sul okiagari-koboshi o sull'attore comico giapponese Sanpei Hayashiya. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wobbuffet",
     "shape": "quadrupede",
     "specie": "Pokémon Pazienza",
     "sprites": {
-        "": {
+        "wobbuffet": {
             "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0202.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0202.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0202.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8a/Artwork0202_Corp_2.png"
         },
-        "-f": {
+        "wobbuffet-f": {
             "default": "https://media.pokemoncentral.it/wiki/d/d1/Homef0202.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/dc/Homefsh0202.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f0/Artwork0202_HGSS.png"
     },
     "stats": {
         "wobbuffet": {

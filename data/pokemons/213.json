@@ -60,6 +60,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "shuckle",
     "generation": 2,
     "height": {
         "shuckle": "0,6 m"
@@ -68,13 +69,16 @@
     "name": "Shuckle",
     "name_origin": "Il suo nome probabilmente deriva dall'unione della parola inglese shuck  e turtle  o barnacle . ",
     "origin": "Sembra essere basato su un Endolith, organismo che vive dentro rocce porose o nelle conchiglie di altri animali, oppure in un abalone. Potrebbe essere ispirato ad un fungo, che è un tipo di muffa, il tipo più comune di endolith, da qui la sua specie \"Pokémon Muffa\", potrebbe essere basato anche sulle cocciniglie, piccoli parassiti sgranati che producono un liquido dolciastro noto come melata che attira gli insetti, sembra avere anche caratteristiche di vari molluschi, in quanto vive dentro una roccia, ha il corpo molliccio e si muove in modo lento e goffo, l'utilizzo del suo acido gastrico per nutrirsi e per abbattere ostacoli, si nutre di cibi fermentati e vive nei pressi dell'acqua. Dal suo aspetto saggio sembra essere basato anche in tartarughe o testuggini. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shuckle",
     "shape": "testa e braccia",
     "specie": "Pokémon Muffa",
     "sprites": {
         "shuckle": {
             "default": "https://media.pokemoncentral.it/wiki/f/f3/Homem0213.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0213.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0213.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/51/Artwork0213_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/29/Artwork0213_HGSS.png"
     },
     "stats": {
         "shuckle": {
@@ -91,8 +95,8 @@
     },
     "types": {
         "shuckle": [
-            "Roccia",
-            "Coleot"
+            "Coleot",
+            "Roccia"
         ]
     },
     "weight": {

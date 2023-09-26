@@ -20,6 +20,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "chesnaught",
     "generation": 6,
     "height": {
         "chesnaught": "1,6 m"
@@ -28,13 +29,16 @@
     "name": "Chesnaught",
     "name_origin": "Chesnaught deriva da chestnut , juggernaut e knight . ",
     "origin": "Chesnaught, oltre che sul riccio di castagna e sullo scoiattolo striato del genere Tamias, sembra essere basato su un cavaliere. Questo sarebbe spiegato dalla possente corazza, dello stesso colore del cranio che richiamerebbe quindi un elmo e soprattutto dall'origine del nome. Seguendo la classificazione degli starter di tipo erba, ovvero animali preistorici, Chesnaught sembra essere basato sul Doedicurus, un animale estinto circa 10.000 anni fa. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chesnaught",
     "shape": "due paia di ali",
     "specie": "Pokémon Spincorazza",
     "sprites": {
         "chesnaught": {
             "default": "https://media.pokemoncentral.it/wiki/6/64/Homem0652.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/80/Homemsh0652.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/80/Homemsh0652.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/81/Artwork0652_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0652_XY.png"
     },
     "stats": {
         "statistiche-base": {

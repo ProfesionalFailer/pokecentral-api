@@ -49,6 +49,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "linoone",
     "generation": 3,
     "height": {
         "linoone": "0,5 m"
@@ -57,17 +58,20 @@
     "name": "Linoone",
     "name_origin": "Il nome di Linoone è una combinazione di linea, e Procyon lotor. Potrebbe anche riferirsi alla sua abilità di correre in linea retta. Massuguma potrebbe essere la combinazione di まっすぐ massugu, che significa dritto, e 洗い熊 araiguma, cioè il Procyon lotor, o 穴熊 anaguma, cioè il Meles meles. ",
     "origin": "L'aspetto di Linoone è forse un incrocio tra il Meles meles e il Mustela putorius furo.\nLinoone può essere basato anche sulla creatura leggendaria del Kamaitachi.\nPuò anche essere basata sul Ramidreju; una lunga donnola, che ha l'ossessione dell'oro. Su questo potrebbe basarsi l'ossessione di Linoone per gli oggetti rotondi. Linoone di Galar potrebbero assomigliare a Paul Stanley dal gruppo musicale \"Kiss\". ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Linoone",
     "shape": "più di 4 arti",
     "specie": "Pokémon Sfrecciante",
     "sprites": {
         "linoone": {
             "default": "https://media.pokemoncentral.it/wiki/9/95/Homem0264.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/09/Homemsh0264.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/09/Homemsh0264.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/eb/Artwork0264_Corp.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/c/c8/Homem0264G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0264G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/ca/Artwork0264_RZ.png"
     },
     "stats": {
         "linoone": {
@@ -87,8 +91,8 @@
             "Normale"
         ],
         "forma-di-galar": [
-            "Buio",
-            "Normale"
+            "Normale",
+            "Buio"
         ]
     },
     "weight": {

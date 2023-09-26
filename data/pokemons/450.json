@@ -37,6 +37,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "hippowdon",
     "generation": 4,
     "height": {
         "hippowdon": "2,0 m"
@@ -45,17 +46,20 @@
     "name": "Hippowdon",
     "name_origin": "Deriva dalle parole hippopotamus , powder  e lo spagnolo don . ",
     "origin": "Hippowdon è ispirato ad un ippopotamo. Per la sabbia che gli esce costantemente dai pori della schiena, potrebbe essere basato sulla leggenda del bahamut, pesce della mitologia musulmana che in alcune versioni si sostiene abbia una testa di ippopotamo e sorregga un letto di sabbia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hippowdon",
     "shape": "più di 4 arti",
     "specie": "Pokémon Grandepeso",
     "sprites": {
-        "": {
+        "hippowdon": {
             "default": "https://media.pokemoncentral.it/wiki/2/26/Homem0450.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0450.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0450.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1f/Artwork0450_Corp.png"
         },
-        "-f": {
+        "hippowdon-f": {
             "default": "https://media.pokemoncentral.it/wiki/f/f5/Homef0450.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homefsh0450.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/28/Artwork0450_DP.png"
     },
     "stats": {
         "hippowdon": {

@@ -31,6 +31,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "haxorus",
     "generation": 5,
     "height": {
         "haxorus": "1,8 m"
@@ -39,13 +40,16 @@
     "name": "Haxorus",
     "name_origin": "Il suo nome potrebbe essere una combinazione di hack  e axe  con la parte finale della parola greca σαῦρος sauros . ",
     "origin": "È basato su un dinosauro erbivoro, come confermato dallo stesso Ken Sugimori in un'intervista. Le sue zanne appaiono simili a quelle dello scutosauro o agli zigomi sporgenti dei ceratopi e si basano su un'ascia bipenne. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Haxorus",
     "shape": "due paia di ali",
     "specie": "Pokémon Mascellascia",
     "sprites": {
         "haxorus": {
             "default": "https://media.pokemoncentral.it/wiki/2/20/Homem0612.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b4/Homemsh0612.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b4/Homemsh0612.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b4/Artwork0612_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3e/Artwork0612_NB.png"
     },
     "stats": {
         "haxorus": {

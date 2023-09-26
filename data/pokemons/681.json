@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "aegislash": {
             "primary": "Accendilotta"
         }
     },
@@ -30,6 +30,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "aegislash",
     "generation": 6,
     "height": {
         "aegislash": "1,7 m"
@@ -38,17 +39,21 @@
     "name": "Aegislash",
     "name_origin": "Il nome Aegislash è l'unione del nome di Aegis  e della parola Slash ovvero lacerare. Gillguard deriva da Gilgamesh, 斬る kiru  e shield  ",
     "origin": "Sembra essere basato su uno scudo e una spada posseduti da un'anima antica, il fatto che l'allenatore che sceglie è destinato a diventare re sembra essere basato sulle leggende di alcune spade europee come Excalibur e Durandal. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Aegislash",
     "shape": "quadrupede",
     "specie": "Pokémon Spadareale",
     "sprites": {
         "forma-scudo": {
             "default": "https://media.pokemoncentral.it/wiki/b/b2/Homem0681.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0681.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0681.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4b/Artwork0681_Corp.png"
         },
         "forma-spada": {
             "default": "https://media.pokemoncentral.it/wiki/7/77/Homem0681S.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0681S.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0681S.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/76/Artwork0681S_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/39/Artwork0681_XY.png"
     },
     "stats": {
         "forma-scudo": {
@@ -74,8 +79,8 @@
     },
     "types": {
         "aegislash": [
-            "Acciaio",
-            "Spettro"
+            "Spettro",
+            "Acciaio"
         ]
     },
     "weight": {

@@ -27,21 +27,25 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "toxel",
     "generation": 8,
     "height": {
         "toxel": "0,4 m"
     },
     "id": 848,
     "name": "Toxel",
-    "name_origin": "Toxel potrebbe essere una combinazione di toxic, tossico, electric, elettrico, e little, piccolo. Eleson potrebbe essere una combinazione di electric, ellettrico, e poison, veleno. ",
+    "name_origin": "Toxel potrebbe essere una combinazione di toxic, tossico, electric, elettrico, e little, piccolo. Eleson potrebbe essere una combinazione di electric, elettrico, e poison, veleno. ",
     "origin": "Toxel potrebbe essere basato su diverse specie di lucertole e rane, in particolar modo su una Dendrobatidae dato il tipo Veleno del Pokémon. Potrebbe essere basato anche su un bambino, poiché la parte inferiore del corpo ricorda un pannolino, mentre la macchia bianca sul petto ricorda un bavaglino, inoltre, spesso si dimena come se stesse facendo dei capricci. Le punte sulla testa di Toxel ricordano un Ankylosaurus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Toxel",
     "shape": "due paia di ali",
     "specie": "Pokémon Bebè",
     "sprites": {
         "toxel": {
             "default": "https://media.pokemoncentral.it/wiki/2/24/Homem0848.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0848.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0848.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a7"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5f/Artwork0848_SpSc.png"
     },
     "stats": {
         "toxel": {

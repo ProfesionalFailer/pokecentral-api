@@ -43,6 +43,7 @@
         "Acqua 1",
         "Erba"
     ],
+    "flat_name": "ludicolo",
     "generation": 3,
     "height": {
         "ludicolo": "1,50 m"
@@ -51,17 +52,20 @@
     "name": "Ludicolo",
     "name_origin": "Il nome di Ludicolo forse è una combinazione di ludic o ludicrous , e Colocynth, una pianta che ha un frutto tondo di colore giallo e verde.\nRumpappa potrebbe essere una combinazione di ルンルン runrun, felice e morbido, e pappa, che forse è il suono di un veloce rullo di tamburo. Potrebbe essere anche una combinazione di rumba e kappa. ",
     "origin": "Ludicolo è probabilmente basato su una papera o su kappa, un ballerino messicano, e un grande Colocynth o un ananas. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ludicolo",
     "shape": "un paio di ali",
     "specie": "Pokémon Spensierato",
     "sprites": {
-        "": {
+        "ludicolo": {
             "default": "https://media.pokemoncentral.it/wiki/2/2f/Homem0272.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/50/Homemsh0272.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/50/Homemsh0272.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0272_Corp.png"
         },
-        "-f": {
+        "ludicolo-f": {
             "default": "https://media.pokemoncentral.it/wiki/f/fc/Homef0272.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/bb/Homefsh0272.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2c/Artwork0272_RZ.png"
     },
     "stats": {
         "ludicolo": {

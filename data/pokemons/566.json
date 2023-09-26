@@ -33,6 +33,7 @@
         "Volante",
         "Acqua 3"
     ],
+    "flat_name": "archen",
     "generation": 5,
     "height": {
         "archen": "0,5 m"
@@ -41,13 +42,16 @@
     "name": "Archen",
     "name_origin": "Deriva chiaramente dal nome del dinosauro Archaeopteryx. ",
     "origin": "Archen trae ispirazione da un uccello estinto di nome Archaeopteryx, ovvero l'anello di congiunzione fra dinosauri e uccelli. Però, siccome la descrizione nel Pokédex dice che non sa volare, il Pokémon potrebbe derivare da piccoli dinosauri piumati incapaci di compiere tale azione, come il Caudipteryx o il Velociraptor. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Archen",
     "shape": "testa e base",
     "specie": "Pokémon Paleouccello",
     "sprites": {
         "archen": {
             "default": "https://media.pokemoncentral.it/wiki/0/04/Homem0566.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9e/Homemsh0566.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9e/Homemsh0566.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1a/Artwork0566_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/04/Artwork0566_NB.png"
     },
     "stats": {
         "archen": {
@@ -64,8 +68,8 @@
     },
     "types": {
         "archen": [
-            "Roccia",
-            "Volante"
+            "Volante",
+            "Roccia"
         ]
     },
     "weight": {

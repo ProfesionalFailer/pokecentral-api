@@ -30,6 +30,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "greavard",
     "generation": 9,
     "height": {
         "greavard": "0,6 m"
@@ -38,13 +39,16 @@
     "name": "Greavard",
     "name_origin": "Greavard è una combinazione di grieve, lutto, graveyard, cimitero, e probabilmente Briard, una razza di cane dal pelo lungo. Bochi deriva da 墓地 bochi, cimitero, ポチ Pochi, un nome comune di cane domestico, e ひとりぼっち hitoribocchi, solitario. ",
     "origin": "Greavard è probabilmente ispirato ad un cucciolo di Briard, una razza di cane da pastore, come suggerito anche dal suo nome inglese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Greavard",
     "shape": "None",
     "specie": "Pokémon Cantasma",
     "sprites": {
         "greavard": {
             "default": "https://media.pokemoncentral.it/wiki/2/27/Homem0971.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/12/Homemsh0971.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/12/Homemsh0971.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a8"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d4/Artwork0971_SV.png"
     },
     "stats": {
         "greavard": {

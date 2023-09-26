@@ -24,6 +24,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "comfey",
     "generation": 7,
     "height": {
         "comfey": "0,1 m"
@@ -32,13 +33,16 @@
     "name": "Comfey",
     "name_origin": "Comfey potrebbe derivare da comfy/comfort, confortevole, fey, fata, e Lei, la tipica collana di fiori hawaiana. Potrebbe derivare anche da Comfrey, il nome inglese della consolida maggiore, una pianta medicinale. Kyuwawā potrebbe essere una combinazione di cure, curare in inglese, 輪 wa, anello e flower, fiore. ",
     "origin": "Comfey è ispirato ad un Lei, la tipica collana di fiori hawaiana, e le sue proprietà curative potrebbero però ricollegarlo anche alla Floriterapia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Comfey",
     "shape": "testa",
     "specie": "Pokémon Ghirlanda",
     "sprites": {
         "comfey": {
             "default": "https://media.pokemoncentral.it/wiki/5/55/Homem0764.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0764.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0764.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e6/Artwork0764_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/65/Artwork0764_SL.png"
     },
     "stats": {
         "comfey": {

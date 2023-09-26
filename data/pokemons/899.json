@@ -30,6 +30,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "wyrdeer",
     "generation": 8,
     "height": {
         "wyrdeer": "1,8 m"
@@ -38,13 +39,16 @@
     "name": "Wyrdeer",
     "name_origin": "Wyrdeer potrebbe essere una combinazione di wyrd, concetto di destino nella cultura antica inglese, weird, strano, e deer, cervo. Ayashishi potrebbe essere una combinazione di 怪しい ayashii, strano, e 鹿威し shishiodoshi, un dispositivo giapponese tradizionalmente usato per spaventare e far allontanare cervi e uccelli dai giardini. ",
     "origin": "Wyrdeer potrebbe essere basato su una renna. Per via della sua criniera bianca simile a una barba e delle sopracciglia, assomiglia anche a un uomo anziano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wyrdeer",
     "shape": "sconosciuto",
     "specie": "Pokémon Grancorno",
     "sprites": {
         "wyrdeer": {
             "default": "https://media.pokemoncentral.it/wiki/7/74/Homem0899.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b9/Homemsh0899.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b9/Homemsh0899.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/15/Artwork0899_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/26/Artwork0899_LPA.png"
     },
     "stats": {
         "wyrdeer": {

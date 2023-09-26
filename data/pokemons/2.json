@@ -52,6 +52,7 @@
         "Mostro",
         "Erba"
     ],
+    "flat_name": "ivysaur",
     "generation": 1,
     "height": {
         "ivysaur": "1,0 m"
@@ -60,13 +61,16 @@
     "name": "Ivysaur",
     "name_origin": "Ivysaur potrebbe essere una combinazione di ivy, edera, e σαῦρος sauros, lucertola in greco antico. Fushigisou potrebbe essere una combianzione di 不思議 fushigi, strano o misterioso, e 草 sō, erba, o そう sō, sembra. ",
     "origin": "Ivysaur e la sua famiglia evolutiva sono basati su una rana. Secondo Ken Sugimori e Atsuko Nishida, l'artista s'è basata su un criterio opposto rispetto alla sua forma finale, il che significa che Ivysaur è direttamente basato su Venusaur. In particolare, la coporatura del Pokémon ricorda la rana del diavolo, una rana vissuta nel tardo Cretaceo. Il bulbo sul suo dorso ricorda un fiore di Rafflesia e le foglie sembrano ispirate a quelle delle palme. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ivysaur",
     "shape": "più di 4 arti",
     "specie": "Pokémon Seme",
     "sprites": {
         "ivysaur": {
             "default": "https://media.pokemoncentral.it/wiki/7/7d/Homem0002.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a3/Homemsh0002.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a3/Homemsh0002.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a3/Artwork0002_Corp_3.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/48/Artwork0002_RFVF.png"
     },
     "stats": {
         "ivysaur": {

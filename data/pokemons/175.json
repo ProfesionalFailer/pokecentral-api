@@ -52,6 +52,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "togepi",
     "generation": 2,
     "height": {
         "togepi": "0,3 m"
@@ -60,13 +61,16 @@
     "name": "Togepi",
     "name_origin": "Il suo nome deriva dalla parola giapponese 刺 toge , chiaro riferimento al suo guscio appuntito. Potrebbe inoltre essere basato sull'onomatopea ピヨピヨ piyopiyo . ",
     "origin": "Basato su un uovo, precisamente sul concetto di schiusa dell'uovo, presente in molte specie animali, probabilmente un uovo di un uccello, come dimostrato dalle evoluzioni. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Togepi",
     "shape": "un paio di ali",
     "specie": "Pokémon Pallapunte",
     "sprites": {
         "togepi": {
             "default": "https://media.pokemoncentral.it/wiki/0/0a/Homem0175.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0175.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0175.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cb/Artwork0175_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/67/Artwork0175_RFVF.png"
     },
     "stats": {
         "togepi": {

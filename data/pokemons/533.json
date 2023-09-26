@@ -28,6 +28,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "gurdurr",
     "generation": 5,
     "height": {
         "gurdurr": "1,2 m"
@@ -36,13 +37,16 @@
     "name": "Gurdurr",
     "name_origin": "Il suo nome potrebbe derivare da una corruzione della parola inglese girder , o in aggiunta da burly . ",
     "origin": "Il Pokédex della sua pre-evoluzione Timburr sostiene che questa linea evolutiva sia costituita da Pokémon che rappresentano lavoratori edili. Il suo aspetto, e in particolare il suo naso rosso, ricorda quello di un clown. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gurdurr",
     "shape": "un paio di ali",
     "specie": "Pokémon Forzaimmane",
     "sprites": {
         "gurdurr": {
             "default": "https://media.pokemoncentral.it/wiki/2/25/Homem0533.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homemsh0533.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homemsh0533.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/83/Artwork0533_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/50/Artwork0533_NB.png"
     },
     "stats": {
         "gurdurr": {

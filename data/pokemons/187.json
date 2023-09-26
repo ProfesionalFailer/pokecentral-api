@@ -47,6 +47,7 @@
         "Magico",
         "Erba"
     ],
+    "flat_name": "hoppip",
     "generation": 2,
     "height": {
         "hoppip": "0,4 m"
@@ -55,13 +56,16 @@
     "name": "Hoppip",
     "name_origin": "Deriva dalle parole hop  e pip . ",
     "origin": "Basato su un fittone e le sue foglie ricordano quelle del soffione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hoppip",
     "shape": "due paia di ali",
     "specie": "Pokémon Gramigna",
     "sprites": {
         "hoppip": {
             "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0187.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/92/Homemsh0187.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/92/Homemsh0187.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/84/Artwork0187_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/54/Artwork0187_HGSS.png"
     },
     "stats": {
         "hoppip": {

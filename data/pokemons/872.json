@@ -29,6 +29,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "snom",
     "generation": 8,
     "height": {
         "snom": "0,3 m"
@@ -37,13 +38,16 @@
     "name": "Snom",
     "name_origin": "Snom potrebbe essere una combinazione di snow, neve, worm, verme, e nom, gergo per indicare qualcuno che mangia. Yukihami potrebbe essere una combinazione di 雪 yuki, neve, e 食み hami, mangiare. ",
     "origin": "Snom potrebbe essere basato su un bruco della famiglia Dalceridae. Potrebbe essere ispirato anche alle larve delle falene alpine e artiche del genere Gynaephora. Una specie in particolare, la Gynaephora groenlandica, può entrare in uno stato dormiente che gli consente di sopportare fino a -70 gradi Celsius. Il grande appetito di Snom è probabilmente un riferimento alla famiglia delle Saturnidi, i cui bruchi mangiano una grande quantità di cibo a causa della perdità della capacità di mangiare quando diventano delle falene. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Snom",
     "shape": "testa e gambe",
     "specie": "Pokémon Baco",
     "sprites": {
         "snom": {
             "default": "https://media.pokemoncentral.it/wiki/c/c1/Homem0872.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/76/Homemsh0872.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/76/Homemsh0872.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/78"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8a/Artwork0872_SpSc.png"
     },
     "stats": {
         "snom": {
@@ -60,8 +64,8 @@
     },
     "types": {
         "snom": [
-            "Ghiaccio",
-            "Coleot"
+            "Coleot",
+            "Ghiaccio"
         ]
     },
     "weight": {

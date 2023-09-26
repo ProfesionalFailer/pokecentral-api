@@ -30,6 +30,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "revavroom",
     "generation": 9,
     "height": {
         "revavroom": "1,8 m"
@@ -38,13 +39,16 @@
     "name": "Revavroom",
     "name_origin": "Revavroom potrebbe essere una combinazione di rev  e vroom . Burororomu potrebbe derivare da va-va-va-vroom . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Revavroom",
     "shape": "None",
     "specie": "Pokémon Policilindro",
     "sprites": {
         "revavroom": {
             "default": "https://media.pokemoncentral.it/wiki/5/57/Homem0966.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/87/Homemsh0966.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/87/Homemsh0966.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7d"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9e/Artwork0966_SV.png"
     },
     "stats": {
         "revavroom": {
@@ -61,8 +65,8 @@
     },
     "types": {
         "revavroom": [
-            "Acciaio",
-            "Veleno"
+            "Veleno",
+            "Acciaio"
         ]
     },
     "weight": {

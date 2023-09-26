@@ -24,6 +24,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "skiddo",
     "generation": 6,
     "height": {
         "skiddo": "0,9 m"
@@ -32,13 +33,16 @@
     "name": "Skiddo",
     "name_origin": "Skiddo potrebbe essere una combinazione di skid  e kiddo . Me'ēkuru potrebbe essere una combinazione di メー mē , e ビークル bīkuru . ",
     "origin": "Skiddo è basato su una capra. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Skiddo",
     "shape": "più di 4 arti",
     "specie": "Pokémon Cavalcatura",
     "sprites": {
         "skiddo": {
             "default": "https://media.pokemoncentral.it/wiki/c/ce/Homem0672.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0672.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0672.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a9/Artwork0672_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fa/Artwork0672_XY.png"
     },
     "stats": {
         "skiddo": {

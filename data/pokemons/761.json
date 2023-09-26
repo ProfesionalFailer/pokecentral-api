@@ -25,6 +25,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "bounsweet",
     "generation": 7,
     "height": {
         "bounsweet": "0,3 m"
@@ -33,13 +34,16 @@
     "name": "Bounsweet",
     "name_origin": "Bounsweet potrebbe essere una combinazione di bounce, balzo, riferito alla sua abitudine di scappare balzando, e sweet, dolce, riferito al suo buon profumo. Amakaji potrebbe essere una combinazione di 甘い amai, dolce, e 果実 kajitsu, frutto. ",
     "origin": "Bounsweet è ispirato ad un mangostano, oppure ad una Pitaya, frutto tipico hawaiiano chiamato anche \"frutto del drago\" per il suo aspetto che lo fa sembrare costantemente in fiamme. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bounsweet",
     "shape": "corpi multipli",
     "specie": "Pokémon Frutto",
     "sprites": {
         "bounsweet": {
             "default": "https://media.pokemoncentral.it/wiki/a/a5/Homef0761.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homefsh0761.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homefsh0761.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/77/Artwork0761_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/64/Artwork0761_SL.png"
     },
     "stats": {
         "bounsweet": {

@@ -27,6 +27,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "zebstrika",
     "generation": 5,
     "height": {
         "zebstrika": "1,6 m"
@@ -35,13 +36,16 @@
     "name": "Zebstrika",
     "name_origin": "Il nome deriva dall'unione della parola zebra con la corruzione della parola inglese strike . Potrebbe anche derivare dal giapponese 雷火 raika , da elettrica, o dal corrispondente spagnolo eléctrica. ",
     "origin": "Zebstrika è ispirato ad una zebra. Potrebbe essere ispirato inoltre ai cavalli che trainavano il carro infuocato del dio greco Helios . ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zebstrika",
     "shape": "più di 4 arti",
     "specie": "Pokémon Saetta",
     "sprites": {
         "zebstrika": {
             "default": "https://media.pokemoncentral.it/wiki/e/e7/Homem0523.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d4/Homemsh0523.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d4/Homemsh0523.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4c/Artwork0523_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0b/Artwork0523_NB.png"
     },
     "stats": {
         "zebstrika": {

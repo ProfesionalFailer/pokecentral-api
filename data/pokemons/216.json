@@ -44,6 +44,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "teddiursa",
     "generation": 2,
     "height": {
         "teddiursa": "0,6 m"
@@ -52,13 +53,16 @@
     "name": "Teddiursa",
     "name_origin": "Il nome di Teddiursa è una combinazione di teddy-bear e ursa, orso in latino. Il suo nome giapponese può essere una combinazione di 姫 hime, \"principessa\" o hi, una lettura alternativa di 朏 mikazuki, \"luna crescente\", e kuma, \"orso\". ",
     "origin": "Teddiursa è basato sull'orsacchiotto, e forse su alcune specie di orso da miele. Il marchio di luna, il fatto che si tratta di un cucciolo e che si tratta di un orso potrebbe significare che sia stato basato sulla mitologia della costellazione dell'Orsa Minore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Teddiursa",
     "shape": "due paia di ali",
     "specie": "Pokémon Orsetto",
     "sprites": {
         "teddiursa": {
             "default": "https://media.pokemoncentral.it/wiki/5/51/Homem0216.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0216.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0216.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/15/Artwork0216_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/88/Artwork0216_HGSS.png"
     },
     "stats": {
         "teddiursa": {

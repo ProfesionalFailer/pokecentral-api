@@ -33,6 +33,7 @@
         "Erba",
         "Magico"
     ],
+    "flat_name": "whimsicott",
     "generation": 5,
     "height": {
         "whimsicott": "0,7 m"
@@ -41,13 +42,16 @@
     "name": "Whimsicott",
     "name_origin": "Whimsicott è la combinazione delle parole whimsical  e cotton . Il suo nome giapponese, エルフーン Elfuun, potrebbe derivare dall'inglese elf , typhoon  e fun . Alternativamente, potrebbe essere la combinazione delle parole エルフ erufu , ふわふわ fuwa fuwa  e フロート furōto . ",
     "origin": "Whimsicott sembra essere basato su una balla di cotone fiorita. Potrebbe anche avere origine dall'agnello vegetale della Tartaria, una pianta semi-leggendaria che si pensava desse come frutto delle pecore, usata per spiegare la produzione del cotone durante il Medioevo. Inoltre, potrebbe trarre alcuni elementi dalla creatura del folklore brasiliano nota come Saci , o su un folletto dei boschi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Whimsicott",
     "shape": "un paio di ali",
     "specie": "Pokémon Spiffero",
     "sprites": {
         "whimsicott": {
             "default": "https://media.pokemoncentral.it/wiki/2/27/Homem0547.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0547.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0547.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7a/Artwork0547_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0547_NB.png"
     },
     "stats": {
         "whimsicott": {
@@ -64,8 +68,8 @@
     },
     "types": {
         "whimsicott": [
-            "Erba",
-            "Folletto"
+            "Folletto",
+            "Erba"
         ]
     },
     "weight": {

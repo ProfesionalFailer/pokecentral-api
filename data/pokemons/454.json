@@ -39,6 +39,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "toxicroak",
     "generation": 4,
     "height": {
         "toxicroak": "1,3 m"
@@ -47,17 +48,20 @@
     "name": "Toxicroak",
     "name_origin": "Deriva dalle parole toxic  e croak . ",
     "origin": "Basato su una rana freccia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Toxicroak",
     "shape": "un paio di ali",
     "specie": "Pokémon Inveieleno",
     "sprites": {
-        "": {
+        "toxicroak": {
             "default": "https://media.pokemoncentral.it/wiki/3/30/Homem0454.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0454.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0454.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/57/Artwork0454_Corp.png"
         },
-        "-f": {
+        "toxicroak-f": {
             "default": "https://media.pokemoncentral.it/wiki/c/c3/Homef0454.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/59/Homefsh0454.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7b/Artwork0454_DP.png"
     },
     "stats": {
         "toxicroak": {

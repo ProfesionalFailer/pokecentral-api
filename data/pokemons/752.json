@@ -23,6 +23,7 @@
         "Acqua 1",
         "Coleottero"
     ],
+    "flat_name": "araquanid",
     "generation": 7,
     "height": {
         "araquanid": "1,8 m",
@@ -32,13 +33,16 @@
     "name": "Araquanid",
     "name_origin": "Araquanid può essere la combinazione di arachnide e aqua. Onishizukumo può essere la combinazione di 鬼蜘蛛 onigumo , 鬼 oni  e 滴 shizuku . ",
     "origin": "Araquanid è basato su di un ragno palombaro. Le protuberanze sulla sua testa possono essere ispirate dal ragno dalla faccia sorridente, tipico delle Hawaii. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Araquanid",
     "shape": "testa e braccia",
     "specie": "Pokémon Bolladacqua",
     "sprites": {
         "araquanid": {
             "default": "https://media.pokemoncentral.it/wiki/2/29/Homem0752.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homemsh0752.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homemsh0752.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/55/Artwork0752_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7e/Artwork0752_SL.png"
     },
     "stats": {
         "araquanid": {

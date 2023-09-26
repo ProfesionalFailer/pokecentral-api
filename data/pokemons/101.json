@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "electrode": {
             "primary": "Antisuono",
             "secondary": "Statico",
             "hidden": "Scoppio"
@@ -53,6 +53,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "electrode",
     "generation": 1,
     "height": {
         "electrode": "1,2 m"
@@ -61,13 +62,16 @@
     "name": "Electrode",
     "name_origin": "Electrode potrebbe essere una combinazione di electric, elettrico, explode, esplodere, e node, un computer o un programma. Potrebbe derivare anche da electrode, elettrodo. Marumine potrebbe essere una combinazione di 丸 maru, cerchio, e land mine, campo minato. ",
     "origin": "Electrode potrebbe essere basato sul concetto di una Poké Ball vivente, mentre la colorazione cromatica su una Mega Ball. Il design del Pokémon potrebbe essere ciò che rimane del periodo in cui il franchise era conosciuto ancora come Capsule Monsters, poiché i primi artwork delle Poké Ball sono raffigurate senza il classico bottone al centro. Il fatto che Voltorb ed Electrode vengano scambiati per delle comuni Poké Ball è simile al concetto di mimic, un tipo di mostro che si trova comunemente negli RPG. Sulla base del nome giapponese e delle tendenze esplosive, Electrode potrebbe avere qualche correlazione con le mine terrestri; potrebbe essere basato anche sui bottoni per detonare esplosioni che spesso sono colorati di rosso nei media. Come la sua pre-evoluzione, potrebbe essere basato anche sui fulmini globulari. L'idea che si faccia \"trasportare dal vento\" dopo aver accumulato molta elettricità potrebbe trarre ispirazione dalle sfere bianche e rosse che vengono appese ai cavi elettrici e che vengono utilizzate da piloti o escursionisti per manovrare in modo da evitarli. Le espressioni sul volto di Voltorb e di Electrode potrebbero essere la personificazione delle cariche positive e negative associate alla carica elettrica. Nelle forme originali dei Pokémon, Voltorb ha un'espressione arrabbiata , mentre Electrode ha un'espressione felice . La polarità di queste espressioni è invertita nelle forme di Hisui. Electrode di Hisui e l'acquisizione del tipo Erba potrebbero essere basati sul fatto che le Poké Ball fossero originariamente realizzate con le Ghicocche. Potrebbe essere basato anche sui tradizionali fuochi d'artificio giapponesi: sono di forma sferica, con gusci di cartapesta, con all'interno cariche spesso fatte di lolla di riso e con un foro dove viene inserita la miccia. Un'ulteriore prova di questa ispirazione sono le rappresentazioni del Pokémon nel GCC e la statua nel Tempio di Sinnoh che lo ritraggono emettere esplosioni dal foro sotto di lui per lanciarsi in aria. La colorazione cromatica potrebbe essere basata su un'Ultra Ball o una Peso Ball. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Electrode",
     "shape": "testa",
     "specie": "Pokémon Ball",
     "sprites": {
         "electrode": {
             "default": "https://media.pokemoncentral.it/wiki/4/4f/Homem0101.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0101.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0101.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/31/Artwork0101_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/32/Artwork0101_RFVF.png"
     },
     "stats": {
         "electrode": {
@@ -87,8 +91,8 @@
             "Elettro"
         ],
         "forma-di-hisui": [
-            "Erba",
-            "Elettro"
+            "Elettro",
+            "Erba"
         ]
     },
     "weight": {

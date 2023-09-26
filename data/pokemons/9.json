@@ -1,6 +1,10 @@
 {
     "abilities": {
-        "blastoise-e-blastoise-gigamax": {
+        "blastoise": {
+            "primary": "Acquaiuto",
+            "hidden": "Copripioggia"
+        },
+        "blastoise-gigamax": {
             "primary": "Acquaiuto",
             "hidden": "Copripioggia"
         },
@@ -60,6 +64,7 @@
         "Mostro",
         "Acqua 1"
     ],
+    "flat_name": "blastoise",
     "generation": 1,
     "height": {
         "blastoise": "1,6 m",
@@ -70,24 +75,36 @@
     "name": "Blastoise",
     "name_origin": "Blastoise potrebbe essere una combinazione di blast, getto, e tortoise, tartaruga o testuggine. Kamex potrebbe essere una combinazione di 亀 kame, tartaruga, e マックス max, massimo. ",
     "origin": "Blastoise e la sua famiglia evolutiva sono basati su una tartaruga e probabilmente su un carro armato. Secondo Ken Sugimori e Atsuko Nishida, Blastoise sarebbe stato progettato per primo e, solo in seguito, sarebbero stati progettati Squirtle ed Wartortle, direttamente basati sulla sua forma finale. I cannoni di Blastoise potrebbero essere un riferimento ad alcuni organi, a forma di tubo, delle cozze e di altri crostacei. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Blastoise",
     "shape": "due paia di ali",
     "specie": "Pokémon Crostaceo",
     "sprites": {
         "blastoise": {
             "default": "https://media.pokemoncentral.it/wiki/0/04/Homem0009.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homemsh0009.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homemsh0009.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/af/Artwork0009_Corp_3.png"
         },
         "megablastoise": {
             "default": "https://media.pokemoncentral.it/wiki/2/2a/Homem0009M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0009M.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0009M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e3/Artwork0009M_Corp.png"
         },
         "blastoise-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/d/d9/Homem0009Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homemsh0009Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/74/Artwork0009_RFVF.png"
     },
     "stats": {
-        "blastoise-e-blastoise-gigamax": {
+        "blastoise": {
+            "hp": 79,
+            "atk": 83,
+            "def": 100,
+            "spa": 85,
+            "spd": 105,
+            "spe": 78
+        },
+        "blastoise-gigamax": {
             "hp": 79,
             "atk": 83,
             "def": 100,
@@ -105,7 +122,8 @@
         }
     },
     "stats_sum": {
-        "blastoise-e-blastoise-gigamax": 530,
+        "blastoise": 530,
+        "blastoise-gigamax": 530,
         "megablastoise": 630
     },
     "types": {

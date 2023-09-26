@@ -30,6 +30,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "capsakid",
     "generation": 9,
     "height": {
         "capsakid": "0,3 m"
@@ -38,13 +39,16 @@
     "name": "Capsakid",
     "name_origin": "Capsakid è l'unione di capsaicina, la sostanza che causa la piccantezza nel cibo, e kid, ragazzino. Kapusaiji potrebbe essere la combinazione di カプサイシン kapusaishin  e 児 ji . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Capsakid",
     "shape": "None",
     "specie": "Pokémon Habanero",
     "sprites": {
         "capsakid": {
             "default": "https://media.pokemoncentral.it/wiki/8/8d/Homem0951.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f5/Homemsh0951.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f5/Homemsh0951.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bc"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/da/Artwork0951_SV.png"
     },
     "stats": {
         "capsakid": {

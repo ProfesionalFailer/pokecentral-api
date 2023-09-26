@@ -22,6 +22,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "chespin",
     "generation": 6,
     "height": {
         "chespin": "0,4 m"
@@ -30,13 +31,16 @@
     "name": "Chespin",
     "name_origin": "Chespin è una combinazione di chestnut  e pin . Potrebbe venire anche da chinkapin , urchin , e da spina. Harimaron è una combinazione tra 針鼠 / 蝟 harinezumi , 針 hari , e marron . ",
     "origin": "Chespin è basato molto probabilmente su uno scoiattolo striato, appartenente al genere Tamias più noto col nome inglese di chipmunk. Il suo copricapo, inoltre, è basato probabilmente sul riccio di una castagna. Questo sarebbe spiegato sia dal colore marroncino di Chespin, che richiama quello delle castagne, sia dalla prima parte del suo nome, che deriva dall'inglese Chestnut, appunto castagno. Anche la traduzione in giapponese di scoiattolo  letteralmente significa topo delle castagne. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chespin",
     "shape": "due paia di ali",
     "specie": "Pokémon Castanriccio",
     "sprites": {
         "chespin": {
             "default": "https://media.pokemoncentral.it/wiki/3/36/Homem0650.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homemsh0650.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homemsh0650.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/83/Artwork_Pok%C3%A9mon_iniziali_Kalos_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/53/Artwork0650_XY.png"
     },
     "stats": {
         "statistiche-base": {

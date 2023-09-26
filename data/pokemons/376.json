@@ -64,6 +64,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "metagross",
     "generation": 3,
     "height": {
         "metagross": "1,6 m",
@@ -73,6 +74,7 @@
     "name": "Metagross",
     "name_origin": "Deriva dalle parole metal  e gross , cross , oppure groß . ",
     "origin": "È basato su una specie di robot o di U.F.O. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Metagross",
     "shape": "bipedi",
     "specie": "Pokémon Ferrarto",
     "sprites": {
@@ -83,7 +85,14 @@
         "megametagross": {
             "default": "https://media.pokemoncentral.it/wiki/f/fe/Homem0376M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d7/Homemsh0376M.png"
-        }
+        },
+        "metagross(normale)": {
+            "corporate": "https://media.pokemoncentral.it/wiki/0/00/Artwork0376_Corp.png"
+        },
+        "megametagross(normale)": {
+            "corporate": "https://media.pokemoncentral.it/wiki/5/59/Artwork0376M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/67/Artwork0376_RZ.png"
     },
     "stats": {
         "metagross": {

@@ -47,6 +47,7 @@
         "Acqua 1",
         "Coleottero"
     ],
+    "flat_name": "surskit",
     "generation": 3,
     "height": {
         "surskit": "0,50 m"
@@ -55,13 +56,16 @@
     "name": "Surskit",
     "name_origin": "Deriva dalle parole surface  o surf e skitter . ",
     "origin": "Basato su un insetto pattinatore, un gerride. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Surskit",
     "shape": "testa e braccia",
     "specie": "Pokémon Sfiorapozze",
     "sprites": {
         "surskit": {
             "default": "https://media.pokemoncentral.it/wiki/3/35/Homem0283.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ef/Homemsh0283.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ef/Homemsh0283.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/45/Artwork0283_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/29/Artwork0283_RZ.png"
     },
     "stats": {
         "surskit": {

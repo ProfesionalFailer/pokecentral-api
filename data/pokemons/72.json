@@ -57,6 +57,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "tentacool",
     "generation": 1,
     "height": {
         "tentacool": "0,9 m"
@@ -65,13 +66,16 @@
     "name": "Tentacool",
     "name_origin": "Tentacool è una combinazione di tentacle e cool. ",
     "origin": "Tentacool è basato su una medusa, probabilmente una specie di cubomedusa come Chironex fleckeri o Carukia barnesi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tentacool",
     "shape": "bipedi con coda",
     "specie": "Pokémon Medusa",
     "sprites": {
         "tentacool": {
             "default": "https://media.pokemoncentral.it/wiki/a/aa/Homem0072.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0072.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0072.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b4/Artwork0072_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fa/Artwork0072_RFVF.png"
     },
     "stats": {
         "tentacool": {

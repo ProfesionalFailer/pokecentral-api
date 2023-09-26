@@ -19,6 +19,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "nickit",
     "generation": 8,
     "height": {
         "nickit": "0,6 m"
@@ -27,13 +28,16 @@
     "name": "Nickit",
     "name_origin": "Nickit potrebbe essere una combinazione di nick, gergo per rubare, e kit, volpacchiotto. Potrebbe essere anche un gioco di parole con nick it, ingannare. Kusune potrebbe essere una combinazione di くすねる kusuneru, rubacchiare, e 狐 kitsune, volpe. ",
     "origin": "Nickit potrebbe essere basato su un volpacchiotto di volpe rossa. La maschera sul suo volto e i guanti sulle zampe potrebbero prendere ispirazione dagli indumenti utilizzati dai ladri, mentre la coda potrebbe rappresentare un sacco con dentro gli oggetti rubati. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Nickit",
     "shape": "più di 4 arti",
     "specie": "Pokémon Volpe",
     "sprites": {
         "nickit": {
             "default": "https://media.pokemoncentral.it/wiki/2/20/Homem0827.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c8/Homemsh0827.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c8/Homemsh0827.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6d"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/10/Artwork0827_SpSc.png"
     },
     "stats": {
         "nickit": {

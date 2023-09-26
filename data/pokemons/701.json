@@ -7,7 +7,7 @@
         }
     },
     "curiosities": [
-        "Hawlucha è l'unico Pokémon, insieme a Zapdos di Galar, a presentare il doppio tipo Lotta/Volante.",
+        "Prima dell'ottava generazione Hawlucha aveva una combinazione di tipi unica.",
         "Nonostante sia parzialmente ispirato a un uccello e di tipo Volante, prima dell'ottava generazione non faceva parte del Gruppo Uova Volante."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/hawlucha.mp3",
@@ -30,6 +30,7 @@
         "Volante",
         "VIII"
     ],
+    "flat_name": "hawlucha",
     "generation": 6,
     "height": {
         "hawlucha": "0,8 m"
@@ -38,13 +39,18 @@
     "name": "Hawlucha",
     "name_origin": "Hawlucha deriva da hawk, falco, e lucha libre una forma di wrestling latinoamericana. Luchabull è una combinazione tra lucha libre e bull, toro. ",
     "origin": "Hawlucha è chiaramente basato su un volatile e un lottatore di lotta libera, uno stile di combattimento nel quale si preferisce di gran lunga l'uso di manovre aeree a scapito della forza fisica . Inoltre, i suoi colori ricordano la bandiera messicana. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hawlucha",
     "shape": "un paio di ali",
     "specie": "Pokémon Lottalibera",
     "sprites": {
         "hawlucha": {
             "default": "https://media.pokemoncentral.it/wiki/a/af/Homem0701.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/0d/Homemsh0701.png"
-        }
+        },
+        "normale": {
+            "corporate": "https://media.pokemoncentral.it/wiki/4/47/Artwork0701_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/86/Artwork0701_XY.png"
     },
     "stats": {
         "hawlucha": {

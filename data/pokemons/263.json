@@ -52,6 +52,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "zigzagoon",
     "generation": 3,
     "height": {
         "zigzagoon": "0,4 m"
@@ -60,17 +61,20 @@
     "name": "Zigzagoon",
     "name_origin": "Il nome deriva dall'unione di zig-zag con il nome inglese raccoon . ",
     "origin": "Ha delle somiglianze con i procioni. Zigzagoon di Galar potrebbe assomigliare a Paul Stanley dal gruppo musicale \"Kiss\". ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zigzagoon",
     "shape": "più di 4 arti",
     "specie": "Pokémon Procione",
     "sprites": {
         "zigzagoon": {
             "default": "https://media.pokemoncentral.it/wiki/b/bd/Homem0263.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e6/Homemsh0263.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e6/Homemsh0263.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3e/Artwork0263_Corp.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/4/4e/Homem0263G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0263G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/70/Artwork0263_RZ.png"
     },
     "stats": {
         "zigzagoon": {
@@ -90,8 +94,8 @@
             "Normale"
         ],
         "forma-di-galar": [
-            "Buio",
-            "Normale"
+            "Normale",
+            "Buio"
         ]
     },
     "weight": {

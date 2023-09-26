@@ -46,6 +46,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "magnezone",
     "generation": 4,
     "height": {
         "magnezone": "1,2 m"
@@ -54,13 +55,16 @@
     "name": "Magnezone",
     "name_origin": "Deriva dalle parole magnet  e zone , oppure da magnetic zone . ",
     "origin": "Basato su un magnete o su un disco volante. Potrebbe essere l'oggettificazione di un campo magnetico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Magnezone",
     "shape": "insettoide",
     "specie": "Pokémon Magnetico",
     "sprites": {
         "magnezone": {
             "default": "https://media.pokemoncentral.it/wiki/b/b8/Homem0462.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0462.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0462.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/98/Artwork0462_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d3/Artwork0462_DP.png"
     },
     "stats": {
         "magnezone": {

@@ -49,6 +49,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "banette",
     "generation": 3,
     "height": {
         "banette": "1,1 m",
@@ -58,17 +59,20 @@
     "name": "Banette",
     "name_origin": "Il nome deriva dall'unione delle parole \"Bane\"  e \"Marionette\" . ",
     "origin": "Il suo aspetto e la sua abitudine di attaccarsi con delle punte, fanno rassomigliare molto Banette a una bambola voodoo. Mentre per la descrizione  della normale bambola che si anima da energia maledetta è simile a Tsukumogami. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Banette",
     "shape": "due paia di ali",
     "specie": "Pokémon Marionetta",
     "sprites": {
         "banette": {
             "default": "https://media.pokemoncentral.it/wiki/a/ab/Homem0354.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0354.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0354.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f8/Artwork0354_Corp.png"
         },
         "megabanette": {
             "default": "https://media.pokemoncentral.it/wiki/b/b5/Homem0354M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0354M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/32/Artwork0354_RZ.png"
     },
     "stats": {
         "banette": {

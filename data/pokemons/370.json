@@ -41,6 +41,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "luvdisc",
     "generation": 3,
     "height": {
         "luvdisc": "0,60 m"
@@ -49,13 +50,16 @@
     "name": "Luvdisc",
     "name_origin": "Il nome Luvdisc è una combinazione delle parole \"Love\"  e \"Discus\" o \"Disc\" . ",
     "origin": "Luvdisc è basato sul pesce disco, ma anche su speci di pesce che sembrano baciarsi come il gurami sbaciucchione. Il suo aspetto ricorda quello di un cuore stilizzato. La colorazione cromatica dorata potrebbe riferirsi al concetto di cuore d'oro, ovvero una persona senza malizia molto amorevole e caricatevole. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Luvdisc",
     "shape": "pinne",
     "specie": "Pokémon Rendezvous",
     "sprites": {
         "luvdisc": {
             "default": "https://media.pokemoncentral.it/wiki/0/06/Homem0370.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0370.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0370.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4f"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/12/Artwork0370_RZ.png"
     },
     "stats": {
         "luvdisc": {

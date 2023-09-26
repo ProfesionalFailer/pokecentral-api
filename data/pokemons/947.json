@@ -18,6 +18,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "brambleghast",
     "generation": 9,
     "height": {
         "brambleghast": "1,2 m"
@@ -26,13 +27,16 @@
     "name": "Brambleghast",
     "name_origin": "Brambleghast potrebbe derivare da bramble  e aghast  o ghast . ",
     "origin": "Come per la sua pre-evoluzione, anche Brambleghast è basato sui rotolacampo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Brambleghast",
     "shape": "None",
     "specie": "Pokémon Rotolerba",
     "sprites": {
         "brambleghast": {
             "default": "https://media.pokemoncentral.it/wiki/c/cf/Homem0947.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c1/Homemsh0947.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c1/Homemsh0947.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/90"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/77/Artwork0947_SV.png"
     },
     "stats": {
         "brambleghast": {

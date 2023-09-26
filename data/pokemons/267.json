@@ -37,6 +37,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "beautifly",
     "generation": 3,
     "height": {
         "beautifly": "1,00 m"
@@ -45,17 +46,20 @@
     "name": "Beautifly",
     "name_origin": "Beautifly deriva dall'inglese beauty  e butterfly . Potrebbe anche essere un gioco di parole su beautiful , o beautify . ",
     "origin": "Basato su di una farfalla della famiglia dei Papilionidi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Beautifly",
     "shape": "serpentiforme",
     "specie": "Pokémon Farfalla",
     "sprites": {
-        "": {
+        "beautifly": {
             "default": "https://media.pokemoncentral.it/wiki/6/6e/Homem0267.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0267.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0267.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2b/Artwork0267_Corp.png"
         },
-        "-f": {
+        "beautifly-f": {
             "default": "https://media.pokemoncentral.it/wiki/b/b8/Homef0267.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/e2/Homefsh0267.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5e/Artwork0267_RZ.png"
     },
     "stats": {
         "beautifly": {
@@ -72,8 +76,8 @@
     },
     "types": {
         "beautifly": [
-            "Volante",
-            "Coleot"
+            "Coleot",
+            "Volante"
         ]
     },
     "weight": {

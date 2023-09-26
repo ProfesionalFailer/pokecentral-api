@@ -51,6 +51,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "drifloon",
     "generation": 4,
     "height": {
         "drifloon": "0,4 m"
@@ -59,13 +60,16 @@
     "name": "Drifloon",
     "name_origin": "Il suo nome deriva da drift  e balloon . ",
     "origin": "Drifloon è basato su un palloncino. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Drifloon",
     "shape": "insettoide",
     "specie": "Pokémon Pallone",
     "sprites": {
         "drifloon": {
             "default": "https://media.pokemoncentral.it/wiki/1/1a/Homem0425.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homemsh0425.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homemsh0425.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/33/Artwork0425_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/73/Artwork0425_DP.png"
     },
     "stats": {
         "drifloon": {
@@ -82,8 +86,8 @@
     },
     "types": {
         "drifloon": [
-            "Spettro",
-            "Volante"
+            "Volante",
+            "Spettro"
         ]
     },
     "weight": {

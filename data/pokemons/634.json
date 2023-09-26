@@ -34,6 +34,7 @@
     "egg_groups": [
         "Drago"
     ],
+    "flat_name": "zweilous",
     "generation": 5,
     "height": {
         "zweilous": "1,4 m"
@@ -42,13 +43,16 @@
     "name": "Zweilous",
     "name_origin": "Zweilous potrebbe essere una combinazione di zwei, due in tedesco e jealous, geloso . Oppure potrebbe derivare da zealous, accanito, in quanto riflette il suo appetito vorace e la sua natura competitiva. Dihead è una combinazione di di, due in greco e head, testa. ",
     "origin": "È basato sul Yamata no Orochi, ma potrebbe anche ispirarsi allo Zmaj, un drago a più teste della mitologia slava. La sua catena evolutiva potrebbe basarsi sulle tre Graie della mitologia greca: queste erano figure tetre dotate di un occhio solo dal quale condividevano la vista, così come Deino e Zweilous sono ciechi, mentre solo la testa centrale delle tre di Hydreigon ha l'iride visibile negli occhi. In un intervista, Ken Sugimori ha dichiarato che inizialmente i componenti della sua linea evolutiva avrebbero dovuto avere le sembianze di draghi-cyborg, perciò le due fasce rigate che ha sul ventre sono probabilmente un dettaglio rimasto del desing originale, per esempio la dentatura dei cingoli di un carro armato. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zweilous",
     "shape": "più di 4 arti",
     "specie": "Pokémon Irruenza",
     "sprites": {
         "zweilous": {
             "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem0634.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0634.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0634.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/db/Artwork0634_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0634_NB.png"
     },
     "stats": {
         "zweilous": {
@@ -65,8 +69,8 @@
     },
     "types": {
         "zweilous": [
-            "Buio",
-            "Drago"
+            "Drago",
+            "Buio"
         ]
     },
     "weight": {

@@ -77,6 +77,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "ninetales",
     "generation": 1,
     "height": {
         "ninetales": "1,1 m"
@@ -85,17 +86,20 @@
     "name": "Ninetales",
     "name_origin": "Il nome di Ninetales deriva dalle nine tails che ha, con \"tales\" al posto di \"tails\", in riferimento alle varie leggende giapponesi su cui è basato. Tuttavia, solo il suo nome inglese sembra far riferimento alle sue numerose leggende mitologiche e dei giochi. Kyūkon può essere inteso nel senso di 旧 恨, vecchio rancore, anche se vale la pena notare che la prima sillaba è 九 kyu, nove e Kon, dal giapponese onomatopea konkon - il suono che fanno le volpi. Inoltre, un コンロ konro è una stufa a gas. Infine, una lettura alternativa della parola giapponese per la volpe, 狐 kitsune, è ko. ",
     "origin": "Ninetales, così come Vulpix, è basato su una kitsune, che significa \"volpe\" in giapponese ma identifica anche le volpi che dopo secoli di vita hanno acquisito poteri sovrannaturali. Sono in grado di creare illusioni, usare poteri pre-cognitivi, e manipolare fiamme spirituali chiamate kitsunebi . Ad esse spunta una coda in più con ogni secolo di vita, e con esse aumenta anche il loro potere. Quando spunta la nona coda vengono dette 九尾の狐 kyuubi-no-kitsune , la loro pelliccia diventa dorata o bianco argento, e il loro potere raggiunge l'apice. Si dice che possano persino sentire e vedere qualsiasi cosa accade nel mondo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ninetales",
     "shape": "più di 4 arti",
     "specie": "Pokémon Volpe",
     "sprites": {
         "ninetales": {
             "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0038.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0038.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0038.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0b/Artwork0038A_Corp.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/c/cc/Homem0038A.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/dc/Homemsh0038A.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3d/Artwork0038_RFVF.png"
     },
     "stats": {
         "ninetales": {
@@ -124,8 +128,8 @@
             "Fuoco"
         ],
         "forma-di-alola": [
-            "Folletto",
-            "Ghiaccio"
+            "Ghiaccio",
+            "Folletto"
         ]
     },
     "weight": {

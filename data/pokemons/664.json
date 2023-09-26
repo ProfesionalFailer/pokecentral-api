@@ -23,6 +23,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "scatterbug",
     "generation": 6,
     "height": {
         "scatterbug": "0,3 m"
@@ -31,13 +32,16 @@
     "name": "Scatterbug",
     "name_origin": "Scatterbug è una combinazione tra scatter  e bug . Kofukimushi è una combinazione tra コフキコガネ Kofukikogane  e 虫 mushi . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Scatterbug",
     "shape": "testa e braccia",
     "specie": "Pokémon Tirascaglie",
     "sprites": {
         "scatterbug": {
             "default": "https://media.pokemoncentral.it/wiki/3/39/Homem0664.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0664.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0664.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7e/Artwork0664_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/38/Artwork0664_XY.png"
     },
     "stats": {
         "scatterbug": {

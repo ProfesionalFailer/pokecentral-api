@@ -21,6 +21,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "pawmi",
     "generation": 9,
     "height": {
         "pawmi": "0,3 m"
@@ -29,13 +30,16 @@
     "name": "Pawmi",
     "name_origin": "Pawmi potrebbe derivare dalla combinazione delle parole paw, che in inglese significa zampa, palm, inteso come il palmo della mano, e 鼠 nezumi, che in giapponese significa topo. ",
     "origin": "Pawmi sembra essere basato su diversi roditori, tra cui la marmotta delle Alpi, il cincillà e la viscaccia di montagna. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pawmi",
     "shape": "None",
     "specie": "Pokémon Topo",
     "sprites": {
         "pawmi": {
             "default": "https://media.pokemoncentral.it/wiki/0/09/Homem0921.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9b/Homemsh0921.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9b/Homemsh0921.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/72/Artwork0921_Corp_4.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bd/Artwork0921_SV.png"
     },
     "stats": {
         "pawmi": {

@@ -40,6 +40,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "probopass",
     "generation": 4,
     "height": {
         "probopass": "1,4 m"
@@ -48,13 +49,16 @@
     "name": "Probopass",
     "name_origin": "Probopass è una combinazione delle parole proboscis  e compass . Il nome giapponese, ダイノーズ Dainose, è una combinazione delle parole 大 dai  e l'inglese nose . ",
     "origin": "Probopass è basato sulle statue moai dell'Isola di Pasqua. Potrebbe anche essere un omaggio a Super Mario. Il suo naso e i mini-nasi , indicano come aghi di una bussola il nord e i restanti punti cardinali est, ovest e sud. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Probopass",
     "shape": "bipedi",
     "specie": "Pokémon Bussola",
     "sprites": {
         "probopass": {
             "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0476.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/ad/Homemsh0476.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ad/Homemsh0476.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/35/Artwork0476_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0d/Artwork0476_DP.png"
     },
     "stats": {
         "probopass": {
@@ -71,8 +75,8 @@
     },
     "types": {
         "probopass": [
-            "Acciaio",
-            "Roccia"
+            "Roccia",
+            "Acciaio"
         ]
     },
     "weight": {

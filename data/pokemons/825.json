@@ -19,6 +19,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "dottler",
     "generation": 8,
     "height": {
         "dottler": "0,4 m"
@@ -27,13 +28,16 @@
     "name": "Dottler",
     "name_origin": "Dottler potrebbe essere una combinazione di dot, puntino, e Doppler radar, radar Doppler. Redomushi potrebbe essere una combinazione di radome e 天道虫 tentōmushi, coccinella. ",
     "origin": "Dottler potrebbe essere basato su una coccinella e su un radome o su una sfera specchiata. I suoi occhi potrebbero trarre ispirazione da un paio di occhiali protettivi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dottler",
     "shape": "testa e braccia",
     "specie": "Pokémon Radome",
     "sprites": {
         "dottler": {
             "default": "https://media.pokemoncentral.it/wiki/8/89/Homem0825.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b8/Homemsh0825.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b8/Homemsh0825.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7e"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/97/Artwork0825_SpSc.png"
     },
     "stats": {
         "dottler": {

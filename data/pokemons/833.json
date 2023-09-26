@@ -34,6 +34,7 @@
         "Mostro",
         "Acqua 1"
     ],
+    "flat_name": "chewtle",
     "generation": 8,
     "height": {
         "chewtle": "0,3 m"
@@ -42,13 +43,16 @@
     "name": "Chewtle",
     "name_origin": "Chewtle potrebbe essere una combinazione di chew, masticare, e turtle, tartaruga. Kamukame potrebbe essere una combinazion di 噛む kamu, mordere, e 亀 kame, tartaruga. ",
     "origin": "Chewtle potrebbe essere basato su una testuggine azzannatrice. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chewtle",
     "shape": "più di 4 arti",
     "specie": "Pokémon Mordace",
     "sprites": {
         "chewtle": {
             "default": "https://media.pokemoncentral.it/wiki/1/15/Homem0833.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/63/Homemsh0833.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/63/Homemsh0833.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/ba"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0a/Artwork0833_SpSc.png"
     },
     "stats": {
         "chewtle": {

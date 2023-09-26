@@ -32,6 +32,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "gigalith",
     "generation": 5,
     "height": {
         "gigalith": "1,7 m"
@@ -40,13 +41,16 @@
     "name": "Gigalith",
     "name_origin": "È l'unione delle parole greche antiche γιγας gigas  e λίθος lithos . Potrebbe inoltre includere i termini inglesi monolith , o Goliath . ",
     "origin": "Sembra essere basato su una formazione di cristalli. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gigalith",
     "shape": "bipedi con coda",
     "specie": "Pokémon Pressionalta",
     "sprites": {
         "gigalith": {
             "default": "https://media.pokemoncentral.it/wiki/e/e8/Homem0526.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/95/Homemsh0526.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/95/Homemsh0526.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b6/Artwork0526_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5a/Artwork0526_NB.png"
     },
     "stats": {
         "gigalith": {

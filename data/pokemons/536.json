@@ -27,6 +27,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "palpitoad",
     "generation": 5,
     "height": {
         "palpitoad": "0,8 m"
@@ -35,13 +36,16 @@
     "name": "Palpitoad",
     "name_origin": "Il suo nome deriva probabilmente dalle parole inglesi palpitation  e toad . ",
     "origin": "Probabilmente si ispira al girino di un rospo e a un altoparlante. I rigonfiamenti sulle guance sono tipici delle rane, ma ricordano anche delle cuffie per ascoltare la musica. Le sfere sul suo corpo invece hanno un'aspetto simile alle verruche delle rane, o alle loro ghiandole velenose, oppure potrebbero essere basate sulla rana del Surinam, che sul dorso ha delle sacche per contenere le uova e che inoltre, come Palpitoad, produce vibrazioni subacquee. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Palpitoad",
     "shape": "due paia di ali",
     "specie": "Pokémon Vibrazione",
     "sprites": {
         "palpitoad": {
             "default": "https://media.pokemoncentral.it/wiki/2/2f/Homem0536.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0536.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0536.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/71/Artwork0536_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bb/Artwork0536_NB.png"
     },
     "stats": {
         "palpitoad": {

@@ -29,6 +29,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "houndstone",
     "generation": 9,
     "height": {
         "houndstone": "2,0 m"
@@ -37,13 +38,16 @@
     "name": "Houndstone",
     "name_origin": "Houndstone potrebbe essere una combinazione di hound  e headstone . Hakadoggu potrebbe essere una combinazione di 墓 haka  e ドッグ doggu . ",
     "origin": "Houndstone potrebbe derivare dal cadavere di un cane, per via degli arti scheletrici del Pokémon, oppure anche dal detto che il cane veglia sempre sulla tomba del suo padrone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Houndstone",
     "shape": "None",
     "specie": "Pokémon Cantasma",
     "sprites": {
         "houndstone": {
             "default": "https://media.pokemoncentral.it/wiki/a/a4/Homem0972.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0972.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0972.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/15"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/07/Artwork0972_SV.png"
     },
     "stats": {
         "houndstone": {

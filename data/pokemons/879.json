@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "copperajah": {
             "primary": "Forzabruta",
             "hidden": "Metalpesante"
         }
@@ -25,6 +25,7 @@
         "Campo",
         "Minerale"
     ],
+    "flat_name": "copperajah",
     "generation": 8,
     "height": {
         "copperajah": "3,0 m",
@@ -34,17 +35,20 @@
     "name": "Copperajah",
     "name_origin": "Copperajah potrebbe essere una combinazione di copper, rame, e maharaja, titolo indiano per \"grande re\". Potrebbe derivare anche da gajah, elefante in indonesiano e malese, che a sua volta deriva da गज gaja, elefante in sanscrita. Daioudou potrebbe essere una combinazione di 大王 daiō, grande re, 王道 ōdō, regalità, e 銅 dō, rame, o 黄銅 ōdō, ottone. ",
     "origin": "Data la storia che lega l'Asia con la Gran Bretagna e l'uso degli elefanti in cattività come animali da lavoro, Copperajah potrebbe prendere ispirazione da un elefante asiatico con una benna da scavo di un escavatore come proboscide. Potrebbe essere basato sulle statue d'elefante in rame e bronzo che sono comuni nell'arte indiana e Thai. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Copperajah",
     "shape": "più di 4 arti",
     "specie": "Pokémon Bronzofante",
     "sprites": {
         "copperajah": {
             "default": "https://media.pokemoncentral.it/wiki/c/ca/Homem0879.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0879.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0879.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d9"
         },
         "copperajah-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/2/29/Homem0879Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/b0/Homemsh0879Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/06/Artwork0879_SpSc.png"
     },
     "stats": {
         "copperajah": {

@@ -33,6 +33,7 @@
         "Volante",
         "Acqua 3"
     ],
+    "flat_name": "archeops",
     "generation": 5,
     "height": {
         "archeops": "1,4 m"
@@ -41,13 +42,16 @@
     "name": "Archeops",
     "name_origin": "Il nome di Archeops deriva da Archaeopteryx. Il suffisso -ops è comune in molti generi di dinosauro. ",
     "origin": "L'aspetto di Archeops ricorda quello di Microraptor, un piccolo dinosauro piumato, così come ricorda l'Archaeopteryx, ritenuto il primo uccello mai esistito. Potrebbe anche alludere ai serpenti piumati delle leggende mesoamericane. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Archeops",
     "shape": "testa e base",
     "specie": "Pokémon Paleouccello",
     "sprites": {
         "archeops": {
             "default": "https://media.pokemoncentral.it/wiki/1/19/Homem0567.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0567.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0567.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/34/Artwork0567_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f1/Artwork0567_NB.png"
     },
     "stats": {
         "archeops": {
@@ -64,8 +68,8 @@
     },
     "types": {
         "archeops": [
-            "Roccia",
-            "Volante"
+            "Volante",
+            "Roccia"
         ]
     },
     "weight": {

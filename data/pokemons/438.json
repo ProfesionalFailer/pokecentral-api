@@ -44,6 +44,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "bonsly",
     "generation": 4,
     "height": {
         "bonsly": "0,5 m"
@@ -52,13 +53,16 @@
     "name": "Bonsly",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi bonsai e sly  o lie . ",
     "origin": "È basato su un bonsai. Potrebbe anche ispirarsi alle foreste fossili. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bonsly",
     "shape": "corpi multipli",
     "specie": "Pokémon Bonsai",
     "sprites": {
         "bonsly": {
             "default": "https://media.pokemoncentral.it/wiki/b/b2/Homem0438.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0438.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0438.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c6/Artwork0438_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f1/Artwork0438_DP.png"
     },
     "stats": {
         "bonsly": {

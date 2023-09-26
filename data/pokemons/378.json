@@ -45,6 +45,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "regice",
     "generation": 3,
     "height": {
         "regice": "1,8 m"
@@ -53,13 +54,16 @@
     "name": "Regice",
     "name_origin": "Il suo nome deriva dalla parola latina regius, regale, e da ice, ghiaccio. ",
     "origin": "Regice è basato sulle leggende ebraiche dei golem. Le leggende li definiscono come dei servitori con enormi poteri, che vengono esercitati tramite delle parole scritte sulle loro fronti. Se le parole vengono rimosse, essi si indeboliscono. I golem leggendari possono avere come tema comune le epoche storiche, con Regice che rappresenta le ere glaciali. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Regice",
     "shape": "un paio di ali",
     "specie": "Pokémon Iceberg",
     "sprites": {
         "regice": {
             "default": "https://media.pokemoncentral.it/wiki/b/b3/Homem0378.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8e/Homemsh0378.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8e/Homemsh0378.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/48/Artwork0378_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ee/Artwork0378_RZ.png"
     },
     "stats": {
         "regice": {

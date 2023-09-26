@@ -48,6 +48,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "bellossom",
     "generation": 2,
     "height": {
         "bellossom": "0,4 m"
@@ -56,13 +57,16 @@
     "name": "Bellossom",
     "name_origin": "Il suo nome deriva dall'italiano o spagnolo bella, dal francese belle , o dall'inglese bell  e blossom . ",
     "origin": "Il suo aspetto ricorda una danzatrice hawaiana. La sua struttura corporea è molto simile a una campana, possibile riferimento alle campanule. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bellossom",
     "shape": "un paio di ali",
     "specie": "Pokémon Fiore",
     "sprites": {
         "bellossom": {
             "default": "https://media.pokemoncentral.it/wiki/0/0a/Homem0182.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/29/Homemsh0182.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/29/Homemsh0182.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0c/Artwork0182_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/71/Artwork0182_RFVF.png"
     },
     "stats": {
         "bellossom": {

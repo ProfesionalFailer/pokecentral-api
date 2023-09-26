@@ -20,6 +20,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "blacephalon",
     "generation": 7,
     "height": {
         "blacephalon": "1,8 m"
@@ -28,13 +29,16 @@
     "name": "Blacephalon",
     "name_origin": "Blacephalon è una combinazione di blast  e il greco κεφαλή, kefalé, \"testa\". Zugadōn deriva da 頭がドーン zu ga dōn . UC Fragor è una combinazione di parole tra UC  e di fragor . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Blacephalon",
     "shape": "un paio di ali",
     "specie": "Pokémon Pirotecnico",
     "sprites": {
         "blacephalon": {
             "default": "https://media.pokemoncentral.it/wiki/6/6f/Homem0806.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0806.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0806.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/75/Artwork0806_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2f/Artwork0806_UsUl.png"
     },
     "stats": {
         "blacephalon": {
@@ -51,8 +55,8 @@
     },
     "types": {
         "blacephalon": [
-            "Spettro",
-            "Fuoco"
+            "Fuoco",
+            "Spettro"
         ]
     },
     "weight": {

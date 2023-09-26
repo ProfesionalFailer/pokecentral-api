@@ -50,6 +50,7 @@
         "Mostro",
         "Campo"
     ],
+    "flat_name": "rhyhorn",
     "generation": 1,
     "height": {
         "rhyhorn": "1,0 m"
@@ -58,17 +59,20 @@
     "name": "Rhyhorn",
     "name_origin": "Il nome Rhyhorn probabilmente deriva dall'unione delle parola inglesi rhinoceros, rinoceronte, e horn, corno. ",
     "origin": "Rhyhorn è chiaramente ispirato ad un rinoceronte. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rhyhorn",
     "shape": "più di 4 arti",
     "specie": "Pokémon Punzoni",
     "sprites": {
-        "": {
+        "rhyhorn": {
             "default": "https://media.pokemoncentral.it/wiki/6/61/Homem0111.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f0/Homemsh0111.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f0/Homemsh0111.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0d/Artwork0111_Corp.png"
         },
-        "-f": {
+        "rhyhorn-f": {
             "default": "https://media.pokemoncentral.it/wiki/d/dc/Homef0111.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homefsh0111.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a8/Artwork0111_RFVF.png"
     },
     "stats": {
         "rhyhorn": {

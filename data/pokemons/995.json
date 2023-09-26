@@ -1,60 +1,63 @@
 {
     "abilities": {
-        "frigibax": {
-            "primary": "Termoscambio",
-            "hidden": "Corpogelo"
+        "spineferree": {
+            "primary": "Carica Quark"
         }
     },
     "curiosities": [
-        "Frigibax e Dreepy sono le uniche forme base di Pokémon pseudo-leggendari a non avere il totale delle statistiche base pari a 300."
+        "Nel Pokéwood di Pokémon Nero 2 e Bianco 2, precisamente ne Gli Ipermostri, era già apparso un robot simile a Spineferree.",
+        "Spineferree presenta un totale delle statistiche minore rispetto a Tyranitar, il Pokémon da cui trae ispirazione. Questa particolarità è condivisa da Colloferreo nei confronti di Hydreigon, anch'esso uno pseudo-leggendario."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/frigibax.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/spineferree.mp3",
     "dex_entries": {
-        "frigibax": {
-            "scarlet": "Assorbe il calore con la pinna dorsale e lo trasforma in energia Ghiaccio. Più alta è la temperatura, più energia accumula.",
-            "violet": "Vive nelle foreste e in aree rocciose. Usa la cresta dorsale per raffreddare l'interno della tana quasi come fosse un frigorifero."
+        "spineferree": {
+            "scarlet": "Ricorda per alcuni aspetti un Pokémon citato in una rivista di dubbia attendibilità, descritto come un Tyranitar di un miliardo di anni nel futuro.",
+            "violet": "Ha caratteristiche che coincidono con quelle di un oggetto chiamato \"Spineferree\" in un certo diario di viaggio."
         }
     },
     "egg_groups": [
-        "Drago",
-        "Minerale"
+        "Sconosciuto"
     ],
+    "flat_name": "spineferree",
     "generation": 9,
     "height": {
-        "frigibax": "0,5 m"
+        "spineferree": "1,6 m"
     },
     "id": 995,
-    "name": "Frigibax",
-    "name_origin": "Frigibax potrebbe essere una combinazione di frigid  e back . ",
-    "origin": "Frigibax e Dreepy sono le uniche forme base di Pokémon pseudo-leggendari a non avere il totale delle statistiche base pari a 300. ",
+    "name": "Spineferree",
+    "name_origin": "Spineferree è una combinazione di spine e ferro. Iron Thorns è una combinazione di iron, ferro, e thorns, spine. ",
+    "origin": "Spineferree potrebbe essere una versione robotica di Tyranitar. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spineferree",
     "shape": "None",
-    "specie": "Pokémon Gelopinna",
+    "specie": "Pokémon Paradosso",
     "sprites": {
-        "frigibax": {
-            "default": "https://media.pokemoncentral.it/wiki/0/05/Homem0996.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a0/Homemsh0996.png"
-        }
+        "spineferree": {
+            "default": "https://media.pokemoncentral.it/wiki/0/01/Homem0995.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/75/Homemsh0995.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6a"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/25/Artwork0995_SV.png"
     },
     "stats": {
-        "frigibax": {
-            "hp": 65,
-            "atk": 75,
-            "def": 45,
-            "spa": 35,
-            "spd": 45,
-            "spe": 55
+        "spineferree": {
+            "hp": 100,
+            "atk": 134,
+            "def": 110,
+            "spa": 70,
+            "spd": 84,
+            "spe": 72
         }
     },
     "stats_sum": {
-        "frigibax": 320
+        "spineferree": 570
     },
     "types": {
-        "frigibax": [
-            "Ghiaccio",
-            "Drago"
+        "spineferree": [
+            "Elettro",
+            "Roccia"
         ]
     },
     "weight": {
-        "frigibax": "17,0 kg"
+        "spineferree": "303,0 kg"
     }
 }

@@ -43,6 +43,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "ursaring",
     "generation": 2,
     "height": {
         "ursaring": "1,8 m"
@@ -51,17 +52,20 @@
     "name": "Ursaring",
     "name_origin": "Deriva dalla parola latina ursa, orso, con la parola inglese ring, anello. ",
     "origin": "Ursaring è ispirato ad un orso tibetano, conosciuto anche con il nome di orso della luna. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ursaring",
     "shape": "due paia di ali",
     "specie": "Pokémon Letargo",
     "sprites": {
-        "": {
+        "ursaring": {
             "default": "https://media.pokemoncentral.it/wiki/5/5e/Homem0217.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/aa/Homemsh0217.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/a/aa/Homemsh0217.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/dd/Artwork0217_Corp.png"
         },
-        "-f": {
+        "ursaring-f": {
             "default": "https://media.pokemoncentral.it/wiki/b/bd/Homef0217.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/76/Homefsh0217.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/79/Artwork0217_HGSS.png"
     },
     "stats": {
         "ursaring": {

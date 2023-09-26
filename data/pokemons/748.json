@@ -25,6 +25,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "toxapex",
     "generation": 7,
     "height": {
         "toxapex": "0,7 m"
@@ -33,13 +34,16 @@
     "name": "Toxapex",
     "name_origin": "Toxapex può essere la combinazione di toxic, tossico, e apex, apice. Dohidoide può essere la combinazione di ど酷い dohidoi, veramente crudele, e 海星 hitode, stella marina. ",
     "origin": "Toxapex è basato su una stella corona di spine, una stella marina velenosa che si nutre di coralli. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Toxapex",
     "shape": "bipedi con coda",
     "specie": "Pokémon Stellatroce",
     "sprites": {
         "toxapex": {
             "default": "https://media.pokemoncentral.it/wiki/7/7e/Homem0748.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/ca/Homemsh0748.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/ca/Homemsh0748.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1b/Artwork0748_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/45/Artwork0748_SL.png"
     },
     "stats": {
         "toxapex": {

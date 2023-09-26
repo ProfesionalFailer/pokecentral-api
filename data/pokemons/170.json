@@ -48,6 +48,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "chinchou",
     "generation": 2,
     "height": {
         "chinchou": "0,5 m"
@@ -56,13 +57,16 @@
     "name": "Chinchou",
     "name_origin": "Il suo nome deriva dalla parola giapponese 提灯 chōchin, lanterna. ",
     "origin": "Basato sui pesci Lophiiformes. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chinchou",
     "shape": "pinne",
     "specie": "Pokémon Pescatore",
     "sprites": {
         "chinchou": {
             "default": "https://media.pokemoncentral.it/wiki/c/cd/Homem0170.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0170.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0170.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c5/Artwork0170_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/01/Artwork0170_HGSS.png"
     },
     "stats": {
         "chinchou": {

@@ -18,7 +18,7 @@
         "Sableye ha le statistiche totali più basse di tutti i Pokémon Buio completamente evoluti.",
         "Sableye è uno dei pochi Pokémon il cui sprite animato di Smeraldo non fa alcuna animazione di trans-locazione , ma invece rimane sul posto durante l'animazione.\n\tSableye e Kecleon sono gli unici Pokémon il cui sprite di Smeraldo subisce alterazioni durante l'animazione; nel caso di Sableye il suo corpo viene coperto da un velo d'ombra.",
         "Sableye e Kecleon sono gli unici Pokémon il cui sprite di Smeraldo subisce alterazioni durante l'animazione; nel caso di Sableye il suo corpo viene coperto da un velo d'ombra.",
-        "Se in Pokémon Nero 2 e Bianco 2 si chiede della compatibilità dei tipi di Sableye a Komor, questi affermerà che il Pokémon non ha punti deboli, ciò accade anche con Spiritomb"
+        "Se in Pokémon Nero 2 e Bianco 2 si chiede della compatibilità dei tipi di Sableye a Komor, questi affermerà che il Pokémon non ha punti deboli, ciò accade anche con Spiritomb."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/sableye.mp3",
     "dex_entries": {
@@ -62,6 +62,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "sableye",
     "generation": 3,
     "height": {
         "sableye": "0,5 m"
@@ -70,17 +71,21 @@
     "name": "Sableye",
     "name_origin": "Il suo nome deriva dalla combinazione delle parole inglesi sable  e eye , potrebbe anche essere un gioco di parole di \"able-eyed\" . ",
     "origin": "Sableye è una stilizzazione del Goblin di Hopkinsville, una presunta creatura aliena che è stata descritta con occhi brillanti, piccole gambe, braccia artigliate e con movimenti ondeggianti . I Goblin di Hopkinsville sono particolarmente famosi in Giappone dove hanno fatto varie apparizioni negli anime e nei videogiochi.\nGli zaffiri, i rubini e gli smeraldi che ha nel corpo, potrebbero essere un riferimento ai giochi di terza generazione, dove il Pokémon ha fatto il suo debutto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sableye",
     "shape": "un paio di ali",
     "specie": "Pokémon Oscurità",
     "sprites": {
         "sableye": {
             "default": "https://media.pokemoncentral.it/wiki/4/40/Homem0302.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0302.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0302.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e6/Artwork0302_Corp.png"
         },
         "megasableye": {
             "default": "https://media.pokemoncentral.it/wiki/1/13/Homem0302M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4f/Homemsh0302M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4f/Homemsh0302M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/32/Artwork0302M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/02/Artwork0302_RZ.png"
     },
     "stats": {
         "sableye": {

@@ -39,6 +39,7 @@
         "Coleottero",
         "Acqua 3"
     ],
+    "flat_name": "drapion",
     "generation": 4,
     "height": {
         "drapion": "1,3 m"
@@ -47,13 +48,16 @@
     "name": "Drapion",
     "name_origin": "Deriva dalle parole Dracula o dragon  e scorpion . Potrebbe inoltre derivare da harpoon  e poison . ",
     "origin": "Drapion sembra essere basato sulla classe di aracnidi degli Uropygi, aracnidi che riconducono ad uno scorpione. Per il fatto che appartiene al Gruppo Uova Acqua 3 potrebbe anche derivare da un antico gruppo di antropodi, gli euripteridi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Drapion",
     "shape": "testa e braccia",
     "specie": "Pokémon Scorpiaccio",
     "sprites": {
         "drapion": {
             "default": "https://media.pokemoncentral.it/wiki/d/df/Homem0452.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0452.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0452.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/47/Artwork0452_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c5/Artwork0452_DP.png"
     },
     "stats": {
         "drapion": {
@@ -70,8 +74,8 @@
     },
     "types": {
         "drapion": [
-            "Buio",
-            "Veleno"
+            "Veleno",
+            "Buio"
         ]
     },
     "weight": {

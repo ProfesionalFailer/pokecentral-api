@@ -41,6 +41,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "gabite",
     "generation": 4,
     "height": {
         "gabite": "1,4 m"
@@ -49,17 +50,20 @@
     "name": "Gabite",
     "name_origin": "Il suo nome probabilmente deriva dall'unione della parola giapponese がぶがぶ gabugabu, onomatopeico per quando si beve tutto d'un fiato, かぶりつく kaburitsuku, scavare, がぶりと gaburito, masticare, がぶりと噛み付く gaburitokamitsuku, affondare un dente in qualcosa, e la parola inglese bite, morso. ",
     "origin": "Gabite è basato su un drago ed uno squalo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gabite",
     "shape": "due paia di ali",
     "specie": "Pokémon Grotta",
     "sprites": {
-        "": {
+        "gabite": {
             "default": "https://media.pokemoncentral.it/wiki/a/ae/Homem0444.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0444.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0444.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9d/Artwork0444_Corp.png"
         },
-        "-f": {
+        "gabite-f": {
             "default": "https://media.pokemoncentral.it/wiki/3/33/Homef0444.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/55/Homefsh0444.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/00/Artwork0444_DP.png"
     },
     "stats": {
         "gabite": {

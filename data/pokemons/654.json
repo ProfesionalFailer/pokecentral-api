@@ -21,6 +21,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "braixen",
     "generation": 6,
     "height": {
         "braixen": "1,0 m"
@@ -29,13 +30,16 @@
     "name": "Braixen",
     "name_origin": "Braixen deriva dal francese braise  e dall'inglese vixen . ",
     "origin": "Si basa su un fennec. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Braixen",
     "shape": "più di 4 arti",
     "specie": "Pokémon Volpe",
     "sprites": {
         "braixen": {
             "default": "https://media.pokemoncentral.it/wiki/7/78/Homem0654.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d7/Homemsh0654.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d7/Homemsh0654.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/eb/Artwork0654_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/60/Artwork0654_XY.png"
     },
     "stats": {
         "statistiche-base": {

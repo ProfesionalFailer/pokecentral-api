@@ -18,6 +18,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "crocalor",
     "generation": 9,
     "height": {
         "crocalor": "1,0 m"
@@ -26,13 +27,16 @@
     "name": "Crocalor",
     "name_origin": "Crocalor potrebbe essere una combinazione di crocodile  e calor . Achigator potrebbe essere una combinazione di mariachi e gator . ",
     "origin": "Crocalor potrebbe essere basato su un coccodrillo, anche se presenta similitudini con i dinosauri teropodi. Sulla testa presenta un nido con un uovo che ricorda un sombrero. La parte bianca sulla faccia ricorda un teschio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Crocalor",
     "shape": "None",
     "specie": "Pokémon Fuocodrillo",
     "sprites": {
         "crocalor": {
             "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem0910.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh0910.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh0910.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/47"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/af/Artwork0910_SV.png"
     },
     "stats": {
         "crocalor": {

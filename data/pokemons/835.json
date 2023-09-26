@@ -19,6 +19,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "yamper",
     "generation": 8,
     "height": {
         "yamper": "0,3 m"
@@ -27,13 +28,16 @@
     "name": "Yamper",
     "name_origin": "Yamper potrebbe essere una combinazione di yap, guaire, ampere e scamper, correre via. Wanpachi potrebbe essere una combinazione di ワンワン wanwan, onomatopea per il latrato, e da パチパチ pachipachi, l'onomatopea dello scoppiettio. ",
     "origin": "Yamper potrebbe essere basato su un Welsh Corgi, una razza di cane famosa per essere l'attuale animale domestico della regina del Regno Unito, il Paese su cui si basa la regione di Galar. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Yamper",
     "shape": "più di 4 arti",
     "specie": "Pokémon Cagnolino",
     "sprites": {
         "yamper": {
             "default": "https://media.pokemoncentral.it/wiki/3/37/Homem0835.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homemsh0835.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homemsh0835.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/eb"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/92/Artwork0835_SpSc.png"
     },
     "stats": {
         "yamper": {

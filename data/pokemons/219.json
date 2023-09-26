@@ -40,6 +40,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "magcargo",
     "generation": 2,
     "height": {
         "magcargo": "0,8 m"
@@ -48,13 +49,16 @@
     "name": "Magcargo",
     "name_origin": "Magcargo e Magcargot potrebbero essere una combinazione di magma ed escargot, un piatto tipico della cucina francese a base di chiocciole. Cargo potrebbe riferirsi anche al guscio che Slugma ha acquisito evolvendosi. ",
     "origin": "Magcargo potrebbe essere basato su una chiocciola, in particolare sulla Victaphanta atramentaria, sulla Platymma tweediei o sulla Chrysomallon squamiferum. Potrebbe essere basato anche sul Cherufe, una creatura mitologica malvagia fatta di lava e roccia che vive nelle pozze di magma nei vulcani del Cile. Queste creature, secondo la mitologia, sono la causa dei terremoti nel Paese cileno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Magcargo",
     "shape": "testa e gambe",
     "specie": "Pokémon Lava",
     "sprites": {
         "magcargo": {
             "default": "https://media.pokemoncentral.it/wiki/b/bb/Homem0219.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0219.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0219.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4a/Artwork0219_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f2/Artwork0219_HGSS.png"
     },
     "stats": {
         "magcargo": {
@@ -71,8 +75,8 @@
     },
     "types": {
         "magcargo": [
-            "Roccia",
-            "Fuoco"
+            "Fuoco",
+            "Roccia"
         ]
     },
     "weight": {

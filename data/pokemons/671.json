@@ -45,6 +45,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "florges",
     "generation": 6,
     "height": {
         "florges": "1,1 m"
@@ -53,6 +54,7 @@
     "name": "Florges",
     "name_origin": "Il suo nome deriva dall'unione delle parole francesi flore, flora, e orge, orzo. ",
     "origin": "Florges è basato su una fata o su una ninfa. Potrebbe essere ispirato alla mandragora. Il suo aspetto ricorda quello di una dama francese del Settecento. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Florges",
     "shape": "insettoide",
     "specie": "Pokémon Giardino",
     "sprites": {
@@ -75,7 +77,11 @@
         "fiore-bianco": {
             "default": "https://media.pokemoncentral.it/wiki/2/28/Homef0671Bi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/50/Homefsh0671Bi.png"
-        }
+        },
+        "florges": {
+            "corporate": "https://media.pokemoncentral.it/wiki/2/22/Artwork0671Bi_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/65/Artwork0671_XY.png"
     },
     "stats": {
         "florges": {

@@ -6,7 +6,7 @@
         }
     },
     "curiosities": [
-        "Heatran è l'unico Pokémon leggendario che può essere sia maschio che femmina.",
+        "Heatran e la linea evolutiva di Kubfu sono gli unici Pokémon leggendari che possono essere di entrambi i sessi.",
         "Heatran è l'unico Pokémon di tipo Fuoco/Acciaio.\n\tQuesta doppia tipologia lo rende immune sia alla scottatura che all'avvelenamento.",
         "Questa doppia tipologia lo rende immune sia alla scottatura che all'avvelenamento.",
         "Heatran possiede il maggior numero di doppie resistenze: cinque.",
@@ -37,6 +37,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "heatran",
     "generation": 4,
     "height": {
         "heatran": "1,7 m"
@@ -45,13 +46,16 @@
     "name": "Heatran",
     "name_origin": "Deriva dalle parole inglesi heat, calore, e transfer, trasferimento. Potrebbe anche derivare da transition metal . ",
     "origin": "Potrebbe basarsi sull'unione tra terra, roccia e magma, una specie di spirito o guardiano, facendo riferimento al fatto che il nucleo interno della Terra è composto di metallo soggetto a una fortissima pressione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Heatran",
     "shape": "più di 4 arti",
     "specie": "Pokémon Cratere",
     "sprites": {
         "heatran": {
             "default": "https://media.pokemoncentral.it/wiki/2/2b/Homem0485.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/73/Homemsh0485.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/73/Homemsh0485.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4f/Artwork0485_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/aa/Artwork0485_DP.png"
     },
     "stats": {
         "heatran": {
@@ -68,8 +72,8 @@
     },
     "types": {
         "heatran": [
-            "Acciaio",
-            "Fuoco"
+            "Fuoco",
+            "Acciaio"
         ]
     },
     "weight": {

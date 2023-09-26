@@ -55,6 +55,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "porygon2",
     "generation": 2,
     "height": {
         "porygon2": "0,6 m"
@@ -63,13 +64,16 @@
     "name": "Porygon2",
     "name_origin": "Il nome di Porygon2 deriva da polygon, \"poligono\", scritto con una R in riferimento al fatto che il giapponese non distingue i suoni di R e L. Potrebbe anche contenere la parola origami. Il 2 si riferisce al fatto che è la seconda versione di Porygon. ",
     "origin": "Come Porygon è probabilmente basato su un origami creato con un software di rendering 3D, oltre che su un papero bevitore. Il suo aspetto più liscio rispetto a quello di Porygon si rifa al concetto di superficie di suddivisione nella grafica 3D. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Porygon2",
     "shape": "corpi multipli",
     "specie": "Pokémon Virtuale",
     "sprites": {
         "porygon2": {
             "default": "https://media.pokemoncentral.it/wiki/8/86/Homem0233.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0233.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0233.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/32/Artwork0233_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/13/Artwork0233_HGSS.png"
     },
     "stats": {
         "porygon2": {

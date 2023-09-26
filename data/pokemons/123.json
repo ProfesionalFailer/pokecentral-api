@@ -59,6 +59,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "scyther",
     "generation": 1,
     "height": {
         "scyther": "1,5 m"
@@ -67,17 +68,20 @@
     "name": "Scyther",
     "name_origin": "Il suo nome deriva dalla parola inglese scythe, falce. Letteralmente il suo nome significa \"falciatore\" riferendosi alle falci nelle sue zampe. ",
     "origin": "È basato su una mantide religiosa e una cavalletta, tuttavia per via della testa sembrerebbe essere basato anche sui dinosauri, draghi o altri rettili. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Scyther",
     "shape": "serpentiforme",
     "specie": "Pokémon Mantide",
     "sprites": {
-        "": {
+        "scyther": {
             "default": "https://media.pokemoncentral.it/wiki/3/39/Homem0123.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0123.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0123.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4b/Artwork0123_Corp.png"
         },
-        "-f": {
+        "scyther-f": {
             "default": "https://media.pokemoncentral.it/wiki/4/47/Homef0123.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/06/Homefsh0123.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5d/Artwork0123_RFVF.png"
     },
     "stats": {
         "scyther": {
@@ -94,8 +98,8 @@
     },
     "types": {
         "scyther": [
-            "Volante",
-            "Coleot"
+            "Coleot",
+            "Volante"
         ]
     },
     "weight": {

@@ -25,6 +25,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "virizion",
     "generation": 5,
     "height": {
         "virizion": "2,0 m"
@@ -33,13 +34,16 @@
     "name": "Virizion",
     "name_origin": "Il suo nome probabilmente deriva dalle parole inglesi viridian, , e champion . Potrebbe anche derivare dal latino viridis  e dall'inglese lion, leone. ",
     "origin": "Virizion è basato su Aramis, uno de I Tre Moschettieri. Il suo aspetto ricorda un'antilope, un gerenuk, una gazzella o un giovane cervo. Il colore del manto è un riferimento esplicito al verde Veronese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Virizion",
     "shape": "più di 4 arti",
     "specie": "Pokémon Prateria",
     "sprites": {
         "virizion": {
             "default": "https://media.pokemoncentral.it/wiki/b/b2/Homem0640.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0640.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0640.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/31/Artwork0640_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/18/Artwork0640_NB.png"
     },
     "stats": {
         "virizion": {

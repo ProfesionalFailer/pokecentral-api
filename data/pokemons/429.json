@@ -38,6 +38,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "mismagius",
     "generation": 4,
     "height": {
         "mismagius": "0,9 m"
@@ -46,13 +47,16 @@
     "name": "Mismagius",
     "name_origin": "Mismagius ha origine da mischievous , magic  e magus . Mumargi potrebbe essere una combinazione di 夢魔 muma e mage o magic. ",
     "origin": "Mismagius è basato su un mago o una strega, ma anche sulla creatura mitologica della banshee. La sua colorazione potrebbe essere un riferimento al Nasu-babā, uno Yōkai con la pelle viola, mentre la sua forma ricorda un teru teru bōzu ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mismagius",
     "shape": "testa",
     "specie": "Pokémon Stregone",
     "sprites": {
         "mismagius": {
             "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0429.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0429.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0429.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/49/Artwork0429_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9e/Artwork0429_DP.png"
     },
     "stats": {
         "mismagius": {

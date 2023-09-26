@@ -32,6 +32,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "joltik",
     "generation": 5,
     "height": {
         "joltik": "0,1 m"
@@ -40,13 +41,16 @@
     "name": "Joltik",
     "name_origin": "Il nome di Joltik può essere una combinazione di jolt  e tick . ",
     "origin": "A causa del suo comportamenti di aggrapparsi ai Pokémon più grandi per assorbirne l'elettricità lo ricollega molto ad una zecca, tuttavia il suo aspetto è più ricollegabile a quello di una tarantola proprio come la sua evoluzione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Joltik",
     "shape": "testa e braccia",
     "specie": "Pokémon Appiccicante",
     "sprites": {
         "joltik": {
             "default": "https://media.pokemoncentral.it/wiki/4/48/Homem0595.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0595.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0595.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/72"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c1/Artwork0595_NB.png"
     },
     "stats": {
         "joltik": {
@@ -63,8 +67,8 @@
     },
     "types": {
         "joltik": [
-            "Elettro",
-            "Coleot"
+            "Coleot",
+            "Elettro"
         ]
     },
     "weight": {

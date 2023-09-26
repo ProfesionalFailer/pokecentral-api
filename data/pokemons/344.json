@@ -41,6 +41,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "claydol",
     "generation": 3,
     "height": {
         "claydol": "1,5 m"
@@ -49,13 +50,16 @@
     "name": "Claydol",
     "name_origin": "Il nome proviene dall'inglese clay  e doll  o idol . Questo probabilmente si riferisce all'aspetto e al tipo Terra di Claydol. Potrebbe derivare, seguendo la sua pronuncia, anche da dreidel. ",
     "origin": "Basato sul dogū, idolo in argilla giapponese del periodo Jōmon. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Claydol",
     "shape": "insettoide",
     "specie": "Pokémon Argilla",
     "sprites": {
         "claydol": {
             "default": "https://media.pokemoncentral.it/wiki/9/9a/Homem0344.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0344.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0344.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/80/Artwork0344_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7e/Artwork0344_RZ.png"
     },
     "stats": {
         "claydol": {
@@ -72,8 +76,8 @@
     },
     "types": {
         "claydol": [
-            "Psico",
-            "Terra"
+            "Terra",
+            "Psico"
         ]
     },
     "weight": {

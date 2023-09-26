@@ -31,6 +31,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "klawf",
     "generation": 9,
     "height": {
         "klawf": "1,3 m"
@@ -39,13 +40,16 @@
     "name": "Klawf",
     "name_origin": "Klawf potrebbe essere una combinazione di claw, chela, e cliff, scogliera. Gakegani potrebbe essere una combinazione di 崖 gake, scogliera, e 蟹 kani, granchio, o 毛蟹 kegani, una specie di granchio che vive in Hokkaidō. ",
     "origin": "Klawf sembra essere basato su varie specie di granchi con setole simili a capelli sul corpo. Potrebbe anche essere parzialmente ispirato all'arrampicata su roccia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Klawf",
     "shape": "None",
     "specie": "Pokémon Agguato",
     "sprites": {
         "klawf": {
             "default": "https://media.pokemoncentral.it/wiki/9/97/Homem0950.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/01/Homemsh0950.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/01/Homemsh0950.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cc/Artwork0950_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f4/Artwork0950_SV.png"
     },
     "stats": {
         "klawf": {

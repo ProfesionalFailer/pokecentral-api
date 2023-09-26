@@ -25,6 +25,7 @@
         "Magico",
         "Umanoide"
     ],
+    "flat_name": "morgrem",
     "generation": 8,
     "height": {
         "morgrem": "0,8 m"
@@ -33,13 +34,16 @@
     "name": "Morgrem",
     "name_origin": "Morgrem potrebbe essere una combinazione di morbid, raccapricciante, e gremlin, spiritello maligno. Potrebbe derivare anche da grem, una vecchia parola inglese e tedesca che significa letteralmente \"alla rabbia\". Gimoh potrebbe essere una combinazione di 欺罔 gimō, inganno, 毛 mō, pelo, e demon, demone. ",
     "origin": "Morgrem potrebbe essere basato sul clurichaun di Monaghan, una variante subdola del leprechaun del folklore irlandese che si inchina per attirare il suo avversario per poi infilzare i suoi occhi con il cappello a punta. Ricorda anche il Redcap, un goblin omicida delle leggende inglesi che porta con sé una picca su cui sembra prendere spunto la coda dei capelli di Morgrem. Come suggerisce il nome, potrebbe essere ispirato su un gremlin. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Morgrem",
     "shape": "un paio di ali",
     "specie": "Pokémon Furbizia",
     "sprites": {
         "morgrem": {
             "default": "https://media.pokemoncentral.it/wiki/5/55/Homem0860.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/66/Homemsh0860.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/66/Homemsh0860.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/57"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9a/Artwork0860_SpSc.png"
     },
     "stats": {
         "morgrem": {

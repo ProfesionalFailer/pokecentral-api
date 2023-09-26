@@ -27,6 +27,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "crabominable",
     "generation": 7,
     "height": {
         "crabominable": "1,7 m"
@@ -35,13 +36,16 @@
     "name": "Crabominable",
     "name_origin": "Crabominable può essere una combinazione di crab, granchio, e abominable snowman, Abominevole uomo delle nevi. Kekenkani può essere una combinazione di 毛蟹 kegani, Erimacrus isenbeckii, specie di granchio, e 喧嘩 kenka, lotta. ",
     "origin": "Crabominable potrebbe essere basato su uno Yeti o su un Kiwa hirsuta, conosciuto anche come granchio Yeti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Crabominable",
     "shape": "testa e braccia",
     "specie": "Pokémon Peligranchio",
     "sprites": {
         "crabominable": {
             "default": "https://media.pokemoncentral.it/wiki/d/df/Homem0740.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0740.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0740.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1c/Artwork0740_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a8/Artwork0740_SL.png"
     },
     "stats": {
         "crabominable": {

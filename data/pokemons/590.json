@@ -30,6 +30,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "foongus",
     "generation": 5,
     "height": {
         "foongus": "0,2 m"
@@ -38,13 +39,16 @@
     "name": "Foongus",
     "name_origin": "Foongus è una corruzione di fungus, o una combinazione di quest'ultimo temine con fool . Assieme alla sua evoluzione, Amoonguss, è corruzione della frase fungus among us . ",
     "origin": "Sembra essere sulla base di funghi del genere agaricus o su una amanita muscaria, a causa del tipo Veleno. Il disegno sulla cappella rappresenta una Poké Ball. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Foongus",
     "shape": "insettoide",
     "specie": "Pokémon Fungo",
     "sprites": {
         "foongus": {
             "default": "https://media.pokemoncentral.it/wiki/6/6f/Homem0590.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/63/Homemsh0590.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/63/Homemsh0590.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6e"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c4/Artwork0590_NB.png"
     },
     "stats": {
         "foongus": {

@@ -49,6 +49,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "koffing",
     "generation": 1,
     "height": {
         "koffing": "0,6 m"
@@ -57,13 +58,16 @@
     "name": "Koffing",
     "name_origin": "Il nome di Koffing è una corruzione della parola inglese coughing, che tossisce. Il suo nome Giapponese è una combinazione di 獰 dō, che significa cattivo o 毒 doku, che significa velenoso, e gas. Il suo nome giapponese può derivare anche dall'espressione brasiliana droga, che significa qualcosa di cattivo, marcio. ",
     "origin": "Considerando il suo aspetto, la sua abilità di fluttuare, e la sua tendenza ad esplodere, Koffing può essere stato basato su una mina navale galleggiante. Si basa  anche sullo smog e sulle altre forme di inquinamento atmosferico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Koffing",
     "shape": "testa",
     "specie": "Pokémon Velenuvola",
     "sprites": {
         "koffing": {
             "default": "https://media.pokemoncentral.it/wiki/9/90/Homem0109.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0109.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0109.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9c/Artwork0109_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/13/Artwork0109_RFVF.png"
     },
     "stats": {
         "koffing": {

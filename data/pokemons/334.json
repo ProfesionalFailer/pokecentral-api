@@ -48,6 +48,7 @@
         "Volante",
         "Drago"
     ],
+    "flat_name": "altaria",
     "generation": 3,
     "height": {
         "altaria": "1,1 m",
@@ -57,17 +58,21 @@
     "name": "Altaria",
     "name_origin": "Altaria è una combinazione di alto o altus  e aria. Aria in musica si ci riferisce ad una melodia espressiva, un riferimento alle abilità musicali di Altaria. Potrebbe anche essere un riferimento a Altair, la stella più luminosa della costellazione dell'Aquila. ",
     "origin": "Altaria sembra basato sul Peng, uccelli cinesi leggendari di grandi dimensioni, che si dice siano in grado di viaggiare per 3000 lǐ in un solo battito delle loro ali potenti e simili a nuvole. Vengono spesso disegnati con la testa e baffi di un drago. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Altaria",
     "shape": "testa e base",
     "specie": "Pokémon Canterino",
     "sprites": {
         "altaria": {
             "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0334.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/31/Homemsh0334.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/3/31/Homemsh0334.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/95/Artwork0334_Corp.png"
         },
         "megaaltaria": {
             "default": "https://media.pokemoncentral.it/wiki/1/1d/Homem0334M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0334M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0334M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0a/Artwork0334M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/68/Artwork0334_RZ.png"
     },
     "stats": {
         "altaria": {
@@ -93,12 +98,12 @@
     },
     "types": {
         "altaria": [
-            "Volante",
-            "Drago"
+            "Drago",
+            "Volante"
         ],
         "megaaltaria": [
-            "Folletto",
-            "Drago"
+            "Drago",
+            "Folletto"
         ]
     },
     "weight": {

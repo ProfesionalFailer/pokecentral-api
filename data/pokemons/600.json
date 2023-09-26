@@ -7,8 +7,18 @@
         }
     },
     "curiosities": [
-        " Questa pagina è stata modificata per l'ultima volta il 17 lug 2023 alle 14:37.",
-        "Contenuti soggetti a licenza d'uso Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported ."
+        "Articoli incompleti",
+        "Pokémon",
+        "Pokémon di quinta generazione",
+        "Pokémon di tipo Acciaio",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Lento",
+        "Pokémon di colore Grigio",
+        "Pokémon dalla sagoma n. 11",
+        "Pokémon di sesso sconosciuto",
+        "Pokémon di Gruppo Uova Minerale",
+        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
+        "Pokémon con statistiche base totali di 440"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/klang.mp3",
     "dex_entries": {
@@ -28,21 +38,25 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "klang",
     "generation": 5,
     "height": {
         "klang": "0,6 m"
     },
     "id": 600,
     "name": "Klang",
-    "name_origin": "Il suo nome deriva dall'onomatopea clang .",
+    "name_origin": "Il suo nome deriva dall'onomatopea clang . ",
     "origin": "È basato su due ingranaggi a ruota cilindrica dritta concatenati tra loro, così da costituire un sistema di ingranaggi planetario. La forma cromatica potrebbe essere basata sul colore del rame. Il naso verde infatti corrisponde al colore assunto dal rame quando si ossida in alcuni composti come il carbonato rameico. Inoltre sembra ispirarsi alle macchine dal moto perpetuo, poiché, dal momento che un ingranaggio fa ruotare l'altro e viceversa, si crea una forza motrice continua, e non smette mai di girare. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Klang",
     "shape": "bipedi",
     "specie": "Pokémon Ingranaggio",
     "sprites": {
-        "  ": {
+        "klang": {
             "default": "https://media.pokemoncentral.it/wiki/4/47/Homem0600.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b0/Homemsh0600.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b0/Homemsh0600.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/29/Artwork0600_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a3/Artwork0600_NB.png"
     },
     "stats": {
         "klang": {

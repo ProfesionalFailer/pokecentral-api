@@ -28,21 +28,25 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "drampa",
     "generation": 7,
     "height": {
         "drampa": "3,0 m"
     },
     "id": 780,
     "name": "Drampa",
-    "name_origin": "Drampa potrebbe derivare da una combinazione di grampa , nonno, e di dragon, drago. Jijīron potrebbe essere una combinazione di 爺 jijī, nonnetto, e 龍 lóng, dragone in cinese. ",
+    "name_origin": "Drampa potrebbe derivare da una combinazione di grampa , nonno, e di dragon, drago. Jijīron potrebbe essere una combinazione di 爺 jijī, nonnetto, e 龍 lóng, dragone in cinese.",
     "origin": "Drampa potrebbe essere ispriato ad un drago cinese e ad un anziano, probabilmente per simboleggiare saggezza. Potrebbe essere basato anche sul Fortunadrago del celebre libro e film La storia infinita, dal quale ne condivide la notevole somiglianza. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Drampa",
     "shape": "testa e gambe",
     "specie": "Pokémon Tuttacalma",
     "sprites": {
         "drampa": {
             "default": "https://media.pokemoncentral.it/wiki/7/7e/Homem0780.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/da/Homemsh0780.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/da/Homemsh0780.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7e/Artwork0780_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0780_SL.png"
     },
     "stats": {
         "drampa": {
@@ -59,8 +63,8 @@
     },
     "types": {
         "drampa": [
-            "Normale",
-            "Drago"
+            "Drago",
+            "Normale"
         ]
     },
     "weight": {

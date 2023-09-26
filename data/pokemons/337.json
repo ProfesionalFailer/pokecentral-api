@@ -37,6 +37,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "lunatone",
     "generation": 3,
     "height": {
         "lunatone": "1,0 m"
@@ -45,13 +46,16 @@
     "name": "Lunatone",
     "name_origin": "Il suo nome deriva da luna e dall'inglese stone . ",
     "origin": "Lunatone è ispirato alla luna, a cui deve anche il nome. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lunatone",
     "shape": "testa",
     "specie": "Pokémon Meteorite",
     "sprites": {
         "lunatone": {
             "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0337.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0337.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0337.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/74/Artwork0337_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6e/Artwork0337_RZ.png"
     },
     "stats": {
         "lunatone": {

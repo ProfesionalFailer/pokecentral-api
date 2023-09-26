@@ -23,6 +23,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "tapu-koko",
     "generation": 7,
     "height": {
         "tapu-koko": "1,8 m"
@@ -31,13 +32,16 @@
     "name": "Tapu Koko",
     "name_origin": "Tapu Koko potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e kokō, chicchirichì . Kapu-Kokeko potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e コケコッコー kokekokkō, l'onomatopea del verso del gallo. ",
     "origin": "Tapu Koko potrebbe prendere ispirazione da Kūkaʻilimoku, dio della guerra hawaiano, e principalmente dal suo kinolau  del gallo, animale rappresentato dalla sua maschera somigliante ad un totem. Il suo colore ed il tipo Elettro derivano probabilmente dal fatto che in alchimia il giallo rappresenta l'aria, e quindi anche le tempeste di fulmini. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tapu_Koko",
     "shape": "insettoide",
     "specie": "Pokémon Nume Locale",
     "sprites": {
         "tapu-koko": {
             "default": "https://media.pokemoncentral.it/wiki/c/cd/Homem0785.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0785.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0785.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/86/Artwork0785_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0785_SL.png"
     },
     "stats": {
         "tapu-koko": {

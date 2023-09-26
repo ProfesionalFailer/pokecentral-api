@@ -21,6 +21,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "gossifleur",
     "generation": 8,
     "height": {
         "gossifleur": "0,4 m"
@@ -29,13 +30,16 @@
     "name": "Gossifleur",
     "name_origin": "Gossifleur potrebbe essere una combinazione di Gossypium e fleur, fiore in francese. Potrebbe derivare anche da gossamer, sottilissimo. Himenka potrebbe essere una combinazione di 姫 hime, principessa, piccola , 綿花 menka, cotone grezzo, e 花 ka, fiore. ",
     "origin": "Gossifleur potrebbe essere basato su un'anemone dei boschi, una pianta comune nelle Isole britanniche. Potrebbe essere anche un riferimento alle canzoni popolari e alle poesie dedicate a questa pianta. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gossifleur",
     "shape": "quadrupede",
     "specie": "Pokémon Fiorfronzolo",
     "sprites": {
         "gossifleur": {
             "default": "https://media.pokemoncentral.it/wiki/a/a2/Homem0829.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0829.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0829.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c4"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1e/Artwork0829_SpSc.png"
     },
     "stats": {
         "gossifleur": {

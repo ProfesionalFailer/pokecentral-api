@@ -49,6 +49,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "mantine",
     "generation": 2,
     "height": {
         "mantine": "2,1 m"
@@ -57,13 +58,16 @@
     "name": "Mantine",
     "name_origin": "Il nome deriva dall'unione delle parole \"Manta\" e \"Marine\"  oppure da \"Brine\" . ",
     "origin": "Mantine è chiaramente ispirato ad una manta, in particolare è riconducibile facilmente alla manta gigante, animale capace di compiere degli spettacolari balzi fuori dall'acqua. Inoltre il suo aspetto ricorda la forma di un deltaplano e il fatto che i Remoraid siano ispirati a delle armi potrebbe porre in relazione Mantine con un aereo da combattimento. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mantine",
     "shape": "testa e base",
     "specie": "Pokémon Aquilone",
     "sprites": {
         "mantine": {
             "default": "https://media.pokemoncentral.it/wiki/c/cc/Homem0226.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0226.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0226.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6f/Artwork0226_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/79/Artwork0226_HGSS.png"
     },
     "stats": {
         "mantine": {

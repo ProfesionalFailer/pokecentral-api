@@ -39,6 +39,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "treecko",
     "generation": 3,
     "height": {
         "treecko": "0,5 m"
@@ -47,13 +48,16 @@
     "name": "Treecko",
     "name_origin": "Treecko è una combinazione di tree, albero e gecko, geco. Kimori è una combinazione di 木 ki, albero e 森 mori, foresta o ヤモリ yamori, geco. ",
     "origin": "Treecko, come dice il nome della specie, è basato su un geco, probabilmente sul geco coda a foglia, che ha la coda simile a una foglia, proprio come Treecko. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Treecko",
     "shape": "due paia di ali",
     "specie": "Pokémon Legnogeco",
     "sprites": {
         "treecko": {
             "default": "https://media.pokemoncentral.it/wiki/6/6d/Homem0252.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/78/Homemsh0252.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/78/Homemsh0252.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f6/Artwork_Pok%C3%A9mon_iniziali_Hoenn_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bb/Artwork0252_ROZA.png"
     },
     "stats": {
         "treecko": {

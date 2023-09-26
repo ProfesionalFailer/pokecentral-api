@@ -28,6 +28,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "drilbur",
     "generation": 5,
     "height": {
         "drilbur": "0,3 m"
@@ -36,13 +37,16 @@
     "name": "Drilbur",
     "name_origin": "Drilbur è una combinazione di drill  e burrow  o bur , riferendosi agli artigli. ",
     "origin": "Drilbur è basato su una talpa. I suoi artigli sono simili a delle pale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Drilbur",
     "shape": "due paia di ali",
     "specie": "Pokémon Talpa",
     "sprites": {
         "drilbur": {
             "default": "https://media.pokemoncentral.it/wiki/2/26/Homem0529.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0a/Homemsh0529.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0a/Homemsh0529.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/ab/Artwork0529_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bc/Artwork0529_NB.png"
     },
     "stats": {
         "drilbur": {

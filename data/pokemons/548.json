@@ -50,6 +50,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "petilil",
     "generation": 5,
     "height": {
         "petilil": "0,5 m"
@@ -58,13 +59,16 @@
     "name": "Petilil",
     "name_origin": "Petilil deriva probabilmente dall'insieme della parola francese petit , o dall'inglese petite , petal , o petunia, e dalla parola inglese lily , o li'l . ",
     "origin": "Petilil è basato sul bulbo di una liliacea, probabilmente della pianta del tulipano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Petilil",
     "shape": "quadrupede",
     "specie": "Pokémon Radice",
     "sprites": {
         "petilil": {
             "default": "https://media.pokemoncentral.it/wiki/9/9f/Homef0548.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/06/Homefsh0548.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/06/Homefsh0548.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/93/Artwork0548_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2a/Artwork0548_NB.png"
     },
     "stats": {
         "petilil": {

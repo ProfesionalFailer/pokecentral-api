@@ -27,6 +27,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "escavalier",
     "generation": 5,
     "height": {
         "escavalier": "1,0 m"
@@ -35,13 +36,16 @@
     "name": "Escavalier",
     "name_origin": "Il suo nome deriva dai termini francesi escargot  e cavalier  o chevalier . Potrebbe inoltre riferirsi ad Excalibur. ",
     "origin": "Escavalier è basato su un cavaliere, fornito di corazza e lance, che ricordano le lance da giostra medioevali. Sembra inoltre essere basato sui Carabidae, in particolare sullo Scaphinotus angusticollis, oppure potrebbe ispirarsi al Carabus  blaptoides, un coleottero giapponese  la cui dieta è essenzialmente a base di lumache. Oltre a questo, si basa sul concetto di coevoluzione, processo per il quale l'evoluzione di una specie influenza anche altre specie, in questo caso riferito a predatore  e preda . Dopo che Karrablast si è evoluto ha acquistato l'armatura di Shelmet  sviluppandone una simile ma più resistente assumendo il tipo Acciaio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Escavalier",
     "shape": "insettoide",
     "specie": "Pokémon Cavaliere",
     "sprites": {
         "escavalier": {
             "default": "https://media.pokemoncentral.it/wiki/0/06/Homem0589.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6d/Homemsh0589.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6d/Homemsh0589.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/ba/Artwork0589_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a3/Artwork0589_NB.png"
     },
     "stats": {
         "escavalier": {
@@ -58,8 +62,8 @@
     },
     "types": {
         "escavalier": [
-            "Acciaio",
-            "Coleot"
+            "Coleot",
+            "Acciaio"
         ]
     },
     "weight": {

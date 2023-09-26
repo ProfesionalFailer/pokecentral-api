@@ -7,7 +7,7 @@
     },
     "curiosities": [
         "Lo stato del Niue ha rilasciato una moneta da un dollaro con Charmander su un lato come promozione commemorativa del franchise Pokémon; dall'altro lato della moneta vi è lo stemma dell'isola.",
-        "Nello sprite e nell'artwork di prima generazione sono presenti delle punte sulla \"schiena\" di Charmander. Queste punte sono state rimosse negli sprite e negli artwork delle generazioni successive. Il Charmander di Blu presenta queste punte nel manga Pokémon Adventures, dove sono più grandi e facili da notare. Le punte sono presenti anche nel Charmander di Green nel manga Pokémon Pocket Monsters.",
+        "Nello sprite e nell'artwork di prima generazione sono presenti delle punte sulla schiena di Charmander. Queste punte sono state rimosse negli sprite e negli artwork delle generazioni successive. Il Charmander di Blu presenta queste punte nel manga Pokémon Adventures, dove sono più grandi e facili da notare. Le punte sono presenti anche nel Charmander di Green nel manga Pokémon Pocket Monsters.",
         "Charmander possiede il nome più lungo tra tutti i Pokémon iniziali non evoluti.",
         "Charmander è l'unico Pokémon iniziale di tipo Fuoco a non far parte del Gruppo Uova Campo.",
         "Charmander, Cyndaquil e le loro rispettive famiglie evolutive possiedono le stesse statistiche base.",
@@ -53,6 +53,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "charmander",
     "generation": 1,
     "height": {
         "charmander": "0,6 m"
@@ -61,13 +62,16 @@
     "name": "Charmander",
     "name_origin": "Charmander potrebbe essere una combinazione di char, carbonizzare, e salamander, salamandra. Hitokage potrebbe essere una combinazione di 火 hi, fuoco, e トカゲ tokage, lucertola. ",
     "origin": "Charmander è basato su una lucertola, probabilmente sulla salamandra mitologica. La salamandra mitologica è una creatura del fuoco in grado di sopravvivere a fiamme e calore estremo; talvolta viene rappresentata con le somiglianze di una lucertola. Secondo Ken Sugimori e Atsuko Nishida, l'artista si è basata su un criterio opposto rispetto alla sua forma finale, il che significa che Charmander è stato l'ultimo della famiglia evolutiva ad essere stato progettato ed è anche basato su Charizard. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Charmander",
     "shape": "due paia di ali",
     "specie": "Pokémon Lucertola",
     "sprites": {
         "charmander": {
             "default": "https://media.pokemoncentral.it/wiki/5/5c/Homem0004.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/dd/Homemsh0004.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/dd/Homemsh0004.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6d/Artwork_Pok%C3%A9mon_iniziali_Kanto_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ab/Artwork0004_RFVF.png"
     },
     "stats": {
         "charmander": {

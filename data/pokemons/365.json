@@ -40,6 +40,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "walrein",
     "generation": 3,
     "height": {
         "walrein": "1,4 m"
@@ -48,13 +49,16 @@
     "name": "Walrein",
     "name_origin": "Il nome di Walrein potrebbe essere una combinazione di \"walrus\", tricheco, e di un derivato della parola \"reign\", regno, o forse rain, pioggia. ",
     "origin": "Walrein è ispirato ad un Tricheco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Walrein",
     "shape": "più di 4 arti",
     "specie": "Pokémon Spaccagelo",
     "sprites": {
         "walrein": {
             "default": "https://media.pokemoncentral.it/wiki/1/1b/Homem0365.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a1/Homemsh0365.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a1/Homemsh0365.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0b/Artwork0365_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8a/Artwork0365_RZ.png"
     },
     "stats": {
         "walrein": {

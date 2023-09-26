@@ -58,6 +58,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "moltres",
     "generation": 1,
     "height": {
         "moltres": "2,0 m",
@@ -67,17 +68,20 @@
     "name": "Moltres",
     "name_origin": "Moltres è l'unione delle parole molten, fuso, e la parola spagnola tres, che indica il fatto che egli è il terzo membro del trio degli uccelli leggendari. Il suo nome giapponese è Fire, fuoco. ",
     "origin": "Come Ho-Oh, Moltres è basato sulla leggenda della Fenice. Tuttavia, Moltres più probabilmente è stato basato sulla fenice della leggenda persiana, il Simurg. Altri sostengono questo Pokémon sia stato basato sul mitico uccello giapponese noto come 朱雀 Suzaku, il custode del Sud. Indipendentemente da ciò, Moltres ha un aspetto molto simile ad entrambi questi animali mitologici. Potrebbe anche essere stato basato sul cigno, o sul mitologico uccello egiziano Bennu. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Moltres",
     "shape": "testa e base",
     "specie": "Pokémon Fiamma",
     "sprites": {
         "moltres": {
             "default": "https://media.pokemoncentral.it/wiki/d/d0/Homem0146.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0146.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0146.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/13/Artwork_Uccelli_leggendari_Corp.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/2/2e/Homem0146G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/8e/Homemsh0146G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a6/Artwork0146_RFVF.png"
     },
     "stats": {
         "moltres": {
@@ -103,12 +107,12 @@
     },
     "types": {
         "moltres": [
-            "Volante",
-            "Fuoco"
+            "Fuoco",
+            "Volante"
         ],
         "forma-di-galar": [
-            "Buio",
-            "Volante"
+            "Volante",
+            "Buio"
         ]
     },
     "weight": {

@@ -43,6 +43,7 @@
         "Acqua 1",
         "Acqua 3"
     ],
+    "flat_name": "corphish",
     "generation": 3,
     "height": {
         "corphish": "0,60 m"
@@ -51,13 +52,16 @@
     "name": "Corphish",
     "name_origin": "Potrebbe derivare dal termine arcaico \"corfish\", un tipo di pesce essiccato. In alternativa potrebbe essere una combinazione delle parole corps , o corporal  e crayfish . ",
     "origin": "Corphish è probabilmente basato sul gambero rosso Procambarus clarkii. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Corphish",
     "shape": "testa e braccia",
     "specie": "Pokémon Birbone",
     "sprites": {
         "corphish": {
             "default": "https://media.pokemoncentral.it/wiki/1/17/Homem0341.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0341.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0341.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ea/Artwork0341_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/00/Artwork0341_RZ.png"
     },
     "stats": {
         "corphish": {

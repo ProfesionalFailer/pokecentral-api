@@ -33,6 +33,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "purugly",
     "generation": 4,
     "height": {
         "purugly": "1,0 m"
@@ -41,13 +42,16 @@
     "name": "Purugly",
     "name_origin": "Il nome deriva dall'unione tra le parole inglesi purr  e ugly . ",
     "origin": "Basato su un gatto soriano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Purugly",
     "shape": "più di 4 arti",
     "specie": "Pokémon Gattotigre",
     "sprites": {
         "purugly": {
             "default": "https://media.pokemoncentral.it/wiki/9/98/Homem0432.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d4/Homemsh0432.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d4/Homemsh0432.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2f/Artwork0432_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/85/Artwork0432_DP.png"
     },
     "stats": {
         "purugly": {

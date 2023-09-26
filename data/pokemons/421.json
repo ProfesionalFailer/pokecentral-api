@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "cherrim": {
             "primary": "Regalfiore"
         }
     },
@@ -43,6 +43,7 @@
         "Magico",
         "Erba"
     ],
+    "flat_name": "cherrim",
     "generation": 4,
     "height": {
         "cherrim": "0,5 m"
@@ -51,6 +52,7 @@
     "name": "Cherrim",
     "name_origin": "Cherrim è una combinazione di cherry  e blossom  o cherubim , ma potrebbero anche essere coinvolti i termini cherimoya  e l'irlandese tirim  ",
     "origin": "Sembra che Cherrim si basi sui fiori di ciliegio. I fiori di ciliegio sono fiori che simboleggiano il Giappone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cherrim",
     "shape": "corpi multipli",
     "specie": "Pokémon Bocciolo",
     "sprites": {
@@ -61,7 +63,11 @@
         "forma-splendore": {
             "default": "https://media.pokemoncentral.it/wiki/3/3f/Homem0421S.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/09/Homemsh0421S.png"
-        }
+        },
+        "cherrim": {
+            "corporate": "https://media.pokemoncentral.it/wiki/5/56/Artwork0421S_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c0/Artwork0421_DP.png"
     },
     "stats": {
         "forma-nuvola": {

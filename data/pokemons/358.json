@@ -37,6 +37,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "chimecho",
     "generation": 3,
     "height": {
         "chimecho": "0,60 m"
@@ -45,13 +46,16 @@
     "name": "Chimecho",
     "name_origin": "Chimecho è una combinazione di \"chime\"  e di \"echo\" . ",
     "origin": "Chimecho si basa su un Fūrin, un carillon del vento giapponese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chimecho",
     "shape": "insettoide",
     "specie": "Pokémon Vencampana",
     "sprites": {
         "chimecho": {
             "default": "https://media.pokemoncentral.it/wiki/5/51/Homem0358.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0358.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0358.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/72/Artwork0358_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0358_RZ.png"
     },
     "stats": {
         "chimecho": {

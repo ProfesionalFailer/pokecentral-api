@@ -46,6 +46,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "spinarak",
     "generation": 2,
     "height": {
         "spinarak": "0,5 m"
@@ -54,13 +55,16 @@
     "name": "Spinarak",
     "name_origin": "Il suo nome probabilmente deriva dalle parole spinneret  e arachnid . ",
     "origin": "Basato su un ragno, di preciso un Theridion grallator. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spinarak",
     "shape": "testa e braccia",
     "specie": "Pokémon Tela",
     "sprites": {
         "spinarak": {
             "default": "https://media.pokemoncentral.it/wiki/0/03/Homem0167.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0167.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0167.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1f/Artwork0167_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ee/Artwork0167_HGSS.png"
     },
     "stats": {
         "spinarak": {
@@ -77,8 +81,8 @@
     },
     "types": {
         "spinarak": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {

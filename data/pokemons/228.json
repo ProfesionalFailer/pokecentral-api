@@ -47,6 +47,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "houndour",
     "generation": 2,
     "height": {
         "houndour": "0,6 m"
@@ -55,13 +56,16 @@
     "name": "Houndour",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi hound  e dour . Il suo nome giapponese potrebbe derivare da una corruzione dell'inglese devil . ",
     "origin": "Appare basato sul tema degli hellhounds, mastini infernali che compaiono nei racconti inglesi con varie forme e nomi, combinato con la razza canina del Rottweiler. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Houndour",
     "shape": "più di 4 arti",
     "specie": "Pokémon Buio",
     "sprites": {
         "houndour": {
             "default": "https://media.pokemoncentral.it/wiki/8/8f/Homem0228.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/bc/Homemsh0228.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bc/Homemsh0228.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/02/Artwork0228_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/43/Artwork0228_RFVF.png"
     },
     "stats": {
         "houndour": {
@@ -78,8 +82,8 @@
     },
     "types": {
         "houndour": [
-            "Buio",
-            "Fuoco"
+            "Fuoco",
+            "Buio"
         ]
     },
     "weight": {

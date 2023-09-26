@@ -44,6 +44,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "quilava",
     "generation": 2,
     "height": {
         "quilava": "0,9 m"
@@ -52,13 +53,16 @@
     "name": "Quilava",
     "name_origin": "Il suo nome probabilmente deriva dalle parole inglesi Quill  e da Lava, ovvero della roccia fusa. ",
     "origin": "Il corpo di Quilava ricorda molto quello degli animali legati al genere Mustela, tuttavia ha molte più somiglianze con l'ermellino a causa della mancanza di una vera e propria coda e del pelo più scuro sul dorso rispetto a quello sul ventre, ha anche delle somiglianze con il Paca, un roditore sudamericano dal corpo allungato e maculato con piccole orecchie. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Quilava",
     "shape": "più di 4 arti",
     "specie": "Pokémon Vulcano",
     "sprites": {
         "quilava": {
             "default": "https://media.pokemoncentral.it/wiki/4/40/Homem0156.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0156.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0156.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8d/Artwork0156_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/70/Artwork0156_HGSS.png"
     },
     "stats": {
         "quilava": {

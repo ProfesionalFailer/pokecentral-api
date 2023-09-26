@@ -7,7 +7,8 @@
         }
     },
     "curiosities": [
-        "Nonostante Sizzlipede e Venipede vivano in zone differenti della regione di Galar, entrambi le loro voci del Pokédex parlano della rivalità ostile tra i due."
+        "Nonostante Sizzlipede e Venipede vivano in zone differenti della regione di Galar, entrambi le loro voci del Pokédex parlano della rivalità ostile tra i due.",
+        "Secondo il Pokédex Sizzlipede e Skorupi hanno un antenato in comune."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/sizzlipede.mp3",
     "dex_entries": {
@@ -19,6 +20,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "sizzlipede",
     "generation": 8,
     "height": {
         "sizzlipede": "0,7 m"
@@ -27,13 +29,16 @@
     "name": "Sizzlipede",
     "name_origin": "Sizzlipede potrebbe essere una combinazione di sizzle, sibilare, millipede, millepiedi, e centipede, centopiedi. Yakude potrebbe essere una combinazione di 焼く yaku, bruciare, e 蚰蜒 yasude, millepiedi, o 百足 mukade, centopiedi. ",
     "origin": "Sizzlipede potrebbe essere basato su un radiatore o su un centopiedi, come l'Orphaneus brevilabiatus, noto anche come \"centopiedi di fuoco\" a causa della sua bioluminescenza. Potrebbe essere ispirato anche su un millepiedi bioluminescente, il Motyxia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sizzlipede",
     "shape": "bipedi con coda",
     "specie": "Pokémon Termogeno",
     "sprites": {
         "sizzlipede": {
             "default": "https://media.pokemoncentral.it/wiki/c/c0/Homem0850.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0850.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0850.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/52"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/ce/Artwork0850_SpSc.png"
     },
     "stats": {
         "sizzlipede": {

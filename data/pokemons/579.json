@@ -27,6 +27,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "reuniclus",
     "generation": 5,
     "height": {
         "reuniclus": "1,0 m"
@@ -35,13 +36,16 @@
     "name": "Reuniclus",
     "name_origin": "Il suo nome probabilmente deriva dall'unione del verbo inglese reunite  con le parole homunculus , nucleus , o cluster . Il suo nome giapponese, ランクルス Lanculus, potrebbe derivare dall'unione delle parole 乱 ran , o 卵 ran  e l'inglese homunculus . ",
     "origin": "La linea evolutiva di Reuniclus si ispira alla cellula che compie il processo di mitosi e al processo di sviluppo embrionale: si passa da una singola cellula in divisione , all'embrione , e infine al feto, Reuniclus appunto. Quindi la sostanza verde e la sacca in cui è immerso rappresenterebbero il liquido amniotico e la placenta. Ha poi molti tratti in comune con un omuncolo, a partire da orecchie, mani e bocca grandi, che rispecchiano il potere di amplificazione degli omuncoli, accentuato dalla scala di colore evidente lungo le braccia, la quale ricorda le tacche di controllo del volume, che si amplificano spostandosi dalle spalle verso il pugno. Infine potrebbe basarsi su un'ameba o uno pseudopodo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Reuniclus",
     "shape": "insettoide",
     "specie": "Pokémon Espansione",
     "sprites": {
         "reuniclus": {
             "default": "https://media.pokemoncentral.it/wiki/9/98/Homem0579.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0579.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0579.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/52/Artwork0579_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0f/Artwork0579_NB.png"
     },
     "stats": {
         "reuniclus": {

@@ -31,6 +31,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "wiglett",
     "generation": 9,
     "height": {
         "wiglett": "1,2 m"
@@ -39,13 +40,16 @@
     "name": "Wiglett",
     "name_origin": "Wiglett potrebbe essere una combinazione delle parole water, acqua, o wiggle, agitarsi, dimenarsi, e Diglett. Umidiguda potrebbe essere una combinazione di 海 umi, mare, e ディグダ Digda, Diglett. ",
     "origin": "Wiglett sembra essere basato su una Anguilla da giardino. Il fatto che assomigli nell'aspetto a Diglett può essere un riferimento alla evoluzione convergente, un fenomeno evolutivo che porta organismi differenti a sviluppare caratteristiche fisiche e forme del corpo uguali. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wiglett",
     "shape": "None",
     "specie": "Pokémon Grongo",
     "sprites": {
         "wiglett": {
             "default": "https://media.pokemoncentral.it/wiki/f/f8/Homem0960.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homemsh0960.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homemsh0960.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/18/Artwork0960_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/50/Artwork0960_SV.png"
     },
     "stats": {
         "wiglett": {

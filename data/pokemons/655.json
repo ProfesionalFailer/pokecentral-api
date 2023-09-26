@@ -21,6 +21,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "delphox",
     "generation": 6,
     "height": {
         "delphox": "1,5 m"
@@ -29,13 +30,16 @@
     "name": "Delphox",
     "name_origin": "Delphox deriva da Delphic  e fox . ",
     "origin": "Delphox è ispirato ad una volpe e presenta alcuni elementi in comune con i maghi o le streghe. Potrebbe anche essere basato su una Kitsune del folclore giapponese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Delphox",
     "shape": "più di 4 arti",
     "specie": "Pokémon Volpe",
     "sprites": {
         "delphox": {
             "default": "https://media.pokemoncentral.it/wiki/f/fd/Homem0655.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0655.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0655.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e7/Artwork0655_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8c/Artwork0655_XY.png"
     },
     "stats": {
         "statistiche-base": {

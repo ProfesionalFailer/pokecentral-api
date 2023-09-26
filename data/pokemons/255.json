@@ -48,6 +48,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "torchic",
     "generation": 3,
     "height": {
         "torchic": "0,4 m"
@@ -56,17 +57,20 @@
     "name": "Torchic",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi torch  e chick .\nIl suo nome giapponese, アチャモ Achamo, è l'unione delle parole 赤 aka , 赤子 akago  e 軍鶏 shamo  ",
     "origin": "Torchic è ispirato ad un pulcino. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Torchic",
     "shape": "corpi multipli",
     "specie": "Pokémon Pulcino",
     "sprites": {
-        "": {
+        "torchic": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0255.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/75/Homemsh0255.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f6/Artwork_Pok%C3%A9mon_iniziali_Hoenn_Corp.png"
+        },
+        "torchic-f": {
             "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0255.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/75/Homemsh0255.png"
         },
-        "-f": {
-            "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0255.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/75/Homemsh0255.png"
-        }
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0255_ROZA.png"
     },
     "stats": {
         "torchic": {

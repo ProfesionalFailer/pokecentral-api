@@ -25,6 +25,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "barbaracle",
     "generation": 6,
     "height": {
         "barbaracle": "1,3 m"
@@ -33,13 +34,16 @@
     "name": "Barbaracle",
     "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi barbarian  e barnacle . ",
     "origin": "Barbaracle è basato su un cirripede dell'ordine dei Pedunculata. Potrebbe essere ispirato alla Mano di Fatima o essere un riferimento alla sindrome dell'arto fantasma. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Barbaracle",
     "shape": "bipedi",
     "specie": "Pokémon Aggregato",
     "sprites": {
         "barbaracle": {
             "default": "https://media.pokemoncentral.it/wiki/7/75/Homem0689.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0689.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0689.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/21/Artwork0689_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0689_XY.png"
     },
     "stats": {
         "statistiche-base": {
@@ -56,8 +60,8 @@
     },
     "types": {
         "barbaracle": [
-            "Roccia",
-            "Acqua"
+            "Acqua",
+            "Roccia"
         ]
     },
     "weight": {

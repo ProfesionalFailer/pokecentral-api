@@ -29,6 +29,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "sawk",
     "generation": 5,
     "height": {
         "sawk": "1,4 m"
@@ -37,13 +38,16 @@
     "name": "Sawk",
     "name_origin": "Il suo nome potrebbe derivare da sock, pugno, colpo, e saw, segare, potrebbe riferirsi al gesto di fendere l'aria con la mano tipico del karate, o whack, battere, percuotere, picchiare. Il nome giapponese, ダゲキ Dageki, probabilmente deriva da 打撃 dageki, pugno, e 鬼 ki, demone. ",
     "origin": "È basato su un karateka professionista, probabilmente sul creatore del Kyokushinkai , Mas Oyama, oltre che su un oni. Secondo un'intervista con Ken Sugimori, in origine sia Sawk che Throh erano stati pensati con un paio di corna sul capo, cosa che li avrebbe resi più simili a un oni, ma poi sono state sostituite con delle sopracciglia perché non assomigliassero troppo a Tornadus e Thundurus, i cui colori dominanti erano stati pensati inizialmente come rosso e blu, come Sawk e Throh. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sawk",
     "shape": "un paio di ali",
     "specie": "Pokémon Karate",
     "sprites": {
         "sawk": {
             "default": "https://media.pokemoncentral.it/wiki/7/70/Homem0539.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a4/Homemsh0539.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a4/Homemsh0539.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/51/Artwork0539_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a9/Artwork0539_NB.png"
     },
     "stats": {
         "sawk": {

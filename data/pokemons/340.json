@@ -51,6 +51,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "whiscash",
     "generation": 3,
     "height": {
         "whiscash": "0,9 m"
@@ -59,13 +60,16 @@
     "name": "Whiscash",
     "name_origin": "Whiscash può essere una combinazione di whisker, basette, e mustache, baffi, in riferimento ai lunghi baffi che possiede, o anche catfish, pesce gatto. ",
     "origin": "Whiscash si basa su Namazu, un pesce gatto nella mitologia giapponese che ha provocato terremoti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Whiscash",
     "shape": "pinne",
     "specie": "Pokémon Baffetti",
     "sprites": {
         "whiscash": {
             "default": "https://media.pokemoncentral.it/wiki/b/b2/Homem0340.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0c/Homemsh0340.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0c/Homemsh0340.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/08/Artwork0340_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/52/Artwork0340_RZ.png"
     },
     "stats": {
         "whiscash": {

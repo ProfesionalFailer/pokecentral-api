@@ -22,6 +22,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "yveltal",
     "generation": 6,
     "height": {
         "yveltal": "5,8 m"
@@ -30,13 +31,18 @@
     "name": "Yveltal",
     "name_origin": "Yveltal deriva dalla lettera Y. Potrebbe anche derivare da una combinazione dell'inglese evil, male, con quetzal, o con Quetzacoatl. ",
     "origin": "È possibile che Yveltal sia basato sull'aquila nella mitologia nordica situata in cima ad Yggdrasill, l'Albero Cosmico; essa è cieca e ciò potrebbe essere confermato dal fatto che Yveltal ha gli occhi completamente azzurri. Molti lo definiscono il classico \"Uccello del Malaugurio\" a causa della sua malvagità. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Yveltal",
     "shape": "testa e base",
     "specie": "Pokémon Distruzione",
     "sprites": {
         "yveltal": {
             "default": "https://media.pokemoncentral.it/wiki/6/65/Homem0717.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homemsh0717.png"
-        }
+        },
+        "normale": {
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2f/Artwork0717_Corp_4.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fa/Artwork0717_XY.png"
     },
     "stats": {
         "statistiche-base": {
@@ -53,8 +59,8 @@
     },
     "types": {
         "yveltal": [
-            "Buio",
-            "Volante"
+            "Volante",
+            "Buio"
         ]
     },
     "weight": {

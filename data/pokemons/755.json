@@ -24,6 +24,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "morelull",
     "generation": 7,
     "height": {
         "morelull": "0,2 m"
@@ -32,13 +33,16 @@
     "name": "Morelull",
     "name_origin": "Il nome Morelull potrebbe essere una combinazione di morel, un tipo di fungo, e to lull, far addormentare. Nemashu potrebbe essere una combinazione di 寝 ne, dormire, e mushroom, fungo. ",
     "origin": "Morelull è ispirato ad un fungo luminescente, forse ad una Gerronema viridilucens. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Morelull",
     "shape": "quadrupede",
     "specie": "Pokémon Luminescenza",
     "sprites": {
         "morelull": {
             "default": "https://media.pokemoncentral.it/wiki/c/c6/Homem0755.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0755.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0755.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0755_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/57/Artwork0755_SL.png"
     },
     "stats": {
         "morelull": {
@@ -55,8 +59,8 @@
     },
     "types": {
         "morelull": [
-            "Erba",
-            "Folletto"
+            "Folletto",
+            "Erba"
         ]
     },
     "weight": {

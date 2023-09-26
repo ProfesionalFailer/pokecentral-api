@@ -33,6 +33,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "yanmega",
     "generation": 4,
     "height": {
         "yanmega": "1,9 m"
@@ -41,13 +42,16 @@
     "name": "Yanmega",
     "name_origin": "Il suo nome deriva dall'unione della parola giapponese 蜻蜓 yanma  con la parola inglese meganeura. ",
     "origin": "Basato su una libellula, in particolare una meganeura, e su un elicottero. Come suggerisce il nome, però, potrebbe anche essere basato sullo stereotipo di un orco o di un troll. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Yanmega",
     "shape": "serpentiforme",
     "specie": "Pokémon Libellorco",
     "sprites": {
         "yanmega": {
             "default": "https://media.pokemoncentral.it/wiki/5/51/Homem0469.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0469.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0469.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0469_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/16/Artwork0469_DP.png"
     },
     "stats": {
         "yanmega": {
@@ -64,8 +68,8 @@
     },
     "types": {
         "yanmega": [
-            "Volante",
-            "Coleot"
+            "Coleot",
+            "Volante"
         ]
     },
     "weight": {

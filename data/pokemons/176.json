@@ -44,6 +44,7 @@
         "Volante",
         "Magico"
     ],
+    "flat_name": "togetic",
     "generation": 2,
     "height": {
         "togetic": "0,6 m"
@@ -52,13 +53,16 @@
     "name": "Togetic",
     "name_origin": "Il suo nome deriva dall'unione della parola giapponese 刺 toge  con la parola inglese chick , o chicken . ",
     "origin": "Potrebbe essere ispirato a un angelo cherubino, ma il suo aspetto ricorda anche una fata, un piccolo di uccello e evidentemente un uovo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Togetic",
     "shape": "un paio di ali",
     "specie": "Pokémon Felicità",
     "sprites": {
         "togetic": {
             "default": "https://media.pokemoncentral.it/wiki/7/78/Homem0176.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0176.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0176.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ef/Artwork0176_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b0/Artwork0176_HGSS.png"
     },
     "stats": {
         "togetic": {

@@ -48,6 +48,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "cyndaquil",
     "generation": 2,
     "height": {
         "cyndaquil": "0,5 m"
@@ -56,13 +57,16 @@
     "name": "Cyndaquil",
     "name_origin": "Il suo nome probabilmente deriva dalle parole inglesi cinder  e quill  riferendosi alle fiamme simili ad aculei. ",
     "origin": "Cyndaquil ricorda ricorda molto un echidna e un toporagno a causa del suo muso allungato. Potrebbe anche prendere ispirazione dallo huo shu , creatura delle leggende cinesi che si diceva abitasse nelle regioni vulcaniche del sud, e la cui pelliccia fosse completamente immune a qualsiasi fiamma: è noto soprattutto perche la principessa Kaguya in Taketori Monogatari chiede in dono tra le altre cose un mantello fatto con la sua pelliccia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cyndaquil",
     "shape": "un paio di ali",
     "specie": "Pokémon Fuocotopo",
     "sprites": {
         "cyndaquil": {
             "default": "https://media.pokemoncentral.it/wiki/f/f1/Homem0155.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9c/Homemsh0155.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9c/Homemsh0155.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/45/Artwork_Pok%C3%A9mon_iniziali_Johto_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b8/Artwork0155_LPA.png"
     },
     "stats": {
         "cyndaquil": {

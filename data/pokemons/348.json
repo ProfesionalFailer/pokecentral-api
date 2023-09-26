@@ -42,6 +42,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "armaldo",
     "generation": 3,
     "height": {
         "armaldo": "1,5 m"
@@ -50,13 +51,16 @@
     "name": "Armaldo",
     "name_origin": "Armaldo può essere una corruzione di armor, corazza, armatura. Potrebbe anche derivare da Anomalocaris o da armadillo. ",
     "origin": "Sembra essere basato sul Anomalocaris, un animale estinto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Armaldo",
     "shape": "due paia di ali",
     "specie": "Pokémon Piastre",
     "sprites": {
         "armaldo": {
             "default": "https://media.pokemoncentral.it/wiki/2/26/Homem0348.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/18/Homemsh0348.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/18/Homemsh0348.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/18/Artwork0348_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6e/Artwork0348_RZ.png"
     },
     "stats": {
         "armaldo": {
@@ -73,8 +77,8 @@
     },
     "types": {
         "armaldo": [
-            "Roccia",
-            "Coleot"
+            "Coleot",
+            "Roccia"
         ]
     },
     "weight": {

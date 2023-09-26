@@ -43,6 +43,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "combee",
     "generation": 4,
     "height": {
         "combee": "0,3 m"
@@ -51,17 +52,20 @@
     "name": "Combee",
     "name_origin": "Il nome inglese di Combee deriva da honeycomb  e bee . Ha anche una certa somiglianza a combination , probabilmente in riferimento al fatto che è composto da tre parti. ",
     "origin": "Combee si basa su favi ed api. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Combee",
     "shape": "bipedi",
     "specie": "Pokémon Apetta",
     "sprites": {
-        "": {
+        "combee": {
             "default": "https://media.pokemoncentral.it/wiki/9/93/Homem0415.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c8/Homemsh0415.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c8/Homemsh0415.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/55"
         },
-        "-f": {
+        "combee-f": {
             "default": "https://media.pokemoncentral.it/wiki/1/1a/Homef0415.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homefsh0415.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e8/Artwork0415_DP.png"
     },
     "stats": {
         "combee": {
@@ -78,8 +82,8 @@
     },
     "types": {
         "combee": [
-            "Volante",
-            "Coleot"
+            "Coleot",
+            "Volante"
         ]
     },
     "weight": {

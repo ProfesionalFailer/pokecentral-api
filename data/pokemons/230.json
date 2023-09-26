@@ -49,6 +49,7 @@
         "Acqua 1",
         "Drago"
     ],
+    "flat_name": "kingdra",
     "generation": 2,
     "height": {
         "kingdra": "1,8 m"
@@ -57,13 +58,16 @@
     "name": "Kingdra",
     "name_origin": "Il nome Kingdra deriva dalla combinazione dei nomi inglesi king  e dragon . ",
     "origin": "Kingdra è basato sul drago marino comune data la sua caratteristica di soffermarsi sul fondo del mare, mentre la creazione di vortici potrebbe essere un riferimento a Cariddi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kingdra",
     "shape": "quadrupede",
     "specie": "Pokémon Drago",
     "sprites": {
         "kingdra": {
             "default": "https://media.pokemoncentral.it/wiki/8/8b/Homem0230.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0230.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0230.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c0/Artwork0230_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0c/Artwork0230_HGSS.png"
     },
     "stats": {
         "kingdra": {
@@ -80,8 +84,8 @@
     },
     "types": {
         "kingdra": [
-            "Acqua",
-            "Drago"
+            "Drago",
+            "Acqua"
         ]
     },
     "weight": {

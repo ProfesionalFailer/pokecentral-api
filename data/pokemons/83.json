@@ -61,6 +61,7 @@
         "Volante",
         "Campo"
     ],
+    "flat_name": "farfetch'd",
     "generation": 1,
     "height": {
         "farfetch'd": "0,8 m"
@@ -69,17 +70,20 @@
     "name": "Farfetch'd",
     "name_origin": "Farfetch'd potrebbe derivare da far-fetched, incredibile, probabilmente in relazione alla rarità del Pokémon o al tema inverosimile del suo nome giapponese. Kamonegi potrebbe essere una combinazione di 鴨 kamo, anatra selvatica, e 葱 negi, cipollotto. 鴨葱 kamonegi è un'abbreviazione del proverbio 「鴨が葱を背負って来る」 Kamo ga negi o shotte kuru, \"un'anatra arriva portando una cipolletta\". ",
     "origin": "Farfetch'd potrebbe essere basato su un'anatra. Potrebbe essere ispirato sul detto giapponese 「鴨が葱を背負って来る」 Kamo ga negi o shotte kuru , indicante qualcosa di inaspettato ma conveniente. La frase può essere abbreviata in 「鴨葱」 Kamo negi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Farfetch%27d",
     "shape": "testa e base",
     "specie": "Pokémon Selvanatra",
     "sprites": {
         "farfetch'd": {
             "default": "https://media.pokemoncentral.it/wiki/5/52/Homem0083.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homemsh0083.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homemsh0083.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fc/Artwork0083_Corp.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/3/30/Homem0083G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/1f/Homemsh0083G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5b/Artwork0083_RFVF.png"
     },
     "stats": {
         "farfetch'd": {
@@ -105,8 +109,8 @@
     },
     "types": {
         "farfetch'd": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ],
         "forma-di-galar": [
             "Lotta"

@@ -57,6 +57,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "electabuzz",
     "generation": 1,
     "height": {
         "electabuzz": "1,1 m"
@@ -65,13 +66,16 @@
     "name": "Electabuzz",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi electric  e buzz . ",
     "origin": "Electabuzz è basato sugli oni, demoni giapponesi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Electabuzz",
     "shape": "due paia di ali",
     "specie": "Pokémon Elettrico",
     "sprites": {
         "electabuzz": {
             "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0125.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0125.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0125.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4b/Artwork0125_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a5/Artwork0125_RFVF.png"
     },
     "stats": {
         "electabuzz": {

@@ -28,6 +28,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "oinkologne",
     "generation": 9,
     "height": {
         "oinkologne": "1,0 m"
@@ -36,17 +37,20 @@
     "name": "Oinkologne",
     "name_origin": "Oinkologne potrebbe essere una combinazione di oink, onomatopea del verso del maiale, e cologne, acqua di colonia. Perfuton potrebbe essere una combinazione di perfume, profumo, e 豚 ton  o ton, tonnellata. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Oinkologne",
     "shape": "None",
     "specie": "Pokémon Porcellino",
     "sprites": {
-        "": {
+        "oinkologne": {
             "default": "https://media.pokemoncentral.it/wiki/2/2e/Homem0916.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1e/Homemsh0916.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1e/Homemsh0916.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9c"
         },
-        "-f": {
+        "oinkologne-f": {
             "default": "https://media.pokemoncentral.it/wiki/c/c0/Homef0916F.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/6a/Homefsh0916F.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9f/Artwork0916_SV.png"
     },
     "stats": {
         "maschio": {

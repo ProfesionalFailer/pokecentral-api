@@ -26,6 +26,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "gogoat",
     "generation": 6,
     "height": {
         "gogoat": "1,7 m"
@@ -34,13 +35,16 @@
     "name": "Gogoat",
     "name_origin": "Gogoat deriva dalle parole go , 轟轟 gōgō  e goat . ",
     "origin": "Gogoat è basato su una capra ricoperta di erba. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gogoat",
     "shape": "più di 4 arti",
     "specie": "Pokémon Cavalcatura",
     "sprites": {
         "gogoat": {
             "default": "https://media.pokemoncentral.it/wiki/6/6b/Homem0673.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/ae/Homemsh0673.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ae/Homemsh0673.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6c/Artwork0673_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0b/Artwork0673_XY.png"
     },
     "stats": {
         "gogoat": {

@@ -32,6 +32,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "boldore",
     "generation": 5,
     "height": {
         "boldore": "0,9 m"
@@ -40,13 +41,16 @@
     "name": "Boldore",
     "name_origin": "Il nome di Boldore ha origine da boulder  o bold  e ore . ",
     "origin": "Boldore si basa su un geode ma ha dei tratti in comune con i granchi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Boldore",
     "shape": "bipedi con coda",
     "specie": "Pokémon Minerale",
     "sprites": {
         "boldore": {
             "default": "https://media.pokemoncentral.it/wiki/c/c1/Homem0525.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0525.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0525.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7c/Artwork0525_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3c/Artwork0525_NB.png"
     },
     "stats": {
         "boldore": {

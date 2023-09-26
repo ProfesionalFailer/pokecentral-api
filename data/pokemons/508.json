@@ -31,6 +31,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "stoutland",
     "generation": 5,
     "height": {
         "stoutland": "1,2 m"
@@ -39,13 +40,16 @@
     "name": "Stoutland",
     "name_origin": "Il suo nome deriva da stout  e land . ",
     "origin": "Stoutland unisce caratteristiche di molti cani: il suo corpo è simile ad un yorkshire terrier e ad uno scottish terrier, la barba e il pelo lungo ricordano un maltese oppure uno shih tzu, e l'attitudine di salvare persone in pericolo e la grande stazza si riferisce ai san bernardo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Stoutland",
     "shape": "più di 4 arti",
     "specie": "Pokémon Generosità",
     "sprites": {
         "stoutland": {
             "default": "https://media.pokemoncentral.it/wiki/6/6d/Homem0508.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2a/Homemsh0508.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2a/Homemsh0508.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/09/Artwork0508_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ed/Artwork0508_NB.png"
     },
     "stats": {
         "stoutland": {

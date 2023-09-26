@@ -54,6 +54,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "jolteon",
     "generation": 1,
     "height": {
         "jolteon": "0,8 m"
@@ -62,13 +63,16 @@
     "name": "Jolteon",
     "name_origin": "Il nome di Jolteon deriva dall'unione della parola jolt  seguito dal suffisso -eon, comune a tutte le evoluzioni di Eevee. ",
     "origin": "Jolteon ha un'atomia fisica simile a quella di un cane pastore o di una volpe fennec con svariati tratti da coyote. Possiede anche tratti di felini come l'alta velocità dei ghepardi, potrebbe essere ispirato a Raiju, creatura mitologica giapponese fatta di fulmini che può assumere l'aspetto di un gatto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Jolteon",
     "shape": "più di 4 arti",
     "specie": "Pokémon Luminoso",
     "sprites": {
         "jolteon": {
             "default": "https://media.pokemoncentral.it/wiki/d/dc/Homem0135.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/21/Homemsh0135.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/21/Homemsh0135.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/03/Artwork0135_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/55/Artwork0135_RFVF.png"
     },
     "stats": {
         "jolteon": {

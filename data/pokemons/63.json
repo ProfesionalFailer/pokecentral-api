@@ -60,6 +60,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "abra",
     "generation": 1,
     "height": {
         "abra": "0,9 m"
@@ -68,13 +69,16 @@
     "name": "Abra",
     "name_origin": "Il nome di Abra è parte di una formula magica usata per effettuare incantesimi, Abracadabra. Il suo nome giapponese può essere derivato da 消し飛ぶ keshitobu, lanciare lontano, in riferimento alla sua tendenza a teletrasportarsi lontano dalla lotta. ",
     "origin": "Sembra basato su un mago. Può anche essere messo in riferimento con Edgar Cayce, un \"profeta dormiente\" che asseriva di avere delle visioni durante degli stati di trance. È anche simile alla Capra hircus ed alla Volpe. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Abra",
     "shape": "due paia di ali",
     "specie": "Pokémon Psico",
     "sprites": {
         "abra": {
             "default": "https://media.pokemoncentral.it/wiki/9/99/Homem0063.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homemsh0063.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homemsh0063.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/80/Artwork0063_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/74/Artwork0063_RFVF.png"
     },
     "stats": {
         "abra": {

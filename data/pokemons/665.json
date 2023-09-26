@@ -22,6 +22,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "spewpa",
     "generation": 6,
     "height": {
         "spewpa": "0,3 m"
@@ -30,13 +31,16 @@
     "name": "Spewpa",
     "name_origin": "Spewpa probabilmente è una combinazione tra il verbo  spew  e pupa. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spewpa",
     "shape": "testa e braccia",
     "specie": "Pokémon Tirascaglie",
     "sprites": {
         "spewpa": {
             "default": "https://media.pokemoncentral.it/wiki/5/52/Homem0665.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0665.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0665.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/06/Artwork0665_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/95/Artwork0665_XY.png"
     },
     "stats": {
         "spewpa": {

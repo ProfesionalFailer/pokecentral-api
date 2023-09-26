@@ -43,6 +43,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "anorith",
     "generation": 3,
     "height": {
         "anorith": "0,7 m"
@@ -51,13 +52,16 @@
     "name": "Anorith",
     "name_origin": "L'origine del nome può essere la combinazione tra Anomalocaris e il greco λίθος lithos . In alternativa potrebbe derivare da ancestral  o arthropod . ",
     "origin": "L'aspetto di Anorith è ispirato a quello dell'Anomalocaris, un animale marino estinto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Anorith",
     "shape": "testa e braccia",
     "specie": "Pokémon Primaceo",
     "sprites": {
         "anorith": {
             "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0347.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/53/Homemsh0347.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/53/Homemsh0347.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/20/Artwork0347_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/58/Artwork0347_RZ.png"
     },
     "stats": {
         "anorith": {
@@ -74,8 +78,8 @@
     },
     "types": {
         "anorith": [
-            "Roccia",
-            "Coleot"
+            "Coleot",
+            "Roccia"
         ]
     },
     "weight": {

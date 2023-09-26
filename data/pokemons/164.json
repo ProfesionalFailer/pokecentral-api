@@ -44,6 +44,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "noctowl",
     "generation": 2,
     "height": {
         "noctowl": "1,6 m"
@@ -52,13 +53,16 @@
     "name": "Noctowl",
     "name_origin": "Il nome deriva dalla combinazione delle parole inglesi nocturnal  e owl . Potrebbe anche derivare dalla parola latina Noctuǎ . ",
     "origin": "Basato su un gufo cornuto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Noctowl",
     "shape": "testa e base",
     "specie": "Pokémon Gufo",
     "sprites": {
         "noctowl": {
             "default": "https://media.pokemoncentral.it/wiki/f/f4/Homem0164.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/ac/Homemsh0164.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ac/Homemsh0164.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/98/Artwork0164_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6a/Artwork0164_HGSS.png"
     },
     "stats": {
         "noctowl": {
@@ -75,8 +79,8 @@
     },
     "types": {
         "noctowl": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

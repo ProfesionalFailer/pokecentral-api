@@ -32,6 +32,7 @@
         "Acqua 1",
         "Acqua 3"
     ],
+    "flat_name": "carracosta",
     "generation": 5,
     "height": {
         "carracosta": "1,2 m"
@@ -40,13 +41,16 @@
     "name": "Carracosta",
     "name_origin": "Carracosta può essere una combinazione di carapace , e costa . \"Carra\" può anche fare riferimento alla formazione fossile di Carrara, che contiene numerosi fossili di trilobiti. Il nome giapponese, アバゴーラ Abagoura, può essere una combinazione di 暴れる abareru , 肋 abara , e 甲羅 kora . ",
     "origin": "Carracosta è basato su una Tartaruga marina, più specificamente una Tartaruga liuto. Può essere basato anche su una Protostega gigas, una tartaruga preistorica così come l'Archelon ischyros; quest'ultima è la tartaruga più grande mai esistita, ed è l'ipotesi più accreditata. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Carracosta",
     "shape": "due paia di ali",
     "specie": "Pokémon Ancestruga",
     "sprites": {
         "carracosta": {
             "default": "https://media.pokemoncentral.it/wiki/d/d9/Homem0565.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/37/Homemsh0565.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/37/Homemsh0565.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/05/Artwork0565_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/81/Artwork0565_NB.png"
     },
     "stats": {
         "carracosta": {
@@ -63,8 +67,8 @@
     },
     "types": {
         "carracosta": [
-            "Roccia",
-            "Acqua"
+            "Acqua",
+            "Roccia"
         ]
     },
     "weight": {

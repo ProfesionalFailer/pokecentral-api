@@ -26,6 +26,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "salandit",
     "generation": 7,
     "height": {
         "salandit": "0,6 m"
@@ -34,13 +35,16 @@
     "name": "Salandit",
     "name_origin": "Salandit potrebbe derivare dalla parola salamander, salamandra, e bandit, bandito. Yatōmori potrebbe essere una combinazione di 夜盗 yatō, ladro e 井守 imori, tritone. ",
     "origin": "Salandit è ispirato ad una salamandra e al classico stereotipo di bandito o ladro. Nelle leggende, le salamandre sono associate spesso al fuoco o, in alcuni casi, anche al veleno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Salandit",
     "shape": "più di 4 arti",
     "specie": "Pokémon Lucertossina",
     "sprites": {
         "salandit": {
             "default": "https://media.pokemoncentral.it/wiki/8/8a/Homem0757.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a4/Homemsh0757.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a4/Homemsh0757.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/65/Artwork0757_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5d/Artwork0757_SL.png"
     },
     "stats": {
         "salandit": {
@@ -57,8 +61,8 @@
     },
     "types": {
         "salandit": [
-            "Veleno",
-            "Fuoco"
+            "Fuoco",
+            "Veleno"
         ]
     },
     "weight": {

@@ -46,25 +46,29 @@
         "Acqua 1",
         "Acqua 2"
     ],
+    "flat_name": "octillery",
     "generation": 2,
     "height": {
         "octillery": "0,9 m"
     },
     "id": 224,
     "name": "Octillery",
-    "name_origin": "Il nome deriva dall'unione della parola octopus, polpo, con la parola inglese artillery, artiglieria.",
+    "name_origin": "Il nome deriva dall'unione della parola octopus, polpo, con la parola inglese artillery, artiglieria. ",
     "origin": "È basato su un polpo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Octillery",
     "shape": "bipedi con coda",
     "specie": "Pokémon Jet",
     "sprites": {
-        "  ": {
+        "octillery": {
             "default": "https://media.pokemoncentral.it/wiki/9/9f/Homem0224.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/04/Homemsh0224.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/04/Homemsh0224.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6e/Artwork0224_Corp.png"
         },
-        "-f  ": {
+        "octillery-f": {
             "default": "https://media.pokemoncentral.it/wiki/a/a7/Homef0224.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/dc/Homefsh0224.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d1/Artwork0224_HGSS.png"
     },
     "stats": {
         "octillery": {

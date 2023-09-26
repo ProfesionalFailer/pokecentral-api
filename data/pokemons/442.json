@@ -39,6 +39,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "spiritomb",
     "generation": 4,
     "height": {
         "spiritomb": "1,0 m"
@@ -47,13 +48,16 @@
     "name": "Spiritomb",
     "name_origin": "Il nome Spiritomb deriva le parole inglesi spirit, spirito, e tomb, tomba. ",
     "origin": "Spiritomb è basato su un Jibakurei, uno spirito imprigionato in un luogo. Si basa anche alla tradizione buddhista che si esegue durante il capodanno giapponese, dove una campana suona per 108 volte per scacciare le 108 tentazioni a cui bisogna resistere per raggiungere il nirvana. I suoi ciuffi spettrali ricordano vagamente un rosario, possibile riferimento al mālā. Spiritomb potrebbe anche essere basato su I Briganti, uno dei romanzi classici cinesi, molto conosciuto anche in Giappone. Nel primo capitolo del romanzo, uno sciocco maresciallo dell'esercito ordina la rimozione di un monumento in pietra che era stato custodito dai monaci per generazioni. In questo modo si liberano gli spiriti dei 108 demoni sigillati all'interno. Queste 108 anime, dopo aver espiato i loro peccati, diventano le 108 Stelle del Destino. Si reincarnano secoli dopo come 108 fuorilegge, gli eroi del romanzo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spiritomb",
     "shape": "quadrupede",
     "specie": "Pokémon Proibito",
     "sprites": {
         "spiritomb": {
             "default": "https://media.pokemoncentral.it/wiki/2/2b/Homem0442.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f6/Homemsh0442.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f6/Homemsh0442.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6f/Artwork0442_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/86/Artwork0442_DP.png"
     },
     "stats": {
         "spiritomb": {

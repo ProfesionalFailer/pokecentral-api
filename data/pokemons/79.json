@@ -85,6 +85,7 @@
         "Mostro",
         "Acqua 1"
     ],
+    "flat_name": "slowpoke",
     "generation": 1,
     "height": {
         "slowpoke": "1,2 m"
@@ -93,17 +94,20 @@
     "name": "Slowpoke",
     "name_origin": "Il termine slowpoke indica in Inglese una persona lenta. Può anche derivare da slow, \"lento\", e poke . Il suo nome giapponese Yadon deriva probabilmente da 宿借り yadokari, paguro, oppure da 宿主 yadonushi, ospite . Inoltre, 鈍感 donkan significa \"stupido\" o \"dalla testa dura\", mentre 鈍 don significa \"lento\" o \"stupido\". ",
     "origin": "Slowpoke sembrerebbe essere basato su una salamandra gigante con alcuni elementi di un ippopotamo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Slowpoke",
     "shape": "più di 4 arti",
     "specie": "Pokémon Ronfone",
     "sprites": {
         "slowpoke": {
             "default": "https://media.pokemoncentral.it/wiki/0/09/Homem0079.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ef/Homemsh0079.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ef/Homemsh0079.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e5/Artwork0079_Corp_2.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/c/cd/Homem0079G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/12/Homemsh0079G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4c/Artwork0079_RFVF.png"
     },
     "stats": {
         "slowpoke": {

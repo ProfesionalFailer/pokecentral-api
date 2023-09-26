@@ -1,58 +1,75 @@
 {
     "abilities": {
-        "spineferree": {
+        "falenaferrea": {
             "primary": "Carica Quark"
         }
     },
     "curiosities": [
-        "Nel Pokéwood di Pokémon Nero 2 e Bianco 2, precisamente ne Gli Ipermostri, era già apparso un robot simile a Spineferree."
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Fuoco",
+        "Pokémon di tipo Veleno",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Lento",
+        "Pokémon di colore Giallo",
+        "Pokémon dalla sagoma n.",
+        "Pokémon di sesso sconosciuto",
+        "Pokémon di Gruppo Uova Sconosciuto",
+        "Pokémon che non fanno parte di una linea di evoluzione",
+        "Pokémon con statistiche base totali di 570",
+        "Pokémon Paradosso"
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/spineferree.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/falenaferrea.mp3",
     "dex_entries": {
-        "spineferree": {
-            "scarlet": "Ricorda per alcuni aspetti un Pokémon citato in una rivista di dubbia attendibilità, descritto come un Tyranitar di un miliardo di anni nel futuro.",
-            "violet": "Ha caratteristiche che coincidono con quelle di un oggetto chiamato \"Spineferree\" in un certo diario di viaggio."
+        "falenaferrea": {
+            "scarlet": "Ricorda molto un oscuro oggetto descritto in una rivista di paranormale come un ufo inviato qui per spiare le attività umane.",
+            "violet": "Mancano dati su questo Pokémon, mai catturato in passato. Le sue caratteristiche coincidono con quelle di un oggetto descritto in un antico testo."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "falenaferrea",
     "generation": 9,
     "height": {
-        "spineferree": "1,6 m"
+        "falenaferrea": "1,2 m"
     },
     "id": 994,
-    "name": "Spineferree",
-    "name_origin": "Spineferree è una combinazione di spine e ferro. Iron Thorns è una combinazione di iron, ferro, e thorns, spine. ",
-    "origin": "",
+    "name": "Falenaferrea",
+    "name_origin": "Falenaferrea è una combinazione di falena e ferro. Iron Moth è una combinazione di iron, ferro, e moth, falena. ",
+    "origin": "Falenaferrea potrebbe essere una versione robotica di Volcarona. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Falenaferrea",
     "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
-        "spineferree": {
-            "default": "https://media.pokemoncentral.it/wiki/0/01/Homem0995.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/75/Homemsh0995.png"
-        }
+        "falenaferrea": {
+            "default": "https://media.pokemoncentral.it/wiki/9/99/Homem0994.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/ce/Homemsh0994.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c0"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1a/Artwork0994_SV.png"
     },
     "stats": {
-        "spineferree": {
-            "hp": 100,
-            "atk": 134,
-            "def": 110,
-            "spa": 70,
-            "spd": 84,
-            "spe": 72
+        "falenaferrea": {
+            "hp": 80,
+            "atk": 70,
+            "def": 60,
+            "spa": 140,
+            "spd": 110,
+            "spe": 110
         }
     },
     "stats_sum": {
-        "spineferree": 570
+        "falenaferrea": 570
     },
     "types": {
-        "spineferree": [
-            "Elettro",
-            "Roccia"
+        "falenaferrea": [
+            "Fuoco",
+            "Veleno"
         ]
     },
     "weight": {
-        "spineferree": "303,0 kg"
+        "falenaferrea": "36,0 kg"
     }
 }

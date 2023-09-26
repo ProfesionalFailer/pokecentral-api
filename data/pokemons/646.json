@@ -43,6 +43,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "kyurem",
     "generation": 5,
     "height": {
         "forma-di-kyurem": "3,0 m",
@@ -53,21 +54,26 @@
     "name": "Kyurem",
     "name_origin": "Il suo nome deriva dalla combinazione di 冷 rei  e 急冷 kyuurei  o 雪 yuki  con i kana invertiti e 無 mu . In alternativa potrebbe derivare da 零 rei , il rem finale potrebbe alludere al rom di Zekrom e al ram di Reshiram. ",
     "origin": "Come Reshiram e Zekrom, anche Kyurem è basato sullo ying yang, per essere più specifici sul wuji della cosmologia taoista che simboleggia l'assenza dello ying e dello yang. Il suo design come con Zekrom sembra essere basato su un dinosauro carnivoro o un drago, in particolare le zampe posteriori che sono ispirate al Tirannosaurus Rex. Il tipo Ghiaccio di Kyurem può simboleggiare lo zero assoluto siccome ora lui è solo un guscio di ciò che rimane del Drago Originale. Le sue origini come extraterrestri arrivato con una cometa e il suo design roccioso sono ispirati alle comete, infatti esse sono composte in parte da ghiaccio. Siccome il suo nome deriva dal giapponese mu, potrebbe anche derivare dal koan mu. Potrebbe anche essere ispirato semplicemente ad un drago dei ghiacci visto il tipo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kyurem",
     "shape": "due paia di ali",
     "specie": "Pokémon Confine",
     "sprites": {
         "forma-di-kyurem": {
             "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem0646.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/44/Homemsh0646.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/4/44/Homemsh0646.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/56/Artwork0646_Corp.png"
         },
         "kyurem-bianco": {
             "default": "https://media.pokemoncentral.it/wiki/5/5b/Homem0646B.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2e/Homemsh0646B.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2e/Homemsh0646B.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0646B_Corp.png"
         },
         "kyurem-nero": {
             "default": "https://media.pokemoncentral.it/wiki/b/b9/Homem0646N.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0646N.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0646N.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/54/Artwork0646N_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8e/Artwork0646_NB.png"
     },
     "stats": {
         "forma-di-kyurem": {
@@ -102,8 +108,8 @@
     },
     "types": {
         "kyurem": [
-            "Ghiaccio",
-            "Drago"
+            "Drago",
+            "Ghiaccio"
         ]
     },
     "weight": {

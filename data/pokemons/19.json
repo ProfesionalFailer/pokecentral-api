@@ -72,6 +72,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "rattata",
     "generation": 1,
     "height": {
         "rattata": "0,3 m"
@@ -80,21 +81,24 @@
     "name": "Rattata",
     "name_origin": "Rattata potrebbe essere una combinazione di rat, ratto, e attack, attacco. Potrebbe contenere anche la parola onomatopeica rat-a-tat, una rapida successione di suoni di colpi, battiti o crepitii. Koratta potrebbe essere una combinazione di 子 ko, bambino, e ラッタ Ratta, Raticate. Potrebbe derivare anche da 小 ko, piccolo, e rat, ratto. ",
     "origin": "Rattata potrebbe essere basato su un ratto. La forma e la posizione delle sue orecchie potrebbero prendere ispirazione dal ratto dumbo. Rattata di Alola potrebbe essere basato sul modo in cui i ratti hawaiani tendono ad essere più viziosi rispetto a quelli presenti nelle altre parti del mondo; questo spiegherebbe il tipo Buio in aggiunta al tipo Normale. I continui attacchi ai campi di zucchero hanno costretto la popolazione locale ad importare la mangusta di Giava, spiegando così il rapporto che lega Rattata di Alola con Yungoos. Tuttavia, la mangusta di Giava è diurna, mentre il ratto notturno, quindi la mangusta è risultata inefficace per il ruolo previsto e anzi, è diventata una specie alloctona. Anche nei giochi Yungoos è diurno, mentre Rattata di Alola è notturno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rattata",
     "shape": "più di 4 arti",
     "specie": "Pokémon Topo",
     "sprites": {
-        "rattata ": {
+        "rattata": {
             "default": "https://media.pokemoncentral.it/wiki/9/96/Homem0019.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/69/Homemsh0019.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/6/69/Homemsh0019.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/83/Artwork0019A_Corp.png"
         },
-        "rattata -f": {
+        "rattata-f": {
             "default": "https://media.pokemoncentral.it/wiki/c/c0/Homef0019.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homefsh0019.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/2/23/Homem0019A.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0019A.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c3/Artwork0019_RFVF.png"
     },
     "stats": {
         "rattata": {

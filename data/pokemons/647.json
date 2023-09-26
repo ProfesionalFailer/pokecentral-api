@@ -37,6 +37,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "keldeo",
     "generation": 5,
     "height": {
         "keldeo": "1,4 m"
@@ -44,18 +45,22 @@
     "id": 647,
     "name": "Keldeo",
     "name_origin": "Il suo nome deriva dalla parola Kelpie, che è un demone del folklore celtico che può assumere la forma di un cavallo. ",
-    "origin": "Keldeo è basato sulla figura di d'Artagnan, personaggio del racconto \"I tre moschettieri\". Come il suo omonimo è il più giovane del gruppo. Il suo aspetto ricorda quello del kelpie uno spirito maligno proveniente dal folklore celtico in grado di assumere la forma di un cavallo bianco, o del kirin, anche chiamato \"unicorno cinese\" che è spesso raffigurato con un unico corno ricurvo all'indietro e possiede la capacità di camminare sull'acqua. ",
+    "origin": "Keldeo è basato sulla figura di d'Artagnan, personaggio del romanzo I tre moschettieri. Come il suo omonimo è il più giovane del gruppo. Il suo aspetto ricorda quello del kelpie uno spirito maligno proveniente dal folklore celtico in grado di assumere la forma di un cavallo bianco, o del kirin, anche chiamato \"unicorno cinese\" che è spesso raffigurato con un unico corno ricurvo all'indietro e possiede la capacità di camminare sull'acqua. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Keldeo",
     "shape": "più di 4 arti",
     "specie": "Pokémon Puledro",
     "sprites": {
         "forma-normale": {
             "default": "https://media.pokemoncentral.it/wiki/4/43/Homem0647.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0647.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0647.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bf/Artwork0647_Corp_2.png"
         },
         "forma-risoluta": {
             "default": "https://media.pokemoncentral.it/wiki/a/a7/Homem0647R.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0647R.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0647R.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/74/Artwork0647R_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2c/Artwork0647_NB.png"
     },
     "stats": {
         "keldeo": {

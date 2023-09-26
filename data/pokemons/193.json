@@ -41,6 +41,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "yanma",
     "generation": 2,
     "height": {
         "yanma": "1,2 m"
@@ -49,13 +50,16 @@
     "name": "Yanma",
     "name_origin": "Il suo nome deriva dal suo nome giapponese, ヤンヤンマ Yanyanma, che deriva da 蜻蜓 yanma . ",
     "origin": "Basato su una libellula. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Yanma",
     "shape": "serpentiforme",
     "specie": "Pokémon Alachiara",
     "sprites": {
         "yanma": {
             "default": "https://media.pokemoncentral.it/wiki/9/93/Homem0193.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0193.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0193.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/aa/Artwork0193_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/15/Artwork0193_HGSS.png"
     },
     "stats": {
         "yanma": {
@@ -72,8 +76,8 @@
     },
     "types": {
         "yanma": [
-            "Volante",
-            "Coleot"
+            "Coleot",
+            "Volante"
         ]
     },
     "weight": {

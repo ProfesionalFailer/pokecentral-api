@@ -24,6 +24,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "xerneas",
     "generation": 6,
     "height": {
         "xerneas": "3,0 m"
@@ -32,6 +33,7 @@
     "name": "Xerneas",
     "name_origin": "Xerneas deriva dalla lettera X. Potrebbe anche derivare dal latino cervus , dalla divinità celtica Cernunnos e dalla cerva di Cerinea. ",
     "origin": "È possibile che Xerneas sia basato su quattro diversi animali della mitologia nordica: Dainn, Dvalinn, Duneyrr e Durapror e cioè i Cervi di Yggdrasill, l'Albero Cosmico. Ognuno di questi cervi ha nel proprio corno un gioiello di un colore diverso: Dainn ha un gioiello blu; Dvalinn ha un gioiello cremisi; Duneyrr ha un gioiello giallo e Durapror ha un gioiello porpora/nero. Infatti, Xerneas ha proprio le corna con delle gemme incastonate al loro interno di colore arancione, rosso, viola ed azzurro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Xerneas",
     "shape": "più di 4 arti",
     "specie": "Pokémon Creazione",
     "sprites": {
@@ -42,7 +44,11 @@
         "modo-attivo": {
             "default": "https://media.pokemoncentral.it/wiki/b/bd/Homem0716A.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/0e/Homemsh0716A.png"
-        }
+        },
+        "xerneas": {
+            "corporate": "https://media.pokemoncentral.it/wiki/5/53/Artwork0716A_Corp_4.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e8/Artwork0716A_XY.png"
     },
     "stats": {
         "statistiche-base": {

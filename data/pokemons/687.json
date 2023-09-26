@@ -32,6 +32,7 @@
         "Acqua 1",
         "Acqua 2"
     ],
+    "flat_name": "malamar",
     "generation": 6,
     "height": {
         "malamar": "1,5 m"
@@ -40,13 +41,16 @@
     "name": "Malamar",
     "name_origin": "Malamar può essere una combinazione di mal e calamar, calamaro in inglese. Karamanero può derivare da 絡ます karamasu , calamari e 魔 ma . ",
     "origin": "Malamar è basato su un calamaro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Malamar",
     "shape": "quadrupede",
     "specie": "Pokémon Giravolta",
     "sprites": {
         "malamar": {
             "default": "https://media.pokemoncentral.it/wiki/a/a7/Homem0687.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0687.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0687.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d6/Artwork0687_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0d/Artwork0687_XY.png"
     },
     "stats": {
         "statistiche-base": {

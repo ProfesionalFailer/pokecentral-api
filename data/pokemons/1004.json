@@ -1,71 +1,62 @@
 {
     "abilities": {
-        "lunaruggente": {
-            "primary": "Paleoattivazione"
+        "chi-yu": {
+            "primary": "Monile Nefasto"
         }
     },
     "curiosities": [
-        "Pagine che richiamano file inesistenti",
-        "Pokémon",
-        "Pokémon di nona generazione",
-        "Pokémon di tipo Drago",
-        "Pokémon di tipo Buio",
-        "Pokémon di doppio tipo",
-        "Pokémon nel gruppo di esperienza Lento",
-        "Pokémon di colore Verde",
-        "Pokémon dalla sagoma n.",
-        "Pokémon di sesso sconosciuto",
-        "Pokémon di Gruppo Uova Sconosciuto",
-        "Pokémon che non fanno parte di una linea di evoluzione",
-        "Pokémon con statistiche base totali di 590",
-        "Pokémon Paradosso"
+        "Chi-Yu è uno dei Pokémon con caratteri non alfabetici nel nome."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/lunaruggente.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/chi-yu.mp3",
     "dex_entries": {
-        "lunaruggente": {
-            "scarlet": "È possibile che si tratti della creatura catalogata come \"Lunaruggente\" in un diario di viaggio colmo di misteri.",
-            "violet": "Secondo un articolo di una rivista di dubbia attendibilità, questo Pokémon sarebbe legato a un fenomeno che si verifica in una certa regione."
+        "chi-yu": {
+            "scarlet": "Riesce a manipolare fiamme di 3.000 ºC. Nuota tranquillamente nei mari di magma che crea fondendo ghiaia e massi.",
+            "violet": "Prese vita quando il livore accumulatosi nei gioielli ricurvi che causarono svariati conflitti si ammantò di fiamme."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "chi-yu",
     "generation": 9,
     "height": {
-        "lunaruggente": "2,0 m"
+        "chi-yu": "0,4 m"
     },
     "id": 1004,
-    "name": "Lunaruggente",
-    "name_origin": "Lunaruggente è una combinazione di luna e ruggente. Roaring Moon è una combinazione di roaring, ruggente, e moon, luna. ",
-    "origin": "Lunaruggente è l'unico Pokémon Paradosso ad assomigliare a una Megaevoluzione. ",
+    "name": "Chi-Yu",
+    "name_origin": "Chi-Yu potrebbe essere una combinazione di 鯽魚 / 鲫魚 jìyú  e 玉 yù . Īyui potrebbe essere una combinazione di 玉 yù  e 魚 / 鱼 yú . ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chi-Yu",
     "shape": "None",
-    "specie": "Pokémon Paradosso",
+    "specie": "Pokémon Disgrazia",
     "sprites": {
-        "lunaruggente": {
-            "default": "https://media.pokemoncentral.it/wiki/7/71/Homem1005.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh1005.png"
-        }
+        "chi-yu": {
+            "default": "https://media.pokemoncentral.it/wiki/1/17/Homem1004.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homemsh1004.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/45"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3b/Artwork1004_SV.png"
     },
     "stats": {
-        "lunaruggente": {
-            "hp": 105,
-            "atk": 139,
-            "def": 71,
-            "spa": 55,
-            "spd": 101,
-            "spe": 119
+        "chi-yu": {
+            "hp": 55,
+            "atk": 80,
+            "def": 80,
+            "spa": 135,
+            "spd": 120,
+            "spe": 100
         }
     },
     "stats_sum": {
-        "lunaruggente": 590
+        "chi-yu": 570
     },
     "types": {
-        "lunaruggente": [
-            "Buio",
-            "Drago"
+        "chi-yu": [
+            "Fuoco",
+            "Buio"
         ]
     },
     "weight": {
-        "lunaruggente": "380,0 kg"
+        "chi-yu": "4,9 kg"
     }
 }

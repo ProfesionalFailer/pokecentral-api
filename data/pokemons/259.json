@@ -37,6 +37,7 @@
         "Mostro",
         "Acqua 1"
     ],
+    "flat_name": "marshtomp",
     "generation": 3,
     "height": {
         "marshtomp": "0,70 m"
@@ -45,13 +46,16 @@
     "name": "Marshtomp",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi marsh  e stomp .\nIl suo nome giapponese, ヌマクロー Numacraw, probabilmente deriva da 沼 numa  e da crawfish . ",
     "origin": "Basato su una specie di saltafango o su un Ambystoma mexicanum ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Marshtomp",
     "shape": "due paia di ali",
     "specie": "Pokémon Fango Pesce",
     "sprites": {
         "marshtomp": {
             "default": "https://media.pokemoncentral.it/wiki/8/8d/Homem0259.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0259.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0259.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0259_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/23/Artwork0259_RZ.png"
     },
     "stats": {
         "marshtomp": {

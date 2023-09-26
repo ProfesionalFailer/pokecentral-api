@@ -32,6 +32,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "talonflame",
     "generation": 6,
     "height": {
         "talonflame": "1,2 m"
@@ -40,13 +41,16 @@
     "name": "Talonflame",
     "name_origin": "Talonflame è una combinazione tra talon  e flame . ",
     "origin": "Nonostante le pre-evoluzioni siano ispirate al pettirosso, Talonflame è ispirato ad un falco pellegrino, ma possiede alcuni tratti di altri rapaci come il nibbio reale e l'astore che potrebbero aver contribuito per la sua ispirazione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Talonflame",
     "shape": "testa e base",
     "specie": "Pokémon Ardifiamma",
     "sprites": {
         "talonflame": {
             "default": "https://media.pokemoncentral.it/wiki/d/d3/Homem0663.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0663.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0663.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2e/Artwork0663_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/77/Artwork0663_XY.png"
     },
     "stats": {
         "statistiche-base": {
@@ -63,8 +67,8 @@
     },
     "types": {
         "talonflame": [
-            "Volante",
-            "Fuoco"
+            "Fuoco",
+            "Volante"
         ]
     },
     "weight": {

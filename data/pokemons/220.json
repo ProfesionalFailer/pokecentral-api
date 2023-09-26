@@ -50,6 +50,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "swinub",
     "generation": 2,
     "height": {
         "swinub": "0,4 m"
@@ -58,13 +59,16 @@
     "name": "Swinub",
     "name_origin": "Il suo nome deriva dall'unione delle parole Swine  e nub . ",
     "origin": "L'aspetto di Swinub, per alcune caratteristiche, ricorda quello di un suide. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Swinub",
     "shape": "più di 4 arti",
     "specie": "Pokémon Maiale",
     "sprites": {
         "swinub": {
             "default": "https://media.pokemoncentral.it/wiki/e/e8/Homem0220.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c9/Homemsh0220.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c9/Homemsh0220.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/45/Artwork0220_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/92/Artwork0220_HGSS.png"
     },
     "stats": {
         "swinub": {

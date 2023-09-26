@@ -39,6 +39,7 @@
     "egg_groups": [
         "Drago"
     ],
+    "flat_name": "hydreigon",
     "generation": 5,
     "height": {
         "hydreigon": "1,8 m"
@@ -47,13 +48,18 @@
     "name": "Hydreigon",
     "name_origin": "Il nome occidentale di Hydreigon deriva dalla parola inglese Hydra , dal tedesco drei  e di nuovo dall'inglese dragon . Nel suo nome giapponese, サザンドラ Sazandora, sia サ sa che ザン zan sembrano derivare da 三 sa/san , un riferimento alle sue tre teste, mentre ドラ dora viene dall'inglese dragon  e Hydra , un altro riferimento alle sue tre teste dalle sembianze di quelle di un'Idra. ",
     "origin": "Hydreigon potrebbe essere basato sull'Idra di Lerna della mitologia greca, una bestia a cui ricrescevano due o più teste se una veniva recisa, oltre che sul Yamata no Orochi della mitologia giapponese, o lo Zmaj della mitologia slava. La sua catena evolutiva potrebbe basarsi sulle tre Graie della mitologia greca: queste erano figure tetre dotate di un occhio solo dal quale condividevano la vista, così come Deino e Zweilous sono ciechi, mentre solo la testa centrale delle tre di Hydreigon ha l'iride visibile negli occhi. In un intervista, Ken Sugimori ha dichiarato che inizialmente i componenti della sua linea evolutiva avrebbero dovuto avere le sembianze di draghi-cyborg, perciò le due fasce rigate che ha sul ventre e quella sulla coda sono probabilmente un dettaglio rimasto del desing originale, per esempio la dentatura dei cingoli di un carro armato. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hydreigon",
     "shape": "due paia di ali",
     "specie": "Pokémon Brutale",
     "sprites": {
         "hydreigon": {
             "default": "https://media.pokemoncentral.it/wiki/d/db/Homem0635.png",
             "shiny": "https://media.pokemoncentral.it/wiki/9/95/Homemsh0635.png"
-        }
+        },
+        "normale": {
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a0/Artwork0635_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7a/Artwork0635_NB.png"
     },
     "stats": {
         "hydreigon": {
@@ -70,8 +76,8 @@
     },
     "types": {
         "hydreigon": [
-            "Buio",
-            "Drago"
+            "Drago",
+            "Buio"
         ]
     },
     "weight": {

@@ -63,6 +63,7 @@
         "Mostro",
         "Acqua 1"
     ],
+    "flat_name": "slowking",
     "generation": 2,
     "height": {
         "slowking": "2,0 m",
@@ -72,17 +73,20 @@
     "name": "Slowking",
     "name_origin": "Il nome di Slowking è una combinazione di slow, lento, e king, re. Il suo nome giapponese deriva da 宿主 yadonushi, ospite  o 宿借り yadokari, paguro, e da king. ",
     "origin": "Slowking è basato come gli altri membri della sua famiglia evolutiva su un ippopotamo con tratti di un paguro, oltre che ovviamente su di un re. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Slowking",
     "shape": "due paia di ali",
     "specie": "Pokémon Reale",
     "sprites": {
         "slowking": {
             "default": "https://media.pokemoncentral.it/wiki/f/f9/Homem0199.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8d/Homemsh0199.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8d/Homemsh0199.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bd/Artwork0199_Corp.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/a/a4/Homem0199G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/42/Homemsh0199G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f8/Artwork0199_RFVF.png"
     },
     "stats": {
         "slowking": {

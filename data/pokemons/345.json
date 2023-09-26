@@ -40,6 +40,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "lileep",
     "generation": 3,
     "height": {
         "lileep": "1,0 m"
@@ -48,13 +49,16 @@
     "name": "Lileep",
     "name_origin": "Può essere una combinazione di lily  e peep  o deep . Potrebbe anche derivare da likiep, un atollo dell'Oceano Pacifico. ",
     "origin": "Può essere basato sul giglio di mare o sui crinoidi, animali marini una volta ritenuti estinti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lileep",
     "shape": "quadrupede",
     "specie": "Pokémon Fiordimare",
     "sprites": {
         "lileep": {
             "default": "https://media.pokemoncentral.it/wiki/e/e9/Homem0345.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8a/Homemsh0345.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8a/Homemsh0345.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/77/Artwork0345_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/52/Artwork0345_RZ.png"
     },
     "stats": {
         "lileep": {

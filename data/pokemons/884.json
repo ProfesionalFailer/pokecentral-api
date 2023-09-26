@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "duraludon": {
             "primary": "Metalleggero",
             "secondary": "Metalpesante",
             "hidden": "Volontà di Ferro"
@@ -26,6 +26,7 @@
         "Minerale",
         "Drago"
     ],
+    "flat_name": "duraludon",
     "generation": 8,
     "height": {
         "duraludon": "1,8 m",
@@ -35,17 +36,20 @@
     "name": "Duraludon",
     "name_origin": "Duraludon potrebbe derivare da ジュラルミン duralumin, duralluminio , ドラゴン durable, resistente, dragon, drago, don, signore in spagnolo e -don, suffisso comune nei nomi dei dinosauri che deriva da \"dente\" in greco antico. ",
     "origin": "Duraludon potrebbe essere ispirato a The Shard, l'edificio più alto del Regno Unito. In base al suo nome, il metallo che copre il corpo del Pokémon potrebbe essere il duralluminio, una lega di alluminio e rame che è robusta e leggera, ma non molto resistente alla corrosione. La rivalità con Tyranitar è probabilmente un riferimento a Mechagodzilla, un antagonista della serie Godzilla nonché un kaijū del cinema giapponese. Nel complesso ricorda un dinosauro del gruppo Theropoda. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Duraludon",
     "shape": "due paia di ali",
     "specie": "Pokémon Metallolega",
     "sprites": {
         "duraludon": {
             "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0884.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/60/Homemsh0884.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/6/60/Homemsh0884.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9c"
         },
         "duraludon-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0884Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/f/f8/Homemsh0884Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/72/Artwork0884_SpSc.png"
     },
     "stats": {
         "duraludon": {
@@ -62,8 +66,8 @@
     },
     "types": {
         "duraludon": [
-            "Acciaio",
-            "Drago"
+            "Drago",
+            "Acciaio"
         ]
     },
     "weight": {

@@ -53,6 +53,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "weedle",
     "generation": 1,
     "height": {
         "weedle": "0,3 m"
@@ -61,13 +62,16 @@
     "name": "Weedle",
     "name_origin": "Weedle potrebbe essere una combinazione di worm, verme, e needle, ago . Potrebbe essere anche una corruzione di weevil, l'ordine di coleotteri Curculionoidea. Beedle potrebbe essere una combinazione di ビー bee, ape, e ニードル needle, ago. ",
     "origin": "Weedle potrebbe essere basato su una larva di vespa o di calabrone. Il naso e le zampe rosse del Pokémon somigliano ai puntini che compaiono su alcune larve di vespe e di calabroni. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Weedle",
     "shape": "testa e gambe",
     "specie": "Pokémon Millepiedi",
     "sprites": {
         "weedle": {
             "default": "https://media.pokemoncentral.it/wiki/9/92/Homem0013.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homemsh0013.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homemsh0013.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/96/Artwork0013_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/ca/Artwork0013_RFVF.png"
     },
     "stats": {
         "weedle": {
@@ -84,8 +88,8 @@
     },
     "types": {
         "weedle": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {

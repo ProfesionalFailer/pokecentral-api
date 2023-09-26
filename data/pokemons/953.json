@@ -29,6 +29,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "rellor",
     "generation": 9,
     "height": {
         "rellor": "0,2 m"
@@ -37,13 +38,16 @@
     "name": "Rellor",
     "name_origin": "Rellor è la parola roller, inglese per rullo, scritto al contrario. Shigaroko potrebbe essere la parola 転がし korogashi, rotolare qualcosa, al contrario. ",
     "origin": "Rellor è basato sugli scarabei stercorari. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rellor",
     "shape": "None",
     "specie": "Pokémon Rotolatore",
     "sprites": {
         "rellor": {
             "default": "https://media.pokemoncentral.it/wiki/6/63/Homem0953.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0953.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0953.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b6"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f8/Artwork0953_SV.png"
     },
     "stats": {
         "rellor": {

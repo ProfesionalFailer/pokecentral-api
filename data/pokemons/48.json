@@ -48,6 +48,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "venonat",
     "generation": 1,
     "height": {
         "venonat": "1,0 m"
@@ -56,13 +57,16 @@
     "name": "Venonat",
     "name_origin": "Venonat è probabilmente una combinazione di venom e gnat. Kongpang può essere una combinazione di こんちゅう konchū  e pang . Può essere un'abbreviazione di コンパウンド　アイ occhio composto, riferito sia ai suoi occhi che alla sua abilità. ",
     "origin": "Nonostante il suo nome, Venonat non è simile ad un moscerino per taglia, fisiologia o comportamento, se non per gli occhi composti. Il suo aspetto è invece più riconducibile a quello di un acaro, il quale è tondeggiante, ha anch'esso una bocca dotata di piccole tenaglie e può succhiare sangue. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Venonat",
     "shape": "un paio di ali",
     "specie": "Pokémon Insetto",
     "sprites": {
         "venonat": {
             "default": "https://media.pokemoncentral.it/wiki/1/1e/Homem0048.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/04/Homemsh0048.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/04/Homemsh0048.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/23/Artwork0048_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1c/Artwork0048_RFVF.png"
     },
     "stats": {
         "venonat": {
@@ -79,8 +83,8 @@
     },
     "types": {
         "venonat": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {

@@ -40,6 +40,7 @@
         "Campo",
         "Umanoide"
     ],
+    "flat_name": "chimchar",
     "generation": 4,
     "height": {
         "chimchar": "0,5 m"
@@ -48,13 +49,16 @@
     "name": "Chimchar",
     "name_origin": "Chimchar viene da chimp  e char . ",
     "origin": "Chimchar è evidentemente basato su una giovane scimmia. La coda infuocata ricalca la figura di Charmander, ed entrambi i Pokémon hanno la radice char nel loro nome. Questo deriva dal loro nome giapponese: Hikozaru  and Hitokage , contenenti l'elemento 火 hi, che vuol dire fuoco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chimchar",
     "shape": "due paia di ali",
     "specie": "Pokémon Scimpanzé",
     "sprites": {
         "chimchar": {
             "default": "https://media.pokemoncentral.it/wiki/1/1c/Homem0390.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1f/Homemsh0390.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1f/Homemsh0390.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fd/Artwork_Pok%C3%A9mon_iniziali_Sinnoh_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/74/Artwork0390_DLPS.png"
     },
     "stats": {
         "chimchar": {

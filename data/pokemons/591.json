@@ -32,6 +32,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "amoonguss",
     "generation": 5,
     "height": {
         "amoonguss": "0,6 m"
@@ -40,13 +41,16 @@
     "name": "Amoonguss",
     "name_origin": "Il suo nome molto probabilmente deriva dall'unione delle parole amanita, un genere di funghi, e fungus o humongous . Insieme alla pre-evoluzione, Foongus, è una corruzione dell'espressione inglese fungus among us . ",
     "origin": "Amoonguss è decisamente basato su un fungo velenoso con un'immagine che rappresenta una Poké Ball sul cappello. In particolare potrebbe ispirarsi all'amanita muscaria o ai funghi del genere agaricus. I dischi sulle estremità delle braccia sembrano scudi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Amoonguss",
     "shape": "insettoide",
     "specie": "Pokémon Fungo",
     "sprites": {
         "amoonguss": {
             "default": "https://media.pokemoncentral.it/wiki/8/8f/Homem0591.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homemsh0591.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homemsh0591.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e2/Artwork0591_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d5/Artwork0591_NB.png"
     },
     "stats": {
         "amoonguss": {

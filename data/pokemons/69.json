@@ -43,6 +43,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "bellsprout",
     "generation": 1,
     "height": {
         "bellsprout": "0,7 m"
@@ -51,13 +52,16 @@
     "name": "Bellsprout",
     "name_origin": "Bellsprout è una combinazione di \"bell\"  e \"sprout\" . ",
     "origin": "Bellsprout e le sue evoluzioni possono essere basate sulle piante carnivore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bellsprout",
     "shape": "un paio di ali",
     "specie": "Pokémon Fiore",
     "sprites": {
         "bellsprout": {
             "default": "https://media.pokemoncentral.it/wiki/b/b5/Homem0069.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0069.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0069.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b8/Artwork0069_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3c/Artwork0069_RFVF.png"
     },
     "stats": {
         "bellsprout": {

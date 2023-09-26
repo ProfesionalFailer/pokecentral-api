@@ -36,6 +36,7 @@
         "Campo",
         "Magico"
     ],
+    "flat_name": "maushold",
     "generation": 9,
     "height": {
         "maushold": "0,3 m"
@@ -44,6 +45,7 @@
     "name": "Maushold",
     "name_origin": "Maushold deriva da maus, , household  e hold , in riferimento a come le varie unità si tengono per mano. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Maushold",
     "shape": "None",
     "specie": "Pokémon Famiglia",
     "sprites": {
@@ -54,7 +56,11 @@
         "trifamiglia": {
             "default": "https://media.pokemoncentral.it/wiki/2/2d/Homem0925T.png",
             "shiny": "https://media.pokemoncentral.it/wiki/2/25/Homemsh0925T.png"
-        }
+        },
+        "maushold": {
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3e"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c7/Artwork0925_SV.png"
     },
     "stats": {
         "maushold": {

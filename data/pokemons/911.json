@@ -18,6 +18,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "skeledirge",
     "generation": 9,
     "height": {
         "skeledirge": "1,6 m"
@@ -26,13 +27,16 @@
     "name": "Skeledirge",
     "name_origin": "Skeledirge potrebbe essere una combinazione di skeleton  e dirge . Loudbone potrebbe essere una combinazione di loud  o laúd  e bone . ",
     "origin": "Skeledirge è basato su un coccodrillo, mentre l'uccellino di fuoco sul suo muso potrebbe richiamare gli \"uccelli dentisti\", ovvero quelli che mantengono pulita la bocca dei coccodrilli. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Skeledirge",
     "shape": "None",
     "specie": "Pokémon Cantante",
     "sprites": {
         "skeledirge": {
             "default": "https://media.pokemoncentral.it/wiki/9/93/Homem0911.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/3a/Homemsh0911.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3a/Homemsh0911.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2b/Artwork0911_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a0/Artwork0911_SV.png"
     },
     "stats": {
         "skeledirge": {
@@ -49,8 +53,8 @@
     },
     "types": {
         "skeledirge": [
-            "Spettro",
-            "Fuoco"
+            "Fuoco",
+            "Spettro"
         ]
     },
     "weight": {

@@ -31,6 +31,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "emboar",
     "generation": 5,
     "height": {
         "emboar": "1,6 m"
@@ -39,13 +40,16 @@
     "name": "Emboar",
     "name_origin": "Il suo nome deriva dall'inglese ember  e boar . Potrebbe anche derivare da titoli imperiali come emperor , caesar , o tsar . ",
     "origin": "Sembra sia basato su un cinghiale o un maiale Berkshire e un wrestler o un luchador, oltre che su un soldato del romanzo dei tre regni. Ken Sugimori ha dichiarato che la sua linea evolutiva è disegnata secondo lo stile cinese. Questo potrebbe far presupporre che Pignite tragga ispirazione da Zhu Wuneng. Le decorazioni sul suo corpo inoltre ricordano un vaso ding, ma sono molto simili anche ad alcune composizioni sulle ceramiche greche. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Emboar",
     "shape": "due paia di ali",
     "specie": "Pokémon Suincendio",
     "sprites": {
         "emboar": {
             "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0500.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homemsh0500.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homemsh0500.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/48/Artwork0500_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/65/Artwork0500_NB.png"
     },
     "stats": {
         "emboar": {
@@ -62,8 +66,8 @@
     },
     "types": {
         "emboar": [
-            "Lotta",
-            "Fuoco"
+            "Fuoco",
+            "Lotta"
         ]
     },
     "weight": {

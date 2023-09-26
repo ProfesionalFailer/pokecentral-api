@@ -30,6 +30,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "garganacl",
     "generation": 9,
     "height": {
         "garganacl": "2,3 m"
@@ -38,13 +39,16 @@
     "name": "Garganacl",
     "name_origin": "Garganacl potrebbe derivare da Gargantuan  e NaCl . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Garganacl",
     "shape": "None",
     "specie": "Pokémon Salgemma",
     "sprites": {
         "garganacl": {
             "default": "https://media.pokemoncentral.it/wiki/5/5d/Homem0934.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homemsh0934.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homemsh0934.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/ac/Artwork0934_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/71/Artwork0934_SV.png"
     },
     "stats": {
         "garganacl": {

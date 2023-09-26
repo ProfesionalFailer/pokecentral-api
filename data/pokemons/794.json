@@ -23,6 +23,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "buzzwole",
     "generation": 7,
     "height": {
         "buzzwole": "2,4 m"
@@ -31,13 +32,16 @@
     "name": "Buzzwole",
     "name_origin": "Buzzwole può essere una combinazione di buzz  e swollen . Masshibūn può essere una combinazione di massive , 蚊 bun  e ブーン būn . UC 02 Expansio è una combinazione tra UC, sigla di Ultracreatura, 02 e la parola latina Expansio . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Buzzwole",
     "shape": "bipedi con coda",
     "specie": "Pokémon Gonfiacorpo",
     "sprites": {
         "buzzwole": {
             "default": "https://media.pokemoncentral.it/wiki/8/80/Homem0794.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/5a/Homemsh0794.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5a/Homemsh0794.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1a/Artwork0794_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a0/Artwork0794_SL.png"
     },
     "stats": {
         "buzzwole": {

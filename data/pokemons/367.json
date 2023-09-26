@@ -40,6 +40,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "huntail",
     "generation": 3,
     "height": {
         "huntail": "1,70 m"
@@ -48,13 +49,16 @@
     "name": "Huntail",
     "name_origin": "Il nome di Huntail sembra l'unione di hunt, cacciare, o 斑点 hanten, macchiolina, e tail, coda. ",
     "origin": "Huntail è certamente basato sui pesci abissali, probabilmente sul regaleco, o su un qualunque rappresentante della famiglia Stomiidae o dell'ordine Saccopharyngiformes. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Huntail",
     "shape": "testa e gambe",
     "specie": "Pokémon Abissi",
     "sprites": {
         "huntail": {
             "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0367.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1b/Homemsh0367.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1b/Homemsh0367.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/17/Artwork0367_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/61/Artwork0367_RZ.png"
     },
     "stats": {
         "huntail": {

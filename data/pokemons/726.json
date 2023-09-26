@@ -24,6 +24,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "torracat",
     "generation": 7,
     "height": {
         "torracat": "0,7 m"
@@ -32,13 +33,16 @@
     "name": "Torracat",
     "name_origin": "Torracat potrebbe essere una combinazione di torrid, molto caldo e secco, e cat, gatto. Potrebbe anche derivare da 虎 tora, il giapponese di tigre. Nyahīto potrebbe essere una combinazione di ニャー nyā, il miagolio di un gatto, 火 hi, fuoco, ed heat, calore. ",
     "origin": "Torracat è ispirato ad un Gatto soriano e ad un cucciolo di tigre. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Torracat",
     "shape": "più di 4 arti",
     "specie": "Pokémon Pirofelino",
     "sprites": {
         "torracat": {
             "default": "https://media.pokemoncentral.it/wiki/f/fa/Homem0726.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homemsh0726.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homemsh0726.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d9/Artwork0726_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3d/Artwork0726_SL.png"
     },
     "stats": {
         "torracat": {

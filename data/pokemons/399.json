@@ -34,6 +34,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "bidoof",
     "generation": 4,
     "height": {
         "bidoof": "0,5 m"
@@ -42,17 +43,20 @@
     "name": "Bidoof",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi beaver  e doofus  o shadoof . ",
     "origin": "Bidoof è basato sui castori, in particolare sui castori di montagna. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bidoof",
     "shape": "più di 4 arti",
     "specie": "Pokémon Topaffuto",
     "sprites": {
-        "": {
+        "bidoof": {
             "default": "https://media.pokemoncentral.it/wiki/4/4a/Homem0399.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0399.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0399.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/93/Artwork0399_Corp.png"
         },
-        "-f": {
+        "bidoof-f": {
             "default": "https://media.pokemoncentral.it/wiki/3/36/Homef0399.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homefsh0399.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/74/Artwork0399_DLPS.png"
     },
     "stats": {
         "bidoof": {

@@ -60,6 +60,7 @@
         "Acqua 1",
         "Drago"
     ],
+    "flat_name": "dragonair",
     "generation": 1,
     "height": {
         "dragonair": "4,0 m"
@@ -68,13 +69,16 @@
     "name": "Dragonair",
     "name_origin": "Il nome Dragonair deriva dall'unione delle parole inglesi dragon  e air  riferimento al fatto che controlla il clima e giocando sulla somiglianza con la parola inglese debonair  riferimento al suo aspetto aggraziato, oppure con Lair . ",
     "origin": "Sembra essere basato sul serpente di mare ryu, un tradizionale drago giapponese che si dice porti buona fortuna. La sua forma ricorda anche quella di un serpente a sonagli, come suggerisce la forma della sua coda, le ali sulla testa e il corpo serpentino potrebbero rimandare al Dio greco Hermes che ha le scarpe alate e lo scettro a forma di serpente, potrebbe essere basato anche sugli Imugi, un serpente marino noto anche come \"proto-drago\" che vive nelle acque delle grotte molto simile a Dragonair, si dice che se queste creature prendano un gioiello di nome Yeouiju diventino dei veri draghi, da qui l'ispirazione ai suoi cristalli. I suoi cristalli potrebbero anche essere un riferimento a una storia giapponese in cui una principessa chiede di recuperare un cristallo dal collo di un drago. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dragonair",
     "shape": "testa e gambe",
     "specie": "Pokémon Drago",
     "sprites": {
         "dragonair": {
             "default": "https://media.pokemoncentral.it/wiki/8/81/Homem0148.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homemsh0148.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homemsh0148.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2a/Artwork0148_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fc/Artwork0148_RFVF.png"
     },
     "stats": {
         "dragonair": {

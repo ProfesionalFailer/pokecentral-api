@@ -28,6 +28,7 @@
         "Campo",
         "Umanoide"
     ],
+    "flat_name": "pangoro",
     "generation": 6,
     "height": {
         "pangoro": "2,1 m"
@@ -36,13 +37,16 @@
     "name": "Pangoro",
     "name_origin": "Pangoro e Goronda può derivare dalla fusione delle parole ごろごろ gorogoro  e \"panda\".\nCondivide inoltre un'assonanza con \"Punong Guro\", col quale si indica il Grande Maestro delle arti marziali filippine. ",
     "origin": "Pangoro è basato su un panda gigante, anche se il suo carattere stizzoso è più riconducibile ad un grizzly o a un gorilla. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pangoro",
     "shape": "due paia di ali",
     "specie": "Pokémon Occhiotruce",
     "sprites": {
         "pangoro": {
             "default": "https://media.pokemoncentral.it/wiki/e/e8/Homem0675.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0675.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0675.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/81/Artwork0675_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0675_XY.png"
     },
     "stats": {
         "pangoro": {

@@ -33,6 +33,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "mothim",
     "generation": 4,
     "height": {
         "mothim": "0,9 m"
@@ -41,13 +42,16 @@
     "name": "Mothim",
     "name_origin": "Deriva dalle parole moth  con il pronome him . ",
     "origin": "Basato su un maschio adulto di un lepidottero, precisamente la falena adulata della famiglia delle Psychidae . ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mothim",
     "shape": "serpentiforme",
     "specie": "Pokémon Falena",
     "sprites": {
         "mothim": {
             "default": "https://media.pokemoncentral.it/wiki/6/69/Homem0414.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0414.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0414.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fe/Artwork0414_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/56/Artwork0414_DP.png"
     },
     "stats": {
         "mothim": {
@@ -64,8 +68,8 @@
     },
     "types": {
         "mothim": [
-            "Volante",
-            "Coleot"
+            "Coleot",
+            "Volante"
         ]
     },
     "weight": {

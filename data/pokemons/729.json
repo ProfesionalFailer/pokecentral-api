@@ -23,6 +23,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "brionne",
     "generation": 7,
     "height": {
         "brionne": "0,6 m"
@@ -31,13 +32,16 @@
     "name": "Brionne",
     "name_origin": "Brionne potrebbe derivare da brio , sea lion , brine  e undine, . Oshamari potrebbe essere una combinazione di オシャレ oshare , おしゃま oshama , 鞠 mari  e marine . ",
     "origin": "Brionne sembra basato su un Leone marino, su una Ballerina, su un Pagliaccio o sullo stereotipo di una Popstar, da cui prende il nome della specie. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Brionne",
     "shape": "pinne",
     "specie": "Pokémon Pop Star",
     "sprites": {
         "brionne": {
             "default": "https://media.pokemoncentral.it/wiki/3/3d/Homem0729.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8d/Homemsh0729.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8d/Homemsh0729.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/af/Artwork0729_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1d/Artwork0729_SL.png"
     },
     "stats": {
         "brionne": {

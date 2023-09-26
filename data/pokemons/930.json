@@ -30,6 +30,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "arboliva",
     "generation": 9,
     "height": {
         "arboliva": "1,4 m"
@@ -38,13 +39,16 @@
     "name": "Arboliva",
     "name_origin": "Arboliva potrebbe essere una combinazione di arbor , olive, e diva. Oriva potrebbe essere la combinazione di オリーブ ori-bu  e diva. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Arboliva",
     "shape": "None",
     "specie": "Pokémon Oliva",
     "sprites": {
         "arboliva": {
             "default": "https://media.pokemoncentral.it/wiki/b/b0/Homem0930.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f1/Homemsh0930.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f1/Homemsh0930.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ea/Artwork0930_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/18/Artwork0930_SV.png"
     },
     "stats": {
         "arboliva": {

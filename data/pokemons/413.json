@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "wormadam": {
             "primary": "Presagio",
             "hidden": "Copricapo"
         }
@@ -48,6 +48,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "wormadam",
     "generation": 4,
     "height": {
         "wormadam": "0,5 m"
@@ -56,6 +57,7 @@
     "name": "Wormadam",
     "name_origin": "Wormadam è l'unione di bagworm  e madam , mentre il giapponese ミノマダム Minomadam è la fusione di 蓑虫 minomushi  e madam. ",
     "origin": "Wormadam è basato sulle falene della famiglia delle Psychidae, ordine dei Lepidotteri, che hanno la caratteristica di attaccare al bozzolo materiale prelevato dall'ambiente, come foglie o sabbia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wormadam",
     "shape": "quadrupede",
     "specie": "Pokémon Larva",
     "sprites": {
@@ -70,7 +72,11 @@
         "manto-scarti": {
             "default": "https://media.pokemoncentral.it/wiki/7/79/Homef0413Sc.png",
             "shiny": "https://media.pokemoncentral.it/wiki/a/a6/Homefsh0413Sc.png"
-        }
+        },
+        "wormadam": {
+            "corporate": "https://media.pokemoncentral.it/wiki/2/23/Artwork0413Sc_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/47/Artwork0413_DP.png"
     },
     "stats": {
         "manto-pianta": {
@@ -105,16 +111,16 @@
     },
     "types": {
         "manto-pianta": [
-            "Erba",
-            "Coleot"
+            "Coleot",
+            "Erba"
         ],
         "manto-sabbia": [
             "Terra",
             "Coleot"
         ],
         "manto-scarti": [
-            "Acciaio",
-            "Coleot"
+            "Coleot",
+            "Acciaio"
         ]
     },
     "weight": {

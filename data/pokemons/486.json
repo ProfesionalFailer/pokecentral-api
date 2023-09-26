@@ -40,6 +40,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "regigigas",
     "generation": 4,
     "height": {
         "regigigas": "3,7 m"
@@ -48,13 +49,16 @@
     "name": "Regigigas",
     "name_origin": "Il suo nome deriva dalla parola latina regius, regale, e dal greco γίγας gigas, gigante. ",
     "origin": "Regigigas è basato sulle leggende ebraiche dei golem. Le leggende li definiscono come dei servitori con enormi poteri, che vengono esercitati tramite delle parole scritte sulle loro fronti. Se le parole vengono rimosse, essi si indeboliscono. I golem leggendari possono avere come tema comune le epoche storiche, con Regigigas che rappresenta l'Archeano, cioè il periodo preistorico in cui si formarono gli oceani e i continenti e nacque la vita sulla Terra. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Regigigas",
     "shape": "un paio di ali",
     "specie": "Pokémon Colossale",
     "sprites": {
         "regigigas": {
             "default": "https://media.pokemoncentral.it/wiki/2/2d/Homem0486.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a2/Homemsh0486.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a2/Homemsh0486.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a4/Artwork0486_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5c/Artwork0486_DP.png"
     },
     "stats": {
         "regigigas": {

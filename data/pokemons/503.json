@@ -33,6 +33,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "samurott",
     "generation": 5,
     "height": {
         "samurott": "1,5 m"
@@ -41,13 +42,16 @@
     "name": "Samurott",
     "name_origin": "Il suo nome deriva da samurai e otter . ",
     "origin": "Ha l'aspetto di un leone marino o una lontra gigante sudamericana e di un samurai o uno shōgun. La sua coda è basata sui ventagli da combattimento giapponesi. La conchiglia sulla sua testa ricorda quelle del genere Murex. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Samurott",
     "shape": "più di 4 arti",
     "specie": "Pokémon Dignità",
     "sprites": {
         "samurott": {
             "default": "https://media.pokemoncentral.it/wiki/7/72/Homem0503.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0503.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0503.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e8/Artwork0503_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/78/Artwork0503_NB.png"
     },
     "stats": {
         "samurott": {
@@ -76,8 +80,8 @@
             "Acqua"
         ],
         "forma-di-hisui": [
-            "Buio",
-            "Acqua"
+            "Acqua",
+            "Buio"
         ]
     },
     "weight": {

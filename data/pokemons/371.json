@@ -44,6 +44,7 @@
     "egg_groups": [
         "Drago"
     ],
+    "flat_name": "bagon",
     "generation": 3,
     "height": {
         "bagon": "0,60 m"
@@ -52,13 +53,16 @@
     "name": "Bagon",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi baby  e dragon . ",
     "origin": "Bagon è basato sui draghi, sebbene il suo aspetto ricordi quello di un Pachicefalosauro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bagon",
     "shape": "un paio di ali",
     "specie": "Pokémon Rocciotesta",
     "sprites": {
         "bagon": {
             "default": "https://media.pokemoncentral.it/wiki/0/0c/Homem0371.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0371.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0371.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/52/Artwork0371_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ed/Artwork0371_RZ.png"
     },
     "stats": {
         "bagon": {

@@ -34,6 +34,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "krookodile",
     "generation": 5,
     "height": {
         "krookodile": "1,5 m"
@@ -42,13 +43,16 @@
     "name": "Krookodile",
     "name_origin": "Il nome Krookodile potrebbe derivare dall'insieme delle parole inglesi crook  e crocodile . ",
     "origin": "Krookodile sembrerebbe essere basato sul barionice, sul gaviale del Gange, sul coccodrillo catafratto e sul caimano dagli occhiali. Le strisce nere sul suo corpo, la colorazione nera attorno agli occhi e il suo comportamento generalmente aggressivo lo rendono lo stereotipo di un criminale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Krookodile",
     "shape": "due paia di ali",
     "specie": "Pokémon Minaccia",
     "sprites": {
         "krookodile": {
             "default": "https://media.pokemoncentral.it/wiki/b/bc/Homem0553.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homemsh0553.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homemsh0553.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c4/Artwork0553_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9c/Artwork0553_NB.png"
     },
     "stats": {
         "krookodile": {

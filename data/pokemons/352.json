@@ -44,6 +44,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "kecleon",
     "generation": 3,
     "height": {
         "kecleon": "1,0 m"
@@ -52,13 +53,16 @@
     "name": "Kecleon",
     "name_origin": "Il suo nome probabilmente è l'unione delle parole inglesi keckle , e chameleon . Fino alla terza generazione era, insieme a Charmeleon, uno dei pochi Pokémon il cui nome termina con \"-eon\" ad non appartenere alla famiglia Eevee. Il suo nome giapponese, カクレオン Kakureon, è l'unione della parola giapponese かくれる kakureru  con quella inglese chameleon. ",
     "origin": "Basato su un camaleonte. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kecleon",
     "shape": "due paia di ali",
     "specie": "Pokémon Mutacolore",
     "sprites": {
         "kecleon": {
             "default": "https://media.pokemoncentral.it/wiki/b/b9/Homem0352.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/13/Homemsh0352.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/13/Homemsh0352.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0c/Artwork0352_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9e/Artwork0352_RZ.png"
     },
     "stats": {
         "kecleon": {

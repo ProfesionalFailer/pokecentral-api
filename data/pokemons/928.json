@@ -18,6 +18,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "smoliv",
     "generation": 9,
     "height": {
         "smoliv": "0,3 m"
@@ -26,13 +27,16 @@
     "name": "Smoliv",
     "name_origin": "Smoliv potrebbe derivare da smol, gergo dell'internet per small, piccolo, e olive. ",
     "origin": "Smoliv potrebbe essere basato su un'oliva verde. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Smoliv",
     "shape": "None",
     "specie": "Pokémon Oliva",
     "sprites": {
         "smoliv": {
             "default": "https://media.pokemoncentral.it/wiki/f/f5/Homem0928.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0928.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0928.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/61"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/23/Artwork0928_SV.png"
     },
     "stats": {
         "smoliv": {

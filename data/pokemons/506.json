@@ -33,6 +33,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "lillipup",
     "generation": 5,
     "height": {
         "lillipup": "0,4 m"
@@ -41,13 +42,16 @@
     "name": "Lillipup",
     "name_origin": "Il suo nome deriva da lilliputian  o Lilliput e pup . ",
     "origin": "Il suo aspetto si basa sul Yorkshire Terrier. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lillipup",
     "shape": "più di 4 arti",
     "specie": "Pokémon Cagnolino",
     "sprites": {
         "lillipup": {
             "default": "https://media.pokemoncentral.it/wiki/f/f2/Homem0506.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0506.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0506.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d3/Artwork0506_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/33/Artwork0506_NB.png"
     },
     "stats": {
         "lillipup": {

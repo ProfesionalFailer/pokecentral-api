@@ -44,6 +44,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "natu",
     "generation": 2,
     "height": {
         "natu": "0,2 m"
@@ -52,13 +53,16 @@
     "name": "Natu",
     "name_origin": "Potrebbe derivare dalla parola native  e Atu  o dalla parola latina natus . ",
     "origin": "Basato tra un pappagallo e una quaglia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Natu",
     "shape": "testa e base",
     "specie": "Pokémon Uccellino",
     "sprites": {
         "natu": {
             "default": "https://media.pokemoncentral.it/wiki/3/38/Homem0177.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/93/Homemsh0177.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/93/Homemsh0177.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f9"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/96/Artwork0177_HGSS.png"
     },
     "stats": {
         "natu": {

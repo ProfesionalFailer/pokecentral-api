@@ -31,6 +31,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "bellibolt",
     "generation": 9,
     "height": {
         "bellibolt": "1,2 m"
@@ -39,13 +40,16 @@
     "name": "Bellibolt",
     "name_origin": "Bellibolt potrebbe essere l'unione di belly button  e bolt . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bellibolt",
     "shape": "None",
     "specie": "Pokémon Amperana",
     "sprites": {
         "bellibolt": {
             "default": "https://media.pokemoncentral.it/wiki/9/99/Homem0939.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0939.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0939.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e3/Artwork0939_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f5/Artwork0939_SV.png"
     },
     "stats": {
         "bellibolt": {

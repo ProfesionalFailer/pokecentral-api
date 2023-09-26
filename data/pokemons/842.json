@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "appletun": {
             "primary": "Maturazione",
             "secondary": "Voracità",
             "hidden": "Grassospesso"
@@ -27,6 +27,7 @@
         "Erba",
         "Drago"
     ],
+    "flat_name": "appletun",
     "generation": 8,
     "height": {
         "appletun": "0,4 m",
@@ -36,17 +37,20 @@
     "name": "Appletun",
     "name_origin": "Appletun potrebbe derivare da appleton, un toponimo che significa \"un frutteto\" o \"un luogo dove crescono le mele\". Potrebbe essere anche una combinazione di apple, mela, e ton, tonellata. Potrebbe essere anche un gioco di parole con apple turnover, Appleflap. Tarupple potrebbe essere una combinazione di tart, tartina, 怠い tarui, pigro, たっぷり tappuri, pieno, e apple, mela. ",
     "origin": "Appletun potrebbe essere basato su una torta di mele e su Ladone, un drago della mitologia greca che sorveglia i pomi d'oro nel giardino delle Esperidi. Potrebbe trarre ispirazione anche dai serpenti biblici, spesso associati ai draghi. Uno di questi serpenti persuade Eva e le fa mangiare un frutto dell'albero della conoscenza, più volte rappresentato come una mela. Appletun potrebbe essere basato anche sulla storia di Bel e il Drago che narra di un drago che si squarciò dopo aver mangiato una torta di mele e tartarughe. La sua forma Gigamax potrebbe essere basata su una mela caramellata. Il fatto che Flapple ed Appletun abbiano la stessa forma Gigamax potrebbe essere un riferimento alla convergenza evolutiva, il fenomeno per cui specie diverse che vivono nello stesso tipo di ambiente, sulla spinta delle stesse pressioni ambientali, si evolvono sviluppando, per selezione naturale, determinate strutture o adattamenti che li portano ad assomigliarsi moltissimo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Appletun",
     "shape": "più di 4 arti",
     "specie": "Pokémon Pomisucco",
     "sprites": {
         "appletun": {
             "default": "https://media.pokemoncentral.it/wiki/f/f6/Homem0842.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0842.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0842.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0d"
         },
         "appletun-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/e/e9/Homem0841Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0841Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f4/Artwork0842_SpSc.png"
     },
     "stats": {
         "appletun": {
@@ -63,8 +67,8 @@
     },
     "types": {
         "appletun": [
-            "Erba",
-            "Drago"
+            "Drago",
+            "Erba"
         ]
     },
     "weight": {

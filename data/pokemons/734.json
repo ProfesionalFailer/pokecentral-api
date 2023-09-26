@@ -23,6 +23,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "yungoos",
     "generation": 7,
     "height": {
         "yungoos": "0,4 m"
@@ -31,13 +32,16 @@
     "name": "Yungoos",
     "name_origin": "Yungoos e Yangūsu potrebbero essere una combinazione di young , ヤンキー yankī  e mongoose . ",
     "origin": "Yungoos sembra essere basato su una mangusta, in particolare sulla Mangusta di Giava, importata alle Hawaii per cacciare i topi europei importati attraverso le navi dei colonizzatori, ma che divenne a sua volta una specie invasiva. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Yungoos",
     "shape": "più di 4 arti",
     "specie": "Pokémon Pattuglia",
     "sprites": {
         "yungoos": {
             "default": "https://media.pokemoncentral.it/wiki/8/8b/Homem0734.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0734.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0734.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b9/Artwork0734_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/63/Artwork0734_SL.png"
     },
     "stats": {
         "yungoos": {

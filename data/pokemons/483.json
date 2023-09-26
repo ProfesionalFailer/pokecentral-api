@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "dialga": {
             "primary": "Pressione",
             "hidden": "Telepatia"
         }
@@ -43,6 +43,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "dialga",
     "generation": 4,
     "height": {
         "dialga": "5,4 m"
@@ -51,13 +52,18 @@
     "name": "Dialga",
     "name_origin": "Dovrebbe derivare dalla parola diamond  e una corruzione di dragon, drago. Potrebbe anche derivare dallo spagnolo dia, giorno, inteso come unità di tempo, o da sundial  e da 鋼 hagane, acciaio. ",
     "origin": "Basato sulle leggende di Izanami e Izanagi. Il suo aspetto assomiglia a quello del dinosauro Brachytrachelopan. I disegni color turchese chiaro sul suo corpo ricordano le lancette di un orologio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dialga",
     "shape": "più di 4 arti",
     "specie": "Pokémon Tempo",
     "sprites": {
         "dialga": {
             "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0483.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/7c/Homemsh0483.png"
-        }
+        },
+        "dialga(normale)": {
+            "corporate": "https://media.pokemoncentral.it/wiki/9/94/Artwork0483_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b5/Artwork0483_DLPS.png"
     },
     "stats": {
         "dialga": {
@@ -83,8 +89,8 @@
     },
     "types": {
         "dialga": [
-            "Acciaio",
-            "Drago"
+            "Drago",
+            "Acciaio"
         ]
     },
     "weight": {

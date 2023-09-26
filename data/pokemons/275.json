@@ -41,6 +41,7 @@
         "Campo",
         "Erba"
     ],
+    "flat_name": "shiftry",
     "generation": 3,
     "height": {
         "shiftry": "1,30 m"
@@ -49,17 +50,20 @@
     "name": "Shiftry",
     "name_origin": "Deriva dalle parole shifty, infido, e tree, albero. ",
     "origin": "Basato sui tengu, creature della mitologia giapponese dal lungo naso e dal carattere difficile e orgoglioso; essi vivono nelle foreste di montagna tenendosi alla larga dagli esseri umani, e possono tra le altre cose usare la telepatia. Possiedono ventagli di foglie o piume in grado di produrre forti raffiche di vento, e indossano geta  con un \"dente\" solo invece di due, detti appunto tengu-geta, di cui i piedi di Shiftry imitano la forma.\nProbabilmente, nello specifico, è basato su un konoha-tengu, \"tengu del fogliame\". ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shiftry",
     "shape": "un paio di ali",
     "specie": "Pokémon Burbero",
     "sprites": {
-        "": {
+        "shiftry": {
             "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0275.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0275.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0275.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7f/Artwork0275_Corp.png"
         },
-        "-f": {
+        "shiftry-f": {
             "default": "https://media.pokemoncentral.it/wiki/1/13/Homef0275.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homefsh0275.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/98/Artwork0275_RZ.png"
     },
     "stats": {
         "shiftry": {

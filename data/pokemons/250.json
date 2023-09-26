@@ -51,21 +51,25 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "ho-oh",
     "generation": 2,
     "height": {
         "ho-oh": "3,8 m"
     },
     "id": 250,
-    "name": "Ho-oh",
+    "name": "Ho-Oh",
     "name_origin": "Il nome è una traslitterazione del nome originale giapponese ホウオウ Houou, che deriva da 鳳凰 Hōō, fenice, più precisamente la Fenghuang. ",
     "origin": "Ho-Oh è basato sulla fenice, come si può vedere dall'aspetto e dalla sua abilità nel riportare in vita persone e Pokémon. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ho-Oh",
     "shape": "testa e base",
     "specie": "Pokémon Arcobaleno",
     "sprites": {
         "ho-oh": {
             "default": "https://media.pokemoncentral.it/wiki/a/a3/Homem0250.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/80/Homemsh0250.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/80/Homemsh0250.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/54/Artwork0250_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/65/Artwork0250_HGSS.png"
     },
     "stats": {
         "ho-oh": {
@@ -82,8 +86,8 @@
     },
     "types": {
         "ho-oh": [
-            "Volante",
-            "Fuoco"
+            "Fuoco",
+            "Volante"
         ]
     },
     "weight": {

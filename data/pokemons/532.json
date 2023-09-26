@@ -27,6 +27,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "timburr",
     "generation": 5,
     "height": {
         "timburr": "0,6 m"
@@ -35,13 +36,16 @@
     "name": "Timburr",
     "name_origin": "Timburr è una corruzione di timber . Potrebbe derivare inoltre da burly . ",
     "origin": "Si basa sui lavoratori edili. Per la forma del suo naso, potrebbe anche ispirarsi a una sorta di clown. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Timburr",
     "shape": "un paio di ali",
     "specie": "Pokémon Forzaimmane",
     "sprites": {
         "timburr": {
             "default": "https://media.pokemoncentral.it/wiki/d/d5/Homem0532.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/bc/Homemsh0532.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bc/Homemsh0532.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bb/Artwork0532_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3f/Artwork0532_NB.png"
     },
     "stats": {
         "timburr": {

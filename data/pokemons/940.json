@@ -20,6 +20,7 @@
         "Acqua 1",
         "Volante"
     ],
+    "flat_name": "wattrel",
     "generation": 9,
     "height": {
         "wattrel": "0,4 m"
@@ -28,13 +29,16 @@
     "name": "Wattrel",
     "name_origin": "Wattrel è l'unione di watt e petrel . ",
     "origin": "Wattrel è basato su un uccello appartenente alla famiglia degli Hydrobatidae, uccelli marini che possono cacciare anche in caso di forti tempeste. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wattrel",
     "shape": "None",
     "specie": "Pokémon Idrobatide",
     "sprites": {
         "wattrel": {
             "default": "https://media.pokemoncentral.it/wiki/3/3a/Homem0940.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0940.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0940.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/29"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a9/Artwork0940_SV.png"
     },
     "stats": {
         "wattrel": {

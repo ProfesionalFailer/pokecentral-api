@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "meloetta": {
             "primary": "Leggiadro"
         }
     },
@@ -25,6 +25,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "meloetta",
     "generation": 5,
     "height": {
         "meloetta": "0,6 m"
@@ -33,17 +34,21 @@
     "name": "Meloetta",
     "name_origin": "Il suo nome probabilmente deriva dalla parola greca melòs . ",
     "origin": "Meloetta è basata su una cantante nella Forma Canto, e nella Forma Danza su una ballerina. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Meloetta",
     "shape": "un paio di ali",
     "specie": "Pokémon Melodia",
     "sprites": {
         "forma-canto": {
             "default": "https://media.pokemoncentral.it/wiki/7/75/Homem0648.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0648.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0648.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/39/Artwork0648_Corp_2.png"
         },
         "forma-danza": {
             "default": "https://media.pokemoncentral.it/wiki/e/ec/Homem0648D.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0648D.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0648D.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/df/Artwork0648D_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0648_N2B2.png"
     },
     "stats": {
         "forma-canto": {

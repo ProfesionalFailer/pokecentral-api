@@ -40,6 +40,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "duskull",
     "generation": 3,
     "height": {
         "duskull": "0,80 m"
@@ -48,13 +49,16 @@
     "name": "Duskull",
     "name_origin": "Deriva dall'unione delle parole inglesi dusk  e skull . ",
     "origin": "Basato sul Tristo Mietitore e nel Baubau, l'equivalente Giapponese del Baubau è Namahage. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Duskull",
     "shape": "insettoide",
     "specie": "Pokémon Requiem",
     "sprites": {
         "duskull": {
             "default": "https://media.pokemoncentral.it/wiki/d/d2/Homem0355.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0355.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0355.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cf/Artwork0355_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/11/Artwork0355_RZ.png"
     },
     "stats": {
         "duskull": {

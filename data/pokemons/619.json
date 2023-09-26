@@ -42,6 +42,7 @@
         "Campo",
         "Umanoide"
     ],
+    "flat_name": "mienfoo",
     "generation": 5,
     "height": {
         "mienfoo": "0,9 m"
@@ -50,13 +51,16 @@
     "name": "Mienfoo",
     "name_origin": "Mienfoo è una combinazione dell'inglese ermine  e kung fu. ",
     "origin": "MIenfoo si basa su un mustelide, come un ermellino, e un praticante di kung fu. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mienfoo",
     "shape": "due paia di ali",
     "specie": "Pokémon Marziale",
     "sprites": {
         "mienfoo": {
             "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0619.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homemsh0619.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homemsh0619.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6e/Artwork0619_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f5/Artwork0619_NB.png"
     },
     "stats": {
         "mienfoo": {

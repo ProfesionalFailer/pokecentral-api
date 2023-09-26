@@ -30,6 +30,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "dewott",
     "generation": 5,
     "height": {
         "dewott": "0,8 m"
@@ -38,13 +39,16 @@
     "name": "Dewott",
     "name_origin": "Il suo nome deriva da dew , water  e otter . Potrebbero essere coinvolti anche i termini duel  e dual , oppure potrebbe ispirarsi a Helen DeWitt , l'autrice del libro \"The Last Samurai\". ",
     "origin": "Deriva da una lontra marina e da un samurai. Il modo in cui adopera le conchiglie come arma è ispirato al tessenjutsu, l'arte marziale nella quale si combatte con i ventagli. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dewott",
     "shape": "due paia di ali",
     "specie": "Pokémon Apprendista",
     "sprites": {
         "dewott": {
             "default": "https://media.pokemoncentral.it/wiki/3/3c/Homem0502.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/58/Homemsh0502.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/58/Homemsh0502.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fa/Artwork0502_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/61/Artwork0502_NB.png"
     },
     "stats": {
         "dewott": {

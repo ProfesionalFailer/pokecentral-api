@@ -58,6 +58,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "jigglypuff",
     "generation": 1,
     "height": {
         "jigglypuff": "0,5 m"
@@ -66,13 +67,16 @@
     "name": "Jigglypuff",
     "name_origin": "Il nome di Jigglypuff è una combinazione tra jiggly  e puff , riferendosi alla sua camminata barcollante e alla capacità di gonfiarsi. L'origine del suo nome giapponese è stata a lungo dibattuta, ma si crede che possa semplicemente derivare dalla parola giapponese プリン purin . Può anche essere una combinazione tra 风船 fusen  e 膨れる fukureru . ",
     "origin": "Sembra essere basato su un pallone e su un puff rosa. A causa del suo colore, la forma e la capacità di gonfiarsi e fluttuare, Jigglypuff potrebbe anche essere stato basato su Kirby. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Jigglypuff",
     "shape": "un paio di ali",
     "specie": "Pokémon Pallone",
     "sprites": {
         "jigglypuff": {
             "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0039.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8e/Homemsh0039.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8e/Homemsh0039.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/da/Artwork0039_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b5/Artwork0039_RFVF.png"
     },
     "stats": {
         "jigglypuff": {

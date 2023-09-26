@@ -24,6 +24,7 @@
     "egg_groups": [
         "Drago"
     ],
+    "flat_name": "jangmo-o",
     "generation": 7,
     "height": {
         "jangmo-o": "0,6 m"
@@ -32,13 +33,16 @@
     "name": "Jangmo-o",
     "name_origin": "Jangmo-o potrebbe derivare da jangling, tintinnio, e da mo'o, lucertola o drago in hawaiano. Jarako potrebbe essere una combinazione di ジャラジャラ jarajara, suono onomatopeico del tintinnio, di draco, latino per drago, e probabilmente di 子 ko, giovane animale. ",
     "origin": "Jangmo-o sembra essere basato su un Anchilosauro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Jangmo-o",
     "shape": "più di 4 arti",
     "specie": "Pokémon Squama",
     "sprites": {
         "jangmo-o": {
             "default": "https://media.pokemoncentral.it/wiki/e/e1/Homem0782.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6c/Homemsh0782.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6c/Homemsh0782.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/19/Artwork0782_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f2/Artwork0782_SL.png"
     },
     "stats": {
         "jangmo-o": {

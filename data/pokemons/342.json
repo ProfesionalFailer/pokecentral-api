@@ -47,6 +47,7 @@
         "Acqua 1",
         "Acqua 3"
     ],
+    "flat_name": "crawdaunt",
     "generation": 3,
     "height": {
         "crawdaunt": "1,10 m"
@@ -55,13 +56,16 @@
     "name": "Crawdaunt",
     "name_origin": "Deriva dalle parole crawdad  e daunt . ",
     "origin": "È probabilmente basato sul gambero rosso Procambarus clarkii e il suo aspetto ricorda un astice. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Crawdaunt",
     "shape": "testa e braccia",
     "specie": "Pokémon Canaglia",
     "sprites": {
         "crawdaunt": {
             "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0342.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0342.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0342.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/20/Artwork0342_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0342_RZ.png"
     },
     "stats": {
         "crawdaunt": {
@@ -78,8 +82,8 @@
     },
     "types": {
         "crawdaunt": [
-            "Buio",
-            "Acqua"
+            "Acqua",
+            "Buio"
         ]
     },
     "weight": {

@@ -23,6 +23,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "incineroar",
     "generation": 7,
     "height": {
         "incineroar": "1,8 m"
@@ -31,13 +32,16 @@
     "name": "Incineroar",
     "name_origin": "Incineroar potrebbe essere una combinazione di incinerate, bruciare, e roar, ruggito. Gaogaen potrebbe essere una combinazione di ガオー gao, onomatopea del ruggito, e 火炎 kaen, fiamma. ",
     "origin": "Incineroar potrebbe essere ispirato su una tigre, un lottatore, in particolare ad un Heel. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Incineroar",
     "shape": "due paia di ali",
     "specie": "Pokémon Colpibassi",
     "sprites": {
         "incineroar": {
             "default": "https://media.pokemoncentral.it/wiki/3/3f/Homem0727.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/23/Homemsh0727.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/23/Homemsh0727.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a4/Artwork0727_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1a/Artwork0727_SL.png"
     },
     "stats": {
         "incineroar": {
@@ -54,8 +58,8 @@
     },
     "types": {
         "incineroar": [
-            "Buio",
-            "Fuoco"
+            "Fuoco",
+            "Buio"
         ]
     },
     "weight": {

@@ -25,6 +25,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "mareanie",
     "generation": 7,
     "height": {
         "mareanie": "0,4 m"
@@ -33,13 +34,16 @@
     "name": "Mareanie",
     "name_origin": "Mareanie può essere la combinazione di marine  e meanie . Hidoiede può essere la combinazione di 酷い hidoi  e 海星 hitode . ",
     "origin": "Mareanie è basato su una stella corona di spine, una stella marina velenosa che si nutre di coralli. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mareanie",
     "shape": "quadrupede",
     "specie": "Pokémon Stellatroce",
     "sprites": {
         "mareanie": {
             "default": "https://media.pokemoncentral.it/wiki/5/5a/Homem0747.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/ad/Homemsh0747.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ad/Homemsh0747.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f5/Artwork0747_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0747_SL.png"
     },
     "stats": {
         "mareanie": {

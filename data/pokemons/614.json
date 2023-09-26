@@ -29,6 +29,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "beartic",
     "generation": 5,
     "height": {
         "beartic": "2,6 m"
@@ -37,13 +38,16 @@
     "name": "Beartic",
     "name_origin": "Beartic deriva da bear, orso, o anche beard, barba, e arctic, artico . ",
     "origin": "Beartic è ispirato chiaramente a un orso polare. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Beartic",
     "shape": "più di 4 arti",
     "specie": "Pokémon Glaciale",
     "sprites": {
         "beartic": {
             "default": "https://media.pokemoncentral.it/wiki/9/90/Homem0614.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e6/Homemsh0614.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e6/Homemsh0614.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4b/Artwork0614_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ad/Artwork0614_NB.png"
     },
     "stats": {
         "beartic": {

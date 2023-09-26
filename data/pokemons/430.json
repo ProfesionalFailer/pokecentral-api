@@ -41,6 +41,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "honchkrow",
     "generation": 4,
     "height": {
         "honchkrow": "0,9 m"
@@ -49,13 +50,16 @@
     "name": "Honchkrow",
     "name_origin": "Il suo nome deriva dalla parola spagnola \"honcho\"  e dalla parola inglese \"crow\" . ",
     "origin": "Honchkrow è basato sui corvi, soprattutto sulle cornacchie grigie. Nonostante Murkrow assomigli più alle streghe, Honchkrow sembra un boss criminale, dando una nuova interpretazione a Murkrow come membro criminale: la sua cresta infatti ricorda vagamente un Borsalino, cappello spesso associato ai mafiosi. La sua coda invece, come la pre-evoluzione, ha un'aspetto simile ad una scopa e porta anche una barba bianca, tutto ciò lo rende vagamente simile anche ad un mago o uno stregone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Honchkrow",
     "shape": "testa e base",
     "specie": "Pokémon Grancapo",
     "sprites": {
         "honchkrow": {
             "default": "https://media.pokemoncentral.it/wiki/6/62/Homem0430.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1c/Homemsh0430.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1c/Homemsh0430.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/dd/Artwork0430_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/20/Artwork0430_DP.png"
     },
     "stats": {
         "honchkrow": {
@@ -72,8 +76,8 @@
     },
     "types": {
         "honchkrow": [
-            "Buio",
-            "Volante"
+            "Volante",
+            "Buio"
         ]
     },
     "weight": {

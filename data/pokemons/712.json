@@ -29,6 +29,7 @@
         "Minerale",
         "VIII"
     ],
+    "flat_name": "bergmite",
     "generation": 6,
     "height": {
         "bergmite": "1,0 m"
@@ -37,13 +38,16 @@
     "name": "Bergmite",
     "name_origin": "Bergmite è una combinazione tra iceberg, mite  e probabilmente stalagmite. Kachikōru è una combinazione tra かちかち kachikachi , 凍る kooru  e コールド cold . ",
     "origin": "Bergmite è basato su un iceberg o su una stalagmite. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bergmite",
     "shape": "più di 4 arti",
     "specie": "Pokémon Ghiacciolo",
     "sprites": {
         "bergmite": {
             "default": "https://media.pokemoncentral.it/wiki/5/58/Homem0712.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c1/Homemsh0712.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c1/Homemsh0712.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2a/Artwork0712_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/08/Artwork0712_XY.png"
     },
     "stats": {
         "bergmite": {

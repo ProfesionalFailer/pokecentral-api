@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "zorua": {
             "primary": "Illusione"
         }
     },
@@ -34,6 +34,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "zorua",
     "generation": 5,
     "height": {
         "zorua": "0,7 m"
@@ -42,13 +43,16 @@
     "name": "Zorua",
     "name_origin": "Il suo nome deriva dalla parola spagnola zorro  e dall'irlandese rua , ad indicare sia le striature del suo manto sia la volpe, madra rua. ",
     "origin": "Zorua è basato su un cucciolo di volpe, i cui disegni sul viso ricordano il trucco teatrale Kabuki o Nō, il fatto che Zorua mantenga la coda quando si trasforma in umano ricorda il mito del Kitsune, volpe mitologica giapponese mutaforma che ha difficoltà a nascondere la coda quando si trasforma in umano. Potrebbe anche essere basato su un ninja per il fatto che usa le illusioni contro i nemici; infatti i ninja praticano il genjutsu . ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zorua",
     "shape": "più di 4 arti",
     "specie": "Pokémon Malavolpe",
     "sprites": {
         "zorua": {
             "default": "https://media.pokemoncentral.it/wiki/1/1d/Homem0570.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0570.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0570.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b3/Artwork0570_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cb/Artwork0570_NB.png"
     },
     "stats": {
         "zorua": {
@@ -77,8 +81,8 @@
             "Buio"
         ],
         "forma-di-hisui": [
-            "Spettro",
-            "Normale"
+            "Normale",
+            "Spettro"
         ]
     },
     "weight": {

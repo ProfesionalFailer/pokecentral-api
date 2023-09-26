@@ -40,6 +40,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "spoink",
     "generation": 3,
     "height": {
         "spoink": "0,70 m"
@@ -48,13 +49,16 @@
     "name": "Spoink",
     "name_origin": "Potrebbe derivare dall'unione della parola inglese spring  e oink . Potrebbe derivare anche dalla corruzione della parola boing . ",
     "origin": "Come l'evoluzione Grumpig, Spoink sembra essere un riferimento alla locuzione latina \"Margaritas ante porcos\", che significa \"perle ai porci\": l'espressione è un invito a non sprecare ciò che ha un valore, sia materiale che non, dandolo a chi non saprebbe apprezzarlo, per esempio dando proprio delle perle a dei maiali. Tuttavia Spoink e Grumpig sono dei maiali che non sprecano le perle, usandole per aumentare i propri poteri psichici. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spoink",
     "shape": "insettoide",
     "specie": "Pokémon Molla",
     "sprites": {
         "spoink": {
             "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0325.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0325.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0325.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c9/Artwork0325_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a7/Artwork0325_RZ.png"
     },
     "stats": {
         "spoink": {

@@ -30,6 +30,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "maschiff",
     "generation": 9,
     "height": {
         "maschiff": "0,5 m"
@@ -38,13 +39,16 @@
     "name": "Maschiff",
     "name_origin": "Maschiff potrebbe derivare da mafia, mastiff  e mischief . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Maschiff",
     "shape": "None",
     "specie": "Pokémon Rompicollo",
     "sprites": {
         "maschiff": {
             "default": "https://media.pokemoncentral.it/wiki/7/78/Homem0942.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/10/Homemsh0942.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/10/Homemsh0942.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ee"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f7/Artwork0942_SV.png"
     },
     "stats": {
         "maschiff": {

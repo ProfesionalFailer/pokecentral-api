@@ -30,6 +30,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "rabsca",
     "generation": 9,
     "height": {
         "rabsca": "0,3 m"
@@ -38,13 +39,16 @@
     "name": "Rabsca",
     "name_origin": "Rabsca potrebbe essere un riordinamento di scarab . Potrebbe anche derivare da rapscallion . Berakasu potrebbe essere スカラベ sukarabe  al contrario. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rabsca",
     "shape": "None",
     "specie": "Pokémon Rotolatore",
     "sprites": {
         "rabsca": {
             "default": "https://media.pokemoncentral.it/wiki/5/50/Homem0954.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0954.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0954.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/33"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b2/Artwork0954_SV.png"
     },
     "stats": {
         "rabsca": {

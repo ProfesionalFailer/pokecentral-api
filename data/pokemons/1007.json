@@ -1,59 +1,64 @@
 {
     "abilities": {
-        "miraidon": {
-            "primary": "Motore Adronico"
+        "koraidon": {
+            "primary": "Ritmo d'Oricalco"
         }
     },
     "curiosities": [
-        "È stato annunciato il 1° giugno 2022 insieme a Lechonk, Pawmi, Smoliv e Koraidon.",
-        "Ha una V sulla schiena, cosa che allude al fatto che questo Pokémon è la mascotte di Pokémon Violetto."
+        "È stato annunciato il 1° giugno 2022 insieme a Lechonk, Pawmi, Smoliv e Miraidon."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/miraidon.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/koraidon.mp3",
     "dex_entries": {
-        "miraidon": {
-            "scarlet": "Per lo più ancora sconosciuto, presenta similitudini con Cyclizar, ma è notevolmente più forte e spietato.",
-            "violet": "Sembra che sia il Serpeferrea di cui si parla in un vecchio libro. Si dice che con i suoi fulmini abbia tramutato la terra in cenere."
+        "koraidon": {
+            "scarlet": "Sembra si tratti del Realato che, stando a un antico diario di viaggio, scisse la terra con i suoi pugni.",
+            "violet": "Assomiglia a Cyclizar, ma è molto più vigoroso e notevolmente più feroce. Non si sa nulla del suo habitat o di altre sue caratteristiche."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "koraidon",
     "generation": 9,
     "height": {
-        "miraidon": "3,5 m"
+        "koraidon": "2,5 m"
     },
     "id": 1007,
-    "name": "Miraidon",
-    "name_origin": "Miraidon potrebbe essere una combinazione di 未来 mirai, futuro, e -don, suffisso di origine greca comunemente utilizzato nei nomi dei dinosauri. ",
-    "origin": "Miraidon potrebbe essere basato su un drago cinese robotico. ",
-    "shape": "sconosciuto",
+    "name": "Koraidon",
+    "name_origin": "Koraidon potrebbe essere una combinazione di 古来 korai, antico, e -don, suffisso di origine greca comunemente utilizzato nei nomi dei dinosauri. ",
+    "origin": "\"Realato\" potrebbe essere una versione preistorica di Cyclizar. Koraidon potrebbe essere basato su un'iguana marina o un varano di Komodo. Alcuni elementi del suo design ricordano le parti di una motocicletta: le sue corna assomigliano ad un manubrio, la sporgenza sul collo e la parte nera alla base della coda ricordano degli pneumatici, mentre le piume posteriori rimandano ad un sellino di un chopper. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Koraidon",
+    "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
-        "miraidon": {
-            "default": "https://media.pokemoncentral.it/wiki/1/14/Homem1008.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh1008.png"
-        }
+        "koraidon": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2c/Homem1007.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homemsh1007.png"
+        },
+        "foggia-integrale": {
+            "corporate": "https://media.pokemoncentral.it/wiki/c/ce/Artwork1007_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a0/Artwork1007_SV.png"
     },
     "stats": {
-        "miraidon": {
+        "koraidon": {
             "hp": 100,
-            "atk": 85,
-            "def": 100,
-            "spa": 135,
-            "spd": 115,
+            "atk": 135,
+            "def": 115,
+            "spa": 85,
+            "spd": 100,
             "spe": 135
         }
     },
     "stats_sum": {
-        "miraidon": 670
+        "koraidon": 670
     },
     "types": {
-        "miraidon": [
-            "Elettro",
-            "Drago"
+        "koraidon": [
+            "Drago",
+            "Lotta"
         ]
     },
     "weight": {
-        "miraidon": "240,0 kg"
+        "koraidon": "303,0 kg"
     }
 }

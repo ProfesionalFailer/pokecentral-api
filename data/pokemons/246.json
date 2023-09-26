@@ -46,6 +46,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "larvitar",
     "generation": 2,
     "height": {
         "larvitar": "0,6 m"
@@ -53,14 +54,17 @@
     "id": 246,
     "name": "Larvitar",
     "name_origin": "Il suo nome deriva dalla parola \"Larva\". ",
-    "origin": "Larvitar ha svariate somiglianze con i dinosauri. Il fatto che lui si nutra delle montagne fanno ricordare la leggenda del Tarasco. ",
+    "origin": "Larvitar ha svariate somiglianze con i dinosauri. Il fatto che si nutra delle montagne, ricorda la leggenda della Tarasca. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Larvitar",
     "shape": "due paia di ali",
     "specie": "Pokémon Peldisasso",
     "sprites": {
         "larvitar": {
             "default": "https://media.pokemoncentral.it/wiki/7/7b/Homem0246.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0246.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0246.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3a/Artwork0246_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/09/Artwork0246_HGSS.png"
     },
     "stats": {
         "larvitar": {

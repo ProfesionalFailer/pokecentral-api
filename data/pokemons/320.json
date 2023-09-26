@@ -44,6 +44,7 @@
         "Campo",
         "Acqua 2"
     ],
+    "flat_name": "wailmer",
     "generation": 3,
     "height": {
         "wailmer": "2,0 m"
@@ -52,13 +53,16 @@
     "name": "Wailmer",
     "name_origin": "Wailmer può essere una combinazione dell'inglese whale, balena, o wail, lamento, che può riferirsi anche ai suoni o ai versi che le balene o gli Wailmer possono produrre, e del francese mer, mare. ",
     "origin": "Wailmer si basa su una balena con gli aspetti di un pallone da spiaggia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wailmer",
     "shape": "pinne",
     "specie": "Pokémon Balenottero",
     "sprites": {
         "wailmer": {
             "default": "https://media.pokemoncentral.it/wiki/4/4e/Homem0320.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ed/Homemsh0320.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ed/Homemsh0320.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d0/Artwork0320_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f1/Artwork0320_RZ.png"
     },
     "stats": {
         "wailmer": {

@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "flabébé": {
+        "flabebe": {
             "primary": "Fiorvelo",
             "hidden": "Simbiosi"
         }
@@ -15,7 +15,7 @@
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/flabébé.mp3",
     "dex_entries": {
-        "flabébé": {
+        "flabebe": {
             "x": "È in grado di controllare a piacimento la forza nascosta dei fiori. Il fiore a cui si aggrappa fa parte del suo stesso corpo.",
             "y": "Una volta trovato un fiore di suo gradimento, rimane in simbiosi con esso per tutta la vita. Va in giro lasciandosi trasportare dal vento.",
             "omega-ruby": "È in grado di controllare a piacimento la forza nascosta dei fiori. Il fiore a cui si aggrappa fa parte del suo stesso corpo.",
@@ -47,14 +47,16 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "flabebe",
     "generation": 6,
     "height": {
-        "flabébé": "0,1 m"
+        "flabebe": "0,1 m"
     },
     "id": 669,
     "name": "Flabébé",
     "name_origin": "Flabébé è una combinazione tra flower, fiore, e bébé, francese per bambino. Furabebe è una combinazione tra フラワー Furawā, fiore, e bébé. ",
     "origin": "Flabébé sembra essere basato su una fata e una ninfa, in particolare Anthea, per via del suo fiore e della \"corona\" sulla sua testa, così come eventualmente Clori. Potrebbe essere stato ispirato anche al concetto di impollinazione degli insetti, considerando la sua piccola statura e il fatto che colga l'organo femminile del fiore, lo stigma. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Flabébé",
     "shape": "insettoide",
     "specie": "Pokémon Monofiore",
     "sprites": {
@@ -77,10 +79,14 @@
         "fiore-bianco": {
             "default": "https://media.pokemoncentral.it/wiki/c/cc/Homef0669Bi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homefsh0669Bi.png"
-        }
+        },
+        "flabebe": {
+            "corporate": "https://media.pokemoncentral.it/wiki/b/be/Artwork0669Bi_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b2/Artwork0669_XY.png"
     },
     "stats": {
-        "flabébé": {
+        "flabebe": {
             "hp": 44,
             "atk": 38,
             "def": 39,
@@ -90,14 +96,14 @@
         }
     },
     "stats_sum": {
-        "flabébé": 303
+        "flabebe": 303
     },
     "types": {
-        "flabébé": [
+        "flabebe": [
             "Folletto"
         ]
     },
     "weight": {
-        "flabébé": "0,1 kg"
+        "flabebe": "0,1 kg"
     }
 }

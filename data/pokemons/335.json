@@ -42,6 +42,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "zangoose",
     "generation": 3,
     "height": {
         "zangoose": "1,3 m"
@@ -50,13 +51,16 @@
     "name": "Zangoose",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole giapponesi 刪 san, taglio, 残痕 zankon, cicatrice, e la parola inglese mongoose, mangusta. Potrebbe anche includere il termine portoghese zangado, arrabbiato. ",
     "origin": "Il suo aspetto ricorda quello di una mangusta. In particolare la mangusta egiziana è in grado di nutrirsi di vipere; questo spiega la rivalità del Pokémon nei confronti di Seviper. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zangoose",
     "shape": "due paia di ali",
     "specie": "Pokémon Furogatto",
     "sprites": {
         "zangoose": {
             "default": "https://media.pokemoncentral.it/wiki/c/ce/Homem0335.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/55/Homemsh0335.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/55/Homemsh0335.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/58/Artwork0335_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/54/Artwork0335_RZ.png"
     },
     "stats": {
         "zangoose": {

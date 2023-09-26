@@ -33,6 +33,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "glameow",
     "generation": 4,
     "height": {
         "glameow": "0,5 m"
@@ -41,13 +42,16 @@
     "name": "Glameow",
     "name_origin": "Il nome di Glameow probabilmente deriva da glamorous  e meow . Il suo nome giapponese, Nyarmar, deriva dalla parola にゃあ nyā , e da glamour . ",
     "origin": "Glameow si basa su un normale gatto addomesticato. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Glameow",
     "shape": "più di 4 arti",
     "specie": "Pokémon Felide",
     "sprites": {
         "glameow": {
             "default": "https://media.pokemoncentral.it/wiki/f/fe/Homem0431.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a2/Homemsh0431.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a2/Homemsh0431.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0431_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b0/Artwork0431_DP.png"
     },
     "stats": {
         "glameow": {

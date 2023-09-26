@@ -6,7 +6,7 @@
         }
     },
     "curiosities": [
-        "È il Pokémon di sesta generazione non leggendario più alto, con i suoi 270 cm. È subito seguito da Tyrantrum, che misura 250 cm.",
+        "È il Pokémon di sesta generazione non leggendario più alto, con i suoi 2,7 m. È subito seguito da Tyrantrum, che misura 2,5 cm.",
         "Aurorus ha la più alta statistica base di Punti Salute fra tutti i Pokémon di tipo Roccia."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/aurorus.mp3",
@@ -25,6 +25,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "aurorus",
     "generation": 6,
     "height": {
         "aurorus": "2,7 m"
@@ -32,14 +33,17 @@
     "id": 699,
     "name": "Aurorus",
     "name_origin": "Aurorus è una combinazione tra aurora e Amargasaurus. Amaruruga deriva da Amargasaurus. ",
-    "origin": "Probabilmente è basato su un Diplodocus e le creste rappresentano l'aurora boreale, fenomeno che appare solo in paesi molto freddi, il che si va a collegare con il tipo ghiaccio del Pokémon. ",
+    "origin": "Probabilmente è basato su un Diplodocus e le creste rappresentano l'aurora boreale, fenomeno che appare solo in paesi molto freddi, il che si va a collegare con il tipo Ghiaccio del Pokémon. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Aurorus",
     "shape": "più di 4 arti",
     "specie": "Pokémon Tundra",
     "sprites": {
         "aurorus": {
             "default": "https://media.pokemoncentral.it/wiki/0/02/Homem0699.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0699.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0699.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6e/Artwork0699_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/67/Artwork0699_XY.png"
     },
     "stats": {
         "aurorus": {
@@ -56,8 +60,8 @@
     },
     "types": {
         "aurorus": [
-            "Roccia",
-            "Ghiaccio"
+            "Ghiaccio",
+            "Roccia"
         ]
     },
     "weight": {

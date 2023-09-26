@@ -39,6 +39,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "donphan",
     "generation": 2,
     "height": {
         "donphan": "1,1 m"
@@ -47,17 +48,20 @@
     "name": "Donphan",
     "name_origin": "È una combinazione di don  e elephant . Potrebbe inoltre derivare da mastodon . ",
     "origin": "È chiaramente basato su un elefante, probabilmente sull'Elephas maximus borneensis, più comodamente chiamato elefante del Borneo. L'armatura è ispirata ad un elefante da guerra, ovverosia ad elefanti che venivano addestrati per mano degli uomini e successivamente usati in battaglia. Inoltre, la corazza che ha sul dorso, si ispira ad uno pneumatico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Donphan",
     "shape": "più di 4 arti",
     "specie": "Pokémon Armatura",
     "sprites": {
-        "": {
+        "donphan": {
             "default": "https://media.pokemoncentral.it/wiki/f/fb/Homem0232.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0232.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0232.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/48/Artwork0232_Corp.png"
         },
-        "-f": {
+        "donphan-f": {
             "default": "https://media.pokemoncentral.it/wiki/5/55/Homef0232.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/13/Homefsh0232.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b1/Artwork0232_RFVF.png"
     },
     "stats": {
         "donphan": {

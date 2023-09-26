@@ -37,6 +37,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "piplup",
     "generation": 4,
     "height": {
         "piplup": "0,4 m"
@@ -45,13 +46,16 @@
     "name": "Piplup",
     "name_origin": "Deriva dalle parole pip  e l'onomatopea plop o plup . ",
     "origin": "Basato su un pinguino minore blu. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Piplup",
     "shape": "un paio di ali",
     "specie": "Pokémon Pinguino",
     "sprites": {
         "piplup": {
             "default": "https://media.pokemoncentral.it/wiki/d/d6/Homem0393.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0393.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0393.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/89/Artwork0393_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/90/Artwork0393_DLPS.png"
     },
     "stats": {
         "piplup": {

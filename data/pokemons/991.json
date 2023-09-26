@@ -1,58 +1,63 @@
 {
     "abilities": {
-        "manoferrea": {
+        "saccoferreo": {
             "primary": "Carica Quark"
         }
     },
     "curiosities": [
-        "Pawmo, Pawmot e Manoferrea sono i primi Pokémon con la combinazione di tipi Elettro/Lotta."
+        "Saccoferreo è, a pari merito con Barraskewda, il Pokémon di tipo Acqua con la Velocità più alta.",
+        "Ha inoltre la Velocità più alta fra tutti i Pokémon di tipo Ghiaccio e fra tutti i Pokémon Paradosso."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/manoferrea.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/saccoferreo.mp3",
     "dex_entries": {
-        "manoferrea": {
-            "scarlet": "Il suo aspetto è simile a quello di un atleta che, stando allo scoop di una rivista di paranormale, sarebbe stato trasformato in un cyborg.",
-            "violet": "Ha molti aspetti in comune con Manoferrea, un oggetto menzionato in un certo diario di viaggio."
+        "saccoferreo": {
+            "scarlet": "La sua forma ricorda quella di un robot descritto in un articolo di una rivista di paranormale come il prodotto di un'antica civiltà.",
+            "violet": "Un Pokémon simile a un oggetto misterioso menzionato in un antico documento. È stato avvistato due sole volte in passato."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "saccoferreo",
     "generation": 9,
     "height": {
-        "manoferrea": "1,8 m"
+        "saccoferreo": "0,6 m"
     },
     "id": 991,
-    "name": "Manoferrea",
-    "name_origin": "Il nome italiano non significa altro che \"mano ferrea\".\nIl nome inglese \"Iron Hands\" significa \"mani di ferro.\" ",
-    "origin": "",
+    "name": "Saccoferreo",
+    "name_origin": "Il suo nome è semplicemente l'accostamento delle parole italiane sacco e ferreo. Il nome inglese Iron Bundle significa letteralmente sacco di ferro. ",
+    "origin": "Saccoferreo è basato su Delibird. La sua testa estensibile potrebbe essere basata sui jack-in-the-box o a giocattoli simili. La sfera che si trova alla sua coda potrebbe essere ispirata ai globi di neve, e i suoi piedi potrebbero essere ispirati agli sci d'acqua. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Saccoferreo",
     "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
-        "manoferrea": {
-            "default": "https://media.pokemoncentral.it/wiki/7/7a/Homem0992.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a7/Homemsh0992.png"
-        }
+        "saccoferreo": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7c/Homem0991.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0991.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3c"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/67/Artwork0991_SV.png"
     },
     "stats": {
-        "manoferrea": {
-            "hp": 154,
-            "atk": 140,
-            "def": 108,
-            "spa": 50,
-            "spd": 68,
-            "spe": 50
+        "saccoferreo": {
+            "hp": 56,
+            "atk": 80,
+            "def": 114,
+            "spa": 124,
+            "spd": 60,
+            "spe": 136
         }
     },
     "stats_sum": {
-        "manoferrea": 570
+        "saccoferreo": 570
     },
     "types": {
-        "manoferrea": [
-            "Elettro",
-            "Lotta"
+        "saccoferreo": [
+            "Ghiaccio",
+            "Acqua"
         ]
     },
     "weight": {
-        "manoferrea": "380,7 kg"
+        "saccoferreo": "11,0 kg"
     }
 }

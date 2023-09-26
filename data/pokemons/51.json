@@ -76,6 +76,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "dugtrio",
     "generation": 1,
     "height": {
         "dugtrio": "0,7 m"
@@ -84,17 +85,21 @@
     "name": "Dugtrio",
     "name_origin": "Dugtrio è una combinazione del verbo inglese dug  e trio. ",
     "origin": "Diglett sembra molto simile alle talpe artificiali usate in Acchiappa la talpa.\nLa forma di Alola potrebbe basarsi inoltre sui cosiddetti \"capelli di Pele\", un tipo di vetro vulcanico caratteristico dei vulcani hawaiani. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dugtrio",
     "shape": "bipedi",
     "specie": "Pokémon Talpa",
     "sprites": {
         "dugtrio": {
             "default": "https://media.pokemoncentral.it/wiki/0/09/Homem0051.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0e/Homemsh0051.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0e/Homemsh0051.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d8/Artwork0051_Corp.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/6/67/Homem0051A.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0051A.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0051A.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bc/Artwork0051A_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5c/Artwork0051_RFVF.png"
     },
     "stats": {
         "dugtrio": {
@@ -123,8 +128,8 @@
             "Terra"
         ],
         "forma-di-alola": [
-            "Acciaio",
-            "Terra"
+            "Terra",
+            "Acciaio"
         ]
     },
     "weight": {

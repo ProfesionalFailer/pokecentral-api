@@ -34,6 +34,7 @@
         "Coleottero",
         "Acqua 3"
     ],
+    "flat_name": "golisopod",
     "generation": 7,
     "height": {
         "golisopod": "2,0 m"
@@ -42,13 +43,16 @@
     "name": "Golisopod",
     "name_origin": "Golisopod potrebbe derivare da Goliath ed isopode. Gusokumusha può essere una combinazione di 大王具足虫 daiō-gusokumushi, isopode gigante, 具足 gusoku, completamente attrezzata, e 武者 musha, guerriero. ",
     "origin": "Golisopod potrebbe essere basato su di un isopode gigante e sull'armatura di un samurai. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Golisopod",
     "shape": "un paio di ali",
     "specie": "Pokémon Blindato",
     "sprites": {
         "golisopod": {
             "default": "https://media.pokemoncentral.it/wiki/5/5d/Homem0768.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f4/Homemsh0768.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f4/Homemsh0768.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/89/Artwork0768_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/31/Artwork0768_SL.png"
     },
     "stats": {
         "golisopod": {

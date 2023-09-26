@@ -48,6 +48,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "floette",
     "generation": 6,
     "height": {
         "floette": "0,2 m"
@@ -56,6 +57,7 @@
     "name": "Floette",
     "name_origin": "Il suo nome deriva dall'unione delle parole francesi flore  e fleurette . ",
     "origin": "Floette è basato su una fata o su una ninfa. Potrebbe essere ispirato alle figure delle Cariti o di Flora. Il suo aspetto ricorda una creatura dotata di parasole. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Floette",
     "shape": "insettoide",
     "specie": "Pokémon Monofiore",
     "sprites": {
@@ -78,7 +80,11 @@
         "fiore-bianco": {
             "default": "https://media.pokemoncentral.it/wiki/6/68/Homef0670Bi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homefsh0670Bi.png"
-        }
+        },
+        "floette": {
+            "corporate": "https://media.pokemoncentral.it/wiki/4/48/Artwork0670Bi_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/be/Artwork0670_XY.png"
     },
     "stats": {
         "floette": {

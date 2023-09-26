@@ -61,6 +61,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "articuno",
     "generation": 1,
     "height": {
         "articuno": "1,7 m",
@@ -70,17 +71,20 @@
     "name": "Articuno",
     "name_origin": "La parola Articuno è composta dalle parole artic, le regioni nordiche del globo, ed uno, che indica il primo dei tre uccelli leggendari della regione di Kanto.\nIl suo nome giapponese è Freezer, dato dalla sua capacità di congelare gli esseri viventi e gli oggetti attorno a lui. ",
     "origin": "Le sembianze di questo Pokémon sono basate sulla mitologia persiana del Roc, un enorme uccello artico.\nLa sua lunga coda ed il piccolo corpo potrebbero essere state prese come spunto dal Quetzal, un volatile molto raro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Articuno",
     "shape": "testa e base",
     "specie": "Pokémon Gelo",
     "sprites": {
         "articuno": {
             "default": "https://media.pokemoncentral.it/wiki/0/00/Homem0144.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2b/Homemsh0144.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2b/Homemsh0144.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/13/Artwork_Uccelli_leggendari_Corp.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/1/1a/Homem0144G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/f/f5/Homemsh0144G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e6/Artwork0144_RFVF.png"
     },
     "stats": {
         "articuno": {

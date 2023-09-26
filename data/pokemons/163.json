@@ -46,6 +46,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "hoothoot",
     "generation": 2,
     "height": {
         "hoothoot": "0,7 m"
@@ -54,13 +55,16 @@
     "name": "Hoothoot",
     "name_origin": "Il nome Hoothoot è un suono onomatopeico del verso della civetta. ",
     "origin": "Sembra essere basato sulla combinazione di una civetta e di un orologio, visto che le sue sopracciglia hanno la forma delle lancette delle ore e dei minuti di un orologio; in aggiunta, ha l'abilità di tenere traccia del tempo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hoothoot",
     "shape": "testa e base",
     "specie": "Pokémon Gufo",
     "sprites": {
         "hoothoot": {
             "default": "https://media.pokemoncentral.it/wiki/5/50/Homem0163.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e4/Homemsh0163.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e4/Homemsh0163.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/49/Artwork0163_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a5/Artwork0163_RFVF.png"
     },
     "stats": {
         "hoothoot": {
@@ -77,8 +81,8 @@
     },
     "types": {
         "hoothoot": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

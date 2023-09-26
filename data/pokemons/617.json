@@ -28,6 +28,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "accelgor",
     "generation": 5,
     "height": {
         "accelgor": "0,8 m"
@@ -36,13 +37,16 @@
     "name": "Accelgor",
     "name_origin": "Il nome potrebbe derivare dalle parola inglese accelerate  e shell , unite alla corruzione della parola francese escargot . ",
     "origin": "Accelgor è basato su un ninja e probabilmente un verme tubo gigante, oltre che su un motociclista o un corridore di stock car o di dragster. Il suo copricapo si basa sul guscio di una chiocciola e su un casco. il corpo ricorda il bozzolo delle farfalle psychidae. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Accelgor",
     "shape": "insettoide",
     "specie": "Pokémon Sgusciato",
     "sprites": {
         "accelgor": {
             "default": "https://media.pokemoncentral.it/wiki/4/4f/Homem0617.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/96/Homemsh0617.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/96/Homemsh0617.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/92/Artwork0617_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c4/Artwork0617_NB.png"
     },
     "stats": {
         "accelgor": {

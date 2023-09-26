@@ -30,6 +30,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "mabosstiff",
     "generation": 9,
     "height": {
         "mabosstiff": "1,1 m"
@@ -38,13 +39,16 @@
     "name": "Mabosstiff",
     "name_origin": "Mabosstiff potrebbe derivare da mafia, mastiff  e boss. Mafitifu potrebbe essere una combinazione di mafia e mastiff. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mabosstiff",
     "shape": "None",
     "specie": "Pokémon Boss",
     "sprites": {
         "mabosstiff": {
             "default": "https://media.pokemoncentral.it/wiki/4/45/Homem0943.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f0/Homemsh0943.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f0/Homemsh0943.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3a"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e0/Artwork0943_SV.png"
     },
     "stats": {
         "mabosstiff": {

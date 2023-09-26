@@ -40,21 +40,25 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "slugma",
     "generation": 2,
     "height": {
         "slugma": "0,7 m"
     },
     "id": 218,
     "name": "Slugma",
-    "name_origin": "Il suo nome deriva dalla parola \"slug\"  e \"magma\" .",
+    "name_origin": "Il suo nome deriva dalla parola \"slug\"  e \"magma\" . ",
     "origin": "Slugma è ispirato a una lumaca con il corpo di lava, potrebbe essere basato anche sul Cherufe, malvagia creatura di magma e roccia che secondo i miti vive nelle profonde pozze di magma nei vulcani del Cile. La versione cromatica potrebbe essere basata su uno Slugma raffreddato per questo ha un colorito argentato, oppure fatto di solder, un metallo liquido estremamente caldo che si indurisce se raffreddato similmente al magma. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Slugma",
     "shape": "testa e gambe",
     "specie": "Pokémon Lava",
     "sprites": {
-        "  ": {
+        "slugma": {
             "default": "https://media.pokemoncentral.it/wiki/4/4d/Homem0218.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homemsh0218.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homemsh0218.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/46/Artwork0218_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f1/Artwork0218_HGSS.png"
     },
     "stats": {
         "slugma": {

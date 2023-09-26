@@ -55,6 +55,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "basculin",
     "generation": 5,
     "height": {
         "basculin": "1,0 m"
@@ -63,17 +64,21 @@
     "name": "Basculin",
     "name_origin": "Basculin potrebbe derivare dall'insieme della parola inglese bass, pesce persico, e masculine, maschile o mascolino. ",
     "origin": "È basato sul persico trota, pesce di origini nord-americane vorace ed aggressivo che tende a invadere altri territori e scacciare le altre specie. Alcuni tratti fisici comuni potrebbero ispirarsi al betta combattente, pesce che quando spaventato o si presta ad attaccare, mostra delle fasce colorate orizzontali, equiparabili alla Linearossa e Lineablu di Basculin. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Basculin",
     "shape": "pinne",
     "specie": "Pokémon Irruenza",
     "sprites": {
         "forma-linearossa": {
             "default": "https://media.pokemoncentral.it/wiki/5/51/Homem0550.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0550.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0550.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/46/Artwork0550_Corp.png"
         },
         "forma-lineablu": {
             "default": "https://media.pokemoncentral.it/wiki/9/94/Homem0550B.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0550B.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0550B.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/05/Artwork0550B_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/de/Artwork0550_NB.png"
     },
     "stats": {
         "basculin": {

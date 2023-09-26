@@ -31,6 +31,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "scolipede",
     "generation": 5,
     "height": {
         "scolipede": "2,5 m"
@@ -39,13 +40,16 @@
     "name": "Scolipede",
     "name_origin": "Scolipede potrebbe derivare dall'unione della parola centipede  o millipede  con la parola Scolopendra. Il suo nome giapponese, ペンドラー Pendror, deriva anch'esso da Scolopendra. ",
     "origin": "Scolipede è ispirato su una Scolopendra, come la scolopendra gigante, una specie di millepiedi velenoso originario del sud-est asiatico. Il suo aspetto ricorda anche quello di un millepiedi gigante africano, o dell'antica Arthropleura. Inoltre la postura di Scolipede,la forma del suo corpo, e il fatto che si regga su quattro zampe, fanno pensare che abbia tratto almeno in parte ispirazione dei centauri. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Scolipede",
     "shape": "testa e braccia",
     "specie": "Pokémon Megapede",
     "sprites": {
         "scolipede": {
             "default": "https://media.pokemoncentral.it/wiki/2/2b/Homem0545.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0545.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0545.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8b/Artwork0545_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/68/Artwork0545_NB.png"
     },
     "stats": {
         "scolipede": {
@@ -62,8 +66,8 @@
     },
     "types": {
         "scolipede": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {

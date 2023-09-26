@@ -39,6 +39,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "phanpy",
     "generation": 2,
     "height": {
         "phanpy": "0,5 m"
@@ -47,13 +48,16 @@
     "name": "Phanpy",
     "name_origin": "Deriva dalla parola elephant  seguito dal suffisso diminutivo -py, che idica qualcosa di piccolo o infantile. ",
     "origin": "Phanpy ricorda un cucciolo d'elefante. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Phanpy",
     "shape": "più di 4 arti",
     "specie": "Pokémon Nasone",
     "sprites": {
         "phanpy": {
             "default": "https://media.pokemoncentral.it/wiki/1/19/Homem0231.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0231.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0231.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/22/Artwork0231_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/62/Artwork0231_HGSS.png"
     },
     "stats": {
         "phanpy": {

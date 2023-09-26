@@ -30,6 +30,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "pidove",
     "generation": 5,
     "height": {
         "pidove": "0,3 m"
@@ -38,13 +39,16 @@
     "name": "Pidove",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi pigeon  e dove . ",
     "origin": "Pidove è basato sui piccioni e i colombi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pidove",
     "shape": "testa e base",
     "specie": "Pokémon Piccione",
     "sprites": {
         "pidove": {
             "default": "https://media.pokemoncentral.it/wiki/c/cd/Homem0519.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0519.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0519.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c4/Artwork0519_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/db/Artwork0519_NB.png"
     },
     "stats": {
         "pidove": {
@@ -61,8 +65,8 @@
     },
     "types": {
         "pidove": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

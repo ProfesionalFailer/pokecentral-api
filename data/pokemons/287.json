@@ -37,6 +37,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "slakoth",
     "generation": 3,
     "height": {
         "slakoth": "0,80 m"
@@ -45,13 +46,16 @@
     "name": "Slakoth",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi slack  e sloth . ",
     "origin": "È basato su un bradipo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Slakoth",
     "shape": "più di 4 arti",
     "specie": "Pokémon Ozioso",
     "sprites": {
         "slakoth": {
             "default": "https://media.pokemoncentral.it/wiki/6/66/Homem0287.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/18/Homemsh0287.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/18/Homemsh0287.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b2/Artwork0287_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/08/Artwork0287_RZ.png"
     },
     "stats": {
         "slakoth": {

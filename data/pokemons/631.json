@@ -29,6 +29,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "heatmor",
     "generation": 5,
     "height": {
         "heatmor": "1,4 m"
@@ -37,13 +38,16 @@
     "name": "Heatmor",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi heat  e mortar , oppure armor . Inoltre è un gioco di parole su eat more . ",
     "origin": "È basato su un formichiere, con elementi riconducibili a un lanciafiamme o una ferriera. I suoi polsi ricordano i filtri dell'aria, mentre la sua coda ricorda un silenziatore di un motore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Heatmor",
     "shape": "due paia di ali",
     "specie": "Pokémon Formichiere",
     "sprites": {
         "heatmor": {
             "default": "https://media.pokemoncentral.it/wiki/d/de/Homem0631.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c5/Homemsh0631.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c5/Homemsh0631.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/51/Artwork0631_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/82/Artwork0631_NB.png"
     },
     "stats": {
         "heatmor": {

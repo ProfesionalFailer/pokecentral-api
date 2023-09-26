@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "melmetal": {
             "primary": "Ferropugno"
         }
     },
@@ -27,6 +27,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "melmetal",
     "generation": 7,
     "height": {
         "melmetal": "2,5 m",
@@ -36,9 +37,15 @@
     "name": "Melmetal",
     "name_origin": "Melmetal potrebbe essere una combinazione di melt, fuso, e metal, metallo. ",
     "origin": "Melmetal è basato su un dado esagonale. Il suo corpo è basato sul mercurio, un metallo che a temperatura ambiente è liquido. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Melmetal",
     "shape": "un paio di ali",
     "specie": "Pokémon Bullone",
-    "sprites": {},
+    "sprites": {
+        "melmetal": {
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bd"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/27/Artwork0809_LGPE.png"
+    },
     "stats": {
         "melmetal": {
             "hp": 135,

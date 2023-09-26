@@ -35,6 +35,7 @@
         "Acqua 1",
         "Magico"
     ],
+    "flat_name": "manaphy",
     "generation": 4,
     "height": {
         "manaphy": "0,3 m"
@@ -43,13 +44,16 @@
     "name": "Manaphy",
     "name_origin": "Potrebbe derivare dall'unione dalla parola polinesiana mana  e dalla parola inglese fairy . Ha delle somiglianze anche con manatee . ",
     "origin": "Basato su un  gimnosomato, un tipo di lumaca di mare per lo più sconosciuto in occidente ma molto popolare in Giappone, curiosamente chiamato anche angelo di mare. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Manaphy",
     "shape": "un paio di ali",
     "specie": "Pokémon Oceandante",
     "sprites": {
         "manaphy": {
             "default": "https://media.pokemoncentral.it/wiki/8/8e/Homem0490.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0490.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0490.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1f/Artwork0490_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/72/Artwork0490_DP.png"
     },
     "stats": {
         "manaphy": {

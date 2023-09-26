@@ -32,6 +32,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "tinkatink",
     "generation": 9,
     "height": {
         "tinkatink": "0,4 m"
@@ -40,13 +41,16 @@
     "name": "Tinkatink",
     "name_origin": "Tinkatink potrebbe essere una combinazione di tinker  e pink . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tinkatink",
     "shape": "None",
     "specie": "Pokémon Forgiatore",
     "sprites": {
         "tinkatink": {
             "default": "https://media.pokemoncentral.it/wiki/b/b9/Homef0957.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homemsh0957.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homemsh0957.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3b"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cf/Artwork0957_SV.png"
     },
     "stats": {
         "tinkatink": {
@@ -63,8 +67,8 @@
     },
     "types": {
         "tinkatink": [
-            "Acciaio",
-            "Folletto"
+            "Folletto",
+            "Acciaio"
         ]
     },
     "weight": {

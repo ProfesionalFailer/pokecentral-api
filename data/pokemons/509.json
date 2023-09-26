@@ -28,6 +28,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "purrloin",
     "generation": 5,
     "height": {
         "purrloin": "0,4 m"
@@ -36,13 +37,16 @@
     "name": "Purrloin",
     "name_origin": "Il suo nome deriva da purr  e purloin . Il suo nome giapponese, チョロネコ Choroneko, deriva da ちょろまかす choromakasu  e 猫 neko . ",
     "origin": "Purrloin è basato su un gatto nero. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Purrloin",
     "shape": "più di 4 arti",
     "specie": "Pokémon Furbizia",
     "sprites": {
         "purrloin": {
             "default": "https://media.pokemoncentral.it/wiki/7/7f/Homem0509.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a4/Homemsh0509.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a4/Homemsh0509.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/13/Artwork0509_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/69/Artwork0509_NB.png"
     },
     "stats": {
         "purrloin": {

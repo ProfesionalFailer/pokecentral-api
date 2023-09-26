@@ -62,6 +62,7 @@
         "Acqua 1",
         "Acqua 3"
     ],
+    "flat_name": "corsola",
     "generation": 2,
     "height": {
         "corsola": "0,6 m"
@@ -70,17 +71,20 @@
     "name": "Corsola",
     "name_origin": "Il nome è la combinazione di \"Coral\"  e \"Sola\"  oppure da \"Solar\" . ",
     "origin": "È basato su un corallo, in particolare al corallo rosso, usato per creare pietre preziose. La sua Forma di Galar è basata su un corallo sbiancato, ossia un corallo che ha perso i suoi simbionti in seguito ad un aumento della temperatura dell'acqua in cui vive. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Corsola",
     "shape": "testa e braccia",
     "specie": "Pokémon Corallo",
     "sprites": {
         "corsola": {
             "default": "https://media.pokemoncentral.it/wiki/c/c6/Homem0222.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0222.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0222.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e3/Artwork0222_Corp.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/2/21/Homem0222G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0222G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b6/Artwork0222_HGSS.png"
     },
     "stats": {
         "corsola": {
@@ -106,8 +110,8 @@
     },
     "types": {
         "corsola": [
-            "Roccia",
-            "Acqua"
+            "Acqua",
+            "Roccia"
         ],
         "forma-di-galar": [
             "Spettro"

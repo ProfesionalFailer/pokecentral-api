@@ -30,6 +30,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "bramblin",
     "generation": 9,
     "height": {
         "bramblin": "0,6 m"
@@ -38,13 +39,16 @@
     "name": "Bramblin",
     "name_origin": "Bramblin potrebbe essere una combinazione di bramble  e ramblin' . ",
     "origin": "Bramblin è basato sui così detti rotolacampo, dei cespugli secchi tondeggianti che nei deserti rotolano in giro spinti dal vento. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bramblin",
     "shape": "None",
     "specie": "Pokémon Rotolerba",
     "sprites": {
         "bramblin": {
             "default": "https://media.pokemoncentral.it/wiki/c/ce/Homem0946.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0946.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0946.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/99"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e1/Artwork0946_SV.png"
     },
     "stats": {
         "bramblin": {

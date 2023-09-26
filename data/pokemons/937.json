@@ -18,6 +18,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "ceruledge",
     "generation": 9,
     "height": {
         "ceruledge": "1,6 m"
@@ -26,13 +27,16 @@
     "name": "Ceruledge",
     "name_origin": "Ceruledge potrebbe essere una combinazione di ceruleo  e edge, filo della lama. Soubureizu potrebbe essere una combinazione di 蒼 sou, blu, o soul, anima, e blaze, fiamma. ",
     "origin": "Ceruledge potrebbe essere basato su un akuma, uno spirito del fuoco maligno del folclore giapponese che viene solitamente rappresentato con una spada. Tuttavia, il suo aspetto è basato su un cavaliere europeo medievale piuttosto che su uno asiatico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ceruledge",
     "shape": "None",
     "specie": "Pokémon Spadaccigneo",
     "sprites": {
         "ceruledge": {
             "default": "https://media.pokemoncentral.it/wiki/e/e3/Homem0937.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homemsh0937.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homemsh0937.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/03/Artwork0937_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3f/Artwork0937_SV.png"
     },
     "stats": {
         "ceruledge": {
@@ -49,8 +53,8 @@
     },
     "types": {
         "ceruledge": [
-            "Spettro",
-            "Fuoco"
+            "Fuoco",
+            "Spettro"
         ]
     },
     "weight": {

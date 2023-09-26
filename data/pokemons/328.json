@@ -52,6 +52,7 @@
         "Drago",
         "VIII"
     ],
+    "flat_name": "trapinch",
     "generation": 3,
     "height": {
         "trapinch": "0,70 m"
@@ -60,13 +61,16 @@
     "name": "Trapinch",
     "name_origin": "Trapinch deriva dall'inglese \"trap\", \"trappola\" e \"pinch\", \"pinza\" riferendosi alle sue fauci. ",
     "origin": "È basato sulla larva di formica leone, la quale vive per la maggior parte del tempo nelle fosse di sabbia, prima di raggiungere lo stadio adulto in cui sviluppa le ali. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Trapinch",
     "shape": "testa e braccia",
     "specie": "Pokémon Trappola",
     "sprites": {
         "trapinch": {
             "default": "https://media.pokemoncentral.it/wiki/d/d1/Homem0328.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/78/Homemsh0328.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/78/Homemsh0328.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/21/Artwork0328_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/ff/Artwork0328_RZ.png"
     },
     "stats": {
         "trapinch": {

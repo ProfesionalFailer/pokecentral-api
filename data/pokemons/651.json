@@ -31,6 +31,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "quilladin",
     "generation": 6,
     "height": {
         "quilladin": "0,7 m"
@@ -39,13 +40,16 @@
     "name": "Quilladin",
     "name_origin": "Quilladin deriva dall'inglese quill  e paladin . ",
     "origin": "Come la sua pre-evoluzione, Quilladin è basato su uno scoiattolo striato del genere Tamias, più conosciuto come scoiattolo striato. Tuttavia, la somiglianza con un riccio di castagna già accennata in Chespin, qui si fa più evidente, con Quilladin che dopo l'evoluzione si fa più robusto e viene quasi totalmente ricoperto dal guscio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Quilladin",
     "shape": "due paia di ali",
     "specie": "Pokémon Spincorazza",
     "sprites": {
         "quilladin": {
             "default": "https://media.pokemoncentral.it/wiki/4/4c/Homem0651.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7d/Homemsh0651.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7d/Homemsh0651.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/76/Artwork0651_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/77/Artwork0651_XY.png"
     },
     "stats": {
         "statistiche-base": {

@@ -45,6 +45,7 @@
         "Campo",
         "Umanoide"
     ],
+    "flat_name": "spinda",
     "generation": 3,
     "height": {
         "spinda": "1,10 m"
@@ -53,13 +54,16 @@
     "name": "Spinda",
     "name_origin": "Il nome deriva dall'unione della parola inglese spin  con la parola panda. ",
     "origin": "Basato su un panda minore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spinda",
     "shape": "due paia di ali",
     "specie": "Pokémon Macchipanda",
     "sprites": {
         "spinda": {
             "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0327.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0327.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0327.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0e/Artwork0327_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/22/Artwork0327_RZ.png"
     },
     "stats": {
         "spinda": {

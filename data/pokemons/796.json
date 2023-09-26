@@ -23,6 +23,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "xurkitree",
     "generation": 7,
     "height": {
         "xurkitree": "3,8 m"
@@ -31,13 +32,16 @@
     "name": "Xurkitree",
     "name_origin": "Xurkitree può essere una combinazione di una corruzione di circuitry  e tree . Denjumoku può essere una combinazione di 電気 denki  o 電磁 denji  e jumoku . UC 03 Lumen è una combinazione tra UC, sigla di Ultracreatura, 03 e la parola latina Lumen , nome dell'unità di misura dell'intensità di una fonte luminosa. ",
     "origin": "Xurkitree sembrerebbe basato su un groviglio di cavi dell'alta tensione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Xurkitree",
     "shape": "due paia di ali",
     "specie": "Pokémon Luminaria",
     "sprites": {
         "xurkitree": {
             "default": "https://media.pokemoncentral.it/wiki/5/53/Homem0796.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d7/Homemsh0796.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d7/Homemsh0796.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bf/Artwork0796_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/39/Artwork0796_SL.png"
     },
     "stats": {
         "xurkitree": {

@@ -40,6 +40,7 @@
         "Mostro",
         "Acqua 1"
     ],
+    "flat_name": "totodile",
     "generation": 2,
     "height": {
         "totodile": "0,6 m"
@@ -48,13 +49,16 @@
     "name": "Totodile",
     "name_origin": "Il suo nome deriva dalle parole inglesi tot  e crocodile . ",
     "origin": "Totodile è basato su un cucciolo di coccodrillo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Totodile",
     "shape": "due paia di ali",
     "specie": "Pokémon Mascellone",
     "sprites": {
         "totodile": {
             "default": "https://media.pokemoncentral.it/wiki/a/a2/Homem0158.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0158.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0158.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4a/Artwork0158_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0158_HGSS.png"
     },
     "stats": {
         "totodile": {

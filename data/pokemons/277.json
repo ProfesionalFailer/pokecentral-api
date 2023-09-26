@@ -6,7 +6,7 @@
         }
     },
     "curiosities": [
-        "Escludendo la forma danza di Meloetta, Swellow è il Pokémon di tipo Normale più veloce, con una statistica Velocità base pari a 125. Rimane comunque il Pokémon non leggendario di tipo Normale più veloce."
+        "Escludendo la forma danza di Meloetta e Mega Lopunny, Swellow è il Pokémon di tipo Normale più veloce, con una statistica Velocità base pari a 125. Rimane comunque il Pokémon non leggendario di tipo Normale più veloce."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/swellow.mp3",
     "dex_entries": {
@@ -36,6 +36,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "swellow",
     "generation": 3,
     "height": {
         "swellow": "0,70 m"
@@ -44,13 +45,16 @@
     "name": "Swellow",
     "name_origin": "Il suo nome deriva molto probabilmente dalla parola inglese swallow . Potrebbe includere il termine swell . ",
     "origin": "Basato su una rondine o sul serpentario. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Swellow",
     "shape": "testa e base",
     "specie": "Pokémon Rondine",
     "sprites": {
         "swellow": {
             "default": "https://media.pokemoncentral.it/wiki/4/49/Homem0277.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ef/Homemsh0277.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ef/Homemsh0277.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cf/Artwork0277_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6b/Artwork0277_RZ.png"
     },
     "stats": {
         "swellow": {
@@ -67,8 +71,8 @@
     },
     "types": {
         "swellow": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

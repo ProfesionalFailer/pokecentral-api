@@ -32,6 +32,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "larvesta",
     "generation": 5,
     "height": {
         "larvesta": "1,1 m"
@@ -40,13 +41,16 @@
     "name": "Larvesta",
     "name_origin": "Il nome di Larvesta è una combinazione delle parole larva e Vesta, una dea del focolare della mitologia romana, oppure potrebbe essere ispirato a lava. ",
     "origin": "Larvesta è basato su una larva di falena, nello specifico la farfalla cobra, e sul famoso monumento giapponese noto come Torre del Sole di Osaka, mentre le corna possono ricordare il sole o il kanji 大 dai . Potrebbe essere anche ispirato a una torcia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Larvesta",
     "shape": "testa e braccia",
     "specie": "Pokémon Torcia",
     "sprites": {
         "larvesta": {
             "default": "https://media.pokemoncentral.it/wiki/7/75/Homem0636.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0636.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0636.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f7/Artwork0636_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0636_NB.png"
     },
     "stats": {
         "larvesta": {

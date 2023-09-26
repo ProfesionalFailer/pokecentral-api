@@ -46,6 +46,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "pineco",
     "generation": 2,
     "height": {
         "pineco": "0,6 m"
@@ -54,13 +55,16 @@
     "name": "Pineco",
     "name_origin": "Il suo nome deriva dalla parola inglese pinecone . ",
     "origin": "Basato su una pigna.\nLa sua tendenza a esplodere potrebbe ricondurre Pineco anche ad una bomba a mano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pineco",
     "shape": "testa",
     "specie": "Pokémon Larva",
     "sprites": {
         "pineco": {
             "default": "https://media.pokemoncentral.it/wiki/7/7f/Homem0204.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0204.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0204.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/52/Artwork0204_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1d/Artwork0204_HGSS.png"
     },
     "stats": {
         "pineco": {

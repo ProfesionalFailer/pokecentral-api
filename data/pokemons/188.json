@@ -46,6 +46,7 @@
         "Magico",
         "Erba"
     ],
+    "flat_name": "skiploom",
     "generation": 2,
     "height": {
         "skiploom": "0,6 m"
@@ -54,13 +55,16 @@
     "name": "Skiploom",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi skip  e bloom .\nIl suo nome giapponese, ポポッコ Popokko, potrebbe derivare dalla parola 蒲公英 tanpopo . ",
     "origin": "Skiploom sembra basarsi su una lampadina e un fiore, in particolare un dente di leone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Skiploom",
     "shape": "due paia di ali",
     "specie": "Pokémon Gramigna",
     "sprites": {
         "skiploom": {
             "default": "https://media.pokemoncentral.it/wiki/5/57/Homem0188.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0d/Homemsh0188.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0d/Homemsh0188.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d5/Artwork0188_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/aa/Artwork0188_HGSS.png"
     },
     "stats": {
         "skiploom": {

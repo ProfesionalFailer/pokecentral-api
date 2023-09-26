@@ -30,6 +30,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "gothitelle",
     "generation": 5,
     "height": {
         "gothitelle": "1,5 m"
@@ -38,13 +39,16 @@
     "name": "Gothitelle",
     "name_origin": "Gothitelle potrebbe derivare dall'unione di ghotic  e dal francese mademoiselle . ",
     "origin": "Gothitelle sembra essere basato su una rappresentazione stilizzata di una giovane donna che veste abiti stile gothic lolita. Potrebbe anche ispirarsi al corpo astrale o a una chiromante. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gothitelle",
     "shape": "un paio di ali",
     "specie": "Pokémon Corpoceleste",
     "sprites": {
         "gothitelle": {
             "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0576.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/5f/Homemsh0576.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5f/Homemsh0576.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0f/Artwork0576_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/91/Artwork0576_NB.png"
     },
     "stats": {
         "gothitelle": {

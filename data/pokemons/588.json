@@ -28,6 +28,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "karrablast",
     "generation": 5,
     "height": {
         "karrablast": "0,5 m"
@@ -36,13 +37,16 @@
     "name": "Karrablast",
     "name_origin": "Karrablast potrebbe essere una combinazione di Carabidae  o del greco κέρας kéras  o di carapace e blast  o plastron . ",
     "origin": "Sembra essere basato sui Carabidae, in particolare sul Carabus  blaptoides, coleottero giapponese  la cui dieta è essenzialmente a base di lumache.\nKarrablast e Shelmet potrebbero basarsi sul concetto di coevoluzione, processo per il quale l'evoluzione di una specie influenza anche quella di altre specie, in questo caso riferito a predatore  e preda . ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Karrablast",
     "shape": "un paio di ali",
     "specie": "Pokémon Addentatore",
     "sprites": {
         "karrablast": {
             "default": "https://media.pokemoncentral.it/wiki/e/ee/Homem0588.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0588.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0588.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b4/Artwork0588_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/97/Artwork0588_NB.png"
     },
     "stats": {
         "karrablast": {

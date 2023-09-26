@@ -51,6 +51,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "onix",
     "generation": 1,
     "height": {
         "onix": "8,8 m"
@@ -59,13 +60,16 @@
     "name": "Onix",
     "name_origin": "Il nome Onix deriva dalla parola onice, un minerale, in inglese onyx, ma potrebbe anche derivare da helix . Il suo nome giapponese potrebbe essere la combinazione di 岩 iwa, roccia, e スネ−ク snake, serpente. ",
     "origin": "Onix è basato su un serpente ed un lombrico. Molto probabilmente potrebbe anche essere basato sul Wyrm, un tipo di drago senza arti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Onix",
     "shape": "testa e gambe",
     "specie": "Pokémon Serpesasso",
     "sprites": {
         "onix": {
             "default": "https://media.pokemoncentral.it/wiki/1/1a/Homem0095.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0095.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0095.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2a/Artwork0095_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f1/Artwork0095_RFVF.png"
     },
     "stats": {
         "onix": {

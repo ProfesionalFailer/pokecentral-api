@@ -44,6 +44,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "wynaut",
     "generation": 3,
     "height": {
         "wynaut": "0,6 m"
@@ -52,13 +53,16 @@
     "name": "Wynaut",
     "name_origin": "Il suo nome si pronuncia esattamente come why not?, perché no?. Sohnano si pronuncia quasi esattamente come そうなの sō na no, davvero?. Insieme a ソーナンス Sonans, il nome giapponese di Wobbuffet, può formare una conversazione perpetua formata da una sequenza di \"davvero?\" e \"è così!\", come avviene ne Il campeggio di Pikachu. ",
     "origin": "Wynaut è basato su un okiagari-koboshi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wynaut",
     "shape": "due paia di ali",
     "specie": "Pokémon Brillante",
     "sprites": {
         "wynaut": {
             "default": "https://media.pokemoncentral.it/wiki/7/7d/Homem0360.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/36/Homemsh0360.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/36/Homemsh0360.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9b/Artwork0360_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bb/Artwork0360_RZ.png"
     },
     "stats": {
         "wynaut": {

@@ -8,7 +8,7 @@
     },
     "curiosities": [
         "Solosis ha la statistica base di Attacco Speciale più alta fra tutti i Pokémon non evoluti appartenenti ad una famiglia evolutiva di tre stadi. Condivide questa particolarità con Abra.",
-        "Solosis può essere visto come un parallelo di Gothita: sono entrambi Pokémon di tipo Psico di quinta generazione ed entrambi si evolvono al livello 32, per poi evolversi ancora al livello 41. Solosis è esclusivo di Bianco, mentre Gothita di Nero."
+        "Solosis può essere visto come un parallelo di Gothita: sono entrambi Pokémon di tipo Psico di quinta generazione ed entrambi si evolvono al livello 32, per poi evolversi ancora al livello 41. Solosis è esclusivo di Bianco e Scudo, mentre Gothita di Nero e Spada."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/solosis.mp3",
     "dex_entries": {
@@ -28,6 +28,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "solosis",
     "generation": 5,
     "height": {
         "solosis": "0,3 m"
@@ -36,13 +37,16 @@
     "name": "Solosis",
     "name_origin": "Il suo nome potrebbe derivare dall'unione della parola italiana solo con la parola inglese mitosis  o meiosis . Il suo nome giapponese, ユニラン Uniran, probabilmente deriva dall'unione del prefisso uni-  con la parola 乱 ran , o 卵 ran . È poi basato su un gioco di parole con l'espressione spagnola se unirán . ",
     "origin": "Solosis è basato su una cellula che compie il processo di mitosi. La sostanza verde in cui è immerso rappresenta il citoplasma, mentre gli elementi presenti sul corpo  rappresentano gli organuli. Potrebbe anche essere un'allusione alla fase embrionale di segmentazione, che porta alla fase di morula. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Solosis",
     "shape": "testa",
     "specie": "Pokémon Cellula",
     "sprites": {
         "solosis": {
             "default": "https://media.pokemoncentral.it/wiki/2/20/Homem0577.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0577.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0577.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/af"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a5/Artwork0577_NB.png"
     },
     "stats": {
         "solosis": {

@@ -30,6 +30,7 @@
         "Amorfo",
         "Drago"
     ],
+    "flat_name": "dreepy",
     "generation": 8,
     "height": {
         "dreepy": "0,5 m"
@@ -38,13 +39,16 @@
     "name": "Dreepy",
     "name_origin": "Dreepy potrebbe essere una combinazione di dragon, drago, o dreary, tetro, e creepy, spaventoso, o sleepy, assonnato. Dorameshiya potrebbe essere una combinazione di dragon, drago, e うらめしや urameshiya, una frase che viene tipicamente detta dai fantasmi. ",
     "origin": "Dreepy sembra essere la combinazione di un anfibio preistorico, il Diplocaulus, di un dardo e di un missile. Il tipo Drago potrebbe essere un riferimento al proteo, una specie di salamandra originaria dell'Europa centrale e sud-orientale che si credeva fosse un discendente dei draghi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dreepy",
     "shape": "testa e gambe",
     "specie": "Pokémon Risentimento",
     "sprites": {
         "dreepy": {
             "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0885.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homemsh0885.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homemsh0885.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/78"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/eb/Artwork0885_SpSc.png"
     },
     "stats": {
         "dreepy": {
@@ -61,8 +65,8 @@
     },
     "types": {
         "dreepy": [
-            "Spettro",
-            "Drago"
+            "Drago",
+            "Spettro"
         ]
     },
     "weight": {

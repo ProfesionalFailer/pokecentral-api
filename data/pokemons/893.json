@@ -16,7 +16,7 @@
             "sword": "Vive in branco nella giungla. È temuto dagli altri Pokémon della foresta perché estremamente aggressivo.",
             "shield": "Se si staccano, le liane del suo corpo diventano nutrimento per il suolo, favorendo lo sviluppo delle piante della foresta."
         },
-        "zarude-papà": {
+        "zarude-papa": {
             "sword": "Si è allontanato dai suoi simili per allevare un piccolo umano. Il panno con cui si avvolge ha un odore che calma il pianto del bambino.",
             "shield": "Ha cresciuto un piccolo orfano umano fin da quando era un bebè. L'affetto che nutre per lui gli dona una forza speciale."
         }
@@ -24,6 +24,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "zarude",
     "generation": 8,
     "height": {
         "zarude": "1,8 m"
@@ -32,17 +33,20 @@
     "name": "Zarude",
     "name_origin": "Zarude potrebbe essere una combinazione del giapponese 猿 saru, scimmie, e dell'inglese rude, sgarbato, rozzo. ",
     "origin": "Nonostante Zarude possieda molte caratteristiche simili a quelle delle scimmie, ricorda maggiormente i babbuini e i mandrilli per le sue zanne, gli artigli, la taglia e la struttura facciale. La sua capacità di usare le liane per aggrapparsi agli alberi potrebbe riprendere quella degli ateli di usare la coda prensile per simili scopi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zarude",
     "shape": "due paia di ali",
     "specie": "Pokémon Scimmialigna",
     "sprites": {
         "zarude": {
             "default": "https://media.pokemoncentral.it/wiki/1/1d/Homem0893.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/15/Homemsh0893.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/15/Homemsh0893.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e5"
         },
-        "zarude-papà": {
+        "zarude-papa": {
             "default": "https://media.pokemoncentral.it/wiki/a/ab/Homem0893P.png",
             "shiny": "https://media.pokemoncentral.it/wiki/9/9f/Homemsh0893P.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1c/Artwork0893_SpSc.png"
     },
     "stats": {
         "zarude": {

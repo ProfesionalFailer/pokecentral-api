@@ -42,6 +42,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "vanillish",
     "generation": 5,
     "height": {
         "vanillish": "1,1 m"
@@ -50,13 +51,16 @@
     "name": "Vanillish",
     "name_origin": "Il nome potrebbe essere la combinazione delle parole inglesi vanilla  e delish . ",
     "origin": "Vanillish è basato su un ghiacciolo o un cono gelato fatto di neve e ghiaccio, oltre che su una stalattite. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Vanillish",
     "shape": "quadrupede",
     "specie": "Pokémon Geloneve",
     "sprites": {
         "vanillish": {
             "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0583.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/44/Homemsh0583.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/44/Homemsh0583.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2c/Artwork0583_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/63/Artwork0583_NB.png"
     },
     "stats": {
         "vanillish": {

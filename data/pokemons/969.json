@@ -30,6 +30,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "glimmet",
     "generation": 9,
     "height": {
         "glimmet": "0,7 m"
@@ -38,13 +39,16 @@
     "name": "Glimmet",
     "name_origin": "Glimmet potrebbe derivare da Glimmer . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Glimmet",
     "shape": "None",
     "specie": "Pokémon Minerale",
     "sprites": {
         "glimmet": {
             "default": "https://media.pokemoncentral.it/wiki/f/f7/Homem0969.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0969.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0969.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/10"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/51/Artwork0969_SV.png"
     },
     "stats": {
         "glimmet": {

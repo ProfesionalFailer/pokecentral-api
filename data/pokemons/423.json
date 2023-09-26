@@ -58,6 +58,7 @@
         "Acqua 1",
         "Amorfo"
     ],
+    "flat_name": "gastrodon",
     "generation": 4,
     "height": {
         "gastrodon": "0,9 m"
@@ -66,17 +67,21 @@
     "name": "Gastrodon",
     "name_origin": "Deriva dalla parola inglese gastropod  con la parola spagnola don . ",
     "origin": "Gastrodon è probabilmente ispirato ad una lumaca di mare. In particolare Gastrodon Mare Ovest sembra basarsi su una Opisthobranchia, mentre Gastrodon Mare Est sull'Anaspidea. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gastrodon",
     "shape": "testa e gambe",
     "specie": "Pokémon Lumacomare",
     "sprites": {
         "mare-ovest": {
             "default": "https://media.pokemoncentral.it/wiki/7/7b/Homem0423.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh0423.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh0423.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/ff/Artwork0423_Corp.png"
         },
         "mare-est": {
             "default": "https://media.pokemoncentral.it/wiki/f/f3/Homem0423E.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0423E.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0423E.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5c/Artwork0423E_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1e/Artwork0423_DP.png"
     },
     "stats": {
         "gastrodon": {

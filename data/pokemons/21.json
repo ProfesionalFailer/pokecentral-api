@@ -49,6 +49,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "spearow",
     "generation": 1,
     "height": {
         "spearow": "0,3 m"
@@ -57,13 +58,16 @@
     "name": "Spearow",
     "name_origin": "Spearow potrebbe essere una combinazione di spear, infilzare, e sparrow, passerotto. Onisuzume potrebbe essere una combinazione di 鬼 oni, demone, e 雀 suzume, passerotto. ",
     "origin": "Spearow potrebbe essere basato su un passerotto con alcune caratteristiche tipiche della famiglia dei Laniidi, incluso il becco adunco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spearow",
     "shape": "testa e base",
     "specie": "Pokémon Uccellino",
     "sprites": {
         "spearow": {
             "default": "https://media.pokemoncentral.it/wiki/8/87/Homem0021.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/df/Homemsh0021.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/df/Homemsh0021.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4e/Artwork0021_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/98/Artwork0021_RFVF.png"
     },
     "stats": {
         "spearow": {
@@ -80,8 +84,8 @@
     },
     "types": {
         "spearow": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

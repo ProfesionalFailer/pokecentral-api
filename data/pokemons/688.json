@@ -24,6 +24,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "binacle",
     "generation": 6,
     "height": {
         "binacle": "0,5 m"
@@ -32,13 +33,16 @@
     "name": "Binacle",
     "name_origin": "Binacle potrebbe derivare da bi  e barnacle . Kametete deriva da 手々 tete  e 亀の手 kamenote . ",
     "origin": "Binacle è basato su un cirripede dell'ordine dei Pedunculata. Il suo aspetto ricorda la Mano di Fatima. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Binacle",
     "shape": "bipedi",
     "specie": "Pokémon Bimano",
     "sprites": {
         "binacle": {
             "default": "https://media.pokemoncentral.it/wiki/a/a0/Homem0688.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/aa/Homemsh0688.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/aa/Homemsh0688.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/df/Artwork0688_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/93/Artwork0688_XY.png"
     },
     "stats": {
         "statistiche-base": {
@@ -55,8 +59,8 @@
     },
     "types": {
         "binacle": [
-            "Roccia",
-            "Acqua"
+            "Acqua",
+            "Roccia"
         ]
     },
     "weight": {

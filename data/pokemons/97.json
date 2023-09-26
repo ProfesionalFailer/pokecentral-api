@@ -66,6 +66,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "hypno",
     "generation": 1,
     "height": {
         "hypno": "1,6 m"
@@ -74,17 +75,20 @@
     "name": "Hypno",
     "name_origin": "Il suo nome deriva probabilmente dalla parola inglese hypnosis , ma potrebbe riferirsi al dio greco Ὕπνος Ypnos  ",
     "origin": "Il Pokémon è basato sul baku , ed il suo aspetto ricorda quello di un tapiro. Inoltre il suo naso adunco e il collare di pelliccia riconducono le sue origini ad un avvoltoio di Rüppell o ad una nasica. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hypno",
     "shape": "un paio di ali",
     "specie": "Pokémon Ipnosi",
     "sprites": {
-        "": {
+        "hypno": {
             "default": "https://media.pokemoncentral.it/wiki/f/f2/Homem0097.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0097.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0097.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1d/Artwork0097_Corp.png"
         },
-        "-f": {
+        "hypno-f": {
             "default": "https://media.pokemoncentral.it/wiki/1/1c/Homef0097.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/bd/Homefsh0097.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d1/Artwork0097_RFVF.png"
     },
     "stats": {
         "hypno": {

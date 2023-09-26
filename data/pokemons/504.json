@@ -27,6 +27,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "patrat",
     "generation": 5,
     "height": {
         "patrat": "0,5 m"
@@ -35,13 +36,16 @@
     "name": "Patrat",
     "name_origin": "Il suo nome deriva da patrol  e rat  o da packrat . ",
     "origin": "L'aspetto potrebbe essere basato su un suricato, sullo scoiattolo striato, o sul cane della prateria. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Patrat",
     "shape": "più di 4 arti",
     "specie": "Pokémon Esplorante",
     "sprites": {
         "patrat": {
             "default": "https://media.pokemoncentral.it/wiki/3/37/Homem0504.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a3/Homemsh0504.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a3/Homemsh0504.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b7/Artwork0504_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9b/Artwork0504_NB.png"
     },
     "stats": {
         "patrat": {

@@ -63,6 +63,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "tyranitar",
     "generation": 2,
     "height": {
         "tyranitar": "2,0 m",
@@ -72,17 +73,21 @@
     "name": "Tyranitar",
     "name_origin": "Tyranitar potrebbe derivare dalla combinazione di tyrant o Tyrannosaurus  e lizard. Bangiras potrebbe essere la combinazione di 野蛮 yaban o 蛮 ban e di 嫌い kirai, ゴジラ Gojira o ゴリラ gorira, e 鯨 kujira. ",
     "origin": "Tyranitar è visibilmente simile alla Lucertola armadillo, un rettile che vive nel deserto e caratterizzato da scaglie molto robuste, simili a quelle del Pokémon. Inoltre trae ispirazione da Godzilla, un Kaijū con forza sovrumana, pelle resistentissima e capacità di sputare raggi d'energia; Godzilla stesso è stato creato basandosi su alcune specie di dinosauri, così come Tyranitar si basa su una specie di lucertola. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tyranitar",
     "shape": "due paia di ali",
     "specie": "Pokémon Armatura",
     "sprites": {
         "tyranitar": {
             "default": "https://media.pokemoncentral.it/wiki/0/07/Homem0248.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0248.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0248.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a9/Artwork0248_Corp.png"
         },
         "megatyranitar": {
             "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0248M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0248M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0248M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2f/Artwork0248M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0248_HGSS.png"
     },
     "stats": {
         "tyranitar": {

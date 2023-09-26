@@ -26,6 +26,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "mudsdale",
     "generation": 7,
     "height": {
         "mudsdale": "2,5 m"
@@ -34,13 +35,16 @@
     "name": "Mudsdale",
     "name_origin": "Il suo nome deriva da mud, fango, e da Clydesdale, una razza del cavallo. Banbandoro potrebbe essere una combinazione di 輓馬 banba, cavallo da tiro, e 泥 doro, fango. ",
     "origin": "Mudsdale è basato su un cavallo, in particolare alla razza Clydesdale, noto per le frange che ha nelle zampe. Potrebbe anche essere basato sul celebre Cavallo di Troia o sui cavalli dell'altrettanto noto esercito di terracotta. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mudsdale",
     "shape": "più di 4 arti",
     "specie": "Pokémon Fortequino",
     "sprites": {
         "mudsdale": {
             "default": "https://media.pokemoncentral.it/wiki/2/23/Homem0750.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homemsh0750.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homemsh0750.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8d/Artwork0750_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/eb/Artwork0750_SL.png"
     },
     "stats": {
         "mudsdale": {

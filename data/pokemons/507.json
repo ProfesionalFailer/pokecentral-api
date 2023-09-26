@@ -31,6 +31,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "herdier",
     "generation": 5,
     "height": {
         "herdier": "0,9 m"
@@ -39,13 +40,16 @@
     "name": "Herdier",
     "name_origin": "Il suo nome deriva da hair  oppure herding dog  e terrier. ",
     "origin": "Il suo è l'aspetto di un australian silky terrier o di un yorkshire terrier, ma ha anche caratteristiche in comune con lo scottish terrier. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Herdier",
     "shape": "più di 4 arti",
     "specie": "Pokémon Fedeltà",
     "sprites": {
         "herdier": {
             "default": "https://media.pokemoncentral.it/wiki/6/68/Homem0507.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0507.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0507.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/ca/Artwork0507_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/64/Artwork0507_NB.png"
     },
     "stats": {
         "herdier": {

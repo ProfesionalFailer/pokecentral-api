@@ -38,6 +38,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "silcoon",
     "generation": 3,
     "height": {
         "silcoon": "0,60 m"
@@ -46,13 +47,16 @@
     "name": "Silcoon",
     "name_origin": "Deriva dalle parole silk  e cocoon . ",
     "origin": "È basato su di un bozzolo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Silcoon",
     "shape": "testa",
     "specie": "Pokémon Bozzolo",
     "sprites": {
         "silcoon": {
             "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0266.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homemsh0266.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homemsh0266.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/14/Artwork0266_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1c/Artwork0266_RZ.png"
     },
     "stats": {
         "silcoon": {

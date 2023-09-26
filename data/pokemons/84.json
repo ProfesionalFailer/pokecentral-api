@@ -48,6 +48,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "doduo",
     "generation": 1,
     "height": {
         "doduo": "1,4 m"
@@ -56,17 +57,20 @@
     "name": "Doduo",
     "name_origin": "Il nome è la combinazione delle parole Dodo  e Duo. ",
     "origin": "Nonostante il suo nome, Doduo assomiglia di più ad uno struzzo che a un dodo. Possiede anche alcune similitudini con il moa, un uccello non volante estinto indigeno della Nuova Zelanda, oppure anche all'emu, altro uccello non volante, o addirittura al kiwi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Doduo",
     "shape": "corpi multipli",
     "specie": "Pokémon Biuccello",
     "sprites": {
-        "": {
+        "doduo": {
             "default": "https://media.pokemoncentral.it/wiki/f/fc/Homem0084.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/dc/Homemsh0084.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/d/dc/Homemsh0084.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1e/Artwork0084_Corp.png"
         },
-        "-f": {
+        "doduo-f": {
             "default": "https://media.pokemoncentral.it/wiki/a/ac/Homef0084.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/b8/Homefsh0084.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/30/Artwork0084_RFVF.png"
     },
     "stats": {
         "doduo": {
@@ -83,8 +87,8 @@
     },
     "types": {
         "doduo": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

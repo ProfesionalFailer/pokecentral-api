@@ -39,6 +39,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "electivire",
     "generation": 4,
     "height": {
         "electivire": "1,8 m"
@@ -47,13 +48,16 @@
     "name": "Electivire",
     "name_origin": "Deriva dalle parole electric  o electricity  e wire  o una contrazione di live wire . ",
     "origin": "Sembra che si basi su uno yeti, un oni o un gorilla. Il disegno che ha sulla schiena ricorda una presa della corrente, a cui sono collegati due cavi elettrici. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Electivire",
     "shape": "due paia di ali",
     "specie": "Pokémon Saetta",
     "sprites": {
         "electivire": {
             "default": "https://media.pokemoncentral.it/wiki/c/ca/Homem0466.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0466.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0466.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2f/Artwork0466_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/21/Artwork0466_DLPS.png"
     },
     "stats": {
         "electivire": {

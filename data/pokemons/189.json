@@ -48,6 +48,7 @@
         "Magico",
         "Erba"
     ],
+    "flat_name": "jumpluff",
     "generation": 2,
     "height": {
         "jumpluff": "0,8 m"
@@ -56,13 +57,16 @@
     "name": "Jumpluff",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi jump  e fluff .\nIl suo nome giapponese, ワタッコ Watakko, potrebbe derivare dalla parola 綿 wata . ",
     "origin": "Basato sul soffione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Jumpluff",
     "shape": "due paia di ali",
     "specie": "Pokémon Gramigna",
     "sprites": {
         "jumpluff": {
             "default": "https://media.pokemoncentral.it/wiki/d/d9/Homem0189.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9c/Homemsh0189.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9c/Homemsh0189.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d5/Artwork0189_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ec/Artwork0189_HGSS.png"
     },
     "stats": {
         "jumpluff": {

@@ -33,6 +33,7 @@
         "Acqua 1",
         "Volante"
     ],
+    "flat_name": "kilowattrel",
     "generation": 9,
     "height": {
         "kilowattrel": "1,4 m"
@@ -41,13 +42,16 @@
     "name": "Kilowattrel",
     "name_origin": "Kilowattrel è l'unione di kilowatt e petrel . ",
     "origin": "Kilowattrel è basato su una fregata, un uccello marino i cui maschi hanno una vistosa sacca golare presente anche in questo pokémon. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kilowattrel",
     "shape": "None",
     "specie": "Pokémon Fregata",
     "sprites": {
         "kilowattrel": {
             "default": "https://media.pokemoncentral.it/wiki/0/0d/Homem0941.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0941.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0941.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/83"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e2/Artwork0941_SV.png"
     },
     "stats": {
         "kilowattrel": {

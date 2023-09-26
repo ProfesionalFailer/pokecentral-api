@@ -44,6 +44,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "happiny",
     "generation": 4,
     "height": {
         "happiny": "0,6 m"
@@ -52,13 +53,16 @@
     "name": "Happiny",
     "name_origin": "Deriva dalle parole happiness, felicità, e tiny, piccolo. ",
     "origin": "Potrebbe basarsi su un neonato. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Happiny",
     "shape": "un paio di ali",
     "specie": "Pokémon Ovettino",
     "sprites": {
         "happiny": {
             "default": "https://media.pokemoncentral.it/wiki/4/42/Homef0440.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/94/Homefsh0440.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/94/Homefsh0440.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a5/Artwork0440_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f1/Artwork0440_DP.png"
     },
     "stats": {
         "happiny": {

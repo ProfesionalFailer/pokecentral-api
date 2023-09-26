@@ -39,6 +39,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "poochyena",
     "generation": 3,
     "height": {
         "poochyena": "0,50 m"
@@ -47,13 +48,16 @@
     "name": "Poochyena",
     "name_origin": "Deriva dalle parole pooch , e hyena . ",
     "origin": "Basato su un lupo e una iena. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Poochyena",
     "shape": "più di 4 arti",
     "specie": "Pokémon Morso",
     "sprites": {
         "poochyena": {
             "default": "https://media.pokemoncentral.it/wiki/1/13/Homem0261.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/21/Homemsh0261.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/21/Homemsh0261.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/33/Artwork0261_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f0/Artwork0261_RZ.png"
     },
     "stats": {
         "poochyena": {

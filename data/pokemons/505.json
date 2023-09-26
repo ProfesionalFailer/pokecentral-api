@@ -7,9 +7,9 @@
         }
     },
     "curiosities": [
-        "Di tutti i Pokémon evoluti di Unima ha la somma dei valori basici più bassa.",
-        "A differenza degli sprite degli altri Pokémon non chiude gli occhi quando gli viene inferto il cambiamento di stato Sonno.",
-        "In Pokémon Nero e Bianco Watchog fornisce solamente 1 EV in Attacco, diversamente da quanto si crede. L'errore è stato poi corretto in Pokémon Nero 2 e Bianco 2.",
+        "Di tutti i Pokémon evoluti di Unima ha la somma delle statistiche base più bassa.",
+        "A differenza degli sprite degli altri Pokémon non chiude gli occhi quando viene addormentato.",
+        "In Pokémon Nero e Bianco Watchog fornisce solamente 1 EV in Attacco. L'errore è stato poi corretto in Pokémon Nero 2 e Bianco 2.",
         "Watchog è l'unico Pokémon completamente evoluto a possedere un tasso di cattura pari a 255.",
         "Nonostante le voci del pokédex dicano che Watchog attacchi sputando i semi delle bacche che mangia, può apprendere Semebomba solo tramite Insegnamosse e non può in alcun modo apprendere Semitraglia."
     ],
@@ -29,6 +29,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "watchog",
     "generation": 5,
     "height": {
         "watchog": "1,1 m"
@@ -37,13 +38,16 @@
     "name": "Watchog",
     "name_origin": "Il suo nome deriva dall'inglese watch , groundhog  e dalla storpiatura del termine inglese watchdog . ",
     "origin": "Il suo aspetto è da ricondursi molto probabilmente a un suricato o al cane della prateria, ma presenta anche tratti che lo fanno assomigliare a una marmotta americana oppure uno scoiattolo del genere tamias. le striature gialle sul suo pelo ricordano una veste d'avvertimento, il che fa pensare che sia basato anche su un lavoratore di strada. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Watchog",
     "shape": "due paia di ali",
     "specie": "Pokémon Sentinella",
     "sprites": {
         "watchog": {
             "default": "https://media.pokemoncentral.it/wiki/d/d0/Homem0505.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0505.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0505.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b2/Artwork0505_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/36/Artwork0505_NB.png"
     },
     "stats": {
         "watchog": {

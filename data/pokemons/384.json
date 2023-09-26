@@ -15,7 +15,7 @@
         "In Pokémon Smeraldo, Rayquaza usa una mossa simile a Granvoce per calmare Groudon e Kyogre. Tuttavia, non può imparare quella mossa fino a Pokémon Oro HeartGold e Argento SoulSilver.",
         "Rayquaza ha l'Attacco e Attacco Speciale più alto di tutti i Pokémon di tipo Volante.",
         "Rayquaza è l'unico Pokémon che può essere catturato a un livello  più alto di quello dei Superquattro prima di affrontare la Lega Pokémon. Ciò succede solo in Smeraldo.",
-        "Nonostante si dica che Rayquaza appaia ogni volta che Groudon e Kyogre lottino, non appare negli episodi dell'anime Team contro Team e Battaglia epica.",
+        "Nonostante si dica che Rayquaza appaia ogni volta che Groudon e Kyogre lottino, non appare negli episodi dell'anime Team contro team e Battaglia epica.",
         "Di tutto il Trio meteo, Rayquaza è l'unico con due tipi.\n\tTuttavia Groudon con l'Archeorisveglio  acquista il tipo Fuoco in aggiunta al tipo Terra",
         "Tuttavia Groudon con l'Archeorisveglio  acquista il tipo Fuoco in aggiunta al tipo Terra",
         "Rayquaza è l'unico Pokémon con il totale delle statistiche pari a 680 a non avere le statistiche uguali a quelle di un altro Pokémon: Mewtwo, Lugia e Ho-Oh hanno 90-90-106-110-130-154 in diversi ordini; il Trio Drago, insieme a Reshiram e Zekrom hanno 90-100-100-120-120-150.",
@@ -55,6 +55,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "rayquaza",
     "generation": 3,
     "height": {
         "rayquaza": "7,0 m",
@@ -64,17 +65,23 @@
     "name": "Rayquaza",
     "name_origin": "Il nome di Rayquaza deriva probabilmente dalla parola ebraica Raqiya, il cui significato è \"firmamento\", potrebbe derivare anche dall'unione delle parole ray  e quasar, altra alternativa è l'unione delle parole giapponesi 烈 retsu, violento o furioso, 空 kū, cielo, e 座 za, sede o luogo. Il nome per intero tuttavia significa letteralmente \"colui che risiede nei cieli feroci\". ",
     "origin": "Rayquaza è ispirato nella figura mitologica ebraica dello Ziz, il primordiale signore dei cieli, inoltre le sue controparti sono il Leviatano e il Behemoth. L'aspetto fisico di Rayquaza è ispirato a varie creature mitologiche, in particolare il drago asiatico e il lindworm, potrebbe essere basato anche sulla divinità azteca Quetzalcoatl, un enorme serpente volante creato tra i confini di terra  e cielo. Il fatto che viva nel cielo senza alcun sostentamento vero e proprio che si nutra per secoli solamente con particelle d'acqua, potrebbe essere un riferimento ai leggendari saggi eremiti cinesi Xian e ai draghi dell'Asia orientale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rayquaza",
     "shape": "testa e gambe",
     "specie": "Pokémon Stratosfera",
     "sprites": {
         "rayquaza": {
             "default": "https://media.pokemoncentral.it/wiki/6/6a/Homem0384.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0d/Homemsh0384.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0d/Homemsh0384.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/26/Artwork0384_Corp_2.png"
         },
         "megarayquaza": {
             "default": "https://media.pokemoncentral.it/wiki/5/5f/Homem0384M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/a/a4/Homemsh0384M.png"
-        }
+        },
+        "megarayquaza(normale)": {
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0384M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/16/Artwork0384_ROZA.png"
     },
     "stats": {
         "rayquaza": {
@@ -100,8 +107,8 @@
     },
     "types": {
         "rayquaza": [
-            "Volante",
-            "Drago"
+            "Drago",
+            "Volante"
         ]
     },
     "weight": {

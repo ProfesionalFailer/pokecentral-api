@@ -48,6 +48,7 @@
         "Acqua 1",
         "Magico"
     ],
+    "flat_name": "azumarill",
     "generation": 2,
     "height": {
         "azumarill": "0,8 m"
@@ -56,13 +57,16 @@
     "name": "Azumarill",
     "name_origin": "Il suo nome deriva dall'unione della parola spagnola azure  con le parole inglesi marine  e rill , ma ci sono possibilità che prenda origine, come il suo nome giapponese, dalle parole 丸い marui, 鞠 mari e 瑠璃 ruri . Inoltre è un'allungamento del nome della sua pre-evoluzione Marill, e sembra un'unione di Marill e Azurill, sebbene quest'ultimo sia stato introdotto nella generazione successiva ",
     "origin": "Basato su un coniglio e su una boa. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Azumarill",
     "shape": "due paia di ali",
     "specie": "Pokémon Acquniglio",
     "sprites": {
         "azumarill": {
             "default": "https://media.pokemoncentral.it/wiki/2/23/Homem0184.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0184.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0184.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/82/Artwork0184_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/07/Artwork0184_HGSS.png"
     },
     "stats": {
         "azumarill": {

@@ -35,6 +35,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "mudbray",
     "generation": 7,
     "height": {
         "mudbray": "1,0 m"
@@ -43,13 +44,16 @@
     "name": "Mudbray",
     "name_origin": "Mudbray è probabilmente una combinazione di mud, fango, e di bray, raglio. Dorobanko potrebbe essere una combinazione di 泥 doro, fango, 驢馬 roba, asino, 輓馬 banba, cavallo da tiro, e 子 ko, giovane animale. ",
     "origin": "Mudbray è basato su un asino, in particolare ad un mulo da soma. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mudbray",
     "shape": "più di 4 arti",
     "specie": "Pokémon Ciuconiglio",
     "sprites": {
         "mudbray": {
             "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem0749.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/87/Homemsh0749.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/87/Homemsh0749.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7a/Artwork0749_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0749_SL.png"
     },
     "stats": {
         "mudbray": {

@@ -30,6 +30,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "galvantula",
     "generation": 5,
     "height": {
         "galvantula": "0,8 m"
@@ -38,13 +39,16 @@
     "name": "Galvantula",
     "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi galvanization  e tarantula . ",
     "origin": "Galvantula è basato su una tarantola o su un ragno saltellante. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Galvantula",
     "shape": "testa e braccia",
     "specie": "Pokémon Elettroragno",
     "sprites": {
         "galvantula": {
             "default": "https://media.pokemoncentral.it/wiki/d/d4/Homem0596.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0596.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0596.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5f/Artwork0596_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/32/Artwork0596_NB.png"
     },
     "stats": {
         "galvantula": {
@@ -61,8 +65,8 @@
     },
     "types": {
         "galvantula": [
-            "Elettro",
-            "Coleot"
+            "Coleot",
+            "Elettro"
         ]
     },
     "weight": {

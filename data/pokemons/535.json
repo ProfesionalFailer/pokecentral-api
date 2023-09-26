@@ -29,6 +29,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "tympole",
     "generation": 5,
     "height": {
         "tympole": "0,5 m"
@@ -37,13 +38,16 @@
     "name": "Tympole",
     "name_origin": "Il suo nome deriva probabilmente dalla parola tympanum , perché i suoni che emette fanno male ai timpani, e tadpole . Un'altra possibile origine è tempo , o lo strumenti musicale timpano. ",
     "origin": "Tympole è ispirato a un girino e ad un altoparlante. Le sue guance ricordano le cuffie per ascoltare la musica, ma possono anche ispirarsi alle ghiandole velenose o ai gonfiori tipici delle rane, o ai timpani che nelle rane sono collocati nella stessa zona. Le sue sopracciglia hanno la forma di note musicali. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tympole",
     "shape": "pinne",
     "specie": "Pokémon Girino",
     "sprites": {
         "tympole": {
             "default": "https://media.pokemoncentral.it/wiki/0/08/Homem0535.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0535.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0535.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/22/Artwork0535_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/18/Artwork0535_NB.png"
     },
     "stats": {
         "tympole": {

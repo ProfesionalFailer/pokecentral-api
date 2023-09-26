@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "butterfree": {
             "primary": "Insettocchi",
             "hidden": "Lentifumé"
         }
@@ -61,6 +61,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "butterfree",
     "generation": 1,
     "height": {
         "butterfree": "1,1 m",
@@ -70,21 +71,24 @@
     "name": "Butterfree",
     "name_origin": "Butterfree potrebbe essere una combinazione di butterfly, farfalla, e free, libero. \"Libero\" potrebbe riferirsi alla sua capacità di volare dopo essere stato a terra quando era ancora un Caterpie o un Metapod. Potrebbe derivare anche da パタパタ patapata, onomatopea per qualcosa che sbatti le ali, e 振る furu, sbattere . ",
     "origin": "Butterfree potrebbe essere ispirato da una pieride del biancospino. Butterfree Gigamax ricorda il Kaijū Mothra. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Butterfree",
     "shape": "serpentiforme",
     "specie": "Pokémon Farfalla",
     "sprites": {
-        "butterfree ": {
+        "butterfree": {
             "default": "https://media.pokemoncentral.it/wiki/a/ab/Homem0012.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0012.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0012.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/32/Artwork0012_Corp_2.png"
         },
-        "butterfree -f": {
+        "butterfree-f": {
             "default": "https://media.pokemoncentral.it/wiki/7/7d/Homef0012.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/79/Homefsh0012.png"
         },
         "butterfree-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/2/2b/Homem0012Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/a/ab/Homemsh0012Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/65/Artwork0012_RFVF.png"
     },
     "stats": {
         "butterfree": {
@@ -101,8 +105,8 @@
     },
     "types": {
         "butterfree": [
-            "Volante",
-            "Coleot"
+            "Coleot",
+            "Volante"
         ]
     },
     "weight": {

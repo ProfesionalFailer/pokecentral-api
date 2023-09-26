@@ -44,6 +44,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "jirachi",
     "generation": 3,
     "height": {
         "jirachi": "0,3 m"
@@ -52,13 +53,16 @@
     "name": "Jirachi",
     "name_origin": "Jirachi deriva da желать zhelatʹ . Può anche implicare 幸 sachi  o l'anglicizzato jireh . ",
     "origin": "Il design di Jirachi probabilmente fa riferimento alla coda di una cometa. Considerando l'aspetto umano e la capacità di esaudire i desideri, è anche possibile che sia ispirato ai miti arabi dei Jinn. È inoltre ispirato al Tanabata o settima notte, un festival giapponese che ha luogo ogni sette di luglio, in cui è tradizione scrivere i propri desideri su dei bigliettini rettangolari che vengono poi appesi a dei rami di bamboo. La continua somma  delle cifre che compongono il suo numero nel Pokédex Nazionale , inoltre, equivale proprio a 7, forse a voler citare proprio questa festività. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Jirachi",
     "shape": "un paio di ali",
     "specie": "Pokémon Desiderio",
     "sprites": {
         "jirachi": {
             "default": "https://media.pokemoncentral.it/wiki/3/3e/Homem0385.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0385.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0385.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b3"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/20/Artwork0385_RZ.png"
     },
     "stats": {
         "jirachi": {

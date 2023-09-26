@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "rotom": {
             "primary": "Levitazione"
         }
     },
@@ -90,6 +90,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "rotom",
     "generation": 4,
     "height": {
         "rotom": "0,3 m"
@@ -98,33 +99,41 @@
     "name": "Rotom",
     "name_origin": "Rotom altro non è che \"Motor\"  letto al contrario, ciò potrebbe essere dovuto al fatto che il motore fa funzionare gli apparecchi, mentre Rotom li danneggia. In Pokémon Platino viene rivelato il fatto che è stato Plutinio a scoprire questa specie di Pokémon ed è stato lui a dargli il nome di \"Rotom\", ha affermato che lo ha visto uscire dal suo giocattolo robot e per questo motivo lo ha chiamato \"Rotom\". ",
     "origin": "Rotom sembrerebbe basato sul protagonista di Pulseman, che è stato disegnato proprio dal designer dei Pokémon: Ken Sugimori. Potrebbe anche essere basato sul fenomeno paranormale delle sfere fulminanti, ispirate dall'ancora poco chiaro fenomeno fisico dei fulmini globulari. La sua descrizione del Pokédex tuttavia lo rimanda ai gremlin, mentre la possibilità di impossessarsi di oggetti lo rimanda ai poltergeist o allo tsukumogami. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rotom",
     "shape": "testa",
     "specie": "Pokémon Plasma",
     "sprites": {
         "forma-rotom": {
             "default": "https://media.pokemoncentral.it/wiki/6/65/Homem0479.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0479.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0479.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/07/Artwork0479_Corp_2.png"
         },
         "rotom-calore": {
             "default": "https://media.pokemoncentral.it/wiki/8/88/Homem0479C.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh0479C.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh0479C.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8a/Artwork0479C_Corp.png"
         },
         "rotom-lavaggio": {
             "default": "https://media.pokemoncentral.it/wiki/4/49/Homem0479L.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0479L.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0479L.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/98/Artwork0479L_Corp.png"
         },
         "rotom-gelo": {
             "default": "https://media.pokemoncentral.it/wiki/2/22/Homem0479G.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/79/Homemsh0479G.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/79/Homemsh0479G.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0479G_Corp.png"
         },
         "rotom-vortice": {
             "default": "https://media.pokemoncentral.it/wiki/a/a6/Homem0479V.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/90/Homemsh0479V.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/90/Homemsh0479V.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/68"
         },
         "rotom-taglio": {
             "default": "https://media.pokemoncentral.it/wiki/8/8b/Homem0479T.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/24/Homemsh0479T.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/24/Homemsh0479T.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/95/Artwork0479T_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0479_DLPS.png"
     },
     "stats": {
         "forma-rotom": {
@@ -143,7 +152,7 @@
             "spd": 107,
             "spe": 86
         },
-        "-rotom-lavaggio": {
+        "rotom-lavaggio": {
             "hp": 50,
             "atk": 65,
             "def": 107,
@@ -151,7 +160,7 @@
             "spd": 107,
             "spe": 86
         },
-        "-rotom-gelo": {
+        "rotom-gelo": {
             "hp": 50,
             "atk": 65,
             "def": 107,
@@ -159,7 +168,15 @@
             "spd": 107,
             "spe": 86
         },
-        "-rotom-vortice-e-rotom-taglio": {
+        "rotom-vortice": {
+            "hp": 50,
+            "atk": 65,
+            "def": 107,
+            "spa": 105,
+            "spd": 107,
+            "spe": 86
+        },
+        "rotom-taglio": {
             "hp": 50,
             "atk": 65,
             "def": 107,
@@ -171,9 +188,10 @@
     "stats_sum": {
         "forma-rotom": 440,
         "rotom-calore": 520,
-        "-rotom-lavaggio": 520,
-        "-rotom-gelo": 520,
-        "-rotom-vortice-e-rotom-taglio": 520
+        "rotom-lavaggio": 520,
+        "rotom-gelo": 520,
+        "rotom-vortice": 520,
+        "rotom-taglio": 520
     },
     "types": {
         "forma-rotom": [
@@ -197,8 +215,8 @@
             "Volante"
         ],
         "rotom-taglio": [
-            "Erba",
-            "Elettro"
+            "Elettro",
+            "Erba"
         ]
     },
     "weight": {

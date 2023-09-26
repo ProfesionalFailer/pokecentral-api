@@ -1,11 +1,21 @@
 {
     "abilities": {
-        "forma-melodia-e-toxtricity-gigamax-(melodia)": {
+        "forma-melodia": {
             "primary": "Punk Rock",
             "secondary": "Più",
             "hidden": "Tecnico"
         },
-        "forma-basso-e-toxtricity-gigamax-(basso)": {
+        "toxtricity-gigamax-(melodia)": {
+            "primary": "Punk Rock",
+            "secondary": "Più",
+            "hidden": "Tecnico"
+        },
+        "forma-basso": {
+            "primary": "Punk Rock",
+            "secondary": "Meno",
+            "hidden": "Tecnico"
+        },
+        "toxtricity-gigamax-(basso)": {
             "primary": "Punk Rock",
             "secondary": "Meno",
             "hidden": "Tecnico"
@@ -39,6 +49,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "toxtricity",
     "generation": 8,
     "height": {
         "toxtricity": "1,6 m",
@@ -48,6 +59,7 @@
     "name": "Toxtricity",
     "name_origin": "Toxtricity potrebbe essere una combinazione di toxic, tossico, ed electricity, elettricità. Ricorda anche toxicity, tossicità. Strinder potrebbe essere una combinazione di strings, le corde di uno strumento, e salamander, salamandra. ",
     "origin": "Toxtricity potrebbe essere basato su una lucertola, in particolare quelle del genere Agama, come la Agama mwanzae o la Agama planiceps. Come Toxtricity, questo genere di lucertola è conosciuto per la sua varietà di colori vivaci e per le punte che possiede intorno alle orecchie. Lottano usando le loro code come fruste. Potrebbe essere basato anche sulla musica rock o sui chitarristi punk rock. La Forma Melodia e la Forma Basso potrebbero ispirarsi alla chitarra elettrica e al basso, con il numero delle sporgenze sul torace pari al numero di corde della chitarra su cui sono ispirati  che fanno un suono simile ai rispettivi strumenti musicali quando suonati dal Pokémon. L'abitudine di Toxtricity Gigamax di generare una chitarra per utilizzarla per attaccare potrebbe essere un riferimento ad un atto eseguito da diversi artisti che rompono la chitarra sul palco dopo aver suonato una canzone famosa. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Toxtricity",
     "shape": "due paia di ali",
     "specie": "Pokémon Punk",
     "sprites": {
@@ -62,7 +74,11 @@
         "toxtricity-gigamax-(melodia)": {
             "default": "https://media.pokemoncentral.it/wiki/d/d8/Homem0849Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/b4/Homemsh0849Gi.png"
-        }
+        },
+        "toxtricity": {
+            "corporate": "https://media.pokemoncentral.it/wiki/2/27"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e6/Artwork0849_SpSc.png"
     },
     "stats": {
         "toxtricity": {

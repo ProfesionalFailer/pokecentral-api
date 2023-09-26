@@ -34,6 +34,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "bruxish",
     "generation": 7,
     "height": {
         "bruxish": "0,9 m"
@@ -42,13 +43,16 @@
     "name": "Bruxish",
     "name_origin": "Bruxish potrebbe essere una combinazione di bruxism, bruxismo, e fish, pesce. Hagigishiri potrebbe essere una combinazione di 歯 ha, dente, カワハギ科 kawahagika, Monacantide, ぎっしり gisshiri, zeppo, e 歯軋り hagishiri, bruxismo. ",
     "origin": "Bruxish potrebbe essere ispriato ad un Monacantide o a un Rhinecanthus rectangulus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bruxish",
     "shape": "pinne",
     "specie": "Pokémon Sfregadenti",
     "sprites": {
         "bruxish": {
             "default": "https://media.pokemoncentral.it/wiki/2/2b/Homem0779.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6a/Homemsh0779.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6a/Homemsh0779.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/91/Artwork0779_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f7/Artwork0779_SL.png"
     },
     "stats": {
         "bruxish": {

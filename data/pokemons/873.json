@@ -22,6 +22,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "frosmoth",
     "generation": 8,
     "height": {
         "frosmoth": "1,3 m"
@@ -30,13 +31,16 @@
     "name": "Frosmoth",
     "name_origin": "Frosmoth potrebbe essere una combinazione di frost, gelo, e moth, falena. Mothnow potrebbe essere una combinazione di moth, falena, e snow, neve. ",
     "origin": "Frosmoth potrebbe essere ispirato alle falene alpine e artiche del genere Gynaephora. Una specie in particolare, la Gynaephora groenlandica, può entrare in uno stato dormiente che gli consente di sopportare fino a -70 gradi Celsius. Considerando le sue grandi dimensioni, i colori della forma cromatica e il fatto che si evolva durante la notte, Frosmoth potrebbe essere basato anche sulle falene del genere Actias. Potrebbe trarre ispirazione anche dalle falene della famiglia Megalopygidae o dalla farfalla di vetro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Frosmoth",
     "shape": "serpentiforme",
     "specie": "Pokémon Gelofalena",
     "sprites": {
         "frosmoth": {
             "default": "https://media.pokemoncentral.it/wiki/1/10/Homem0873.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0873.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0873.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ef"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/31/Artwork0873_SpSc.png"
     },
     "stats": {
         "frosmoth": {
@@ -53,8 +57,8 @@
     },
     "types": {
         "frosmoth": [
-            "Ghiaccio",
-            "Coleot"
+            "Coleot",
+            "Ghiaccio"
         ]
     },
     "weight": {

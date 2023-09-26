@@ -19,6 +19,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "thievul",
     "generation": 8,
     "height": {
         "thievul": "1,2 m"
@@ -27,13 +28,16 @@
     "name": "Thievul",
     "name_origin": "Thievul potrebbe essere una combinazione di thief, ladro, evil, malvagio, e vulpine, di volpe. Foxly potrebbe essere una combinazione di fox, volpe, e sly, scaltro. ",
     "origin": "Thievul potrebbe essere basato su una volpe rossa. I dettagli sul muso e i baffi sembrano rappresentare lo stereotipo dei ladri e degli scassinatori o il tropo del ladro gentiluomo. Le zampe anteriori ricordano i guanti che indossano solitamente i ladri e gli scassinatori. La correlazione con Boltund potrebbe essere un riferimento alla caccia alla volpe, dove una volpe veniva cacciata da un English Foxhound su cui Boltund sembra appunto essere basato. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Thievul",
     "shape": "più di 4 arti",
     "specie": "Pokémon Volpe",
     "sprites": {
         "thievul": {
             "default": "https://media.pokemoncentral.it/wiki/f/f0/Homem0828.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0828.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0828.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2a"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/60/Artwork0828_SpSc.png"
     },
     "stats": {
         "thievul": {

@@ -28,6 +28,7 @@
         "Minerale",
         "Amorfo"
     ],
+    "flat_name": "sinistea",
     "generation": 8,
     "height": {
         "sinistea": "0,1 m"
@@ -36,17 +37,20 @@
     "name": "Sinistea",
     "name_origin": "Sinistea potrebbe essere una combinazione di sinister, sinistro, e tea, tè. Yabacha potrebbe essere una combinazione di やばい yabai, pericoloso o terribile, e 茶 cha, tè. ",
     "origin": "Sinistea potrebbe essere basato su un poltergeist, oltre che su una tazzina da tè e sul tè nero. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sinistea",
     "shape": "testa",
     "specie": "Pokémon Tè",
     "sprites": {
         "forma-contraffatta": {
             "default": "https://media.pokemoncentral.it/wiki/6/62/Homem0854.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/bd/Homemsh0854.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bd/Homemsh0854.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/53"
         },
         "forma-autentica": {
             "default": "https://media.pokemoncentral.it/wiki/6/62/Homem0854.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/bd/Homemsh0854.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e5/Artwork0854_SpSc.png"
     },
     "stats": {
         "sinistea": {

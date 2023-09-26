@@ -40,6 +40,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "gulpin",
     "generation": 3,
     "height": {
         "gulpin": "0,4 m"
@@ -48,17 +49,20 @@
     "name": "Gulpin",
     "name_origin": "Deriva dalla parola gulping . ",
     "origin": "Basato su una ghiandola velenosa o su una cistifellea. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gulpin",
     "shape": "insettoide",
     "specie": "Pokémon Stomaco",
     "sprites": {
-        "": {
+        "gulpin": {
             "default": "https://media.pokemoncentral.it/wiki/2/29/Homem0316.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0316.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0316.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/89/Artwork0316_Corp.png"
         },
-        "-f": {
+        "gulpin-f": {
             "default": "https://media.pokemoncentral.it/wiki/5/52/Homef0316.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/64/Homefsh0316.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4c/Artwork0316_RZ.png"
     },
     "stats": {
         "gulpin": {

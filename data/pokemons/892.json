@@ -1,12 +1,13 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "urshifu": {
             "primary": "Pugni Invisibili"
         }
     },
     "curiosities": [
         "Urshifu è l'unico Pokémon leggendario che possiede una forma Gigamax e di conseguenza è anche l'unico Pokémon leggendario che può utilizzare una mossa Gigamax.\n\tÈ anche l'unico Pokémon con più di una forma Gigamax e di conseguenza è l'unico Pokémon che può utilizzare più di una mossa Gigamax.",
         "È anche l'unico Pokémon con più di una forma Gigamax e di conseguenza è l'unico Pokémon che può utilizzare più di una mossa Gigamax.",
+        "Urshifu, la sua pre-evoluzione Kubfu e Heatran sono gli unici Pokémon leggendari che possono essere di entrambi i sessi.",
         "È stato annunciato il 9 gennaio 2020 durante un Pokémon Direct.",
         "Come da lui stesso confermato, Yusuke Ohmura s'è occupato della progettazione di Kubfu ed Urshifu."
     ],
@@ -24,6 +25,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "urshifu",
     "generation": 8,
     "height": {
         "urshifu": "1,9 m",
@@ -33,12 +35,14 @@
     "name": "Urshifu",
     "name_origin": "Urshifu potrebbe essere una combinazione di ursus, orso in latino e shifu, maestro in cinese. Wulaosu potrebbe essere una combinazione di wushu e 老師 / 老师 lǎoshī, maestro in cinese, e probabilmente ウラー urā, \"urrà\", e 押忍 osu, un'interazione utilizzata nelle arti marziali giapponesi. ",
     "origin": "Urshifu potrebbe essere basato su un orso della luna e un lottatore di wushu. Il tipo Acqua dello Stile Pluricolpo potrebbe essere un riferimento alla frase \"sii come l'acqua\" di Bruce Lee. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Urshifu",
     "shape": "un paio di ali",
     "specie": "Pokémon Kung Fu",
     "sprites": {
         "stile-singolcolpo": {
             "default": "https://media.pokemoncentral.it/wiki/9/91/Homem0892.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0892.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0892.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fd"
         },
         "urshifu-gigamax-(stile-singolcolpo)": {
             "default": "https://media.pokemoncentral.it/wiki/b/b2/Homem0892Gi.png",
@@ -51,7 +55,8 @@
         "urshifu-gigamax-(stile-pluricolpo)": {
             "default": "https://media.pokemoncentral.it/wiki/1/13/Homem0892PGi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/f/fa/Homemsh0892PGi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/10/Artwork0892_SpSc.png"
     },
     "stats": {
         "urshifu": {
@@ -67,11 +72,19 @@
         "urshifu": 550
     },
     "types": {
-        "stile-singolcolpo-e-urshifu-gigamax-(stile-singolcolpo)": [
+        "stile-singolcolpo": [
             "Buio",
             "Lotta"
         ],
-        "stile-pluricolpo-e-urshifu-gigamax-(stile-pluricolpo)": [
+        "urshifu-gigamax-(stile-singolcolpo)": [
+            "Buio",
+            "Lotta"
+        ],
+        "stile-pluricolpo": [
+            "Acqua",
+            "Lotta"
+        ],
+        "urshifu-gigamax-(stile-pluricolpo)": [
             "Acqua",
             "Lotta"
         ]

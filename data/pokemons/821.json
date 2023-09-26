@@ -25,6 +25,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "rookidee",
     "generation": 8,
     "height": {
         "rookidee": "0,2 m"
@@ -33,13 +34,16 @@
     "name": "Rookidee",
     "name_origin": "Rookidee potrebbe essere una combinazione di rookie, novellino o recluta, kid, bambino, e chickadee, cinciallegra. Kokogara potrebbe essere una combinazione di 子 ko, bambino, e 小雀 kogara, cincia bigia alpestre, o 烏 karasu, corvo. ",
     "origin": "Rookidee potrebbe essere basato su una Parus minor o su una cinciarella, entrambe specie appertenenti alla famiglia dei Paridi. Pur non appartenendo alla famiglia dei corvidi come le probabili ispirazioni di Corvisquire e Corviknight, Rookidee si trova nello stesso ordine, Passeriformes. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rookidee",
     "shape": "testa e base",
     "specie": "Pokémon Uccellino",
     "sprites": {
         "rookidee": {
             "default": "https://media.pokemoncentral.it/wiki/1/12/Homem0821.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/45/Homemsh0821.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/45/Homemsh0821.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/37"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/46/Artwork0821_SpSc.png"
     },
     "stats": {
         "rookidee": {

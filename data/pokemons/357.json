@@ -43,6 +43,7 @@
         "Mostro",
         "Erba"
     ],
+    "flat_name": "tropius",
     "generation": 3,
     "height": {
         "tropius": "2,00 m"
@@ -50,14 +51,17 @@
     "id": 357,
     "name": "Tropius",
     "name_origin": "Deriva dalla parola inglese tropical, tropicale, con la parola greca σαῦρος sauros, lucertola. Potrebbe anche essere una corruzione di tropism, tropismo. ",
-    "origin": "Basato su un sauropoda con caratteristiche tipiche del banano. ",
+    "origin": "Basato su un sauropode con caratteristiche tipiche del banano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tropius",
     "shape": "più di 4 arti",
     "specie": "Pokémon Frutto",
     "sprites": {
         "tropius": {
             "default": "https://media.pokemoncentral.it/wiki/4/49/Homem0357.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/98/Homemsh0357.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/98/Homemsh0357.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1a/Artwork0357_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b1/Artwork0357_RZ.png"
     },
     "stats": {
         "tropius": {

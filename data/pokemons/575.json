@@ -34,6 +34,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "gothorita",
     "generation": 5,
     "height": {
         "gothorita": "0,7 m"
@@ -42,13 +43,16 @@
     "name": "Gothorita",
     "name_origin": "Il suo nome deriva probabilmente dall'unione di gothic lolita e dello spagnolo señorita . ",
     "origin": "Gothorita è basata su una ragazza vestita secondo la moda gothic lolita. Potrebbe inoltre essere basata sulla costellazione della bilancia, che rispecchia sulla posizione in cui spesso tiene mani, che sembrano sorreggere due pesi  e la sua connessione con le stelle. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gothorita",
     "shape": "un paio di ali",
     "specie": "Pokémon Raggiro",
     "sprites": {
         "gothorita": {
             "default": "https://media.pokemoncentral.it/wiki/1/1c/Homem0575.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homemsh0575.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homemsh0575.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8c/Artwork0575_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/34/Artwork0575_NB.png"
     },
     "stats": {
         "gothorita": {

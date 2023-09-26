@@ -7,7 +7,8 @@
         }
     },
     "curiosities": [
-        "Nonostante Politoed si evolva da Poliwhirl quando scambiato assegnandogli lo strumento Roccia di Re, nell'episodio Un nuovo piano si vede il Poliwhirl di Misty che si evolve con il solo contatto con la Roccia di Re di Ash, senza il bisogno dello scambio.",
+        "Nonostante sia la controparte di Poliwrath, ed in passato condividesse con lui il totale delle statistiche base, in sesta generazione hanno aggiunto 10 punti alle statistiche base di Poliwrath, ma non a quelle di Politoed.",
+        "Nonostante Politoed si evolva da Poliwhirl quando scambiato assegnandogli lo strumento Roccia di re, nell'episodio Un nuovo piano si vede il Poliwhirl di Misty che si evolve con il solo contatto con la Roccia di re di Ash, senza il bisogno dello scambio.",
         "Politoed apprende il minor numero di mosse salendo di livello di tutti i Pokémon evoluti tramite scambio."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/politoed.mp3",
@@ -47,25 +48,29 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "politoed",
     "generation": 2,
     "height": {
         "politoed": "1,1 m"
     },
     "id": 186,
     "name": "Politoed",
-    "name_origin": "Il nome è una combinazione tra Polliwog  e la corruzione di Toad . Potrebbe derivare anche da Poly-Toed, che significa \"Possedere dita di piedi\" riferimento al fatto che Poliwhirl non aveva dita distinguibili. ",
-    "origin": "I Politoed sono basati sulle raganelle, in particolare sulle raganelle europee, la spirale sulla pancia sta ad indicare gli organi interni come le rane di vetro. ",
+    "name_origin": "Il nome è una combinazione tra polliwog  e la corruzione di toad . Potrebbe derivare anche da Poly-Toed, che significa \"Possedere dita di piedi\" riferimento al fatto che Poliwhirl non aveva dita distinguibili. ",
+    "origin": "Politoed è basato sulla raganella, in particolare sulle raganelle europee, la spirale sulla pancia sta ad indicare gli organi interni come le rane di vetro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Politoed",
     "shape": "un paio di ali",
     "specie": "Pokémon Rana",
     "sprites": {
-        "": {
+        "politoed": {
             "default": "https://media.pokemoncentral.it/wiki/c/c8/Homem0186.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0186.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0186.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bb/Artwork0186_Corp.png"
         },
-        "-f": {
+        "politoed-f": {
             "default": "https://media.pokemoncentral.it/wiki/1/1d/Homef0186.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/41/Homefsh0186.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/ca/Artwork0186_HGSS.png"
     },
     "stats": {
         "politoed": {

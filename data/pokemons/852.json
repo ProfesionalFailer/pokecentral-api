@@ -19,6 +19,7 @@
         "Acqua 1",
         "Umanoide"
     ],
+    "flat_name": "clobbopus",
     "generation": 8,
     "height": {
         "clobbopus": "0,6 m"
@@ -27,13 +28,16 @@
     "name": "Clobbopus",
     "name_origin": "Clobbopus potrebbe essere una combinazione di clobber, picchiare, e octopus, polpo. Tatakko potrebbe essere una combinazione di 叩く tataku, colpire, attack, attacco, e 蛸 tako, polpo. ",
     "origin": "Clobbopus potrebbe essere basato su un polipo e su un pugile. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Clobbopus",
     "shape": "bipedi con coda",
     "specie": "Pokémon Bizze",
     "sprites": {
         "clobbopus": {
             "default": "https://media.pokemoncentral.it/wiki/a/a7/Homem0852.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0852.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0852.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e8"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/00/Artwork0852_SpSc.png"
     },
     "stats": {
         "clobbopus": {

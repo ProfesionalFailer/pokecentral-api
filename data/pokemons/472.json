@@ -40,6 +40,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "gliscor",
     "generation": 4,
     "height": {
         "gliscor": "2,0 m"
@@ -48,13 +49,16 @@
     "name": "Gliscor",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi glider  e scorpion . ",
     "origin": "Alcuni associano Gliscor ad un vampiro per via del mantello nero, dei denti aguzzi e di altri aspetti fisici. Oltre a questo, è basato su uno scorpione e presenta delle somiglianze con i gargoyle. Potrebbe trarre ispirazione inoltre dalla mosca scorpione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gliscor",
     "shape": "testa e base",
     "specie": "Pokémon Scorpidente",
     "sprites": {
         "gliscor": {
             "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0472.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0472.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0472.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/71/Artwork0472_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/05/Artwork0472_DLPS.png"
     },
     "stats": {
         "gliscor": {

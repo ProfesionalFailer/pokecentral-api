@@ -37,6 +37,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "budew",
     "generation": 4,
     "height": {
         "budew": "0,2 m"
@@ -45,13 +46,16 @@
     "name": "Budew",
     "name_origin": "Il nome di Budew nasce dall'unione delle parole inglesi bud  e dew . ",
     "origin": "Budew si basa su un bocciolo di rosa. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Budew",
     "shape": "un paio di ali",
     "specie": "Pokémon Germoglio",
     "sprites": {
         "budew": {
             "default": "https://media.pokemoncentral.it/wiki/8/82/Homem0406.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0406.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0406.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9a"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2f/Artwork0406_DP.png"
     },
     "stats": {
         "budew": {

@@ -3,7 +3,10 @@
         "necrozma": {
             "primary": "Scudoprisma"
         },
-        "-necrozma-criniera-del-vespro-e-necrozma-ali-dell'aurora": {
+        "necrozma-criniera-del-vespro": {
+            "primary": "Scudoprisma"
+        },
+        "necrozma-ali-dell'aurora": {
             "primary": "Scudoprisma"
         },
         "ultranecrozma": {
@@ -55,6 +58,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "necrozma",
     "generation": 7,
     "height": {
         "necrozma": "2,4 m",
@@ -66,12 +70,14 @@
     "name": "Necrozma",
     "name_origin": "Necrozma e Nekurozuma sono una combinazione di νεκρός nekrós , 黒 kuro  e prisma. Potrebbe anche essere ispirato al Progetto Ozma, un esperimento per la ricerca di vita extraterrestre. ",
     "origin": "Necrozma potrebbe essere basato sul concetto di prisma e di rifrazione della luce. Vista la prima parte del suo nome , la sua colorazione nera e il simbolo a forma di stella sul retro della sua testa, potrebbe essere ispirato alla Nana nera , o vista la sua abilità di assorbire la luce, potrebbe essere ispirato ad un Buco nero . Le forme Criniera del Vespro e Ali dell'Aurora di Necrozma potrebbero essere basate rispettivamente sui concetti di eclissi solare e lunare. I loro nomi originali giapponesi, 日食 nisshoku  e 月食 gesshoku , potrebbero anche essere tradotte letteralmente come \"mangiare il sole/la luna\", riflettendo come Necrozma assorba Solgaleo o Lunala per assumere tali forme. La forma di UltraNecrozma potrebbe invece essere basata sul concetto di stella gigante o supernova. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Necrozma",
     "shape": "insettoide",
     "specie": "Pokémon Prisma",
     "sprites": {
         "necrozma": {
             "default": "https://media.pokemoncentral.it/wiki/9/91/Homem0800.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/ae/Homemsh0800.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ae/Homemsh0800.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3f/Artwork0800U_Corp.png"
         },
         "necrozma-criniera-del-vespro": {
             "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0800V.png",
@@ -84,7 +90,8 @@
         "ultranecrozma": {
             "default": "https://media.pokemoncentral.it/wiki/9/90/Homem0800U.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0800U.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/dc/Artwork0800_SL.png"
     },
     "stats": {
         "necrozma": {

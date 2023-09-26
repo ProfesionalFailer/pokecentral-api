@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "zamazenta": {
             "primary": "Scudo Saldo"
         }
     },
@@ -26,6 +26,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "zamazenta",
     "generation": 8,
     "height": {
         "zamazenta": "2,9 m"
@@ -34,6 +35,7 @@
     "name": "Zamazenta",
     "name_origin": "Zamazenta deriva dalla pronuncia giapponese di the magenta, \"il magenta\" in inglese. ",
     "origin": "Zamazenta potrebbe essere basato sullo scudo di Re Artù, conosciuto come Wynebgwrthucher o Pridwen. Il suo ruolo di guerriero che aiuta un re potrebbe trarre ispirazione dai cavalieri della Tavola Rotonda, personaggi sotto gli ordini di Re Artù che si dice abbiano protetto con lui il regno britannico. Il suo rapporto con Zamazenta potrebbe alludere al rapporto tra Artù e sua sorella Fata Morgana. In alternativa può ricordare un lupo, un animale originario della Gran Bretagna e un importante simbolo araldico per le famiglie nobili durante il medioevo. Ricorda il lupo di ferro della mitologia lituana. La corazza sul suo corpo ricorda anche una barda, un'armatura indossata dai cavalli da guerra durante il Basso Medioevo. La storia di Zacian e Zamazenta che si ritirano nel Bosco Assopito per riprendersi dalle loro ferite e il ritorno ai nostri giorni per salvare Galar è simile alla leggenda del ritorno messianico di Re Artù. L'abilità di Zacian di tagliare qualsiasi cosa con la sua spada e l'abilità di Zamazenta di resistere a qualsiasi tipo di attacco con il suo scudo potrebbe essere un esempio di paradosso dell'onnipotenza. Uno degli esempi più famosi di questo folklore include la storia cinese secondo cui un venditore ambulante vendette una spada e una lancia con abilità simili a quelle dei Pokémon solo per chiedersi cosa sarebbe successo se i due oggetti fossero stati utilizzati l'uno contro l'altro. Un altro esempio narra di un segugio da caccia greco, chiamato Lelapo, che acchiappava qualsiasi cosa gli si capitasse a tiro e della volpe di Teumesso che non poteva mai essere catturata. Era un paradosso senza possibilità di soluzione, quindi vennero tramutati in una roccia e il cane fu sistemato nella costellazione del Cane Maggiore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zamazenta",
     "shape": "più di 4 arti",
     "specie": "Pokémon Guerriero",
     "sprites": {
@@ -44,7 +46,11 @@
         "re-degli-scudi": {
             "default": "https://media.pokemoncentral.it/wiki/7/7a/Homem0889R.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0889R.png"
-        }
+        },
+        "re-degli-scudi(normale)": {
+            "corporate": "https://media.pokemoncentral.it/wiki/b/be"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/93/Artwork0889_SpSc.png"
     },
     "stats": {
         "eroe-di-mille-lotte": {

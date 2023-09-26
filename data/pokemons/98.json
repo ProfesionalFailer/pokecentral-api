@@ -45,6 +45,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "krabby",
     "generation": 1,
     "height": {
         "krabby": "0,4 m"
@@ -53,13 +54,16 @@
     "name": "Krabby",
     "name_origin": "Krabby potrebbe essere una combinazione di crabby, irritabile o scontroso, e crab, granchio. Crab potrebbe derivare da crab, granchio. ",
     "origin": "Krabby potrebbe essere basato su un granchio, probabilmente su un Heikegani o su un granchio gorgogliatore di sabbia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Krabby",
     "shape": "testa e braccia",
     "specie": "Pokémon Granchio",
     "sprites": {
         "krabby": {
             "default": "https://media.pokemoncentral.it/wiki/4/4e/Homem0098.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/31/Homemsh0098.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/31/Homemsh0098.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/07/Artwork0098_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a3/Artwork0098_RFVF.png"
     },
     "stats": {
         "krabby": {

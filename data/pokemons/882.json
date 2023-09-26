@@ -23,6 +23,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "dracovish",
     "generation": 8,
     "height": {
         "dracovish": "2,3 m"
@@ -31,13 +32,16 @@
     "name": "Dracovish",
     "name_origin": "Dracovish potrebbe essere una combinazione di dracō, drago in latino, e fish, pesce. Uonoragon potrebbe essere una combinazione di 魚 uo, pesce, e dragon, drago. ",
     "origin": "Dracovish, come le sue controparti, potrebbe prendere ispirazione dai dinosauri di Crystal Palace, una serie di sculture disassemblate di dinosauri e altri animali estinti esposte nel Parco di Crystal Palace di Londra. Il posizionamento della testa sulla punta della coda potrebbe essere un riferimento all'elasmosauro come era stato descritto inizialmente in maniera erronea da Edward Drinker Cope. Sembra ricordare anche una chimera ed altre creature mitologiche simili a quest'ultima, mostri che presentano caratteristiche di diverse specie animali e che sono spesso interpretati scientificamente come costruiti da diverse parti di animali. Nel caso di Dracovish, la parte superiore sembra essere basata su un Dunkleosteus, sebbene la coppia di pinne frontali assomigli a quelle possedute da pesci come quelli dell'ordine celacantiformi, mentre la metà inferiore potrebbe essere ispirata a uno stegosauro. Le voci del Pokédex di tutti i fossili di Galar menzionano che gli stessi Pokémon sono la causa della loro stessa estinzione. Questo potrebbe essere un riferimento all'ipotesi, obsoleta, che i dinosauri fossero evolutivamente inerti; ciò li avrebbe resi più grandi, lenti e stupidi al punto da non potersela cavare. Il fatto che Dracovish non sia in grado di accoppiarsi potrebbe essere un riferimento agli animali ibridi, quindi sterili. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dracovish",
     "shape": "corpi multipli",
     "specie": "Pokémon Fossile",
     "sprites": {
         "dracovish": {
             "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0882.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0882.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0882.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f1"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/10/Artwork0882_SpSc.png"
     },
     "stats": {
         "dracovish": {
@@ -54,8 +58,8 @@
     },
     "types": {
         "dracovish": [
-            "Acqua",
-            "Drago"
+            "Drago",
+            "Acqua"
         ]
     },
     "weight": {

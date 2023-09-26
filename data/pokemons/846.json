@@ -20,6 +20,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "arrokuda",
     "generation": 8,
     "height": {
         "arrokuda": "0,5 m"
@@ -28,13 +29,16 @@
     "name": "Arrokuda",
     "name_origin": "Arrokuda potrebbe essere una combinazione di arrow, freccia, o arowana e barracuda. Sasikamasu potrebbe essere una combinazione di 刺し sashi, puntura, e 梭子魚 kamasu, barracuda. ",
     "origin": "Arrokuda potrebbe essere basato su un barracuda. Ricorda anche altri pesci predatori come l'houndfish, l'arowana e il luccio. Sembra essere ispirato anche sulle freccette con cui condivide la stessa forma della pinna caudale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Arrokuda",
     "shape": "pinne",
     "specie": "Pokémon Carica",
     "sprites": {
         "arrokuda": {
             "default": "https://media.pokemoncentral.it/wiki/3/3e/Homem0846.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/bb/Homemsh0846.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bb/Homemsh0846.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5f"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0846_SpSc.png"
     },
     "stats": {
         "arrokuda": {

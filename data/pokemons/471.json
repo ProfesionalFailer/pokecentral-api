@@ -49,6 +49,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "glaceon",
     "generation": 4,
     "height": {
         "glaceon": "0,8 m"
@@ -57,13 +58,16 @@
     "name": "Glaceon",
     "name_origin": "Deriva dalle parole glacier  o dalla parola francese glace  ed eon , che è un suffisso presente in tutte le Eevolution, potrebbe anche essere un'anagramma di Congeal, ovvero congelare in inglese. ",
     "origin": "Basato su una volpe artica, anche se ha caratteristiche di cani e gatti, inoltre le orecchie sembrano quelle delle volpi Fennec. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Glaceon",
     "shape": "più di 4 arti",
     "specie": "Pokémon Nevefresca",
     "sprites": {
         "glaceon": {
             "default": "https://media.pokemoncentral.it/wiki/2/28/Homem0471.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0471.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0471.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2a/Artwork0471_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/dd/Artwork0471_DLPS.png"
     },
     "stats": {
         "glaceon": {

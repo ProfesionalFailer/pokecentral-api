@@ -47,6 +47,7 @@
         "Acqua 1",
         "Volante"
     ],
+    "flat_name": "wingull",
     "generation": 3,
     "height": {
         "wingull": "0,60 m"
@@ -55,13 +56,16 @@
     "name": "Wingull",
     "name_origin": "È l'unione delle parole inglesi wing, ala, e seagull, gabbiano. ",
     "origin": "È chiaramente basato su un gabbiano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wingull",
     "shape": "testa e base",
     "specie": "Pokémon Gabbiano",
     "sprites": {
         "wingull": {
             "default": "https://media.pokemoncentral.it/wiki/2/26/Homem0278.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/36/Homemsh0278.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/36/Homemsh0278.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a7/Artwork0278_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c0/Artwork0278_RZ.png"
     },
     "stats": {
         "wingull": {

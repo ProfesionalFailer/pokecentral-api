@@ -54,6 +54,7 @@
         "Acqua 1",
         "Acqua 3"
     ],
+    "flat_name": "kabutops",
     "generation": 1,
     "height": {
         "kabutops": "1,3 m"
@@ -62,13 +63,16 @@
     "name": "Kabutops",
     "name_origin": "Il nome deriva dalle parole giapponesi kabuto, elmetto degli antichi guerrieri giapponesi, e kabutogani, granchio reale. \"Tops\" potrebbe riferirsi ai triops, un genere di fossili viventi, oppure al fatto che, dopo l'evoluzione, il suo elmetto si trova sopra, dalla parola inglese \"top\", la testa e non copre più l'intero corpo. ",
     "origin": "Kabutops è basato su un trilobita. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kabutops",
     "shape": "due paia di ali",
     "specie": "Pokémon Crostaceo",
     "sprites": {
         "kabutops": {
             "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0141.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homemsh0141.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homemsh0141.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/15/Artwork0141_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/db/Artwork0141_RFVF.png"
     },
     "stats": {
         "kabutops": {
@@ -85,8 +89,8 @@
     },
     "types": {
         "kabutops": [
-            "Roccia",
-            "Acqua"
+            "Acqua",
+            "Roccia"
         ]
     },
     "weight": {

@@ -22,6 +22,7 @@
         "Coleottero",
         "Acqua 3"
     ],
+    "flat_name": "wimpod",
     "generation": 7,
     "height": {
         "wimpod": "0,5 m"
@@ -30,13 +31,16 @@
     "name": "Wimpod",
     "name_origin": "Wimpod potrebbe derivare da wimp, fifone, e dal termine tassonomico pod, Isopoda. Kosokumushi potrebbe essere una combinazione di 小 ko, piccolo, 足 soku, piede o 姑息 kosoku, subdolo, e 虫 mushi, insetto. ",
     "origin": "Wimpod è ispirato ad un isopode, in particolare della specie Ligia exotica o Ligia oceanica. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wimpod",
     "shape": "bipedi con coda",
     "specie": "Pokémon Lestopode",
     "sprites": {
         "wimpod": {
             "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0767.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh0767.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh0767.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c9/Artwork0767_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/75/Artwork0767_SL.png"
     },
     "stats": {
         "wimpod": {

@@ -21,6 +21,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "trumbeak",
     "generation": 7,
     "height": {
         "trumbeak": "0,6 m"
@@ -29,13 +30,16 @@
     "name": "Trumbeak",
     "name_origin": "Trumbeak può essere una combinazione di trumpet, tromba, e beak, becco. Kerarappa può essere una combinazione di 啄木鳥 keratsutsuki, picchio, e 喇叭 Rappa, tromba. ",
     "origin": "Trumbeak è basato su un picchio, in particolare sembra essere stato ispirato dagli uccelli del genere Campephilus. Il suo aspetto ricorda quello del cardinale rosso. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Trumbeak",
     "shape": "testa e base",
     "specie": "Pokémon Trombecco",
     "sprites": {
         "trumbeak": {
             "default": "https://media.pokemoncentral.it/wiki/7/77/Homem0732.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/60/Homemsh0732.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/60/Homemsh0732.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/79/Artwork0732_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/30/Artwork0732_SL.png"
     },
     "stats": {
         "trumbeak": {
@@ -52,8 +56,8 @@
     },
     "types": {
         "trumbeak": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

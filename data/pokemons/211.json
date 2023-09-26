@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "qwilfish": {
             "primary": "Velenopunte",
             "secondary": "Nuotovelox",
             "hidden": "Prepotenza"
@@ -51,6 +51,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "qwilfish",
     "generation": 2,
     "height": {
         "qwilfish": "0,5 m"
@@ -59,13 +60,16 @@
     "name": "Qwilfish",
     "name_origin": "Il nome è una combinazione delle parole \"Quill\"  e \"Fish\" . ",
     "origin": "Si basa sul pesce palla e sul pesce istrice, ma la capacità di espellere gli aculei velenosi lo rimandano ad una esplosione e quindi potrebbe essere ispirato anche ad una mina navale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Qwilfish",
     "shape": "pinne",
     "specie": "Pokémon Pallone",
     "sprites": {
         "qwilfish": {
             "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0211.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homemsh0211.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homemsh0211.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7c"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/eb/Artwork0211_HGSS.png"
     },
     "stats": {
         "qwilfish": {
@@ -86,8 +90,8 @@
             "Acqua"
         ],
         "forma-di-hisui": [
-            "Buio",
-            "Veleno"
+            "Veleno",
+            "Buio"
         ]
     },
     "weight": {

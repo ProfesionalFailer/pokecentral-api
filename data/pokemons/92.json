@@ -60,6 +60,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "gastly",
     "generation": 1,
     "height": {
         "gastly": "1,3 m"
@@ -68,13 +69,16 @@
     "name": "Gastly",
     "name_origin": "Il nome sembra essere una combinazione tra le parole gas e ghastly . ",
     "origin": "Gastly sembra essere basato su un nomale fantasma o spirito tipico dei cartoni animati o forse al Fuoco Fatuo. Sembra anche essere ispirato ai miti giapponesi degli Yokai Sogen Bi, ovvero una testa di monaco decapitata condannata a vagare in eterno sulla Terra mentre è divorata dal fuoco. Il suo tipo Veleno potrebbe essere un riferimento ai gas velenosi o inquinati. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gastly",
     "shape": "testa",
     "specie": "Pokémon Gas",
     "sprites": {
         "gastly": {
             "default": "https://media.pokemoncentral.it/wiki/0/04/Homem0092.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/10/Homemsh0092.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/10/Homemsh0092.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a9/Artwork0092_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f6/Artwork0092_RFVF.png"
     },
     "stats": {
         "gastly": {

@@ -12,6 +12,7 @@
         "I titoli di quinta generazione sono programmati affinché non possa essere ottenuto cromatico, ma nel codice di gioco sono comunque presenti gli sprite cromatici, probabilmente come precauzione in caso di trucchi/glitch imprevisti. Questa caratteristica è condivisa anche con Victini.",
         "Reshiram, Zekrom e Pikachu avevano dei loro carri da cerimonia durante la Macy's Thanksgiving Day Parade del 2010.",
         "Il 31 maggio 2010, due settimane prima della rivelazione ufficiale del tipo di Zekrom, Shōko Nakagawa parlò nel suo blog del suo amore per i Pokémon di tipo Elettro e disse di volere uno Zekrom. Questo commento fu presto rimosso.",
+        "Zekrom possiede la statistica di Attacco più alta tra i Pokémon di tipo Elettro.",
         "Zekrom è il Pokémon più pesante di quinta generazione."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/zekrom.mp3",
@@ -32,6 +33,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "zekrom",
     "generation": 5,
     "height": {
         "zekrom": "2,9 m"
@@ -40,13 +42,16 @@
     "name": "Zekrom",
     "name_origin": "Il suo nome deriva dalla parola giapponese 黒む kuromu, che significa \"diventare nero\" o \"tinto di oscurità\". Ken Sugimori ha detto che \"Ze\" è stato usato perché è un suono più duro e più forte rispetto al \"Re\" di Reshiram. ",
     "origin": "Reshiram e Zekrom sono basati sul concetto dello yin e yang nel Taoismo, infatti Zekrom è noto come il Pokémon Nero Ideale. Ken Sugimori ha affermato che il design di Zekrom è stato concepito per essere scuro, mascolino e meccanico per contrastare il design luminoso, leggiadro, morbido e organico di Reshiram , mentre la sua coda è basata su una turbina elettrica. Dal punto di vista dell'aspetto, assomiglia in qualche modo a un dinosauro teropode di taglia medio-grande, come Allosaurus o Tyrannosaurus, e un drago europeo. La cresta sulla sua testa sembra essere basata su una nube temporalesca. La leggenda secondo la quale lui e Reshiram sono fratelli che combattono tra loro potrebbe ricordare la mitologia di Romolo e Remo o di Caino e Abele; è possibile che possa essere basato anche sulla mitologia zoroastriana in cui vi erano due divinità ugualmente potenti, una rappresentante la luce e la verità, l'altra l'oscurità e la menzogna. In questo caso, Zekrom può essere preso per assomigliare ad Angra Mainyu, al contrario di Reshiram che assomiglia ad Ahura Mazda, sebbene Zekrom non sia malvagio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zekrom",
     "shape": "due paia di ali",
     "specie": "Pokémon Nero Ideale",
     "sprites": {
         "zekrom": {
             "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0644.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0644.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0644.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/42/Artwork0644_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fc/Artwork0644_NB.png"
     },
     "stats": {
         "zekrom": {
@@ -63,8 +68,8 @@
     },
     "types": {
         "zekrom": [
-            "Elettro",
-            "Drago"
+            "Drago",
+            "Elettro"
         ]
     },
     "weight": {

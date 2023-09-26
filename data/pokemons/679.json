@@ -21,6 +21,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "honedge",
     "generation": 6,
     "height": {
         "honedge": "0,8 m"
@@ -29,13 +30,16 @@
     "name": "Honedge",
     "name_origin": "Il nome Honedge potrebbe derivare dal verbo to hone , one  ed edge . ",
     "origin": "Honedge sembra essere basato sul concetto di arma magica posseduta completamente senziente. Il fatto che lo stadio base è basato su una spada potrebbe riferirsi al mito del Bushido dietro l'uso di una katana, secondo cui le katana erano spade possedute dalle anime di samurai e che quindi attaccavano di loro spontanea volontà. Secondo le leggende giapponesi, se si lascia o si dimentica di un oggetto per molto tempo esso diventa uno Tsukomogami, tra questi gli ombrelli e le spade erano quelli che più comunemente attaccavano gli umani. Il fatto che assorbe l'energia vitale di chi lo impugna sembra invece basarsi sul tyrfing maledetto. L'aspetto di Honedge e del'elsa invece potrebbe rimandare su una spatha, claymore oppure una spada jian, mentre il panno ricorda quelli usati nelle sciabole simili ad arti pensili. Il simbolo presente nel fodero di Honedge e Doublade può essere riferito alla triquetra, chiaramente presente in quella di Honedge e dove in Doublade è più ornamentale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Honedge",
     "shape": "quadrupede",
     "specie": "Pokémon Armabianca",
     "sprites": {
         "honedge": {
             "default": "https://media.pokemoncentral.it/wiki/1/14/Homem0679.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homemsh0679.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homemsh0679.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/24/Artwork0679_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1f/Artwork0679_XY.png"
     },
     "stats": {
         "honedge": {
@@ -52,8 +56,8 @@
     },
     "types": {
         "honedge": [
-            "Acciaio",
-            "Spettro"
+            "Spettro",
+            "Acciaio"
         ]
     },
     "weight": {

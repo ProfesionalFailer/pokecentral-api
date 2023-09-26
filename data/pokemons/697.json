@@ -26,6 +26,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "tyrantrum",
     "generation": 6,
     "height": {
         "tyrantrum": "2,5 m"
@@ -34,13 +35,16 @@
     "name": "Tyrantrum",
     "name_origin": "Tyrantrum deriva da Tyrannosaurus, tyrant  e tantrum . Gachigoras può essere la combinazione di ガチ gachi  e チゴラス Chigoras . Potrebbe derivare anche da がっちり gacchiri . ",
     "origin": "Tyrantrum è basato su un Tyrannosaurus Rex con alcune caratteristiche dei dinosauri appartenenti al gruppo Carnosauria come ad esempio la cresta arancione. Considerando la cresta, il piumaggio/peluria bianca sulle spalle e quella sorta di barba bianca sul mento lo ricondurrebbero anche ad un re, in quanto la cresta rimanda ad una corona, e le estensioni delle spalle e sul mento rimandarono rispettivamente ad un mantello e alla barba di un re. Le estensioni sulle spalle, però, ricordano vagamente anche delle piume, il che, unito alla cresta del pokemon, potrebbe rimandare al fatto che l'animale odierno che ha più in comune col T-Rex è il pollo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tyrantrum",
     "shape": "due paia di ali",
     "specie": "Pokémon Tiranno",
     "sprites": {
         "tyrantrum": {
             "default": "https://media.pokemoncentral.it/wiki/4/44/Homem0697.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0697.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0697.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1b"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b6/Artwork0697_XY.png"
     },
     "stats": {
         "tyrantrum": {
@@ -57,8 +61,8 @@
     },
     "types": {
         "tyrantrum": [
-            "Roccia",
-            "Drago"
+            "Drago",
+            "Roccia"
         ]
     },
     "weight": {

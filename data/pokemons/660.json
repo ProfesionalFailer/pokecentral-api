@@ -26,6 +26,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "diggersby",
     "generation": 6,
     "height": {
         "diggersby": "1,0 m"
@@ -34,13 +35,16 @@
     "name": "Diggersby",
     "name_origin": "Diggersby deriva da diggers  e bunny . Horūdo deriva probabilmente da 掘る horu  e 土 do . ",
     "origin": "Diggersby sembra essere basato su un coniglio o una lepre. Le sue orecchie ricordano le pale di un escavatore, e il suo aspetto trasandato ricorda uno stereotipato operaio di cantiere. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Diggersby",
     "shape": "due paia di ali",
     "specie": "Pokémon Scavabuche",
     "sprites": {
         "diggersby": {
             "default": "https://media.pokemoncentral.it/wiki/f/f5/Homem0660.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0660.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0660.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0660_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e7/Artwork0660_XY.png"
     },
     "stats": {
         "diggersby": {

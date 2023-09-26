@@ -49,6 +49,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "fearow",
     "generation": 1,
     "height": {
         "fearow": "1,2 m"
@@ -57,13 +58,16 @@
     "name": "Fearow",
     "name_origin": "Fearow potrebbe essere una combinazione di fear, paura, e sparrow, passerotto. Potrebbe derivare anche da feather, piuma, e arrow, freccia. Onidrill potrebbe essere una combinazione di 鬼 oni, demone, e drill, trapano. Le prime quattro sillabe possono essere tradotte letteralmente come 鬼鳥 onidori, uccello demoniaco. ",
     "origin": "Fearow potrebbe prendere ispirazione da diversi uccelli predatori. Possiede tratti simili a rapaci come falchi e avvoltoi, nonché delle somiglianze con le cicogne. L'aspetto fisico di Fearow potrebbe essere vagamente basato sul cormorano o sull'aniga comune, nonostante siano degli uccelli acquatici. Condivide anche alcune caratteristiche dei polli e delle beccacce, in particolare la cresta e il lungo becco. La colorazione e la dimensione del Pokémon potrebbe rappresentare l'airone golia, le cui piume, quando increspate, assumono la forma di una cresta. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Fearow",
     "shape": "testa e base",
     "specie": "Pokémon Becco",
     "sprites": {
         "fearow": {
             "default": "https://media.pokemoncentral.it/wiki/7/78/Homem0022.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0022.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0022.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/06/Artwork0022_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5c/Artwork0022_RFVF.png"
     },
     "stats": {
         "fearow": {
@@ -80,8 +84,8 @@
     },
     "types": {
         "fearow": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

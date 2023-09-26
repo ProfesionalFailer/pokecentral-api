@@ -57,6 +57,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "heracross",
     "generation": 2,
     "height": {
         "heracross": "1,5 m",
@@ -66,21 +67,25 @@
     "name": "Heracross",
     "name_origin": "Il suo nome potrebbe derivare dall'unione della parola greca \"Ἡρακλῆς\"  con la parola inglese \"cross\" . ",
     "origin": "È ispirato allo scarabeo rinoceronte giapponese, insetto coleottero con i quali condivide il corno. Questi insetti sono conosciuti per la loro forza, e vengono usati nelle lotte tra insetti, cosa che spiega il tipo Lotta. MegaHeracross è basato su uno scarabeo Ercole. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Heracross",
     "shape": "un paio di ali",
     "specie": "Pokémon Monocorno",
     "sprites": {
-        "heracross ": {
+        "heracross": {
             "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0214.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0214.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0214.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/07/Artwork0214_Corp.png"
         },
-        "heracross -f": {
+        "heracross-f": {
             "default": "https://media.pokemoncentral.it/wiki/0/02/Homef0214.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homefsh0214.png"
         },
         "megaheracross": {
             "default": "https://media.pokemoncentral.it/wiki/6/61/Homem0214M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0214M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0214M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/26/Artwork0214M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d4/Artwork0214_RFVF.png"
     },
     "stats": {
         "heracross": {

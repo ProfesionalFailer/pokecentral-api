@@ -58,6 +58,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "metapod",
     "generation": 1,
     "height": {
         "metapod": "0,7 m"
@@ -66,13 +67,16 @@
     "name": "Metapod",
     "name_origin": "Metapod potrebbe essere una combinazione di metamorphosis, metamorfosi, e pod, bozzolo. Transel potrebbe essere una combinazione di トランス trans, trasformazione, e セル cell, cella. Potrebbe essere un gioco di parole con ランドセル randoseru, sacca. ",
     "origin": "Metapod potrebbe essere basato su una crisalide di farfalla. Ricorda la crisalide di una Papilio polyxenes o di una cavolaia maggiore, con una grande sporgenza all'altezza del naso che potrebbe essere ispirata dalla crisalide di una Battus polydamas o di una Battus philenor. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Metapod",
     "shape": "testa e gambe",
     "specie": "Pokémon Bozzolo",
     "sprites": {
         "metapod": {
             "default": "https://media.pokemoncentral.it/wiki/2/22/Homem0011.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0011.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0011.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/ad/Artwork0011_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a2/Artwork0011_RFVF.png"
     },
     "stats": {
         "metapod": {

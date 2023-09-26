@@ -1,6 +1,10 @@
 {
     "abilities": {
-        "pikachu-e-pikachu-gigamax": {
+        "pikachu": {
+            "primary": "Statico",
+            "hidden": "Parafulmine"
+        },
+        "pikachu-gigamax": {
             "primary": "Statico",
             "hidden": "Parafulmine"
         },
@@ -131,6 +135,7 @@
         "Campo",
         "Magico"
     ],
+    "flat_name": "pikachu",
     "generation": 1,
     "height": {
         "pikachu": "0,4 m",
@@ -140,17 +145,20 @@
     "name": "Pikachu",
     "name_origin": "Pikachu è una combinazione di ピカピカ pikapika, onomatopea dello scintillio, e チューチュー chūchū, il suono dello squittio. ",
     "origin": "Secondo l'origine del nome, Pikachu è basato su un topo. Le guance del Pokémon hanno lo stesso funzionamento di quelle degli scoiattoli: questi roditori utilizzano le loro guance per immagazzinare il loro cibo. Anche la coda è basata su quella degli scoiattoli. Le strisce sul dorso e la coda a forma di fulmine sono fattori puramente estetici. La disegnatrice di Pikachu, Atsuko Nishida, ha rivelato che, in origine, il Pokémon era una creatura simile a un daifuku con le orecchie. La punta nere delle orecchie è tutto ciò che rimane dell'idea originale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pikachu",
     "shape": "più di 4 arti",
     "specie": "Pokémon Topo",
     "sprites": {
-        "": {
+        "pikachu": {
             "default": "https://media.pokemoncentral.it/wiki/c/c8/Homem0025.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homemsh0025.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homemsh0025.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/59/Artwork0025W_Corp.png"
         },
-        "-f": {
+        "pikachu-f": {
             "default": "https://media.pokemoncentral.it/wiki/0/02/Homef0025.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/81/Homefsh0025.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5e/Artwork0025_RFVF.png"
     },
     "stats": {
         "pikachu": {
@@ -161,7 +169,7 @@
             "spd": 50,
             "spe": 90
         },
-        "-pikachu-cosplay": {
+        "pikachu-cosplay": {
             "hp": 35,
             "atk": 55,
             "def": 40,
@@ -169,7 +177,7 @@
             "spd": 50,
             "spe": 90
         },
-        "-pikachu-rockstar": {
+        "pikachu-rockstar": {
             "hp": 35,
             "atk": 55,
             "def": 40,
@@ -177,7 +185,7 @@
             "spd": 50,
             "spe": 90
         },
-        "-pikachu-damigella": {
+        "pikachu-damigella": {
             "hp": 35,
             "atk": 55,
             "def": 40,
@@ -185,7 +193,7 @@
             "spd": 50,
             "spe": 90
         },
-        "-pikachu-confetto": {
+        "pikachu-confetto": {
             "hp": 35,
             "atk": 55,
             "def": 40,
@@ -193,7 +201,7 @@
             "spd": 50,
             "spe": 90
         },
-        "-pikachu-scienziata": {
+        "pikachu-scienziata": {
             "hp": 35,
             "atk": 55,
             "def": 40,
@@ -201,7 +209,15 @@
             "spd": 50,
             "spe": 90
         },
-        "-pikachu-wrestler-e-pikachu-gigamax": {
+        "pikachu-wrestler": {
+            "hp": 35,
+            "atk": 55,
+            "def": 40,
+            "spa": 50,
+            "spd": 50,
+            "spe": 90
+        },
+        "pikachu-gigamax": {
             "hp": 35,
             "atk": 55,
             "def": 40,
@@ -220,12 +236,13 @@
     },
     "stats_sum": {
         "pikachu": 320,
-        "-pikachu-cosplay": 320,
-        "-pikachu-rockstar": 320,
-        "-pikachu-damigella": 320,
-        "-pikachu-confetto": 320,
-        "-pikachu-scienziata": 320,
-        "-pikachu-wrestler-e-pikachu-gigamax": 320,
+        "pikachu-cosplay": 320,
+        "pikachu-rockstar": 320,
+        "pikachu-damigella": 320,
+        "pikachu-confetto": 320,
+        "pikachu-scienziata": 320,
+        "pikachu-wrestler": 320,
+        "pikachu-gigamax": 320,
         "compagno": 430
     },
     "types": {

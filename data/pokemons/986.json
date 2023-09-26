@@ -1,58 +1,62 @@
 {
     "abilities": {
-        "crinealato": {
+        "fungofurioso": {
             "primary": "Paleoattivazione"
         }
     },
     "curiosities": [
-        "Crinealato, Peldisabbia e Codaurlante sono gli unici Pokémon Paradosso somiglianti a una fase evolutiva non finale."
+        "È uno dei Pokémon con più debolezze, ben 7."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/crinealato.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/fungofurioso.mp3",
     "dex_entries": {
-        "crinealato": {
-            "scarlet": "Le sue caratteristiche sono molto simili a quelle di Crinealato, una creatura di cui si parla in un certo documento.",
-            "violet": "Le sue caratteristiche principali ricordano quelle di uno pterosauro fantasma menzionato in una rivista di paranormale."
+        "fungofurioso": {
+            "scarlet": "È possibile che la creatura chiamata \"Fungofurioso\" in un certo libro sia proprio questo Pokémon.",
+            "violet": "Ha una certa somiglianza con un Pokémon presentato in una rivista di dubbia attendibilità come una fusione tra un dinosauro e un fungo."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "fungofurioso",
     "generation": 9,
     "height": {
-        "crinealato": "1,4 m"
+        "fungofurioso": "1,2 m"
     },
     "id": 986,
-    "name": "Crinealato",
-    "name_origin": "Crinealato deriva semplicemente dall'accostamento delle parole italiane crine e alato. Il nome inglese Flutter Mane significa letteralmente criniera svolazzante. ",
+    "name": "Fungofurioso",
+    "name_origin": "Fungofurioso è letteralmente fungo furioso.\nBrute Bonnet è letteralmente l'unione di brute  e bonnet . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Fungofurioso",
     "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
-        "crinealato": {
-            "default": "https://media.pokemoncentral.it/wiki/6/68/Homem0987.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0987.png"
-        }
+        "fungofurioso": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0986.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0986.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/94/Artwork0986_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/59/Artwork0986_SV.png"
     },
     "stats": {
-        "crinealato": {
-            "hp": 55,
-            "atk": 55,
-            "def": 55,
-            "spa": 135,
-            "spd": 135,
-            "spe": 135
+        "fungofurioso": {
+            "hp": 111,
+            "atk": 127,
+            "def": 99,
+            "spa": 79,
+            "spd": 99,
+            "spe": 55
         }
     },
     "stats_sum": {
-        "crinealato": 570
+        "fungofurioso": 570
     },
     "types": {
-        "crinealato": [
-            "Folletto",
-            "Spettro"
+        "fungofurioso": [
+            "Erba",
+            "Buio"
         ]
     },
     "weight": {
-        "crinealato": "4,0 kg"
+        "fungofurioso": "21,0 kg"
     }
 }

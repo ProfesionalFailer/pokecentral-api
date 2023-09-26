@@ -26,6 +26,7 @@
         "Acqua 1",
         "Volante"
     ],
+    "flat_name": "swanna",
     "generation": 5,
     "height": {
         "swanna": "1,3 m"
@@ -34,13 +35,16 @@
     "name": "Swanna",
     "name_origin": "Il suo nome deriva dall'inglese swan  e da ballerina. ",
     "origin": "È chiaramente basato su un cigno. Il fatto che la sua pre-evoluzione sia basata su una piccola papera, potrebbe essere un riferimento alla favola del brutto anatroccolo. Il suo design trae ispirazione dal costume indossato dalla protagonista de \"Il lago dei cigni\", Odette. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Swanna",
     "shape": "testa e base",
     "specie": "Pokémon Biancuccello",
     "sprites": {
         "swanna": {
             "default": "https://media.pokemoncentral.it/wiki/d/dc/Homem0581.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0581.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0581.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4e/Artwork0581_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/21/Artwork0581_NB.png"
     },
     "stats": {
         "swanna": {

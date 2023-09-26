@@ -55,6 +55,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "seaking",
     "generation": 1,
     "height": {
         "seaking": "1,3 m"
@@ -63,17 +64,20 @@
     "name": "Seaking",
     "name_origin": "È probabile che derivi dalle parole inglesi sea  e king . ",
     "origin": "È basato su un Oranda calico, una varietà di pesce rosso. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Seaking",
     "shape": "pinne",
     "specie": "Pokémon Pescerosso",
     "sprites": {
-        "": {
+        "seaking": {
             "default": "https://media.pokemoncentral.it/wiki/4/41/Homem0119.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homemsh0119.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homemsh0119.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/20/Artwork0119_Corp.png"
         },
-        "-f": {
+        "seaking-f": {
             "default": "https://media.pokemoncentral.it/wiki/c/c8/Homef0119.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/c8/Homefsh0119.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fa/Artwork0119_RFVF.png"
     },
     "stats": {
         "seaking": {

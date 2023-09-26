@@ -40,6 +40,7 @@
         "Mostro",
         "Erba"
     ],
+    "flat_name": "bayleef",
     "generation": 2,
     "height": {
         "bayleef": "1,2 m"
@@ -47,14 +48,17 @@
     "id": 153,
     "name": "Bayleef",
     "name_origin": "Il suo nome è la corruzione dalla parola bay leaf, alloro che è una pianta. ",
-    "origin": "Questo Pokémon è basato su un gruppo di dinosauri chiamati Sauropodi, precisamente l'Apatosauro, mentre le foglie che ha sul corpo sono ispirate alle foglie di bay laurel, usato per curare tramite aromaterapia. ",
+    "origin": "Questo Pokémon è basato su un gruppo di dinosauri chiamati sauropodi, precisamente l'Apatosauro, mentre le foglie che ha sul corpo sono ispirate alle foglie di bay laurel, usato per curare tramite aromaterapia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bayleef",
     "shape": "più di 4 arti",
     "specie": "Pokémon Foglia",
     "sprites": {
         "bayleef": {
             "default": "https://media.pokemoncentral.it/wiki/8/83/Homem0153.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0153.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0153.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3d/Artwork0153_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fd/Artwork0153_HGSS.png"
     },
     "stats": {
         "bayleef": {

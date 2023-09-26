@@ -28,6 +28,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "rowlet",
     "generation": 7,
     "height": {
         "rowlet": "0,3 m"
@@ -36,13 +37,16 @@
     "name": "Rowlet",
     "name_origin": "Il nome Rowlet potrebbe essere una combinazione di round, rotondo, o arrow, freccia, e owlet, giovane gufo. Il nome Mokuroh potrebbe essere una combinazione di 木 moku, albero, e 梟 fukurō, gufo. ",
     "origin": "Rowlet è basato su un gufo, condividendo le maggiori somiglianze con i membri della famiglia dei Titonidi, specie conosciute collettivamente come \"barbagianni\" che hanno facce a forma di cuore e occhi scuri. In particolare, assomiglia molto al barbagianni comune, che è stato introdotto alle Hawaii. In alternativa, può essere ispirato al barbagianni delle erbe orientale o al barbagianni delle erbe africano, insieme al gufo pueo locale che è noto per sorvolare le aree erbose delle isole hawaiane, da cui il tipo Erba. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rowlet",
     "shape": "testa e base",
     "specie": "Pokémon Aliderba",
     "sprites": {
         "rowlet": {
             "default": "https://media.pokemoncentral.it/wiki/0/0e/Homem0722.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/eb/Homemsh0722.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/eb/Homemsh0722.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fe/Artwork_Pok%C3%A9mon_iniziali_Alola_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5d/Artwork0722_LPA.png"
     },
     "stats": {
         "rowlet": {

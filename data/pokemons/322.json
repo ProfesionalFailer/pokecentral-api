@@ -40,6 +40,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "numel",
     "generation": 3,
     "height": {
         "numel": "0,70 m"
@@ -48,17 +49,20 @@
     "name": "Numel",
     "name_origin": "Il nome Numel può essere la combinazione di numb  e camel . ドンメル Donmel deriva probabilmente da 鈍 don  e camel . ",
     "origin": "Numel è basato su un dromedario misto ad un vulcano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Numel",
     "shape": "più di 4 arti",
     "specie": "Pokémon Torpore",
     "sprites": {
-        "": {
+        "numel": {
             "default": "https://media.pokemoncentral.it/wiki/7/74/Homem0322.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0322.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0322.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b5/Artwork0322_Corp.png"
         },
-        "-f": {
+        "numel-f": {
             "default": "https://media.pokemoncentral.it/wiki/6/6e/Homef0322.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/dd/Homefsh0322.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/32/Artwork0322_RZ.png"
     },
     "stats": {
         "numel": {

@@ -63,6 +63,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "psyduck",
     "generation": 1,
     "height": {
         "psyduck": "0,8 m"
@@ -71,13 +72,16 @@
     "name": "Psyduck",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi psychic  e duck . ",
     "origin": "La mancanza di piume e l'inabilità a volare di Psyduck, oltre alle sue unghie, suggeriscono che sia ispirato più a un ornitorinco che a un'anatra. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Psyduck",
     "shape": "due paia di ali",
     "specie": "Pokémon Papero",
     "sprites": {
         "psyduck": {
             "default": "https://media.pokemoncentral.it/wiki/f/fd/Homem0054.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0054.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0054.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/ff/Artwork0054_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6d/Artwork0054_RFVF.png"
     },
     "stats": {
         "psyduck": {

@@ -1,71 +1,64 @@
 {
     "abilities": {
-        "colloferreo": {
+        "manoferrea": {
             "primary": "Carica Quark"
         }
     },
     "curiosities": [
-        "Pagine che richiamano file inesistenti",
-        "Pokémon",
-        "Pokémon di nona generazione",
-        "Pokémon di tipo Buio",
-        "Pokémon di tipo Volante",
-        "Pokémon di doppio tipo",
-        "Pokémon nel gruppo di esperienza Lento",
-        "Pokémon di colore Blu",
-        "Pokémon dalla sagoma n.",
-        "Pokémon di sesso sconosciuto",
-        "Pokémon di Gruppo Uova Sconosciuto",
-        "Pokémon che non fanno parte di una linea di evoluzione",
-        "Pokémon con statistiche base totali di 570",
-        "Pokémon Paradosso"
+        "Pawmo, Pawmot e Manoferrea sono i primi Pokémon con la combinazione di tipi Elettro/Lotta.",
+        "Manoferrea possiede la statistica di Punti Salute più alta tra i Pokémon di tipo Elettro e tra i Pokémon di tipo Lotta.",
+        "Non considerando forme megaevolute, Manoferrea possiede, a pari merito con Conkeldurr, la statistica di Attacco più alta tra i Pokémon di tipo Lotta."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/colloferreo.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/manoferrea.mp3",
     "dex_entries": {
-        "colloferreo": {
-            "scarlet": "Somiglia a un Pokémon presentato da una rivista di paranormale come il frutto dell'amore tra un Hydreigon e un robot.",
-            "violet": "Questo Pokémon potrebbe essere l'oggetto descritto in un antico testo con il nome di \"Colloferreo\"."
+        "manoferrea": {
+            "scarlet": "Il suo aspetto è simile a quello di un atleta che, stando allo scoop di una rivista di paranormale, sarebbe stato trasformato in un cyborg.",
+            "violet": "Ha molti aspetti in comune con Manoferrea, un oggetto menzionato in un certo diario di viaggio."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "manoferrea",
     "generation": 9,
     "height": {
-        "colloferreo": "1,3 m"
+        "manoferrea": "1,8 m"
     },
     "id": 992,
-    "name": "Colloferreo",
-    "name_origin": "",
-    "origin": "",
+    "name": "Manoferrea",
+    "name_origin": "Il nome italiano non significa altro che \"mano ferrea\".\nIl nome inglese \"Iron Hands\" significa \"mani di ferro.\" ",
+    "origin": "Manoferrea potrebbe essere una versione robotica di Hariyama. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Manoferrea",
     "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
-        "colloferreo": {
-            "default": "https://media.pokemoncentral.it/wiki/a/a1/Homem0993.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homemsh0993.png"
-        }
+        "manoferrea": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7a/Homem0992.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a7/Homemsh0992.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1c"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c7/Artwork0992_SV.png"
     },
     "stats": {
-        "colloferreo": {
-            "hp": 94,
-            "atk": 80,
-            "def": 86,
-            "spa": 122,
-            "spd": 80,
-            "spe": 108
+        "manoferrea": {
+            "hp": 154,
+            "atk": 140,
+            "def": 108,
+            "spa": 50,
+            "spd": 68,
+            "spe": 50
         }
     },
     "stats_sum": {
-        "colloferreo": 570
+        "manoferrea": 570
     },
     "types": {
-        "colloferreo": [
-            "Buio",
-            "Volante"
+        "manoferrea": [
+            "Elettro",
+            "Lotta"
         ]
     },
     "weight": {
-        "colloferreo": "111,0 kg"
+        "manoferrea": "380,7 kg"
     }
 }

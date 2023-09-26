@@ -51,6 +51,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "steelix",
     "generation": 2,
     "height": {
         "steelix": "9,2 m",
@@ -60,21 +61,25 @@
     "name": "Steelix",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi steel  e helix . Potrebbe anche riferirsi alla parola onyx . ",
     "origin": "Basato sul wyrm, su un serpente e un millepiedi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Steelix",
     "shape": "testa e gambe",
     "specie": "Pokémon Ferroserpe",
     "sprites": {
-        "steelix ": {
+        "steelix": {
             "default": "https://media.pokemoncentral.it/wiki/7/7c/Homem0208.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0208.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0208.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/78/Artwork0208_Corp.png"
         },
-        "steelix -f": {
+        "steelix-f": {
             "default": "https://media.pokemoncentral.it/wiki/a/a9/Homef0208.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homefsh0208.png"
         },
         "megasteelix": {
             "default": "https://media.pokemoncentral.it/wiki/0/0e/Homem0208M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0208M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0208M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/32/Artwork0208M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0a/Artwork0208_HGSS.png"
     },
     "stats": {
         "steelix": {
@@ -100,8 +105,8 @@
     },
     "types": {
         "steelix": [
-            "Acciaio",
-            "Terra"
+            "Terra",
+            "Acciaio"
         ]
     },
     "weight": {

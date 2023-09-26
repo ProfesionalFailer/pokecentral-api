@@ -19,6 +19,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "stakataka",
     "generation": 7,
     "height": {
         "stakataka": "5,5 m"
@@ -27,13 +28,16 @@
     "name": "Stakataka",
     "name_origin": "Stakataka è una combinazione tra stack, pila, e attack, attacco. Tsundetsunde è una ripetizione di 積んで tsunde, impilato. UC Structura deriva dalla combinazione di UC, sigla di Ultracreatura, e dalla parola latina structura, struttura, data la sua conformazione a mattoni impilati. ",
     "origin": "Sembra essere basato su una torre vivente. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Stakataka",
     "shape": "più di 4 arti",
     "specie": "Pokémon Bastione",
     "sprites": {
         "stakataka": {
             "default": "https://media.pokemoncentral.it/wiki/c/cd/Homem0805.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0805.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0805.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/97/Artwork0805_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0b/Artwork0805_UsUl.png"
     },
     "stats": {
         "stakataka": {
@@ -50,8 +54,8 @@
     },
     "types": {
         "stakataka": [
-            "Acciaio",
-            "Roccia"
+            "Roccia",
+            "Acciaio"
         ]
     },
     "weight": {

@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "zacian": {
             "primary": "Spada Indomita"
         }
     },
@@ -29,6 +29,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "zacian",
     "generation": 8,
     "height": {
         "zacian": "2,8 m"
@@ -37,6 +38,7 @@
     "name": "Zacian",
     "name_origin": "Zacian deriva dalla pronuncia giapponese di the cyan, \"il ciano\" in inglese. ",
     "origin": "Zacian potrebbe essere basato sulla spada Excalibur di Re Artù. Il suo ruolo di guerriero che aiuta un re potrebbe trarre ispirazione dai cavalieri della Tavola Rotonda. Inoltre, la natura femminile di Zacian  potrebbe essere un riferimento alla Dama del Lago, il personaggio che consegna la spada Excalibur a Re Artù; il suo rapporto con Zamazenta potrebbe invece alludere al rapporto tra Artù e sua sorella Fata Morgana. In alternativa può ricordare un lupo, un animale originario della Gran Bretagna e un importante simbolo araldico per le famiglie nobili durante il medioevo. La lunga pelliccia blu appesa al suo collo ricorda un caparison, un rivestimento di stoffa posto sui cavalli da guerra durante l'Alto Medioevo. La storia di Zacian e Zamazenta che si ritirano nel Bosco Assopito per riprendersi dalle loro ferite e il ritorno ai nostri giorni per salvare Galar è simile alla leggenda del ritorno messianico di Re Artù. L'abilità di Zacian di tagliare qualsiasi cosa con la sua spada e l'abilità di Zamazenta di resistere a qualsiasi tipo di attacco con il suo scudo potrebbe essere un esempio di paradosso dell'onnipotenza. Uno degli esempi più famosi di questo folklore include la storia cinese secondo cui un venditore ambulante vendette una spada e una lancia con abilità simili a quelle dei Pokémon solo per chiedersi cosa sarebbe successo se i due oggetti fossero stati utilizzati l'uno contro l'altro. Un altro esempio narra di un segugio da caccia greco, chiamato Lelapo, che acchiappava qualsiasi cosa gli si capitasse a tiro e della volpe di Teumesso che non poteva mai essere catturata. Era un paradosso senza possibilità di soluzione, quindi vennero tramutati in una roccia e il cane fu sistemato nella costellazione del Cane Maggiore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zacian",
     "shape": "più di 4 arti",
     "specie": "Pokémon Guerriero",
     "sprites": {
@@ -47,7 +49,11 @@
         "re-delle-spade": {
             "default": "https://media.pokemoncentral.it/wiki/5/5d/Homem0888R.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0888R.png"
-        }
+        },
+        "zacian": {
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f3"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/23/Artwork0888_SpSc.png"
     },
     "stats": {
         "eroe-di-mille-lotte": {
@@ -76,8 +82,8 @@
             "Folletto"
         ],
         "re-delle-spade": [
-            "Acciaio",
-            "Folletto"
+            "Folletto",
+            "Acciaio"
         ]
     },
     "weight": {

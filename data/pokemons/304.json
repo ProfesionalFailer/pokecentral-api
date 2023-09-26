@@ -40,6 +40,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "aron",
     "generation": 3,
     "height": {
         "aron": "0,40 m"
@@ -48,13 +49,16 @@
     "name": "Aron",
     "name_origin": "Aron è l'unione di Armor  e iron . Potrebbe anche aver a che fare con armadillo. ",
     "origin": "Aron è basato sul Palgasauro, mostro mangiatore di ferro della mitologia coreana. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Aron",
     "shape": "più di 4 arti",
     "specie": "Pokémon Corazza",
     "sprites": {
         "aron": {
             "default": "https://media.pokemoncentral.it/wiki/8/82/Homem0304.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homemsh0304.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homemsh0304.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e0/Artwork0304_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/90/Artwork0304_RZ.png"
     },
     "stats": {
         "aron": {
@@ -71,8 +75,8 @@
     },
     "types": {
         "aron": [
-            "Acciaio",
-            "Roccia"
+            "Roccia",
+            "Acciaio"
         ]
     },
     "weight": {

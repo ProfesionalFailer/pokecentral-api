@@ -47,6 +47,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "forretress",
     "generation": 2,
     "height": {
         "forretress": "1,2 m"
@@ -55,13 +56,16 @@
     "name": "Forretress",
     "name_origin": "Deriva dalla parola fortress  o da forest . ",
     "origin": "Basato su un seme di ippocastano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Forretress",
     "shape": "testa",
     "specie": "Pokémon Larva",
     "sprites": {
         "forretress": {
             "default": "https://media.pokemoncentral.it/wiki/3/3f/Homem0205.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0205.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0205.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/72/Artwork0205_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/08/Artwork0205_HGSS.png"
     },
     "stats": {
         "forretress": {
@@ -78,8 +82,8 @@
     },
     "types": {
         "forretress": [
-            "Acciaio",
-            "Coleot"
+            "Coleot",
+            "Acciaio"
         ]
     },
     "weight": {

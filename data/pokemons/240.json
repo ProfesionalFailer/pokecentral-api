@@ -47,6 +47,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "magby",
     "generation": 2,
     "height": {
         "magby": "0,7 m"
@@ -55,13 +56,16 @@
     "name": "Magby",
     "name_origin": "Magby è una combinazione di \"magma\"  e \"baby\" , oppure da una corruzione di \"maybe\" . ",
     "origin": "Magby sembra essere una combinazione fra un booby o un'anatra e una salamandra di fuoco. Il picco sul dorso dà somiglianza con un cucciolo di iguana. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Magby",
     "shape": "due paia di ali",
     "specie": "Pokémon Carbonvivo",
     "sprites": {
         "magby": {
             "default": "https://media.pokemoncentral.it/wiki/c/cd/Homem0240.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/bc/Homemsh0240.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bc/Homemsh0240.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/17/Artwork0240_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/df/Artwork0240_HGSS.png"
     },
     "stats": {
         "magby": {

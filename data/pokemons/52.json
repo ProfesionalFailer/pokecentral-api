@@ -1,6 +1,11 @@
 {
     "abilities": {
-        "meowth-e-meowth-gigamax": {
+        "meowth": {
+            "primary": "Raccolta",
+            "secondary": "Tecnico",
+            "hidden": "Agitazione"
+        },
+        "meowth-gigamax": {
             "primary": "Raccolta",
             "secondary": "Tecnico",
             "hidden": "Agitazione"
@@ -91,6 +96,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "meowth",
     "generation": 1,
     "height": {
         "meowth": "0,4 m"
@@ -99,12 +105,14 @@
     "name": "Meowth",
     "name_origin": "Meowth sembra essere una combinazione di meow, il verso del gatto, e bocca. Il -th potrebbe anche essere stato preso in prestito da Nyarth, poiché sia meow che nyā sono onomatopee del verso di un gatto. Nyarth potrebbe essere una combinazione di ニャー nyā, il verso dei gatti, e i suoni scambiati di シャム Syamu, Siam, antico nome della Thailandia, diventato ミャス Myasu. Siam si riferisce a una varietà di gatti, i siamesi, che sono in relazione con l'evoluzione di Meowth, Persian e la varietà di gatti persiani. Su è compatibile a livello verbale con th, poiché s e th sono spesso scambiati in alcuni difetti di pronuncia. ",
     "origin": "Junichi Masuda afferma che Meowth è basato sul personale gatto di Satoshi Tajiri. Meowth sembra essere basato sulla leggenda giapponese del 招き猫 Maneki Neko, conosciuto anche come gatto fortunato o gatto invitante. Secondo la leggenda, un gatto alzò la sua zampa per salutare un signore e gli salvò la vita quando un fulmine colpì il punto dove si trovava. I Maneki Neko sono spesso usati nei ristoranti e nei negozi come portafortuna per portare ai clienti fortuna. Statue del gatto sono spesso raffigurate mentre tengono un koban, una moneta antica usata in Giappone, come quella sulla testa di Meowth. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Meowth",
     "shape": "più di 4 arti",
     "specie": "Pokémon Graffimiao",
     "sprites": {
         "meowth": {
             "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0052.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/79/Homemsh0052.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/79/Homemsh0052.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d9/Artwork0052A_Corp.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/0/0e/Homem0052A.png",
@@ -117,10 +125,19 @@
         "meowth-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/4/4e/Homem0052Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d5/Homemsh0052Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/95/Artwork0052_RFVF.png"
     },
     "stats": {
-        "meowth-e-meowth-gigamax": {
+        "meowth": {
+            "hp": 40,
+            "atk": 45,
+            "def": 35,
+            "spa": 40,
+            "spd": 40,
+            "spe": 90
+        },
+        "meowth-gigamax": {
             "hp": 40,
             "atk": 45,
             "def": 35,
@@ -146,12 +163,16 @@
         }
     },
     "stats_sum": {
-        "meowth-e-meowth-gigamax": 290,
+        "meowth": 290,
+        "meowth-gigamax": 290,
         "forma-di-alola": 290,
         "forma-di-galar": 290
     },
     "types": {
-        "meowth-e-meowth-gigamax": [
+        "meowth": [
+            "Normale"
+        ],
+        "meowth-gigamax": [
             "Normale"
         ],
         "forma-di-alola": [

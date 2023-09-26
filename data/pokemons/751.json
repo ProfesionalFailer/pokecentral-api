@@ -23,6 +23,7 @@
         "Acqua 1",
         "Coleottero"
     ],
+    "flat_name": "dewpider",
     "generation": 7,
     "height": {
         "dewpider": "0,3 m"
@@ -31,13 +32,16 @@
     "name": "Dewpider",
     "name_origin": "Dewpider deriva da dew, goccia, e spider, ragno. Shizukumo può essere la combinazione di 滴 shizuku, goccia, e 蜘蛛 kumo, ragno. ",
     "origin": "Dewpider è basato su un ragno palombaro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dewpider",
     "shape": "corpi multipli",
     "specie": "Pokémon Bolladacqua",
     "sprites": {
         "dewpider": {
             "default": "https://media.pokemoncentral.it/wiki/f/ff/Homem0751.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/64/Homemsh0751.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/64/Homemsh0751.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2f/Artwork0751_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c5/Artwork0751_SL.png"
     },
     "stats": {
         "dewpider": {

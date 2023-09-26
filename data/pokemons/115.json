@@ -68,6 +68,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "kangaskhan",
     "generation": 1,
     "height": {
         "kangaskhan": "2,2 m"
@@ -76,17 +77,20 @@
     "name": "Kangaskhan",
     "name_origin": "Il suo nome deriva dall'unione della parola inglese kangaroo, canguro, con l'appellativo nobiliare di origine mongola Khan, monarca, quasi a dipingerlo come il temibile sovrano dei canguri. Il suo nome giapponese, ガルーラ Garūra, probabilmente deriva dall'unione di garuu, canguro, e gojira, nome giapponese di Godzilla. ",
     "origin": "Kangaskhan si basa su un canguro con il cucciolo nel suo marsupio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kangaskhan",
     "shape": "due paia di ali",
     "specie": "Pokémon Genitore",
     "sprites": {
         "kangaskhan": {
             "default": "https://media.pokemoncentral.it/wiki/e/ed/Homef0115.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homefsh0115.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homefsh0115.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c3/Artwork0115M_Corp.png"
         },
         "megakangaskhan": {
             "default": "https://media.pokemoncentral.it/wiki/8/8b/Homef0115M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homefsh0115M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2f/Artwork0115_RFVF.png"
     },
     "stats": {
         "kangaskhan": {

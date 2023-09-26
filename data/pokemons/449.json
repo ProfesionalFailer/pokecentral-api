@@ -36,6 +36,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "hippopotas",
     "generation": 4,
     "height": {
         "hippopotas": "0,8 m"
@@ -44,17 +45,20 @@
     "name": "Hippopotas",
     "name_origin": "Deriva da una contrazione della parola hippopotamus . ",
     "origin": "È basato su un ippopotamo, con un camuffamento da militare. È probabile che abbia origine dalla leggenda del bahamut, un pesce della mitologia musulmana che si dice abbia una testa simile a quella di un ippopotamo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hippopotas",
     "shape": "più di 4 arti",
     "specie": "Pokémon Ippo",
     "sprites": {
-        "": {
+        "hippopotas": {
             "default": "https://media.pokemoncentral.it/wiki/7/78/Homem0449.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0449.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0449.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/91/Artwork0449_Corp.png"
         },
-        "-f": {
+        "hippopotas-f": {
             "default": "https://media.pokemoncentral.it/wiki/4/48/Homef0449.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homefsh0449.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9c/Artwork0449_DP.png"
     },
     "stats": {
         "hippopotas": {

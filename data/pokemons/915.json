@@ -33,6 +33,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "lechonk",
     "generation": 9,
     "height": {
         "lechonk": "0,5 m"
@@ -41,13 +42,16 @@
     "name": "Lechonk",
     "name_origin": "Lechonk potrebbe derivare da lechón, spagnolo per maialino da latte, oink, onomatopea del verso del maiale, e chonk, gergo di internet per indicare un animale paffuto. Gureton potrebbe derivare da グルグル guruguru, onomatopea per l'atto di rotolarsi, ton, tonnellata, e glutton, ghiottone. ",
     "origin": "Lechonk potrebbe essere basato sul maiale nero iberico, una razza di maiale molto antica situata in Spagna e in Portogallo, con il quale condivide, oltre che la colorazione, la dieta a base di frutta e noci. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lechonk",
     "shape": "None",
     "specie": "Pokémon Porcellino",
     "sprites": {
         "lechonk": {
             "default": "https://media.pokemoncentral.it/wiki/4/46/Homem0915.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0915.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0915.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/81/Artwork0915_Corp_3.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b6/Artwork0915_SV.png"
     },
     "stats": {
         "lechonk": {

@@ -21,6 +21,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "regidrago",
     "generation": 8,
     "height": {
         "regidrago": "2,1 m"
@@ -29,13 +30,16 @@
     "name": "Regidrago",
     "name_origin": "Regidrago potrebbe essere una combinazione di regis, regale in latino, e dragon/draco, drago. ",
     "origin": "Regidrago potrebbe essere basato sui golem dei miti ebraici. Si dice che questi golem fossero servi di poteri superiori e che avessero delle scritte sulla testa. Quando i testi vengono rimossi, la creatura viene indebolita o addirittura portata alla morte. Regidrago potrebbe essere basato su una sfera di cristallo con un motivo draconico. I golem leggendari possono avere come tema comune le epoche storiche, con Regidrago che rappresenta i secoli bui. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Regidrago",
     "shape": "un paio di ali",
     "specie": "Pokémon Dracosfera",
     "sprites": {
         "regidrago": {
             "default": "https://media.pokemoncentral.it/wiki/9/9a/Homem0895.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2a/Homemsh0895.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2a/Homemsh0895.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/36/Artwork0895_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f7/Artwork0895_SpSc.png"
     },
     "stats": {
         "regidrago": {

@@ -56,6 +56,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "flareon",
     "generation": 1,
     "height": {
         "flareon": "0,9 m"
@@ -64,13 +65,16 @@
     "name": "Flareon",
     "name_origin": "Il suo nome deriva dalle parole inglesi flare  e eon , suffisso per ogni Eevoluzione. ",
     "origin": "Si basa su una volpe per via della sua forma corporea e del colorito, ma ha anche tratti felini, la coda soffice e il pelo intorno al collo ricordano un volpino e la criniera di un leone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Flareon",
     "shape": "più di 4 arti",
     "specie": "Pokémon Fiamma",
     "sprites": {
         "flareon": {
             "default": "https://media.pokemoncentral.it/wiki/2/29/Homem0136.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0136.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0136.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/de/Artwork0136_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4b/Artwork0136_RFVF.png"
     },
     "stats": {
         "flareon": {

@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "falenaferrea": {
+        "colloferreo": {
             "primary": "Carica Quark"
         }
     },
@@ -8,11 +8,11 @@
         "Pagine che richiamano file inesistenti",
         "Pokémon",
         "Pokémon di nona generazione",
-        "Pokémon di tipo Fuoco",
-        "Pokémon di tipo Veleno",
+        "Pokémon di tipo Buio",
+        "Pokémon di tipo Volante",
         "Pokémon di doppio tipo",
         "Pokémon nel gruppo di esperienza Lento",
-        "Pokémon di colore Giallo",
+        "Pokémon di colore Blu",
         "Pokémon dalla sagoma n.",
         "Pokémon di sesso sconosciuto",
         "Pokémon di Gruppo Uova Sconosciuto",
@@ -20,52 +20,56 @@
         "Pokémon con statistiche base totali di 570",
         "Pokémon Paradosso"
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/falenaferrea.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/colloferreo.mp3",
     "dex_entries": {
-        "falenaferrea": {
-            "scarlet": "Ricorda molto un oscuro oggetto descritto in una rivista di paranormale come un ufo inviato qui per spiare le attività umane.",
-            "violet": "Mancano dati su questo Pokémon, mai catturato in passato. Le sue caratteristiche coincidono con quelle di un oggetto descritto in un antico testo."
+        "colloferreo": {
+            "scarlet": "Somiglia a un Pokémon presentato da una rivista di paranormale come il frutto dell'amore tra un Hydreigon e un robot.",
+            "violet": "Questo Pokémon potrebbe essere l'oggetto descritto in un antico testo con il nome di \"Colloferreo\"."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "colloferreo",
     "generation": 9,
     "height": {
-        "falenaferrea": "1,2 m"
+        "colloferreo": "1,3 m"
     },
     "id": 993,
-    "name": "Falenaferrea",
-    "name_origin": "Falenaferrea è una combinazione di falena e ferro. Iron Moth è una combinazione di iron, ferro, e moth, falena. ",
-    "origin": "",
+    "name": "Colloferreo",
+    "name_origin": "",
+    "origin": "Colloferreo potrebbe essere una versione robotica di Hydreigon. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Colloferreo",
     "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
-        "falenaferrea": {
-            "default": "https://media.pokemoncentral.it/wiki/9/99/Homem0994.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/ce/Homemsh0994.png"
-        }
+        "colloferreo": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a1/Homem0993.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homemsh0993.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8f"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/41/Artwork0993_SV.png"
     },
     "stats": {
-        "falenaferrea": {
-            "hp": 80,
-            "atk": 70,
-            "def": 60,
-            "spa": 140,
-            "spd": 110,
-            "spe": 110
+        "colloferreo": {
+            "hp": 94,
+            "atk": 80,
+            "def": 86,
+            "spa": 122,
+            "spd": 80,
+            "spe": 108
         }
     },
     "stats_sum": {
-        "falenaferrea": 570
+        "colloferreo": 570
     },
     "types": {
-        "falenaferrea": [
-            "Veleno",
-            "Fuoco"
+        "colloferreo": [
+            "Volante",
+            "Buio"
         ]
     },
     "weight": {
-        "falenaferrea": "36,0 kg"
+        "colloferreo": "111,0 kg"
     }
 }

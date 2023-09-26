@@ -19,6 +19,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "kingambit",
     "generation": 9,
     "height": {
         "kingambit": "2,0 m"
@@ -27,13 +28,16 @@
     "name": "Kingambit",
     "name_origin": "Kingambit potrebbe essere una combinazione di king  e gambit . Potrebbe anche essere un riferimento alla mossa degli scacchi King's Gambit . Dodokezan potrebbe essere una combinazione di 奴 do , 土下座 dogeza , e 斬 zan . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kingambit",
     "shape": "None",
     "specie": "Pokémon Granspada",
     "sprites": {
         "kingambit": {
             "default": "https://media.pokemoncentral.it/wiki/0/07/Homem0983.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0983.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0983.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/84"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6b/Artwork0983_SV.png"
     },
     "stats": {
         "kingambit": {
@@ -50,8 +54,8 @@
     },
     "types": {
         "kingambit": [
-            "Acciaio",
-            "Buio"
+            "Buio",
+            "Acciaio"
         ]
     },
     "weight": {

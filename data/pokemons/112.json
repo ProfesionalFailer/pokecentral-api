@@ -54,6 +54,7 @@
         "Mostro",
         "Campo"
     ],
+    "flat_name": "rhydon",
     "generation": 1,
     "height": {
         "rhydon": "1,9 m"
@@ -62,17 +63,20 @@
     "name": "Rhydon",
     "name_origin": "Il suo nome probabilmente deriva dall'unione della parola inglese rhinoceros  con la parola latina don . ",
     "origin": "È basato su un rinoceronte. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rhydon",
     "shape": "due paia di ali",
     "specie": "Pokémon Trapano",
     "sprites": {
-        "": {
+        "rhydon": {
             "default": "https://media.pokemoncentral.it/wiki/c/c1/Homem0112.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0112.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0112.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3c/Artwork0112_Corp.png"
         },
-        "-f": {
+        "rhydon-f": {
             "default": "https://media.pokemoncentral.it/wiki/d/d0/Homef0112.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/87/Homefsh0112.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d6/Artwork0112_RFVF.png"
     },
     "stats": {
         "rhydon": {

@@ -48,6 +48,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "elekid",
     "generation": 2,
     "height": {
         "elekid": "0,6 m"
@@ -56,13 +57,16 @@
     "name": "Elekid",
     "name_origin": "Elekid è una combinazione di エレキ eleki  e kid . ",
     "origin": "Elekid è basato sulle spine elettriche giapponesi e statunitensi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Elekid",
     "shape": "un paio di ali",
     "specie": "Pokémon Elettrico",
     "sprites": {
         "elekid": {
             "default": "https://media.pokemoncentral.it/wiki/0/0e/Homem0239.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homemsh0239.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homemsh0239.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f8/Artwork0239_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6a/Artwork0239_RFVF.png"
     },
     "stats": {
         "elekid": {

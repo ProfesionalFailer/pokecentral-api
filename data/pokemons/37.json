@@ -75,6 +75,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "vulpix",
     "generation": 1,
     "height": {
         "vulpix": "0,6 m"
@@ -83,17 +84,20 @@
     "name": "Vulpix",
     "name_origin": "Il suo nome probabilmente deriva dalla fusione della parola latina vulpes, o delle parole inglesi volcano e six, riferito alle sue code. Il Rok in Rokon potrebbe derivare da roku 六, sei; il kon può derivare da 恨, rancore che si riferisce alla maledizione che Vulpix e Ninetales possono lanciare ai loro nemici. Kon può riferirsi al suono onomatopeico kon kon, verso che fanno le volpi. Inoltre, un コンロ konro è una stufa a gas. Infine, una lettura alternativa della parola giapponese per la volpe, 狐 kitsune, è ko. ",
     "origin": "Vulpix, così come Ninetales, è basato su una kitsune, che significa \"volpe\" in giapponese ma identifica anche le volpi che dopo secoli di vita hanno acquisito poteri sovrannaturali. Sono in grado di creare illusioni, usare poteri pre-cognitivi, e manipolare fiamme spirituali chiamate kitsunebi . Ad esse spunta una coda in più con ogni secolo di vita, e con esse aumenta anche il loro potere. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Vulpix",
     "shape": "più di 4 arti",
     "specie": "Pokémon Volpe",
     "sprites": {
         "vulpix": {
             "default": "https://media.pokemoncentral.it/wiki/5/5b/Homem0037.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/66/Homemsh0037.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/6/66/Homemsh0037.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9d/Artwork0037A_Corp_2.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/b/b3/Homem0037A.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0037A.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3e/Artwork0037_RFVF.png"
     },
     "stats": {
         "vulpix": {

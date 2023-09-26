@@ -46,6 +46,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "sunkern",
     "generation": 2,
     "height": {
         "sunkern": "0,3 m"
@@ -54,13 +55,16 @@
     "name": "Sunkern",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi \"sunflower\", girasole, e \"kernel\", seme, nocciolo, o \"corn\", granoturco. Il suo nome giapponese, ヒマナッツ Himanattsu, potrebbe derivare da 向日葵 himawari, girasole, e la parola inglese \"nuts\", noccioline. ",
     "origin": "Sunkern è basato su un seme di girasole. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sunkern",
     "shape": "testa",
     "specie": "Pokémon Seme",
     "sprites": {
         "sunkern": {
             "default": "https://media.pokemoncentral.it/wiki/f/f3/Homem0191.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2b/Homemsh0191.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2b/Homemsh0191.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0b"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/59/Artwork0191_HGSS.png"
     },
     "stats": {
         "sunkern": {

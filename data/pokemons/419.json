@@ -48,6 +48,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "floatzel",
     "generation": 4,
     "height": {
         "floatzel": "1,1 m"
@@ -56,17 +57,20 @@
     "name": "Floatzel",
     "name_origin": "Il nome Floatzel deriva delle parole float  o flow  e weasel . Il suo nome giapponese può derivare dalle parole inglesi flow  o float e weasel. ",
     "origin": "Floatzel è basato su una lontra, che si trova nella stessa famiglia delle donnole. Tuttavia assomiglia più ad una donnola che ad una lontra. Sembra essere ispirato alla leggenda del Kamaitachi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Floatzel",
     "shape": "più di 4 arti",
     "specie": "Pokémon Maridonnola",
     "sprites": {
-        "": {
+        "floatzel": {
             "default": "https://media.pokemoncentral.it/wiki/d/d0/Homem0419.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0419.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0419.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3c/Artwork0419_Corp.png"
         },
-        "-f": {
+        "floatzel-f": {
             "default": "https://media.pokemoncentral.it/wiki/1/1e/Homef0419.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homefsh0419.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1d/Artwork0419_DP.png"
     },
     "stats": {
         "floatzel": {

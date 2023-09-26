@@ -52,6 +52,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "lugia",
     "generation": 2,
     "height": {
         "lugia": "5,2 m"
@@ -60,13 +61,16 @@
     "name": "Lugia",
     "name_origin": "Il nome Lugia potrebbe derivare dal latino \"lutetium\" , oppure da \"Lutetia\" . Altra derivazione potrebbe essere \"lugeo\" , o addirittura \"Luna\", \"Beluga\", o l'inglese \"deluge\"  o il giapponese Ryu . ",
     "origin": "Le origini di Lugia non sono ben chiare, nonostante sia collegato agli uccelli leggendari sembra avere più in comune con i draghi, i dinosauri e le creature marine. Potrebbe essere basato sul kami Ryujin, un drago marino che secondo i miti scintoisti era il dio del mare, la colorazione cromatica di Lugia è bianco e rosso lo ricollegano ai colori del palazzo di corallo di Ryugu-Jo. Potrebbe essere basato anche ad una balena beluga, siccome i colori e la morfologia sono simili, come suggerisce anche il nome stesso, i lembi sulla schiena e gli spuntoni sulla coda lo ricollegano invece ad uno stegosauro. Dalla descrizione del Pokédex pare si sia ritirato negli abissi marini e non ci sia nato, questo probabilmente spiega il fatto che non sia di tipo Acqua. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lugia",
     "shape": "testa e base",
     "specie": "Pokémon Immersione",
     "sprites": {
         "lugia": {
             "default": "https://media.pokemoncentral.it/wiki/5/56/Homem0249.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0b/Homemsh0249.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0b/Homemsh0249.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b6/Artwork0249_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a6/Artwork0249_HGSS.png"
     },
     "stats": {
         "lugia": {

@@ -33,6 +33,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "meltan",
     "generation": 7,
     "height": {
         "meltan": "0,2 m"
@@ -41,9 +42,15 @@
     "name": "Meltan",
     "name_origin": "Meltan potrebbe essere una combinazione di melt, fuso, metal, metallo, e たん -tan, un suffisso diminutivo giapponese. La parte finale del nome potrebbe anche derivare da tantalio. ",
     "origin": "Meltan è basato su un dado esagonale. Il suo corpo è basato sul mercurio, un metallo che a temperatura ambiente è liquido. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Meltan",
     "shape": "testa",
     "specie": "Pokémon Bullone",
-    "sprites": {},
+    "sprites": {
+        "meltan": {
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c3"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a8/Artwork0808_LGPE.png"
+    },
     "stats": {
         "meltan": {
             "hp": 46,

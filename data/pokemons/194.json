@@ -54,6 +54,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "wooper",
     "generation": 2,
     "height": {
         "wooper": "0,4 m"
@@ -62,21 +63,24 @@
     "name": "Wooper",
     "name_origin": "Wooper e Upah derivano da wooper looper, un termine di marketing che ha dato vita a una mania per l'allevamento di salamandre. Wooper looper sono i termini giapponesi usati per indicare gli axolotl, una specie di caudata. ",
     "origin": "Wooper sembra essere basato su una caudata neotenica, con una coda piatta e delle branchie esterne piumate. Il suo sprite cromatico ha una colorazione simile a quella albina, leucistica e di altre mutazioni cromatiche o di un axolotl, una specie di salamandra che mantiene le branchie e rimane nell'acqua per tutta la sua vita perché non sviluppa mai polmoni. La forma di Paldea, invece, sembra essere basata sul pleurodele di Waltl e su un perioftalmo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wooper",
     "shape": "corpi multipli",
     "specie": "Pokémon Acquapesce",
     "sprites": {
-        "wooper ": {
+        "wooper": {
             "default": "https://media.pokemoncentral.it/wiki/e/e2/Homem0194.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2e/Homemsh0194.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2e/Homemsh0194.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/ac/Artwork0194_Corp.png"
         },
-        "wooper -f": {
+        "wooper-f": {
             "default": "https://media.pokemoncentral.it/wiki/a/a0/Homef0194.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d0/Homefsh0194.png"
         },
         "forma-di-paldea": {
             "default": "https://media.pokemoncentral.it/wiki/e/e5/Homem0194P.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d2/Homemsh0194P.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e3/Artwork0194_HGSS.png"
     },
     "stats": {
         "wooper": {

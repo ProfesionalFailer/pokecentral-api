@@ -56,6 +56,7 @@
         "Mostro",
         "Erba"
     ],
+    "flat_name": "bulbasaur",
     "generation": 1,
     "height": {
         "bulbasaur": "0,7 m"
@@ -64,13 +65,16 @@
     "name": "Bulbasaur",
     "name_origin": "Bulbasaur potrebbe essere una combinazione di bulb, bulbo, e σαῦρος sauros, lucertola in greco antico. Fushigidane potrebbe essere una combinazione di 不思議 fushigi, strano o misterioso, e 種 tane, seme, o だね dane, \"non è così?\". ",
     "origin": "Bulbasaur è basato su una rana. Secondo Ken Sugimori e Atsuko Nishida, l'artista si è basata su un criterio opposto rispetto alla sua forma finale, il che significa che Bulbasaur è stato l'ultimo della famiglia evolutiva ad essere stato progettato ed è anche basato su Venusaur. In particolare, la coporatura del Pokémon ricorda la rana del diavolo, una rana vissuta nel tardo Cretaceo. Il bulbo sulla schiena ricorda quello di un giglio o di una cipolla. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bulbasaur",
     "shape": "più di 4 arti",
     "specie": "Pokémon Seme",
     "sprites": {
         "bulbasaur": {
             "default": "https://media.pokemoncentral.it/wiki/e/e2/Homem0001.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0001.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0001.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7f/Artwork0001_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9b/Artwork0001_RFVF.png"
     },
     "stats": {
         "bulbasaur": {

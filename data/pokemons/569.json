@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "garbodor": {
             "primary": "Tanfo",
             "secondary": "Sottilguscio",
             "hidden": "Scoppio"
@@ -35,6 +35,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "garbodor",
     "generation": 5,
     "height": {
         "garbodor": "1,9 m",
@@ -44,17 +45,20 @@
     "name": "Garbodor",
     "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi garbage  e odor . ",
     "origin": "È basato sia sui sacchetti dell'immondizia che sulle discariche. I tubi che fungono da dita collegati alla notevole massa del suo corpo rigonfio lo fanno sembrare un'aspirapolvere sul punto di esplodere per la troppa polvere assorbita. Potrebbe alludere al formarsi di organismi viventi con l'accumularsi di spazzatura e agenti inquinanti nell'ambiente, causato dall'uso improprio che l'uomo fa dei rifiuti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Garbodor",
     "shape": "un paio di ali",
     "specie": "Pokémon Discarica",
     "sprites": {
         "garbodor": {
             "default": "https://media.pokemoncentral.it/wiki/9/9e/Homem0569.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/37/Homemsh0569.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/3/37/Homemsh0569.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b4/Artwork0569_Corp.png"
         },
         "garbodor-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/6/6d/Homem0569Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/bf/Homemsh0569Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/57/Artwork0569_NB.png"
     },
     "stats": {
         "garbodor": {

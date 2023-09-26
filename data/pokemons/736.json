@@ -21,6 +21,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "grubbin",
     "generation": 7,
     "height": {
         "grubbin": "0,4 m"
@@ -29,13 +30,16 @@
     "name": "Grubbin",
     "name_origin": "Grubbin potrebbe essere una combinazione di grub  e di grubbing . Agojimushi potrebbe essere una combinazione di 顎 ago  e di 地虫 jimushi . ",
     "origin": "Grubbin sembra essere basato su di una larva di coleottero. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Grubbin",
     "shape": "testa e braccia",
     "specie": "Pokémon Coleolarva",
     "sprites": {
         "grubbin": {
             "default": "https://media.pokemoncentral.it/wiki/c/c2/Homem0736.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0736.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0736.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a7/Artwork0736_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d8/Artwork0736_SL.png"
     },
     "stats": {
         "grubbin": {

@@ -48,6 +48,7 @@
         "Campo",
         "Acqua 2"
     ],
+    "flat_name": "wailord",
     "generation": 3,
     "height": {
         "wailord": "14,50 m"
@@ -56,13 +57,16 @@
     "name": "Wailord",
     "name_origin": "Il nome Wailord deriva probabilmente da wail  e lord . Whaloh deriva da whale, 吠える hoeru  e 王 ō . ",
     "origin": "Wailord è basato su una balena, probabilmente in particolare sulla balenottera azzurra, l'animale più grande conosciuto. Ricorda anche un sottomarino o un dirigibile. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wailord",
     "shape": "pinne",
     "specie": "Pokémon Megabalena",
     "sprites": {
         "wailord": {
             "default": "https://media.pokemoncentral.it/wiki/1/14/Homem0321.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/36/Homemsh0321.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/36/Homemsh0321.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1c/Artwork0321_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b4/Artwork0321_RZ.png"
     },
     "stats": {
         "wailord": {

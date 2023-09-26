@@ -54,6 +54,7 @@
         "Mostro",
         "Campo"
     ],
+    "flat_name": "nidorino",
     "generation": 1,
     "height": {
         "nidorino": "0,9 m"
@@ -62,13 +63,16 @@
     "name": "Nidorino",
     "name_origin": "Il nome di Nidorino potrebbe essere basato sulle parole inglesi needle e rhinoceros.. In alternativa, può essere basata su 二 ni, due, o 二度 nido, due volte/due gradi, riferendosi alle due linee evolutive distinte con nomi e tratti simili. Inoltre, la parola giapponese ran è stata tradotta come orchidea. Le orchidee sono fiori che possono essere viola o blu. Questi colori sono rispettivamente gli stessi delle forme maschili e femminili della famiglia evolutiva dei Nidoran. È possibile che il nome può anche derivare da cnidocyte, nematocisti, un tipo di cellula velenosa responsabile delle punture urticanti di alcuni animali, in particolare, delle meduse. Il rino nel suo nome allude al genere maschile. ",
     "origin": "Nidorino sembra essere basata su un porcospino, od eventualmente un coniglio o un topo, o anche un criceto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Nidorino",
     "shape": "più di 4 arti",
     "specie": "Pokémon Velenago",
     "sprites": {
         "nidorino": {
             "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0033.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7d/Homemsh0033.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7d/Homemsh0033.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b0/Artwork0033_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0033_RFVF.png"
     },
     "stats": {
         "nidorino": {

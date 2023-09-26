@@ -29,6 +29,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "shelmet",
     "generation": 5,
     "height": {
         "shelmet": "0,4 m"
@@ -37,13 +38,16 @@
     "name": "Shelmet",
     "name_origin": "Il nome deriva dall'unione delle parole inglesi shell  e helmet . ",
     "origin": "Probabilmente basato sul nautilus e su un elmo. Potrebbe ispirarsi inoltre a una chiocciola e a un verme tubo gigante. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shelmet",
     "shape": "testa",
     "specie": "Pokémon Lumachina",
     "sprites": {
         "shelmet": {
             "default": "https://media.pokemoncentral.it/wiki/5/58/Homem0616.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/ac/Homemsh0616.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ac/Homemsh0616.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c7/Artwork0616_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/50/Artwork0616_NB.png"
     },
     "stats": {
         "shelmet": {

@@ -35,6 +35,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "tepig",
     "generation": 5,
     "height": {
         "tepig": "0,5 m"
@@ -43,13 +44,16 @@
     "name": "Tepig",
     "name_origin": "Tepig potrebbe essere una combinazione di tepid , e pig . il nome giapponese Pokabu deriva da ぽかぽか pokapoka , combinato con 豚 buta  o ブー bū . ",
     "origin": "Sembra sia basato su un maiale Berkshire. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tepig",
     "shape": "più di 4 arti",
     "specie": "Pokémon Suinfuoco",
     "sprites": {
         "tepig": {
             "default": "https://media.pokemoncentral.it/wiki/3/37/Homem0498.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0498.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0498.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9f/Artwork_Pok%C3%A9mon_iniziali_Unima_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/73/Artwork0498_N2B2.png"
     },
     "stats": {
         "tepig": {

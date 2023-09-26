@@ -27,6 +27,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "liepard",
     "generation": 5,
     "height": {
         "liepard": "1,1 m"
@@ -35,13 +36,16 @@
     "name": "Liepard",
     "name_origin": "Il suo nome deriva probabilmente da lie  e leopard . ",
     "origin": "Liepard è probabilmente basato su un gatto leopardo o su una pantera nera. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Liepard",
     "shape": "più di 4 arti",
     "specie": "Pokémon Sanguefreddo",
     "sprites": {
         "liepard": {
             "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0510.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0510.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0510.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d8/Artwork0510_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c3/Artwork0510_NB.png"
     },
     "stats": {
         "liepard": {

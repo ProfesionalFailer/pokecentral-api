@@ -54,6 +54,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "machoke",
     "generation": 1,
     "height": {
         "machoke": "1,5 m"
@@ -62,13 +63,16 @@
     "name": "Machoke",
     "name_origin": "Il suo nome deriva dall'unione della parola spagnola macho  con il verbo inglese  choke . ",
     "origin": "Machoke sembra essere basato su di un culturista o su di un wrestler con alcuni tratti da rettile. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Machoke",
     "shape": "un paio di ali",
     "specie": "Pokémon Megaforza",
     "sprites": {
         "machoke": {
             "default": "https://media.pokemoncentral.it/wiki/0/0c/Homem0067.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0067.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0067.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6f/Artwork0067_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/85/Artwork0067_RFVF.png"
     },
     "stats": {
         "machoke": {

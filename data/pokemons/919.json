@@ -29,6 +29,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "nymble",
     "generation": 9,
     "height": {
         "nymble": "0,2 m"
@@ -37,13 +38,16 @@
     "name": "Nymble",
     "name_origin": "Nymble potrebbe essere una combinazione di nimble  e nymph . Mamebatta potrebbe essere una combinazione di 忠実 mame  e 飛蝗 batta . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Nymble",
     "shape": "None",
     "specie": "Pokémon Cavalletta",
     "sprites": {
         "nymble": {
             "default": "https://media.pokemoncentral.it/wiki/e/ee/Homem0919.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0919.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0919.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4a"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0e/Artwork0919_SV.png"
     },
     "stats": {
         "nymble": {

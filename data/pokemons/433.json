@@ -31,6 +31,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "chingling",
     "generation": 4,
     "height": {
         "chingling": "0,2 m"
@@ -39,13 +40,16 @@
     "name": "Chingling",
     "name_origin": "Deriva dalle parole chime  e jingling  o youngling  perché è appunto solo un cucciolo. ",
     "origin": "È basato su un campanello Suzu presente nei santuari shintoisti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chingling",
     "shape": "un paio di ali",
     "specie": "Pokémon Sonaglio",
     "sprites": {
         "chingling": {
             "default": "https://media.pokemoncentral.it/wiki/9/96/Homem0433.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/66/Homemsh0433.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/66/Homemsh0433.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/90"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/58/Artwork0433_DP.png"
     },
     "stats": {
         "chingling": {

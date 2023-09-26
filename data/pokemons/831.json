@@ -19,6 +19,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "wooloo",
     "generation": 8,
     "height": {
         "wooloo": "0,6 m"
@@ -27,13 +28,16 @@
     "name": "Wooloo",
     "name_origin": "Wooloo e Wooluu potrebbero essere una combinazione di wool, lana, e loom, telaio. ",
     "origin": "Wooloo potrebbe essere basato su una pecora nera, in particolar modo una pecora Naso Nero del Vallese. La forma della sua lana potrebbe essere un riferimento al batuffolo di cotone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wooloo",
     "shape": "più di 4 arti",
     "specie": "Pokémon Pecora",
     "sprites": {
         "wooloo": {
             "default": "https://media.pokemoncentral.it/wiki/8/86/Homem0831.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/87/Homemsh0831.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/87/Homemsh0831.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e4"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/29/Artwork0831_SpSc.png"
     },
     "stats": {
         "wooloo": {

@@ -48,6 +48,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "cleffa",
     "generation": 2,
     "height": {
         "cleffa": "0,3 m"
@@ -56,13 +57,16 @@
     "name": "Cleffa",
     "name_origin": "Il nome Cleffa deriva dal francese clef  e dall'inglese fairy . È inoltre una contrazione del nome Clefairy, ad indicare che ne è una pre-evoluzione. Il suo nome giapponese, ピィ Py, è un'abbreviazione di pixie  e inoltre la contrazione di Pippi, il nome giapponese di Clefairy. ",
     "origin": "Basato su una fata, come un pixie. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cleffa",
     "shape": "due paia di ali",
     "specie": "Pokémon Stella",
     "sprites": {
         "cleffa": {
             "default": "https://media.pokemoncentral.it/wiki/6/6a/Homem0173.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0173.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0173.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/76/Artwork0173_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d3/Artwork0173_RFVF.png"
     },
     "stats": {
         "cleffa": {

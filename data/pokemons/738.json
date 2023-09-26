@@ -23,6 +23,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "vikavolt",
     "generation": 7,
     "height": {
         "vikavolt": "1,5 m",
@@ -32,13 +33,16 @@
     "name": "Vikavolt",
     "name_origin": "Vikavolt potrebbe derivare da volt. Kuwaganon potrebbe essere una combinazione di 鍬形虫 kuwagatamushi, lucanidi  e cannon . ",
     "origin": "Vikavolt potrebbe essere ispriato ad un cervo volante. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Vikavolt",
     "shape": "testa e braccia",
     "specie": "Pokémon Cervolante",
     "sprites": {
         "vikavolt": {
             "default": "https://media.pokemoncentral.it/wiki/8/8c/Homem0738.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0738.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0738.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/13/Artwork0738_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/73/Artwork0738_SL.png"
     },
     "stats": {
         "vikavolt": {
@@ -55,8 +59,8 @@
     },
     "types": {
         "vikavolt": [
-            "Elettro",
-            "Coleot"
+            "Coleot",
+            "Elettro"
         ]
     },
     "weight": {

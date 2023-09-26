@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "hoopa": {
             "primary": "Prestigiatore"
         }
     },
@@ -23,6 +23,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "hoopa",
     "generation": 6,
     "height": {
         "hoopa-vincolato": "0,5 m",
@@ -32,17 +33,21 @@
     "name": "Hoopa",
     "name_origin": "Il nome Hoopa è una corruzione della parola hoop, anello. Potrebbe anche derivare da hoopla, trambusto, questa parola viene usata per rumori molto forti, che attirano l'attenzione o fuorvianti. ",
     "origin": "Hoopa Vincolato sembra essere ispirato alla rappresentazione classica dei geni, avendo appunto una coda spettrale e un codino, sembra essersi ispirato soprattutto al Genio di Aladdin a causa degli anelli attorno ai polsi. Hoopa Libero è pur sempre ispirato ad un genio, ma non solo, le sei braccia possono essere un riferimento alla divinità indù Shakti, che si dice abbia braccia multiple. Potrebbe essere basato anche sui Gegenees, una tribù di giganti con sei braccia che combattevano contro gli Argonauti. Le corna e la coda possono invece essere basate sulle comuni rappresentazioni dei demoni. Entrambe le forme sembrano essere ispirate anche alla leggenda del Nezha, divinità venerata nel Taoismo e nel folklore popolare cinese, questa divinità è nota per fare molti scherzi e per proteggere il mondo, similmente ad Hoopa Libero inoltre è rappresentato con gli anelli ai polsi e con braccia multiple. L'utilizzo degli anelli invece è basato sui portali transplanari. Il rapporto tra Hoopa e il Vaso del vincolo è molto simile a quello dei geni e la propria lampada in quanto Hoopa in realtà è imprigionato al suo interno non potendo usare tutte le sue abilità, il fatto che la forma è limitata per solo tre giorni, potrebbe essere un riferimento ai desideri limite dei geni, che sono appunto tre. Il colore dorato della versione cromatica di entrambe le forme, rispecchiano l'origine dei geni secondo la mitologia araba. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hoopa",
     "shape": "insettoide",
     "specie": "Pokémon Birba",
     "sprites": {
         "vincolato": {
             "default": "https://media.pokemoncentral.it/wiki/4/43/Homem0720.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homemsh0720.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homemsh0720.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5a/Artwork0720_Corp_2.png"
         },
         "libero": {
             "default": "https://media.pokemoncentral.it/wiki/9/9a/Homem0720L.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0720L.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0720L.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/92/Artwork0720L_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/86/Artwork0720_ROZA.png"
     },
     "stats": {
         "vincolato": {

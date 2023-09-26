@@ -41,6 +41,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "bronzong",
     "generation": 4,
     "height": {
         "bronzong": "1,3 m"
@@ -49,13 +50,16 @@
     "name": "Bronzong",
     "name_origin": "Il suo nome probabilmente deriva dall'unione della parola inglese bronze  con l'onomatopea dong  e con la parola gong. Il suo nome giapponese, ドータクン Dohtakun, potrebbe derivare dall'unione delle parole 銅鐸 dōtaku, campana di bronzo, e どんどん dondon, onomatopea che indica il suono di campana. ",
     "origin": "Basato su un dōtaku. La relazione tra Bronzor e Bronzong è basata sulla storia Uno specchio e una campana. La storia si svolge a Mugenyama, in provincia di Totomi: \"I sacerdoti avevano bisogno di una nuova campana per il tempio, per cui chiesero alle donne del villaggio se potevano donare i loro vecchi specchi di bronzo in modo che si potessero fondere per ottenere una nuova campana. Una donna del villaggio, una contadina, donò il suo specchio di bronzo che era appartenuto alla sua famiglia per molto tempo, ma dopo un po' che se ne era separata iniziò a rattristarsi perché aveva sentito un proverbio che diceva che nello specchio c'è l'anima della donna che lo possiede. Per questo aveva paura di aver perso la propria anima donandolo ai sacerdoti. Purtroppo non aveva i soldi per comprarne un altro, ma non ebbe mai neanche l'occasione di riuscire a riprendere il suo vecchio. I vari specchi vennero inviati a una fonderia per essere fusi e utilizzati per una campana. Uno di questi specchi non si fuse: questo era il simbolo che chi lo aveva donato in realtà lo voleva ancora. Lo specchio era mantenuto freddo dentro la fornace dal desiderio egoistico di chi lo aveva donato. Per questo, la donna, che non sopportava la vergogna provata per il suo egoismo, decise di suicidarsi buttandosi in un fiume. Prima di morire, però, scrisse in una lettera che colui che avrebbe colpito la campana  fino a romperla sarebbe stato ricompensato dalle ricchezze del fantasma della contadina. Le persone del luogo credettero fortemente alle parole della contadina, secondo le credenze del luogo le parole dette prima di morire con rabbia avevano un potere mistico. Una volta che la campana fu appesa nel tempio le persone, esaltate dalla ricchezza che avrebbero potuto ottenere, colpirono ripetutamente la campana. I sacerdoti, stufi di sentire suonare la campana quasi ininterrottamente, decisero di buttarla giù da una collina dentro la palude che risiedeva ai piedi di essa. Una volta che la campana fu dentro la palude, lo spirito della donna ebbe la forza di rialzarsi dalla tomba e andare a distruggere la campana che aveva generato tanta sofferenza\". ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bronzong",
     "shape": "insettoide",
     "specie": "Pokémon Squibronzo",
     "sprites": {
         "bronzong": {
             "default": "https://media.pokemoncentral.it/wiki/b/bd/Homem0437.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/3d/Homemsh0437.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3d/Homemsh0437.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/74/Artwork0437_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6b/Artwork0437_DP.png"
     },
     "stats": {
         "bronzong": {

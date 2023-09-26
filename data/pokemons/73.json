@@ -58,6 +58,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "tentacruel",
     "generation": 1,
     "height": {
         "tentacruel": "1,6 m"
@@ -66,13 +67,16 @@
     "name": "Tentacruel",
     "name_origin": "Il nome Tentacruel è una combinazione di tentacle  e cruel  o ruler  ",
     "origin": "Tentacruel è basato principalmente sulla Caravella portoghese, che non è una medusa, ma un insieme di polipi, tuttavia fisicamente ha più cose in comune con le piovre. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tentacruel",
     "shape": "bipedi con coda",
     "specie": "Pokémon Medusa",
     "sprites": {
         "tentacruel": {
             "default": "https://media.pokemoncentral.it/wiki/c/cd/Homem0073.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homemsh0073.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homemsh0073.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/96/Artwork0073_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1d/Artwork0073_RFVF.png"
     },
     "stats": {
         "tentacruel": {

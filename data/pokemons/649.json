@@ -32,6 +32,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "genesect",
     "generation": 5,
     "height": {
         "genesect": "1,5 m"
@@ -40,6 +41,7 @@
     "name": "Genesect",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi gene o genetic  ed insect . ",
     "origin": "Genesect si basa in genere sugli insetti giganti dell'era paleozoica, infatti esiste da 300 milioni di anni, il che lo rende antico come lo scarafaggio. Il suo tipo acciaio e le sue caratteristiche che gli danno un aspetto un po' robotico potrebbero essere un riferimento ai robot alieni dell'immaginario collettivo fantascientifico, ma ciò potrebbe anche essere a causa delle modifiche apportate dal Team Plasma. Il suo design è probabilmente ispirato ai \"Mecha\" presenti in vari anime di fantascienza prodotti in Giappone; in particolar modo il fatto che possa \"trasformarsi\" da una forma antropomorfa ad una secondaria simile ad un velivolo, può essere tratto da Transformers più precisamente da un Insecticon. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Genesect",
     "shape": "un paio di ali",
     "specie": "Pokémon Paleozoico",
     "sprites": {
@@ -49,20 +51,28 @@
         },
         "con-idromodulo": {
             "default": "https://media.pokemoncentral.it/wiki/0/08/Homem0649I.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homemsh0649I.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homemsh0649I.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fb/Artwork0649I_Corp.png"
         },
         "con-voltmodulo": {
             "default": "https://media.pokemoncentral.it/wiki/1/1f/Homem0649V.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4a/Homemsh0649V.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4a/Homemsh0649V.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/91/Artwork0649V_Corp.png"
         },
         "con-piromodulo": {
             "default": "https://media.pokemoncentral.it/wiki/b/b9/Homem0649P.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0649P.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0649P.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d2/Artwork0649P_Corp.png"
         },
         "con-gelomodulo": {
             "default": "https://media.pokemoncentral.it/wiki/1/18/Homem0649G.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f6/Homemsh0649G.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f6/Homemsh0649G.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b6/Artwork0649G_Corp.png"
+        },
+        "senza-modulo(normale)": {
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0649_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/dd/Artwork0649_N2B2.png"
     },
     "stats": {
         "genesect": {
@@ -79,8 +89,8 @@
     },
     "types": {
         "genesect": [
-            "Acciaio",
-            "Coleot"
+            "Coleot",
+            "Acciaio"
         ]
     },
     "weight": {

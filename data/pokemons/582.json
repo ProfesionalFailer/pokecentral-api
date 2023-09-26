@@ -32,6 +32,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "vanillite",
     "generation": 5,
     "height": {
         "vanillite": "0,4 m"
@@ -40,13 +41,16 @@
     "name": "Vanillite",
     "name_origin": "Il nome deriva dalla combinazione delle parole inglesi vanilla  e lite  oppure stalactite . ",
     "origin": "Vanillite sembra essere basato su una palla di neve. Il suo aspetto ricorda anche quello di una coppetta di gelato di piccola taglia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Vanillite",
     "shape": "quadrupede",
     "specie": "Pokémon Nevefresca",
     "sprites": {
         "vanillite": {
             "default": "https://media.pokemoncentral.it/wiki/d/d5/Homem0582.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/06/Homemsh0582.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/06/Homemsh0582.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/96/Artwork0582_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0582_NB.png"
     },
     "stats": {
         "vanillite": {

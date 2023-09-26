@@ -38,6 +38,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "vigoroth",
     "generation": 3,
     "height": {
         "vigoroth": "1,40 m"
@@ -46,13 +47,16 @@
     "name": "Vigoroth",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi vigor  e sloth . ",
     "origin": "È basato sull'estinto bradipo di terra, tuttavia presenta alcune caratteristiche tipiche di alcune scimmie. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Vigoroth",
     "shape": "due paia di ali",
     "specie": "Pokémon Indocile",
     "sprites": {
         "vigoroth": {
             "default": "https://media.pokemoncentral.it/wiki/6/6b/Homem0288.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a8/Homemsh0288.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a8/Homemsh0288.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/40/Artwork0288_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/dc/Artwork0288_RZ.png"
     },
     "stats": {
         "vigoroth": {

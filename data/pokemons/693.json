@@ -38,6 +38,7 @@
         "Acqua 1",
         "Acqua 3"
     ],
+    "flat_name": "clawitzer",
     "generation": 6,
     "height": {
         "clawitzer": "1,3 m"
@@ -46,13 +47,16 @@
     "name": "Clawitzer",
     "name_origin": "Clawitzer deriva dall'unione delle parole inglesi claw  e howitzer . Bloster è una combinazione tra blow  e blaster. ",
     "origin": "Sembra basato su un gambero pistolero. Il suo aspetto ricorda inoltre quello di un astaco della Florida o di un astice blu. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Clawitzer",
     "shape": "testa e gambe",
     "specie": "Pokémon Acqualancio",
     "sprites": {
         "clawitzer": {
             "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0693.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0693.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0693.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/96/Artwork0693_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1b/Artwork0693_XY.png"
     },
     "stats": {
         "clawitzer": {

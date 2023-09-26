@@ -49,6 +49,7 @@
         "Campo",
         "Umanoide"
     ],
+    "flat_name": "lopunny",
     "generation": 4,
     "height": {
         "lopunny": "1,2 m",
@@ -58,17 +59,20 @@
     "name": "Lopunny",
     "name_origin": "Il suo nome unisce le parole inglesi lop  e bunny . In giapponese è Mimilop che unisce 耳 mimi  con la parola inglese lop . ",
     "origin": "Lopunny sembra essere una caricatura di una coniglietta di Playboy. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lopunny",
     "shape": "due paia di ali",
     "specie": "Pokémon Coniglio",
     "sprites": {
         "lopunny": {
             "default": "https://media.pokemoncentral.it/wiki/5/5a/Homem0428.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/5e/Homemsh0428.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5e/Homemsh0428.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5e/Artwork0428M_Corp.png"
         },
         "megalopunny": {
             "default": "https://media.pokemoncentral.it/wiki/9/98/Homem0428M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homemsh0428M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/92/Artwork0428_DP.png"
     },
     "stats": {
         "lopunny": {

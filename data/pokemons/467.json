@@ -43,6 +43,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "magmortar",
     "generation": 4,
     "height": {
         "magmortar": "1,6 m"
@@ -51,13 +52,16 @@
     "name": "Magmortar",
     "name_origin": "Il nome è una combinazione tra la parola magma e la parola inglese mortar . Il nome giapponese Booburn è una combinazione tra le parole booby , burn  ed eventualmente boom . ",
     "origin": "Magmortar sembrerebbe essere una combinazione tra un'anatra, una sula e una salamandra. Si basa con tutta probabilità sulla figura mitologica del Karura. Le braccia si aprono come dei cannoni. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Magmortar",
     "shape": "due paia di ali",
     "specie": "Pokémon Esplosivo",
     "sprites": {
         "magmortar": {
             "default": "https://media.pokemoncentral.it/wiki/f/f4/Homem0467.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b8/Homemsh0467.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b8/Homemsh0467.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0467_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/ff/Artwork0467_DLPS.png"
     },
     "stats": {
         "magmortar": {

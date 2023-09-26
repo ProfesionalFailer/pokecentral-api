@@ -45,6 +45,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "gligar",
     "generation": 2,
     "height": {
         "gligar": "1,1 m"
@@ -53,17 +54,20 @@
     "name": "Gligar",
     "name_origin": "Il suo nome probabilmente deriva dalle parole inglesi glider  e gargoyle. ",
     "origin": "Potrebbe essere ispirato alle mosche scorpione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gligar",
     "shape": "testa e base",
     "specie": "Pokémon Aliscorpio",
     "sprites": {
-        "": {
+        "gligar": {
             "default": "https://media.pokemoncentral.it/wiki/1/16/Homem0207.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0e/Homemsh0207.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0e/Homemsh0207.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ee/Artwork0207_Corp.png"
         },
-        "-f": {
+        "gligar-f": {
             "default": "https://media.pokemoncentral.it/wiki/f/f4/Homef0207.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/8a/Homefsh0207.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3f/Artwork0207_HGSS.png"
     },
     "stats": {
         "gligar": {

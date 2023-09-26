@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "eevee": {
             "primary": "Fugafacile",
             "secondary": "Adattabilità",
             "hidden": "Presagio"
@@ -9,12 +9,12 @@
     "curiosities": [
         "Eevee è il Pokémon con più evoluzioni.",
         "In prima generazione Eevee era l'unico Pokémon in grado di evolversi in più di un Pokémon.",
-        "Eevee e Tyrogue sono gli unici Pokémon che possono evolversi in più di due Pokémon .",
+        "Eevee, Tyrogue ed Applin sono gli unici Pokémon che possono evolversi in più di due Pokémon .",
         "In Pokémon Ranger è possibile incontrare tutte le evoluzioni di Eevee esistenti fino alla terza generazione, ma non Eevee stesso. È tuttavia possibile incontrare Eevee in Pokémon Ranger: Ombre su Almia.",
         "Il nome di Eevee è un palindromo, come quelli di Girafarig, Ho-Oh, Alomomola e Farigiraf.\n\tQuesto nome è anche l'unico a contenere soltanto due lettere.",
         "Questo nome è anche l'unico a contenere soltanto due lettere.",
         "L'evoluzione di Eevee in Espeon o Umbreon non può avvenire nei giochi Rosso Fuoco e Verde Foglia a causa della loro mancanza di una meccanica temporale. È inoltre impossibile farlo evolvere in Leafeon o Glaceon in Oro HeartGold e Argento SoulSilver dal momento che né Johto, né Kanto presentano una Roccia Muschio o una Roccia Ghiaccio.",
-        "Eevee, insieme a Trapinch e Sneasel, è uno dei tre Pokémon con due abilità non speciali che si evolvono in Pokémon con una sola abilità non speciale.",
+        "Eevee, insieme a Trapinch, è uno dei tre Pokémon con due abilità non speciali che si evolvono in Pokémon con una sola abilità non speciale.",
         "Nell'anime, nonostante il fatto che Gary, Vera e Sakura hanno tutti posseduto un Eevee che si è in seguito evoluto, non si era mai vista un'evoluzione in diretta di Eevee fino a Ultima chiamata, primo round!, ben tredici anni dall'inizio della serie, quando Ursula ha fatto evolvere i suoi due Eevee in Flareon e Vaporeon durante una Gara.",
         "Il termine inventato dai fan per descrivere le evoluzioni di Eevee, Eeveeluzioni, è stato reso ufficiale dopo il suo utilizzo nella guida strategica di Pokémon Stadium 2.",
         "In sesta generazione, Eevee è l'unico Pokémon pre-esistente a ricevere un'evoluzione.",
@@ -75,6 +75,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "eevee",
     "generation": 1,
     "height": {
         "eevee": "0,3 m",
@@ -84,20 +85,31 @@
     "name": "Eevee",
     "name_origin": "Il nome di Eevee è la pronuncia inglese di \"E-V\", le prime due lettere della parola evoluzione, e infatti in giapponese si pronuncia lo stesso \"iivi\". ",
     "origin": "L'aspetto di Eevee è simile a quello di diversi animali, come volpi , cani e gatti. Le sue caratteristiche potrebbero essere ispirate al Tanuki, un essere del folklore giapponese che può cambiare aspetto, all'allevamento di cani da cui si possono ottenere molte razze differenti, o alle diverse specie di volpi che vivono in ambienti differenti, come la volpe artica o la volpe del deserto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Eevee",
     "shape": "più di 4 arti",
     "specie": "Pokémon Evoluzione",
     "sprites": {
         "eevee": {
             "default": "https://media.pokemoncentral.it/wiki/e/e9/Homem0133.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homemsh0133.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homemsh0133.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a0/Artwork0133_Corp_2.png"
         },
         "eevee-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/5/51/Homem0133Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/f/fa/Homemsh0133Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b0/Artwork0133_RFVF.png"
     },
     "stats": {
-        "eevee-e-eevee-gigamax": {
+        "eevee": {
+            "hp": 55,
+            "atk": 55,
+            "def": 50,
+            "spa": 45,
+            "spd": 65,
+            "spe": 55
+        },
+        "eevee-gigamax": {
             "hp": 55,
             "atk": 55,
             "def": 50,
@@ -115,7 +127,8 @@
         }
     },
     "stats_sum": {
-        "eevee-e-eevee-gigamax": 325,
+        "eevee": 325,
+        "eevee-gigamax": 325,
         "compagno": 435
     },
     "types": {

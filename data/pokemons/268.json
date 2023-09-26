@@ -39,6 +39,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "cascoon",
     "generation": 3,
     "height": {
         "cascoon": "0,70 m"
@@ -47,13 +48,16 @@
     "name": "Cascoon",
     "name_origin": "Il nome di Cascoon deriva probabilmente dalla combinazione delle parole inglesi cask, bara, e cocoon, bozzolo. ",
     "origin": "Cascoon è basato su di una crisalide o sul bozzolo di una falena. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cascoon",
     "shape": "testa",
     "specie": "Pokémon Bozzolo",
     "sprites": {
         "cascoon": {
             "default": "https://media.pokemoncentral.it/wiki/e/e2/Homem0268.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0268.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0268.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/74/Artwork0268_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3a/Artwork0268_RZ.png"
     },
     "stats": {
         "cascoon": {

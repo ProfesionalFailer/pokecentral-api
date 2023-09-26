@@ -39,6 +39,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "mantyke",
     "generation": 4,
     "height": {
         "mantyke": "1,0 m"
@@ -47,13 +48,16 @@
     "name": "Mantyke",
     "name_origin": "Deriva dalle parole manta e tyke, bambino. ",
     "origin": "Basato su una manta. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mantyke",
     "shape": "testa e base",
     "specie": "Pokémon Aquilone",
     "sprites": {
         "mantyke": {
             "default": "https://media.pokemoncentral.it/wiki/e/e3/Homem0458.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/50/Homemsh0458.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/50/Homemsh0458.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/79/Artwork0458_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5b/Artwork0458_DP.png"
     },
     "stats": {
         "mantyke": {

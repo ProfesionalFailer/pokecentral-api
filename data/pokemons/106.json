@@ -54,6 +54,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "hitmonlee",
     "generation": 1,
     "height": {
         "hitmonlee": "1,5 m"
@@ -62,13 +63,16 @@
     "name": "Hitmonlee",
     "name_origin": "Il nome Hitmonlee può essere suddiviso in hit , monster  e Lee - come Bruce Lee, forse a significare \"il mostro che colpisce come Bruce Lee\". Il suo nome è simile a quello delle sue due evoluzioni parallele, Hitmonchan e Hitmontop. ",
     "origin": "È molto probabile che derivi da alcune creature leggendarie africane chiamate blemmi, esseri acefali con occhi e bocca sul ventre o sul torace. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hitmonlee",
     "shape": "un paio di ali",
     "specie": "Pokémon Tiracalci",
     "sprites": {
         "hitmonlee": {
             "default": "https://media.pokemoncentral.it/wiki/e/e3/Homem0106.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/dd/Homemsh0106.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/dd/Homemsh0106.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1d/Artwork0106_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1e/Artwork0106_RFVF.png"
     },
     "stats": {
         "hitmonlee": {

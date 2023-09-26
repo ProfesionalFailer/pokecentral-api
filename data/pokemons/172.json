@@ -53,6 +53,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "pichu",
     "generation": 2,
     "height": {
         "pichu": "0,3 m"
@@ -61,13 +62,16 @@
     "name": "Pichu",
     "name_origin": "Pichu è una combinazione di ぴかぴか pikapika  e ちゅうちゅう chūchū . Potrebbe anche essere un gioco di parole con プチ puchi . Infine Pichu è anche un diminutivo di Pikachu, proprio ad indicare che è più piccolo di Pikachu. ",
     "origin": "Pichu è ispirato ai mus, agli Sciuridi ed altri roditori. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pichu",
     "shape": "più di 4 arti",
     "specie": "Pokémon Topino",
     "sprites": {
         "pichu": {
             "default": "https://media.pokemoncentral.it/wiki/8/86/Homem0172.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homemsh0172.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homemsh0172.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/63/Artwork0172_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/42/Artwork0172_RFVF.png"
     },
     "stats": {
         "pichu": {

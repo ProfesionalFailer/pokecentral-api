@@ -1,80 +1,64 @@
 {
     "abilities": {
-        "forma-scrigno": {
-            "primary": "Paura"
-        },
-        "forma-ambulante": {
-            "primary": "Fugafacile"
+        "baxcalibur": {
+            "primary": "Termoscambio",
+            "hidden": "Corpogelo"
         }
     },
     "curiosities": [
-        "Il nome della Forma Scrigno è stato ideato da Zim, mentre quello della Forma Ambulante dal Professor Willow.",
-        "Nella Forma Scrigno Gimmighoul ha la Velocità più bassa tra tutti i pokémon di tipo Spettro."
+        "Baxcalibur e Kommo-o sono gli unici Pokémon pseudo-leggendari che non possono avere alcuna immunità."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/gimmighoul.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/baxcalibur.mp3",
     "dex_entries": {
-        "forma-scrigno": {
-            "scarlet": "Nacque all'interno di un forziere circa 1.500 anni fa. Assorbe l'energia vitale dei furfanti che provano a rubare il suo tesoro.",
-            "violet": "Vive dentro un vecchio forziere. Non sembrando affatto un Pokémon, a volte finisce in un angolo nei negozi di strumenti."
-        },
-        "forma-ambulante": {
-            "scarlet": "È nato da una moneta pervasa di sentimenti intensi. Vaga cercando di tornare nel forziere da cui proviene.",
-            "violet": "Vaga portando sulla schiena una moneta antica e per vivere assorbe l'energia vitale delle persone che cercano di raccoglierla."
+        "baxcalibur": {
+            "scarlet": "Emette dalla bocca un getto d'aria glaciale con cui può congelare all'istante anche del magma incandescente.",
+            "violet": "Si mette a testa in giù e soffia un vento gelido dalla bocca per spingersi contro il nemico e trafiggerlo con la lama della sua cresta dorsale."
         }
     },
     "egg_groups": [
-        "Sconosciuto"
+        "Drago",
+        "Minerale"
     ],
+    "flat_name": "baxcalibur",
     "generation": 9,
     "height": {
-        "forma-scrigno": "0,3 m",
-        "forma-ambulante": "0,1 m"
+        "baxcalibur": "2,1 m"
     },
     "id": 998,
-    "name": "Gimmighoul",
-    "name_origin": "Gimmighoul potrebbe essere una combinazione di gimme, dammi, gimmick, stratagemma, e ghoul; inoltre, il nome suona in maniera simile a Gimme gold, dammi dell'oro. コレクレー Korekurē deriva da collect, e これくれ kore kure, dammelo. ",
-    "origin": "La Forma Scrigno trae probabilmente ispirazione dal mimic, un mostro dell'immaginario fantasy in grado di mutare la forma del suo corpo per assomigliare a degli oggetti; tipicamente i mimic assumono la forma di uno scrigno del tesoro, per trarre in inganno gli avventurieri. ",
+    "name": "Baxcalibur",
+    "name_origin": "Baxcalibur potrebbe essere una combinazione di back  ed Excalibur. ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Baxcalibur",
     "shape": "None",
-    "specie": "Pokémon Scrigno",
+    "specie": "Pokémon Gelodrago",
     "sprites": {
-        "forma-scrigno": {
-            "default": "https://media.pokemoncentral.it/wiki/c/c6/Homem0999.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homemsh0999.png"
+        "baxcalibur": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0998.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/12/Homemsh0998.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/85"
         },
-        "forma-ambulante": {
-            "default": "https://media.pokemoncentral.it/wiki/f/f8/Homem0999A.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0999A.png"
-        }
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e7/Artwork0998_SV.png"
     },
     "stats": {
-        "forma-scrigno": {
-            "hp": 45,
-            "atk": 30,
-            "def": 70,
+        "baxcalibur": {
+            "hp": 115,
+            "atk": 145,
+            "def": 92,
             "spa": 75,
-            "spd": 70,
-            "spe": 10
-        },
-        "forma-ambulante": {
-            "hp": 45,
-            "atk": 30,
-            "def": 25,
-            "spa": 75,
-            "spd": 45,
-            "spe": 80
+            "spd": 86,
+            "spe": 87
         }
     },
     "stats_sum": {
-        "forma-scrigno": 300,
-        "forma-ambulante": 300
+        "baxcalibur": 600
     },
     "types": {
-        "gimmighoul": [
-            "Spettro"
+        "baxcalibur": [
+            "Drago",
+            "Ghiaccio"
         ]
     },
     "weight": {
-        "forma-scrigno": "5,0 kg",
-        "forma-ambulante": "0,1 kg"
+        "baxcalibur": "210,0 kg"
     }
 }

@@ -30,6 +30,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "fletchling",
     "generation": 6,
     "height": {
         "fletchling": "0,3 m"
@@ -38,13 +39,16 @@
     "name": "Fletchling",
     "name_origin": "Fletchling probabilmente deriva dalle combinazioni di fletching , fledgling , e hatchling . Yayakoma probabilmente deriva dalle combinazioni di 矢 ya  e コマドリ komadori . ",
     "origin": "Fletchling è basato sul Pettirosso giapponese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Fletchling",
     "shape": "testa e base",
     "specie": "Pokémon Pettirosso",
     "sprites": {
         "fletchling": {
             "default": "https://media.pokemoncentral.it/wiki/1/13/Homem0661.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0661.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0661.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5b/Artwork0661_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/89/Artwork0661_XY.png"
     },
     "stats": {
         "statistiche-base": {
@@ -61,8 +65,8 @@
     },
     "types": {
         "fletchling": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

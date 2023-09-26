@@ -36,6 +36,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "kricketot",
     "generation": 4,
     "height": {
         "kricketot": "0,3 m"
@@ -44,17 +45,20 @@
     "name": "Kricketot",
     "name_origin": "Deriva dalle parole cricket  e tot . ",
     "origin": "Basato su un piccolo grillo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kricketot",
     "shape": "un paio di ali",
     "specie": "Pokémon Grillo",
     "sprites": {
-        "": {
+        "kricketot": {
             "default": "https://media.pokemoncentral.it/wiki/0/05/Homem0401.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0401.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0401.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2a/Artwork0401_Corp.png"
         },
-        "-f": {
+        "kricketot-f": {
             "default": "https://media.pokemoncentral.it/wiki/f/fc/Homef0401.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/8e/Homefsh0401.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cf/Artwork0401_DP.png"
     },
     "stats": {
         "kricketot": {

@@ -56,6 +56,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "espeon",
     "generation": 2,
     "height": {
         "espeon": "0,9 m"
@@ -64,13 +65,16 @@
     "name": "Espeon",
     "name_origin": "Il suo nome deriva probabilmente dall'unione tra l'acronimo inglese ESP  e il suffisso -eon ovvero eone, tipico della famiglia evolutiva di Eevee. ",
     "origin": "Espeon sembra essere basato sulla creatura mitologica nekomata o al bakeneko, queste creature sono gatti-goblin con code biforcute e con una grande intelligenza. Il suo aspetto ricorda anche il Carbuncle, creatura mitologica dell'America latina con un gioiello sulla fronte, ha anche molti tratti dei Caraclas, gatti sphynx, linci e volpi fennec. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Espeon",
     "shape": "più di 4 arti",
     "specie": "Pokémon Sole",
     "sprites": {
         "espeon": {
             "default": "https://media.pokemoncentral.it/wiki/3/39/Homem0196.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0196.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0196.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/61/Artwork0196_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0e/Artwork0196_RFVF.png"
     },
     "stats": {
         "espeon": {

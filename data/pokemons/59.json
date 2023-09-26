@@ -63,6 +63,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "arcanine",
     "generation": 1,
     "height": {
         "arcanine": "1,9 m",
@@ -72,13 +73,16 @@
     "name": "Arcanine",
     "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi arcane, arcano e canine, . ",
     "origin": "Arcanine è riconducibile allo Shishi, lo shisa o il komainu, creature mitologiche ispirate a cani, leoni e tigri, le cui statue assumono la funzione di guardiani che respingono gli spiriti maligni e, al contrario, attraggono gli spiriti positivi. Potrebbe essere basato inoltre sul Haetae, un cane della mitologia coreana mangiatore di fuoco, che presenta anch'esso caratteristiche in comune con leoni e tigri, usato spesso come simbolo di giustizia. In ultimo, può anche essere basato su un Leone delle Caverne. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Arcanine",
     "shape": "più di 4 arti",
     "specie": "Pokémon Leggenda",
     "sprites": {
         "arcanine": {
             "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0059.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0059.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0059.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/01/Artwork0059_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/03/Artwork0059_RFVF.png"
     },
     "stats": {
         "arcanine": {
@@ -107,8 +111,8 @@
             "Fuoco"
         ],
         "forma-di-hisui": [
-            "Roccia",
-            "Fuoco"
+            "Fuoco",
+            "Roccia"
         ]
     },
     "weight": {

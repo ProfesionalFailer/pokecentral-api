@@ -29,6 +29,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "litwick",
     "generation": 5,
     "height": {
         "litwick": "0,3 m"
@@ -37,13 +38,16 @@
     "name": "Litwick",
     "name_origin": "Litwick sembra essere la combinazione di lit  o little  e wick . Potrebbe anche derivare da wicked . ",
     "origin": "Litwick è una combinazione di un Hitodama  e una candela. Potrebbe anche essere basato sullo stereotipo della candela fantasma fluttuante. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Litwick",
     "shape": "quadrupede",
     "specie": "Pokémon Candela",
     "sprites": {
         "litwick": {
             "default": "https://media.pokemoncentral.it/wiki/0/00/Homem0607.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c8/Homemsh0607.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c8/Homemsh0607.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/94/Artwork0607_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/11/Artwork0607_NB.png"
     },
     "stats": {
         "litwick": {
@@ -60,8 +64,8 @@
     },
     "types": {
         "litwick": [
-            "Spettro",
-            "Fuoco"
+            "Fuoco",
+            "Spettro"
         ]
     },
     "weight": {

@@ -37,6 +37,7 @@
     "egg_groups": [
         "Drago"
     ],
+    "flat_name": "sliggoo",
     "generation": 6,
     "height": {
         "sliggoo": "0,8 m"
@@ -45,13 +46,16 @@
     "name": "Sliggoo",
     "name_origin": "Sliggoo è una combinazione tra slick , slimy , slug  e goo. Numeil deriva da 滑る numeru  e snail . ",
     "origin": "Sliggoo sembra essere basato sui gasteropodi con il corpo molle, come le lumache e i nudibranchia; la sua immagine e l'eventuale disegno del drago nelle evoluzioni può essere un riferimento alla lumaca di mare \"drago blu\". Il corpo a forma di conchiglia è probabilmente un riferimento alle conchiglie rudimentali in determinate specie di lumache o forse un riferimento alle semi-lumache. Può anche essere basato sul concetto di melma che vive nella cultura popolare. Le sue origini da lumaca così come la sua immagine di drago e la forma del corpo allungato possono significare che potrebbe anche essere basato sul Lou Carcolh, un serpente/mollusco mitico del folclore francese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sliggoo",
     "shape": "testa e gambe",
     "specie": "Pokémon Mollusco",
     "sprites": {
         "sliggoo": {
             "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem0705.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0705.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0705.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/66/Artwork0705_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/98/Artwork0705_XY.png"
     },
     "stats": {
         "sliggoo": {
@@ -80,8 +84,8 @@
             "Drago"
         ],
         "forma-di-hisui": [
-            "Acciaio",
-            "Drago"
+            "Drago",
+            "Acciaio"
         ]
     },
     "weight": {

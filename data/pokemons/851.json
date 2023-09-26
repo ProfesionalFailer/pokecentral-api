@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "centiskorch": {
             "primary": "Fuocardore",
             "secondary": "Fumochiaro",
             "hidden": "Corpodifuoco"
@@ -27,6 +27,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "centiskorch",
     "generation": 8,
     "height": {
         "centiskorch": "3,0 m",
@@ -36,17 +37,20 @@
     "name": "Centiskorch",
     "name_origin": "Centiskorch potrebbe essere una combinazione di centipede, centopiedi, e scorch, bruciatura. Maruyakude potrebbe essere una combinazione di 丸焼け maruyake, completamente bruciato, e 馬陸 yasude, millepiedi, o 百足 mukade, centopiedi. ",
     "origin": "Centiskorch potrebbe essere basato su un radiatore o su un centopiedi, come l'Orphaneus brevilabiatus, noto anche come \"centopiedi di fuoco\" a causa della sua bioluminescenza. Potrebbe essere ispirato anche su un millepiedi bioluminescente, il Motyxia. In aggiunta, potrebbe essere basato anche su un Ōmukade, un centipede gigante della mitologia giapponese; le zampe della creatura sono descritte come simili a migliaia di torce. I \"baffi infuocati\" ricordano un kabuto, un tipo di elmo tipicamente giapponese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Centiskorch",
     "shape": "bipedi con coda",
     "specie": "Pokémon Termogeno",
     "sprites": {
         "centiskorch": {
             "default": "https://media.pokemoncentral.it/wiki/8/8e/Homem0851.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/70/Homemsh0851.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/70/Homemsh0851.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/94"
         },
         "centiskorch-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/7/7e/Homem0851Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/5f/Homemsh0851Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0851_SpSc.png"
     },
     "stats": {
         "centiskorch": {

@@ -38,6 +38,7 @@
         "Mostro",
         "Erba"
     ],
+    "flat_name": "snover",
     "generation": 4,
     "height": {
         "snover": "1,0 m"
@@ -46,17 +47,20 @@
     "name": "Snover",
     "name_origin": "Deriva dalle parole snow  e clover  o cover  riferendosi al fatto che sembra coperto di neve. Potrebbe anche derivare dalla frase inglese \"snowed over\" . ",
     "origin": "Basato su una radice daikon, nota anche come radice invernale, perché di solito viene raccolta e consumata durante l'inverno. Potrebbe essere basato anche su un abete innevato, la parte superiore della testa ricorda il kanji della montagna  che viene usato per le montagne a tre cime. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Snover",
     "shape": "due paia di ali",
     "specie": "Pokémon Albergelo",
     "sprites": {
-        "": {
+        "snover": {
             "default": "https://media.pokemoncentral.it/wiki/9/91/Homem0459.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0459.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0459.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6b/Artwork0459_Corp.png"
         },
-        "-f": {
+        "snover-f": {
             "default": "https://media.pokemoncentral.it/wiki/7/74/Homef0459.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/ca/Homefsh0459.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0e/Artwork0459_DP.png"
     },
     "stats": {
         "snover": {
@@ -73,8 +77,8 @@
     },
     "types": {
         "snover": [
-            "Erba",
-            "Ghiaccio"
+            "Ghiaccio",
+            "Erba"
         ]
     },
     "weight": {

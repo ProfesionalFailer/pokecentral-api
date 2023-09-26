@@ -24,6 +24,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "pansage",
     "generation": 5,
     "height": {
         "pansage": "0,6 m"
@@ -32,13 +33,16 @@
     "name": "Pansage",
     "name_origin": "Il suo nome deriva da pan , e dalla parola inglese sage , o dal tedesco sagen . ",
     "origin": "Pansage si basa sulle scimmie e su una pianta. Potrebbe ispirarsi al modo in cui la sottofamiglia dei colombini viene chiamata in inglese, leaf monkey . È basato inoltre sulla scimmia Iwazaru  del santuario di Nikko. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pansage",
     "shape": "due paia di ali",
     "specie": "Pokémon Scimperba",
     "sprites": {
         "pansage": {
             "default": "https://media.pokemoncentral.it/wiki/6/63/Homem0511.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0511.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0511.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0e/Artwork0511_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/63/Artwork0511_NB.png"
     },
     "stats": {
         "pansage": {

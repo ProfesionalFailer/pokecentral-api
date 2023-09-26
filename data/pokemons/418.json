@@ -35,6 +35,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "buizel",
     "generation": 4,
     "height": {
         "buizel": "0,7 m"
@@ -43,17 +44,20 @@
     "name": "Buizel",
     "name_origin": "Deriva dalle parole buoy  e weasel . ",
     "origin": "Basato su una lontra con caratteristiche di una donnola. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Buizel",
     "shape": "più di 4 arti",
     "specie": "Pokémon Maridonnola",
     "sprites": {
-        "": {
+        "buizel": {
             "default": "https://media.pokemoncentral.it/wiki/5/56/Homem0418.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homemsh0418.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homemsh0418.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8c/Artwork0418_Corp.png"
         },
-        "-f": {
+        "buizel-f": {
             "default": "https://media.pokemoncentral.it/wiki/3/35/Homef0418.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homefsh0418.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7a/Artwork0418_DLPS.png"
     },
     "stats": {
         "buizel": {

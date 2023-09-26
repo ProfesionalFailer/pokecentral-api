@@ -44,6 +44,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "hariyama",
     "generation": 3,
     "height": {
         "hariyama": "2,30 m"
@@ -52,13 +53,16 @@
     "name": "Hariyama",
     "name_origin": "Il suo nome può essere una combinazione di 張り手 harite , 張り合う hariau , o 張り倒す haritaosu  e yama 山 . Letteralmente 針山 Hariyama significa \"portaspilli\", ed è anche un grado di sumo. ",
     "origin": "Sembra essere basato su un lottatore di sumo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hariyama",
     "shape": "un paio di ali",
     "specie": "Pokémon Sberletese",
     "sprites": {
         "hariyama": {
             "default": "https://media.pokemoncentral.it/wiki/9/90/Homem0297.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f4/Homemsh0297.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f4/Homemsh0297.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a6/Artwork0297_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/10/Artwork0297_RZ.png"
     },
     "stats": {
         "hariyama": {

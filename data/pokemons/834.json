@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "drednaw": {
             "primary": "Ferromascella",
             "secondary": "Guscioscudo",
             "hidden": "Nuotovelox"
@@ -27,6 +27,7 @@
         "Mostro",
         "Acqua 1"
     ],
+    "flat_name": "drednaw",
     "generation": 8,
     "height": {
         "drednaw": "1,0 m",
@@ -36,17 +37,20 @@
     "name": "Drednaw",
     "name_origin": "Drednaw potrebbe essere una combinazione di dread, timore in inglese, e gnaw, masticare in inglese. Potrebbe anche derivare da dreadnought. Kajirigame potrebbe essere una combinazione di 齧り付く kajiritsuku, mordere, e 亀 kame, tartaruga. ",
     "origin": "Dreadnaw potrebbe essere basato su una tartaruga alligatore. La parte del corpo inferiore, visibile principalmente nella sua forma Gigamax, e la corazza superiore somigliano alle navi corazzate. Il corno del Pokémon ricorda una mannaia, mentre Drednaw Gigamax assomiglia alle dreadnought. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Drednaw",
     "shape": "più di 4 arti",
     "specie": "Pokémon Morso",
     "sprites": {
         "drednaw": {
             "default": "https://media.pokemoncentral.it/wiki/7/71/Homem0834.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homemsh0834.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homemsh0834.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/03"
         },
         "drednaw-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/5/55/Homem0834Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/1b/Homemsh0834Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7a/Artwork0834_SpSc.png"
     },
     "stats": {
         "drednaw": {
@@ -63,8 +67,8 @@
     },
     "types": {
         "drednaw": [
-            "Roccia",
-            "Acqua"
+            "Acqua",
+            "Roccia"
         ]
     },
     "weight": {

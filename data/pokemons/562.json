@@ -35,6 +35,7 @@
         "Minerale",
         "Amorfo"
     ],
+    "flat_name": "yamask",
     "generation": 5,
     "height": {
         "yamask": "0,5 m"
@@ -43,17 +44,20 @@
     "name": "Yamask",
     "name_origin": "Il suo nome potrebbe derivare dall'unione della parola giapponese 闇 yami , や ya  o Yama  con la parola inglese mask . ",
     "origin": "Yamask è basato sulla Ba della religione egizia che tiene una maschera mortuaria. La forma di Galar, invece, è basata su una runa. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Yamask",
     "shape": "insettoide",
     "specie": "Pokémon Fatuanima",
     "sprites": {
         "yamask": {
             "default": "https://media.pokemoncentral.it/wiki/1/17/Homem0562.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9b/Homemsh0562.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9b/Homemsh0562.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7c/Artwork0562_Corp.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/8/84/Homem0562G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/f/fa/Homemsh0562G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/51/Artwork0562_NB.png"
     },
     "stats": {
         "yamask": {

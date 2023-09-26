@@ -33,6 +33,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "mimikyu",
     "generation": 7,
     "height": {
         "mimikyu": "0,2 m",
@@ -42,17 +43,21 @@
     "name": "Mimikyu",
     "name_origin": "Mimikyu e Mimikkyu potrebbero derivare dalla parola mimic, imitare o dalla trascrizione fonetica delle frasi \"To mimic you\", \"I mimic you\": \"imitarti\", \"ti imito\". Potrebbe derivare anche dall'onomatopea del verso di Pikachu. ",
     "origin": "Mimikyu si basa su un panno raffigurante un Pikachu. Questo travestimento assomiglia ai costumi da fantasma creati con le lenzuola. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mimikyu",
     "shape": "testa e gambe",
     "specie": "Pokémon Fantasmanto",
     "sprites": {
         "forma-mascherata": {
             "default": "https://media.pokemoncentral.it/wiki/e/e5/Homem0778.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/57/Homemsh0778.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/57/Homemsh0778.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/02/Artwork0778_Corp_2.png"
         },
         "forma-smascherata": {
             "default": "https://media.pokemoncentral.it/wiki/0/0a/Homem0778S.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4c/Homemsh0778S.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4c/Homemsh0778S.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6b/Artwork0778S_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/27/Artwork0778_SL.png"
     },
     "stats": {
         "mimikyu": {

@@ -23,6 +23,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "turtonator",
     "generation": 7,
     "height": {
         "turtonator": "2,0 m"
@@ -31,13 +32,16 @@
     "name": "Turtonator",
     "name_origin": "Turtonator potrebbe essere una combinazione di turtle, tartaruga, e detonator, detonatore. Bakugames potrebbe essere una combinazione di 爆発 bakuhatsu, esplosione, e di 亀 kame, tartaruga. ",
     "origin": "Turtonator sembra essere basato sulla Chelus fimbriata, tartaruga Mata Mata, ma potrebbe anche avere dei riferimenti al Kappa o al Tarrasque. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Turtonator",
     "shape": "due paia di ali",
     "specie": "Pokémon Tartabomba",
     "sprites": {
         "turtonator": {
             "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem0776.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/09/Homemsh0776.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/09/Homemsh0776.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f1/Artwork0776_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b6/Artwork0776_SL.png"
     },
     "stats": {
         "turtonator": {

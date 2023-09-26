@@ -27,21 +27,25 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "heliolisk",
     "generation": 6,
     "height": {
         "heliolisk": "1,0 m"
     },
     "id": 695,
     "name": "Heliolisk",
-    "name_origin": "Heliolisk deriva dall'unione della parola greca Ήλιος hēlios  con la parola inglese basilisk . Elezard è una combinazione tra elekiter, エリマキトカゲ erimaki tokage  e lézard . ",
-    "origin": "È ispirato ad un Clamidosauro: come questo animale, anche Heliolisk si serve di un \"clamide\" che può aprire attorno al proprio collare. ",
+    "name_origin": "Heliolisk deriva dall'unione della parola greca Ήλιος  hēlios  con la parola inglese basilisk . Elezard è una combinazione tra elekiter, エリマキトカゲ erimaki tokage  e lézard . ",
+    "origin": "È ispirato ad un clamidosauro: come questo animale, anche Heliolisk si serve di un \"clamide\" che può aprire attorno al proprio collare. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Heliolisk",
     "shape": "due paia di ali",
     "specie": "Pokémon Generatore",
     "sprites": {
         "heliolisk": {
             "default": "https://media.pokemoncentral.it/wiki/3/3c/Homem0695.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f5/Homemsh0695.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f5/Homemsh0695.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6a"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/51/Artwork0695_XY.png"
     },
     "stats": {
         "statistiche-base": {

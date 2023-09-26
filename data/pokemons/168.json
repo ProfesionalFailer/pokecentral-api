@@ -47,6 +47,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "ariados",
     "generation": 2,
     "height": {
         "ariados": "1,1 m"
@@ -55,13 +56,16 @@
     "name": "Ariados",
     "name_origin": "Il nome di Ariados deriva probabilmente da aracnide, ragno in latino o Arianna, Aracne. Dos potrebbe derivare dal giapponese 脅す odosu, minacciare. Come alternativa, dos potrebbe riferirsi alla parola spagnola dos che significa due, usata forse perché il Pokémon ha due pungiglioni, o perché è la seconda forma della sua linea evolutiva. ",
     "origin": "L'aspetto di Ariados sembra basarsi sul Myrmarachne formicaria, ma ricorda due yōkai: l'ushi-oni e lo tsuchigumo, chiamato anche Yatsukahagi, che di solito appare come un ragno gigante. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ariados",
     "shape": "testa e braccia",
     "specie": "Pokémon Lungazampa",
     "sprites": {
         "ariados": {
             "default": "https://media.pokemoncentral.it/wiki/2/2c/Homem0168.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0168.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0168.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/92/Artwork0168_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/21/Artwork0168_HGSS.png"
     },
     "stats": {
         "ariados": {
@@ -78,8 +82,8 @@
     },
     "types": {
         "ariados": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {

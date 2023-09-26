@@ -18,6 +18,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "spidops",
     "generation": 9,
     "height": {
         "spidops": "1,0 m"
@@ -26,13 +27,16 @@
     "name": "Spidops",
     "name_origin": "Spidops potrebbe essere una combinazione di spider  e chops . Wanaida potrebbe essere una combinazione di 罠 wana  and スパイダ supaida . ",
     "origin": "Spidops potrebbe essere basato sui ragni della famiglia Deinopidae, caratterizzati dai grandi occhi mediani, l'addome allungato e le lunghe zampe anteriori, che usano per tendere la ragnatela e gettarla sulla preda come una rete. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spidops",
     "shape": "None",
     "specie": "Pokémon Trappola",
     "sprites": {
         "spidops": {
             "default": "https://media.pokemoncentral.it/wiki/9/95/Homem0918.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0918.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0918.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6f"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/80/Artwork0918_SV.png"
     },
     "stats": {
         "spidops": {

@@ -30,6 +30,7 @@
         "Erba",
         "Minerale"
     ],
+    "flat_name": "ferrothorn",
     "generation": 5,
     "height": {
         "ferrothorn": "1,0 m"
@@ -38,13 +39,16 @@
     "name": "Ferrothorn",
     "name_origin": "Ferrothorn potrebbe derivare dall'unione dell'italiano ferro e l'inglese thorn . ",
     "origin": "Ferrothorn è basato su un frutto o un seme spinoso, quali la nappola spinosa, il durian, l'ippocastano, o la mela delle spine, ma la sua forma ricorda anche quella di una noce. I suoi tentacoli rappresentano dei mazzafrusti. Potrebbe anche essere basato su un gioco di parole su \"tribulus\", una pianta spinosa appartenente alla famiglia delle Zygophyllaceae, il cui nome latino in epoca romana indicava il piede di corvo, un dispositivo bellico costituito da quattro punte metalliche fissate su una piccola sfera, simile ai ganci che usa per appendersi; inoltre la parte iniziale del nome può essere intesa come il prefisso \"tri-\", che indica \"tre\", il numero di tentacoli a forma di mazza che possiede. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ferrothorn",
     "shape": "bipedi con coda",
     "specie": "Pokémon Spinasfere",
     "sprites": {
         "ferrothorn": {
             "default": "https://media.pokemoncentral.it/wiki/d/d2/Homem0598.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9f/Homemsh0598.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9f/Homemsh0598.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/84/Artwork0598_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cc/Artwork0598_NB.png"
     },
     "stats": {
         "ferrothorn": {

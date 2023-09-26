@@ -9,7 +9,7 @@
     "curiosities": [
         "La linea evolutiva di Conkeldurr presenta molte analogie con la linea evolutiva di Machamp. Entrambi sono Pokémon di tipo Lotta il cui attacco è la loro statistica più alta, sono entrambi al di sotto della velocità media, hanno lo stesso rapporto tra i sessi, hanno tre stadi evolutivi e raggiungono la loro forma finale attraverso gli scambi.",
         "Durante un attacco lo sprite di Conkeldurr può venire visualizzato tagliato nel fondo.",
-        "Conkeldurr è il Pokémon di tipo Lotta non megaevoluto con il maggior Attacco.",
+        "Conkeldurr è, a pari merito con Manoferrea, il Pokémon di tipo Lotta non megaevoluto con il maggior Attacco.",
         "A causa del filtro che impedisce lo scambio di Pokémon con soprannomi offensivi nel Global Trade System, un Conkeldurr non può essere scambiato su questa piattaforma senza che gli sia dato un soprannome in Pokémon Bianco e Nero."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/conkeldurr.mp3",
@@ -30,6 +30,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "conkeldurr",
     "generation": 5,
     "height": {
         "conkeldurr": "1,4 m"
@@ -38,13 +39,16 @@
     "name": "Conkeldurr",
     "name_origin": "Il nome di Conkeldurr può essere nato dall'unione delle parole inglesi concrete  e elder . Altre possibili origine sono la parola conk  e burly . ",
     "origin": "A prima vista, il brutale aspetto umanoide di Conkeldurr sembra trarre ispirazione dagli orchi del folklore. Inoltre, la voce Pokédex della sua pre-evoluzione Timburr sostiene che questa linea evolutiva sia costituita da Pokémon che rappresentano lavoratori edili. Il suo naso rosso e alcune caratteristiche dell'aspetto fisico fanno pensare anche che possa essere ispirato a una sorta di clown. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Conkeldurr",
     "shape": "un paio di ali",
     "specie": "Pokémon Forzaimmane",
     "sprites": {
         "conkeldurr": {
             "default": "https://media.pokemoncentral.it/wiki/9/90/Homem0534.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0c/Homemsh0534.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0c/Homemsh0534.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c4/Artwork0534_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/86/Artwork0534_NB.png"
     },
     "stats": {
         "conkeldurr": {

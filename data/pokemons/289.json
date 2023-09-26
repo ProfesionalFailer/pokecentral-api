@@ -39,6 +39,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "slaking",
     "generation": 3,
     "height": {
         "slaking": "2,0 m"
@@ -47,13 +48,16 @@
     "name": "Slaking",
     "name_origin": "Il nome probabilmente deriva dall'inglese slack  e dalla parola king , o da slacking . ",
     "origin": "Slaking è ispirato a un gorilla. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Slaking",
     "shape": "un paio di ali",
     "specie": "Pokémon Pigrizia",
     "sprites": {
         "slaking": {
             "default": "https://media.pokemoncentral.it/wiki/f/fc/Homem0289.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homemsh0289.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homemsh0289.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/29/Artwork0289_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5d/Artwork0289_RZ.png"
     },
     "stats": {
         "slaking": {

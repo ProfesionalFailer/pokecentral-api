@@ -30,6 +30,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "durant",
     "generation": 5,
     "height": {
         "durant": "0,3 m"
@@ -38,13 +39,16 @@
     "name": "Durant",
     "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi durable  o endurance , per via del suo tipo Acciaio, e ant . ",
     "origin": "È basato su una formica, probabilmente la formica argentina, ma la sua colorazione e le sue mandibole sembrano essere basate sulla formica spinata argentata . Potrebbe anche trarre ispirazione dalla formica di velluto, imenottero il cui esoscheletro è talmente duro che anche uno spillo d'acciaio ha difficoltà a trapassarlo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Durant",
     "shape": "testa e braccia",
     "specie": "Pokémon Ferformica",
     "sprites": {
         "durant": {
             "default": "https://media.pokemoncentral.it/wiki/d/dc/Homem0632.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0632.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0632.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/83/Artwork0632_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/20/Artwork0632_NB.png"
     },
     "stats": {
         "durant": {
@@ -61,8 +65,8 @@
     },
     "types": {
         "durant": [
-            "Acciaio",
-            "Coleot"
+            "Coleot",
+            "Acciaio"
         ]
     },
     "weight": {

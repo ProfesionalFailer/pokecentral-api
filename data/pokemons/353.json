@@ -42,6 +42,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "shuppet",
     "generation": 3,
     "height": {
         "shuppet": "0,6 m"
@@ -50,13 +51,16 @@
     "name": "Shuppet",
     "name_origin": "Il suo nome è la combinazione delle parole shadow  e puppet . ",
     "origin": "Sembra essere basato su un Teruteru Bozu, ovvero una bambola giapponese fatta di carta simile a un fantasma e ad una marionetta da mano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shuppet",
     "shape": "testa",
     "specie": "Pokémon Pupazzo",
     "sprites": {
         "shuppet": {
             "default": "https://media.pokemoncentral.it/wiki/d/d3/Homem0353.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ed/Homemsh0353.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ed/Homemsh0353.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/29/Artwork0353_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b1/Artwork0353_RZ.png"
     },
     "stats": {
         "shuppet": {

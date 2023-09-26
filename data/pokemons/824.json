@@ -21,6 +21,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "blipbug",
     "generation": 8,
     "height": {
         "blipbug": "0,4 m"
@@ -29,13 +30,16 @@
     "name": "Blipbug",
     "name_origin": "Blipbug potrebbe essere una combinazione di blip, il segnale emesso dai radar, e bug, insetto. Sacchimushi potrebbe essere una combinazione di 察知 satchi, senso, search, cercare, e 虫 mushi, insetto. ",
     "origin": "Blipbug potrebbe essere basato su una larva di coccinella. Alcuni dettagli, come gli occhi a forma di occhiali e le protuberanze sotto la testa a forma di papillon, potrebbero rappresentare lo stereotipo del nerd. Sarebbe dunque un \"bookworm\", o \"topo da biblioteca\", un termine che indica le persone ossessionate dai libri o un insetto che si nasconde tra le pagine di quest'ultimi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Blipbug",
     "shape": "testa e braccia",
     "specie": "Pokémon Coleolarva",
     "sprites": {
         "blipbug": {
             "default": "https://media.pokemoncentral.it/wiki/d/dd/Homem0824.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0824.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0824.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5f"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fa/Artwork0824_SpSc.png"
     },
     "stats": {
         "blipbug": {

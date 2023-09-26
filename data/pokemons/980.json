@@ -14,7 +14,7 @@
         "Pokémon di tipo Terra",
         "Pokémon di doppio tipo",
         "Pokémon nel gruppo di esperienza Medio-Veloce",
-        "Pokémon di colore",
+        "Pokémon di colore Marrone",
         "Pokémon dalla sagoma n.",
         "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
         "Pokémon di Gruppo Uova Acqua 1",
@@ -33,6 +33,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "clodsire",
     "generation": 9,
     "height": {
         "clodsire": "1,8 m"
@@ -41,13 +42,16 @@
     "name": "Clodsire",
     "name_origin": "Clodsire potrebbe essere una combinazione di clod  e l'onorifico sire o Siren . Dooh potrebbe essere una combinazione di 土 do  e 王 ō  o オオサンショウウオ ōsanshōuo . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Clodsire",
     "shape": "None",
     "specie": "Pokémon Pescespine",
     "sprites": {
         "clodsire": {
             "default": "https://media.pokemoncentral.it/wiki/8/8d/Homem0980.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/45/Homemsh0980.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/45/Homemsh0980.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d9"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/99/Artwork0980_SV.png"
     },
     "stats": {
         "clodsire": {

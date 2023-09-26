@@ -24,6 +24,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "pyukumuku",
     "generation": 7,
     "height": {
         "pyukumuku": "0,3 m"
@@ -32,13 +33,16 @@
     "name": "Pyukumuku",
     "name_origin": "Pyukumuku potrebbe essere una combinazione di to puke, vomitare , cucumber, cetriolo, e mucus, muco. Namakobushi potrebbe essere una combinazione di ナマコ namako, cetriolo di mare, e 拳 kobushi, pugno. ",
     "origin": "Pyukumuku è ispirato ad un cetriolo di mare. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pyukumuku",
     "shape": "testa e gambe",
     "specie": "Pokémon Oloturia",
     "sprites": {
         "pyukumuku": {
             "default": "https://media.pokemoncentral.it/wiki/4/4b/Homem0771.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0771.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0771.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/71/Artwork0771_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2b/Artwork0771_SL.png"
     },
     "stats": {
         "pyukumuku": {

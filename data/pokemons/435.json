@@ -37,6 +37,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "skuntank",
     "generation": 4,
     "height": {
         "skuntank": "1,0 m"
@@ -45,13 +46,16 @@
     "name": "Skuntank",
     "name_origin": "Il nome deriva dalla combinazione tra le parole inglesi skunk , stank  e tank . ",
     "origin": "È basato su una moffetta dal naso di porco. Alcuni tratti del viso ricordano quelli di un gatto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Skuntank",
     "shape": "più di 4 arti",
     "specie": "Pokémon Moffetta",
     "sprites": {
         "skuntank": {
             "default": "https://media.pokemoncentral.it/wiki/2/2a/Homem0435.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/04/Homemsh0435.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/04/Homemsh0435.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/41/Artwork0435_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/90/Artwork0435_DP.png"
     },
     "stats": {
         "skuntank": {
@@ -68,8 +72,8 @@
     },
     "types": {
         "skuntank": [
-            "Buio",
-            "Veleno"
+            "Veleno",
+            "Buio"
         ]
     },
     "weight": {

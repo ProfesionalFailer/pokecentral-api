@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "pumpkaboo": {
             "primary": "Raccolta",
             "secondary": "Indagine",
             "hidden": "Insonnia"
@@ -38,6 +38,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "pumpkaboo",
     "generation": 6,
     "height": {
         "normale": "0,4 m",
@@ -49,12 +50,14 @@
     "name": "Pumpkaboo",
     "name_origin": "Pumpkaboo potrebbe essere una combinazione di pumpkin, zucca, e boo, una parola comune usata per spaventare le persone, o peek-a-boo, gioco del cucù. Bakeccha potrebbe essere una combinazione di お化け obake, spettro, e 南瓜 kabocha, zucca. ",
     "origin": "Pumpkaboo sembra essere basato su una zucca, in particolare quelle che vengono usate come lanterne ad Halloween: le jack-o'-lantern. Le zucche sono anche note per le loro varie dimensioni, ecco perché esistono esemplari di Pumpkaboo di dimensioni diverse. La parte marrone scuro del corpo e le zanne ricordano i pipistrelli, animali spesso associati alla festa di Halloween. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pumpkaboo",
     "shape": "testa",
     "specie": "Pokémon Zucca",
     "sprites": {
         "normale": {
             "default": "https://media.pokemoncentral.it/wiki/d/d7/Homem0710.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0710.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0710.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/02/Artwork0710_Corp.png"
         },
         "mini": {
             "default": "https://media.pokemoncentral.it/wiki/0/02/Homem0710S.png",
@@ -67,7 +70,8 @@
         "maxi": {
             "default": "https://media.pokemoncentral.it/wiki/d/d4/Homem0710XL.png",
             "shiny": "https://media.pokemoncentral.it/wiki/a/ae/Homemsh0710XL.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/af/Artwork0710_XY.png"
     },
     "stats": {
         "normale": {

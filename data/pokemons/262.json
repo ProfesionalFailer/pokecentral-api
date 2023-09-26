@@ -38,6 +38,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "mightyena",
     "generation": 3,
     "height": {
         "mightyena": "1,0 m"
@@ -46,13 +47,16 @@
     "name": "Mightyena",
     "name_origin": "Deriva dall'unione dell'aggettivo inglese \"mighty\"  con \"hyena\" . ",
     "origin": "Condivide alcune somiglianze con cani e iene. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mightyena",
     "shape": "più di 4 arti",
     "specie": "Pokémon Morso",
     "sprites": {
         "mightyena": {
             "default": "https://media.pokemoncentral.it/wiki/c/c5/Homem0262.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/52/Homemsh0262.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/52/Homemsh0262.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/81/Artwork0262_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5a/Artwork0262_RZ.png"
     },
     "stats": {
         "mightyena": {

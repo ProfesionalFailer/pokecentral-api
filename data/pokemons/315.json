@@ -43,6 +43,7 @@
         "Magico",
         "Erba"
     ],
+    "flat_name": "roselia",
     "generation": 3,
     "height": {
         "roselia": "0,3 m"
@@ -51,17 +52,20 @@
     "name": "Roselia",
     "name_origin": "Roselia è una combinazione di \"rose\", rosa, e \"azalea\" o \"buddleia\". ",
     "origin": "Roselia si basa sui cespugli di rose. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Roselia",
     "shape": "un paio di ali",
     "specie": "Pokémon Spina",
     "sprites": {
-        "": {
+        "roselia": {
             "default": "https://media.pokemoncentral.it/wiki/1/19/Homem0315.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/28/Homemsh0315.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/2/28/Homemsh0315.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/ce"
         },
-        "-f": {
+        "roselia-f": {
             "default": "https://media.pokemoncentral.it/wiki/e/e1/Homef0315.png",
             "shiny": "https://media.pokemoncentral.it/wiki/9/95/Homefsh0315.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/07/Artwork0315_RZ.png"
     },
     "stats": {
         "roselia": {

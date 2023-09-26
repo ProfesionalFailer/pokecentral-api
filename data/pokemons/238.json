@@ -45,6 +45,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "smoochum",
     "generation": 2,
     "height": {
         "smoochum": "0,4 m"
@@ -53,13 +54,16 @@
     "name": "Smoochum",
     "name_origin": "Il suo nome potrebbe derivare dalla frase inglese smooch them . Un'altra possibilità è che derivi dall'unione delle parole inglesi smooch  e chum . ",
     "origin": "Basato sulla moda ganguro o dalla leggenda di Kintarō. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Smoochum",
     "shape": "un paio di ali",
     "specie": "Pokémon Bacio",
     "sprites": {
         "smoochum": {
             "default": "https://media.pokemoncentral.it/wiki/e/e7/Homef0238.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c9/Homefsh0238.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c9/Homefsh0238.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/da/Artwork0238_Corp_3.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/44/Artwork0238_HGSS.png"
     },
     "stats": {
         "smoochum": {

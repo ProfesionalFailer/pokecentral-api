@@ -39,6 +39,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "luxio",
     "generation": 4,
     "height": {
         "luxio": "0,9 m"
@@ -47,17 +48,20 @@
     "name": "Luxio",
     "name_origin": "Luxio è il risultato dell'unione della parole latine lux  e leo , oppure dell'inglese lion . \"Lux-\" potrebbe derivare anche da Luxor dove è situato il complesso templare di Karnak, che presenta molte sfingi. ",
     "origin": "Luxio è basato su un giovane leone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Luxio",
     "shape": "più di 4 arti",
     "specie": "Pokémon Favilla",
     "sprites": {
-        "": {
+        "luxio": {
             "default": "https://media.pokemoncentral.it/wiki/b/b0/Homem0404.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fb/Homemsh0404.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fb/Homemsh0404.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/24/Artwork0404_Corp.png"
         },
-        "-f": {
+        "luxio-f": {
             "default": "https://media.pokemoncentral.it/wiki/2/2d/Homef0404.png",
             "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homefsh0404.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/66/Artwork0404_DP.png"
     },
     "stats": {
         "luxio": {

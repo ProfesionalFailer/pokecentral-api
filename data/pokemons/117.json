@@ -52,6 +52,7 @@
         "Acqua 1",
         "Drago"
     ],
+    "flat_name": "seadra",
     "generation": 1,
     "height": {
         "seadra": "1,2 m"
@@ -60,13 +61,16 @@
     "name": "Seadra",
     "name_origin": "Il nome deriva dall'unione delle parole \"Seahorse\"  e \"Dragon\"  o \"Hydra\" . ",
     "origin": "È basato su un cavalluccio marino, ma la capacità di sputare liquidi gastrici simili a inchiostro lo accomunano anche ai polpi, essendo inoltre classificato come Pokémon Drago sembra riferirsi al cavalluccio marino noto come Drago Foglia, mentre le pinne e gli aculei velenosi lo rimandano ad un pesce scorpione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Seadra",
     "shape": "quadrupede",
     "specie": "Pokémon Drago",
     "sprites": {
         "seadra": {
             "default": "https://media.pokemoncentral.it/wiki/4/46/Homem0117.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0117.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0117.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0f/Artwork0117_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3c/Artwork0117_RFVF.png"
     },
     "stats": {
         "seadra": {

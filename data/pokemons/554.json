@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "darumaka": {
             "primary": "Tuttafretta",
             "hidden": "Forza Interiore"
         }
@@ -31,6 +31,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "darumaka",
     "generation": 5,
     "height": {
         "darumaka": "0,6 m",
@@ -40,17 +41,20 @@
     "name": "Darumaka",
     "name_origin": "Il nome Darumaka potrebbe derivare dall'insieme delle parole daruma e 真赤 makka  o macaque . ",
     "origin": "Darumaka è basato su una bambola dharma, e presenta somiglianze con i misirizzi. Il suo tipo Fuoco ricorda le cerimonie in cui le bambole daruma vengono bruciate. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Darumaka",
     "shape": "un paio di ali",
     "specie": "Pokémon Daruma",
     "sprites": {
         "darumaka": {
             "default": "https://media.pokemoncentral.it/wiki/2/29/Homem0554.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homemsh0554.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homemsh0554.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/56/Artwork0554_Corp.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/6/63/Homem0554G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0554G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/89/Artwork0554_NB.png"
     },
     "stats": {
         "darumaka": {

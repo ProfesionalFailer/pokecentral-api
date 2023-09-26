@@ -1,6 +1,10 @@
 {
     "abilities": {
-        "forma-10%-e-forma-50%": {
+        "forma-10%": {
+            "primary": "Frangiaura",
+            "event": "Sciamefusione"
+        },
+        "forma-50%": {
             "primary": "Frangiaura",
             "event": "Sciamefusione"
         },
@@ -48,6 +52,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "zygarde",
     "generation": 6,
     "height": {
         "forma-50%": "5,0 m",
@@ -58,6 +63,7 @@
     "name": "Zygarde",
     "name_origin": "Il suo nome probabilmente deriva dall'unione della lettera Z con la parola francese garde . Potrebbe inoltre derivare da Zygote , in riferimento alla sua Forma Cellula. ",
     "origin": "La sua Forma 10% è basata su Fenrir, un lupo della mitologia norrena figlio del dio norreno Loki, mentre la sua Forma Perfetta è basata su Hel, dea del regno dei morti della mitologia nordica Niflheimr anche lei figlia di Loki. L'aspetto di Zygarde Forma 50% invece sembrerebbe inizialmente prendere ispirazione dal Níðhöggr, un serpente che vive al di sotto di Yggdrasill e ne divora le radici. Ciò spiegherebbe il suo tipo Terra, il fatto che anche Zygarde viva sottoterra e che anche gli altri due membri del suo trio siano ispirati a creature che abitano Yggdrasill. Tuttavia, il fatto che Zygarde sia un protettore dell'equilibrio dell'ecosistema lo rende più simile a Jörmungandr, un serpente marino della mitologia norrena anche lui figlio di Loki che avvolgeva l'intero cosmo tra le sue spire: siccome le altre due forme sono ispirate a progenie della stessa divinità si può intuire dunque che Zygarde sia ispirato a Jörmungandr e non al Niddhog, sebbene non sia un serpente marino e come già detto presenta anche molte caratteristiche di quest'ultimo. Il meccanismo delle sue Cellule e Nuclei potrebbe essere un riferimento all'Hydra ed alla gemmazione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zygarde",
     "shape": "testa e gambe",
     "specie": "Pokémon Equilibrio",
     "sprites": {
@@ -67,12 +73,18 @@
         },
         "forma-10%": {
             "default": "https://media.pokemoncentral.it/wiki/5/50/Homem0718D.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/22/Homemsh0718D.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/2/22/Homemsh0718D.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/94/Artwork0718D_Corp_2.png"
         },
         "forma-perfetta": {
             "default": "https://media.pokemoncentral.it/wiki/7/73/Homem0718P.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a7/Homemsh0718P.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a7/Homemsh0718P.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c8/Artwork0718P_Corp_2.png"
+        },
+        "forma-50%(normale)": {
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6a/Artwork0718_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/07/Artwork0718_XY.png"
     },
     "stats": {
         "forma-10%": {

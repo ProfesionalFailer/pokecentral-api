@@ -22,6 +22,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "celesteela",
     "generation": 7,
     "height": {
         "celesteela": "9,2 m"
@@ -30,13 +31,16 @@
     "name": "Celesteela",
     "name_origin": "Celesteela può essere una combinazione di celestial, steel  e stella. Tekkaguya può essere una combinazione di 鉄火 tekka  e かぐや姫 Kaguya-hime . UC 04 Propulsus è una combinazione tra UC, sigla di Ultracreatura, 04 e la parola latina Propulsus . ",
     "origin": "Celesteela può essere basato o sulla Principessa Kaguya o sul veicolo spaziale SELENE , che ha orbitato attorno alla Luna tra il 2007 e il 2009. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Celesteela",
     "shape": "un paio di ali",
     "specie": "Pokémon Decollo",
     "sprites": {
         "celesteela": {
             "default": "https://media.pokemoncentral.it/wiki/6/61/Homem0797.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homemsh0797.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homemsh0797.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5b/Artwork0797_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/11/Artwork0797_SL.png"
     },
     "stats": {
         "celesteela": {
@@ -53,8 +57,8 @@
     },
     "types": {
         "celesteela": [
-            "Acciaio",
-            "Volante"
+            "Volante",
+            "Acciaio"
         ]
     },
     "weight": {

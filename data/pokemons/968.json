@@ -29,6 +29,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "orthworm",
     "generation": 9,
     "height": {
         "orthworm": "2,5 m"
@@ -37,13 +38,16 @@
     "name": "Orthworm",
     "name_origin": "Orthworm potrebbe essere una combinazione di ore  ed earthworm . Mimizuzu potrebbe essere una combinazione di 蚯蚓 mimizu  e 埋める uzumeru . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Orthworm",
     "shape": "None",
     "specie": "Pokémon Lombrico",
     "sprites": {
         "orthworm": {
             "default": "https://media.pokemoncentral.it/wiki/0/05/Homem0968.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0968.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0968.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/39/Artwork0968_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/34/Artwork0968_SV.png"
     },
     "stats": {
         "orthworm": {

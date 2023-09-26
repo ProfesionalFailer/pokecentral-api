@@ -9,10 +9,10 @@
         "Caterpie condivide la sua categoria con Wurmple e Snom. Tutti e tre sono noti come Pokémon Baco.",
         "Caterpie condivide con Weedle, Magikarp, Igglybuff, Carvanha, Deoxys Forma Attacco e Stonjourner la Difesa Speciale base più bassa tra tutti i Pokémon.",
         "Caterpie si evolve al livello 7, il minore livello richiesto per evolversi tramite livello. Condivide questa peculiarità con Weedle e Wurmple.",
-        "Prima della sesta generazione, la sagoma di Caterpie era .",
+        "Prima della sesta generazione, Caterpie apparteneva ai Pokémon con un corpo serpentino.",
         "Fino al rilascio di Pokémon Platino, quando ha avuto modo di imparare Coleomorso, Caterpie non poteva attaccare in alcun modo i Pokémon di tipo Spettro, se non utilizzando Millebave o Scontro. Condivide questa peculiarità con Metapod. La stessa cosa accade anche con Weedle e Kakuna, ma con i Pokémon di tipo Acciaio.\n\tPer questo non è possibile completare i giochi di prima generazione utilizzando Caterpie o Metapod: Scontro non può colpire i Pokémon di tipo Spettro.",
         "Per questo non è possibile completare i giochi di prima generazione utilizzando Caterpie o Metapod: Scontro non può colpire i Pokémon di tipo Spettro.",
-        "Caterpie è il primo Pokémon ad essere stato catturato e ad essersi evoluto nell'anime.",
+        "Caterpie è il primo Pokémon ad essere stato catturato e a essersi evoluto nella serie animata.",
         "Nell'anime e in Pokémon Adventures, Caterpie detiene il primato di Pokémon che impiega meno tempo ad evolversi, mettendoci solo un episodio per la serie animata e un round per il manga.\n\tAnche Poliwag e Togepi condividono questo primato, ma solo in Pokémon Adventures.",
         "Anche Poliwag e Togepi condividono questo primato, ma solo in Pokémon Adventures.",
         "In Il primo Pokémon catturato, l'evoluzione di Caterpie è simile al processo che compie un bruco per trasformarsi in una crisalide. Negli episodi successivi, Caterpie si evolve come il resto dei Pokémon."
@@ -59,6 +59,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "caterpie",
     "generation": 1,
     "height": {
         "caterpie": "0,3 m"
@@ -67,13 +68,16 @@
     "name": "Caterpie",
     "name_origin": "Caterpie potrebbe essere una corruzione di caterpillar, bruco. ",
     "origin": "Nonostante il suo aspetto ricordi un bruco stilizzato, Caterpie potrebbe prendere ispirazione da un bruco di macaone asiatico. L'antenna del Pokémon sembra prendere ispirazione dall'osmeterio, un organo che emette odori sgradevoli e che è presente solo nei bruchi; viene utilizzato da questi ultimi per difendersi dai predatori. La punta della coda di Caterpie ricorda la parte terminale della coda delle larve della famiglia Sphingidae. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Caterpie",
     "shape": "testa e braccia",
     "specie": "Pokémon Baco",
     "sprites": {
         "caterpie": {
             "default": "https://media.pokemoncentral.it/wiki/b/b7/Homem0010.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/90/Homemsh0010.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/90/Homemsh0010.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5f/Artwork0010_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b7/Artwork0010_RFVF.png"
     },
     "stats": {
         "caterpie": {

@@ -1,58 +1,63 @@
 {
     "abilities": {
-        "koraidon": {
-            "primary": "Ritmo d'Oricalco"
+        "eroeferreo": {
+            "primary": "Carica Quark"
         }
     },
     "curiosities": [
-        "È stato annunciato il 1° giugno 2022 insieme a Lechonk, Pawmi, Smoliv e Miraidon."
+        "Eroeferreo ha una combinazione di tipi unica.",
+        "Eroeferreo è l'unico Pokémon Paradosso ad assomigliare a due Pokémon ."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/koraidon.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/eroeferreo.mp3",
     "dex_entries": {
-        "koraidon": {
-            "scarlet": "Sembra si tratti del Realato che, stando a un antico diario di viaggio, scisse la terra con i suoi pugni.",
-            "violet": "Assomiglia a Cyclizar, ma è molto più vigoroso e notevolmente più feroce. Non si sa nulla del suo habitat o di altre sue caratteristiche."
+        "eroeferreo": {
+            "scarlet": "Presenta caratteristiche simili a quelle di un'invenzione di uno scienziato pazzo descritta in una rivista di paranormale.",
+            "violet": "È possibile che si tratti dell'oggetto denominato \"Eroeferreo\" in un certo diario di viaggio."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "eroeferreo",
     "generation": 9,
     "height": {
-        "koraidon": "2,5 m"
+        "eroeferreo": "1,4 m"
     },
     "id": 1006,
-    "name": "Koraidon",
-    "name_origin": "Koraidon potrebbe essere una combinazione di 古来 korai, antico, e -don, suffisso di origine greca comunemente utilizzato nei nomi dei dinosauri. ",
-    "origin": "Koraidon potrebbe essere basato su un'iguana marina o un varano di Komodo. Alcuni elementi del suo design ricordano le parti di una motocicletta: le sue corna assomigliano ad un manubrio, la sporgenza sul collo e la parte nera alla base della coda ricordano degli pneumatici, mentre le piume posteriori rimandano ad un sellino di un chopper. ",
+    "name": "Eroeferreo",
+    "name_origin": "Eroeferreo è una combinazione di eroe e ferro. Iron Valiant è una combinazione di iron, ferro, e valiant, valoroso. ",
+    "origin": "Eroeferreo potrebbe essere una versione robotica di una fusione tra Gardevoir e Gallade. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Eroeferreo",
     "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
-        "koraidon": {
-            "default": "https://media.pokemoncentral.it/wiki/2/2c/Homem1007.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homemsh1007.png"
-        }
+        "eroeferreo": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5a/Homem1006.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh1006.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4e"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/32/Artwork1006_SV.png"
     },
     "stats": {
-        "koraidon": {
-            "hp": 100,
-            "atk": 135,
-            "def": 115,
-            "spa": 85,
-            "spd": 100,
-            "spe": 135
+        "eroeferreo": {
+            "hp": 74,
+            "atk": 130,
+            "def": 90,
+            "spa": 120,
+            "spd": 60,
+            "spe": 116
         }
     },
     "stats_sum": {
-        "koraidon": 670
+        "eroeferreo": 590
     },
     "types": {
-        "koraidon": [
-            "Lotta",
-            "Drago"
+        "eroeferreo": [
+            "Folletto",
+            "Lotta"
         ]
     },
     "weight": {
-        "koraidon": "303,0 kg"
+        "eroeferreo": "35,0 kg"
     }
 }

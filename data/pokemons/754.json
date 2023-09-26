@@ -34,6 +34,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "lurantis",
     "generation": 7,
     "height": {
         "lurantis": "0,9 m",
@@ -43,13 +44,16 @@
     "name": "Lurantis",
     "name_origin": "Lurantis è probabilmente una combinazione di lure, allure, fleur, fiore in francese, e di mantis, mantide. Rarantesu potrebbe essere una combinazione di 蘭 ran, orchidea, e una corruzione di mantis, mantide. ",
     "origin": "Lurantis è probabilmente basato su una mantide orchidea. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lurantis",
     "shape": "un paio di ali",
     "specie": "Pokémon Mantifiore",
     "sprites": {
         "lurantis": {
             "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0754.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0754.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0754.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7a/Artwork0754_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/59/Artwork0754_SL.png"
     },
     "stats": {
         "lurantis": {

@@ -26,6 +26,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "tyrunt",
     "generation": 6,
     "height": {
         "tyrunt": "0,8 m"
@@ -34,13 +35,16 @@
     "name": "Tyrunt",
     "name_origin": "Tyrunt deriva da Tyrannosaurus, tyrant  e runt . Chigoras potrebbe essere la combinazione di 稚児 chigo  e Tyrannosaurus. Potrebbe derivare anche da 小さい chisai  o ちび chibi . ",
     "origin": "Tyrunt è basato su un cucciolo di Tyrannosaurus Rex, tuttavia presenta caratteristiche di dinosauri del gruppo Carnosauria, come ad esempio i punzoni arancioni. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tyrunt",
     "shape": "due paia di ali",
     "specie": "Pokémon Principino",
     "sprites": {
         "tyrunt": {
             "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem0696.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0696.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0696.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6a/Artwork0696_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d6/Artwork0696_XY.png"
     },
     "stats": {
         "tyrunt": {
@@ -57,8 +61,8 @@
     },
     "types": {
         "tyrunt": [
-            "Roccia",
-            "Drago"
+            "Drago",
+            "Roccia"
         ]
     },
     "weight": {

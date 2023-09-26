@@ -44,6 +44,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "suicune",
     "generation": 2,
     "height": {
         "suicune": "2,0 m"
@@ -52,13 +53,18 @@
     "name": "Suicune",
     "name_origin": "Il nome di Suicune è probabilmente basato sul suo nome giapponese, Suikun. Suikun è una probabile combinazione di 水 sui, acqua e 君 Kun, monarca. Tuttavia, il titolo del gioco è la mascotte del suggerimento che il nome può essere derivato da 水晶suishō, cristallo. ",
     "origin": "Suicune assomiglia a un Chrysocyon brachyurus, o a un Panthera pardus sia nel corpo che nelle abitudini, o a un Acinonyx jubatus nel modo in cui corre. La sua abilità di purificare l'acqua lo riconduce anche ad un Unicorno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Suicune",
     "shape": "più di 4 arti",
     "specie": "Pokémon Aurora",
     "sprites": {
         "suicune": {
             "default": "https://media.pokemoncentral.it/wiki/8/86/Homem0245.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0245.png"
-        }
+        },
+        "normale": {
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0c/Artwork0245_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0245_HGSS.png"
     },
     "stats": {
         "suicune": {

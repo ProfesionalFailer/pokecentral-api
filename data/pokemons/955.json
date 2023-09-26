@@ -7,18 +7,7 @@
         }
     },
     "curiosities": [
-        "Pagine che richiamano file inesistenti",
-        "Pokémon",
-        "Pokémon di nona generazione",
-        "Pokémon di tipo Psico",
-        "Pokémon di tipo singolo",
-        "Pokémon nel gruppo di esperienza Sconosciuto",
-        "Pokémon di colore",
-        "Pokémon dalla sagoma n.",
-        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
-        "Pokémon di Gruppo Uova Volante",
-        "Pokémon appartenenti a una linea di evoluzione a due stadi",
-        "Pokémon con statistiche base totali di 255"
+        "Decidueye, la linea evolutiva di Flittle, di Quaxly e di Farfetch'd di Galar sono gli unici Pokémon appartenenti al Gruppo Uova Volante che non possiedono il tipo Volante."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/flittle.mp3",
     "dex_entries": {
@@ -30,6 +19,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "flittle",
     "generation": 9,
     "height": {
         "flittle": "0,2 m"
@@ -38,13 +28,16 @@
     "name": "Flittle",
     "name_origin": "Flittle potrebbe essere una combinazione di flutter  e little . Hirahina potrebbe essere una combinazione di ひらひら hirahira  e 雛 hina . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Flittle",
     "shape": "None",
     "specie": "Pokémon Volant",
     "sprites": {
         "flittle": {
             "default": "https://media.pokemoncentral.it/wiki/2/20/Homem0955.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0955.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0955.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/59"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7f/Artwork0955_SV.png"
     },
     "stats": {
         "flittle": {

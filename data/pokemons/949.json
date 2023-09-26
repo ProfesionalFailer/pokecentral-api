@@ -29,6 +29,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "toedscruel",
     "generation": 9,
     "height": {
         "toedscruel": "1,9 m"
@@ -37,13 +38,16 @@
     "name": "Toedscruel",
     "name_origin": "Toedscruel potrebbe essere una combinazione di toadstool , toe  o toed  e Tentacruel. Rikukurage deriva da \"riku\"  e \"kurage\" . Può essere un riferimento a un tipo di fungo che viene chiamato \"kikurage\" . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Toedscruel",
     "shape": "None",
     "specie": "Pokémon Auricularia",
     "sprites": {
         "toedscruel": {
             "default": "https://media.pokemoncentral.it/wiki/b/b6/Homem0949.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a6/Homemsh0949.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a6/Homemsh0949.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/60"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f5/Artwork0949_SV.png"
     },
     "stats": {
         "toedscruel": {
@@ -60,8 +64,8 @@
     },
     "types": {
         "toedscruel": [
-            "Erba",
-            "Terra"
+            "Terra",
+            "Erba"
         ]
     },
     "weight": {

@@ -42,6 +42,7 @@
         "Magico",
         "Erba"
     ],
+    "flat_name": "shroomish",
     "generation": 3,
     "height": {
         "shroomish": "0,40 m"
@@ -50,13 +51,16 @@
     "name": "Shroomish",
     "name_origin": "Il suo nome deriva dall'unione della parola inglesi \"mushroom\"  con il suffisso \"-ish\" . ",
     "origin": "È basato su un fungo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shroomish",
     "shape": "corpi multipli",
     "specie": "Pokémon Fungo",
     "sprites": {
         "shroomish": {
             "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0285.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d4/Homemsh0285.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d4/Homemsh0285.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/34/Artwork0285_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/ca/Artwork0285_RZ.png"
     },
     "stats": {
         "shroomish": {

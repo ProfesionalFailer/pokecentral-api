@@ -28,6 +28,7 @@
         "Acqua 1",
         "Volante"
     ],
+    "flat_name": "cramorant",
     "generation": 8,
     "height": {
         "cramorant": "0,8 m"
@@ -36,6 +37,7 @@
     "name": "Cramorant",
     "name_origin": "Cramorant potrebbe essere una combinazione di cram, riempire o ammassare, e cormorant, cormorano. Uu potrebbe essere una combinazione di ウッ u~, rumore di soffocamento, e 鵜 u, cormorano. ",
     "origin": "Cramorant potrebbe essere basato su due uccelli marini comunemente presenti nelle Isole britanniche: il cormorano e il fulmaro, un uccello che utilizza i propri rigurgiti per difendersi dai suoi predatori. L'abilità di Cramorant potrebbe essere ispirata sulla pesca con il cormorano, un'antica tecnica di pesca che consiste nell'utilizzare cormorani addestrati a pescare e a sputare il pesce pescato. Il piumaggio nel collo ricorda un bavaglino. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cramorant",
     "shape": "testa e base",
     "specie": "Pokémon Inghiottone",
     "sprites": {
@@ -45,12 +47,14 @@
         },
         "forma-inghiottitutto": {
             "default": "https://media.pokemoncentral.it/wiki/c/c7/Homem0845T.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d6/Homemsh0845T.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d6/Homemsh0845T.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/72"
         },
         "forma-inghiottintero": {
             "default": "https://media.pokemoncentral.it/wiki/e/ef/Homem0845I.png",
             "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0845I.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/af/Artwork0845_SpSc.png"
     },
     "stats": {
         "cramorant": {

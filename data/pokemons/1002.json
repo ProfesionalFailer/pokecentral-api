@@ -1,58 +1,63 @@
 {
     "abilities": {
-        "ting-lu": {
-            "primary": "Vaso Nefasto"
+        "chien-pao": {
+            "primary": "Spada Nefasta"
         }
     },
     "curiosities": [
-        "Ting-Lu è uno dei Pokémon con caratteri non alfabetici nel nome."
+        "Chien-Pao è uno dei Pokémon con caratteri non alfabetici nel nome.",
+        "Come gli ermellini, con cui Chien-Pao presenta numerose somiglianze, cambiano colore da bianco a marrone a seconda della stagione, Chien-Pao cambia colore da bianco a marrone nella versione cromatica."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/ting-lu.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/chien-pao.mp3",
     "dex_entries": {
-        "ting-lu": {
-            "scarlet": "Prese vita quando le angosce riversate in un antico vaso cerimoniale si fusero con roccia e terra.",
-            "violet": "La sua testa è talmente pesante che anche solo appoggiandola delicatamente a terra può causare spaccature profonde fino a 50 metri."
+        "chien-pao": {
+            "scarlet": "Può controllare ammassi di neve pesanti anche cento tonnellate. Gioca spensierato saltando in mezzo alle valanghe che lui stesso causa.",
+            "violet": "Prese vita quando l'odio degli antichi che perirono a causa della spada si ammantò di neve."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "chien-pao",
     "generation": 9,
     "height": {
-        "ting-lu": "2,7 m"
+        "chien-pao": "1,9 m"
     },
     "id": 1002,
-    "name": "Ting-Lu",
-    "name_origin": "Ting-Lu e Dinlu potrebbero essere una combinazione di 鼎 dǐng  and 鹿 lù . ",
-    "origin": "",
+    "name": "Chien-Pao",
+    "name_origin": "Chien-Pao e Paojian potrebbero essere una combinazione di 劍 / 剑 jiàn  e 豹 bào . ",
+    "origin": "Chien-Pao potrebbe essere basato su un leopardo delle nevi, su una tigre dai denti a sciabola o su un ermellino. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chien-Pao",
     "shape": "None",
     "specie": "Pokémon Disgrazia",
     "sprites": {
-        "ting-lu": {
-            "default": "https://media.pokemoncentral.it/wiki/4/4d/Homem1003.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh1003.png"
-        }
+        "chien-pao": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2c/Homem1002.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh1002.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/41"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/64/Artwork1002_SV.png"
     },
     "stats": {
-        "ting-lu": {
-            "hp": 155,
-            "atk": 110,
-            "def": 125,
-            "spa": 55,
-            "spd": 80,
-            "spe": 45
+        "chien-pao": {
+            "hp": 80,
+            "atk": 120,
+            "def": 80,
+            "spa": 90,
+            "spd": 65,
+            "spe": 135
         }
     },
     "stats_sum": {
-        "ting-lu": 570
+        "chien-pao": 570
     },
     "types": {
-        "ting-lu": [
-            "Buio",
-            "Terra"
+        "chien-pao": [
+            "Ghiaccio",
+            "Buio"
         ]
     },
     "weight": {
-        "ting-lu": "669,7 kg"
+        "chien-pao": "152,2 kg"
     }
 }

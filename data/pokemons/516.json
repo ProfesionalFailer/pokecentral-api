@@ -25,6 +25,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "simipour",
     "generation": 5,
     "height": {
         "simipour": "1,0 m"
@@ -33,13 +34,16 @@
     "name": "Simipour",
     "name_origin": "Simipour è una combinazione dei termini inglesi simian  e pour . ",
     "origin": "È basato su una scimmia e su una fontana. Si ispira alle tre scimmie sagge del santuario di Nikko, nello specifico a Mizaru, la scimmia che \"Non vede il Male\", motivo per il quale ha gli occhi chiusi. Un'altra possibile ispirazione è l'Ahuizotl, un mostro acquatico della mitologia azteca che aveva zampe scimmiesche. Potrebbe inoltre giocare sul modo in cui vengono chiamate le artemia salina, scimmie di mare. La rappresentazione degli sgorghi d'acqua sulla coda e sulla testa potrebbe trarre ispirazione, oltre che dalle fontane, dai geyser o dalle cascate. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Simipour",
     "shape": "due paia di ali",
     "specie": "Pokémon Spruzzacqua",
     "sprites": {
         "simipour": {
             "default": "https://media.pokemoncentral.it/wiki/c/c0/Homem0516.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0516.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0516.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f5/Artwork0516_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/07/Artwork0516_NB.png"
     },
     "stats": {
         "simipour": {

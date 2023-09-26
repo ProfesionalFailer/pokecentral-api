@@ -27,6 +27,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "litleo",
     "generation": 6,
     "height": {
         "litleo": "0,6 m"
@@ -35,13 +36,16 @@
     "name": "Litleo",
     "name_origin": "Litleo è una combinazione tra little  e leo. Shishiko è una combinazione tra 獅子 shishi  e 子 ko . ",
     "origin": "Litleo è basato su un cucciolo di leone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Litleo",
     "shape": "più di 4 arti",
     "specie": "Pokémon Leoncino",
     "sprites": {
         "litleo": {
             "default": "https://media.pokemoncentral.it/wiki/4/4c/Homem0667.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b0/Homemsh0667.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b0/Homemsh0667.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/11/Artwork0667_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bc/Artwork0667_XY.png"
     },
     "stats": {
         "litleo": {
@@ -58,8 +62,8 @@
     },
     "types": {
         "litleo": [
-            "Normale",
-            "Fuoco"
+            "Fuoco",
+            "Normale"
         ]
     },
     "weight": {

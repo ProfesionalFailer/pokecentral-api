@@ -52,6 +52,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "igglybuff",
     "generation": 2,
     "height": {
         "igglybuff": "0,3 m"
@@ -60,13 +61,16 @@
     "name": "Igglybuff",
     "name_origin": "Il suo nome deriva da una variazione e un'accorciamento dei nomi delle sue evoluzioni, Jigglypuff e Wigglytuff. ",
     "origin": "Basato su un palloncino, ricorda anche Kirby. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Igglybuff",
     "shape": "un paio di ali",
     "specie": "Pokémon Pallone",
     "sprites": {
         "igglybuff": {
             "default": "https://media.pokemoncentral.it/wiki/8/8b/Homem0174.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/27/Homemsh0174.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/27/Homemsh0174.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bd"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a9/Artwork0174_RFVF.png"
     },
     "stats": {
         "igglybuff": {

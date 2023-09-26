@@ -29,6 +29,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "toedscool",
     "generation": 9,
     "height": {
         "toedscool": "0,9 m"
@@ -37,13 +38,16 @@
     "name": "Toedscool",
     "name_origin": "Toedscool potrebbe essere una combinazione di toadstool , toe  o toed  e Tentacool.\nNonokurage deriva da \"no\" , \"kurage\"  e \"kikurage\" . ",
     "origin": "Toedscool e la sua evoluzione potrebbero essere basati sui funghi arboricoli Auricularia heimuer, noti in giapponese come \"kikurage\"  o \"wood ears\" in inglese. Caratterizzati dal colore inizialmente rosa, poi bruno cupo tendente al nero una volta maturi, sono molto popolari in Cina come ingrediente per piatti e nella medicina tradizionale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Toedscool",
     "shape": "None",
     "specie": "Pokémon Auricularia",
     "sprites": {
         "toedscool": {
             "default": "https://media.pokemoncentral.it/wiki/6/6f/Homem0948.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4a/Homemsh0948.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4a/Homemsh0948.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/df"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/14/Artwork0948_SV.png"
     },
     "stats": {
         "toedscool": {
@@ -60,8 +64,8 @@
     },
     "types": {
         "toedscool": [
-            "Erba",
-            "Terra"
+            "Terra",
+            "Erba"
         ]
     },
     "weight": {

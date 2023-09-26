@@ -23,6 +23,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "gumshoos",
     "generation": 7,
     "height": {
         "gumshoos": "0,7 m",
@@ -32,13 +33,16 @@
     "name": "Gumshoos",
     "name_origin": "Gumshoos potrebbe essere una combinazione di gumshoe  e mongoose . Dekagūsu potrebbe essere una combinazione di でか deka, termine gergale di detective, e mongoose . ",
     "origin": "Gumshoos sembra essere basato su una mangusta e un detective. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gumshoos",
     "shape": "più di 4 arti",
     "specie": "Pokémon Sorveglianza",
     "sprites": {
         "gumshoos": {
             "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0735.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0735.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0735.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c8/Artwork0735_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e2/Artwork0735_SL.png"
     },
     "stats": {
         "gumshoos": {

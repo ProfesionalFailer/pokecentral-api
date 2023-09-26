@@ -47,6 +47,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "celebi",
     "generation": 2,
     "height": {
         "celebi": "0,6 m"
@@ -55,13 +56,18 @@
     "name": "Celebi",
     "name_origin": "Deriva dalla parola celestial, celestiale, e dalla parola being, creatura, oppure da serenity, serenità, e 美 bi, bellezza. ",
     "origin": "Il design di Celebi è molto ispirato al tema della natura. Celebi potrebbe essere relazionato alla natura adoratrice dello shintoismo, il suo aspetto invece sembra essere basato a quello di una fata, una driade o una kodama, mentre la sua natura estremamente protettrice nei confronti delle foreste lo rimandano al Curupira. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Celebi",
     "shape": "un paio di ali",
     "specie": "Pokémon Tempovia",
     "sprites": {
         "celebi": {
             "default": "https://media.pokemoncentral.it/wiki/0/0f/Homem0251.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0251.png"
-        }
+        },
+        "normale": {
+            "corporate": "https://media.pokemoncentral.it/wiki/7/72/Artwork0251_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4a/Artwork0251_HGSS.png"
     },
     "stats": {
         "celebi": {

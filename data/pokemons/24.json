@@ -51,6 +51,7 @@
         "Campo",
         "Drago"
     ],
+    "flat_name": "arbok",
     "generation": 1,
     "height": {
         "arbok": "3,5 m"
@@ -59,13 +60,16 @@
     "name": "Arbok",
     "name_origin": "Arbok potrebbe derivare da cobra scritto all'incontrario, con la \"k\" al posto della \"c\". Inoltre, Arbok si riferisce al nome giapponese di Ekans, Arbo. ",
     "origin": "Arbok potrebbe essere basato su un cobra dagli occhiali. Ekans e Arbok potrebbero essere ispirati anche dal basilisco, poiché erano gli unici Pokémon ad imparare Sguardo Feroce. Si diceva che il basilisco fosse un drago serpentino velenoso che uccideva le persone con il suo sguardo; questo potrebbe spiegare il Gruppo Uova Drago dei due Pokémon. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Arbok",
     "shape": "testa e gambe",
     "specie": "Pokémon Cobra",
     "sprites": {
         "arbok": {
             "default": "https://media.pokemoncentral.it/wiki/2/2b/Homem0024.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0024.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0024.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/50/Artwork0024_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0d/Artwork0024_RFVF.png"
     },
     "stats": {
         "arbok": {

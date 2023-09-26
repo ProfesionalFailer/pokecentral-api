@@ -29,6 +29,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "cryogonal",
     "generation": 5,
     "height": {
         "cryogonal": "1,1 m"
@@ -37,13 +38,16 @@
     "name": "Cryogonal",
     "name_origin": "Cryogonal è una combinazione del greco antico κρύος cryos  o dell'inglese cry , con il suffisso -gonal . Il nome giapponese, フリージオ Freegeo, potrebbe essere una combinazione dei termini inglesi freeze , frigid  e geometrical . ",
     "origin": "L'aspetto di Cryogonal sembra essere basato su fiocchi di neve e cristalli di ghiaccio. Imparando anche alcune mosse basate sulla luce, potrebbe ispirarsi in aggiunta a uno specchio. La sua abilità di intrappolare le prede nel ghiaccio ricorda quella analoga dei Hrímþursar, i giganti di ghiaccio nella mitologia norrena. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cryogonal",
     "shape": "testa",
     "specie": "Pokémon Cristallo",
     "sprites": {
         "cryogonal": {
             "default": "https://media.pokemoncentral.it/wiki/6/6c/Homem0615.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fb/Homemsh0615.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fb/Homemsh0615.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/25/Artwork0615_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/91/Artwork0615_NB.png"
     },
     "stats": {
         "cryogonal": {

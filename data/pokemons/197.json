@@ -54,6 +54,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "umbreon",
     "generation": 2,
     "height": {
         "umbreon": "1,0 m"
@@ -62,13 +63,16 @@
     "name": "Umbreon",
     "name_origin": "Il suo nome deriva probabilmente dall'unione tra la parola latina umbra, ombra, ed il suffisso -eon, eone, comune a tutta la linea evolutiva di Eevee. ",
     "origin": "Le sue origini sono incerte, ma pare essere basato su un gatto nero o una volpe nera , anche se le sue orecchie sono simili a quelle di una lepre, quindi è possibile che sia ispirato anche alle leggende del coniglio lunare asiatico. Le strisce sul corpo di Umbreon sono riconducibili a dei simboli lunari egizi o dei gioielli che gli egiziani usavano sulle statue di divinità come Bastet o Anubi, oppure potrebbero essere ispirati all'eclissi solare in riferimento al suo tipo Buio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Umbreon",
     "shape": "più di 4 arti",
     "specie": "Pokémon Lucelunare",
     "sprites": {
         "umbreon": {
             "default": "https://media.pokemoncentral.it/wiki/8/83/Homem0197.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0197.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0197.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c9/Artwork0197_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c7/Artwork0197_RFVF.png"
     },
     "stats": {
         "umbreon": {

@@ -49,6 +49,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "rufflet",
     "generation": 5,
     "height": {
         "rufflet": "0,5 m"
@@ -57,13 +58,16 @@
     "name": "Rufflet",
     "name_origin": "Rufflet deriva dall'inglese ruff , rough , ruffle  e eaglet . ",
     "origin": "Rufflet è probabilmente basato su un aquilotto, sebbene il suo ciuffo di piume ricordi anche quello che hanno sulla testa i maschi dei combattenti . Inoltre si basa sui nativi americani e sulle piume che indossano sul capo in segno di onorificenza. Presenta anche alcune caratteristiche comuni con i pappagalli. Nè è una conferma il fatto che nell'anime un Rufflet viene mostrato mentre apre una noce e porta il cibo alla bocca utilizzando le sue zampe, e i pappagalli sono gli unici uccelli in grado di farlo. In un'intervista alla rivista Nintendo Dream, Ken Sugimori rivela che Rufflet e Braviary furono tra i primi Pokémon ad essere concepiti per lo sviluppo di Pokémon Nero e Bianco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rufflet",
     "shape": "testa e base",
     "specie": "Pokémon Aquilotto",
     "sprites": {
         "rufflet": {
             "default": "https://media.pokemoncentral.it/wiki/6/6f/Homem0627.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0627.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0627.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5f/Artwork0627_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fa/Artwork0627_NB.png"
     },
     "stats": {
         "rufflet": {
@@ -80,8 +84,8 @@
     },
     "types": {
         "rufflet": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

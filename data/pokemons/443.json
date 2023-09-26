@@ -41,6 +41,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "gible",
     "generation": 4,
     "height": {
         "gible": "0,7 m"
@@ -49,17 +50,20 @@
     "name": "Gible",
     "name_origin": "Il suo nome probabilmente deriva dall'unione della parola inglese gobble, trangugiare, ingurgitare, o ground, terra, con il verbo nibble, sgranocchiare. In giapponese è フカマル Fukuamaru, che unisce 鱶 fuka, squalo, con 丸 maru, tondo. ",
     "origin": "Gible è basato su un drago ed uno squalo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gible",
     "shape": "due paia di ali",
     "specie": "Pokémon Squaloterra",
     "sprites": {
-        "": {
+        "gible": {
             "default": "https://media.pokemoncentral.it/wiki/9/99/Homem0443.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0443.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0443.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/41/Artwork0443_Corp.png"
         },
-        "-f": {
+        "gible-f": {
             "default": "https://media.pokemoncentral.it/wiki/5/55/Homef0443.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homefsh0443.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ad/Artwork0443_DP.png"
     },
     "stats": {
         "gible": {

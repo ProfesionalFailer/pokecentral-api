@@ -60,6 +60,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "golbat",
     "generation": 1,
     "height": {
         "golbat": "1,6 m"
@@ -68,17 +69,20 @@
     "name": "Golbat",
     "name_origin": "Il nome Golbat potrebbe trarre origine dalla parola \"gollop,\" che significa \"mangiare o bere rapidamente o avidamente\" e bat . ",
     "origin": "Probabilmente, Golbat è basato su un desmodus rotundus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Golbat",
     "shape": "testa e base",
     "specie": "Pokémon Pipistrello",
     "sprites": {
-        "": {
+        "golbat": {
             "default": "https://media.pokemoncentral.it/wiki/3/32/Homem0042.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c9/Homemsh0042.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c9/Homemsh0042.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4d/Artwork0042_Corp.png"
         },
-        "-f": {
+        "golbat-f": {
             "default": "https://media.pokemoncentral.it/wiki/5/5d/Homef0042.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/c7/Homefsh0042.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/72/Artwork0042_RFVF.png"
     },
     "stats": {
         "golbat": {
@@ -95,8 +99,8 @@
     },
     "types": {
         "golbat": [
-            "Veleno",
-            "Volante"
+            "Volante",
+            "Veleno"
         ]
     },
     "weight": {

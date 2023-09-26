@@ -23,6 +23,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "naganadel",
     "generation": 7,
     "height": {
         "naganadel": "3,6 m"
@@ -31,13 +32,16 @@
     "name": "Naganadel",
     "name_origin": "Naganadel è una combinazione tra Nāga e Nadel . Āgoyon è una combinazione tra 顎 ago  oppure ago, 四 yon  e dragon  oppure 용 yong . UC Aculeus è una combinazione tra UC, sigla di Ultracreatura, e la parola latina aculeus . ",
     "origin": "Il suo aspetto ricorda una vespa. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Naganadel",
     "shape": "testa e base",
     "specie": "Pokémon Velenago",
     "sprites": {
         "naganadel": {
             "default": "https://media.pokemoncentral.it/wiki/6/64/Homem0804.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homemsh0804.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homemsh0804.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ea/Artwork0804_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7b/Artwork0804_UsUl.png"
     },
     "stats": {
         "naganadel": {
@@ -54,8 +58,8 @@
     },
     "types": {
         "naganadel": [
-            "Veleno",
-            "Drago"
+            "Drago",
+            "Veleno"
         ]
     },
     "weight": {

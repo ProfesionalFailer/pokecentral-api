@@ -57,6 +57,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "vaporeon",
     "generation": 1,
     "height": {
         "vaporeon": "1,0 m"
@@ -65,13 +66,16 @@
     "name": "Vaporeon",
     "name_origin": "Vaporeon è la combinazione tra le parole inglesi vapor  e eon . ",
     "origin": "Le sue origini sono incerte, ma potrebbe trattarsi di un incrocio tra cetacei, felini e canidi. Le sue caratteristiche feline e da pesce potrebbero essere un gioco per indicare un pesce gatto, le sue pinne tuttavia sembrano essere basate sui pesci tropicali, ma le due pinne sulla testa laterali sembrano un ibrido tra le pinne di un pesce e le orecchie di un Fennec, ha anche somiglianze con le sirene e con il Telchini creatura mitologica greca o con il Merlius, simbolo nazionale di Singapore, il fatto che sia un carnivoro potrebbe anche relazionarlo alle balene primitive come i Kutchicetus, mentre la pinna intorno al collo ricordano un'ornamento del 16°-17° secolo, visto nel ritratto di Elisabetta I. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Vaporeon",
     "shape": "più di 4 arti",
     "specie": "Pokémon Bollajet",
     "sprites": {
         "vaporeon": {
             "default": "https://media.pokemoncentral.it/wiki/9/9f/Homem0134.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0c/Homemsh0134.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0c/Homemsh0134.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9e/Artwork0134_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/85/Artwork0134_RFVF.png"
     },
     "stats": {
         "vaporeon": {

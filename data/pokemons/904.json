@@ -19,6 +19,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "overqwil",
     "generation": 8,
     "height": {
         "overqwil": "2.5 m"
@@ -27,13 +28,16 @@
     "name": "Overqwil",
     "name_origin": "Overqwil potrebbe essere una combinazione delle parole over, quill e Qwilfish. Potrebbe essere anche un gioco di parole con overkill. ",
     "origin": "Come Qwilfish si basa su un pesce palla o su un pesce istrice. Il suo aspetto e il fatto che possa apprendere Autodistruzione tramite livello potrebbe rimandare ad una mina navale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Overqwil",
     "shape": "sconosciuto",
     "specie": "Pokémon Spinoso",
     "sprites": {
         "overqwil": {
             "default": "https://media.pokemoncentral.it/wiki/b/bd/Homem0904.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homemsh0904.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homemsh0904.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/31"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/87/Artwork0904_LPA.png"
     },
     "stats": {
         "overqwil": {
@@ -50,8 +54,8 @@
     },
     "types": {
         "overqwil": [
-            "Buio",
-            "Veleno"
+            "Veleno",
+            "Buio"
         ]
     },
     "weight": {

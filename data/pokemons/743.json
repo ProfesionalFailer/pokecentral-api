@@ -24,6 +24,7 @@
         "Coleottero",
         "Magico"
     ],
+    "flat_name": "ribombee",
     "generation": 7,
     "height": {
         "ribombee": "0,2 m",
@@ -33,13 +34,16 @@
     "name": "Ribombee",
     "name_origin": "Ribombee potrebbe essere una combinazione di ribbon, fiocco, Bombyliidae e bee, ape. Aburibon potrebbe essere una combinazione di 吊虻 tsuriabu, bombilide e ribbon, fiocco. ",
     "origin": "Ribombee sembra essere basato su di un bombilide. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ribombee",
     "shape": "serpentiforme",
     "specie": "Pokémon Bombilide",
     "sprites": {
         "ribombee": {
             "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0743.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c5/Homemsh0743.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c5/Homemsh0743.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c6/Artwork0743_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0f/Artwork0743_SL.png"
     },
     "stats": {
         "ribombee": {
@@ -56,8 +60,8 @@
     },
     "types": {
         "ribombee": [
-            "Folletto",
-            "Coleot"
+            "Coleot",
+            "Folletto"
         ]
     },
     "weight": {

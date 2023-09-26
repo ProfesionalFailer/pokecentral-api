@@ -30,6 +30,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "elgyem",
     "generation": 5,
     "height": {
         "elgyem": "0,5 m"
@@ -38,13 +39,16 @@
     "name": "Elgyem",
     "name_origin": "Elgyem è una corruzione della sigla LGM , un termine comunemente usato per riferirsi a extraterrestri. ",
     "origin": "Elgyem è molto probabilmente basato sui grigi o sugli omini verdi, due dei tipi più popolari di alieno, e su un cervello. Il suo aspetto ricorda una roccia, e potrebbe alludere ai cerchi di pietre, luoghi legati a leggende aliene. I punti colorati sulle sue mani possono trarre ispirazione dagli invasori alieni del film \"La guerra dei mondi\". Potrebbero essere ispirate inoltre all'Area 51 o all'incidente di Roswell. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Elgyem",
     "shape": "due paia di ali",
     "specie": "Pokémon Cervello",
     "sprites": {
         "elgyem": {
             "default": "https://media.pokemoncentral.it/wiki/1/1c/Homem0605.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0605.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0605.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7d/Artwork0605_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/af/Artwork0605_NB.png"
     },
     "stats": {
         "elgyem": {

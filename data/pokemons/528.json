@@ -28,6 +28,7 @@
         "Campo",
         "Volante"
     ],
+    "flat_name": "swoobat",
     "generation": 5,
     "height": {
         "swoobat": "0,9 m"
@@ -36,13 +37,16 @@
     "name": "Swoobat",
     "name_origin": "Il nome Swoobat potrebbe essere una combinazione tra le parole inglesi swoon  o Swoop  e bat , inoltre il nome Swoobat contiene il nome della pre-evoluzione Woobat. ",
     "origin": "Swoobat è basato sulle volpi volanti e sui pipistrelli dal naso a cuore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Swoobat",
     "shape": "testa e base",
     "specie": "Pokémon Cercamore",
     "sprites": {
         "swoobat": {
             "default": "https://media.pokemoncentral.it/wiki/5/55/Homem0528.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homemsh0528.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homemsh0528.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ed/Artwork0528_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/50/Artwork0528_NB.png"
     },
     "stats": {
         "swoobat": {

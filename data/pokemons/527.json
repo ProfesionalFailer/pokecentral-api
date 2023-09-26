@@ -31,6 +31,7 @@
         "Campo",
         "Volante"
     ],
+    "flat_name": "woobat",
     "generation": 5,
     "height": {
         "woobat": "0,4 m"
@@ -39,13 +40,16 @@
     "name": "Woobat",
     "name_origin": "Il suo nome potrebbe derivare da woo  e bat  oppure da wool  a causa del suo aspetto peloso. ",
     "origin": "Woobat è basato su un pipistrello bianco dell'Honduras e su un interpretazione letterale di un pipistrello dal naso a cuore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Woobat",
     "shape": "testa e base",
     "specie": "Pokémon Pipistrello",
     "sprites": {
         "woobat": {
             "default": "https://media.pokemoncentral.it/wiki/3/3d/Homem0527.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/3c/Homemsh0527.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3c/Homemsh0527.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4c/Artwork0527_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6c/Artwork0527_NB.png"
     },
     "stats": {
         "woobat": {

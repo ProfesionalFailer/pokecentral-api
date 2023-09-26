@@ -46,6 +46,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "barboach",
     "generation": 3,
     "height": {
         "barboach": "0,4 m"
@@ -54,13 +55,16 @@
     "name": "Barboach",
     "name_origin": "Il nome è un combinazione di Barb o Barbel, entrambi barbiglio, riferimento ai suoi baffetti, e Loach, cobite. ",
     "origin": "Barboach è basato sul cobite di stagno orientale, infatti ha anche loro caratteristiche come vivere nei fondali fangosi, usare i baffetti per individuare le creature che lo circondano e avere un muco che riveste il corpo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Barboach",
     "shape": "pinne",
     "specie": "Pokémon Baffetti",
     "sprites": {
         "barboach": {
             "default": "https://media.pokemoncentral.it/wiki/f/fa/Homem0339.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0339.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0339.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e1/Artwork0339_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fb/Artwork0339_RZ.png"
     },
     "stats": {
         "barboach": {

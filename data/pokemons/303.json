@@ -59,6 +59,7 @@
         "Campo",
         "Magico"
     ],
+    "flat_name": "mawile",
     "generation": 3,
     "height": {
         "mawile": "0,60 m",
@@ -66,19 +67,23 @@
     },
     "id": 303,
     "name": "Mawile",
-    "name_origin": "Il nome Mawile è una combinazione di maw, la bocca di un animale feroce, e wile, uno stratagemma o trucco volto ad ingannare o adescare. Kucheat è una combinazione di 口 kuchi, bocca, e l'inglese cheat o eat. ",
+    "name_origin": "Il nome Mawile è una combinazione di maw, la bocca di un animale feroce, e wile, uno stratagemma o trucco volto ad ingannare o adescare. Kucheat è una combinazione di 口 kuchi, bocca, e l'inglese cheat o eat.",
     "origin": "Potrebbe esserci una connessione con la leggenda giapponese della futakuchi-onna, una donna con una bocca sul retro della testa. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mawile",
     "shape": "un paio di ali",
     "specie": "Pokémon Inganno",
     "sprites": {
         "mawile": {
             "default": "https://media.pokemoncentral.it/wiki/1/11/Homem0303.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0303.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0303.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9b/Artwork0303_Corp_2.png"
         },
         "megamawile": {
             "default": "https://media.pokemoncentral.it/wiki/f/fe/Homem0303M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0303M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0303M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/db/Artwork0303M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/47/Artwork0303_RZ.png"
     },
     "stats": {
         "mawile": {
@@ -104,8 +109,8 @@
     },
     "types": {
         "mawile": [
-            "Acciaio",
-            "Folletto"
+            "Folletto",
+            "Acciaio"
         ]
     },
     "weight": {

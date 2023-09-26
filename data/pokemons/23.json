@@ -52,6 +52,7 @@
         "Campo",
         "Drago"
     ],
+    "flat_name": "ekans",
     "generation": 1,
     "height": {
         "ekans": "2,0 m"
@@ -60,13 +61,16 @@
     "name": "Ekans",
     "name_origin": "Ekans potrebbe derivare da snake, serpente, scritto all'incontrario. Arbo potrebbe derivare dall'anagramma di ボア boa, il boa. ",
     "origin": "Ekans potrebbe essere basato su un boa e su un serpente a sonagli, con i segni nel viso che somigliano a quelli di un cappuccio di un cobra dagli occhiali. Tuttavia, la mancanza di denti, la capacità di inghiottire grandi prede, la caccia alle Uova Pokémon e la reazione alle minacce sono più simili ad un serpente mangia uova. La fascia gialla attorno al collo ricorda quella presente nel Diadophis punctatus. Ekans e Arbok potrebbero essere ispirati anche dal basilisco, poiché erano gli unici Pokémon ad imparare Sguardo Feroce. Si diceva che il basilisco fosse un drago serpentino velenoso che uccideva le persone con il suo sguardo; questo potrebbe spiegare il Gruppo Uova Drago dei due Pokémon. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ekans",
     "shape": "testa e gambe",
     "specie": "Pokémon Serpente",
     "sprites": {
         "ekans": {
             "default": "https://media.pokemoncentral.it/wiki/0/03/Homem0023.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0023.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0023.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0023_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/89/Artwork0023_RFVF.png"
     },
     "stats": {
         "ekans": {

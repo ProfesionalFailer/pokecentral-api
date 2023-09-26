@@ -45,6 +45,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "aggron",
     "generation": 3,
     "height": {
         "aggron": "2,1 m",
@@ -54,17 +55,20 @@
     "name": "Aggron",
     "name_origin": "Aggron potrebbe essere l'unione di aggressive , iron  e don , oppure da Aggro . ",
     "origin": "Aggron sembra essere basato sui Palgasauri, creatura mitologica coreana che si nutre di ferro, ma sembra essere basato anche sui triceratopi e i teropodi. La sua testa ricorda l'elmo e la maschera menpo dei samurai. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Aggron",
     "shape": "due paia di ali",
     "specie": "Pokémon Corazza",
     "sprites": {
         "aggron": {
             "default": "https://media.pokemoncentral.it/wiki/0/0e/Homem0306.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1f/Homemsh0306.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1f/Homemsh0306.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/98/Artwork0306M_Corp.png"
         },
         "megaaggron": {
             "default": "https://media.pokemoncentral.it/wiki/b/b4/Homem0306M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/58/Homemsh0306M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2a/Artwork0306_RZ.png"
     },
     "stats": {
         "aggron": {
@@ -90,8 +94,8 @@
     },
     "types": {
         "aggron": [
-            "Acciaio",
-            "Roccia"
+            "Roccia",
+            "Acciaio"
         ],
         "megaaggron": [
             "Acciaio"

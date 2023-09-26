@@ -23,12 +23,21 @@ class Pokemon:
             raise NotAValidIndexException(id)
 
         self.id = int(id)
+
         self.name = POKEMON_LIST[self.id - 1]
+        self.flat_name = _POKEHELP.flat_name(self.name)
+
+        self.pokemoncentral_url = _POKEHELP.urlencode(
+            f"https://wiki.pokemoncentral.it/{self.name}"
+        )
 
         self.soup = BeautifulSoup(
-            request(
-                _POKEHELP.urlencode(f"https://wiki.pokemoncentral.it/{self.name}")
-            ).text,
+            request(self.pokemoncentral_url).text,
+            "lxml",
+        )
+
+        self.imagesoup = BeautifulSoup(
+            request(f"{self.pokemoncentral_url}/Immagini").text,
             "lxml",
         )
 
@@ -52,14 +61,15 @@ class Pokemon:
         self._set_shape_and_specie()
         self._set_sprites()
         self._set_stats()
-        self._set_typing()
+        self._set_types()
 
     def _set_abilities(self) -> None:
         self.abilities = _POKEHELP.divide_forms(
             {
-                _POKEHELP.flat_name(i[0].text)
+                i[0].text
                 if i[0].text.strip("\n ") != ""
-                else _POKEHELP.flat_name(self.name): {
+                and i[0].text.lower().strip("\n ") != "tutte le forme"
+                else self.flat_name: {
                     _POKEHELP.ABILITIES[
                         j.find("div", {"class": "small-text"}).text.lower()
                     ]
@@ -92,7 +102,7 @@ class Pokemon:
         self.dex_entries = {
             _POKEHELP.flat_name(form.find_previous_sibling().text)
             if _POKEHELP.decode(form.find_previous_sibling().text) != "voci pokedex"
-            else _POKEHELP.flat_name(self.name): _POKEHELP.split_dex(
+            else self.flat_name: _POKEHELP.split_dex(
                 [
                     [
                         _POKEHELP.GAMES[_POKEHELP.decode(sub_game.text.strip("\n"))]
@@ -121,9 +131,7 @@ class Pokemon:
     def _set_height_and_weight(self) -> None:
         self.height = {
             (
-                _POKEHELP.flat_name(i.split("(")[1])
-                if "(" in i
-                else _POKEHELP.flat_name(self.name)
+                _POKEHELP.flat_name(i.split("(")[1]) if "(" in i else self.flat_name
             ): i.split("(")[0].strip(" ")
             for i in [
                 j
@@ -138,9 +146,7 @@ class Pokemon:
 
         self.weight = {
             (
-                _POKEHELP.flat_name(i.split("(")[1])
-                if "(" in i
-                else _POKEHELP.flat_name(self.name)
+                _POKEHELP.flat_name(i.split("(")[1]) if "(" in i else self.flat_name
             ): i.split("(")[0].strip(" ")
             for i in [
                 j
@@ -215,9 +221,9 @@ class Pokemon:
     def _set_sprites(self) -> None:
         self.sprites = {
             (
-                _POKEHELP.flat_name(i.text)
+                _POKEHELP.add_name_if(_POKEHELP.flat_name(i.text), self.flat_name)
                 if i.text != ""
-                else _POKEHELP.flat_name(self.name)
+                else self.flat_name
             ): {
                 "default": _POKEHELP.correct_sprite_url(
                     i.find_all("img")[0].get("src")
@@ -232,13 +238,44 @@ class Pokemon:
             if "compagno" not in i.text.lower() and "eterno" not in i.text.lower()
         }
 
+        for k, v in {
+            (
+                _POKEHELP.flat_name(
+                    i.find_previous("div", {"class": "width-xl-100 white-text"}).text
+                )
+                if i.find_previous("div", {"class": "width-xl-100 white-text"})
+                is not None
+                else self.flat_name
+            ): {"corporate": _POKEHELP.correct_sprite_url(i.find("img").get("src"))}
+            for i in self.imagesoup.find(
+                "span", {"id": "Artwork"}
+            ).parent.next_sibling.find_all_next(
+                "div",
+                {"class": "width-xl-20 width-lg- width-md-25 width-sm-33 width-xs-50"},
+            )
+            if "corporate" in i.text.lower()
+        }.items():
+            if "altri" in k.lower():
+                continue
+            if k not in self.sprites:
+                self.sprites[k] = {}
+            self.sprites[k]["corporate"] = v["corporate"]
+
+        self.sprites["official_artwork"] = _POKEHELP.correct_sprite_url(
+            self.soup.find("a", {"href": "/Categoria"})
+            .find_parent()
+            .find_next_sibling()
+            .find("img")
+            .get("src")
+        )
+
     def _set_stats(self) -> None:
         self.stats = _POKEHELP.divide_forms(
             {
-                _POKEHELP.flat_name(i.find_previous("h4").text)
+                i.find_previous("h4").text
                 if i.find_previous("h4").text.lower() != "statistiche di base"
                 and i.find_previous("h4").text.lower() != "tutte le forme"
-                else _POKEHELP.flat_name(self.name): {
+                else self.flat_name: {
                     _POKEHELP.STATS[
                         j.find_next("td").text.strip(" \n").lower()
                     ]: _POKEHELP.rmv_chars(j.find_all_next("td")[1].text)
@@ -255,14 +292,14 @@ class Pokemon:
             i: sum(list(self.stats[i].values())) for i in self.stats.keys()
         }
 
-    def _set_typing(self) -> None:
-        self.typing = _POKEHELP.divide_forms(
+    def _set_types(self) -> None:
+        self.types = _POKEHELP.divide_forms(
             {
                 (
-                    _POKEHELP.flat_name(i.find("div").text)
+                    i.find("div").text
                     if i.find("div") is not None
                     and "tutte le forme" not in i.text.lower()
-                    else _POKEHELP.flat_name(self.name)
+                    else self.flat_name
                 ): list(set([j.text for j in i.find_all("span")]))
                 for i in self.soup.find("a", {"href": "/Tipo"})
                 .find_parents()[1]
@@ -290,18 +327,20 @@ class Pokemon:
             "cry": self.cry,
             "dex_entries": self.dex_entries,
             "egg_groups": self.egg_groups,
+            "flat_name": self.flat_name,
             "generation": self.generation,
             "height": self.height,
             "id": self.id,
             "name": self.name,
             "name_origin": self.name_origin,
             "origin": self.origin,
+            "pokecentral_url": self.pokemoncentral_url,
             "shape": self.shape,
             "specie": self.specie,
             "sprites": self.sprites,
             "stats": self.stats,
             "stats_sum": self.stats_sum,
-            "types": self.typing,
+            "types": self.types,
             "weight": self.weight,
         }
 

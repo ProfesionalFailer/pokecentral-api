@@ -42,6 +42,7 @@
         "Magico",
         "Erba"
     ],
+    "flat_name": "breloom",
     "generation": 3,
     "height": {
         "breloom": "1,20 m"
@@ -50,13 +51,16 @@
     "name": "Breloom",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi \"umbrella\"  e \"mushroom\" . Potrebbe anche comprendere il termine latino \"bellum\", guerra  ",
     "origin": "È basato su un fungo. Presenta inoltre caratteristiche tipiche di alcuni marsupiali. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Breloom",
     "shape": "due paia di ali",
     "specie": "Pokémon Fungo",
     "sprites": {
         "breloom": {
             "default": "https://media.pokemoncentral.it/wiki/a/a1/Homem0286.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0286.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0286.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/46/Artwork0286_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ef/Artwork0286_RZ.png"
     },
     "stats": {
         "breloom": {

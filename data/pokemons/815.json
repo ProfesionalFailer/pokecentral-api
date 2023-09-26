@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "cinderace": {
             "primary": "Aiutofuoco",
             "hidden": "Libero"
         }
@@ -23,6 +23,7 @@
         "Campo",
         "Umanoide"
     ],
+    "flat_name": "cinderace",
     "generation": 8,
     "height": {
         "cinderace": "1,4 m",
@@ -32,17 +33,20 @@
     "name": "Cinderace",
     "name_origin": "Cinderace potrebbe essere una combinazione delle parole cinder, cenere, e ace, campione. Potrebbe derivare anche da race, competizione. Aceburn potrebbe essere una combinazione delle parole ace, campione, e bunny, coniglio. ",
     "origin": "Cinderace potrebbe essere basato su un coniglio con alcuni elementi condivisi con i giocatori di calcio. Secondo la sua abilità speciale Libero, potrebbe essere basato su un giocatore di calcio che copre l'omonimo ruolo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cinderace",
     "shape": "due paia di ali",
     "specie": "Pokémon Cannoniere",
     "sprites": {
         "cinderace": {
             "default": "https://media.pokemoncentral.it/wiki/3/37/Homem0815.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0815.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0815.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/da"
         },
         "cinderace-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/d/d6/Homem0815Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0815Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/65/Artwork0815_SpSc.png"
     },
     "stats": {
         "cinderace": {

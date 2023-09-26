@@ -35,6 +35,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "krokorok",
     "generation": 5,
     "height": {
         "krokorok": "1,0 m"
@@ -43,13 +44,16 @@
     "name": "Krokorok",
     "name_origin": "Il nome Krokorok è una corruzione dei sostantivi inglesi crocodile  e rock . Il suo nome giapponese invece può essere una combinazione di 悪い warui  e delle parole inglesi evil , vile e crocodile . Un altro termine da cui potrebbe avere origine è gavial  ",
     "origin": "Krokorok è basato sul baryonyx, un dinosauro mangia-pesci che assomiglia molto a un coccodrillo. Come Sandile è basato su un coccodrillo, ma più specificamente sul coccodrillo catafratto o sul caimano dagli occhiali. Le sue strisce nere lo fanno sembrare un bandito, e di ciò ne è la conferma il suo secondo tipo Buio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Krokorok",
     "shape": "più di 4 arti",
     "specie": "Pokémon Sabbiadrillo",
     "sprites": {
         "krokorok": {
             "default": "https://media.pokemoncentral.it/wiki/8/86/Homem0552.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0552.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0552.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1a/Artwork0552_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4e/Artwork0552_NB.png"
     },
     "stats": {
         "krokorok": {

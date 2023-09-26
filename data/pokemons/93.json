@@ -57,6 +57,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "haunter",
     "generation": 1,
     "height": {
         "haunter": "1,6 m"
@@ -65,13 +66,16 @@
     "name": "Haunter",
     "name_origin": "Il nome inglese deriva dal verbo inglese to haunt . Letteralmente, il suo nome significa infestatore o persecutore, ma potrebbe anche essere una corruzione di Hunter . ",
     "origin": "Haunter potrebbe essere basato sui dila, spiriti che passano attraverso i muri e poi leccano degli umani fino alla morte presenti nella mitologia Filippina. Sembra anche essere basato in un Fantasma dei cartoni o una caricatura di essi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Haunter",
     "shape": "insettoide",
     "specie": "Pokémon Gas",
     "sprites": {
         "haunter": {
             "default": "https://media.pokemoncentral.it/wiki/0/05/Homem0093.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0093.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0093.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/af/Artwork0093_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/17/Artwork0093_RFVF.png"
     },
     "stats": {
         "haunter": {

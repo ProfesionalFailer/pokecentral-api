@@ -33,6 +33,7 @@
         "Campo",
         "Drago"
     ],
+    "flat_name": "silicobra",
     "generation": 8,
     "height": {
         "silicobra": "2,2 m"
@@ -41,13 +42,16 @@
     "name": "Silicobra",
     "name_origin": "Silicobra potrebbe essere una combinazione di silicon, silicio , e cobra. Potrebbe derivare anche da silt, limo. Sunahebi potrebbe essere una combinazione di 砂 suna, sabbia, e 蛇 hebi, serpente. ",
     "origin": "Silicobra potrebbe essere basato su diverse razze di serpente e il sacco di sabbia attorno al collo è simile al cappuccio di un cobra. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Silicobra",
     "shape": "testa e gambe",
     "specie": "Pokémon Sabbiaserpe",
     "sprites": {
         "silicobra": {
             "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0843.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0843.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0843.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1e"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/52/Artwork0843_SpSc.png"
     },
     "stats": {
         "silicobra": {

@@ -41,6 +41,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "meditite",
     "generation": 3,
     "height": {
         "meditite": "0,60 m"
@@ -49,17 +50,20 @@
     "name": "Meditite",
     "name_origin": "Meditite può essere una combinazione delle corruzioni di \"meditate\" e forse \"tyke\". ",
     "origin": "Basato su una specie di primate che pratica yoga in questo caso si trova nella posizione del loto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Meditite",
     "shape": "un paio di ali",
     "specie": "Pokémon Meditazione",
     "sprites": {
-        "": {
+        "meditite": {
             "default": "https://media.pokemoncentral.it/wiki/0/08/Homem0307.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0307.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0307.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6b/Artwork0307_Corp.png"
         },
-        "-f": {
+        "meditite-f": {
             "default": "https://media.pokemoncentral.it/wiki/4/43/Homef0307.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homefsh0307.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/52/Artwork0307_RZ.png"
     },
     "stats": {
         "meditite": {

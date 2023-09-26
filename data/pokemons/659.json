@@ -23,6 +23,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "bunnelby",
     "generation": 6,
     "height": {
         "bunnelby": "0,4 m"
@@ -31,13 +32,16 @@
     "name": "Bunnelby",
     "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi bunny  e tunnel. Il suo nome giapponese potrebbe derivare dal giapponese ホル horu . ",
     "origin": "È basato su un coniglio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bunnelby",
     "shape": "due paia di ali",
     "specie": "Pokémon Scavabuche",
     "sprites": {
         "bunnelby": {
             "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0659.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/19/Homemsh0659.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/19/Homemsh0659.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/71/Artwork0659_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/25/Artwork0659_XY.png"
     },
     "stats": {
         "statistiche-base": {

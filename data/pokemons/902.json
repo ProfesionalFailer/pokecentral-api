@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "basculegion": {
             "primary": "Nuotovelox",
             "secondary": "Adattabilità",
             "hidden": "Rompiforma"
@@ -31,6 +31,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "basculegion",
     "generation": 8,
     "height": {
         "basculegion": "3 m"
@@ -39,13 +40,18 @@
     "name": "Basculegion",
     "name_origin": "Basculegion potrebbe derivare da Basculin e legion, legione, o Legione, un gruppo di demoni biblici. Idaitou potrebbe essere una combinazione di 偉大 idai, grande, e イトウ itou , il Taimen di Sakhalin. Potrebbe anche comprendere 哀悼 aitou, cordoglio. ",
     "origin": "Il suo aspetto ed il concetto delle anime defunte di Basculin ricordano i salmoni rossi, poiché sono pesci che si trovano in alcune parti dell'Oceano Pacifico settentrionale e nei fiumi che vi si riversano, compresa l'area settentrionale dell'Isola di Hokkaidō in Giappone, e molti di loro non sopravvivono quando migrano a monte. Poiché Basculegion è un conglomerato di molti spiriti irrequieti, potrebbe anche essere ispirato dal Gashadokuro. Basculegion potrebbe inoltre essere basato su un boccalone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Basculegion",
     "shape": "sconosciuto",
     "specie": "Pokémon Pescegrosso",
     "sprites": {
         "basculegion": {
             "default": "https://media.pokemoncentral.it/wiki/5/52/Homem0902.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/4a/Homemsh0902.png"
-        }
+        },
+        "maschio": {
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4c/Artwork0902_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9b/Artwork0902_LPA.png"
     },
     "stats": {
         "maschio": {
@@ -71,8 +77,8 @@
     },
     "types": {
         "basculegion": [
-            "Spettro",
-            "Acqua"
+            "Acqua",
+            "Spettro"
         ]
     },
     "weight": {

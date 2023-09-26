@@ -19,6 +19,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "cyclizar",
     "generation": 9,
     "height": {
         "cyclizar": "1,6 m"
@@ -27,13 +28,16 @@
     "name": "Cyclizar",
     "name_origin": "Cyclizar è una possibile combinazione delle parole motorcycle, inglese per motocicletta, e lizard, lucertola. Mototokage è probabilmente una combinazione di motor  o motorcycle  e 蜥蜴 tokage . ",
     "origin": "Cyclizar sembra essere basato su una lucertola, più nello specifico una del genere anolidi, oppure del genere Sarada o Sitana, comunemente note come lucertole dalla coda a ventaglio, della sottofamiglia Draconinae. Possiede anche elementi che rimandano a delle moto, come il casco che assomiglia ad un tagliavento o ad un elmetto. La parte inferiore della schiena invece assomiglia ad un sedile da moto, mentre la sacca giugulare e la coda, soprattutto quest'ultima se arricciata, ricordano delle ruote. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cyclizar",
     "shape": "None",
     "specie": "Pokémon Cavalcatura",
     "sprites": {
         "cyclizar": {
             "default": "https://media.pokemoncentral.it/wiki/8/88/Homem0967.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1e/Homemsh0967.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1e/Homemsh0967.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8c/Artwork0967_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9b/Artwork0967_SV.png"
     },
     "stats": {
         "cyclizar": {
@@ -50,8 +54,8 @@
     },
     "types": {
         "cyclizar": [
-            "Normale",
-            "Drago"
+            "Drago",
+            "Normale"
         ]
     },
     "weight": {

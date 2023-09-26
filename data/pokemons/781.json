@@ -24,6 +24,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "dhelmise",
     "generation": 7,
     "height": {
         "dhelmise": "3,9 m"
@@ -32,13 +33,16 @@
     "name": "Dhelmise",
     "name_origin": "Dhelmise è una combinazione tra demise  e helm . Dadarin è una combinazione tra 祟り tatari  e 舵輸 darin . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dhelmise",
     "shape": "quadrupede",
     "specie": "Pokémon Brandellalga",
     "sprites": {
         "dhelmise": {
             "default": "https://media.pokemoncentral.it/wiki/8/81/Homem0781.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/15/Homemsh0781.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/15/Homemsh0781.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e1/Artwork0781_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/dd/Artwork0781_SL.png"
     },
     "stats": {
         "dhelmise": {

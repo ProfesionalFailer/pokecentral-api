@@ -58,6 +58,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "staryu",
     "generation": 1,
     "height": {
         "staryu": "0,8 m"
@@ -66,13 +67,16 @@
     "name": "Staryu",
     "name_origin": "Il nome Staryu deriva da star , in riferimento alla sua forma, e yu, che può essere un misspelling di you , in opposizione a mie in Starmie; 魚 yú è anche il termine cinese che significa pesce. ",
     "origin": "Somiglia ad una stella marina comune, il nucleo sembra basato in un anello prezioso. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Staryu",
     "shape": "quadrupede",
     "specie": "Pokémon Stella",
     "sprites": {
         "staryu": {
             "default": "https://media.pokemoncentral.it/wiki/3/37/Homem0120.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0e/Homemsh0120.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0e/Homemsh0120.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/99/Artwork0120_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/52/Artwork0120_RFVF.png"
     },
     "stats": {
         "staryu": {

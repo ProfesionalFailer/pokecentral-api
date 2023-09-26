@@ -43,6 +43,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "lumineon",
     "generation": 4,
     "height": {
         "lumineon": "1,2 m"
@@ -51,17 +52,20 @@
     "name": "Lumineon",
     "name_origin": "Deriva dalle parole luminous  e neon, riferito alla sua bioluminescenza e al pesce neon. ",
     "origin": "È basato su un pesce farfalla, anche se le pinne caudali ricordano le ali di una farfalla vera e propria. Inoltre, ha delle somiglianze con il pesce combattente o con il neon cardinale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lumineon",
     "shape": "pinne",
     "specie": "Pokémon Neon",
     "sprites": {
-        "": {
+        "lumineon": {
             "default": "https://media.pokemoncentral.it/wiki/7/7e/Homem0457.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homemsh0457.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homemsh0457.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/99/Artwork0457_Corp.png"
         },
-        "-f": {
+        "lumineon-f": {
             "default": "https://media.pokemoncentral.it/wiki/8/88/Homef0457.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/15/Homefsh0457.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/46/Artwork0457_DP.png"
     },
     "stats": {
         "lumineon": {

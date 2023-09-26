@@ -42,6 +42,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "shinx",
     "generation": 4,
     "height": {
         "shinx": "0,5 m"
@@ -50,17 +51,20 @@
     "name": "Shinx",
     "name_origin": "Shinx può essere combinazione di shining  o shine  e lynx  o Sphinx . Potrebbe inoltre derivare da shock . Il nome giapponese コリンク Kolink potrebbe essere fusione di 子 ko  e blink  o lynx . ",
     "origin": "Shinx è basato su un leoncino o un cucciolo di lince. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shinx",
     "shape": "più di 4 arti",
     "specie": "Pokémon Baleno",
     "sprites": {
-        "": {
+        "shinx": {
             "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0403.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/87/Homemsh0403.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/8/87/Homemsh0403.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/61/Artwork0403_Corp.png"
         },
-        "-f": {
+        "shinx-f": {
             "default": "https://media.pokemoncentral.it/wiki/7/72/Homef0403.png",
             "shiny": "https://media.pokemoncentral.it/wiki/9/96/Homefsh0403.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/65/Artwork0403_DLPS.png"
     },
     "stats": {
         "shinx": {

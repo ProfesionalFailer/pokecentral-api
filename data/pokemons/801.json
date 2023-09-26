@@ -22,6 +22,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "magearna",
     "generation": 7,
     "height": {
         "magearna": "1,0 m"
@@ -30,17 +31,20 @@
     "name": "Magearna",
     "name_origin": "Magearna potrebbe essere una combinazione di gear, ingranaggio, e una corruzione di machina, latino per macchina. ",
     "origin": "È probabilmente basato su di una bambola Karakuri e, in particolare per l'ingranaggio che fa da crestino, ad una cameriera. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Magearna",
     "shape": "un paio di ali",
     "specie": "Pokémon Artificiale",
     "sprites": {
         "magearna": {
             "default": "https://media.pokemoncentral.it/wiki/1/1f/Homem0801.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/bb/Homemsh0801.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bb/Homemsh0801.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/44/Artwork0801_Corp_2.png"
         },
         "colore-antico": {
             "default": "https://media.pokemoncentral.it/wiki/4/4f/Homem0801A.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homemsh0801A.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e8/Artwork0801_SL.png"
     },
     "stats": {
         "magearna": {
@@ -57,8 +61,8 @@
     },
     "types": {
         "magearna": [
-            "Acciaio",
-            "Folletto"
+            "Folletto",
+            "Acciaio"
         ]
     },
     "weight": {

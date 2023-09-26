@@ -1,11 +1,21 @@
 {
     "abilities": {
-        "piume-verdi-e-piume-azzurre": {
+        "piume-verdi": {
             "primary": "Prepotenza",
             "secondary": "Tuttafretta",
             "hidden": "Dentistretti"
         },
-        "piume-gialle-e-piume-bianche": {
+        "piume-azzurre": {
+            "primary": "Prepotenza",
+            "secondary": "Tuttafretta",
+            "hidden": "Dentistretti"
+        },
+        "piume-gialle": {
+            "primary": "Prepotenza",
+            "secondary": "Tuttafretta",
+            "hidden": "Forzabruta"
+        },
+        "piume-bianche": {
             "primary": "Prepotenza",
             "secondary": "Tuttafretta",
             "hidden": "Forzabruta"
@@ -38,6 +48,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "squawkabilly",
     "generation": 9,
     "height": {
         "squawkabilly": "0,6 m"
@@ -46,6 +57,7 @@
     "name": "Squawkabilly",
     "name_origin": "Squawkabilly potrebbe essere una combinazione di squawk e rockabilly.\nIkirinko potrebbe essere una combinazione di イキり ikiri  e 鸚哥 inko . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Squawkabilly",
     "shape": "None",
     "specie": "Pokémon Pappagallo",
     "sprites": {
@@ -64,7 +76,11 @@
         "piume-bianche": {
             "default": "https://media.pokemoncentral.it/wiki/f/f5/Homem0931B.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0931B.png"
-        }
+        },
+        "squawkabilly": {
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a9"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3f/Artwork0931_SV.png"
     },
     "stats": {
         "squawkabilly": {
@@ -81,8 +97,8 @@
     },
     "types": {
         "squawkabilly": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

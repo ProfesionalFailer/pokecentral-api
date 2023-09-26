@@ -7,7 +7,8 @@
     },
     "curiosities": [
         "Il simbolo sulla fronte del Pokémon, assieme agli occhi, potrebbe essere un richiamo al simbolo del Brimstone. Questo simbolo, usato anche per riti satanici, è il simbolo alchemico dello zolfo, conosciuto anche come pietra dell'orlo, data la sua grande diffusione sui crateri vulcanici. Se davvero l'origine del simbolo fosse questa, la sua presenza sul Pokémon potrebbe derivare dall'espressione inglese Fire and brimstone, usata per descrivere l'ira divina e che vede la sua origine dalla distruzione, nell'antico testamento, attraverso una tempesta di fuoco, delle città di Sodoma e Gomorra.",
-        "Litten, come tutti gli altri Pokémon iniziali di tipo Fuoco, è rappresentato nello zodiaco cinese come la tigre."
+        "Litten, come tutti gli altri Pokémon iniziali di tipo Fuoco, è rappresentato nello zodiaco cinese come la tigre.",
+        "Litten è il primo Pokémon iniziale ad avere una statistica di base più alta della sua evoluzione finale."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/litten.mp3",
     "dex_entries": {
@@ -23,6 +24,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "litten",
     "generation": 7,
     "height": {
         "litten": "0,4 m"
@@ -31,13 +33,16 @@
     "name": "Litten",
     "name_origin": "Litten è una combinazione di lit, acceso, little, piccolo, e kitten, gattino. Nyabby potrebbe essere una combinazione di ニャ nya, miao , 火 hi, fuoco, e tabby, soriano in inglese. ",
     "origin": "Litten è ispirato a un gatto soriano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Litten",
     "shape": "più di 4 arti",
     "specie": "Pokémon Pirofelino",
     "sprites": {
         "litten": {
             "default": "https://media.pokemoncentral.it/wiki/3/31/Homem0725.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fb/Homemsh0725.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fb/Homemsh0725.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fe/Artwork_Pok%C3%A9mon_iniziali_Alola_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/46/Artwork0725_UsUl.png"
     },
     "stats": {
         "litten": {

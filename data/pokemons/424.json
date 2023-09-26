@@ -36,6 +36,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "ambipom",
     "generation": 4,
     "height": {
         "ambipom": "1,2 m"
@@ -44,17 +45,20 @@
     "name": "Ambipom",
     "name_origin": "Deriva dalle parole ambidextrous  e palm . ",
     "origin": "Basato su una scimmia scoiattolo. È ispirato alla creatura mitologica azteca Ahuizotl, che viene descritto con una zampa in fondo alla coda, simile a quella di una scimmia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ambipom",
     "shape": "due paia di ali",
     "specie": "Pokémon Lungacoda",
     "sprites": {
-        "": {
+        "ambipom": {
             "default": "https://media.pokemoncentral.it/wiki/9/98/Homem0424.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a2/Homemsh0424.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a2/Homemsh0424.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/04/Artwork0424_Corp.png"
         },
-        "-f": {
+        "ambipom-f": {
             "default": "https://media.pokemoncentral.it/wiki/5/50/Homef0424.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homefsh0424.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0424_DP.png"
     },
     "stats": {
         "ambipom": {

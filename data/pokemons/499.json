@@ -31,6 +31,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "pignite",
     "generation": 5,
     "height": {
         "pignite": "1 m"
@@ -39,13 +40,16 @@
     "name": "Pignite",
     "name_origin": "Il suo nome deriva dall'inglese pig  e ignite . ",
     "origin": "Basato su un maiale domestico o un cinghiale e un wrestler o un luchador. Ken Sugimori ha dichiarato che la sua linea evolutiva è disegnata secondo lo stile cinese. Questo potrebbe far presupporre che Pignite tragga ispirazione da Zhu Wuneng. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pignite",
     "shape": "due paia di ali",
     "specie": "Pokémon Suinfuoco",
     "sprites": {
         "pignite": {
             "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0499.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0499.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0499.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/30/Artwork0499_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7f/Artwork0499_NB.png"
     },
     "stats": {
         "pignite": {
@@ -62,8 +66,8 @@
     },
     "types": {
         "pignite": [
-            "Lotta",
-            "Fuoco"
+            "Fuoco",
+            "Lotta"
         ]
     },
     "weight": {

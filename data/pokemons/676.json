@@ -25,6 +25,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "furfrou",
     "generation": 6,
     "height": {
         "furfrou": "1,2 m"
@@ -33,13 +34,16 @@
     "name": "Furfrou",
     "name_origin": "Furfrou deriva dalle parole inglesi fur  e frou-frou . Torimian potrebbe essere una combinazione di trimming  e très bien . ",
     "origin": "Furfrou è basato su un barboncino. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Furfrou",
     "shape": "più di 4 arti",
     "specie": "Pokémon Barboncino",
     "sprites": {
         "furfrou": {
             "default": "https://media.pokemoncentral.it/wiki/5/58/Homem0676.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/21/Homemsh0676.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/21/Homemsh0676.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c1/Artwork0676F_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a7/Artwork0676_XY.png"
     },
     "stats": {
         "furfrou": {

@@ -53,6 +53,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "sudowoodo",
     "generation": 2,
     "height": {
         "sudowoodo": "1,2 m"
@@ -61,17 +62,20 @@
     "name": "Sudowoodo",
     "name_origin": "Il nome di Sudowoodo può essere un portmanteau di pseudo, falso, e wood, bosco. Il suo nome giapponese potrebbe essere un errore d'ortografia di 嘘つき usotsuki, bugiardo. Potrebbe anche essere a combinazione di 嘘 uso, falso, e 木 ki, bosco o albero. ",
     "origin": "Potrebbe basarsi su una foresta fossile, piante che si sono fossilizzate nel tempo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sudowoodo",
     "shape": "un paio di ali",
     "specie": "Pokémon Imitazione",
     "sprites": {
-        "": {
+        "sudowoodo": {
             "default": "https://media.pokemoncentral.it/wiki/8/8a/Homem0185.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0185.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0185.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/33/Artwork0185_Corp_2.png"
         },
-        "-f": {
+        "sudowoodo-f": {
             "default": "https://media.pokemoncentral.it/wiki/a/ac/Homef0185.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/dd/Homefsh0185.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/26/Artwork0185_HGSS.png"
     },
     "stats": {
         "sudowoodo": {

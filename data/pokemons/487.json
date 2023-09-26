@@ -53,6 +53,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "giratina",
     "generation": 4,
     "height": {
         "forma-alterata": "4,5 m",
@@ -62,6 +63,7 @@
     "name": "Giratina",
     "name_origin": "Il nome potrebbe derivare dalla combinazione di girasol , girare o guillotine   e dal giapponese プラチナ platinum . ",
     "origin": "Giratina è basato sul Seta, un millepiedi gigante delle favole giapponesi; esso si nutre di cuccioli di drago ed è grande come una montagna. Tuttavia può essere basato anche sul basilisco. Nella sua Forma Alterata le ali sono simili a quelle dei pipistrelli, mentre il corpo con sei zampe è riconducibile a quello degli insetti; la postura ricorda i sauropodi. Nella sua Forma Originale, invece, il corpo ricorda un serpente, mentre le sei spine ai lati del corpo ricordano dei pungiglioni di scorpione o le zampe di un ragno; in questa forma, però, è riconducibile anche all'anfiptere, un drago della mitologia europea con il corpo di serpente privo di arti e con ali da pipistrello. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Giratina",
     "shape": "bipedi con coda",
     "specie": "Pokémon Ribelle",
     "sprites": {
@@ -71,8 +73,13 @@
         },
         "forma-originale": {
             "default": "https://media.pokemoncentral.it/wiki/9/9d/Homem0487O.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0487O.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0487O.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a7/Artwork0487O_Corp_2.png"
+        },
+        "forma-alterata(normale)": {
+            "corporate": "https://media.pokemoncentral.it/wiki/4/44/Artwork0487_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9b/Artwork0487_DP.png"
     },
     "stats": {
         "forma-alterata": {
@@ -98,8 +105,8 @@
     },
     "types": {
         "giratina": [
-            "Spettro",
-            "Drago"
+            "Drago",
+            "Spettro"
         ]
     },
     "weight": {

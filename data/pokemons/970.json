@@ -30,6 +30,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "glimmora",
     "generation": 9,
     "height": {
         "glimmora": "1,5 m"
@@ -38,13 +39,16 @@
     "name": "Glimmora",
     "name_origin": "Glimmora potrebbe derivare da glimmer . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Glimmora",
     "shape": "None",
     "specie": "Pokémon Minerale",
     "sprites": {
         "glimmora": {
             "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0970.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/ac/Homemsh0970.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ac/Homemsh0970.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/42/Artwork0970_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fe/Artwork0970_SV.png"
     },
     "stats": {
         "glimmora": {

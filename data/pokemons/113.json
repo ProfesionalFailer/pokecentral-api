@@ -56,6 +56,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "chansey",
     "generation": 1,
     "height": {
         "chansey": "1,1 m"
@@ -64,13 +65,16 @@
     "name": "Chansey",
     "name_origin": "Chansey è una corruzione di \"chance\" e \"chancy\". Riferito ad una rarità e/o alla possibilità di una cattura di successo. ",
     "origin": "La sua tendenza a portare le uova in un sacchetto la associa ad un marsupiale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chansey",
     "shape": "due paia di ali",
     "specie": "Pokémon Uovo",
     "sprites": {
         "chansey": {
             "default": "https://media.pokemoncentral.it/wiki/4/47/Homef0113.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homefsh0113.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homefsh0113.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/28/Artwork0113_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b1/Artwork0113_RFVF.png"
     },
     "stats": {
         "chansey": {

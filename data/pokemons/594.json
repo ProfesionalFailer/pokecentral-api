@@ -37,6 +37,7 @@
         "Acqua 1",
         "Acqua 2"
     ],
+    "flat_name": "alomomola",
     "generation": 5,
     "height": {
         "alomomola": "1,2 m"
@@ -45,13 +46,16 @@
     "name": "Alomomola",
     "name_origin": "Il suo nome è un palindromo che probabilmente deriva dal nome scientifico Mola mola , dalla parola hawaiiana aloha  e da quella inglese mom . ",
     "origin": "Alomomola sembra essere una combinazione tra un pesce disco, un pesce luna e un cuore, simbolo di salute: in particolare la sua abilità di guarire altri Pokémon potrebbe basarsi sulla teoria  che il corpo dei pesci luna produca sostanze antibiotiche che gli altri pesci sfruttano per sanare le proprie ferite. È appunto la sua forma a cuore, assieme alle sue pinne simili a mani, che fanno pensare a una possibile ispirazione al Claddagh Ring. La membrana guaritrice che ricopre lo stesso Alomomola fa pensare al pesce pappagallo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Alomomola",
     "shape": "pinne",
     "specie": "Pokémon Assistenza",
     "sprites": {
         "alomomola": {
             "default": "https://media.pokemoncentral.it/wiki/2/22/Homem0594.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0594.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0594.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cb/Artwork0594_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/03/Artwork0594_NB.png"
     },
     "stats": {
         "alomomola": {

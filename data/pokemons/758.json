@@ -37,6 +37,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "salazzle",
     "generation": 7,
     "height": {
         "salazzle": "1,2 m",
@@ -46,13 +47,16 @@
     "name": "Salazzle",
     "name_origin": "Salazzle può essere una combinazione di salamandra e dazzle, abbagliare, o sizzle, sfrigolare. Ennyūto può essere una combinazione di 炎 en, fiamma, o 艶 en, ammaliante, e Newt. ",
     "origin": "Salazzle è ispirato ad una salamandra. Nelle leggende, le salamandre sono associate spesso al fuoco o, in alcuni casi, anche al veleno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Salazzle",
     "shape": "più di 4 arti",
     "specie": "Pokémon Lucertossina",
     "sprites": {
         "salazzle": {
             "default": "https://media.pokemoncentral.it/wiki/e/e8/Homef0758.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homefsh0758.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homefsh0758.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/92/Artwork0758_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2c/Artwork0758_SL.png"
     },
     "stats": {
         "salazzle": {
@@ -69,8 +73,8 @@
     },
     "types": {
         "salazzle": [
-            "Veleno",
-            "Fuoco"
+            "Fuoco",
+            "Veleno"
         ]
     },
     "weight": {

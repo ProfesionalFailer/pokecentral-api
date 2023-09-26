@@ -30,6 +30,7 @@
         "Campo",
         "Magico"
     ],
+    "flat_name": "dedenne",
     "generation": 6,
     "height": {
         "dedenne": "0,2 m"
@@ -38,13 +39,16 @@
     "name": "Dedenne",
     "name_origin": "Il suo nome ha origine dal giapponese 電気 denki, elettricità, e probabilmente dal francese antenne, antenna. ",
     "origin": "Sembra essere basato su un criceto dorato, mentre la coda ricorda quella dei Gerboa. Data la forma del corpo, la linea sulla schiena ed il typing, però, potrebbe anche essere basato sul mouse di un computer. I baffi, ovviamente, sono basati su delle antenne. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dedenne",
     "shape": "due paia di ali",
     "specie": "Pokémon Antenna",
     "sprites": {
         "dedenne": {
             "default": "https://media.pokemoncentral.it/wiki/5/54/Homem0702.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0702.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0702.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/ae/Artwork0702_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b1/Artwork0702_XY.png"
     },
     "stats": {
         "statistiche-base": {

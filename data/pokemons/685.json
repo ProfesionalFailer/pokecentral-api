@@ -22,6 +22,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "slurpuff",
     "generation": 6,
     "height": {
         "slurpuff": "0,8 m"
@@ -30,13 +31,16 @@
     "name": "Slurpuff",
     "name_origin": "Slurpuff è una combinazione tra slurp e puff. È anche un gioco di parole della parola surplus. Peroream è una combinazione tra ペロペロ peropero, suono onomatopeico di leccare, e cream, crema. ",
     "origin": "Slurpuff è basato sulla meringa, un dolce a base di albume d'uovo e zucchero, talvolta servito con panna montata e frutta per formare dei nidi di meringa. Potrebbe anche essere ispirato a un cupcake, chiamati anche fairy cake in Inghilterra. Date alcune caratteristiche fisiche come la lingua, il naso e le zampe, potrebbe essere basato anche su un cane di razza Bichon frisé o Barbone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Slurpuff",
     "shape": "un paio di ali",
     "specie": "Pokémon Panna",
     "sprites": {
         "slurpuff": {
             "default": "https://media.pokemoncentral.it/wiki/4/44/Homem0685.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/3c/Homemsh0685.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3c/Homemsh0685.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1d/Artwork0685_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9a/Artwork0685_XY.png"
     },
     "stats": {
         "statistiche-base": {

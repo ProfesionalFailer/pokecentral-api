@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "flapple": {
             "primary": "Maturazione",
             "secondary": "Voracità",
             "hidden": "Tuttafretta"
@@ -27,6 +27,7 @@
         "Erba",
         "Drago"
     ],
+    "flat_name": "flapple",
     "generation": 8,
     "height": {
         "flapple": "0,3 m",
@@ -36,17 +37,20 @@
     "name": "Flapple",
     "name_origin": "Flapple potrebbe essere una combinazione di flap, sventolare, e apple, mela. Appryu potrebbe essere una combinazione di apple, mela, e 竜 ryū, drago. ",
     "origin": "Flapple potrebbe essere basato su una larva di carpocapsa del melo, un insetto che si nasconde nelle mele e che si nutre del loro nucleo, inibendo la crescita del frutto e maturandolo prima. Condivide alcuni aspetti estetici con i gechi. Il potente acido sputato dal Pokémon potrebbe essere un riferimento all'amigdalina, un composto chimico presente nei semi della mela che rilascia cianuro nel corpo quando digerito. La sua forma Gigamax potrebbe essere basata su una mela caramellata e la capacità di far svenire i Pokémon a causa della sua dolcezza potrebbe essere un riferimento al coma diabetico. Il tipo Drago potrebbe essere un riferimento a Ladone, un drago della mitologia greca che sorveglia i pomi d'oro nel giardino delle Esperidi. Potrebbe trarre ispirazione anche dai serpenti biblici, spesso associati ai draghi. Uno di questi serpenti persuade Eva e le fa mangiare un frutto dell'albero della conoscenza, più volte rappresentato come una mela. L'aspetto simile ad una mela volante e la sua mossa peculiare, Forza G, suggeriscono che Flapple potrebbe essere basato sulla leggenda della mela di Isaac Newton. La leggenda diventò popolare grazie a Voltaire, egli sosteneva che Isaac Newton ebbe il primo pensiero sulla gravità nel vedere una mela cascare da un albero. Il fatto che Flapple ed Appletun abbiano la stessa forma Gigamax potrebbe essere un riferimento alla convergenza evolutiva, il fenomeno per cui specie diverse che vivono nello stesso tipo di ambiente, sulla spinta delle stesse pressioni ambientali, si evolvono sviluppando, per selezione naturale, determinate strutture o adattamenti che li portano ad assomigliarsi moltissimo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Flapple",
     "shape": "testa e base",
     "specie": "Pokémon Pomivolo",
     "sprites": {
         "flapple": {
             "default": "https://media.pokemoncentral.it/wiki/0/05/Homem0841.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9e/Homemsh0841.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9e/Homemsh0841.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5d"
         },
         "flapple-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/e/e9/Homem0841Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0841Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/78/Artwork0841_SpSc.png"
     },
     "stats": {
         "flapple": {
@@ -63,8 +67,8 @@
     },
     "types": {
         "flapple": [
-            "Erba",
-            "Drago"
+            "Drago",
+            "Erba"
         ]
     },
     "weight": {

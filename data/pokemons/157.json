@@ -47,6 +47,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "typhlosion",
     "generation": 2,
     "height": {
         "typhlosion": "1,7 m"
@@ -55,13 +56,16 @@
     "name": "Typhlosion",
     "name_origin": "Il nome deriva da \"typhoon\"  ed \"explosion\" , potrebbe anche ricordare la parola greca \"typhus\" ovvero confusione, riferimento allo stato che provoca l'intenso calore che sprigiona, oppure può essere ricondotto da \"tephra\"  ovvero un materiale vulcanico oppure dal mostro mitologico Typhon che assieme alla moglie Echidna generò altri mostri, curiosamente infatti Cyndaquil ricorda una echidna. ",
     "origin": "Typhlosion sembra essere basato su un tasso del miele vista la sua fisionomia, potrebbe ricordare anche mustelidi e ghiottoni, inoltre visto il corpo leggermente allungato e la sua agilità potrebbe anche essere ricondotto alle donnole anche se è molto più massiccio rispetto alle sue pre-evoluzioni. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Typhlosion",
     "shape": "più di 4 arti",
     "specie": "Pokémon Vulcano",
     "sprites": {
         "typhlosion": {
             "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0157.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e5/Homemsh0157.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e5/Homemsh0157.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/76/Artwork0157_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/25/Artwork0157_HGSS.png"
     },
     "stats": {
         "typhlosion": {
@@ -90,8 +94,8 @@
             "Fuoco"
         ],
         "forma-di-hisui": [
-            "Spettro",
-            "Fuoco"
+            "Fuoco",
+            "Spettro"
         ]
     },
     "weight": {

@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "snorlax": {
             "primary": "Immunità",
             "secondary": "Grassospesso",
             "hidden": "Voracità"
@@ -64,6 +64,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "snorlax",
     "generation": 1,
     "height": {
         "snorlax": "2,1 m",
@@ -73,17 +74,20 @@
     "name": "Snorlax",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi snore  e lax . Il suffisso -lax potrebbe derivare da relax . ",
     "origin": "Snorlax potrebbe essere basato su un orso in letargo o sugli Ursus spelaeus, degli orsi molto grandi. Può anche essere basato su una persona in coma da cibo, dato che mangia e mangia e dorme e dorme e ricomincia a mangiare. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Snorlax",
     "shape": "un paio di ali",
     "specie": "Pokémon Sonno",
     "sprites": {
         "snorlax": {
             "default": "https://media.pokemoncentral.it/wiki/c/ce/Homem0143.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/71/Homemsh0143.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/71/Homemsh0143.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/76/Artwork0143_Corp.png"
         },
         "snorlax-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/5/51/Homem0143Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0143Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e0/Artwork0143_RFVF.png"
     },
     "stats": {
         "snorlax": {

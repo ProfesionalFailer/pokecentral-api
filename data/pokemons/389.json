@@ -44,6 +44,7 @@
         "Mostro",
         "Erba"
     ],
+    "flat_name": "torterra",
     "generation": 4,
     "height": {
         "torterra": "2,2 m"
@@ -52,13 +53,16 @@
     "name": "Torterra",
     "name_origin": "Torterra è una combinazione di tortoise, tartaruga, testuggine, e terra, dall'italiano o dal latino. Inoltre, ha delle somiglianze simile con le parole terrapins, un tipo di tartaruga d'acqua dolce, tuatara e totara, un tipo di podocarpus. ",
     "origin": "Presenta gli aspetti di una tartaruga alligatore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Torterra",
     "shape": "più di 4 arti",
     "specie": "Pokémon Continente",
     "sprites": {
         "torterra": {
             "default": "https://media.pokemoncentral.it/wiki/7/75/Homem0389.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/15/Homemsh0389.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/15/Homemsh0389.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/df/Artwork0389_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bf/Artwork0389_DP.png"
     },
     "stats": {
         "torterra": {
@@ -75,8 +79,8 @@
     },
     "types": {
         "torterra": [
-            "Erba",
-            "Terra"
+            "Terra",
+            "Erba"
         ]
     },
     "weight": {

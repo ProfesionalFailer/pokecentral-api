@@ -19,6 +19,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "shroodle",
     "generation": 9,
     "height": {
         "shroodle": "0,2 m"
@@ -27,13 +28,16 @@
     "name": "Shroodle",
     "name_origin": "Shroodle potrebbe essere una combinazione di shrew , shrewd , e doodle . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shroodle",
     "shape": "None",
     "specie": "Pokémon Velentopo",
     "sprites": {
         "shroodle": {
             "default": "https://media.pokemoncentral.it/wiki/8/81/Homem0944.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d7/Homemsh0944.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d7/Homemsh0944.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/23"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fd/Artwork0944_SV.png"
     },
     "stats": {
         "shroodle": {
@@ -50,8 +54,8 @@
     },
     "types": {
         "shroodle": [
-            "Normale",
-            "Veleno"
+            "Veleno",
+            "Normale"
         ]
     },
     "weight": {

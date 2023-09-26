@@ -28,6 +28,7 @@
         "Coleottero",
         "Minerale"
     ],
+    "flat_name": "dwebble",
     "generation": 5,
     "height": {
         "dwebble": "0,3 m"
@@ -36,13 +37,16 @@
     "name": "Dwebble",
     "name_origin": "Il nome deriva dalle parole dwell  o dwelling  e pebble . ",
     "origin": "Dwebble è ispirato ad un paguro che vive in una pietra; questa pietra è chiaramente ispirata ad una conchiglia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dwebble",
     "shape": "testa e braccia",
     "specie": "Pokémon Pietracasa",
     "sprites": {
         "dwebble": {
             "default": "https://media.pokemoncentral.it/wiki/9/92/Homem0557.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0557.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0557.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/eb/Artwork0557_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ef/Artwork0557_NB.png"
     },
     "stats": {
         "dwebble": {
@@ -59,8 +63,8 @@
     },
     "types": {
         "dwebble": [
-            "Roccia",
-            "Coleot"
+            "Coleot",
+            "Roccia"
         ]
     },
     "weight": {

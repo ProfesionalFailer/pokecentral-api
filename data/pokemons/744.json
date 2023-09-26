@@ -28,6 +28,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "rockruff",
     "generation": 7,
     "height": {
         "rockruff": "0,5 m"
@@ -36,13 +37,16 @@
     "name": "Rockruff",
     "name_origin": "Rockruff deriva da rock, roccia, da ruff, woof, l'onomatopea del verso di un cane, e da rough, duro. Iwanko potrebbe essere una combinazione di 岩 iwa, roccia, ワン wan, woof, l'onomatopea del verso del cane, わんこ wanko, cagnolino, e 子 ko, giovane animale. ",
     "origin": "Rockruff è ispirato ad un cane, probabilmente ad uno spitz. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rockruff",
     "shape": "più di 4 arti",
     "specie": "Pokémon Cagnolino",
     "sprites": {
         "rockruff": {
             "default": "https://media.pokemoncentral.it/wiki/6/6c/Homem0744.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0b/Homemsh0744.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0b/Homemsh0744.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a6/Artwork0744_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d5/Artwork0744_SL.png"
     },
     "stats": {
         "rockruff": {

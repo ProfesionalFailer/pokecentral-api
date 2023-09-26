@@ -57,6 +57,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "houndoom",
     "generation": 2,
     "height": {
         "houndoom": "1,4 m",
@@ -66,21 +67,25 @@
     "name": "Houndoom",
     "name_origin": "Houndoom deriva da hound  e doom . Il nome giapponese, ヘルガー Hellgar, è una combinazione dell'inglese hell  e gar . ",
     "origin": "Houndoom sembra essere basato sul mito greco e romano di Cerbero, il guardiano degli inferi, o su altre leggende sugli hellhounds come quella della bestia di Dartmoor. Houndoom è anche simile ad un Dobermann. La sua coda assomiglia a quella delle raffigurazioni comuni del diavolo. Anche Houndoom sembra avere alcune somiglianze con l'estinta Tigre della Tasmania / Lupo della Tasmania. La Tigre della Tasmania era un marsupiale simile a un segugio con un corpo magro e un motivo a strisce sul dorso, molto simile a Houndoom in termini di aspetto. La brillante colorazione di Houndoom potrebbe essere basata su Yama, il signore indù dei caduti, che appare spesso blu e rosso. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Houndoom",
     "shape": "più di 4 arti",
     "specie": "Pokémon Buio",
     "sprites": {
-        "houndoom ": {
+        "houndoom": {
             "default": "https://media.pokemoncentral.it/wiki/9/90/Homem0229.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ed/Homemsh0229.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ed/Homemsh0229.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6f/Artwork0229_Corp.png"
         },
-        "houndoom -f": {
+        "houndoom-f": {
             "default": "https://media.pokemoncentral.it/wiki/9/9d/Homef0229.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/b4/Homefsh0229.png"
         },
         "megahoundoom": {
             "default": "https://media.pokemoncentral.it/wiki/c/c0/Homem0229M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/24/Homemsh0229M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/24/Homemsh0229M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d9/Artwork0229M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/91/Artwork0229_RFVF.png"
     },
     "stats": {
         "houndoom": {
@@ -106,8 +111,8 @@
     },
     "types": {
         "houndoom": [
-            "Buio",
-            "Fuoco"
+            "Fuoco",
+            "Buio"
         ]
     },
     "weight": {

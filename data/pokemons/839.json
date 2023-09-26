@@ -1,13 +1,14 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "coalossal": {
             "primary": "Vapormacchina",
             "secondary": "Corpodifuoco",
             "hidden": "Fuocardore"
         }
     },
     "curiosities": [
-        "Coalossal condivide la sua categoria con Rolycoly, Carkol e Torkoal. Tutti e quattro sono conosciuti come Pokémon Carbone."
+        "Coalossal condivide la sua categoria con Rolycoly, Carkol e Torkoal. Tutti e quattro sono conosciuti come Pokémon Carbone.",
+        "Carkol e Coalossal sono gli unici Pokémon a possedere tre abilità che abbiano tutte l'effetto di aumentare la velocità di schiusa delle Uova."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/coalossal.mp3",
     "dex_entries": {
@@ -25,6 +26,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "coalossal",
     "generation": 8,
     "height": {
         "coalossal": "2,8 m",
@@ -34,17 +36,20 @@
     "name": "Coalossal",
     "name_origin": "Coalossal potrebbe essere una combinazione di coal, carbone, e colossal, colossale. Sekitanzan potrebbe essere una combinazione di 石炭 sekitan, carbone, e 炭山 tanzan, montagna di carbone minato. ",
     "origin": "Coalossal potrebbe essere basato su un dinosauro o su un kaijū e su una pila di carbone. In alternativa, il suo nome giapponese suggerisce che potrebbe essere l'impersonificazione delle miniere di carbone. Coalossal Gigamax potrebbe essere basato su un focolare, su una fornace o su un forno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Coalossal",
     "shape": "un paio di ali",
     "specie": "Pokémon Carbone",
     "sprites": {
         "coalossal": {
             "default": "https://media.pokemoncentral.it/wiki/c/cc/Homem0839.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0839.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0839.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2c"
         },
         "coalossal-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/3/36/Homem0839Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/53/Homemsh0839Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1d/Artwork0839_SpSc.png"
     },
     "stats": {
         "coalossal": {
@@ -61,8 +66,8 @@
     },
     "types": {
         "coalossal": [
-            "Roccia",
-            "Fuoco"
+            "Fuoco",
+            "Roccia"
         ]
     },
     "weight": {

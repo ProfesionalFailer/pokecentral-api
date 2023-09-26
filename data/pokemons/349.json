@@ -48,6 +48,7 @@
         "Acqua 1",
         "Drago"
     ],
+    "flat_name": "feebas",
     "generation": 3,
     "height": {
         "feebas": "0,60 m"
@@ -56,13 +57,16 @@
     "name": "Feebas",
     "name_origin": "Il suo nome è l'unione delle parole inglesi feeble  e bass . ",
     "origin": "Basato su un pesce persico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Feebas",
     "shape": "pinne",
     "specie": "Pokémon Pesce",
     "sprites": {
         "feebas": {
             "default": "https://media.pokemoncentral.it/wiki/7/7f/Homem0349.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0349.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0349.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/da/Artwork0349_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/62/Artwork0349_RZ.png"
     },
     "stats": {
         "feebas": {

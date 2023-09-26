@@ -57,6 +57,7 @@
         "Erba",
         "Coleottero"
     ],
+    "flat_name": "parasect",
     "generation": 1,
     "height": {
         "parasect": "1,0 m"
@@ -65,13 +66,16 @@
     "name": "Parasect",
     "name_origin": "Il nome di Parasect potrebbe essere l'unione delle parole inglesi parasite e insect, oppure l'unione di parasite e sect, latino per \"tagliato, reciso\". Questa teoria si appoggerebbe sulla rinnovata funzionalità delle chele del Pokémon una volta evoluto. ",
     "origin": "Ci sono diversi tipi di fungo che crescono sugli insetti; molti di questi potrebbero avere ispirato il design di Parasect e del tochukaso , come l'Etnomophthora muscae, che cresce sulla mosca comune. L'insetto è una forma distorta di cicala ninfale, avendo i funghi parassiti operato una probabile forma di neotenia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Parasect",
     "shape": "testa e braccia",
     "specie": "Pokémon Fungo",
     "sprites": {
         "parasect": {
             "default": "https://media.pokemoncentral.it/wiki/c/c4/Homem0047.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0047.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0047.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9c/Artwork0047_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0f/Artwork0047_RFVF.png"
     },
     "stats": {
         "parasect": {
@@ -88,8 +92,8 @@
     },
     "types": {
         "parasect": [
-            "Erba",
-            "Coleot"
+            "Coleot",
+            "Erba"
         ]
     },
     "weight": {

@@ -42,6 +42,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "nosepass",
     "generation": 3,
     "height": {
         "nosepass": "1,0 m"
@@ -50,13 +51,16 @@
     "name": "Nosepass",
     "name_origin": "Potrebbe essere la combinazione delle parole \"nose\", naso, e \"compass\", bussola. ",
     "origin": "Basato sui Moai dell'Isola di Pasqua. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Nosepass",
     "shape": "un paio di ali",
     "specie": "Pokémon Bussola",
     "sprites": {
         "nosepass": {
             "default": "https://media.pokemoncentral.it/wiki/a/a4/Homem0299.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/19/Homemsh0299.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/19/Homemsh0299.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/98/Artwork0299_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c4/Artwork0299_RZ.png"
     },
     "stats": {
         "nosepass": {

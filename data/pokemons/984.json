@@ -1,71 +1,62 @@
 {
     "abilities": {
-        "codaurlante": {
+        "grandizanne": {
             "primary": "Paleoattivazione"
         }
     },
     "curiosities": [
-        "Pagine che richiamano file inesistenti",
-        "Pokémon",
-        "Pokémon di nona generazione",
-        "Pokémon di tipo Folletto",
-        "Pokémon di tipo Psico",
-        "Pokémon di doppio tipo",
-        "Pokémon nel gruppo di esperienza Lento",
-        "Pokémon di colore Rosa",
-        "Pokémon dalla sagoma n.",
-        "Pokémon di sesso sconosciuto",
-        "Pokémon di Gruppo Uova Sconosciuto",
-        "Pokémon che non fanno parte di una linea di evoluzione",
-        "Pokémon con statistiche base totali di 570",
-        "Pokémon Paradosso"
+        "Grandizanne ha una combinazione di tipi unica."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/codaurlante.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/grandizanne.mp3",
     "dex_entries": {
-        "codaurlante": {
-            "scarlet": "È stato avvistato una sola volta in passato. Ricorda molto una creatura misteriosa descritta in un vecchio diario di viaggio.",
-            "violet": "Somiglia a un Pokémon enigmatico presentato in una rivista di paranormale come un Jigglypuff di un miliardo di anni fa."
+        "grandizanne": {
+            "scarlet": "Alcuni riportano di averlo avvistato negli ultimi anni. Il nome \"Grandizanne\" deriva da quello di una creatura descritta in un certo libro.",
+            "violet": "Somiglia a un Pokémon enigmatico che, stando a una rivista di paranormale, esiste fin da tempi antichissimi."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "grandizanne",
     "generation": 9,
     "height": {
-        "codaurlante": "1,2 m"
+        "grandizanne": "2,2 m"
     },
     "id": 984,
-    "name": "Codaurlante",
-    "name_origin": "Codaurlante è letteralmente coda urlante. Scream Tail è letteralmente l'unione di scream  e tail . ",
+    "name": "Grandizanne",
+    "name_origin": "Il suo nome deriva ovviamente dall'unione delle parole \"grandi zanne\", per via del suo aspetto fisico. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Grandizanne",
     "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
-        "codaurlante": {
-            "default": "https://media.pokemoncentral.it/wiki/9/9e/Homem0985.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1e/Homemsh0985.png"
-        }
+        "grandizanne": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fa/Homem0984.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7c/Homemsh0984.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/11/Artwork0984_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e2/Artwork0984_SV.png"
     },
     "stats": {
-        "codaurlante": {
+        "grandizanne": {
             "hp": 115,
-            "atk": 65,
-            "def": 99,
-            "spa": 65,
-            "spd": 115,
-            "spe": 111
+            "atk": 131,
+            "def": 131,
+            "spa": 53,
+            "spd": 53,
+            "spe": 87
         }
     },
     "stats_sum": {
-        "codaurlante": 570
+        "grandizanne": 570
     },
     "types": {
-        "codaurlante": [
-            "Psico",
-            "Folletto"
+        "grandizanne": [
+            "Terra",
+            "Lotta"
         ]
     },
     "weight": {
-        "codaurlante": "8,0 kg"
+        "grandizanne": "320,0 kg"
     }
 }

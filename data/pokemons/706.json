@@ -13,12 +13,12 @@
     },
     "curiosities": [
         "Goodra, a pari merito con MegaLatias, ha la più alta statistica base di Difesa Speciale di tutti i Pokémon di tipo Drago.",
-        "Fra i Pokémon pseudo-leggendari, Goodra è:\n\tL'unico non di doppio tipo.\n\tIl secondo che sorride dopo Dragonite.\n\tIl primo ad avere due possibili abilità non speciali.\n\tIl primo a non avere un'immunità dovuta al suo tipo .\n\tQuello con il valore più alto di una singola statistica base, grazie ai 150 punti in Difesa Speciale (escludendo le megaevoluzioni.\n\tL'unico a necessitare di una specifica condizione atmosferica per evolversi.\n\tQuello con il valore di attacco più basso: 100.",
-        "L'unico non di doppio tipo.",
+        "Fra i Pokémon pseudo-leggendari, Goodra è:\n\tL'unico non di doppio tipo .\n\tIl secondo che sorride dopo Dragonite.\n\tIl primo ad avere due possibili abilità non speciali.\n\tIl primo a non avere un'immunità dovuta al suo tipo .\n\tQuello con il valore più alto di una singola statistica base, grazie ai 150 punti in Difesa Speciale .\n\tL'unico a necessitare di una specifica condizione atmosferica per evolversi.\n\tQuello con il valore di attacco più basso: 100.",
+        "L'unico non di doppio tipo .",
         "Il secondo che sorride dopo Dragonite.",
         "Il primo ad avere due possibili abilità non speciali.",
         "Il primo a non avere un'immunità dovuta al suo tipo .",
-        "Quello con il valore più alto di una singola statistica base, grazie ai 150 punti in Difesa Speciale (escludendo le megaevoluzioni.",
+        "Quello con il valore più alto di una singola statistica base, grazie ai 150 punti in Difesa Speciale .",
         "L'unico a necessitare di una specifica condizione atmosferica per evolversi.",
         "Quello con il valore di attacco più basso: 100."
     ],
@@ -45,6 +45,7 @@
     "egg_groups": [
         "Drago"
     ],
+    "flat_name": "goodra",
     "generation": 6,
     "height": {
         "goodra": "2,0 m"
@@ -53,13 +54,16 @@
     "name": "Goodra",
     "name_origin": "Goodra deriva dall'unione delle parole inglesi goo  e dragon . Potrebbe anche derivare da good . Numelgon è una combinazione tra 滑る numeru , gel e dragon . ",
     "origin": "Goodra è basato su un gasteropode e su un drago. La sua natura di drago e le corna retrattili fanno pensare che questo Pokémon prenda spunto da Lou Carcolh, un serpente/mollusco mitologico proveniente dal folklore francese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Goodra",
     "shape": "due paia di ali",
     "specie": "Pokémon Drago",
     "sprites": {
         "goodra": {
             "default": "https://media.pokemoncentral.it/wiki/a/a4/Homem0706.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0706.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0706.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ec/Artwork0706_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/71/Artwork0706_XY.png"
     },
     "stats": {
         "goodra": {
@@ -88,8 +92,8 @@
             "Drago"
         ],
         "forma-di-hisui": [
-            "Acciaio",
-            "Drago"
+            "Drago",
+            "Acciaio"
         ]
     },
     "weight": {

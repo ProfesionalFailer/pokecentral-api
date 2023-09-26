@@ -40,6 +40,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "croagunk",
     "generation": 4,
     "height": {
         "croagunk": "0,7 m"
@@ -48,17 +49,20 @@
     "name": "Croagunk",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi croak  e gunk . ",
     "origin": "Basato su una rana freccia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Croagunk",
     "shape": "un paio di ali",
     "specie": "Pokémon Inveieleno",
     "sprites": {
-        "": {
+        "croagunk": {
             "default": "https://media.pokemoncentral.it/wiki/8/86/Homem0453.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0453.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0453.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f1/Artwork0453_Corp.png"
         },
-        "-f": {
+        "croagunk-f": {
             "default": "https://media.pokemoncentral.it/wiki/1/1d/Homef0453.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/6a/Homefsh0453.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/57"
     },
     "stats": {
         "croagunk": {

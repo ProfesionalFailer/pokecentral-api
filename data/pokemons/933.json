@@ -30,6 +30,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "naclstack",
     "generation": 9,
     "height": {
         "naclstack": "0,6 m"
@@ -38,13 +39,16 @@
     "name": "Naclstack",
     "name_origin": "Naclstack potrebbe derivare da NaCl , e stack . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Naclstack",
     "shape": "None",
     "specie": "Pokémon Salgemma",
     "sprites": {
         "naclstack": {
             "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0933.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0933.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0933.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f4"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8e/Artwork0933_SV.png"
     },
     "stats": {
         "naclstack": {

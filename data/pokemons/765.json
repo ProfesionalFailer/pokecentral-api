@@ -27,6 +27,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "oranguru",
     "generation": 7,
     "height": {
         "oranguru": "1,5 m"
@@ -35,13 +36,16 @@
     "name": "Oranguru",
     "name_origin": "Oranguru deriva da orangutan, orangotango, e guru. Yareyūtan deriva da やれ yare, \"fallo\", e オランウータン oran'ūtan, orangotango. ",
     "origin": "Oranguru è ispirato ad un orangotango ed alla figura di un saggio guru, da cui viene il suo nome. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Oranguru",
     "shape": "un paio di ali",
     "specie": "Pokémon Saggio",
     "sprites": {
         "oranguru": {
             "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0765.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0765.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0765.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cf/Artwork0765_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4e/Artwork0765_SL.png"
     },
     "stats": {
         "oranguru": {

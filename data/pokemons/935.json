@@ -30,6 +30,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "charcadet",
     "generation": 9,
     "height": {
         "charcadet": "0,6 m"
@@ -38,13 +39,16 @@
     "name": "Charcadet",
     "name_origin": "Charcadet deriva da charcoal, carbonella e cadet, cadetto. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Charcadet",
     "shape": "None",
     "specie": "Pokémon Infantigneo",
     "sprites": {
         "charcadet": {
             "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0935.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0935.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0935.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/de"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bc/Artwork0935_SV.png"
     },
     "stats": {
         "charcadet": {

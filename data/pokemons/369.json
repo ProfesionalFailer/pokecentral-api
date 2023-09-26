@@ -44,6 +44,7 @@
         "Acqua 1",
         "Acqua 2"
     ],
+    "flat_name": "relicanth",
     "generation": 3,
     "height": {
         "relicanth": "1,00 m"
@@ -52,17 +53,20 @@
     "name": "Relicanth",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi relic  e coelacanth . ",
     "origin": "Relicanth è basato sul celacanto, una specie creduta estinta, essi sono dei veri fossili viventi siccome risultano quasi immutati dai loro antenati preistorici, lo stesso vale per i Relicanth. I celacanti vennero riscoperti quando un esemplare venne pescato nel 1938 in Sudafrica, nell'Oceano Indiano all'altezza della foce del fiume Chalumna. Il colorito normale di Relicanth ricorda un celacanto indonesiano, mentre la versione cromatica ricorda un celacanto del mare indiano dell'ovest. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Relicanth",
     "shape": "pinne",
     "specie": "Pokémon Longevità",
     "sprites": {
-        "": {
+        "relicanth": {
             "default": "https://media.pokemoncentral.it/wiki/9/9c/Homem0369.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0369.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0369.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/81/Artwork0369_Corp.png"
         },
-        "-f": {
+        "relicanth-f": {
             "default": "https://media.pokemoncentral.it/wiki/e/ef/Homef0369.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homefsh0369.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b5/Artwork0369_RZ.png"
     },
     "stats": {
         "relicanth": {
@@ -79,8 +83,8 @@
     },
     "types": {
         "relicanth": [
-            "Roccia",
-            "Acqua"
+            "Acqua",
+            "Roccia"
         ]
     },
     "weight": {

@@ -67,6 +67,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "ponyta",
     "generation": 1,
     "height": {
         "ponyta": "1,0 m",
@@ -76,17 +77,20 @@
     "name": "Ponyta",
     "name_origin": "Il nome deriva probabilmente dalla parola pony. ",
     "origin": "Ponyta e le sue evoluzioni sono basate sui fieri destrieri della mitologia, come quelli appartenenti al dio greco Elio , Skinfaxi della mitologia nordica, o i cavalli di Ashvins nei miti indù. Il fuoco nella sua versione Cromatica si riferisce al fuoco blu che si ottiene a temperature più alte rispetto a quelli normali.\nPotrebbe anche basarsi sul cavallo di fuoco dell'astrologia cinese. La forma di Galar, invece, è basata su un unicorno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ponyta",
     "shape": "più di 4 arti",
     "specie": "Pokémon Cavalfuoco",
     "sprites": {
         "ponyta": {
             "default": "https://media.pokemoncentral.it/wiki/0/07/Homem0077.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0077.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0077.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d4/Artwork0077_Corp.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/4/44/Homem0077G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/4a/Homemsh0077G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/95/Artwork0077_RFVF.png"
     },
     "stats": {
         "ponyta": {

@@ -53,6 +53,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "sealeo",
     "generation": 3,
     "height": {
         "sealeo": "1,1 m"
@@ -61,13 +62,16 @@
     "name": "Sealeo",
     "name_origin": "Deriva dalla parola inglese seal  o sea  unita alla parola latina leo , in riferimento ai leoni marini. ",
     "origin": "Basato su un leone marino. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sealeo",
     "shape": "pinne",
     "specie": "Pokémon Rotapalla",
     "sprites": {
         "sealeo": {
             "default": "https://media.pokemoncentral.it/wiki/7/71/Homem0364.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ee/Homemsh0364.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ee/Homemsh0364.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0b/Artwork0364_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3d/Artwork0364_RZ.png"
     },
     "stats": {
         "sealeo": {

@@ -44,6 +44,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "metang",
     "generation": 3,
     "height": {
         "metang": "1,2 m"
@@ -52,13 +53,16 @@
     "name": "Metang",
     "name_origin": "Metang potrebbe essere l'unione di metal  e del suono onomatopeico del metallo, tang, o dal francese étang . Metang è anche l'anagramma di magnet . ",
     "origin": "È composto da due Beldum fusi insieme. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Metang",
     "shape": "insettoide",
     "specie": "Pokémon Ferrunghia",
     "sprites": {
         "metang": {
             "default": "https://media.pokemoncentral.it/wiki/9/9f/Homem0375.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0375.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0375.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/94/Artwork0375_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8b/Artwork0375_RZ.png"
     },
     "stats": {
         "metang": {

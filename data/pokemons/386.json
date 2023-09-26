@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "deoxys": {
             "primary": "Pressione"
         }
     },
@@ -44,6 +44,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "deoxys",
     "generation": 3,
     "height": {
         "deoxys": "1,7 m"
@@ -52,6 +53,7 @@
     "name": "Deoxys",
     "name_origin": "Deoxys è un'abbreviazione di deoxyribonucleic acid  o DNA, molecola contenente il codice genetico di molti organismi cellulari. È stato menzionato nel settimo film dal Professor Lund che gli diede il nome di Deoxys. ",
     "origin": "Deoxys sembra essere ispirato ad alcune rappresentazioni di alieni ed alla rappresentazione visuale delle doppie eliche del DNA. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Deoxys",
     "shape": "un paio di ali",
     "specie": "Pokémon DNA",
     "sprites": {
@@ -67,10 +69,14 @@
             "default": "https://media.pokemoncentral.it/wiki/0/00/Homem0386D.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/66/Homemsh0386D.png"
         },
-        "forma-velocità": {
+        "forma-velocita": {
             "default": "https://media.pokemoncentral.it/wiki/5/5f/Homem0386V.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/0d/Homemsh0386V.png"
-        }
+        },
+        "deoxys": {
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c6/Artwork0386V_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4d/Artwork0386_RZ.png"
     },
     "stats": {
         "forma-normale": {
@@ -97,7 +103,7 @@
             "spd": 160,
             "spe": 90
         },
-        "forma-velocità": {
+        "forma-velocita": {
             "hp": 50,
             "atk": 95,
             "def": 90,
@@ -110,7 +116,7 @@
         "forma-normale": 600,
         "forma-attacco": 600,
         "forma-difesa": 600,
-        "forma-velocità": 600
+        "forma-velocita": 600
     },
     "types": {
         "deoxys": [

@@ -34,6 +34,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "pawniard",
     "generation": 5,
     "height": {
         "pawniard": "0,5 m"
@@ -42,13 +43,16 @@
     "name": "Pawniard",
     "name_origin": "Il nome deriva dalle parole inglesi pawn  e poniard o poignard . Il suo nome giapponese, コマタナ Komatana, deriva dalle parole 駒 koma , 細切れ komagire , 刀 katana  e 小刀 kogatana . ",
     "origin": "Pawniard è basato sul pedone degli scacchi, raffigurato spesso come un componente della fanteria di uno schieramento militare, per la somiglianza, per l'origine del suo nome, e per il fatto che Bisharp è ispirato ad un alfiere. Si basa inoltre sui banditi giapponesi, ma potrebbe trarre ispirazione anche dagli ashigaru, fanti medioevali giapponesi, o dai kaijin di alcune serie tv giapponesi, ovvero mostri umanoidi che si comportano come furfanti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pawniard",
     "shape": "un paio di ali",
     "specie": "Pokémon Lamaffilata",
     "sprites": {
         "pawniard": {
             "default": "https://media.pokemoncentral.it/wiki/8/88/Homem0624.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0624.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0624.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/75/Artwork0624_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8a/Artwork0624_NB.png"
     },
     "stats": {
         "pawniard": {
@@ -65,8 +69,8 @@
     },
     "types": {
         "pawniard": [
-            "Acciaio",
-            "Buio"
+            "Buio",
+            "Acciaio"
         ]
     },
     "weight": {

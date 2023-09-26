@@ -34,6 +34,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "roggenrola",
     "generation": 5,
     "height": {
         "roggenrola": "0,4 m"
@@ -42,13 +43,16 @@
     "name": "Roggenrola",
     "name_origin": "Il nome deriva, molto probabilmente, dalla traslitterazione in giapponese di rock and roll, o dalla pronuncia di\nrock-'n'-roller . Da notare i termini visti separatamente: rock , roll . ",
     "origin": "Roggenrola sembra essere basato su un geode, una cavità interna della roccia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Roggenrola",
     "shape": "corpi multipli",
     "specie": "Pokémon Placca",
     "sprites": {
         "roggenrola": {
             "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0524.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0524.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0524.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b2/Artwork0524_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8a/Artwork0524_NB.png"
     },
     "stats": {
         "roggenrola": {

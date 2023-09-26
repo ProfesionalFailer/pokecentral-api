@@ -61,6 +61,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "zubat",
     "generation": 1,
     "height": {
         "zubat": "0,8 m"
@@ -69,17 +70,20 @@
     "name": "Zubat",
     "name_origin": "Il nome Zubat deriva dalla parole inglese bat  e della parola giapponese ずばっと zubatto . Inoltre potrebbe essere un riferimento all'eroe della serie televisiva giapponese Kaiketsu Zubat. ",
     "origin": "Zubat è ispirato ad un pipistrello, mentre la sua mancanza di occhi è un riferimento all'idea sbagliata che i pipistrelli siano ciechi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zubat",
     "shape": "testa e base",
     "specie": "Pokémon Pipistrello",
     "sprites": {
-        "": {
+        "zubat": {
             "default": "https://media.pokemoncentral.it/wiki/4/48/Homem0041.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0041.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0041.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/16/Artwork0041_Corp.png"
         },
-        "-f": {
+        "zubat-f": {
             "default": "https://media.pokemoncentral.it/wiki/a/a2/Homef0041.png",
             "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homefsh0041.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a5/Artwork0041_RFVF.png"
     },
     "stats": {
         "zubat": {
@@ -96,8 +100,8 @@
     },
     "types": {
         "zubat": [
-            "Veleno",
-            "Volante"
+            "Volante",
+            "Veleno"
         ]
     },
     "weight": {

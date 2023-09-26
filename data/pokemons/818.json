@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "inteleon": {
             "primary": "Acquaiuto",
             "hidden": "Cecchino"
         }
@@ -26,6 +26,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "inteleon",
     "generation": 8,
     "height": {
         "inteleon": "1,9 m",
@@ -35,17 +36,20 @@
     "name": "Inteleon",
     "name_origin": "Inteleon ed Intereon potrebbero essere una combinazione di intelligence, spionaggio, e chameleon, camaleonte. ",
     "origin": "Inteleon potrebbe essere basato su un camaleonte, in particolare sul camaleonte velato, per via della cresta e per la colorazione simile a quella degli esemplari maschili della specie, o sul Basiliscus. Tuttavia, l'aspetto del Pokémon sembra indicare che sia basato anche su un drago volante. Inoltre, Inteleon ricorda anche l'intelligence britannica, in particolare la figura di James Bond. Le zampe superiori sono poste come una pistola e, in aggiunta, la colorazione della pancia ricorda vagamente una giacca blu sopra ad una camincia bianca e quella delle gambe, invece, ricorda dei pantaloni neri, il tipico abbigliamento utilizzato da James Bond. Potrebbe essere basato anche sui supereroi. Inteleon Gigamax sembra essere ispirato da un cecchino appostato su un tetto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Inteleon",
     "shape": "due paia di ali",
     "specie": "Pokémon Agente",
     "sprites": {
         "inteleon": {
             "default": "https://media.pokemoncentral.it/wiki/d/d7/Homem0818.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/5a/Homemsh0818.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5a/Homemsh0818.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3a"
         },
         "inteleon-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/4/43/Homem0818Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0818Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2a/Artwork0818_SpSc.png"
     },
     "stats": {
         "inteleon": {

@@ -21,6 +21,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "nihilego",
     "generation": 7,
     "height": {
         "nihilego": "1,2 m"
@@ -29,13 +30,16 @@
     "name": "Nihilego",
     "name_origin": "Nihilego può essere una combinazione di nihil  e ego , che insieme si traduce approssimativamente come \"non sono nulla\" o \"non ho nulla\".\nUn'altra interpretazione potrebbe essere \"nullificare l'io\" oppure \"rendere l'io nullo\", in quanto un'abilità posseduta da molte specie di parassiti è quella di prendere il controllo dell'organismo ospitante. Utsuroido può essere una combinazione di 虚ろ utsuro , void  e id. Potrebbe anche essere un riferimento a 鬱 utsu , 移ろい utsuroi , e android o il suffisso -oid . UC 01 Parasitus è una combinazione tra UC, sigla di Ultracreatura, 01 e la parola latina Parasitus . ",
     "origin": "Nihilego è basato su una medusa, in particolare ad una Aurelia aurita. Il suo disegno sembra anche essere basato sui Myxozoa, una classe di microscopici parassiti Cnidarian, in particolare al Myxobolus cerebralis, noto per essere la causa di alcune malattie dei pesci. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Nihilego",
     "shape": "bipedi con coda",
     "specie": "Pokémon Parassita",
     "sprites": {
         "nihilego": {
             "default": "https://media.pokemoncentral.it/wiki/3/3a/Homem0793.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/01/Homemsh0793.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/01/Homemsh0793.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/82/Artwork0793_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fd/Artwork0793_SL.png"
     },
     "stats": {
         "nihilego": {

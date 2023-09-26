@@ -18,19 +18,15 @@
         "Con l'introduzione di Pokémon Rubino Omega e Zaffiro Alpha, Mewtwo non è più il Pokémon più forte in assoluto ma condivide il titolo con la forma megaevoluta di Rayquaza.",
         "In ottava generazione, con l'introduzione di Eternatus Dynamax infinito, Mewtwo viene superato.",
         "MegaMewtwo X ha la più alta statistica base di Attacco in assoluto, ma il suo Attacco può essere superato da MegaMawile e MegaMedicham grazie alle loro abilità Macroforza e Forzapura.",
-        "Mewtwo aveva l'Attacco Speciale più alto nei giochi fino alla quarta generazione, se si esclude la Forma Attacco di Deoxys, che però era disponibile solo tramite evento fino all'uscita di Pokémon Rubino Omega e Zaffiro Alpha. In quinta generazione viene superato da Kyurem Bianco.\n\tTuttavia, con la megaevoluzione Y, ottiene nuovamente il primato con una statistica base di Attacco Speciale pari a 194 contro 180 di Deoxys Attacco e 170 di Kyurem Bianco.",
-        "Tuttavia, con la megaevoluzione Y, ottiene nuovamente il primato con una statistica base di Attacco Speciale pari a 194 contro 180 di Deoxys Attacco e 170 di Kyurem Bianco.",
+        "MegaMewtwo Y possiede la più alta statistica base di Attacco Speciale.",
         "Insieme a Lugia, Hoopa Libero, Solgaleo e Lunala ha la più alta somma di statistiche fra tutti i Pokémon di tipo Psico non megaevoluti.",
         "Il suo compleanno nel gioco è il 6 febbraio, come si evince da un diario trovato nella Villa Pokémon.",
-        "Mewtwo può imparare mosse di attacco di qualsiasi tipo eccetto Drago  e Folletto.",
-        "Mewtwo a differenza di Mew non è in grado di apprendere tutte le MT e MN di tutte le generazioni ed inoltre non condivide con esso alcune mosse come Trasformazione e Metronomo.",
-        "Mewtwo, come tutti i Pokémon esistenti in prima generazione può essere trovato tramite il glitch dell'anziano a un livello superiore a quello massimo .",
+        "Mewtwo cromatico in Pokémon Stadium 2 appare di colore nero anziché verde.",
         "Un'immagine di Mewtwo appare nel faro di Bill nell'anime nonostante Mewtwo non sia ancora stato creato.",
         "L'isola di Niue ha rilasciato un dollaro con Mewtwo impresso sulla moneta.",
         "Mewtwo ha cambiato verso in sesta generazione.\n\tInoltre ogni sua forma Mega ha il proprio verso.",
         "Inoltre ogni sua forma Mega ha il proprio verso.",
         "Una sagoma di Mewtwo, anche se leggermente modificata, compare nel quarto volume del manga Assassination Classroom.",
-        "Mewtwo condivide alcune similiarità con Tipo Zero. Entrambi sono stati creati da umani per mezzo della scienza, con lo scopo di essere più forti degli altri Pokémon ed entrambi sono scappati dal loro luogo di origine causando ingenti danni.",
         "Condivide con Mew il primato del maggior numero di apparizioni nell'opening dell'anime, 7 volte."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mewtwo.mp3",
@@ -79,6 +75,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "mewtwo",
     "generation": 1,
     "height": {
         "mewtwo": "2,0 m",
@@ -89,12 +86,14 @@
     "name": "Mewtwo",
     "name_origin": "Mewtwo è una combinazione di Mew e two, indicando che si tratta di un clone, il nome assomiglia anche alla parola giapponese myūtanto . ",
     "origin": "Mewtwo è probabilmente ispirato al mostro di Frankenstein di Mary Shelley, ovvero un essere creato innaturalmente in laboratorio che si rivolta contro il proprio creatore e alla fine entrambi si pentono dei loro errori. Come Mew, anche Mewtwo ha caratteristiche tipiche dei felini, ma presenta anche caratteristiche di un alieno grigio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mewtwo",
     "shape": "due paia di ali",
     "specie": "Pokémon Genetico",
     "sprites": {
         "mewtwo": {
             "default": "https://media.pokemoncentral.it/wiki/8/8c/Homem0150.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0150.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0150.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ea/Artwork0150MY_Corp.png"
         },
         "megamewtwo-x": {
             "default": "https://media.pokemoncentral.it/wiki/5/5d/Homem0150MX.png",
@@ -103,7 +102,8 @@
         "megamewtwo-y": {
             "default": "https://media.pokemoncentral.it/wiki/3/32/Homem0150MY.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homemsh0150MY.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cf/Artwork0150_RFVF.png"
     },
     "stats": {
         "mewtwo": {
@@ -137,7 +137,10 @@
         "megamewtwo-y": 780
     },
     "types": {
-        "mewtwo-e-megamewtwo-y": [
+        "mewtwo": [
+            "Psico"
+        ],
+        "megamewtwo-y": [
             "Psico"
         ],
         "megamewtwo-x": [

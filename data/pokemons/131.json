@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "lapras": {
             "primary": "Assorbacqua",
             "secondary": "Guscioscudo",
             "hidden": "Idratazione"
@@ -63,6 +63,7 @@
         "Mostro",
         "Acqua 1"
     ],
+    "flat_name": "lapras",
     "generation": 1,
     "height": {
         "lapras": "2,5 m",
@@ -72,17 +73,20 @@
     "name": "Lapras",
     "name_origin": "Lapras potrebbe derivare da Pierre-Simon Laplace, un matematico che scrisse diversi libri sulle proprietà matematiche del mare e delle maree. In alternativa, Laplace potrebbe derivare da la place , in riferimento al fatto che gli umani si siedono sul suo dorso come su di un sedile per attraversare il mare. ",
     "origin": "Questo Pokémon è basato sul leggendario mostro di Loch Ness, in Scozia, noto anche come \"Nessie\". ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lapras",
     "shape": "pinne",
     "specie": "Pokémon Trasporto",
     "sprites": {
         "lapras": {
             "default": "https://media.pokemoncentral.it/wiki/7/73/Homem0131.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/93/Homemsh0131.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/93/Homemsh0131.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/38/Artwork0131_Corp_2.png"
         },
         "lapras-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/1/15/Homem0131Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/f/f8/Homemsh0131Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a9/Artwork0131_RFVF.png"
     },
     "stats": {
         "lapras": {

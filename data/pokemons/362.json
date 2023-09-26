@@ -55,6 +55,7 @@
         "Magico",
         "Minerale"
     ],
+    "flat_name": "glalie",
     "generation": 3,
     "height": {
         "glalie": "1,5 m",
@@ -64,17 +65,20 @@
     "name": "Glalie",
     "name_origin": "Deriva dalle parole glacier  e goalie . ",
     "origin": "Basato sugli oni, ma il suo aspetto è ispirato ad una maschera da hockey e ricorda anche quello di un onigiri. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Glalie",
     "shape": "testa",
     "specie": "Pokémon Tuttomuso",
     "sprites": {
         "glalie": {
             "default": "https://media.pokemoncentral.it/wiki/e/ed/Homem0362.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0362.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0362.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/58/Artwork0362M_Corp.png"
         },
         "megaglalie": {
             "default": "https://media.pokemoncentral.it/wiki/c/ce/Homem0362M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0362M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1b/Artwork0362_RZ.png"
     },
     "stats": {
         "glalie": {

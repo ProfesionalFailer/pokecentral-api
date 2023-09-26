@@ -37,6 +37,7 @@
         "Coleottero",
         "Acqua 3"
     ],
+    "flat_name": "skorupi",
     "generation": 4,
     "height": {
         "skorupi": "0,8 m"
@@ -45,13 +46,16 @@
     "name": "Skorupi",
     "name_origin": "Deriva da una corruzione della parola scorpion . ",
     "origin": "Basato su uno scorpione. Ha caratteristiche in comune con l'Uropygi. Il fatto che sia inserito nel Gruppo Uova Acqua 3, potrebbe indicare che tragga ispirazione da un antico animale, l'euripteride. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Skorupi",
     "shape": "testa e braccia",
     "specie": "Pokémon Scorpione",
     "sprites": {
         "skorupi": {
             "default": "https://media.pokemoncentral.it/wiki/3/37/Homem0451.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/af/Homemsh0451.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/af/Homemsh0451.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d8/Artwork0451_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5b/Artwork0451_DP.png"
     },
     "stats": {
         "skorupi": {
@@ -68,8 +72,8 @@
     },
     "types": {
         "skorupi": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {

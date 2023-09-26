@@ -43,6 +43,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "braviary",
     "generation": 5,
     "height": {
         "braviary": "1,5 m",
@@ -52,13 +53,16 @@
     "name": "Braviary",
     "name_origin": "Il nome Braviary è una corruzione della parola bravery ovvero coraggioso, può essere anche l'unione delle parole brave  e aviary . Nella tradizione americana, inoltre, si usa dire \"home of the brave\" in riferimento alla bandiera a stelle e strisce. Potrebbe derivare anche dal termine brave usato dai nativi americani per indicare i loro guerrieri, infatti in certe tribù l'aquila era un animale sacro. ",
     "origin": "Braviary è ispirato ad un'aquila, più precisamente ad un'aquila calva. Tuttavia altre delle sue caratteristiche fisiche, come le zampe piumate corona di piume vividamente colorata al di sopra del suo becco, sono riconducibili all'aquila reale. Le piume sulla sua testa e sulla sua faccia sembrano inoltre formare quello che gli americani chiamano \"war bonnet\", cioè il tipico copricapo utilizzato dai Nativi Americani. Una somiglianza con tale copricapo è presente anche in natura, come è possibile notare osservando una aquila delle filippine. Il colore del piumaggio di Braviary ricorda inoltre quello della bandiera degli Stati Uniti d'America che, per l'appunto, presenta strisce bianche e rosse e un riquadro in alto a sinistra di colore blu. Un ulteriore legame fra questo Pokémon e tale bandiera è proprio il fatto che l'aquila calva, volatile a cui è ispirato Braviary, è l'animale simbolo degli Stati Uniti d'America. La sua forza, il suo coraggio, e la sua corona piumata sono inoltre ispirati ai guerrieri Nativi Americani.\nIn un intervista di Ken Sugimori, è stato confermato che Rufflet e Braviary furono tra i primi Pokémon programmati per i giochi Bianco e Nero. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Braviary",
     "shape": "testa e base",
     "specie": "Pokémon Baldanza",
     "sprites": {
         "braviary": {
             "default": "https://media.pokemoncentral.it/wiki/2/21/Homem0628.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0628.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0628.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f2/Artwork0628_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cb/Artwork0628_NB.png"
     },
     "stats": {
         "braviary": {
@@ -84,8 +88,8 @@
     },
     "types": {
         "braviary": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ],
         "forma-di-hisui": [
             "Psico",

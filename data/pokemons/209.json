@@ -46,6 +46,7 @@
         "Campo",
         "Magico"
     ],
+    "flat_name": "snubbull",
     "generation": 2,
     "height": {
         "snubbull": "0,6 m"
@@ -54,13 +55,16 @@
     "name": "Snubbull",
     "name_origin": "Il nome di Snubbull potrebbe essere una combinazione di bull, riferito ai bulldog, e snub, che indica sia una sensazione di disprezzo che un naso schiacciato. Il nome potrebbe anche contenere Snuggle, coccole. ",
     "origin": "Snubbull è basato su un bulldog. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Snubbull",
     "shape": "un paio di ali",
     "specie": "Pokémon Fata",
     "sprites": {
         "snubbull": {
             "default": "https://media.pokemoncentral.it/wiki/a/af/Homem0209.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0209.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0209.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2a/Artwork0209_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0e/Artwork0209_HGSS.png"
     },
     "stats": {
         "snubbull": {

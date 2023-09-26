@@ -47,6 +47,7 @@
     "egg_groups": [
         "Drago"
     ],
+    "flat_name": "shelgon",
     "generation": 3,
     "height": {
         "shelgon": "1,10 m"
@@ -55,13 +56,16 @@
     "name": "Shelgon",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi shell  e dragon . ",
     "origin": "L'aspetto di Shelgon ricorda quello di un drago e di una crisalide. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shelgon",
     "shape": "più di 4 arti",
     "specie": "Pokémon Resistenza",
     "sprites": {
         "shelgon": {
             "default": "https://media.pokemoncentral.it/wiki/6/64/Homem0372.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9e/Homemsh0372.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9e/Homemsh0372.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bf/Artwork0372_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/86"
     },
     "stats": {
         "shelgon": {

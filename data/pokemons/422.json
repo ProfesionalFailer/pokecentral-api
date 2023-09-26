@@ -58,6 +58,7 @@
         "Acqua 1",
         "Amorfo"
     ],
+    "flat_name": "shellos",
     "generation": 4,
     "height": {
         "shellos": "0,3 m"
@@ -66,17 +67,21 @@
     "name": "Shellos",
     "name_origin": "Deriva dalle parole shell  e less  o loss . ",
     "origin": "Basato su un nudibranco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shellos",
     "shape": "testa e gambe",
     "specie": "Pokémon Lumacomare",
     "sprites": {
         "mare-ovest": {
             "default": "https://media.pokemoncentral.it/wiki/b/ba/Homem0422.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/98/Homemsh0422.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/98/Homemsh0422.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f8"
         },
         "mare-est": {
             "default": "https://media.pokemoncentral.it/wiki/0/05/Homem0422E.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0422E.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0422E.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2c"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cf/Artwork0422_DP.png"
     },
     "stats": {
         "shellos": {

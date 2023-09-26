@@ -48,6 +48,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "beldum",
     "generation": 3,
     "height": {
         "beldum": "0,6 m"
@@ -56,13 +57,18 @@
     "name": "Beldum",
     "name_origin": "Deriva dalla parola dumbbell . ",
     "origin": "Basato su un robot e un manubrio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Beldum",
     "shape": "quadrupede",
     "specie": "Pokémon Ferrosfera",
     "sprites": {
         "beldum": {
             "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0374.png",
             "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0374.png"
-        }
+        },
+        "normale": {
+            "corporate": "https://media.pokemoncentral.it/wiki/a/ad/Artwork0374_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fb/Artwork0374_RZ.png"
     },
     "stats": {
         "beldum": {

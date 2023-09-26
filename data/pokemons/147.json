@@ -54,6 +54,7 @@
         "Acqua 1",
         "Drago"
     ],
+    "flat_name": "dratini",
     "generation": 1,
     "height": {
         "dratini": "1,8 m"
@@ -62,13 +63,16 @@
     "name": "Dratini",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi dragon  e la corruzione di tiny  oppure proprio dal suffisso italiano \"ini\" per definire qualcosa di piccolo, anche se in realtà è un Pokémon abbastanza lungo essendo alto 1,8 metri. ",
     "origin": "Sembra essere basato sui Serpenti marini o al Ryu, in alternativa potrebbe essersi basato sui Draghi cinesi o giapponesi che si dice portino fortuna, mentre la sua continua crescita potrebbe rimandarlo a Jourmungandr, un serpente della mitologia Norrena, mentre il fatto che vive solitario e che per molti è solo una leggenda lo rimandano al Mostro di Loch Ness. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dratini",
     "shape": "testa e gambe",
     "specie": "Pokémon Drago",
     "sprites": {
         "dratini": {
             "default": "https://media.pokemoncentral.it/wiki/7/71/Homem0147.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0147.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0147.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/82/Artwork0147_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/94/Artwork0147_RFVF.png"
     },
     "stats": {
         "dratini": {

@@ -42,6 +42,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "ledyba",
     "generation": 2,
     "height": {
         "ledyba": "1,0 m"
@@ -50,17 +51,20 @@
     "name": "Ledyba",
     "name_origin": "Ledyba può essere una corruzione di \"ladybug\"  o un accorciamento corrotto di \"ladybird\". ",
     "origin": "Ledyba si basa su un Coccinellidae. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ledyba",
     "shape": "testa e base",
     "specie": "Pokémon Pentastra",
     "sprites": {
-        "": {
+        "ledyba": {
             "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0165.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f2/Homemsh0165.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f2/Homemsh0165.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cb/Artwork0165_Corp.png"
         },
-        "-f": {
+        "ledyba-f": {
             "default": "https://media.pokemoncentral.it/wiki/7/78/Homef0165.png",
             "shiny": "https://media.pokemoncentral.it/wiki/9/92/Homefsh0165.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/87/Artwork0165_RFVF.png"
     },
     "stats": {
         "ledyba": {
@@ -77,8 +81,8 @@
     },
     "types": {
         "ledyba": [
-            "Volante",
-            "Coleot"
+            "Coleot",
+            "Volante"
         ]
     },
     "weight": {

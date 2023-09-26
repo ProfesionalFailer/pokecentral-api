@@ -57,6 +57,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "cloyster",
     "generation": 1,
     "height": {
         "cloyster": "1,5 m"
@@ -65,13 +66,16 @@
     "name": "Cloyster",
     "name_origin": "Il nome Cloyster può essere una combinazione di cloister , in cui si ritira o si apparta e oyster . Potrebbe anche essere una combinazione di clam  e oyster . ",
     "origin": "Sembra essere basato su un bivalve, in particolare allo Spondylus, la testa è ovviamente basata su una perla nera. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cloyster",
     "shape": "testa",
     "specie": "Pokémon Bivalve",
     "sprites": {
         "cloyster": {
             "default": "https://media.pokemoncentral.it/wiki/1/15/Homem0091.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d5/Homemsh0091.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d5/Homemsh0091.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1e/Artwork0091_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5e/Artwork0091_RFVF.png"
     },
     "stats": {
         "cloyster": {

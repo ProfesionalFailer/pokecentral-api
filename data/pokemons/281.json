@@ -47,6 +47,7 @@
         "Umanoide",
         "VIII"
     ],
+    "flat_name": "kirlia",
     "generation": 3,
     "height": {
         "kirlia": "0,80 m"
@@ -55,13 +56,16 @@
     "name": "Kirlia",
     "name_origin": "Deriva da Semyon Davidovich Kirlian, uno scienziato russo inventore dell'effetto Kirlian. ",
     "origin": "È basato su una ballerina di danza classica. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kirlia",
     "shape": "un paio di ali",
     "specie": "Pokémon Emozione",
     "sprites": {
         "kirlia": {
             "default": "https://media.pokemoncentral.it/wiki/e/ef/Homem0281.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/18/Homemsh0281.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/18/Homemsh0281.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/90/Artwork0281_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/36/Artwork0281_RZ.png"
     },
     "stats": {
         "kirlia": {

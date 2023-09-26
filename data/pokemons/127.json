@@ -67,6 +67,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "pinsir",
     "generation": 1,
     "height": {
         "pinsir": "1,5 m",
@@ -76,17 +77,20 @@
     "name": "Pinsir",
     "name_origin": "Il nome Pinsir è una trasformazione di pincer , riferendosi alle chele sulla sua testa. Il suo nome giapponese può essere basato su 傀 kai, grande, or 魁偉 kaii, impetuoso. Potrebbe anche essere una combinazione del giapponese 刈 kai, taglio, e della parola greca per insetto, κοριός korios. ",
     "origin": "È basato sui Cervi Volanti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pinsir",
     "shape": "un paio di ali",
     "specie": "Pokémon Cervolante",
     "sprites": {
         "pinsir": {
             "default": "https://media.pokemoncentral.it/wiki/0/07/Homem0127.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0127.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0127.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/ae/Artwork0127M_Corp.png"
         },
         "megapinsir": {
             "default": "https://media.pokemoncentral.it/wiki/7/71/Homem0127M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/64/Homemsh0127M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ed/Artwork0127_RFVF.png"
     },
     "stats": {
         "pinsir": {
@@ -115,8 +119,8 @@
             "Coleottero"
         ],
         "megapinsir": [
-            "Volante",
-            "Coleot"
+            "Coleot",
+            "Volante"
         ]
     },
     "weight": {

@@ -41,21 +41,25 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "lairon",
     "generation": 3,
     "height": {
         "lairon": "0,90 m"
     },
     "id": 305,
     "name": "Lairon",
-    "name_origin": "Il nome \"Lairon\" potrebbe essere l'unione di lairy  o di lair  con iron . ",
+    "name_origin": "Il nome \"Lairon\" potrebbe essere l'unione di lairy  o di lair  con iron .",
     "origin": "Lairon sembra essere basato sul Palgasauro, una creatura mitologica coreana che si nutre di metallo, ma assomiglia anche ai Placerias, un gruppo di rettili che avrebbe dato origine ai mammiferi del periodo Triassico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lairon",
     "shape": "più di 4 arti",
     "specie": "Pokémon Corazza",
     "sprites": {
         "lairon": {
             "default": "https://media.pokemoncentral.it/wiki/0/0a/Homem0305.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0305.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0305.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/91/Artwork0305_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/06/Artwork0305_RZ.png"
     },
     "stats": {
         "lairon": {
@@ -72,8 +76,8 @@
     },
     "types": {
         "lairon": [
-            "Acciaio",
-            "Roccia"
+            "Roccia",
+            "Acciaio"
         ]
     },
     "weight": {

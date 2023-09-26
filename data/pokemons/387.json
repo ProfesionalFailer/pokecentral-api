@@ -34,6 +34,7 @@
         "Mostro",
         "Erba"
     ],
+    "flat_name": "turtwig",
     "generation": 4,
     "height": {
         "turtwig": "0,4 m"
@@ -42,13 +43,16 @@
     "name": "Turtwig",
     "name_origin": "Turtwig è una combinazione di turtle  e twig . Naetle è una combinazione di 苗 nae  e turtle . ",
     "origin": "Turtwig è basato su una tartaruga azzannatrice. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Turtwig",
     "shape": "più di 4 arti",
     "specie": "Pokémon Fogliolina",
     "sprites": {
         "turtwig": {
             "default": "https://media.pokemoncentral.it/wiki/6/68/Homem0387.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/ab/Homemsh0387.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ab/Homemsh0387.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fd/Artwork_Pok%C3%A9mon_iniziali_Sinnoh_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5d/Artwork0387_DLPS.png"
     },
     "stats": {
         "turtwig": {

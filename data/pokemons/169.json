@@ -59,6 +59,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "crobat",
     "generation": 2,
     "height": {
         "crobat": "1,8 m"
@@ -67,13 +68,16 @@
     "name": "Crobat",
     "name_origin": "Il nome è una combinazione delle parole \"Cross\"  e \"Bat\" , oppure potrebbe essere una corruzione di \"Acrobat\"  a causa della sua destrezza in aria. ",
     "origin": "Crobat è basato su un pipistrello. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Crobat",
     "shape": "serpentiforme",
     "specie": "Pokémon Pipistrello",
     "sprites": {
         "crobat": {
             "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0169.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0169.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0169.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5c/Artwork0169_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3a/Artwork0169_HGSS.png"
     },
     "stats": {
         "crobat": {

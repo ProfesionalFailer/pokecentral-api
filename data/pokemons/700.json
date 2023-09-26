@@ -31,6 +31,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "sylveon",
     "generation": 6,
     "height": {
         "sylveon": "1,0 m"
@@ -39,13 +40,16 @@
     "name": "Sylveon",
     "name_origin": "Sylveon può essere una combinazione di sylph, una creatura mitologica descritta come essere invisibile dell'aria, o sylvan , una parola riferita ad una associazione con boschi o foreste  e eon . Eon è un suffisso di tutte le evoluzioni di Eevee. Eon era anche il nome provvisorio inglese di Eevee. ",
     "origin": "Al contrario delle altre Eeveeluzioni, le orecchie di Sylveon sono grandi e arrotondate, simili a quelle di un coniglio. Considerando anche che secondo la mitologia le fate sono particolarmente attive in presenza di luna piena, si potrebbe pensare che Sylveon sia basato sul Coniglio lunare. Infatti questo viene spesso raffigurato come un compagno della dea della luna cinese Chang'e, che è spesso raffigurata con indosso una tunica adornata in molti nastri. Inoltre, la coda di Sylveon assomiglia alla coda del Viscaccia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sylveon",
     "shape": "più di 4 arti",
     "specie": "Pokémon Legame",
     "sprites": {
         "sylveon": {
             "default": "https://media.pokemoncentral.it/wiki/0/00/Homem0700.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0700.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0700.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/ae/Artwork0700_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0a/Artwork0700_XY.png"
     },
     "stats": {
         "statistiche-base": {

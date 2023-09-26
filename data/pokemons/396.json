@@ -36,6 +36,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "starly",
     "generation": 4,
     "height": {
         "starly": "0,3 m"
@@ -44,17 +45,20 @@
     "name": "Starly",
     "name_origin": "Deriva della parola inglese starling . ",
     "origin": "Starly è basato su uno storno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Starly",
     "shape": "testa e base",
     "specie": "Pokémon Storno",
     "sprites": {
-        "": {
+        "starly": {
             "default": "https://media.pokemoncentral.it/wiki/4/4d/Homem0396.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0396.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0396.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cc/Artwork0396_Corp.png"
         },
-        "-f": {
+        "starly-f": {
             "default": "https://media.pokemoncentral.it/wiki/9/9e/Homef0396.png",
             "shiny": "https://media.pokemoncentral.it/wiki/a/a0/Homefsh0396.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/dd/Artwork0396_DP.png"
     },
     "stats": {
         "starly": {
@@ -71,8 +75,8 @@
     },
     "types": {
         "starly": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

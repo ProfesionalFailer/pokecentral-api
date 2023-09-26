@@ -50,6 +50,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "dunsparce",
     "generation": 2,
     "height": {
         "dunsparce": "1,5 m"
@@ -58,13 +59,16 @@
     "name": "Dunsparce",
     "name_origin": "Il suo nome deriva dalle parole dun  e sparse . ",
     "origin": "E' basato sullo tsuchinoko, un serpente mitologico giapponese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dunsparce",
     "shape": "testa e gambe",
     "specie": "Pokémon Terraserpe",
     "sprites": {
         "dunsparce": {
             "default": "https://media.pokemoncentral.it/wiki/5/5a/Homem0206.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0206.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0206.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/79/Artwork0206_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b7/Artwork0206_HGSS.png"
     },
     "stats": {
         "dunsparce": {

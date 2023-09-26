@@ -23,6 +23,7 @@
         "Amorfo",
         "Drago"
     ],
+    "flat_name": "drakloak",
     "generation": 8,
     "height": {
         "drakloak": "1,4 m"
@@ -31,13 +32,16 @@
     "name": "Drakloak",
     "name_origin": "Drakloak potrebbe essere una combinazione di dragon, drago, e cloak, occultamento. Doronch potrebbe essere una combinazione di dragon, drago, e launch, lancio. ",
     "origin": "Drakloak potrebbe essere basato su un Diplocaulus con alcuni elementi di un aereo da caccia e una balestra. Il suo comportamento potrebbe ispirarsi alla cura paterna presente in molti anfibi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Drakloak",
     "shape": "insettoide",
     "specie": "Pokémon Sostegno",
     "sprites": {
         "drakloak": {
             "default": "https://media.pokemoncentral.it/wiki/d/d5/Homem0886.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0886.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0886.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/88"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/20/Artwork0886_SpSc.png"
     },
     "stats": {
         "drakloak": {
@@ -54,8 +58,8 @@
     },
     "types": {
         "drakloak": [
-            "Spettro",
-            "Drago"
+            "Drago",
+            "Spettro"
         ]
     },
     "weight": {

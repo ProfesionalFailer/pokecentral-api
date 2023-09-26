@@ -42,6 +42,7 @@
         "Mostro",
         "Acqua 1"
     ],
+    "flat_name": "mudkip",
     "generation": 3,
     "height": {
         "mudkip": "0,40 m"
@@ -50,13 +51,16 @@
     "name": "Mudkip",
     "name_origin": "Il nome Mudkip è una combinazione di mud, fango, e skip, saltare, ed è stato probabilmente scelto perché suona come mudskipper, saltafango, oppure mudpuppy, una salamandra acquatica del sottordine salamandroidea. Il suo nome giapponese è probabilmente basato su 水 mizu, \"acqua\" e ムツゴロウ mutsugorō, saltafango. ",
     "origin": "Questo Pokémon si basa sul mudpuppy o forse sul Ambystoma mexicanum. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mudkip",
     "shape": "più di 4 arti",
     "specie": "Pokémon Fango Pesce",
     "sprites": {
         "mudkip": {
             "default": "https://media.pokemoncentral.it/wiki/7/76/Homem0258.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homemsh0258.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homemsh0258.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e4/Artwork0258_Corp_5.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/03/Artwork0258_ROZA.png"
     },
     "stats": {
         "mudkip": {

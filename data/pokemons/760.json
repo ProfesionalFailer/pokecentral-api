@@ -23,6 +23,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "bewear",
     "generation": 7,
     "height": {
         "bewear": "2,1 m"
@@ -31,13 +32,16 @@
     "name": "Bewear",
     "name_origin": "Bewear deriva probabilmente da to beware, temere in inglese, wear, indossare, e da bear, orso in inglese. Kiteruguma potrebbe essere una combinazione di 着てる kuma, indossare, e 熊 kuma, orso. ",
     "origin": "Bewear è ispirato ad un orso, ma possiede delle caratteristiche in comune con il panda minore, come le orecchie, la coda e il muso. Il suo concept può anche essere basato sul Bear hug, una tecnica di sottomissione del wrestling. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bewear",
     "shape": "due paia di ali",
     "specie": "Pokémon Fortebraccio",
     "sprites": {
         "bewear": {
             "default": "https://media.pokemoncentral.it/wiki/4/42/Homem0760.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0760.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0760.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3e/Artwork0760_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8e/Artwork0760_SL.png"
     },
     "stats": {
         "bewear": {

@@ -30,6 +30,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "minccino",
     "generation": 5,
     "height": {
         "minccino": "0,4 m"
@@ -38,13 +39,16 @@
     "name": "Minccino",
     "name_origin": "Minccino deriva da mink, visone, mince , o mini, e chincilla  o chino cloth . Ricorda anche l'italiano micino. ",
     "origin": "Minccino è basato su un cincillà, sebbene ricordi per alcuni aspetti anche i koala, mentre la sua coda si ispira a un piumino cattura-polvere, affine alla sua abilità di pulire e spazzare ovunque. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Minccino",
     "shape": "più di 4 arti",
     "specie": "Pokémon Cincillà",
     "sprites": {
         "minccino": {
             "default": "https://media.pokemoncentral.it/wiki/c/c0/Homem0572.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0572.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0572.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/48/Artwork0572_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/94/Artwork0572_NB.png"
     },
     "stats": {
         "minccino": {

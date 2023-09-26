@@ -46,6 +46,7 @@
         "Magico",
         "Minerale"
     ],
+    "flat_name": "snorunt",
     "generation": 3,
     "height": {
         "snorunt": "0,7 m"
@@ -54,13 +55,16 @@
     "name": "Snorunt",
     "name_origin": "Deriva dalle parole snow  e runt . ",
     "origin": "Basato sul zashiki-warashi, spirito della mitologia giapponese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Snorunt",
     "shape": "un paio di ali",
     "specie": "Pokémon Cappelneve",
     "sprites": {
         "snorunt": {
             "default": "https://media.pokemoncentral.it/wiki/c/c6/Homem0361.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0361.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0361.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d1/Artwork0361_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0361_RZ.png"
     },
     "stats": {
         "snorunt": {

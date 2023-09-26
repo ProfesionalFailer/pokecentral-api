@@ -39,6 +39,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "minun",
     "generation": 3,
     "height": {
         "minun": "0,40 m"
@@ -47,13 +48,16 @@
     "name": "Minun",
     "name_origin": "Il nome Minun è basato su minus, meno, riferendosi a qualcosa con una carica elettrica negativa. ",
     "origin": "Sembra essere basato su un topo o un coniglio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Minun",
     "shape": "due paia di ali",
     "specie": "Pokémon Incitamento",
     "sprites": {
         "minun": {
             "default": "https://media.pokemoncentral.it/wiki/7/74/Homem0312.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0a/Homemsh0312.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0a/Homemsh0312.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5a/Artwork0312_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2f/Artwork0312_RZ.png"
     },
     "stats": {
         "minun": {

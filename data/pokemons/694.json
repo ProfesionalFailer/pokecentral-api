@@ -28,6 +28,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "helioptile",
     "generation": 6,
     "height": {
         "helioptile": "0,5 m"
@@ -36,13 +37,16 @@
     "name": "Helioptile",
     "name_origin": "Helioptile è una combinazione tra ἥλιος elio  e reptile . Erikiteru probabilmente è una combinazione tra elekiter e エリマキトカゲ erimaki tokage . ",
     "origin": "Helioptile è basato su una lucertola o su un clamidosauro. Probabilmente è basato anche sulla salamandra pezzata che può fare la fotosintesi clorofilliana. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Helioptile",
     "shape": "due paia di ali",
     "specie": "Pokémon Generatore",
     "sprites": {
         "helioptile": {
             "default": "https://media.pokemoncentral.it/wiki/9/9b/Homem0694.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/62/Homemsh0694.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/62/Homemsh0694.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/68/Artwork0694_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a9/Artwork0694_XY.png"
     },
     "stats": {
         "statistiche-base": {

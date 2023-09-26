@@ -73,6 +73,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "aerodactyl",
     "generation": 1,
     "height": {
         "aerodactyl": "1,8 m",
@@ -82,17 +83,20 @@
     "name": "Aerodactyl",
     "name_origin": "Il suo nome deriva dall'unione del prefisso aero-, che deriva dal greco αερος aéros, aria, con la parola inglese pterodactyl, pterodattilo. ",
     "origin": "È basato su di uno pterodattilo, un rettile preistorico volante, in particolare negli rhamphorhynchoidea, per la forma della coda e dei denti, inoltre sembra avere caratteristiche di drago, in particolare della viverna, una varietà di drago bipede, questo spiega perché Aerodactyl viene usato da Lance. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Aerodactyl",
     "shape": "testa e base",
     "specie": "Pokémon Fossile",
     "sprites": {
         "aerodactyl": {
             "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0142.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/64/Homemsh0142.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/6/64/Homemsh0142.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ec/Artwork0142M_Corp.png"
         },
         "megaaerodactyl": {
             "default": "https://media.pokemoncentral.it/wiki/a/a0/Homem0142M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0142M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bc/Artwork0142_RFVF.png"
     },
     "stats": {
         "aerodactyl": {
@@ -118,8 +122,8 @@
     },
     "types": {
         "aerodactyl": [
-            "Roccia",
-            "Volante"
+            "Volante",
+            "Roccia"
         ]
     },
     "weight": {

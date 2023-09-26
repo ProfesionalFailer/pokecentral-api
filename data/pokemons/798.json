@@ -25,6 +25,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "kartana",
     "generation": 7,
     "height": {
         "kartana": "0,3 m"
@@ -33,13 +34,16 @@
     "name": "Kartana",
     "name_origin": "Kartana può essere una combinazione di Katana e carta. Kamitsurugi deriva da 紙 kami , 神 kami  e 剣 tsurugi . UC 04 Sectio è una combinazione tra UC, sigla di Ultracreatura, 04 e la parola latina Sectio . ",
     "origin": "Kartana può essere basato su un Origami e un Samurai. In particolare, ha una forte somiglianza con il noshi, un origami cerimoniale usato per accompagnare i regali di congratulazioni come segno di buona fortuna. Potrebbe anche essere un riferimento agli shikigami, figure di carta tagliate nella forma di una persona o animale e intrise di potere spirituale, create secondo le tecniche del taoismo esoterico per scacciare o invocare maledizioni, o eseguire gli ordini di chi le ha create. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kartana",
     "shape": "un paio di ali",
     "specie": "Pokémon Spadatratta",
     "sprites": {
         "kartana": {
             "default": "https://media.pokemoncentral.it/wiki/4/4a/Homem0798.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homemsh0798.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homemsh0798.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6c/Artwork0798_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/24/Artwork0798_SL.png"
     },
     "stats": {
         "kartana": {

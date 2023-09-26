@@ -25,6 +25,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "sewaddle",
     "generation": 5,
     "height": {
         "sewaddle": "0,3 m"
@@ -33,13 +34,16 @@
     "name": "Sewaddle",
     "name_origin": "Il suo nome molto probabilmente deriva da sew, cucire, e waddle, ancheggiare, riferendosi al modo in cui si muove un bambino, o swaddle, fasciare, riferito all'avvolgere in fasce un bambino, o al vestito di foglie di Sewaddle. ",
     "origin": "Sewaddle è basato su un bruco di Epargyreus Clarus: questo animale si appallottola per difendersi e produce molta seta. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sewaddle",
     "shape": "testa e braccia",
     "specie": "Pokémon Grancucito",
     "sprites": {
         "sewaddle": {
             "default": "https://media.pokemoncentral.it/wiki/1/1d/Homem0540.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0540.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0540.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d1/Artwork0540_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b4/Artwork0540_NB.png"
     },
     "stats": {
         "sewaddle": {
@@ -56,8 +60,8 @@
     },
     "types": {
         "sewaddle": [
-            "Erba",
-            "Coleot"
+            "Coleot",
+            "Erba"
         ]
     },
     "weight": {

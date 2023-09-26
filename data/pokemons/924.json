@@ -21,6 +21,7 @@
         "Campo",
         "Magico"
     ],
+    "flat_name": "tandemaus",
     "generation": 9,
     "height": {
         "tandemaus": "0,3 m"
@@ -29,13 +30,16 @@
     "name": "Tandemaus",
     "name_origin": "Tandemaus è una combinazione di tandem e maus . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tandemaus",
     "shape": "None",
     "specie": "Pokémon Coppia",
     "sprites": {
         "tandemaus": {
             "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0924.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0924.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0924.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5f"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/13/Artwork0924_SV.png"
     },
     "stats": {
         "tandemaus": {

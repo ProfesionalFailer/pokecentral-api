@@ -40,6 +40,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "cubchoo",
     "generation": 5,
     "height": {
         "cubchoo": "0,5 m"
@@ -48,13 +49,16 @@
     "name": "Cubchoo",
     "name_origin": "Cubchoo è una combinazione di cub  e ah-choo . ",
     "origin": "Cubchoo si basa su un cucciolo di orso polare. Il muco che possiede è probabilmente ispirato al fatto che il freddo si traduce spesso in un naso che cola. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cubchoo",
     "shape": "due paia di ali",
     "specie": "Pokémon Freddo",
     "sprites": {
         "cubchoo": {
             "default": "https://media.pokemoncentral.it/wiki/5/54/Homem0613.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0613.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0613.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/36/Artwork0613_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/53/Artwork0613_NB.png"
     },
     "stats": {
         "cubchoo": {

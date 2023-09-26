@@ -80,6 +80,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "gengar",
     "generation": 1,
     "height": {
         "gengar": "1,5 m",
@@ -90,12 +91,14 @@
     "name": "Gengar",
     "name_origin": "Il nome potrebbe essere un'abbreviazione di doppelgänger, una copia spettrale di una persona vivente generata dalla paura . Inoltre il kanji 幻 maboroshi può essere letto \"gen\" e viene usato per indicare fantasmi o illusioni. La pronuncia è sorprendentemente simile al termine del folklore danese \"genganger\", che indica un fantasma. ",
     "origin": "Gengar sembrerebbe essere basato su un semplice fantasma dei cartoni animati, da un gatto, dallo Stregatto oppure dall'ombra distorta di una persona o una persona-ombra. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gengar",
     "shape": "due paia di ali",
     "specie": "Pokémon Ombra",
     "sprites": {
         "gengar": {
             "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0094.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0094.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0094.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0e/Artwork0094_Corp_3.png"
         },
         "megagengar": {
             "default": "https://media.pokemoncentral.it/wiki/2/29/Homem0094M.png",
@@ -104,10 +107,22 @@
         "gengar-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/4/42/Homem0094Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0094Gi.png"
-        }
+        },
+        "megagengar(normale)": {
+            "corporate": "https://media.pokemoncentral.it/wiki/5/55/Artwork0094M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d1/Artwork0094_RFVF.png"
     },
     "stats": {
-        "gengar-e-gengar-gigamax": {
+        "gengar": {
+            "hp": 60,
+            "atk": 65,
+            "def": 60,
+            "spa": 130,
+            "spd": 75,
+            "spe": 110
+        },
+        "gengar-gigamax": {
             "hp": 60,
             "atk": 65,
             "def": 60,
@@ -125,7 +140,8 @@
         }
     },
     "stats_sum": {
-        "gengar-e-gengar-gigamax": 500,
+        "gengar": 500,
+        "gengar-gigamax": 500,
         "megagengar": 600
     },
     "types": {

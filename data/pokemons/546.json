@@ -34,6 +34,7 @@
         "Erba",
         "Magico"
     ],
+    "flat_name": "cottonee",
     "generation": 5,
     "height": {
         "cottonee": "0,3 m"
@@ -42,13 +43,16 @@
     "name": "Cottonee",
     "name_origin": "Il nome di Cottonee deriva dalla parola inglese cotton  o cottony  e wee . ",
     "origin": "Cottonee è basato sulla pianta di cotone e su una nuvola. Potrebbe inoltre basarsi sulla testa di una pecora. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cottonee",
     "shape": "testa",
     "specie": "Pokémon Cotonpalla",
     "sprites": {
         "cottonee": {
             "default": "https://media.pokemoncentral.it/wiki/7/7f/Homem0546.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4f/Homemsh0546.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4f/Homemsh0546.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/07/Artwork0546_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/08/Artwork0546_NB.png"
     },
     "stats": {
         "cottonee": {
@@ -65,8 +69,8 @@
     },
     "types": {
         "cottonee": [
-            "Erba",
-            "Folletto"
+            "Folletto",
+            "Erba"
         ]
     },
     "weight": {

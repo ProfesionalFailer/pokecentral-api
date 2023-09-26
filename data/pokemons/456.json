@@ -51,6 +51,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "finneon",
     "generation": 4,
     "height": {
         "finneon": "0,4 m"
@@ -59,17 +60,20 @@
     "name": "Finneon",
     "name_origin": "Deriva dalle parole fin  e neon, ricordando oltre che il brillare dei motivi sulle pinne caricati di luce solare, il pesce neon. ",
     "origin": "Potrebbe essere basato su un pesce farfalla, come il pesce farfalla africano. Ricorda molto il neon cardinale o il tetra neon. La sua coda tuttavia ha la sembianza di ali di una vera e propria farfalla. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Finneon",
     "shape": "pinne",
     "specie": "Pokémon Pescealato",
     "sprites": {
-        "": {
+        "finneon": {
             "default": "https://media.pokemoncentral.it/wiki/4/42/Homem0456.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0456.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0456.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b7/Artwork0456_Corp.png"
         },
-        "-f": {
+        "finneon-f": {
             "default": "https://media.pokemoncentral.it/wiki/9/91/Homef0456.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/b8/Homefsh0456.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/92/Artwork0456_DP.png"
     },
     "stats": {
         "finneon": {

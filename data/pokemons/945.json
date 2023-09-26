@@ -19,6 +19,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "grafaiai",
     "generation": 9,
     "height": {
         "grafaiai": "0,7 m"
@@ -27,13 +28,16 @@
     "name": "Grafaiai",
     "name_origin": "Grafaiai potrebbe essere composto da graffiti e aye-aye. ",
     "origin": "Grafaiai potrebbe essere ispirato ad un aye-aye. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Grafaiai",
     "shape": "None",
     "specie": "Pokémon Velenprimate",
     "sprites": {
         "grafaiai": {
             "default": "https://media.pokemoncentral.it/wiki/f/f1/Homem0945.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homemsh0945.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homemsh0945.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4e/Artwork0945_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d5/Artwork0945_SV.png"
     },
     "stats": {
         "grafaiai": {
@@ -50,8 +54,8 @@
     },
     "types": {
         "grafaiai": [
-            "Normale",
-            "Veleno"
+            "Veleno",
+            "Normale"
         ]
     },
     "weight": {

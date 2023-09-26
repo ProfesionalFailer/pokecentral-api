@@ -40,6 +40,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "baltoy",
     "generation": 3,
     "height": {
         "baltoy": "0,5 m"
@@ -48,13 +49,16 @@
     "name": "Baltoy",
     "name_origin": "Baltoy è forse la combinazione di balance e toy. Yajilon è l'abbreviazione di 弥次郎兵衛 yajirobe'e . ",
     "origin": "Baltoy è ispirato ai 土偶 dogū, misteriose statuette d'argilla del periodo Jōmon su cui si sa molto poco. In particolare ricalca la forma del tipo più noto, lo 遮光器土偶 shakōkidogū , che gli pseudoarcheologi presumono essere un anacronismo o addirittura rappresentazioni di alieni sbarcati sulla terra secoli fa. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Baltoy",
     "shape": "insettoide",
     "specie": "Pokémon Argilla",
     "sprites": {
         "baltoy": {
             "default": "https://media.pokemoncentral.it/wiki/6/62/Homem0343.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0343.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0343.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/20/Artwork0343_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/98/Artwork0343_RZ.png"
     },
     "stats": {
         "baltoy": {
@@ -71,8 +75,8 @@
     },
     "types": {
         "baltoy": [
-            "Psico",
-            "Terra"
+            "Terra",
+            "Psico"
         ]
     },
     "weight": {

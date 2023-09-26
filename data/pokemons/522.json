@@ -36,6 +36,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "blitzle",
     "generation": 5,
     "height": {
         "blitzle": "0,8 m"
@@ -44,13 +45,16 @@
     "name": "Blitzle",
     "name_origin": "Il nome potrebbe derivare dall'unione della parola tedesca blitz  con la parola inglese little . ",
     "origin": "Blitzle è basato su una giovane zebra. Potrebbe inoltre ispirarsi ai cavalli che trainavano il carro di fuoco del dio greco Elio . ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Blitzle",
     "shape": "più di 4 arti",
     "specie": "Pokémon Caricavolt",
     "sprites": {
         "blitzle": {
             "default": "https://media.pokemoncentral.it/wiki/f/fd/Homem0522.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/36/Homemsh0522.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/36/Homemsh0522.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a9/Artwork0522_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/21/Artwork0522_NB.png"
     },
     "stats": {
         "blitzle": {

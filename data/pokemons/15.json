@@ -63,6 +63,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "beedrill",
     "generation": 1,
     "height": {
         "beedrill": "1,0 m",
@@ -72,17 +73,21 @@
     "name": "Beedrill",
     "name_origin": "Beedrill potrebbe essere una combinazione di bee, ape, e drill, trapano . Spear potrebbe derivare da スピアー spear, infilzare . Inoltre, スピアー spear al contrario è アピス Apis, il genere delle api. ",
     "origin": "Beedrill potrebbe essere basato su un'ape o su una vespa. In particolare, ricorda il calabrone gigante asiatico; le zampe ricordano la forma di lancia. La forma cromatica del Pokémon ricorda le api del sudore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Beedrill",
     "shape": "serpentiforme",
     "specie": "Pokémon Velenape",
     "sprites": {
         "beedrill": {
             "default": "https://media.pokemoncentral.it/wiki/c/c8/Homem0015.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/5a/Homemsh0015.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5a/Homemsh0015.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2c/Artwork0015_Corp.png"
         },
         "megabeedrill": {
             "default": "https://media.pokemoncentral.it/wiki/7/72/Homem0015M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0015M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0015M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/38/Artwork0015M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1f/Artwork0015_RFVF.png"
     },
     "stats": {
         "beedrill": {
@@ -108,8 +113,8 @@
     },
     "types": {
         "beedrill": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {

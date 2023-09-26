@@ -24,6 +24,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "palossand",
     "generation": 7,
     "height": {
         "palossand": "1,3 m"
@@ -32,13 +33,16 @@
     "name": "Palossand",
     "name_origin": "Palossand potrebbe derivare da palace, palazzo, e sand, sabbia. Potrebbe anche essere un gioco di parole con pile of sand, mucchio di sabbia. Shirodesuna potrebbe essere una combinazione di 城ですな shiro desu na, \"è un castello, non è vero?\". Potrebbe essere anche una combinazione di 城 shiro, castello, death, morte, e 砂 suna, sabbia. ",
     "origin": "Palossand è ispirato ad un castello di sabbia. Potrebbe anche essere la rappresentazione ideologica di un diavolo di sabbia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Palossand",
     "shape": "testa e gambe",
     "specie": "Pokémon Castelsabbia",
     "sprites": {
         "palossand": {
             "default": "https://media.pokemoncentral.it/wiki/4/48/Homem0770.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/bd/Homemsh0770.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bd/Homemsh0770.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/00/Artwork0770_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/49/Artwork0770_SL.png"
     },
     "stats": {
         "palossand": {

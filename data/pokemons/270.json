@@ -46,6 +46,7 @@
         "Acqua 1",
         "Erba"
     ],
+    "flat_name": "lotad",
     "generation": 3,
     "height": {
         "lotad": "0,50 m"
@@ -54,13 +55,16 @@
     "name": "Lotad",
     "name_origin": "Il nome di Lotad è una combinazione di lotus, loto, e tadpole, girino, o lily pad, ninfea. ",
     "origin": "Lotad sembra essere un esempio di ninfea. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lotad",
     "shape": "testa e braccia",
     "specie": "Pokémon Alga",
     "sprites": {
         "lotad": {
             "default": "https://media.pokemoncentral.it/wiki/0/08/Homem0270.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0270.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0270.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fa/Artwork0270_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/71/Artwork0270_RZ.png"
     },
     "stats": {
         "lotad": {

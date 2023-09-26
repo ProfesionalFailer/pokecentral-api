@@ -27,6 +27,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "terrakion",
     "generation": 5,
     "height": {
         "terrakion": "1,9 m"
@@ -35,13 +36,16 @@
     "name": "Terrakion",
     "name_origin": "Il suo nome, probabilmente, deriva dalla parola terra o terracotta e dalla parola inglese champion  o lion . ",
     "origin": "Terrakion è basato sulla figura di Porthos, personaggio del racconto \"I tre moschettieri\". Come il suo omonimo è il più forte, pesante e robusto del gruppo. Il suo aspetto ricorda quello del bighorn, una pecora nordamericana, o del bue. Il colore del manto è un riferimento esplicito al terra cotta. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Terrakion",
     "shape": "più di 4 arti",
     "specie": "Pokémon Caverna",
     "sprites": {
         "terrakion": {
             "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0639.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0639.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0639.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/71/Artwork0639_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/73/Artwork0639_NB.png"
     },
     "stats": {
         "terrakion": {

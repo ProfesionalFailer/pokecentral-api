@@ -65,6 +65,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "growlithe",
     "generation": 1,
     "height": {
         "growlithe": "0,7 m",
@@ -74,13 +75,16 @@
     "name": "Growlithe",
     "name_origin": "Growlithe è una combinazione di growl e lithe. Il giapponese Gardie si può riferire alle sue abilità di cane da guardia, corruzione di guard o guardian. ",
     "origin": "Growlithe è probabilmente basato sullo 獅子 Shīsā giapponese, che sono statue di cani giapponesi. Può anche essere che abbiano preso omaggio dagli Shishi, o 狛犬 koma-inu, che sono statue di guardia trovate in Cina che assomigliano a leoni, con tratti di tigri e cani. Sia le statue di Shīsā che quelle di Shishi sono spesso presenti in coppia, sono usate come guardiani, e si ritiene portino fortuna. Ciò può essere stato di spunto per la natura protettiva di Growlithe. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Growlithe",
     "shape": "più di 4 arti",
     "specie": "Pokémon Cagnolino",
     "sprites": {
         "growlithe": {
             "default": "https://media.pokemoncentral.it/wiki/b/bb/Homem0058.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0058.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0058.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/53/Artwork0058_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c1/Artwork0058_RFVF.png"
     },
     "stats": {
         "growlithe": {
@@ -109,8 +113,8 @@
             "Fuoco"
         ],
         "forma-di-hisui": [
-            "Roccia",
-            "Fuoco"
+            "Fuoco",
+            "Roccia"
         ]
     },
     "weight": {

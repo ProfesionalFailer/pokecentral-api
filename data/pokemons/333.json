@@ -42,6 +42,7 @@
         "Volante",
         "Drago"
     ],
+    "flat_name": "swablu",
     "generation": 3,
     "height": {
         "swablu": "0,4 m"
@@ -50,13 +51,16 @@
     "name": "Swablu",
     "name_origin": "Swablu può essere una combinazione di swab, batuffolo  e blue, blu. Swa potrebbe derivare da swallow, rondine. Tyltto potrebbe essere un riferimento a Tyl — nota anche come Epsilon Draconis — una stella della costellazione del Dragone. Potrebbe essere un riferimento all'opera L'Oiseau Bleu  del commediografo belga Maurice Maeterlinck. I protagonisti dell'opera sono i fratelli Mytyl e Tyltyl , a cui viene chiesto di trovare l'\"uccellino azzurro della felicità\". ",
     "origin": "Swablu è basato sul Sialia combinato col cotone o con una nuvola. Condivide alcune caratteristiche con il lorichetto oltremarino. Comportamentalmente, è simile al ghiandaia grigia, dato che entrambi si siedono sulla testa delle persone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Swablu",
     "shape": "testa e base",
     "specie": "Pokémon Alidicotone",
     "sprites": {
         "swablu": {
             "default": "https://media.pokemoncentral.it/wiki/4/47/Homem0333.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0333.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0333.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/94/Artwork0333_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/15/Artwork0333_RZ.png"
     },
     "stats": {
         "swablu": {
@@ -73,8 +77,8 @@
     },
     "types": {
         "swablu": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

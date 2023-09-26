@@ -19,6 +19,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "annihilape",
     "generation": 9,
     "height": {
         "annihilape": "1,2 m"
@@ -27,13 +28,16 @@
     "name": "Annihilape",
     "name_origin": "Annihilape potrebbe essere una combinazione di annihilate  e ape . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Annihilape",
     "shape": "None",
     "specie": "Pokémon Irascimmia",
     "sprites": {
         "annihilape": {
             "default": "https://media.pokemoncentral.it/wiki/b/b5/Homem0979.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f4/Homemsh0979.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f4/Homemsh0979.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8d/Artwork0979_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/63/Artwork0979_SV.png"
     },
     "stats": {
         "annihilape": {

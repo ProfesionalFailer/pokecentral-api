@@ -24,6 +24,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "aromatisse",
     "generation": 6,
     "height": {
         "aromatisse": "0,8 m"
@@ -32,13 +33,16 @@
     "name": "Aromatisse",
     "name_origin": "Il suo nome deriva da aroma, aromatic  o aromatize . Potrebbe anche contenere il nome del noto pittore francese Henri Matisse. ",
     "origin": "Aromatisse sembra essere ispirato alle ballerine di flamenco o alle ballerine di can-can . È probabilmente, data la pre-evoluzione, basato anche su un fenicottero.\nCome per Spritzee, la colorazione bianca sul volto si ispira alle maschere carnevalesche indossate tradizionalmente nell'Europa centrale e meridionale, ma è più probabilmente un riferimento al medico della peste, la cui maschera, dotata di un becco adunco, conteneva fragranze profumate per tener lontani i cattivi odori portati dalle epidemie.\nLa sua forma vagamente a clessidra è peculiare di alcune boccette di profumo, mentre il becco, collocato nella parte alta, si può ricollegare all'imboccatura della boccetta.\nLa soffice consistenza del suo piumaggio può essere un richiamo ai piumini da cipria. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Aromatisse",
     "shape": "un paio di ali",
     "specie": "Pokémon Fragranza",
     "sprites": {
         "aromatisse": {
             "default": "https://media.pokemoncentral.it/wiki/2/2c/Homem0683.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/59/Homemsh0683.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/59/Homemsh0683.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/65/Artwork0683_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0683_XY.png"
     },
     "stats": {
         "statistiche-base": {

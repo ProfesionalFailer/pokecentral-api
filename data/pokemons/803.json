@@ -22,6 +22,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "poipole",
     "generation": 7,
     "height": {
         "poipole": "0,6 m"
@@ -30,13 +31,18 @@
     "name": "Poipole",
     "name_origin": "Poipole è una combinazione tra poison, veleno, e tadpole, girino. Bevenom è una combinazione tra bébé, neonato, e venom, veleno. UC Viscosus è una combinazione tra UC, sigla di Ultracreatura, e la parola latina “Viscosus”, vischioso. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Poipole",
     "shape": "due paia di ali",
     "specie": "Pokémon Velenago",
     "sprites": {
         "poipole": {
             "default": "https://media.pokemoncentral.it/wiki/2/2e/Homem0803.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homemsh0803.png"
-        }
+        },
+        "normale": {
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3a/Artwork0803_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/20/Artwork0803_UsUl.png"
     },
     "stats": {
         "poipole": {

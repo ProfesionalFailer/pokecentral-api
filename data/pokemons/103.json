@@ -70,6 +70,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "exeggutor",
     "generation": 1,
     "height": {
         "exeggutor": "2,0 m",
@@ -79,17 +80,21 @@
     "name": "Exeggutor",
     "name_origin": "Exeggutor è una combinazione delle parole egg  e executor . ",
     "origin": "Sembra essere basato su un albero di cocco o un albero di ananas, più in generale da una palma. La sua forma di Alola è ispirata chiaramente ad una dracaena draco, informazione confermata dal suo tipo Drago e dal fatto che tale pianta sia altissima e cresca nelle Isole Canarie . ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Exeggutor",
     "shape": "corpi multipli",
     "specie": "Pokémon Nocecocco",
     "sprites": {
         "exeggutor": {
             "default": "https://media.pokemoncentral.it/wiki/4/49/Homem0103.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4f/Homemsh0103.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4f/Homemsh0103.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/63/Artwork0103_Corp.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/7/7b/Homem0103A.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/3d/Homemsh0103A.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3d/Homemsh0103A.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/38/Artwork0103A_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/ba/Artwork0103_RFVF.png"
     },
     "stats": {
         "exeggutor": {
@@ -115,12 +120,12 @@
     },
     "types": {
         "exeggutor": [
-            "Erba",
-            "Psico"
+            "Psico",
+            "Erba"
         ],
         "forma-di-alola": [
-            "Erba",
-            "Drago"
+            "Drago",
+            "Erba"
         ]
     },
     "weight": {

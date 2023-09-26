@@ -83,6 +83,7 @@
         "Mostro",
         "Acqua 1"
     ],
+    "flat_name": "slowbro",
     "generation": 1,
     "height": {
         "slowbro": "1,6 m",
@@ -93,21 +94,25 @@
     "name": "Slowbro",
     "name_origin": "Il nome di Slowbro è una combinazione di slow, \"lento\", e bro, abbreviazione di brother, \"fratello\", probabilmente in riferimento alla relazione simbiotica dello Slowpoke e dello Shellder dai quali è formato. Yadoran può essere interpretato come 宿らん, \"non abitare\". È anche possibile che derivi da 宿借り yadokari, \"paguro\", o 宿主 yadonushi, \"ospite \". Inoltre, 鈍感 donkan significa \"solido\" o \"dalla testa dura\", e 鈍 don significa \"lento\" o \"stupido\". ",
     "origin": "La conchiglia di Slowbro e parte del suo stile di vita sono simili a quelle dei paguri. Il suo aspetto potrebbe essere basato anche sul quello di un ippopotamo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Slowbro",
     "shape": "due paia di ali",
     "specie": "Pokémon Paguro",
     "sprites": {
         "slowbro": {
             "default": "https://media.pokemoncentral.it/wiki/2/2c/Homem0080.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homemsh0080.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homemsh0080.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/60/Artwork0080_Corp.png"
         },
         "megaslowbro": {
             "default": "https://media.pokemoncentral.it/wiki/c/ce/Homem0080M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homemsh0080M.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homemsh0080M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/54/Artwork0080M_Corp.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/a/a8/Homem0080G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0080G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/90/Artwork0080_RFVF.png"
     },
     "stats": {
         "slowbro": {
@@ -141,7 +146,11 @@
         "forma-di-galar": 490
     },
     "types": {
-        "slowbro-e-megaslowbro": [
+        "slowbro": [
+            "Psico",
+            "Acqua"
+        ],
+        "megaslowbro": [
             "Psico",
             "Acqua"
         ],

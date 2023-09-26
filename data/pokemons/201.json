@@ -48,6 +48,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "unown",
     "generation": 2,
     "height": {
         "unown": "0,5 m"
@@ -56,13 +57,16 @@
     "name": "Unown",
     "name_origin": "Il suo nome deriva dalla parola inglese unknown , che è anche il suo nome giapponese. ",
     "origin": "Gli Unown sono basati sulle lettere dell'alfabeto e sui segni di punteggiatura ! e ?. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Unown",
     "shape": "testa",
     "specie": "Pokémon Simbolo",
     "sprites": {
         "unown": {
             "default": "https://media.pokemoncentral.it/wiki/e/ec/Homem0201.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7c/Homemsh0201.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7c/Homemsh0201.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/36/Artwork0201PI_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4d/Artwork0201F_RFVF.png"
     },
     "stats": {
         "unown": {

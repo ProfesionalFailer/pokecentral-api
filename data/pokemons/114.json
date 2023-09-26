@@ -47,6 +47,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "tangela",
     "generation": 1,
     "height": {
         "tangela": "1,0 m"
@@ -55,13 +56,16 @@
     "name": "Tangela",
     "name_origin": "Tangela può essere una combinazione di \"tangle\", groviglio, e \"Medusa\". ",
     "origin": "Tangela è probabilmente sulla base di Medusa, la Gorgone della mitologia greca, che aveva una testa di serpenti e tramutava ogni creatura che la guardava in pietra o semplicemente si basa su un cespuglio di liane. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tangela",
     "shape": "corpi multipli",
     "specie": "Pokémon Liana",
     "sprites": {
         "tangela": {
             "default": "https://media.pokemoncentral.it/wiki/0/00/Homem0114.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0114.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0114.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c2/Artwork0114_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0114_RFVF.png"
     },
     "stats": {
         "tangela": {

@@ -43,6 +43,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "regirock",
     "generation": 3,
     "height": {
         "regirock": "1,7 m"
@@ -51,13 +52,16 @@
     "name": "Regirock",
     "name_origin": "Il suo nome deriva dalla parola latina regius, regale, e da rock, roccia. ",
     "origin": "Regirock è basato sulle leggende ebraiche dei golem. Le leggende li definiscono come dei servitori con enormi poteri, che vengono esercitati tramite delle parole scritte sulle loro fronti. Se le parole vengono rimosse, essi si indeboliscono. I golem leggendari possono avere come tema comune le epoche storiche, con Regirock che rappresenta l'età della pietra. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Regirock",
     "shape": "un paio di ali",
     "specie": "Pokémon Picco",
     "sprites": {
         "regirock": {
             "default": "https://media.pokemoncentral.it/wiki/7/71/Homem0377.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e5/Homemsh0377.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e5/Homemsh0377.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2e/Artwork0377_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/59/Artwork0377_RZ.png"
     },
     "stats": {
         "regirock": {

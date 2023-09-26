@@ -33,6 +33,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "vullaby",
     "generation": 5,
     "height": {
         "vullaby": "0,5 m"
@@ -41,13 +42,16 @@
     "name": "Vullaby",
     "name_origin": "Il suo nome deriva dai termini inglesi vulture  e baby , oppure lullaby . Potrebbe anche essere coinvolto il termine skull . ",
     "origin": "Vullaby è stato ispirato ad un avvoltoio, come la sua evoluzione Mandibuzz, in particolare a un piccolo di avvoltoio, sgusciato dall'uovo. Il suo uovo ricorda la parte superiore di un teschio capovolta, che va a completarsi con la parte inferiore presente in Mandibuzz. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Vullaby",
     "shape": "testa e base",
     "specie": "Pokémon Pannolino",
     "sprites": {
         "vullaby": {
             "default": "https://media.pokemoncentral.it/wiki/0/0f/Homef0629.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homefsh0629.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homefsh0629.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/38/Artwork0629_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/03/Artwork0629_NB.png"
     },
     "stats": {
         "vullaby": {
@@ -64,8 +68,8 @@
     },
     "types": {
         "vullaby": [
-            "Buio",
-            "Volante"
+            "Volante",
+            "Buio"
         ]
     },
     "weight": {

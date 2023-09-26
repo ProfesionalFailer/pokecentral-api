@@ -45,6 +45,7 @@
         "Acqua 1",
         "Coleottero"
     ],
+    "flat_name": "masquerain",
     "generation": 3,
     "height": {
         "masquerain": "0,80 m"
@@ -53,13 +54,16 @@
     "name": "Masquerain",
     "name_origin": "Masquerain è una combinazione di \"masquerade\"  e \"rain\" . ",
     "origin": "Masquerain si basa sulla falena. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Masquerain",
     "shape": "serpentiforme",
     "specie": "Pokémon Occhi",
     "sprites": {
         "masquerain": {
             "default": "https://media.pokemoncentral.it/wiki/1/18/Homem0284.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homemsh0284.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homemsh0284.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/72/Artwork0284_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9c/Artwork0284_RZ.png"
     },
     "stats": {
         "masquerain": {
@@ -76,8 +80,8 @@
     },
     "types": {
         "masquerain": [
-            "Volante",
-            "Coleot"
+            "Coleot",
+            "Volante"
         ]
     },
     "weight": {

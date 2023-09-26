@@ -41,6 +41,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "mamoswine",
     "generation": 4,
     "height": {
         "mamoswine": "2,5 m"
@@ -49,17 +50,20 @@
     "name": "Mamoswine",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi mammoth  e swine . ",
     "origin": "Basato su un mammut lanoso con caratteristiche di un cinghiale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mamoswine",
     "shape": "più di 4 arti",
     "specie": "Pokémon Duezanne",
     "sprites": {
-        "": {
+        "mamoswine": {
             "default": "https://media.pokemoncentral.it/wiki/e/ee/Homem0473.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0473.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0473.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/04/Artwork0473_Corp.png"
         },
-        "-f": {
+        "mamoswine-f": {
             "default": "https://media.pokemoncentral.it/wiki/6/65/Homef0473.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/e6/Homefsh0473.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d3/Artwork0473_DP.png"
     },
     "stats": {
         "mamoswine": {

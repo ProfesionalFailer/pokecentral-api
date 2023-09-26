@@ -29,6 +29,7 @@
         "Acqua 1",
         "Drago"
     ],
+    "flat_name": "skrelp",
     "generation": 6,
     "height": {
         "skrelp": "0,5 m"
@@ -36,14 +37,17 @@
     "id": 690,
     "name": "Skrelp",
     "name_origin": "Skrelp è una combinazione tra scrawny  e kelp . Kuzumō è una corruzione di クサモドキ kusamodoki . ",
-    "origin": "Skrelp è basato su un Drago marino. ",
+    "origin": "Skrelp è basato su un drago marino comune. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Skrelp",
     "shape": "quadrupede",
     "specie": "Pokémon Similalga",
     "sprites": {
         "skrelp": {
             "default": "https://media.pokemoncentral.it/wiki/2/21/Homem0690.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/79/Homemsh0690.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/79/Homemsh0690.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b2/Artwork0690_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3c/Artwork0690_XY.png"
     },
     "stats": {
         "skrelp": {

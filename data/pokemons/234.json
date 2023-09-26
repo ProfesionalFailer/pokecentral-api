@@ -45,6 +45,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "stantler",
     "generation": 2,
     "height": {
         "stantler": "1,4 m"
@@ -53,13 +54,16 @@
     "name": "Stantler",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi stag, cervo, e antler, corna ramificate. ",
     "origin": "È basato su una renna e sugli spaventapasseri giapponesi del tipo Medamafuusen, dei palloncini decorati con occhi che spaventano gli uccelli. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Stantler",
     "shape": "più di 4 arti",
     "specie": "Pokémon Grancorno",
     "sprites": {
         "stantler": {
             "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0234.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0234.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0234.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cd/Artwork0234_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/70/Artwork0234_HGSS.png"
     },
     "stats": {
         "stantler": {

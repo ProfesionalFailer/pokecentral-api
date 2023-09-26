@@ -22,6 +22,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "hatenna",
     "generation": 8,
     "height": {
         "hatenna": "0,4 m"
@@ -30,13 +31,16 @@
     "name": "Hatenna",
     "name_origin": "Hatenna potrebbe essere una combinazione di hat, cappello, e antenna. Mibrim potrebbe essere una combinazione di 身振り miburi, gesto, e brim, tesa. ",
     "origin": "Hatenna potrebbe essere basata su una piccola strega e su una combinazione di una parrucca e un cappello da pagliaccio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hatenna",
     "shape": "corpi multipli",
     "specie": "Pokémon Calma",
     "sprites": {
         "hatenna": {
             "default": "https://media.pokemoncentral.it/wiki/6/68/Homef0856.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/96/Homefsh0856.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/96/Homefsh0856.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/86"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/59/Artwork0856_SpSc.png"
     },
     "stats": {
         "hatenna": {

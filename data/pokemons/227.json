@@ -48,6 +48,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "skarmory",
     "generation": 2,
     "height": {
         "skarmory": "1,7 m"
@@ -56,13 +57,16 @@
     "name": "Skarmory",
     "name_origin": "Skarmory deriva dall'unione delle parole Sky, cielo, e Armor, armatura, o Armory, armeria. Potrebbe derivare anche da Scar, cicatrice, riferimento al fatto che attaccano violentemente chiunque vada nel loro territorio o un riferimento agli Skarmory stessi che da piccoli tendono a ferirsi a causa dei nidi posizionati nei rovi spinosi fino a sviluppare un'armatura di metallo. ",
     "origin": "Gli Skarmory condividono molte somiglianze con i condor delle Ande, le Gru e con la classe dei Pteranodon, tutti animali volanti che sono tenuti molto in considerazione in Giappone. Potrebbero essere ispirati ad uccelli metallici della mitologia come l'Alicanto, gli Uccelli del lago Stinfalo e la Gagana. Gli Skarmory potrebbero essere basati anche sui cavalieri in armatura. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Skarmory",
     "shape": "testa e base",
     "specie": "Pokémon Armuccello",
     "sprites": {
         "skarmory": {
             "default": "https://media.pokemoncentral.it/wiki/2/2c/Homem0227.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0227.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0227.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/92/Artwork0227_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ac/Artwork0227_HGSS.png"
     },
     "stats": {
         "skarmory": {
@@ -79,8 +83,8 @@
     },
     "types": {
         "skarmory": [
-            "Acciaio",
-            "Volante"
+            "Volante",
+            "Acciaio"
         ]
     },
     "weight": {

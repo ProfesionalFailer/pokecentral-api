@@ -32,6 +32,7 @@
     "egg_groups": [
         "Drago"
     ],
+    "flat_name": "deino",
     "generation": 5,
     "height": {
         "deino": "0,8 m"
@@ -40,13 +41,16 @@
     "name": "Deino",
     "name_origin": "Il suo nome potrebbe derivare dal nome di una delle tre Graie, Deino, oltre che dall'unione della parola inglese dino  con la parola tedesca ein” . Potrebbe inoltre derivare dal termine greco δεινός deinos , o ancora dai nomi di dinosauri Deinosuchus o Deinonychus, e dall'italiano uno. ",
     "origin": "È basato su un drago, specificamente una versione infantile del Yamata no Orochi. Potrebbe basarsi inoltre sulla salamandra delle caverne , un pletodontide che vive nelle caverne buie lungo corsi d'acqua, noto anche come salamandra cieca per la dimensione ridotta degli occhi. La sua catena evolutiva potrebbe basarsi sulle tre Graie della mitologia greca: queste erano figure tetre dotate di un occhio solo dal quale condividevano la vista, così come Deino e Zweilous sono ciechi, mentre solo la testa centrale di Hydreigon ha l'iride visibile negli occhi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Deino",
     "shape": "più di 4 arti",
     "specie": "Pokémon Impeto",
     "sprites": {
         "deino": {
             "default": "https://media.pokemoncentral.it/wiki/c/c1/Homem0633.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8a/Homemsh0633.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8a/Homemsh0633.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f5/Artwork0633_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1f/Artwork0633_NB.png"
     },
     "stats": {
         "deino": {
@@ -63,8 +67,8 @@
     },
     "types": {
         "deino": [
-            "Buio",
-            "Drago"
+            "Drago",
+            "Buio"
         ]
     },
     "weight": {

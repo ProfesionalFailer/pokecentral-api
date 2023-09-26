@@ -32,6 +32,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "beheeyem",
     "generation": 5,
     "height": {
         "beheeyem": "1,0 m"
@@ -40,13 +41,16 @@
     "name": "Beheeyem",
     "name_origin": "Beheeyem è una corruzione della sigla BEM , un termine antiquato per indicare alcuni tipi di alieni. ",
     "origin": "Elgyem è molto probabilmente basato sui grigi o sui BEM, due tipi di alieno, e su un cervello. Il suo aspetto ricorda una roccia, e potrebbe alludere ai cerchi di pietre, luoghi legati a leggende aliene. I punti colorati sulle sue mani possono trarre ispirazione dagli invasori alieni del film \"La guerra dei mondi\". Potrebbero essere ispirate inoltre all'Area 51 o all'incidente di Roswell. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Beheeyem",
     "shape": "un paio di ali",
     "specie": "Pokémon Cervello",
     "sprites": {
         "beheeyem": {
             "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0606.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0606.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0606.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3d/Artwork0606_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0e/Artwork0606_NB.png"
     },
     "stats": {
         "beheeyem": {

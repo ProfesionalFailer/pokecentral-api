@@ -25,6 +25,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "tsareena",
     "generation": 7,
     "height": {
         "tsareena": "1,2 m"
@@ -33,13 +34,16 @@
     "name": "Tsareena",
     "name_origin": "Tsareena potrebbe essere una combinazione di tsarina, un monarca russo, e serena, sereno. Potrebbe includere anche mangosteen, mangostano, e queen, regina. Amājo potrebbe essere una combinazione di 甘い amai, dolce, e 女王 joō, regina. ",
     "origin": "Tsareena potrebbe essere ispirato ad un mangostano e ad una monarca, una regina. Potrebbe essere anche un riferimento al fatto che la Garcinia mangostana sia conosciuta come la \"regina della frutta\". ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tsareena",
     "shape": "un paio di ali",
     "specie": "Pokémon Frutto",
     "sprites": {
         "tsareena": {
             "default": "https://media.pokemoncentral.it/wiki/7/7d/Homef0763.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a8/Homefsh0763.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a8/Homefsh0763.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/48/Artwork0763_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e7/Artwork0763_SL.png"
     },
     "stats": {
         "tsareena": {

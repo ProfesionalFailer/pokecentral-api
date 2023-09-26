@@ -34,6 +34,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "staraptor",
     "generation": 4,
     "height": {
         "staraptor": "1,2 m"
@@ -42,17 +43,20 @@
     "name": "Staraptor",
     "name_origin": "Deriva dalle parole starling  e raptor . ",
     "origin": "Basato su uno storno grigio, anche se ha molte somiglianze con i rapaci tra cui l'aquila crestalunga. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Staraptor",
     "shape": "testa e base",
     "specie": "Pokémon Rapace",
     "sprites": {
-        "": {
+        "staraptor": {
             "default": "https://media.pokemoncentral.it/wiki/9/97/Homem0398.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e2/Homemsh0398.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e2/Homemsh0398.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5b/Artwork0398_Corp.png"
         },
-        "-f": {
+        "staraptor-f": {
             "default": "https://media.pokemoncentral.it/wiki/6/69/Homef0398.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/13/Homefsh0398.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ea/Artwork0398_DP.png"
     },
     "stats": {
         "staraptor": {
@@ -69,8 +73,8 @@
     },
     "types": {
         "staraptor": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

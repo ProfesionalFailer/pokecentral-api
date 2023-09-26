@@ -38,6 +38,7 @@
         "Campo",
         "Magico"
     ],
+    "flat_name": "pachirisu",
     "generation": 4,
     "height": {
         "pachirisu": "0,4 m"
@@ -46,17 +47,20 @@
     "name": "Pachirisu",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole giapponesi パチパチ pachipachi  e りす risu . ",
     "origin": "Pachirisu è basato su uno scoiattolo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pachirisu",
     "shape": "più di 4 arti",
     "specie": "Pokémon Elescoiatto",
     "sprites": {
-        "": {
+        "pachirisu": {
             "default": "https://media.pokemoncentral.it/wiki/5/58/Homem0417.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0417.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0417.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2b/Artwork0417_Corp.png"
         },
-        "-f": {
+        "pachirisu-f": {
             "default": "https://media.pokemoncentral.it/wiki/1/14/Homef0417.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homefsh0417.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/69/Artwork0417_DLPS.png"
     },
     "stats": {
         "pachirisu": {

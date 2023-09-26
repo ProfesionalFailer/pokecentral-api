@@ -36,6 +36,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "fomantis",
     "generation": 7,
     "height": {
         "fomantis": "0,3 m"
@@ -44,13 +45,16 @@
     "name": "Fomantis",
     "name_origin": "Fomantis potrebbe essere una combinazione di faux, finto in francese, e di mantis, mantide. Karikiri potrebbe essere una combinazione di 仮 kari, finto, 刈 kari, potare, e 螳螂 kamakiri, mantide religiosa. ",
     "origin": "Fomantis è probabilmente basato su una mantide orchidea. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Fomantis",
     "shape": "due paia di ali",
     "specie": "Pokémon Mantiderba",
     "sprites": {
         "fomantis": {
             "default": "https://media.pokemoncentral.it/wiki/b/b0/Homem0753.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cb/Homemsh0753.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cb/Homemsh0753.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bb/Artwork0753_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c2/Artwork0753_SL.png"
     },
     "stats": {
         "fomantis": {

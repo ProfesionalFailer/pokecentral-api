@@ -42,6 +42,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "weepinbell",
     "generation": 1,
     "height": {
         "weepinbell": "1,0 m"
@@ -50,13 +51,16 @@
     "name": "Weepinbell",
     "name_origin": "Weepinbell è probabilmente una combinazione di \"bell\"  col verbo inglese \"weeping\" . ",
     "origin": "Weepinbell e gli altri Pokémon della sua linea evolutiva possono essere basati sulle piante carnivore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Weepinbell",
     "shape": "quadrupede",
     "specie": "Pokémon Moschivoro",
     "sprites": {
         "weepinbell": {
             "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem0070.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0070.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0070.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d1/Artwork0070_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/da/Artwork0070_RFVF.png"
     },
     "stats": {
         "weepinbell": {

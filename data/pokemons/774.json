@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "minior": {
             "primary": "Scudosoglia"
         }
     },
@@ -27,6 +27,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "minior",
     "generation": 7,
     "height": {
         "minior": "0,3 m"
@@ -35,13 +36,16 @@
     "name": "Minior",
     "name_origin": "Minior è probabilmente una combinazione di mini, piccolo, meteor, meteora, e di junior, giovane. Meteno potrebbe essere una corruzione della parola meteor, meteora. ",
     "origin": "Minior è basato su una meteora. Inoltre, può essere ispirato dalla secolare caramella giapponese, Konpeito. Queste sono caramelle zuccherate a forma di stella che possono essere di vari colori. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Minior",
     "shape": "testa",
     "specie": "Pokémon Meteora",
     "sprites": {
         "minior": {
             "default": "https://media.pokemoncentral.it/wiki/d/d3/Homem0774.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homem0774.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homem0774.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/09/Artwork0774Vi_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3f/Artwork0774_SL.png"
     },
     "stats": {
         "forma-meteora": {
@@ -67,8 +71,8 @@
     },
     "types": {
         "minior": [
-            "Roccia",
-            "Volante"
+            "Volante",
+            "Roccia"
         ]
     },
     "weight": {

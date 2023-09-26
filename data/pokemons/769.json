@@ -25,6 +25,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "sandygast",
     "generation": 7,
     "height": {
         "sandygast": "0,5 m"
@@ -33,13 +34,16 @@
     "name": "Sandygast",
     "name_origin": "Sandygast potrebbe derivare da sandy, sabbioso, e ghast, orribile. Sunabā potrebbe essere una combinazione di 砂場 sunaba, recinto di sabbia, o 砂 suna, sabbia, bar, banco di sabbia, e いないいないばあ inai-inai-baa, gioco del cucù. ",
     "origin": "Sandygast è ispirato ad un castello di sabbia distrutto. Potrebbe anche essere la rappresentazione ideologica di un diavolo di sabbia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sandygast",
     "shape": "testa e gambe",
     "specie": "Pokémon Montesabbia",
     "sprites": {
         "sandygast": {
             "default": "https://media.pokemoncentral.it/wiki/3/31/Homem0769.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/96/Homemsh0769.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/96/Homemsh0769.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8e/Artwork0769_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0769_SL.png"
     },
     "stats": {
         "sandygast": {

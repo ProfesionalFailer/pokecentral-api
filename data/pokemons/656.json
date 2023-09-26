@@ -20,6 +20,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "froakie",
     "generation": 6,
     "height": {
         "froakie": "0,3 m"
@@ -28,13 +29,16 @@
     "name": "Froakie",
     "name_origin": "Froakie deriva da frog , froth  e croak . Il nome giapponese ケロマツ Keromatsu, viene da ケロケロ kerokero  e 沫 matsu  o 飛沫 himatsu . ",
     "origin": "Froakie è basato su una rana. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Froakie",
     "shape": "un paio di ali",
     "specie": "Pokémon Schiumorana",
     "sprites": {
         "froakie": {
             "default": "https://media.pokemoncentral.it/wiki/f/f2/Homem0656.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh0656.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh0656.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1a/Artwork0656_Corp_3.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/14/Artwork0656_XY.png"
     },
     "stats": {
         "froakie": {

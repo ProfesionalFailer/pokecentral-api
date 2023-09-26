@@ -50,6 +50,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "dodrio",
     "generation": 1,
     "height": {
         "dodrio": "1,8 m"
@@ -58,17 +59,20 @@
     "name": "Dodrio",
     "name_origin": "Dodrio potrebbe derivare dall'unione di dodo e trio, come riferimento alle sue tre teste). ",
     "origin": "Nonostante il suo nome, Dodrio ha più cose in comune con gli struzzi che con i dodo. Sembra anche avere tratti in comune con i Dinornitidi, un estinto uccello che non poteva volare, e con gli Emù, un altro accello incapace di volare. Assomiglia anche al Kiwi per alcuni tratti. La sua cresta potrebbe essere basata sui Casuari. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dodrio",
     "shape": "corpi multipli",
     "specie": "Pokémon Triuccello",
     "sprites": {
-        "": {
+        "dodrio": {
             "default": "https://media.pokemoncentral.it/wiki/a/a0/Homem0085.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/45/Homemsh0085.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/4/45/Homemsh0085.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4e/Artwork0085_Corp.png"
         },
-        "-f": {
+        "dodrio-f": {
             "default": "https://media.pokemoncentral.it/wiki/d/df/Homef0085.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homefsh0085.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/74/Artwork0085_RFVF.png"
     },
     "stats": {
         "dodrio": {
@@ -85,8 +89,8 @@
     },
     "types": {
         "dodrio": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

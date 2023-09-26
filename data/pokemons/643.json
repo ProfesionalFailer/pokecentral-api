@@ -32,6 +32,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "reshiram",
     "generation": 5,
     "height": {
         "reshiram": "3,2 m"
@@ -40,13 +41,16 @@
     "name": "Reshiram",
     "name_origin": "Il suo nome deriva dalla parola giapponese 白む shiro, che significa \"bianco\", inoltre Sugimori ha confermato che il \"Re\" all'inizio del nome era per dare un nome più morbido rispetto al \"Ze\" di Zekrom. ",
     "origin": "Reshiram e Zekrom sono basati sul concetto dello yin e yang nel Taoismo, infatti Reshiram è noto come il Pokémon Bianco Verità. Ken Sugimori ha affermato che il design di Reshiram è stato concepito per essere luminoso, leggiadro e morbido per contrastare il design di Zekrom , mentre la sua coda è basata su una turbina elettrica; inoltre sembra essere un mix di animali, ovvero uccello, volpe o lupo, pterodattilo e viverna. La lunga chioma invece potrebbe ricordare le scie di fumo, oppure un fuoco bianco. La leggenda secondo la quale lui e Zekrom sono fratelli che combattono tra loro potrebbe ricordare la mitologia di Romolo e Remo o di Caino e Abele; è possibile che possa essere basato anche sulla mitologia zoroastriana in cui vi erano due divinità ugualmente potenti, una rappresentante la luce e la verità, l'altra l'oscurità e la menzogna, quindi Reshiram potrebbe essere ispirato appunto anche a questa divinità nota come Ahura Mazda in quanto è bianco e alato e rappresenta la verità, e anche per il fatto che Ahura Mazda rappresenta il fuoco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Reshiram",
     "shape": "testa e base",
     "specie": "Pokémon Bianco Verità",
     "sprites": {
         "reshiram": {
             "default": "https://media.pokemoncentral.it/wiki/4/48/Homem0643.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0643.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0643.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/33/Artwork0643_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cd/Artwork0643_NB.png"
     },
     "stats": {
         "reshiram": {
@@ -63,8 +67,8 @@
     },
     "types": {
         "reshiram": [
-            "Fuoco",
-            "Drago"
+            "Drago",
+            "Fuoco"
         ]
     },
     "weight": {

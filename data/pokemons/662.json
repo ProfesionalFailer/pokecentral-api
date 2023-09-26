@@ -32,6 +32,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "fletchinder",
     "generation": 6,
     "height": {
         "fletchinder": "0,7 m"
@@ -40,13 +41,16 @@
     "name": "Fletchinder",
     "name_origin": "Fletchinder deriva dall'unione delle parole inglesi fletching  e cinder . Hinoyakoma è una combinazione tra 火の粉 hinoko , 矢 ya  e 駒鳥 komadori . ",
     "origin": "Fletchinder è basato su un pettirosso giapponese. Il suo tipo fuoco può alludere al pettirosso di fuoco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Fletchinder",
     "shape": "testa e base",
     "specie": "Pokémon Sfavillante",
     "sprites": {
         "fletchinder": {
             "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0662.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0662.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0662.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/ca/Artwork0662_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c0/Artwork0662_XY.png"
     },
     "stats": {
         "statistiche-base": {
@@ -63,8 +67,8 @@
     },
     "types": {
         "fletchinder": [
-            "Volante",
-            "Fuoco"
+            "Fuoco",
+            "Volante"
         ]
     },
     "weight": {

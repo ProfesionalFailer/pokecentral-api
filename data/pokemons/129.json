@@ -72,6 +72,7 @@
         "Acqua 2",
         "Drago"
     ],
+    "flat_name": "magikarp",
     "generation": 1,
     "height": {
         "magikarp": "0,9 m"
@@ -80,17 +81,20 @@
     "name": "Magikarp",
     "name_origin": "Il suo nome deriva dalle parole inglesi magic, magico, e karp, carpa. L'aggettivo magic potrebbe essere ironico, in quanto può far pensare che il Pokémon sia forte, quando in realtà è considerato il più debole, oppure potrebbe far riferimento alla sua origine della carpa che si trasforma in drago per magia.\nUn'altra ipotesi è che il nome possa derivare da magi, tre racconti navali, e karp, carpa.\nIl nome giapponese deriva da koi, carpa, e king, re. Questo indica come Magikarp sia il \"re delle carpe\", poiché nell'antichità era molto potente. ",
     "origin": "Secondo una leggenda cinese, si narra che le carpe, attraversando una cascata, si trasformino in draghi. Ecco perché Magikarp, la carpa, si evolve in Gyarados, il drago, anche se non è di tipo Drago ma l'aspetto lo ricorda ed inoltre può imparare anche mosse di tipo Drago, come Dragodanza. Infatti, su Pokémon Snap, un Magikarp si evolve proprio attraversando una cascata, dimostrandoci, per metafora, che una persona debole può diventare molto forte superando certi ostacoli. Il suo aspetto ricorda una carpa asiatica che inoltre può saltare normalmente fino ai 2,5-3 metri. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Magikarp",
     "shape": "pinne",
     "specie": "Pokémon Pesce",
     "sprites": {
-        "": {
+        "magikarp": {
             "default": "https://media.pokemoncentral.it/wiki/0/03/Homem0129.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f3/Homemsh0129.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f3/Homemsh0129.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e5/Artwork0129_Corp_2.png"
         },
-        "-f": {
+        "magikarp-f": {
             "default": "https://media.pokemoncentral.it/wiki/0/07/Homef0129.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/8d/Homefsh0129.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c8/Artwork0129_RFVF.png"
     },
     "stats": {
         "magikarp": {

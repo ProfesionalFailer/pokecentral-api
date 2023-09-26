@@ -37,6 +37,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "luxray",
     "generation": 4,
     "height": {
         "luxray": "1,4 m"
@@ -45,17 +46,20 @@
     "name": "Luxray",
     "name_origin": "Il suo nome deriva dal latino Lux, luce, e dall'inglese ray, raggio, ma anche da x-rays, raggi X, riferito alla sua capacità di verde attraverso gli oggetti. In giapponese è Rentoraa, e unisce la pronuncia giapponese del nome Röntgen, il fisico tedesco premio nobel che studiò i raggi X, in giapponese detti レントゲン rentogen, con 虎 tora, tigre. ",
     "origin": "Luxray ha le fattezze di un leone e delle somiglianze con la lince. Infatti in alcune leggende della mitologia europea, la lince ha il potere, similmente a Luxray, di vedere attraverso gli oggetti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Luxray",
     "shape": "più di 4 arti",
     "specie": "Pokémon Occhiluce",
     "sprites": {
-        "": {
+        "luxray": {
             "default": "https://media.pokemoncentral.it/wiki/d/d6/Homem0405.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/dd/Homemsh0405.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/d/dd/Homemsh0405.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/42/Artwork0405_Corp.png"
         },
-        "-f": {
+        "luxray-f": {
             "default": "https://media.pokemoncentral.it/wiki/0/05/Homef0405.png",
             "shiny": "https://media.pokemoncentral.it/wiki/a/a0/Homefsh0405.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b2/Artwork0405_DP.png"
     },
     "stats": {
         "luxray": {

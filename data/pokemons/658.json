@@ -31,6 +31,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "greninja",
     "generation": 6,
     "height": {
         "greninja": "1,5 m"
@@ -39,17 +40,21 @@
     "name": "Greninja",
     "name_origin": "Greninja potrebbe derivare da grenouille, rana in francese, e ninja. Gekkouga potrebbe essere una combinazione di げこっ geko, gracchiare, e 甲賀流 Kōga-ryū, un'antica scuola di Ninjutsu. Potrebbe derivare anche da 月光 gekkō, chiaro di luna, in riferimento ad una concezione popolare che vede i ninja attivi di notte o per il tipo Buio che assume il Pokémon con l'evoluzione. ",
     "origin": "Greninja è basato su una rana. Nello specifico potrebbe ispirarsi alle rane del genere Megophrys o Ceratophrys, dotate di corna riconducibili alle escrescenze che Greninja ha sul capo. La sua colorazione è invece simile a quella della Cruziohyla calcarifer. Le protuberanze, o bolle di schiuma, che ha sugli arti potrebbero basarsi sulle ghiandole parotoidi dei rospi. Come suggerisce il nome della specie, Greninja potrebbe anche essere basato su un ninja. La cultura giapponese associa rane e rospi con i ninja basabdosi sul racconto folkloristico del \"Galante Jiraya\", 児雷也豪傑物語 Jiraiya goketsu monogatari, un ninja che può cambiare forma diventando un rospo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Greninja",
     "shape": "un paio di ali",
     "specie": "Pokémon Ninja",
     "sprites": {
         "greninja": {
             "default": "https://media.pokemoncentral.it/wiki/0/04/Homem0658.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/84/Homemsh0658.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/8/84/Homemsh0658.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1e/Artwork0658_Corp_2.png"
         },
         "forma-ash": {
             "default": "https://media.pokemoncentral.it/wiki/e/ec/Homem0658A.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fa/Homemsh0658A.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fa/Homemsh0658A.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/67/Artwork0658A_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/04/Artwork0658_XY.png"
     },
     "stats": {
         "greninja": {
@@ -75,8 +80,8 @@
     },
     "types": {
         "greninja": [
-            "Buio",
-            "Acqua"
+            "Acqua",
+            "Buio"
         ]
     },
     "weight": {

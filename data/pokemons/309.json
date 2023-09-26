@@ -42,6 +42,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "electrike",
     "generation": 3,
     "height": {
         "electrike": "0,60 m"
@@ -50,13 +51,16 @@
     "name": "Electrike",
     "name_origin": "Deriva dalle parole electric, elettrico, e strike, attacco, colpo. ",
     "origin": "Basato su un crisocione ma potrebbe essere ispirato ad un Raijū. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Electrike",
     "shape": "più di 4 arti",
     "specie": "Pokémon Lampo",
     "sprites": {
         "electrike": {
             "default": "https://media.pokemoncentral.it/wiki/4/43/Homem0309.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0309.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0309.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b6/Artwork0309_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ac/Artwork0309_RZ.png"
     },
     "stats": {
         "electrike": {

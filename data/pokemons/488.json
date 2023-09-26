@@ -36,6 +36,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "cresselia",
     "generation": 4,
     "height": {
         "cresselia": "1,5 m"
@@ -44,13 +45,16 @@
     "name": "Cresselia",
     "name_origin": "Il suo nome probabilmente deriva dalla parola inglese crescent, crescente, riferito a una delle fasi lunari. Potrebbe anche derivare dal greco Σελήνη, Selene, dea della luna. ",
     "origin": "La forma generale del corpo di Cresselia sembra essere basata su un cigno, o sulla costellazione del Cigno. Gli anelli che la circondano assomigliano agli anelli di Saturno e sono a forma di mezzaluna, come il suo \"copricapo\". Potrebbe anche basarsi sull'Alkonost, una creatura divina mitologica dal corpo di uccello e la testa di una bellissima donna. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cresselia",
     "shape": "testa e gambe",
     "specie": "Pokémon Falcato",
     "sprites": {
         "cresselia": {
             "default": "https://media.pokemoncentral.it/wiki/a/a6/Homef0488.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homefsh0488.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homefsh0488.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/74/Artwork0488_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5a/Artwork0488_DP.png"
     },
     "stats": {
         "cresselia": {

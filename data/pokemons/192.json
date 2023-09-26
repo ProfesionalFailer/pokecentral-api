@@ -43,6 +43,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "sunflora",
     "generation": 2,
     "height": {
         "sunflora": "0,8 m"
@@ -51,13 +52,16 @@
     "name": "Sunflora",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi sunflower  e flora.\nIl suo nome giapponese, キマワリ, Kimawari, potrebbe derivare da 向日葵 himawari . ",
     "origin": "Si basa su un girasole. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sunflora",
     "shape": "un paio di ali",
     "specie": "Pokémon Sole",
     "sprites": {
         "sunflora": {
             "default": "https://media.pokemoncentral.it/wiki/2/2b/Homem0192.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0192.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0192.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3f/Artwork0192_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/71/Artwork0192_HGSS.png"
     },
     "stats": {
         "sunflora": {

@@ -54,6 +54,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "delibird",
     "generation": 2,
     "height": {
         "delibird": "0,9 m"
@@ -62,13 +63,16 @@
     "name": "Delibird",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi delivery  e bird . Deli potrebbe derivare anche dal pigoscelide di Adelia. Pronunciando Delibird con la stessa inflessione di delivered  si ottiene un suono molto simile, rendendo la \"b\" e la \"v\" le uniche variazioni tra le due parole. ",
     "origin": "È basato su un pinguino saltarocce, ma i suoi colori rosso e bianco, la tendenza di fare regali e la coda a forma di sacco lo rimandano a Babbo Natale, il comportamento ricorda anche la cicogna bianca. Potrebbe essere stato ispirato anche dai Fratercula, uccelli assomiglianti a pinguini capaci di volare. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Delibird",
     "shape": "testa e base",
     "specie": "Pokémon Consegna",
     "sprites": {
         "delibird": {
             "default": "https://media.pokemoncentral.it/wiki/9/90/Homem0225.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0225.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0225.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ee/Artwork0225_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b4/Artwork0225_HGSS.png"
     },
     "stats": {
         "delibird": {

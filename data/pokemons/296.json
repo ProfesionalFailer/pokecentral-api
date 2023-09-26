@@ -47,6 +47,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "makuhita",
     "generation": 3,
     "height": {
         "makuhita": "1,0 m"
@@ -55,13 +56,16 @@
     "name": "Makuhita",
     "name_origin": "Il suo nome deriva dal grado di sumo Makushita. ",
     "origin": "Makuhita presenta somiglianze sia con un lottatore di sumo, sia con un pugile. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Makuhita",
     "shape": "un paio di ali",
     "specie": "Pokémon Coraggio",
     "sprites": {
         "makuhita": {
             "default": "https://media.pokemoncentral.it/wiki/a/a6/Homem0296.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7d/Homemsh0296.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7d/Homemsh0296.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/60/Artwork0296_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/63/Artwork0296_RZ.png"
     },
     "stats": {
         "makuhita": {

@@ -33,6 +33,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "tornadus",
     "generation": 5,
     "height": {
         "forma-incarnazione": "1,5 m",
@@ -42,6 +43,7 @@
     "name": "Tornadus",
     "name_origin": "Il suo nome deriva dalle parole inglesi tornado e genious . ",
     "origin": "Così come la Forma Incarnata di Thundurus è basata su Raijin, quella di Tornadus è basata su suo fratello Fūjin, Kami del vento e delle correnti d'aria, che ha il compito di contenere la furia di Raijin proteggendo i cieli. Controlla e rilascia i venti da una sacca di pelle che porta sulle spalle, di cui la coda di Tornadus rievoca vagamente la forma. Nella Forma Totem, è basato sull'Uccello Vermiglio, una delle cinque bestie guardiane della mitologia cinese, o su Huitzilopochtli, un dio della mitologia azteca con le fattezze di un colibrì. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tornadus",
     "shape": "insettoide",
     "specie": "Pokémon Turbinio",
     "sprites": {
@@ -52,7 +54,11 @@
         "forma-totem": {
             "default": "https://media.pokemoncentral.it/wiki/d/df/Homem0641T.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0641T.png"
-        }
+        },
+        "tornadus": {
+            "corporate": "https://media.pokemoncentral.it/wiki/b/ba/Artwork0641T_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f5/Artwork0641_NB.png"
     },
     "stats": {
         "forma-incarnazione": {

@@ -21,6 +21,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "carkol",
     "generation": 8,
     "height": {
         "carkol": "1,1 m"
@@ -29,13 +30,16 @@
     "name": "Carkol",
     "name_origin": "Carkol potrebbe essere una combinazione di car, macchina, cart, carrello, e coal, carbone. Potrebbe essere anche un gioco di parole con charcoal, carbonella. Toroggon potrebbe essere una combinazione di トロッコ torokko, carrello da miniera, e wagon, carro. ",
     "origin": "Carkol potrebbe essere basato su un carrello da miniera pieno di carbone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Carkol",
     "shape": "corpi multipli",
     "specie": "Pokémon Carbone",
     "sprites": {
         "carkol": {
             "default": "https://media.pokemoncentral.it/wiki/7/70/Homem0838.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0838.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0838.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/80"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5e/Artwork0838_SpSc.png"
     },
     "stats": {
         "carkol": {
@@ -52,8 +56,8 @@
     },
     "types": {
         "carkol": [
-            "Roccia",
-            "Fuoco"
+            "Fuoco",
+            "Roccia"
         ]
     },
     "weight": {

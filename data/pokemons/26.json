@@ -77,6 +77,7 @@
         "Campo",
         "Magico"
     ],
+    "flat_name": "raichu",
     "generation": 1,
     "height": {
         "raichu": "0,8 m",
@@ -86,21 +87,24 @@
     "name": "Raichu",
     "name_origin": "Raichu potrebbe essere una combinazione di 雷 rai, tuono, e チューチュー chūchū, il suono dello squittio. Il soprannome di Raichu di Alola, il surfista di terra, potrebbe essere un riferimento al termine hodad. ",
     "origin": "Le zampe e la coda di Raichu ricordano quelle di uno jerboa o di un ratto canguro. Raichu di Alola potrebbe essere basato sul concetto di Pikachu Surf e sullo stesso sport del surf, originario delle Hawaii, la regione che ha ispirato la creazione di Alola. Il suo aspetto, inoltre, sembra essere influenzato da Puka, un Pikachu Surf apparso nell'anime. Nella serie Pokémon Stadium, Raichu cavalca la sua coda quando usa Surf. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Raichu",
     "shape": "due paia di ali",
     "specie": "Pokémon Topo",
     "sprites": {
-        "raichu ": {
+        "raichu": {
             "default": "https://media.pokemoncentral.it/wiki/c/c1/Homem0026.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0026.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0026.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/88/Artwork0026A_Corp.png"
         },
-        "raichu -f": {
+        "raichu-f": {
             "default": "https://media.pokemoncentral.it/wiki/c/c2/Homef0026.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homefsh0026.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/0/01/Homem0026A.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/53/Homemsh0026A.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0026_RFVF.png"
     },
     "stats": {
         "raichu": {
@@ -129,8 +133,8 @@
             "Elettro"
         ],
         "forma-di-alola": [
-            "Psico",
-            "Elettro"
+            "Elettro",
+            "Psico"
         ]
     },
     "weight": {

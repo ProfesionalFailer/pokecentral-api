@@ -43,6 +43,7 @@
         "Mostro",
         "Acqua 1"
     ],
+    "flat_name": "feraligatr",
     "generation": 2,
     "height": {
         "feraligatr": "2,3 m"
@@ -51,13 +52,16 @@
     "name": "Feraligatr",
     "name_origin": "Il suo nome probabilmente deriva dalle parole inglesi feral  e alligator  oppure da ferocious . Il fatto che la parte finale del nome sia Gatr, anziche Gator è dovuto al limite di dieci lettere per nome. ",
     "origin": "Come le sue pre-evoluzioni, Feraligatr è ispirato ad un coccodrillo, tuttavia il suo aspetto potrebbe ricordare anche un alligatore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Feraligatr",
     "shape": "due paia di ali",
     "specie": "Pokémon Mascellone",
     "sprites": {
         "feraligatr": {
             "default": "https://media.pokemoncentral.it/wiki/6/67/Homem0160.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a8/Homemsh0160.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a8/Homemsh0160.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/91/Artwork0160_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d2/Artwork0160_HGSS.png"
     },
     "stats": {
         "feraligatr": {

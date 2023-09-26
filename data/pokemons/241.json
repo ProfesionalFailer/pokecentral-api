@@ -36,7 +36,7 @@
             "y": "Il suo latte è ricco di sostanze nutrienti, che ne fanno il miglior rimedio per chi è stanco o malato.",
             "omega-ruby": "Miltank produce venti litri di latte al giorno. Il latte è apprezzato da adulti e bambini perché leggermente dolce. Chi non può bere latte, lo usa per farne uno yogurt squisito.",
             "alpha-sapphire": "Miltank produce venti litri di latte al giorno. Il latte è apprezzato da adulti e bambini perché leggermente dolce. Chi non può bere latte, lo usa per farne uno yogurt squisito.",
-            "sun": "Il suo latte è ricco di sostanza nutritive e molto calorico. Se se ne beve troppo, si finisce per avere quello che si definisce \"girovita Miltank\".",
+            "sun": "Il suo latte è ricco di sostanze nutritive e molto calorico. Se se ne beve troppo, si finisce per avere quello che si definisce \"girovita Miltank\".",
             "moon": "Viene allevato principalmente per il latte, ma poiché è piuttosto forte e robusto, è efficace anche nelle lotte.",
             "ultra-sun": "Produce 20 litri di latte al giorno. Più alta è la qualità del pascolo, più gustoso sarà il latte.",
             "ultra-moon": "Il suo latte è buono e ricco di sostanze nutritive, ma se se ne beve troppo, si rischia il mal di pancia.",
@@ -47,6 +47,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "miltank",
     "generation": 2,
     "height": {
         "miltank": "1,2 m"
@@ -55,13 +56,16 @@
     "name": "Miltank",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi milk  e tank . ",
     "origin": "È basato su una femmina di bue domestico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Miltank",
     "shape": "due paia di ali",
     "specie": "Pokémon Bovino",
     "sprites": {
         "miltank": {
             "default": "https://media.pokemoncentral.it/wiki/9/95/Homef0241.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homefsh0241.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homefsh0241.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1b/Artwork0241_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fa/Artwork0241_HGSS.png"
     },
     "stats": {
         "miltank": {

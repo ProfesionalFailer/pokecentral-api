@@ -45,6 +45,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "girafarig",
     "generation": 2,
     "height": {
         "girafarig": "1,5 m"
@@ -53,17 +54,20 @@
     "name": "Girafarig",
     "name_origin": "Il suo nome, come detto prima, è un palindromo, la cui base è giraf, che deriva dalla parola inglese giraffe  ",
     "origin": "È basato su un giraffocerice, con alcuni elementi delle giraffe e degli okapi. Il piccolo cervello della coda potrebbe essere basato su quello che alcuni paleontologi descrivevano come \"secondo cervello\" dello stegosauro, che doveva trovarsi proprio nella coda. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Girafarig",
     "shape": "più di 4 arti",
     "specie": "Pokémon Lungocollo",
     "sprites": {
-        "": {
+        "girafarig": {
             "default": "https://media.pokemoncentral.it/wiki/8/8e/Homem0203.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/94/Homemsh0203.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/94/Homemsh0203.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/92/Artwork0203_Corp.png"
         },
-        "-f": {
+        "girafarig-f": {
             "default": "https://media.pokemoncentral.it/wiki/3/38/Homef0203.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/c9/Homefsh0203.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6b/Artwork0203_HGSS.png"
     },
     "stats": {
         "girafarig": {

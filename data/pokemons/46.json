@@ -10,7 +10,7 @@
         "Il nome inglese di Paras era inizialmente \"Parasyte\". Il nome fu abbandonato e modificato probabilmente per via dell'uguaglianza col titolo inglese di un manga horror giapponese, infatti, nell'anime, quando Ash e i suoi compagni li vedono piantare i funghi Seymour li chiama appunto \"Parasyte\".\n\tEssendo i nomi italiani dei Pokémon uguali a quegli inglesi, la modifica si è mantenuta.",
         "Essendo i nomi italiani dei Pokémon uguali a quegli inglesi, la modifica si è mantenuta.",
         "Paras è l'unico Pokémon a fornire 1 PA che si evolve ad un livello prestabilito direttamente in un Pokémon che fornisce 3 PA.",
-        "In prima generazione, gli attacchi di tipo Veleno erano superefficaci sui tipo Coleottero e Erba, facendo di Paras e Parasect gli unici Pokémon ad avere in tutto tre doppie debolezze e la doppia debolezza al tipo Veleno.",
+        "In prima generazione, gli attacchi di tipo Veleno erano superefficaci sul tipo Coleottero, facendo di Paras e Parasect gli unici Pokémon ad avere in tutto tre doppie debolezze e la doppia debolezza al tipo Veleno.",
         "Per via dell'abilità Pellearsa, Paras e Parasect sono gli unici due Pokémon ad avere una debolezza ×5 al tipo Fuoco.",
         "Paras e Parasect condividono la stessa specie con Shroomish, Breloom, Foongus e Amoonguss: sono tutti noti come Pokémon Fungo.",
         "In lingua finlandese, Paras significa \"il migliore\".",
@@ -62,6 +62,7 @@
         "Coleottero",
         "Erba"
     ],
+    "flat_name": "paras",
     "generation": 1,
     "height": {
         "paras": "0,3 m"
@@ -70,13 +71,16 @@
     "name": "Paras",
     "name_origin": "Paras è un'abbreviazione dell'inglese parasite, \"parassita\", ad indicare la natura dei funghi sulla sua schiena. ",
     "origin": "I funghi sul dorso sono ispirati naturalmente ai tochukaso, un fungo endoparassitario che si attacca sui tessuti dell'ospite e che influenza il comportamento dell'insetto ospite, Paras in se è ispirato ad una larva di cicala. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Paras",
     "shape": "testa e braccia",
     "specie": "Pokémon Fungo",
     "sprites": {
         "paras": {
             "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0046.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/3d/Homemsh0046.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3d/Homemsh0046.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/64/Artwork0046_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b2/Artwork0046_RFVF.png"
     },
     "stats": {
         "paras": {
@@ -93,8 +97,8 @@
     },
     "types": {
         "paras": [
-            "Erba",
-            "Coleot"
+            "Coleot",
+            "Erba"
         ]
     },
     "weight": {

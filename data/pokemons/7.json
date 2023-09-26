@@ -50,6 +50,7 @@
         "Mostro",
         "Acqua 1"
     ],
+    "flat_name": "squirtle",
     "generation": 1,
     "height": {
         "squirtle": "0,5 m"
@@ -58,13 +59,16 @@
     "name": "Squirtle",
     "name_origin": "Squirtle potrebbe essere una combinazione di squirt, spruzzare o moccioso, e turtle, tartaruga. Zenigame potrebbe derivare da 銭亀 zenigame che significa letteralmente \"tartaruga d'acqua dolce\". Potrebbe derivare anche da 銭 zeni, soldi, e 亀 kame, tartaruga. Nel programma televiso Pokéquiz di Pokémon Nero, Bianco, Nero 2 e Bianco 2, il presentatore del programma afferma che: \"Anticamente in Giappone le monete erano chiamate \"zeni\" e visto che il guscio di Squirtle somiglia a una moneta antica hanno deciso di chiamarlo così\". ",
     "origin": "Squirtle è basato su una tartaruga. Proprio come Wartortle, la sua coda è un riferimento alle leggende giapponesi del 蓑亀 minogame, una tartaruga che visse per 10.000 anni e a cui crebbe una coda a forma di alghe. Secondo Ken Sugimori e Atsuko Nishida, l'artista si è basata su un criterio opposto rispetto alla sua forma finale, il che significa che Squirtle è stato l'ultimo della famiglia evolutiva ad essere stato progettato ed è anche basato su Blastoise. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Squirtle",
     "shape": "due paia di ali",
     "specie": "Pokémon Tartaghina",
     "sprites": {
         "squirtle": {
             "default": "https://media.pokemoncentral.it/wiki/3/3e/Homem0007.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0007.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0007.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d6/Artwork0007_Corp_3.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8d/Artwork0007_RFVF.png"
     },
     "stats": {
         "squirtle": {

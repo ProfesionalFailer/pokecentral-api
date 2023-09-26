@@ -54,6 +54,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "exeggcute",
     "generation": 1,
     "height": {
         "exeggcute": "0,4 m"
@@ -62,13 +63,16 @@
     "name": "Exeggcute",
     "name_origin": "Il suo nome deriva dalla combinazione dei termini execute , egg , e cute  . ",
     "origin": "Exeggcute è ispirato ad un gruppo di uova e semi riunite come all interno di un nido. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Exeggcute",
     "shape": "bipedi",
     "specie": "Pokémon Uovo",
     "sprites": {
         "exeggcute": {
             "default": "https://media.pokemoncentral.it/wiki/2/25/Homem0102.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0a/Homemsh0102.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0a/Homemsh0102.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/91/Artwork0102_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e2/Artwork0102_RFVF.png"
     },
     "stats": {
         "exeggcute": {
@@ -85,8 +89,8 @@
     },
     "types": {
         "exeggcute": [
-            "Erba",
-            "Psico"
+            "Psico",
+            "Erba"
         ]
     },
     "weight": {

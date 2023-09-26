@@ -31,6 +31,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "excadrill",
     "generation": 5,
     "height": {
         "excadrill": "0,7 m"
@@ -39,13 +40,16 @@
     "name": "Excadrill",
     "name_origin": "Excadrill è una combinazione di excavate  e drill . ",
     "origin": "Excadrill è basato su una talpa con caratteristiche che ricordano strumenti da scavo come pale e trivelle. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Excadrill",
     "shape": "un paio di ali",
     "specie": "Pokémon Sottoterra",
     "sprites": {
         "excadrill": {
             "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0530.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0530.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0530.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ea/Artwork0530_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/57/Artwork0530_NB.png"
     },
     "stats": {
         "excadrill": {
@@ -62,8 +66,8 @@
     },
     "types": {
         "excadrill": [
-            "Acciaio",
-            "Terra"
+            "Terra",
+            "Acciaio"
         ]
     },
     "weight": {

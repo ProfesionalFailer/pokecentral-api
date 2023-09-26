@@ -54,6 +54,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "shedinja",
     "generation": 3,
     "height": {
         "shedinja": "0,80 m"
@@ -62,13 +63,16 @@
     "name": "Shedinja",
     "name_origin": "Il suo nome è l'unione delle parole \"Shed\"  e \"Ninja\". ",
     "origin": "Shedinja è basato su un'esuvia  di cicala dopo la metamorfosi per lo stadio adulto. Sembra essere inoltre basato sulla tecnica leggendaria del ninjitsu 空蝉Utsusemi, tecnica in cui il ninja usa una sua replica o un manichino per eludere gli attacchi e fuggire dalle minacce . Shedinja potrebbe anche essere basato su un angelo custode visto l'aureola che ha sulla testa e l'abilità Magidifesa. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shedinja",
     "shape": "quadrupede",
     "specie": "Pokémon Cambiapelle",
     "sprites": {
         "shedinja": {
             "default": "https://media.pokemoncentral.it/wiki/7/7e/Homem0292.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0292.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0292.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/01/Artwork0292_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/36/Artwork0292_RZ.png"
     },
     "stats": {
         "shedinja": {
@@ -85,8 +89,8 @@
     },
     "types": {
         "shedinja": [
-            "Spettro",
-            "Coleot"
+            "Coleot",
+            "Spettro"
         ]
     },
     "weight": {

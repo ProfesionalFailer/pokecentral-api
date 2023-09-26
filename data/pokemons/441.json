@@ -36,6 +36,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "chatot",
     "generation": 4,
     "height": {
         "chatot": "0,5 m"
@@ -44,13 +45,16 @@
     "name": "Chatot",
     "name_origin": "Probabilmente il nome deriva dal verbo inglese chat, chiacchierare, chattare, e dal sostantivo parrot, pappagallo. ",
     "origin": "Chatot è basato su un pappagallo, probabilmente l'inseparabile mascherato. Presenta inoltre caratteristiche di un metronomo e una croma. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chatot",
     "shape": "testa e base",
     "specie": "Pokémon Musicale",
     "sprites": {
         "chatot": {
             "default": "https://media.pokemoncentral.it/wiki/7/70/Homem0441.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0441.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0441.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7f/Artwork0441_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/af/Artwork0441_DP.png"
     },
     "stats": {
         "chatot": {
@@ -67,8 +71,8 @@
     },
     "types": {
         "chatot": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

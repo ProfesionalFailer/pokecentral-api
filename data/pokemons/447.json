@@ -46,6 +46,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "riolu",
     "generation": 4,
     "height": {
         "riolu": "0,7 m"
@@ -54,13 +55,16 @@
     "name": "Riolu",
     "name_origin": "Il nome Riolu è semplicemente l'anagramma di Lucario, con la prima sillaba posta alla fine e l'ultima posta all'inizio, togliendo totalmente quella di mezzo. ",
     "origin": "Riolu sembra essere basato sull'aspetto del dio egizio Anubi, il quale possedeva corpo umano e testa di sciacallo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Riolu",
     "shape": "due paia di ali",
     "specie": "Pokémon Emanazione",
     "sprites": {
         "riolu": {
             "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0447.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/ae/Homemsh0447.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ae/Homemsh0447.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1e/Artwork0447_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fb/Artwork0447_DLPS.png"
     },
     "stats": {
         "riolu": {

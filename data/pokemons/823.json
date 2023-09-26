@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "corviknight": {
             "primary": "Pressione",
             "secondary": "Agitazione",
             "hidden": "Blindospecchio"
@@ -28,6 +28,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "corviknight",
     "generation": 8,
     "height": {
         "corviknight": "2,2 m",
@@ -37,6 +38,7 @@
     "name": "Corviknight",
     "name_origin": "Corviknight potrebbe essere una combinazione di Corvidae o corvis, corvo in latino, e knight, cavaliere in inglese. Armorga potrebbe essere una combinazione di armor, armatura in inglese, ガアガア gāgā, onomatopea dello starnazzo, e 鴉 a, corvo. ",
     "origin": "Corviknight potrebbe essere basato su un corvo, su una taccola eurasiatica o su una cornacchia, tutti e tre dei corvidi che si trova comunemente nelle Isole britanniche. Le piume delle ali ricordano l'armatura e le spalline di un cavaliere e la testa assomiglia ad un elmo da cavaliere. Nel complesso il suo aspetto potrebbe essere basato su un cavaliere dei racconti medievali. Potrebbe essere basato anche su un corvo imperiale. La particolare forma delle ali di Corviknight potrebbero anche fare riferimento ai corvi della Torre di Londra. Solitamente a questi corvi vengono parzialmente tarpate le ali in modo che non possano fuggire dal loro incarico di proteggere la Corona britannica. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Corviknight",
     "shape": "testa e base",
     "specie": "Pokémon Corvo",
     "sprites": {
@@ -47,7 +49,11 @@
         "corviknight-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/4/44/Homem0823Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/bb/Homemsh0823Gi.png"
-        }
+        },
+        "corviknight(normale)": {
+            "corporate": "https://media.pokemoncentral.it/wiki/6/67"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/10/Artwork0823_SpSc.png"
     },
     "stats": {
         "corviknight": {
@@ -64,8 +70,8 @@
     },
     "types": {
         "corviknight": [
-            "Acciaio",
-            "Volante"
+            "Volante",
+            "Acciaio"
         ]
     },
     "weight": {

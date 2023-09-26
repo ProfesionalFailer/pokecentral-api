@@ -21,6 +21,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "fennekin",
     "generation": 6,
     "height": {
         "fennekin": "0,4 m"
@@ -29,13 +30,16 @@
     "name": "Fennekin",
     "name_origin": "Fennekin è una combinazione di fennec, una piccola volpe del deserto, e kindle, inglese per accendere, in riferimento al tipo Fuoco. Fokko è una combinazione tra fox, volpe in inglese e 狐 ko, volpe, o 子 ko, bambino. ",
     "origin": "Fennekin è basato sul Fennec, una piccola volpe dalle grandi orecchie che vive nel deserto del Sahara e nella penisola araba. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Fennekin",
     "shape": "più di 4 arti",
     "specie": "Pokémon Volpe",
     "sprites": {
         "fennekin": {
             "default": "https://media.pokemoncentral.it/wiki/0/0a/Homem0653.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0653.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0653.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/83/Artwork_Pok%C3%A9mon_iniziali_Kalos_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8c/Artwork0653_XY.png"
     },
     "stats": {
         "statistiche-base": {

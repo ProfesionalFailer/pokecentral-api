@@ -19,6 +19,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "nacli",
     "generation": 9,
     "height": {
         "nacli": "0,4 m"
@@ -27,13 +28,16 @@
     "name": "Nacli",
     "name_origin": "Nacli potrebbe derivare da NaCl . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Nacli",
     "shape": "None",
     "specie": "Pokémon Salgemma",
     "sprites": {
         "nacli": {
             "default": "https://media.pokemoncentral.it/wiki/3/3e/Homem0932.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/5b/Homemsh0932.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5b/Homemsh0932.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/45"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8a/Artwork0932_SV.png"
     },
     "stats": {
         "nacli": {

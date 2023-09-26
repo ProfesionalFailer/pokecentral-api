@@ -26,6 +26,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "simisear",
     "generation": 5,
     "height": {
         "simisear": "1,0 m"
@@ -34,13 +35,16 @@
     "name": "Simisear",
     "name_origin": "SImisear potrebbe avere origine dall'inglese simian , sear  e ear . ",
     "origin": "È basato su una scimmia e su una fiamma. Si ispira a una delle tre scimmie sagge del santuario di Nikko, Kikazaru, la scimmia che \"Non sente il Male\". I motivi a forma di fiamma e nuvola di vapore lo rendono simile a un vulcano attivo. Il fatto che Simisear mangi dolci per alimentare l'energia della fiamma interna, ricorda l'effetto dei glucidi che danno energia al corpo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Simisear",
     "shape": "due paia di ali",
     "specie": "Pokémon Sfavillante",
     "sprites": {
         "simisear": {
             "default": "https://media.pokemoncentral.it/wiki/3/33/Homem0514.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0514.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0514.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/39/Artwork0514_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c6/Artwork0514_NB.png"
     },
     "stats": {
         "simisear": {

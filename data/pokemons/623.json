@@ -35,6 +35,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "golurk",
     "generation": 5,
     "height": {
         "golurk": "2,8 m"
@@ -43,13 +44,16 @@
     "name": "Golurk",
     "name_origin": "Il nome deriva dalle parole golem e lurk, nascosto, riferendosi al suo tipo Spettro. ",
     "origin": "Golurk sembra basato sui golem, uomini di argilla che secondo alcune versioni della mitologia possono essere animati da incantesimi scritti su una pergamena posta al loro interno, che potrebbe corrispondere all'energia misteriosa che anima Golurk. Data la sua postura e la capacità di imparare Volo potrebbe essere stato concepito anche traendo ispirazione di vari robot giganti d'animazione. Golurk pare aver preso ispirazione da un golem della mitologia ebraica, il Golem di Praga in quanto entrambi hanno una spaccatura sul petto e un cinturino su di essa. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Golurk",
     "shape": "un paio di ali",
     "specie": "Pokémon Statuanimata",
     "sprites": {
         "golurk": {
             "default": "https://media.pokemoncentral.it/wiki/b/b8/Homem0623.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ec/Homemsh0623.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ec/Homemsh0623.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/69/Artwork0623_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0623_NB.png"
     },
     "stats": {
         "golurk": {

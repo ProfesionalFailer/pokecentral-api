@@ -37,6 +37,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "frillish",
     "generation": 5,
     "height": {
         "frillish": "1,2 m"
@@ -45,17 +46,25 @@
     "name": "Frillish",
     "name_origin": "Frillish deriva dalle parole inglesi frill  e jellyfish . ",
     "origin": "Frillish è ispirato probabilmente al Nurahrihyon, uno yokai che appare con l'aspetto di una medusa demoniaca o come un uomo simile ad una medusa vestito raffinatamente o con abiti regali, ed è possibile che abbia tratto ispirazione anche dal Kurage no Hinotama, un tipo di medusa simile al fuoco fatuo. Il suo aspetto è chiaramente ispirato a quello delle meduse a agli abbigliamenti monarchici in stile vittoriano, in particolare la forma maschile basa il suo design sugli abiti di un re, mentre la forma femminile su quelli di una regina. La somiglianza con la medusa luna  ha ispirato il tipo Spettro di questo Pokémon, tuttavia i due tentacoli più lunghi sono più simili a quelli dei calamari che a quelli delle meduse. Frillish possiede anche tratti in cumune con alcuni mostri marini come il Kraken, in quanto si dice che affondino navi e si nutrano dell'equipaggio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Frillish",
     "shape": "bipedi con coda",
     "specie": "Pokémon Fluttuante",
     "sprites": {
-        "": {
+        "frillish": {
             "default": "https://media.pokemoncentral.it/wiki/3/34/Homem0592.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0592.png"
         },
-        "-f": {
+        "frillish-f": {
             "default": "https://media.pokemoncentral.it/wiki/7/74/Homef0592.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homefsh0592.png"
-        }
+        },
+        "maschio": {
+            "corporate": "https://media.pokemoncentral.it/wiki/7/74/Artwork0592_Corp.png"
+        },
+        "femmina": {
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1d/Artwork0592F_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cb/Artwork0592_NB.png"
     },
     "stats": {
         "frillish": {
@@ -72,8 +81,8 @@
     },
     "types": {
         "frillish": [
-            "Spettro",
-            "Acqua"
+            "Acqua",
+            "Spettro"
         ]
     },
     "weight": {

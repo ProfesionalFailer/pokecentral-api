@@ -47,6 +47,7 @@
         "Acqua 1",
         "Volante"
     ],
+    "flat_name": "pelipper",
     "generation": 3,
     "height": {
         "pelipper": "1,20 m"
@@ -55,13 +56,16 @@
     "name": "Pelipper",
     "name_origin": "Il nome di Pelipper deriva probabilmente da pelican, pellicano, e skipper, un grado di marinaio, oppure \"flipper\", riferendosi alle sue ali. Potrebbe anche essere la combinazione di pelican e di \"propeller\", elica, come quelle usate nei sottomarini, a causa della sua natura acquatica. ",
     "origin": "Pelipper è ispirato ad un pellicano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pelipper",
     "shape": "testa e base",
     "specie": "Pokémon Alacquatico",
     "sprites": {
         "pelipper": {
             "default": "https://media.pokemoncentral.it/wiki/5/5b/Homem0279.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0279.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0279.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8c/Artwork0279_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/93/Artwork0279_RZ.png"
     },
     "stats": {
         "pelipper": {

@@ -24,6 +24,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "toucannon",
     "generation": 7,
     "height": {
         "toucannon": "1,1 m"
@@ -32,13 +33,16 @@
     "name": "Toucannon",
     "name_origin": "Toucannon probabilmente deriva dalle parole Toucan, tucano, e cannon, cannone. Dodekabashi può essere una combinazione di どでかい dodekai, enorme, e 大嘴 Ōhashi, Tucano. ",
     "origin": "Toucannon è basato su un tucano, in particolare al Ramphastos toco. Sia quest'ultimo che i picchi, su cui sono basate le sue pre-evoluzioni, appartengono allo stesso ordine animale dei Piciformi, e come essi posseggono le zampe zigodattile  tipiche degli uccelli arboricoli. Inoltre può avere delle caratteristiche in comune con i cannoni, da cui prende il nome. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Toucannon",
     "shape": "testa e base",
     "specie": "Pokémon Cannone",
     "sprites": {
         "toucannon": {
             "default": "https://media.pokemoncentral.it/wiki/f/f6/Homem0733.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/70/Homemsh0733.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/70/Homemsh0733.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b6/Artwork0733_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/98/Artwork0733_SL.png"
     },
     "stats": {
         "toucannon": {
@@ -55,8 +59,8 @@
     },
     "types": {
         "toucannon": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

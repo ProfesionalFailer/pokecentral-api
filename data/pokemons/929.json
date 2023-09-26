@@ -18,6 +18,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "dolliv",
     "generation": 9,
     "height": {
         "dolliv": "0,6 m"
@@ -26,13 +27,16 @@
     "name": "Dolliv",
     "name_origin": "Dolliv è la combinazione di doll, inglese per bambola, e olive. Orinyo potrebbe essere la combinazione di オリーブ ori-bu  e 女人 nyonin  ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dolliv",
     "shape": "None",
     "specie": "Pokémon Oliva",
     "sprites": {
         "dolliv": {
             "default": "https://media.pokemoncentral.it/wiki/1/10/Homem0929.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/04/Homemsh0929.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/04/Homemsh0929.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cd/Artwork0929_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3a/Artwork0929_SV.png"
     },
     "stats": {
         "dolliv": {

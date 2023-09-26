@@ -22,6 +22,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "cosmoem",
     "generation": 7,
     "height": {
         "cosmoem": "0,1 m"
@@ -30,13 +31,16 @@
     "name": "Cosmoem",
     "name_origin": "\"Cosmoem\" potrebbe essere l'unione delle due parole cosmo ed embryo . \"Kosumōmu\" invece potrebbe essere l'unione di cosmo ed ovum . ",
     "origin": "Così come la sua catena evolutiva, Cosmoem si ispira alla nascita di una stella: difatti Cosmoem è ispirato ad una Protostella in formazione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cosmoem",
     "shape": "testa",
     "specie": "Pokémon Protostella",
     "sprites": {
         "cosmoem": {
             "default": "https://media.pokemoncentral.it/wiki/9/96/Homem0790.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/27/Homemsh0790.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/27/Homemsh0790.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/df/Artwork0790_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/45/Artwork0790_SL.png"
     },
     "stats": {
         "cosmoem": {

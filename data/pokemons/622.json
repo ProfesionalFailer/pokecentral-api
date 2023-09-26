@@ -32,6 +32,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "golett",
     "generation": 5,
     "height": {
         "golett": "1,0 m"
@@ -40,13 +41,16 @@
     "name": "Golett",
     "name_origin": "Golett potrebbe derivare da golem e -lett . ",
     "origin": "Golett sembrerebbe ispirato a un golem, uomini di argilla che secondo alcune versioni della mitologia possono essere animati da incantesimi scritti su una pergamena posta al loro interno, che potrebbe corrispondere all'energia misteriosa che brucia dentro Golett per animarlo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Golett",
     "shape": "un paio di ali",
     "specie": "Pokémon Statuanimata",
     "sprites": {
         "golett": {
             "default": "https://media.pokemoncentral.it/wiki/4/4f/Homem0622.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0622.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0622.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b4/Artwork0622_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/20/Artwork0622_NB.png"
     },
     "stats": {
         "golett": {

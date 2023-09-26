@@ -69,6 +69,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "muk",
     "generation": 1,
     "height": {
         "muk": "1,2 m",
@@ -78,17 +79,21 @@
     "name": "Muk",
     "name_origin": "Muk potrebbe derivare da \"mud\"  o \"muck\"  ",
     "origin": "Sembra essere una pila di fanghi vivente.\nLa sua Forma di Alola sembra essere ispirata esteticamente alla benzina, che quando è lasciata al sole è possibile veder brillare di vari colori dell'arcobaleno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Muk",
     "shape": "insettoide",
     "specie": "Pokémon Melma",
     "sprites": {
         "muk": {
             "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0089.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2b/Homemsh0089.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2b/Homemsh0089.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d3/Artwork0089_Corp_2.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/1/18/Homem0089A.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0089A.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0089A.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/68/Artwork0089A_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9d/Artwork0089_RFVF.png"
     },
     "stats": {
         "muk": {
@@ -108,8 +113,8 @@
             "Veleno"
         ],
         "forma-di-alola": [
-            "Buio",
-            "Veleno"
+            "Veleno",
+            "Buio"
         ]
     },
     "weight": {

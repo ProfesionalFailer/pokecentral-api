@@ -29,6 +29,7 @@
         "Coleottero",
         "Minerale"
     ],
+    "flat_name": "crustle",
     "generation": 5,
     "height": {
         "crustle": "1,4 m"
@@ -37,13 +38,16 @@
     "name": "Crustle",
     "name_origin": "Crustle potrebbe essere una combinazione di crust  o crumble  e mantle  o castle . Potrebbe anche essere un riferimento ai crostacei. Iwapalace è una combinazione di 岩 iwa  e palace . ",
     "origin": "Crustle è basato su un paguro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Crustle",
     "shape": "testa e braccia",
     "specie": "Pokémon Scogliocasa",
     "sprites": {
         "crustle": {
             "default": "https://media.pokemoncentral.it/wiki/6/68/Homem0558.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/da/Homemsh0558.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/da/Homemsh0558.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c8/Artwork0558_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d8/Artwork0558_NB.png"
     },
     "stats": {
         "crustle": {
@@ -60,8 +64,8 @@
     },
     "types": {
         "crustle": [
-            "Roccia",
-            "Coleot"
+            "Coleot",
+            "Roccia"
         ]
     },
     "weight": {

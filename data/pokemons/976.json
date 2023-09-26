@@ -30,6 +30,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "veluza",
     "generation": 9,
     "height": {
         "veluza": "2,5 m"
@@ -38,13 +39,16 @@
     "name": "Veluza",
     "name_origin": "Veluza potrebbe essere una combinazione di velocity  e Merluza . Migarusa potrebbe essere una combinazione di 身軽 migaru  e 魚 sakana . ",
     "origin": "Veluza potrebbe essere basato sul Merluccius australis, un pesce osseo marino appartenente alla famiglia Merlucciidae. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Veluza",
     "shape": "None",
     "specie": "Pokémon Separazione",
     "sprites": {
         "veluza": {
             "default": "https://media.pokemoncentral.it/wiki/8/8a/Homem0976.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0976.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0976.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5a"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7a/Artwork0976_SV.png"
     },
     "stats": {
         "veluza": {

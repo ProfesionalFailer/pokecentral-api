@@ -29,6 +29,7 @@
         "Acqua 1",
         "Acqua 2"
     ],
+    "flat_name": "inkay",
     "generation": 6,
     "height": {
         "inkay": "0,4 m"
@@ -37,13 +38,16 @@
     "name": "Inkay",
     "name_origin": "Inkay deriva da inkfish e da okay . Il nome giapponese Māīka può essere una combinazione di 魔 ma  e 烏賊 ika  o 真烏賊 maika . ",
     "origin": "Inkay è basato su un calamaro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Inkay",
     "shape": "bipedi con coda",
     "specie": "Pokémon Volteggio",
     "sprites": {
         "inkay": {
             "default": "https://media.pokemoncentral.it/wiki/c/c5/Homem0686.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0686.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0686.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fd/Artwork0686_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/14/Artwork0686_XY.png"
     },
     "stats": {
         "statistiche-base": {

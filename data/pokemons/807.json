@@ -21,6 +21,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "zeraora",
     "generation": 7,
     "height": {
         "zeraora": "1,5 m"
@@ -28,14 +29,17 @@
     "id": 807,
     "name": "Zeraora",
     "name_origin": "Zeraora potrebbe essere una combinazione di زر zarra  e 虎 tora  o tora . ",
-    "origin": "L'aspetto felino di Zeraora è probabilmente ispirato ad una tigre o un leopardo. Il suo tipo Elettro potrebbe alludere a Kanehekili, il Dio del Tuono hawaiano, mentre le sue movenze rapide rimandano al kamaitachi. ",
+    "origin": "L'aspetto felino di Zeraora è probabilmente ispirato ad una tigre o un leopardo. Il suo tipo Elettro potrebbe alludere a Kanehekili, il dio del tuono hawaiano, mentre le sue movenze rapide rimandano al kamaitachi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zeraora",
     "shape": "un paio di ali",
     "specie": "Pokémon Fulmirapido",
     "sprites": {
         "zeraora": {
             "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0807.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/31/Homemsh0807.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/31/Homemsh0807.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d2/Artwork0807_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6e/Artwork0807_UsUl.png"
     },
     "stats": {
         "zeraora": {

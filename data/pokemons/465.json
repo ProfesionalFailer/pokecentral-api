@@ -36,6 +36,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "tangrowth",
     "generation": 4,
     "height": {
         "tangrowth": "2,0 m"
@@ -44,17 +45,20 @@
     "name": "Tangrowth",
     "name_origin": "Deriva dalle parole tangle  e growth . ",
     "origin": "Basato sull'uomo verde , ma con caratteristiche di una pianta rampicante. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tangrowth",
     "shape": "un paio di ali",
     "specie": "Pokémon Liana",
     "sprites": {
-        "": {
+        "tangrowth": {
             "default": "https://media.pokemoncentral.it/wiki/8/8f/Homem0465.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7d/Homemsh0465.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7d/Homemsh0465.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/45/Artwork0465_Corp.png"
         },
-        "-f": {
+        "tangrowth-f": {
             "default": "https://media.pokemoncentral.it/wiki/0/00/Homef0465.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homefsh0465.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fd/Artwork0465_DP.png"
     },
     "stats": {
         "tangrowth": {

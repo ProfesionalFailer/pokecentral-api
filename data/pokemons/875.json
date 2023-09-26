@@ -1,11 +1,12 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "eiscue": {
             "primary": "Gelofaccia"
         }
     },
     "curiosities": [
-        "Eiscue condivide la sua categoria con Piplup e Prinplup. Tutti e tre sono conosciuti come Pokémon Pinguino."
+        "Eiscue condivide la sua categoria con Piplup e Prinplup. Tutti e tre sono conosciuti come Pokémon Pinguino.",
+        "Eiscue può essere visto come il parallelo di Stonjourner. Sono entrambi Pokémon di ottava generazione che non si evolvono e con la stessa somma di statistiche base. Inoltre, Eiscue è esclusivo di Scudo e Violetto, mentre Stonjourner è esclusivo di Spada e Scarlatto."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/eiscue.mp3",
     "dex_entries": {
@@ -26,6 +27,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "eiscue",
     "generation": 8,
     "height": {
         "eiscue": "1,4 m"
@@ -34,6 +36,7 @@
     "name": "Eiscue",
     "name_origin": "Eiscue potrebbe essere una combinazione di Eis, ghiaccio o gelato in tedesco, e ice cube, cubo di ghiaccio. Korippo potrebbe essere una combinazione di 氷 kōri, ghiaccio, e 立方 rippō, cubo. ",
     "origin": "Eiscue potrebbe essere basato su un pinguino con un cubo di ghiaccio in testa. Il suo aspetto potrebbe trarre ispirazione da un'alca impenne, un uccello incapace di volare che abitava le Isole britanniche prima della sua estinzione. L'alca impenne era noto per il suo comportamento: galleggiava con la testa fuori dall'acqua e veniva cacciato per essere utilizzato come esca per i pesci. La testa dell'animale diventava più bianca durante gli inverni. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Eiscue",
     "shape": "due paia di ali",
     "specie": "Pokémon Pinguino",
     "sprites": {
@@ -44,7 +47,11 @@
         "liquefaccia": {
             "default": "https://media.pokemoncentral.it/wiki/8/8e/Homem0875L.png",
             "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0875L.png"
-        }
+        },
+        "eiscue": {
+            "corporate": "https://media.pokemoncentral.it/wiki/3/39"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/68/Artwork0875_SpSc.png"
     },
     "stats": {
         "gelofaccia": {

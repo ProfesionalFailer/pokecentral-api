@@ -37,6 +37,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "landorus",
     "generation": 5,
     "height": {
         "forma-incarnazione": "1,5 m",
@@ -46,17 +47,21 @@
     "name": "Landorus",
     "name_origin": "Sia il nome inglese Landorus che quello giapponese ランドロス Landlos derivano da Land, \"terra\" in inglese. ",
     "origin": "La Forma Incarnata è certamente ispirata a Inari, il Kami dei campi di riso, dell'agricoltura, dell'artigianato e della prosperità: in tempi più antichi era anche il patrono dei fabbri e dei mastri spadai, e si dice sia venerato dalle volpi. La Forma Totem è basata sulla Tigre Bianca, una delle {{[wp|Si Ling|cinque bestie guardiane}} della mitologia cinese. Altre fonti d'ispirazione potrebbero essere Tezcatlipoca e Tepeyollotl, dei giaguari della mitologia azteca. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Landorus",
     "shape": "insettoide",
     "specie": "Pokémon Fertilità",
     "sprites": {
         "forma-incarnazione": {
             "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0645.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0645.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0645.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/71/Artwork0645_Corp.png"
         },
         "forma-totem": {
             "default": "https://media.pokemoncentral.it/wiki/3/31/Homem0645T.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0645T.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0645T.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5d/Artwork0645T_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b9/Artwork0645_NB.png"
     },
     "stats": {
         "forma-incarnazione": {

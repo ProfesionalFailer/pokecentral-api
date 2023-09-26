@@ -25,6 +25,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "shiinotic",
     "generation": 7,
     "height": {
         "shiinotic": "1,0 m"
@@ -33,13 +34,16 @@
     "name": "Shiinotic",
     "name_origin": "Shiinotic può essere una combinazione di shiitake e hypnotic, ipnotico. Mashēdo può essere una combinazione di mushroom, fungo, e shade, ombra. ",
     "origin": "Shiinotic è ispirato ad un fungo luminescente, forse ad una Gerronema viridilucens. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shiinotic",
     "shape": "un paio di ali",
     "specie": "Pokémon Luminescenza",
     "sprites": {
         "shiinotic": {
             "default": "https://media.pokemoncentral.it/wiki/5/54/Homem0756.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/dd/Homemsh0756.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/dd/Homemsh0756.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/db/Artwork0756_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cd/Artwork0756_SL.png"
     },
     "stats": {
         "shiinotic": {
@@ -56,8 +60,8 @@
     },
     "types": {
         "shiinotic": [
-            "Erba",
-            "Folletto"
+            "Folletto",
+            "Erba"
         ]
     },
     "weight": {

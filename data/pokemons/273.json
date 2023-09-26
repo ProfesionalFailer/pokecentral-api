@@ -43,6 +43,7 @@
         "Campo",
         "Erba"
     ],
+    "flat_name": "seedot",
     "generation": 3,
     "height": {
         "seedot": "0,50 m"
@@ -51,13 +52,16 @@
     "name": "Seedot",
     "name_origin": "Seedot può essere una combinazione di \"seed\"  e \"tot\" , o \"dot\" . ",
     "origin": "Seedot sembra basarsi su una ghianda. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Seedot",
     "shape": "corpi multipli",
     "specie": "Pokémon Ghianda",
     "sprites": {
         "seedot": {
             "default": "https://media.pokemoncentral.it/wiki/d/d8/Homem0273.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0273.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0273.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/62/Artwork0273_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d8/Artwork0273_RZ.png"
     },
     "stats": {
         "seedot": {

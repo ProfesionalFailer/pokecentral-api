@@ -23,6 +23,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "frogadier",
     "generation": 6,
     "height": {
         "frogadier": "0,6 m"
@@ -31,13 +32,16 @@
     "name": "Frogadier",
     "name_origin": "Frogadier deriva dall'inglese frog  e brigadier . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Frogadier",
     "shape": "un paio di ali",
     "specie": "Pokémon Schiumorana",
     "sprites": {
         "frogadier": {
             "default": "https://media.pokemoncentral.it/wiki/6/6b/Homem0657.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/42/Homemsh0657.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/42/Homemsh0657.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/76/Artwork0657_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/22/Artwork0657_XY.png"
     },
     "stats": {
         "statistiche-base": {

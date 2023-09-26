@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "latios": {
             "primary": "Levitazione"
         }
     },
@@ -41,6 +41,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "latios",
     "generation": 3,
     "height": {
         "latios": "2,0 m",
@@ -50,17 +51,21 @@
     "name": "Latios",
     "name_origin": "È possibile che il nome Latios sia basato sulla parola latina lateo . Il suffisso -os nel suo nome indica che è un maschio, mentre quello -as di Latias indica che è una femmina. ",
     "origin": "Latios sembra essere un incrocio tra un jet ed un drago, sebbene lui e Latias possano aver attinto ispirazione dalla filosofia dello Yin/Yang e dalla psicologia io/ego. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Latios",
     "shape": "testa e base",
     "specie": "Pokémon Eone",
     "sprites": {
         "latios": {
             "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0381.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/50/Homemsh0381.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/50/Homemsh0381.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/df/Artwork0381_Corp.png"
         },
         "megalatios": {
             "default": "https://media.pokemoncentral.it/wiki/7/71/Homem0381M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0381M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0381M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b5/Artwork0381M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8f/Artwork0381_RZ.png"
     },
     "stats": {
         "latios": {

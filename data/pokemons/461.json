@@ -41,6 +41,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "weavile",
     "generation": 4,
     "height": {
         "weavile": "1,1 m"
@@ -48,18 +49,21 @@
     "id": 461,
     "name": "Weavile",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi weasel  e vile . Il suo nome giapponese, マニューラ Manyūra, potrebbe derivare dall'unione della parola 魔 ma , 潜入 sennyū , ニャー nya  e 鼬 yū . Potrebbe anche derivare da 野良 nora . ",
-    "origin": "Weavile si basa su una donnola. È probabilmente ispirato, così come la sua pre-evoluzione, a un Kamaitachi, creatura mitologica del folklore nipponico. Ha molte caratteristiche che ricordano lo stile egiziano, e potrebbe essere per questo ispirato alla dea gatto egizia Bastet. ",
+    "origin": "Weavile si basa su una donnola. È probabilmente ispirato, così come la sua pre-evoluzione, a un kamaitachi, creatura mitologica del folklore nipponico. Ha molte caratteristiche che ricordano lo stile egiziano, e potrebbe essere per questo ispirato alla dea gatto egizia Bastet. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Weavile",
     "shape": "due paia di ali",
     "specie": "Pokémon Lamartigli",
     "sprites": {
-        "": {
+        "weavile": {
             "default": "https://media.pokemoncentral.it/wiki/6/6f/Homem0461.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0461.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0461.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/43/Artwork0461_Corp.png"
         },
-        "-f": {
+        "weavile-f": {
             "default": "https://media.pokemoncentral.it/wiki/0/02/Homef0461.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homefsh0461.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/29/Artwork0461_DP.png"
     },
     "stats": {
         "weavile": {
@@ -76,8 +80,8 @@
     },
     "types": {
         "weavile": [
-            "Buio",
-            "Ghiaccio"
+            "Ghiaccio",
+            "Buio"
         ]
     },
     "weight": {

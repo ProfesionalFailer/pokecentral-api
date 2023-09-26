@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "machamp": {
             "primary": "Dentistretti",
             "secondary": "Nullodifesa",
             "hidden": "Cuordeciso"
@@ -65,6 +65,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "machamp",
     "generation": 1,
     "height": {
         "machamp": "1,6 m",
@@ -74,17 +75,20 @@
     "name": "Machamp",
     "name_origin": "Machamp deriva dall'unione della parola spagnola \"macho\"  con la parola inglese \"champion\" . ",
     "origin": "Machamp sembra essere basato su un culturista o un wrestler. Poiché ha più di due braccia e pelle blu, Machamp potrebbe essere basato su un dio indù, forse Shiva o Vishnu. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Machamp",
     "shape": "un paio di ali",
     "specie": "Pokémon Megaforza",
     "sprites": {
         "machamp": {
             "default": "https://media.pokemoncentral.it/wiki/1/15/Homem0068.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homemsh0068.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homemsh0068.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/28/Artwork0068_Corp_2.png"
         },
         "machamp-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/d/d8/Homem0068Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/0a/Homemsh0068Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ac/Artwork0068_RFVF.png"
     },
     "stats": {
         "machamp": {

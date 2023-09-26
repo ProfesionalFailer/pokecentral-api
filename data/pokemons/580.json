@@ -26,6 +26,7 @@
         "Acqua 1",
         "Volante"
     ],
+    "flat_name": "ducklett",
     "generation": 5,
     "height": {
         "ducklett": "0,5 m"
@@ -34,13 +35,16 @@
     "name": "Ducklett",
     "name_origin": "Il suo nome deriva dall'inglese duckling  e wet , oppure un'abbreviazione del suffisso -ette . ",
     "origin": "Si basa su un piccolo di anatra o cigno; il fatto che Swanna sia basato appunto su un cigno, potrebbe essere un riferimento alla favola del brutto anatroccolo. Il piumaggio inferiore più scuro ricorda i salvagenti ad anello , e con l'evoluzione assume l'aspetto di un bikini. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ducklett",
     "shape": "testa e base",
     "specie": "Pokémon Alacquatico",
     "sprites": {
         "ducklett": {
             "default": "https://media.pokemoncentral.it/wiki/9/93/Homem0580.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0580.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0580.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7d/Artwork0580_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5b/Artwork0580_NB.png"
     },
     "stats": {
         "ducklett": {

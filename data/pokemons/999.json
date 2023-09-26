@@ -1,59 +1,84 @@
 {
     "abilities": {
-        "gholdengo": {
-            "primary": "Corpo Aureo"
+        "forma-scrigno": {
+            "primary": "Paura"
+        },
+        "forma-ambulante": {
+            "primary": "Fugafacile"
         }
     },
     "curiosities": [
-        "Gholdengo, Slowbro di Galar e Slowking di Galar sono gli unici Pokémon ad ottenere un secondo tipo evolvendosi, ma che hanno il nuovo tipo come tipo primario anziché secondario.",
-        "Nonostante il suo nome giapponese, la sua immagine nel Pokédex e la sua capacità di creare una tavola da surf mentre attraversa l'acqua, Gholdengo non è in grado di imparare la mossa Surf."
+        "Il nome della Forma Scrigno è stato ideato da Zim, mentre quello della Forma Ambulante dal Professor Willow.",
+        "Nella Forma Scrigno Gimmighoul ha la Velocità più bassa tra tutti i pokémon di tipo Spettro."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/gholdengo.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gimmighoul.mp3",
     "dex_entries": {
-        "gholdengo": {
-            "scarlet": "Pare che il suo corpo sia formato da 1.000 monete. È molto socievole e fa subito amicizia con chiunque.",
-            "violet": "Il suo corpo, formato da pile di monete, è molto robusto. Annienta i nemici lanciando raffiche di monete."
+        "forma-scrigno": {
+            "scarlet": "Nacque all'interno di un forziere circa 1.500 anni fa. Assorbe l'energia vitale dei furfanti che provano a rubare il suo tesoro.",
+            "violet": "Vive dentro un vecchio forziere. Non sembrando affatto un Pokémon, a volte finisce in un angolo nei negozi di strumenti."
+        },
+        "forma-ambulante": {
+            "scarlet": "È nato da una moneta pervasa di sentimenti intensi. Vaga cercando di tornare nel forziere da cui proviene.",
+            "violet": "Vaga portando sulla schiena una moneta antica e per vivere assorbe l'energia vitale delle persone che cercano di raccoglierla."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "gimmighoul",
     "generation": 9,
     "height": {
-        "gholdengo": "1,2 m"
+        "forma-scrigno": "0,3 m",
+        "forma-ambulante": "0,1 m"
     },
     "id": 999,
-    "name": "Gholdengo",
-    "name_origin": "Gholdengo potrebbe essere una combinazione di golden  e ghost . Surfugo potrebbe essere una combinazione di surf e gold . ",
-    "origin": "",
+    "name": "Gimmighoul",
+    "name_origin": "Gimmighoul potrebbe essere una combinazione di gimme, dammi, gimmick, stratagemma, e ghoul; inoltre, il nome suona in maniera simile a Gimme gold, dammi dell'oro. コレクレー Korekurē deriva da collect, e これくれ kore kure, dammelo. ",
+    "origin": "La Forma Scrigno trae probabilmente ispirazione dal mimic, un mostro dell'immaginario fantasy in grado di mutare la forma del suo corpo per assomigliare a degli oggetti; tipicamente i mimic assumono la forma di uno scrigno del tesoro, per trarre in inganno gli avventurieri. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gimmighoul",
     "shape": "None",
-    "specie": "Pokémon Tesoro",
+    "specie": "Pokémon Scrigno",
     "sprites": {
-        "gholdengo": {
-            "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem1000.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh1000.png"
-        }
+        "forma-scrigno": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c6/Homem0999.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homemsh0999.png"
+        },
+        "forma-ambulante": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f8/Homem0999A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0999A.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/fa"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f0/Artwork0999_SV.png"
     },
     "stats": {
-        "gholdengo": {
-            "hp": 87,
-            "atk": 60,
-            "def": 95,
-            "spa": 133,
-            "spd": 91,
-            "spe": 84
+        "forma-scrigno": {
+            "hp": 45,
+            "atk": 30,
+            "def": 70,
+            "spa": 75,
+            "spd": 70,
+            "spe": 10
+        },
+        "forma-ambulante": {
+            "hp": 45,
+            "atk": 30,
+            "def": 25,
+            "spa": 75,
+            "spd": 45,
+            "spe": 80
         }
     },
     "stats_sum": {
-        "gholdengo": 550
+        "forma-scrigno": 300,
+        "forma-ambulante": 300
     },
     "types": {
-        "gholdengo": [
-            "Acciaio",
+        "gimmighoul": [
             "Spettro"
         ]
     },
     "weight": {
-        "gholdengo": "30,0 kg"
+        "forma-scrigno": "5,0 kg",
+        "forma-ambulante": "0,1 kg"
     }
 }

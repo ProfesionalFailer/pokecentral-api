@@ -34,6 +34,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "staravia",
     "generation": 4,
     "height": {
         "staravia": "0,6 m"
@@ -42,17 +43,20 @@
     "name": "Staravia",
     "name_origin": "Staravia è una combinazione fra starling  e avian . ",
     "origin": "Staravia si basa su uno storno adulto. Tuttavia, le sue caratteristiche sembrano essere basate più su una pavoncella adulta del Nord. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Staravia",
     "shape": "testa e base",
     "specie": "Pokémon Storno",
     "sprites": {
-        "": {
+        "staravia": {
             "default": "https://media.pokemoncentral.it/wiki/8/8c/Homem0397.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0397.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0397.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7d/Artwork0397_Corp.png"
         },
-        "-f": {
+        "staravia-f": {
             "default": "https://media.pokemoncentral.it/wiki/7/7f/Homef0397.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homefsh0397.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cc/Artwork0397_DLPS.png"
     },
     "stats": {
         "staravia": {
@@ -69,8 +73,8 @@
     },
     "types": {
         "staravia": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

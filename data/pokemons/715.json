@@ -36,6 +36,7 @@
         "Drago",
         "VIII"
     ],
+    "flat_name": "noivern",
     "generation": 6,
     "height": {
         "noivern": "1,5 m"
@@ -44,13 +45,16 @@
     "name": "Noivern",
     "name_origin": "Noivern è una combinazione tra noise  e wyvern . ",
     "origin": "Noivern è basato su varie fonti: viverna, pipistrello della frutta, pipistrello dal naso a foglia, altoparlanti e tweeter. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Noivern",
     "shape": "testa e base",
     "specie": "Pokémon Ondasonora",
     "sprites": {
         "noivern": {
             "default": "https://media.pokemoncentral.it/wiki/1/1f/Homem0715.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0715.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0715.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e2/Artwork0715_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/90/Artwork0715_XY.png"
     },
     "stats": {
         "statistiche-base": {
@@ -67,8 +71,8 @@
     },
     "types": {
         "noivern": [
-            "Volante",
-            "Drago"
+            "Drago",
+            "Volante"
         ]
     },
     "weight": {

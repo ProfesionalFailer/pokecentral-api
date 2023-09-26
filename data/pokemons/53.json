@@ -69,6 +69,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "persian",
     "generation": 1,
     "height": {
         "persian": "1,0 m",
@@ -78,17 +79,20 @@
     "name": "Persian",
     "name_origin": "Persian si riferisce ai gatti persiani. Potrebbe anche riferirsi a purr, il suono che fanno i gatti. ",
     "origin": "La sua fisionomia è evidentemente più simile a quella dei gatti siamesi piuttosto che dei gatti persiani, e la sua specie giapponese è シャムネコ o \"shamuneko\" che singnifica \"Gatto siamese\". È anche simile ai grandi felini come i Puma. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Persian",
     "shape": "più di 4 arti",
     "specie": "Pokémon Nobilgatto",
     "sprites": {
         "persian": {
             "default": "https://media.pokemoncentral.it/wiki/0/0d/Homem0053.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0053.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0053.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/58/Artwork0053A_Corp.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/a/ac/Homem0053A.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0053A.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c6/Artwork0053_RFVF.png"
     },
     "stats": {
         "persian": {

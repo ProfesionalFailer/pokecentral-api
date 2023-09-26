@@ -39,6 +39,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "dustox",
     "generation": 3,
     "height": {
         "dustox": "1,20 m"
@@ -47,17 +48,20 @@
     "name": "Dustox",
     "name_origin": "Deriva dalle parole dust  e toxic . ",
     "origin": "Basato su di una falena della specie Actias artemis. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dustox",
     "shape": "serpentiforme",
     "specie": "Pokémon Velentarma",
     "sprites": {
-        "": {
+        "dustox": {
             "default": "https://media.pokemoncentral.it/wiki/4/44/Homem0269.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0269.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0269.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7a/Artwork0269_Corp.png"
         },
-        "-f": {
+        "dustox-f": {
             "default": "https://media.pokemoncentral.it/wiki/d/db/Homef0269.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homefsh0269.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/42/Artwork0269_RZ.png"
     },
     "stats": {
         "dustox": {
@@ -74,8 +78,8 @@
     },
     "types": {
         "dustox": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {

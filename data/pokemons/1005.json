@@ -1,59 +1,75 @@
 {
     "abilities": {
-        "eroeferreo": {
-            "primary": "Carica Quark"
+        "lunaruggente": {
+            "primary": "Paleoattivazione"
         }
     },
     "curiosities": [
-        "Eroeferreo ha una combinazione di tipi unica.",
-        "Eroeferreo è l'unico Pokémon Paradosso ad assomigliare a due Pokémon ."
+        "Pagine che richiamano file inesistenti",
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Drago",
+        "Pokémon di tipo Buio",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Lento",
+        "Pokémon di colore Verde",
+        "Pokémon dalla sagoma n.",
+        "Pokémon di sesso sconosciuto",
+        "Pokémon di Gruppo Uova Sconosciuto",
+        "Pokémon che non fanno parte di una linea di evoluzione",
+        "Pokémon con statistiche base totali di 590",
+        "Pokémon Paradosso"
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/eroeferreo.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lunaruggente.mp3",
     "dex_entries": {
-        "eroeferreo": {
-            "scarlet": "Presenta caratteristiche simili a quelle di un'invenzione di uno scienziato pazzo descritta in una rivista di paranormale.",
-            "violet": "È possibile che si tratti dell'oggetto denominato \"Eroeferreo\" in un certo diario di viaggio."
+        "lunaruggente": {
+            "scarlet": "È possibile che si tratti della creatura catalogata come \"Lunaruggente\" in un diario di viaggio colmo di misteri.",
+            "violet": "Secondo un articolo di una rivista di dubbia attendibilità, questo Pokémon sarebbe legato a un fenomeno che si verifica in una certa regione."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "lunaruggente",
     "generation": 9,
     "height": {
-        "eroeferreo": "1,4 m"
+        "lunaruggente": "2,0 m"
     },
     "id": 1005,
-    "name": "Eroeferreo",
-    "name_origin": "Eroeferreo è una combinazione di eroe e ferro. Iron Valiant è una combinazione di iron, ferro, e valiant, valoroso. ",
-    "origin": "",
+    "name": "Lunaruggente",
+    "name_origin": "Lunaruggente è una combinazione di luna e ruggente. Roaring Moon è una combinazione di roaring, ruggente, e moon, luna. ",
+    "origin": "Lunaruggente è l'unico Pokémon Paradosso ad assomigliare a una Megaevoluzione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lunaruggente",
     "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
-        "eroeferreo": {
-            "default": "https://media.pokemoncentral.it/wiki/5/5a/Homem1006.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh1006.png"
-        }
+        "lunaruggente": {
+            "default": "https://media.pokemoncentral.it/wiki/7/71/Homem1005.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh1005.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/52"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/03/Artwork1005_SV.png"
     },
     "stats": {
-        "eroeferreo": {
-            "hp": 74,
-            "atk": 130,
-            "def": 90,
-            "spa": 120,
-            "spd": 60,
-            "spe": 116
+        "lunaruggente": {
+            "hp": 105,
+            "atk": 139,
+            "def": 71,
+            "spa": 55,
+            "spd": 101,
+            "spe": 119
         }
     },
     "stats_sum": {
-        "eroeferreo": 590
+        "lunaruggente": 590
     },
     "types": {
-        "eroeferreo": [
-            "Folletto",
-            "Lotta"
+        "lunaruggente": [
+            "Drago",
+            "Buio"
         ]
     },
     "weight": {
-        "eroeferreo": "35,0 kg"
+        "lunaruggente": "380,0 kg"
     }
 }

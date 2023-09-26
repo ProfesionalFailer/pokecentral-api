@@ -35,6 +35,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "indeedee",
     "generation": 8,
     "height": {
         "indeedee": "0,9 m"
@@ -43,17 +44,22 @@
     "name": "Indeedee",
     "name_origin": "Indeedee potrebbe derivare da indeed, certamente. Yessan potrebbe essere una combinazione di yessir, sissignore, e ～さん -san, un titolo onorifico. ",
     "origin": "Indeedee potrebbe essere basato sui Lari, delle divinità domestiche dell'antica religione romana, che si dice proteggano casa in cambio di adorazione ed gratitudine. I Lari vengono spesso raffigurati in coppia e mentre tengono un rhyton, un contenitore a forma di corno che a sua volta raffigura comunemente i satiri, creature per metà capra della mitologia greca. Potrebbe trarre ispirazione anche da un brownie, spiriti domestici del folclore britannico che sono soliti uscire la notte per svolgere lavori domestici e agricoli. La differenza di sesso potrebbe basarsi sulla figura maschile, i maggiordomi, e femminile, le cameriere, di chi svolge lavori casalinghi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Indeedee",
     "shape": "due paia di ali",
     "specie": "Pokémon Emozione",
     "sprites": {
-        "": {
+        "indeedee": {
             "default": "https://media.pokemoncentral.it/wiki/0/03/Homem0876.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/5e/Homemsh0876.png"
         },
-        "-f": {
+        "indeedee-f": {
             "default": "https://media.pokemoncentral.it/wiki/e/e3/Homef0876F.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/1a/Homefsh0876F.png"
-        }
+        },
+        "maschio": {
+            "corporate": "https://media.pokemoncentral.it/wiki/7/76"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6a/Artwork0876_SpSc.png"
     },
     "stats": {
         "maschio": {

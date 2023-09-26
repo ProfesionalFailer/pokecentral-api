@@ -24,6 +24,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "crabrawler",
     "generation": 7,
     "height": {
         "crabrawler": "0,6 m"
@@ -32,13 +33,16 @@
     "name": "Crabrawler",
     "name_origin": "Crabrawler potrebbe essere una combinazione di crab, granchio, e brawler, attaccabrighe. Makenkani potrebbe essere una combinazione di 負けん気 makenki, odia perdere, 喧嘩 kenka, lotta, e カニ kani, granchio. ",
     "origin": "Crabrawler è basato su un Birgus latro  e su un pugile. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Crabrawler",
     "shape": "testa e braccia",
     "specie": "Pokémon Pugile",
     "sprites": {
         "crabrawler": {
             "default": "https://media.pokemoncentral.it/wiki/5/55/Homem0739.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/45/Homemsh0739.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/45/Homemsh0739.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/da/Artwork0739_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/20/Artwork0739_SL.png"
     },
     "stats": {
         "crabrawler": {

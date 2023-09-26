@@ -68,6 +68,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "alakazam",
     "generation": 1,
     "height": {
         "alakazam": "1,5 m",
@@ -77,21 +78,24 @@
     "name": "Alakazam",
     "name_origin": "Il nome di Alakazam è parte di una formula magica usata per effettuare incantesimi, simile ad Abracadabra. Il suo nome giapponese può essere pronunciato Houdin ed è probabilmente riferito a Jean Eugène Robert-Houdin e Harry Houdini, entrambi famosi illusionisti. ",
     "origin": "I cucchiai di Alakazam sono un riferimento a Uri Geller, che affermò di possedere l'abilità di piegare i cucchiai con la sua mente. Come Abra e Kadabra, Alakazam condivide tratti somatici con capre e volpi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Alakazam",
     "shape": "un paio di ali",
     "specie": "Pokémon Psico",
     "sprites": {
-        "alakazam ": {
+        "alakazam": {
             "default": "https://media.pokemoncentral.it/wiki/e/ef/Homem0065.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6c/Homemsh0065.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6c/Homemsh0065.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/82/Artwork0065M_Corp.png"
         },
-        "alakazam -f": {
+        "alakazam-f": {
             "default": "https://media.pokemoncentral.it/wiki/9/92/Homef0065.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/de/Homefsh0065.png"
         },
         "megaalakazam": {
             "default": "https://media.pokemoncentral.it/wiki/7/77/Homem0065M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0065M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f9/Artwork0065_RFVF.png"
     },
     "stats": {
         "alakazam": {

@@ -44,6 +44,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "burmy",
     "generation": 4,
     "height": {
         "burmy": "0,2 m"
@@ -52,6 +53,7 @@
     "name": "Burmy",
     "name_origin": "Burmy può essere una combinazione di bug  o bag  e worm  o bagworm . ",
     "origin": "Burmy si basa su una pupa, probabilmente quella della Psychidae , che poi si trasformerà in una farfalla se maschio, o rimarrà una creatura simile a una pupa se femmina. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Burmy",
     "shape": "quadrupede",
     "specie": "Pokémon Larva",
     "sprites": {
@@ -66,7 +68,11 @@
         "manto-scarti": {
             "default": "https://media.pokemoncentral.it/wiki/7/7a/Homem0412Sc.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/60/Homemsh0412Sc.png"
-        }
+        },
+        "burmy": {
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b6"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b9/Artwork0412_DP.png"
     },
     "stats": {
         "burmy": {

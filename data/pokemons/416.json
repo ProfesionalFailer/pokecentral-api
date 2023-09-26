@@ -41,6 +41,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "vespiquen",
     "generation": 4,
     "height": {
         "vespiquen": "1,2 m"
@@ -49,13 +50,16 @@
     "name": "Vespiquen",
     "name_origin": "Il suo nome deriva dal latino \"Vespa\"  e \"Queen\" . ",
     "origin": "Vespiquen è basato dalla combinazione di un ape regina ed un'alveare con elementi di una vera regina. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Vespiquen",
     "shape": "testa e base",
     "specie": "Pokémon Alveare",
     "sprites": {
         "vespiquen": {
             "default": "https://media.pokemoncentral.it/wiki/7/79/Homef0416.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homefsh0416.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homefsh0416.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bc/Artwork0416_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/32/Artwork0416_DP.png"
     },
     "stats": {
         "vespiquen": {
@@ -72,8 +76,8 @@
     },
     "types": {
         "vespiquen": [
-            "Volante",
-            "Coleot"
+            "Coleot",
+            "Volante"
         ]
     },
     "weight": {

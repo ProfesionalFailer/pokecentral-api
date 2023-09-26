@@ -28,6 +28,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "tynamo",
     "generation": 5,
     "height": {
         "tynamo": "0,2 m"
@@ -36,13 +37,16 @@
     "name": "Tynamo",
     "name_origin": "Il nome potrebbe derivare da tiny, piccolo, mini, o tyke, bambino, riferendosi alle sue dimensioni ridotte, e dynamo, dinamo, riferendosi al suo legame con l'elettricità. ",
     "origin": "Tynamo è basato su un pesce elettroforo. In particolare potrebbe trarre ispirazione da un'anguilla elettrica, dagli agnati come le lamprede, dalle sanguisughe, o dai cefalocordati. Il suo tipo Elettro potrebbe essere ispirato alla bioelettrogenesi, la generazione di energia elettrica da parte di organismi viventi tramite impulsi nervosi, un fenomeno che appartiene alla scienza della elettrofisiologia. Il suo aspetto è simile anche a quello di un leptocefalo , o ancora ad un pesce coltello. Il segno giallo sul corpo lo fa assomigliare anche ad un haikouichthys, un antico pesce ormai estinto, mentre la sua abilità di saper levitare fa pensare ad un rod. un'altra possibile ispirazione è il tubo di Crookes o di Geissler. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tynamo",
     "shape": "pinne",
     "specie": "Pokémon Elettropesce",
     "sprites": {
         "tynamo": {
             "default": "https://media.pokemoncentral.it/wiki/0/09/Homem0602.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/da/Homemsh0602.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/da/Homemsh0602.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a6"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a8/Artwork0602_NB.png"
     },
     "stats": {
         "tynamo": {

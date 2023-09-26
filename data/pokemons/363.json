@@ -39,6 +39,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "spheal",
     "generation": 3,
     "height": {
         "spheal": "0,8 m"
@@ -47,13 +48,16 @@
     "name": "Spheal",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi sphere, sfera, e seal, foca. ",
     "origin": "Spheal è basato su un leone marino di forma sferica. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spheal",
     "shape": "pinne",
     "specie": "Pokémon Rotolante",
     "sprites": {
         "spheal": {
             "default": "https://media.pokemoncentral.it/wiki/4/45/Homem0363.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/95/Homemsh0363.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/95/Homemsh0363.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7e/Artwork0363_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/38/Artwork0363_RZ.png"
     },
     "stats": {
         "spheal": {

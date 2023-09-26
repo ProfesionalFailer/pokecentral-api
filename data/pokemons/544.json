@@ -28,6 +28,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "whirlipede",
     "generation": 5,
     "height": {
         "whirlipede": "1,2 m"
@@ -36,13 +37,16 @@
     "name": "Whirlipede",
     "name_origin": "Probabilmente una combinazione di whirl  e centipede  o millipede . ",
     "origin": "Basato su un millepiedi. Il suo aspetto ricorda molto quello di un'oniscidea o di un porcellino di terra, piccoli crostacei che quando si sentono attaccati o in pericolo si arrotolano su se stessi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Whirlipede",
     "shape": "testa",
     "specie": "Pokémon Rotopede",
     "sprites": {
         "whirlipede": {
             "default": "https://media.pokemoncentral.it/wiki/a/a8/Homem0544.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0544.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0544.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/92/Artwork0544_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/46/Artwork0544_NB.png"
     },
     "stats": {
         "whirlipede": {
@@ -59,8 +63,8 @@
     },
     "types": {
         "whirlipede": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {

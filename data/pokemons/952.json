@@ -21,6 +21,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "scovillain",
     "generation": 9,
     "height": {
         "scovillain": "0,9 m"
@@ -29,13 +30,16 @@
     "name": "Scovillain",
     "name_origin": "Scovillain è la combinazione di Scoville, riferimento alla scala di Scoville, ovvero la scala utilizzata per misurare la piccantezza, e villain, inglese per cattivo. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Scovillain",
     "shape": "None",
     "specie": "Pokémon Habanero",
     "sprites": {
         "scovillain": {
             "default": "https://media.pokemoncentral.it/wiki/a/ad/Homem0952.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0952.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0952.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1b"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d8/Artwork0952_SV.png"
     },
     "stats": {
         "scovillain": {
@@ -52,8 +56,8 @@
     },
     "types": {
         "scovillain": [
-            "Erba",
-            "Fuoco"
+            "Fuoco",
+            "Erba"
         ]
     },
     "weight": {

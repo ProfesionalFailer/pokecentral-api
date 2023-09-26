@@ -49,6 +49,7 @@
         "Acqua 1",
         "Magico"
     ],
+    "flat_name": "marill",
     "generation": 2,
     "height": {
         "marill": "0,4 m"
@@ -57,13 +58,16 @@
     "name": "Marill",
     "name_origin": "Il suo nome deriva dall'unione dalle parole marine, marino, e rill, ruscello, ma ci sono possibilità che prenda origine, come il suo nome giapponese, dalle parole 丸い marui, 鞠 mari e 瑠璃 ruri . ",
     "origin": "Basato su un topo e su una boa, ma potrebbe anche essere ispirato ad una molecola d'acqua, la cui composizione è simile alla disposizione delle sue orecchie e il suo corpo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Marill",
     "shape": "due paia di ali",
     "specie": "Pokémon Acquatopo",
     "sprites": {
         "marill": {
             "default": "https://media.pokemoncentral.it/wiki/a/af/Homem0183.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0183.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0183.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/13/Artwork0183_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5d/Artwork0183_RFVF.png"
     },
     "stats": {
         "marill": {

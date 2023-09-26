@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "grimmsnarl": {
             "primary": "Burla",
             "secondary": "Indagine",
             "hidden": "Arraffalesto"
@@ -28,6 +28,7 @@
         "Magico",
         "Umanoide"
     ],
+    "flat_name": "grimmsnarl",
     "generation": 8,
     "height": {
         "grimmsnarl": "1,5 m",
@@ -37,17 +38,20 @@
     "name": "Grimmsnarl",
     "name_origin": "Grimmsnarl potrebbe essere una combinazione di grim, lugubre, e snarl, smorfia. Grimmsnarl potrebbe prendere il nome anche dai fratelli Grimm, una coppia di fratelli che viaggiavano per l'Europa per raccogliere in un unico libro le informazioni sul folklore e le fiabe del continente. Assomiglia anche alle parole girmoire, grimorio, e Grímnismál, un poema mitologico dell'Edda poetica. Ohlonge potrebbe essere una combinazione di ogre, orco, e ロン毛 ronge, capelli lunghi. ",
     "origin": "Grimmsnarl potrebbe essere basato su un orco, su un troll e su un oni, tutte delle grandi e malevoli creature umanoidi del folklore e della mitologia che sono comunemente rappresentate con apparenze grottesche e molti capelli. Come le sue pre-evoluzioni, anche Grimmsnarl condivide alcune somiglianze con un goblin. Il fatto che la sua forza provenga dai suoi capelli potrebbe essere un riferimento a Sansone del libro dei Giudici. Considerando la sua correlazione con Hatterene, potrebbe essere ispirato anche sull'uomo nero, una creatura immaginaria utilizzata in alcune culture europee per spaventare i bambini che non vogliono dormire o stare zitti. Inoltre, sembra ricordare alcune rappresentazioni di Grendel, un mostro gigante del poema epico anglosassone Beowulf che viene descritto come una \"creatura dell'oscurità\" e che è noto per la sua immensa forza. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Grimmsnarl",
     "shape": "un paio di ali",
     "specie": "Pokémon Granfisico",
     "sprites": {
         "grimmsnarl": {
             "default": "https://media.pokemoncentral.it/wiki/f/f1/Homem0861.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/58/Homemsh0861.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/58/Homemsh0861.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1f"
         },
         "grimmsnarl-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/3/32/Homem0861Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0861Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0861_SpSc.png"
     },
     "stats": {
         "grimmsnarl": {

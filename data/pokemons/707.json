@@ -6,9 +6,7 @@
         }
     },
     "curiosities": [
-        "È al pari di Diglett di Alola e Meltan il Pokémon di tipo Acciaio più basso.",
-        "In sesta generazione questo Pokémon ha ben due mosse esclusive: Truccodifesa e Blocco Fatato.\n\tIn settima generazione, Truccodifesa può essere imparata anche da Magearna, mentre in ottava generazione possono impararla anche i membri della linea evolutiva di Yamask e di Yamask di Galar",
-        "In settima generazione, Truccodifesa può essere imparata anche da Magearna, mentre in ottava generazione possono impararla anche i membri della linea evolutiva di Yamask e di Yamask di Galar"
+        "È al pari di Diglett di Alola e Meltan il Pokémon di tipo Acciaio più basso."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/klefki.mp3",
     "dex_entries": {
@@ -30,6 +28,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "klefki",
     "generation": 6,
     "height": {
         "klefki": "0,2 m"
@@ -38,13 +37,16 @@
     "name": "Klefki",
     "name_origin": "Klefki è una combinazione tra clef  o una corruzione di kleptomaniac  e key . Cleffy deriva da clef . ",
     "origin": "Klefki è basato su un portachiavi. È inoltre derivato dalla credenza giapponese che se una chiave sparisce è perché è stato un folletto o uno spiritello a rubarla. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Klefki",
     "shape": "testa",
     "specie": "Pokémon Portachiavi",
     "sprites": {
         "klefki": {
             "default": "https://media.pokemoncentral.it/wiki/d/df/Homem0707.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0707.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0707.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/84/Artwork0707_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2e/Artwork0707_XY.png"
     },
     "stats": {
         "klefki": {
@@ -61,8 +63,8 @@
     },
     "types": {
         "klefki": [
-            "Acciaio",
-            "Folletto"
+            "Folletto",
+            "Acciaio"
         ]
     },
     "weight": {

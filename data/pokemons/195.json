@@ -41,6 +41,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "quagsire",
     "generation": 2,
     "height": {
         "quagsire": "1,4 m"
@@ -49,17 +50,20 @@
     "name": "Quagsire",
     "name_origin": "Quagsire è una combinazione di quagmire  e l'onorifico sire o Siren . Nuoh potrebbe essere una combinazione di 沼 numa  e 王 ō  o オオサンショウウオ ōsanshōuo . ",
     "origin": "Quagsire sembra essere basato su una salamandra gigante asiatica. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Quagsire",
     "shape": "due paia di ali",
     "specie": "Pokémon Acquapesce",
     "sprites": {
-        "": {
+        "quagsire": {
             "default": "https://media.pokemoncentral.it/wiki/b/b3/Homem0195.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0195.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0195.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c1/Artwork0195_Corp.png"
         },
-        "-f": {
+        "quagsire-f": {
             "default": "https://media.pokemoncentral.it/wiki/6/6e/Homef0195.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/ce/Homefsh0195.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/61/Artwork0195_HGSS.png"
     },
     "stats": {
         "quagsire": {

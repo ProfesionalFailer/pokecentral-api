@@ -49,6 +49,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "camerupt",
     "generation": 3,
     "height": {
         "camerupt": "1,9 m",
@@ -58,21 +59,24 @@
     "name": "Camerupt",
     "name_origin": "L'origine del nome proviene dalle parole inglesi camel  e erupt . ",
     "origin": "Le origini di Camerupt si possono individuare nel Camelus bactrianus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Camerupt",
     "shape": "più di 4 arti",
     "specie": "Pokémon Eruzione",
     "sprites": {
-        "camerupt ": {
+        "camerupt": {
             "default": "https://media.pokemoncentral.it/wiki/5/50/Homem0323.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0323.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0323.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9a/Artwork0323M_Corp.png"
         },
-        "camerupt -f": {
+        "camerupt-f": {
             "default": "https://media.pokemoncentral.it/wiki/2/2e/Homef0323.png",
             "shiny": "https://media.pokemoncentral.it/wiki/2/2a/Homefsh0323.png"
         },
         "megacamerupt": {
             "default": "https://media.pokemoncentral.it/wiki/c/c0/Homem0323M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/2/2a/Homemsh0323M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ae/Artwork0323_RZ.png"
     },
     "stats": {
         "camerupt": {

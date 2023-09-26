@@ -22,6 +22,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "tapu-lele",
     "generation": 7,
     "height": {
         "tapu-lele": "1,2 m"
@@ -30,13 +31,16 @@
     "name": "Tapu Lele",
     "name_origin": "Tapu Lele potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e pulelehua, farfalla in hawaiano. Kapu-Tetefu potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e てふてふ tefutefu, un modo antico di scrivere farfalla in giapponese. ",
     "origin": "Tapu Lele sembra essere basato su una farfalla. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tapu_Lele",
     "shape": "insettoide",
     "specie": "Pokémon Nume Locale",
     "sprites": {
         "tapu-lele": {
             "default": "https://media.pokemoncentral.it/wiki/5/50/Homem0786.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0786.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0786.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e7/Artwork0786_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3c/Artwork0786_SL.png"
     },
     "stats": {
         "tapu-lele": {

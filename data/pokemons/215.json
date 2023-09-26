@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "sneasel": {
             "primary": "Forza Interiore",
             "secondary": "Sguardofermo",
             "hidden": "Arraffalesto"
@@ -59,6 +59,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "sneasel",
     "generation": 2,
     "height": {
         "sneasel": "0,9 m"
@@ -66,18 +67,21 @@
     "id": 215,
     "name": "Sneasel",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi sneaky  o snow  e weasel . Il suo nome giapponese, ニューラ Nyula, potrebbe derivare dall'unione delle parole 潜入 sennyū  o にゃ nyā  e 鼬 yū . ",
-    "origin": "Sneasel è probabilmente ispirato a un {{wp:kamaitachi}}, creatura mitologica del folklore nipponico. ",
+    "origin": "Sneasel è probabilmente ispirato a un kamaitachi, creatura mitologica del folklore nipponico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sneasel",
     "shape": "due paia di ali",
     "specie": "Pokémon Lamartigli",
     "sprites": {
-        "": {
+        "sneasel": {
             "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0215.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0215.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0215.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5c/Artwork0215_Corp.png"
         },
-        "-f": {
+        "sneasel-f": {
             "default": "https://media.pokemoncentral.it/wiki/6/61/Homef0215.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homefsh0215.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/75/Artwork0215_RFVF.png"
     },
     "stats": {
         "sneasel": {
@@ -94,8 +98,8 @@
     },
     "types": {
         "sneasel": [
-            "Buio",
-            "Ghiaccio"
+            "Ghiaccio",
+            "Buio"
         ],
         "forma-di-hisui": [
             "Veleno",

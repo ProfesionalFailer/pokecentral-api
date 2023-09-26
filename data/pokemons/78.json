@@ -61,6 +61,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "rapidash",
     "generation": 1,
     "height": {
         "rapidash": "1,7 m"
@@ -69,17 +70,20 @@
     "name": "Rapidash",
     "name_origin": "Rapidash è la combinazione tra le parole inglesi rapid  e dash . ",
     "origin": "È ispirato ad un unicorno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rapidash",
     "shape": "più di 4 arti",
     "specie": "Pokémon Cavalfuoco",
     "sprites": {
         "rapidash": {
             "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0078.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fa/Homemsh0078.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fa/Homemsh0078.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a0/Artwork0078_Corp.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/a/ab/Homem0078G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/9/9c/Homemsh0078G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0078_RFVF.png"
     },
     "stats": {
         "rapidash": {

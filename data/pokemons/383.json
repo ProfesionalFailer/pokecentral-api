@@ -47,6 +47,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "groudon",
     "generation": 3,
     "height": {
         "groudon": "3,5 m",
@@ -56,17 +57,21 @@
     "name": "Groudon",
     "name_origin": "Il nome è una combinazione di ground, terra, e dello spagnolo don, signore, lord, oppure del greco antico ὀδούς odoús, che significa dente, da cui deriva \"-don\", suffisso spesso usato per i dinosauri, ai quali l'aspetto di Groudon è ispirato, oppure dal giapponese 土 do, terra, e ドン don, onomatopea per un forte rumore causato dal terremoto. ",
     "origin": "L'aspetto di Groudon può essere ispirato per ricordare la terra e i vulcani, ma è ispirato principalmente alla creatura della mitologia ebraica Behemoth, il maestoso primordiale della terra i cui omologhi erano il Leviatano e lo Ziz. Come Groudon è in conflitto con Kyogre cosi anche Behemoth aveva iniziato una battaglia tremenda contro il Leviatano che li avrebbe uccisi entrambi. Tuttavia, il suo aspetto non è basato sul Behemoth , ma sembra essere basato più su un dinosauro, in particolare il Tirannosauro e alcuni tipi di Ankylosauri, probabilmente del genere Euoplocephalus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Groudon",
     "shape": "due paia di ali",
     "specie": "Pokémon Continente",
     "sprites": {
         "groudon": {
             "default": "https://media.pokemoncentral.it/wiki/7/7e/Homem0383.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/68/Homemsh0383.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/6/68/Homemsh0383.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/52/Artwork0383_Corp_2.png"
         },
         "archeorisveglio": {
             "default": "https://media.pokemoncentral.it/wiki/7/79/Homem0383A.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/52/Homemsh0383A.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/52/Homemsh0383A.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0383A_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c9/Artwork0383_RZ.png"
     },
     "stats": {
         "groudon": {

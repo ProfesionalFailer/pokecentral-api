@@ -39,6 +39,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "shieldon",
     "generation": 4,
     "height": {
         "shieldon": "0,5 m"
@@ -47,13 +48,16 @@
     "name": "Shieldon",
     "name_origin": "Deriva dalle parole shield  con il suffisso -don . ",
     "origin": "Basato sul Protoceratops. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shieldon",
     "shape": "più di 4 arti",
     "specie": "Pokémon Schermo",
     "sprites": {
         "shieldon": {
             "default": "https://media.pokemoncentral.it/wiki/f/fd/Homem0410.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0410.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0410.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b8/Artwork0410_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0410_DP.png"
     },
     "stats": {
         "shieldon": {
@@ -70,8 +74,8 @@
     },
     "types": {
         "shieldon": [
-            "Acciaio",
-            "Roccia"
+            "Roccia",
+            "Acciaio"
         ]
     },
     "weight": {

@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "sandaconda": {
             "primary": "Sputasabbia",
             "secondary": "Muta",
             "hidden": "Sabbiavelo"
@@ -26,6 +26,7 @@
         "Campo",
         "Drago"
     ],
+    "flat_name": "sandaconda",
     "generation": 8,
     "height": {
         "sandaconda": "3,8 m",
@@ -35,17 +36,20 @@
     "name": "Sandaconda",
     "name_origin": "Sandaconda potrebbe essere una combinazione di sand, sabbia, e anaconda. Sadaija potrebbe essere una combinazione di 沙 sa, sabbia, e 大蛇 daija, serpente. ",
     "origin": "Sandaconda potrebbe essere basato su un'anaconda, sebbene possa ricordare alcune razze di serpenti che vivono nei deserti come il crotalo ceraste, un serpente noto per i suoi particolari movimenti ondulatori che compie quando striscia sulla sabbia. Potrebbe essere basato anche su una doppietta. Sandaconda ricorda, inoltre, il pitone reale, anche chiamato pitone palla per via della sua tendenza ad arricciarsi quando stressato o spaventato. La sua forma Gigamax potrebbe essere basata su un diavolo di sabbia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sandaconda",
     "shape": "testa e gambe",
     "specie": "Pokémon Sabbiaserpe",
     "sprites": {
         "sandaconda": {
             "default": "https://media.pokemoncentral.it/wiki/4/4e/Homem0844.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0844.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0844.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d2"
         },
         "sandaconda-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/f/fd/Homem0844Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/79/Homemsh0844Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3f/Artwork0844_SpSc.png"
     },
     "stats": {
         "sandaconda": {

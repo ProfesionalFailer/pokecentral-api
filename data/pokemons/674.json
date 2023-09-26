@@ -8,7 +8,7 @@
     },
     "curiosities": [
         "Pancham, Fletchling, Helioptile e Gogoat sono i primi 4 Pokémon a comparire prima sui siti occidentali che su quello giapponese.",
-        "È il primo, ed unico, Pokémon di tipo lotta puro presente nel Pokédex regionale di sesta generazione.",
+        "È il primo e unico Pokémon di tipo Lotta puro presente nel Pokédex regionale di sesta generazione.",
         "Pancham condivide la categoria con Monferno. Sono entrambi noti come Pokémon Briccone.\n\tCuriosamente, sono entrambi Pokémon di tipo Lotta.",
         "Curiosamente, sono entrambi Pokémon di tipo Lotta.",
         "Come la sua evoluzione, Pancham non impara nessuna mossa speciale naturalmente, né aumentando di livello né tramite accoppiamento: bisogna ricorrere a MT, MN o all'Insegnamosse per far sì che Pancham conosca questa categoria di mosse."
@@ -32,6 +32,7 @@
         "Campo",
         "Umanoide"
     ],
+    "flat_name": "pancham",
     "generation": 6,
     "height": {
         "pancham": "0,6 m"
@@ -40,13 +41,16 @@
     "name": "Pancham",
     "name_origin": "Pancham probabilmente deriva dalle combinazioni tra panda e champion . Yancham deriva da やんちゃ yancha  e champion . ",
     "origin": "Pancham è probabilmente basato su un panda gigante ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pancham",
     "shape": "due paia di ali",
     "specie": "Pokémon Briccone",
     "sprites": {
         "pancham": {
             "default": "https://media.pokemoncentral.it/wiki/8/80/Homem0674.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0674.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0674.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/13/Artwork0674_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8b/Artwork0674_XY.png"
     },
     "stats": {
         "pancham": {

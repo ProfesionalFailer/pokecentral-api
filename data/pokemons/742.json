@@ -27,6 +27,7 @@
         "Coleottero",
         "Magico"
     ],
+    "flat_name": "cutiefly",
     "generation": 7,
     "height": {
         "cutiefly": "0,1 m"
@@ -35,13 +36,16 @@
     "name": "Cutiefly",
     "name_origin": "Cutiefly potrebbe essere una combinazione di cutie-pie, carino e bee fly, bombilide. Abuly potrebbe essere una combinazione di 吊虻 tsuriabu, bombilide, lovely, amorevole e フェアリー fairy, fata. ",
     "origin": "Cutiefly sembra essere basato su di un bombilide, in particolare la specie Anastoechus nitidulus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cutiefly",
     "shape": "testa e braccia",
     "specie": "Pokémon Bombilide",
     "sprites": {
         "cutiefly": {
             "default": "https://media.pokemoncentral.it/wiki/b/b5/Homem0742.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f1/Homemsh0742.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f1/Homemsh0742.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8b/Artwork0742_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0742_SL.png"
     },
     "stats": {
         "cutiefly": {
@@ -58,8 +62,8 @@
     },
     "types": {
         "cutiefly": [
-            "Folletto",
-            "Coleot"
+            "Coleot",
+            "Folletto"
         ]
     },
     "weight": {

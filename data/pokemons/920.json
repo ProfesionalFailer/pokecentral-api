@@ -30,6 +30,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "lokix",
     "generation": 9,
     "height": {
         "lokix": "1,0 m"
@@ -38,13 +39,16 @@
     "name": "Lokix",
     "name_origin": "Lokix potrebbe essere una combinazione di locust  e kicks . Exleg potrebbe essere una combinazione di exoskeleton  and leg . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lokix",
     "shape": "None",
     "specie": "Pokémon Cavalletta",
     "sprites": {
         "lokix": {
             "default": "https://media.pokemoncentral.it/wiki/c/c1/Homem0920.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0920.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0920.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1a"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9d/Artwork0920_SV.png"
     },
     "stats": {
         "lokix": {
@@ -61,8 +65,8 @@
     },
     "types": {
         "lokix": [
-            "Buio",
-            "Coleot"
+            "Coleot",
+            "Buio"
         ]
     },
     "weight": {

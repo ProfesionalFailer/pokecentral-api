@@ -38,6 +38,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "solrock",
     "generation": 3,
     "height": {
         "solrock": "1,2 m"
@@ -46,13 +47,16 @@
     "name": "Solrock",
     "name_origin": "Il nome deriva probabilmente dalla parola latina sol  e da quella inglese rock . ",
     "origin": "È basato sul Sole e sul meteorite. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Solrock",
     "shape": "testa",
     "specie": "Pokémon Meteorite",
     "sprites": {
         "solrock": {
             "default": "https://media.pokemoncentral.it/wiki/2/2b/Homem0338.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0338.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0338.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/6d/Artwork0338_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a3/Artwork0338_RZ.png"
     },
     "stats": {
         "solrock": {

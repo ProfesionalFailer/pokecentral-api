@@ -70,6 +70,7 @@
         "Acqua 1",
         "Drago"
     ],
+    "flat_name": "dragonite",
     "generation": 1,
     "height": {
         "dragonite": "2,2 m"
@@ -78,13 +79,16 @@
     "name": "Dragonite",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi Dragon  e Knight  o Ignite, bruciare, visto che imparare molti attacchi di tipo Fuoco, o Night, notte, oppure deriva da Draconite, una pietra leggendaria che sta sulla testa dei draghi a forma conica, simile al corno di Dragonite. ",
     "origin": "Dragonite può essere basato sui draghi di mare, sui draghi europei o sui draghi fatati; il suo titolo di \"guardiano dei mari\" può far sembrare che sia basato sui draghi cinesi. Tuttavia, assomiglia di più ai draghi giapponesi, soprattutto quello rappresentato da Utagawa Kuniyoshi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dragonite",
     "shape": "due paia di ali",
     "specie": "Pokémon Drago",
     "sprites": {
         "dragonite": {
             "default": "https://media.pokemoncentral.it/wiki/c/cd/Homem0149.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0149.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0149.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4f/Artwork0149_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/10/Artwork0149_RFVF.png"
     },
     "stats": {
         "dragonite": {
@@ -101,8 +105,8 @@
     },
     "types": {
         "dragonite": [
-            "Volante",
-            "Drago"
+            "Drago",
+            "Volante"
         ]
     },
     "weight": {

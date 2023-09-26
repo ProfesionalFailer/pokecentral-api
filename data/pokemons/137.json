@@ -66,6 +66,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "porygon",
     "generation": 1,
     "height": {
         "porygon": "0,8 m"
@@ -74,13 +75,16 @@
     "name": "Porygon",
     "name_origin": "Il nome di Porygon deriva da polygon, \"poligono\", scritto con una R in riferimento al fatto che il Giapponese non distingue i suoni di R e L. Potrebbe anche contenere la parola origami. ",
     "origin": "Porygon è probabilmente basato su un origami di un uccello creato con un software di rendering 3D rudimentale. Gli strumenti Upgrade e Dubbiodisco, invece, sono ispirati ai CD-ROM. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Porygon",
     "shape": "corpi multipli",
     "specie": "Pokémon Virtuale",
     "sprites": {
         "porygon": {
             "default": "https://media.pokemoncentral.it/wiki/0/01/Homem0137.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0137.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0137.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5c/Artwork0137_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/95/Artwork0137_RFVF.png"
     },
     "stats": {
         "porygon": {

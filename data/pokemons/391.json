@@ -35,6 +35,7 @@
         "Campo",
         "Umanoide"
     ],
+    "flat_name": "monferno",
     "generation": 4,
     "height": {
         "monferno": "0,9 m"
@@ -43,13 +44,16 @@
     "name": "Monferno",
     "name_origin": "Deriva dalle parole monkey  e inferno. ",
     "origin": "Basato sui mandrilli. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Monferno",
     "shape": "due paia di ali",
     "specie": "Pokémon Briccone",
     "sprites": {
         "monferno": {
             "default": "https://media.pokemoncentral.it/wiki/5/5d/Homem0391.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7b/Homemsh0391.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7b/Homemsh0391.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/35/Artwork0391_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b8/Artwork0391_DP.png"
     },
     "stats": {
         "monferno": {
@@ -66,8 +70,8 @@
     },
     "types": {
         "monferno": [
-            "Lotta",
-            "Fuoco"
+            "Fuoco",
+            "Lotta"
         ]
     },
     "weight": {

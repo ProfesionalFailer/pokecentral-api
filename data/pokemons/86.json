@@ -49,6 +49,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "seel",
     "generation": 1,
     "height": {
         "seel": "1,1 m"
@@ -57,13 +58,16 @@
     "name": "Seel",
     "name_origin": "L'origine del nome di Seel potrebbe derivare da una storpiatura delle parole inglesi sea  e seal . ",
     "origin": "Seel è basato su cuccioli di foca, con una particolare somiglianza con un cucciolo di foca della Groenlandia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Seel",
     "shape": "pinne",
     "specie": "Pokémon Otaria",
     "sprites": {
         "seel": {
             "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0086.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/41/Homemsh0086.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/41/Homemsh0086.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3e/Artwork0086_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/30/Artwork0086_RFVF.png"
     },
     "stats": {
         "seel": {

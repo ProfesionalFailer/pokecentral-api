@@ -56,6 +56,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "pidgeot",
     "generation": 1,
     "height": {
         "pidgeot": "1,5 m",
@@ -65,17 +66,20 @@
     "name": "Pidgeot",
     "name_origin": "Pidgeot e Pigeot potrebbero essere una combinazione di pigeon, piccione, e jet . ",
     "origin": "Nonostante il suo nome, Pidgeot potrebbe essere basato su un falco pescatore o su un'aquila piuttosto che su un piccione. La sua colorazione cromatica potrebbe essere ispirata all'aquila reale mentre i segni sotto gli occhi rimandano agli stessi segni presenti nelle divinità egiziane del sole e del cielo: Ra ed Horus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pidgeot",
     "shape": "testa e base",
     "specie": "Pokémon Uccello",
     "sprites": {
         "pidgeot": {
             "default": "https://media.pokemoncentral.it/wiki/9/9b/Homem0018.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/70/Homemsh0018.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/70/Homemsh0018.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0018M_Corp.png"
         },
         "megapidgeot": {
             "default": "https://media.pokemoncentral.it/wiki/e/ed/Homem0018M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homemsh0018M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/19/Artwork0018_RFVF.png"
     },
     "stats": {
         "pidgeot": {
@@ -101,8 +105,8 @@
     },
     "types": {
         "pidgeot": [
-            "Normale",
-            "Volante"
+            "Volante",
+            "Normale"
         ]
     },
     "weight": {

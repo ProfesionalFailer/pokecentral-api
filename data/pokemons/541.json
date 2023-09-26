@@ -25,6 +25,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "swadloon",
     "generation": 5,
     "height": {
         "swadloon": "0,5 m"
@@ -33,13 +34,16 @@
     "name": "Swadloon",
     "name_origin": "Il nome di Swadloon deriva probabilmente dalle parole inglesi swaddle  e loom . Potrebbe essere coinvolto anche il termine pantaloons . ",
     "origin": "Swadloon è basato sulla crisalide della Epargyreus clarus. Il suo comportamento, per il quale spesso si isola, potrebbe essere ispirato a quello degli hikikomori, ai quali si può associare anche la sua espressione, che sembra quasi sofferente. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Swadloon",
     "shape": "insettoide",
     "specie": "Pokémon Coprifoglia",
     "sprites": {
         "swadloon": {
             "default": "https://media.pokemoncentral.it/wiki/f/fb/Homem0541.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7c/Homemsh0541.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7c/Homemsh0541.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1f/Artwork0541_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/69/Artwork0541_NB.png"
     },
     "stats": {
         "swadloon": {
@@ -56,8 +60,8 @@
     },
     "types": {
         "swadloon": [
-            "Erba",
-            "Coleot"
+            "Coleot",
+            "Erba"
         ]
     },
     "weight": {

@@ -32,6 +32,7 @@
         "Volante",
         "Acqua 1"
     ],
+    "flat_name": "quaquaval",
     "generation": 9,
     "height": {
         "quaquaval": "1,8 m"
@@ -40,13 +41,16 @@
     "name": "Quaquaval",
     "name_origin": "Quaquaval potrebbe essere una combinazione di quack quack , aqua, e carnival . Wanival potrebbe essere una combinazione di wave  e carnival. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Quaquaval",
     "shape": "None",
     "specie": "Pokémon Ballerino",
     "sprites": {
         "quaquaval": {
             "default": "https://media.pokemoncentral.it/wiki/9/98/Homem0914.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/78/Homemsh0914.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/78/Homemsh0914.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/da/Artwork0914_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6c/Artwork0914_SV.png"
     },
     "stats": {
         "quaquaval": {

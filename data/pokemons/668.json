@@ -33,6 +33,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "pyroar",
     "generation": 6,
     "height": {
         "pyroar": "1,5 m"
@@ -41,17 +42,20 @@
     "name": "Pyroar",
     "name_origin": "Pyroar è una combinazione tra pyro  e roar . ",
     "origin": "Pyroar è basato su un leone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pyroar",
     "shape": "più di 4 arti",
     "specie": "Pokémon Reale",
     "sprites": {
-        "": {
+        "pyroar": {
             "default": "https://media.pokemoncentral.it/wiki/5/5e/Homem0668.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0668.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0668.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d8/Artwork0668_Corp.png"
         },
-        "-f": {
+        "pyroar-f": {
             "default": "https://media.pokemoncentral.it/wiki/7/74/Homef0668.png",
             "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homefsh0668.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7d/Artwork0668_XY.png"
     },
     "stats": {
         "pyroar": {
@@ -68,8 +72,8 @@
     },
     "types": {
         "pyroar": [
-            "Normale",
-            "Fuoco"
+            "Fuoco",
+            "Normale"
         ]
     },
     "weight": {

@@ -56,6 +56,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "garchomp",
     "generation": 4,
     "height": {
         "garchomp": "1,9 m"
@@ -64,21 +65,25 @@
     "name": "Garchomp",
     "name_origin": "Il suo nome potrebbe essere la combinazione della corruzione della parola \"Gore\", un tipo di formazione stradale o un punto di proiezione, e \"Chomp\", abbuffarsi, in alternativa \"Ghar\" potrebbe derivare da Garpike, un tipo di pesce che assomiglia a Garchomp, oppure la corruzione di \"Carcharodon\", il nome scientifico degli squali, o \"Carcharias\", un tipo di squalo di terra, oppure potrebbe essere una corruzione di \"Guard\", guardia, o \"Gargoyle\" in quanto hanno una certa somiglianza con i draghi europei dal quale Garchomp ha tratto ispirazione. ",
     "origin": "L'aspetto di Garchomp sembrerebbe essere un ibrido tra un drago europeo e uno squalo martello, potrebbe anche ricordare il genuino squalo di terra, inoltre il suo aspetto ricorda anche un jet aircraft. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Garchomp",
     "shape": "due paia di ali",
     "specie": "Pokémon Mach",
     "sprites": {
-        "garchomp ": {
+        "garchomp": {
             "default": "https://media.pokemoncentral.it/wiki/a/aa/Homem0445.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f5/Homemsh0445.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f5/Homemsh0445.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/09/Artwork0445_Corp.png"
         },
-        "garchomp -f": {
+        "garchomp-f": {
             "default": "https://media.pokemoncentral.it/wiki/e/e2/Homef0445.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homefsh0445.png"
         },
         "megagarchomp": {
             "default": "https://media.pokemoncentral.it/wiki/0/02/Homem0445M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4f/Homemsh0445M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4f/Homemsh0445M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/12/Artwork0445M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/73/Artwork0445_DLPS.png"
     },
     "stats": {
         "garchomp": {

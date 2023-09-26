@@ -12,7 +12,7 @@
     "curiosities": [
         "È l'unica evoluzione finale di un Pokémon iniziale a cambiare il tipo secondario da una evoluzione precedente.\n\tÈ anche il primo Pokémon iniziale che come tipo secondario possiede il tipo Spettro. Prima dell'introduzione del Typhlosion di Hisui, era l'unico starter con questa peculiarità.",
         "È anche il primo Pokémon iniziale che come tipo secondario possiede il tipo Spettro. Prima dell'introduzione del Typhlosion di Hisui, era l'unico starter con questa peculiarità.",
-        "Decidueye e la linea evolutiva di Farfetch'd di Galar sono gli unici Pokémon appartenenti al Gruppo Uova Volante che non possiedono il tipo Volante."
+        "Decidueye, la linea evolutiva di Quaxly, di Farfetch'd di Galar e di Flittle sono gli unici Pokémon appartenenti al Gruppo Uova Volante che non possiedono il tipo Volante."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/decidueye.mp3",
     "dex_entries": {
@@ -31,6 +31,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "decidueye",
     "generation": 7,
     "height": {
         "decidueye": "1,6 m"
@@ -39,13 +40,16 @@
     "name": "Decidueye",
     "name_origin": "Decidueye è una combinazione di deciduos, Deciduo, duel, duello, e deadeye, cecchino. Junaipā potrebbe essere una combinazione di 樹 ju, albero, juniper, ginepro, e sniper, cecchino. ",
     "origin": "Decidueye potrebbe essere ispirato su un Grallistrix, una specie di gufo, estinto, nativo delle Hawaii. Decidueye condivide alcuni elementi con gli arcieri e può anche essere basato sull'eroe inglese Robin Hood. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Decidueye",
     "shape": "testa e base",
     "specie": "Pokémon Alifreccia",
     "sprites": {
         "decidueye": {
             "default": "https://media.pokemoncentral.it/wiki/4/4c/Homem0724.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/71/Homemsh0724.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/71/Homemsh0724.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/74/Artwork0724_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7f/Artwork0724_SL.png"
     },
     "stats": {
         "decidueye": {

@@ -50,6 +50,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "dewgong",
     "generation": 1,
     "height": {
         "dewgong": "1,7 m"
@@ -58,13 +59,16 @@
     "name": "Dewgong",
     "name_origin": "Dewgong è l'unione delle parole inglesi dew e dugong. ",
     "origin": "Dewgong si basa sull'otaria, sul dugongo e sulla sirena, in quanto i dugonghi in passato venivano scambiati dai marinai per delle sirene. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dewgong",
     "shape": "pinne",
     "specie": "Pokémon Otaria",
     "sprites": {
         "dewgong": {
             "default": "https://media.pokemoncentral.it/wiki/6/69/Homem0087.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0087.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0087.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a8/Artwork0087_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/eb/Artwork0087_RFVF.png"
     },
     "stats": {
         "dewgong": {

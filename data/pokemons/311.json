@@ -37,6 +37,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "plusle",
     "generation": 3,
     "height": {
         "plusle": "0,40 m"
@@ -45,13 +46,16 @@
     "name": "Plusle",
     "name_origin": "Il nome \"Plusle\" è basato su \"plus\" , riferendosi a qualcosa con una carica elettrica positiva. Potrebbe anche derivare da \"pulse\" , riferimento a Pulseman ",
     "origin": "Sembra essere basato su un topo o un coniglio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Plusle",
     "shape": "due paia di ali",
     "specie": "Pokémon Incitamento",
     "sprites": {
         "plusle": {
             "default": "https://media.pokemoncentral.it/wiki/2/27/Homem0311.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/31/Homemsh0311.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/31/Homemsh0311.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c3/Artwork0311_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/aa/Artwork0311_RZ.png"
     },
     "stats": {
         "plusle": {

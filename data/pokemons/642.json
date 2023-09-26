@@ -34,6 +34,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "thundurus",
     "generation": 5,
     "height": {
         "forma-incarnazione": "1,5 m",
@@ -43,6 +44,7 @@
     "name": "Thundurus",
     "name_origin": "Thundurus deriva dalla parola inglese thunder \"tuono\", o da thunderous \"tonante\"; il nome giapponese, ボルトロス Voltolos deriva dalla parola Volt, unità di misura del potenziale elettrico. ",
     "origin": "La Forma Incarnata è certamente ispirata a Raijin, il Kami del tuono e del fulmine, fratello del kami del vento Fūjin. Richiama il tuono e scatena temporali percuotendo un cerchio di tamburi disposti attorno a lui, di cui la coda di Thundurus rievoca la forma. La Forma Totem è basata sul Dragone Azzurro, due delle cinque bestie guardiane della mitologia cinese. Altra fonte d'ispirazione potrebbe essere Quetzalcoatl, serpente piumato della mitologia azteca. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Thundurus",
     "shape": "insettoide",
     "specie": "Pokémon Fulminante",
     "sprites": {
@@ -53,7 +55,11 @@
         "forma-totem": {
             "default": "https://media.pokemoncentral.it/wiki/7/7e/Homem0642T.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/7b/Homemsh0642T.png"
-        }
+        },
+        "thundurus": {
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2a/Artwork0642T_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/53/Artwork0642_NB.png"
     },
     "stats": {
         "forma-incarnazione": {

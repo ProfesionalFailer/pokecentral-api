@@ -1,6 +1,10 @@
 {
     "abilities": {
-        "venusaur-e-venusaur-gigamax": {
+        "venusaur": {
+            "primary": "Erbaiuto",
+            "hidden": "Clorofilla"
+        },
+        "venusaur-gigamax": {
             "primary": "Erbaiuto",
             "hidden": "Clorofilla"
         },
@@ -13,7 +17,7 @@
         "Venusaur è il terzo Pokémon del Pokédex di Kanto, del Pokédex Nazionale e del Navigatore di Fiore.",
         "Venusaur è grande come un altro Pokémon di tipo Erba, Tropius. Entrambi sono alti 2,0 m e pesano 100,0 kg.",
         "A causa della censura che impedisce che Pokémon con soprannomi offensivi siano scambiati via GTS, un Venusaur inglese non può essere scambiato via GTS senza un soprannome in Pokémon Nero e Bianco.",
-        "Se il giocatore sceglie Charmander come Pokémon iniziale in Pokémon Rosso, Blu, Rosso Fuoco e Verde Foglia è impossibile registrare Venusaur nel Pokédex senza uno scambio poiché nessuno PNG utilizza un Venusaur.\n\tTuttavia, in Pokémon Rosso Fuoco e Verde Foglia, dopo che il giocatore ha sbloccato il Pokédex Nazionale, un Fantallenatore utilizza un Venusaur nella Modalità K.O. della Torre Allenatori.",
+        "Se il giocatore sceglie Charmander come Pokémon iniziale in Pokémon Rosso, Blu, Rosso Fuoco e Verde Foglia è impossibile registrare Venusaur nel Pokédex senza uno scambio poiché nessun PNG ha in squadra un Venusaur.\n\tTuttavia, in Pokémon Rosso Fuoco e Verde Foglia, dopo che il giocatore ha sbloccato il Pokédex Nazionale, un Fantallenatore utilizza un Venusaur nella Modalità K.O. della Torre Allenatori.",
         "Tuttavia, in Pokémon Rosso Fuoco e Verde Foglia, dopo che il giocatore ha sbloccato il Pokédex Nazionale, un Fantallenatore utilizza un Venusaur nella Modalità K.O. della Torre Allenatori.",
         "La quantità di petali che Venusaur ha sul suo fiore è cambiata nel corso delle generazioni:\n\tL'artwork e lo sprite di Pokémon Rosso e Verde giapponesi mostrano cinque petali, mentre l'artwork e lo sprite di Pokémon Rosso e Blu ne mostra sei.\n\tGli sprite di seconda generazione mostrano cinque petali.\n\tL'artwork di terza generazione mostra sei petali, mentre gli sprite ne mostrano cinque.\n\tDalla quarta generazione in poi, gli artwork, gli sprite e i modelli di Venusaur hanno sempre sei petali.",
         "L'artwork e lo sprite di Pokémon Rosso e Verde giapponesi mostrano cinque petali, mentre l'artwork e lo sprite di Pokémon Rosso e Blu ne mostra sei.",
@@ -68,6 +72,7 @@
         "Mostro",
         "Erba"
     ],
+    "flat_name": "venusaur",
     "generation": 1,
     "height": {
         "venusaur": "2,0 m",
@@ -78,28 +83,40 @@
     "name": "Venusaur",
     "name_origin": "Venusaur potrebbe essere una combinazione di Venus, venere acchiappamosche, o venom, veleno, e σαῦρος sauros, lucertola in greco antico. Fushigibana potrebbe essere una combinazione di 不思議 fushigi, strano o misterioso, e 花 hana, fiore. ",
     "origin": "Venusaur e la sua famiglia evolutiva sono basati su una rana. Secondo Ken Sugimori e Atsuko Nishida, Venusaur sarebbe stato progettato per primo e, solo in seguito, sarebbero stati progettati Bulbasaur ed Ivysaur, direttamente basati sulla sua forma finale. Il grande muso arrotondato, la bocca, gli occhi spalancati, la pelle verrucosa e i movimenti di Venusaur sono vagamente simili a quelli di alcuni anfibi, come il rospo comune e l'Incilius alvarius, entrambi dei rospi che trasudano tossine dalle loro ghiandole paratoidi. A differenza di Bulbasuar, le \"orecchie\" di Venusaur hanno delle cavità, indicando che in realtà sono delle vere e proprie orecchie e non delle ghiandole come si vede in molte specie di rane e rospi. La coporatura del Pokémon ricorda anche la rana del diavolo, una rana vissuta nel tardo Cretaceo. Il fiore ricorda un Rafflesia arnoldii. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Venusaur",
     "shape": "più di 4 arti",
     "specie": "Pokémon Seme",
     "sprites": {
-        "venusaur ": {
+        "venusaur": {
             "default": "https://media.pokemoncentral.it/wiki/8/83/Homem0003.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c5/Homemsh0003.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c5/Homemsh0003.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0b/Artwork0003_Corp_2.png"
         },
-        "venusaur -f": {
+        "venusaur-f": {
             "default": "https://media.pokemoncentral.it/wiki/7/7d/Homef0003.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/71/Homefsh0003.png"
         },
         "megavenusaur": {
             "default": "https://media.pokemoncentral.it/wiki/2/22/Homem0003M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b8/Homemsh0003M.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b8/Homemsh0003M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/93/Artwork0003M_Corp.png"
         },
         "venusaur-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/8/84/Homem0003Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/e2/Homemsh0003Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4f/Artwork0003_RFVF.png"
     },
     "stats": {
-        "venusaur-e-venusaur-gigamax": {
+        "venusaur": {
+            "hp": 80,
+            "atk": 82,
+            "def": 83,
+            "spa": 100,
+            "spd": 100,
+            "spe": 80
+        },
+        "venusaur-gigamax": {
             "hp": 80,
             "atk": 82,
             "def": 83,
@@ -117,7 +134,8 @@
         }
     },
     "stats_sum": {
-        "venusaur-e-venusaur-gigamax": 525,
+        "venusaur": 525,
+        "venusaur-gigamax": 525,
         "megavenusaur": 625
     },
     "types": {

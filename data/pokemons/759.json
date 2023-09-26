@@ -23,6 +23,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "stufful",
     "generation": 7,
     "height": {
         "stufful": "0,5 m"
@@ -31,13 +32,16 @@
     "name": "Stufful",
     "name_origin": "Stufful potrebbe derivare da stuffed animal, animale di peluche. Nikoguma potrebbe essere una combinazione di ぬいぐるみ nuigurumi, animale di peluche, e 子熊 koguma, orsetto. ",
     "origin": "Stufful è ispirato ad un orso o ad un procione, ma possiede delle caratteristiche in comune con il panda minore, come le orecchie, la coda e il muso. È oltretutto ispirato, come si può capire da quella che sembrerebbe un'etichetta sotto la coda, ad un orsetto di peluche. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Stufful",
     "shape": "più di 4 arti",
     "specie": "Pokémon Bizzoso",
     "sprites": {
         "stufful": {
             "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0759.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0759.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0759.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9a/Artwork0759_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/27/Artwork0759_SL.png"
     },
     "stats": {
         "stufful": {

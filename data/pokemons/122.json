@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "mr.-mime": {
+        "mr-mime": {
             "primary": "Antisuono",
             "secondary": "Filtro",
             "hidden": "Tecnico"
@@ -19,7 +19,7 @@
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mr.mime.mp3",
     "dex_entries": {
-        "mr.-mime": {
+        "mr-mime": {
             "red": "Se interrotto durante la mimica schiaffeggia ripetutamente il nemico con le enormi mani.",
             "blue": "Se interrotto durante la mimica schiaffeggia ripetutamente il nemico con le enormi mani.",
             "yellow": "La sua pantomima confonde i nemici che credono di vedere qualcosa che in realtà non esiste.",
@@ -60,29 +60,33 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "mr-mime",
     "generation": 1,
     "height": {
-        "mr.-mime": "1,3 m",
+        "mr-mime": "1,3 m",
         "forma-di-galar": "1,4 m"
     },
     "id": 122,
     "name": "Mr. Mime",
     "name_origin": "Il nome Mr. Mime è formato dalle parole Mr. abbreviazione di mister  e Mime , nonostante il nome possa far intuire che il Pokémon sia esclusivamente maschile in realtà gli esemplari femminili e maschili sono diffusi in modo equo, tuttavia il nome gli fu dato prima che le meccaniche di genere fossero create. ",
     "origin": "Mr. Mime si basa sui mimi e sui clown, la sua capacità di creare barriere invisibile è un riferimento all'arte della pantomima, in cui i mimi fingono di chiudersi in delle scatole invisibili. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mr._Mime",
     "shape": "un paio di ali",
     "specie": "Pokémon Barriera",
     "sprites": {
-        "mr.-mime": {
+        "mr-mime": {
             "default": "https://media.pokemoncentral.it/wiki/f/ff/Homem0122.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/66/Homemsh0122.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/6/66/Homemsh0122.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cd/Artwork0122_Corp_2.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/0/02/Homem0122G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0122G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ec/Artwork0122_RFVF.png"
     },
     "stats": {
-        "mr.-mime": {
+        "mr-mime": {
             "hp": 40,
             "atk": 45,
             "def": 65,
@@ -100,11 +104,11 @@
         }
     },
     "stats_sum": {
-        "mr.-mime": 460,
+        "mr-mime": 460,
         "forma-di-galar": 460
     },
     "types": {
-        "mr.-mime": [
+        "mr-mime": [
             "Psico",
             "Folletto"
         ],
@@ -114,7 +118,7 @@
         ]
     },
     "weight": {
-        "mr.-mime": "54,5 kg",
+        "mr-mime": "54,5 kg",
         "forma-di-galar": "56,8 kg"
     }
 }

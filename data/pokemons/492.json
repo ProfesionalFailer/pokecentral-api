@@ -46,6 +46,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "shaymin",
     "generation": 4,
     "height": {
         "forma-terra": "0,2 m",
@@ -55,6 +56,7 @@
     "name": "Shaymin",
     "name_origin": "Il suo nome probabilmente deriva dall'unione della parola giapponesi 謝 sha, gratitudine, o dalla parola inglese shaman, sciamano, o stamen, stame, con la parola 蝟 harinezumi, riccio. Inoltre deriva da Shamayim, il primo paradiso della religione ebraica. ",
     "origin": "Shaymin potrebbe essere ispirato ad un riccio ed un cespuglio di fiori nella forma Terra, mentre la forma Cielo potrebbe essere ispirata ad un terrier o ad una renna. Si basa probabilmente sul concetto di paradiso terrestre. Potrebbe inoltre essere ispirato all'animale giapponese Costasiella Kuroshimae, conosciuto informalmente come \"lumaca di foglia\". ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shaymin",
     "shape": "più di 4 arti",
     "specie": "Pokémon Gratitudine",
     "sprites": {
@@ -65,7 +67,11 @@
         "forma-cielo": {
             "default": "https://media.pokemoncentral.it/wiki/6/6e/Homem0492C.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/c9/Homemsh0492C.png"
-        }
+        },
+        "shaymin": {
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0492C_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/68/Artwork0492_Pt.png"
     },
     "stats": {
         "forma-terra": {

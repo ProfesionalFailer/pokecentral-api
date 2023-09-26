@@ -69,6 +69,7 @@
         "Acqua 2",
         "Drago"
     ],
+    "flat_name": "gyarados",
     "generation": 1,
     "height": {
         "gyarados": "6,5 m"
@@ -77,21 +78,25 @@
     "name": "Gyarados",
     "name_origin": "Il nome Gyarados deriva dalla parola 虐杀 gyakusatsu  oppure da 逆境 gyakkyō , entrambe si riferiscono alla natura violenta del Pokémon e la difficoltà per potersi evolvere, oppure da 逆 gyaku  possibile riferimento al fatto che da un Pokémon debole ed inutile diventa uno in grado di distruggere intere città oppure al mito secondo cui la carpa deve andare nel senso opposto della cascata per diventare un drago, assieme a 岚 Arashi  o 争い Arasoi  riferimento al fatto che appaia durante le guerre e l'ultima parte da ドス Dosu  sempre riferimento alla sua natura violenta o dallo spagnolo dos  per indicare che è il secondo Pokémon della sua linea evolutiva. ",
     "origin": "È ispirato al serpente marino mitologico, ed al raro Pesce Remo, pesce-serpente marino che supera i 17 metri. Ricorda anche il Leviatano, serpente marino della mitologia ebraica o Jormungandr, serpente marino della mitologia nordica. Potrebbe anche essere ispirato in parte alla leggenda secondo cui le carpe che attraversano il Portale dei Draghi sarebbero diventate dei draghi. Si dice infatti che molte cascate cinesi potrebbero essere il Portale dei Draghi, in Pokémon Snap infatti è necessario lanciare un Magikarp in una cascata per farlo evolvere. Questa leggenda insegna che bisogna superare molti ostacoli per poter diventare più forti . Il tipo Volante apparentemente insensato potrebbe essere un riferimento ai Koinobori, una sorta di aquilone a calzino a forma di carpa che si appende per celebrare la giornata del bambino in Giappone, in passato chiamato Tango no Sekku . ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gyarados",
     "shape": "testa e gambe",
     "specie": "Pokémon Atroce",
     "sprites": {
-        "gyarados ": {
+        "gyarados": {
             "default": "https://media.pokemoncentral.it/wiki/4/4b/Homem0130.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0130.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0130.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5c/Artwork0130_Corp.png"
         },
-        "gyarados -f": {
+        "gyarados-f": {
             "default": "https://media.pokemoncentral.it/wiki/2/2b/Homef0130.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/b0/Homefsh0130.png"
         },
         "megagyarados": {
             "default": "https://media.pokemoncentral.it/wiki/6/66/Homem0130M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a1/Homemsh0130M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a1/Homemsh0130M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/61/Artwork0130M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f9/Artwork0130_RFVF.png"
     },
     "stats": {
         "gyarados": {
@@ -121,8 +126,8 @@
             "Acqua"
         ],
         "megagyarados": [
-            "Buio",
-            "Acqua"
+            "Acqua",
+            "Buio"
         ]
     },
     "weight": {

@@ -22,6 +22,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "swirlix",
     "generation": 6,
     "height": {
         "swirlix": "0,4 m"
@@ -30,13 +31,16 @@
     "name": "Swirlix",
     "name_origin": "Swirlix può essere una corruzione di swirl  e una corruzione di licks . Peroppafu può essere una combinazione ペロペロ peropero  and puff. ",
     "origin": "Swirlix è basato sullo zucchero filato, conosciuto in passato anche come fairy floss , ciò può essere un'ispirazione per il tipo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Swirlix",
     "shape": "corpi multipli",
     "specie": "Pokémon Zuccherino",
     "sprites": {
         "swirlix": {
             "default": "https://media.pokemoncentral.it/wiki/3/3d/Homem0684.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/37/Homemsh0684.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/37/Homemsh0684.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7f/Artwork0684_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2a/Artwork0684_XY.png"
     },
     "stats": {
         "statistiche-base": {

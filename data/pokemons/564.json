@@ -33,6 +33,7 @@
         "Acqua 1",
         "Acqua 3"
     ],
+    "flat_name": "tirtouga",
     "generation": 5,
     "height": {
         "tirtouga": "0,7 m"
@@ -41,13 +42,16 @@
     "name": "Tirtouga",
     "name_origin": "Tirtouga può essere una corruzione della parola spagnola tortuga, tartaruga. Può essere anche ispirato all'isola Tortuga, tradotto come Isola della tartaruga in francese e spagnolo. Inoltre potrebbe derivare dall'italiano o portoghese tartaruga. ",
     "origin": "Tirtouga è basato su un cucciolo di Tartaruga marina, più specificamente una Tartaruga liuto. Può essere basato anche su una Protostega gigas, una tartaruga preistorica piccola come l'Archelon ischyros, così come Carracosta. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tirtouga",
     "shape": "più di 4 arti",
     "specie": "Pokémon Ancestruga",
     "sprites": {
         "tirtouga": {
             "default": "https://media.pokemoncentral.it/wiki/4/41/Homem0564.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6d/Homemsh0564.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6d/Homemsh0564.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/91/Artwork0564_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f2/Artwork0564_NB.png"
     },
     "stats": {
         "tirtouga": {
@@ -64,8 +68,8 @@
     },
     "types": {
         "tirtouga": [
-            "Roccia",
-            "Acqua"
+            "Acqua",
+            "Roccia"
         ]
     },
     "weight": {

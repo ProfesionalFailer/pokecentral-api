@@ -21,6 +21,7 @@
         "Campo",
         "Umanoide"
     ],
+    "flat_name": "raboot",
     "generation": 8,
     "height": {
         "raboot": "0,6 m"
@@ -29,13 +30,16 @@
     "name": "Raboot",
     "name_origin": "Raboot potrebbe essere una combinazione delle parole rabbit, coniglio, boot, calcio, e foot, piede, o soot, fuliggine. Rabbifuto potrebbe essere una combinazione delle parole rabbit, coniglio, e foot, piede. ",
     "origin": "Raboot potrebbe essere basato su un coniglio. Alcuni suoi elementi estetici potrebbero essere basati sugli abiti d'allenamento indossati dagli atleti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Raboot",
     "shape": "due paia di ali",
     "specie": "Pokémon Coniglio",
     "sprites": {
         "raboot": {
             "default": "https://media.pokemoncentral.it/wiki/2/27/Homem0814.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0814.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0814.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ed"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/24/Artwork0814_SpSc.png"
     },
     "stats": {
         "raboot": {

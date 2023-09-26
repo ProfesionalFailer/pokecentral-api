@@ -60,6 +60,7 @@
     "egg_groups": [
         "Ditto"
     ],
+    "flat_name": "ditto",
     "generation": 1,
     "height": {
         "ditto": "0,3 m"
@@ -68,13 +69,16 @@
     "name": "Ditto",
     "name_origin": "Il suo nome probabilmente deriva dall'aggettivo maschile greco διττός dittòs . Potrebbe derivare anche dal latino dictum, che si usava per riferirsi alla copiatura delle idee, o dalla parola inglese ditto . ",
     "origin": "In un'intervista alla rivista @Gamer, Junichi Masuda e Ken Sugimori hanno affermato che Ditto è basato sulla faccina sorridente, rappresentata dall'emoticon :). Potrebbe essere basato anche in un’ameba, un organismo unicellulare non definito, oppure potrebbe essere basato su una cellula indifferenziata, ovvero una cellula che si può adattare e trasformarsi in qualsiasi altra cellula, oppure nel Blob o in una palla di gomma. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ditto",
     "shape": "testa",
     "specie": "Pokémon Mutante",
     "sprites": {
         "ditto": {
             "default": "https://media.pokemoncentral.it/wiki/d/dd/Homem0132.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0132.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0132.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/47/Artwork0132_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/06/Artwork0132_RFVF.png"
     },
     "stats": {
         "ditto": {

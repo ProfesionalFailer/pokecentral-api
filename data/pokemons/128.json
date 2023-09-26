@@ -5,12 +5,17 @@
             "secondary": "Grancollera",
             "hidden": "Forzabruta"
         },
-        "forma-di-paldea-varietà-combattiva": {
+        "forma-di-paldea-varieta-combattiva": {
             "primary": "Prepotenza",
             "secondary": "Grancollera",
             "hidden": "Ruminante"
         },
-        "-forma-di-paldea-varietà-infuocata-e-forma-di-paldea-varietà-acquatica": {
+        "forma-di-paldea-varieta-infuocata": {
+            "primary": "Prepotenza",
+            "secondary": "Grancollera",
+            "hidden": "Ruminante"
+        },
+        "forma-di-paldea-varieta-acquatica": {
             "primary": "Prepotenza",
             "secondary": "Grancollera",
             "hidden": "Ruminante"
@@ -62,15 +67,15 @@
             "scarlet": "Quando punta una preda, carica furiosamente frustando il proprio corpo con le lunghe code.",
             "violet": "Lottano tra loro incrociando le corna. Il capobranco è fiero delle sue corna segnate dalle lotte."
         },
-        "forma-di-paldea-varietà-combattiva": {
+        "forma-di-paldea-varieta-combattiva": {
             "scarlet": "Grazie al suo corpo muscoloso, eccelle negli scontri ravvicinati. Con le sue corte corna mira a colpire i punti deboli.",
             "violet": "È caratterizzato da muscoli grossi e possenti e da un’indole violenta. Questa forma viene chiamata Varietà Combattiva."
         },
-        "forma-di-paldea-varietà-infuocata": {
+        "forma-di-paldea-varieta-infuocata": {
             "scarlet": "Le corna arroventate dalla sua energia Fuoco raggiungono i 1.000 ºC e causano al nemico trafitto sia ferite che ustioni.",
             "violet": "Emette sbuffi di fiato caldissimo, da cui deriva il nome Varietà Infuocata. Le tre code sono intrecciate insieme."
         },
-        "forma-di-paldea-varietà-acquatica": {
+        "forma-di-paldea-varieta-acquatica": {
             "scarlet": "Spara acqua dai fori sulla punta delle corna e trapassa i nemici con getti ad alta pressione.",
             "violet": "L’abbondante grasso corporeo che caratterizza la Varietà Acquatica gli permette di galleggiare con facilità. Nuota spruzzando acqua dalle corna."
         }
@@ -78,6 +83,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "tauros",
     "generation": 1,
     "height": {
         "tauros": "1,4 m"
@@ -86,25 +92,28 @@
     "name": "Tauros",
     "name_origin": "Il suo nome potrebbe sia derivare dal greco κένταυρος, kentauros , dall'inglese centaurus  o, più probabilmente, dal latino taurus . Sempre in Latino, la parola \"Tauros\" vuol dire letteralmente \"i tori\", essendo Tauros un accusativo plurale e quindi un complemento oggetto. ",
     "origin": "È basato chiaramente su un toro, mentre le sue code richiamano vari tipi di frusta, come il gatto a nove code. La sua forma di Paldea è basata sul Toro de lidia, varietà di toro tipica della penisola iberica solitamente usata nella corrida, elemento citato dal suo tipo Lotta. I tipi delle sue varietà sono riferimenti a particolari varietà di corrida altamente controverse: la Varietà Infuocata richiama il Toro embolado, in cui viene appiccato fuoco alle corna del toro, mentre la Varietà Acquatica fa riferimento al Bous a la Mar, in cui un branco di tori viene fatto correre per strada e spinto a gettarsi in mare. La Varietà Acquatica può essere anche un riferimento al bufalo d'acqua. La forma delle code delle due varietà alternative richiama il triscele. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tauros",
     "shape": "più di 4 arti",
     "specie": "Pokémon Torobrado",
     "sprites": {
         "tauros": {
             "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0128.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d0/Homemsh0128.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d0/Homemsh0128.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/07/Artwork0128_Corp.png"
         },
-        "forma-di-paldea-varietà-combattiva": {
+        "forma-di-paldea-varieta-combattiva": {
             "default": "https://media.pokemoncentral.it/wiki/2/27/Homem0128C.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0128C.png"
         },
-        "forma-di-paldea-varietà-infuocata": {
+        "forma-di-paldea-varieta-infuocata": {
             "default": "https://media.pokemoncentral.it/wiki/2/24/Homem0128I.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/da/Homemsh0128I.png"
         },
-        "forma-di-paldea-varietà-acquatica": {
+        "forma-di-paldea-varieta-acquatica": {
             "default": "https://media.pokemoncentral.it/wiki/d/df/Homem0128A.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/e6/Homemsh0128A.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/11/Artwork0128_RFVF.png"
     },
     "stats": {
         "tauros": {
@@ -115,7 +124,7 @@
             "spd": 70,
             "spe": 110
         },
-        "forma-di-paldea-varietà-combattiva": {
+        "forma-di-paldea-varieta-combattiva": {
             "hp": 75,
             "atk": 110,
             "def": 105,
@@ -123,7 +132,15 @@
             "spd": 70,
             "spe": 100
         },
-        "-forma-di-paldea-varietà-infuocata-e-forma-di-paldea-varietà-acquatica": {
+        "forma-di-paldea-varieta-infuocata": {
+            "hp": 75,
+            "atk": 110,
+            "def": 105,
+            "spa": 30,
+            "spd": 70,
+            "spe": 100
+        },
+        "forma-di-paldea-varieta-acquatica": {
             "hp": 75,
             "atk": 110,
             "def": 105,
@@ -134,29 +151,30 @@
     },
     "stats_sum": {
         "tauros": 490,
-        "forma-di-paldea-varietà-combattiva": 490,
-        "-forma-di-paldea-varietà-infuocata-e-forma-di-paldea-varietà-acquatica": 490
+        "forma-di-paldea-varieta-combattiva": 490,
+        "forma-di-paldea-varieta-infuocata": 490,
+        "forma-di-paldea-varieta-acquatica": 490
     },
     "types": {
         "tauros": [
             "Normale"
         ],
-        "forma-di-paldea-varietà-combattiva": [
+        "forma-di-paldea-varieta-combattiva": [
             "Lotta"
         ],
-        "forma-di-paldea-varietà-infuocata": [
-            "Lotta",
-            "Fuoco"
+        "forma-di-paldea-varieta-infuocata": [
+            "Fuoco",
+            "Lotta"
         ],
-        "forma-di-paldea-varietà-acquatica": [
+        "forma-di-paldea-varieta-acquatica": [
             "Acqua",
             "Lotta"
         ]
     },
     "weight": {
         "tauros": "88,4 kg",
-        "forma-di-paldea-varietà-combattiva": "115,0 kg",
-        "forma-di-paldea-varietà-infuocata": "85,0 kg",
-        "forma-di-paldea-varietà-acquatica": "110,0 kg"
+        "forma-di-paldea-varieta-combattiva": "115,0 kg",
+        "forma-di-paldea-varieta-infuocata": "85,0 kg",
+        "forma-di-paldea-varieta-acquatica": "110,0 kg"
     }
 }

@@ -20,6 +20,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "volcanion",
     "generation": 7,
     "height": {
         "volcanion": "1,7 m"
@@ -28,13 +29,16 @@
     "name": "Volcanion",
     "name_origin": "Il nome è una combinazione di Volcano  e Lion , potrebbe contenere anche una corruzione di Cannon . ",
     "origin": "Volcanion sembra essere basato sul Ryukyuran, Shisa o al Komainu, creature mitologiche simili a leoni, tigri e cani, le statue di queste creature sono messe in coppia davanti ai templi per invitare spiriti benevoli e scacciare quelli malevoli, l'aspetto meccanico e le \"braccia\" sulla schiena ricordano un carro armato, oppure potrebbe essere basato ad un motore a vapore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Volcanion",
     "shape": "più di 4 arti",
     "specie": "Pokémon Vapore",
     "sprites": {
         "volcanion": {
             "default": "https://media.pokemoncentral.it/wiki/3/3a/Homem0721.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0721.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0721.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/04/Artwork0721_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/01/Artwork0721_ROZA.png"
     },
     "stats": {
         "statistiche-base": {
@@ -51,8 +55,8 @@
     },
     "types": {
         "volcanion": [
-            "Acqua",
-            "Fuoco"
+            "Fuoco",
+            "Acqua"
         ]
     },
     "weight": {

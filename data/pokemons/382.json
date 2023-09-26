@@ -42,6 +42,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "kyogre",
     "generation": 3,
     "height": {
         "kyogre": "4,5 m",
@@ -51,17 +52,21 @@
     "name": "Kyogre",
     "name_origin": "Il nome deriva dal giapponese 海 kai, oceano, ed orca. Potrebbe derivare anche da 海王 Kaio, re del mare, o da 海王星 Kaiōsei, Nettuno; altra possibile origine è eygre, un fenomeno oceanico noto anche come mascheretto. ",
     "origin": "Kyogre è basato principalmente sulla creatura mitologica ebraica nota come Leviatano, il signore degli oceani primordiali, le sue controparti erano il Behemoth e lo Ziz. Proprio come Kyogre con Groudon, anche il Leviatano era destinato a combattere il Behemoth in una battaglia mortale. La parola Leviatano in ebraico significa anche balena, il che può spiegare perché anatomicamente Kyogre assomiglia così tanto alle balene e alle orche. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kyogre",
     "shape": "pinne",
     "specie": "Pokémon Oceano",
     "sprites": {
         "kyogre": {
             "default": "https://media.pokemoncentral.it/wiki/4/46/Homem0382.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0382.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0382.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/06/Artwork0382_Corp_2.png"
         },
         "archeorisveglio": {
             "default": "https://media.pokemoncentral.it/wiki/7/7a/Homem0382A.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f6/Homemsh0382A.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f6/Homemsh0382A.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/62/Artwork0382A_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2c/Artwork0382_RZ.png"
     },
     "stats": {
         "kyogre": {

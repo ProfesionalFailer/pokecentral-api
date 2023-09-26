@@ -52,6 +52,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "cubone",
     "generation": 1,
     "height": {
         "cubone": "0,4 m"
@@ -60,13 +61,16 @@
     "name": "Cubone",
     "name_origin": "Cubone è la combinazione tra le parole inglesi cub  e bone . ",
     "origin": "È probabilmente basato su un dinosauro o sulle ossa di un dinosauro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cubone",
     "shape": "due paia di ali",
     "specie": "Pokémon Solitario",
     "sprites": {
         "cubone": {
             "default": "https://media.pokemoncentral.it/wiki/a/ae/Homem0104.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f8/Homemsh0104.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f8/Homemsh0104.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/67/Artwork0104_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/23/Artwork0104_RFVF.png"
     },
     "stats": {
         "cubone": {

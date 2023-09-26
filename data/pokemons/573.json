@@ -29,6 +29,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "cinccino",
     "generation": 5,
     "height": {
         "cinccino": "0,5 m"
@@ -37,13 +38,16 @@
     "name": "Cinccino",
     "name_origin": "Cinccino deriva dall'italiano cincillà e dall'inglese chino cloth . ",
     "origin": "Cinccino è basato su un cincillà, sebbene per alcuni aspetti ricordi anche i koala, mentre il pelo che gli scende attorno al collo e come coda è basato su uno scialle, una sciarpa, o un boa di piume. Potrebbe essere una critica contro la caccia dei cincillà per ottenere la loro pelliccia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cinccino",
     "shape": "più di 4 arti",
     "specie": "Pokémon Sciarpa",
     "sprites": {
         "cinccino": {
             "default": "https://media.pokemoncentral.it/wiki/1/13/Homem0573.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4f/Homemsh0573.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4f/Homemsh0573.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/69/Artwork0573_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/76/Artwork0573_NB.png"
     },
     "stats": {
         "cinccino": {

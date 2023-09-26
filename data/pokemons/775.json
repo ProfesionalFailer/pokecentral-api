@@ -23,6 +23,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "komala",
     "generation": 7,
     "height": {
         "komala": "0,4 m"
@@ -31,13 +32,16 @@
     "name": "Komala",
     "name_origin": "Komala potrebbe essere una combinazione di coma e koala. Nekkoara potrebbe essere una combinazione di 根っ子 nekko, radice, 寝 ne, sonno, 子 ko, cucciolo, e koala. ",
     "origin": "Komala è ispirato ad un koala. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Komala",
     "shape": "un paio di ali",
     "specie": "Pokémon Dormiveglia",
     "sprites": {
         "komala": {
             "default": "https://media.pokemoncentral.it/wiki/4/47/Homem0775.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0775.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0775.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0775_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/19/Artwork0775_SL.png"
     },
     "stats": {
         "komala": {

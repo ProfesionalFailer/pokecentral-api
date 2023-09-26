@@ -39,6 +39,7 @@
         "Campo",
         "Drago"
     ],
+    "flat_name": "seviper",
     "generation": 3,
     "height": {
         "seviper": "2,7 m"
@@ -47,13 +48,18 @@
     "name": "Seviper",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi severe, violento, intenso, o dal verbo to sever, tagliare, staccare, e viper, vipera. ",
     "origin": "Seviper è basato sugli habu, nome comune dato a varie specie di vipere velenose endemiche della regione del Kyushu, su cui Hoenn è basata. Il suo antagonismo con il Pokémon Zangoose deriva dal fatto che le manguste sono in grado di cacciare i serpenti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Seviper",
     "shape": "testa e gambe",
     "specie": "Pokémon Zannaserpe",
     "sprites": {
         "seviper": {
             "default": "https://media.pokemoncentral.it/wiki/1/1e/Homem0336.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/83/Homemsh0336.png"
-        }
+        },
+        "normale": {
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d9/Artwork0336_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5d/Artwork0336_RZ.png"
     },
     "stats": {
         "seviper": {

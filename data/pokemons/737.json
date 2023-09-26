@@ -23,6 +23,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "charjabug",
     "generation": 7,
     "height": {
         "charjabug": "0,5 m"
@@ -31,13 +32,16 @@
     "name": "Charjabug",
     "name_origin": "Charjabug è una combinazione di charge, inteso come caricare una batteria, e bug . Dendimushi potrebbe essere una combinazione di 電池 denchi  e 地虫 jimushi . ",
     "origin": "Charjabug potrebbe essere ispriato ad un insetto dentro ad un bozzolo e ad una batteria. Il suo verso e la sua forma possono essere ricondotti a quelli di una fisarmonica. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Charjabug",
     "shape": "testa e gambe",
     "specie": "Pokémon Batteria",
     "sprites": {
         "charjabug": {
             "default": "https://media.pokemoncentral.it/wiki/f/f7/Homem0737.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ed/Homemsh0737.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ed/Homemsh0737.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/61/Artwork0737_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/35/Artwork0737_SL.png"
     },
     "stats": {
         "charjabug": {
@@ -54,8 +58,8 @@
     },
     "types": {
         "charjabug": [
-            "Elettro",
-            "Coleot"
+            "Coleot",
+            "Elettro"
         ]
     },
     "weight": {

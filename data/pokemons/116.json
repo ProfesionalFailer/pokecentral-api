@@ -51,6 +51,7 @@
         "Acqua 1",
         "Drago"
     ],
+    "flat_name": "horsea",
     "generation": 1,
     "height": {
         "horsea": "0,4 m"
@@ -59,13 +60,16 @@
     "name": "Horsea",
     "name_origin": "Horsea viene dalla parola inglese seahorse . ",
     "origin": "È basato su un cavalluccio marino. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Horsea",
     "shape": "quadrupede",
     "specie": "Pokémon Drago",
     "sprites": {
         "horsea": {
             "default": "https://media.pokemoncentral.it/wiki/1/19/Homem0116.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0116.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0116.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c4/Artwork0116_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6f/Artwork0116_RFVF.png"
     },
     "stats": {
         "horsea": {

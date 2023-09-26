@@ -1,71 +1,62 @@
 {
     "abilities": {
-        "alirasenti": {
+        "crinealato": {
             "primary": "Paleoattivazione"
         }
     },
     "curiosities": [
-        "Pagine che richiamano file inesistenti",
-        "Pokémon",
-        "Pokémon di nona generazione",
-        "Pokémon di tipo Coleottero",
-        "Pokémon di tipo Lotta",
-        "Pokémon di doppio tipo",
-        "Pokémon nel gruppo di esperienza Lento",
-        "Pokémon di colore Rosso",
-        "Pokémon dalla sagoma n.",
-        "Pokémon di sesso sconosciuto",
-        "Pokémon di Gruppo Uova Sconosciuto",
-        "Pokémon che non fanno parte di una linea di evoluzione",
-        "Pokémon con statistiche base totali di 570",
-        "Pokémon Paradosso"
+        "Crinealato, Peldisabbia e Codaurlante sono gli unici Pokémon Paradosso somiglianti a una fase evolutiva non finale."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/alirasenti.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/crinealato.mp3",
     "dex_entries": {
-        "alirasenti": {
-            "scarlet": "Un Pokémon enigmatico che ha degli aspetti in comune con una creatura presentata come \"Alirasenti\" in un vecchio libro.",
-            "violet": "Ha una leggera somiglianza con un'antichissima forma di Volcarona presentata in una rivista di dubbia attendibilità."
+        "crinealato": {
+            "scarlet": "Le sue caratteristiche sono molto simili a quelle di Crinealato, una creatura di cui si parla in un certo documento.",
+            "violet": "Le sue caratteristiche principali ricordano quelle di uno pterosauro fantasma menzionato in una rivista di paranormale."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "crinealato",
     "generation": 9,
     "height": {
-        "alirasenti": "3,2 m"
+        "crinealato": "1,4 m"
     },
     "id": 987,
-    "name": "Alirasenti",
-    "name_origin": "Alirasenti significa letteralmente ali rasenti. Slither Wing è letteralmente l'unione di slither  e wing . ",
+    "name": "Crinealato",
+    "name_origin": "Crinealato deriva semplicemente dall'accostamento delle parole italiane crine e alato. Il nome inglese Flutter Mane significa letteralmente criniera svolazzante. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Crinealato",
     "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
-        "alirasenti": {
-            "default": "https://media.pokemoncentral.it/wiki/8/8a/Homem0988.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0988.png"
-        }
+        "crinealato": {
+            "default": "https://media.pokemoncentral.it/wiki/6/68/Homem0987.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/47/Homemsh0987.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/ca/Artwork0987_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a6/Artwork0987_SV.png"
     },
     "stats": {
-        "alirasenti": {
-            "hp": 85,
-            "atk": 135,
-            "def": 79,
-            "spa": 85,
-            "spd": 105,
-            "spe": 81
+        "crinealato": {
+            "hp": 55,
+            "atk": 55,
+            "def": 55,
+            "spa": 135,
+            "spd": 135,
+            "spe": 135
         }
     },
     "stats_sum": {
-        "alirasenti": 570
+        "crinealato": 570
     },
     "types": {
-        "alirasenti": [
-            "Coleot",
-            "Lotta"
+        "crinealato": [
+            "Folletto",
+            "Spettro"
         ]
     },
     "weight": {
-        "alirasenti": "92,0 kg"
+        "crinealato": "4,0 kg"
     }
 }

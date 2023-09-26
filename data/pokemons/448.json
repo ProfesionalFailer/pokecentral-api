@@ -61,6 +61,7 @@
         "Campo",
         "Umanoide"
     ],
+    "flat_name": "lucario",
     "generation": 4,
     "height": {
         "lucario": "1,2 m",
@@ -70,17 +71,21 @@
     "name": "Lucario",
     "name_origin": "Il nome di Lucario sembra derivare da una parte della grafia giapponese di oracle  o orichalcum  anagrammata, che riflette la sua ascendenza mitica, la sua capacità di vedere nel soprannaturale ed il suo tipo Acciaio. Può pure riferirsi a Il Cairo in Egitto, o a pharaoh . Anche le parole lupaster, lo sciacallo egiziano, il greco antico λύκος lykos , o aura possono essere coinvolte. ",
     "origin": "Lucario sembra essere basato sul dio egizio Anubis, che ha la testa di uno sciacallo. Sembra anche basarsi su un pugile egiziano. La Boxe è uno sport che si ritiene abbia avuto origine in Egitto. Le appendici nere sulla parte posteriore della sua testa sono utilizzate per rilevare le aure delle creature e degli oggetti intorno ad esso. Mentre Lucario legge l'Aura, chiude gli occhi e pertanto le appendici ed il modo in cui sembrano \"legate\" attorno al suo volto lo fanno apparire come basato su qualcuno di bendato. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lucario",
     "shape": "due paia di ali",
     "specie": "Pokémon Aura",
     "sprites": {
         "lucario": {
             "default": "https://media.pokemoncentral.it/wiki/e/ee/Homem0448.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/70/Homemsh0448.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/70/Homemsh0448.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d9/Artwork0448_Corp.png"
         },
         "megalucario": {
             "default": "https://media.pokemoncentral.it/wiki/8/8e/Homem0448M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0448M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0448M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/af/Artwork0448M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/be/Artwork0448_DLPS.png"
     },
     "stats": {
         "lucario": {

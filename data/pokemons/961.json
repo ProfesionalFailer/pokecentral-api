@@ -30,6 +30,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "wugtrio",
     "generation": 9,
     "height": {
         "wugtrio": "1,2 m"
@@ -38,13 +39,16 @@
     "name": "Wugtrio",
     "name_origin": "Wugtrio potrebbe essere una combinazione delle parole water  o wiggle  e Dugtrio. Umitrio potrebbe essere una combinazione di 海 umi, mare, e Dugtrio. ",
     "origin": "Wugtrio potrebbe essere ispirato a pesci marini come gronghi e murene che vivono tra le rocce e tra le quali cercano le prede. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wugtrio",
     "shape": "None",
     "specie": "Pokémon Grongo",
     "sprites": {
         "wugtrio": {
             "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0961.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/24/Homemsh0961.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/24/Homemsh0961.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5b"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0961_SV.png"
     },
     "stats": {
         "wugtrio": {

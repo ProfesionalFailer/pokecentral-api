@@ -39,6 +39,7 @@
         "Acqua 1",
         "Magico"
     ],
+    "flat_name": "phione",
     "generation": 4,
     "height": {
         "phione": "0,4 m"
@@ -47,13 +48,16 @@
     "name": "Phione",
     "name_origin": "Il suo nome potrebbe derivare dalle parole inglesi fairy  e clione . ",
     "origin": "Phione è basato su un gimnosomato, un gasteropode che è curiosamente chiamato anche \"Angelo di mare\". ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Phione",
     "shape": "insettoide",
     "specie": "Pokémon Oceanbondo",
     "sprites": {
         "phione": {
             "default": "https://media.pokemoncentral.it/wiki/6/62/Homem0489.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0489.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0489.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d5/Artwork0489_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/09/Artwork0489_DP.png"
     },
     "stats": {
         "phione": {

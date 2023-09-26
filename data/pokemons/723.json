@@ -23,6 +23,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "dartrix",
     "generation": 7,
     "height": {
         "dartrix": "0,7 m"
@@ -31,13 +32,16 @@
     "name": "Dartrix",
     "name_origin": "Dartrix potrebbe essere una combinazione di darts, dardo e dal genere Strix o tricks, trucchi. Fukusurō potrebbe derivare da 梟 fukurō, gufo, e throw, scagliare. ",
     "origin": "Dartrix sembra essere basato su un gufo e sull'archetipo di una persona elegante. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dartrix",
     "shape": "testa e base",
     "specie": "Pokémon Piumaffilata",
     "sprites": {
         "dartrix": {
             "default": "https://media.pokemoncentral.it/wiki/f/f6/Homem0723.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0723.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0723.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/96/Artwork0723_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b8/Artwork0723_SL.png"
     },
     "stats": {
         "dartrix": {

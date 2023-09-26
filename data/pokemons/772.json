@@ -28,6 +28,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "tipo-zero",
     "generation": 7,
     "height": {
         "tipo-zero": "1,9 m"
@@ -36,13 +37,16 @@
     "name": "Tipo Zero",
     "name_origin": "Tipo Zero è una sorta di nome in codice. Type: Null significa letteralmente \"tipo nullo\". ",
     "origin": "Sembra che Tipo Zero sia basato su una chimera e su un grifone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tipo_Zero",
     "shape": "più di 4 arti",
     "specie": "Pokémon Multigene",
     "sprites": {
         "tipo-zero": {
             "default": "https://media.pokemoncentral.it/wiki/d/d1/Homem0772.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9e/Homemsh0772.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9e/Homemsh0772.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/ca/Artwork0772_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0772_SL.png"
     },
     "stats": {
         "tipo-zero": {

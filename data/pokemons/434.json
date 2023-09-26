@@ -37,6 +37,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "stunky",
     "generation": 4,
     "height": {
         "stunky": "0,4 m"
@@ -45,13 +46,16 @@
     "name": "Stunky",
     "name_origin": "Il nome deriva dalla combinazione delle parole inglesi skunk, moffetta, e stinky, puzzolente. ",
     "origin": "È basato su una moffetta, ma ha anche delle somiglianze con un gatto, il che rispecchia il fatto che le piccole moffette in inglese possono essere chiamate kittens . ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Stunky",
     "shape": "più di 4 arti",
     "specie": "Pokémon Moffetta",
     "sprites": {
         "stunky": {
             "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0434.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0434.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0434.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/ac/Artwork0434_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b8/Artwork0434_DP.png"
     },
     "stats": {
         "stunky": {
@@ -68,8 +72,8 @@
     },
     "types": {
         "stunky": [
-            "Buio",
-            "Veleno"
+            "Veleno",
+            "Buio"
         ]
     },
     "weight": {

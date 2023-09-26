@@ -54,6 +54,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "goldeen",
     "generation": 1,
     "height": {
         "goldeen": "0,6 m"
@@ -62,17 +63,20 @@
     "name": "Goldeen",
     "name_origin": "È la combinazione di goldfish  e queen . ",
     "origin": "Goldeen si basa su un pesce rosso. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Goldeen",
     "shape": "pinne",
     "specie": "Pokémon Pescerosso",
     "sprites": {
-        "": {
+        "goldeen": {
             "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem0118.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0118.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0118.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f9/Artwork0118_Corp.png"
         },
-        "-f": {
+        "goldeen-f": {
             "default": "https://media.pokemoncentral.it/wiki/6/68/Homef0118.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homefsh0118.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/da/Artwork0118_RFVF.png"
     },
     "stats": {
         "goldeen": {

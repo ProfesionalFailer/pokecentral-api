@@ -49,6 +49,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "kakuna",
     "generation": 1,
     "height": {
         "kakuna": "0,6 m"
@@ -57,13 +58,16 @@
     "name": "Kakuna",
     "name_origin": "Kakuna potrebbe essere una corruzione di cocoon, bozzolo. Cocoon potrebbe derivare da コクーン cocoon, bozzolo. ",
     "origin": "Kakuna potrebbe essere basato su una pupa d'ape o di vespa. Nello specifico, potrebbe essere basato su una pupa di ape comune. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kakuna",
     "shape": "testa e gambe",
     "specie": "Pokémon Bozzolo",
     "sprites": {
         "kakuna": {
             "default": "https://media.pokemoncentral.it/wiki/8/83/Homem0014.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0014.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0014.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ed/Artwork0014_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/55/Artwork0014_RFVF.png"
     },
     "stats": {
         "kakuna": {
@@ -80,8 +84,8 @@
     },
     "types": {
         "kakuna": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {

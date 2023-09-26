@@ -26,6 +26,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "passimian",
     "generation": 7,
     "height": {
         "passimian": "2,0 m"
@@ -34,13 +35,16 @@
     "name": "Passimian",
     "name_origin": "Passamian deriva da pass, passare, e simian, scimmiesco. Nagetsukesaru deriva da 投げつける nagetsukeru, lanciare, e 猿 saru, scimmia. ",
     "origin": "Passimian sembra essere ispirato ad un lemure o ad un sifaka, e ad un giocatore di Rugby. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Passimian",
     "shape": "due paia di ali",
     "specie": "Pokémon Giocosquadra",
     "sprites": {
         "passimian": {
             "default": "https://media.pokemoncentral.it/wiki/c/c0/Homem0766.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/22/Homemsh0766.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/22/Homemsh0766.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0766_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/93/Artwork0766_SL.png"
     },
     "stats": {
         "passimian": {

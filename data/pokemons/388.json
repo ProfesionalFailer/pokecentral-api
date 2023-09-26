@@ -37,6 +37,7 @@
         "Mostro",
         "Erba"
     ],
+    "flat_name": "grotle",
     "generation": 4,
     "height": {
         "grotle": "1,1 m"
@@ -45,13 +46,16 @@
     "name": "Grotle",
     "name_origin": "Il nome deriva dall'unione fra le parole grove  o grotto  e turtle  ",
     "origin": "Grotle deriva probabilmente dalla comune tartaruga azzannatrice. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Grotle",
     "shape": "più di 4 arti",
     "specie": "Pokémon Boschetto",
     "sprites": {
         "grotle": {
             "default": "https://media.pokemoncentral.it/wiki/e/e2/Homem0388.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0388.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0388.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/eb/Artwork0388_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8b/Artwork0388_DP.png"
     },
     "stats": {
         "grotle": {

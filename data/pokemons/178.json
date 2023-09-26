@@ -44,25 +44,29 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "xatu",
     "generation": 2,
     "height": {
         "xatu": "1,5 m"
     },
     "id": 178,
     "name": "Xatu",
-    "name_origin": "L'origine del nome è stato rivelato da Jeff Kalles, uno dei responsabili dell'adattamento dei nomi dal giapponese all'americano: la X in Xatu deriva dal fatto che la Pokémon Company desiderasse avere almeno un Pokémon per ogni lettera dell' alfabeto, atu invece come in Natu è l'abbreviazione della parola natura. ",
+    "name_origin": "L'origine del nome è stato rivelato da Jeff Kalles, uno dei responsabili dell'adattamento dei nomi dal giapponese all'americano: la X in Xatu deriva dal fatto che la Pokémon Company desiderasse avere almeno un Pokémon per ogni lettera dell'alfabeto, atu invece come in Natu è l'abbreviazione della parola natura. ",
     "origin": "Sembra essere basato su un Quetzal splendente con elementi di design simili a un totem dei nativi americani o dei Kachina. Il fatto che rimanga sempre fermo ricorda la meditazione Sun Gazing, nella quale infatti bisogna stare fermi in contemplazione. Questa pratica di meditazione è di origine Atzeca e si dice che conferisca abilità psichiche, che gli Xatu hanno. Potrebbe essere anche ispirato a Camio, un demone dalla testa di uccello capace di prevedere il futuro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Xatu",
     "shape": "testa e base",
     "specie": "Pokémon Magico",
     "sprites": {
-        "": {
+        "xatu": {
             "default": "https://media.pokemoncentral.it/wiki/0/0a/Homem0178.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh0178.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh0178.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a5/Artwork0178_Corp.png"
         },
-        "-f": {
+        "xatu-f": {
             "default": "https://media.pokemoncentral.it/wiki/e/ea/Homef0178.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homefsh0178.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/23/Artwork0178_HGSS.png"
     },
     "stats": {
         "xatu": {

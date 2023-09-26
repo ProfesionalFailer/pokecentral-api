@@ -20,6 +20,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "glastrier",
     "generation": 8,
     "height": {
         "glastrier": "2,20 m"
@@ -28,13 +29,16 @@
     "name": "Glastrier",
     "name_origin": "Glastrier potrebbe essere una combinazione di glacier, glaciale, e rider, cavallerizzo, o destrier, destriero. Blizzapos potrebbe essere una combinazione di blizzard, bufera, e ἴππος híppos, cavallo in greco o horse, cavallo. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Glastrier",
     "shape": "più di 4 arti",
     "specie": "Pokémon Furiequino",
     "sprites": {
         "glastrier": {
             "default": "https://media.pokemoncentral.it/wiki/5/5b/Homem0896.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/96/Homemsh0896.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/96/Homemsh0896.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/45/Artwork0896_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0896_SpSc.png"
     },
     "stats": {
         "glastrier": {

@@ -50,6 +50,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "starmie",
     "generation": 1,
     "height": {
         "starmie": "1,1 m"
@@ -58,13 +59,16 @@
     "name": "Starmie",
     "name_origin": "Il nome di Starmie deriva da star, stella, e mie, probabilmente una corruzione di me, me, in opposizione allo yu di Staryu. Il suo nome potrebbe anche contenere 珠 mi, gemma, in riferimento al suo nucleo. ",
     "origin": "È una stella marina stilizzata, particolarmente simile alla specie Acanthaster planci. In alcuni dei suoi sprite assomiglia ad una bussola. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Starmie",
     "shape": "quadrupede",
     "specie": "Pokémon Misterioso",
     "sprites": {
         "starmie": {
             "default": "https://media.pokemoncentral.it/wiki/b/b9/Homem0121.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homemsh0121.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homemsh0121.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/70/Artwork0121_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a7/Artwork0121_RFVF.png"
     },
     "stats": {
         "starmie": {

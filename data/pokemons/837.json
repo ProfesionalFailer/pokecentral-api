@@ -23,6 +23,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "rolycoly",
     "generation": 8,
     "height": {
         "rolycoly": "0,3 m"
@@ -31,13 +32,16 @@
     "name": "Rolycoly",
     "name_origin": "Rokycoly potrebbe essere una combinazione di roly-poly, cicciotto, e coal, carbone. Tandon potrebbe essere una combinazione di 炭 tan, carbone, e どん don, sparo. ",
     "origin": "Rolycoly potrebbe essere basato su un pezzo di carbone e su una ruota. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rolycoly",
     "shape": "testa",
     "specie": "Pokémon Carbone",
     "sprites": {
         "rolycoly": {
             "default": "https://media.pokemoncentral.it/wiki/8/8f/Homem0837.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0837.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0837.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a0"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0d/Artwork0837_SpSc.png"
     },
     "stats": {
         "rolycoly": {

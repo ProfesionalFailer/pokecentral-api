@@ -64,6 +64,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "magneton",
     "generation": 1,
     "height": {
         "magneton": "1,0 m"
@@ -72,13 +73,16 @@
     "name": "Magneton",
     "name_origin": "Magneton potrebbe essere un riferimento al magnetone, l'unità del momento magnetico, o ad un magnetron che forma il nucleo di un forno a microonde. Rarecoil potrebbe essere un riferimento ai magneti delle terre rare. ",
     "origin": "Magneton è un insieme di tre Magnemite, che a loro volta sembrano l'oggettivazione dell'Interazione elettromagnetica, una delle quattro Interazioni fondamentali. Probabilmente sono uniti tra loro tramite una forte forze elettromagnetica. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Magneton",
     "shape": "bipedi",
     "specie": "Pokémon Calamita",
     "sprites": {
         "magneton": {
             "default": "https://media.pokemoncentral.it/wiki/4/42/Homem0082.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e4/Homemsh0082.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e4/Homemsh0082.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/66/Artwork0082_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/20/Artwork0082_RFVF.png"
     },
     "stats": {
         "magneton": {

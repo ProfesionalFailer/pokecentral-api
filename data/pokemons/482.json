@@ -32,6 +32,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "azelf",
     "generation": 4,
     "height": {
         "azelf": "0,3 m"
@@ -40,13 +41,16 @@
     "name": "Azelf",
     "name_origin": "Deriva dalle parole inglesi us , azure  ed elf . ",
     "origin": "Potrebbe basarsi su uno spirito fatato e sul colore ciano, in quanto colore primario insieme al giallo e al magenta . Inoltre si ispira al Ama no Murakumo, la spada del paradiso simbolo di valore, una delle insegne imperiali del giappone, sulle quali l'intero trio dei Guardiani dei laghi si basa. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Azelf",
     "shape": "due paia di ali",
     "specie": "Pokémon Volontà",
     "sprites": {
         "azelf": {
             "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem0482.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/3d/Homemsh0482.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3d/Homemsh0482.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5d/Artwork0482_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c8/Artwork0482_DP.png"
     },
     "stats": {
         "azelf": {

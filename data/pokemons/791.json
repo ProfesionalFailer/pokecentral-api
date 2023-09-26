@@ -27,6 +27,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "solgaleo",
     "generation": 7,
     "height": {
         "solgaleo": "3,4 m"
@@ -35,13 +36,16 @@
     "name": "Solgaleo",
     "name_origin": "Da sol, radice latina per sole, e da leo, leone. Potrebbe anche esserci un riferimento allo scienziato e astronomo Galileo Galilei. Il verso di Solgaleo in Pokémon Sole viene scritto come \"la-liona\", basato sulle parole lā  e liona . ",
     "origin": "È probabilmente basato su un leone, a cui sono stati aggiunti elementi del sole. Potrebbe anche essere basato, in particolare per il suo pseudonimo di Pokémon che divora il sole, sulla rappresentazione, in alchimia, della raffinazione dei metalli: un leone che divora il sole, per l'appunto. Questo spiegherebbe il perché del suo tipo Acciaio.\nRappresentando il sole ed essendo uno dei due ultimi stadi della sua famiglia evolutiva, assieme alle sue forme pre-evolutive, Solgaleo si rifa anche alla nascita di una stella. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Solgaleo",
     "shape": "più di 4 arti",
     "specie": "Pokémon Solare",
     "sprites": {
         "solgaleo": {
             "default": "https://media.pokemoncentral.it/wiki/7/73/Homem0791.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0791.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0791.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cf/Artwork0791_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7a/Artwork0791_SL.png"
     },
     "stats": {
         "solgaleo": {

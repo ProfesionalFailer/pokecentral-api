@@ -45,6 +45,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "wurmple",
     "generation": 3,
     "height": {
         "wurmple": "0,30 m"
@@ -53,13 +54,16 @@
     "name": "Wurmple",
     "name_origin": "Il suo nome è la combinazione di \"worm\"  e \"rumple\"  oppure da \"Simple\" . ",
     "origin": "Wurmple è basato su un bruco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wurmple",
     "shape": "testa e braccia",
     "specie": "Pokémon Baco",
     "sprites": {
         "wurmple": {
             "default": "https://media.pokemoncentral.it/wiki/4/4d/Homem0265.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7c/Homemsh0265.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7c/Homemsh0265.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/36"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/99/Artwork0265_RZ.png"
     },
     "stats": {
         "wurmple": {

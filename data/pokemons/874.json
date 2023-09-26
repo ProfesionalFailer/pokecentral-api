@@ -5,7 +5,8 @@
         }
     },
     "curiosities": [
-        "Stonjourner condivide con Magikarp, Carvanha, Igglybuff, Caterpie, Weedle e Deoxys Forma Attacco la Difesa Speciale più bassa tra tutti i Pokémon."
+        "Stonjourner condivide con Magikarp, Carvanha, Igglybuff, Caterpie, Weedle e Deoxys Forma Attacco la Difesa Speciale più bassa tra tutti i Pokémon.",
+        "Stonjourner può essere visto come il parallelo di Eiscue. Sono entrambi Pokémon di ottava generazione che non si evolvono con la stessa somma di statistiche base. Inoltre, Stonjourner è esclusivo di Spada e Scarlatto, mentre Eiscue è esclusivo di Scudo e Violetto."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/stonjourner.mp3",
     "dex_entries": {
@@ -19,6 +20,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "stonjourner",
     "generation": 8,
     "height": {
         "stonjourner": "2,5 m"
@@ -27,13 +29,16 @@
     "name": "Stonjourner",
     "name_origin": "Stonjourner potrebbe essere una combinazione di stone, pietra, e sojourner, pellegrino, o journey, viaggio. Ishihengin potrebbe essere una combinazione di 石 ishi, pietra, Stonehenge, e 変人 henjin, bizzarro, o 人 jin, uomo. ",
     "origin": "Stonjourner potrebbe essere basato sullo Stonehenge, un sito neolitico che si trova nello Wiltshire, in Inghilterra. È composto da un insieme circolare di grosse pietre erette. Il comportamento di Stonjourner può fare riferimento al rapporto tra Stonehenge e l'astronomia e al fatto che ci siano prove che questo monumento era visitato una volta all'anno da una cultura preistorica. Stonjourner potrebbe essere basato anche sull'Inukshuk. Le croci e la terra sulle sue \"zampe\" potrebbero rappresentare gli scarponcini utilizzati dagli escursionisti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Stonjourner",
     "shape": "corpi multipli",
     "specie": "Pokémon Megalito",
     "sprites": {
         "stonjourner": {
             "default": "https://media.pokemoncentral.it/wiki/4/4f/Homem0874.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8a/Homemsh0874.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8a/Homemsh0874.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/9d"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/00/Artwork0874_SpSc.png"
     },
     "stats": {
         "stonjourner": {

@@ -31,6 +31,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "mandibuzz",
     "generation": 5,
     "height": {
         "mandibuzz": "1,2 m"
@@ -39,13 +40,16 @@
     "name": "Mandibuzz",
     "name_origin": "Il nome Mandibuzz deriva dal termine inglese mandible , o dallo spagnolo mandil , e sempre dall'inglese buzzard . ",
     "origin": "Mandibuzz, come la sua pre-evoluzione Vullaby, è basato su un avvoltoio, come il condor della California. Il suo aspetto ricorda anche lo stereotipo di un guerriero barbaro. Inoltre il suo grembiule provvisto di spuntoni sembra la parte inferiore di un teschio capovolta , che andrebbe a completare la parte superiore del teschio presente in Vullaby. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mandibuzz",
     "shape": "testa e base",
     "specie": "Pokémon Ossaquila",
     "sprites": {
         "mandibuzz": {
             "default": "https://media.pokemoncentral.it/wiki/e/e4/Homef0630.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ec/Homefsh0630.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ec/Homefsh0630.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/7c/Artwork0630_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b3/Artwork0630_NB.png"
     },
     "stats": {
         "mandibuzz": {
@@ -62,8 +66,8 @@
     },
     "types": {
         "mandibuzz": [
-            "Buio",
-            "Volante"
+            "Volante",
+            "Buio"
         ]
     },
     "weight": {

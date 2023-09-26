@@ -55,6 +55,7 @@
     "egg_groups": [
         "Magico"
     ],
+    "flat_name": "blissey",
     "generation": 2,
     "height": {
         "blissey": "1,5 m"
@@ -63,13 +64,16 @@
     "name": "Blissey",
     "name_origin": "Il nome di Blissey deriva dalla parola bliss , analogamente alla sua forma baby Happiny che deriva da happy, felice. Ha in oltre la stessa desinenza finale, -sey, della sua pre-evoluzione Chansey.\nIl nome originale giapponese Happinas potrebbe essere una combinazione di happiness, felicità, e nurse, infermiera, o semplicemente una contrazione della parola happiness. \"Nasu\" significa anche melanzana in giapponese, il che potrebbe anche far pensare ad un gioco di parole basato sulla forma fisica di questa linea evolutiva o della sua attinenza con le uova. ",
     "origin": "Potrebbe essere basata su un'infermiera, in l’articolare condivide in parte il design con l'Infermiera Joy dell'anime, sia nei vestiti che nei capelli.\nLa sua abitudine di trasportare uova nel marsupio che ha sulla pancia potrebbe essere ispirata ai marsupiali. Blissey potrebbe anche essere basato in generale sul concetto di femminilità, maternità e prosperità. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Blissey",
     "shape": "un paio di ali",
     "specie": "Pokémon Felicità",
     "sprites": {
         "blissey": {
             "default": "https://media.pokemoncentral.it/wiki/b/b9/Homef0242.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homefsh0242.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homefsh0242.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b4/Artwork0242_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/88/Artwork0242_HGSS.png"
     },
     "stats": {
         "blissey": {

@@ -40,6 +40,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "munchlax",
     "generation": 4,
     "height": {
         "munchlax": "0,6 m"
@@ -48,13 +49,16 @@
     "name": "Munchlax",
     "name_origin": "Il nome potrebbe derivare dalla combinazione tra i verbi inglesi munch, masticare, biascicare, e lax, infiacchito, pigro, negligente, o relax, rilassarsi. ",
     "origin": "Basato su un cucciolo d'orso. Questo è confermato dal fatto che può essere trovato su alcuni Alberi del Miele, che alcune specie di orso adorano particolarmente, e che ha l'abitudine di mangiare a volontà, proprio come gli orsi prima del letargo, rappresentato dalla sua pigrizia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Munchlax",
     "shape": "un paio di ali",
     "specie": "Pokémon Ghiottone",
     "sprites": {
         "munchlax": {
             "default": "https://media.pokemoncentral.it/wiki/b/b5/Homem0446.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0446.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0446.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/89/Artwork0446_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/ff/Artwork0446_DP.png"
     },
     "stats": {
         "munchlax": {

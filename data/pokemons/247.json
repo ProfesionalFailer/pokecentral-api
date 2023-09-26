@@ -50,6 +50,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "pupitar",
     "generation": 2,
     "height": {
         "pupitar": "1,2 m"
@@ -58,13 +59,16 @@
     "name": "Pupitar",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi pupa e tar . ",
     "origin": "Pupitar è basato su una crisalide. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pupitar",
     "shape": "testa e gambe",
     "specie": "Pokémon Guscioduro",
     "sprites": {
         "pupitar": {
             "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem0247.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d0/Homemsh0247.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d0/Homemsh0247.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/bf/Artwork0247_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/16/Artwork0247_HGSS.png"
     },
     "stats": {
         "pupitar": {

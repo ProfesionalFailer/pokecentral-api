@@ -18,6 +18,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "spectrier",
     "generation": 8,
     "height": {
         "spectrier": "2,0 m"
@@ -26,13 +27,16 @@
     "name": "Spectrier",
     "name_origin": "Spectrier potrebbe essere una combinazione di spectre, spettro, e rider, cavallerizzo, o destrier, destriero. Wraithpos potrebbe essere una combinazione di wraith, demone, e horse, cavallo. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spectrier",
     "shape": "più di 4 arti",
     "specie": "Pokémon Sveltequino",
     "sprites": {
         "spectrier": {
             "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0897.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0897.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0897.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a8/Artwork0897_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a5/Artwork0897_SpSc.png"
     },
     "stats": {
         "spectrier": {

@@ -29,6 +29,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "tarountula",
     "generation": 9,
     "height": {
         "tarountula": "0,3 m"
@@ -37,13 +38,16 @@
     "name": "Tarountula",
     "name_origin": "Tarountula potrebbe essere una combinazione di tarantula  e round . Tamanchura potrebbe essere una combinazione di 球 tama  e tarantula. ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tarountula",
     "shape": "None",
     "specie": "Pokémon Gomitolo",
     "sprites": {
         "tarountula": {
             "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0917.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0917.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0917.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1a"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/30/Artwork0917_SV.png"
     },
     "stats": {
         "tarountula": {

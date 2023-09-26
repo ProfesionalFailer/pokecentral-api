@@ -35,6 +35,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "darkrai",
     "generation": 4,
     "height": {
         "darkrai": "1,5 m"
@@ -43,13 +44,16 @@
     "name": "Darkrai",
     "name_origin": "Il suo nome deriva dall'unione della parola inglese dark  con la parola giapponese 暗い kurai  o anche con la parola hindi rai . ",
     "origin": "Darkrai è ispirato ad un'ombra e molto probabilmente sulla rappresentazione di un incubo. Potrebbe inoltre ispirarsi all'uomo nero, o a Fobetore, il dio greco che portava gli incubi alle persone. Sembrerebbe anche essere una materializzazione vivente del buio e dell'oscurità, dato anche il suo tipo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Darkrai",
     "shape": "un paio di ali",
     "specie": "Pokémon Neropesto",
     "sprites": {
         "darkrai": {
             "default": "https://media.pokemoncentral.it/wiki/7/73/Homem0491.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8e/Homemsh0491.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8e/Homemsh0491.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/df/Artwork0491_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b7/Artwork0491_DP.png"
     },
     "stats": {
         "darkrai": {

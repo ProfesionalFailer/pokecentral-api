@@ -25,6 +25,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "amaura",
     "generation": 6,
     "height": {
         "amaura": "1,3 m"
@@ -33,13 +34,16 @@
     "name": "Amaura",
     "name_origin": "Amaura è una contrazione di Amargasaurus unito ad aurora. Amarus è una contrazione di Amargasaurus. ",
     "origin": "Amaura è basato su vari sauropodi come il Diplodocus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Amaura",
     "shape": "più di 4 arti",
     "specie": "Pokémon Tundra",
     "sprites": {
         "amaura": {
             "default": "https://media.pokemoncentral.it/wiki/b/b5/Homem0698.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ee/Homemsh0698.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ee/Homemsh0698.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/16/Artwork0698_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/18/Artwork0698_XY.png"
     },
     "stats": {
         "amaura": {
@@ -56,8 +60,8 @@
     },
     "types": {
         "amaura": [
-            "Roccia",
-            "Ghiaccio"
+            "Ghiaccio",
+            "Roccia"
         ]
     },
     "weight": {

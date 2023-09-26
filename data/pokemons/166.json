@@ -57,6 +57,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "ledian",
     "generation": 2,
     "height": {
         "ledian": "1,4 m"
@@ -65,17 +66,20 @@
     "name": "Ledian",
     "name_origin": "Il suo nome puo' derivare dall'unione delle parole ladybug  e alien . ",
     "origin": "Basato su una coccinella e un grigio, una specie di razza aliena. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ledian",
     "shape": "testa e base",
     "specie": "Pokémon Pentastra",
     "sprites": {
-        "": {
+        "ledian": {
             "default": "https://media.pokemoncentral.it/wiki/1/1b/Homem0166.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0166.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0166.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/54/Artwork0166_Corp.png"
         },
-        "-f": {
+        "ledian-f": {
             "default": "https://media.pokemoncentral.it/wiki/7/78/Homef0166.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d7/Homefsh0166.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/47/Artwork0166_HGSS.png"
     },
     "stats": {
         "ledian": {
@@ -92,8 +96,8 @@
     },
     "types": {
         "ledian": [
-            "Volante",
-            "Coleot"
+            "Coleot",
+            "Volante"
         ]
     },
     "weight": {

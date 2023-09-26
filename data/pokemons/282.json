@@ -54,6 +54,7 @@
         "Umanoide",
         "VIII"
     ],
+    "flat_name": "gardevoir",
     "generation": 3,
     "height": {
         "gardevoir": "1,60 m"
@@ -62,17 +63,20 @@
     "name": "Gardevoir",
     "name_origin": "Gardevoir può essere una combinazione di garde, francese per la guardia, e devoir, francese per dovere. Può anche essere una combinazione di garder, verbo francese per tenere, e voir, verbo francese per vedere. Il suo nome si riflette nei suoi Dati Pokédex, che spiegano come Gardevoir proteggerà il suo allenatore anche a costo della propria vita e che Gardevoir ha la capacità di vedere nel futuro, creare piccoli buchi neri e capire i sentimenti di Pokémon e umani telepaticamente. Il suo nome giapponese, サーナイト Sirknight, potrebbe derivare dall'unione delle parole inglesi sir e knight, cavaliere. ",
     "origin": "Gardevoir somiglia ad una ballerina da sala. La sua testa esagerata con minima espressione facciale è un complesso delicato. Per come si attacca agli allenatori potrebbe essere definito un angelo custode, ma anche un fantasma che non vuole lasciare questo mondo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gardevoir",
     "shape": "un paio di ali",
     "specie": "Pokémon Abbraccio",
     "sprites": {
         "gardevoir": {
             "default": "https://media.pokemoncentral.it/wiki/7/70/Homem0282.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0282.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0282.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/22/Artwork0282M_Corp.png"
         },
         "megagardevoir": {
             "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem0282M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d7/Homemsh0282M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1c/Artwork0282_RZ.png"
     },
     "stats": {
         "gardevoir": {

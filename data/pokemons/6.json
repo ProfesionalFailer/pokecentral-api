@@ -1,6 +1,10 @@
 {
     "abilities": {
-        "charizard-e-charizard-gigamax": {
+        "charizard": {
+            "primary": "Aiutofuoco",
+            "hidden": "Solarpotere"
+        },
+        "charizard-gigamax": {
             "primary": "Aiutofuoco",
             "hidden": "Solarpotere"
         },
@@ -77,6 +81,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "charizard",
     "generation": 1,
     "height": {
         "charizard": "1,7 m",
@@ -88,12 +93,14 @@
     "name": "Charizard",
     "name_origin": "Charizard potrebbe essere una combinazione di char, carbonizzare, e lizard, lucertola. Lizardon potrebbe essere una combinazione di リザード rizādo, lucertola, e ドン don, dente in greco antico, ドン don, dominare , o ドラゴン dragon, drago. ",
     "origin": "Charizard e la sua famiglia evolutiva sono basati su una lucertola, probabilmente sulla salamandra mitologica. Secondo Ken Sugimori e Atsuko Nishida, Charizard sarebbe stato progettato per primo e, solo in seguito, sarebbero stati progettati Charmander ed Charmeleon, direttamente basati sulla sua forma finale. Charizard potrebbe essere quindi basato su un drago europeo, il quale è estremamente associato all'elemento del fuoco nel folklore europeo. L'aspetto draconico si rifletterebbe sulla combinazione di tipo Fuoco/Drago di MegaCharizard X. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Charizard",
     "shape": "due paia di ali",
     "specie": "Pokémon Fiamma",
     "sprites": {
         "charizard": {
             "default": "https://media.pokemoncentral.it/wiki/0/01/Homem0006.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b9/Homemsh0006.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b9/Homemsh0006.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/78/Artwork0006MY_Corp.png"
         },
         "megacharizard-x": {
             "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0006MX.png",
@@ -106,10 +113,19 @@
         "charizard-gigamax": {
             "default": "https://media.pokemoncentral.it/wiki/2/2a/Homem0006Gi.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/4a/Homemsh0006Gi.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/48/Artwork0006_RFVF.png"
     },
     "stats": {
-        "charizard-e-charizard-gigamax": {
+        "charizard": {
+            "hp": 78,
+            "atk": 84,
+            "def": 78,
+            "spa": 109,
+            "spd": 85,
+            "spe": 100
+        },
+        "charizard-gigamax": {
             "hp": 78,
             "atk": 84,
             "def": 78,
@@ -135,18 +151,23 @@
         }
     },
     "stats_sum": {
-        "charizard-e-charizard-gigamax": 534,
+        "charizard": 534,
+        "charizard-gigamax": 534,
         "megacharizard-x": 634,
         "megacharizard-y": 634
     },
     "types": {
         "charizard": [
-            "Volante",
-            "Fuoco"
+            "Fuoco",
+            "Volante"
         ],
-        "-megacharizard-y-e-charizard-gigamax": [
-            "Volante",
-            "Fuoco"
+        "megacharizard-y": [
+            "Fuoco",
+            "Volante"
+        ],
+        "charizard-gigamax": [
+            "Fuoco",
+            "Volante"
         ],
         "megacharizard-x": [
             "Fuoco",

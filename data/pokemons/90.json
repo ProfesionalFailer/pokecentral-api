@@ -61,6 +61,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "shellder",
     "generation": 1,
     "height": {
         "shellder": "0,3 m"
@@ -69,13 +70,16 @@
     "name": "Shellder",
     "name_origin": "Il nome Shellder deriva da \"shell\" , riferendosi al fatto che vive in una conchiglia; potrebbe anche essere un gioco di parole con \"shelter\", riparo, riferimento al fatto che si nasconde nella conchiglia. ",
     "origin": "Shellder è simile ai molluschi bivalvi, in particolare alla vongola. La sua lingua può rappresentare il \"piede\" della vongola. Potrebbe anche essere basato su una sanguisuga, visto il rapporto che ha con Slowpoke, infatti Slowbro è conosciuto come Pokémon paguro e spesso le sanguisughe attaccano i granchi nel mondo reale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shellder",
     "shape": "testa",
     "specie": "Pokémon Bivalve",
     "sprites": {
         "shellder": {
             "default": "https://media.pokemoncentral.it/wiki/6/66/Homem0090.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0090.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0090.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/f/f0/Artwork0090_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8a/Artwork0090_RFVF.png"
     },
     "stats": {
         "shellder": {

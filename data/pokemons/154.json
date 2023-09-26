@@ -39,6 +39,7 @@
         "Mostro",
         "Erba"
     ],
+    "flat_name": "meganium",
     "generation": 2,
     "height": {
         "meganium": "1,8 m"
@@ -47,17 +48,20 @@
     "name": "Meganium",
     "name_origin": "Il suo nome deriva dal prefisso mega e dalla parola geranium, geranio. ",
     "origin": "Meganium sembra essere ispirato ad un sauropode, per la precisione ad un apatosauro, mentre i petali attorno al collo ricordano un Geranio Hibicus o un Amorphophallus Titanum o addirittura al Hippeastrum. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Meganium",
     "shape": "più di 4 arti",
     "specie": "Pokémon Erbe",
     "sprites": {
-        "": {
+        "meganium": {
             "default": "https://media.pokemoncentral.it/wiki/9/91/Homem0154.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e2/Homemsh0154.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e2/Homemsh0154.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ea/Artwork0154_Corp_2.png"
         },
-        "-f": {
+        "meganium-f": {
             "default": "https://media.pokemoncentral.it/wiki/8/8b/Homef0154.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homefsh0154.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f0/Artwork0154_HGSS.png"
     },
     "stats": {
         "meganium": {

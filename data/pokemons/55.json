@@ -63,6 +63,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "golduck",
     "generation": 1,
     "height": {
         "golduck": "1,7 m"
@@ -71,13 +72,16 @@
     "name": "Golduck",
     "name_origin": "Il suo nome deriva probabilmente da gold, oro, e da duck, anatra. Nonostante Golduck non sia di colore dorato, gold potrebbe riferirsi canonicamente al tipo Psico, in quanto è in più di un caso rappresentato con il colore oro . ",
     "origin": "Golduck è ispirato ad una papera, un Ornithorhynchus anatinus e al mostro giapponese chiamato Kappa. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Golduck",
     "shape": "due paia di ali",
     "specie": "Pokémon Papero",
     "sprites": {
         "golduck": {
             "default": "https://media.pokemoncentral.it/wiki/7/7a/Homem0055.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0055.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0055.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8b/Artwork0055_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e0/Artwork0055_RFVF.png"
     },
     "stats": {
         "golduck": {

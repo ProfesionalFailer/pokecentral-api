@@ -31,6 +31,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "armarouge",
     "generation": 9,
     "height": {
         "armarouge": "1,5 m"
@@ -39,13 +40,16 @@
     "name": "Armarouge",
     "name_origin": "Armarouge potrebbe essere una combinazione di armadura, armatura in spagnolo, e rouge, rosso in francese. Gurenaruma potrebbe essere una combinazione di 紅蓮 guren, rosso, e armadura. ",
     "origin": "Armarouge potrebbe essere ispirato ad un cavaliere e ad armi di artiglieria a lungo raggio. La sua personalità ricorda il codice cavalleresco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Armarouge",
     "shape": "None",
     "specie": "Pokémon Guerrigneo",
     "sprites": {
         "armarouge": {
             "default": "https://media.pokemoncentral.it/wiki/6/66/Homem0936.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0936.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0936.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/14/Artwork0936_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/83/Artwork0936_SV.png"
     },
     "stats": {
         "armarouge": {

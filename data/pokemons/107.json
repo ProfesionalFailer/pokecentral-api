@@ -52,6 +52,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "hitmonchan",
     "generation": 1,
     "height": {
         "hitmonchan": "1,4 m"
@@ -60,13 +61,16 @@
     "name": "Hitmonchan",
     "name_origin": "Il nome Hitmonchan può essere suddiviso in hit , monster  e Chan - come Jackie Chan, forse a significare \"il mostro che colpisce come Jackie Chan\". Il suo nome è simile a quello delle sue due evoluzioni parallele, Hitmonlee e Hitmontop. Il suo nome giapponese proviene dal campione del mondo di boxer Hiroyuki Ebihara. ",
     "origin": "Può essere una personificazione della boxe, uno stile di combattimento e di sport che si concentra sui pugni. La sua testa ed i suoi \"capelli\" \"Hair\" assomigliano un po' ad una mano umana. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hitmonchan",
     "shape": "un paio di ali",
     "specie": "Pokémon Tirapugni",
     "sprites": {
         "hitmonchan": {
             "default": "https://media.pokemoncentral.it/wiki/4/4e/Homem0107.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homemsh0107.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homemsh0107.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1d/Artwork0107_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fe/Artwork0107_RFVF.png"
     },
     "stats": {
         "hitmonchan": {

@@ -45,6 +45,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "ninjask",
     "generation": 3,
     "height": {
         "ninjask": "0,80 m"
@@ -53,13 +54,16 @@
     "name": "Ninjask",
     "name_origin": "Ninjask potrebbe derivare da ninja e mask . ",
     "origin": "Ninjask è basato su una cicala adulta, in particolare la Magicicala, ma i suoi colori ricordano un'ape e un ninja. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ninjask",
     "shape": "serpentiforme",
     "specie": "Pokémon Ninja",
     "sprites": {
         "ninjask": {
             "default": "https://media.pokemoncentral.it/wiki/3/3a/Homem0291.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0291.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0291.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/51/Artwork0291_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/13/Artwork0291_RZ.png"
     },
     "stats": {
         "ninjask": {
@@ -76,8 +80,8 @@
     },
     "types": {
         "ninjask": [
-            "Volante",
-            "Coleot"
+            "Coleot",
+            "Volante"
         ]
     },
     "weight": {

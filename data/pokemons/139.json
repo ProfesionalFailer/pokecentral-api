@@ -51,6 +51,7 @@
         "Acqua 1",
         "Acqua 3"
     ],
+    "flat_name": "omastar",
     "generation": 1,
     "height": {
         "omastar": "1,0 m"
@@ -59,13 +60,16 @@
     "name": "Omastar",
     "name_origin": "Il suo nome nasce dall'unione di una variante fonetica di ammonite e di star . ",
     "origin": "Sembra essere basato su una qualche specie di ammonite. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Omastar",
     "shape": "bipedi con coda",
     "specie": "Pokémon Spirale",
     "sprites": {
         "omastar": {
             "default": "https://media.pokemoncentral.it/wiki/f/fa/Homem0139.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0139.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0139.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a5/Artwork0139_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2b/Artwork0139_RFVF.png"
     },
     "stats": {
         "omastar": {
@@ -82,8 +86,8 @@
     },
     "types": {
         "omastar": [
-            "Roccia",
-            "Acqua"
+            "Acqua",
+            "Roccia"
         ]
     },
     "weight": {

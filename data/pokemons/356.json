@@ -43,6 +43,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "dusclops",
     "generation": 3,
     "height": {
         "dusclops": "1,60 m"
@@ -51,13 +52,16 @@
     "name": "Dusclops",
     "name_origin": "Il nome deriva dalla combinazione delle parole inglesi dusk, crepuscolo, e cyclops, ciclope. ",
     "origin": "Ispirato ad un chōchinobake, una lanterna di carta maledetta con un occhio. Ha anche alcune caratteristiche delle mummie. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dusclops",
     "shape": "un paio di ali",
     "specie": "Pokémon Ipnosguardo",
     "sprites": {
         "dusclops": {
             "default": "https://media.pokemoncentral.it/wiki/c/c4/Homem0356.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/23/Homemsh0356.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/23/Homemsh0356.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8d/Artwork0356_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/92/Artwork0356_RZ.png"
     },
     "stats": {
         "dusclops": {

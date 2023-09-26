@@ -66,6 +66,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "sandslash",
     "generation": 1,
     "height": {
         "sandslash": "1,0 m",
@@ -75,17 +76,21 @@
     "name": "Sandslash",
     "name_origin": "Sandslash potrebbe essere una combinazione di sand, sabbia, e slash, squarciare . Sandpan potrebbe essere una combinazione di sand, sabbia, e pangolin, pangolino. ",
     "origin": "Sandslash condivide molti tratti fisici simili a quelli di un pangolino. Somiglia anche ad un riccio, ad un porcospino e ad un echidne per via della sua colorazione e dei suoi aghi. Sia Sandshrew che Sandslash possiedono artigli velenosi, simili a quelli dei toporagni. Gli artigli uncinati di Sandslash di Alola, in combinazione alla capacità di farsi strada tra la neve, potrebbero prendere ispirazione dalle piccozze. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sandslash",
     "shape": "due paia di ali",
     "specie": "Pokémon Topo",
     "sprites": {
         "sandslash": {
             "default": "https://media.pokemoncentral.it/wiki/1/16/Homem0028.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0028.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0028.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/37/Artwork0028_Corp.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/8/8d/Homem0028A.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0028A.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0028A.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/07/Artwork0028A_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7f/Artwork0028_RFVF.png"
     },
     "stats": {
         "sandslash": {

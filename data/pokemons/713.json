@@ -40,6 +40,7 @@
         "Minerale",
         "VIII"
     ],
+    "flat_name": "avalugg",
     "generation": 6,
     "height": {
         "avalugg": "2,0 m"
@@ -48,13 +49,16 @@
     "name": "Avalugg",
     "name_origin": "Avalugg è una combinazione di avalanche  e lug  o \"lugg\", che significa 'mucchio' in norvegese. Oppure al progetto Habakkuk. ",
     "origin": "Avalugg sembra basato su un iceberg. Potrebbe anche essere basato su una portaerei. Il suo aspetto ricorda anche una testuggine potrebbe essere ispirato al progetto Habakkuk. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Avalugg",
     "shape": "più di 4 arti",
     "specie": "Pokémon Iceberg",
     "sprites": {
         "avalugg": {
             "default": "https://media.pokemoncentral.it/wiki/b/b8/Homem0713.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0713.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0713.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/af/Artwork0713_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/48/Artwork0713_XY.png"
     },
     "stats": {
         "avalugg": {
@@ -83,8 +87,8 @@
             "Ghiaccio"
         ],
         "forma-di-hisui": [
-            "Roccia",
-            "Ghiaccio"
+            "Ghiaccio",
+            "Roccia"
         ]
     },
     "weight": {

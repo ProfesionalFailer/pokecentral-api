@@ -27,6 +27,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "duosion",
     "generation": 5,
     "height": {
         "duosion": "0,6 m"
@@ -35,13 +36,16 @@
     "name": "Duosion",
     "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesei duo e fusion , o in alternativa fission, scission o division . Il nome giapponese, ダブラン Doublan, probabilmente deriva dall'unione dell'inglese duoble, o il giapponese ダブル daburu  e 乱 ran , o 卵 ran . Inoltre è molto simile al nome giapponese di Solosis, ユニラン Uniran, includendo anziché uni- , double , a indicare che è la sua evoluzione e che il corpo unico si è scisso in due. ",
     "origin": "Duosion è basato su una cellula che compie il processo di scissione binaria. La sostanza verde in cui è immerso rappresenta il citoplasma, mentre gli elementi presenti sul corpo  rappresentano gli organuli. Potrebbe anche essere un'allusione alla fase embrionale di formazione dell'embrione, nella quale la sostanza verde e la sacca in cui è immerso rappresenterebbero la placenta e il liquido amniotico. La bocca potrebbe essre ispirata al nodo di Hensen e alla linea primitiva, strutture presenti in alcuni stadi dello sviluppo dell'embrione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Duosion",
     "shape": "testa",
     "specie": "Pokémon Scissione",
     "sprites": {
         "duosion": {
             "default": "https://media.pokemoncentral.it/wiki/4/4c/Homem0578.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/df/Homemsh0578.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/df/Homemsh0578.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c9/Artwork0578_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/80/Artwork0578_NB.png"
     },
     "stats": {
         "duosion": {

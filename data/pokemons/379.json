@@ -40,6 +40,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "registeel",
     "generation": 3,
     "height": {
         "registeel": "1,9 m"
@@ -48,13 +49,16 @@
     "name": "Registeel",
     "name_origin": "Il suo nome deriva dalla parola latina regius, regale, e da steel, acciaio. ",
     "origin": "Registeel è basato sulle leggende ebraiche dei golem. Le leggende li definiscono come dei servitori con enormi poteri, che vengono esercitati tramite delle parole scritte sulle loro fronti. Se le parole vengono rimosse, loro si indeboliscono. I Golem leggendari possono avere come tema comune le epoche storiche, con Registeel che rappresenta l’età del ferro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Registeel",
     "shape": "un paio di ali",
     "specie": "Pokémon Ferro",
     "sprites": {
         "registeel": {
             "default": "https://media.pokemoncentral.it/wiki/6/6a/Homem0379.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0379.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0379.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b4/Artwork0379_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/39/Artwork0379_RZ.png"
     },
     "stats": {
         "registeel": {

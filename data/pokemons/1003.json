@@ -1,58 +1,62 @@
 {
     "abilities": {
-        "chi-yu": {
-            "primary": "Monile Nefasto"
+        "ting-lu": {
+            "primary": "Vaso Nefasto"
         }
     },
     "curiosities": [
-        "Chi-Yu è uno dei Pokémon con caratteri non alfabetici nel nome."
+        "Ting-Lu è uno dei Pokémon con caratteri non alfabetici nel nome."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/chi-yu.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ting-lu.mp3",
     "dex_entries": {
-        "chi-yu": {
-            "scarlet": "Riesce a manipolare fiamme di 3.000 ºC. Nuota tranquillamente nei mari di magma che crea fondendo ghiaia e massi.",
-            "violet": "Prese vita quando il livore accumulatosi nei gioielli ricurvi che causarono svariati conflitti si ammantò di fiamme."
+        "ting-lu": {
+            "scarlet": "Prese vita quando le angosce riversate in un antico vaso cerimoniale si fusero con roccia e terra.",
+            "violet": "La sua testa è talmente pesante che anche solo appoggiandola delicatamente a terra può causare spaccature profonde fino a 50 metri."
         }
     },
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "ting-lu",
     "generation": 9,
     "height": {
-        "chi-yu": "0,4 m"
+        "ting-lu": "2,7 m"
     },
     "id": 1003,
-    "name": "Chi-Yu",
-    "name_origin": "Chi-Yu potrebbe essere una combinazione di 鯽魚 / 鲫魚 jìyú  e 玉 yù . Īyui potrebbe essere una combinazione di 玉 yù  e 魚 / 鱼 yú . ",
+    "name": "Ting-Lu",
+    "name_origin": "Ting-Lu e Dinlu potrebbero essere una combinazione di 鼎 dǐng  and 鹿 lù . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ting-Lu",
     "shape": "None",
     "specie": "Pokémon Disgrazia",
     "sprites": {
-        "chi-yu": {
-            "default": "https://media.pokemoncentral.it/wiki/1/17/Homem1004.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homemsh1004.png"
-        }
+        "ting-lu": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4d/Homem1003.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh1003.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/30"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e6/Artwork1003_SV.png"
     },
     "stats": {
-        "chi-yu": {
-            "hp": 55,
-            "atk": 80,
-            "def": 80,
-            "spa": 135,
-            "spd": 120,
-            "spe": 100
+        "ting-lu": {
+            "hp": 155,
+            "atk": 110,
+            "def": 125,
+            "spa": 55,
+            "spd": 80,
+            "spe": 45
         }
     },
     "stats_sum": {
-        "chi-yu": 570
+        "ting-lu": 570
     },
     "types": {
-        "chi-yu": [
-            "Buio",
-            "Fuoco"
+        "ting-lu": [
+            "Terra",
+            "Buio"
         ]
     },
     "weight": {
-        "chi-yu": "4,9 kg"
+        "ting-lu": "669,7 kg"
     }
 }

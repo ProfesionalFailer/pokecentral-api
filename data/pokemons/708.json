@@ -28,6 +28,7 @@
         "Erba",
         "Amorfo"
     ],
+    "flat_name": "phantump",
     "generation": 6,
     "height": {
         "phantump": "0,4 m"
@@ -36,13 +37,16 @@
     "name": "Phantump",
     "name_origin": "Phantump è una combinazione tra phantom, fantasma, e stump, ceppo. Bokurei è una lettura alternativa di 木霊 kodama, che è una combinazione tra 木 boku, legno, albero, e 霊 rei, spirito, spettro. ",
     "origin": "Phantump sembra essere basato su un ceppo di Kodama, ovvero spiriti di antichi alberi che dimorano dentro alberi molto vecchi, possiede anche dei tratti simili ad altri tipi di alberi o divinità della natura come le driadi. La forma cromatica sembra invece basata su di una betulla, alberi le cui foglie, in autunno, diventano di colore arancio intenso, proprio come nei Phantump cromatici. Dato che questo cambio di colore, oltretutto, avviene verso halloween, questo potrebbe essere un leggero rimando alle controparti di Phantump e Trevenant, Pumpkaboo e Gourgeist. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Phantump",
     "shape": "insettoide",
     "specie": "Pokémon Ceppo",
     "sprites": {
         "phantump": {
             "default": "https://media.pokemoncentral.it/wiki/7/76/Homem0708.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8d/Homemsh0708.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8d/Homemsh0708.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/73/Artwork0708_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e6/Artwork0708_XY.png"
     },
     "stats": {
         "statistiche-base": {

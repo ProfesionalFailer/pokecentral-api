@@ -49,6 +49,7 @@
         "Acqua 1",
         "Acqua 2"
     ],
+    "flat_name": "remoraid",
     "generation": 2,
     "height": {
         "remoraid": "0,6 m"
@@ -57,13 +58,16 @@
     "name": "Remoraid",
     "name_origin": "Il nome Remoraid deriva dell'unione delle parole \"Remora\" e \"Raid\"  oppure da \"Aid\"  riferimento al fatto che si nutrono degli avanzi dei Mantyke e Mantine pulendoli. ",
     "origin": "Si basa su un pesce arciere a causa della sua capacità di attaccare sputando, tuttavia la sua relazione con i Mantyke e i Mantine e il suo aspetto fisico lo riconducono più ad una remora, considerando anche la capacità di usare attacchi dalla bocca e della sua forma sembra essere basato anche in un'arma da fuoco, in particolare ad un revolver. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Remoraid",
     "shape": "pinne",
     "specie": "Pokémon Jet",
     "sprites": {
         "remoraid": {
             "default": "https://media.pokemoncentral.it/wiki/e/e1/Homem0223.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0223.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0223.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4c/Artwork0223_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/84/Artwork0223_HGSS.png"
     },
     "stats": {
         "remoraid": {

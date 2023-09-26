@@ -95,6 +95,12 @@ class _POKEHELP:
     }
 
     @staticmethod
+    def add_name_if(text: str, name: str) -> str:
+        if text == "" or text == "-f":
+            return name + text
+        return text
+
+    @staticmethod
     def decode(index: str) -> str:
         return unidecode(index.lower())
 
@@ -117,14 +123,22 @@ class _POKEHELP:
     @staticmethod
     def divide_forms(poke_dict: dict) -> dict:
         return {
-            new_key.strip(): value
+            _POKEHELP.flat_name(new_key.strip()): value
             for key, value in poke_dict.items()
             for new_key in key.replace(",", " e ").split(" e ")
         }
 
     @staticmethod
     def flat_name(name: str) -> str:
-        return name.lower().replace(" ", "-").replace("♂", "").replace("♀", "-f")
+        return unidecode(
+            name.lower()
+            .replace(" ", "-")
+            .replace("♂", "")
+            .replace("♀", "-f")
+            .replace(".", "")
+            .replace("é", "e")
+            .replace("--", "-")
+        ).replace(" ", "")
 
     @staticmethod
     def rmv_chars(text: str) -> int:

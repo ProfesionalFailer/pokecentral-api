@@ -22,6 +22,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "tapu-fini",
     "generation": 7,
     "height": {
         "tapu-fini": "1,3 m"
@@ -30,13 +31,16 @@
     "name": "Tapu Fini",
     "name_origin": "Tapu Fini potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e fin, pinna. Kapu-Rehire potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e 鰭 hire, pinna. ",
     "origin": "Tapu Fini, quando chiude la sua conchiglia, sembra essere ispirato ad un marlin. Potrebbe essere ispirato a Kanaloa, una delle quattro principali divinità della mitologia hawaiana, generalmente associata con l'oceano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tapu_Fini",
     "shape": "insettoide",
     "specie": "Pokémon Nume Locale",
     "sprites": {
         "tapu-fini": {
             "default": "https://media.pokemoncentral.it/wiki/f/f8/Homem0788.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0788.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0788.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/09/Artwork0788_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c1/Artwork0788_SL.png"
     },
     "stats": {
         "tapu-fini": {

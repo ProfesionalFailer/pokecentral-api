@@ -29,6 +29,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "bouffalant",
     "generation": 5,
     "height": {
         "bouffalant": "1,6 m"
@@ -37,13 +38,16 @@
     "name": "Bouffalant",
     "name_origin": "Il suo nome deriva probabilmente dall'inglese buffalo  e bouffant , ma potrebbe anche involvere il termine gallant . ",
     "origin": "Questo Pokémon è ispirato a un bisonte, in particolare ricorda molto il bisonte americano, anche se le sue corna si ispirano più probabilmente a quelle di un bufalo nero. Inoltre il suo pelo sulla testa si potrebbe basare sull'acconciatura afro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bouffalant",
     "shape": "più di 4 arti",
     "specie": "Pokémon Sfondatoro",
     "sprites": {
         "bouffalant": {
             "default": "https://media.pokemoncentral.it/wiki/b/b4/Homem0626.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/3a/Homemsh0626.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3a/Homemsh0626.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/96/Artwork0626_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e6/Artwork0626_NB.png"
     },
     "stats": {
         "bouffalant": {

@@ -30,6 +30,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "maractus",
     "generation": 5,
     "height": {
         "maractus": "1,0 m"
@@ -38,13 +39,16 @@
     "name": "Maractus",
     "name_origin": "Il nome Maractus deriva dall'unione delle parole maracas e cactus. ",
     "origin": "Maractus è basato sulla pianta Opuntia Microdasys, originaria del Messico; questa pianta è chiamata anche \"cactus orecchie di coniglio\", perciò la sua apparenza simile a un coniglio potrebbe essere basata su un gioco di parole. Si ispira inoltre ad una maraca. Trae spunto anche, seguendo l'ispirazione messicana, dalle danze tradizionali, come una versione messicana del Son cubano, e dall'abbigliamento tipico del luogo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Maractus",
     "shape": "quadrupede",
     "specie": "Pokémon Cactus",
     "sprites": {
         "maractus": {
             "default": "https://media.pokemoncentral.it/wiki/1/19/Homem0556.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0556.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0556.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/26/Artwork0556_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1c/Artwork0556_NB.png"
     },
     "stats": {
         "maractus": {

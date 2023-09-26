@@ -65,6 +65,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "raticate",
     "generation": 1,
     "height": {
         "raticate": "0,7 m",
@@ -75,21 +76,24 @@
     "name": "Raticate",
     "name_origin": "Raticate potrebbe essere una combinazione di rat, ratto, e eradicate, estirpare, o masticate, masticare . Ratta potrebbe derivare da ラット rat, ratto. ",
     "origin": "Raticate potrebbe essere basato sul topo muschiato, un roditore semi-acquatico. Le orecchie trasandate del Pokémon sembrano quelle di una cavia domestica. Le zampe palmate, invece, potrebbero prendere ispirazione dalla nutria. Raticate di Alola potrebbe essere basato su un ratto del Pacifico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Raticate",
     "shape": "più di 4 arti",
     "specie": "Pokémon Topo",
     "sprites": {
-        "raticate ": {
+        "raticate": {
             "default": "https://media.pokemoncentral.it/wiki/8/84/Homem0020.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0020.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0020.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0020A_Corp.png"
         },
-        "raticate -f": {
+        "raticate-f": {
             "default": "https://media.pokemoncentral.it/wiki/1/1e/Homef0020.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homefsh0020.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/c/c7/Homem0020A.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0020A.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d2/Artwork0020_RFVF.png"
     },
     "stats": {
         "raticate": {

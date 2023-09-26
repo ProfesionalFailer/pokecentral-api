@@ -44,6 +44,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "sawsbuck",
     "generation": 5,
     "height": {
         "sawsbuck": "1,9 m"
@@ -52,6 +53,7 @@
     "name": "Sawsbuck",
     "name_origin": "Il nome di Sawsbuck deriva dall'inglese sawbuck  e buck . Inoltre, saws è una combinazione delle iniziali delle stagioni in inglese -Summer , Autumn , Winter  e Spring . ",
     "origin": "Sawsbuck è probabilmente basato su un cervo di Padre David, una specie di cervo che si decora le corna con delle foglie durante la stagione dell'accoppiamento. La corna invece sono basate sull'albero deciduo a causa della loro peculiarità di cambiare forma a seconda della stagione. Potrebbe anche essere basato su una delle avventure del Barone di Münchausen, nella quale lo stesso barone è intento a cacciare un cervo e cerca di sparargli con i noccioli di ciliegia che tiene nel suo moschetto. Il cervo sopravvive e fugge e l'anno successivo viene avvistato un cervo con un albero di ciliegio che cresce sulla sua testa come un paio di corna.  ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sawsbuck",
     "shape": "più di 4 arti",
     "specie": "Pokémon Stagione",
     "sprites": {
@@ -70,7 +72,11 @@
         "forma-inverno": {
             "default": "https://media.pokemoncentral.it/wiki/3/35/Homem0586I.png",
             "shiny": "https://media.pokemoncentral.it/wiki/2/21/Homemsh0586I.png"
-        }
+        },
+        "sawsbuck": {
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0c/Artwork0586I_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/06/Artwork0586_NB.png"
     },
     "stats": {
         "sawsbuck": {

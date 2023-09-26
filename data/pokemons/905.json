@@ -25,6 +25,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "enamorus",
     "generation": 8,
     "height": {
         "enamorus": "1,6 m"
@@ -33,6 +34,7 @@
     "name": "Enamorus",
     "name_origin": "Enamorus potrebbe essere una combinazione di enamor, amoroso, ed Aeolus, nome inglese di Eolo, divinità del vento nella mitologia greca. Lovelos potrebbe essere una combinazione di love, amore, ed Aeolus. Potrebbe anche derivare da ラブ と ロス rabu to rosu, amore e perdita. ",
     "origin": "Nella Forma Incarnazione, Enamorus potrebbe essere basato sull'Ugajin, un kami della fertilità e del raccolto, rappresentato con il corpo di una serpente e la testa umana. Potrebbe anche essere ispirato ad alcuni geni. Il modo in cui la coda a forma di seprente di Enamorus si avvolge intorno al collo potrebbe essere un riferimento alla costrizione, un metodo utilizzato dai serpenti per cacciare, o alla sciarpa boa. Nella Forma Totem, Enamorus potrebbe essere basato su un rettile, forse su una tartaruga dal guscio molle e un serpente. Potrebbe anche essere ispirato alla Tartaruga Nera dei Quattro Animali cinesi. Tuttavia questa, a differenza di Enamorus, rappresenta l'inverno e non la primavera. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Enamorus",
     "shape": "sconosciuto",
     "specie": "Pokémon Amoreodio",
     "sprites": {
@@ -43,7 +45,11 @@
         "forma-totem": {
             "default": "https://media.pokemoncentral.it/wiki/3/3b/Homef0905T.png",
             "shiny": "https://media.pokemoncentral.it/wiki/a/af/Homefsh0905T.png"
-        }
+        },
+        "enamorus": {
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a6"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fc/Artwork0905_LPA.png"
     },
     "stats": {
         "forma-incarnazione": {

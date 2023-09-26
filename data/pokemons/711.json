@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "gourgeist": {
             "primary": "Raccolta",
             "secondary": "Indagine",
             "hidden": "Insonnia"
@@ -38,6 +38,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "gourgeist",
     "generation": 6,
     "height": {
         "normale": "0,9 m",
@@ -49,12 +50,14 @@
     "name": "Gourgeist",
     "name_origin": "Gourgeist è una combinazione tra gourd  e geist , ma potrebbe anche essere la distorsione di gorgeous , data la natura femminea e semi-umanoide del Pokémon. Pumpjin è una combinazione tra pumpkin  e 神 shin , 人 jin , o jinn. ",
     "origin": "Gourgeist sembra essere basato su una zucca di Halloween. Le varie dimensioni di Gourgeist forse alludono al fatto che le zucche intagliate hanno varie dimensioni. La parte superiore del corpo potrebbe basarsi anche su una candela come riferimento al fatto che esse stanno spesso dentro le zucche durante Halloween, infatti il ricciolo potrebbe essere lo stoppino mentre i capelli la cera sciolta. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gourgeist",
     "shape": "quadrupede",
     "specie": "Pokémon Zucca",
     "sprites": {
         "normale": {
             "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem0711.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0711.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0711.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/13/Artwork0711_Corp.png"
         },
         "mini": {
             "default": "https://media.pokemoncentral.it/wiki/1/12/Homem0711S.png",
@@ -67,7 +70,8 @@
         "maxi": {
             "default": "https://media.pokemoncentral.it/wiki/3/30/Homem0711XL.png",
             "shiny": "https://media.pokemoncentral.it/wiki/a/a2/Homemsh0711XL.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/08/Artwork0711_XY.png"
     },
     "stats": {
         "normale": {

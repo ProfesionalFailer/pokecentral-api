@@ -3,7 +3,10 @@
         "calyrex": {
             "primary": "Agitazione"
         },
-        "cavaliere-glaciale-e-cavaliere-spettrale": {
+        "cavaliere-glaciale": {
+            "primary": "Sintonia Equina"
+        },
+        "cavaliere-spettrale": {
             "primary": "Sintonia Equina"
         }
     },
@@ -35,6 +38,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "calyrex",
     "generation": 8,
     "height": {
         "calyrex": "1,1 m",
@@ -45,21 +49,26 @@
     "name": "Calyrex",
     "name_origin": "Calyrex potrebbe essere una combinazione di calyx, bocciolo in latino, e rex, re in latino. Budrex potrebbe essere una combinazione di bud, germoglio, e rex, re in latino. ",
     "origin": "Calyrex potrebbe essere basato su una lepre e una corona. I grandi bulbi sulla testa ricordano delle bacche e dei fiori. Presenta alcune somiglianze anche con alcuni animali immaginari del folclore americano, come il Jackalope, o quello tedesco, come il Wolpertinger. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Calyrex",
     "shape": "un paio di ali",
     "specie": "Pokémon Re",
     "sprites": {
         "calyrex": {
             "default": "https://media.pokemoncentral.it/wiki/8/8c/Homem0898.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/78/Homemsh0898.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/78/Homemsh0898.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/66/Artwork0898_Corp.png"
         },
         "cavaliere-glaciale": {
             "default": "https://media.pokemoncentral.it/wiki/d/d5/Homem0898G.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/70/Homemsh0898G.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/70/Homemsh0898G.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/11/Artwork0898G_Corp.png"
         },
         "cavaliere-spettrale": {
             "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0898S.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f2/Homemsh0898S.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f2/Homemsh0898S.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/77/Artwork0898S_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9c/Artwork0898_SpSc.png"
     },
     "stats": {
         "calyrex": {

@@ -28,6 +28,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "sigilyph",
     "generation": 5,
     "height": {
         "sigilyph": "1,4 m"
@@ -36,13 +37,16 @@
     "name": "Sigilyph",
     "name_origin": "Sigilyph potrebbe essere una combinazione dei termini inglesi sigil , glyph , e sylph . ",
     "origin": "Sigilyph è molto probabilmente basato sulle linee di Nazca, specialmente a quella del colibrì, infatti come queste si trova nelle zone desertiche. Il suo aspetto ricorda anche il fūrin, un campanellino del vento tipico del Giappone, e le bambole kachina . ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sigilyph",
     "shape": "testa e base",
     "specie": "Pokémon Pseuduccello",
     "sprites": {
         "sigilyph": {
             "default": "https://media.pokemoncentral.it/wiki/1/1a/Homem0561.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0561.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0561.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/71/Artwork0561_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/37/Artwork0561_NB.png"
     },
     "stats": {
         "sigilyph": {

@@ -41,14 +41,16 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "deerling",
     "generation": 5,
     "height": {
         "deerling": "0,6 m"
     },
     "id": 585,
     "name": "Deerling",
-    "name_origin": "Il nome potrebbe essere la combinazione di deer  e yearling  o sapling , in alternativa potrebbe essere anche la combinazione di dear e darling  due termini d'affetto. ",
+    "name_origin": "Il nome potrebbe essere la combinazione di deer  e yearling  o sapling , in alternativa potrebbe essere anche la combinazione di dear e darling  due termini d'affetto.",
     "origin": "Deerling è basato su un cervo del Giappone. Potrebbe alludere inoltre al modo in cui alcuni animali cambiano il pelo in colore o consistenza per adattarsi alla stagione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Deerling",
     "shape": "più di 4 arti",
     "specie": "Pokémon Stagione",
     "sprites": {
@@ -67,7 +69,11 @@
         "forma-inverno": {
             "default": "https://media.pokemoncentral.it/wiki/d/df/Homem0585I.png",
             "shiny": "https://media.pokemoncentral.it/wiki/9/92/Homemsh0585I.png"
-        }
+        },
+        "deerling": {
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c5/Artwork0585I_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/02/Artwork0585_NB.png"
     },
     "stats": {
         "deerling": {

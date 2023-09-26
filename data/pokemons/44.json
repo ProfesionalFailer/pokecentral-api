@@ -50,6 +50,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "gloom",
     "generation": 1,
     "height": {
         "gloom": "0,8 m"
@@ -58,17 +59,20 @@
     "name": "Gloom",
     "name_origin": "Gloom viene dalla parola gloom  e potrebbe essere riferito alla malinconia associata con l'annusare la sua puzza ola sua faccia depressa. potrebbe anche derivare da bloom, visto che si trova ancora nello stato di fioritura di un Rafflesia Arnoldii. Potrebbe anche riferirsi al termine glume , un tipo di brattea nell'anatomia dei fiori. Kusaihana significa letteralmente \"fiore che puzza\" . ",
     "origin": "Gloom sembra assomigliare al fiore notturno conosciuto come Rafflesia Arnoldii, che ha un pessimo odore. Il fatto che il suo polline puzzolente possa essere usato per fare profumi meravigliosi e che ad 1 persona su 1000 piaccia il suo odore potrebbe essere un riferimento alle puzzole, il cui muschio ha simili caratteristiche. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gloom",
     "shape": "un paio di ali",
     "specie": "Pokémon Malerba",
     "sprites": {
-        "": {
+        "gloom": {
             "default": "https://media.pokemoncentral.it/wiki/1/17/Homem0044.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1b/Homemsh0044.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1b/Homemsh0044.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c6/Artwork0044_Corp.png"
         },
-        "-f": {
+        "gloom-f": {
             "default": "https://media.pokemoncentral.it/wiki/0/08/Homef0044.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/04/Homefsh0044.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b9/Artwork0044_RFVF.png"
     },
     "stats": {
         "gloom": {

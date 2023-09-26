@@ -38,6 +38,7 @@
         "Coleottero",
         "Umanoide"
     ],
+    "flat_name": "illumise",
     "generation": 3,
     "height": {
         "illumise": "0,60 m"
@@ -46,13 +47,16 @@
     "name": "Illumise",
     "name_origin": "Il suo nome potrebbe derivare dall'unione del verbo inglese  illumine, o  illuminate,  con la parola miss . ",
     "origin": "È basata su di una lucciola. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Illumise",
     "shape": "un paio di ali",
     "specie": "Pokémon Lucciola",
     "sprites": {
         "illumise": {
             "default": "https://media.pokemoncentral.it/wiki/7/71/Homef0314.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homefsh0314.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homefsh0314.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/65/Artwork0314_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/28/Artwork0314_RZ.png"
     },
     "stats": {
         "illumise": {

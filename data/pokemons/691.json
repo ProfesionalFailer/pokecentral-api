@@ -31,6 +31,7 @@
         "Acqua 1",
         "Drago"
     ],
+    "flat_name": "dragalge",
     "generation": 6,
     "height": {
         "dragalge": "1,8 m"
@@ -39,13 +40,16 @@
     "name": "Dragalge",
     "name_origin": "Dragalge è una combinazione di dragon, drago e algae, alga. Dramidoro potrebbe essere una combinazione di dragon, drago e 水綿 aomidoro, spirogyra. ",
     "origin": "Dragalge è basato su un dragone foglia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dragalge",
     "shape": "quadrupede",
     "specie": "Pokémon Similalga",
     "sprites": {
         "dragalge": {
             "default": "https://media.pokemoncentral.it/wiki/c/c5/Homem0691.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0691.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0691.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/54/Artwork0691_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/84/Artwork0691_XY.png"
     },
     "stats": {
         "dragalge": {
@@ -62,8 +66,8 @@
     },
     "types": {
         "dragalge": [
-            "Veleno",
-            "Drago"
+            "Drago",
+            "Veleno"
         ]
     },
     "weight": {

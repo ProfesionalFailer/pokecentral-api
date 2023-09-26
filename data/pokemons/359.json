@@ -12,12 +12,12 @@
     "curiosities": [
         "Nonostante la sua presunta capacità di prevedere disastri, Absol non può avere l'abilità Presagio.",
         "Absol ha il valore di Attacco più alto tra tutti i Pokémon non leggendari che non sono parte di una linea evolutiva.",
-        "Absol è l'unico Pokémon non di tipo Psico ad essere in grado di imparare Psicotaglio per livello.",
+        "Absol è l'unico Pokémon non di tipo Psico a essere in grado di imparare Psicotaglio per livello.",
         "È interessante notare che nella versione Platino Absol appare sul Monte Corona in luoghi accessibili per la prima volta sulla via per la Vetta Lancia, quando sta effettivamente per accadere un disastro.",
         "Inoltre Absol in Pokémon Bianco e Nero appare nei pressi della Fossa Gigante, anch'esso un posto dove si verificò il disastro dello schianto di un meteorite e della comparsa di Kyurem.",
         "Con l'eccezione di Smeargle, Absol è il Pokémon in grado di imparare il maggior numero di mosse derivate da Lacerazione: oltre ad essa può imparare anche Nottesferza, Psicotaglio e Ombrartigli, ma non Velenocroce.",
         "Nonostante lo stesso nome di Absol sembri negare la presenza del sole, può comunque apprendere la mossa Giornodisole tramite MT.",
-        "MegaAbsol ha la più bassa statistica base di Difesa Speciale di tutti i Pokémon Megaevoluti."
+        "MegaAbsol ha la più bassa statistica base di Difesa Speciale di tutti i Pokémon megaevoluti."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/absol.mp3",
     "dex_entries": {
@@ -59,6 +59,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "absol",
     "generation": 3,
     "height": {
         "absol": "1,20 m"
@@ -67,17 +68,20 @@
     "name": "Absol",
     "name_origin": "L'origine del nome di Absol non è ben chiara. Una teoria comune è che sia una combinazione del prefisso di origine latina ab- con il significato di \"lontano da\" e dalla parola sol, sole, quindi \"lontano dal sole\" essendo Absol un tipo Buio. Potrebbe derivare anche da absolute, \"assoluto\", o da absolution, \"assoluzione\". Un'altra possibile origine è il termine 物騒 bussō, \"pericoloso\". ",
     "origin": "Absol potrebbe essere basato sul Barghest, una creatura mitologica dall'aspetto di un mostruoso cane nero le cui apparizioni erano ritenute presagio di morte o sventura, o anche sulle superstizioni che circondano i gatti neri. Un'altra possibile ispirazione è il kutabe, una bestia leggendaria dal pelo bianco che sarebbe apparsa sul Monte Tateyama in Giappone per avvertire dell'arrivo di un'epidemia; la sua capacità di prevedere disastri è anche tipica del criptide Mothman. La testa di Absol è modellata a partire dal Taijitu, il simbolo di yin e yang, mentre il suo aspetto e il suo habitat sono simili a quelli dei puma. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Absol",
     "shape": "più di 4 arti",
     "specie": "Pokémon Catastrofe",
     "sprites": {
         "absol": {
             "default": "https://media.pokemoncentral.it/wiki/7/79/Homem0359.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0359.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0359.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/56/Artwork0359_Corp.png"
         },
         "megaabsol": {
             "default": "https://media.pokemoncentral.it/wiki/1/1f/Homem0359M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0359M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/04/Artwork0359_RZ.png"
     },
     "stats": {
         "absol": {

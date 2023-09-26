@@ -54,6 +54,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "machop",
     "generation": 1,
     "height": {
         "machop": "0,8 m"
@@ -62,13 +63,16 @@
     "name": "Machop",
     "name_origin": "Il suo nome deriva dall'unione della parola spagnola macho  con la parola inglese chop . ",
     "origin": "Machop sembra essere basato su di un culturista. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Machop",
     "shape": "due paia di ali",
     "specie": "Pokémon Megaforza",
     "sprites": {
         "machop": {
             "default": "https://media.pokemoncentral.it/wiki/3/3b/Homem0066.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh0066.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh0066.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/a3/Artwork0066_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e3/Artwork0066_RFVF.png"
     },
     "stats": {
         "machop": {

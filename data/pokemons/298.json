@@ -44,6 +44,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "azurill",
     "generation": 3,
     "height": {
         "azurill": "0,20 m"
@@ -52,13 +53,16 @@
     "name": "Azurill",
     "name_origin": "Deriva dalla parola spagnola azure  combinata con la parola inglese rill . Inoltre potrebbe derivare dal giapponese 瑠璃 ruri . ",
     "origin": "Basato su un topo e su una boa. La disposizione delle sue orecchie sul corpo ricorda molto una molecola d'acqua. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Azurill",
     "shape": "corpi multipli",
     "specie": "Pokémon Pois",
     "sprites": {
         "azurill": {
             "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0298.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0298.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0298.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b4"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8e/Artwork0298_RZ.png"
     },
     "stats": {
         "azurill": {

@@ -16,6 +16,7 @@
         "Porygon-Z è l'unico Pokémon che si evolve da un Pokémon evoluto attraverso scambio tenendo uno strumento. È anche l'unico Pokémon che si evolve da un Pokémon evoluto con un metodo diverso dal salire di livello  come primo stadio).",
         "Porygon-Z ha un totale delle statistiche base maggiore di soli 20 punti rispetto a Porygon2: infatti ha 30 punti in più in Attacco Speciale e Velocità, ma 20 in meno in Difesa e Difesa Speciale.\n\tDopo Scizor, che ha la stessa somma di statistiche base della sua pre-evoluzione Scyther, è il Pokémon completamente evoluto con la più bassa differenza nelle statistiche totali rispetto alla sua forma precedente.",
         "Dopo Scizor, che ha la stessa somma di statistiche base della sua pre-evoluzione Scyther, è il Pokémon completamente evoluto con la più bassa differenza nelle statistiche totali rispetto alla sua forma precedente.",
+        "Porygon-Z ha la statistica di Attacco Speciale più alta tra i Pokémon di tipo Normale a pari merito con Mega Pidgeot.",
         "Porygon-Z è l'unico Pokémon ad avere un peso minore dello stadio base della sua linea evolutiva. Pesa infatti 2,5 kg in meno di Porygon."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/porygon-z.mp3",
@@ -48,21 +49,25 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "porygon-z",
     "generation": 4,
     "height": {
         "porygon-z": "0,9 m"
     },
     "id": 474,
-    "name": "Porygon-z",
+    "name": "Porygon-Z",
     "name_origin": "Il nome di Porygon-Z deriva da polygon, \"poligono\", scritto con una R in riferimento al fatto che il giapponese non distingue i suoni di R e L. Potrebbe anche contenere la parola origami. La Z potrebbe essere una versione corrotta del 2 , essendo Porygon-Z una versione corrotta di Porygon2; in alternativa potrebbe essere un richiamo al fatto che Porygon-Z è lo stadio finale della sua catena evolutiva, in quanto la Z è l'ultima lettera dell'alfabeto latino. ",
     "origin": "Come Porygon2 è probabilmente basato su un origami creato con un software di rendering 3D, oltre che su un papero bevitore. Potrebbe anche basarsi sul concetto di virus infestante, infatti viene descritto come la versione di Porygon2 sul quale è stato installato un software mal funzionante che causa il suo comportamento strano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Porygon-Z",
     "shape": "insettoide",
     "specie": "Pokémon Virtuale",
     "sprites": {
         "porygon-z": {
             "default": "https://media.pokemoncentral.it/wiki/f/fb/Homem0474.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homemsh0474.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homemsh0474.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0474_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/26/Artwork0474_DP.png"
     },
     "stats": {
         "porygon-z": {

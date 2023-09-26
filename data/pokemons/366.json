@@ -39,6 +39,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "clamperl",
     "generation": 3,
     "height": {
         "clamperl": "0,40 m"
@@ -47,13 +48,16 @@
     "name": "Clamperl",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi clamp  oppure clam  e pearl . ",
     "origin": "Clamperl è basato su un'ostrica o in una Tridacna gigante, tuttavia sia a causa del suo aspetto, sia a causa delle sue evoluzioni, sembra che Clamperl sia basato su un uovo di pesce. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Clamperl",
     "shape": "testa",
     "specie": "Pokémon Bivalve",
     "sprites": {
         "clamperl": {
             "default": "https://media.pokemoncentral.it/wiki/d/d1/Homem0366.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0366.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0366.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cb/Artwork0366_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b1/Artwork0366_RZ.png"
     },
     "stats": {
         "clamperl": {

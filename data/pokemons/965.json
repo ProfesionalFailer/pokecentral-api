@@ -30,6 +30,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "varoom",
     "generation": 9,
     "height": {
         "varoom": "1,0 m"
@@ -38,13 +39,16 @@
     "name": "Varoom",
     "name_origin": "Varoom potrebbe derivare da vroom . Buroron potrebbe derivare da ブルルン bururun . ",
     "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Varoom",
     "shape": "None",
     "specie": "Pokémon Monocilindro",
     "sprites": {
         "varoom": {
             "default": "https://media.pokemoncentral.it/wiki/8/8c/Homem0965.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/df/Homemsh0965.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/d/df/Homemsh0965.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e4"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/15/Artwork0965_SV.png"
     },
     "stats": {
         "varoom": {
@@ -61,8 +65,8 @@
     },
     "types": {
         "varoom": [
-            "Acciaio",
-            "Veleno"
+            "Veleno",
+            "Acciaio"
         ]
     },
     "weight": {

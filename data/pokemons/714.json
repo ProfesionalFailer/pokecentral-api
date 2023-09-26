@@ -31,6 +31,7 @@
         "Drago",
         "VIII"
     ],
+    "flat_name": "noibat",
     "generation": 6,
     "height": {
         "noibat": "0,5 m"
@@ -39,13 +40,16 @@
     "name": "Noibat",
     "name_origin": "Noibat è una combinazione tra noise  e bat . ",
     "origin": "Noibat è basato su un pipistrello. In particolare sul Plecotus sardus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Noibat",
     "shape": "testa e base",
     "specie": "Pokémon Ondasonora",
     "sprites": {
         "noibat": {
             "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0714.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/83/Homemsh0714.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/83/Homemsh0714.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/d3/Artwork0714_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/03/Artwork0714_XY.png"
     },
     "stats": {
         "statistiche-base": {
@@ -62,8 +66,8 @@
     },
     "types": {
         "noibat": [
-            "Volante",
-            "Drago"
+            "Drago",
+            "Volante"
         ]
     },
     "weight": {

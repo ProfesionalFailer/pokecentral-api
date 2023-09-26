@@ -53,6 +53,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "lycanroc",
     "generation": 7,
     "height": {
         "forma-giorno": "0,8 m",
@@ -63,6 +64,7 @@
     "name": "Lycanroc",
     "name_origin": "Lycanroc potrebbe derivare da lycanthrope, licantropo, e rock, roccia. Lugarugan potrebbe essere una combinazione di loup-garou, lupo mannaro in francese, ガルル garuru', l'ululare di un cane, e di 岩 gan, roccia. ",
     "origin": "La Forma Giorno e la Forma Crepuscolo di Lycanroc sono ispirate ad un lupo, mentre la Forma Notte è ispirata ad un licantropo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lycanroc",
     "shape": "più di 4 arti",
     "specie": "Pokémon Lupo",
     "sprites": {
@@ -77,7 +79,11 @@
         "forma-crepuscolo": {
             "default": "https://media.pokemoncentral.it/wiki/a/a8/Homem0745C.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homemsh0745C.png"
-        }
+        },
+        "lycanroc": {
+            "corporate": "https://media.pokemoncentral.it/wiki/b/be/Artwork0745C_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/97/Artwork0745_SL.png"
     },
     "stats": {
         "forma-giorno": {

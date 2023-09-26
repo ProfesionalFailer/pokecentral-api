@@ -44,6 +44,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "drifblim",
     "generation": 4,
     "height": {
         "drifblim": "1,2 m"
@@ -52,13 +53,16 @@
     "name": "Drifblim",
     "name_origin": "Il suo nome deriva da drift, andare alla deriva, e blimp, dirigibile. ",
     "origin": "Drifblim è basato su una mongolfiera. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Drifblim",
     "shape": "insettoide",
     "specie": "Pokémon Dirigibile",
     "sprites": {
         "drifblim": {
             "default": "https://media.pokemoncentral.it/wiki/2/22/Homem0426.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0426.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0426.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cd/Artwork0426_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f4/Artwork0426_DP.png"
     },
     "stats": {
         "drifblim": {
@@ -75,8 +79,8 @@
     },
     "types": {
         "drifblim": [
-            "Spettro",
-            "Volante"
+            "Volante",
+            "Spettro"
         ]
     },
     "weight": {

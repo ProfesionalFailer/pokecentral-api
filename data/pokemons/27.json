@@ -73,6 +73,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "sandshrew",
     "generation": 1,
     "height": {
         "sandshrew": "0,6 m",
@@ -82,17 +83,21 @@
     "name": "Sandshrew",
     "name_origin": "Sandshrew potrebbe essere una combinazione di sand, sabbia, e shrew, toporagno. Sand potrebbe derivare da sand, sabbia. ",
     "origin": "Sandshrew potrebbe essere basato su un armadillo, un mammifero che si arrotola a mo' di palla, che ha artigli affilati e che vive in regioni desertiche. Sia Sandshrew che Sandslash possiedono artigli velenosi, simili a quelli dei toporagni. Sandshrew ricorda anche un pangolino. Sandshrew di Alola potrebbe prendere ispirazione da un igloo o da una stone da curling. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sandshrew",
     "shape": "due paia di ali",
     "specie": "Pokémon Topo",
     "sprites": {
         "sandshrew": {
             "default": "https://media.pokemoncentral.it/wiki/1/16/Homem0027.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fb/Homemsh0027.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fb/Homemsh0027.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/19/Artwork0027_Corp.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/a/af/Homem0027A.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/6/6a/Homemsh0027A.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6a/Homemsh0027A.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/32/Artwork0027A_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/48/Artwork0027_RFVF.png"
     },
     "stats": {
         "sandshrew": {

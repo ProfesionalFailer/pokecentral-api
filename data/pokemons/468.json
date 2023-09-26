@@ -38,6 +38,7 @@
         "Volante",
         "Magico"
     ],
+    "flat_name": "togekiss",
     "generation": 4,
     "height": {
         "togekiss": "1,5 m"
@@ -46,13 +47,16 @@
     "name": "Togekiss",
     "name_origin": "Deriva dalla parola 刺 toge, spina, scheggia, e quella inglese kiss, bacio. ",
     "origin": "Basato su una colomba, in quanto è come lui uccello portatore di pace, o su un ala volante. Mantiene la sua somiglianza ad un uovo scheggiato, ricordando le pre-evoluzioni, e potrebbe ispirarsi ad una figura angelica o fatata. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Togekiss",
     "shape": "testa e base",
     "specie": "Pokémon Festa",
     "sprites": {
         "togekiss": {
             "default": "https://media.pokemoncentral.it/wiki/2/2a/Homem0468.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/58/Homemsh0468.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/58/Homemsh0468.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/04/Artwork0468_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c7/Artwork0468_DP.png"
     },
     "stats": {
         "togekiss": {

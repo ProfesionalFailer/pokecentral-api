@@ -60,6 +60,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "zapdos",
     "generation": 1,
     "height": {
         "zapdos": "1,6 m",
@@ -69,17 +70,20 @@
     "name": "Zapdos",
     "name_origin": "Zapdos è la combinazione delle parole zap e la parola spagnola dos, che indica che egli è il secondo membro del trio degli uccelli leggendari.\nIn giapponese si chiama Thunder, ovvero tuono. ",
     "origin": "Zapdos è basato sulla leggenda nativoamericana dell'Uccello del tuono. L'uccello del tuono è conosciuto per essere lo spirito del tuono, della luce, e della pioggia.\nSi dice che lo sbattere delle sue ali crei un grosso fulmine. Zapdos di Galar potrebbe essere basato sui grandi uccelli che non volano, come gli struzzi o gli emù. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zapdos",
     "shape": "testa e base",
     "specie": "Pokémon Elettrico",
     "sprites": {
         "zapdos": {
             "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0145.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/92/Homemsh0145.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/92/Homemsh0145.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/13/Artwork_Uccelli_leggendari_Corp.png"
         },
         "forma-di-galar": {
             "default": "https://media.pokemoncentral.it/wiki/e/ef/Homem0145G.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0145G.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/93/Artwork0145_RFVF.png"
     },
     "stats": {
         "zapdos": {

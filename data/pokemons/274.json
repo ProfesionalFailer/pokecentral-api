@@ -43,6 +43,7 @@
         "Campo",
         "Erba"
     ],
+    "flat_name": "nuzleaf",
     "generation": 3,
     "height": {
         "nuzleaf": "1,00 m"
@@ -51,17 +52,20 @@
     "name": "Nuzleaf",
     "name_origin": "Deriva dalle parole nuzzle  e leaf . ",
     "origin": "Basato su una ghianda o su un tengu. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Nuzleaf",
     "shape": "un paio di ali",
     "specie": "Pokémon Scaltro",
     "sprites": {
-        "": {
+        "nuzleaf": {
             "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0274.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0274.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0274.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1c/Artwork0274_Corp.png"
         },
-        "-f": {
+        "nuzleaf-f": {
             "default": "https://media.pokemoncentral.it/wiki/0/0a/Homef0274.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homefsh0274.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d8/Artwork0274_RZ.png"
     },
     "stats": {
         "nuzleaf": {

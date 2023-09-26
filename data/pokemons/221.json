@@ -48,6 +48,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "piloswine",
     "generation": 2,
     "height": {
         "piloswine": "1,1 m"
@@ -56,17 +57,20 @@
     "name": "Piloswine",
     "name_origin": "Deriva dalle parole \"pilose\"  e \"swine\" . Potrebbe anche derivare da \"pil\" . ",
     "origin": "Fisicamente i Piloswine sembrano basati su un misto tra cinghiale selvatico e yak, ma il loro habitat che di solito si basa sulle zone più fredde  può ricondurli ad un mammut od ad un mastodonte, come suggerisce anche la loro evoluzione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Piloswine",
     "shape": "più di 4 arti",
     "specie": "Pokémon Suino",
     "sprites": {
-        "": {
+        "piloswine": {
             "default": "https://media.pokemoncentral.it/wiki/1/10/Homem0221.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/7/73/Homemsh0221.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/7/73/Homemsh0221.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/4c/Artwork0221_Corp.png"
         },
-        "-f": {
+        "piloswine-f": {
             "default": "https://media.pokemoncentral.it/wiki/6/6b/Homef0221.png",
             "shiny": "https://media.pokemoncentral.it/wiki/f/f3/Homefsh0221.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3a/Artwork0221_HGSS.png"
     },
     "stats": {
         "piloswine": {

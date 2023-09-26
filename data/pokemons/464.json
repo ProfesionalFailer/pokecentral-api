@@ -40,6 +40,7 @@
         "Mostro",
         "Campo"
     ],
+    "flat_name": "rhyperior",
     "generation": 4,
     "height": {
         "rhyperior": "2,4 m"
@@ -48,17 +49,20 @@
     "name": "Rhyperior",
     "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi rhinoceros , rhyolite  e superior  o Hyperion . ",
     "origin": "Rhyperior è basato sia sui rinoceronti che sui ceratopsidi. La sua coda dalle caratteristiche di una mazza ricorda quella di un anchilosauro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rhyperior",
     "shape": "due paia di ali",
     "specie": "Pokémon Trapano",
     "sprites": {
-        "": {
+        "rhyperior": {
             "default": "https://media.pokemoncentral.it/wiki/0/01/Homem0464.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0464.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0464.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/17/Artwork0464_Corp.png"
         },
-        "-f": {
+        "rhyperior-f": {
             "default": "https://media.pokemoncentral.it/wiki/e/e4/Homef0464.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homefsh0464.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/59/Artwork0464_DP.png"
     },
     "stats": {
         "rhyperior": {

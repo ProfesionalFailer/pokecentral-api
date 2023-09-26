@@ -51,6 +51,7 @@
     "egg_groups": [
         "Umanoide"
     ],
+    "flat_name": "drowzee",
     "generation": 1,
     "height": {
         "drowzee": "1,0 m"
@@ -59,13 +60,16 @@
     "name": "Drowzee",
     "name_origin": "Drowzee è una corruzione di drowsy . Lo \"zee\" potrebbe essere un riferimento al detto inglese catching some Zs , ovvero dormire, in quanto zzz è l'onomatopea del russare. ",
     "origin": "Drowzee è basato sul mito giapponese del Baku, creature che mangiano incubi delle persone che dormono, tanto che il Pokédex afferma che ne è un discendente. Questi originariamente erano animali compositi, ma in seguito sono diventati Tapiri, animali simili a maiali con piccole proboscidi, originari dell'America Meridionale e dell'Asia meridionale. Ha anche delle somiglianze con gli elefanti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Drowzee",
     "shape": "un paio di ali",
     "specie": "Pokémon Ipnosi",
     "sprites": {
         "drowzee": {
             "default": "https://media.pokemoncentral.it/wiki/1/1b/Homem0096.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/84/Homemsh0096.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/84/Homemsh0096.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/c0/Artwork0096_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/13/Artwork0096_RFVF.png"
     },
     "stats": {
         "drowzee": {

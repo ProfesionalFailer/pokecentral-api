@@ -57,6 +57,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "nidoqueen",
     "generation": 1,
     "height": {
         "nidoqueen": "1,3 m"
@@ -65,13 +66,16 @@
     "name": "Nidoqueen",
     "name_origin": "Il nome di Nidoqueen potrebbe essere basato sulle parole inglesi needle e queen. È possibile che il nome può anche derivare da cnidocyte, nematocisti, un tipo di cellula velenosa responsabile delle punture urticanti di alcuni animali, in particolare, delle meduse. In alternativa, può essere basata su 二 ni, due, o 二度 nido, due volte/due gradi, riferendosi alle due linee evolutive distinte con nomi e tratti simili. La seconda parte del nome è queen. ",
     "origin": "Condivide dei tratti con i rinoceronti, i gorilla e gli istrici. I rivestimenti sul petto e sul basso ventre assomigliano a due pezzi di bikini indossato dalle femmine umane. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Nidoqueen",
     "shape": "due paia di ali",
     "specie": "Pokémon Trapano",
     "sprites": {
         "nidoqueen": {
             "default": "https://media.pokemoncentral.it/wiki/9/99/Homef0031.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/90/Homefsh0031.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/90/Homefsh0031.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/af/Artwork0031_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7d/Artwork0031_RFVF.png"
     },
     "stats": {
         "nidoqueen": {

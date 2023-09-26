@@ -37,6 +37,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "jellicent",
     "generation": 5,
     "height": {
         "jellicent": "2,2 m"
@@ -45,17 +46,25 @@
     "name": "Jellicent",
     "name_origin": "Il suo nome deriva dalle parole inglesi jellyfish  e magnificent  o translucent . ",
     "origin": "Jellicent è ispirato probabilmente al Nurahrihyon, uno yokai che appare con l'aspetto di una medusa demoniaca o come un uomo simile ad una medusa vestito raffinatamente o con abiti regali, ed è possibile che abbia tratto ispirazione anche dal Kurage no Hinotama, un tipo di medusa simile al fuoco fatuo. Il suo aspetto è chiaramente ispirato a quello delle meduse, in particolare le meduse corona, e a agli abbigliamenti monarchici in stile vittoriano; la forma maschile basa il suo design sugli abiti di un re, mentre la forma femminile su quelli di una regina. La somiglianza con la Medusa Luna  ha ispirato il tipo Spettro di questo Pokémon, mentre il fatto che catturi gli umani come sua preda può ispirarsi alle meduse della classe Cubozoa, chiamate anche cubomeduse, le quali sono altamente velenose e possono facilmente uccidere gli uomini. Tuttavia, i due tentacoli più lunghi sono più simili a quelli dei calamari che a quelli delle meduse. Jellicent possiede anche tratti in cumune con alcuni mostri marini come il Kraken, in quanto si dice che affondino navi e si nutrano dell'equipaggio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Jellicent",
     "shape": "bipedi con coda",
     "specie": "Pokémon Fluttuante",
     "sprites": {
-        "": {
+        "jellicent": {
             "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0593.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0593.png"
         },
-        "-f": {
+        "jellicent-f": {
             "default": "https://media.pokemoncentral.it/wiki/0/08/Homef0593.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/ed/Homefsh0593.png"
-        }
+        },
+        "maschio": {
+            "corporate": "https://media.pokemoncentral.it/wiki/0/04/Artwork0593_Corp.png"
+        },
+        "femmina": {
+            "corporate": "https://media.pokemoncentral.it/wiki/6/65/Artwork0593F_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/40/Artwork0593_NB.png"
     },
     "stats": {
         "jellicent": {
@@ -72,8 +81,8 @@
     },
     "types": {
         "jellicent": [
-            "Spettro",
-            "Acqua"
+            "Acqua",
+            "Spettro"
         ]
     },
     "weight": {

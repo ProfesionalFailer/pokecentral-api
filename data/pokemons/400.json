@@ -34,6 +34,7 @@
         "Acqua 1",
         "Campo"
     ],
+    "flat_name": "bibarel",
     "generation": 4,
     "height": {
         "bibarel": "1,0 m"
@@ -42,17 +43,20 @@
     "name": "Bibarel",
     "name_origin": "Il suo nome probabilmente deriva dall'unione della parola inglese inglesi beaver , o della corrispondente tedesca biber , o la traslitterazione del giapponese ビーバー biibaa  e barrel . Potrebbe anche avere a che fare il termine bib . ",
     "origin": "È basato sui castori. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bibarel",
     "shape": "due paia di ali",
     "specie": "Pokémon Castoro",
     "sprites": {
-        "": {
+        "bibarel": {
             "default": "https://media.pokemoncentral.it/wiki/2/21/Homem0400.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/aa/Homemsh0400.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/a/aa/Homemsh0400.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/96/Artwork0400_Corp.png"
         },
-        "-f": {
+        "bibarel-f": {
             "default": "https://media.pokemoncentral.it/wiki/4/4e/Homef0400.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homefsh0400.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/26/Artwork0400_DP.png"
     },
     "stats": {
         "bibarel": {
@@ -69,8 +73,8 @@
     },
     "types": {
         "bibarel": [
-            "Normale",
-            "Acqua"
+            "Acqua",
+            "Normale"
         ]
     },
     "weight": {

@@ -43,6 +43,7 @@
         "Mostro",
         "Acqua 1"
     ],
+    "flat_name": "swampert",
     "generation": 3,
     "height": {
         "swampert": "1,5 m",
@@ -52,17 +53,21 @@
     "name": "Swampert",
     "name_origin": "Swampert potrebbe essere una combinazione di swamp  e rampart , o expert . Laglarge potrebbe essere una combinazione di lagoon  e large . Potrebbe anche includere lag, inteso come \"to lag behind\" , in riferimento al peso e alle dimensioni. ",
     "origin": "Come Mudkip e Marshtomp, Swampert è basato sull'axolotl o sul saltafango. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Swampert",
     "shape": "due paia di ali",
     "specie": "Pokémon Fango Pesce",
     "sprites": {
         "swampert": {
             "default": "https://media.pokemoncentral.it/wiki/a/aa/Homem0260.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0260.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0260.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/48/Artwork0260_Corp.png"
         },
         "megaswampert": {
             "default": "https://media.pokemoncentral.it/wiki/f/f4/Homem0260M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0260M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0260M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e7/Artwork0260M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d3/Artwork0260_RZ.png"
     },
     "stats": {
         "swampert": {

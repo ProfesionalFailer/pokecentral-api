@@ -31,6 +31,7 @@
     "egg_groups": [
         "Erba"
     ],
+    "flat_name": "carnivine",
     "generation": 4,
     "height": {
         "carnivine": "1,4 m"
@@ -39,13 +40,16 @@
     "name": "Carnivine",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi carnivore, carnivoro, e vine, vite. ",
     "origin": "Carnivine è basato sulla venere acchiappamosche. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Carnivine",
     "shape": "bipedi con coda",
     "specie": "Pokémon Insettivoro",
     "sprites": {
         "carnivine": {
             "default": "https://media.pokemoncentral.it/wiki/e/e8/Homem0455.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0455.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0455.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/b/b5/Artwork0455_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a4/Artwork0455_DP.png"
     },
     "stats": {
         "carnivine": {

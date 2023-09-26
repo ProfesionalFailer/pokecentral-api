@@ -52,6 +52,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "primeape",
     "generation": 1,
     "height": {
         "primeape": "1,0 m"
@@ -60,13 +61,16 @@
     "name": "Primeape",
     "name_origin": "Primeape pèuò essere una combinazione di prime  e ape , ma potrebbe anche essere un gioco di parole su primate. Il nome giapponese, オコリザル Okorizaru, può significare 怒り猿 ikarisaru . Alternativamente, potrebbe essere una combinazione di 怒って okotte , 怒り ikari , e 猿 saru . ",
     "origin": "Considerando il naso simile a quello di un suino, la sua colorazione, e la tendenza ad arrabbiarsi se guardato negli occhi, Primeape ha molto in comune con i babbuini, ma è anche basato su un pugile. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Primeape",
     "shape": "due paia di ali",
     "specie": "Pokémon Suinpanzè",
     "sprites": {
         "primeape": {
             "default": "https://media.pokemoncentral.it/wiki/0/0d/Homem0057.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0057.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0057.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/11/Artwork0057_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e5/Artwork0057_RFVF.png"
     },
     "stats": {
         "primeape": {

@@ -24,6 +24,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "pansear",
     "generation": 5,
     "height": {
         "pansear": "0,6 m"
@@ -32,13 +33,16 @@
     "name": "Pansear",
     "name_origin": "Il nome deriva dalla combinazione della parola pan  con la parola inglese sear  oppure ear . ",
     "origin": "È basato su una scimmia e su una fiamma. Insieme a Pansage e a Panpour si ispira alle tre scimmie sagge del santuario di Nikko. Pansear rappresenta Kikazaru, la scimmia che \"Non sente il Male\", per questo spesso viene rappresentata con la zampa sull'orecchio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pansear",
     "shape": "due paia di ali",
     "specie": "Pokémon Testacalda",
     "sprites": {
         "pansear": {
             "default": "https://media.pokemoncentral.it/wiki/9/9f/Homem0513.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/53/Homemsh0513.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/53/Homemsh0513.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/35/Artwork0513_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9a/Artwork0513_NB.png"
     },
     "stats": {
         "pansear": {

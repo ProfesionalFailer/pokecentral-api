@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "arceus": {
             "primary": "Multitipo"
         }
     },
@@ -51,6 +51,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "arceus",
     "generation": 4,
     "height": {
         "arceus": "3,2 m"
@@ -59,13 +60,16 @@
     "name": "Arceus",
     "name_origin": "Il nome di Arceus potrebbe derivare dal termine Arch , Arcanus , Archaic , ἀρχή Arkhe  o da Archetypus  e Deus , in alternativa potrebbe anche derivare da Aureus , Arc  oppure Archeus . ",
     "origin": "Arceus è basato sul concetto di Divinità Creatrice, presente in moltissime culture nel mondo. La concezione della prima divinità potrebbe essere influenzata dal Kunitokotachi o dal Amenominakanushi che secondo ai miti scintoisti ha convocato Izanami e Izanagi per creare il Giappone con una lancia. Potrebbe essere ispirato anche alla creatura cinese il Quilin, il cui mito è molto simile a quello del Pangu, divinità della creazione cinese. Arceus potrebbe anche essere ispirato dalle ultime rappresentazioni bodhisattiva del Avalokitesvara che secondo i buddisti è una creatura con undici teste e mille braccia  o in una sua manifestazione bianca con quattro braccia . Il suo aspetto corporeo potrebbe essere anche ispirato a un cavallo visto l'animazione del suo sprite da Platino in poi e in Battle Revolution. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Arceus",
     "shape": "più di 4 arti",
     "specie": "Pokémon Primevo",
     "sprites": {
         "arceus": {
             "default": "https://media.pokemoncentral.it/wiki/3/34/Homem0493.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/5a/Homemsh0493.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5a/Homemsh0493.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/10/Artwork0493Fo_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f0/Artwork0493_Pt.png"
     },
     "stats": {
         "arceus": {

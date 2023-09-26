@@ -35,6 +35,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "victini",
     "generation": 5,
     "height": {
         "victini": "0,4 m"
@@ -43,13 +44,16 @@
     "name": "Victini",
     "name_origin": "Victini potrebbe essere una combinazione di victory  e destiny , teeny , tiny . ",
     "origin": "L'aspetto di Victini sembra essere basato sull'うさぎリンゴ usagi-ringo, un modo di tagliare le mele per farle sembrare simili a conigli. Concettualmente potrebbe ispirato a Nike, la dea alata greca della vittoria o da Vittoria, l'equivalente romano di Nike. La sua coda a forma di ali potrebbe essere un riferimento alle ali di Nike. Il tema della \"V\" potrebbe essere legato al fatto che essendo un po' la mascotte della quinta generazione è un riferimento al numero romano \"V\" . \"V\" potrebbe anche derivare dall'iniziale di vittoria. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Victini",
     "shape": "un paio di ali",
     "specie": "Pokémon Vittoria",
     "sprites": {
         "victini": {
             "default": "https://media.pokemoncentral.it/wiki/8/83/Homem0494.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c1/Homemsh0494.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c1/Homemsh0494.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/71/Artwork0494_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1e/Artwork0494_NB.png"
     },
     "stats": {
         "victini": {

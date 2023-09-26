@@ -70,6 +70,7 @@
     "egg_groups": [
         "Minerale"
     ],
+    "flat_name": "geodude",
     "generation": 1,
     "height": {
         "geodude": "0,4 m"
@@ -78,17 +79,20 @@
     "name": "Geodude",
     "name_origin": "\"Geodude\" è l'unione della parola greca \"geos\"  con quella inglese \"dude\" , oppure da \"geode\"  e \"dude\". ",
     "origin": "Geodude potrebbe essere basato sulla \"roccia peluche\" . Comunque Geodude potrebbe essere ispirato solamente ad una roccia vivente. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Geodude",
     "shape": "insettoide",
     "specie": "Pokémon Roccia",
     "sprites": {
         "geodude": {
             "default": "https://media.pokemoncentral.it/wiki/1/19/Homem0074.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0074.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0074.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/0/0f/Artwork0074A_Corp.png"
         },
         "forma-di-alola": {
             "default": "https://media.pokemoncentral.it/wiki/b/b7/Homem0074A.png",
             "shiny": "https://media.pokemoncentral.it/wiki/a/a0/Homemsh0074A.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0d/Artwork0074_RFVF.png"
     },
     "stats": {
         "geodude": {

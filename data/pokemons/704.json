@@ -32,6 +32,7 @@
     "egg_groups": [
         "Drago"
     ],
+    "flat_name": "goomy",
     "generation": 6,
     "height": {
         "goomy": "0,3 m"
@@ -40,13 +41,16 @@
     "name": "Goomy",
     "name_origin": "Goomy è una combinazione tra goo  e gummy  o slimy . Numera deriva da 滑る numeru  e ぬらぬら nuranura . ",
     "origin": "Goomy assomiglia notevolmente al preistorico wiwaxia. Goomy sembra inoltre essere basato sui gasteropodi con corpo molle, come le lumache e i nudibranchia; la sua immagine e l'eventuale disegno del drago nelle evoluzioni può essere un riferimento alla lumaca di mare \"drago blu\". Può anche essere basato sul concetto di melma vivente della cultura popolare. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Goomy",
     "shape": "testa e gambe",
     "specie": "Pokémon Mollusco",
     "sprites": {
         "goomy": {
             "default": "https://media.pokemoncentral.it/wiki/f/fc/Homem0704.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0704.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0704.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1e/Artwork0704_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6b/Artwork0704_XY.png"
     },
     "stats": {
         "goomy": {

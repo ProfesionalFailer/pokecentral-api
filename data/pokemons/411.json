@@ -36,6 +36,7 @@
     "egg_groups": [
         "Mostro"
     ],
+    "flat_name": "bastiodon",
     "generation": 4,
     "height": {
         "bastiodon": "1,3 m"
@@ -44,13 +45,16 @@
     "name": "Bastiodon",
     "name_origin": "Deriva dalle parole bastion  e il suffisso -don  o da Bastille  e mastodon . ",
     "origin": "Bastiodon sembra essere basato su un dinosauro ceratopsiano, la cresta tuttavia rimanda alle mura di un castello o alla testa di un zuniceratopo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bastiodon",
     "shape": "più di 4 arti",
     "specie": "Pokémon Schermo",
     "sprites": {
         "bastiodon": {
             "default": "https://media.pokemoncentral.it/wiki/5/5d/Homem0411.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/52/Homemsh0411.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/52/Homemsh0411.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/a/ab/Artwork0411_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3e/Artwork0411_DP.png"
     },
     "stats": {
         "bastiodon": {
@@ -67,8 +71,8 @@
     },
     "types": {
         "bastiodon": [
-            "Acciaio",
-            "Roccia"
+            "Roccia",
+            "Acciaio"
         ]
     },
     "weight": {

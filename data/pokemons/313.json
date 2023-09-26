@@ -40,6 +40,7 @@
         "Coleottero",
         "Umanoide"
     ],
+    "flat_name": "volbeat",
     "generation": 3,
     "height": {
         "volbeat": "0,70 m"
@@ -48,13 +49,16 @@
     "name": "Volbeat",
     "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi volt, per la sua capacità di illuminare, e beetle, coleottero, insetto, o beat, battito, forse riferito al lampeggiare della coda. Potrebbe essere ispirato anche all'omonimo gruppo musicale danese. ",
     "origin": "È basato su di una lucciola. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Volbeat",
     "shape": "due paia di ali",
     "specie": "Pokémon Lucciola",
     "sprites": {
         "volbeat": {
             "default": "https://media.pokemoncentral.it/wiki/1/12/Homem0313.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/29/Homemsh0313.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/29/Homemsh0313.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5e/Artwork0313_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/00/Artwork0313_RZ.png"
     },
     "stats": {
         "volbeat": {

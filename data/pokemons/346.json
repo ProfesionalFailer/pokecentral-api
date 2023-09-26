@@ -43,6 +43,7 @@
     "egg_groups": [
         "Acqua 3"
     ],
+    "flat_name": "cradily",
     "generation": 3,
     "height": {
         "cradily": "1,5 m"
@@ -51,13 +52,16 @@
     "name": "Cradily",
     "name_origin": "Deriva dalle parole cradle  o crag  e lily . ",
     "origin": "Può essere basato sui crinoidi, o sul giglio di mare, animali marini simili a stelle di mare che una volta erano ritenuti estinti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cradily",
     "shape": "quadrupede",
     "specie": "Pokémon Lepade",
     "sprites": {
         "cradily": {
             "default": "https://media.pokemoncentral.it/wiki/9/9f/Homem0346.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0346.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0346.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5e/Artwork0346_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/52/Artwork0346_RZ.png"
     },
     "stats": {
         "cradily": {

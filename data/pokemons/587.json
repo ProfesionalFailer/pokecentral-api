@@ -34,6 +34,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "emolga",
     "generation": 5,
     "height": {
         "emolga": "0,4 m"
@@ -42,13 +43,16 @@
     "name": "Emolga",
     "name_origin": "Emolga potrebbe essere una corruzione del suo nome giapponese Emonga il quale deriva dall'unione di 衣紋 emon  e momonga . ",
     "origin": "Emolga è basato su uno scoiattolo volante del Giappone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Emolga",
     "shape": "più di 4 arti",
     "specie": "Pokémon Petauro",
     "sprites": {
         "emolga": {
             "default": "https://media.pokemoncentral.it/wiki/f/f4/Homem0587.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/97/Homemsh0587.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/9/97/Homemsh0587.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/dd/Artwork0587_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/15/Artwork0587_NB.png"
     },
     "stats": {
         "emolga": {

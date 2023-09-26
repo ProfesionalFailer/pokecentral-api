@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "castform": {
             "primary": "Previsioni"
         }
     },
@@ -70,6 +70,7 @@
         "Magico",
         "Amorfo"
     ],
+    "flat_name": "castform",
     "generation": 3,
     "height": {
         "castform": "0,3 m"
@@ -78,6 +79,7 @@
     "name": "Castform",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi forecast  e form  o transform , come riferimento alla sua abilità di cambiare forma con le condizioni atmosferiche. ",
     "origin": "Castform sembra agire come una nuvola vivente e si modifica con il cambiare delle condizioni meteorologiche, per questo potrebbe essere paragonato ad un pallone sonda. Sembra assomigliare come concetto anche a un teru teru bozu, una bambola giapponese usata per desiderare il bel tempo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Castform",
     "shape": "testa",
     "specie": "Pokémon Meteo",
     "sprites": {
@@ -96,7 +98,11 @@
         "forma-nuvola-di-neve": {
             "default": "https://media.pokemoncentral.it/wiki/9/9b/Homem0351N.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0351N.png"
-        }
+        },
+        "castform": {
+            "corporate": "https://media.pokemoncentral.it/wiki/1/12/Artwork0351N_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/be/Artwork0351_RZ.png"
     },
     "stats": {
         "castform": {

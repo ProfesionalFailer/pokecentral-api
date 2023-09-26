@@ -46,6 +46,7 @@
         "Magico",
         "Erba"
     ],
+    "flat_name": "cherubi",
     "generation": 4,
     "height": {
         "cherubi": "0,4 m"
@@ -54,13 +55,16 @@
     "name": "Cherubi",
     "name_origin": "Deriva dalle parole cherry  o cherubic  e ruby . ",
     "origin": "Cherubi è ispirato ad una ciliegia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cherubi",
     "shape": "bipedi",
     "specie": "Pokémon Ciliegia",
     "sprites": {
         "cherubi": {
             "default": "https://media.pokemoncentral.it/wiki/6/68/Homem0420.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0420.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0420.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/67/Artwork0420_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/75/Artwork0420_DP.png"
     },
     "stats": {
         "cherubi": {

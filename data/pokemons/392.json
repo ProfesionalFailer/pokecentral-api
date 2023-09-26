@@ -43,6 +43,7 @@
         "Campo",
         "Umanoide"
     ],
+    "flat_name": "infernape",
     "generation": 4,
     "height": {
         "infernape": "1,2 m"
@@ -51,13 +52,16 @@
     "name": "Infernape",
     "name_origin": "Il nome Infernape viene dall'unione delle parole inferno e ape . Il nome giapponese deriva probabilmente dall'unione delle parole 業火 gouka  e 猿 saru . ",
     "origin": "Basato su una scimmia e s'ispira a Su Wukong. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Infernape",
     "shape": "due paia di ali",
     "specie": "Pokémon Fiamma",
     "sprites": {
         "infernape": {
             "default": "https://media.pokemoncentral.it/wiki/f/f3/Homem0392.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/e/ee/Homemsh0392.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ee/Homemsh0392.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/48/Artwork0392_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8b/Artwork0392_DP.png"
     },
     "stats": {
         "infernape": {
@@ -74,8 +78,8 @@
     },
     "types": {
         "infernape": [
-            "Lotta",
-            "Fuoco"
+            "Fuoco",
+            "Lotta"
         ]
     },
     "weight": {

@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "oricorio": {
             "primary": "Sincrodanza"
         }
     },
@@ -34,7 +34,7 @@
             "scarlet": "A Paldea non si vede quasi mai. Pare che la sua danza leggiadra sia efficace per stare in forma, perciò questo stile ha molto seguito.",
             "violet": "Forma di un Oricorio che si è nutrito di Nettare rosa. Aumenta le sue energie mentali con placidi passi di danza e poi scatena i suoi poteri psichici."
         },
-        "stile-buyō": {
+        "stile-buyo": {
             "sun": "Un Oricorio che si è nutrito di Nettare viola. La sua ammaliante danza raffinata spinge l’anima e il corpo dei nemici sul confine con l’altro mondo.",
             "moon": "Chiama a sé le anime dei morti con un ballo ammaliante e sfrutta il rancore che le pervade per scagliare una maledizione contro i nemici.",
             "ultra-sun": "Ammalia il nemico con una danza raffinata e approfitta della sua distrazione per colpirlo con una maledizione fatale.",
@@ -46,6 +46,7 @@
     "egg_groups": [
         "Volante"
     ],
+    "flat_name": "oricorio",
     "generation": 7,
     "height": {
         "oricorio": "0,6 m"
@@ -54,6 +55,7 @@
     "name": "Oricorio",
     "name_origin": "Oricorio è probabilmente una combinazione di oriole, rigogolo, e di choreography, coreografia. Odoridori potrebbe essere una combinazione di 踊り odori, danza, 鳥 tori, uccello, e 色とりどり irotoridori, multicolore. ",
     "origin": "Oricorio sembra essere ispirato ai drepanidini, uccelli tipici hawaiani che si nutrono di nettare e che possono avere piumaggi dai colori differenti. La sua abilità nella danza potrebbe riferirsi anche alle danze di corteggiamento di questi tipi di uccelli. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Oricorio",
     "shape": "testa e base",
     "specie": "Pokémon Danza",
     "sprites": {
@@ -69,10 +71,14 @@
             "default": "https://media.pokemoncentral.it/wiki/c/cc/Homem0741H.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/59/Homemsh0741H.png"
         },
-        "stile-buyō": {
+        "stile-buyo": {
             "default": "https://media.pokemoncentral.it/wiki/a/a1/Homem0741B.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/1b/Homemsh0741B.png"
-        }
+        },
+        "oricorio": {
+            "corporate": "https://media.pokemoncentral.it/wiki/e/ed/Artwork0741B_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ad/Artwork0741_SL.png"
     },
     "stats": {
         "oricorio": {
@@ -89,8 +95,8 @@
     },
     "types": {
         "stile-flamenco": [
-            "Volante",
-            "Fuoco"
+            "Fuoco",
+            "Volante"
         ],
         "stile-cheerdance": [
             "Elettro",
@@ -100,9 +106,9 @@
             "Psico",
             "Volante"
         ],
-        "stile-buyō": [
-            "Spettro",
-            "Volante"
+        "stile-buyo": [
+            "Volante",
+            "Spettro"
         ]
     },
     "weight": {

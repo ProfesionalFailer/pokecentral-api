@@ -49,6 +49,7 @@
         "Acqua 1",
         "Drago"
     ],
+    "flat_name": "milotic",
     "generation": 3,
     "height": {
         "milotic": "6,20 m"
@@ -57,17 +58,20 @@
     "name": "Milotic",
     "name_origin": "Il suo nome probabilmente deriva dall'unione della parola Milo  con le parole inglesi melodic  o aquatic . ",
     "origin": "Milotic sembrerebbe essere basato sulle sirene e sul mostro di Loch Ness. Riscontra anche delle somiglianze con i Regalecidi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Milotic",
     "shape": "testa e gambe",
     "specie": "Pokémon Tenerezza",
     "sprites": {
-        "": {
+        "milotic": {
             "default": "https://media.pokemoncentral.it/wiki/f/f9/Homem0350.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homemsh0350.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homemsh0350.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/7/75/Artwork0350_Corp_2.png"
         },
-        "-f": {
+        "milotic-f": {
             "default": "https://media.pokemoncentral.it/wiki/7/70/Homef0350.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/5e/Homefsh0350.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e4/Artwork0350_RZ.png"
     },
     "stats": {
         "milotic": {

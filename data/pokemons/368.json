@@ -43,6 +43,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "gorebyss",
     "generation": 3,
     "height": {
         "gorebyss": "1,80 m"
@@ -51,13 +52,16 @@
     "name": "Gorebyss",
     "name_origin": "Il nome di Gorebyss deriva dall'inglese gore  e da abyss . Il nome potrebbe anche giocare col suono della parola inglese gorgeous , oppure da byss riferendosi al fatto che procura cibo tra le rocce. ",
     "origin": "Gorebyss è basato sulle nemichthyidae e sul pesce pipa, tuttavia ha anche elementi di regalcidi e chimeradi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gorebyss",
     "shape": "testa e gambe",
     "specie": "Pokémon Sudmarino",
     "sprites": {
         "gorebyss": {
             "default": "https://media.pokemoncentral.it/wiki/f/f6/Homem0368.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0368.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0368.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/83/Artwork0368_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1a/Artwork0368_RZ.png"
     },
     "stats": {
         "gorebyss": {

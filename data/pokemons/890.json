@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "eternatus": {
             "primary": "Pressione"
         }
     },
@@ -37,6 +37,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "eternatus",
     "generation": 8,
     "height": {
         "eternatus": "20,0 m",
@@ -46,17 +47,20 @@
     "name": "Eternatus",
     "name_origin": "Eternatus potrebbe essere la combinazione di eternal, eterno, aeternatus, reso immortale in latino, e Thanatus, translitterazione latina per Tanatos. Mugendina potrebbe essere la combinazione di 無限大 mugendai, infinito, ダイマックス Daimax, Dynamax, e probabilmente dynamic, dinamico. ",
     "origin": "Eternatus potrebbe essere basato su diversi giganti della mitologia e della letteratura. La sua natura extra-terrestre e il suo aspetto simile ad un drago potrebbero essere un riferimento a Uther Pendragon, il padre di Re Artù, che acquisì il suo epiteto dopo aver visto una cometa a forma di drago. Il suo aspetto ricorda anche dei resti scheletrici di un drago, con la cassa toracica a forma di cannone. La forma Dynamax Infinito potrebbe trarre ispirazione da un drago biblico a sette teste, comparso nel libro dell'Apocalisse, che lanciò un terzo di tutte le stelle sulla Terra con l'aiuto dei nefilim, i giganti ebraici. L'evento avrebbe portato quindi la fine dei tempi. Questa considerazione potrebbe essere anche l'origine delle Desiostelle e della Notte Oscura. Eternatus forma Dynamax Infinito potrebbe essere basato anche su Shesha, il re dei nāga nella mitologia indù, che di solito è rappresentato come un serpente gigante a forma di spirale, con mille teste  e in grado di sputare veleno e fuoco. Shesha porta la divinità Visnù nelle sue spirali in modo simile al modo in cui Eternatus Dynamax Infinito porta il suo nucleo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Eternatus",
     "shape": "testa e base",
     "specie": "Pokémon Gigante",
     "sprites": {
         "eternatus": {
             "default": "https://media.pokemoncentral.it/wiki/1/17/Homem0890.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/a/a2/Homemsh0890.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a2/Homemsh0890.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/c/cb"
         },
         "dynamax-infinito": {
             "default": "https://media.pokemoncentral.it/wiki/5/54/Homem0890D.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/66/Homemsh0890D.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1c/Artwork0890_SpSc.png"
     },
     "stats": {
         "eternatus": {
@@ -82,8 +86,8 @@
     },
     "types": {
         "eternatus": [
-            "Veleno",
-            "Drago"
+            "Drago",
+            "Veleno"
         ]
     },
     "weight": {

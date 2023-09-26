@@ -25,6 +25,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "cobalion",
     "generation": 5,
     "height": {
         "cobalion": "2,1 m"
@@ -33,13 +34,16 @@
     "name": "Cobalion",
     "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi cobalt  e champion  o lion . ",
     "origin": "Cobalion è basato sulla figura di Athos, personaggio del racconto \"I tre moschettieri\". Come il suo omonimo è il più anziano e il leader del gruppo. Il suo aspetto ricorda quello del markhor, una grossa capra selvatica afghana, o del kudu maggiore, ma il colore del manto ricorda la pelliccia del lupo grigio, ed è un riferimento esplicito al blu cobalto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cobalion",
     "shape": "più di 4 arti",
     "specie": "Pokémon Metalcuore",
     "sprites": {
         "cobalion": {
             "default": "https://media.pokemoncentral.it/wiki/d/d0/Homem0638.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0638.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0638.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/8d/Artwork0638_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/55/Artwork0638_NB.png"
     },
     "stats": {
         "cobalion": {
@@ -56,8 +60,8 @@
     },
     "types": {
         "cobalion": [
-            "Acciaio",
-            "Lotta"
+            "Lotta",
+            "Acciaio"
         ]
     },
     "weight": {

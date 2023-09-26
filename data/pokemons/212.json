@@ -62,6 +62,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "scizor",
     "generation": 2,
     "height": {
         "scizor": "1,8 m",
@@ -71,21 +72,25 @@
     "name": "Scizor",
     "name_origin": "Il suo nome deriva dall'unione delle parole inglesi scissors, forbici, e razor, rasoio. Hassam è un'alterazione di 剪む hasamu, tagliare. ",
     "origin": "Scizor è basato su una formica di fuoco, su una mantide e su un astice americano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Scizor",
     "shape": "serpentiforme",
     "specie": "Pokémon Chela",
     "sprites": {
-        "scizor ": {
+        "scizor": {
             "default": "https://media.pokemoncentral.it/wiki/7/7b/Homem0212.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/57/Homemsh0212.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/57/Homemsh0212.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/6/63/Artwork0212_Corp_3.png"
         },
-        "scizor -f": {
+        "scizor-f": {
             "default": "https://media.pokemoncentral.it/wiki/9/92/Homef0212.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homefsh0212.png"
         },
         "megascizor": {
             "default": "https://media.pokemoncentral.it/wiki/1/1d/Homem0212M.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/5c/Homemsh0212M.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5c/Homemsh0212M.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/41/Artwork0212M_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2b/Artwork0212_HGSS.png"
     },
     "stats": {
         "scizor": {
@@ -111,8 +116,8 @@
     },
     "types": {
         "scizor": [
-            "Acciaio",
-            "Coleot"
+            "Coleot",
+            "Acciaio"
         ]
     },
     "weight": {

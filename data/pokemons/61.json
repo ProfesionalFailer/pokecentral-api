@@ -64,6 +64,7 @@
     "egg_groups": [
         "Acqua 1"
     ],
+    "flat_name": "poliwhirl",
     "generation": 1,
     "height": {
         "poliwhirl": "1,0 m"
@@ -72,13 +73,16 @@
     "name": "Poliwhirl",
     "name_origin": "Poliwhirl potrebbe essere una combinazione di polliwog  e whirl. Nyorozo deriva da ニョロニョロ nyoronyoro . ",
     "origin": "Poliwhirl è basato su di un girino. La spirale sulla sua pancia dovrebbe rappresentare gli organi dei girini che a volte possono essere visti attraverso la loro pelle trasparente. La sua evoluzione è basata sulla metamorfosi dei girini. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Poliwhirl",
     "shape": "un paio di ali",
     "specie": "Pokémon Girino",
     "sprites": {
         "poliwhirl": {
             "default": "https://media.pokemoncentral.it/wiki/a/a1/Homem0061.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0061.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0061.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/9/92/Artwork0061_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/63/Artwork0061_RFVF.png"
     },
     "stats": {
         "poliwhirl": {

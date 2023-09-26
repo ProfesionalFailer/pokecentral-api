@@ -44,6 +44,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "carvanha",
     "generation": 3,
     "height": {
         "carvanha": "0,8 m"
@@ -52,13 +53,16 @@
     "name": "Carvanha",
     "name_origin": "Il nome di Carvanha è nato dall'unione delle parole inglesi carve , o carnivorous  e piranha. ",
     "origin": "Carvanha si basa soprattutto su un piranha. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Carvanha",
     "shape": "pinne",
     "specie": "Pokémon Feroce",
     "sprites": {
         "carvanha": {
             "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem0318.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/29/Homemsh0318.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/29/Homemsh0318.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/4/43/Artwork0318_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4e/Artwork0318_RZ.png"
     },
     "stats": {
         "carvanha": {
@@ -75,8 +79,8 @@
     },
     "types": {
         "carvanha": [
-            "Buio",
-            "Acqua"
+            "Acqua",
+            "Buio"
         ]
     },
     "weight": {

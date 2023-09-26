@@ -22,6 +22,7 @@
     "egg_groups": [
         "Sconosciuto"
     ],
+    "flat_name": "tapu-bulu",
     "generation": 7,
     "height": {
         "tapu-bulu": "1,9 m"
@@ -30,13 +31,16 @@
     "name": "Tapu Bulu",
     "name_origin": "Tapu Bulu potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e bulu, toro in hawaiiano. Kapu-Bururu potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e bulu, toro in hawaiiano. ",
     "origin": "Tapu Bulu potrebbe essere ispirato ad un toro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tapu_Bulu",
     "shape": "insettoide",
     "specie": "Pokémon Nume Locale",
     "sprites": {
         "tapu-bulu": {
             "default": "https://media.pokemoncentral.it/wiki/d/de/Homem0787.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/8/8a/Homemsh0787.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8a/Homemsh0787.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/3/3d/Artwork0787_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/47/Artwork0787_SL.png"
     },
     "stats": {
         "tapu-bulu": {
@@ -53,8 +57,8 @@
     },
     "types": {
         "tapu-bulu": [
-            "Erba",
-            "Folletto"
+            "Folletto",
+            "Erba"
         ]
     },
     "weight": {

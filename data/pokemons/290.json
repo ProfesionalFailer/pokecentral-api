@@ -43,6 +43,7 @@
     "egg_groups": [
         "Coleottero"
     ],
+    "flat_name": "nincada",
     "generation": 3,
     "height": {
         "nincada": "0,50 m"
@@ -51,13 +52,16 @@
     "name": "Nincada",
     "name_origin": "Nincada è probabilmente l'unione di ninja e cicada . ",
     "origin": "Nincada è basato su una larva di cicala. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Nincada",
     "shape": "testa e braccia",
     "specie": "Pokémon Novizio",
     "sprites": {
         "nincada": {
             "default": "https://media.pokemoncentral.it/wiki/f/ff/Homem0290.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2e/Homemsh0290.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2e/Homemsh0290.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1c/Artwork0290_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3e/Artwork0290_RZ.png"
     },
     "stats": {
         "nincada": {

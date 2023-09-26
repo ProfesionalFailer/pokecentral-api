@@ -41,21 +41,25 @@
         "Campo",
         "Magico"
     ],
+    "flat_name": "skitty",
     "generation": 3,
     "height": {
         "skitty": "0,60 m"
     },
     "id": 300,
     "name": "Skitty",
-    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi skittish, giocherellone, vivace, e kitty, gattino. Il suo nome giapponese, エネコ Eneko, potrebbe derivare dall'unione delle parole 狗尾草 enokorogusa, coda di volpe, un tipo di pianta che la sua coda ricorda, e 猫 neko, gatto. ",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi skittish, giocherellone, vivace, e kitty, gattino. Il suo nome giapponese, エネコ Eneko, potrebbe derivare dall'unione delle parole 狗尾草 enokorogusa, coda di volpe, un tipo di pianta che la sua coda ricorda, e 猫 neko, gatto.",
     "origin": "Skitty è basato sul gatto domestico. L'aspetto della sua coda assomiglia l'erba coda. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Skitty",
     "shape": "più di 4 arti",
     "specie": "Pokémon Micio",
     "sprites": {
         "skitty": {
             "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0300.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0300.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0300.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/84/Artwork0300_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/60/Artwork0300_RZ.png"
     },
     "stats": {
         "skitty": {

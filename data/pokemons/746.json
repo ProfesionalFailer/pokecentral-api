@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "wishiwashi": {
             "primary": "Banco"
         }
     },
@@ -32,6 +32,7 @@
     "egg_groups": [
         "Acqua 2"
     ],
+    "flat_name": "wishiwashi",
     "generation": 7,
     "height": {
         "forma-individuale": "0,2 m",
@@ -39,19 +40,23 @@
     },
     "id": 746,
     "name": "Wishiwashi",
-    "name_origin": "Wishiwashi potrebbe derivare da wishy-washy e 鰯 iwashi, sardine. Yowashi potrebbe essere una combinazione di 弱し yowai  o di 弱々しい yowayowashii, fragile, e di イワシ iwashi, sardina. ",
+    "name_origin": "Wishiwashi potrebbe derivare da wishy-washy' e 鰯 iwashi, sardina. Yowashi potrebbe essere una combinazione di 弱し yowai  o di 弱々しい yowayowashii, fragile, e di イワシ iwashi, sardina. ",
     "origin": "La forma individuale di Wishiwashi è ispirata ad una sardina. La forma Banco, invece, è ispirata al fenomeno dei banchi di pesci che si fingono un'unica creatura o anche ad un sottomarino o all'estinto Dunkleosteus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wishiwashi",
     "shape": "pinne",
     "specie": "Pokémon Pesciolino",
     "sprites": {
         "forma-individuale": {
             "default": "https://media.pokemoncentral.it/wiki/9/99/Homem0746.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/01/Homemsh0746.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/0/01/Homemsh0746.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/5/5b/Artwork0746_Corp.png"
         },
         "forma-banco": {
             "default": "https://media.pokemoncentral.it/wiki/e/e3/Homem0746B.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0746B.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0746B.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/d/dd/Artwork0746B_Corp.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/62/Artwork0746_SL.png"
     },
     "stats": {
         "forma-individuale": {

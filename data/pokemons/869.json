@@ -1,6 +1,6 @@
 {
     "abilities": {
-        "tutte-le-forme": {
+        "alcremie": {
             "primary": "Dolcevelo",
             "hidden": "Aromavelo"
         }
@@ -58,6 +58,7 @@
         "Magico",
         "Amorfo"
     ],
+    "flat_name": "alcremie",
     "generation": 8,
     "height": {
         "alcremie": "0,3 m",
@@ -67,13 +68,16 @@
     "name": "Alcremie",
     "name_origin": "Alcremie è probabilmente una combinazione di alchemy, alchimia, cream, crema, o creamy, cremoso. Mawhip è probabilmente una combinazione di 魔法 mahō, magico, e ホイップ hoippu, panna montata. ",
     "origin": "Alcremie potrebbe essere basata su un Eton mess, un dolce tradizionale inglese fatto con la frutta, su una meringa o sulla panna montata. La forma Gigamax potrebbe essere basata su una torta nuziale. La sua capacità di indurirsi quando viene colpito dovrebbe invece essere basata su una proprietà fisica di alcuni fluidi non newtoniani, e nel particolare sul fenomeno di dilatamento dato dalla mescolatura tra acqua e amido di mais, la quale è di uso comune in pasticceria. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Alcremie",
     "shape": "quadrupede",
     "specie": "Pokémon Pannafresca",
     "sprites": {
         "alcremie": {
             "default": "https://media.pokemoncentral.it/wiki/9/9d/Homef0869.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homefsh0869.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homefsh0869.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/1/1c"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/99/Artwork0869_SpSc.png"
     },
     "stats": {
         "alcremie": {

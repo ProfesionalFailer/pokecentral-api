@@ -48,6 +48,7 @@
         "Mostro",
         "Drago"
     ],
+    "flat_name": "sceptile",
     "generation": 3,
     "height": {
         "sceptile": "1,7 m",
@@ -57,17 +58,20 @@
     "name": "Sceptile",
     "name_origin": "Il suo nome probabilmente deriva dall'incrocio delle parole inglesi reptile , Sceptridium . Può anche derivare da scepter , o scissors . Il suo nome giapponese, ジュカイン Jukain, potrebbe derivare da 樹海 jukai . ",
     "origin": "Basato su un geco e su un dilofosauro, una razza di dinosauro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sceptile",
     "shape": "due paia di ali",
     "specie": "Pokémon Foresta",
     "sprites": {
         "sceptile": {
             "default": "https://media.pokemoncentral.it/wiki/b/b0/Homem0254.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/5/5b/Homemsh0254.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5b/Homemsh0254.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0254M_Corp.png"
         },
         "megasceptile": {
             "default": "https://media.pokemoncentral.it/wiki/1/14/Homem0254M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/f/f1/Homemsh0254M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9c/Artwork0254_RZ.png"
     },
     "stats": {
         "sceptile": {
@@ -96,8 +100,8 @@
             "Erba"
         ],
         "megasceptile": [
-            "Erba",
-            "Drago"
+            "Drago",
+            "Erba"
         ]
     },
     "weight": {

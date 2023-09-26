@@ -49,6 +49,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "manectric",
     "generation": 3,
     "height": {
         "menectric": "1,5 m",
@@ -58,17 +59,20 @@
     "name": "Manectric",
     "name_origin": "Deriva dalle parole mane  e electric . ",
     "origin": "Esso può essere basato su un lupo dalla criniera e un demone della tradizione giapponese, il raijū, una creatura elettrica che può assumere la forma di mammiferi, tra cui una tigre, una scimmia e un lupo. Manectric si basa sulla sua forma lupo, mentre il Pokémon Raikou si basa sulla sua forma tigre. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Manectric",
     "shape": "più di 4 arti",
     "specie": "Pokémon Scarica",
     "sprites": {
         "manectric": {
             "default": "https://media.pokemoncentral.it/wiki/b/b6/Homem0310.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/f/f8/Homemsh0310.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f8/Homemsh0310.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/e/e4/Artwork0310M_Corp.png"
         },
         "megamanectric": {
             "default": "https://media.pokemoncentral.it/wiki/6/66/Homem0310M.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/64/Homemsh0310M.png"
-        }
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2b/Artwork0310_RZ.png"
     },
     "stats": {
         "manectric": {

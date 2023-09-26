@@ -25,6 +25,7 @@
     "egg_groups": [
         "Campo"
     ],
+    "flat_name": "panpour",
     "generation": 5,
     "height": {
         "panpour": "0,6 m"
@@ -33,13 +34,16 @@
     "name": "Panpour",
     "name_origin": "Il nome Panpour è la combinazione della parola pan  con la parola inglese pour . ",
     "origin": "È basato su una scimmia e su una fontana. Insieme a Pansage e a Pansear si ispira alle tre scimmie sagge del santuario di Nikko. Pansear rappresenta Mizaru, la scimmia che \"Non vede il Male\", motivo per il quale ha gli occhi chiusi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Panpour",
     "shape": "due paia di ali",
     "specie": "Pokémon Annaffiatore",
     "sprites": {
         "panpour": {
             "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0515.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homemsh0515.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homemsh0515.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/8/86/Artwork0515_Corp_3.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0515_NB.png"
     },
     "stats": {
         "panpour": {

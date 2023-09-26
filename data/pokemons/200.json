@@ -53,6 +53,7 @@
     "egg_groups": [
         "Amorfo"
     ],
+    "flat_name": "misdreavus",
     "generation": 2,
     "height": {
         "misdreavus": "0,7 m"
@@ -61,13 +62,16 @@
     "name": "Misdreavus",
     "name_origin": "Il nome potrebbe essere una corruzione della parola \"Mischievus\", malizioso, ma potrebbe anche essere la combinazione delle parole \"Mistress\", padrone, dal suo aspetto femminile, \"Miscreant\", malvagio, possibile riferimento al fatto che urla per spaventare, \"Dread\", terrore, \"Drealy\", tetro, e \"Reave\", da To Rob, rubare. ",
     "origin": "La natura notturna, gli urli di Misdreavus che emette per spaventare la gente e la sua forma simile ad una testa fluttuante senza corpo lo rendono simile a varie creature mitologiche. Una di queste è il Nukekubi uno spettro tipico della tradizione giapponese, anche questa creatura è notturna, ha la forma di una testa fluttuante decapitata e emette gemiti per spaventare le sue vittime, altra possibile origine sono le Banshee spiriti ultraterreni femminili del folklore gaelico che emettevano gemiti e urlavano, è anche possibile che siano stati ispirati dalle Langsuir, un tipo di vampiri della mitologia malese che appaiono come teste femminili fluttuanti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Misdreavus",
     "shape": "testa",
     "specie": "Pokémon Strido",
     "sprites": {
         "misdreavus": {
             "default": "https://media.pokemoncentral.it/wiki/5/52/Homem0200.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0200.png"
-        }
+            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0200.png",
+            "corporate": "https://media.pokemoncentral.it/wiki/2/27/Artwork0200_Corp_2.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/52/Artwork0200_RFVF.png"
     },
     "stats": {
         "misdreavus": {
