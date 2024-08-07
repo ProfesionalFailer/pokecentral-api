@@ -5,6 +5,10 @@
         }
     },
     "curiosities": [
+        "Miraidon e Koraidon sono gli unici Pokémon Paradosso:\n\tad avere nomi Pokémon convenzionali.\n\tad avere nomi che sono uguali per tutte le lingue.\n\tad avere abilità esclusive.",
+        "ad avere nomi Pokémon convenzionali.",
+        "ad avere nomi che sono uguali per tutte le lingue.",
+        "ad avere abilità esclusive.",
         "È stato annunciato il 1° giugno 2022 insieme a Lechonk, Pawmi, Smoliv e Koraidon.",
         "Ha una V sulla schiena, cosa che allude al fatto che questo Pokémon è la mascotte di Pokémon Violetto."
     ],
@@ -21,22 +25,19 @@
     "flat_name": "miraidon",
     "generation": 9,
     "height": {
-        "miraidon": "3,5 m"
+        "miraidon": "3.5 m"
     },
     "id": 1008,
     "name": "Miraidon",
     "name_origin": "Miraidon potrebbe essere una combinazione di 未来 mirai, futuro, e -don, suffisso di origine greca comunemente utilizzato nei nomi dei dinosauri. ",
     "origin": "\"Serpeferrea\" potrebbe essere una versione robotica di Cyclizar.\nMiraidon potrebbe essere basato su un drago cinese robotico. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Miraidon",
-    "shape": "sconosciuto",
+    "shape": "quadrupede",
     "specie": "Pokémon Paradosso",
     "sprites": {
         "miraidon": {
             "default": "https://media.pokemoncentral.it/wiki/1/14/Homem1008.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh1008.png"
-        },
-        "assetto-completo": {
-            "corporate": "https://media.pokemoncentral.it/wiki/d/d0/Artwork1008_Corp_2.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/4/41/Artwork1008_SV.png"
     },
@@ -55,11 +56,11 @@
     },
     "types": {
         "miraidon": [
-            "Elettro",
-            "Drago"
+            "Drago",
+            "Elettro"
         ]
     },
     "weight": {
-        "miraidon": "240,0 kg"
+        "miraidon": "240.0 kg"
     }
 }

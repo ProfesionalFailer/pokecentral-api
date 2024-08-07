@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "ivysaur": {
+            "primary": "Erbaiuto",
+            "hidden": "Clorofilla"
+        }
+    },
+    "curiosities": [
+        "Bulbasaur, Ivysaur e Venusaur condividono la loro categoria con Sunkern. Tutti e quattro sono noti come Pokémon Seme.",
+        "Ivysaur è il secondo Pokémon del Pokédex di Kanto, del Pokédex Nazionale e del Navigatore di Fiore.",
+        "Negli sprite di Pokémon Rosso e Blu, Ivysaur sta in piedi sulle zampe posteriori, nonostante nelle voci Pokédex sia detto che ciò sia impossibile. Questo errore è stato poi corretto nelle generazioni successive.",
+        "Ivysaur è l'unico secondo stadio di tipo Erba/Veleno che non necessita di una pietra evolutiva per evolversi nel suo stadio finale.",
+        "In Super Smash Bros. Brawl, Ivysaur è l'unico Pokémon appartenente all'Allenatore di Pokémon che non usa una MN: Squirtle usa Cascata, Charizard usa Spaccaroccia e Volo.",
+        "A causa della censura che impedisce che Pokémon con soprannomi offensivi siano scambiati via GTS, un Ivysaur inglese non può essere scambiato via GTS senza un soprannome in Pokémon Nero e Bianco."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ivysaur.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Erba"
+    ],
+    "flat_name": "ivysaur",
+    "generation": 1,
+    "height": {
+        "ivysaur": "1.0 m"
+    },
+    "id": 2,
+    "name": "Ivysaur",
+    "name_origin": "Ivysaur potrebbe essere una combinazione di ivy, edera, e σαῦρος sauros, lucertola in greco antico. Fushigisou potrebbe essere una combianzione di 不思議 fushigi, strano o misterioso, e 草 sō, erba, o そう sō, sembra. ",
+    "origin": "Ivysaur e la sua famiglia evolutiva sono basati su una rana. Secondo Ken Sugimori e Atsuko Nishida, l'artista s'è basata su un criterio opposto rispetto alla sua forma finale, il che significa che Ivysaur è direttamente basato su Venusaur. In particolare, la coporatura del Pokémon ricorda la rana del diavolo, una rana vissuta nel tardo Cretaceo. Il bulbo sul suo dorso ricorda un fiore di Rafflesia e le foglie sembrano ispirate a quelle delle palme. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ivysaur",
+    "shape": "quadrupede",
+    "specie": "Pokémon Seme",
+    "sprites": {
+        "ivysaur": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7d/Homem0002.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a3/Homemsh0002.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/48/Artwork0002_RFVF.png"
+    },
+    "stats": {
+        "ivysaur": {
+            "hp": 60,
+            "atk": 62,
+            "def": 63,
+            "spa": 80,
+            "spd": 80,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "ivysaur": 405
+    },
+    "types": {
+        "ivysaur": [
+            "Veleno",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "ivysaur": "13.0 kg"
+    }
+}

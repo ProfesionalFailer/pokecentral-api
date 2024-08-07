@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "hippopotas": {
+            "primary": "Sabbiafiume",
+            "hidden": "Silicoforza"
+        }
+    },
+    "curiosities": [
+        "Nonostante abbiano evidenti differenze di sesso, sia Hippopotas che la sua evoluzione hanno solo uno sprite nel menu e solo un'immagine nel Dream World, che rappresentano entrambe la versione maschile del Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/hippopotas.mp3",
+    "dex_entries": {
+        "hippopotas": {
+            "diamond": "Vive in territori aridi. Invece del sudore, espelle dal corpo sabbia granulosa.",
+            "pearl": "Si ricopre di sabbia per proteggersi dai germi. Non ama bagnarsi.",
+            "platinum": "Chiude le narici e poi si sposta attraverso la sabbia. Vive in gruppi di 10.",
+            "heartgold": "Si ricopre di sabbia per proteggersi dai germi. Si sposta attraverso le dune del deserto.",
+            "soulsilver": "Si ricopre di sabbia per proteggersi dai germi. Si sposta attraverso le dune del deserto.",
+            "black": "Chiude le narici e poi si sposta attraverso la sabbia. Vive in gruppi di 10.",
+            "white": "Chiude le narici e poi si sposta attraverso la sabbia. Vive in gruppi di 10.",
+            "black-2": "Chiude le narici e poi si sposta attraverso la sabbia. Vive in gruppi di dieci.",
+            "white-2": "Chiude le narici e poi si sposta attraverso la sabbia. Vive in gruppi di dieci.",
+            "x": "Vive in territori aridi. Invece del sudore, espelle dal corpo sabbia granulosa.",
+            "y": "Si ricopre di sabbia per proteggersi dai germi. Non ama bagnarsi.",
+            "omega-ruby": "Vive in territori aridi. Invece del sudore, espelle dal corpo sabbia granulosa.",
+            "alpha-sapphire": "Si ricopre di sabbia per proteggersi dai germi. Non ama bagnarsi",
+            "sword": "Si sposta con la bocca aperta inghiottendo contemporaneamente sabbia e prede. Poi si libera della sabbia soffiandola fuori dal naso.",
+            "shield": "È attivo principalmente di giorno. Dato che nel deserto la temperatura notturna è molto bassa, scava profonde buche nella sabbia per dormire.",
+            "brilliant-diamond": "Vive in territori aridi. Invece del sudore, espelle dal corpo sabbia granulosa.",
+            "shining-pearl": "Si ricopre di sabbia per proteggersi dai germi. Non ama bagnarsi.",
+            "legends-arceus": "Voluminoso nelle forme, è flemmatico di natura. Giacché s'immerge in fosse che scava nel suolo, è arduo avvistarlo. Nei suoi sprazzi di esuberanza eietta sabbia dal naso.",
+            "scarlet": "Chiude le narici e poi avanza nella sabbia in tutta tranquillità. Vive in gruppi di una decina di esemplari.",
+            "violet": "Si ricopre di sabbia per proteggersi dai germi. Si sposta immerso nella sabbia del deserto."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "hippopotas",
+    "generation": 4,
+    "height": {
+        "hippopotas": "0.8 m"
+    },
+    "id": 449,
+    "name": "Hippopotas",
+    "name_origin": "Deriva da una contrazione della parola hippopotamus . ",
+    "origin": "È basato su un ippopotamo, con un camuffamento da militare. È probabile che abbia origine dalla leggenda del bahamut, un pesce della mitologia musulmana che si dice abbia una testa simile a quella di un ippopotamo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hippopotas",
+    "shape": "quadrupede",
+    "specie": "Pokémon Ippo",
+    "sprites": {
+        "hippopotas": {
+            "default": "https://media.pokemoncentral.it/wiki/7/78/Homem0449.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0449.png"
+        },
+        "hippopotas-f": {
+            "default": "https://media.pokemoncentral.it/wiki/4/48/Homef0449.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homefsh0449.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9c/Artwork0449_DP.png"
+    },
+    "stats": {
+        "hippopotas": {
+            "hp": 68,
+            "atk": 72,
+            "def": 78,
+            "spa": 38,
+            "spd": 42,
+            "spe": 32
+        }
+    },
+    "stats_sum": {
+        "hippopotas": 330
+    },
+    "types": {
+        "hippopotas": [
+            "Terra"
+        ]
+    },
+    "weight": {
+        "hippopotas": "49.5 kg"
+    }
+}

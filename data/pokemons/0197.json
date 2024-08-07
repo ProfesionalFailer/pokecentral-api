@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "umbreon": {
+            "primary": "Sincronismo",
+            "hidden": "Forza Interiore"
+        }
+    },
+    "curiosities": [
+        "È il primo Pokémon di tipo Buio puro ad apparire nel Pokédex Nazionale.",
+        "Umbreon è l'unico Pokémon di tipo Buio puro nella generazione in cui ha debuttato.",
+        "In Pokémon Rosso Fuoco e Verde Foglia è impossibile ottenere Umbreon ed Espeon se non tramite scambio, in quanto non c'è un orologio interno e quindi è assente la meccanica del tempo.",
+        "Stando al Pokédex di Diamante e Perla, Umbreon, Glaceon e Leafeon hanno le stesse impronte.",
+        "Umbreon è l'unico Pokémon non di tipo Psico che può avere l'abilità Sincronismo.",
+        "Umbreon, a pari merito con MegaGyarados ed Hoopa Libero, ha la più alta statistica base di Difesa Speciale di tutti i Pokémon di tipo Buio.",
+        "Il Pokédex afferma che Umbreon usa della \"sudorazione velenosa\" per difendersi: dato che l'unica mossa Veleno che può imparare è Tossina, tramite MT, questa \"sudorazione velenosa\" potrebbe riferirsi proprio a tale mossa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/umbreon.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "umbreon",
+    "generation": 2,
+    "height": {
+        "umbreon": "1.0 m"
+    },
+    "id": 197,
+    "name": "Umbreon",
+    "name_origin": "Il suo nome deriva probabilmente dall'unione tra la parola latina umbra, ombra, ed il suffisso -eon, eone, comune a tutta la linea evolutiva di Eevee. ",
+    "origin": "Le sue origini sono incerte, ma pare essere basato su un gatto nero o una volpe nera , anche se le sue orecchie sono simili a quelle di una lepre, quindi è possibile che sia ispirato anche alle leggende del coniglio lunare asiatico. Le strisce sul corpo di Umbreon sono riconducibili a dei simboli lunari egizi o dei gioielli che gli egiziani usavano sulle statue di divinità come Bastet o Anubi, oppure potrebbero essere ispirati all'eclissi solare in riferimento al suo tipo Buio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Umbreon",
+    "shape": "quadrupede",
+    "specie": "Pokémon Lucelunare",
+    "sprites": {
+        "umbreon": {
+            "default": "https://media.pokemoncentral.it/wiki/8/83/Homem0197.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0197.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c7/Artwork0197_RFVF.png"
+    },
+    "stats": {
+        "umbreon": {
+            "hp": 95,
+            "atk": 65,
+            "def": 110,
+            "spa": 60,
+            "spd": 130,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "umbreon": 525
+    },
+    "types": {
+        "umbreon": [
+            "Buio"
+        ]
+    },
+    "weight": {
+        "umbreon": "27.0 kg"
+    }
+}

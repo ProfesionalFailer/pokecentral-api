@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "swirlix": {
+            "primary": "Dolcevelo",
+            "hidden": "Agiltecnica"
+        }
+    },
+    "curiosities": [
+        "La linea evolutiva di Swirlix può essere considerata la controparte di quella di Spritzee. Sono entrambe linee evolutive di tipo Folletto puro, introdotte in sesta generazione, una esclusiva di Pokémon X e Pokémon Spada e l’altra di Pokémon Y e di Pokémon Scudo. Inoltre entrambi si evolvono tramite scambio tenendo un oggetto.",
+        "Swirlix e Slurpuff sono gli unici Pokémon non di tipo Coleottero a poter imparare Millebave salendo di livello."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/swirlix.mp3",
+    "dex_entries": {
+        "swirlix": {
+            "x": "Immobilizza il nemico avvolgendolo in filamenti bianchi, dolci e appiccicosi, simili a zucchero filato.",
+            "y": "Poiché mangia solo cose dolci, il suo pelo ha la consistenza e il sapore dello zucchero filato.",
+            "omega-ruby": "Immobilizza il nemico avvolgendolo in filamenti bianchi, dolci e appiccicosi, simili a zucchero filato.",
+            "alpha-sapphire": "Poiché mangia solo cose dolci, il suo pelo ha la consistenza e il sapore dello zucchero filato.",
+            "sword": "Mangia ogni giorno una quantità di zucchero pari al peso del suo corpo. Quando il suo livello di glucosio cala troppo, diventa di cattivo umore.",
+            "shield": "La sua soffice pelliccia emette un dolce profumo di zucchero filato. Avvolge il nemico con filamenti appiccicosi."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "flat_name": "swirlix",
+    "generation": 6,
+    "height": {
+        "swirlix": "0.4 m"
+    },
+    "id": 684,
+    "name": "Swirlix",
+    "name_origin": "Swirlix può essere una corruzione di swirl  e una corruzione di licks . Peroppafu può essere una combinazione ペロペロ peropero  and puff. ",
+    "origin": "Swirlix è basato sullo zucchero filato, conosciuto in passato anche come fairy floss , ciò può essere un'ispirazione per il tipo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Swirlix",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Zuccherino",
+    "sprites": {
+        "swirlix": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3d/Homem0684.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/37/Homemsh0684.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2a/Artwork0684_XY.png"
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 62,
+            "atk": 48,
+            "def": 66,
+            "spa": 59,
+            "spd": 57,
+            "spe": 49
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 341
+    },
+    "types": {
+        "swirlix": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "swirlix": "3.5 kg"
+    }
+}

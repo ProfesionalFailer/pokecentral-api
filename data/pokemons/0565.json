@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "carracosta": {
+            "primary": "Solidroccia",
+            "secondary": "Vigore",
+            "hidden": "Nuotovelox"
+        }
+    },
+    "curiosities": [
+        "Carracosta e la sua pre-evoluzione sono gli unici Pokémon fossili di tipo Roccia ad avere tale tipo come secondario anziché primario."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/carracosta.mp3",
+    "dex_entries": {
+        "carracosta": {
+            "black": "Vive nel mare e sulla terraferma. Ha una forza tale da sfondare con un solo colpo il fondo di una nave cisterna.",
+            "white": "Delle mascelle incredibilmente potenti gli consentono di inghiottire rocce e travi di acciaio, oltre alle sue prede.",
+            "black-2": "Un singolo colpo dei suoi arti anteriori può bastare a far perdere i sensi alla preda e romperne ossa e corazza.",
+            "white-2": "Un singolo colpo dei suoi arti anteriori può bastare a far perdere i sensi alla preda e romperne ossa e corazza.",
+            "x": "Vive nel mare e sulla terraferma. Ha una forza tale da sfondare con un solo colpo il fondo di una nave cisterna.",
+            "y": "Un singolo colpo dei suoi arti può bastare a far perdere i sensi alla preda e romperne ossa e corazza.",
+            "omega-ruby": "Vive nel mare e sulla terraferma. Ha una forza tale da sfondare con un solo colpo il fondo di una nave cisterna.",
+            "alpha-sapphire": "Un singolo colpo dei suoi arti anteriori può bastare a far perdere i sensi alla preda e romperne ossa e corazza.",
+            "sun": "Per rafforzare il proprio carapace, mangiava le prede intere, frantumandone corazza e ossa.",
+            "moon": "Questo Pokémon è a suo agio sia in mare che sulla terraferma. Cattura le prede a terra e le trascina in mare per finirle.",
+            "ultra-sun": "Con le sue mascelle terribilmente potenti poteva frantumare le dure corazze degli Omastar e degli Omanyte per mangiarseli senza problemi.",
+            "ultra-moon": "Per rafforzare il suo carapace mangiava le prede intere senza scartare nulla, nemmeno le ossa e i gusci.",
+            "sword": "Consuma le sue prede senza lasciare nemmeno ossa e gusci, favorendo così la formazione di un carapace duro e spesso.",
+            "shield": "Quando va in cerca di prede sale anche sulla terraferma, nonostante i suoi movimenti siano più impacciati rispetto a quando è in acqua."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 3"
+    ],
+    "flat_name": "carracosta",
+    "generation": 5,
+    "height": {
+        "carracosta": "1.2 m"
+    },
+    "id": 565,
+    "name": "Carracosta",
+    "name_origin": "Carracosta può essere una combinazione di carapace , e costa . \"Carra\" può anche fare riferimento alla formazione fossile di Carrara, che contiene numerosi fossili di trilobiti. Il nome giapponese, アバゴーラ Abagoura, può essere una combinazione di 暴れる abareru , 肋 abara , e 甲羅 kora . ",
+    "origin": "Carracosta è basato su una Tartaruga marina, più specificamente una Tartaruga liuto. Può essere basato anche su una Protostega gigas, una tartaruga preistorica così come l'Archelon ischyros; quest'ultima è la tartaruga più grande mai esistita, ed è l'ipotesi più accreditata. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Carracosta",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Ancestruga",
+    "sprites": {
+        "carracosta": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d9/Homem0565.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/37/Homemsh0565.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/81/Artwork0565_NB.png"
+    },
+    "stats": {
+        "carracosta": {
+            "hp": 74,
+            "atk": 108,
+            "def": 133,
+            "spa": 83,
+            "spd": 65,
+            "spe": 32
+        }
+    },
+    "stats_sum": {
+        "carracosta": 495
+    },
+    "types": {
+        "carracosta": [
+            "Roccia",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "carracosta": "81.0 kg"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "anorith": {
+            "primary": "Lottascudo",
+            "hidden": "Nuotovelox"
+        }
+    },
+    "curiosities": [
+        "Pur essendo Pokémon marini, Anorith e Armaldo non fanno parte del tipo acqua. Essi condividono questa caratteristica con i loro omologhi fossili Lileep e Cradily.",
+        "Anorith, Armaldo, Lileep e Cradily possono camminare sull'acqua nella serie Pokémon Mystery Dungeon, ma non sono Pokémon di tipo Acqua.",
+        "Anorith e la sua evoluzione sono gli unici Pokémon che possono avere Nuotovelox come abilità con una debolezza al tipo Acqua.",
+        "In Pokémon XD: Tempesta Oscura, nel CD Lotta 38, Anorith conosce Cascata, sebbene non sia normalmente in grado di impararla."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/anorith.mp3",
+    "dex_entries": {
+        "anorith": {
+            "ruby": "ANORITH è stato rigenerato da un fossile preistorico. Un tempo viveva nei mari caldi. Questo POKéMON afferra saldamente la preda con i suoi due artigli.",
+            "sapphire": "Si dice che ANORITH sia un POKéMON antenato, con otto ali sui fianchi. Il POKéMON nuotava nei mari primordiali remando con le otto ali.",
+            "emerald": "ANORITH è stato rigenerato da un fossile. Le sue otto pinne laterali, che sono zampe trasformatesi per adattarsi alla vita in mare, servono al POKéMON per nuotare.",
+            "firered": "POKéMON di tipo primitivo, usa i lunghi artigli per catturare prede nascoste tra le rocce in fondo al mare.",
+            "leafgreen": "POKéMON di tipo primitivo, usa i lunghi artigli per catturare prede nascoste tra le rocce in fondo al mare.",
+            "diamond": "Un antico Pokémon rigenerato da un fossile. Viveva nel mare e catturava le prede con gli artigli.",
+            "pearl": "Un antico Pokémon rigenerato da un fossile. Viveva nel mare e catturava le prede con gli artigli.",
+            "platinum": "Un antico Pokémon rigenerato da un fossile. Viveva nel mare e catturava le prede con gli artigli.",
+            "heartgold": "Esemplare di Pokémon antichissimo. Durante la precedente vita marina le 8 zampe gli si sono trasformate in piume.",
+            "soulsilver": "Esemplare di Pokémon antichissimo. Durante la precedente vita marina le 8 zampe gli si sono trasformate in piume.",
+            "black": "Un antico Pokémon rigenerato da un fossile. Viveva nel mare e catturava le prede con gli artigli.",
+            "white": "Un antico Pokémon rigenerato da un fossile. Viveva nel mare e catturava le prede con gli artigli.",
+            "black-2": "Un antico Pokémon rigenerato da un fossile. Viveva nel mare e catturava le prede con gli artigli.",
+            "white-2": "Un antico Pokémon rigenerato da un fossile. Viveva nel mare e catturava le prede con gli artigli.",
+            "x": "Pokémon tipo primitivo, usa i lunghi artigli per catturare prede nascoste tra le rocce in fondo al mare.",
+            "y": "Un antico Pokémon rigenerato da un fossile. Viveva nel mare e catturava le prede con gli artigli.",
+            "omega-ruby": "Anorith è stato rigenerato da un fossile preistorico. Un tempo viveva nei mari caldi. Questo Pokémon afferra saldamente la preda con i suoi due artigli.",
+            "alpha-sapphire": "Si dice che Anorith sia un Pokémon antenato, con otto ali sui fianchi. Il Pokémon nuotava nei mari primordiali remando con le otto ali.",
+            "ultra-sun": "Questo Pokémon rigenerato da un fossile non è a suo agio se rilasciato nel mare, a causa del peggioramento nella qualità delle acque odierne.",
+            "ultra-moon": "È un antico Pokémon Coleottero. Pare che nuotasse in modo sorprendentemente rapido usando le sue otto ali.",
+            "sword": "Questo Pokémon è stato rigenerato da un fossile. Viveva nei mari circa 100 milioni di anni fa e usava i suoi due artigli per cacciare.",
+            "shield": "Nuota rapidamente utilizzando le sue otto ali come fossero remi di una barca. È uno degli antenati dei Pokémon di tipo Coleottero.",
+            "brilliant-diamond": "È stato rigenerato da un fossile ed è una delle specie progenitrici dei Pokémon. Viveva nel mare e catturava le prede con gli artigli.",
+            "shining-pearl": "È stato rigenerato da un fossile ed è una delle specie progenitrici dei Pokémon. Viveva nel mare e catturava le prede con gli artigli."
+        }
+    },
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "flat_name": "anorith",
+    "generation": 3,
+    "height": {
+        "anorith": "0.7 m"
+    },
+    "id": 347,
+    "name": "Anorith",
+    "name_origin": "L'origine del nome può essere la combinazione tra Anomalocaris e il greco λίθος lithos . In alternativa potrebbe derivare da ancestral  o arthropod . ",
+    "origin": "L'aspetto di Anorith è ispirato a quello dell'Anomalocaris, un animale marino estinto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Anorith",
+    "shape": "insettoide",
+    "specie": "Pokémon Primaceo",
+    "sprites": {
+        "anorith": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0347.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/53/Homemsh0347.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/58/Artwork0347_RZ.png"
+    },
+    "stats": {
+        "anorith": {
+            "hp": 45,
+            "atk": 95,
+            "def": 50,
+            "spa": 40,
+            "spd": 50,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "anorith": 355
+    },
+    "types": {
+        "anorith": [
+            "Roccia",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "anorith": "12.5 kg"
+    }
+}

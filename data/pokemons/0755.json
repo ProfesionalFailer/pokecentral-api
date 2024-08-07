@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "morelull": {
+            "primary": "Risplendi",
+            "secondary": "Spargispora",
+            "hidden": "Copripioggia"
+        }
+    },
+    "curiosities": [
+        "Morelull e la sua forma evoluta sono gli unici Pokémon ad avere Copripioggia che non possono imparare Pioggiadanza.",
+        "Morelull può essere visto come la controparte di Paras. Entrambi sono di tipo Erba ed hanno lo stesso totale di statistiche base, entrambi possono imparare Spora ed entrambi possono essere trovati allo stato selvatico in Pokémon Sole e Luna, prendendo il posto dell'altro a seconda del tempo, essendo Morelull trovabile durante la notte mentre Paras durante il giorno."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/morelull.mp3",
+    "dex_entries": {
+        "morelull": {
+            "sun": "Sparge tutto intorno spore che emettono una luce intermittente. Chi la vede cade profondamente addormentato.",
+            "moon": "Di giorno dorme mentre succhia sostanze nutritive dalle radici degli alberi. Di notte si sveglia e va alla ricerca di nuove piante.",
+            "ultra-sun": "Sparge tutt'intorno spore brillanti. Nonostante il pericolo, i tour notturni nei boschi in cui vivono i Morelull vanno molto di moda.",
+            "ultra-moon": "Gli piacciono i luoghi ombrosi e umidi. Quando scende la notte, le spore di cui sono colmi i suoi cappelli si illuminano.",
+            "sword": "I cappelli sul suo capo sono molto gustosi e i Pokémon che vivono nei boschi se ne cibano. Per fortuna, ricrescono nel giro di una notte.",
+            "shield": "Vive nei boschi perennemente ombrosi. Sparge tutto intorno spore che emettono una luce intermittente con cui addormenta i nemici."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "morelull",
+    "generation": 7,
+    "height": {
+        "morelull": "0.2 m"
+    },
+    "id": 755,
+    "name": "Morelull",
+    "name_origin": "Il nome Morelull potrebbe essere una combinazione di morel, un tipo di fungo, e to lull, far addormentare. Nemashu potrebbe essere una combinazione di 寝 ne, dormire, e mushroom, fungo. ",
+    "origin": "Morelull è ispirato ad un fungo luminescente, forse ad una Gerronema viridilucens. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Morelull",
+    "shape": "testa e base",
+    "specie": "Pokémon Luminescenza",
+    "sprites": {
+        "morelull": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c6/Homem0755.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0755.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/57/Artwork0755_SL.png"
+    },
+    "stats": {
+        "morelull": {
+            "hp": 40,
+            "atk": 35,
+            "def": 55,
+            "spa": 65,
+            "spd": 75,
+            "spe": 15
+        }
+    },
+    "stats_sum": {
+        "morelull": 285
+    },
+    "types": {
+        "morelull": [
+            "Erba",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "morelull": "1.5 kg"
+    }
+}

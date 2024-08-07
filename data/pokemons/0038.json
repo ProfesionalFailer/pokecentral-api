@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "ninetales": {
+            "primary": "Fuocardore",
+            "hidden": "Siccità"
+        },
+        "forma-di-alola": {
+            "primary": "Mantelneve",
+            "hidden": "Scendineve"
+        }
+    },
+    "curiosities": [
+        "Il nome originale di Ninetales doveva essere scritto come \"Nine Tales\".",
+        "Ninetales viene erroneamente chiamato \"Ninetails\" nel gioco Pokémon Trading Card Game per Game Boy Color.",
+        "In Pokémon Platino, Ninetales è uno dei pochi Pokémon non presenti nel Pokédex di Sinnoh a non avere un nuovo sprite. Muk, Oddish, Hitmonlee, Meowth, Primeape e Registeel sono gli altri.",
+        "Ninetales e Vulpix sono gli unici Pokémon di tipo Fuoco ad avere una possibilità di sesso femminile più alta di quella maschile.",
+        "In quarta generazione, Ninetales è in grado di apprendere la mossa Energipalla tramite allevamento, ma non può impararla tramite MT.\n\tStranamente, in quinta generazione accade il contrario.",
+        "Stranamente, in quinta generazione accade il contrario.",
+        "A partire dalla quinta generazione, la combinazione dei punti base che dona Ninetales  è unica.",
+        "Ninetales e la sua pre-evoluzione Vulpix condividono la categoria con le famiglie evolutive di Fennekin e Nickit. Appartengono infatti tutti alla categoria Pokémon Volpe.",
+        "Dalla quinta generazione, Ninetales e Vulpix possono avere come abilità speciale Siccità. Questo li rendeva gli unici Pokémon non-leggendari che avevano questa abilità perché in precedenza l'unico Pokémon ad avere questa abilità era Groudon.\n\tDalla sesta generazione anche MegaCharizard Y la possiede.\n\tDalla settima generazione anche Torkoal può avere quest'abilità.\n\tTuttavia, rimangono gli unici Pokémon a possederla come abilità speciale.",
+        "Dalla sesta generazione anche MegaCharizard Y la possiede.",
+        "Dalla settima generazione anche Torkoal può avere quest'abilità.\n\tTuttavia, rimangono gli unici Pokémon a possederla come abilità speciale.",
+        "Tuttavia, rimangono gli unici Pokémon a possederla come abilità speciale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ninetales.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "ninetales",
+    "generation": 1,
+    "height": {
+        "ninetales": "1.1 m"
+    },
+    "id": 38,
+    "name": "Ninetales",
+    "name_origin": "Il nome di Ninetales deriva dalle nine tails che ha, con \"tales\" al posto di \"tails\", in riferimento alle varie leggende giapponesi su cui è basato. Tuttavia, solo il suo nome inglese sembra far riferimento alle sue numerose leggende mitologiche e dei giochi. Kyūkon può essere inteso nel senso di 旧 恨, vecchio rancore, anche se vale la pena notare che la prima sillaba è 九 kyu, nove e Kon, dal giapponese onomatopea konkon - il suono che fanno le volpi. Inoltre, un コンロ konro è una stufa a gas. Infine, una lettura alternativa della parola giapponese per la volpe, 狐 kitsune, è ko. ",
+    "origin": "Ninetales, così come Vulpix, è basato su una kitsune, che significa \"volpe\" in giapponese ma identifica anche le volpi che dopo secoli di vita hanno acquisito poteri sovrannaturali. Sono in grado di creare illusioni, usare poteri pre-cognitivi, e manipolare fiamme spirituali chiamate kitsunebi . Ad esse spunta una coda in più con ogni secolo di vita, e con esse aumenta anche il loro potere. Quando spunta la nona coda vengono dette 九尾の狐 kyuubi-no-kitsune , la loro pelliccia diventa dorata o bianco argento, e il loro potere raggiunge l'apice. Si dice che possano persino sentire e vedere qualsiasi cosa accade nel mondo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ninetales",
+    "shape": "quadrupede",
+    "specie": "Pokémon Volpe",
+    "sprites": {
+        "ninetales": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0038.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0038.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cc/Homem0038A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/dc/Homemsh0038A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3d/Artwork0038_RFVF.png"
+    },
+    "stats": {
+        "ninetales": {
+            "hp": 73,
+            "atk": 76,
+            "def": 75,
+            "spa": 81,
+            "spd": 100,
+            "spe": 100
+        },
+        "forma-di-alola": {
+            "hp": 73,
+            "atk": 67,
+            "def": 75,
+            "spa": 81,
+            "spd": 100,
+            "spe": 109
+        }
+    },
+    "stats_sum": {
+        "ninetales": 505,
+        "forma-di-alola": 505
+    },
+    "types": {
+        "ninetales": [
+            "Fuoco"
+        ],
+        "forma-di-alola": [
+            "Ghiaccio",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "ninetales": "19.9 kg"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "abilities": {
+        "decidueye": {
+            "primary": "Erbaiuto",
+            "hidden": "Distacco"
+        },
+        "forma-di-hisui": {
+            "primary": "Erbaiuto",
+            "hidden": "Nervisaldi"
+        }
+    },
+    "curiosities": [
+        "È l'unica evoluzione finale di un Pokémon iniziale a cambiare il tipo secondario da una evoluzione precedente.\n\tÈ anche il primo Pokémon iniziale che come tipo secondario possiede il tipo Spettro. Prima dell'introduzione del Typhlosion di Hisui, era l'unico starter con questa peculiarità.",
+        "È anche il primo Pokémon iniziale che come tipo secondario possiede il tipo Spettro. Prima dell'introduzione del Typhlosion di Hisui, era l'unico starter con questa peculiarità.",
+        "Decidueye, la linea evolutiva di Quaxly, di Farfetch'd di Galar e di Flittle sono gli unici Pokémon appartenenti al Gruppo Uova Volante che non possiedono il tipo Volante."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/decidueye.mp3",
+    "dex_entries": {
+        "decidueye": {
+            "sun": "Scocca piume dalle sue ali come se fossero frecce. È preciso al punto da riuscire a centrare una piccola pietra a 100 m di distanza.",
+            "moon": "In genere è molto cauto e misurato, ma nei rari casi in cui viene colto di sorpresa si lascia facilmente prendere dal panico.",
+            "ultra-sun": "Scocca piume come fossero frecce. Quando non deve mancare il bersaglio, tira le liane del cappuccio per ridurne l'apertura e mirare meglio.",
+            "ultra-moon": "È in grado di scoccare piume e colpire il nemico in un decimo di secondo, aggiudicandosi la vittoria in un batter d'occhio.",
+            "sword": "Scocca piume dalle sue ali come fossero frecce lanciate da un arco. Una volta presa la mira, non manca mai il bersaglio.",
+            "shield": "Può preparare e scoccare una delle sue piume affilate in 0,1 secondi. Trafigge l'avversario nei suoi punti vitali prima che se ne accorga."
+        },
+        "forma-di-hisui": {
+            "legends-arceus": "Resiste all'algido clima di Hisui grazie all'aria trattenuta nel rachide delle sue piume. Un chiaro esempio d'evoluzione cagionata dall'ambiente."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "decidueye",
+    "generation": 7,
+    "height": {
+        "decidueye": "1.6 m"
+    },
+    "id": 724,
+    "name": "Decidueye",
+    "name_origin": "Decidueye è una combinazione di deciduos, Deciduo, duel, duello, e deadeye, cecchino. Junaipā potrebbe essere una combinazione di 樹 ju, albero, juniper, ginepro, e sniper, cecchino. ",
+    "origin": "Decidueye potrebbe essere ispirato su un Grallistrix, una specie di gufo, estinto, nativo delle Hawaii. Decidueye condivide alcuni elementi con gli arcieri e può anche essere basato sull'eroe inglese Robin Hood. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Decidueye",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Alifreccia",
+    "sprites": {
+        "decidueye": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4c/Homem0724.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/71/Homemsh0724.png"
+        },
+        "forma-di-hisui": {
+            "default": "https://media.pokemoncentral.it/wiki/0/00/Homem0724H.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0724H.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7f/Artwork0724_SL.png"
+    },
+    "stats": {
+        "decidueye": {
+            "hp": 78,
+            "atk": 107,
+            "def": 75,
+            "spa": 100,
+            "spd": 100,
+            "spe": 70
+        },
+        "forma-di-hisui": {
+            "hp": 88,
+            "atk": 112,
+            "def": 80,
+            "spa": 95,
+            "spd": 95,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "decidueye": 530,
+        "forma-di-hisui": 530
+    },
+    "types": {
+        "decidueye": [
+            "Spettro",
+            "Erba"
+        ],
+        "forma-di-hisui": [
+            "Erba",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "decidueye": "36.6 kg"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "nacli": {
+            "primary": "Sale Purificante",
+            "secondary": "Vigore",
+            "hidden": "Corpochiaro"
+        }
+    },
+    "curiosities": [
+        "È stato rivelato per errore nel trailer del 6 ottobre 2022 di Scarlatto e Violetto  insieme a Squawkabilly e a Tandemaus."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/nacli.mp3",
+    "dex_entries": {
+        "nacli": {
+            "scarlet": "È nato nei giacimenti sotterranei di salgemma. In passato era tenuto in grande considerazione poiché condivideva il suo prezioso sale.",
+            "violet": "Muovendosi struscia contro il terreno, lasciando una scia di sale. Produce continuamente sale nel corpo per sostituire quello che perde."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "nacli",
+    "generation": 9,
+    "height": {
+        "nacli": "0.4 m"
+    },
+    "id": 932,
+    "name": "Nacli",
+    "name_origin": "Nacli potrebbe derivare da NaCl .",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Nacli",
+    "shape": "testa",
+    "specie": "Pokémon Salgemma",
+    "sprites": {
+        "nacli": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3e/Homem0932.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5b/Homemsh0932.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8a/Artwork0932_SV.png"
+    },
+    "stats": {
+        "nacli": {
+            "hp": 55,
+            "atk": 55,
+            "def": 75,
+            "spa": 35,
+            "spd": 35,
+            "spe": 25
+        }
+    },
+    "stats_sum": {
+        "nacli": 280
+    },
+    "types": {
+        "nacli": [
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "nacli": "16.0 kg"
+    }
+}

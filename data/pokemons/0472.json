@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "gliscor": {
+            "primary": "Ipertaglio",
+            "secondary": "Sabbiavelo",
+            "hidden": "Velencura"
+        }
+    },
+    "curiosities": [
+        "Prima della quinta generazione Gligar e Gliscor avevano una combinazione di tipi unica.",
+        "Gliscor può essere visto come una controparte di Weavile: entrambi si evolvono da Pokémon di seconda generazione che si evolvono di notte salendo di livello tenendo uno strumento che inizia per Affilo- e sono stati introdotti in quarta generazione.",
+        "Nel franchise Pokémon, l'ecolocalizzazione è spesso rappresentata dalla mossa Supersuono. Inoltre, Gliscor e la sua forma non evoluta, Gligar, possono emettere onde sonore per localizzare ostacoli e volarvi intorno, similmente all'eco-localizzazione. Sebbene nessuno dei due possa imparare Supersuono, come possono fare i membri della linea evolutiva di Zubat, entrambi possono imparare Stridio, un'altra mossa di tipo sonoro.",
+        "Gliscor è più leggero della sua pre-evoluzione, pesando solo 42.5 kg, mentre Gligar pesa 64.8 kg. Sebbene questo possa suggerire che quando Gligar si evolve diventi più adatto al volo, questo non è comunque il caso. Gliscor condivide questa caratteristica insieme ad Alakazam, Salamence, Venomoth, Bellossom, Shedinja, Porygon2, Silvally e Solgaleo e Lunala.",
+        "Fino alla quinta generazione, Gliscor non era in grado di imparare nessuna mossa di tipo Volante per livello.",
+        "Gliscor - insieme a Electivire, Magmortar e Tangrowth - è uno dei quattro unici Pokémon di quarta generazione che richiedeva esplicitamente l'uso di un gioco di terza generazione per poter essere acquisibile fino all'uscita di Pokémon Platino. In questo caso, Gligar è disponibile solo tramite modalità dual-slot con Pokémon Smeraldo.",
+        "Gliscor può imparare sette mosse con alta probabilità di brutto colpo, più di qualsiasi altro Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gliscor.mp3",
+    "dex_entries": {
+        "gliscor": {
+            "diamond": "Sta appeso ai rami con la testa in giù. Alla prima occasione, si butta a capofitto sulla preda.",
+            "pearl": "Sta appeso ai rami con la testa in giù. Alla prima occasione, si butta a capofitto sulla preda.",
+            "platinum": "Se incontra una corrente d’aria, anche debole, riesce a sorvolare il globo senza mai sbattere le ali.",
+            "heartgold": "Vola senza far rumore. Afferra le prede con la lunga coda e perfora il loro punto vitale con i canini.",
+            "soulsilver": "Vola senza far rumore. Afferra le prede con la lunga coda e perfora il loro punto vitale con i canini.",
+            "black": "Se incontra una corrente d'aria, anche debole, riesce a sorvolare il globo senza mai sbattere le ali.",
+            "white": "Se incontra una corrente d'aria, anche debole, riesce a sorvolare il globo senza mai sbattere le ali.",
+            "black-2": "Si alza in volo e si accosta al nemico senza fare il minimo rumore. In questo modo può metterlo KO in un solo colpo.",
+            "white-2": "Si alza in volo e si accosta al nemico senza fare il minimo rumore. In questo modo può metterlo KO in un solo colpo.",
+            "x": "Sta appeso ai rami con la testa in giù. Alla prima occasione, si butta a capofitto sulla preda.",
+            "y": "Vola senza far rumore. Afferra le prede con la lunga coda e perfora il loro punto vitale con i canini.",
+            "omega-ruby": "Sta appeso ai rami con la testa in giù. Alla prima occasione, si butta a capofitto sulla preda.",
+            "alpha-sapphire": "Vola senza far rumore. Afferra le prede con la lunga coda e perfora il loro punto vitale con i canini.",
+            "brilliant-diamond": "Usa la coda per appendersi ai rami a testa in giù e osservare le prede, su cui si lancia a capofitto alla prima occasione.",
+            "shining-pearl": "Usa la coda per appendersi ai rami a testa in giù e osservare le prede, su cui si lancia a capofitto alla prima occasione.",
+            "legends-arceus": "Solca le nubi con ali corvine senza produrre rumore alcuno per dipoi azzannare coi canini affilati la gola delle prede. Non è pago finché non ne prosciuga le vene."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "gliscor",
+    "generation": 4,
+    "height": {
+        "gliscor": "2.0 m"
+    },
+    "id": 472,
+    "name": "Gliscor",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi glider  e scorpion . ",
+    "origin": "Alcuni associano Gliscor ad un vampiro per via del mantello nero, dei denti aguzzi e di altri aspetti fisici. Oltre a questo, è basato su uno scorpione e presenta delle somiglianze con i gargoyle. Potrebbe trarre ispirazione inoltre dalla mosca scorpione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gliscor",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Scorpidente",
+    "sprites": {
+        "gliscor": {
+            "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0472.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0472.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/05/Artwork0472_DLPS.png"
+    },
+    "stats": {
+        "gliscor": {
+            "hp": 75,
+            "atk": 95,
+            "def": 125,
+            "spa": 45,
+            "spd": 75,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "gliscor": 510
+    },
+    "types": {
+        "gliscor": [
+            "Volante",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "gliscor": "42.5 kg"
+    }
+}

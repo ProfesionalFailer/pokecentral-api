@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "houndour": {
+            "primary": "Sveglialampo",
+            "secondary": "Fuocardore",
+            "hidden": "Agitazione"
+        }
+    },
+    "curiosities": [
+        "Prima della settima generazione Houndour e Houndoom avevano una combinazione di tipi unica.",
+        "Nonostante Houndour e Houndoom siano Pokémon di seconda generazione appartenenti al Pokédex regionale di Johto, in Pokémon Oro, Argento e Cristallo sono catturabili solo a Kanto ed in Oro HeartGold e Argento SoulSilver sono ottenibili solamente dopo aver ricevuto il Pokédex Nazionale, a meno che non vengano scambiati da un'altra cartuccia di gioco.\n\tIn seconda generazione Murkrow e Slugma condividevano questa caratteristica, in quarta invece possono essere ottenuti in altri modi: Murkrow è catturabile nella Zona Safari appena viene aperta, mentre Slugma può essere ricevuto come Uovo da Castore.",
+        "In seconda generazione Murkrow e Slugma condividevano questa caratteristica, in quarta invece possono essere ottenuti in altri modi: Murkrow è catturabile nella Zona Safari appena viene aperta, mentre Slugma può essere ricevuto come Uovo da Castore.",
+        "Houndour è uno dei quattordici Pokémon ottenibili in Diamante e Perla con la descrizione del Pokédex in una lingua straniera."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/houndour.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "houndour",
+    "generation": 2,
+    "height": {
+        "houndour": "0.6 m"
+    },
+    "id": 228,
+    "name": "Houndour",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi hound  e dour . Il suo nome giapponese potrebbe derivare da una corruzione dell'inglese devil . ",
+    "origin": "Appare basato sul tema degli hellhounds, mastini infernali che compaiono nei racconti inglesi con varie forme e nomi, combinato con la razza canina del Rottweiler. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Houndour",
+    "shape": "quadrupede",
+    "specie": "Pokémon Buio",
+    "sprites": {
+        "houndour": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8f/Homem0228.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bc/Homemsh0228.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/43/Artwork0228_RFVF.png"
+    },
+    "stats": {
+        "houndour": {
+            "hp": 45,
+            "atk": 60,
+            "def": 30,
+            "spa": 80,
+            "spd": 50,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "houndour": 330
+    },
+    "types": {
+        "houndour": [
+            "Fuoco",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "houndour": "10.8 kg"
+    }
+}

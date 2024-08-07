@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "pancham": {
+            "primary": "Ferropugno",
+            "secondary": "Rompiforma",
+            "hidden": "Nervisaldi"
+        }
+    },
+    "curiosities": [
+        "Pancham, Fletchling, Helioptile e Gogoat sono i primi 4 Pokémon a comparire prima sui siti occidentali che su quello giapponese.",
+        "È il primo e unico Pokémon di tipo Lotta puro presente nel Pokédex regionale di sesta generazione.",
+        "Pancham condivide la categoria con Monferno. Sono entrambi noti come Pokémon Briccone.\n\tCuriosamente, sono entrambi Pokémon di tipo Lotta.",
+        "Curiosamente, sono entrambi Pokémon di tipo Lotta.",
+        "Come la sua evoluzione, Pancham non impara nessuna mossa speciale naturalmente, né aumentando di livello né tramite accoppiamento: bisogna ricorrere a MT, MN o all'Insegnamosse per far sì che Pancham conosca questa categoria di mosse."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pancham.mp3",
+    "dex_entries": {
+        "pancham": {
+            "x": "Fa di tutto per farsi prendere sul serio dai nemici, ma il suo sguardo di sfida non è molto efficace. Ha il vizio di masticare una foglia.",
+            "y": "Ce la mette tutta per intimorire i nemici con uno sguardo truce, ma appena qualcuno gli accarezza la testa, diventa un tenerone.",
+            "omega-ruby": "Fa di tutto per farsi prendere sul serio dai nemici, ma il suo sguardo di sfida non è molto efficace. Ha il vizio di masticare una foglia.",
+            "alpha-sapphire": "Ce la mette tutta per intimorire i nemici con uno sguardo truce, ma appena qualcuno gli accarezza la testa, diventa un tenerone.",
+            "sun": "Aspira a diventare un Pokémon rispettato e temuto imitando Pangoro, che considera il suo mentore.",
+            "moon": "Tiene in bocca una foglia per darsi un tono. Essendo piuttosto birichino, non è molto adatto per gli Allenatori inesperti.",
+            "ultra-sun": "Segue Pangoro ovunque come un discepolo. Se commette gravi errori, gli viene confiscata la foglia che tiene in bocca.",
+            "ultra-moon": "Cerca di intimorire l'avversario a tutti i costi. A volte fissa le persone per spaventarle e, per farlo felice, basta far finta di aver paura.",
+            "sword": "Considera Pangoro il suo capo e lo prende a modello, imitandolo e imparando così a lottare e a cacciare le prede.",
+            "shield": "Fa il duro e guarda tutti in cagnesco per essere preso sul serio, ma quando è rilassato gli sfugge sempre un sorriso."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Umanoide"
+    ],
+    "flat_name": "pancham",
+    "generation": 6,
+    "height": {
+        "pancham": "0.6 m"
+    },
+    "id": 674,
+    "name": "Pancham",
+    "name_origin": "Pancham probabilmente deriva dalle combinazioni tra panda e champion . Yancham deriva da やんちゃ yancha  e champion . ",
+    "origin": "Pancham è probabilmente basato su un panda gigante ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pancham",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Briccone",
+    "sprites": {
+        "pancham": {
+            "default": "https://media.pokemoncentral.it/wiki/8/80/Homem0674.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0674.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8b/Artwork0674_XY.png"
+    },
+    "stats": {
+        "pancham": {
+            "hp": 67,
+            "atk": 82,
+            "def": 62,
+            "spa": 46,
+            "spd": 48,
+            "spe": 43
+        }
+    },
+    "stats_sum": {
+        "pancham": 348
+    },
+    "types": {
+        "pancham": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "pancham": "8.0 kg"
+    }
+}

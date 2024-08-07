@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "snover": {
+            "primary": "Scendineve",
+            "hidden": "Antisuono"
+        }
+    },
+    "curiosities": [
+        "Nessun altro Pokémon ha la stessa combinazione di tipi di Snover e della sua evoluzione.\n\tSnover e Abomasnow sono gli unici Pokémon di tipo Ghiaccio a far parte del Gruppo Uova Erba.",
+        "Snover e Abomasnow sono gli unici Pokémon di tipo Ghiaccio a far parte del Gruppo Uova Erba.",
+        "Snover è uno dei Pokémon che hanno ben 7 debolezze, come Exeggcute, Exeggutor, Tyranitar, Celebi, Nuzleaf, Shiftry, Cacturne, Lunatone, Solrock, la sua evoluzione Abomasnow, Terrakion, Zarude, Calyrex, Meowscarada, Fungofurioso, Wo-Chien, Fogliaferrea e Massoferreo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/snover.mp3",
+    "dex_entries": {
+        "snover": {
+            "diamond": "Vive sui monti innevati. Ha avuto pochi contatti con gli umani, quindi è molto curioso nei loro confronti.",
+            "pearl": "In primavera, attorno al ventre gli crescono delle bacche simili a dolci ghiaccioli.",
+            "platinum": "Gli uomini lo incuriosiscono molto. Si raduna in gruppi attorno alle impronte sulle montagne innevate.",
+            "heartgold": "In inverno scende a valle, ma in primavera se ne torna sulle cime montuose dove c'è ancora neve.",
+            "soulsilver": "In inverno scende a valle, ma in primavera se ne torna sulle cime montuose dove c'è ancora neve.",
+            "black": "Gli uomini lo incuriosiscono molto. Si raduna in gruppi attorno alle impronte sulle montagne innevate.",
+            "white": "Gli uomini lo incuriosiscono molto. Si raduna in gruppi attorno alle impronte sulle montagne innevate.",
+            "black-2": "Gli uomini lo incuriosiscono molto. Si raduna in gruppi attorno alle impronte sulle montagne innevate.",
+            "white-2": "Gli uomini lo incuriosiscono molto. Si raduna in gruppi attorno alle impronte sulle montagne innevate.",
+            "x": "In inverno scende a valle, ma in primavera se ne torna sulle cime montuose dove c'è ancora neve.",
+            "y": "In primavera, attorno al ventre gli crescono delle bacche simili a dolci ghiaccioli.",
+            "omega-ruby": "In inverno scende a valle, ma in primavera se ne torna sulle cime montuose dove c'è ancora neve.",
+            "alpha-sapphire": "In primavera, attorno al ventre gli crescono delle bacche simili a dolci ghiaccioli.",
+            "sword": "Vive sulle montagne innevate. Infila i piedi nella neve e assorbe acqua e freddo a volontà.",
+            "shield": "Le bacche simili a ghiaccioli che gli crescono attorno al ventre sono il cibo preferito dei Darumaka che vivono a Galar.",
+            "brilliant-diamond": "Vive sui monti innevati. Non ha molti contatti con gli esseri umani, quindi è molto curioso e si avvicina quando ne vede uno.",
+            "shining-pearl": "In primavera, attorno al ventre gli crescono delle bacche simili a dolci ghiaccioli.",
+            "legends-arceus": "È assai probabile incrociarlo fra le nevi. Si dice visiti gli insediamenti umani non per recare danno, ma per stringere amicizia con gli infanti.",
+            "scarlet": "In inverno scende fino ai piedi delle montagne, ma in primavera se ne torna sulle cime montuose dove c’è ancora neve.",
+            "violet": "Sembrano essere incuriositi dagli esseri umani, e se trovano delle impronte umane sulle montagne innevate si raccolgono in gruppo tutt’intorno."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Erba"
+    ],
+    "flat_name": "snover",
+    "generation": 4,
+    "height": {
+        "snover": "1.0 m"
+    },
+    "id": 459,
+    "name": "Snover",
+    "name_origin": "Deriva dalle parole snow  e clover  o cover  riferendosi al fatto che sembra coperto di neve. Potrebbe anche derivare dalla frase inglese \"snowed over\" . ",
+    "origin": "Basato su una radice daikon, nota anche come radice invernale, perché di solito viene raccolta e consumata durante l'inverno. Potrebbe essere basato anche su un abete innevato, la parte superiore della testa ricorda il kanji della montagna  che viene usato per le montagne a tre cime. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Snover",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Albergelo",
+    "sprites": {
+        "snover": {
+            "default": "https://media.pokemoncentral.it/wiki/9/91/Homem0459.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0459.png"
+        },
+        "snover-f": {
+            "default": "https://media.pokemoncentral.it/wiki/7/74/Homef0459.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/ca/Homefsh0459.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0e/Artwork0459_DP.png"
+    },
+    "stats": {
+        "snover": {
+            "hp": 60,
+            "atk": 62,
+            "def": 50,
+            "spa": 62,
+            "spd": 60,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "snover": 334
+    },
+    "types": {
+        "snover": [
+            "Ghiaccio",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "snover": "50.5 kg"
+    }
+}

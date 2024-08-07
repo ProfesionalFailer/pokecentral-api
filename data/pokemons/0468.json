@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "togekiss": {
+            "primary": "Tuttafretta",
+            "secondary": "Leggiadro",
+            "hidden": "Supersorte"
+        }
+    },
+    "curiosities": [
+        "Nonostante non sia dotato di braccia, Togekiss può apprendere mosse come Assorbipugno e Breccia, siccome la sua pre-evoluzione, Togetic, ne è provvista.",
+        "Togekiss ha una somma delle statistiche base unica, pari a 545.",
+        "Togekiss pesa esattamente quanto il protagonista maschile di Pokémon Diamante e Perla e Platino. Condivide questa peculiarità con Sudowoodo, Skuntank, Yanma e Fearow."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/togekiss.mp3",
+    "dex_entries": {
+        "togekiss": {
+            "diamond": "Non si presenta mai dove c’è un conflitto. Di recente le sue apparizioni sono diventate rare.",
+            "pearl": "Non si presenta mai dove c’è un conflitto. Di recente le sue apparizioni sono diventate rare.",
+            "platinum": "La sua natura lo rende affine alle persone che rispettano i diritti altrui ed evitano conflitti inutili.",
+            "heartgold": "Pare che TOGEKISS ami visitare le regioni pacifiche, senza conflitti, donando bontà e dolcezza.",
+            "soulsilver": "Pare che TOGEKISS ami visitare le regioni pacifiche, senza conflitti, donando bontà e dolcezza.",
+            "black": "La sua natura lo rende affine alle persone che rispettano i diritti altrui ed evitano conflitti inutili.",
+            "white": "La sua natura lo rende affine alle persone che rispettano i diritti altrui ed evitano conflitti inutili.",
+            "black-2": "La sua natura lo rende affine alle persone che rispettano i diritti altrui ed evitano conflitti inutili.",
+            "white-2": "La sua natura lo rende affine alle persone che rispettano i diritti altrui ed evitano conflitti inutili.",
+            "x": "Pare che Togekiss ami visitare le regioni pacifiche, senza conflitti, donando bontà e dolcezza.",
+            "y": "La sua natura lo rende affine alle persone che rispettano i diritti altrui ed evitano conflitti inutili.",
+            "omega-ruby": "Pare che Togekiss ami visitare le regioni pacifiche, senza conflitti, donando bontà e dolcezza.",
+            "alpha-sapphire": "La sua natura lo rende affine alle persone che rispettano i diritti altrui ed evitano conflitti inutili.",
+            "sword": "Non appare dov'è in corso un conflitto o un litigio. Di recente non si vede quasi mai.",
+            "shield": "Si dice che doni prosperità, e per questo viene rappresentato nei portafortuna fin dall’antichità.",
+            "brilliant-diamond": "Non si presenta mai dove c'è un conflitto. Di recente le sue apparizioni sono diventate rare.",
+            "shining-pearl": "Non si presenta mai dove c'è un conflitto. Di recente le sue apparizioni sono diventate rare.",
+            "legends-arceus": "Viene avvistato di rado. Alcuni reperti letterari giunti fino a noi mi portano a concludere con assoluta certezza che si palesi qualora la pace regni sovrana nel mondo."
+        }
+    },
+    "egg_groups": [
+        "Volante",
+        "Magico"
+    ],
+    "flat_name": "togekiss",
+    "generation": 4,
+    "height": {
+        "togekiss": "1.5 m"
+    },
+    "id": 468,
+    "name": "Togekiss",
+    "name_origin": "Deriva dalla parola 刺 toge, spina, scheggia, e quella inglese kiss, bacio. ",
+    "origin": "Basato su una colomba, in quanto è come lui uccello portatore di pace, o su un ala volante. Mantiene la sua somiglianza ad un uovo scheggiato, ricordando le pre-evoluzioni, e potrebbe ispirarsi ad una figura angelica o fatata. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Togekiss",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Festa",
+    "sprites": {
+        "togekiss": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2a/Homem0468.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/58/Homemsh0468.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c7/Artwork0468_DP.png"
+    },
+    "stats": {
+        "togekiss": {
+            "hp": 85,
+            "atk": 50,
+            "def": 95,
+            "spa": 120,
+            "spd": 115,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "togekiss": 545
+    },
+    "types": {
+        "togekiss": [
+            "Volante",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "togekiss": "38.0 kg"
+    }
+}

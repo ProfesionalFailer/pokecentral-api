@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "bombirdier": {
+            "primary": "Pettinfuori",
+            "secondary": "Sguardofermo",
+            "hidden": "Portamassi"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Volante",
+        "Pokémon di tipo Buio",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Lento",
+        "Pokémon di colore Bianco",
+        "Pokémon dalla sagoma n. 09",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Volante",
+        "Pokémon che non fanno parte di una linea di evoluzione",
+        "Pokémon con statistiche base totali di 485"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bombirdier.mp3",
+    "dex_entries": {
+        "bombirdier": {
+            "scarlet": "Intreccia le piume cadute a quelle del petto per creare un grembiule in cui mettere oggetti, che fa poi precipitare dall'alto.",
+            "violet": "Usa il grembiule pettorale per trasportare cibo al nido. Si diverte a far precipitare oggetti che, schiantandosi, fanno un gran fracasso."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "bombirdier",
+    "generation": 9,
+    "height": {
+        "bombirdier": "1.5 m"
+    },
+    "id": 962,
+    "name": "Bombirdier",
+    "name_origin": "Bombirdier potrebbe essere una combinazione di bombardier  e bird . ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bombirdier",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Gettaoggetti",
+    "sprites": {
+        "bombirdier": {
+            "default": "https://media.pokemoncentral.it/wiki/4/46/Homem0962.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b9/Homemsh0962.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fb/Artwork0962_SV.png"
+    },
+    "stats": {
+        "bombirdier": {
+            "hp": 70,
+            "atk": 103,
+            "def": 85,
+            "spa": 60,
+            "spd": 85,
+            "spe": 82
+        }
+    },
+    "stats_sum": {
+        "bombirdier": 485
+    },
+    "types": {
+        "bombirdier": [
+            "Volante",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "bombirdier": "42.9 kg"
+    }
+}

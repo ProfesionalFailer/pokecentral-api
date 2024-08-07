@@ -1,0 +1,94 @@
+{
+    "abilities": {
+        "starmie": {
+            "primary": "Risplendi",
+            "secondary": "Alternacura",
+            "hidden": "Ponderazione"
+        }
+    },
+    "curiosities": [
+        "Fino alla quinta generazione era il Pokémon di tipo Acqua più veloce ; in sesta è stato superato da Greninja.",
+        "Nonostante siano Pokémon di sesso sconosciuto, Starmie e la sua pre-evoluzione Staryu in Oro e Argento hanno alcune mosse Uovo programmate. Questo errore è stato corretto in Pokémon Cristallo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/starmie.mp3",
+    "dex_entries": {
+        "starmie": {
+            "red": "Nel suo nucleo brillano i 7 colori dell'arcobaleno. Qualcuno lo considera una pietra preziosa.",
+            "blue": "Nel suo nucleo brillano i 7 colori dell'arcobaleno. Qualcuno lo considera una pietra preziosa.",
+            "yellow": "La parte centrale emette i colori dell'arcobaleno. Si dice che sia il suo modo di comunicare.",
+            "gold": "La parte centrale del suo corpo è chiamata nucleo. Ogni volta ha sempre un colore diverso.",
+            "silver": "Indipendentemente da dove vive, il suo corpo cresce assumendo una forma geometrica simmetrica.",
+            "crystal": "Si dice che usi i sette colori del nucleo del corpo per inviare onde elettriche nello spazio.",
+            "ruby": "Il centro del corpo di STARMIE, il suo nucleo, brilla in sette colori. Per la sua luminosità è chiamato Gemma del mare.",
+            "sapphire": "STARMIE nuota roteando vorticosamente il corpo a stella come fosse l'elica di una nave. Il suo nucleo brilla in sette diversi colori.",
+            "emerald": "Nell'antichità si pensava che STARMIE venisse generato dai riflessi delle stelle che brillano sulle onde leggere del mare durante la notte.",
+            "firered": "A causa del corpo geometrico, la gente crede che si tratti di una creatura aliena.",
+            "leafgreen": "Nel suo nucleo brillano i sette colori dell'arcobaleno. Qualcuno lo considera una pietra preziosa.",
+            "diamond": "Al centro del corpo ha un nucleo rosso che diffonde misteriosi segnali radio nel cielo notturno.",
+            "pearl": "Al centro del corpo ha un nucleo rosso che diffonde misteriosi segnali radio nel cielo notturno.",
+            "platinum": "Al centro del corpo ha un nucleo rosso che diffonde misteriosi segnali radio nel cielo notturno.",
+            "heartgold": "La parte centrale del suo corpo è chiamata nucleo. Ogni volta ha un colore diverso.",
+            "soulsilver": "Indipendentemente da dove vive, il suo corpo cresce assumendo una forma geometrica simmetrica.",
+            "black": "Al centro del corpo ha un nucleo rosso che diffonde misteriosi segnali radio nel cielo notturno.",
+            "white": "Al centro del corpo ha un nucleo rosso che diffonde misteriosi segnali radio nel cielo notturno.",
+            "black-2": "Il suo nucleo brilla dei colori dell'iride ed emette delle onde radio con le quali Starmie comunica con l' universo.",
+            "white-2": "Il suo nucleo brilla dei colori dell'iride ed emette delle onde radio con le quali Starmie comunica con l' universo.",
+            "x": "Nel suo nucleo brillano i sette colori dell'arcobaleno. Qualcuno lo considera una pietra preziosa.",
+            "y": "Al centro del corpo ha un nucleo rosso che diffonde misteriosi segnali radio nel cielo notturno.",
+            "omega-ruby": "Il centro del corpo di Starmie, il suo nucleo, brilla in sette colori. Per la sua luminosità è chiamato Gemma del mare.",
+            "alpha-sapphire": "Starmie nuota roteando vorticosamente il corpo a stella come fosse l'elica di una nave. Il suo nucleo brilla in sette diversi colori.",
+            "sun": "Si dice che il suo nucleo brillante emetta e riceva misteriosi segnali radio. Stargli vicino può far venire mal di testa.",
+            "moon": "A causa dell'insolita forma del suo corpo, che molti definiscono astratta, gira voce che si tratti di un invasore alieno.",
+            "ultra-sun": "Con il suo nucleo brillante, chiamato “gemma del mare”, si producono preziosi accessori che vengono poi venduti di nascosto.",
+            "ultra-moon": "Nuota ruotando il suo corpo geometrico. Sembra che emetta costantemente dei misteriosi segnali radio.",
+            "lets-go-pikachu": "La parte centrale, chiamata nucleo, riluce dei sette colori dell'arcobaleno. Si dice che lo usi per comunicare.",
+            "lets-go-eevee": "La parte centrale, chiamata nucleo, riluce dei sette colori dell'arcobaleno. Si dice che lo usi per comunicare.",
+            "sword": "Quando scatena i suoi poteri psichici, l'organo centrale, detto nucleo, brilla di sette colori diversi.",
+            "shield": "Risucchia il plancton mentre nuota nel mare facendo ruotare il suo corpo ad alta velocità."
+        }
+    },
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "flat_name": "starmie",
+    "generation": 1,
+    "height": {
+        "starmie": "1.1 m"
+    },
+    "id": 121,
+    "name": "Starmie",
+    "name_origin": "Il nome di Starmie deriva da star, stella, e mie, probabilmente una corruzione di me, me, in opposizione allo yu di Staryu. Il suo nome potrebbe anche contenere 珠 mi, gemma, in riferimento al suo nucleo. ",
+    "origin": "È una stella marina stilizzata, particolarmente simile alla specie Acanthaster planci. In alcuni dei suoi sprite assomiglia ad una bussola. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Starmie",
+    "shape": "testa e base",
+    "specie": "Pokémon Misterioso",
+    "sprites": {
+        "starmie": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b9/Homem0121.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homemsh0121.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a7/Artwork0121_RFVF.png"
+    },
+    "stats": {
+        "starmie": {
+            "hp": 60,
+            "atk": 75,
+            "def": 85,
+            "spa": 100,
+            "spd": 85,
+            "spe": 115
+        }
+    },
+    "stats_sum": {
+        "starmie": 520
+    },
+    "types": {
+        "starmie": [
+            "Psico",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "starmie": "80.0 kg"
+    }
+}

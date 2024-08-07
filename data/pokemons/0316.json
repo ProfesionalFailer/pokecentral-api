@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "gulpin": {
+            "primary": "Melma",
+            "secondary": "Antifurto",
+            "hidden": "Voracità"
+        }
+    },
+    "curiosities": [
+        "Gulpin è l'unico Pokémon fino ad oggi con una base di statistiche totali di 302.",
+        "Può essere visto come un parallelo di Baltoy. Entrambi sono Pokémon di Terza Generazione, Gulpin è esclusivo di Pokémon SoulSilver, mentre Baltoy di HeartGold, ed entrambi si trovano come comparse massicce nello stesso percorso. Inoltre, entrambi possono essere trovati come Pokémon Ombra in Pokémon XD al Laboratorio di Cripto, ed entrambi conoscono la mossa Ombrattacco."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gulpin.mp3",
+    "dex_entries": {
+        "gulpin": {
+            "ruby": "Praticamente l'intero corpo di GULPIN è costituito dallo stomaco, che gli consente di ingoiare oggetti delle sue stesse dimensioni. Inoltre, il suo stomaco contiene un fluido speciale in grado di fargli digerire ogni cosa.",
+            "sapphire": "La maggior parte del corpo di GULPIN è formato dallo stomaco di dimensioni enormi rispetto al cuore e al cervello. Lo stomaco di questo POKéMON contiene enzimi speciali che sciolgono qualsiasi cosa.",
+            "emerald": "In un sol boccone, GULPIN può ingoiare oggetti delle sue stesse dimensioni. I succhi del suo stomaco, poi, riescono a sciogliere persino dei pezzi di ferro.",
+            "firered": "Non c'è nulla che il suo stomaco non possa digerire. Durante la digestione espelle gas insopportabilmente fetidi.",
+            "leafgreen": "Non c'è nulla che il suo stomaco non possa digerire. Durante la digestione espelle gas insopportabilmente fetidi.",
+            "diamond": "La maggior parte del suo corpo è stomaco. I suoi succhi gastrici dissolvono subito ciò che ingerisce.",
+            "pearl": "La maggior parte del suo corpo è stomaco. I suoi succhi gastrici dissolvono subito ciò che ingerisce.",
+            "platinum": "La maggior parte del suo corpo è stomaco. I suoi succhi gastrici dissolvono subito ciò che ingerisce.",
+            "heartgold": "Ha cuore e cervello mini: lo stomaco prende troppo spazio! Con i succhi gastrici scioglie qualunque cosa.",
+            "soulsilver": "Ha cuore e cervello mini: lo stomaco prende troppo spazio! Con i succhi gastrici scioglie qualunque cosa.",
+            "black": "La maggior parte del suo corpo è stomaco. I suoi succhi gastrici dissolvono subito ciò che ingerisce.",
+            "white": "La maggior parte del suo corpo è stomaco. I suoi succhi gastrici dissolvono subito ciò che ingerisce.",
+            "black-2": "La maggior parte del suo corpo è stomaco. I suoi succhi gastrici dissolvono subito ciò che ingerisce.",
+            "white-2": "La maggior parte del suo corpo è stomaco. I suoi succhi gastrici dissolvono subito ciò che ingerisce.",
+            "x": "Ha cuore e cervello mini: lo stomaco prende troppo spazio! Con i succhi gastrici scioglie qualunque cosa.",
+            "y": "Non c'è nulla che il suo stomaco non possa digerire. Durante la digestione espelle gas insopportabilmente fetidi.",
+            "omega-ruby": "Praticamente l'intero corpo di Gulpin è costituito dallo stomaco, che gli consiste di ingoiare oggetti delle sue stesse dimensioni. Inoltre, il suo stomaco contiene un fluido speciale in grado di fargli digerire ogni cosa.",
+            "alpha-sapphire": "La maggior parte del corpo di Gulpin è formata dallo stomaco di dimensioni enormi rispetto al cuore e al cervello. Lo stomaco di questo Pokémon contiene enzimi speciali che sciolgono qualsiasi cosa.",
+            "brilliant-diamond": "La maggior parte del suo corpo è stomaco. I suoi succhi gastrici dissolvono subito ciò che ingerisce.",
+            "shining-pearl": "La maggior parte del suo corpo è stomaco. I suoi succhi gastrici dissolvono subito ciò che ingerisce.",
+            "scarlet": "Non c’è nulla che il suo stomaco non possa digerire. Durante la digestione espelle gas insopportabilmente fetidi.",
+            "violet": "Lo stomaco occupa gran parte del corpo, mentre cuore e cervello sono minuscoli. Secerne succhi gastrici capaci di sciogliere qualunque cosa."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "gulpin",
+    "generation": 3,
+    "height": {
+        "gulpin": "0.4 m"
+    },
+    "id": 316,
+    "name": "Gulpin",
+    "name_origin": "Deriva dalla parola gulping . ",
+    "origin": "Basato su una ghiandola velenosa o su una cistifellea. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gulpin",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Stomaco",
+    "sprites": {
+        "gulpin": {
+            "default": "https://media.pokemoncentral.it/wiki/2/29/Homem0316.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0316.png"
+        },
+        "gulpin-f": {
+            "default": "https://media.pokemoncentral.it/wiki/5/52/Homef0316.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/64/Homefsh0316.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4c/Artwork0316_RZ.png"
+    },
+    "stats": {
+        "gulpin": {
+            "hp": 70,
+            "atk": 43,
+            "def": 53,
+            "spa": 43,
+            "spd": 53,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "gulpin": 302
+    },
+    "types": {
+        "gulpin": [
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "gulpin": "10.3 kg"
+    }
+}

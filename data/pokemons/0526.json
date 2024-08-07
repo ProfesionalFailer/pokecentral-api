@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "gigalith": {
+            "primary": "Vigore",
+            "secondary": "Sabbiafiume",
+            "hidden": "Silicoforza"
+        }
+    },
+    "curiosities": [
+        "Gigalith è l'unico Pokémon di tipo Roccia puro al terzo stadio evolutivo.",
+        "Gigalith fu visto per la prima volta in una lotta in Triplo in squadra con Reuniclus e Gothitelle, i quali lottavano contro Blitzle, Darmanitan e Drilbur, durante un episodio della serie Oha Suta andato in onda il 27 giugno 2010. Fu rivelato però ufficialmente solo il 7 agosto 2010."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gigalith.mp3",
+    "dex_entries": {
+        "gigalith": {
+            "black": "Comprime l'energia nel suo nucleo interno per poi spararla con una potenza che può spazzare via anche le montagne.",
+            "white": "Amplifica l'energia dei raggi solari che assorbe tramite i cristalli arancioni del suo corpo e poi la spara dalla bocca.",
+            "black-2": "Assorbe i raggi solari e, grazie al suo nucleo energetico, li trasforma in palle di luce che poi spara.",
+            "white-2": "Assorbe i raggi solari e, grazie al suo nucleo energetico, li trasforma in palle di luce che poi spara.",
+            "x": "Assorbe i raggi solari e, grazie al suo nucleo energetico, li trasforma in palle di luce che poi spara.",
+            "y": "Comprime l'energia nel suo nucleo interno per poi spararla con una potenza che può spazzare via anche le montagne.",
+            "omega-ruby": "Assorbe i raggi solari e, grazie al suo nucleo energetico, li trasforma in palle di luce che poi spara.",
+            "alpha-sapphire": "Comprime l'energia nel suo nucleo interno per poi spararla con una potenza che può spazzare via anche le montagne.",
+            "sun": "Assorbe l'energia solare e la usa per sparare potentissime sfere di energia. Questa capacità diventa inutile di notte e nei giorni di pioggia.",
+            "moon": "La grande forza di questo Pokémon lo rende un partner ideale nei lavori di edilizia.",
+            "ultra-sun": "Quando spara energia con tutte le sue forze, la potenza è tale da causare numerose fessure sul suo corpo.",
+            "ultra-moon": "Assorbe i raggi solari e li converte in energia per poi spararla. Tuttavia, in genere si rifugia nelle viscere della terra.",
+            "sword": "È molto robusto e per questo a volte lavora assieme a uomini e Copperajah nell'edilizia e nell'estrazione mineraria.",
+            "shield": "La potenza delle sue sfere di energia è tale da spazzare via un camion. Tuttavia, può spararle solo nei giorni di sole."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "gigalith",
+    "generation": 5,
+    "height": {
+        "gigalith": "1.7 m"
+    },
+    "id": 526,
+    "name": "Gigalith",
+    "name_origin": "È l'unione delle parole greche antiche γιγας gigas  e λίθος lithos . Potrebbe inoltre includere i termini inglesi monolith , o Goliath . ",
+    "origin": "Sembra essere basato su una formazione di cristalli. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gigalith",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Pressionalta",
+    "sprites": {
+        "gigalith": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e8/Homem0526.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/95/Homemsh0526.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5a/Artwork0526_NB.png"
+    },
+    "stats": {
+        "gigalith": {
+            "hp": 85,
+            "atk": 135,
+            "def": 130,
+            "spa": 60,
+            "spd": 80,
+            "spe": 25
+        }
+    },
+    "stats_sum": {
+        "gigalith": 515
+    },
+    "types": {
+        "gigalith": [
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "gigalith": "260.0 kg"
+    }
+}

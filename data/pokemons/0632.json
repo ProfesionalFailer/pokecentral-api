@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "durant": {
+            "primary": "Aiutinsetto",
+            "secondary": "Tuttafretta",
+            "hidden": "Pigrone"
+        }
+    },
+    "curiosities": [
+        "È l'unico Pokémon di tipo Acciaio con corpo insettoide.",
+        "Durant condivide diverse caratteristiche con il suo predatore Heatmor: tasso di allevamento, tasso di cattura, cicli uovo, esperienza base ceduta e totale delle statistiche base. Inoltre entrambi sono stati disegnati da Ken Sugimori.",
+        "In quinta generazione Durant era il Pokémon di tipo Acciaio con la Velocità più alta in assoluto, escludendo Arceus con Lastraferro.",
+        "Esiste un cestista statunitense chiamato Kevin Durant."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/durant.mp3",
+    "dex_entries": {
+        "durant": {
+            "black": "È protetto da un'armatura d'acciaio. Si riunisce in gruppi per respingere gli attacchi di Heatmor, il suo predatore.",
+            "white": "Si fa il nido scavando nelle montagne. I complicati intrecci di tunnel creati da Durant sono dei veri e propri labirinti.",
+            "black-2": "Heatmor è il loro acerrimo nemico, e quando vogliono cacciarlo dalla tana si dividono i compiti e partono all'attacco!",
+            "white-2": "Heatmor è il loro acerrimo nemico, e quando vogliono cacciarlo dalla tana si dividono i compiti e partono all'attacco!",
+            "x": "Heatmor è il loro acerrimo nemico, e quando vogliono cacciarlo dalla tana si dividono i compiti e partono all'attacco!",
+            "y": "È protetto da un'armatura d'acciaio. Si riunisce in gruppi per respingere gli attacchi di Heatmor, il suo predatore.",
+            "omega-ruby": "Heatmor è il loro acerrimo nemico, e quando vogliono cacciarlo dalla tana si dividono i compiti e partono all'attacco!",
+            "alpha-sapphire": "È protetto da un'armatura d'acciaio. Si riunisce in gruppi per respingere gli attacchi di Heatmor, il suo predatore.",
+            "sword": "Depone le Uova nei recessi più interni del suo nido. Se un Heatmor lo attacca, si difende mordendolo con le grandi mandibole.",
+            "shield": "Le grandi mandibole possono frantumare anche la roccia. Lotta con la colonia per proteggere le sue Uova da Sandaconda."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "durant",
+    "generation": 5,
+    "height": {
+        "durant": "0.3 m"
+    },
+    "id": 632,
+    "name": "Durant",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi durable  o endurance , per via del suo tipo Acciaio, e ant . ",
+    "origin": "È basato su una formica, probabilmente la formica argentina, ma la sua colorazione e le sue mandibole sembrano essere basate sulla formica spinata argentata . Potrebbe anche trarre ispirazione dalla formica di velluto, imenottero il cui esoscheletro è talmente duro che anche uno spillo d'acciaio ha difficoltà a trapassarlo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Durant",
+    "shape": "insettoide",
+    "specie": "Pokémon Ferformica",
+    "sprites": {
+        "durant": {
+            "default": "https://media.pokemoncentral.it/wiki/d/dc/Homem0632.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0632.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/20/Artwork0632_NB.png"
+    },
+    "stats": {
+        "durant": {
+            "hp": 58,
+            "atk": 109,
+            "def": 112,
+            "spa": 48,
+            "spd": 48,
+            "spe": 109
+        }
+    },
+    "stats_sum": {
+        "durant": 484
+    },
+    "types": {
+        "durant": [
+            "Coleot",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "durant": "33.0 kg"
+    }
+}

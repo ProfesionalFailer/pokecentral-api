@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "litwick": {
+            "primary": "Fuocardore",
+            "secondary": "Corpodifuoco",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "Prima della settima generazione Litwick, Lampent e Chandelure avevano una combinazione di tipi unica.",
+        "Litwick, assieme a Slugma, Torkoal e MegaCamerupt, ha la statistica base di Velocità più bassa di tutti i Pokémon di tipo Fuoco. Inoltre, a pari merito con MegaSableye, ha anche la statistica base di Velocità più bassa di tutti i Pokémon di tipo Spettro.",
+        "Prima della sesta generazione l'abilità speciale di Litwick era Pedinombra, ma non era ottenibile legalmente."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/litwick.mp3",
+    "dex_entries": {
+        "litwick": {
+            "black": "La luce che emana brucia consumando l'energia di esseri umani e Pokémon.",
+            "white": "Mentre fa luce col pretesto di fare loro da guida, assorbe energia vitale dalle sue prede.",
+            "black-2": "Di solito la sua fiamma è spenta, ma si riaccende quando succhia l'energia vitale di Pokémon ed esseri umani.",
+            "white-2": "Di solito la sua fiamma è spenta, ma si riaccende quando succhia l'energia vitale di Pokémon ed esseri umani.",
+            "x": "Mentre fa luce col pretesto di fare loro da guida, assorbe energia vitale alle prede.",
+            "y": "La luce che emana brucia consumando l'energia di esseri umani e Pokémon.",
+            "omega-ruby": "Mentre fa luce col pretesto di fare loro da guida, assorbe energia vitale dalle sue prede.",
+            "alpha-sapphire": "La luce che emana brucia consumando l'energia di esseri umani e Pokémon.",
+            "sword": "La sua fiamma gli riscalda il corpo rendendolo leggermente tiepido. Prende per mano chi si è smarrito per condurlo nel mondo degli spiriti.",
+            "shield": "Più giovane è la vittima da cui ha assorbito l'energia vitale, più grande e sinistra è la fiamma che gli brilla sul capo."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "litwick",
+    "generation": 5,
+    "height": {
+        "litwick": "0.3 m"
+    },
+    "id": 607,
+    "name": "Litwick",
+    "name_origin": "Litwick sembra essere la combinazione di lit  o little  e wick . Potrebbe anche derivare da wicked . ",
+    "origin": "Litwick è una combinazione di un Hitodama  e una candela. Potrebbe anche essere basato sullo stereotipo della candela fantasma fluttuante. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Litwick",
+    "shape": "testa e base",
+    "specie": "Pokémon Candela",
+    "sprites": {
+        "litwick": {
+            "default": "https://media.pokemoncentral.it/wiki/0/00/Homem0607.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c8/Homemsh0607.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/11/Artwork0607_NB.png"
+    },
+    "stats": {
+        "litwick": {
+            "hp": 50,
+            "atk": 30,
+            "def": 55,
+            "spa": 65,
+            "spd": 55,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "litwick": 275
+    },
+    "types": {
+        "litwick": [
+            "Fuoco",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "litwick": "3.1 kg"
+    }
+}

@@ -5,6 +5,10 @@
         }
     },
     "curiosities": [
+        "Koraidon e Miraidon sono gli unici Pokémon Paradosso:\n\tad avere nomi Pokémon convenzionali.\n\tad avere nomi che sono uguali per tutte le lingue.\n\tad avere abilità esclusive.",
+        "ad avere nomi Pokémon convenzionali.",
+        "ad avere nomi che sono uguali per tutte le lingue.",
+        "ad avere abilità esclusive.",
         "È stato annunciato il 1° giugno 2022 insieme a Lechonk, Pawmi, Smoliv e Miraidon."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/koraidon.mp3",
@@ -20,22 +24,19 @@
     "flat_name": "koraidon",
     "generation": 9,
     "height": {
-        "koraidon": "2,5 m"
+        "koraidon": "2.5 m"
     },
     "id": 1007,
     "name": "Koraidon",
     "name_origin": "Koraidon potrebbe essere una combinazione di 古来 korai, antico, e -don, suffisso di origine greca comunemente utilizzato nei nomi dei dinosauri. ",
     "origin": "\"Realato\" potrebbe essere una versione preistorica di Cyclizar. Koraidon potrebbe essere basato su un'iguana marina o un varano di Komodo. Alcuni elementi del suo design ricordano le parti di una motocicletta: le sue corna assomigliano ad un manubrio, la sporgenza sul collo e la parte nera alla base della coda ricordano degli pneumatici, mentre le piume posteriori rimandano ad un sellino di un chopper. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Koraidon",
-    "shape": "None",
+    "shape": "quadrupede",
     "specie": "Pokémon Paradosso",
     "sprites": {
         "koraidon": {
             "default": "https://media.pokemoncentral.it/wiki/2/2c/Homem1007.png",
             "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homemsh1007.png"
-        },
-        "foggia-integrale": {
-            "corporate": "https://media.pokemoncentral.it/wiki/c/ce/Artwork1007_Corp_2.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/a/a0/Artwork1007_SV.png"
     },
@@ -59,6 +60,6 @@
         ]
     },
     "weight": {
-        "koraidon": "303,0 kg"
+        "koraidon": "303.0 kg"
     }
 }

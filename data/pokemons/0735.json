@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "gumshoos": {
+            "primary": "Sorveglianza",
+            "secondary": "Ferromascella",
+            "hidden": "Adattabilità"
+        }
+    },
+    "curiosities": [
+        "Gumshoos di Agente Jenny"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gumshoos.mp3",
+    "dex_entries": {
+        "gumshoos": {
+            "sun": "Scovate le tracce della preda, rimane di guardia sul posto senza battere ciglio fino al calare del sole, poi cede alla stanchezza.",
+            "moon": "È ghiotto di Rattata e Raticate, ma poiché è un Pokémon diurno, non ne incontra molti. La perseveranza è la sua dote di spicco.",
+            "ultra-sun": "È stato introdotto ad Alola in passato per fare fronte alla sovrappopolazione di Rattata.",
+            "ultra-moon": "È un Pokémon molto paziente, ma quando trova un Rattata, di cui va pazzo, perde il controllo e lo assale.",
+            "scarlet": "Appena trova una traccia della sua preda, si apposta pazientemente fino al calar del sole.",
+            "violet": "È un investigatore ostinato, ma non prova alcun piacere nell’inseguire Skwovet, poiché le sue tracce sono sin troppo semplici da scovare."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "gumshoos",
+    "generation": 7,
+    "height": {
+        "gumshoos": "0.7 m",
+        "dominante": "1.4 m"
+    },
+    "id": 735,
+    "name": "Gumshoos",
+    "name_origin": "Gumshoos potrebbe essere una combinazione di gumshoe  e mongoose . Dekagūsu potrebbe essere una combinazione di でか deka, termine gergale di detective, e mongoose . ",
+    "origin": "Gumshoos sembra essere basato su una mangusta e un detective. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gumshoos",
+    "shape": "quadrupede",
+    "specie": "Pokémon Sorveglianza",
+    "sprites": {
+        "gumshoos": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0735.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0735.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e2/Artwork0735_SL.png"
+    },
+    "stats": {
+        "gumshoos": {
+            "hp": 88,
+            "atk": 110,
+            "def": 60,
+            "spa": 55,
+            "spd": 60,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "gumshoos": 418
+    },
+    "types": {
+        "gumshoos": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "gumshoos": "14.2 kg",
+        "dominante": "60.0 kg"
+    }
+}

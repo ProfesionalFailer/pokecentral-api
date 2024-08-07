@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "kirlia": {
+            "primary": "Sincronismo",
+            "secondary": "Traccia",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Kirlia condivide la categoria con Mesprit e Indeedee. Tutti e tre sono noti come Pokémon Emozione.",
+        "Il numero di Kirlia nel Pokédex di Sinnoh di Pokémon Platino e nel Navigatore di Almia è lo stesso: 158.",
+        "Kirlia e la sua linea evolutiva sono gli unici Pokémon che appartengono ai Gruppi Uova Amorfo e Umanoide."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kirlia.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Amorfo",
+        "Umanoide",
+        "VIII"
+    ],
+    "flat_name": "kirlia",
+    "generation": 3,
+    "height": {
+        "kirlia": "0.80 m"
+    },
+    "id": 281,
+    "name": "Kirlia",
+    "name_origin": "\"Kirlia\" potrebbe derivare dalla fotografia Kirlian, un modo speciale di scattare foto che presumibilmente rivela aure di energia psichica attorno ai soggetti. ",
+    "origin": "Kirlia sembra basarsi su una giovane ballerina femminile e sul concetto di empatia. I volant bianchi che circondano il suo corpo ricordano un tutù, e le sue gambe sottili e appuntite lo fanno sembrare come se fosse in punta e indossasse collant verdi. I suoi capelli sono raccolti in trecce, con le corna posizionate come fermagli o elastici. Le corna rosse assomigliano anche alle due metà di un cuore, il che potrebbe riguardare la sua capacità di percepire le emozioni. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kirlia",
+    "shape": "bipedi",
+    "specie": "Pokémon Emozione",
+    "sprites": {
+        "kirlia": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ef/Homem0281.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/18/Homemsh0281.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/36/Artwork0281_RZ.png"
+    },
+    "stats": {
+        "kirlia": {
+            "hp": 38,
+            "atk": 35,
+            "def": 35,
+            "spa": 65,
+            "spd": 55,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "kirlia": 278
+    },
+    "types": {
+        "kirlia": [
+            "Psico",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "kirlia": "20.2 kg"
+    }
+}

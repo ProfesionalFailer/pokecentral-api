@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "snom": {
+            "primary": "Polvoscudo",
+            "hidden": "Geloscaglie"
+        }
+    },
+    "curiosities": [
+        "Snom condivide la sua categoria con Caterpie e Wurmple. Tutti e tre sono noti come Pokémon Baco.",
+        "Snom e la sua evoluzione Frosmoth sono i primi Pokémon a presentare la combinazione di tipi Ghiaccio/Coleottero.",
+        "Snom:\n\tHa le statistiche base totali più basse tra tutti i Pokémon di tipo Ghiaccio.\n\tHa la Velocità base più bassa tra tutti i Pokémon di tipo Ghiaccio.\n\tCondivide con Swinub la Difesa Speciale più bassa tra tutti i Pokémon di tipo Ghiaccio.\n\tÈ l'unico Pokémon con il totale delle statistiche base pari a 185.\n\tÈ l'unico Pokémon di tipo Ghiaccio che non può imparare Geloraggio e Bora.",
+        "Ha le statistiche base totali più basse tra tutti i Pokémon di tipo Ghiaccio.",
+        "Ha la Velocità base più bassa tra tutti i Pokémon di tipo Ghiaccio.",
+        "Condivide con Swinub la Difesa Speciale più bassa tra tutti i Pokémon di tipo Ghiaccio.",
+        "È l'unico Pokémon con il totale delle statistiche base pari a 185.",
+        "È l'unico Pokémon di tipo Ghiaccio che non può imparare Geloraggio e Bora.",
+        "Nonostante le sue ridotte dimensioni, quando Snom è il primo Pokémon in squadra, gli viene sempre cucinata la porzione grande di curry nel Pokécampeggio, al contrario per la sua evoluzione Frosmoth viene cucinata la porzione più piccola.",
+        "Snom è uno dei pochi Pokémon, insieme a Ninetales di Alola, Shedinja, Amaura, Aurorus e Frosmoth, che possono essere mandati KO da una entry hazard quando hanno tutti i PS. Se uno di questi Pokémon viene mandato in campo mentre sono presenti tre file di Punte, di Levitoroccia o dell'effetto di Gigaferroaculei sulla sua porzione di campo, il danno totale è pari al 100% dei suoi PS ."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/snom.mp3",
+    "dex_entries": {
+        "snom": {
+            "sword": "Si assicura a un ramo con il filo gelido che produce dalla bocca e dorme fingendosi un ghiacciolo.",
+            "shield": "Si nutre della neve accumulatasi sul terreno. Più ne mangia, più gli aculei sul suo dorso diventano grandi.",
+            "scarlet": "Si nutre della neve accumulata sul terreno. Predilige quella fresca e soffice, che mangia man mano che avanza verso la cima dei monti.",
+            "violet": "Mangiando neve immagazzina aria gelida, poi ne amplifica l’effetto tramite gli organi interni per creare gli aculei di ghiaccio che ha sul dorso."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "snom",
+    "generation": 8,
+    "height": {
+        "snom": "0.3 m"
+    },
+    "id": 872,
+    "name": "Snom",
+    "name_origin": "Snom potrebbe essere una combinazione di snow, neve, worm, verme, e nom, gergo per indicare qualcuno che mangia. Yukihami potrebbe essere una combinazione di 雪 yuki, neve, e 食み hami, mangiare. ",
+    "origin": "Snom potrebbe essere basato su un bruco della famiglia Dalceridae. Potrebbe essere ispirato anche alle larve delle falene alpine e artiche del genere Gynaephora. Una specie in particolare, la Gynaephora groenlandica, può entrare in uno stato dormiente che gli consente di sopportare fino a -70 gradi Celsius. Il grande appetito di Snom è probabilmente un riferimento alla famiglia delle Saturnidi, i cui bruchi mangiano una grande quantità di cibo a causa della perdità della capacità di mangiare quando diventano delle falene. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Snom",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Baco",
+    "sprites": {
+        "snom": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c1/Homem0872.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/76/Homemsh0872.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8a/Artwork0872_SpSc.png"
+    },
+    "stats": {
+        "snom": {
+            "hp": 30,
+            "atk": 25,
+            "def": 35,
+            "spa": 45,
+            "spd": 30,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "snom": 185
+    },
+    "types": {
+        "snom": [
+            "Ghiaccio",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "snom": "3.8 kg"
+    }
+}

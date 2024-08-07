@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "gogoat": {
+            "primary": "Mangiaerba",
+            "hidden": "Peloderba"
+        }
+    },
+    "curiosities": [
+        "Gogoat, Pancham, Fletchling e Helioptile sono stati i primi quattro Pokémon a comparire prima sui siti occidentali che su quello giapponese.",
+        "Gogoat è stato il primo Pokémon ad essere visto trasportare in groppa il giocatore in un gioco Pokémon. Durante la riproduzione del trailer del gameplay di Pokémon X e Y pubblicato il 14 maggio 2013, sono stati mostrati Calem e Serena in groppa a Gogoat mentre quest'ultimo cammina per le strade di Luminopoli.",
+        "Gogoat ha la più alta statistica base di Punti Salute di tutti i Pokémon di tipo Erba.",
+        "Gogoat è l'unico Pokémon con un totale di statistiche base pari a 531.",
+        "Skiddo e Gogoat condividono la loro categoria con Cyclizar. Tutti e tre sono noti come Pokémon Cavalcatura."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gogoat.mp3",
+    "dex_entries": {
+        "gogoat": {
+            "x": "È in grado di intuire gli stati d'animo del suo Allenatore dal modo in cui questi gli afferra le corna. Questo permette a entrambi di correre in perfetta armonia.",
+            "y": "Vive in regioni montuose. Questi Pokémon stabiliscono il leader del gruppo confrontandosi a cornate.",
+            "omega-ruby": "È in grado di intuire gli stati d'animo del suo Allenatore dal modo in cui questi gli afferra le corna. Questo permette a entrambi di correre in perfetta armonia.",
+            "alpha-sapphire": "Vive in regioni montuose. Questi Pokémon stabiliscono il leader del gruppo confrontandosi a cornate.",
+            "scarlet": "Riesce a percepire lo stato d’animo di chiunque tocchi con le corna. Aiuta gli esseri umani nelle loro attività da 5.000 anni.",
+            "violet": "I Gogoat vivono in grandi gruppi nelle regioni montane. Il capobranco viene deciso tramite scontri a colpi di corna."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "gogoat",
+    "generation": 6,
+    "height": {
+        "gogoat": "1.7 m"
+    },
+    "id": 673,
+    "name": "Gogoat",
+    "name_origin": "Gogoat deriva dalle parole go , 轟轟 gōgō  e goat . ",
+    "origin": "Gogoat è basato su una capra ricoperta di erba. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gogoat",
+    "shape": "quadrupede",
+    "specie": "Pokémon Cavalcatura",
+    "sprites": {
+        "gogoat": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6b/Homem0673.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ae/Homemsh0673.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0b/Artwork0673_XY.png"
+    },
+    "stats": {
+        "gogoat": {
+            "hp": 123,
+            "atk": 100,
+            "def": 62,
+            "spa": 97,
+            "spd": 81,
+            "spe": 68
+        }
+    },
+    "stats_sum": {
+        "gogoat": 531
+    },
+    "types": {
+        "gogoat": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "gogoat": "91.0 kg"
+    }
+}

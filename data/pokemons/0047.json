@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "parasect": {
+            "primary": "Spargispora",
+            "secondary": "Pellearsa",
+            "hidden": "Umidità"
+        }
+    },
+    "curiosities": [
+        "La descrizione di Parasect nel Pokédex di Pokémon Stadium unisce il mondo dei Pokémon col mondo reale, affermando che le sue spore sono utilizzate come medicamento in Cina.",
+        "In prima generazione, gli attacchi di tipo Veleno erano superefficaci sui tipo Coleottero e Erba, facendo di Paras e Parasect gli unici Pokémon ad avere in tutto tre doppie debolezze e la doppia debolezza al tipo Veleno.",
+        "Nessun altro Pokémon ha la stessa combinazione di Gruppi Uova di Paras e Parasect.",
+        "Paras e Parasect condividono la categoria Pokémon Fungo con Shroomish, Breloom, Foongus e Amoonguss.",
+        "Parasect può essere visto come la controparte di Shiinotic. Entrambi sono di tipo Erba ed hanno lo stesso totale di statistiche base, entrambi possono imparare Spora ed entrambi compaiono nella prova della Giungla Ombrosa in Pokémon Sole e Luna a seconda della versione di gioco, con Parasect trovabile in Pokémon Sole mentre Shiinotic in Pokémon Luna.\n\tIn Ultrasole e Ultraluna, però, entrambi si possono trovare nel Percorso 11.",
+        "In Ultrasole e Ultraluna, però, entrambi si possono trovare nel Percorso 11.",
+        "Prima della quarta generazione, Paras e Parasect avevano una combinazione di tipi unica."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/parasect.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Erba",
+        "Coleottero"
+    ],
+    "flat_name": "parasect",
+    "generation": 1,
+    "height": {
+        "parasect": "1.0 m"
+    },
+    "id": 47,
+    "name": "Parasect",
+    "name_origin": "Il nome di Parasect potrebbe essere l'unione delle parole inglesi parasite e insect, oppure l'unione di parasite e sect, latino per \"tagliato, reciso\". Questa teoria si appoggerebbe sulla rinnovata funzionalità delle chele del Pokémon una volta evoluto. ",
+    "origin": "Ci sono diversi tipi di fungo che crescono sugli insetti; molti di questi potrebbero avere ispirato il design di Parasect e del tochukaso , come l'Etnomophthora muscae, che cresce sulla mosca comune. L'insetto è una forma distorta di cicala ninfale, avendo i funghi parassiti operato una probabile forma di neotenia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Parasect",
+    "shape": "insettoide",
+    "specie": "Pokémon Fungo",
+    "sprites": {
+        "parasect": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c4/Homem0047.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0047.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0f/Artwork0047_RFVF.png"
+    },
+    "stats": {
+        "parasect": {
+            "hp": 60,
+            "atk": 95,
+            "def": 80,
+            "spa": 60,
+            "spd": 80,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "parasect": 405
+    },
+    "types": {
+        "parasect": [
+            "Coleot",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "parasect": "29.5 kg"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "palossand": {
+            "primary": "Idrorinforzo",
+            "hidden": "Sabbiavelo"
+        }
+    },
+    "curiosities": [
+        "Palossand e la sua pre-evoluzione, Sandygast, sono immuni alla mossa Telecinesi. Tuttavia, l'effetto della mossa rimane se Palossand o Sandygast lo ottengono per mezzo di Staffetta."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/palossand.mp3",
+    "dex_entries": {
+        "palossand": {
+            "sun": "Si è evoluto servendosi degli esseri umani per diventare un castello di sabbia, aumentando così la propria forza malefica.",
+            "moon": "Succhia energia vitale dalle vittime e ne seppellisce le ossa rinsecchite sotto il castello.",
+            "ultra-sun": "Ognuno dei suoi granelli ha una volontà propria. Inghiotte vivi i Pokémon più piccoli e ne ruba l'energia vitale.",
+            "ultra-moon": "Questo temibile Pokémon immobilizza i nemici con una tempesta di sabbia per poi rubarne l'energia vitale.",
+            "sword": "Viene chiamato anche \"Incubo della spiaggia\". Controlla la sabbia per far sprofondare la preda e assorbirne l'anima.",
+            "shield": "Vive sulla spiaggia ma odia l'acqua. Sotto una pioggia violenta, non riesce a mantenere la sua forma di castello di sabbia.",
+            "scarlet": "Questo Pokémon spaventoso trascina nel suo corpo sabbioso i Pokémon più piccoli e ne assorbe l’energia vitale quando gli pare.",
+            "violet": "Dalle cavità nelle braccia espelle le ossa delle sue vittime rinsecchite e ormai prosciugate di ogni energia vitale."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "palossand",
+    "generation": 7,
+    "height": {
+        "palossand": "1.3 m"
+    },
+    "id": 770,
+    "name": "Palossand",
+    "name_origin": "Palossand potrebbe derivare da palace, palazzo, e sand, sabbia. Potrebbe anche essere un gioco di parole con pile of sand, mucchio di sabbia. Shirodesuna potrebbe essere una combinazione di 城ですな shiro desu na, \"è un castello, non è vero?\". Potrebbe essere anche una combinazione di 城 shiro, castello, death, morte, e 砂 suna, sabbia. ",
+    "origin": "Palossand è ispirato ad un castello di sabbia. Potrebbe anche essere la rappresentazione ideologica di un diavolo di sabbia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Palossand",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Castelsabbia",
+    "sprites": {
+        "palossand": {
+            "default": "https://media.pokemoncentral.it/wiki/4/48/Homem0770.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bd/Homemsh0770.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/49/Artwork0770_SL.png"
+    },
+    "stats": {
+        "palossand": {
+            "hp": 85,
+            "atk": 75,
+            "def": 110,
+            "spa": 100,
+            "spd": 75,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "palossand": 480
+    },
+    "types": {
+        "palossand": [
+            "Terra",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "palossand": "250.0 kg"
+    }
+}

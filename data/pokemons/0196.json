@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "espeon": {
+            "primary": "Sincronismo",
+            "hidden": "Magispecchio"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Rosso Fuoco e Verde Foglia, al Monte Allenatori, un Allenatore possiede la versione cromatica di Espeon.",
+        "In Pokémon Rosso Fuoco e Verde Foglia è impossibile ottenere Espeon, così come Umbreon, se non tramite scambio, in quanto mancano sia l'orologio e che l'alternanza del giorno e della notte.",
+        "Espeon condivide la specie con Sunflora e Volcarona. Sono tutti e tre conosciuti come Pokémon Sole.",
+        "Espeon e Glaceon sono le uniche eeveeluzioni a condividere la stessa statistica di base più alta: l'Attacco Speciale.",
+        "Espeon ha l'Attacco Speciale più alto di tutti i Pokémon della seconda generazione.",
+        "Il tipo di Espeon è l'unico a non essere avvantaggiato su quello di nessun'altra eeveeluzione.",
+        "Insieme ad Umbreon è l'unico Pokémon iniziale già evoluto.",
+        "Lo sprite di Pokémon Cristallo ha un colore leggermente diverso rispetto agli altri sprite di seconda generazione.",
+        "Nonostante Espeon possa apprendere Elettrocannone solo in seconda generazione, in Ritenta, sarai più fortunato l'Espeon di Alberta conosce la mossa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/espeon.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "espeon",
+    "generation": 2,
+    "height": {
+        "espeon": "0.9 m"
+    },
+    "id": 196,
+    "name": "Espeon",
+    "name_origin": "Il suo nome deriva probabilmente dall'unione tra l'acronimo inglese ESP  e il suffisso -eon ovvero eone, tipico della famiglia evolutiva di Eevee. ",
+    "origin": "Espeon sembra essere basato sulla creatura mitologica nekomata o al bakeneko, queste creature sono gatti-goblin con code biforcute e con una grande intelligenza. Il suo aspetto ricorda anche il Carbuncle, creatura mitologica dell'America latina con un gioiello sulla fronte, ha anche molti tratti dei Caraclas, gatti sphynx, linci e volpi fennec. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Espeon",
+    "shape": "quadrupede",
+    "specie": "Pokémon Sole",
+    "sprites": {
+        "espeon": {
+            "default": "https://media.pokemoncentral.it/wiki/3/39/Homem0196.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0196.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0e/Artwork0196_RFVF.png"
+    },
+    "stats": {
+        "espeon": {
+            "hp": 65,
+            "atk": 65,
+            "def": 60,
+            "spa": 130,
+            "spd": 95,
+            "spe": 110
+        }
+    },
+    "stats_sum": {
+        "espeon": 525
+    },
+    "types": {
+        "espeon": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "espeon": "26.5 kg"
+    }
+}

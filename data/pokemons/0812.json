@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "rillaboom": {
+            "primary": "Erbaiuto",
+            "hidden": "Erbogenesi"
+        }
+    },
+    "curiosities": [
+        "Ha l'Attacco Speciale più basso tra tutti i Pokémon iniziali completamente evoluti."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/rillaboom.mp3",
+    "dex_entries": {
+        "rillaboom": {
+            "sword": "Controlla il potere del suo ceppo speciale usandolo come un tamburo e lotta servendosi delle radici.",
+            "shield": "Colui che ha una migliore tecnica di percussione diventa il capo. Ha un carattere tranquillo e dà molta importanza all'armonia del gruppo."
+        },
+        "rillaboom-gigamax": {
+            "sword": "Grazie al potere del Gigamax, il ceppo che usa come batteria è cresciuto a tal punto da diventare una foresta.",
+            "shield": "Rillaboom diventa tutt'uno con la sua foresta di tamburi, scandendo un ritmo che scuote l'intera Galar."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Erba"
+    ],
+    "flat_name": "rillaboom",
+    "generation": 8,
+    "height": {
+        "rillaboom": "2.1 m",
+        "rillaboom-gigamax": "> 28.0 m"
+    },
+    "id": 812,
+    "name": "Rillaboom",
+    "name_origin": "Rillaboom potrebbe essere una combinazione delle parole gorilla e di boom, l'onomatopea per lo scoppio. Gorirander potrebbe essere una combinazione delle parole gorilla e di 乱打 randa, colpi. ",
+    "origin": "Rillaboom potrebbe essere basato su un gorilla di pianura occidentale e sembra condividere alcuni aspetti dei batteristi di Taiko. Il suo comportamento potrebbe fare riferimento al fatto che i gorilla emettano suoni simili al tamburo battendosi le zampe sul petto per dimostrare il loro dominio sociale. Può trarre ispirazione anche dalla credenza che la musica stimoli la crescita delle piante. L'aspetto scimmiesco del Pokémon potrebbe essere in parte ispirato al gigantopiteco, un genere estinto di primate. Rillaboom Gigamax potrebbe prendere ispirazione dai moderni batteristi rock. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rillaboom",
+    "shape": "bipedi",
+    "specie": "Pokémon Percussione",
+    "sprites": {
+        "rillaboom": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f1/Homem0812.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homemsh0812.png"
+        },
+        "rillaboom-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9c/Homem0812Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/95/Homemsh0812Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f9/Artwork0812_SpSc.png"
+    },
+    "stats": {
+        "rillaboom": {
+            "hp": 100,
+            "atk": 125,
+            "def": 90,
+            "spa": 60,
+            "spd": 70,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "rillaboom": 530
+    },
+    "types": {
+        "rillaboom": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "rillaboom": "90.0 kg",
+        "rillaboom-gigamax": "???.? kg"
+    }
+}

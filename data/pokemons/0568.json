@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "trubbish": {
+            "primary": "Tanfo",
+            "secondary": "Antifurto",
+            "hidden": "Scoppio"
+        }
+    },
+    "curiosities": [
+        "Lui e la sua evoluzione Garbodor sono gli unici Pokémon di tipo Veleno puro introdotti in quinta generazione.",
+        "Possiede alcune caratteristiche in comune con Grimer e Koffing."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/trubbish.mp3",
+    "dex_entries": {
+        "trubbish": {
+            "black": "Predilige luoghi insalubri. Esala gas dalle fauci in grado di addormentare per una settimana.",
+            "white": "È nato da un sacchetto della spazzatura che ha subito un cambiamento chimico a causa delle scorie industriali.",
+            "black-2": "Dato che è attratto dalla spazzatura, segue gli umani che la buttano per terra. Rilascia gas tossici di continuo.",
+            "white-2": "Dato che è attratto dalla spazzatura, segue gli umani che la buttano per terra. Rilascia gas tossici di continuo.",
+            "x": "È nato da un sacchetto della spazzatura che ha subito un cambiamento chimico a causa delle scorie industriali.",
+            "y": "Predilige luoghi insalubri. Esala gas dalle fauci in grado di addormentare per una settimana.",
+            "omega-ruby": "È nato da un sacchetto della spazzatura che ha subito un cambiamento chimico a causa delle scorie industriali.",
+            "alpha-sapphire": "Predilige luoghi insalubri. Esala gas dalle fauci in grado di addormentare per una settimana.",
+            "sun": "Predilige luoghi insalubri. Nella regione di Alola lo si vede spesso inseguito da Grimer.",
+            "moon": "Quando si rimpinza di spazzatura esala dalle fauci un gas tossico. Chi lo respira finisce immediatamente all'ospedale.",
+            "ultra-sun": "Esala gas tossici a ogni respiro. Quando Muk ne sente l’odore, si dirige verso di lui con l’acquolina in bocca.",
+            "ultra-moon": "Il gas tossico che gli sfugge dalla bocca può essere pericolosissimo se inalato da bambini o piccoli di Pokémon.",
+            "sword": "Predilige luoghi insalubri. Sbuca fuori nelle case dove è stata lasciata spazzatura in giro e vi si stabilisce.",
+            "shield": "È nato da un sacchetto pieno di spazzatura. I Weezing di Galar sono ghiotti del gas tossico che esala."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "trubbish",
+    "generation": 5,
+    "height": {
+        "trubbish": "0.6 m"
+    },
+    "id": 568,
+    "name": "Trubbish",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi trash  e rubbish . ",
+    "origin": "È basato su un sacchetto per l'immondizia. Potrebbe alludere al formarsi di organismi viventi con l'accumularsi di spazzatura e agenti inquinanti nell'ambiente, causato dall'uso improprio che l'uomo fa dei rifiuti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Trubbish",
+    "shape": "bipedi",
+    "specie": "Pokémon Spazzatura",
+    "sprites": {
+        "trubbish": {
+            "default": "https://media.pokemoncentral.it/wiki/d/dd/Homem0568.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5e/Homemsh0568.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/db/Artwork0568_NB.png"
+    },
+    "stats": {
+        "trubbish": {
+            "hp": 50,
+            "atk": 50,
+            "def": 62,
+            "spa": 40,
+            "spd": 62,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "trubbish": 329
+    },
+    "types": {
+        "trubbish": [
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "trubbish": "31 kg"
+    }
+}

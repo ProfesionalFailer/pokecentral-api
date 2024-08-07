@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "moltres": {
+            "primary": "Pressione",
+            "hidden": "Corpodifuoco"
+        },
+        "forma-di-galar": {
+            "primary": "Furore"
+        }
+    },
+    "curiosities": [
+        "Gli sprite di Moltres prima della terza generazione lo mostrano alternativamente con le ali parzialmente o totalmente ricoperte di fuoco, dalla terza in poi lo sono solo parzialmente.",
+        "Mentre nei giochi è di un colore giallo acceso, nell'anime è color crema.",
+        "Moltres condivide il nome della specie con Charmeleon, Charizard, Flareon ed Infernape: sono tutti noti come Pokémon Fiamma.",
+        "A differenza degli altri due uccelli leggendari, Moltres cambia luogo nel corso delle generazioni: in prima si trova nella Via Vittoria, in terza nel Monte Brace, in quarta nel Monte Argento.",
+        "Moltres è l'unico Pokémon di tipo Fuoco ad imparare Solarraggio salendo di livello.",
+        "In Pokémon Mystery Dungeon: Squadra di Soccorso DX, Pokémon Mystery Dungeon: Esploratori del Tempo, Esploratori dell'Oscurità ed Esploratori del Cielo si riferisce a se stesso come una femmina, pur essendo asessuato."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/moltres.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "moltres",
+    "generation": 1,
+    "height": {
+        "moltres": "2.0 m",
+        "moltres-di-galar": "2.0 m"
+    },
+    "id": 146,
+    "name": "Moltres",
+    "name_origin": "Moltres è l'unione delle parole molten, fuso, e la parola spagnola tres, che indica il fatto che egli è il terzo membro del trio degli uccelli leggendari. Il suo nome giapponese è Fire, fuoco. ",
+    "origin": "Come Ho-Oh, Moltres è basato sulla leggenda della Fenice. Tuttavia, Moltres più probabilmente è stato basato sulla fenice della leggenda persiana, il Simurg. Altri sostengono questo Pokémon sia stato basato sul mitico uccello giapponese noto come 朱雀 Suzaku, il custode del Sud. Indipendentemente da ciò, Moltres ha un aspetto molto simile ad entrambi questi animali mitologici. Potrebbe anche essere stato basato sul cigno, o sul mitologico uccello egiziano Bennu. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Moltres",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Fiamma",
+    "sprites": {
+        "moltres": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d0/Homem0146.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0146.png"
+        },
+        "forma-di-galar": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2e/Homem0146G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8e/Homemsh0146G.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a6/Artwork0146_RFVF.png"
+    },
+    "stats": {
+        "moltres": {
+            "hp": 90,
+            "atk": 100,
+            "def": 90,
+            "spa": 125,
+            "spd": 85,
+            "spe": 90
+        },
+        "forma-di-galar": {
+            "hp": 90,
+            "atk": 85,
+            "def": 90,
+            "spa": 100,
+            "spd": 125,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "moltres": 580,
+        "forma-di-galar": 580
+    },
+    "types": {
+        "moltres": [
+            "Volante",
+            "Fuoco"
+        ],
+        "forma-di-galar": [
+            "Volante",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "moltres": "60.0 kg",
+        "moltres-di-galar": "66.0 kg"
+    }
+}

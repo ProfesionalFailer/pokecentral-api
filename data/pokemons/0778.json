@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "mimikyu": {
+            "primary": "Fantasmanto"
+        }
+    },
+    "curiosities": [
+        "Il riferimento al merchandising che indossa Mimikyu, è un probabile riferimento al fatto che il lancio di Pokémon Sole e Luna, primi giochi in cui appare, è avvenuto 20 anni dopo il lancio di Pokémon Rosso e Verde, i primi della serie principale e ovviamente i primi in cui compare anche Pikachu."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mimikyu.mp3",
+    "dex_entries": {
+        "forma-mascherata": {
+            "sun": "Nessuno conosce il suo vero aspetto. Pare che uno studioso sia morto di paura dopo aver guardato sotto il panno che lo nasconde.",
+            "moon": "Soffre molto la solitudine e per poter avvicinare gli esseri umani e gli altri Pokémon, cela il suo tremendo aspetto sotto a un panno.",
+            "ultra-sun": "È un Pokémon tranquillo che soffre di solitudine. Se qualcuno cerca di sbirciare sotto il panno che lo nasconde, si oppone con forza.",
+            "ultra-moon": "Un Allenatore che ha visto cosa si cela sotto il suo panno per una folata di vento è andato incontro a una morte dolorosa la sera stessa.",
+            "sword": "Per non spaventare gli altri, cela il suo aspetto sotto a un panno che imita le fattezze di Pikachu, ma questo lo rende ancor più inquietante.",
+            "shield": "Uno scienziato che studiava questo Pokémon morì di una misteriosa malattia dopo aver guardato sotto il suo panno.",
+            "scarlet": "Vive nell’ombra, lontano dalla luce del sole. Quando appare davanti alle persone si nasconde sotto un panno che somiglia a un Pikachu.",
+            "violet": "È stato identificato come Pokémon in tempi abbastanza recenti: prima di allora si pensava che fosse solo uno spettro coperto da un panno."
+        },
+        "forma-smascherata": {
+            "sun": "Dopo tanti sforzi per camuffarsi, il collo del travestimento si è rotto! Sembra che il Pokémon stia bene, ma dev'esserci rimasto un po’ male...",
+            "moon": "Se a causa di un attacco il tessuto del panno che lo ricopre si strappa, il Pokémon al suo interno passa la notte a ripararlo.",
+            "ultra-sun": "Passa ore davanti allo specchio tentando disperatamente di aggiustare il collo rotto del suo travestimento, ma non ci riesce e piange.",
+            "ultra-moon": "È affranto perché il suo vero aspetto rischia di essere scoperto. Si vendica sempre su chi ha rovinato il suo prezioso travestimento.",
+            "sword": "Non perdona chi smaschera il suo travestimento da Pikachu e lo finisce anche a costo della sua stessa incolumità.",
+            "shield": "Ha evitato l'attacco nemico grazie al potere del panno, ma il collo del suo travestimento si è rotto rivelando la sua vera identità.",
+            "scarlet": "Continua a fingersi un Pikachu mentre si affanna all’interno del panno per riparare il collo rotto del suo travestimento.",
+            "violet": "Il danno subito ha tolto il sostegno alla testa fatta di panno. Non dimenticherà l’avversario che lo ha attaccato finché avrà vita."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "mimikyu",
+    "generation": 7,
+    "height": {
+        "mimikyu": "0.2 m",
+        "dominante": "0.4 m"
+    },
+    "id": 778,
+    "name": "Mimikyu",
+    "name_origin": "Mimikyu e Mimikkyu potrebbero derivare dalla parola mimic, imitare o dalla trascrizione fonetica delle frasi \"To mimic you\", \"I mimic you\": \"imitarti\", \"ti imito\". Potrebbe derivare anche dall'onomatopea del verso di Pikachu. ",
+    "origin": "Mimikyu si basa su un panno raffigurante un Pikachu. Questo travestimento assomiglia ai costumi da fantasma creati con le lenzuola. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mimikyu",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Fantasmanto",
+    "sprites": {
+        "forma-mascherata": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e5/Homem0778.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/57/Homemsh0778.png"
+        },
+        "forma-smascherata": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0a/Homem0778S.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4c/Homemsh0778S.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/27/Artwork0778_SL.png"
+    },
+    "stats": {
+        "mimikyu": {
+            "hp": 55,
+            "atk": 90,
+            "def": 80,
+            "spa": 50,
+            "spd": 105,
+            "spe": 96
+        }
+    },
+    "stats_sum": {
+        "mimikyu": 476
+    },
+    "types": {
+        "mimikyu": [
+            "Spettro",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "mimikyu": "0.7 kg",
+        "dominante": "2.8 kg"
+    }
+}

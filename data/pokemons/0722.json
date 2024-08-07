@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "rowlet": {
+            "primary": "Erbaiuto",
+            "hidden": "Distacco"
+        }
+    },
+    "curiosities": [
+        "Rowlet possiede diverse peculiarità fra i Pokémon iniziali:\n\tÈ l'unico assieme a Bulbasaur ad essere di doppio tipo già nella forma base, e l'unico con una doppia debolezza allo stadio base.\n\tÈ l'unico che evolvendosi cambia tipo anziché riceverne uno.\n\tÈ l'unico appartenente al Gruppo Uova Volante.\n\tÈ il più leggero e, a pari merito con Eevee e Froakie, il più basso.\n\tHa la più alta statistica base di PS fra quelli allo stadio base.",
+        "È l'unico assieme a Bulbasaur ad essere di doppio tipo già nella forma base, e l'unico con una doppia debolezza allo stadio base.",
+        "È l'unico che evolvendosi cambia tipo anziché riceverne uno.",
+        "È l'unico appartenente al Gruppo Uova Volante.",
+        "È il più leggero e, a pari merito con Eevee e Froakie, il più basso.",
+        "Ha la più alta statistica base di PS fra quelli allo stadio base."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/rowlet.mp3",
+    "dex_entries": {
+        "rowlet": {
+            "sun": "Questo Pokémon è sempre all'erta. Di giorno accumula energia tramite fotosintesi per poi passare all'azione di notte.",
+            "moon": "Si avvicina ai nemici ignari planando su di loro senza produrre il minimo rumore e li tempesta di poderosi calci.",
+            "ultra-sun": "Attacca lanciando piume affilate come lame e può anche tirare poderosi calci con le zampe robuste.",
+            "ultra-moon": "Si sente a suo agio in luoghi stretti e bui. A volte usa le tasche o la Borsa del suo Allenatore a mo' di nido.",
+            "sword": "In volo attacca lanciando piume affilate come lame, mentre a distanza ravvicinata tira poderosi calci con le zampe robuste.",
+            "shield": "Accumula energia durante il giorno grazie alla fotosintesi e di notte vola senza fare alcun rumore in cerca di prede.",
+            "legends-arceus": "Volteggia cheto con ali leggiadre. Padroneggia tecniche con cui gittare il piumaggio affilato, tagliente al pari di daghe."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "rowlet",
+    "generation": 7,
+    "height": {
+        "rowlet": "0.3 m"
+    },
+    "id": 722,
+    "name": "Rowlet",
+    "name_origin": "Il nome Rowlet potrebbe essere una combinazione di round, rotondo, o arrow, freccia, e owlet, giovane gufo. Il nome Mokuroh potrebbe essere una combinazione di 木 moku, albero, e 梟 fukurō, gufo. ",
+    "origin": "Rowlet è basato su un gufo, condividendo le maggiori somiglianze con i membri della famiglia dei Titonidi, specie conosciute collettivamente come \"barbagianni\" che hanno facce a forma di cuore e occhi scuri. In particolare, assomiglia molto al barbagianni comune, che è stato introdotto alle Hawaii. In alternativa, può essere ispirato al barbagianni delle erbe orientale o al barbagianni delle erbe africano, insieme al gufo pueo locale che è noto per sorvolare le aree erbose delle isole hawaiane, da cui il tipo Erba. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rowlet",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Aliderba",
+    "sprites": {
+        "rowlet": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0e/Homem0722.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/eb/Homemsh0722.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5d/Artwork0722_LPA.png"
+    },
+    "stats": {
+        "rowlet": {
+            "hp": 68,
+            "atk": 55,
+            "def": 55,
+            "spa": 50,
+            "spd": 50,
+            "spe": 42
+        }
+    },
+    "stats_sum": {
+        "rowlet": 320
+    },
+    "types": {
+        "rowlet": [
+            "Volante",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "rowlet": "1.5 kg"
+    }
+}

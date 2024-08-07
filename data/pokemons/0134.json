@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "vaporeon": {
+            "primary": "Assorbacqua",
+            "hidden": "Idratazione"
+        }
+    },
+    "curiosities": [
+        "Vaporeon è la Eeveeluzione più grande: è la più pesante della sua famiglia, ed è anche insieme a Umbreon, Leafeon e Sylveon la più alta.",
+        "Vaporeon è l'unico tipo Acqua ad apparire nella zona Campo del Parco Amici.",
+        "In prima generazione, Vaporeon aveva un design posteriore estremamente differente, con il retro delle sue orecchie nero, pinne su ogni zampa, e un'altra pinna che scendeva per tutta al sua schiena. Tutti questi dettagli sono stati rimossi in seconda generazione. Inoltre tutti questi dettagli non erano presenti nel suo artwork originale di Pokémon Rosso e Verde.",
+        "In Pokémon Giallo Vaporeon impara Nube e Nebbia al livello 42. Siccome in prima generazione un Pokémon non può apprendere più di una mossa salendo di livello , l'unico modo per cui apprenda Nebbia è che raggiunga il livello 42 mentre si trova alla Pensione Pokémon.",
+        "Vaporeon è l'unica Eeveeluzione a non condividere alcuna debolezza con le altre."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/vaporeon.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "vaporeon",
+    "generation": 1,
+    "height": {
+        "vaporeon": "1.0 m"
+    },
+    "id": 134,
+    "name": "Vaporeon",
+    "name_origin": "Vaporeon è la combinazione tra le parole inglesi vapor  e eon . ",
+    "origin": "Le sue origini sono incerte, ma potrebbe trattarsi di un incrocio tra cetacei, felini e canidi. Le sue caratteristiche feline e da pesce potrebbero essere un gioco per indicare un pesce gatto, le sue pinne tuttavia sembrano essere basate sui pesci tropicali, ma le due pinne sulla testa laterali sembrano un ibrido tra le pinne di un pesce e le orecchie di un Fennec, ha anche somiglianze con le sirene e con il Telchini creatura mitologica greca o con il Merlius, simbolo nazionale di Singapore, il fatto che sia un carnivoro potrebbe anche relazionarlo alle balene primitive come i Kutchicetus, mentre la pinna intorno al collo ricordano un'ornamento del 16°-17° secolo, visto nel ritratto di Elisabetta I. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Vaporeon",
+    "shape": "quadrupede",
+    "specie": "Pokémon Bollajet",
+    "sprites": {
+        "vaporeon": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9f/Homem0134.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0c/Homemsh0134.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/85/Artwork0134_RFVF.png"
+    },
+    "stats": {
+        "vaporeon": {
+            "hp": 130,
+            "atk": 65,
+            "def": 60,
+            "spa": 110,
+            "spd": 95,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "vaporeon": 525
+    },
+    "types": {
+        "vaporeon": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "vaporeon": "29.0 kg"
+    }
+}

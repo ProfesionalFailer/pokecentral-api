@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "alomomola": {
+            "primary": "Curacuore",
+            "secondary": "Idratazione",
+            "hidden": "Rigenergia"
+        }
+    },
+    "curiosities": [
+        "Prima che uscissero Pokémon Nero e Bianco, si pensava che Alomomola fosse l'evoluzione di Luvdisc.",
+        "Alomomola ha la più alta statistica base di Punti Salute di tutti i Pokémon di quinta generazione.",
+        "Tutte le abilità di Alomomola hanno a che fare con la cura di sé o di un compagno.",
+        "Il nome di Alomomola è un palindromo, come quello di Girafarig, Ho-Oh, Eevee e Farigiraf.",
+        "Alomomola rappresenta il mese di marzo  nell'oroscopo di Unima.",
+        "Alomomola è stato il primo Pokémon di quinta generazione non leggendario ad apparire in un episodio dell'anime."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/alomomola.mp3",
+    "dex_entries": {
+        "alomomola": {
+            "black": "La membrana speciale che ricopre il corpo di Alomomola ha la capacità di guarire le ferite.",
+            "white": "Vive in mare aperto trasportato dalle onde. Se si imbatte in un Pokémon ferito, lo riaccompagna a riva.",
+            "black-2": "Abbraccia dolcemente con le sue pinne i Pokémon deboli o feriti e li guarisce grazie a una speciale membrana mucosa.",
+            "white-2": "Abbraccia dolcemente con le sue pinne i Pokémon deboli o feriti e li guarisce grazie a una speciale membrana mucosa.",
+            "x": "Vive in mare aperto trasportato dalle onde. Se si imbatte in un Pokémon ferito, lo riaccompagna a riva.",
+            "y": "Abbraccia dolcemente con le sue pinne i Pokémon deboli o feriti e li guarisce grazie a una speciale membrana mucosa.",
+            "omega-ruby": "Vive in mare aperto trasportato dalle onde. Se si imbatte in un Pokémon ferito, lo riaccompagna a riva.",
+            "alpha-sapphire": "Abbraccia dolcemente con le sue pinne i Pokémon deboli o feriti e li guarisce grazie a una speciale membrana mucosa.",
+            "sun": "Abbraccia i Pokémon feriti e li guarisce grazie a uno speciale liquido viscoso. Non si sa perché lo faccia.",
+            "moon": "Vive in mare aperto, lasciandosi trasportare dalle onde. Attorno gli si radunano molti Pokémon di tipo Acqua.",
+            "ultra-sun": "I pescatori li portano sempre con sé quando partono per lunghe traversate, perché dove c’è un Alomomola non servono medici né medicine.",
+            "ultra-moon": "Sembra che aiuti i Pokémon indeboliti per non rischiare di essere attaccato da eventuali loro predatori.",
+            "scarlet": "Abbraccia dolcemente con le sue pinne i Pokémon deboli o feriti e li guarisce grazie a una speciale membrana mucosa.",
+            "violet": "Vive in mare aperto, lasciandosi trasportare dalle onde. Attorno gli si radunano molti Pokémon di tipo Acqua."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 2"
+    ],
+    "flat_name": "alomomola",
+    "generation": 5,
+    "height": {
+        "alomomola": "1.2 m"
+    },
+    "id": 594,
+    "name": "Alomomola",
+    "name_origin": "Il suo nome è un palindromo che probabilmente deriva dal nome scientifico Mola mola , dalla parola hawaiiana aloha  e da quella inglese mom . ",
+    "origin": "Alomomola sembra essere una combinazione tra un pesce disco, un pesce luna e un cuore, simbolo di salute: in particolare la sua abilità di guarire altri Pokémon potrebbe basarsi sulla teoria  che il corpo dei pesci luna produca sostanze antibiotiche che gli altri pesci sfruttano per sanare le proprie ferite. È appunto la sua forma a cuore, assieme alle sue pinne simili a mani, che fanno pensare a una possibile ispirazione al Claddagh Ring. La membrana guaritrice che ricopre lo stesso Alomomola fa pensare al pesce pappagallo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Alomomola",
+    "shape": "pinne",
+    "specie": "Pokémon Assistenza",
+    "sprites": {
+        "alomomola": {
+            "default": "https://media.pokemoncentral.it/wiki/2/22/Homem0594.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0594.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/03/Artwork0594_NB.png"
+    },
+    "stats": {
+        "alomomola": {
+            "hp": 165,
+            "atk": 75,
+            "def": 80,
+            "spa": 40,
+            "spd": 45,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "alomomola": 470
+    },
+    "types": {
+        "alomomola": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "alomomola": "31.6 kg"
+    }
+}

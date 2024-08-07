@@ -1,0 +1,93 @@
+{
+    "abilities": {
+        "rufflet": {
+            "primary": "Sguardofermo",
+            "secondary": "Forzabruta",
+            "hidden": "Tuttafretta"
+        }
+    },
+    "curiosities": [
+        "Articoli incompleti",
+        "Pokémon",
+        "Pokémon di quinta generazione",
+        "Pokémon di tipo Normale",
+        "Pokémon di tipo Volante",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Lento",
+        "Pokémon di colore Bianco",
+        "Pokémon dalla sagoma n. 09",
+        "Pokémon esclusivamente maschi",
+        "Pokémon di Gruppo Uova Volante",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con evoluzioni ramificate",
+        "Pokémon con statistiche base totali di 350",
+        "Pokémon con evoluzioni trans-generazionali",
+        "Pokémon che si evolvono solo ad Hisui"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/rufflet.mp3",
+    "dex_entries": {
+        "rufflet": {
+            "black": "Si serve degli arti come schiaccianoci per rompere le bacche. Affronta con valore anche i nemici più forti.",
+            "white": "Sfida indiscriminatamente avversari anche più forti di lui. Si irrobustisce a forza di lottare.",
+            "black-2": "Sfida avversari più grandi di lui, più per sconsideratezza che per coraggio. È così che si allena per diventare più forte.",
+            "white-2": "Sfida avversari più grandi di lui, più per sconsideratezza che per coraggio. È così che si allena per diventare più forte.",
+            "x": "Rompono le bacche con gli artigli. Coraggiosamente, sfidano avversari più potenti di loro senza porsi problemi.",
+            "y": "Sfidano chiunque, anche gli avversari più forti, senza temere nulla. Le loro frequenti lotte li aiutano a diventare più forti.",
+            "omega-ruby": "Si serve degli arti come schiaccianoci per rompere le bacche. Affronta con valore anche i nemici più forti.",
+            "alpha-sapphire": "Sfida indiscriminatamente avversari anche più forti di lui. Si irrobustisce a forza di lottare.",
+            "sun": "Si scaglia contro qualsiasi avversario. Ogni volta che viene ferito o sconfitto, diventa più forte.",
+            "moon": "Infilza le sue prede con i suoi artigli affilati e le attacca a beccate. È principalmente carnivoro, ma può mangiare anche le bacche.",
+            "ultra-sun": "Ha arti potenti e artigli robusti con cui riesce a frantumare anche la corazza degli Shellder per poterne beccare il corpo all'interno.",
+            "ultra-moon": "È considerato un lottatore nato: la prima cosa che fa quando viene al mondo è sfidare i genitori per guadagnarsi la loro approvazione.",
+            "sword": "Quando scorge un Pokémon che ha l'aria di essere forte, lo deve sfidare a tutti i costi. Se perde, piange più forte che può.",
+            "shield": "La sua stretta riduce in frantumi anche le bacche più dure. È un attaccabrighe e sfida chiunque gli capiti a tiro.",
+            "legends-arceus": "Malgrado sia un volatile minuto, è assai irruente. Al minimo screzio scatena un alterco con i genitori, impaziente di mostrare la sua forza.",
+            "scarlet": "Si scaglia indiscriminatamente contro qualsiasi avversario. Diventa più forte ogni volta che viene ferito o sconfitto.",
+            "violet": "Infilza le prede con i suoi artigli affilati e le attacca a beccate. È principalmente carnivoro, ma può mangiare anche le bacche."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "rufflet",
+    "generation": 5,
+    "height": {
+        "rufflet": "0.5 m"
+    },
+    "id": 627,
+    "name": "Rufflet",
+    "name_origin": "Rufflet deriva dall'inglese ruff , rough , ruffle  e eaglet . ",
+    "origin": "Rufflet è probabilmente basato su un aquilotto, sebbene il suo ciuffo di piume ricordi anche quello che hanno sulla testa i maschi dei combattenti . Inoltre si basa sui nativi americani e sulle piume che indossano sul capo in segno di onorificenza. Presenta anche alcune caratteristiche comuni con i pappagalli. Ne è una conferma il fatto che nell'anime un Rufflet viene mostrato mentre apre una noce e porta il cibo alla bocca utilizzando le sue zampe, e i pappagalli sono gli unici uccelli in grado di farlo. In un'intervista alla rivista Nintendo Dream, Ken Sugimori rivela che Rufflet e Braviary furono tra i primi Pokémon ad essere concepiti per lo sviluppo di Pokémon Nero e Bianco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rufflet",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Aquilotto",
+    "sprites": {
+        "rufflet": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6f/Homem0627.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0627.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fa/Artwork0627_NB.png"
+    },
+    "stats": {
+        "rufflet": {
+            "hp": 70,
+            "atk": 83,
+            "def": 50,
+            "spa": 37,
+            "spd": 50,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "rufflet": 350
+    },
+    "types": {
+        "rufflet": [
+            "Volante",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "rufflet": "10.5 kg"
+    }
+}

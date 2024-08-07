@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "corphish": {
+            "primary": "Ipertaglio",
+            "secondary": "Guscioscudo",
+            "hidden": "Adattabilità"
+        }
+    },
+    "curiosities": [
+        "Corphish è l'unico Pokémon fino ad oggi con un tasso di cattura di 205.",
+        "Corphish ha solo otto arti , mentre sia gamberi che aragoste hanno dieci arti."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/corphish.mp3",
+    "dex_entries": {
+        "corphish": {
+            "ruby": "Originariamente CORPHISH era una creatura straniera, importata poi come POKéMON domestico. Attualmente ne sono stati trovati anche allo stato brado. Essendo molto resistente, ha moltiplicato la sua popolazione.",
+            "sapphire": "CORPHISH cattura la preda con i suoi artigli affilati. Non ha esigenze particolari riguardo al cibo, infatti mangia di tutto. Riesce a vivere anche in acque molto inquinate.",
+            "emerald": "CORPHISH cattura il nemico con le sue enormi chele e non lo lascia andare per nessun motivo. È un POKéMON molto resistente che si adatta ad ogni ambiente.",
+            "firered": "Proviene dall'estero. Creatura resistente che prolifera rapidamente, anche in corsi d'acqua inquinati.",
+            "leafgreen": "Proviene dall'estero. Creatura resistente che prolifera rapidamente, anche in corsi d'acqua inquinati.",
+            "diamond": "La sua grande vitalità gli permette di adattarsi ad ogni habitat. Le sue chele non rilasciano mai la preda.",
+            "pearl": "La sua grande vitalità gli permette di adattarsi ad ogni habitat. Le sue chele non rilasciano mai la preda.",
+            "platinum": "La sua grande vitalità gli permette di adattarsi ad ogni habitat. Le sue chele non rilasciano mai la preda.",
+            "heartgold": "Importato come domestico si è inselvatichito in loco. Si adatta anche ai fiumi più inquinati.",
+            "soulsilver": "Importato come domestico si è inselvatichito in loco. Si adatta anche ai fiumi più inquinati.",
+            "black": "La sua grande vitalità gli permette di adattarsi ad ogni habitat. Le sue chele non rilasciano mai la preda.",
+            "white": "La sua grande vitalità gli permette di adattarsi ad ogni habitat. Le sue chele non rilasciano mai la preda.",
+            "black-2": "La sua grande vitalità gli permette di adattarsi e proliferare anche nelle acque dei fiumi più inquinati.",
+            "white-2": "La sua grande vitalità gli permette di adattarsi e proliferare anche nelle acque dei fiumi più inquinati.",
+            "x": "La sua grande vitalità gli permette di adattarsi e proliferare anche nelle acque dei fiumi più inquinati.",
+            "y": "La sua grande vitalità gli permette di adattarsi a ogni habitat. Le sue chele non rilasciano mai la preda.",
+            "omega-ruby": "Originariamente Corphish era stato importato da altre regioni come Pokémon domestico. Attualmente ne sono stati trovati anche allo stato brado. Essendo molto resistente, ha moltiplicato la sua popolazione.",
+            "alpha-sapphire": "Corphish cattura la preda con le sue temibili chele. Non ha esigenze particolari riguardo al cibo, infatti mangia di tutto. Riesce a vivere anche in acque molto inquinate.",
+            "ultra-sun": "Sempre più Corphish vengono liberati da Allenatori che non possono più allenarli. Ormai si incontrano spesso anche ad Alola.",
+            "ultra-moon": "Si adatta a ogni habitat. Insieme a Feebas, è l’unico Pokémon che vive nelle acque stagnanti dei canali.",
+            "sword": "La sua grande vitalità gli permette di adattarsi e proliferare anche nelle acque dei fiumi più inquinati.",
+            "shield": "Importato dall'estero, si è successivamente rinselvatichito. Si adatta anche ai fiumi più inquinati.",
+            "brilliant-diamond": "La sua grande vitalità gli permette di adattarsi a ogni habitat. Le sue chele non lasciano andare mai la preda.",
+            "shining-pearl": "La sua grande vitalità gli permette di adattarsi a ogni habitat. Le sue chele non lasciano andare mai la preda.",
+            "scarlet": "Proviene da un’altra regione. È una creatura resistente che prolifera rapidamente anche nei corsi d’acqua più inquinati.",
+            "violet": "Vivendo anche in acque inquinate non deve contendersi il cibo con altri Pokémon acquatici, e ciò gli ha permesso di proliferare."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 3"
+    ],
+    "flat_name": "corphish",
+    "generation": 3,
+    "height": {
+        "corphish": "0.60 m"
+    },
+    "id": 341,
+    "name": "Corphish",
+    "name_origin": "Potrebbe derivare dal termine arcaico \"corfish\", un tipo di pesce essiccato. In alternativa potrebbe essere una combinazione delle parole corps , o corporal  e crayfish . ",
+    "origin": "Corphish è probabilmente basato sul gambero rosso Procambarus clarkii. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Corphish",
+    "shape": "insettoide",
+    "specie": "Pokémon Birbone",
+    "sprites": {
+        "corphish": {
+            "default": "https://media.pokemoncentral.it/wiki/1/17/Homem0341.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0341.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/00/Artwork0341_RZ.png"
+    },
+    "stats": {
+        "corphish": {
+            "hp": 43,
+            "atk": 80,
+            "def": 65,
+            "spa": 50,
+            "spd": 35,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "corphish": 308
+    },
+    "types": {
+        "corphish": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "corphish": "11.5 kg"
+    }
+}

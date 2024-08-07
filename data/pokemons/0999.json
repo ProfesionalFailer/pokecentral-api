@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "forma-scrigno": {
+            "primary": "Paura"
+        },
+        "forma-ambulante": {
+            "primary": "Fugafacile"
+        }
+    },
+    "curiosities": [
+        "Il nome della Forma Scrigno è stato ideato da Zim, mentre quello della Forma Ambulante dal Professor Willow.",
+        "Nella Forma Scrigno, Gimmighoul ha la Velocità più bassa tra tutti i pokémon di tipo Spettro.",
+        "Nella Forma Ambulante, Gimmighoul è l'unico Pokémon la cui categoria è formata da più di due parole."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gimmighoul.mp3",
+    "dex_entries": {
+        "forma-scrigno": {
+            "scarlet": "Nacque all'interno di un forziere circa 1.500 anni fa. Assorbe l'energia vitale dei furfanti che provano a rubare il suo tesoro.",
+            "violet": "Vive dentro un vecchio forziere. Non sembrando affatto un Pokémon, a volte finisce in un angolo nei negozi di strumenti."
+        },
+        "forma-ambulante": {
+            "scarlet": "È nato da una moneta pervasa di sentimenti intensi. Vaga cercando di tornare nel forziere da cui proviene.",
+            "violet": "Vaga portando sulla schiena una moneta antica e per vivere assorbe l'energia vitale delle persone che cercano di raccoglierla."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "gimmighoul",
+    "generation": 9,
+    "height": {
+        "forma-scrigno": "0.3 m",
+        "forma-ambulante": "0.1 m"
+    },
+    "id": 999,
+    "name": "Gimmighoul",
+    "name_origin": "Gimmighoul potrebbe essere una combinazione di gimme, dammi, gimmick, stratagemma, e ghoul; inoltre, il nome suona in maniera simile a Gimme gold, dammi dell'oro. コレクレー Korekurē deriva da collect, e これくれ kore kure, dammelo. ",
+    "origin": "La Forma Scrigno trae probabilmente ispirazione dal mimic, un mostro dell'immaginario fantasy in grado di mutare la forma del suo corpo per assomigliare a degli oggetti; tipicamente i mimic assumono la forma di uno scrigno del tesoro, per trarre in inganno gli avventurieri. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gimmighoul",
+    "shape": "testa",
+    "specie": "Pokémon Scrigno",
+    "sprites": {
+        "forma-scrigno": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c6/Homem0999.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homemsh0999.png"
+        },
+        "forma-ambulante": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f8/Homem0999A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0999A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f0/Artwork0999_SV.png"
+    },
+    "stats": {
+        "forma-scrigno": {
+            "hp": 45,
+            "atk": 30,
+            "def": 70,
+            "spa": 75,
+            "spd": 70,
+            "spe": 10
+        },
+        "forma-ambulante": {
+            "hp": 45,
+            "atk": 30,
+            "def": 25,
+            "spa": 75,
+            "spd": 45,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "forma-scrigno": 300,
+        "forma-ambulante": 300
+    },
+    "types": {
+        "gimmighoul": [
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "forma-scrigno": "5.0 kg",
+        "forma-ambulante": "0.1 kg"
+    }
+}

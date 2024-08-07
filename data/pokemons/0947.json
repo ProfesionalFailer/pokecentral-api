@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "brambleghast": {
+            "primary": "Vento Propizio",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "Brambleghast possiede il nome più lungo tra tutti i Pokemon, avendo un nome composto da 12 caratteri. Condivide questa caratteristica con Crabominable e Squawkabilly."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/brambleghast.mp3",
+    "dex_entries": {
+        "brambleghast": {
+            "scarlet": "Apre i rami del volto per ingoiare la preda. Dopo averne assorbito forza vitale a sufficienza, la sputa fuori.",
+            "violet": "Vaga per zone aride. In rarissime occasioni, una sua comparsa massiccia può seppellire una città intera."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "brambleghast",
+    "generation": 9,
+    "height": {
+        "brambleghast": "1.2 m"
+    },
+    "id": 947,
+    "name": "Brambleghast",
+    "name_origin": "Brambleghast potrebbe derivare da bramble, rovo, e aghast, atterrito, inorridito, o ghast, terribile, spaventoso, orribile. ",
+    "origin": "Come la sua pre-evoluzione, anche Brambleghast è basato sui rotolacampo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Brambleghast",
+    "shape": "testa",
+    "specie": "Pokémon Rotolerba",
+    "sprites": {
+        "brambleghast": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cf/Homem0947.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c1/Homemsh0947.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/77/Artwork0947_SV.png"
+    },
+    "stats": {
+        "brambleghast": {
+            "hp": 55,
+            "atk": 115,
+            "def": 70,
+            "spa": 80,
+            "spd": 70,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "brambleghast": 480
+    },
+    "types": {
+        "brambleghast": [
+            "Spettro",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "brambleghast": "6.0 kg"
+    }
+}

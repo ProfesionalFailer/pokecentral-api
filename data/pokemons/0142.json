@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "aerodactyl": {
+            "primary": "Testadura",
+            "secondary": "Pressione",
+            "hidden": "Agitazione"
+        },
+        "megaaerodactyl": {
+            "primary": "Unghiedure"
+        }
+    },
+    "curiosities": [
+        "Il suo nome originario era \"Ptera\".",
+        "Prima della quinta generazione Aerodactyl aveva una combinazione di tipi unica.",
+        "Aerodactyl è l'unico Pokémon fossile che:\n\tNon fa parte di una linea evolutiva.\n\tPuò megaevolversi.\n\tPuò essere ottenuto senza bisogno del suo fossile in alcuni giochi.",
+        "Non fa parte di una linea evolutiva.",
+        "Può megaevolversi.",
+        "Può essere ottenuto senza bisogno del suo fossile in alcuni giochi.",
+        "MegaAerodactyl detiene due primati: è il Pokémon di tipo Roccia più veloce in assoluto  ed il Pokémon fossile con il più alto totale di statistiche base.",
+        "Aerodactyl è uno dei quattro Pokémon non presenti nel Pokédex di Hoenn ad essere disponibili in Pokémon Pinball: Rubino e Zaffiro. Gli altri sono Chikorita, Cyndaquil e Totodile.",
+        "In Avventure preistoriche viene detto che Aerodactyl è carnivoro, tuttavia in Il ritorno di Aerodactyl lo si vede che mangia felicemente della frutta.",
+        "Aerodactyl è l'unico Pokémon di tipo Roccia ad appartenere al gruppo dei Pokémon di colore viola. Ciò è strano perché Aerodactyl è viola solo nella forma cromatica.\n\tQuest'ultima forma inoltre ha gli stessi colori di Gligar.",
+        "Quest'ultima forma inoltre ha gli stessi colori di Gligar.",
+        "Aerodactyl è l'unico Pokémon di tipo Roccia in prima generazione a non avere una doppia debolezza agli attacchi di tipo Erba."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/aerodactyl.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "aerodactyl",
+    "generation": 1,
+    "height": {
+        "aerodactyl": "1.8 m",
+        "megaaerodactyl": "2.1 m"
+    },
+    "id": 142,
+    "name": "Aerodactyl",
+    "name_origin": "Il suo nome deriva dall'unione del prefisso aero-, che deriva dal greco αερος aéros, aria, con la parola inglese pterodactyl, pterodattilo. ",
+    "origin": "È basato su di uno pterodattilo, un rettile preistorico volante, in particolare negli rhamphorhynchoidea, per la forma della coda e dei denti, inoltre sembra avere caratteristiche di drago, in particolare della viverna, una varietà di drago bipede, questo spiega perché Aerodactyl viene usato da Lance. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Aerodactyl",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Fossile",
+    "sprites": {
+        "aerodactyl": {
+            "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0142.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/64/Homemsh0142.png"
+        },
+        "megaaerodactyl": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a0/Homem0142M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0142M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bc/Artwork0142_RFVF.png"
+    },
+    "stats": {
+        "aerodactyl": {
+            "hp": 80,
+            "atk": 105,
+            "def": 65,
+            "spa": 60,
+            "spd": 75,
+            "spe": 130
+        },
+        "megaaerodactyl": {
+            "hp": 80,
+            "atk": 135,
+            "def": 85,
+            "spa": 70,
+            "spd": 95,
+            "spe": 150
+        }
+    },
+    "stats_sum": {
+        "aerodactyl": 515,
+        "megaaerodactyl": 615
+    },
+    "types": {
+        "aerodactyl": [
+            "Volante",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "aerodactyl": "59.0 kg",
+        "megaaerodactyl": "79.0 kg"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "stunky": {
+            "primary": "Tanfo",
+            "secondary": "Scoppio",
+            "hidden": "Sguardofermo"
+        }
+    },
+    "curiosities": [
+        "Fino a Nero e Bianco, si può catturare Skuntank solo in Diamante. Non si può dire lo stesso per la sua controparte Glameow: infatti è sì ottenibile solo in Perla in quarta generazione, ma si può catturare anche in quinta, nel Boschetto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/stunky.mp3",
+    "dex_entries": {
+        "stunky": {
+            "diamond": "Si protegge spruzzando un fluido puzzolente dal posteriore. Il tanfo permane per 24 ore.",
+            "pearl": "Spruzza un fluido puzzolente e disgustoso dal posteriore per allontanare i nemici.",
+            "platinum": "Emette un fluido puzzolente dal posteriore. Il tanfo si sparge per 2 km e tiene lontani i Pokémon.",
+            "heartgold": "Dal posteriore spruzza un liquido talmente puzzolente che ci si sente male anche a due km di distanza.",
+            "soulsilver": "Dal posteriore spruzza un liquido talmente puzzolente che ci si sente male anche a due km di distanza.",
+            "black": "Emette un fluido puzzolente dal posteriore. Il tanfo si sparge per 2 km e tiene lontani i Pokémon.",
+            "white": "Emette un fluido puzzolente dal posteriore. Il tanfo si sparge per 2 km e tiene lontani i Pokémon.",
+            "black-2": "Emette un fluido puzzolente dal posteriore. Il tanfo si sparge per 2 km e tiene lontani i Pokémon.",
+            "white-2": "Emette un fluido puzzolente dal posteriore. Il tanfo si sparge per 2 km e tiene lontani i Pokémon.",
+            "x": "Emette un fluido puzzolente dal posteriore. Il tanfo si sparge per 2 km e tiene lontani i Pokémon.",
+            "y": "Si protegge spruzzando un fluido puzzolente dal posteriore. Il tanfo permane per 24 ore.",
+            "omega-ruby": "Emette un fluido puzzolente dal posteriore. Il tanfo si sparge per 2 km e tiene lontani i Pokémon.",
+            "alpha-sapphire": "Si protegge spruzzando un fluido puzzolente dal posteriore. Il tanfo permane per 24 ore.",
+            "sword": "Spruzza un fluido puzzolente dal posteriore mirando al muso dell’avversario. Lo spruzzo può arrivare fino 5 m di distanza.",
+            "shield": "Se mostra il posteriore alzando la coda, bisogna fare attenzione: sta per spruzzare un fluido così maleodorante da far perdere i sensi.",
+            "brilliant-diamond": "Si protegge spruzzando un fluido puzzolente dal posteriore. Il tanfo permane per 24 ore.",
+            "shining-pearl": "Spruzza un fluido puzzolente e disgustoso dal posteriore per allontanare i nemici che lo vogliono attaccare.",
+            "legends-arceus": "Il fluido velenifero che proietta dalle terga emana un fetore nauseabondo al punto da cagionare amnesia in chi lo annusa.",
+            "scarlet": "Emette un fluido puzzolente dal posteriore. Il tanfo tiene lontani i Pokémon nel raggio di 2 km.",
+            "violet": "Dal posteriore spruzza un liquido talmente puzzolente da far star male una persona a due chilometri di distanza."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "stunky",
+    "generation": 4,
+    "height": {
+        "stunky": "0.4 m"
+    },
+    "id": 434,
+    "name": "Stunky",
+    "name_origin": "Il nome deriva dalla combinazione delle parole inglesi skunk, moffetta, e stinky, puzzolente. ",
+    "origin": "È basato su una moffetta, ma ha anche delle somiglianze con un gatto, il che rispecchia il fatto che le piccole moffette in inglese possono essere chiamate kittens . ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Stunky",
+    "shape": "quadrupede",
+    "specie": "Pokémon Moffetta",
+    "sprites": {
+        "stunky": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0434.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0434.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b8/Artwork0434_DP.png"
+    },
+    "stats": {
+        "stunky": {
+            "hp": 63,
+            "atk": 63,
+            "def": 47,
+            "spa": 41,
+            "spd": 41,
+            "spe": 74
+        }
+    },
+    "stats_sum": {
+        "stunky": 329
+    },
+    "types": {
+        "stunky": [
+            "Veleno",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "stunky": "19.2 kg"
+    }
+}

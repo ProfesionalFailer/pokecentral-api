@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "cloyster": {
+            "primary": "Guscioscudo",
+            "secondary": "Abillegame",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Cloyster ha la Difesa più alta insieme a Mega Slowbro dei Pokémon di tipo Acqua e la seconda tra quelli di tipo Ghiaccio, secondo solo ad Avalugg.",
+        "Lo sprite di Cloyster di Pokémon Rosso e Blu mostra la sua conchiglia posizionata orizzontalmente invece che verticalmente.",
+        "Cloyster è l'unico Pokémon di tipo Ghiaccio del colore viola nel Pokédex.",
+        "Cloyster e la sua pre-evoluzione sono sembrati in grado di volare a mezz'aria in Pokémon Snap, un comportamento che non hanno mostrato da nessun'altra parte.",
+        "Shellder e Cloyster condividono lo stesso nome di specie con Clamperl: sono tutti noti come Pokémon bivalve."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cloyster.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "flat_name": "cloyster",
+    "generation": 1,
+    "height": {
+        "cloyster": "1.5 m"
+    },
+    "id": 91,
+    "name": "Cloyster",
+    "name_origin": "Il nome Cloyster può essere una combinazione di cloister , in cui si ritira o si apparta e oyster . Potrebbe anche essere una combinazione di clam  e oyster . ",
+    "origin": "Sembra essere basato su un bivalve, in particolare allo Spondylus, la testa è ovviamente basata su una perla nera. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cloyster",
+    "shape": "testa",
+    "specie": "Pokémon Bivalve",
+    "sprites": {
+        "cloyster": {
+            "default": "https://media.pokemoncentral.it/wiki/1/15/Homem0091.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d5/Homemsh0091.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5e/Artwork0091_RFVF.png"
+    },
+    "stats": {
+        "cloyster": {
+            "hp": 50,
+            "atk": 95,
+            "def": 180,
+            "spa": 85,
+            "spd": 45,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "cloyster": 525
+    },
+    "types": {
+        "cloyster": [
+            "Ghiaccio",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "cloyster": "132.5 kg"
+    }
+}

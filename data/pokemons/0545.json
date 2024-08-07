@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "scolipede": {
+            "primary": "Velenopunte",
+            "secondary": "Aiutinsetto",
+            "hidden": "Acceleratore"
+        }
+    },
+    "curiosities": [
+        "Scolipede rappresenta il mese di novembre nell'oroscopo di Unima.",
+        "In quinta generazione, insieme alla sua famiglia evolutiva possiede come abilità speciale Piedisvelti invece di Acceleratore. Se uno Scolipede con Piedisvelti viene trasferito dalla quinta generazione alla sesta generazione tramite il Pokétrasporto, acquisirà l'abilità Acceleratore.",
+        "Scolipede è il Pokémon di tipo Coleottero più alto.\n\tPrima della settima generazione era anche il Pokémon di tipo Coleottero più pesante, prima di essere superato da Buzzwole.\n\tPrima dell'ottava generazione era anche il Pokémon di tipo Veleno più pesante, prima di essere superato da Eternatus.",
+        "Prima della settima generazione era anche il Pokémon di tipo Coleottero più pesante, prima di essere superato da Buzzwole.",
+        "Prima dell'ottava generazione era anche il Pokémon di tipo Veleno più pesante, prima di essere superato da Eternatus."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/scolipede.mp3",
+    "dex_entries": {
+        "scolipede": {
+            "black": "Incalza la preda con movimenti rapidi e la attacca ripetutamente con le corna. Non si ferma fino al colpo di grazia.",
+            "white": "Avvelena il nemico conficcandogli nel corpo gli aculei che ha sul collo. Ha un carattere molto aggressivo.",
+            "black-2": "Trafigge la preda con gli aculei del collo e dopo averla immobilizzata la finisce con le sue tossine.",
+            "white-2": "Trafigge la preda con gli aculei del collo e dopo averla immobilizzata la finisce con le sue tossine.",
+            "x": "Trafigge la preda con gli aculei del collo e dopo averla immobilizzata la finisce con le sue tossine.",
+            "y": "Incalza la preda con movimenti rapidi e la attacca ripetutamente con le corna. Non si ferma fino al colpo di grazia.",
+            "omega-ruby": "Trafigge la preda con gli aculei del collo e dopo averla immobilizzata la finisce con le sue tossine.",
+            "alpha-sapphire": "Incalza la preda con movimenti rapidi e la attacca ripetutamente con le corna. Non si ferma fino al colpo di grazia.",
+            "sword": "Sbatte a terra la preda afferrandola con gli artigli del collo per poi infilzarla con le punte velenose.",
+            "shield": "Lotta ferocemente con Centiskorch per il controllo sul territorio. Il perdente diventa preda del vincitore."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "scolipede",
+    "generation": 5,
+    "height": {
+        "scolipede": "2.5 m"
+    },
+    "id": 545,
+    "name": "Scolipede",
+    "name_origin": "Scolipede potrebbe derivare dall'unione della parola centipede  o millipede  con la parola Scolopendra. Il suo nome giapponese, ペンドラー Pendror, deriva anch'esso da Scolopendra. ",
+    "origin": "Scolipede è ispirato su una Scolopendra, come la scolopendra gigante, una specie di millepiedi velenoso originario del sud-est asiatico. Il suo aspetto ricorda anche quello di un millepiedi gigante africano, o dell'antica Arthropleura. Inoltre la postura di Scolipede,la forma del suo corpo, e il fatto che si regga su quattro zampe, fanno pensare che abbia tratto almeno in parte ispirazione dei centauri. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Scolipede",
+    "shape": "insettoide",
+    "specie": "Pokémon Megapede",
+    "sprites": {
+        "scolipede": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2b/Homem0545.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0545.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/68/Artwork0545_NB.png"
+    },
+    "stats": {
+        "scolipede": {
+            "hp": 60,
+            "atk": 100,
+            "def": 89,
+            "spa": 55,
+            "spd": 69,
+            "spe": 112
+        }
+    },
+    "stats_sum": {
+        "scolipede": 485
+    },
+    "types": {
+        "scolipede": [
+            "Veleno",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "scolipede": "200.5 kg"
+    }
+}

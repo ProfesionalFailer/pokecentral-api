@@ -1,0 +1,97 @@
+{
+    "abilities": {
+        "diglett": {
+            "primary": "Sabbiavelo",
+            "secondary": "Trappoarena",
+            "hidden": "Silicoforza"
+        },
+        "forma-di-alola": {
+            "primary": "Sabbiavelo",
+            "secondary": "Boccolidoro",
+            "hidden": "Silicoforza"
+        }
+    },
+    "curiosities": [
+        "Nella versione beta di Pokémon Rosso e Blu, Diglett avrebbe dovuto mantenere il suo nome giapponese, \"Digda\", anche come nome inglese ; questa caratteristica è stata mantenuta nei giochi tedeschi.",
+        "Diglett ha la seconda statistica base di PS più bassa di tutti i Pokémon, dopo Shedinja.\n\tInoltre, ha la Difesa più bassa di tutti i Pokémon di tipo Terra.",
+        "Inoltre, ha la Difesa più bassa di tutti i Pokémon di tipo Terra.",
+        "Diglett e la sua evoluzione possono imparare Graffio, Lacerazione, Sfuriate, Ombrartigli e Taglio , nonostante non si vedano mai mani o artigli; inoltre possono imparare Aeroassalto, nonostante non si vedano mai alzarsi da terra.",
+        "In Pokémon Mystery Dungeon: Squadra Rossa e Squadra Blu, dopo la prima missione di Monte Acciaio, Diglett dice di avere dei piedi. Nella sedicesima edizione della Gazzetta PKMN le sue zampe vengono considerate come una delle sette meraviglie dei Pokémon, insieme agli svariati disegni di Arbok, l'interno del guscio di Forretress ed all'intelligenza della coda di Girafarig.",
+        "Diglett e Dugtrio condividono lo stesso nome della specie con Drilbur: sono tutti noti come Pokémon Talpa.",
+        "Fino a Pokémon Diamante e Perla, Diglett e Dugtrio potevano essere catturati solo nella Grotta Diglett.",
+        "Diglett, nonostante sia uno dei Pokémon più leggeri e più piccoli, ha l'abilità di accoppiarsi con Wailord, il Pokémon più grande; ciò è comparabile alla HSOWA.",
+        "Nel Corsostacoli del Pokéathlon, Diglett e Dugtrio vanno sottoterra piuttosto che saltare fuori da terra.",
+        "In Pokémon Nero e Bianco, quando Diglett e Dugtrio vengono mandati in campo, la loro animazione consiste semplicemente di una rapida comparsa su schermo, a differenza delle animazioni di tutti gli altri Pokémon che consistono in un movimento dall'alto  verso il terreno.",
+        "Diglett è il Pokémon più basso della prima generazione, essendo alto solo 20cm.\n\tÈ il Pokémon più basso e più leggero di tutti i Pokémon di tipo Terra.\n\tLa sua forma Alola è al pari di Klefki e Meltan il Pokémon di tipo Acciaio più leggero.",
+        "È il Pokémon più basso e più leggero di tutti i Pokémon di tipo Terra.",
+        "La sua forma Alola è al pari di Klefki e Meltan il Pokémon di tipo Acciaio più leggero.",
+        "Nei giochi, il verso di Diglett è molto simile a quello di Doduo.",
+        "In Pokémon Oro HeartGold e Argento SoulSilver, se Diglett è il Pokémon accompagnatore quando il giocatore entra in un Centro Pokémon per curare la squadra, anziché saltare sul balcone come tutti gli altri esso torna prima nella Poké Ball.",
+        "Nel Pokétrasporto, Diglett e Dugtrio corrono tra i cespugli al posto di saltare.",
+        "In Pokémon Stadium viene detto che Diglett può imparare Acido, cosa non vera.",
+        "Nonostante siano le uniche specie presenti nei cunicoli dei Grandi Sotterranei in Diamante Lucente e Perla Splendente, Diglett e Dugtrio non possono essere catturati o incontrati normalmente in nessuno dei Rifugi di Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/diglett.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "diglett",
+    "generation": 1,
+    "height": {
+        "diglett": "0.2 m"
+    },
+    "id": 50,
+    "name": "Diglett",
+    "name_origin": "Diglett deriva dalla combinazione del verbo inglese dig, scavare, e dal suffisso diminutivo -let. ",
+    "origin": "Diglett sembra molto simile alle talpe artificiali usate in Acchiappa la talpa, a cui c'è un riferimento nella sua frase a piena salute di Pokémon Mystery Dungeon: Squadra Rossa e Squadra Blu. C'è anche una somiglianza con i vermi. La forma di Alola potrebbe basarsi inoltre sui cosiddetti \"capelli di Pele\", un tipo di vetro vulcanico caratteristico dei vulcani hawaiani. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Diglett",
+    "shape": "testa e base",
+    "specie": "Pokémon Talpa",
+    "sprites": {
+        "diglett": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3e/Homem0050.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0050.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0050A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c1/Homemsh0050A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/dd/Artwork0050_RFVF.png"
+    },
+    "stats": {
+        "diglett": {
+            "hp": 10,
+            "atk": 55,
+            "def": 25,
+            "spa": 35,
+            "spd": 45,
+            "spe": 95
+        },
+        "forma-di-alola": {
+            "hp": 10,
+            "atk": 55,
+            "def": 30,
+            "spa": 35,
+            "spd": 45,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "diglett": 265,
+        "forma-di-alola": 265
+    },
+    "types": {
+        "diglett": [
+            "Terra"
+        ],
+        "forma-di-alola": [
+            "Terra",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "diglett": "0.8 kg",
+        "forma-di-alola": "1.0 kg"
+    }
+}

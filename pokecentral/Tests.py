@@ -29,12 +29,12 @@ class PokeTest:
             ]
 
         with open("private/pkm_down.txt", "w") as f:
-            f.writelines(results)
+            f.writelines([f"{i}\n" for i in results])
 
     @staticmethod
     def dump_some_mons():
         with open("private/pkm_down.txt", "r") as f:
-            lista = f.readlines()
+            lista = [i.strip("\n") for i in f.readlines()]
 
         while len(lista) != 0:
             id = lista[0]

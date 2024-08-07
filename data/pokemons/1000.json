@@ -6,7 +6,7 @@
     },
     "curiosities": [
         "Gholdengo, Slowbro di Galar e Slowking di Galar sono gli unici Pokémon ad ottenere un secondo tipo evolvendosi, ma che hanno il nuovo tipo come tipo primario anziché secondario.",
-        "Nonostante il suo nome giapponese, la sua immagine nel Pokédex e la sua capacità di creare una tavola da surf mentre attraversa l'acqua, Gholdengo non è in grado di imparare la mossa Surf."
+        "Nonostante il suo nome giapponese, la sua immagine nel Pokédex e la sua capacità di creare una tavola da surf mentre attraversa l'acqua, Gholdengo non è in grado di imparare la mossa Surf, probabilmente perché la mossa prevede di sollevare un'onda."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/gholdengo.mp3",
     "dex_entries": {
@@ -21,20 +21,19 @@
     "flat_name": "gholdengo",
     "generation": 9,
     "height": {
-        "gholdengo": "1,2 m"
+        "gholdengo": "1.2 m"
     },
     "id": 1000,
     "name": "Gholdengo",
     "name_origin": "Gholdengo potrebbe essere una combinazione di golden  e ghost . Surfugo potrebbe essere una combinazione di surf e gold . ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Gholdengo",
-    "shape": "None",
+    "shape": "bipedi",
     "specie": "Pokémon Tesoro",
     "sprites": {
         "gholdengo": {
             "default": "https://media.pokemoncentral.it/wiki/e/ea/Homem1000.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh1000.png",
-            "corporate": "https://media.pokemoncentral.it/wiki/e/e6"
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh1000.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork1000_SV.png"
     },
@@ -58,6 +57,6 @@
         ]
     },
     "weight": {
-        "gholdengo": "30,0 kg"
+        "gholdengo": "30.0 kg"
     }
 }

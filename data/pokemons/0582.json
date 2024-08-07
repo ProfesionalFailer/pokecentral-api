@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "vanillite": {
+            "primary": "Corpogelo",
+            "secondary": "Mantelneve",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Vanillite condivide la categoria con Glaceon. Sono entrambi noti come Pokémon Nevefresca.",
+        "Vanillite è il Pokémon di tipo Ghiaccio più leggero."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/vanillite.mp3",
+    "dex_entries": {
+        "vanillite": {
+            "black": "Il suo fiato è a -50°C. Fa nevicare tutto intorno, formando dei cristalli di neve.",
+            "white": "Pokémon nato da una stalattite che ha ricevuto l'energia del sole mattutino. Dorme sepolto sotto la neve.",
+            "black-2": "Pokémon nato da una stalattite che ha ricevuto l'energia del sole mattutino. La temperatura del fiato è di -50°C.",
+            "white-2": "Pokémon nato da una stalattite che ha ricevuto l'energia del sole mattutino. La temperatura del fiato è di -50°C.",
+            "x": "Il suo fiato è a -50°C. Fa nevicare tutto intorno, formando dei cristalli di neve.",
+            "y": "Pokémon nato da una stalattite che ha ricevuto l'energia del sole mattutino. Dorme sepolto sotto la neve.",
+            "omega-ruby": "Il suo fiato è a -50°C. Fa nevicare tutto intorno, formando dei cristalli di neve.",
+            "alpha-sapphire": "Pokémon nato da una stalattite che ha ricevuto l'energia del sole mattutino. Dorme sepolto sotto la neve.",
+            "sun": "Pokémon nato da una stalattite di ghiaccio. Con il suo fiato gelido forma cristalli di neve e fa nevicare.",
+            "moon": "Abbracciarlo dà una piacevole sensazione di freschezza. Per chi vive in regioni calde, è decisamente un Pokémon da tenere in casa.",
+            "ultra-sun": "Il suo fiato ha una temperatura di -50 °C. Quando si trova in un luogo caldo, il volume del suo corpo si riduce a poco a poco.",
+            "ultra-moon": "È nato dal desiderio di una stalattite che non voleva sciogliersi ai raggi del sole mattutino. La notte dorme immerso nella neve.",
+            "sword": "Non può vivere nei luoghi caldi. Fa nevicare esalando un alito gelido e poi si addormenta immerso nella neve che si è accumulata.",
+            "shield": "Si dice che sia nato da una stalattite di ghiaccio. Per crearsi un habitat adatto, congela l'ambiente intorno con il suo fiato a -50 °C."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "vanillite",
+    "generation": 5,
+    "height": {
+        "vanillite": "0.4 m"
+    },
+    "id": 582,
+    "name": "Vanillite",
+    "name_origin": "Il nome deriva dalla combinazione delle parole inglesi vanilla  e lite  oppure stalactite . ",
+    "origin": "Vanillite sembra essere basato su una palla di neve. Il suo aspetto ricorda anche quello di una coppetta di gelato di piccola taglia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Vanillite",
+    "shape": "testa e base",
+    "specie": "Pokémon Nevefresca",
+    "sprites": {
+        "vanillite": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d5/Homem0582.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/06/Homemsh0582.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0582_NB.png"
+    },
+    "stats": {
+        "vanillite": {
+            "hp": 36,
+            "atk": 50,
+            "def": 50,
+            "spa": 65,
+            "spd": 60,
+            "spe": 44
+        }
+    },
+    "stats_sum": {
+        "vanillite": 305
+    },
+    "types": {
+        "vanillite": [
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "vanillite": "5.7 kg"
+    }
+}

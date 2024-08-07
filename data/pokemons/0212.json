@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "scizor": {
+            "primary": "Aiutinsetto",
+            "secondary": "Tecnico",
+            "hidden": "Metalleggero"
+        },
+        "megascizor": {
+            "primary": "Tecnico"
+        }
+    },
+    "curiosities": [
+        "Scizor condivide la sua categoria con Kingler. Entrambi sono conosciuti come Pokémon Chela.\n\tTuttavia, Scizor era conosciuto come Pokémon Forbici in seconda generazione.",
+        "Tuttavia, Scizor era conosciuto come Pokémon Forbici in seconda generazione.",
+        "Nonostante abbiano statistiche di base diverse, Scyther e Scizor hanno entrambi un totale di statistiche di base di 500. Per questo motivo, Scizor è il primo Pokémon a non cambiare il totale delle sue statistiche di base durante l'evoluzione. Scyther è più veloce, mentre Scizor ha un Attacco e una Difesa più elevati.",
+        "MegaScizor è a pari merito con MegaPinsir, MegaHeracross e Genesect il Pokémon Coleottero con il totale delle statistiche di base più alto di tutti gli altri.",
+        "Scizor può essere visto come un parallelo di Steelix. Entrambi hanno forme pre-evolute di prima generazione ed entrambi si evolvono scambiandoli mentre tengono una Metalcoperta, assumendo il tipo Acciaio. Entrambi i Pokémon ottengono anche una megaevoluzione in sesta generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/scizor.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "scizor",
+    "generation": 2,
+    "height": {
+        "scizor": "1.8 m",
+        "megascizor": "2.0 m"
+    },
+    "id": 212,
+    "name": "Scizor",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi scissors, forbici, e razor, rasoio. Hassam è un'alterazione di 剪む hasamu, tagliare. ",
+    "origin": "Scizor è basato su una formica di fuoco, su una mantide e su un astice americano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Scizor",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Chela",
+    "sprites": {
+        "scizor": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7b/Homem0212.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/57/Homemsh0212.png"
+        },
+        "scizor-f": {
+            "default": "https://media.pokemoncentral.it/wiki/9/92/Homef0212.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homefsh0212.png"
+        },
+        "megascizor": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1d/Homem0212M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5c/Homemsh0212M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2b/Artwork0212_HGSS.png"
+    },
+    "stats": {
+        "scizor": {
+            "hp": 70,
+            "atk": 130,
+            "def": 100,
+            "spa": 55,
+            "spd": 80,
+            "spe": 65
+        },
+        "megascizor": {
+            "hp": 70,
+            "atk": 150,
+            "def": 140,
+            "spa": 65,
+            "spd": 100,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "scizor": 500,
+        "megascizor": 600
+    },
+    "types": {
+        "scizor": [
+            "Coleot",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "scizor": "118.0 kg",
+        "megascizor": "125.0 kg"
+    }
+}

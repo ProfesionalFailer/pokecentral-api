@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "mr-mime": {
+            "primary": "Antisuono",
+            "secondary": "Filtro",
+            "hidden": "Tecnico"
+        },
+        "forma-di-galar": {
+            "primary": "Spiritovivo",
+            "secondary": "Annullabarriere",
+            "hidden": "Corpogelo"
+        }
+    },
+    "curiosities": [
+        "Nonostante il suo nome inglese e quello francese facciano pensare che questo Pokémon sia esclusivamente maschio, può essere di entrambi i sessi.",
+        "Originariamente Mr. Mime aveva quattro dita per mano. Ne è stata aggiunta una in Pokémon Rosso Fuoco e Verde Foglia ed in tutti i giochi successivi.",
+        "Nel doppiaggio in lingua ebraica dell'anime, Mr. Mime è stato spesso confuso con un Pokémon di tipo Acqua in Israele, in quanto Mayim ha una pronuncia molto simile a Mime.",
+        "Mr. Mime è uno dei Pokémon con caratteri non alfabetici nel nome."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mr.mime.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "mr-mime",
+    "generation": 1,
+    "height": {
+        "mr-mime": "1.3 m",
+        "forma-di-galar": "1.4 m"
+    },
+    "id": 122,
+    "name": "Mr. Mime",
+    "name_origin": "Il nome Mr. Mime è formato dalle parole Mr. abbreviazione di mister  e Mime , nonostante il nome possa far intuire che il Pokémon sia esclusivamente maschile in realtà gli esemplari femminili e maschili sono diffusi in modo equo, tuttavia il nome gli fu dato prima che le meccaniche di genere fossero create. ",
+    "origin": "Mr. Mime si basa sui mimi e sui clown, la sua capacità di creare barriere invisibile è un riferimento all'arte della pantomima, in cui i mimi fingono di chiudersi in delle scatole invisibili. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mr._Mime",
+    "shape": "bipedi",
+    "specie": "Pokémon Barriera",
+    "sprites": {
+        "mr-mime": {
+            "default": "https://media.pokemoncentral.it/wiki/f/ff/Homem0122.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/66/Homemsh0122.png"
+        },
+        "forma-di-galar": {
+            "default": "https://media.pokemoncentral.it/wiki/0/02/Homem0122G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0122G.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ec/Artwork0122_RFVF.png"
+    },
+    "stats": {
+        "mr-mime": {
+            "hp": 40,
+            "atk": 45,
+            "def": 65,
+            "spa": 100,
+            "spd": 120,
+            "spe": 90
+        },
+        "forma-di-galar": {
+            "hp": 50,
+            "atk": 65,
+            "def": 65,
+            "spa": 90,
+            "spd": 90,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "mr-mime": 460,
+        "forma-di-galar": 460
+    },
+    "types": {
+        "mr-mime": [
+            "Psico",
+            "Folletto"
+        ],
+        "forma-di-galar": [
+            "Psico",
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "mr-mime": "54.5 kg",
+        "forma-di-galar": "56.8 kg"
+    }
+}

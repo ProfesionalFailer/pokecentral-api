@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "noctowl": {
+            "primary": "Insonnia",
+            "secondary": "Sguardofermo",
+            "hidden": "Lentifumé"
+        }
+    },
+    "curiosities": [
+        "Noctowl e la sua pre-evoluzione possono imparare Flash nelle generazioni II e III, ma non in quelle successive.",
+        "Noctowl è stato il primo Pokémon cromatico ad apparire nella serie animata.",
+        "Nonostante impari moltissime mosse di tipo Psico tramite livello, e che sia dotato di poteri particolari come la visione notturna, non è di tipo Psico."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/noctowl.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "noctowl",
+    "generation": 2,
+    "height": {
+        "noctowl": "1.6 m"
+    },
+    "id": 164,
+    "name": "Noctowl",
+    "name_origin": "Il nome deriva dalla combinazione delle parole inglesi nocturnal  e owl . Potrebbe anche derivare dalla parola latina Noctuǎ . ",
+    "origin": "Basato su un gufo cornuto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Noctowl",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Gufo",
+    "sprites": {
+        "noctowl": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f4/Homem0164.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ac/Homemsh0164.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6a/Artwork0164_HGSS.png"
+    },
+    "stats": {
+        "noctowl": {
+            "hp": 100,
+            "atk": 50,
+            "def": 50,
+            "spa": 86,
+            "spd": 96,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "noctowl": 452
+    },
+    "types": {
+        "noctowl": [
+            "Volante",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "noctowl": "40.8 kg"
+    }
+}

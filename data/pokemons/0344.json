@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "claydol": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "Claydol e la sua pre-evoluzione Baltoy sono gli unici Pokémon possedenti il doppio tipo Terra/Psico.",
+        "In quinta generazione il colore di Claydol è leggermente più scuro rispetto alle altre.",
+        "Claydol ha la più alta statistica base di Difesa Speciale di tutti i Pokémon di tipo Terra."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/claydol.mp3",
+    "dex_entries": {
+        "claydol": {
+            "ruby": "Pare che Claydol sia una bambola d'argilla creata dall'uomo primitivo e portata in vita grazie all'esposizione a misteriose radiazioni. Questo Pokémon si muove per levitazione.",
+            "sapphire": "Claydol rimane ancora un mistero: comparve da una statua d'argilla creata da un popolo antico 20.000 anni fa. Questo Pokémon emette radiazioni dai propri arti superiori.",
+            "emerald": "Claydol dorme fluttuando a mezz'aria. I suoi arti superiori sono separati dal corpo e pare che riesca a mantenerli sospesi grazie ai suoi poteri psichici.",
+            "firered": "Pare che sia nato da un'antica bambola di argilla. Si solleva e si sposta usando la telecinesi.",
+            "leafgreen": "Pare che sia nato da un'antica bambola di argilla. Si solleva e si sposta usando la telecinesi.",
+            "diamond": "Pokémon nato da un'antica statuetta d'argilla portata in vita da misteriose radiazioni.",
+            "pearl": "Pokémon nato da un'antica statuetta d'argilla portata in vita da misteriose radiazioni.",
+            "platinum": "Pokémon nato da un'antica statuetta d'argilla portata in vita da misteriose radiazioni.",
+            "heartgold": "Si tramanda che sia una statuetta d'argilla creata dagli antichi 20000 anni fa che ha preso vita.",
+            "soulsilver": "Si tramanda che sia una statuetta d'argilla creata dagli antichi 20000 anni fa che ha preso vita.",
+            "black": "Pokémon nato da un'antica statuetta d'argilla portata in vita da misteriose radiazioni.",
+            "white": "Pokémon nato da un'antica statuetta d'argilla portata in vita da misteriose radiazioni.",
+            "black-2": "È un Pokémon enigmatico nato da un'antica statuetta d'argilla costruita dagli antichi 20.000 anni or sono.",
+            "white-2": "È un Pokémon enigmatico nato da un'antica statuetta d'argilla costruita dagli antichi 20.000 anni or sono.",
+            "x": "Pokémon nato da un'antica statuetta d'argilla portata in vita da misteriose radiazioni.",
+            "y": "Si tramanda che sia una statuetta d'argilla creata dagli antichi 20.000 anni fa che ha preso vita.",
+            "omega-ruby": "Pare che Claydol sia una bambola d'argilla creata dall'uomo primitivo e portata in vita grazie all'esposizione a misteriose radiazioni. Questo Pokémon si muove per levitazione.",
+            "alpha-sapphire": "Claydol rimane ancora un mistero: comparve da una statua d'argilla creata da un popolo antico 20.000 anni fa. Questo Pokémon emette radiazioni dai propri arti superiori.",
+            "ultra-sun": "Se si bagna, si scioglie. Quando piove, si protegge usando i suoi poteri psichici.",
+            "ultra-moon": "Sembra che sia stato creato da un popolo antico ispirandosi a qualcosa di misterioso caduto dal cielo. Emette raggi dagli arti superiori.",
+            "sword": "Un Pokémon enigmatico nato da una statuetta d'argilla costruita dagli antichi 20.000 anni or sono.",
+            "shield": "Pare che sia nato da un'antica bambola di argilla. Si sposta levitando a mezz'aria grazie alla telecinesi.",
+            "brilliant-diamond": "È nato da un'antica statuetta d'argilla portata in vita da misteriose radiazioni.",
+            "shining-pearl": "È nato da un'antica statuetta d'argilla portata in vita da misteriose radiazioni."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "claydol",
+    "generation": 3,
+    "height": {
+        "claydol": "1.5 m"
+    },
+    "id": 344,
+    "name": "Claydol",
+    "name_origin": "Il nome proviene dall'inglese clay  e doll  o idol . Questo probabilmente si riferisce all'aspetto e al tipo Terra di Claydol. Potrebbe derivare, seguendo la sua pronuncia, anche da dreidel. ",
+    "origin": "Basato sul dogū, idolo in argilla giapponese del periodo Jōmon. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Claydol",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Argilla",
+    "sprites": {
+        "claydol": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9a/Homem0344.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homemsh0344.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7e/Artwork0344_RZ.png"
+    },
+    "stats": {
+        "claydol": {
+            "hp": 60,
+            "atk": 70,
+            "def": 105,
+            "spa": 70,
+            "spd": 120,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "claydol": 500
+    },
+    "types": {
+        "claydol": [
+            "Psico",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "claydol": "108.0 kg"
+    }
+}

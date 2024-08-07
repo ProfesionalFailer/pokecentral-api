@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "krookodile": {
+            "primary": "Prepotenza",
+            "secondary": "Arroganza",
+            "hidden": "Grancollera"
+        }
+    },
+    "curiosities": [
+        "Fino alla nona generazione, nessun Pokémon aveva la stessa combinazione di tipi di Krookodile e la sua linea evolutiva.",
+        "Krookodile è l'unico Pokémon con la somma delle statistiche base equivalente a 519."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/krookodile.mp3",
+    "dex_entries": {
+        "krookodile": {
+            "black": "Una volta che l'ha presa, non si lascia più sfuggire la preda. Ha delle mandibole in grado di fare a pezzi un'automobile.",
+            "white": "Ha degli occhi simili a binocoli, che gli permettono di vedere le cose in lontananza ingrandite.",
+            "black-2": "È un Pokémon molto feroce. Attacca tutto ciò che gli si para davanti, prendendolo a morsi.",
+            "white-2": "È un Pokémon molto feroce. Attacca tutto ciò che gli si para davanti, prendendolo a morsi.",
+            "x": "È un Pokémon molto feroce. Attacca tutto ciò che gli si para davanti, prendendolo a morsi.",
+            "y": "Una volta che l'ha presa, non si lascia più sfuggire la preda. Ha delle mandibole in grado di fare a pezzi un'automobile.",
+            "omega-ruby": "È un Pokémon molto feroce. Attacca tutto ciò che gli si para davanti, prendendolo a morsi.",
+            "alpha-sapphire": "Una volta che l'ha presa, non si lascia più sfuggire la preda. Ha delle mandibole in grado di fare a pezzi un'automobile.",
+            "sun": "I suoi occhi gli permettono di individuare prede minuscole a 50 km di distanza persino nelle tempeste di sabbia.",
+            "moon": "Cattura la preda con le possenti mandibole e la serra con forza fino a tranciarla.",
+            "ultra-sun": "Individua la preda anche a 50 km di distanza e avanza verso di essa come se nuotasse nella sabbia per poi balzarle addosso e azzannarla.",
+            "ultra-moon": "Si nasconde nelle tempeste di sabbia create dai Flygon aspettando immobile che passi una preda.",
+            "sword": "Viene chiamato \"Tiranno del deserto\". Grazie alle possenti mascelle è in grado di fare a pezzi spesse lastre di metallo senza sforzo.",
+            "shield": "È un Pokémon molto feroce. Quando si tratta di catturare le prede è in grado di aspettare pazientemente nella sabbia per giorni.",
+            "scarlet": "Cattura la preda con le possenti mandibole e torce il proprio corpo con tutte le forze fino a tranciarla.",
+            "violet": "I suoi occhi gli permettono di individuare prede minuscole a 50 km di distanza persino nelle tempeste di sabbia."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "krookodile",
+    "generation": 5,
+    "height": {
+        "krookodile": "1.5 m"
+    },
+    "id": 553,
+    "name": "Krookodile",
+    "name_origin": "Il nome Krookodile potrebbe derivare dall'insieme delle parole inglesi crook  e crocodile . ",
+    "origin": "Krookodile sembrerebbe essere basato sul barionice, sul gaviale del Gange, sul coccodrillo catafratto e sul caimano dagli occhiali. Le strisce nere sul suo corpo, la colorazione nera attorno agli occhi e il suo comportamento generalmente aggressivo lo rendono lo stereotipo di un criminale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Krookodile",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Minaccia",
+    "sprites": {
+        "krookodile": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bc/Homem0553.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homemsh0553.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9c/Artwork0553_NB.png"
+    },
+    "stats": {
+        "krookodile": {
+            "hp": 95,
+            "atk": 117,
+            "def": 80,
+            "spa": 65,
+            "spd": 70,
+            "spe": 92
+        }
+    },
+    "stats_sum": {
+        "krookodile": 519
+    },
+    "types": {
+        "krookodile": [
+            "Buio",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "krookodile": "96.3 kg"
+    }
+}

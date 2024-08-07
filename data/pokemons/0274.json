@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "nuzleaf": {
+            "primary": "Clorofilla",
+            "secondary": "Sveglialampo",
+            "hidden": "Arraffalesto"
+        }
+    },
+    "curiosities": [
+        "Nuzleaf ha la stessa categoria di Impidimp: entrambi sono classificati come Pokémon Scaltro.",
+        "Nonostante alcune voci Pokédex affermino che può usare la foglia sulla testa come un flauto, Nuzleaf non può imparare Meloderba.",
+        "Un Nuzleaf con la faccia del personaggio di Lost John Locke è un personaggio ricorrente della serie webcomic Nuzlocke e la mascotte non ufficiale della Nuzlocke Challenge."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/nuzleaf.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo",
+        "Erba"
+    ],
+    "flat_name": "nuzleaf",
+    "generation": 3,
+    "height": {
+        "nuzleaf": "1.00 m"
+    },
+    "id": 274,
+    "name": "Nuzleaf",
+    "name_origin": "\"Nuzleaf\" può essere una combinazione di \"nuzzle\"  o \"nose\"  e \"leaf\" . \"Konohana\" può essere una combinazione di 子 \"ko\" , 木の葉 \"konoha\"  e 鼻 \"hana\" . Potrebbe anche provenire dal Konoha-Tengu, un tipo di tengu debole che non ha molti poteri. ",
+    "origin": "Nuzleaf sembra essere basato su una ghianda in germoglio e su un tengu, yōkai giapponese con il naso lungo che usa i suoi poteri soprannaturali per proteggere le foreste e fare scherzi crudeli alle persone. Potrebbe anche essere in parte basato sugli shibatengu, dal nome simile, ovvero yōkai infantili che indossano pochi vestiti e fanno lotte di sumo con gli umani. La sua abitudine di suonare un flauto d'erba ricorda Pan, il dio greco della natura noto per suonare il suo particolare flauto. Il suo corpo legnoso e umanoide e il suo naso lungo ricordano anche Pinocchio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Nuzleaf",
+    "shape": "bipedi",
+    "specie": "Pokémon Scaltro",
+    "sprites": {
+        "nuzleaf": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0274.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0274.png"
+        },
+        "nuzleaf-f": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0a/Homef0274.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homefsh0274.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d8/Artwork0274_RZ.png"
+    },
+    "stats": {
+        "nuzleaf": {
+            "hp": 70,
+            "atk": 70,
+            "def": 40,
+            "spa": 60,
+            "spd": 40,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "nuzleaf": 340
+    },
+    "types": {
+        "nuzleaf": [
+            "Buio",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "nuzleaf": "28.0 kg"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "venipede": {
+            "primary": "Velenopunte",
+            "secondary": "Aiutinsetto",
+            "hidden": "Acceleratore"
+        }
+    },
+    "curiosities": [
+        "Sebbene in una voce del Pokédex venga detto che inietta un veleno potente attraverso il morso, non può imparare la mossa Velenodenti.",
+        "Insieme a Gastly è il Pokémon di tipo Veleno con la statistica PS più bassa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/venipede.mp3",
+    "dex_entries": {
+        "venipede": {
+            "black": "Mordendo, inietta un veleno potente. Anche i grandi Pokémon uccello, suoi predatori, ne rimangono paralizzati.",
+            "white": "Sonda l'ambiente circostante con le antenne del capo e della coda. Ha un carattere estremamente collerico.",
+            "black-2": "Individua la posizione e lo stato della preda percependo le vibrazioni dell'aria con le antenne del capo e della coda.",
+            "white-2": "Individua la posizione e lo stato della preda percependo le vibrazioni dell'aria con le antenne del capo e della coda.",
+            "x": "Sonda l'ambiente circostante con le antenne del capo e della coda. Ha un carattere estremamente collerico.",
+            "y": "Mordendo, inietta un veleno potente. Anche i grandi Pokémon uccello, suoi predatori, ne rimangono paralizzati.",
+            "omega-ruby": "Sonda l'ambiente circostante con le antenne del capo e della coda. Ha un carattere estremamente collerico.",
+            "alpha-sapphire": "Mordendo, inietta un veleno potente. Anche i grandi Pokémon uccello, suoi predatori, ne rimangono paralizzati.",
+            "sword": "Appartiene a una specie simile a quella di Sizzlipede, ma se le loro strade si incrociano si scatena il finimondo.",
+            "shield": "Le sue zanne contengono un potente veleno. Se trova una preda che pensa di poter mangiare, la assale senza pensare alle conseguenze."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "venipede",
+    "generation": 5,
+    "height": {
+        "venipede": "0.4 m"
+    },
+    "id": 543,
+    "name": "Venipede",
+    "name_origin": "Venipede deriva da venom  e centipede o millipede , entrambi artropodi della super classe Myriapoda. ",
+    "origin": "Venipede è basato su un millepiedi o un chilopode, anche se ha delle somiglianze con gli artropodi del sottordine degli Oniscidea o del superordine dei Oniscomorpha, come un porcellino di terra o un altro crostaceo della famiglia delle Armadillidiidae. Tuttavia, assomiglia di più al Glomeris marginata verde . ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Venipede",
+    "shape": "insettoide",
+    "specie": "Pokémon Centipede",
+    "sprites": {
+        "venipede": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6b/Homem0543.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0543.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/19/Artwork0543_NB.png"
+    },
+    "stats": {
+        "venipede": {
+            "hp": 30,
+            "atk": 45,
+            "def": 59,
+            "spa": 30,
+            "spd": 39,
+            "spe": 57
+        }
+    },
+    "stats_sum": {
+        "venipede": 260
+    },
+    "types": {
+        "venipede": [
+            "Veleno",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "venipede": "5.3 kg"
+    }
+}

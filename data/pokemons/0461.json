@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "weavile": {
+            "primary": "Pressione",
+            "hidden": "Arraffalesto"
+        }
+    },
+    "curiosities": [
+        "Prima della nona generazione, Weavile e la sua pre-evoluzione Sneasel erano gli unici Pokémon possedenti il doppio tipo Buio/Ghiaccio.",
+        "Weavile pesa tanto quanto Lucinda. Condivide questa peculiarità con Porygon-Z e Marowak di Alola."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/weavile.mp3",
+    "dex_entries": {
+        "weavile": {
+            "diamond": "Questi Pokémon vivono in zone fredde in gruppi di quattro o cinque. Insieme sono cacciatori abilissimi.",
+            "pearl": "Lascia segnali per i suoi simili incidendo misteriosi disegni nel ghiaccio e su alberi gelati.",
+            "platinum": "L'evoluzione lo ha reso ancora più subdolo. Comunica incidendo segni nei massi.",
+            "heartgold": "Il suo habitat sono le grandi aree innevate. Con gli artigli, incide sui tronchi segnali per i suoi simili.",
+            "soulsilver": "Il suo habitat sono le grandi aree innevate. Con gli artigli, incide sui tronchi segnali per i suoi simili.",
+            "black": "L'evoluzione lo ha reso ancora più subdolo. Comunica incidendo segni nei massi.",
+            "white": "L'evoluzione lo ha reso ancora più subdolo. Comunica incidendo segni nei massi.",
+            "black-2": "Comunicano con i compagni incidendo dei messaggi sulle rocce con gli artigli. Con questa tattica, circondano i nemici.",
+            "white-2": "Comunicano con i compagni incidendo dei messaggi sulle rocce con gli artigli. Con questa tattica, circondano i nemici.",
+            "x": "Il suo habitat sono le grandi aree innevate. Con gli artigli, incide sui tronchi segnali per i suoi simili.",
+            "y": "Questi Pokémon vivono in zone fredde in gruppi di quattro o cinque. Insieme sono cacciatori abilissimi.",
+            "omega-ruby": "Il suo habitat sono le grandi aree innevate. Con gli artigli, incide sui tronchi segnali per i suoi simili.",
+            "alpha-sapphire": "Questi Pokémon vivono in zone fredde in gruppi di quattro o cinque. Insieme sono cacciatori abilissimi.",
+            "sun": "Si muove in gruppi di quattro o cinque individui. Durante la caccia, si coordina con i compagni lasciando dei segni sulle rocce o sugli alberi.",
+            "moon": "È un Pokémon che vive nelle zone fredde. Ad Alola caccia i Vulpix e i Sandshrew, dividendo le prede con i suoi compagni.",
+            "ultra-sun": "Caccia in coppia: un Weavile fa cadere Sandshrew mandandolo a gambe all’aria mentre un altro dà il colpo di grazia con gli artigli affilati.",
+            "ultra-moon": "Si è fatto furbo e non ha più bisogno di lottare per il cibo. Il tocco dei suoi artigli provoca dei geloni.",
+            "sword": "Caccia in gruppo. Grazie al lavoro di squadra riesce ad avere la meglio anche su prede di grossa taglia come i Mamoswine.",
+            "shield": "Comunica con i suoi simili tramite i segni che traccia con le unghie. Si dice che esistano più di 500 segni diversi.",
+            "brilliant-diamond": "Vivono in zone fredde in gruppi di quattro o cinque. Abbattono le prede sfruttando la loro intesa perfetta.",
+            "shining-pearl": "Lascia segnali per i suoi simili incidendo motivi misteriosi sul ghiaccio e sui tronchi degli alberi.",
+            "legends-arceus": "Forma gruppi per braccare le prede sotto l'egida di un leader. Si crede che l'evoluzione abbia favorito lo sviluppo dell'encefalo, rendendolo più scaltro.",
+            "scarlet": "L’evoluzione lo ha reso ancora più subdolo. Comunica incidendo segni sui massi con i suoi artigli.",
+            "violet": "Si muove in gruppi di quattro o cinque individui. Durante la caccia, si coordina con i compagni lasciando dei segni sulle rocce e sugli alberi."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "weavile",
+    "generation": 4,
+    "height": {
+        "weavile": "1.1 m"
+    },
+    "id": 461,
+    "name": "Weavile",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi weasel  e vile . Il suo nome giapponese, マニューラ Manyūra, potrebbe derivare dall'unione della parola 魔 ma , 潜入 sennyū , ニャー nya  e 鼬 yū . Potrebbe anche derivare da 野良 nora . ",
+    "origin": "Weavile si basa su una donnola. È probabilmente ispirato, così come la sua pre-evoluzione, a un kamaitachi, creatura mitologica del folklore nipponico. Ha molte caratteristiche che ricordano lo stile egiziano, e potrebbe essere per questo ispirato alla dea gatto egizia Bastet. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Weavile",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Lamartigli",
+    "sprites": {
+        "weavile": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6f/Homem0461.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0461.png"
+        },
+        "weavile-f": {
+            "default": "https://media.pokemoncentral.it/wiki/0/02/Homef0461.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homefsh0461.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/29/Artwork0461_DP.png"
+    },
+    "stats": {
+        "weavile": {
+            "hp": 70,
+            "atk": 120,
+            "def": 65,
+            "spa": 45,
+            "spd": 85,
+            "spe": 125
+        }
+    },
+    "stats_sum": {
+        "weavile": 510
+    },
+    "types": {
+        "weavile": [
+            "Buio",
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "weavile": "34.0 kg"
+    }
+}

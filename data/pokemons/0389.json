@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "torterra": {
+            "primary": "Erbaiuto",
+            "hidden": "Guscioscudo"
+        }
+    },
+    "curiosities": [
+        "Torterra condivide la categoria con Groudon. Entrambi sono noti come Pokémon Continente.\n\tInoltre, entrambi condividono il colore della forma cromatica, ovvero Giallo-Verde, che potrebbe essere un riferimento all'elettrotecnica in cui il conduttore di protezione viene comunemente chiamato Terra e ha un colore Giallo-Verde.",
+        "Inoltre, entrambi condividono il colore della forma cromatica, ovvero Giallo-Verde, che potrebbe essere un riferimento all'elettrotecnica in cui il conduttore di protezione viene comunemente chiamato Terra e ha un colore Giallo-Verde.",
+        "Torterra ha la Difesa più alta di tutti i Pokémon iniziali pienamente evoluti.",
+        "Torterra ha la velocità più bassa di tutti i Pokémon iniziali pienamente evoluti.\n\tHa anche il totale di statistiche più basso dei Pokémon iniziali pienamente evoluti. Condivide questo tratto con Venusaur e Meganium.",
+        "Ha anche il totale di statistiche più basso dei Pokémon iniziali pienamente evoluti. Condivide questo tratto con Venusaur e Meganium.",
+        "Torterra è il Pokémon iniziale pienamente evoluto più pesante.",
+        "Quando si cammina verso destra nel Parco Concordia, lo sprite di Torterra mostra il lato sinistro del Pokémon, ma dovrebbe essere il contrario.",
+        "La colorazione di Torterra è cambiata leggermente in Pokémon Oro HeartGold e Argento SoulSilver. Questo è accaduto anche con Registeel, Chimchar, Stunky, Skuntank, Glameow, Purugly e Chatot.",
+        "Fino alla settima generazione , Torterra era il Pokémon di tipo Erba più pesante. Poi è stato superato da Exeggutor di Alola.",
+        "Le famiglie evolutive di Turtwig e Oshawott sono le uniche di Pokémon iniziali che condividono l'abilità speciale, Guscioscudo.",
+        "Benché Torterra possieda come secondo tipo il tipo Terra, è in grado di imparare salendo di livello solo una mossa di questo tipo: Terremoto.",
+        "Un Torterra con Pietrataglio copre tutte le sue debolezze. Tutti i tipi a cui Torterra è debole sono a loro volta deboli a Roccia."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/torterra.mp3",
+    "dex_entries": {
+        "torterra": {
+            "diamond": "Piccoli Pokémon si radunano talvolta sul suo dorso immobile per costruirvi la loro tana.",
+            "pearl": "Gruppi di questi Pokémon che migrano in cerca di acqua sono stati scambiati per “Foreste viventi”.",
+            "platinum": "Sul dorso di TORTERRA nascono Pokémon che vi trascorrono tutta la vita.",
+            "heartgold": "In tempi antichissimi la gente pensava che sottoterra ci fossero dei giganteschi TORTERRA.",
+            "soulsilver": "In tempi antichissimi la gente pensava che sottoterra ci fossero dei giganteschi TORTERRA.",
+            "black": "Sul dorso di Torterra nascono Pokémon che vi trascorrono tutta la vita.",
+            "white": "Sul dorso di Torterra nascono Pokémon che vi trascorrono tutta la vita.",
+            "black-2": "Sul dorso di Torterra nascono Pokémon che vi trascorrono tutta la vita.",
+            "white-2": "Sul dorso di Torterra nascono Pokémon che vi trascorrono tutta la vita.",
+            "x": "In tempi antichissimi la gente pensava che sottoterra ci fossero dei giganteschi Torterra.",
+            "y": "Piccoli Pokémon si radunano talvolta sul suo dorso immobile per costruirvi la loro tana.",
+            "omega-ruby": "In tempi antichissimi la gente pensava che sottoterra ci fossero dei giganteschi Torterra.",
+            "alpha-sapphire": "Piccoli Pokémon si radunano talvolta sul suo dorso immobile per costruirvi la loro tana.",
+            "brilliant-diamond": "Pokémon di piccole dimensioni si radunano talvolta sul suo dorso immobile per costruirvi la loro tana",
+            "shining-pearl": "Gruppi di questi Pokémon che migrano in cerca di acqua sono stati scambiati per foreste viventi.",
+            "legends-arceus": "Lodevole gigante dall'impareggiabile forza, le cui fattezze evocano ameni paesaggi bucolici. Percorre monti e piane in cerca di acqua pura."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Erba"
+    ],
+    "flat_name": "torterra",
+    "generation": 4,
+    "height": {
+        "torterra": "2.2 m"
+    },
+    "id": 389,
+    "name": "Torterra",
+    "name_origin": "Torterra è una combinazione di tortoise, tartaruga, testuggine, e terra, dall'italiano o dal latino. Inoltre, ha delle somiglianze simile con le parole terrapins, un tipo di tartaruga d'acqua dolce, tuatara e totara, un tipo di podocarpus. ",
+    "origin": "Presenta gli aspetti di una tartaruga alligatore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Torterra",
+    "shape": "quadrupede",
+    "specie": "Pokémon Continente",
+    "sprites": {
+        "torterra": {
+            "default": "https://media.pokemoncentral.it/wiki/7/75/Homem0389.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/15/Homemsh0389.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bf/Artwork0389_DP.png"
+    },
+    "stats": {
+        "torterra": {
+            "hp": 95,
+            "atk": 109,
+            "def": 105,
+            "spa": 75,
+            "spd": 85,
+            "spe": 56
+        }
+    },
+    "stats_sum": {
+        "torterra": 525
+    },
+    "types": {
+        "torterra": [
+            "Terra",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "torterra": "310.0 kg"
+    }
+}

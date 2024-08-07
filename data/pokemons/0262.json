@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "mightyena": {
+            "primary": "Prepotenza",
+            "secondary": "Piedisvelti",
+            "hidden": "Arroganza"
+        }
+    },
+    "curiosities": [
+        "Nonostante nei giochi sia sempre stato raffigurato con il naso rosso, le prime illustrazioni di Mightyena, inclusa una prima versione dell'artwork ufficiale di Ken Sugimori e nelle prime illustrazioni del GCC, mostrano il Pokémon con un naso nero. Questo dettaglio nelle immagini è stato in seguito aggiornato.\n\tNonostante nel sito ufficiale giapponese l'immagine sia quella corretta col naso rosso, sui siti occidentali è ancora presente l'immagine col naso nero.",
+        "Nonostante nel sito ufficiale giapponese l'immagine sia quella corretta col naso rosso, sui siti occidentali è ancora presente l'immagine col naso nero.",
+        "Mightyena e la sua forma pre-evoluta Poochyena condividono la loro categoria con Drednaw. Sono infatti conosciuti come Pokémon Morso."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mightyena.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "mightyena",
+    "generation": 3,
+    "height": {
+        "mightyena": "1.0 m"
+    },
+    "id": 262,
+    "name": "Mightyena",
+    "name_origin": "Deriva dall'unione dell'aggettivo inglese \"mighty\"  con \"hyena\" . ",
+    "origin": "Condivide alcune somiglianze con cani e iene. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mightyena",
+    "shape": "quadrupede",
+    "specie": "Pokémon Morso",
+    "sprites": {
+        "mightyena": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c5/Homem0262.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/52/Homemsh0262.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5a/Artwork0262_RZ.png"
+    },
+    "stats": {
+        "mightyena": {
+            "hp": 70,
+            "atk": 90,
+            "def": 70,
+            "spa": 60,
+            "spd": 60,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "mightyena": 420
+    },
+    "types": {
+        "mightyena": [
+            "Buio"
+        ]
+    },
+    "weight": {
+        "mightyena": "37 kg"
+    }
+}

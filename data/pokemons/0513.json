@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "pansear": {
+            "primary": "Voracità",
+            "hidden": "Aiutofuoco"
+        }
+    },
+    "curiosities": [
+        "Pansear di Chicco"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pansear.mp3",
+    "dex_entries": {
+        "pansear": {
+            "black": "Se si arrabbia, il ciuffo che ha sul capo raggiunge la temperatura di 300°C. Lo usa anche per arrostire le bacche.",
+            "white": "Vive nelle grotte vulcaniche. L'interno del ciuffo che ha in testa brucia a una temperatura di 300°C.",
+            "black-2": "È molto intelligente e ha l'abitudine di arrostire le bacche prima di mangiarle. Adora aiutare gli esseri umani.",
+            "white-2": "È molto intelligente e ha l'abitudine di arrostire le bacche prima di mangiarle. Adora aiutare gli esseri umani.",
+            "x": "È molto intelligente e ha l'abitudine di arrostire le bacche prima di mangiarle. Adora aiutare gli esseri umani.",
+            "y": "Vive nelle grotte vulcaniche. L'interno del ciuffo che ha in testa brucia a una temperatura di 300°C.",
+            "omega-ruby": "È molto intelligente e ha l'abitudine di arrostire le bacche prima di mangiarle. Adora aiutare gli esseri umani.",
+            "alpha-sapphire": "Vive nelle grotte vulcaniche. L'interno del ciuffo che ha in testa brucia a una temperatura di 300°C."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "pansear",
+    "generation": 5,
+    "height": {
+        "pansear": "0.6 m"
+    },
+    "id": 513,
+    "name": "Pansear",
+    "name_origin": "Il nome deriva dalla combinazione della parola pan  con la parola inglese sear  oppure ear . ",
+    "origin": "È basato su una scimmia e su una fiamma. Insieme a Pansage e a Panpour si ispira alle tre scimmie sagge del santuario di Nikko. Pansear rappresenta Kikazaru, la scimmia che \"Non sente il Male\", per questo spesso viene rappresentata con la zampa sull'orecchio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pansear",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Testacalda",
+    "sprites": {
+        "pansear": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9f/Homem0513.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/53/Homemsh0513.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9a/Artwork0513_NB.png"
+    },
+    "stats": {
+        "pansear": {
+            "hp": 50,
+            "atk": 53,
+            "def": 48,
+            "spa": 53,
+            "spd": 48,
+            "spe": 64
+        }
+    },
+    "stats_sum": {
+        "pansear": 316
+    },
+    "types": {
+        "pansear": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "pansear": "11.0 kg"
+    }
+}

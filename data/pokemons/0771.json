@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "pyukumuku": {
+            "primary": "Espellinterno",
+            "hidden": "Imprudenza"
+        }
+    },
+    "curiosities": [
+        "Pyukumuku è, a pari merito con Munchlax e Shuckle, il Pokémon più lento in assoluto, con appena 5 punti di velocità.",
+        "Pyukumuku non impara mosse speciali in alcun modo e impara solo due mosse che arrecano danno solo per livello.",
+        "Pyukumuku è l'unico Pokémon in grado di apprendere MT oltre a mosse che impara salendo di livello, ma non può imparare Introforza, Ritorno e Frustrazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pyukumuku.mp3",
+    "dex_entries": {
+        "pyukumuku": {
+            "sun": "Vive nei pressi delle spiagge e in acque poco profonde. Espelle gli organi interni per catturare le prede e attaccare i nemici.",
+            "moon": "Vive in gruppi numerosi nei pressi delle spiagge. Il liquido vischioso che ne ricopre il corpo è una perfetta lozione doposole.",
+            "ultra-sun": "L'abitudine di ributtare in mare gli esemplari spiaggiati ha dato origine a una vera e propria tradizione.",
+            "ultra-moon": "Il suo intero corpo è ricoperto da un fluido vischioso. Chi lo calpesta scivola a terra e si prende anche un pugno.",
+            "sword": "Vive vicino alle spiagge in acque calde e poco profonde. Quando si imbatte in un nemico, lo attacca espellendo gli organi interni dalla bocca.",
+            "shield": "Il muco di cui è ricoperto mantiene stabile l'umidità della sua pelle. Può rimanere fuori dall'acqua per giorni senza seccarsi."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1"
+    ],
+    "flat_name": "pyukumuku",
+    "generation": 7,
+    "height": {
+        "pyukumuku": "0.3 m"
+    },
+    "id": 771,
+    "name": "Pyukumuku",
+    "name_origin": "Pyukumuku potrebbe essere una combinazione di to puke, vomitare , cucumber, cetriolo, e mucus, muco. Namakobushi potrebbe essere una combinazione di ナマコ namako, cetriolo di mare, e 拳 kobushi, pugno. ",
+    "origin": "Pyukumuku è ispirato ad un cetriolo di mare. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pyukumuku",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Oloturia",
+    "sprites": {
+        "pyukumuku": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4b/Homem0771.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0771.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2b/Artwork0771_SL.png"
+    },
+    "stats": {
+        "pyukumuku": {
+            "hp": 55,
+            "atk": 60,
+            "def": 130,
+            "spa": 30,
+            "spd": 130,
+            "spe": 5
+        }
+    },
+    "stats_sum": {
+        "pyukumuku": 410
+    },
+    "types": {
+        "pyukumuku": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "pyukumuku": "1.2 kg"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "goldeen": {
+            "primary": "Nuotovelox",
+            "secondary": "Idrovelo",
+            "hidden": "Parafulmine"
+        }
+    },
+    "curiosities": [
+        "Il nome originario di Goldeen era Goldy.",
+        "Il suo numero nel Pokédex di Sinnoh e nel Pokédex di Johto è lo stesso: 078.",
+        "Goldeen e Seaking sono gli unici due Pokémon che possono imparare Cascata aumentando di livello.",
+        "Nei giochi il suo verso è molto simile a quello di Caterpie."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/goldeen.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 2"
+    ],
+    "flat_name": "goldeen",
+    "generation": 1,
+    "height": {
+        "goldeen": "0.6 m"
+    },
+    "id": 118,
+    "name": "Goldeen",
+    "name_origin": "È la combinazione di goldfish  e queen . ",
+    "origin": "Goldeen si basa su un pesce rosso. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Goldeen",
+    "shape": "pinne",
+    "specie": "Pokémon Pescerosso",
+    "sprites": {
+        "goldeen": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem0118.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0118.png"
+        },
+        "goldeen-f": {
+            "default": "https://media.pokemoncentral.it/wiki/6/68/Homef0118.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homefsh0118.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/da/Artwork0118_RFVF.png"
+    },
+    "stats": {
+        "goldeen": {
+            "hp": 45,
+            "atk": 67,
+            "def": 60,
+            "spa": 35,
+            "spd": 50,
+            "spe": 63
+        }
+    },
+    "stats_sum": {
+        "goldeen": 320
+    },
+    "types": {
+        "goldeen": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "goldeen": "15.0 kg"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "happiny": {
+            "primary": "Alternacura",
+            "secondary": "Leggiadro",
+            "hidden": "Amicoscudo"
+        }
+    },
+    "curiosities": [
+        "Happiny possiede la statistica base dei PS più alta fra tutti i Pokémon non evoluti appartenenti ad una famiglia evolutiva di tre stadi, superando anche Pokémon molto potenti come Gyarados e Salamence.",
+        "Happiny, come Chansey, possiede la più bassa statistica di base per Attacco e Difesa nel gioco.",
+        "Se la Pietraovale è considerata una pietra evolutiva, allora Happiny è l'unico Pokémon che si evolve tenendo una pietra che può evolversi più tardi. È anche l'unico Pokémon che si evolve due volte crescendo di livello in particolari condizioni: prima tenendo uno strumento, e poi evolvendosi per affetto.",
+        "Happiny e la sua famiglia evolutiva possiedono il maggior numero di oggetti ad essi associati, con l'eccezione di Arceus. Questi comprendono Fortunuovo, Fortunpugno e Fortunaroma."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/happiny.mp3",
+    "dex_entries": {
+        "happiny": {
+            "diamond": "Ama gli oggetti bianchi e tondi. Imita CHANSEY trasportando una roccia a forma di uovo.",
+            "pearl": "Trasporta una roccia a forma di uovo nella sua tasca ventrale e poi la offre ai suoi amici.",
+            "platinum": "Gli piace trasportare una piccola roccia. A volte cammina tra i piedi degli altri, facendoli inciampare.",
+            "heartgold": "Pokémon a forma di ricciolo, che trasporta con cura un sasso bianco e tondo trattandolo come un uovo.",
+            "soulsilver": "Pokémon a forma di ricciolo, che trasporta con cura un sasso bianco e tondo trattandolo come un uovo.",
+            "black": "Gli piace trasportare una piccola roccia. A volte cammina tra i piedi degli altri, facendoli inciampare.",
+            "white": "Gli piace trasportare una piccola roccia. A volte cammina tra i piedi degli altri, facendoli inciampare.",
+            "black-2": "Gli piace trasportare una piccola roccia. A volte cammina tra i piedi degli altri, facendoli inciampare.",
+            "white-2": "Gli piace trasportare una piccola roccia. A volte cammina tra i piedi degli altri, facendoli inciampare.",
+            "x": "Trasporta una roccia a forma di uovo nella sua tasca ventrale e poi la offre ai suoi amici.",
+            "y": "Trasporta con cura un sasso bianco e tondo trattandolo come un uovo. Adora il ricciolo che ha in testa.",
+            "omega-ruby": "Trasporta una roccia a forma di uovo nella sua tasca ventrale e poi la offre ai suoi amici.",
+            "alpha-sapphire": "Trasporta con cura un sasso bianco e tondo trattandolo come un uovo. Adora il ricciolo che ha in testa.",
+            "sun": "Trasporta nella tasca centrale una roccia a forma di uovo, che a volte regala ai suoi amici.",
+            "moon": "Dato che è ancora piccolo e non può deporre uova, cerca pietre bianche e tonde da usare in sostituzione.",
+            "ultra-sun": "È un Pokémon docile, ma se si fa per togliergli la pietra dalla tasca ventrale piange, strilla e diventa una furia.",
+            "ultra-moon": "Quando vede un oggetto bianco e tondo lo mette nella tasca ventrale. A volte ce ne mette così tanti che finisce per non riuscire a muoversi.",
+            "sword": "Imita Chansey trasportando con cura nella tasca ventrale un sasso rotondo identico a un uovo.",
+            "shield": "Dà in prestito il suo amato sasso a chi considera suo amico, ma se non gli viene restituito piange e si scatena.",
+            "brilliant-diamond": "Ama gli oggetti bianchi e tondi. Imita Chansey trasportando un sasso a forma di uovo.",
+            "shining-pearl": "Trasporta nella sua tasca ventrale un sasso rotondo simile a un uovo, che poi offre a chi gli sta simpatico.",
+            "legends-arceus": "Emula Chansey accudendo un rotondo sasso che serba nella tasca ventrale. Ama la compagnia dei fanciulli e con essi inscena giuochi a tema famigliare.",
+            "scarlet": "Trasporta nella tasca ventrale una roccia a forma di uovo, che a volte regala ai suoi amici.",
+            "violet": "Trasporta con cura un sasso bianco e tondo trattandolo come un uovo. Adora il ricciolo che ha in testa."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "happiny",
+    "generation": 4,
+    "height": {
+        "happiny": "0.6 m"
+    },
+    "id": 440,
+    "name": "Happiny",
+    "name_origin": "Deriva dalle parole happiness, felicità, e tiny, piccolo. ",
+    "origin": "Potrebbe basarsi su un neonato. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Happiny",
+    "shape": "bipedi",
+    "specie": "Pokémon Ovettino",
+    "sprites": {
+        "happiny": {
+            "default": "https://media.pokemoncentral.it/wiki/4/42/Homef0440.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/94/Homefsh0440.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f1/Artwork0440_DP.png"
+    },
+    "stats": {
+        "happiny": {
+            "hp": 100,
+            "atk": 5,
+            "def": 5,
+            "spa": 15,
+            "spd": 65,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "happiny": 220
+    },
+    "types": {
+        "happiny": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "happiny": "24.4 kg"
+    }
+}

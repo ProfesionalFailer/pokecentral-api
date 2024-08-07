@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "clobbopus": {
+            "primary": "Scioltezza",
+            "hidden": "Tecnico"
+        }
+    },
+    "curiosities": [
+        "Clobbopus e Grapploct sono gli unici Pokémon che si trovano nel Gruppo Uova Acqua 1 e Umanoide."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/clobbopus.mp3",
+    "dex_entries": {
+        "clobbopus": {
+            "sword": "Si spinge sulla terraferma in cerca di cibo. È molto curioso e colpisce con i tentacoli tutto quello che entra nel suo campo visivo.",
+            "shield": "Ha l'intelligenza di un bambino di 3 anni. Gli si staccano spesso i tentacoli, ma poiché gli ricrescono naturalmente non se ne preoccupa."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Umanoide"
+    ],
+    "flat_name": "clobbopus",
+    "generation": 8,
+    "height": {
+        "clobbopus": "0.6 m"
+    },
+    "id": 852,
+    "name": "Clobbopus",
+    "name_origin": "Clobbopus potrebbe essere una combinazione di clobber, picchiare, e octopus, polpo. Tatakko potrebbe essere una combinazione di 叩く tataku, colpire, attack, attacco, e 蛸 tako, polpo. ",
+    "origin": "Clobbopus potrebbe essere basato su un polpo e su un pugile. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Clobbopus",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Bizze",
+    "sprites": {
+        "clobbopus": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a7/Homem0852.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0852.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/00/Artwork0852_SpSc.png"
+    },
+    "stats": {
+        "clobbopus": {
+            "hp": 50,
+            "atk": 68,
+            "def": 60,
+            "spa": 50,
+            "spd": 50,
+            "spe": 32
+        }
+    },
+    "stats_sum": {
+        "clobbopus": 310
+    },
+    "types": {
+        "clobbopus": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "clobbopus": "4.0 kg"
+    }
+}

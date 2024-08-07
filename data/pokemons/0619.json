@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "mienfoo": {
+            "primary": "Forza Interiore",
+            "secondary": "Rigenergia",
+            "hidden": "Temerarietà"
+        }
+    },
+    "curiosities": [
+        "Articoli incompleti",
+        "Pokémon",
+        "Pokémon di quinta generazione",
+        "Pokémon di tipo Lotta",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Lento",
+        "Pokémon di colore Giallo",
+        "Pokémon dalla sagoma n. 06",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon di Gruppo Uova Umanoide",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 350"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mienfoo.mp3",
+    "dex_entries": {
+        "mienfoo": {
+            "black": "Soggioga il nemico concatenando una serie incessante di attacchi e lo affetta con le unghie affilate.",
+            "white": "Sa fare eleganti combinazioni di mosse. Se si concentra, aumenta l'efficacia e la velocità dei suoi attacchi.",
+            "black-2": "Va fiero della rapidità delle sue mosse. Sopperisce a una eventuale mancanza di potenza con il numero di colpi.",
+            "white-2": "Va fiero della rapidità delle sue mosse. Sopperisce a una eventuale mancanza di potenza con il numero di colpi.",
+            "x": "Va fiero della rapidità delle sue mosse. Sopperisce a un'eventuale mancanza di potenza con il numero di colpi.",
+            "y": "Soggioga il nemico concatenando una serie incessante di attacchi e lo affetta con le unghie affilate.",
+            "omega-ruby": "Va fiero della rapidità delle sue mosse. Sopperisce a un'eventuale mancanza di potenza con il numero dei colpi.",
+            "alpha-sapphire": "Soggioga il nemico concatenando una serie incessante di attacchi e lo affetta con le unghie affilate.",
+            "ultra-sun": "Al mattino è possibile vedere gruppi di Mienfoo che si esercitano eseguendo movimenti lenti e assumendo varie posizioni.",
+            "ultra-moon": "Si ritira sui monti per allenarsi assieme ai suoi compagni. Ogni gruppo sviluppa tecniche di calci e pugni diverse.",
+            "sword": "I Mienfoo più allenati sono in grado di sferrare più di 100 colpi al minuto con il taglio della mano.",
+            "shield": "Ha un temperamento turbolento, malgrado le dimensioni ridotte. Sferra eleganti raffiche di colpi contro chi gli si avvicina incautamente.",
+            "scarlet": "Soggioga il nemico con una raffica incessante di attacchi e lo fa a brandelli con le unghie affilate.",
+            "violet": ""
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Umanoide"
+    ],
+    "flat_name": "mienfoo",
+    "generation": 5,
+    "height": {
+        "mienfoo": "0.9 m"
+    },
+    "id": 619,
+    "name": "Mienfoo",
+    "name_origin": "Mienfoo è una combinazione dell'inglese ermine  e kung fu. ",
+    "origin": "MIenfoo si basa su un mustelide, come un ermellino, e un praticante di kung fu. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mienfoo",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Marziale",
+    "sprites": {
+        "mienfoo": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0619.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homemsh0619.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f5/Artwork0619_NB.png"
+    },
+    "stats": {
+        "mienfoo": {
+            "hp": 45,
+            "atk": 85,
+            "def": 50,
+            "spa": 55,
+            "spd": 50,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "mienfoo": 350
+    },
+    "types": {
+        "mienfoo": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "mienfoo": "20.0 kg"
+    }
+}

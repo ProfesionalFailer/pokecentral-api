@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "donphan": {
+            "primary": "Vigore",
+            "hidden": "Sabbiavelo"
+        }
+    },
+    "curiosities": [
+        "Donphan condivide la stessa categoria con Tyranitar. Entrambi sono noti come Pokémon Armatura."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/donphan.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "donphan",
+    "generation": 2,
+    "height": {
+        "donphan": "1.1 m"
+    },
+    "id": 232,
+    "name": "Donphan",
+    "name_origin": "È una combinazione di don  e elephant . Potrebbe inoltre derivare da mastodon . ",
+    "origin": "È chiaramente basato su un elefante, probabilmente sull'Elephas maximus borneensis, più comodamente chiamato elefante del Borneo. L'armatura è ispirata ad un elefante da guerra, ovverosia ad elefanti che venivano addestrati per mano degli uomini e successivamente usati in battaglia. Inoltre, la corazza che ha sul dorso, si ispira ad uno pneumatico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Donphan",
+    "shape": "quadrupede",
+    "specie": "Pokémon Armatura",
+    "sprites": {
+        "donphan": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fb/Homem0232.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0232.png"
+        },
+        "donphan-f": {
+            "default": "https://media.pokemoncentral.it/wiki/5/55/Homef0232.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/13/Homefsh0232.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b1/Artwork0232_RFVF.png"
+    },
+    "stats": {
+        "donphan": {
+            "hp": 90,
+            "atk": 120,
+            "def": 120,
+            "spa": 60,
+            "spd": 60,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "donphan": 500
+    },
+    "types": {
+        "donphan": [
+            "Terra"
+        ]
+    },
+    "weight": {
+        "donphan": "120.0 kg"
+    }
+}

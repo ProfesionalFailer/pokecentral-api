@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "ninjask": {
+            "primary": "Acceleratore",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "Ninjask è il terzo Pokémon con la statistica base Velocità più alta in assoluto, superato solo dalla forma Velocità di Deoxys e da Regieleki.\n\tNella maggior parte dei casi la Velocità di Ninjask può superare quella di Deoxys e Regieleki dopo una singola attivazione della sua abilità Acceleratore.",
+        "Nella maggior parte dei casi la Velocità di Ninjask può superare quella di Deoxys e Regieleki dopo una singola attivazione della sua abilità Acceleratore.",
+        "Ninjask ha la statistica base Velocità più alta di tutti i Pokémon non leggendari, di tipo Coleottero e di tipo Volante.",
+        "Ninjask non poteva imparare mosse di tipo Volante aumentando di livello fino all'Ottava generazione, nonostante sia in parte di questo tipo.",
+        "Sebbene si dica che Ninjask sia un Pokémon estremamente veloce, non può imparare nessuna mossa prioritaria non di stato.",
+        "Ninjask è l'unico Pokémon ad avere come statistiche totali 456.",
+        "Ninjask condivide la sua categoria con Greninja. Sono entrambi noti come il Pokémon Ninja.\n\tEntrambi hanno anche la parola \"ninja\" nel nome.",
+        "Entrambi hanno anche la parola \"ninja\" nel nome.",
+        "Un Nincada che si evolve in Spada e Scudo passa i suoi fiocchi ed emblemi soltanto a Ninjask, lasciandone Shedinja sprovvisto. Tuttavia, un bug permette di far ottenere un titolo associato anche a Shedinja; questo rimarrà anche dopo uno scambio o il deposito in Pokémon HOME, finché il titolo non sarà tolto manualmente o non verrà selezionato un fiocco/emblema diverso."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ninjask.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "ninjask",
+    "generation": 3,
+    "height": {
+        "ninjask": "0.80 m"
+    },
+    "id": 291,
+    "name": "Ninjask",
+    "name_origin": "Ninjask potrebbe derivare da ninja e mask . ",
+    "origin": "Ninjask è basato su una cicala adulta, in particolare la Magicicala, ma i suoi colori ricordano un'ape e un ninja. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ninjask",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Ninja",
+    "sprites": {
+        "ninjask": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3a/Homem0291.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0291.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/13/Artwork0291_RZ.png"
+    },
+    "stats": {
+        "ninjask": {
+            "hp": 61,
+            "atk": 90,
+            "def": 45,
+            "spa": 50,
+            "spd": 50,
+            "spe": 160
+        }
+    },
+    "stats_sum": {
+        "ninjask": 456
+    },
+    "types": {
+        "ninjask": [
+            "Volante",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "ninjask": "12.0 kg"
+    }
+}

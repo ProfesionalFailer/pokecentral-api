@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "cubone": {
+            "primary": "Testadura",
+            "secondary": "Parafulmine",
+            "hidden": "Lottascudo"
+        }
+    },
+    "curiosities": [
+        "Il nome beta di Cubone era \"Orphon\".",
+        "È uno dei pochi Pokémon rappresentati nella linea d'abbigliamento Pokémon 151.",
+        "Cubone  è uno dei due Pokémon che cambiano completamente tipo con l'evoluzione insieme a Eevee.\n\tÈ anche l'unico Pokémon di un solo tipo che si evolve in un Pokémon di doppio tipo che non ne condivide nemmeno uno con la sua pre-evoluzione.",
+        "È anche l'unico Pokémon di un solo tipo che si evolve in un Pokémon di doppio tipo che non ne condivide nemmeno uno con la sua pre-evoluzione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cubone.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro"
+    ],
+    "flat_name": "cubone",
+    "generation": 1,
+    "height": {
+        "cubone": "0.4 m"
+    },
+    "id": 104,
+    "name": "Cubone",
+    "name_origin": "Cubone è la combinazione tra le parole inglesi cub  e bone . ",
+    "origin": "È probabilmente basato su un dinosauro o sulle ossa di un dinosauro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cubone",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Solitario",
+    "sprites": {
+        "cubone": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ae/Homem0104.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f8/Homemsh0104.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/23/Artwork0104_RFVF.png"
+    },
+    "stats": {
+        "cubone": {
+            "hp": 50,
+            "atk": 50,
+            "def": 95,
+            "spa": 40,
+            "spd": 50,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "cubone": 320
+    },
+    "types": {
+        "cubone": [
+            "Terra"
+        ]
+    },
+    "weight": {
+        "cubone": "6.5 kg"
+    }
+}

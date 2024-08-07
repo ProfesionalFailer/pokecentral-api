@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "talonflame": {
+            "primary": "Corpodifuoco",
+            "hidden": "Aliraffica"
+        }
+    },
+    "curiosities": [
+        "Talonflame è il primo Pokémon ad avere più di cinque caratteri nel suo nome giapponese.",
+        "Tra i Pokémon di tipo Volante che si evolvono da Pokémon che si trovano all'inizio dell'avventura  è quello con il totale delle statistiche di base più alto.",
+        "È l'unico Pokémon ad avere il totale delle statistiche di base pari a 499.",
+        "I versi di Talonflame e di Xerneas sono molto simili. Quello di Xerneas è più acuto e lento rispetto a quello di Talonflame.",
+        "Talonflame ha la più alta statistica base di Velocità di tutti i Pokémon di tipo Fuoco e di tutti i Pokémon introdotti con la sesta generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/talonflame.mp3",
+    "dex_entries": {
+        "talonflame": {
+            "x": "Durante lotte senza esclusione di colpi, spicca il volo sprizzando scintille dalle fessure che ha tra le piume.",
+            "y": "Piomba sulle prede a 500 km/h e le attacca con artigli potentissimi.",
+            "omega-ruby": "Durante lotte senza esclusione di colpi, spicca il volo sprizzando scintille dalle fessure che ha tra le piume.",
+            "alpha-sapphire": "Piomba sulle prede a 500 Km/h e le attacca con artigli potentissimi.",
+            "sun": "È ghiotto di Wingull e Pikipek. Stordisce le prede con potenti zampate e poi le afferra saldamente con i suoi artigli aguzzi.",
+            "moon": "Piomba dritto sulle prede a 500 km/h, sprizzando scintille dalle fessure che ha tra le piume.",
+            "ultra-sun": "Le sue ali sono robuste e ignifughe. In passato le divise dei pompieri venivano fabbricate con le sue piume.",
+            "ultra-moon": "Caccia soprattutto Pokémon alati. Si avvicina rapido alla preda e l'abbatte con un calcio potentissimo, facendola precipitare al suolo.",
+            "sword": "Caccia soprattutto Pokémon alati. Intimorisce il bersaglio sprizzando scintille dalle fessure che ha tra le piume.",
+            "shield": "Piomba sulle prede a 500 km/h e le attacca con calci potentissimi senza dargli via di scampo.",
+            "scarlet": "Le sue capacità di volo sono stupefacenti. Riesce a volare con estrema facilità anche dopo aver afferrato una preda di oltre 100 kg.",
+            "violet": "Se si emoziona emette scintille dalle fessure fra le piume. Queste ultime non prendono fuoco e vengono spesso usate come materiale ignifugo."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "talonflame",
+    "generation": 6,
+    "height": {
+        "talonflame": "1.2 m"
+    },
+    "id": 663,
+    "name": "Talonflame",
+    "name_origin": "Talonflame è una combinazione tra talon  e flame . ",
+    "origin": "Nonostante le pre-evoluzioni siano ispirate al pettirosso, Talonflame è ispirato ad un falco pellegrino, ma possiede alcuni tratti di altri rapaci come il nibbio reale e l'astore che potrebbero aver contribuito per la sua ispirazione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Talonflame",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Ardifiamma",
+    "sprites": {
+        "talonflame": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d3/Homem0663.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0663.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/77/Artwork0663_XY.png"
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 78,
+            "atk": 81,
+            "def": 71,
+            "spa": 74,
+            "spd": 69,
+            "spe": 126
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 499
+    },
+    "types": {
+        "talonflame": [
+            "Volante",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "talonflame": "24.5 kg"
+    }
+}

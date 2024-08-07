@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "swinub": {
+            "primary": "Indifferenza",
+            "secondary": "Mantelneve",
+            "hidden": "Grassospesso"
+        }
+    },
+    "curiosities": [
+        "Swinub e la sua famiglia evolutiva sono gli unici Pokémon di tipo Ghiaccio ad essere di colore marrone.",
+        "Swinub è uno dei pochi Pokémon a mantenere invariato il suo sprite in Pokémon Oro e Argento.",
+        "Grazie alla sua combinazione di tipi unica, Swinub e la sua famiglia evolutiva sono gli unici Pokémon ad essere immuni a tutte le condizioni atmosferiche.",
+        "Swinub ha il totale di statistiche base più basso di tutti i Pokémon di tipo Ghiaccio.",
+        "Swinub e la sua famiglia sono gli unici Pokémon deboli a tutti e tre i tipi dei Pokémon iniziali .",
+        "Nel capitolo VS Bellossom del manga Pokémon: La Grande Avventura, Swinub viene visto per la prima volta con gli occhi aperti."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/swinub.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "swinub",
+    "generation": 2,
+    "height": {
+        "swinub": "0.4 m"
+    },
+    "id": 220,
+    "name": "Swinub",
+    "name_origin": "Il suo nome deriva dall'unione delle parole Swine  e nub . ",
+    "origin": "L'aspetto di Swinub, per alcune caratteristiche, ricorda quello di un suide. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Swinub",
+    "shape": "quadrupede",
+    "specie": "Pokémon Maiale",
+    "sprites": {
+        "swinub": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e8/Homem0220.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c9/Homemsh0220.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/92/Artwork0220_HGSS.png"
+    },
+    "stats": {
+        "swinub": {
+            "hp": 50,
+            "atk": 50,
+            "def": 40,
+            "spa": 30,
+            "spd": 30,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "swinub": 250
+    },
+    "types": {
+        "swinub": [
+            "Ghiaccio",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "swinub": "6.5 kg"
+    }
+}

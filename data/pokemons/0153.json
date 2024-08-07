@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "bayleef": {
+            "primary": "Erbaiuto",
+            "hidden": "Fogliamanto"
+        }
+    },
+    "curiosities": [
+        "Bayleef è il Pokémon iniziale mediamente evoluto più alto.",
+        "Le foglie sul collo di Bayleef sono spesso descritte come aventi un aroma pungente e speziato, mentre le vere foglie di alloro, da cui prende il nome, hanno un sapore amaro ed erbaceo, simile a quello del timo.",
+        "Bayleef è l'unico starter della regione di Johto di Ash che si è evoluto in questa regione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bayleef.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Erba"
+    ],
+    "flat_name": "bayleef",
+    "generation": 2,
+    "height": {
+        "bayleef": "1.2 m"
+    },
+    "id": 153,
+    "name": "Bayleef",
+    "name_origin": "Il suo nome è la corruzione dalla parola bay leaf, alloro che è una pianta. ",
+    "origin": "Questo Pokémon è basato su un gruppo di dinosauri chiamati sauropodi, precisamente l'Apatosauro, mentre le foglie che ha sul corpo sono ispirate alle foglie di bay laurel, usato per curare tramite aromaterapia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bayleef",
+    "shape": "quadrupede",
+    "specie": "Pokémon Foglia",
+    "sprites": {
+        "bayleef": {
+            "default": "https://media.pokemoncentral.it/wiki/8/83/Homem0153.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0153.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fd/Artwork0153_HGSS.png"
+    },
+    "stats": {
+        "bayleef": {
+            "hp": 60,
+            "atk": 62,
+            "def": 80,
+            "spa": 63,
+            "spd": 80,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "bayleef": 405
+    },
+    "types": {
+        "bayleef": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "bayleef": "15.8 kg"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "trumbeak": {
+            "primary": "Sguardofermo",
+            "secondary": "Abillegame",
+            "hidden": "Raccolta"
+        }
+    },
+    "curiosities": [
+        "Trumbeak "
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/trumbeak.mp3",
+    "dex_entries": {
+        "trumbeak": {
+            "sun": "Conserva nel becco i semi delle bacche che mangia, per poi spararli contro nemici e prede non appena ne incontra.",
+            "moon": "Mutando la forma del becco è in grado di produrre i suoni più svariati. La sua rumorosità gli ha conquistato la fama di incubo del vicinato.",
+            "ultra-sun": "Mutando l'estremità del becco è in grado di emettere più di 100 cinguettii differenti.",
+            "ultra-moon": "Spara dal becco i semi delle bacche di cui si nutre, da cui poi spuntano nuove piante."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "trumbeak",
+    "generation": 7,
+    "height": {
+        "trumbeak": "0.6 m"
+    },
+    "id": 732,
+    "name": "Trumbeak",
+    "name_origin": "Trumbeak può essere una combinazione di trumpet, tromba, e beak, becco. Kerarappa può essere una combinazione di 啄木鳥 keratsutsuki, picchio, e 喇叭 Rappa, tromba.",
+    "origin": "Trumbeak è basato su un picchio, in particolare sembra essere stato ispirato dagli uccelli del genere Campephilus. Il suo aspetto ricorda quello del cardinale rosso. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Trumbeak",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Trombecco",
+    "sprites": {
+        "trumbeak": {
+            "default": "https://media.pokemoncentral.it/wiki/7/77/Homem0732.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/60/Homemsh0732.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/30/Artwork0732_SL.png"
+    },
+    "stats": {
+        "trumbeak": {
+            "hp": 55,
+            "atk": 85,
+            "def": 50,
+            "spa": 40,
+            "spd": 50,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "trumbeak": 355
+    },
+    "types": {
+        "trumbeak": [
+            "Volante",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "trumbeak": "14.8 kg"
+    }
+}

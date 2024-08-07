@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "suicune": {
+            "primary": "Pressione",
+            "hidden": "Forza Interiore"
+        }
+    },
+    "curiosities": [
+        "Nonostante rappresenti i gelidi venti nordici, stranamente Suicune non è di tipo Ghiaccio. Tuttavia, può imparare molte mosse di tale tipo aumentando di livello.",
+        "Suicune è l'unico Pokémon puro di tipo Acqua ad imparare Bora aumentando di livello.",
+        "Sebbene Suicune faccia parte delle bestie leggendarie di Johto, si sfida a Kanto in Oro HeartGold e Argento SoulSilver. Moltres ha una situazione identica ma le regioni sono invertite.",
+        "Suicune può essere risfidato nella Torre Campana se è stato sconfitto sul Percorso 25.",
+        "L'ordine che il trio leggendario di Johto ha nel Pokédex è rivelato nella distruzione della Torre Bruciata: il fulmine che ha dato inizio all'incendio , il fuoco che ha bruciato la torre  e la pioggia che ha spento il fuoco .",
+        "Suicune, insieme ad Entei e Raikou, è stato disegnato da Muneo Saitō."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/suicune.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "suicune",
+    "generation": 2,
+    "height": {
+        "suicune": "2.0 m"
+    },
+    "id": 245,
+    "name": "Suicune",
+    "name_origin": "Il nome di Suicune è probabilmente basato sul suo nome giapponese, Suikun. Suikun è una probabile combinazione di 水 sui, acqua e 君 Kun, monarca. Tuttavia, il titolo del gioco è la mascotte del suggerimento che il nome può essere derivato da 水晶suishō, cristallo. ",
+    "origin": "Suicune assomiglia a un Chrysocyon brachyurus, o a un Panthera pardus sia nel corpo che nelle abitudini, o a un Acinonyx jubatus nel modo in cui corre. La sua abilità di purificare l'acqua lo riconduce anche ad un Unicorno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Suicune",
+    "shape": "quadrupede",
+    "specie": "Pokémon Aurora",
+    "sprites": {
+        "suicune": {
+            "default": "https://media.pokemoncentral.it/wiki/8/86/Homem0245.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0245.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0245_HGSS.png"
+    },
+    "stats": {
+        "suicune": {
+            "hp": 100,
+            "atk": 75,
+            "def": 115,
+            "spa": 90,
+            "spd": 115,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "suicune": 580
+    },
+    "types": {
+        "suicune": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "suicune": "187.0 kg"
+    }
+}

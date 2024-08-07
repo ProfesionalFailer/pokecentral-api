@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "gligar": {
+            "primary": "Ipertaglio",
+            "secondary": "Sabbiavelo",
+            "hidden": "Immunità"
+        }
+    },
+    "curiosities": [
+        "Prima della quinta generazione Gligar e Gliscor avevano una combinazione di tipi unica.",
+        "Gligar può essere visto come un \"parallelo\" di Sneasel: sono entrambi di doppio tipo; tutti e due sono stati introdotti in seconda generazione; hanno lo stesso totale delle statistiche di base; le loro rispettive evoluzioni sono stata introdotte in quarta generazione; si evolvono di notte tenendo strumenti che contengono nel nome parte della parola affilato .",
+        "Gli sprite di quarta generazione non cromatici hanno tutti una sfumatura di colore diversa.\n\tLa versione cromatica di Gligar in Pokémon Platino può essere facilmente confusa con la sua forma normale, a causa della colorazione molto simile.",
+        "La versione cromatica di Gligar in Pokémon Platino può essere facilmente confusa con la sua forma normale, a causa della colorazione molto simile.",
+        "Sebbene sia uno scorpione, il suo pungiglione sia velenoso e sia di colore viola, non è un tipo Veleno. Tuttavia può imparare mosse di questo tipo.",
+        "Gligar e la sua evoluzione Gliscor possono imparare ben sei mosse che hanno alte probabilità di infliggere un brutto colpo, più di ogni altro Pokémon.",
+        "Nonostante non possa imparare Terremoto tramite MT in seconda generazione, un Gligar che conosce Terremoto è una ricompensa in Pokémon Stadium 2 per aver battuto il rivale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gligar.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "gligar",
+    "generation": 2,
+    "height": {
+        "gligar": "1.1 m"
+    },
+    "id": 207,
+    "name": "Gligar",
+    "name_origin": "Il suo nome probabilmente deriva dalle parole inglesi glider  e gargoyle. ",
+    "origin": "Potrebbe essere ispirato alle mosche scorpione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gligar",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Aliscorpio",
+    "sprites": {
+        "gligar": {
+            "default": "https://media.pokemoncentral.it/wiki/1/16/Homem0207.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0e/Homemsh0207.png"
+        },
+        "gligar-f": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f4/Homef0207.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8a/Homefsh0207.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3f/Artwork0207_HGSS.png"
+    },
+    "stats": {
+        "gligar": {
+            "hp": 65,
+            "atk": 75,
+            "def": 105,
+            "spa": 35,
+            "spd": 65,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "gligar": 430
+    },
+    "types": {
+        "gligar": [
+            "Volante",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "gligar": "64.8 kg"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "fearow": {
+            "primary": "Sguardofermo",
+            "hidden": "Cecchino"
+        }
+    },
+    "curiosities": [
+        "Fearow è l'unico Pokémon con il totale delle statistiche base pari a 442.",
+        "I nomi inglesi della famiglia evolutiva di Spearow e Beedrill sono parzialmente invertiti con quelli giapponesi, in quanto Beedrill si chiama Spear e Fearow, l'evoluzione di Spearow, si chiama Onidrill."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/fearow.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "fearow",
+    "generation": 1,
+    "height": {
+        "fearow": "1.2 m"
+    },
+    "id": 22,
+    "name": "Fearow",
+    "name_origin": "Fearow potrebbe essere una combinazione di fear, paura, e sparrow, passerotto. Potrebbe derivare anche da feather, piuma, e arrow, freccia. Onidrill potrebbe essere una combinazione di 鬼 oni, demone, e drill, trapano. Le prime quattro sillabe possono essere tradotte letteralmente come 鬼鳥 onidori, uccello demoniaco. ",
+    "origin": "Fearow potrebbe prendere ispirazione da diversi uccelli predatori. Possiede tratti simili a rapaci come falchi e avvoltoi, nonché delle somiglianze con le cicogne. L'aspetto fisico di Fearow potrebbe essere vagamente basato sul cormorano o sull'aniga comune, nonostante siano degli uccelli acquatici. Condivide anche alcune caratteristiche dei polli e delle beccacce, in particolare la cresta e il lungo becco. La colorazione e la dimensione del Pokémon potrebbe rappresentare l'airone golia, le cui piume, quando increspate, assumono la forma di una cresta. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Fearow",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Becco",
+    "sprites": {
+        "fearow": {
+            "default": "https://media.pokemoncentral.it/wiki/7/78/Homem0022.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0022.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5c/Artwork0022_RFVF.png"
+    },
+    "stats": {
+        "fearow": {
+            "hp": 65,
+            "atk": 90,
+            "def": 65,
+            "spa": 61,
+            "spd": 61,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "fearow": 442
+    },
+    "types": {
+        "fearow": [
+            "Volante",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "fearow": "38.0 kg"
+    }
+}

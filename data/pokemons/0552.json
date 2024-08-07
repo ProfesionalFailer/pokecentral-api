@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "krokorok": {
+            "primary": "Prepotenza",
+            "secondary": "Arroganza",
+            "hidden": "Grancollera"
+        }
+    },
+    "curiosities": [
+        "Fino alla nona generazione, nessun Pokémon aveva la stessa combinazione di tipi di Krokorok e la sua linea evolutiva.",
+        "Krokorok è l'unico Pokémon con la somma delle statistiche pari a 351.",
+        "Tutte le statistiche di Krokorok sono 10 punti più alte di quelle di Sandile tranne la Velocità, della quale è alta solo 9 punti in più."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/krokorok.mp3",
+    "dex_entries": {
+        "krokorok": {
+            "black": "Forma gruppi di pochi esemplari. La pellicola che ricopre i suoi occhi lo protegge dalle tempeste di sabbia.",
+            "white": "La membrana speciale che ha sugli occhi è in grado di percepire il calore dei corpi, consentendogli così di vedere al buio.",
+            "black-2": "I suoi occhi, coperti da una sottilissima membrana, vedono anche di notte. Vive con i suoi simili in piccoli branchi.",
+            "white-2": "I suoi occhi, coperti da una sottilissima membrana, vedono anche di notte. Vive con i suoi simili in piccoli branchi.",
+            "x": "Forma gruppi di pochi esemplari. La pellicola che ricopre i suoi occhi lo protegge dalle tempeste di sabbia.",
+            "y": "La membrana speciale che ha sugli occhi è in grado di percepire il calore dei corpi, consentendogli così di vedere al buio.",
+            "omega-ruby": "Forma gruppi di pochi esemplari. La pellicola che ricopre i suoi occhi lo protegge dalle tempeste di sabbia.",
+            "alpha-sapphire": "La membrana speciale che ha sugli occhi è in grado di percepire il calore dei corpi, consentendogli così di vedere al buio.",
+            "sun": "Vive in piccoli gruppi. Se il capogruppo è una femmina, i maschi si occupano di procurare il cibo.",
+            "moon": "La membrana speciale che ricopre i suoi occhi gli permette di vedere chiaramente l’ambiente circostante anche al buio.",
+            "ultra-sun": "Odia il freddo. Se di notte la temperatura cala eccessivamente, si scava un rifugio in profondità sotto la sabbia.",
+            "ultra-moon": "Sotterra alcune prede nella sabbia come scorta d'emergenza per i casi in cui la caccia non dia buoni frutti.",
+            "sword": "È in grado di cacciare nel pieno della notte senza difficoltà, grazie agli occhi particolari che gli permettono di vedere anche al buio.",
+            "shield": "È dotato di occhi particolari che gli permettono di vedere anche al buio, ma poiché le notti nel deserto sono fredde non è molto attivo di notte.",
+            "scarlet": "I suoi occhi, coperti da una sottilissima membrana, vedono anche in piena notte. Vive con i suoi simili in piccoli branchi.",
+            "violet": "La membrana speciale che ricopre i suoi occhi gli permette di vedere chiaramente l’ambiente circostante anche in piena notte."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "krokorok",
+    "generation": 5,
+    "height": {
+        "krokorok": "1.0 m"
+    },
+    "id": 552,
+    "name": "Krokorok",
+    "name_origin": "Il nome Krokorok è una corruzione dei sostantivi inglesi crocodile  e rock , o forse crook . Il suo nome giapponese invece può essere una combinazione di 悪い warui  e delle parole inglesi evil , vile e crocodile . Un altro termine da cui potrebbe avere origine è gavial  ",
+    "origin": "Krokorok è basato sul baryonyx, un dinosauro mangia-pesci che assomiglia molto a un coccodrillo. Come Sandile è basato su un coccodrillo, ma più specificamente sul coccodrillo catafratto o sul caimano dagli occhiali. Le sue strisce nere lo fanno sembrare un bandito, e di ciò ne è la conferma il suo secondo tipo Buio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Krokorok",
+    "shape": "quadrupede",
+    "specie": "Pokémon Sabbiadrillo",
+    "sprites": {
+        "krokorok": {
+            "default": "https://media.pokemoncentral.it/wiki/8/86/Homem0552.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0552.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4e/Artwork0552_NB.png"
+    },
+    "stats": {
+        "krokorok": {
+            "hp": 60,
+            "atk": 82,
+            "def": 45,
+            "spa": 45,
+            "spd": 45,
+            "spe": 74
+        }
+    },
+    "stats_sum": {
+        "krokorok": 351
+    },
+    "types": {
+        "krokorok": [
+            "Buio",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "krokorok": "33.4 kg"
+    }
+}

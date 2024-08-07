@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "electrode": {
+            "primary": "Antisuono",
+            "secondary": "Statico",
+            "hidden": "Scoppio"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Rosso e Blu e in Pokémon Rosso Fuoco e Verde Foglia, è possibile ottenere un Electrode al livello 3 catturando un Pikachu nel Bosco Smeraldo, facendolo evolvere e scambiandolo con un vecchietto nel Laboratorio dell'Isola Cannella.",
+        "Electrode di Hisui ha la Velocità base più alta tra tutti i Pokémon di tipo Erba.",
+        "Electrode è il Pokémon non leggendario o misterioso di tipo elettro con la velocità più alta.",
+        "Electrode è l'unico Pokémon non giocabile ad utilizzare le stesse mosse in Pokkén Tournament e nella serie di Super Smash Bros..",
+        "Ad Electrode è stata dedicata una breve canzone cantata da Suzukisan.",
+        "L'autore di Pokémon Adventures, Hidenori Kusaka, utilizza Electrode per rappresentare se stesso nei box dei commenti dei volumi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/electrode.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "electrode",
+    "generation": 1,
+    "height": {
+        "electrode": "1.2 m"
+    },
+    "id": 101,
+    "name": "Electrode",
+    "name_origin": "Electrode potrebbe essere una combinazione di electric, elettrico, explode, esplodere, e node, un computer o un programma. Potrebbe derivare anche da electrode, elettrodo. Marumine potrebbe essere una combinazione di 丸 maru, cerchio, e land mine, campo minato. ",
+    "origin": "Electrode potrebbe essere basato sul concetto di una Poké Ball vivente, mentre la colorazione cromatica su una Mega Ball. Il design del Pokémon potrebbe essere ciò che rimane del periodo in cui il franchise era conosciuto ancora come Capsule Monsters, poiché i primi artwork delle Poké Ball sono raffigurate senza il classico bottone al centro. Il fatto che Voltorb ed Electrode vengano scambiati per delle comuni Poké Ball è simile al concetto di mimic, un tipo di mostro che si trova comunemente negli RPG. Sulla base del nome giapponese e delle tendenze esplosive, Electrode potrebbe avere qualche correlazione con le mine terrestri; potrebbe essere basato anche sui bottoni per detonare esplosioni che spesso sono colorati di rosso nei media. Come la sua pre-evoluzione, potrebbe essere basato anche sui fulmini globulari. L'idea che si faccia \"trasportare dal vento\" dopo aver accumulato molta elettricità potrebbe trarre ispirazione dalle sfere bianche e rosse che vengono appese ai cavi elettrici e che vengono utilizzate da piloti o escursionisti per manovrare in modo da evitarli. Le espressioni sul volto di Voltorb e di Electrode potrebbero essere la personificazione delle cariche positive e negative associate alla carica elettrica. Nelle forme originali dei Pokémon, Voltorb ha un'espressione arrabbiata , mentre Electrode ha un'espressione felice . La polarità di queste espressioni è invertita nelle forme di Hisui. Electrode di Hisui e l'acquisizione del tipo Erba potrebbero essere basati sul fatto che le Poké Ball fossero originariamente realizzate con le Ghicocche. Potrebbe essere basato anche sui tradizionali fuochi d'artificio giapponesi: sono di forma sferica, con gusci di cartapesta, con all'interno cariche spesso fatte di lolla di riso e con un foro dove viene inserita la miccia. Un'ulteriore prova di questa ispirazione sono le rappresentazioni del Pokémon nel GCC e la statua nel Tempio di Sinnoh che lo ritraggono emettere esplosioni dal foro sotto di lui per lanciarsi in aria. La colorazione cromatica potrebbe essere basata su un'Ultra Ball o una Peso Ball. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Electrode",
+    "shape": "testa",
+    "specie": "Pokémon Ball",
+    "sprites": {
+        "electrode": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4f/Homem0101.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0101.png"
+        },
+        "forma-di-hisui": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b9/Homem0101H.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2e/Homemsh0101H.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/32/Artwork0101_RFVF.png"
+    },
+    "stats": {
+        "electrode": {
+            "hp": 60,
+            "atk": 50,
+            "def": 70,
+            "spa": 80,
+            "spd": 80,
+            "spe": 150
+        }
+    },
+    "stats_sum": {
+        "electrode": 490
+    },
+    "types": {
+        "electrode": [
+            "Elettro"
+        ],
+        "forma-di-hisui": [
+            "Elettro",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "electrode": "66.6 kg",
+        "forma-di-hisui": "71.0 kg"
+    }
+}

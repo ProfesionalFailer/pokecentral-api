@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "luxray": {
+            "primary": "Antagonismo",
+            "secondary": "Prepotenza",
+            "hidden": "Dentistretti"
+        }
+    },
+    "curiosities": [
+        "Nonostante nell'anime attacchi spesso con i suoi artigli, non impara nessuna mossa basate sulle unghie fino a Pokémon Platino, dove può imparare Tagliofuria tramite Insegnamosse.",
+        "Luxray è l'unico Pokémon con il totale delle statistiche base pari a 523.",
+        "Nonostante Luxray sia noto per la sua vista a raggi X, non possiede nessuna mossa né abilità correlata."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/luxray.mp3",
+    "dex_entries": {
+        "luxray": {
+            "diamond": "Vede attraverso qualsiasi cosa. Individua e cattura le prede che si nascondono dietro gli oggetti.",
+            "pearl": "Se i suoi occhi sono dorati, può individuare le prede, anche quelle che si nascondono dietro i muri.",
+            "platinum": "Vede attraverso le pareti per individuare le prede e i suoi cuccioli smarriti.",
+            "heartgold": "L'abilità radioscopica di LUXRAY si rivela utile quando gli fa scoprire oggetti pericolosi.",
+            "soulsilver": "L'abilità radioscopica di LUXRAY si rivela utile quando gli fa scoprire oggetti pericolosi.",
+            "black": "Vede attraverso le pareti per individuare le prede e i suoi cuccioli smarriti.",
+            "white": "Vede attraverso le pareti per individuare le prede e i suoi cuccioli smarriti.",
+            "black-2": "Vede attraverso le pareti per individuare le prede e i suoi cuccioli smarriti.",
+            "white-2": "Vede attraverso le pareti per individuare le prede e i suoi cuccioli smarriti.",
+            "x": "Se i suoi occhi sono dorati, può individuare le prede, anche quelle che si nascondono dietro i muri.",
+            "y": "L'abilità radioscopica di Luxray si rivela utile quando gli fa scoprire oggetti pericolosi.",
+            "omega-ruby": "Se i suoi occhi sono dorati, può individuare le prede, anche quelle che si nascondono dietro i muri.",
+            "alpha-sapphire": "L'abilità radioscopica di Luxray si rivela utile quando gli fa scoprire oggetti pericolosi.",
+            "sword": "Grazie all'abilità radioscopica di cui è dotato, può individuare all'istante le prede nascoste oltre spesse pareti.",
+            "shield": "La sua visione radioscopica consuma enormi quantità di energia elettrica, che Luxray recupera dormendo per lunghi periodi.",
+            "legends-arceus": "Vive in branchi capeggiati da un esemplare maschio. Si narra che, allorché gli occhi rilucono dorati, abbia facoltà di vedere attraverso ogni cosa.",
+            "scarlet": "La sua capacità di vedere attraverso le pareti è utile non solo quando incalza la preda in fuga, ma anche per trovare i suoi cuccioli smarriti.",
+            "violet": "L’abilità radioscopica di Luxray si rivela molto utile quando si vuole rilevare la presenza di oggetti pericolosi."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "luxray",
+    "generation": 4,
+    "height": {
+        "luxray": "1.4 m"
+    },
+    "id": 405,
+    "name": "Luxray",
+    "name_origin": "Il suo nome deriva dal latino Lux, luce, e dall'inglese ray, raggio, ma anche da x-rays, raggi X, riferito alla sua capacità di verde attraverso gli oggetti. In giapponese è Rentoraa, e unisce la pronuncia giapponese del nome Röntgen, il fisico tedesco premio nobel che studiò i raggi X, in giapponese detti レントゲン rentogen, con 虎 tora, tigre. ",
+    "origin": "Luxray ha le fattezze di un leone e delle somiglianze con la lince. Infatti in alcune leggende della mitologia europea, la lince ha il potere, similmente a Luxray, di vedere attraverso gli oggetti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Luxray",
+    "shape": "quadrupede",
+    "specie": "Pokémon Occhiluce",
+    "sprites": {
+        "luxray": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d6/Homem0405.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/dd/Homemsh0405.png"
+        },
+        "luxray-f": {
+            "default": "https://media.pokemoncentral.it/wiki/0/05/Homef0405.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a0/Homefsh0405.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b2/Artwork0405_DP.png"
+    },
+    "stats": {
+        "luxray": {
+            "hp": 80,
+            "atk": 120,
+            "def": 79,
+            "spa": 95,
+            "spd": 79,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "luxray": 523
+    },
+    "types": {
+        "luxray": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "luxray": "42.0 kg"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "abilities": {
+        "eevee": {
+            "primary": "Fugafacile",
+            "secondary": "Adattabilità",
+            "hidden": "Presagio"
+        }
+    },
+    "curiosities": [
+        "Eevee è il Pokémon con più evoluzioni.",
+        "In prima generazione Eevee era l'unico Pokémon in grado di evolversi in più di un Pokémon.",
+        "Eevee, Tyrogue ed Applin sono gli unici Pokémon che possono evolversi in più di due Pokémon .",
+        "In Pokémon Ranger è possibile incontrare tutte le evoluzioni di Eevee esistenti fino alla terza generazione, ma non Eevee stesso. È tuttavia possibile incontrare Eevee in Pokémon Ranger: Ombre su Almia.",
+        "Il nome di Eevee è un palindromo, come quelli di Girafarig, Ho-Oh, Alomomola e Farigiraf.\n\tQuesto nome è anche l'unico a contenere soltanto due lettere.",
+        "Questo nome è anche l'unico a contenere soltanto due lettere.",
+        "L'evoluzione di Eevee in Espeon o Umbreon non può avvenire nei giochi Rosso Fuoco e Verde Foglia a causa della loro mancanza di una meccanica temporale. È inoltre impossibile farlo evolvere in Leafeon o Glaceon in Oro HeartGold e Argento SoulSilver dal momento che né Johto, né Kanto presentano un Masso Muschioso o un Masso Ghiacciato.",
+        "Eevee, insieme a Trapinch, è uno dei tre Pokémon con due abilità non speciali che si evolvono in Pokémon con una sola abilità non speciale.",
+        "Nell'anime, nonostante il fatto che Gary, Vera e Sakura hanno tutti posseduto un Eevee che si è in seguito evoluto, non si era mai vista un'evoluzione in diretta di Eevee fino a Ultima chiamata, primo round!, ben tredici anni dall'inizio della serie, quando Ursula ha fatto evolvere i suoi due Eevee in Flareon e Vaporeon durante una Gara.",
+        "Il termine inventato dai fan per descrivere le evoluzioni di Eevee, Eeveeluzioni, è stato reso ufficiale dopo il suo utilizzo nella guida strategica di Pokémon Stadium 2.",
+        "In sesta generazione, Eevee è l'unico Pokémon pre-esistente a ricevere un'evoluzione.",
+        "I tipi di tutte le evoluzioni di Eevee finora introdotte fanno parte dei tipi speciali secondo la vecchia categorizzazione degli attacchi. L'unico tipo speciale che non ha un'Eeveeluzione è il tipo Drago.",
+        "Eevee è uno dei 2 Pokémon che cambia completamente tipo con l'evoluzione, l'altro è Cubone ad Alola. Prima della sesta generazione anche Azurill possedeva questa caratteristica.",
+        "Gli unici giochi dove Eevee non è trovabile neanche come Uovo sono quelli della serie principale ambientati ad Hoenn  ed i primi titoli di quinta generazione, Nero e Bianco. Nonostante ciò, nei loro sequel Nero 2 e Bianco 2, è possibile catturare Eevee ad Austropoli.",
+        "Il suo nome era inizialmente Eon, eone. Il termine non ha nessun collegamento con i Pokémon Eone Latias e Latios, bensì con l'unità geocronologica eone, che indica milioni di anni ed è legato all'evoluzione degli organismi viventi.",
+        "Eevee è il Pokémon iniziale del protagonista in Pokémon Conquest, dove si può evolvere nelle sue prime sette evoluzioni.",
+        "Eevee è l'unico Pokémon, insieme a Pikachu, ad aver cambiato completamente verso. Da Pokémon: Let's Go, Pikachu! e Let's Go, Eevee! a Pokémon Diamante Lucente e Perla Splendente il verso di Eevee è stato sostituito da registrazioni della sua doppiatrice della serie animata, Aoi Yūki."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/eevee.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "eevee",
+    "generation": 1,
+    "height": {
+        "eevee": "0.3 m",
+        "eevee-gigamax": "> 18.0 m"
+    },
+    "id": 133,
+    "name": "Eevee",
+    "name_origin": "Il nome di Eevee è la pronuncia inglese di \"E-V\", le prime due lettere della parola evoluzione, e infatti in giapponese si pronuncia lo stesso \"iivi\". ",
+    "origin": "L'aspetto di Eevee è simile a quello di diversi animali, come volpi , cani e gatti. Le sue caratteristiche potrebbero essere ispirate al Tanuki, un essere del folklore giapponese che può cambiare aspetto, all'allevamento di cani da cui si possono ottenere molte razze differenti, o alle diverse specie di volpi che vivono in ambienti differenti, come la volpe artica o la volpe del deserto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Eevee",
+    "shape": "quadrupede",
+    "specie": "Pokémon Evoluzione",
+    "sprites": {
+        "eevee": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e9/Homem0133.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homemsh0133.png"
+        },
+        "eevee-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/5/51/Homem0133Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fa/Homemsh0133Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b0/Artwork0133_RFVF.png"
+    },
+    "stats": {
+        "eevee": {
+            "hp": 55,
+            "atk": 55,
+            "def": 50,
+            "spa": 45,
+            "spd": 65,
+            "spe": 55
+        },
+        "eevee-gigamax": {
+            "hp": 55,
+            "atk": 55,
+            "def": 50,
+            "spa": 45,
+            "spd": 65,
+            "spe": 55
+        },
+        "compagno": {
+            "hp": 65,
+            "atk": 75,
+            "def": 70,
+            "spa": 65,
+            "spd": 85,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "eevee": 325,
+        "eevee-gigamax": 325,
+        "compagno": 435
+    },
+    "types": {
+        "eevee": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "eevee": "6.5 kg",
+        "eevee-gigamax": "???.? kg"
+    }
+}

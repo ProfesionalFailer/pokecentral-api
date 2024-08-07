@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "mudkip": {
+            "primary": "Acquaiuto",
+            "hidden": "Umidità"
+        }
+    },
+    "curiosities": [
+        "Mudkip è l'unico starter di tipo Acqua ad essere quadrupede, anche se le sue evoluzioni Marshtomp e Swampert sono in grado di camminare anche su due zampe.\n\tTuttavia, Froakie è in grado di camminare sia su due che su quattro zampe.",
+        "Tuttavia, Froakie è in grado di camminare sia su due che su quattro zampe.",
+        "Prima dell'ottava generazione Mudkip aveva la più alta statistica di Attacco tra tutti i Pokémon iniziali nella loro forma base.",
+        "In un sondaggio condotto da Nintendo of Europe, Mudkip è stato votato come il Pokémon iniziale favorito dei fan, con Typhlosion e Blastoise subito a ridosso.",
+        "Nonostante abbia nel nome la parola Inglese mud , non possiede il tipo terra.\n\tTuttavia lo acquisisce evolvendosi.",
+        "Tuttavia lo acquisisce evolvendosi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mudkip.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Acqua 1"
+    ],
+    "flat_name": "mudkip",
+    "generation": 3,
+    "height": {
+        "mudkip": "0.40 m"
+    },
+    "id": 258,
+    "name": "Mudkip",
+    "name_origin": "Il nome Mudkip è una combinazione di mud, fango, e skip, saltare, ed è stato probabilmente scelto perché suona come mudskipper, saltafango, oppure mudpuppy, una salamandra acquatica del sottordine salamandroidea. Il suo nome giapponese è probabilmente basato su 水 mizu, \"acqua\" e ムツゴロウ mutsugorō, saltafango. ",
+    "origin": "Questo Pokémon si basa sul mudpuppy o forse sul Ambystoma mexicanum. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mudkip",
+    "shape": "quadrupede",
+    "specie": "Pokémon Fango Pesce",
+    "sprites": {
+        "mudkip": {
+            "default": "https://media.pokemoncentral.it/wiki/7/76/Homem0258.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homemsh0258.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/03/Artwork0258_ROZA.png"
+    },
+    "stats": {
+        "mudkip": {
+            "hp": 50,
+            "atk": 70,
+            "def": 50,
+            "spa": 50,
+            "spd": 50,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "mudkip": 310
+    },
+    "types": {
+        "mudkip": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "mudkip": "7.6 kg"
+    }
+}

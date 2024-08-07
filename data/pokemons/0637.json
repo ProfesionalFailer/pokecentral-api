@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "volcarona": {
+            "primary": "Corpodifuoco",
+            "hidden": "Aiutinsetto"
+        }
+    },
+    "curiosities": [
+        "Prima dell'ottava generazione Larvesta e Volcarona avevano una combinazione di tipi unica.",
+        "Volcarona è il primo Pokémon ad avere una somma delle statistiche di base pari a 550.",
+        "Fino alla sesta generazione Volcarona era il Pokémon di tipo Coleottero, non leggendario e non megaevoluto, con le statistiche più alte. In settima generazione è stato superato da Buzzwole e Pheromosa.",
+        "Volcarona è il primo Pokémon ad avere un tasso di cattura pari a 15.",
+        "Larvesta e Volcarona sono i primi Pokémon non leggendari ad imparare una mossa al livello 100.",
+        "Talvolta, Volcarona viene scambiato per un Pokémon leggendario per via delle sue alte statistiche, per la sua descrizione e per alcuni tratti in comune con i leggendari, ad esempio la sua mossa esclusiva o l'apprendimento di una mossa al Livello 100. Tuttavia, ciò non è vero, e Volcarona è semplicemente un Pokémon molto potente legato alla mitologia del mondo dei Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/volcarona.mp3",
+    "dex_entries": {
+        "volcarona": {
+            "black": "Si dice che quando il mondo fu oscurato da ceneri vulcaniche, le fiamme di Volcarona avessero sostituito il sole.",
+            "white": "Quando lotta, sparge scaglie infuocate dalle sue sei ali, creando tutto intorno un mare di fuoco.",
+            "black-2": "Si pensa sia l'incarnazione del sole. Comparve durante un rigido inverno per salvare i Pokémon dal freddo.",
+            "white-2": "Si pensa sia l'incarnazione del sole. Comparve durante un rigido inverno per salvare i Pokémon dal freddo.",
+            "x": "Quando lotta, sparge scaglie infuocate dalle sue sei ali, creando tutto intorno un mare di fuoco.",
+            "y": "Si dice che quando il mondo fu oscurato da ceneri vulcaniche, le fiamme di Volcarona abbiano sostituito il sole.",
+            "omega-ruby": "Quando lotta, sparge scaglie infuocate dalle sue sei ali, creando tutto intorno un mare di fuoco.",
+            "alpha-sapphire": "Si dice che quando il mondo fu oscurato da ceneri vulcaniche, le fiamme di Volcarona abbiano sostituito il sole.",
+            "ultra-sun": "Vola spargendo scaglie infuocate. Era temuto dai popoli dell’antichità, che lo chiamavano \"Ira del sole\".",
+            "ultra-moon": "Secondo una leggenda è nato da un bozzolo infuocato per salvare dal freddo Pokémon ed esseri umani.",
+            "sword": "Si dice che le scaglie infuocate sparse da Volcarona a volte causino incendi e altre volte salvino chi soffre il freddo.",
+            "shield": "È nato da un bozzolo infuocato. Nelle pitture rupestri dell'antichità viene raffigurato come una divinità delle fiamme.",
+            "scarlet": "Chi vive in regioni calde odia il suo corpo infuocato, ma nelle terre più fredde viene venerato come l’incarnazione stessa del sole.",
+            "violet": "Sparge intorno a sé scaglie infuocate. Più che la loro temperatura rovente, il pericolo è che non rimanga più ossigeno nell’aria circostante."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "volcarona",
+    "generation": 5,
+    "height": {
+        "volcarona": "1.6 m"
+    },
+    "id": 637,
+    "name": "Volcarona",
+    "name_origin": "Il suo nome deriva da volcano  e corona, riferimento alla corona solare. Potrebbe anche riferirsi al dio romano Vulcano. ",
+    "origin": "È basato su una falena, probabilmente la farfalla cobra o la falena cecropia. Sembra essere inoltre un gioco di parole sull'espressione inglese \"like a moth to a flame\" . Potrebbe basarsi anche su una divinità del sole, come ad esempio Hathor, che sulla testa aveva corna bovine e un disco solare, in una composizione simile a quella formata dalle antenne e la testa di Volcarona. Le macchie scure sulle sue ali rappresentano le macchie solari, ma ricordano anche quelle presenti sui petali di un giglio rosso o un giglio tigrato. Infine potrebbe basarsi su un serafino, un angelo spesso raffigurato con sei ali legato all'elemento del fuoco, in quanto il suo stesso nome significa etimologicamente \"colui che arde\". ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Volcarona",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Sole",
+    "sprites": {
+        "volcarona": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ac/Homem0637.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/63/Homemsh0637.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bc/Artwork0637_NB.png"
+    },
+    "stats": {
+        "volcarona": {
+            "hp": 85,
+            "atk": 60,
+            "def": 65,
+            "spa": 135,
+            "spd": 105,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "volcarona": 550
+    },
+    "types": {
+        "volcarona": [
+            "Fuoco",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "volcarona": "46.0 kg"
+    }
+}

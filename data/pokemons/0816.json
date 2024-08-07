@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "sobble": {
+            "primary": "Acquaiuto",
+            "hidden": "Cecchino"
+        }
+    },
+    "curiosities": [
+        "Nel Fotodex di Lentil, Sobble non si trova vicino alle sue controparti, Scorbunny e Grookey.",
+        "Sobble ha, a pari merito con Torchic, la statistica di Attacco Speciale più alta tra tutti i Pokémon iniziali nella loro forma base."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sobble.mp3",
+    "dex_entries": {
+        "sobble": {
+            "sword": "Se si spaventa, produce lacrime con un fattore lacrimogeno cento volte più potente di quello di una cipolla per far piangere anche i nemici.",
+            "shield": "Quando si bagna, la pelle cambia colore e lo rende invisibile, come se si fosse mimetizzato."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "flat_name": "sobble",
+    "generation": 8,
+    "height": {
+        "sobble": "0.3 m"
+    },
+    "id": 816,
+    "name": "Sobble",
+    "name_origin": "Sobble è probabilmente una combinazione di sob, l'onomatopea del singhiozzo, e bubble, bolla, o dribble, gocciolare. Messon è probabilmente una combinazione di メソメソ mesomeso, singhiozzare, e chameleon, camaleonte. ",
+    "origin": "Sobble potrebbe essere basato su un camaleonte velato per via della sua colorazione simile agli esemplari maschi di questa specie. Il modo in cui il camaleonte velato raccoglie le goccioline d'acqua dal suo casco  per portarle alla sua bocca potrebbe aver ispirato le lacrime visibili sulla faccia del Pokémon, le lacrime reali quando piange e il tipo Acqua. Il tipo Acqua e la cresta sulla testa potrebbero anche prendere ispirazione dal basilisco. Potrebbe inoltre essere ispirato ad un bebè. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sobble",
+    "shape": "quadrupede",
+    "specie": "Pokémon Acquacertola",
+    "sprites": {
+        "sobble": {
+            "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0816.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/04/Homemsh0816.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f2/Artwork0816_SpSc.png"
+    },
+    "stats": {
+        "sobble": {
+            "hp": 50,
+            "atk": 40,
+            "def": 40,
+            "spa": 70,
+            "spd": 40,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "sobble": 310
+    },
+    "types": {
+        "sobble": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "sobble": "4.0 kg"
+    }
+}

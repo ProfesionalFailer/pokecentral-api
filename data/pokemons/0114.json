@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "tangela": {
+            "primary": "Clorofilla",
+            "secondary": "Fogliamanto",
+            "hidden": "Rigenergia"
+        }
+    },
+    "curiosities": [
+        "Il nome originario di Tangela era \"Meduza\".",
+        "Tangela è il primo Pokémon di tipo Erba puro nel Pokédex Nazionale e l'unico di prima generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tangela.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "tangela",
+    "generation": 1,
+    "height": {
+        "tangela": "1.0 m"
+    },
+    "id": 114,
+    "name": "Tangela",
+    "name_origin": "Tangela può essere una combinazione di \"tangle\", groviglio, e \"Medusa\". ",
+    "origin": "Tangela è probabilmente sulla base di Medusa, la Gorgone della mitologia greca, che aveva una testa di serpenti e tramutava ogni creatura che la guardava in pietra o semplicemente si basa su un cespuglio di liane. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tangela",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Liana",
+    "sprites": {
+        "tangela": {
+            "default": "https://media.pokemoncentral.it/wiki/0/00/Homem0114.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0114.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0114_RFVF.png"
+    },
+    "stats": {
+        "tangela": {
+            "hp": 65,
+            "atk": 55,
+            "def": 115,
+            "spa": 100,
+            "spd": 40,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "tangela": 435
+    },
+    "types": {
+        "tangela": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "tangela": "35.0 kg"
+    }
+}

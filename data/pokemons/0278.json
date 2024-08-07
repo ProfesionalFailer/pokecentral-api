@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "wingull": {
+            "primary": "Sguardofermo",
+            "secondary": "Idratazione",
+            "hidden": "Copripioggia"
+        }
+    },
+    "curiosities": [
+        "Wingull è uno dei quattordici Pokémon ad avere la descrizione Pokédex straniera in Pokémon Diamante e Perla.",
+        "Wingull ha esattamente le stesse statistiche di base di Taillow, con solo l'Attacco Speciale e l'Attacco scambiati.",
+        "Wingull, Taillow, Starly e Pikipek sono alla pari con:\n\tSpearow, Hoothoot e Ledyba per la statistica base di Difesa più bassa di tutti i Pokémon di tipo Volante.\n\tPidove per la statistica base di Difesa Speciale più bassa di tutti i Pokémon di tipo Volante.",
+        "Spearow, Hoothoot e Ledyba per la statistica base di Difesa più bassa di tutti i Pokémon di tipo Volante.",
+        "Pidove per la statistica base di Difesa Speciale più bassa di tutti i Pokémon di tipo Volante."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wingull.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 1",
+        "Volante"
+    ],
+    "flat_name": "wingull",
+    "generation": 3,
+    "height": {
+        "wingull": "0.60 m"
+    },
+    "id": 278,
+    "name": "Wingull",
+    "name_origin": "\"Wingull\" è molto probabilmente l'unione delle parole inglesi wing, ala, e gull, gabbiano. \"Camome\" deriva molto probabilmente da 鴎 kamome, gabbiano. ",
+    "origin": "Wingull è basato su un gabbiano. Le sue ali strette lo fanno assomigliare alle sagome semplificate a forma di V degli uccelli in volo raffigurate in alcuni disegni e dipinti. Le sue ali potrebbero anche essere un riferimento alla formazione a V utilizzata dagli uccelli migratori. La lunghezza delle sue ali e il suo modo di fluttuare sulle correnti d'aria ricordano gli albatri. I due ciuffi sopra la testa di Wingull ricordano orecchie di gatto, che potrebbero essere un riferimento al gabbiano codanera, conosciuto in giapponese come 海猫 umineko, letteralmente \"gatto di mare\", così chiamato per il verso del gabbiano che ricorda quello di un gatto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wingull",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Gabbiano",
+    "sprites": {
+        "wingull": {
+            "default": "https://media.pokemoncentral.it/wiki/2/26/Homem0278.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/36/Homemsh0278.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c0/Artwork0278_RZ.png"
+    },
+    "stats": {
+        "wingull": {
+            "hp": 40,
+            "atk": 30,
+            "def": 30,
+            "spa": 55,
+            "spd": 30,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "wingull": 270
+    },
+    "types": {
+        "wingull": [
+            "Volante",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "wingull": "9.5 kg"
+    }
+}

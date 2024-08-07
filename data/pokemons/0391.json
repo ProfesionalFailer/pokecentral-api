@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "monferno": {
+            "primary": "Aiutofuoco",
+            "hidden": "Ferropugno"
+        }
+    },
+    "curiosities": [
+        "Come per la famiglia di Charmander, la fiamma sulla coda di Monferno si affievolisce quando il Pokémon è debole.",
+        "Monferno mantiene la sua forma per 22 livelli prima di evolversi. È al pari con Quilava per essere il Pokémon iniziale di tipo Fuoco di primo stadio più longevo.",
+        "Condivide la specie con Pancham, essendo entrambi Pokémon Briccone."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/monferno.mp3",
+    "dex_entries": {
+        "monferno": {
+            "diamond": "Per intimorire i nemici che attaccano, intensifica le fiamme sulla coda per apparire più grande.",
+            "pearl": "Attacca la preda lanciandosi da soffitti e pareti. Le fiamme sulla coda sono solo una delle sue armi.",
+            "platinum": "Controlla abilmente l'intensità delle fiamme sulla sua coda per tenere i nemici alla distanza ideale.",
+            "heartgold": "La taglia della fiamma sulla coda e le sfumature azzurre sulla faccia ne determinano il rango nel branco.",
+            "soulsilver": "La taglia della fiamma sulla coda e le sfumature azzurre sulla faccia ne determinano il rango nel branco.",
+            "black": "Controlla abilmente l'intensità delle fiamme sulla sua coda per tenere i nemici alla distanza ideale.",
+            "white": "Controlla abilmente l'intensità delle fiamme sulla sua coda per tenere i nemici alla distanza ideale.",
+            "black-2": "Controlla abilmente l'intensità delle fiamme sulla sua coda per tenere i nemici alla distanza ideale.",
+            "white-2": "Controlla abilmente l'intensità delle fiamme sulla sua coda per tenere i nemici alla distanza ideale.",
+            "x": "Controlla abilmente l'intensità delle fiamme sulla sua coda per tenere i nemici alla distanza ideale.",
+            "y": "Attacca la preda lanciandosi da soffitti e pareti. Le fiamme sulla coda sono solo una delle sue armi.",
+            "omega-ruby": "Controlla abilmente l'intensità delle fiamme sulla sua coda per tenere i nemici alla distanza ideale.",
+            "alpha-sapphire": "Attacca la preda lanciandosi da soffitti e pareti. Le fiamme sulla coda sono solo una delle sue armi.",
+            "brilliant-diamond": "Intensifica la fiamma sulla coda per apparire più grande e intimorire così i nemici che lo attaccano.",
+            "shining-pearl": "Attacca la preda lanciandosi da soffitti e pareti. La fiamma sulla coda è solo una delle sue armi.",
+            "legends-arceus": "Più è profondo il ceruleo color del suo volto, maggiore è il suo vigore. Balza e volteggia in ogni dove, ledendo gli inimici con il fuoco della coda."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Umanoide"
+    ],
+    "flat_name": "monferno",
+    "generation": 4,
+    "height": {
+        "monferno": "0.9 m"
+    },
+    "id": 391,
+    "name": "Monferno",
+    "name_origin": "Deriva dalle parole monkey  e inferno. ",
+    "origin": "Basato sui mandrilli. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Monferno",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Briccone",
+    "sprites": {
+        "monferno": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5d/Homem0391.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7b/Homemsh0391.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b8/Artwork0391_DP.png"
+    },
+    "stats": {
+        "monferno": {
+            "hp": 64,
+            "atk": 78,
+            "def": 52,
+            "spa": 78,
+            "spd": 52,
+            "spe": 81
+        }
+    },
+    "stats_sum": {
+        "monferno": 405
+    },
+    "types": {
+        "monferno": [
+            "Fuoco",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "monferno": "22.0 kg"
+    }
+}

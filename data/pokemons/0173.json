@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "cleffa": {
+            "primary": "Incantevole",
+            "secondary": "Magicscudo",
+            "hidden": "Amicoscudo"
+        }
+    },
+    "curiosities": [
+        "Cleffa condivide il nome della categoria con Staryu. Sono entrambi noti come Pokémon Stella.",
+        "Cleffa è l'unico Pokémon con un totale di statistiche base pari a 218.",
+        "Cleffa condivide con Pawmi il record per il nome giapponese più corto tra tutti i Pokémon , essendo scritto solo con due kanji.",
+        "Cleffa, insieme a Igglybuff, è il Pokémon più lento di tipo Folletto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cleffa.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "cleffa",
+    "generation": 2,
+    "height": {
+        "cleffa": "0.3 m"
+    },
+    "id": 173,
+    "name": "Cleffa",
+    "name_origin": "Il nome Cleffa deriva dal francese clef  e dall'inglese fairy . È inoltre una contrazione del nome Clefairy, ad indicare che ne è una pre-evoluzione. Il suo nome giapponese, ピィ Py, è un'abbreviazione di pixie  e inoltre la contrazione di Pippi, il nome giapponese di Clefairy. ",
+    "origin": "Basato su una fata, come un pixie. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cleffa",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Stella",
+    "sprites": {
+        "cleffa": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6a/Homem0173.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0173.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d3/Artwork0173_RFVF.png"
+    },
+    "stats": {
+        "cleffa": {
+            "hp": 50,
+            "atk": 25,
+            "def": 28,
+            "spa": 45,
+            "spd": 55,
+            "spe": 15
+        }
+    },
+    "stats_sum": {
+        "cleffa": 218
+    },
+    "types": {
+        "cleffa": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "cleffa": "3.0 kg"
+    }
+}

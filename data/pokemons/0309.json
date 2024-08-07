@@ -1,0 +1,57 @@
+{
+    "abilities": {
+        "electrike": {
+            "primary": "Statico",
+            "secondary": "Parafulmine",
+            "hidden": "Meno"
+        }
+    },
+    "curiosities": [
+        "Electrike di Walter"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/electrike.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "electrike",
+    "generation": 3,
+    "height": {
+        "electrike": "0.60 m"
+    },
+    "id": 309,
+    "name": "Electrike",
+    "name_origin": "Deriva dalle parole electric, elettrico, e strike, attacco, colpo. ",
+    "origin": "Basato su un crisocione ma potrebbe essere ispirato ad un Raijū. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Electrike",
+    "shape": "quadrupede",
+    "specie": "Pokémon Lampo",
+    "sprites": {
+        "electrike": {
+            "default": "https://media.pokemoncentral.it/wiki/4/43/Homem0309.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0309.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ac/Artwork0309_RZ.png"
+    },
+    "stats": {
+        "electrike": {
+            "hp": 40,
+            "atk": 45,
+            "def": 40,
+            "spa": 65,
+            "spd": 40,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "electrike": 295
+    },
+    "types": {
+        "electrike": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "electrike": "15.2 kg"
+    }
+}

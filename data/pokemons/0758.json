@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "salazzle": {
+            "primary": "Corrosione",
+            "hidden": "Indifferenza"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di settima generazione",
+        "Pokémon di tipo Veleno",
+        "Pokémon di tipo Fuoco",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Nero",
+        "Pokémon dalla sagoma n. 08",
+        "Pokémon esclusivamente femmine",
+        "Pokémon di Gruppo Uova Mostro",
+        "Pokémon di Gruppo Uova Drago",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 480"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/salazzle.mp3",
+    "dex_entries": {
+        "salazzle": {
+            "sun": "Sono stati trovati solo esemplari femmina, che sono soliti circondarsi di maschi di Salandit.",
+            "moon": "Il gas tossico che emana contiene feromoni. Se viene diluito, se ne ricava un profumo che ha un grande potere d’attrazione.",
+            "ultra-sun": "Vive nel profondo delle caverne e si circonda di Salandit che ammalia con i suoi potenti feromoni.",
+            "ultra-moon": "Punisce i Salandit che tornano senza una preda schiaffeggiandoli vigorosamente con le zampe anteriori che sprigionano fuoco.",
+            "sword": "Esistono solo esemplari femmina. Produce un gas ricco di feromoni con cui ammalia i Salandit maschi.",
+            "shield": "Sembra che nelle dispute tra Salazzle prevalga sempre l'esemplare che ha il maggior numero di Salandit maschi al seguito.",
+            "scarlet": "Trasforma gli avversari in seguaci stordendoli con del gas tossico per poi sedurli con movenze ammalianti.",
+            "violet": "Quando due Salazzle si scontrano, si contendono i maschi dei rispettivi branchi usando del gas carico di feromoni."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "flat_name": "salazzle",
+    "generation": 7,
+    "height": {
+        "salazzle": "1.2 m",
+        "dominante": "2.1 m"
+    },
+    "id": 758,
+    "name": "Salazzle",
+    "name_origin": "Salazzle può essere una combinazione di salamandra e dazzle, abbagliare, o sizzle, sfrigolare. Ennyūto può essere una combinazione di 炎 en, fiamma, o 艶 en, ammaliante, e Newt. ",
+    "origin": "Salazzle è ispirato ad una salamandra. Nelle leggende, le salamandre sono associate spesso al fuoco o, in alcuni casi, anche al veleno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Salazzle",
+    "shape": "quadrupede",
+    "specie": "Pokémon Lucertossina",
+    "sprites": {
+        "salazzle": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e8/Homef0758.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homefsh0758.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2c/Artwork0758_SL.png"
+    },
+    "stats": {
+        "salazzle": {
+            "hp": 68,
+            "atk": 64,
+            "def": 60,
+            "spa": 111,
+            "spd": 60,
+            "spe": 117
+        }
+    },
+    "stats_sum": {
+        "salazzle": 480
+    },
+    "types": {
+        "salazzle": [
+            "Veleno",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "salazzle": "22.2 kg",
+        "dominante": "81.0 kg"
+    }
+}

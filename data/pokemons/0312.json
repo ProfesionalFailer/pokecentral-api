@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "minun": {
+            "primary": "Meno",
+            "hidden": "Assorbivolt"
+        }
+    },
+    "curiosities": [
+        "Minun condivide la categoria con il suo partner Plusle. Entrambi sono noti come Pokémon Incitamento.",
+        "Minun e Pluse hanno lo stesso totale di statistiche base, anche se la distribuzione è diversa: Minun è più orientato alla difesa, mentre Plusle è più orientato all'attacco.",
+        "In Super Smash Bros. Brawl ci sono diversi file per personaggi giocabili inutilizzati. Uno di questi file si chiama \"Pra_Mai\", portando alcuni giocatori a ipotizzare che Plusle e Minun fossero considerati per apparire come un tag team, come gli Ice Climbers.",
+        "Un testo inutilizzato in Pokémon Colosseum suggerisce che nel gioco sarebbe dovuto apparire un Minun Ombra."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/minun.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Magico"
+    ],
+    "flat_name": "minun",
+    "generation": 3,
+    "height": {
+        "minun": "0.40 m"
+    },
+    "id": 312,
+    "name": "Minun",
+    "name_origin": "Il nome Minun è basato su minus, meno, riferendosi a qualcosa con una carica elettrica negativa. ",
+    "origin": "Sembra essere basato su un topo o un coniglio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Minun",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Incitamento",
+    "sprites": {
+        "minun": {
+            "default": "https://media.pokemoncentral.it/wiki/7/74/Homem0312.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0a/Homemsh0312.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2f/Artwork0312_RZ.png"
+    },
+    "stats": {
+        "minun": {
+            "hp": 60,
+            "atk": 40,
+            "def": 50,
+            "spa": 75,
+            "spd": 85,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "minun": 405
+    },
+    "types": {
+        "minun": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "minun": "4.2 kg"
+    }
+}

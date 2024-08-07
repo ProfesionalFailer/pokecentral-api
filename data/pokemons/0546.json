@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "cottonee": {
+            "primary": "Burla",
+            "secondary": "Intrapasso",
+            "hidden": "Clorofilla"
+        }
+    },
+    "curiosities": [
+        "In sesta generazione Cottonee e Whimsicott avevano una combinazione di tipi unica.",
+        "In Pokémon Nero 2 e Bianco 2 Cottonee diventa più piccolo.",
+        "Le sezioni gonfie sulla parte superiore della sua testa e la sua parte inferiore diventano scure."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cottonee.mp3",
+    "dex_entries": {
+        "cottonee": {
+            "black": "Se viene attaccato crea una nuvola di cotone per confondere il nemico, poi ne approfitta per fuggire.",
+            "white": "Si sposta sospinto dal vento. Nei giorni di pioggia si appesantisce e trova riparo ai piedi di grossi alberi.",
+            "black-2": "Si sentono più sicuri in gruppo. Quando incontrano i loro simili, non li lasciano e insieme formano una grande nuvola.",
+            "white-2": "Si sentono più sicuri in gruppo. Quando incontrano i loro simili, non li lasciano e insieme formano una grande nuvola.",
+            "x": "Se viene attaccato crea una nuvola di cotone per confondere il nemico, poi ne approfitta per fuggire.",
+            "y": "Si sentono più sicuri in gruppo, e quando incontrano i loro simili non li lasciano più formando come una grande nuvola.",
+            "omega-ruby": "Se viene attaccato crea una nuvola di cotone per confondere il nemico, poi ne approfitta per fuggire.",
+            "alpha-sapphire": "Si sentono più sicuri in gruppo, e quando incontrano i loro simili non li lasciano più formando come una grande nuvola.",
+            "sun": "Quando si incontrano, i Cottonee si attaccano l'uno all'altro. Se sono in tanti, possono formare ammassi simili a immense nuvole.",
+            "moon": "Il cotone prodotto da Cottonee viene usato per cuscini e materassi leggeri, traspiranti e di ottima qualità.",
+            "ultra-sun": "Si difende creando una nuvola di cotone. Quando piove, il cotone si appesantisce per l'umidità, impedendogli di muoversi.",
+            "ultra-moon": "Se viene attaccato, crea una nuvola di cotone come diversivo. Il cotone consumato a questo scopo ricresce immediatamente.",
+            "sword": "Si difende creando una nuvola di cotone. A volte viene trasportato fino all'altro capo del mondo dai tifoni.",
+            "shield": "Le case di alta moda utilizzano pregiati tessuti realizzati con il cotone prodotto da Cottonee ed Eldegoss."
+        }
+    },
+    "egg_groups": [
+        "Erba",
+        "Magico"
+    ],
+    "flat_name": "cottonee",
+    "generation": 5,
+    "height": {
+        "cottonee": "0.3 m"
+    },
+    "id": 546,
+    "name": "Cottonee",
+    "name_origin": "Il nome di Cottonee deriva dalla parola inglese cotton  o cottony  e wee . ",
+    "origin": "Cottonee è basato sulla pianta di cotone e su una nuvola. Potrebbe inoltre basarsi sulla testa di una pecora. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cottonee",
+    "shape": "testa",
+    "specie": "Pokémon Cotonpalla",
+    "sprites": {
+        "cottonee": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7f/Homem0546.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4f/Homemsh0546.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/08/Artwork0546_NB.png"
+    },
+    "stats": {
+        "cottonee": {
+            "hp": 40,
+            "atk": 27,
+            "def": 60,
+            "spa": 37,
+            "spd": 50,
+            "spe": 66
+        }
+    },
+    "stats_sum": {
+        "cottonee": 280
+    },
+    "types": {
+        "cottonee": [
+            "Erba",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "cottonee": "0.6 kg"
+    }
+}

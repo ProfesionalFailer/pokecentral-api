@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "golisopod": {
+            "primary": "Passoindietro"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di settima generazione",
+        "Pokémon di tipo Coleottero",
+        "Pokémon di tipo Acqua",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Grigio",
+        "Pokémon dalla sagoma n. 12",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Coleottero",
+        "Pokémon di Gruppo Uova Acqua 3",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 530"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/golisopod.mp3",
+    "dex_entries": {
+        "golisopod": {
+            "sun": "È talmente abile con i suoi enormi artigli affilati da essere in grado di tagliare in due persino le particelle dell’aria e dell’acqua.",
+            "moon": "Lotta con destrezza impiegando le sue sei braccia. Preferisce condurre una vita quieta e contemplativa nelle caverne degli abissi marini.",
+            "ultra-sun": "Il durissimo carapace che protegge il suo corpo è resistente come il diamante. Questo Pokémon è disposto a tutto pur di vincere.",
+            "ultra-moon": "La sua arma più potente sono gli artigli, che può estendere e ritrarre a volontà. A volte si fa accompagnare da Wimpod.",
+            "sword": "È disposto a tutto per vincere. Colpisce l'avversario quando abbassa la guardia e lo finisce con i piccoli artigli degli arti anteriori.",
+            "shield": "Vive sul fondo del mare, nelle buche o nei relitti. Si scontra sempre con Grapploct. Il perdente diventa il cibo del vincitore."
+        }
+    },
+    "egg_groups": [
+        "Coleottero",
+        "Acqua 3"
+    ],
+    "flat_name": "golisopod",
+    "generation": 7,
+    "height": {
+        "golisopod": "2.0 m"
+    },
+    "id": 768,
+    "name": "Golisopod",
+    "name_origin": "Golisopod potrebbe derivare da Goliath ed isopode. Gusokumusha può essere una combinazione di 大王具足虫 daiō-gusokumushi, isopode gigante, 具足 gusoku, completamente attrezzata, e 武者 musha, guerriero. ",
+    "origin": "Golisopod potrebbe essere basato su di un isopode gigante e sull'armatura di un samurai. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Golisopod",
+    "shape": "bipedi",
+    "specie": "Pokémon Blindato",
+    "sprites": {
+        "golisopod": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5d/Homem0768.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f4/Homemsh0768.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/31/Artwork0768_SL.png"
+    },
+    "stats": {
+        "golisopod": {
+            "hp": 75,
+            "atk": 125,
+            "def": 140,
+            "spa": 60,
+            "spd": 90,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "golisopod": 530
+    },
+    "types": {
+        "golisopod": [
+            "Coleot",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "golisopod": "108.0 kg"
+    }
+}

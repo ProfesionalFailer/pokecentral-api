@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "chespin": {
+            "primary": "Erbaiuto",
+            "hidden": "Antiproiettile"
+        }
+    },
+    "curiosities": [
+        "Chespin è il primo Pokémon iniziale di tipo Erba a non essere basato su un rettile.",
+        "In sesta generazione Chespin era l'unico Pokémon iniziale dotato di un'abilità esclusiva.",
+        "Nell'anime, Chespin, Grookey e Sprigatito sono gli unici Pokémon iniziali di tipo Erba che Ash non ha mai avuto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/chespin.mp3",
+    "dex_entries": {
+        "chespin": {
+            "x": "Può indurire le punte che ha sulla testa, di solito morbide, per farle diventare talmente affilate e appuntite da penetrare nella roccia.",
+            "y": "Ha schiena e testa coperte da un guscio talmente resistente che non farebbe una piega nemmeno se ci passasse sopra un tir.",
+            "omega-ruby": "Può indurire le punte che ha sulla testa, di solito morbide, per farle diventare talmente affilate e appuntite da penetrare nella roccia.",
+            "alpha-sapphire": "Ha schiena e testa coperte da un guscio talmente resistente che non farebbe una piega nemmeno se ci passasse sopra un tir."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "chespin",
+    "generation": 6,
+    "height": {
+        "chespin": "0.4 m"
+    },
+    "id": 650,
+    "name": "Chespin",
+    "name_origin": "Chespin è una combinazione di chestnut  e pin . Potrebbe venire anche da chinkapin , urchin , e da spina. Harimaron è una combinazione tra 針鼠 / 蝟 harinezumi , 針 hari , e marron . ",
+    "origin": "Chespin è basato molto probabilmente su uno scoiattolo striato, appartenente al genere Tamias più noto col nome inglese di chipmunk. Il suo copricapo, inoltre, è basato probabilmente sul riccio di una castagna. Questo sarebbe spiegato sia dal colore marroncino di Chespin, che richiama quello delle castagne, sia dalla prima parte del suo nome, che deriva dall'inglese Chestnut, appunto castagno. Anche la traduzione in giapponese di scoiattolo  letteralmente significa topo delle castagne. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chespin",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Castanriccio",
+    "sprites": {
+        "chespin": {
+            "default": "https://media.pokemoncentral.it/wiki/3/36/Homem0650.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homemsh0650.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/53/Artwork0650_XY.png"
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 56,
+            "atk": 61,
+            "def": 65,
+            "spa": 48,
+            "spd": 45,
+            "spe": 38
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 313
+    },
+    "types": {
+        "chespin": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "chespin": "9.0 kg"
+    }
+}

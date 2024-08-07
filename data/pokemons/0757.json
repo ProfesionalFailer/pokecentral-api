@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "salandit": {
+            "primary": "Corrosione",
+            "hidden": "Indifferenza"
+        }
+    },
+    "curiosities": [
+        "Prima della nona generazione Salandit e la sua evoluzione erano gli unici Pokémon con la combinazione di tipi Veleno/Fuoco.",
+        "Salandit è uno dei cinque Pokémon la cui evoluzione è basata sul genere. Gli altri quattro sono Burmy in Wormadam e Mothim, Kirlia in Gallade, Snorunt in Froslass e Combee in Vespiquen."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/salandit.mp3",
+    "dex_entries": {
+        "salandit": {
+            "sun": "Dalla combustione di fluidi corporei crea un gas velenoso che usa per stordire gli avversari. Ne approfitta poi per attaccarli.",
+            "moon": "Vive nei vulcani e in territori pietrosi e aridi. Sprigiona un gas tossico dall'odore dolciastro con cui attira Pokémon Coleottero per attaccarli.",
+            "ultra-sun": "I maschi di Salandit sono del tutto in balia delle femmine, a cui offrono ogni preda catturata. Non si evolvono a causa della malnutrizione.",
+            "ultra-moon": "Fa barcollare il nemico con un gas velenoso per poi attaccarlo. Spinda, che barcolla già di suo, lo mette molto in difficoltà.",
+            "sword": "Con la fiamma della coda brucia i fluidi corporei generati dalle sue sacche di veleno, producendo un gas velenoso.",
+            "shield": "Si avvicina alla preda da dietro senza farsi vedere e prima che possa rendersene conto le spruzza addosso un gas velenoso paralizzante.",
+            "scarlet": "Provoca le sue prede e le attira in stretti luoghi rocciosi, per poi stordirle con il suo gas velenoso e abbatterle.",
+            "violet": "Le femmine di Salandit possono generare un gas contenente feromoni che ammalia i maschi, lasciandoli completamente alla loro mercé."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "flat_name": "salandit",
+    "generation": 7,
+    "height": {
+        "salandit": "0.6 m"
+    },
+    "id": 757,
+    "name": "Salandit",
+    "name_origin": "Salandit potrebbe derivare dalla parola salamander, salamandra, e bandit, bandito. Yatōmori potrebbe essere una combinazione di 夜盗 yatō, ladro e 井守 imori, tritone. ",
+    "origin": "Salandit è ispirato ad una salamandra e al classico stereotipo di bandito o ladro. Nelle leggende, le salamandre sono associate spesso al fuoco o, in alcuni casi, anche al veleno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Salandit",
+    "shape": "quadrupede",
+    "specie": "Pokémon Lucertossina",
+    "sprites": {
+        "salandit": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8a/Homem0757.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a4/Homemsh0757.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5d/Artwork0757_SL.png"
+    },
+    "stats": {
+        "salandit": {
+            "hp": 48,
+            "atk": 44,
+            "def": 40,
+            "spa": 71,
+            "spd": 40,
+            "spe": 77
+        }
+    },
+    "stats_sum": {
+        "salandit": 320
+    },
+    "types": {
+        "salandit": [
+            "Veleno",
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "salandit": "4.8 kg"
+    }
+}

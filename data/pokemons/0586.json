@@ -1,0 +1,99 @@
+{
+    "abilities": {
+        "sawsbuck": {
+            "primary": "Clorofilla",
+            "secondary": "Mangiaerba",
+            "hidden": "Leggiadro"
+        }
+    },
+    "curiosities": [
+        "Prima dell'introduzione di Smoliv nella nona generazione, Sawsbuck e Deerling avevano una combinazione di tipi unica . Rimangono comunque gli unici Pokémon ad avere come tipo primario Normale e come tipo secondario Erba.",
+        "La Forma Estate di Sawsbuck è l'unica ad avere la coda che punta in alto, nessun ciuffo di pelo sul collo, un ciuffo di pelo sulla nuca e le zampe completamente marroni.",
+        "Sawsbuck rappresenta il mese di gennaio  nell'oroscopo di Unima."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sawsbuck.mp3",
+    "dex_entries": {
+        "sawsbuck": {
+            "black": "Cambia dimora a seconda delle stagioni. Gli uomini si accorgono del cambio di stagione osservando le sue corna.",
+            "white": "I fiori che crescono sulle sue corna cambiano a seconda della stagione. I capibranco hanno corna meravigliose.",
+            "black-2": "Si spostano da un luogo all'altro al mutare delle stagioni, per questo alcuni dicono che portano con sé la primavera.",
+            "white-2": "Si spostano da un luogo all'altro al mutare delle stagioni, per questo alcuni dicono che portano con sé la primavera.",
+            "x": "Cambia dimora a seconda delle stagioni. Gli uomini si accorgono del cambio di stagione osservando le sue corna.",
+            "y": "Si spostano da un luogo all'altro al mutare delle stagioni, per questo alcuni dicono che portano con sé la primavera.",
+            "omega-ruby": "Cambia dimora a seconda delle stagioni. Gli uomini si accorgono del cambio di stagione osservando le sue corna.",
+            "alpha-sapphire": "Si spostano da un luogo all'altro al mutare delle stagioni, per questo alcuni dicono che portano con sé la primavera."
+        },
+        "forma-primavera": {
+            "scarlet": "Gli esemplari che hanno più fiori sulle corna crescono un po’ più lentamente, perché i fiori assorbono più sostanze nutritive.",
+            "violet": "Questo Pokémon è molto ammirato. È ritenuto tanto più bello quanto più sono pallidi i fiori rosa che sbocciano sulle sue corna."
+        },
+        "forma-estate": {
+            "scarlet": "È un Pokémon con tanti ammiratori. Più grandi e fitte sono le fronde che crescono sulle corna, più l’esemplare è considerato eccezionale.",
+            "violet": "Con le sue foglie si prepara del tè nero il cui gusto varia a seconda del luogo d’origine. Quello di Paldea ha un profumo intenso."
+        },
+        "forma-autunno": {
+            "scarlet": "È un Pokémon con tanti ammiratori. Più è intenso il rosso delle fronde che pendono dalle corna, più l’esemplare è considerato elegante.",
+            "violet": "Sawsbuck Forma Autunno è noto per il suo temperamento aggressivo. Le zuffe tra maschi sono all’ordine del giorno."
+        },
+        "forma-inverno": {
+            "scarlet": "Si dice che nel periodo in cui assume questa forma sia docile e molto facile da istruire. È la stagione perfetta per chi ne vuole uno.",
+            "violet": "È un Pokémon con tanti ammiratori, ma gli esemplari in questa forma sono i soli a non essere molto amati."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "sawsbuck",
+    "generation": 5,
+    "height": {
+        "sawsbuck": "1.9 m"
+    },
+    "id": 586,
+    "name": "Sawsbuck",
+    "name_origin": "Il nome di Sawsbuck deriva dall'inglese sawbuck  e buck . Inoltre, saws è una combinazione delle iniziali delle stagioni in inglese -Summer , Autumn , Winter  e Spring . ",
+    "origin": "Sawsbuck è probabilmente basato su un cervo di Padre David, una specie di cervo che si decora le corna con delle foglie durante la stagione dell'accoppiamento. La corna invece sono basate sull'albero deciduo a causa della loro peculiarità di cambiare forma a seconda della stagione. Potrebbe anche essere basato su una delle avventure del Barone di Münchausen, nella quale lo stesso barone è intento a cacciare un cervo e cerca di sparargli con i noccioli di ciliegia che tiene nel suo moschetto. Il cervo sopravvive e fugge e l'anno successivo viene avvistato un cervo con un albero di ciliegio che cresce sulla sua testa come un paio di corna.  ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sawsbuck",
+    "shape": "quadrupede",
+    "specie": "Pokémon Stagione",
+    "sprites": {
+        "forma-primavera": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0f/Homem0586.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/79/Homemsh0586.png"
+        },
+        "forma-estate": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3f/Homem0586E.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d5/Homemsh0586E.png"
+        },
+        "forma-autunno": {
+            "default": "https://media.pokemoncentral.it/wiki/d/db/Homem0586A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ee/Homemsh0586A.png"
+        },
+        "forma-inverno": {
+            "default": "https://media.pokemoncentral.it/wiki/3/35/Homem0586I.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/21/Homemsh0586I.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/06/Artwork0586_NB.png"
+    },
+    "stats": {
+        "sawsbuck": {
+            "hp": 80,
+            "atk": 100,
+            "def": 70,
+            "spa": 60,
+            "spd": 70,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "sawsbuck": 475
+    },
+    "types": {
+        "sawsbuck": [
+            "Erba",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "sawsbuck": "92.5 kg"
+    }
+}

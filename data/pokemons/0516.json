@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "simipour": {
+            "primary": "Voracità",
+            "hidden": "Acquaiuto"
+        }
+    },
+    "curiosities": [
+        "Simipour rappresenta il mese di febbraio  nell'oroscopo di Unima.",
+        "Inizialmente, la coda di Simipour doveva essere completamente azzurra, non solo la punta, come si può vedere da un artwork provvisorio di Ken Sugimori."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/simipour.mp3",
+    "dex_entries": {
+        "simipour": {
+            "black": "Accumula acqua nel ciuffo. Quando il livello di acqua diminuisce, fa rifornimento aspirandola dalla coda.",
+            "white": "Spruzza dalla coda un getto d'acqua ad alta pressione, con una potenza tale da distruggere anche pareti di cemento.",
+            "black-2": "Predilige i luoghi dove l'acqua è pura. Se l'acqua che ha sul capo diminuisce, ne aggiunge altra aspirandola con la coda.",
+            "white-2": "Predilige i luoghi dove l'acqua è pura. Se l'acqua che ha sul capo diminuisce, ne aggiunge altra aspirandola con la coda.",
+            "x": "Spruzza dalla coda un getto d'acqua ad alta pressione, con una potenza tale da distruggere anche pareti di cemento.",
+            "y": "Predilige i luoghi dove l'acqua è pura. Se l'acqua che ha sul capo diminuisce, ne aggiunge altra aspirandola con la coda.",
+            "omega-ruby": "Spruzza dalla coda un getto d'acqua ad alta pressione, con una potenza tale da distruggere anche pareti di cemento.",
+            "alpha-sapphire": "Predilige i luoghi dove l'acqua è pura. Se l'acqua che ha sul capo diminuisce, ne aggiunge altra aspirandola con la coda."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "simipour",
+    "generation": 5,
+    "height": {
+        "simipour": "1.0 m"
+    },
+    "id": 516,
+    "name": "Simipour",
+    "name_origin": "Simipour è una combinazione dei termini inglesi simian  e pour . ",
+    "origin": "È basato su una scimmia e su una fontana. Si ispira alle tre scimmie sagge del santuario di Nikko, nello specifico a Mizaru, la scimmia che \"Non vede il Male\", motivo per il quale ha gli occhi chiusi. Un'altra possibile ispirazione è l'Ahuizotl, un mostro acquatico della mitologia azteca che aveva zampe scimmiesche. Potrebbe inoltre giocare sul modo in cui vengono chiamate le artemia salina, scimmie di mare. La rappresentazione degli sgorghi d'acqua sulla coda e sulla testa potrebbe trarre ispirazione, oltre che dalle fontane, dai geyser o dalle cascate. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Simipour",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Spruzzacqua",
+    "sprites": {
+        "simipour": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c0/Homem0516.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0516.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/07/Artwork0516_NB.png"
+    },
+    "stats": {
+        "simipour": {
+            "hp": 75,
+            "atk": 98,
+            "def": 63,
+            "spa": 98,
+            "spd": 63,
+            "spe": 101
+        }
+    },
+    "stats_sum": {
+        "simipour": 498
+    },
+    "types": {
+        "simipour": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "simipour": "29.0 kg"
+    }
+}

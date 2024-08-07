@@ -1,0 +1,93 @@
+{
+    "abilities": {
+        "crawdaunt": {
+            "primary": "Ipertaglio",
+            "secondary": "Guscioscudo",
+            "hidden": "Adattabilità"
+        }
+    },
+    "curiosities": [
+        "Crawdaunt è l'unico Pokémon con un tasso di cattura pari a 155.",
+        "Crawdaunt può essere visto come parallelo di Whiscash:\n\tEntrambi hanno la stessa somma statistiche base di 468 e sono i soli con questo totale.\n\tCondividono il tipo Acqua essendo entrambi ispirati, almeno in parte, ad animali di acqua dolce.\n\tSi sono evoluti entrambi Livello 30.\n\tLe loro linee evolutive sono poste vicine nel Pokédex nazionale.",
+        "Entrambi hanno la stessa somma statistiche base di 468 e sono i soli con questo totale.",
+        "Condividono il tipo Acqua essendo entrambi ispirati, almeno in parte, ad animali di acqua dolce.",
+        "Si sono evoluti entrambi Livello 30.",
+        "Le loro linee evolutive sono poste vicine nel Pokédex nazionale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/crawdaunt.mp3",
+    "dex_entries": {
+        "crawdaunt": {
+            "ruby": "CRAWDAUNT, dalla natura estremamente violenta, sfida sempre in lotta gli altri esseri viventi, che per questo motivo abbandonano i laghi abitati da questo POKéMON, lasciandoli deserti e desolati.",
+            "sapphire": "CRAWDAUNT muta regolarmente la corazza. Subito dopo la muta, la nuova corazza è tenera e delicata. Finché non si è indurita totalmente, il POKéMON vive nascosto nella sua tana sott'acqua per evitare attacchi.",
+            "emerald": "POKéMON violento che ama la lotta, CRAWDAUNT possiede due chele affilate ricoperte di cicatrici se si tratta di un esemplare con grande esperienza di lotta.",
+            "firered": "POKéMON violento che flagella il nemico con gli artigli affilati. Sembra essere molto difficile da allevare.",
+            "leafgreen": "POKéMON violento che flagella il nemico con gli artigli affilati. Sembra essere molto difficile da allevare.",
+            "diamond": "Pokémon violento che afferra il nemico con le chele e lo scaraventa fuori dal suo stagno.",
+            "pearl": "Pokémon violento che afferra il nemico con le chele e lo scaraventa fuori dal suo stagno.",
+            "platinum": "Pokémon violento che afferra il nemico con le chele e lo scaraventa fuori dal suo stagno.",
+            "heartgold": "Predilige la lotta. Il malcapitato che si avvicina alla sua tana verrà malmenato brutalmente.",
+            "soulsilver": "Predilige la lotta. Il malcapitato che si avvicina alla sua tana verrà malmenato brutalmente.",
+            "black": "Pokémon violento che afferra il nemico con le chele e lo scaraventa fuori dal suo stagno.",
+            "white": "Pokémon violento che afferra il nemico con le chele e lo scaraventa fuori dal suo stagno.",
+            "black-2": "È un Pokémon molto bellicoso che afferra con le chele chiunque osi entrare nel suo territorio per scaraventarlo fuori.",
+            "white-2": "È un Pokémon molto bellicoso che afferra con le chele chiunque osi entrare nel suo territorio per scaraventarlo fuori.",
+            "x": "Pokémon violento che afferra il nemico con le chele e lo scaraventa fuori dal suo stagno.",
+            "y": "È un Pokémon molto bellicoso che afferra con le chele chiunque osi entrare nel suo territorio per scaraventarlo fuori.",
+            "omega-ruby": "Crawdaunt, dalla natura estremamente violenta, sfida sempre a una lotta gli altri esseri viventi, che per questo motivo abbandonano i luoghi abitati da questo Pokémon, lasciandoli deserti e desolati.",
+            "alpha-sapphire": "Crawdaunt muta regolarmente la corazza. Subito dopo la muta, la nuova corazza è tenera e delicata. Finché non si è indurita totalmente, il Pokémon vive nascosto nella sua tana sott'acqua per evitare attacchi.",
+            "ultra-sun": "Ha una natura estremamente violenta e ama le lotte, ma quando gli cadono le chele perde tutto il suo coraggio finché non ricrescono.",
+            "ultra-moon": "Spesso perde le chele, ma la polpa all'interno, a differenza delle chele dei Crabrawler e dei Clauncher, ha uno sgradevole sapore di terra.",
+            "sword": "Pokémon violento che flagella il nemico con le sue chele affilate. Sembra che sia molto difficile allenarlo.",
+            "shield": "Ama la lotta. Il malcapitato che si avvicina alla sua tana verrà brutalmente malmenato.",
+            "brilliant-diamond": "Pokémon violento che afferra con le chele gli altri Pokémon che vivono nello stagno e li scaraventa fuori.",
+            "shining-pearl": "Pokémon violento che afferra con le chele gli altri Pokémon che vivono nello stagno e li scaraventa fuori.",
+            "scarlet": "Pokémon molto bellicoso che afferra con le chele chiunque osi entrare nel suo territorio, per poi scaraventarlo fuori.",
+            "violet": "Di indole violenta, agita selvaggiamente le sue enormi chele. Sembra che sia molto difficile da allenare."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 3"
+    ],
+    "flat_name": "crawdaunt",
+    "generation": 3,
+    "height": {
+        "crawdaunt": "1.10 m"
+    },
+    "id": 342,
+    "name": "Crawdaunt",
+    "name_origin": "Deriva dalle parole crawdad  e daunt . ",
+    "origin": "È probabilmente basato sul gambero rosso Procambarus clarkii e il suo aspetto ricorda un astice. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Crawdaunt",
+    "shape": "insettoide",
+    "specie": "Pokémon Canaglia",
+    "sprites": {
+        "crawdaunt": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0342.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0342.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0342_RZ.png"
+    },
+    "stats": {
+        "crawdaunt": {
+            "hp": 63,
+            "atk": 120,
+            "def": 85,
+            "spa": 90,
+            "spd": 55,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "crawdaunt": 468
+    },
+    "types": {
+        "crawdaunt": [
+            "Buio",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "crawdaunt": "32.8 kg"
+    }
+}

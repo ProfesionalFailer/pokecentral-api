@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "liepard": {
+            "primary": "Scioltezza",
+            "secondary": "Agiltecnica",
+            "hidden": "Burla"
+        }
+    },
+    "curiosities": [
+        "Liepard è l'unico Pokémon con la somma di statistiche base pari a 446."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/liepard.mp3",
+    "dex_entries": {
+        "liepard": {
+            "black": "Pokémon imprevedibile e indomabile dalla magnifica pelliccia, le cui linee aggraziate attirano molti Allenatori.",
+            "white": "Si avvicina di soppiatto alle spalle del nemico colpendolo prima che se ne accorga.",
+            "black-2": "I muscoli tonici del suo corpo gli donano una figura davvero affascinante. Si aggira silenzioso nel buio della notte.",
+            "white-2": "I muscoli tonici del suo corpo gli donano una figura davvero affascinante. Si aggira silenzioso nel buio della notte.",
+            "x": "I muscoli tonici del suo corpo gli donano una figura davvero affascinante. Si aggira silenzioso nel buio della notte.",
+            "y": "Si avvicina di soppiatto alle spalle del nemico colpendolo prima che se ne accorga.",
+            "omega-ruby": "I muscoli tonici del suo corpo gli donano una figura davvero affascinante. Si aggira silenzioso nel buio della notte.",
+            "alpha-sapphire": "Si avvicina di soppiatto alle spalle del nemico colpendolo prima che se ne accorga.",
+            "sword": "Pokémon dalla magnifica pelliccia e dalle linee aggraziate, dietro cui si nasconde un carattere volubile e feroce.",
+            "shield": "Si avvicina di soppiatto alla preda, attaccandola alle spalle all'improvviso. Spesso si contende il territorio con Thievul."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "liepard",
+    "generation": 5,
+    "height": {
+        "liepard": "1.1 m"
+    },
+    "id": 510,
+    "name": "Liepard",
+    "name_origin": "Il suo nome deriva probabilmente da lie  e leopard . ",
+    "origin": "Liepard è probabilmente basato su un gatto leopardo o su una pantera nera. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Liepard",
+    "shape": "quadrupede",
+    "specie": "Pokémon Sanguefreddo",
+    "sprites": {
+        "liepard": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0510.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0510.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c3/Artwork0510_NB.png"
+    },
+    "stats": {
+        "liepard": {
+            "hp": 64,
+            "atk": 88,
+            "def": 50,
+            "spa": 88,
+            "spd": 50,
+            "spe": 106
+        }
+    },
+    "stats_sum": {
+        "liepard": 446
+    },
+    "types": {
+        "liepard": [
+            "Buio"
+        ]
+    },
+    "weight": {
+        "liepard": "37.5 kg"
+    }
+}

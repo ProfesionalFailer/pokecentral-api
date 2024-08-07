@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "elekid": {
+            "primary": "Statico",
+            "hidden": "Spiritovivo"
+        }
+    },
+    "curiosities": [
+        "Elekid ha la statistica base di Velocità più alta fra tutti i Pokémon non evoluti appartenenti ad una famiglia evolutiva di tre stadi.",
+        "Elekid e la sua evoluzione, Electabuzz hanno l'attacco speciale più elevato rispetto all'attacco, quando però il Pokémon si evolve in Electivire l'attacco speciale diventa più basso dell'attacco.",
+        "Elekid e la sua evoluzione condividono la loro categoria con Zapdos. Sono tutti noti come Pokémon Elettrico."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/elekid.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "elekid",
+    "generation": 2,
+    "height": {
+        "elekid": "0.6 m"
+    },
+    "id": 239,
+    "name": "Elekid",
+    "name_origin": "Elekid è una combinazione di エレキ eleki  e kid . ",
+    "origin": "Elekid è basato sulle spine elettriche giapponesi e statunitensi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Elekid",
+    "shape": "bipedi",
+    "specie": "Pokémon Elettrico",
+    "sprites": {
+        "elekid": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0e/Homem0239.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homemsh0239.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6a/Artwork0239_RFVF.png"
+    },
+    "stats": {
+        "elekid": {
+            "hp": 45,
+            "atk": 63,
+            "def": 37,
+            "spa": 65,
+            "spd": 55,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "elekid": 360
+    },
+    "types": {
+        "elekid": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "elekid": "23.5 kg"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "lapras": {
+            "primary": "Assorbacqua",
+            "secondary": "Guscioscudo",
+            "hidden": "Idratazione"
+        }
+    },
+    "curiosities": [
+        "Lapras originariamente avrebbe dovuto chiamarsi \"Ness\", in riferimento al mostro di Loch Ness.",
+        "Nonostante la sua voce del Pokédex in Luna affermi che sia molto diffuso, nei videogiochi Lapras è un Pokémon abbastanza raro.",
+        "A causa al loro aspetto simile, Shellos era stato scambiato come una pre-evoluzione di Lapras.",
+        "Ha i PS base più alti di tutti i Pokémon di tipo Ghiaccio.",
+        "Insieme a Pikachu, Lapras è uno dei Pokémon preferiti da Veronica Taylor.",
+        "Lapras è il secondo Pokémon in assoluto che impara il maggior numero di mosse OHKO e quello che ne impara di più tramite metodi tradizionali: ha infatti accesso a Purogelo per livello ed a Perforcorno e Abisso per accoppiamento.\n\tL’unico Pokémon che impara più mosse OHKO è Smeargle, che può impararle tutte e quattro ma solo tramite la sua mossa esclusiva Schizzo.",
+        "L’unico Pokémon che impara più mosse OHKO è Smeargle, che può impararle tutte e quattro ma solo tramite la sua mossa esclusiva Schizzo.",
+        "Se nei giochi di sesta generazione si cavalca un Lapras usando Surf, viene mostrato tutto il Pokémon anziché la sua ombra."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lapras.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Acqua 1"
+    ],
+    "flat_name": "lapras",
+    "generation": 1,
+    "height": {
+        "lapras": "2.5 m",
+        "lapras-gigamax": "> 24.0 m"
+    },
+    "id": 131,
+    "name": "Lapras",
+    "name_origin": "Lapras potrebbe derivare da Pierre-Simon Laplace, un matematico che scrisse diversi libri sulle proprietà matematiche del mare e delle maree. In alternativa, Laplace potrebbe derivare da la place , in riferimento al fatto che gli umani si siedono sul suo dorso come su di un sedile per attraversare il mare. ",
+    "origin": "Questo Pokémon è basato sul leggendario mostro di Loch Ness, in Scozia, noto anche come \"Nessie\". ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lapras",
+    "shape": "pinne",
+    "specie": "Pokémon Trasporto",
+    "sprites": {
+        "lapras": {
+            "default": "https://media.pokemoncentral.it/wiki/7/73/Homem0131.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/93/Homemsh0131.png"
+        },
+        "lapras-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/1/15/Homem0131Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f8/Homemsh0131Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a9/Artwork0131_RFVF.png"
+    },
+    "stats": {
+        "lapras": {
+            "hp": 130,
+            "atk": 85,
+            "def": 80,
+            "spa": 85,
+            "spd": 95,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "lapras": 535
+    },
+    "types": {
+        "lapras": [
+            "Ghiaccio",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "lapras": "220.0 kg",
+        "lapras-gigamax": "???.? kg"
+    }
+}

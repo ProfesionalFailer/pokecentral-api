@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "medicham": {
+            "primary": "Forzapura",
+            "hidden": "Telepatia"
+        },
+        "megamedicham": {
+            "primary": "Forzapura"
+        }
+    },
+    "curiosities": [
+        "In terza generazione, Meditite e Medicham avevano una combinazione di tipi unica.",
+        "Meditite e Medicham sono gli unici Pokémon che hanno l'abilità Forzapura.",
+        "È insieme a Meditite uno dei pochi Pokémon ad usare il suo aspetto femminile come artwork ufficiale.\n\tIn terza generazione, prima dell'introduzione delle differenze tra i sessi, tutti i Meditite e i Medicham avevano l'aspetto della femmina, indipendentemente dal sesso.",
+        "In terza generazione, prima dell'introduzione delle differenze tra i sessi, tutti i Meditite e i Medicham avevano l'aspetto della femmina, indipendentemente dal sesso.",
+        "La colorazione normale e quella cromatica di Medicham sono opposte a quelle della sua pre-evoluzione Meditite. La colorazione normale di Medicham è principalmente rosa, mentre la sua colorazione cromatica è principalmente blu, laddove Meditite è principalmente blu e la sua colorazione cromatica è principalmente rosa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/medicham.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "medicham",
+    "generation": 3,
+    "height": {
+        "medicham": "1.30 m"
+    },
+    "id": 308,
+    "name": "Medicham",
+    "name_origin": "Medicham potrebbe essere combinazione di meditate  e champion . Il nome giapponese チャーレム Charem può essere una storpiatura di champ , charm , harem o challenge . ",
+    "origin": "Come per la sua pre-evoluzione ricorda un primato che pratica yoga, il suo aspetto ricorda un danzatore orientale o un jinn. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Medicham",
+    "shape": "bipedi",
+    "specie": "Pokémon Meditazione",
+    "sprites": {
+        "medicham": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c3/Homem0308.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0308.png"
+        },
+        "medicham-f": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c2/Homef0308.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/22/Homefsh0308.png"
+        },
+        "megamedicham": {
+            "default": "https://media.pokemoncentral.it/wiki/4/42/Homem0308M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/36/Homemsh0308M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/dc/Artwork0308_RZ.png"
+    },
+    "stats": {
+        "medicham": {
+            "hp": 60,
+            "atk": 60,
+            "def": 75,
+            "spa": 60,
+            "spd": 75,
+            "spe": 80
+        },
+        "megamedicham": {
+            "hp": 60,
+            "atk": 100,
+            "def": 85,
+            "spa": 80,
+            "spd": 85,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "medicham": 410,
+        "megamedicham": 510
+    },
+    "types": {
+        "medicham": [
+            "Psico",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "medicham": "31.5 kg"
+    }
+}

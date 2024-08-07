@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "cubchoo": {
+            "primary": "Mantelneve",
+            "secondary": "Spalaneve",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Articoli incompleti",
+        "Pokémon",
+        "Pokémon di quinta generazione",
+        "Pokémon di tipo Ghiaccio",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Bianco",
+        "Pokémon dalla sagoma n. 06",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 305"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cubchoo.mp3",
+    "dex_entries": {
+        "cubchoo": {
+            "black": "Quando sta male, la goccia al naso si fa acquosa e le sue tecniche congelanti perdono di efficacia.",
+            "white": "Ha sempre il naso gocciolante e se ne serve per lanciare le sue mosse. Il muco è l'origine della sua forza.",
+            "black-2": "La goccia del naso è il barometro della sua salute. Se sta bene è bella viscosa e potenzia le sue mosse di tipo Ghiaccio.",
+            "white-2": "La goccia del naso è il barometro della sua salute. Se sta bene è bella viscosa e potenzia le sue mosse di tipo Ghiaccio.",
+            "x": "Ha sempre il naso gocciolante e se ne serve per lanciare le sue mosse. Il muco è l'origine della sua forza.",
+            "y": "La goccia del naso è il barometro della sua salute. Se sta bene è bella viscosa e potenzia le sue mosse di tipo Ghiaccio.",
+            "omega-ruby": "Ha sempre il naso gocciolante e se ne serve per lanciare le sue mosse. Il muco è l'origine della sua forza.",
+            "alpha-sapphire": "La goccia del naso è il barometro della sua salute. Se sta bene è bella viscosa e potenzia le sue mosse di tipo Ghiaccio.",
+            "sword": "Se è in buona salute, la viscosità della goccia che gli fuoriesce dal naso aumenta. Se qualcuno non gli va a genio, lo imbratta con il suo muco.",
+            "shield": "Prima di sferrare una mossa, tira su con il naso. Il freddo intenso contenuto nel suo muco è alla base delle sue mosse di tipo Ghiaccio.",
+            "scarlet": "Se ne trovano molti esemplari sulle coste delle zone più fredde. Se non ha il naso gocciolante, potrebbe essere malato.",
+            "violet": "Attenzione se comincia a starnutire: il contatto con il suo muco gelido provoca geloni."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "cubchoo",
+    "generation": 5,
+    "height": {
+        "cubchoo": "0.5 m"
+    },
+    "id": 613,
+    "name": "Cubchoo",
+    "name_origin": "Cubchoo è una combinazione di cub  e ah-choo . ",
+    "origin": "Cubchoo si basa su un cucciolo di orso polare. Il muco che possiede è probabilmente ispirato al fatto che il freddo si traduce spesso in un naso che cola. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cubchoo",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Freddo",
+    "sprites": {
+        "cubchoo": {
+            "default": "https://media.pokemoncentral.it/wiki/5/54/Homem0613.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2f/Homemsh0613.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/53/Artwork0613_NB.png"
+    },
+    "stats": {
+        "cubchoo": {
+            "hp": 55,
+            "atk": 70,
+            "def": 40,
+            "spa": 60,
+            "spd": 40,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "cubchoo": 305
+    },
+    "types": {
+        "cubchoo": [
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "cubchoo": "8.5 kg"
+    }
+}

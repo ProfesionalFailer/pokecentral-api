@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "skitty": {
+            "primary": "Incantevole",
+            "secondary": "Normalità",
+            "hidden": "Splendicute"
+        }
+    },
+    "curiosities": [
+        "Skitty è l'unico Pokémon di terza generazione ad evolversi tramite Pietralunare.",
+        "Per via della sua inclusione nel Gruppo Uova Campo, è possibile far accoppiare uno Skitty con un Pokémon estremamente diverso come Wailord. Da questo è derivata la battuta Hot Skitty on Wailord Action.",
+        "Nonostante Skitty e Delcatty siano disponibili in Pokémon Diamante Lucente e Perla Splendente, la loro ex mossa peculiare, Assistente, è inutilizzabile a partire dall'ottava generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/skitty.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo",
+        "Magico"
+    ],
+    "flat_name": "skitty",
+    "generation": 3,
+    "height": {
+        "skitty": "0.60 m"
+    },
+    "id": 300,
+    "name": "Skitty",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi skittish, giocherellone, vivace, e kitty, gattino. Il suo nome giapponese, エネコ Eneko, potrebbe derivare dall'unione delle parole 狗尾草 enokorogusa, coda di volpe, un tipo di pianta che la sua coda ricorda, e 猫 neko, gatto. ",
+    "origin": "Skitty è basato sul gatto domestico. L'aspetto della sua coda assomiglia l'erba coda. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Skitty",
+    "shape": "quadrupede",
+    "specie": "Pokémon Micio",
+    "sprites": {
+        "skitty": {
+            "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0300.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0300.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/60/Artwork0300_RZ.png"
+    },
+    "stats": {
+        "skitty": {
+            "hp": 50,
+            "atk": 45,
+            "def": 45,
+            "spa": 35,
+            "spd": 35,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "skitty": 260
+    },
+    "types": {
+        "skitty": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "skitty": "11.0 kg"
+    }
+}

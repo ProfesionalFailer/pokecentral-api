@@ -1,0 +1,104 @@
+{
+    "abilities": {
+        "piume-verdi": {
+            "primary": "Prepotenza",
+            "secondary": "Tuttafretta",
+            "hidden": "Dentistretti"
+        },
+        "piume-azzurre": {
+            "primary": "Prepotenza",
+            "secondary": "Tuttafretta",
+            "hidden": "Dentistretti"
+        },
+        "piume-gialle": {
+            "primary": "Prepotenza",
+            "secondary": "Tuttafretta",
+            "hidden": "Forzabruta"
+        },
+        "piume-bianche": {
+            "primary": "Prepotenza",
+            "secondary": "Tuttafretta",
+            "hidden": "Forzabruta"
+        }
+    },
+    "curiosities": [
+        "È stato rivelato per errore nel trailer del 6 ottobre 2022 di Scarlatto e Violetto  insieme a Nacli e a Tandemaus.",
+        "Squawkabilly possiede il nome più lungo tra tutti i Pokemon, avendo un nome composto da 12 caratteri. Condivide questa caratteristica con Crabominable e Brambleghast.",
+        "Squawkabilly è l'unico uccello regionale a non avere evoluzione, ma è anche l'unico ad avere più di una forma."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/squawkabilly.mp3",
+    "dex_entries": {
+        "piume-verdi": {
+            "scarlet": "Preferiscono vivere in centri abitati. Formano stormi in base al colore del piumaggio e lottano per espandere il loro dominio sul territorio.",
+            "violet": "Gli Squawkabilly dal piumaggio verde sono i più potenti. Quando vanno alla ricerca di cibo, di mattina e di sera, fanno sempre molto baccano."
+        },
+        "piume-azzurre": {
+            "scarlet": "I gruppi più grandi possono superare anche i 50 esemplari. Volano chiassosamente in boschi e città alla ricerca di cibo.",
+            "violet": "Gli esemplari dalle piume blu vedono come rivali quelli dalle piume verdi, che costituiscono il gruppo più numeroso e potente."
+        },
+        "piume-gialle": {
+            "scarlet": "Ha un carattere impetuoso che si riflette nella furia con cui lotta. Si lancia sull’avversario per lottare corpo a corpo.",
+            "violet": "Gli Squawkabilly gialli sono particolarmente aggressivi. Capita anche che caccino via dalle città gli altri Pokémon alati."
+        },
+        "piume-bianche": {
+            "scarlet": "Questi Pokémon non amano agire singolarmente. Hanno un forte spirito di solidarietà e vivono aiutandosi a vicenda.",
+            "violet": "Gli esemplari di questo colore sono i meno numerosi ma, confondendosi meglio con il colore degli edifici, vivono agevolmente nelle città."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "squawkabilly",
+    "generation": 9,
+    "height": {
+        "squawkabilly": "0.6 m"
+    },
+    "id": 931,
+    "name": "Squawkabilly",
+    "name_origin": "Squawkabilly potrebbe essere una combinazione di squawk e rockabilly.\nIkirinko potrebbe essere una combinazione di イキり ikiri  e 鸚哥 inko . ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Squawkabilly",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Pappagallo",
+    "sprites": {
+        "piume-verdi": {
+            "default": "https://media.pokemoncentral.it/wiki/8/82/Homem0931.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0931.png"
+        },
+        "piume-azzurre": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4d/Homem0931A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0c/Homemsh0931A.png"
+        },
+        "piume-gialle": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9f/Homem0931G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0931G.png"
+        },
+        "piume-bianche": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f5/Homem0931B.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0931B.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3f/Artwork0931_SV.png"
+    },
+    "stats": {
+        "squawkabilly": {
+            "hp": 82,
+            "atk": 96,
+            "def": 51,
+            "spa": 45,
+            "spd": 51,
+            "spe": 92
+        }
+    },
+    "stats_sum": {
+        "squawkabilly": 417
+    },
+    "types": {
+        "squawkabilly": [
+            "Volante",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "squawkabilly": "2.4 kg"
+    }
+}

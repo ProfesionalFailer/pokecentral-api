@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "morpeko": {
+            "primary": "Pancialterna"
+        }
+    },
+    "curiosities": [
+        "Morpeko è il primo Pokémon ad avere la combinazione di tipi Elettro/Buio.",
+        "Morpeko è l'unico Pokémon con il totale delle statistiche base pari a 436.",
+        "È stato annunciato il 7 agosto 2019 in un trailer nel canale YouTube ufficiale di Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/morpeko.mp3",
+    "dex_entries": {
+        "motivo-panciapiena": {
+            "sword": "Ha costantemente fame. Si nutre dei semi che tiene nelle sue tasche per produrre elettricità.",
+            "shield": "Indipendentemente da quanto mangia, è sempre affamato. Tiene molto ai semi che ha arrostito con l'elettricità e li porta sempre con sé."
+        },
+        "motivo-panciavuota": {
+            "sword": "L'elettricità contenuta nelle guance si è trasformata in energia di tipo Buio. La fame lo ha reso molto aggressivo.",
+            "shield": "L'ormone della fame causa un'alterazione del suo carattere. Manifesta il suo lato oscuro finché non si riempie lo stomaco."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Magico"
+    ],
+    "flat_name": "morpeko",
+    "generation": 8,
+    "height": {
+        "morpeko": "0.3 m"
+    },
+    "id": 877,
+    "name": "Morpeko",
+    "name_origin": "Morpeko è probabilmente una combinazione di モルモット marmot, cavia domestica, e 腹ペコ harapeko, affamato o famelico. Potrebbe anche derivare dal greco μορφή morphé, forma. ",
+    "origin": "Morpeko potrebbe essere basato su un criceto dorato con alcuni elementi del porcellino d'India. Come accade per Morpeko, i criceti sono noti per la loro tendenza a mordere e esibire comportamenti territoriali violenti, per le loro abitudini alimentari particolari e per le loro tasche guanciali . Inoltre, la sua mossa esclusiva Ruota d'Aura, può essere un riferimento alle ruote dei criceti. La colorazione del Pokémon potrebbe essere ispirata a quella di alcune razze di porcellini d'India. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Morpeko",
+    "shape": "bipedi",
+    "specie": "Pokémon Doppiafaccia",
+    "sprites": {
+        "motivo-panciapiena": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ab/Homem0877.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0877.png"
+        },
+        "motivo-panciavuota": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d9/Homem0877V.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0c/Homemsh0877V.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c2/Artwork0877_SpSc.png"
+    },
+    "stats": {
+        "morpeko": {
+            "hp": 58,
+            "atk": 95,
+            "def": 58,
+            "spa": 70,
+            "spd": 58,
+            "spe": 97
+        }
+    },
+    "stats_sum": {
+        "morpeko": 436
+    },
+    "types": {
+        "morpeko": [
+            "Buio",
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "morpeko": "3.0 kg"
+    }
+}

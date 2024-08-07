@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "fidough": {
+            "primary": "Mente Locale",
+            "hidden": "Impaccio"
+        }
+    },
+    "curiosities": [
+        "Fidough condivide la sua specie con Growlithe, Lillipup, Rockruff e Yamper: tutti e cinque sono conosciuti come Pokémon Cagnolino."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/fidough.mp3",
+    "dex_entries": {
+        "fidough": {
+            "scarlet": "È umido e liscio al tatto. Fa fermentare ciò che lo circonda grazie al lievito contenuto nel suo alito.",
+            "violet": "Il lievito contenuto nel suo alito è utile in cucina, perciò questo Pokémon è stato protetto dagli esseri umani fin dall'antichità."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Minerale"
+    ],
+    "flat_name": "fidough",
+    "generation": 9,
+    "height": {
+        "fidough": "0.3 m"
+    },
+    "id": 926,
+    "name": "Fidough",
+    "name_origin": "La prima parte del nome, Fido, potrebbe aver origine dal nome del famoso cane italiano vissuto in provincia di Firenze che fedelmente aveva continuato a seguire il padrone che lo aveva adottato anche dopo la morte.\nLa seconda metà, deriva invece dall'inglese di impasto, dough. Il nome potrebbe anche fare riferimento alla pasta fillo e a dog, cane in inglese.",
+    "origin": "Fidough potrebbe essere basato su un cane e su impasti di pane umidi. Potrebbe anche essere ispirato all'ensaïmada, un tipo di dolce spagnolo a forma di spirale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Fidough",
+    "shape": "quadrupede",
+    "specie": "Pokémon Cagnolino",
+    "sprites": {
+        "fidough": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8d/Homem0926.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0a/Homemsh0926.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c4/Artwork0926_SV.png"
+    },
+    "stats": {
+        "fidough": {
+            "hp": 37,
+            "atk": 55,
+            "def": 70,
+            "spa": 30,
+            "spd": 55,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "fidough": 312
+    },
+    "types": {
+        "fidough": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "fidough": "10.9 kg"
+    }
+}

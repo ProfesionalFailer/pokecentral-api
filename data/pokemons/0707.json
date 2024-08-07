@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "klefki": {
+            "primary": "Burla",
+            "hidden": "Prestigiatore"
+        }
+    },
+    "curiosities": [
+        "È al pari di Diglett di Alola e Meltan il Pokémon di tipo Acciaio più basso."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/klefki.mp3",
+    "dex_entries": {
+        "klefki": {
+            "x": "Ha l'abitudine di raccogliere chiavi. Quando viene attaccato, minaccia il nemico agitandole e facendo un gran chiasso.",
+            "y": "Spesso gli esseri umani affidano a questo Pokémon le chiavi delle loro casseforti per prevenire i furti. Si sa infatti che custodisce con cura le chiavi che ama.",
+            "omega-ruby": "Ha l'abitudine di raccogliere chiavi. Quando viene attaccato, minaccia il nemico agitandole e facendo un gran chiasso.",
+            "alpha-sapphire": "Spesso gli esseri umani affidano a questi pokemon le chiavi delle loro casseforti per prevenire i furti. Si sa infatti che custodisce con cura le chiavi che ama.",
+            "sun": "Ha un carattere pacifico, ma non resiste alla tentazione di intrufolarsi nelle case per rubare chiavi, che adora collezionare.",
+            "moon": "Infila la sporgenza che ha sulla testa negli interstizi tra oggetti di metallo per assorbire ioni. Ha la strana abitudine di collezionare chiavi.",
+            "ultra-sun": "Per qualche motivo che nessuno sa, colleziona chiavi. È felicissimo quando gliene regalano una, ma attenzione: accetta solo i passe-partout.",
+            "ultra-moon": "In passato viveva nelle miniere, ma poiché i minerali di cui si nutre si sono fatti più rari, adesso è possibile incontrarlo anche nei villaggi.",
+            "sword": "Colleziona chiavi. Se gli si affida una chiave importante, si può star sicuri che la proteggerà a ogni costo.",
+            "shield": "Assorbe gli ioni metallici con la sporgenza sulla testa. Si dice che abbia modificato il suo aspetto per assomigliare alle sue amate chiavi.",
+            "scarlet": "Quando ha finito di assorbire gli ioni metallici da una chiave la getta via subito, ma se una gli va davvero a genio la conserva per decenni.",
+            "violet": "Tempo fa, le famiglie nobili affidavano ai Klefki le chiavi delle loro casseforti e si prendevano cura di questi Pokémon per generazioni."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "klefki",
+    "generation": 6,
+    "height": {
+        "klefki": "0.2 m"
+    },
+    "id": 707,
+    "name": "Klefki",
+    "name_origin": "Klefki è una combinazione tra clef  o una corruzione di kleptomaniac  e key . Cleffy deriva da clef . ",
+    "origin": "Klefki è basato su un portachiavi. È inoltre derivato dalla credenza giapponese che se una chiave sparisce è perché è stato un folletto o uno spiritello a rubarla. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Klefki",
+    "shape": "testa",
+    "specie": "Pokémon Portachiavi",
+    "sprites": {
+        "klefki": {
+            "default": "https://media.pokemoncentral.it/wiki/d/df/Homem0707.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0707.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2e/Artwork0707_XY.png"
+    },
+    "stats": {
+        "klefki": {
+            "hp": 57,
+            "atk": 80,
+            "def": 91,
+            "spa": 80,
+            "spd": 87,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "klefki": 470
+    },
+    "types": {
+        "klefki": [
+            "Acciaio",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "klefki": "3.0 kg"
+    }
+}

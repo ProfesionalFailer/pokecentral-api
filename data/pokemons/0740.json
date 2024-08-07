@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "crabominable": {
+            "primary": "Ipertaglio",
+            "secondary": "Ferropugno",
+            "hidden": "Grancollera"
+        }
+    },
+    "curiosities": [
+        "Crabominable ha la statistica base di Attacco più alta di tutti i tipi Ghiaccio.",
+        "Crabominable è l'unico Pokémon che possiede il doppio tipo Lotta/Ghiaccio.",
+        "Non contando le Forme di Alola e le forme alternative di Silvally è l'unico Pokémon di tipo Ghiaccio introdotto in settima generazione.",
+        "Crabominable ha il nome inglese più lungo di tutti i Pokémon, con 12 lettere. Dalla nona generazione condivide questa caratteristica con Squawkabilly e Brambleghast",
+        "Le mosse degli stessi tipi di Crabominable sono superefficaci su ben nove tipi: Normale, Volante, Terra, Roccia, Acciaio, Ghiaccio, Erba, Buio e Drago."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/crabominable.mp3",
+    "dex_entries": {
+        "crabominable": {
+            "sun": "Dopo essersi smarrito su una montagna innevata che voleva scalare a ogni costo, si è evoluto sviluppando del pelo per proteggersi dal freddo.",
+            "moon": "Sferra colpi alla cieca. Come ultima risorsa, si stacca le chele e le spara come razzi per colpire l’avversario.",
+            "ultra-sun": "Accumula aria fredda all'interno delle chele per poi picchiare duro. Riesce a sbriciolare anche spessi muri di ghiaccio.",
+            "ultra-moon": "Attacca subito, senza pensarci due volte. Secondo alcune testimonianze, ha fermato una valanga con una raffica di pugni.",
+            "scarlet": "Le sue chele, una volta staccatesi, sono una rara prelibatezza. C’è chi porta con sé un Lechonk in montagna proprio per trovarne alcune.",
+            "violet": "Sferra pugni potentissimi, ma le sue movenze sono alquanto lente. Le bolle glaciali che spara dalla bocca possono immobilizzare gli avversari."
+        }
+    },
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "flat_name": "crabominable",
+    "generation": 7,
+    "height": {
+        "crabominable": "1.7 m"
+    },
+    "id": 740,
+    "name": "Crabominable",
+    "name_origin": "Crabominable può essere una combinazione di crab, granchio, e abominable snowman, Abominevole uomo delle nevi. Kekenkani può essere una combinazione di 毛蟹 kegani, Erimacrus isenbeckii, specie di granchio, e 喧嘩 kenka, lotta. ",
+    "origin": "Crabominable potrebbe essere basato su uno Yeti o su un Kiwa hirsuta, conosciuto anche come granchio Yeti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Crabominable",
+    "shape": "insettoide",
+    "specie": "Pokémon Peligranchio",
+    "sprites": {
+        "crabominable": {
+            "default": "https://media.pokemoncentral.it/wiki/d/df/Homem0740.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0740.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a8/Artwork0740_SL.png"
+    },
+    "stats": {
+        "crabominable": {
+            "hp": 97,
+            "atk": 132,
+            "def": 77,
+            "spa": 62,
+            "spd": 67,
+            "spe": 43
+        }
+    },
+    "stats_sum": {
+        "crabominable": 478
+    },
+    "types": {
+        "crabominable": [
+            "Ghiaccio",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "crabominable": "180.0 kg"
+    }
+}

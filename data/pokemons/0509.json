@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "purrloin": {
+            "primary": "Scioltezza",
+            "secondary": "Agiltecnica",
+            "hidden": "Burla"
+        }
+    },
+    "curiosities": [
+        "Purrloin è stato visto per la prima volta durante un'anteprima di Pokémon Sunday il 6 settembre 2010. Fu rimosso poi dalla stessa anteprima, così come era già stato fatto per il secondo tipo di Zekrom.",
+        "Purrloin è l'unico Pokémon con la somma di statistiche base pari a 281."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/purrloin.mp3",
+    "dex_entries": {
+        "purrloin": {
+            "black": "Ruba per gioco le cose alle persone, ma è talmente tenero che finiscono tutti per perdonarlo.",
+            "white": "Distrae con pose ammalianti i nemici incauti e ne approfitta per depredarli. Se si arrabbia, sguaina le unghie.",
+            "black-2": "Distrae le persone con pose ammalianti per rubare loro oggetti cari e osservare poi come reagiscono.",
+            "white-2": "Distrae le persone con pose ammalianti per rubare loro oggetti cari e osservare poi come reagiscono.",
+            "x": "Distrae con pose ammalianti i nemici incauti e ne approfitta per depredarli. Se si arrabbia, sguaina le unghie.",
+            "y": "Ruba per gioco le cose alle persone, ma è talmente tenero che finiscono tutti per perdonarlo.",
+            "omega-ruby": "Distrae con pose ammalianti i nemici incauti e ne approfitta per depredarli. Se si arrabbia, sguaina le unghie.",
+            "alpha-sapphire": "Ruba per gioco le cose alle persone, ma è talmente tenero che finiscono tutti per perdonarlo.",
+            "sword": "Ruba le cose alle persone per vederle in difficoltà. Nickit è il suo rivale.",
+            "shield": "Lascia avvicinare il nemico distraendolo con pose ammalianti, e poi all'improvviso lo graffia ridendo."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "purrloin",
+    "generation": 5,
+    "height": {
+        "purrloin": "0.4 m"
+    },
+    "id": 509,
+    "name": "Purrloin",
+    "name_origin": "Il suo nome deriva da purr  e purloin . Il suo nome giapponese, チョロネコ Choroneko, deriva da ちょろまかす choromakasu  e 猫 neko . ",
+    "origin": "Purrloin è basato su un gatto nero. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Purrloin",
+    "shape": "quadrupede",
+    "specie": "Pokémon Furbizia",
+    "sprites": {
+        "purrloin": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7f/Homem0509.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a4/Homemsh0509.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/69/Artwork0509_NB.png"
+    },
+    "stats": {
+        "purrloin": {
+            "hp": 41,
+            "atk": 50,
+            "def": 37,
+            "spa": 50,
+            "spd": 37,
+            "spe": 66
+        }
+    },
+    "stats_sum": {
+        "purrloin": 281
+    },
+    "types": {
+        "purrloin": [
+            "Buio"
+        ]
+    },
+    "weight": {
+        "purrloin": "10.1 kg"
+    }
+}

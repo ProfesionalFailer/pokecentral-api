@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "minccino": {
+            "primary": "Incantevole",
+            "secondary": "Tecnico",
+            "hidden": "Abillegame"
+        }
+    },
+    "curiosities": [
+        "Minccino è stato disegnato da Atsuko Nishida.",
+        "Il Minccino che appare nella introduzione della Professoressa Aralia nei titoli di quinta generazione può essere cromatico."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/minccino.mp3",
+    "dex_entries": {
+        "minccino": {
+            "black": "Saluta i suoi simili strofinando la propria coda contro la loro. Si prende sempre molta cura di questa parte del corpo.",
+            "white": "Di natura ama la pulizia. Spazza sempre la polvere dalla sua tana usando la coda come scopa.",
+            "black-2": "Si salutano pulendosi l'un l'altro con le loro code.",
+            "white-2": "Si salutano pulendosi l'un l'altro con le loro code.",
+            "x": "Si salutano pulendosi l'un l'altro con le loro code.",
+            "y": "Di natura ama la pulizia. Spazza sempre la polvere dalla sua tana usando la coda come scopa.",
+            "omega-ruby": "Si salutano pulendosi l'un l'altro con le loro code.",
+            "alpha-sapphire": "Di natura ama la pulizia. Spazza sempre la polvere dalla sua tana usando la coda come scopa.",
+            "ultra-sun": "È un maniaco della pulizia e non sopporta neanche la più piccola traccia di sporco. Usa la coda come una scopa per pulire ogni superficie.",
+            "ultra-moon": "Passa giornate intere a lavare la sua coda con acqua pura di sorgente dopo averla usata per spazzolare la tana e il proprio corpo.",
+            "sword": "Con la coda rimuove ogni traccia di sporco. È di grande aiuto per le pulizie, ma la sua pignoleria può diventare estenuante.",
+            "shield": "Si salutano strofinando le proprie code tra loro. Gli esemplari che ne hanno una particolarmente voluminosa tendono a darsi delle arie."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "minccino",
+    "generation": 5,
+    "height": {
+        "minccino": "0.4 m"
+    },
+    "id": 572,
+    "name": "Minccino",
+    "name_origin": "Minccino deriva da mink, visone, mince , o mini, e chincilla  o chino cloth . Ricorda anche l'italiano micino. ",
+    "origin": "Minccino è basato su un cincillà, sebbene ricordi per alcuni aspetti anche i koala, mentre la sua coda si ispira a un piumino cattura-polvere, affine alla sua abilità di pulire e spazzare ovunque. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Minccino",
+    "shape": "quadrupede",
+    "specie": "Pokémon Cincillà",
+    "sprites": {
+        "minccino": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c0/Homem0572.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homemsh0572.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/94/Artwork0572_NB.png"
+    },
+    "stats": {
+        "minccino": {
+            "hp": 55,
+            "atk": 50,
+            "def": 40,
+            "spa": 40,
+            "spd": 40,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "minccino": 300
+    },
+    "types": {
+        "minccino": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "minccino": "5.8 kg"
+    }
+}

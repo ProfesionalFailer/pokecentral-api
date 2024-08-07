@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "smeargle": {
+            "primary": "Mente Locale",
+            "secondary": "Tecnico",
+            "hidden": "Altalena"
+        }
+    },
+    "curiosities": [
+        "Anche se non è in grado di apprendere alcuna mossa tramite MT o Insegnamosse, tramite Schizzo è in grado di apprendere tutte le mosse esistenti, con alcune eccezioni.",
+        "Smeargle è l'unico Pokémon che può imparare la stessa mossa più di due volte. Infatti Smeargle se, nel momento in cui sale di livello non la possiede, può imparare Schizzo ben 10 volte, una ogni 10 livelli ",
+        "Negli sprite di seconda generazione, i colori della coda di Smeargle nella forma normale e in quella cromatica erano invertiti."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/smeargle.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "smeargle",
+    "generation": 2,
+    "height": {
+        "smeargle": "1.2 m"
+    },
+    "id": 235,
+    "name": "Smeargle",
+    "name_origin": "Il nome Smeargle deriva dall'unione delle parole inglesi smear  e beagle . ",
+    "origin": "È basato su un pittore con l'aspetto di un beagle. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Smeargle",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Pittore",
+    "sprites": {
+        "smeargle": {
+            "default": "https://media.pokemoncentral.it/wiki/6/69/Homem0235.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fb/Homemsh0235.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e6/Artwork0235_HGSS.png"
+    },
+    "stats": {
+        "smeargle": {
+            "hp": 55,
+            "atk": 20,
+            "def": 35,
+            "spa": 20,
+            "spd": 45,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "smeargle": 250
+    },
+    "types": {
+        "smeargle": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "smeargle": "58.0 kg"
+    }
+}

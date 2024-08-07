@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "gloom": {
+            "primary": "Clorofilla",
+            "hidden": "Tanfo"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Rosso e Blu, il Pokémon Glitch  si può evolvere in Gloom se riesce a raggiungere il livello 224. Si evolve poi normalmente in un Vileplume usando una Pietrafoglia.",
+        "Gloom è il primo Pokémon nel Pokédex Nazionale ad avere più di un'evoluzione, per quanto riguarda la seconda generazione. Prima di allora, c'era soltanto Eevee.",
+        "La descrizione di James del tanfo di Gloom è confusa per certi aspetti con la descrizione del suo Koffing.",
+        "Gloom è l'unico Pokémon con due tipi che si evolve in un Pokémon di un solo tipo.\n\tÈ anche l'unico Pokémon ad evolversi in due Pokémon differenti con due pietre differenti, oltre ad Eevee.",
+        "È anche l'unico Pokémon ad evolversi in due Pokémon differenti con due pietre differenti, oltre ad Eevee."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gloom.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "gloom",
+    "generation": 1,
+    "height": {
+        "gloom": "0.8 m"
+    },
+    "id": 44,
+    "name": "Gloom",
+    "name_origin": "Gloom viene dalla parola gloom  e potrebbe essere riferito alla malinconia associata con l'annusare la sua puzza ola sua faccia depressa. potrebbe anche derivare da bloom, visto che si trova ancora nello stato di fioritura di un Rafflesia Arnoldii. Potrebbe anche riferirsi al termine glume , un tipo di brattea nell'anatomia dei fiori. Kusaihana significa letteralmente \"fiore che puzza\" . ",
+    "origin": "Gloom sembra assomigliare al fiore notturno conosciuto come Rafflesia Arnoldii, che ha un pessimo odore. Il fatto che il suo polline puzzolente possa essere usato per fare profumi meravigliosi e che ad 1 persona su 1000 piaccia il suo odore potrebbe essere un riferimento alle puzzole, il cui muschio ha simili caratteristiche. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gloom",
+    "shape": "bipedi",
+    "specie": "Pokémon Malerba",
+    "sprites": {
+        "gloom": {
+            "default": "https://media.pokemoncentral.it/wiki/1/17/Homem0044.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1b/Homemsh0044.png"
+        },
+        "gloom-f": {
+            "default": "https://media.pokemoncentral.it/wiki/0/08/Homef0044.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/04/Homefsh0044.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b9/Artwork0044_RFVF.png"
+    },
+    "stats": {
+        "gloom": {
+            "hp": 60,
+            "atk": 65,
+            "def": 70,
+            "spa": 85,
+            "spd": 75,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "gloom": 395
+    },
+    "types": {
+        "gloom": [
+            "Veleno",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "gloom": "8.6 kg"
+    }
+}

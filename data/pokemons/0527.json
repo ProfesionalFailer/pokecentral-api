@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "woobat": {
+            "primary": "Imprudenza",
+            "secondary": "Impaccio",
+            "hidden": "Disinvoltura"
+        }
+    },
+    "curiosities": [
+        "Woobat è stato visto per la prima volta su un concept art della serie anime Best Wishes, insieme a Servine, Dewott ed Axew.",
+        "Karl nel tredicesimo film porta un cappello da baseball con il disegno di un Woobat.",
+        "Woobat è l'unico Pokémon con la somma delle statistiche base pari a 313.",
+        "Wobat condivide il nome della specie con Zubat e la sua catena evolutiva : sono tutti noti come Pokémon Pipistrello."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/woobat.mp3",
+    "dex_entries": {
+        "woobat": {
+            "black": "Vive nelle foreste buie o nelle caverne. Sonda l'ambiente circostante emettendo degli ultrasuoni dalle narici.",
+            "white": "Dorme attaccato per le narici alle pareti delle grotte, lasciando un'impronta a forma di cuore quando se ne stacca.",
+            "black-2": "Quando preme il naso contro il corpo di qualcuno lascia un segno a forma di cuore che, dicono, porta fortuna.",
+            "white-2": "Quando preme il naso contro il corpo di qualcuno lascia un segno a forma di cuore che, dicono, porta fortuna.",
+            "x": "Vive nelle foreste buie o nelle caverne. Sonda l'ambiente circostante emettendo degli ultrasuoni dalle narici.",
+            "y": "Quando prende il naso contro il corpo di qualcuno lascia un segno a forma di cuore che, dicono, porta fortuna.",
+            "omega-ruby": "Vive nelle foreste buie o nelle caverne. Sonda l'ambiente circostante emettendo degli ultrasuoni dalle narici.",
+            "alpha-sapphire": "Quando prende il naso contro il corpo di qualcuno lascia un segno a forma di cuore che, dicono, porta fortuna.",
+            "sword": "Se alzando lo sguardo in una grotta si vedono impronte a forma di cuore sulle pareti, è segno che vi abitano dei Woobat.",
+            "shield": "Svolazza emettendo ultrasuoni in cerca di Pokémon di tipo Coleottero, di cui si nutre."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Volante"
+    ],
+    "flat_name": "woobat",
+    "generation": 5,
+    "height": {
+        "woobat": "0.4 m"
+    },
+    "id": 527,
+    "name": "Woobat",
+    "name_origin": "Il suo nome potrebbe derivare da woo  e bat  oppure da wool  a causa del suo aspetto peloso. ",
+    "origin": "Woobat è basato su un pipistrello bianco dell'Honduras e su un interpretazione letterale di un pipistrello dal naso a cuore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Woobat",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Pipistrello",
+    "sprites": {
+        "woobat": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3d/Homem0527.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3c/Homemsh0527.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6c/Artwork0527_NB.png"
+    },
+    "stats": {
+        "woobat": {
+            "hp": 65,
+            "atk": 45,
+            "def": 43,
+            "spa": 55,
+            "spd": 43,
+            "spe": 72
+        }
+    },
+    "stats_sum": {
+        "woobat": 323
+    },
+    "types": {
+        "woobat": [
+            "Volante",
+            "Psico"
+        ]
+    },
+    "weight": {
+        "woobat": "2.1 kg"
+    }
+}

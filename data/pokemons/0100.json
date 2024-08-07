@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "voltorb": {
+            "primary": "Antisuono",
+            "secondary": "Statico",
+            "hidden": "Scoppio"
+        }
+    },
+    "curiosities": [
+        "Voltorb ha l'Attacco base più basso tra tutti i Pokémon di tipo Elettro.",
+        "Nelle versioni occidentali e coreane di Pokémon Oro HeartGold e Argento SoulSilver, è stato introdotto un minigioco chiamato Gira Voltorb al posto delle slot machine. Il minigioco è simile a prato fiorito e si basa sul far girare i quadratini per moltiplicare i Gettoni guadagnati. Tuttavia, in alcuni quadratini sono nascosti dei Voltorb che fanno perdere gettoni al giocatore se girati."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/voltorb.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "voltorb",
+    "generation": 1,
+    "height": {
+        "voltorb": "0.5 m"
+    },
+    "id": 100,
+    "name": "Voltorb",
+    "name_origin": "Voltorb potrebbe essere una combinazione di volt e orb, sfera. Biriridama potrebbe essere una combinazione di ビリビリ biribiri, suono per l'elettro-shock, e 玉 tama, sfera. ",
+    "origin": "Voltorb potrebbe essere basato sul concetto di una Poké Ball vivente, mentre la colorazione cromatica su una Mega Ball. Il design del Pokémon potrebbe essere ciò che rimane del periodo in cui il franchise era conosciuto ancora come Capsule Monsters, poiché i primi artwork delle Poké Ball sono raffigurate senza il classico bottone al centro. Il fatto che Voltorb ed Electrode vengano scambiati per delle comuni Poké Ball è simile al concetto di mimic, un tipo di mostro che si trova comunemente negli RPG. Potrebbe essere basato anche sul tsukumogami, dove gli oggetti acquisiscono uno spirito e prendono vita al loro centesimo compleanno; questo potrebbe essere un riferimento al numero del Pokémon nel Pokédex di Kanto e in quello Nazionale, il 100. Le tendenze esplosive di Voltorb potrebbero avere correlazioni con le bombe; potrebbe essere basato anche sui bottoni per detonare esplosioni che spesso sono colorati di rosso nei media. Come la sua evoluzione, potrebbe essere basato anche sui fulmini globulari. Le espressioni sul volto di Voltorb e di Electrode potrebbero essere la personificazione delle cariche positive e negative associate alla carica elettrica. Nelle forme originali dei Pokémon, Voltorb ha un'espressione arrabbiata , mentre Electrode ha un'espressione felice . La polarità di queste espressioni è invertita nelle forme di Hisui. Voltorb di Hisui e l'acquisizione del tipo Erba potrebbero essere basati sul fatto che le Poké Ball fossero originariamente realizzate con le Ghicocche. Potrebbe essere basato anche sui tradizionali fuochi d'artificio giapponesi: sono di forma sferica, con gusci di cartapesta, con all'interno cariche spesso fatte di lolla di riso e con un foro dove viene inserita la miccia. Il fatto che abbia numerosi semi all'interno del suo corpo potrebbe prendere ispirazione dalle bombe di semi che si ottengono facendo rotolare dell'argilla su dei semi, formando così una palla. Le bombe di semi vengono lanciate in terreni dove la vegetazione è scarsa, in modo che i semi possano crescere e germogliare. La colorazione cromatica potrebbe essere basata su un'Ultra Ball o su una Peso Ball. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Voltorb",
+    "shape": "testa",
+    "specie": "Pokémon Ball",
+    "sprites": {
+        "voltorb": {
+            "default": "https://media.pokemoncentral.it/wiki/4/44/Homem0100.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b4/Homemsh0100.png"
+        },
+        "forma-di-hisui": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9a/Homem0100H.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0100H.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8b/Artwork0100_RFVF.png"
+    },
+    "stats": {
+        "voltorb": {
+            "hp": 40,
+            "atk": 30,
+            "def": 50,
+            "spa": 55,
+            "spd": 55,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "voltorb": 330
+    },
+    "types": {
+        "voltorb": [
+            "Elettro"
+        ],
+        "forma-di-hisui": [
+            "Elettro",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "voltorb": "10.4 kg",
+        "forma-di-hisui": "13.0 kg"
+    }
+}

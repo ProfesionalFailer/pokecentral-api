@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "muk": {
+            "primary": "Tanfo",
+            "secondary": "Antifurto",
+            "hidden": "Velentocco"
+        },
+        "forma-di-alola": {
+            "primary": "Velentocco",
+            "secondary": "Voracità",
+            "hidden": "Forza Chimica"
+        }
+    },
+    "curiosities": [
+        "Anche se il corpo di Muk è molto velenoso, nell'anime non sembra danneggiare Ash e gli altri quando li abbraccia.",
+        "Muk è legato a Mew per il minor numero di lettere nel nome inglese di tutti i Pokémon .",
+        "Haunter e Muk sono gli unici due Pokémon il cui peso non cambia in seguito all'evoluzione.",
+        "In Pokémon Platino, Muk è uno dei pochi Pokémon non nel Pokédex di Sinnoh a non avere un nuovo sprite.",
+        "Muk è l'unico Pokémon che può imparare Pugnodombra tramite allevamento. Inoltre, Grimer e Muk sono gli unici Pokémon non di tipo Spettro ad imparare questa mossa.\n\tPuò anche imparare Furtivombra tramite allevamento, senza avere riferimenti a Pokémon di tipo Spettro o ad ombre.",
+        "Può anche imparare Furtivombra tramite allevamento, senza avere riferimenti a Pokémon di tipo Spettro o ad ombre.",
+        "Grimer e Muk non possiedono l'abilità Melma, pur essendo noti come Pokémon Melma.",
+        "Muk ha dei tratti comuni con Weezing e Garbodor: sono tutti e tre Pokémon di tipo Veleno puro  con una sola pre-evoluzione, hanno circa le stesse statistiche di base totali, si evolvono circa allo stesso livello e sono basati su diversi tipi di inquinamento: Muk è l'inquinamento dell'acqua, Weezing l'inquinamento dell'aria e Garbodor l'inquinamento del suolo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/muk.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "muk",
+    "generation": 1,
+    "height": {
+        "muk": "1.2 m",
+        "forma-di-alola": "1.0 m"
+    },
+    "id": 89,
+    "name": "Muk",
+    "name_origin": "Muk potrebbe derivare da \"mud\"  o \"muck\"  ",
+    "origin": "Sembra essere una pila di fanghi vivente.\nLa sua Forma di Alola sembra essere ispirata esteticamente alla benzina, che quando è lasciata al sole è possibile veder brillare di vari colori dell'arcobaleno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Muk",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Melma",
+    "sprites": {
+        "muk": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0089.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2b/Homemsh0089.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/1/18/Homem0089A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0089A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9d/Artwork0089_RFVF.png"
+    },
+    "stats": {
+        "muk": {
+            "hp": 105,
+            "atk": 105,
+            "def": 75,
+            "spa": 65,
+            "spd": 100,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "muk": 500
+    },
+    "types": {
+        "muk": [
+            "Veleno"
+        ],
+        "forma-di-alola": [
+            "Veleno",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "muk": "30.0 kg",
+        "forma-di-alola": "52.0 kg"
+    }
+}

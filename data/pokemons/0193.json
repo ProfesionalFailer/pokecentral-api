@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "yanma": {
+            "primary": "Acceleratore",
+            "secondary": "Insettocchi",
+            "hidden": "Indagine"
+        }
+    },
+    "curiosities": [
+        "Yanma pesa esattamente quanto il protagonista maschile di Pokémon Diamante e Perla e Platino. Condivide questa peculiarità con Sudowoodo, Skuntank, Togekiss e Fearow.",
+        "Yanma condivide la stessa statistica base di Velocità con la sua evoluzione, Yanmega.",
+        "Yanma è l'ultimo Pokémon nell'ordine del Pokédex di Johto che ha lo stesso numero nel Nuovo Pokédex, dato che la sua evoluzione e quelle di Aipom, Lickitung, Piloswine e Tangela sono state tutte aggiunte al Pokédex di Johto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/yanma.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "yanma",
+    "generation": 2,
+    "height": {
+        "yanma": "1.2 m"
+    },
+    "id": 193,
+    "name": "Yanma",
+    "name_origin": "Il suo nome deriva dal suo nome giapponese, ヤンヤンマ Yanyanma, che deriva da 蜻蜓 yanma . ",
+    "origin": "Basato su una libellula. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Yanma",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Alachiara",
+    "sprites": {
+        "yanma": {
+            "default": "https://media.pokemoncentral.it/wiki/9/93/Homem0193.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0193.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/15/Artwork0193_HGSS.png"
+    },
+    "stats": {
+        "yanma": {
+            "hp": 65,
+            "atk": 65,
+            "def": 45,
+            "spa": 75,
+            "spd": 45,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "yanma": 390
+    },
+    "types": {
+        "yanma": [
+            "Volante",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "yanma": "38.0 kg"
+    }
+}

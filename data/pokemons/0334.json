@@ -1,0 +1,110 @@
+{
+    "abilities": {
+        "altaria": {
+            "primary": "Alternacura",
+            "hidden": "Antimeteo"
+        },
+        "megaaltaria": {
+            "primary": "Pellefolletto"
+        }
+    },
+    "curiosities": [
+        "Altaria è l'unico Pokémon di tipo Drago appartenente al gruppo di esperienza Irregolare.",
+        "Altaria e Noivern sono gli unici Pokémon col doppio tipo Drago/Volante che non sono Pokémon leggendari o pseudo-leggendari.",
+        "Altaria, Marill, Steelix e Fletchinder sono gli unici Pokémon di doppio tipo il cui tipo primario è diverso rispetto alla loro forma pre-evoluta.",
+        "Altaria è il Pokémon di tipo Drago più veloce a salire di livello; infatti necessita solo di 600.000 Punti Esperienza per raggiungere il livello 100.",
+        "MegaAltaria ha una combinazione di tipi unica."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/altaria.mp3",
+    "dex_entries": {
+        "altaria": {
+            "ruby": "ALTARIA danza e volteggia nel cielo tra le nubi soffici come batuffoli di cotone. Cantando con la sua voce cristallina, riesce a mandare in onirica estasi chi lo ascolta.",
+            "sapphire": "ALTARIA canta con una sublime voce di soprano. Le sue ali spumeggianti, che sembrano nubi di cotone, gli consentono di sfruttare le correnti ascensionali e di risalire verso l'infinito cielo blu.",
+            "emerald": "ALTARIA ha una sublime voce da soprano. Vola alto nel cielo blu in mezzo alle nuvole e lancia bollenti palle di fuoco dalla bocca.",
+            "firered": "Se si ode un'incantevole melodia risuonare tra le montagne, potrebbe essere il canto di ALTARIA.",
+            "leafgreen": "Se si ode un'incantevole melodia risuonare tra le montagne, potrebbe essere il canto di ALTARIA.",
+            "diamond": "Quando lotta, sembra una morbida nuvola. Canticchia con la sua voce da soprano.",
+            "pearl": "Quando lotta, sembra una morbida nuvola. Canticchia con la sua voce da soprano.",
+            "platinum": "Se lega con una persona, la avvolge nelle sue soffici ali e poi inizia a canticchiare.",
+            "heartgold": "Volteggia elegante nel cielo. Canticchia soavemente, mandando in onirica estasi chi lo ascolta.",
+            "soulsilver": "Volteggia elegante nel cielo. Canticchia soavemente, mandando in onirica estasi chi lo ascolta.",
+            "black": "Se lega con una persona, la avvolge nelle sue soffici ali e poi inizia a canticchiare.",
+            "white": "Se lega con una persona, la avvolge nelle sue soffici ali e poi inizia a canticchiare.",
+            "black-2": "Nelle belle giornate, ama confondersi con le poche nuvole in cielo e cantare con una bellissima voce di soprano.",
+            "white-2": "Nelle belle giornate, ama confondersi con le poche nuvole in cielo e cantare con una bellissima voce di soprano.",
+            "x": "Volteggia elegante nel cielo. Canticchia soavemente, mandando in onirica estasi chi lo ascolta.",
+            "y": "Nelle belle giornate, ama confondersi con le poche nuvole in cielo e cantare con una bellissima voce di soprano.",
+            "omega-ruby": "Altaria danza e volteggia nel cielo tra le nubi soffici come batuffoli di cotone. Cantando con la sua voce cristallina, riesce a mandare in onirica estasi chi lo ascolta.",
+            "alpha-sapphire": "Altaria canta con una sublime voce di soprano. Le sue ali spumeggianti, che sembrano nubi di cotone, gli consentono di sfruttare le correnti ascensionali e di risalire verso l'infinito cielo blu.",
+            "sword": "Mentre si libra elegante in cielo, intona un canto soave che ammalia chi lo sente.",
+            "shield": "Ha un carattere gentile, ma se lo si fa arrabbiare emette un verso minaccioso, per poi attaccare senza pietà.",
+            "brilliant-diamond": "Quando vola nel cielo sembra proprio una morbida nuvola. Canticchia con la sua voce da soprano.",
+            "shining-pearl": "Quando vola nel cielo sembra proprio una morbida nuvola. Canticchia con la sua voce da soprano.",
+            "scarlet": "Quando si affeziona a una persona, la avvolge nelle sue soffici ali e inizia a canticchiare.",
+            "violet": "Nelle belle giornate, ama volare nel cielo confondendosi tra le nuvole. Canta con una bellissima voce da soprano."
+        }
+    },
+    "egg_groups": [
+        "Volante",
+        "Drago"
+    ],
+    "flat_name": "altaria",
+    "generation": 3,
+    "height": {
+        "altaria": "1.1 m",
+        "megaaltaria": "1.5 m"
+    },
+    "id": 334,
+    "name": "Altaria",
+    "name_origin": "Altaria è una combinazione di alto o altus  e aria. Aria in musica si ci riferisce ad una melodia espressiva, un riferimento alle abilità musicali di Altaria. Potrebbe anche essere un riferimento a Altair, la stella più luminosa della costellazione dell'Aquila. ",
+    "origin": "Altaria sembra basato sul Peng, uccelli cinesi leggendari di grandi dimensioni, che si dice siano in grado di viaggiare per 3000 lǐ in un solo battito delle loro ali potenti e simili a nuvole. Vengono spesso disegnati con la testa e baffi di un drago. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Altaria",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Canterino",
+    "sprites": {
+        "altaria": {
+            "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0334.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/31/Homemsh0334.png"
+        },
+        "megaaltaria": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1d/Homem0334M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0334M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/68/Artwork0334_RZ.png"
+    },
+    "stats": {
+        "altaria": {
+            "hp": 75,
+            "atk": 70,
+            "def": 90,
+            "spa": 70,
+            "spd": 105,
+            "spe": 80
+        },
+        "megaaltaria": {
+            "hp": 75,
+            "atk": 110,
+            "def": 110,
+            "spa": 110,
+            "spd": 105,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "altaria": 490,
+        "megaaltaria": 590
+    },
+    "types": {
+        "altaria": [
+            "Volante",
+            "Drago"
+        ],
+        "megaaltaria": [
+            "Drago",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "altaria": "20.6 kg"
+    }
+}

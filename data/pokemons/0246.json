@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "larvitar": {
+            "primary": "Dentistretti",
+            "hidden": "Sabbiavelo"
+        }
+    },
+    "curiosities": [
+        "Le animazioni di Larvitar cambiano da Diamante e Perla a Platino, tuttavia lo sprite statico rimane lo stesso.",
+        "In quarta generazione, Larvitar può imparare Oltraggio e Ferroscudo tramite allevamento, ma non tramite Insegnamosse. Non è più il caso di Pokémon Nero 2 e Bianco 2, dove può impararle entrambe tramite Insegnamosse."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/larvitar.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro"
+    ],
+    "flat_name": "larvitar",
+    "generation": 2,
+    "height": {
+        "larvitar": "0.6 m"
+    },
+    "id": 246,
+    "name": "Larvitar",
+    "name_origin": "Il suo nome deriva dalla parola \"larva\". ",
+    "origin": "Larvitar ha svariate somiglianze con i dinosauri. Il fatto che si nutra delle montagne richiama la leggenda della Tarasca. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Larvitar",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Peldisasso",
+    "sprites": {
+        "larvitar": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7b/Homem0246.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0246.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/09/Artwork0246_HGSS.png"
+    },
+    "stats": {
+        "larvitar": {
+            "hp": 50,
+            "atk": 64,
+            "def": 50,
+            "spa": 45,
+            "spd": 50,
+            "spe": 41
+        }
+    },
+    "stats_sum": {
+        "larvitar": 300
+    },
+    "types": {
+        "larvitar": [
+            "Roccia",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "larvitar": "72.0 kg"
+    }
+}

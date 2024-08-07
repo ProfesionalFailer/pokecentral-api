@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "dustox": {
+            "primary": "Polvoscudo",
+            "hidden": "Insettocchi"
+        }
+    },
+    "curiosities": [
+        "Dustox condivide la sua categoria con Venomoth. Entrambi sono noti come Pokémon Velentarma.",
+        "Prima della sesta generazione, Dustox e la sua controparte Beautifly condividevano le stesse statistiche base, con Difesa e Difesa Speciale di Dustox scambiati con Attacco e Attacco Speciale di Beautifly. In sesta generazione, Dustox non ha ricevuto alcun aumento delle statistiche, ma Beautifly ha ricevuto un aumento di dieci punti in Attacco Speciale. Condivide questa particolarità con Politoed."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dustox.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "dustox",
+    "generation": 3,
+    "height": {
+        "dustox": "1.20 m"
+    },
+    "id": 269,
+    "name": "Dustox",
+    "name_origin": "Deriva dalle parole dust  e toxic . ",
+    "origin": "Basato su di una falena della specie Actias artemis. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dustox",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Velentarma",
+    "sprites": {
+        "dustox": {
+            "default": "https://media.pokemoncentral.it/wiki/4/44/Homem0269.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0269.png"
+        },
+        "dustox-f": {
+            "default": "https://media.pokemoncentral.it/wiki/d/db/Homef0269.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homefsh0269.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/42/Artwork0269_RZ.png"
+    },
+    "stats": {
+        "dustox": {
+            "hp": 60,
+            "atk": 50,
+            "def": 70,
+            "spa": 50,
+            "spd": 90,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "dustox": 385
+    },
+    "types": {
+        "dustox": [
+            "Veleno",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "dustox": "31.6 kg"
+    }
+}

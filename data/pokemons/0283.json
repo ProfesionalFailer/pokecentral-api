@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "surskit": {
+            "primary": "Nuotovelox",
+            "hidden": "Copripioggia"
+        }
+    },
+    "curiosities": [
+        "Surskit può essere visto come una controparte di Dewpider. Entrambi condividono il tipo Coleottero/Acqua e la stesse statistiche base totali di 269, entrambi si evolvono allo stesso livello ed entrambi possono essere trovati alla Collina Scrosciante in Pokémon Sole e Luna, alternandosi a seconda del tempo, con Surskit che può essere trovato durante la notte e Dewpider durante il giorno.",
+        "A causa di un errore nei dati delle comparse di Surskit selvatico in Pokémon Scarlatto e Violetto, dove gli ID delle aree sono inseriti come \"1,4.5,7\" invece che come \"1,4,5,7\", Surskit è abbinato ai dati di comparsa per l'Area 2 Sud e l'Area 4 Sud , ma si incontra solo nell'Area 1 Sud e nell'Area 5 Sud , perché nessuna area in Paldea corrisponde al valore ID \"4.5\".\n\tQuesto problema è stato parzialmente risolto nella versione 3.0.0+, poiché ora il Pokémon si genera correttamente nell'Area 2 Sud.",
+        "Questo problema è stato parzialmente risolto nella versione 3.0.0+, poiché ora il Pokémon si genera correttamente nell'Area 2 Sud."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/surskit.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 1",
+        "Coleottero"
+    ],
+    "flat_name": "surskit",
+    "generation": 3,
+    "height": {
+        "surskit": "0.50 m"
+    },
+    "id": 283,
+    "name": "Surskit",
+    "name_origin": "\"Surskit\" può essere una combinazione di \"surface\"  o \"surf\" e \"skitter\" . \"Ametama\" può essere una combinazione di 雨 ame , 水黽 amenbo  e 玉 tama . Potrebbe includere anche 飴玉 amedama , per le sue secrezioni dolci e sciroppose. ",
+    "origin": "Surskit sembra essere basato su un gerride. La forma del suo corpo ricorda una pietra da curling, che scivola sul ghiaccio in modo simile a come Surskit riesce a scivolare sulla superficie dell'acqua. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Surskit",
+    "shape": "insettoide",
+    "specie": "Pokémon Sfiorapozze",
+    "sprites": {
+        "surskit": {
+            "default": "https://media.pokemoncentral.it/wiki/3/35/Homem0283.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ef/Homemsh0283.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/29/Artwork0283_RZ.png"
+    },
+    "stats": {
+        "surskit": {
+            "hp": 40,
+            "atk": 30,
+            "def": 32,
+            "spa": 50,
+            "spd": 52,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "surskit": 269
+    },
+    "types": {
+        "surskit": [
+            "Coleot",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "surskit": "1.7 kg"
+    }
+}

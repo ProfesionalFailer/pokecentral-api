@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "beedrill": {
+            "primary": "Aiutinsetto",
+            "hidden": "Cecchino"
+        },
+        "megabeedrill": {
+            "primary": "Adattabilità"
+        }
+    },
+    "curiosities": [
+        "MegaBeedrill:\n\tHa l'Attacco base e la Velocità base più alti tra tutti i Pokémon di tipo Veleno.\n\tHa l'Attacco Speciale base più basso tra tutti i Pokémon di tipo Veleno e tutti i Pokémon megaevoluti.\n\tHa la Difesa base più bassa tra tutti i Pokémon megaevoluti.\n\tHa il totale delle statistiche base più basso tra tutti i Pokémon megaevoluti.",
+        "Ha l'Attacco base e la Velocità base più alti tra tutti i Pokémon di tipo Veleno.",
+        "Ha l'Attacco Speciale base più basso tra tutti i Pokémon di tipo Veleno e tutti i Pokémon megaevoluti.",
+        "Ha la Difesa base più bassa tra tutti i Pokémon megaevoluti.",
+        "Ha il totale delle statistiche base più basso tra tutti i Pokémon megaevoluti.",
+        "Beedrill e Butterfree possono essere considerati controparti.\n\tEntrambi sono Pokémon di prima generazione che si evolvono prima al livello 7 e poi al livello 10.\n\tEntrambi presentano uno stadio evolutivo simile alla metamorfosi.\n\tEntrambi hanno il totale delle statistiche base pari a 395.\n\tMentre Butterfree è esclusivo di Pokémon Bianco e Bianco 2, Beedrill è esclusivo di Pokémon Nero e Nero 2.\n\tEntrambi hanno una forma alternativa disponibile solamente durante la lotta: Butterfree Gigamax e MegaBeedrill.",
+        "Entrambi sono Pokémon di prima generazione che si evolvono prima al livello 7 e poi al livello 10.",
+        "Entrambi presentano uno stadio evolutivo simile alla metamorfosi.",
+        "Entrambi hanno il totale delle statistiche base pari a 395.",
+        "Mentre Butterfree è esclusivo di Pokémon Bianco e Bianco 2, Beedrill è esclusivo di Pokémon Nero e Nero 2.",
+        "Entrambi hanno una forma alternativa disponibile solamente durante la lotta: Butterfree Gigamax e MegaBeedrill.",
+        "In Pokémon Conquest, Beedrill è l'unico Pokémon del gioco senza la sua famiglia evolutiva.",
+        "Come da lui stesso confermato, Hitoshi Ariga s'è occupato della progettazione di MegaBeedrill."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/beedrill.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "beedrill",
+    "generation": 1,
+    "height": {
+        "beedrill": "1.0 m",
+        "megabeedrill": "1.4 m"
+    },
+    "id": 15,
+    "name": "Beedrill",
+    "name_origin": "Beedrill potrebbe essere una combinazione di bee, ape, e drill, trapano . Spear potrebbe derivare da スピアー spear, infilzare . Inoltre, スピアー spear al contrario è アピス Apis, il genere delle api. ",
+    "origin": "Beedrill potrebbe essere basato su un'ape o su una vespa. In particolare, ricorda il calabrone gigante asiatico; le zampe ricordano la forma di lancia. La forma cromatica del Pokémon ricorda le api del sudore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Beedrill",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Velenape",
+    "sprites": {
+        "beedrill": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c8/Homem0015.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5a/Homemsh0015.png"
+        },
+        "megabeedrill": {
+            "default": "https://media.pokemoncentral.it/wiki/7/72/Homem0015M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0015M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1f/Artwork0015_RFVF.png"
+    },
+    "stats": {
+        "beedrill": {
+            "hp": 65,
+            "atk": 90,
+            "def": 40,
+            "spa": 45,
+            "spd": 80,
+            "spe": 75
+        },
+        "megabeedrill": {
+            "hp": 65,
+            "atk": 150,
+            "def": 40,
+            "spa": 15,
+            "spd": 80,
+            "spe": 145
+        }
+    },
+    "stats_sum": {
+        "beedrill": 395,
+        "megabeedrill": 495
+    },
+    "types": {
+        "beedrill": [
+            "Veleno",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "beedrill": "29.5 kg",
+        "megabeedrill": "40.5 kg"
+    }
+}

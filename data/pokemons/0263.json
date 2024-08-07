@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "zigzagoon": {
+            "primary": "Raccolta",
+            "secondary": "Voracità",
+            "hidden": "Piedisvelti"
+        },
+        "forma-di-galar": {
+            "primary": "Raccolta",
+            "secondary": "Voracità",
+            "hidden": "Piedisvelti"
+        }
+    },
+    "curiosities": [
+        "Zigzagoon è uno dei due Pokémon a non essere presente nel Pokérap di Hoenn. L'altro è Relicanth.",
+        "Uno Zigzagoon cromatico è stato distribuito in Pokémon Rubino e Zaffiro tramite una demo interattiva per correggere il glitch delle bacche.\n\tDato che è stato disponibile per oltre tre anni in Nord America, Zigzagoon è considerato come la distribuzione evento più lunga.",
+        "Dato che è stato disponibile per oltre tre anni in Nord America, Zigzagoon è considerato come la distribuzione evento più lunga.",
+        "Zigzagoon ha lo stesso numero nel Pokédex di Hoenn e nel Pokédex di Kalos Centrale.",
+        "Secondo un'intervista a Ken Sugimori, il nome di Zigzagoon è stato concepito prima che fosse creato il suo design.",
+        "Sul sito ufficiale Pokémon, viene affermato che lo Zigzagoon di Galar rappresenta il ramo più antico della specie.",
+        "Lo Zigzagoon di Galar e la sua forma cromatica sono stati disegnati da James Turner."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/zigzagoon.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "zigzagoon",
+    "generation": 3,
+    "height": {
+        "zigzagoon": "0.4 m"
+    },
+    "id": 263,
+    "name": "Zigzagoon",
+    "name_origin": "Il nome deriva dall'unione di zig-zag con il nome inglese raccoon . ",
+    "origin": "Ha delle somiglianze con i procioni. Zigzagoon di Galar potrebbe assomigliare a Paul Stanley dal gruppo musicale \"Kiss\". ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zigzagoon",
+    "shape": "quadrupede",
+    "specie": "Pokémon Procione",
+    "sprites": {
+        "zigzagoon": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bd/Homem0263.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e6/Homemsh0263.png"
+        },
+        "forma-di-galar": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4e/Homem0263G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0263G.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/70/Artwork0263_RZ.png"
+    },
+    "stats": {
+        "zigzagoon": {
+            "hp": 38,
+            "atk": 30,
+            "def": 41,
+            "spa": 30,
+            "spd": 41,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "zigzagoon": 240
+    },
+    "types": {
+        "zigzagoon": [
+            "Normale"
+        ],
+        "forma-di-galar": [
+            "Buio",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "zigzagoon": "17.5 kg"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "noibat": {
+            "primary": "Indagine",
+            "secondary": "Intrapasso",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Noibat ha i punti base più bassi di tutti i Pokémon di tipo Drago.",
+        "Il nome tedesco di Noibat, eF-eM, è l'unico nome che usa l'alfabeto latino e non inizia con una lettera maiuscola.",
+        "Prima dell'ottava generazione Noibat e la sua evoluzione, Noivern, erano gli unici Pokémon a possedere il tipo Volante come tipo primario."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/noibat.mp3",
+    "dex_entries": {
+        "noibat": {
+            "x": "Vive in caverne completamente buie. Emette onde ultrasoniche alla frequenza di 200.000 Hz dalle grandi orecchie.",
+            "y": "Questo Pokémon emette ultrasuoni a 200.000 Hz in grado di stordire e stendere anche un lottatore professionista.",
+            "omega-ruby": "Vive in caverne completamente buie. Emette onde ultrasoniche alla frequenza di 200.000 Hz dalle grandi orecchie.",
+            "alpha-sapphire": "Questo Pokémon emette ultrasuoni a 200.000 Hz in grado di stordire e stendere anche un lottatore professionista.",
+            "ultra-sun": "Adora la frutta. Ha gusti raffinati e usa gli ultrasuoni per individuare i frutti maturi al punto giusto, ignorando gli altri.",
+            "ultra-moon": "Vola alla ricerca di frutti di cui cibarsi. È in grado di determinare se sono maturi grazie agli ultrasuoni che emette.",
+            "sword": "La sera esce dalla grotta in cui vive e vola in cerca di frutti maturi, che individua grazie agli ultrasuoni.",
+            "shield": "Controlla onde sonore di qualsiasi frequenza. Nemmeno i Pokémon più grandi riescono a sopportare i suoi ultrasuoni.",
+            "scarlet": "Riesce a individuare i frutti di cui si ciba grazie agli ultrasuoni che emette dalle grandi orecchie. A volte scambia gli Applin per cibo.",
+            "violet": "Può cambiare a piacimento la frequenza delle proprie onde sonore, fino a raggiungere ultrasuoni di un massimo di 200.000 hertz."
+        }
+    },
+    "egg_groups": [
+        "Volante",
+        "Drago",
+        "VIII"
+    ],
+    "flat_name": "noibat",
+    "generation": 6,
+    "height": {
+        "noibat": "0.5 m"
+    },
+    "id": 714,
+    "name": "Noibat",
+    "name_origin": "Noibat è una combinazione tra noise  e bat . ",
+    "origin": "Noibat è basato su un pipistrello. In particolare sul Plecotus sardus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Noibat",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Ondasonora",
+    "sprites": {
+        "noibat": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0714.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/83/Homemsh0714.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/03/Artwork0714_XY.png"
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 40,
+            "atk": 30,
+            "def": 35,
+            "spa": 45,
+            "spd": 40,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 245
+    },
+    "types": {
+        "noibat": [
+            "Volante",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "noibat": "8.0 kg"
+    }
+}

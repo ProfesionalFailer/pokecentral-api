@@ -1,0 +1,137 @@
+{
+    "abilities": {
+        "charizard": {
+            "primary": "Aiutofuoco",
+            "hidden": "Solarpotere"
+        },
+        "charizard-gigamax": {
+            "primary": "Aiutofuoco",
+            "hidden": "Solarpotere"
+        },
+        "megacharizard-x": {
+            "primary": "Unghiedure"
+        },
+        "megacharizard-y": {
+            "primary": "Siccità"
+        }
+    },
+    "curiosities": [
+        "Charizard e Charmeleon condividono la loro categoria con Flareon, Moltres e Infernape. Tutti e cinque sono noti come Pokémon Fiamma.",
+        "Prima della sesta generazione, Charizard e Rhyhorn condividevano lo stesso verso. Questo verso è stato aggiornato e riutilizzato per MegaCharizard Y.",
+        "Charizard, Typhlosion e le loro rispettive famiglie evolutive possiedono le stesse statistiche base.",
+        "Charizard è stato il primo Pokémon ad apparire nella versione giapponese della serie animata Pokémon, in quanto primo ad apparire nella sigla d'apertura. Al di fuori del Giappone è Mewtwo il primo ad apparire.",
+        "Charizard è l'unico Pokémon della serie Super Smash Bros. ad essere passato da Pokémon in una Poké Ball a personaggio giocabile.",
+        "MegaCharizard Y ha l'Attacco Speciale più alto tra tutti i Pokémon di tipo Fuoco e l'Attacco speciale più alto tra tutti i Pokémon non leggendari di tipo Volante.",
+        "Charizard ha ispirato la denominazione della Chilicola charizard, una specie d'ape.",
+        "Charizard è l'unico Pokémon non presente nel Pokédex di Alola a poter essere utilizzato nel Poképassaggio in Pokémon Sole e Luna  e in Pokémon Ultrasole e Ultraluna.",
+        "Charizard è l'unico Pokémon iniziale estraneo alla regione di Galar ad essere presente nel Pokédex base di Pokémon Spada e Scudo.",
+        "Charizard è il Pokémon preferito di Atsuko Nishida.",
+        "Charizard e Mewtwo sono gli unici due Pokémon a possedere due Megaevoluzioni.",
+        "Nel sondaggio Pokémon of the Year tenuto da The Pokémon Company nel 2020, Charizard è stato votato come Pokémon più popolare della prima generazione, con 93.968 voti. È inoltre il quarto Pokémon più popolare tra tutte le generazioni.",
+        "L'attuale aspetto di Charizard cromatico è stato visto per la prima volta in un artwork ufficiale del 2001, tra il rilascio di Pokémon Cristallo e di Pokémon Rubino e Zaffiro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/charizard.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "flat_name": "charizard",
+    "generation": 1,
+    "height": {
+        "charizard": "1.7 m",
+        "megacharizard-x": "1.7 m",
+        "megacharizard-y": "1.7 m",
+        "charizard-gigamax": "> 28.0 m"
+    },
+    "id": 6,
+    "name": "Charizard",
+    "name_origin": "Charizard potrebbe essere una combinazione di char, carbonizzare, e lizard, lucertola. Lizardon potrebbe essere una combinazione di リザード rizādo, lucertola, e ドン don, dente in greco antico, ドン don, dominare , o ドラゴン dragon, drago. ",
+    "origin": "Charizard e la sua famiglia evolutiva sono basati su una lucertola, probabilmente sulla salamandra mitologica. Secondo Ken Sugimori e Atsuko Nishida, Charizard sarebbe stato progettato per primo e, solo in seguito, sarebbero stati progettati Charmander ed Charmeleon, direttamente basati sulla sua forma finale. Charizard potrebbe essere quindi basato su un drago europeo, il quale è estremamente associato all'elemento del fuoco nel folklore europeo. L'aspetto draconico si rifletterebbe sulla combinazione di tipo Fuoco/Drago di MegaCharizard X. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Charizard",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Fiamma",
+    "sprites": {
+        "charizard": {
+            "default": "https://media.pokemoncentral.it/wiki/0/01/Homem0006.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b9/Homemsh0006.png"
+        },
+        "megacharizard-x": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0006MX.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f0/Homemsh0006MX.png"
+        },
+        "megacharizard-y": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fd/Homem0006MY.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0006MY.png"
+        },
+        "charizard-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2a/Homem0006Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4a/Homemsh0006Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/48/Artwork0006_RFVF.png"
+    },
+    "stats": {
+        "charizard": {
+            "hp": 78,
+            "atk": 84,
+            "def": 78,
+            "spa": 109,
+            "spd": 85,
+            "spe": 100
+        },
+        "charizard-gigamax": {
+            "hp": 78,
+            "atk": 84,
+            "def": 78,
+            "spa": 109,
+            "spd": 85,
+            "spe": 100
+        },
+        "megacharizard-x": {
+            "hp": 78,
+            "atk": 130,
+            "def": 111,
+            "spa": 130,
+            "spd": 85,
+            "spe": 100
+        },
+        "megacharizard-y": {
+            "hp": 78,
+            "atk": 104,
+            "def": 78,
+            "spa": 159,
+            "spd": 115,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "charizard": 534,
+        "charizard-gigamax": 534,
+        "megacharizard-x": 634,
+        "megacharizard-y": 634
+    },
+    "types": {
+        "charizard": [
+            "Volante",
+            "Fuoco"
+        ],
+        "megacharizard-y": [
+            "Volante",
+            "Fuoco"
+        ],
+        "charizard-gigamax": [
+            "Volante",
+            "Fuoco"
+        ],
+        "megacharizard-x": [
+            "Fuoco",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "charizard": "90.5 kg",
+        "megacharizard-x": "110.5 kg",
+        "megacharizard-y": "100.5 kg",
+        "charizard-gigamax": "???.? kg"
+    }
+}

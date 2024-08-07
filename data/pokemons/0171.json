@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "lanturn": {
+            "primary": "Assorbivolt",
+            "secondary": "Risplendi",
+            "hidden": "Assorbacqua"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Smeraldo è possibile incontrare un allenatore nella Via Vittoria con un Lanturn che utilizza la mossa Terremoto, nonostante non possa apprenderla.",
+        "Prima della quinta generazione Chinchou e Lanturn avevano una combinazione di tipi unica.",
+        "Lanturn condivide il nome della specie con Ampharos: entrambi sono detti Pokémon Luce.",
+        "Lanturn può essere visto come parallelo di Lumineon:\n\tHanno lo stesso totale di statistiche.\n\tSecondo alcune voci del Pokédex di Lumineon, si contendono cibo e zone di caccia, oltre ad avere comportamenti simili e la stessa abilità nel emettere luce propria.\n\tAnche le loro pre-evoluzioni, Chinchou e Finneon hanno le medesime caratteristiche comuni alle statistiche.",
+        "Hanno lo stesso totale di statistiche.",
+        "Secondo alcune voci del Pokédex di Lumineon, si contendono cibo e zone di caccia, oltre ad avere comportamenti simili e la stessa abilità nel emettere luce propria.",
+        "Anche le loro pre-evoluzioni, Chinchou e Finneon hanno le medesime caratteristiche comuni alle statistiche."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lanturn.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 2"
+    ],
+    "flat_name": "lanturn",
+    "generation": 2,
+    "height": {
+        "lanturn": "1.2 m"
+    },
+    "id": 171,
+    "name": "Lanturn",
+    "name_origin": "Il suo nome deriva probabilmente dalla parola inglese Lantern . ",
+    "origin": "Lanturn è basato sull'ordine animale dei pesci Lophiiformes, inoltre il suo aspetto ricorda quello di un delfino. È possibile che questo sia un riferimento al dio greco Apollo, il quale era dio della luce e il suo animale simbolo era proprio il delfino. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lanturn",
+    "shape": "pinne",
+    "specie": "Pokémon Luce",
+    "sprites": {
+        "lanturn": {
+            "default": "https://media.pokemoncentral.it/wiki/1/19/Homem0171.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5d/Homemsh0171.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d2/Artwork0171_HGSS.png"
+    },
+    "stats": {
+        "lanturn": {
+            "hp": 125,
+            "atk": 58,
+            "def": 58,
+            "spa": 76,
+            "spd": 76,
+            "spe": 67
+        }
+    },
+    "stats_sum": {
+        "lanturn": 460
+    },
+    "types": {
+        "lanturn": [
+            "Elettro",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "lanturn": "22.5 kg"
+    }
+}

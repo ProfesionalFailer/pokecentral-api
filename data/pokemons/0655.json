@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "delphox": {
+            "primary": "Aiutofuoco",
+            "hidden": "Prestigiatore"
+        }
+    },
+    "curiosities": [
+        "Ha l'Attacco più basso tra tutti i Pokémon iniziali totalmente evoluti.",
+        "Delphox e le sue pre-evoluzioni condividono la categoria con le famiglie evolutive di Vulpix e Nickit. Appartengono infatti tutti alla categoria Pokémon Volpe."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/delphox.mp3",
+    "dex_entries": {
+        "delphox": {
+            "x": "Fissando la fiamma del ramo che ha in mano, aumenta al massimo la concentrazione e può predire il futuro.",
+            "y": "Grazie ai suoi poteri psichici, può generare un vortice di fiamme a 3000 °C con il quale avvolge i nemici e li incenerisce.",
+            "omega-ruby": "Fissando la fiamma del ramo che ha in mano, aumenta al massimo la concentrazione e può predire il futuro.",
+            "alpha-sapphire": "Grazie ai suoi poteri psichici, può generare un vortice di fiamme a 3000 ºC con il quale avvolge i nemici e li incenerisce."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "delphox",
+    "generation": 6,
+    "height": {
+        "delphox": "1.5 m"
+    },
+    "id": 655,
+    "name": "Delphox",
+    "name_origin": "Delphox deriva da Delphic  e fox . ",
+    "origin": "Delphox è ispirato ad una volpe e presenta alcuni elementi in comune con i maghi o le streghe. Potrebbe anche essere basato su una Kitsune del folclore giapponese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Delphox",
+    "shape": "quadrupede",
+    "specie": "Pokémon Volpe",
+    "sprites": {
+        "delphox": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fd/Homem0655.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0655.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8c/Artwork0655_XY.png"
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 75,
+            "atk": 69,
+            "def": 72,
+            "spa": 114,
+            "spd": 100,
+            "spe": 104
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 534
+    },
+    "types": {
+        "delphox": [
+            "Fuoco",
+            "Psico"
+        ]
+    },
+    "weight": {
+        "delphox": "39.0 kg"
+    }
+}

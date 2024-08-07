@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "geodude": {
+            "primary": "Testadura",
+            "secondary": "Vigore",
+            "hidden": "Sabbiavelo"
+        },
+        "forma-di-alola": {
+            "primary": "Magnetismo",
+            "secondary": "Vigore",
+            "hidden": "Pellelettro"
+        }
+    },
+    "curiosities": [
+        "Geodude ha la statistica base di Difesa più alta fra tutti i Pokémon non evoluti appartenenti ad una famiglia evolutiva a tre stadi. Condivide questa particolarità con Aron.",
+        "Geodude è uno dei cinque Pokémon di prima generazione che ha cambiato la cessione di Punti Esperienza in terza generazione, da 86 a 73. Gli altri sono Abra, Machop, Omanyte e Kabuto.",
+        "In molti anime e giochi, Geodude è visto levitare in aria. Tuttavia non può possedere l'abilità Levitazione né imparare la mossa Magnetascesa.\n\tNonostante questo, la Forma Alola di Geodude impara Magnetascesa per accoppiamento.",
+        "Nonostante questo, la Forma Alola di Geodude impara Magnetascesa per accoppiamento.",
+        "In un episodio della serie animata Disney Fillmore!, un Allenatore di tifo dice alla sua squadra di costruire una piramide umana \"Solida come un Geodude che usa la mossa Rafforzatore\". Tuttavia, dopo la seconda generazione, Geodude e la sua famiglia diventano incapaci di usare quella mossa.",
+        "Nonostante Geodude sia anche un Pokémon di tipo Terra, nell'episodio La grande sfida, il Pikachu di Ash sconfigge il Geodude di Brock due volte, utilizzando mosse di tipo Elettro.",
+        "Geodude è sempre usato da personaggi importanti specializzati nel tipo Roccia. Brock tuttavia è l'unico che lo fa evolvere nelle varie generazioni, nella I generazione e nella III ha un Geodude, nella II e nella IV è evoluto in un Graveler e nella V è ormai un Golem.",
+        "La forma cromatica di Geodude potrebbe essere un riferimento alla pepita d'oro. Tuttavia, in seconda generazione non ha un colore dorato, ma una semplice variante del suo colore originale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/geodude.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "geodude",
+    "generation": 1,
+    "height": {
+        "geodude": "0.4 m"
+    },
+    "id": 74,
+    "name": "Geodude",
+    "name_origin": "\"Geodude\" è l'unione della parola greca \"geos\"  con quella inglese \"dude\" , oppure da \"geode\"  e \"dude\". ",
+    "origin": "Geodude potrebbe essere basato sulla \"roccia peluche\" . Comunque Geodude potrebbe essere ispirato solamente ad una roccia vivente. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Geodude",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Roccia",
+    "sprites": {
+        "geodude": {
+            "default": "https://media.pokemoncentral.it/wiki/1/19/Homem0074.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0074.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b7/Homem0074A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a0/Homemsh0074A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0d/Artwork0074_RFVF.png"
+    },
+    "stats": {
+        "geodude": {
+            "hp": 40,
+            "atk": 80,
+            "def": 100,
+            "spa": 30,
+            "spd": 30,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "geodude": 300
+    },
+    "types": {
+        "geodude": [
+            "Roccia",
+            "Terra"
+        ],
+        "forma-di-alola": [
+            "Roccia",
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "geodude": "20.0 kg",
+        "forma-di-alola": "20.3 kg"
+    }
+}

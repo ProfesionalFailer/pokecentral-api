@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "cufant": {
+            "primary": "Forzabruta",
+            "hidden": "Metalpesante"
+        }
+    },
+    "curiosities": [
+        "Cufant e la sua evoluzione Copperajah sono gli unici Pokémon che si trovano nel Gruppo Uova Campo e Minerale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cufant.mp3",
+    "dex_entries": {
+        "cufant": {
+            "sword": "È un Pokémon molto forte, capace di trasportare facilmente carichi di cinque tonnellate. Usa la proboscide per scavare la terra.",
+            "shield": "I lavori pesanti sono il suo pane quotidiano. Il suo corpo di rame si ossida con la pioggia colorandosi di un verde intenso.",
+            "scarlet": "Con la sua proboscide appuntita scava la dura pietra di cui si nutre. Di carattere mite, aiuta gli esseri umani nei lavori pesanti.",
+            "violet": "Può sollevare carichi di cinque tonnellate. Al mattino si dirige in gruppo con i suoi simili verso le grotte, in cerca dei minerali di cui si nutre."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Minerale"
+    ],
+    "flat_name": "cufant",
+    "generation": 8,
+    "height": {
+        "cufant": "1.2 m"
+    },
+    "id": 878,
+    "name": "Cufant",
+    "name_origin": "Cufant potrebbe essere una combinazione di Cu, simbolo della tavola periodica del rame, cuprum, il nome latino del rame, cute, carino, elephant, elefante, e infant, infante. Zoudou potrebbe essere una combinazione di 象 zō, elefante, 銅 dō, rame, 童 dō, bambino, e 銅像 dōzō, statua di bronzo. ",
+    "origin": "Cufant ricorda un cucciolo d'elefante asiatico con una vanga come proboscide. Potrebbe essere basato sulle statue d'elefante in rame e bronzo che sono comuni nell'arte indiana e Thai. Il modo in cui il suo corpo di rame si ossida sotto la pioggia potrebbe prendere ispirazione dal fatto che il rame può ossidare a ossido rameico quando esposto al fenomeno della pioggia acida. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cufant",
+    "shape": "quadrupede",
+    "specie": "Pokémon Bronzofante",
+    "sprites": {
+        "cufant": {
+            "default": "https://media.pokemoncentral.it/wiki/2/27/Homem0878.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a8/Homemsh0878.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/64/Artwork0878_SpSc.png"
+    },
+    "stats": {
+        "cufant": {
+            "hp": 72,
+            "atk": 80,
+            "def": 49,
+            "spa": 40,
+            "spd": 49,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "cufant": 330
+    },
+    "types": {
+        "cufant": [
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "cufant": "100.0 kg"
+    }
+}

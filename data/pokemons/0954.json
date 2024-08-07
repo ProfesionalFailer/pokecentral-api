@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "rabsca": {
+            "primary": "Sincronismo",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Coleottero",
+        "Pokémon di tipo Psico",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Veloce",
+        "Pokémon di colore Verde",
+        "Pokémon dalla sagoma n. 14",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Coleottero",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 470"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/rabsca.mp3",
+    "dex_entries": {
+        "rabsca": {
+            "scarlet": "La parte del corpo che sostiene la sfera si muove pochissimo. C'è chi ritiene che il suo vero corpo sia quello all'interno della sfera stessa.",
+            "violet": "Con le zampe ruota la sfera per cullare e fare dormire serenamente il piccolo che si trova al suo interno."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "rabsca",
+    "generation": 9,
+    "height": {
+        "rabsca": "0.3 m"
+    },
+    "id": 954,
+    "name": "Rabsca",
+    "name_origin": "Rabsca potrebbe essere un riordinamento di scarab . Potrebbe anche derivare da rapscallion . Berakasu potrebbe essere スカラベ sukarabe  al contrario. ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rabsca",
+    "shape": "insettoide",
+    "specie": "Pokémon Rotolatore",
+    "sprites": {
+        "rabsca": {
+            "default": "https://media.pokemoncentral.it/wiki/5/50/Homem0954.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e0/Homemsh0954.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b2/Artwork0954_SV.png"
+    },
+    "stats": {
+        "rabsca": {
+            "hp": 75,
+            "atk": 50,
+            "def": 85,
+            "spa": 115,
+            "spd": 100,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "rabsca": 470
+    },
+    "types": {
+        "rabsca": [
+            "Psico",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "rabsca": "3.5 kg"
+    }
+}

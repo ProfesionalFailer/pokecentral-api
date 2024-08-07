@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "unfezant": {
+            "primary": "Pettinfuori",
+            "secondary": "Supersorte",
+            "hidden": "Antagonismo"
+        }
+    },
+    "curiosities": [
+        "Unfezant è uno dei tre Pokémon di quinta generazione che presenta differenze di aspetto radicali fra i due sessi. Gli altri due sono Frillish e Jellicent.",
+        "È uno degli unici due Pokémon con la somma delle statistiche base pari a 488. L'altro è Scrafty.",
+        "Varie voci Pokédex dicono che la femmina è più resistente e più abile nel volo mentre il maschio è più veloce; tuttavia, nei giochi non c'è alcuna differenza fra un esemplare maschio o femmina per quanto riguarda le statistiche base o altre info."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/unfezant.mp3",
+    "dex_entries": {
+        "unfezant": {
+            "black": "Il maschio minaccia il nemico facendo ondeggiare gli ornamenti del capo. La femmina eccelle nel volo.",
+            "white": "Il maschio ha una decorazione sulla fronte. Per indole, non si affeziona a nessuno tranne l'Allenatore.",
+            "black-2": "Il maschio sfrutta le piume che ha in testa per minacciare i nemici, ma è meno abile della femmina in volo.",
+            "white-2": "Il maschio sfrutta le piume che ha in testa per minacciare i nemici, ma è meno abile della femmina in volo.",
+            "x": "Il maschio minaccia il nemico facendo ondeggiare gli ornamenti del capo. La femmina eccelle nel volo.",
+            "y": "Il maschio ha una decorazione sulla fronte. Per indole, non si affeziona a nessuno tranne l'Allenatore.",
+            "omega-ruby": "Il maschio minaccia il nemico facendo ondeggiare gli ornamenti del capo. La femmina eccelle nel volo.",
+            "alpha-sapphire": "Il maschio ha una decorazione sulla fronte. Per indole, non si affeziona a nessuno tranne l'Allenatore."
+        },
+        "maschio": {
+            "sword": "Eccelle nel volo. La femmina è particolarmente resistente, ma il maschio la batte in velocità.",
+            "shield": "È tanto intelligente quanto orgoglioso. Diventare Allenatori di questo Pokémon equivale a guadagnarsi il rispetto e l'ammirazione di tutti."
+        },
+        "femmina": {
+            "sword": "Eccelle nel volo ed è particolarmente resistente. La femmina è ancora più restia del maschio a legare con gli esseri umani.",
+            "shield": "È tanto intelligente quanto orgoglioso. Diventare Allenatori di questo Pokémon equivale a guadagnarsi il rispetto e l'ammirazione di tutti."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "unfezant",
+    "generation": 5,
+    "height": {
+        "unfezant": "1.2 m"
+    },
+    "id": 521,
+    "name": "Unfezant",
+    "name_origin": "Il nome potrebbe essere la combinazione tra le parole inglesi unfazed , unpleasant  e pheasant . ",
+    "origin": "L'aspetto di Unfezant si potrebbe basare sul fagiano verde o il tragopano, ma presenta anche delle somiglianze con i tacchini e i corridori della strada. La differenza tra il sesso maschile e femminile di Unfezant rispecchia il dimorfismo sessuale molto comune negli uccelli. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Unfezant",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Orgoglio",
+    "sprites": {
+        "unfezant": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fc/Homem0521.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homemsh0521.png"
+        },
+        "unfezant-f": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0b/Homef0521.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d6/Homefsh0521.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e3/Artwork0521_NB.png"
+    },
+    "stats": {
+        "unfezant": {
+            "hp": 80,
+            "atk": 115,
+            "def": 80,
+            "spa": 65,
+            "spd": 55,
+            "spe": 93
+        }
+    },
+    "stats_sum": {
+        "unfezant": 488
+    },
+    "types": {
+        "unfezant": [
+            "Volante",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "unfezant": "29.0 kg"
+    }
+}

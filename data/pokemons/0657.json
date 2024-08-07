@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "frogadier": {
+            "primary": "Acquaiuto",
+            "hidden": "Mutatipo"
+        }
+    },
+    "curiosities": [
+        "Frogadier di Ash",
+        "Frogadier di Sanpei",
+        "Frogadier di Goh",
+        "Croaky"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/frogadier.mp3",
+    "dex_entries": {
+        "frogadier": {
+            "x": "Lancia dei sassi racchiusi in bolle di schiuma. È talmente preciso da riuscire a colpire una lattina vuota a 30 m di distanza.",
+            "y": "Grazie alla sua straordinaria agilità, è in grado di scalare una torre alta più di 600 m in meno di un minuto.",
+            "omega-ruby": "Lancia dei sassi racchiusi in bolle di schiuma. È talmente preciso da riuscire a colpire una lattina vuota a 30 m di distanza.",
+            "alpha-sapphire": "Grazie alla sua straordinaria agilità, è in grado di scalare una torre alta più di 600 m in meno di un minuto."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1"
+    ],
+    "flat_name": "frogadier",
+    "generation": 6,
+    "height": {
+        "frogadier": "0.6 m"
+    },
+    "id": 657,
+    "name": "Frogadier",
+    "name_origin": "Frogadier deriva dall'inglese frog  e brigadier . ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Frogadier",
+    "shape": "bipedi",
+    "specie": "Pokémon Schiumorana",
+    "sprites": {
+        "frogadier": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6b/Homem0657.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/42/Homemsh0657.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/22/Artwork0657_XY.png"
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 54,
+            "atk": 63,
+            "def": 52,
+            "spa": 83,
+            "spd": 56,
+            "spe": 97
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 405
+    },
+    "types": {
+        "frogadier": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "frogadier": "10.9 kg"
+    }
+}

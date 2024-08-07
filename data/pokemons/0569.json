@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "garbodor": {
+            "primary": "Tanfo",
+            "secondary": "Sottilguscio",
+            "hidden": "Scoppio"
+        }
+    },
+    "curiosities": [
+        "Garbodor condivide alcune caratteristiche con Muk e Weezing."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/garbodor.mp3",
+    "dex_entries": {
+        "garbodor": {
+            "black": "Serra l'avversario con l'arto sinistro e gli dà il colpo di grazia esalando dalla bocca un fetido gas velenoso.",
+            "white": "Assorbe la spazzatura e la ingloba nel suo corpo. Spruzza veleno dalle estremità dell'arto destro.",
+            "black-2": "Assorbe la spazzatura nel suo corpo per creare dei liquidi velenosi e dei gas tossici sempre nuovi.",
+            "white-2": "Assorbe la spazzatura nel suo corpo per creare dei liquidi velenosi e dei gas tossici sempre nuovi.",
+            "x": "Serra l'avversario con l'arto sinistro e gli dà il colpo di grazia esalando dalla bocca un fetido gas velenoso.",
+            "y": "Assorbe la spazzatura nel suo corpo per creare dei liquidi velenosi e dei gas tossici sempre nuovi.",
+            "omega-ruby": "Serra l'avversario con l'arto sinistro e gli dà il colpo di grazia esalando dalla bocca un fetido gas velenoso.",
+            "alpha-sapphire": "Assorbe la spazzatura nel suo corpo per creare dei liquidi velenosi e dei gas tossici sempre nuovi.",
+            "sun": "Dall'arto destro spruzza un veleno altamente nocivo. Basta toccarlo per essere contaminati da tossine sconosciute.",
+            "moon": "Un tempo questi Pokémon erano molto diffusi ad Alola, ma il loro numero è notevolmente diminuito con l'arrivo dei Grimer.",
+            "ultra-sun": "Blocca il nemico con l’arto sinistro e ne cosparge il corpo con un liquido velenoso per immobilizzarlo.",
+            "ultra-moon": "I Garbodor che vivono ad Alola sono più robusti del normale per difendersi dai Muk, i loro nemici naturali.",
+            "sword": "Mangia spazzatura e la trasforma in un veleno la cui composizione cambia a seconda di cosa ha ingurgitato.",
+            "shield": "Il veleno che spruzza dall'arto destro è talmente tossico da risultare istantaneamente letale per le creature già debilitate."
+        },
+        "gigamax": {
+            "sword": "L'energia del fenomeno Gigamax ha fatto addensare i suoi gas velenosi, che si sono solidificati sotto forma di giocattoli abbandonati.",
+            "shield": "I gas tossici che emette dalla bocca e dalle dita penetrano fino al midollo."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "garbodor",
+    "generation": 5,
+    "height": {
+        "garbodor": "1.9 m",
+        "garbodor-gigamax": "> 21.0 m"
+    },
+    "id": 569,
+    "name": "Garbodor",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi garbage  e odor . ",
+    "origin": "È basato sia sui sacchetti dell'immondizia che sulle discariche. I tubi che fungono da dita collegati alla notevole massa del suo corpo rigonfio lo fanno sembrare un'aspirapolvere sul punto di esplodere per la troppa polvere assorbita. Potrebbe alludere al formarsi di organismi viventi con l'accumularsi di spazzatura e agenti inquinanti nell'ambiente, causato dall'uso improprio che l'uomo fa dei rifiuti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Garbodor",
+    "shape": "bipedi",
+    "specie": "Pokémon Discarica",
+    "sprites": {
+        "garbodor": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9e/Homem0569.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/37/Homemsh0569.png"
+        },
+        "garbodor-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6d/Homem0569Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bf/Homemsh0569Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/57/Artwork0569_NB.png"
+    },
+    "stats": {
+        "garbodor": {
+            "hp": 80,
+            "atk": 95,
+            "def": 82,
+            "spa": 60,
+            "spd": 82,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "garbodor": 474
+    },
+    "types": {
+        "garbodor": [
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "garbodor": "107.3 kg",
+        "garbodor-gigamax": "???.? kg"
+    }
+}

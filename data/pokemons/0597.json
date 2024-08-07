@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "ferroseed": {
+            "primary": "Spineferrate"
+        }
+    },
+    "curiosities": [
+        "Prima della settima generazione Ferroseed e Ferrothorn avevano una combinazione di tipi unica.",
+        "È il Pokémon più lento tra quelli di quinta generazione, quelli di tipo Erba e quelli di tipo Acciaio.",
+        "Ferroseed non può imparare Rapigiro, nonostante lo sprite di lotta di quinta generazione lo mostri in costante rotazione su se stesso."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ferroseed.mp3",
+    "dex_entries": {
+        "ferroseed": {
+            "black": "Quando avverte un pericolo, reagisce sparando simultaneamente tutti i suoi aculei, per poi fuggire via rotolando.",
+            "white": "Si attacca alle pareti delle grotte conficcando gli aculei. Assorbe i minerali all'interno delle rocce.",
+            "black-2": "Si conficca nelle pareti delle grotte e assorbe i minerali delle rocce. Quando avverte un pericolo spara i suoi aculei.",
+            "white-2": "Si conficca nelle pareti delle grotte e assorbe i minerali delle rocce. Quando avverte un pericolo spara i suoi aculei.",
+            "x": "Quando avverte un pericolo, reagisce sparando simultaneamente tutti i suoi aculei, per poi fuggire via rotolando.",
+            "y": "Si conficca nelle pareti delle grotte e assorbe i minerali delle rocce. Quando avverte un pericolo spara i suoi aculei.",
+            "omega-ruby": "Quando avverte un pericolo, reagisce sparando simultaneamente tutti i suoi aculei, per poi fuggire via rotolando.",
+            "alpha-sapphire": "Si conficca nelle pareti delle grotte e assorbe i minerali delle rocce. Quando avverte pericolo, spara i suoi aculei.",
+            "sword": "Si protegge sparando i suoi aculei, ma per riuscire a orientarli con precisione verso il bersaglio ha bisogno di allenarsi a lungo.",
+            "shield": "Predilige le grotte in cui cresce il muschio, i cui enzimi aiutano i suoi aculei a crescere grandi e forti."
+        }
+    },
+    "egg_groups": [
+        "Erba",
+        "Minerale"
+    ],
+    "flat_name": "ferroseed",
+    "generation": 5,
+    "height": {
+        "ferroseed": "0.6 m"
+    },
+    "id": 597,
+    "name": "Ferroseed",
+    "name_origin": "Ferroseed potrebbe derivare dall'unione della parola italiana ferro e quella inglese seed . ",
+    "origin": "Ferroseed è basato su un frutto o un seme spinoso, quali la nappola spinosa, il durian, l'ippocastano, o la mela delle spine. Inoltre si basa sulla parte culminante di un mazzafrusto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ferroseed",
+    "shape": "testa",
+    "specie": "Pokémon Spinaseme",
+    "sprites": {
+        "ferroseed": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8a/Homem0597.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2e/Homemsh0597.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/82/Artwork0597_NB.png"
+    },
+    "stats": {
+        "ferroseed": {
+            "hp": 44,
+            "atk": 50,
+            "def": 91,
+            "spa": 24,
+            "spd": 86,
+            "spe": 10
+        }
+    },
+    "stats_sum": {
+        "ferroseed": 305
+    },
+    "types": {
+        "ferroseed": [
+            "Acciaio",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "ferroseed": "18.8 kg"
+    }
+}

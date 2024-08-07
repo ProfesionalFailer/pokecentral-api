@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "clauncher": {
+            "primary": "Megalancio"
+        }
+    },
+    "curiosities": [
+        "Clauncher di Misty"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/clauncher.mp3",
+    "dex_entries": {
+        "clauncher": {
+            "x": "Abbatte le prede volanti sparando un getto d'acqua ad alta pressione dalla chela più grande, che usa come una pistola.",
+            "y": "Facendo esplodere i gas corporei, emette un getto d'acqua ad altissima pressione che, a breve distanza, può persino frantumare le rocce.",
+            "omega-ruby": "Abbatte le prede volanti sparando un getto d'acqua ad alta pressione dalla chela più grande, che usa come pistola",
+            "alpha-sapphire": "Facendo esplodere i gas corporei, emette un getto d'acqua ad altissima pressione che, a breve distanza, può persino frantumare le rocce.",
+            "ultra-sun": "Se capita che gli si stacchi una chela, resta nascosto finché non ricresce. La polpa delle sue chele è una vera prelibatezza.",
+            "ultra-moon": "Si sposta spruzzando acqua dalla chela destra. Ha un pessimo equilibrio e non riesce a nuotare seguendo una traiettoria dritta.",
+            "sword": "Se le sue chele si staccano durante la lotta, ricrescono. La polpa al loro interno è considerata una rara prelibatezza a Galar.",
+            "shield": "Sconfigge i nemici con proiettili d'acqua che spara facendo esplodere il gas che accumula nella chela destra.",
+            "scarlet": "Può sparare acqua facendo esplodere dei gas all’interno della sua chela destra. Questa tecnica gli permette di abbattere i Pokémon in volo.",
+            "violet": "Anche se staccate, le sue chele ricrescono. La loro polpa è commestibile, ma ha un sapore particolare: alcuni la amano, altri la odiano."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 3"
+    ],
+    "flat_name": "clauncher",
+    "generation": 6,
+    "height": {
+        "clauncher": "0.5 m"
+    },
+    "id": 692,
+    "name": "Clauncher",
+    "name_origin": "Clauncher probabilmente è una combinazione tra claw  e launcher . Udeppou deriva da 水鉄砲 mizudeppou  e 腕 ude . ",
+    "origin": "Clauncher è basato su un Gambero Pistolero. Il suo intenso colore blu può essere basato su un Gambero della Florida o può anche essere un riferito a un'aragosta americana mutata. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Clauncher",
+    "shape": "insettoide",
+    "specie": "Pokémon Zampillo",
+    "sprites": {
+        "clauncher": {
+            "default": "https://media.pokemoncentral.it/wiki/7/78/Homem0692.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/29/Homemsh0692.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/59/Artwork0692_XY.png"
+    },
+    "stats": {
+        "clauncher": {
+            "hp": 50,
+            "atk": 53,
+            "def": 62,
+            "spa": 58,
+            "spd": 63,
+            "spe": 44
+        }
+    },
+    "stats_sum": {
+        "clauncher": 330
+    },
+    "types": {
+        "clauncher": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "clauncher": "8.3 kg"
+    }
+}

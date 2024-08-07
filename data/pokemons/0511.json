@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "pansage": {
+            "primary": "Voracità",
+            "hidden": "Erbaiuto"
+        }
+    },
+    "curiosities": [
+        "Pansage fu visto per la prima volta, insieme ad Axew, descritto come un giocattolo, in due immagini viste durante luglio 2010, ma non era stato ancora rivelato il nome e non si sapeva nulla di esso. All'inizio di agosto 2010 circolò in rete una versione fasulla dell'edizione di settembre di CoroCoro in cui veniva mostrato questo Pokémon. Pansage fu rivelato per la prima volta il 22 agosto 2010 nel Pokémon Sunday."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pansage.mp3",
+    "dex_entries": {
+        "pansage": {
+            "black": "Vive nel fitto delle foreste. Mangiare le foglie che ha sulla testa fa sembrare la stanchezza un lontano ricordo.",
+            "white": "Distribuisce le foglie sulla sua testa ai Pokémon affaticati, per alleviare la loro stanchezza.",
+            "black-2": "È un Pokémon molto generoso. Abilissimo nello scovare le bacche, va in giro a raccoglierle per condividerle.",
+            "white-2": "È un Pokémon molto generoso. Abilissimo nello scovare le bacche, va in giro a raccoglierle per condividerle.",
+            "x": "Distribuisce le foglie sulla sua testa ai Pokémon affaticati, per alleviare la loro stanchezza.",
+            "y": "È un Pokémon molto generoso. Abilissimo nello scovare le bacche, va in giro a raccoglierle per poi condividerle.",
+            "omega-ruby": "Distribuisce le foglie sulla sua testa ai Pokémon affaticati, per alleviare la loro stanchezza.",
+            "alpha-sapphire": "È un Pokémon molto generoso. Abilissimo nello scovare le bacche, va in giro a raccoglierle per poi condividerle."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "pansage",
+    "generation": 5,
+    "height": {
+        "pansage": "0.6 m"
+    },
+    "id": 511,
+    "name": "Pansage",
+    "name_origin": "Il suo nome deriva da pan , e dalla parola inglese sage , o dal tedesco sagen . ",
+    "origin": "Pansage si basa sulle scimmie e su una pianta. Potrebbe ispirarsi al modo in cui la sottofamiglia dei colombini viene chiamata in inglese, leaf monkey . È basato inoltre sulla scimmia Iwazaru  del santuario di Nikko. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pansage",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Scimperba",
+    "sprites": {
+        "pansage": {
+            "default": "https://media.pokemoncentral.it/wiki/6/63/Homem0511.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0511.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/63/Artwork0511_NB.png"
+    },
+    "stats": {
+        "pansage": {
+            "hp": 50,
+            "atk": 53,
+            "def": 48,
+            "spa": 53,
+            "spd": 48,
+            "spe": 64
+        }
+    },
+    "stats_sum": {
+        "pansage": 316
+    },
+    "types": {
+        "pansage": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "pansage": "10.5 kg"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "abilities": {
+        "deerling": {
+            "primary": "Clorofilla",
+            "secondary": "Mangiaerba",
+            "hidden": "Leggiadro"
+        }
+    },
+    "curiosities": [
+        "Prima dell'introduzione di Smoliv nella nona generazione, Deerling e la sua evoluzione Sawsbuck avevano una combinazione di tipi unica . Rimangono comunque gli unici Pokémon ad avere come tipo primario Normale e come tipo secondario Erba."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/deerling.mp3",
+    "dex_entries": {
+        "deerling": {
+            "black": "La sua pelliccia prende il colore e l'odore dell'erba dei prati. Se avverte un pericolo, si nasconde tra i cespugli.",
+            "white": "Al cambio di stagione, muta la pelliccia e l'odore. È un Pokémon che annuncia il passaggio delle stagioni.",
+            "black-2": "Il suo corpo muta non solo a seconda della stagione ma in misura minore anche al cambiare di temperatura e umidità.",
+            "white-2": "Il suo corpo muta non solo a seconda della stagione ma in misura minore anche al cambiare di temperatura e umidità.",
+            "x": "Il suo corpo muta non solo a seconda della stagione ma in misura minore anche al cambiare di temperatura e umidità.",
+            "y": "Al cambio di stagione, muta la pelliccia e l'odore. È un Pokémon che annuncia il passaggio delle stagioni.",
+            "omega-ruby": "Il suo corpo muta non solo a seconda della stagione ma in misura minore anche al cambiare di temperatura e umidità.",
+            "alpha-sapphire": "Al cambio della stagione, muta la pellicia e l'odore. È un Pokémon che annuncia il passaggio delle stagioni."
+        },
+        "forma-primavera": {
+            "scarlet": "L’odore dei Deerling cambia con le stagioni. A inizio primavera è delicato, dolce e molto rilassante.",
+            "violet": "Sono Pokémon molto carini, ma siccome amano nutrirsi di germogli non sono visti di buon occhio dagli agricoltori."
+        },
+        "forma-estate": {
+            "scarlet": "Per evitare che entri nei campi coltivati, molti agricoltori si servono dei Lycanroc, suoi predatori naturali, per fare la guardia.",
+            "violet": "Il suo odore cambia con le stagioni. Quando emette un particolare profumo di erba fresca, significa che è iniziata l’estate."
+        },
+        "forma-autunno": {
+            "scarlet": "Non è timido e si trova a suo agio anche davanti agli esseri umani. Basta dargli da mangiare perché si affezioni.",
+            "violet": "Il suo odore cambia con le stagioni. In questa forma, Deerling ha un profumo dolciastro e persistente."
+        },
+        "forma-inverno": {
+            "scarlet": "L’odore dei Deerling cambia con le stagioni. Quando assumono la Forma Inverno, diventa quasi impercettibile.",
+            "violet": "Quando fa amicizia con qualcuno gioca a dargli delle testate, che fanno un po’ male a causa delle corna nascoste sotto il fiore."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "deerling",
+    "generation": 5,
+    "height": {
+        "deerling": "0.6 m"
+    },
+    "id": 585,
+    "name": "Deerling",
+    "name_origin": "Il nome potrebbe essere la combinazione di deer  e yearling  o sapling , in alternativa potrebbe essere anche la combinazione di dear e darling  due termini d'affetto. ",
+    "origin": "Deerling è basato su un cervo del Giappone. Potrebbe alludere inoltre al modo in cui alcuni animali cambiano il pelo in colore o consistenza per adattarsi alla stagione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Deerling",
+    "shape": "quadrupede",
+    "specie": "Pokémon Stagione",
+    "sprites": {
+        "forma-primavera": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b0/Homem0585.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0585.png"
+        },
+        "forma-estate": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b8/Homem0585E.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a8/Homemsh0585E.png"
+        },
+        "forma-autunno": {
+            "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0585A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d4/Homemsh0585A.png"
+        },
+        "forma-inverno": {
+            "default": "https://media.pokemoncentral.it/wiki/d/df/Homem0585I.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/92/Homemsh0585I.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/02/Artwork0585_NB.png"
+    },
+    "stats": {
+        "deerling": {
+            "hp": 60,
+            "atk": 60,
+            "def": 50,
+            "spa": 40,
+            "spd": 50,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "deerling": 335
+    },
+    "types": {
+        "deerling": [
+            "Erba",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "deerling": "19.5 kg"
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "abilities": {
+        "wormadam": {
+            "primary": "Presagio",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Ogni forma di Wormadam ha lo stesso doppio tipo di un altro Pokémon: il Manto Erba ha lo stesso doppio tipo di Paras e Parasect, il Manto Sabbia di Nincada, il Manto Scarti invece lo ha uguale a Forretress, Scizor e Genesect.",
+        "Fino alla distribuzione della Chiave Segreta Wormadam era l'unico Pokémon non leggendario con più forme ad imparare mosse diverse a seconda della forma in cui si trovava.",
+        "Il Manto Pianta e il Manto Scarti hanno in comune la doppia debolezza al tipo Fuoco, mentre il Manto Sabbia è l'unico a non averne nessuna.",
+        "Il Manto Pianta è l'unico dei tre che non ha immunità.",
+        "Il Manto Pianta è l'unico Pokémon di tipo Erba che non può imparare Danzaspada.",
+        "Il Manto Sabbia è l'unico Pokémon di tipo Coleottero capace di imparare Abisso.",
+        "Wormadam non poteva imparare nessun attacco di tipo Coleottero fino all'uscita di Pokémon Platino nonostante fosse il suo tipo primario.",
+        "Wormadam e Deoxys sono gli unici Pokémon con differenti PA ceduti, poiché li cedono in modo diverso in base alla forma."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wormadam.mp3",
+    "dex_entries": {
+        "wormadam": {
+            "diamond": "Con l’evoluzione, il manto di BURMY diventa parte del corpo di questo Pokémon. Non se ne separa mai.",
+            "pearl": "Il suo aspetto dipende dal luogo in cui si evolve. Tutto ciò che ha intorno va a costituire il suo corpo.",
+            "platinum": "Quando si evolve assorbe i materiali che ha intorno. Per questo motivo ne esistono molte varianti.",
+            "heartgold": "Con l’evoluzione, nei giorni in cui la temperatura si abbassa, il mantello diventa più spesso. Così si dice.",
+            "soulsilver": "Con l’evoluzione, nei giorni in cui la temperatura si abbassa, il mantello diventa più spesso. Così si dice.",
+            "black": "Quando si evolve assorbe i materiali che ha intorno. Per questo motivo ne esistono molte varianti.",
+            "white": "Quando si evolve assorbe i materiali che ha intorno. Per questo motivo ne esistono molte varianti.",
+            "black-2": "Quando si evolve assorbe i materiali che ha intorno. Per questo motivo ne esistono molte varianti.",
+            "white-2": "Quando si evolve assorbe i materiali che ha intorno. Per questo motivo ne esistono molte varianti.",
+            "x": "Il suo aspetto dipende dal luogo in cui si evolve. Tutto ciò che ha intorno va a costituire il suo corpo.",
+            "y": "Con l'evoluzione, il manto di Burmy diventa parte del corpo di questo Pokémon. Non se ne separa mai.",
+            "omega-ruby": "Il suo aspetto dipende dal luogo in cui si evolve. Tutto ciò che ha intorno va a costituire il suo corpo.",
+            "alpha-sapphire": "Con l'evoluzione, il manto di Burmy diventa parte del corpo di questo Pokémon. Non se ne separa mai.",
+            "brilliant-diamond": "Con l'evoluzione, il manto di Burmy diventa parte del suo corpo. Non se ne separa mai.",
+            "shining-pearl": "Il suo aspetto dipende dal luogo in cui si evolve. Ciò che ha intorno va a costituire il suo corpo."
+        },
+        "manto-pianta": {
+            "legends-arceus": "Il manto, composto di materia vegetale, è fuso alle membra, a mo' di vello e cute. Sospetto che ciò sia risultato dall'energia scaturita durante l'evoluzione."
+        },
+        "manto-sabbia": {
+            "legends-arceus": "La sua cute arenosa è considerevolmente rigida, quanto basta a respingere senza pena colpi analoghi alle beccate degli Starly."
+        },
+        "manto-scarti": {
+            "legends-arceus": "Non salta agli occhi per merito del corpo costituito da scorie, che si fonde coll'ambiente in perfetto mimetismo. Un attributo ideale per occultarsi agli inimici naturali."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "wormadam",
+    "generation": 4,
+    "height": {
+        "wormadam": "0.5 m"
+    },
+    "id": 413,
+    "name": "Wormadam",
+    "name_origin": "Wormadam è l'unione di bagworm  e madam , mentre il giapponese ミノマダム Minomadam è la fusione di 蓑虫 minomushi  e madam. ",
+    "origin": "Wormadam è basato sulle falene della famiglia delle Psychidae, ordine dei Lepidotteri, che hanno la caratteristica di attaccare al bozzolo materiale prelevato dall'ambiente, come foglie o sabbia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wormadam",
+    "shape": "testa e base",
+    "specie": "Pokémon Larva",
+    "sprites": {
+        "manto-pianta": {
+            "default": "https://media.pokemoncentral.it/wiki/1/12/Homef0413.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3c/Homefsh0413.png"
+        },
+        "manto-sabbia": {
+            "default": "https://media.pokemoncentral.it/wiki/d/df/Homef0413Sa.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homefsh0413Sa.png"
+        },
+        "manto-scarti": {
+            "default": "https://media.pokemoncentral.it/wiki/7/79/Homef0413Sc.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a6/Homefsh0413Sc.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/47/Artwork0413_DP.png"
+    },
+    "stats": {
+        "manto-pianta": {
+            "hp": 60,
+            "atk": 59,
+            "def": 85,
+            "spa": 79,
+            "spd": 105,
+            "spe": 36
+        },
+        "manto-sabbia": {
+            "hp": 60,
+            "atk": 79,
+            "def": 105,
+            "spa": 59,
+            "spd": 85,
+            "spe": 36
+        },
+        "manto-scarti": {
+            "hp": 60,
+            "atk": 69,
+            "def": 95,
+            "spa": 69,
+            "spd": 95,
+            "spe": 36
+        }
+    },
+    "stats_sum": {
+        "manto-pianta": 424,
+        "manto-sabbia": 424,
+        "manto-scarti": 424
+    },
+    "types": {
+        "manto-pianta": [
+            "Coleot",
+            "Erba"
+        ],
+        "manto-sabbia": [
+            "Coleot",
+            "Terra"
+        ],
+        "manto-scarti": [
+            "Coleot",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "wormadam": "6.5 kg"
+    }
+}

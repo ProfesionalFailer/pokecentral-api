@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "totodile": {
+            "primary": "Acquaiuto",
+            "hidden": "Forzabruta"
+        }
+    },
+    "curiosities": [
+        "Totodile è il Pokémon iniziale di tipo acqua non evoluto più alto e più pesante.",
+        "Totodile, insieme a Turtwig, è uno dei due Pokémon iniziali che si evolvono a livello 18, il più alto per un Pokémon iniziale che si può ancora evolvere.",
+        "In quarta generazione, Totodile è l'unico Pokémon che può imparare Dragartigli tramite allevamento, ma non tramite MT02. Tuttavia, questo è stato invertito in quinta generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/totodile.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Acqua 1"
+    ],
+    "flat_name": "totodile",
+    "generation": 2,
+    "height": {
+        "totodile": "0.6 m"
+    },
+    "id": 158,
+    "name": "Totodile",
+    "name_origin": "Il suo nome deriva dalle parole inglesi tot  e crocodile . ",
+    "origin": "Totodile è basato su un cucciolo di coccodrillo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Totodile",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Mascellone",
+    "sprites": {
+        "totodile": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a2/Homem0158.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0158.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0158_HGSS.png"
+    },
+    "stats": {
+        "totodile": {
+            "hp": 50,
+            "atk": 65,
+            "def": 64,
+            "spa": 44,
+            "spd": 48,
+            "spe": 43
+        }
+    },
+    "stats_sum": {
+        "totodile": 314
+    },
+    "types": {
+        "totodile": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "totodile": "9.5 kg"
+    }
+}

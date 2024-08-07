@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "meganium": {
+            "primary": "Erbaiuto",
+            "hidden": "Fogliamanto"
+        }
+    },
+    "curiosities": [
+        "Le statistiche base di Meganium sono le stesse di Venusaur ma ordinate in modo diverso.",
+        "Meganium è uno dei pochi Pokémon ad avere tre sprite diversi nei tre giochi di seconda generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/meganium.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Erba"
+    ],
+    "flat_name": "meganium",
+    "generation": 2,
+    "height": {
+        "meganium": "1.8 m"
+    },
+    "id": 154,
+    "name": "Meganium",
+    "name_origin": "Il suo nome deriva dal prefisso mega e dalla parola geranium, geranio. ",
+    "origin": "Meganium sembra essere ispirato ad un sauropode, per la precisione ad un apatosauro, mentre i petali attorno al collo ricordano un Geranio Hibicus o un Amorphophallus Titanum o addirittura al Hippeastrum. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Meganium",
+    "shape": "quadrupede",
+    "specie": "Pokémon Erbe",
+    "sprites": {
+        "meganium": {
+            "default": "https://media.pokemoncentral.it/wiki/9/91/Homem0154.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e2/Homemsh0154.png"
+        },
+        "meganium-f": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8b/Homef0154.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homefsh0154.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f0/Artwork0154_HGSS.png"
+    },
+    "stats": {
+        "meganium": {
+            "hp": 80,
+            "atk": 82,
+            "def": 100,
+            "spa": 83,
+            "spd": 100,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "meganium": 525
+    },
+    "types": {
+        "meganium": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "meganium": "100.5 kg"
+    }
+}

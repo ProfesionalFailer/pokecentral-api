@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "magneton": {
+            "primary": "Magnetismo",
+            "secondary": "Vigore",
+            "hidden": "Ponderazione"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Mystery Dungeon: Squadra Rossa e Squadra Blu vi è una forma \"incompleta\" di Magneton: infatti all'inizio del gioco è richiesto l'intervento del protagonista al fine di salvare due Magnemite unitisi a causa di un forte campo elettromagnetico in una grotta; tuttavia, la forma completa di Magneton si forma solo se i membri sono tre.",
+        "Nella versione beta di Pokémon Rosso e Blu, Magneton era chiamato Recoil, mentre la sua pre-evoluzione era chiamata Coil.",
+        "Magneton e la sua pre-evoluzione Magnemite sono due dei pochi Pokémon a cui è stato cambiato il verso in terza generazione a causa delle migliorie nei sistemi di gioco.",
+        "Prima della settima generazione Magnemite, Magneton e Magnezone avevano una combinazione di tipi unica.\n\tQuesta combinazione li rende i Pokémon con il maggior numero di resistenze: ben 12 su 18 , considerando anche l'immunità al Veleno.",
+        "Questa combinazione li rende i Pokémon con il maggior numero di resistenze: ben 12 su 18 , considerando anche l'immunità al Veleno.",
+        "Nonostante venga esplicitamente detto che Magneton sia composto da tre Magnemite ci sono varie incongruenze:\n\tNell'unico episodio della serie animata in cui si vede un Magnemite evolversi , esso durante l'evoluzione non si lega ad altri due Magnemite, ma li \"crea\".\n\tNei giochi della serie principale, quando Magnemite raggiunge il livello 30, si evolve senza il bisogno di altri due Magnemite.\n\tDopo l'evoluzione Magneton non pesa come tre Magnemite , ma pesa come dieci di essi .",
+        "Nell'unico episodio della serie animata in cui si vede un Magnemite evolversi , esso durante l'evoluzione non si lega ad altri due Magnemite, ma li \"crea\".",
+        "Nei giochi della serie principale, quando Magnemite raggiunge il livello 30, si evolve senza il bisogno di altri due Magnemite.",
+        "Dopo l'evoluzione Magneton non pesa come tre Magnemite , ma pesa come dieci di essi .",
+        "Magneton è il Pokémon usato dal maggior numero di rivali: Blu, Argento e Lino.",
+        "Nonostante il fatto che anche il Pokédex affermi che sappia fluttuare, Magneton non possiede l'abilità Levitazione. Però dalla quarta generazione può imparare Magnetascesa che gli permette di fluttuare nell'aria, imitando Levitazione, per 5 turni."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/magneton.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "magneton",
+    "generation": 1,
+    "height": {
+        "magneton": "1.0 m"
+    },
+    "id": 82,
+    "name": "Magneton",
+    "name_origin": "Magneton potrebbe essere un riferimento al magnetone, l'unità del momento magnetico, o ad un magnetron che forma il nucleo di un forno a microonde. Rarecoil potrebbe essere un riferimento ai magneti delle terre rare. ",
+    "origin": "Magneton è un insieme di tre Magnemite, che a loro volta sembrano l'oggettivazione dell'Interazione elettromagnetica, una delle quattro Interazioni fondamentali. Probabilmente sono uniti tra loro tramite una forte forze elettromagnetica. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Magneton",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Calamita",
+    "sprites": {
+        "magneton": {
+            "default": "https://media.pokemoncentral.it/wiki/4/42/Homem0082.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e4/Homemsh0082.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/20/Artwork0082_RFVF.png"
+    },
+    "stats": {
+        "magneton": {
+            "hp": 50,
+            "atk": 60,
+            "def": 95,
+            "spa": 120,
+            "spd": 70,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "magneton": 465
+    },
+    "types": {
+        "magneton": [
+            "Elettro",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "magneton": "60.0 kg"
+    }
+}

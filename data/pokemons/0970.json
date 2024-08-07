@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "glimmora": {
+            "primary": "Mantossina",
+            "hidden": "Corrosione"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Roccia",
+        "Pokémon di tipo Veleno",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Medio-Lento",
+        "Pokémon di colore Blu",
+        "Pokémon dalla sagoma n. 01",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Minerale",
+        "Pagine con articoli di Johto World",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 525"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/glimmora.mp3",
+    "dex_entries": {
+        "glimmora": {
+            "scarlet": "Se avverte un pericolo, schiude i petali di cristallo ed emette dei raggi dal suo corpo conico.",
+            "violet": "Recentemente è emerso che i suoi petali fatti di energia Veleno cristallizzata sono affini alle pietre preziose del fenomeno Teracristal."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "glimmora",
+    "generation": 9,
+    "height": {
+        "glimmora": "1.5 m"
+    },
+    "id": 970,
+    "name": "Glimmora",
+    "name_origin": "Glimmora potrebbe derivare da glimmer  e flora. ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Glimmora",
+    "shape": "testa",
+    "specie": "Pokémon Minerale",
+    "sprites": {
+        "glimmora": {
+            "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0970.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ac/Homemsh0970.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fe/Artwork0970_SV.png"
+    },
+    "stats": {
+        "glimmora": {
+            "hp": 83,
+            "atk": 55,
+            "def": 90,
+            "spa": 130,
+            "spd": 81,
+            "spe": 86
+        }
+    },
+    "stats_sum": {
+        "glimmora": 525
+    },
+    "types": {
+        "glimmora": [
+            "Veleno",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "glimmora": "45.0 kg"
+    }
+}

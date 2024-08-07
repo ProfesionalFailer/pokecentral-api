@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "forma-incarnazione": {
+            "primary": "Incantevole",
+            "hidden": "Inversione"
+        },
+        "forma-totem": {
+            "primary": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Enamorus è l'unico membro delle Forze della Natura ad essere femmina.",
+        "Enamorus è l'unico Pokémon introdotto in Leggende Pokémon: Arceus a non essere né una forma alternativa né un'evoluzione di un Pokémon già esistente.\n\tTuttavia fa parte di un gruppo di Pokémon leggendari preesistente.",
+        "Tuttavia fa parte di un gruppo di Pokémon leggendari preesistente."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/enamorus.mp3",
+    "dex_entries": {
+        "forma-incarnazione": {
+            "legends-arceus": "La sua venuta dai cieli al di là del mare annunzia la fine del rigido inverno. Si narra che il suo amore faccia germogliare nuova vita a Hisui."
+        },
+        "forma-totem": {
+            "legends-arceus": "Mutato il sembiante da quello femmineo, emerge da mari di nubi castigando con ira spietata coloro che disprezzano la vita."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "enamorus",
+    "generation": 8,
+    "height": {
+        "enamorus": "1.6 m"
+    },
+    "id": 905,
+    "name": "Enamorus",
+    "name_origin": "Enamorus potrebbe essere una combinazione di enamor, amoroso, ed Aeolus, nome inglese di Eolo, divinità del vento nella mitologia greca. Lovelos potrebbe essere una combinazione di love, amore, ed Aeolus. Potrebbe anche derivare da ラブ と ロス rabu to rosu, amore e perdita. ",
+    "origin": "Nella Forma Incarnazione, Enamorus potrebbe essere basato sull'Ugajin, un kami della fertilità e del raccolto, rappresentato con il corpo di una serpente e la testa umana. Potrebbe anche essere ispirato ad alcuni geni. Il modo in cui la coda a forma di seprente di Enamorus si avvolge intorno al collo potrebbe essere un riferimento alla costrizione, un metodo utilizzato dai serpenti per cacciare, o alla sciarpa boa. Nella Forma Totem, Enamorus potrebbe essere basato su un rettile, forse su una tartaruga dal guscio molle e un serpente. Potrebbe anche essere ispirato alla Tartaruga Nera dei Quattro Animali cinesi. Tuttavia questa, a differenza di Enamorus, rappresenta l'inverno e non la primavera. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Enamorus",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Amoreodio",
+    "sprites": {
+        "forma-incarnazione": {
+            "default": "https://media.pokemoncentral.it/wiki/b/ba/Homef0905.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bd/Homefsh0905.png"
+        },
+        "forma-totem": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3b/Homef0905T.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/af/Homefsh0905T.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fc/Artwork0905_LPA.png"
+    },
+    "stats": {
+        "forma-incarnazione": {
+            "hp": 74,
+            "atk": 115,
+            "def": 70,
+            "spa": 135,
+            "spd": 80,
+            "spe": 106
+        },
+        "forma-totem": {
+            "hp": 74,
+            "atk": 115,
+            "def": 110,
+            "spa": 135,
+            "spd": 100,
+            "spe": 46
+        }
+    },
+    "stats_sum": {
+        "forma-incarnazione": 580,
+        "forma-totem": 580
+    },
+    "types": {
+        "enamorus": [
+            "Volante",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "enamorus": "48 kg"
+    }
+}

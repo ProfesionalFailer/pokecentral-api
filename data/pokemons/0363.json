@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "spheal": {
+            "primary": "Grassospesso",
+            "secondary": "Corpogelo",
+            "hidden": "Indifferenza"
+        }
+    },
+    "curiosities": [
+        "Spheal era il Pokémon di tipo Ghiaccio più lento prima dell'introduzione di Snom."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/spheal.mp3",
+    "dex_entries": {
+        "spheal": {
+            "ruby": "SPHEAL si muove molto più velocemente rotolando che non camminando. Quando si raggruppano per pranzo, questi POKéMON sbattono le zampette per dimostrare la loro gioia. I loro pasti sono molto rumorosi.",
+            "sapphire": "SPHEAL si muove sempre rotolando sul corpo a pallone. Nella stagione del disgelo lo si vede rotolare da una lastra di ghiaccio all'altra per attraversare il mare.",
+            "emerald": "SPHEAL è ricoperto da una morbida pelliccia che gli permette di rotolare su lastre di ghiaccio o di tuffarsi in mare senza avvertire il freddo.",
+            "firered": "Ha il corpo ricoperto di una morbida pelliccia, che gli permette di rotolare sul ghiaccio senza avvertire il freddo.",
+            "leafgreen": "Ha il corpo ricoperto di una morbida pelliccia, che gli permette di rotolare sul ghiaccio senza avvertire il freddo.",
+            "diamond": "Poiché il suo corpo non è adatto al nuoto, rotola su lastre di ghiaccio per raggiungere la riva.",
+            "pearl": "Poiché il suo corpo non è adatto al nuoto, rotola su lastre di ghiaccio per raggiungere la riva.",
+            "platinum": "Poiché il suo corpo non è adatto al nuoto, rotola su lastre di ghiaccio per raggiungere la riva.",
+            "heartgold": "Attraversa il mare rotolando sulle lastre di ghiaccio. La soffice pelliccia lo protegge dal gelo.",
+            "soulsilver": "Attraversa il mare rotolando sulle lastre di ghiaccio. La soffice pelliccia lo protegge dal gelo.",
+            "black": "Poiché il suo corpo non è adatto al nuoto, rotola su lastre di ghiaccio per raggiungere la riva.",
+            "white": "Poiché il suo corpo non è adatto al nuoto, rotola su lastre di ghiaccio per raggiungere la riva.",
+            "black-2": "Non sa ancora nuotare molto bene e si muove più velocemente rotolando. Quando è felice batte le pinne.",
+            "white-2": "Non sa ancora nuotare molto bene e si muove più velocemente rotolando. Quando è felice batte le pinne.",
+            "x": "Non sa ancora nuotare molto bene e si muove più velocemente rotolando. Quando è felice batte le pinne.",
+            "y": "Ha il corpo ricoperto di una morbida pelliccia, che gli permette di rotolare sul ghiaccio senza avvertire il freddo.",
+            "omega-ruby": "Spheal si muove molto più velocemente rotolando che non camminando. Quando si raggruppano per pranzo, questi Pokémon sbattono le zampette per dimostrare la loro gioia. I loro pasti sono molto rumorosi.",
+            "alpha-sapphire": "Spheal si muove sempre rotolando sul corpo a pallone. Nella stagione del disgelo lo si vede rotolare da una lastra di ghiaccio all'altra per attraversare il mare.",
+            "sword": "Il suo corpo, avvolto in uno spesso strato lipidico, è perfettamente rotondo. Si sposta più velocemente rotolando che camminando.",
+            "shield": "Fluttua tra le onde ispezionando il mare. Quando individua una preda, avverte i Walrein del suo gruppo.",
+            "legends-arceus": "Nella stagione algida, allorché gli iceberg si accostano alla terraferma, preferisce dimorare sui ghiacci, lungi dai predatori. Il caldo vello ben tollera le temperature più austere."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "flat_name": "spheal",
+    "generation": 3,
+    "height": {
+        "spheal": "0.8 m"
+    },
+    "id": 363,
+    "name": "Spheal",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi sphere, sfera, e seal, foca. ",
+    "origin": "Spheal è basato su un leone marino di forma sferica. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spheal",
+    "shape": "pinne",
+    "specie": "Pokémon Rotolante",
+    "sprites": {
+        "spheal": {
+            "default": "https://media.pokemoncentral.it/wiki/4/45/Homem0363.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/95/Homemsh0363.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/38/Artwork0363_RZ.png"
+    },
+    "stats": {
+        "spheal": {
+            "hp": 70,
+            "atk": 40,
+            "def": 50,
+            "spa": 55,
+            "spd": 50,
+            "spe": 25
+        }
+    },
+    "stats_sum": {
+        "spheal": 290
+    },
+    "types": {
+        "spheal": [
+            "Ghiaccio",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "spheal": "39.5 kg"
+    }
+}

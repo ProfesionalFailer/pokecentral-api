@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "sentret": {
+            "primary": "Fugafacile",
+            "secondary": "Sguardofermo",
+            "hidden": "Indagine"
+        }
+    },
+    "curiosities": [
+        "Sentret, Patrat e Growlithe di Hisui sono noti come Pokémon Esplorante.",
+        "Sentret è l'unico Pokémon ad avere la somma delle statistiche base pari a 215."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sentret.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "sentret",
+    "generation": 2,
+    "height": {
+        "sentret": "0.8 m"
+    },
+    "id": 161,
+    "name": "Sentret",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi sentry, sentinella, e ferret, furetto. ",
+    "origin": "Basato sullo scoiattolo volante o sul tanuki, fa parte della mitologia del Giappone sin da tempi antichi; si ritiene che siano maliziosi e scherzosi, maestri del travestimento e mutaforma, ma in qualche modo ingenui e distratti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sentret",
+    "shape": "quadrupede",
+    "specie": "Pokémon Esplorante",
+    "sprites": {
+        "sentret": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ad/Homem0161.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/df/Homemsh0161.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ab/Artwork0161_HGSS.png"
+    },
+    "stats": {
+        "sentret": {
+            "hp": 35,
+            "atk": 46,
+            "def": 34,
+            "spa": 35,
+            "spd": 45,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "sentret": 215
+    },
+    "types": {
+        "sentret": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "sentret": "6.0 kg"
+    }
+}

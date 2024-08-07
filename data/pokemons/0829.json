@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "gossifleur": {
+            "primary": "Lanugine",
+            "secondary": "Rigenergia",
+            "hidden": "Spargispora"
+        }
+    },
+    "curiosities": [
+        "Gossifleur condivide la sua categoria con Lilligant. Entrambi sono conosciuti come Pokémon Fiorfronzolo.",
+        "Insieme a Ferroseed, Gossifleur condivide la Velocità base più bassa tra tutti i Pokémon di tipo Erba.",
+        "Gossifleur è stato annunciato il 5 giugno 2019 durante un Pokémon Direct."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gossifleur.mp3",
+    "dex_entries": {
+        "gossifleur": {
+            "sword": "Quando conficca il suo piede nel terreno e assorbe luce solare in abbondanza, il colore dei suoi petali diventa più intenso.",
+            "shield": "Canta felice girando su se stesso mentre si lascia trasportare dal vento. Molti ne allenano uno semplicemente perché lo trovano adorabile."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "gossifleur",
+    "generation": 8,
+    "height": {
+        "gossifleur": "0.4 m"
+    },
+    "id": 829,
+    "name": "Gossifleur",
+    "name_origin": "Gossifleur potrebbe essere una combinazione di Gossypium e fleur, fiore in francese. Potrebbe derivare anche da gossamer, sottilissimo. Himenka potrebbe essere una combinazione di 姫 hime, principessa, piccola , 綿花 menka, cotone grezzo, e 花 ka, fiore. ",
+    "origin": "Gossifleur potrebbe essere basato su un'anemone dei boschi, una pianta comune nelle Isole britanniche. Potrebbe essere anche un riferimento alle canzoni popolari e alle poesie dedicate a questa pianta. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gossifleur",
+    "shape": "testa e base",
+    "specie": "Pokémon Fiorfronzolo",
+    "sprites": {
+        "gossifleur": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a2/Homem0829.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0829.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1e/Artwork0829_SpSc.png"
+    },
+    "stats": {
+        "gossifleur": {
+            "hp": 40,
+            "atk": 40,
+            "def": 60,
+            "spa": 40,
+            "spd": 60,
+            "spe": 10
+        }
+    },
+    "stats_sum": {
+        "gossifleur": 250
+    },
+    "types": {
+        "gossifleur": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "gossifleur": "2.2 kg"
+    }
+}

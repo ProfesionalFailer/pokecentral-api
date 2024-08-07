@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "sylveon": {
+            "primary": "Incantevole",
+            "hidden": "Pellefolletto"
+        }
+    },
+    "curiosities": [
+        "Sylveon è l'Eeveeluzione con la colorazione più chiara.",
+        "Sylveon è stato il primo Pokémon a venire identificato come appartenente al tipo Folletto.",
+        "Sylveon è l'unico Pokémon di sesta generazione che si evolve da un Pokémon di un'altra generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sylveon.mp3",
+    "dex_entries": {
+        "sylveon": {
+            "x": "Le sue antenne simili a fiocchetti emettono onde dagli effetti rilassanti, grazie alle quali fa cessare le lotte.",
+            "y": "Se si affeziona particolarmente al suo Allenatore, lo accompagna circondandogli amorevolmente il braccio con le sue antenne a forma di fiocchetto.",
+            "omega-ruby": "Le sue antenne simili a fiocchetti emettono onde dagli effetti rilassanti, grazie alle quali fa cessare le lotte.",
+            "alpha-sapphire": "Se si affeziona particolarmente al suo Allenatore, lo accompagna circondandogli amorevolmente il braccio con le sue antenne a forma di fiocchetto.",
+            "sun": "Le due antenne simili a fiocchetti emettono onde che neutralizzano l'aggressività, riuscendo così a far abbassare la guardia alle sue prede.",
+            "moon": "Individuata una preda, agita le sue antenne simili a fiocchetti per deconcentrarla e poi attacca approfittando della sua distrazione.",
+            "ultra-sun": "Nella lotta, parte all’attacco senza esitare un istante, anche quando si trova di fronte imponenti Pokémon di tipo Drago.",
+            "ultra-moon": "Avvolge le sue antenne simili a fiocchetti intorno al braccio dell'Allenatore per comprendere i suoi sentimenti.",
+            "sword": "Fa cessare le lotte grazie alle antenne simili a fiocchetti, che emettono onde in grado di placare le ostilità.",
+            "shield": "Una favola di Galar narra di un Sylveon di rara bellezza che sconfisse uno spaventoso Pokémon di tipo Drago.",
+            "legends-arceus": "L'organo a foggia di fiocco emette radiazioni che placano la collera. Lo avviluppa attorno agli irati, quietando tosto gli animi.",
+            "scarlet": "Le antenne simili a fiocchetti emettono onde calmanti che placano l’ostilità dei nemici.",
+            "violet": "Malgrado il suo aspetto elegante mentre danza leggiadro facendo fluttuare le antenne, quando attacca va dritto ai punti deboli degli avversari."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "sylveon",
+    "generation": 6,
+    "height": {
+        "sylveon": "1.0 m"
+    },
+    "id": 700,
+    "name": "Sylveon",
+    "name_origin": "Sylveon può essere una combinazione di sylph, una creatura mitologica descritta come essere invisibile dell'aria, o sylvan , una parola riferita ad una associazione con boschi o foreste  e eon . Eon è un suffisso di tutte le evoluzioni di Eevee. Eon era anche il nome provvisorio inglese di Eevee. ",
+    "origin": "Al contrario delle altre Eeveeluzioni, le orecchie di Sylveon sono grandi e arrotondate, simili a quelle di un coniglio. Considerando anche che secondo la mitologia le fate sono particolarmente attive in presenza di luna piena, si potrebbe pensare che Sylveon sia basato sul Coniglio lunare. Infatti questo viene spesso raffigurato come un compagno della dea della luna cinese Chang'e, che è spesso raffigurata con indosso una tunica adornata in molti nastri. Inoltre, la coda di Sylveon assomiglia alla coda del Viscaccia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sylveon",
+    "shape": "quadrupede",
+    "specie": "Pokémon Legame",
+    "sprites": {
+        "sylveon": {
+            "default": "https://media.pokemoncentral.it/wiki/0/00/Homem0700.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0700.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0a/Artwork0700_XY.png"
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 95,
+            "atk": 65,
+            "def": 65,
+            "spa": 110,
+            "spd": 130,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 525
+    },
+    "types": {
+        "sylveon": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "sylveon": "23.5 kg"
+    }
+}

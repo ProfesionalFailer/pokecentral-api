@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "pidgeotto": {
+            "primary": "Sguardofermo",
+            "secondary": "Intricopiedi",
+            "hidden": "Pettinfuori"
+        }
+    },
+    "curiosities": [
+        "Pidgeotto è l'unico Pokémon con il totale delle statistiche base pari a 349.",
+        "Il nome prototipo inglese di Pidgeotto era \"Pidgeot\", lo stesso della sua evoluzione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pidgeotto.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "pidgeotto",
+    "generation": 1,
+    "height": {
+        "pidgeotto": "1.1 m"
+    },
+    "id": 17,
+    "name": "Pidgeotto",
+    "name_origin": "Pidgeotto potrebbe essere una combinazione di pigeon, piccione, e diciotto . Il suo nome potrebbe riferirsi anche a Otto Lilienthal un pioniere dell'aviazione tedesca che è conosciuto come il re degli alianti. Pigeon potrebbe derivare da ピジョン pigeon, piccione. ",
+    "origin": "Nonostante il suo nome, Pidgeotto potrebbe essere basato su un falco pescatore o su un rapace piuttosto che su un piccione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pidgeotto",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Uccello",
+    "sprites": {
+        "pidgeotto": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2a/Homem0017.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cb/Homemsh0017.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/09/Artwork0017_RFVF.png"
+    },
+    "stats": {
+        "pidgeotto": {
+            "hp": 63,
+            "atk": 60,
+            "def": 55,
+            "spa": 50,
+            "spd": 50,
+            "spe": 71
+        }
+    },
+    "stats_sum": {
+        "pidgeotto": 349
+    },
+    "types": {
+        "pidgeotto": [
+            "Volante",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "pidgeotto": "30.0 kg"
+    }
+}

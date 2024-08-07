@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "accelgor": {
+            "primary": "Idratazione",
+            "secondary": "Antifurto",
+            "hidden": "Agiltecnica"
+        }
+    },
+    "curiosities": [
+        "Poiché l'armatura di Shelmet è stata rubata da Karrablast la Difesa e la Difesa speciale sono più basse rispetto alla sua pre-evoluzione ma la sua Velocità è aumentata.\n\tAccelgor è il Pokémon di quinta generazione con la Velocità di base più alta, e il quinto in assoluto dopo Pheromosa, Ninjask, Deoxys Forma Velocità e Regieleki.",
+        "Accelgor è il Pokémon di quinta generazione con la Velocità di base più alta, e il quinto in assoluto dopo Pheromosa, Ninjask, Deoxys Forma Velocità e Regieleki."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/accelgor.mp3",
+    "dex_entries": {
+        "accelgor": {
+            "black": "Si indebolisce quando il corpo si secca. Previene l'essiccazione avvolgendosi in molti strati di sottili membrane.",
+            "white": "Liberatosi della pesante conchiglia, è diventato leggero. Lotta con le movenze proprie di un ninja.",
+            "black-2": "Si indebolisce se il suo corpo si secca. Lotta avvolto in una membrana protettiva spruzzando un liquido velenoso.",
+            "white-2": "Si indebolisce se il suo corpo si secca. Lotta avvolto in una membrana protettiva spruzzando un liquido velenoso.",
+            "x": "Liberatosi della pesante conchiglia, è diventato leggero. Lotta con le movenze proprie di un ninja.",
+            "y": "Si indebolisce quando il corpo si secca. Previene l'essiccazione avvolgendosi in molti strati di sottili membrane.",
+            "omega-ruby": "Liberatosi della pesante conchiglia, è diventato leggero. Lotta con le movenze proprie di un ninja.",
+            "alpha-sapphire": "Si indebolisce quando il corpo si secca. Previene l'essiccazione avvolgendosi in molti strati di sottili membrane.",
+            "sword": "Lotta spruzzando veleno con rapidi movimenti. È protagonista di fumetti e film che riscuotono un grandissimo successo.",
+            "shield": "Si è liberato della conchiglia, diventando più leggero. Le membrane a forma di fasce che ricoprono il suo corpo evitano che si secchi."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "accelgor",
+    "generation": 5,
+    "height": {
+        "accelgor": "0.8 m"
+    },
+    "id": 617,
+    "name": "Accelgor",
+    "name_origin": "Il nome potrebbe derivare dalle parola inglese accelerate  e shell , unite alla corruzione della parola francese escargot . ",
+    "origin": "Accelgor è basato su un ninja e probabilmente un verme tubo gigante, oltre che su un motociclista o un corridore di stock car o di dragster. Il suo copricapo si basa sul guscio di una chiocciola e su un casco. il corpo ricorda il bozzolo delle farfalle psychidae. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Accelgor",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Sgusciato",
+    "sprites": {
+        "accelgor": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4f/Homem0617.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/96/Homemsh0617.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c4/Artwork0617_NB.png"
+    },
+    "stats": {
+        "accelgor": {
+            "hp": 80,
+            "atk": 70,
+            "def": 40,
+            "spa": 100,
+            "spd": 60,
+            "spe": 145
+        }
+    },
+    "stats_sum": {
+        "accelgor": 495
+    },
+    "types": {
+        "accelgor": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "accelgor": "25.3 kg"
+    }
+}

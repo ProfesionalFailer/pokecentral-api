@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "tinkatuff": {
+            "primary": "Rompiforma",
+            "secondary": "Mente Locale",
+            "hidden": "Arraffalesto"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Folletto",
+        "Pokémon di tipo Acciaio",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Medio-Lento",
+        "Pokémon di colore Rosa",
+        "Pokémon dalla sagoma n. 12",
+        "Pokémon esclusivamente femmine",
+        "Pokémon di Gruppo Uova Magico",
+        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
+        "Pokémon con statistiche base totali di 380"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tinkatuff.mp3",
+    "dex_entries": {
+        "tinkatuff": {
+            "scarlet": "Assalta i branchi capeggiati da Bisharp per procurarsi il metallo necessario a realizzare il suo martello grande e resistente.",
+            "violet": "Nidifica in montagne di ferraglia e testa la forza del proprio martello battendolo violentemente contro quello dei propri simili."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "flat_name": "tinkatuff",
+    "generation": 9,
+    "height": {
+        "tinkatuff": "0.7 m"
+    },
+    "id": 958,
+    "name": "Tinkatuff",
+    "name_origin": "Tinkatuff potrebbe essere una combinazione di tinker  e tuff . ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tinkatuff",
+    "shape": "bipedi",
+    "specie": "Pokémon Martello",
+    "sprites": {
+        "tinkatuff": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5b/Homef0958.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/01/Homemsh0958.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/aa/Artwork0958_SV.png"
+    },
+    "stats": {
+        "tinkatuff": {
+            "hp": 65,
+            "atk": 55,
+            "def": 55,
+            "spa": 45,
+            "spd": 82,
+            "spe": 78
+        }
+    },
+    "stats_sum": {
+        "tinkatuff": 380
+    },
+    "types": {
+        "tinkatuff": [
+            "Acciaio",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "tinkatuff": "59.1 kg"
+    }
+}

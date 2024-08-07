@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "dewpider": {
+            "primary": "Bolladacqua",
+            "hidden": "Assorbacqua"
+        }
+    },
+    "curiosities": [
+        "Dewpider può essere visto come una controparte di Surskit. Entrambi condividono il tipo Coleottero/Acqua e la stesse statistiche base totali di 269, entrambi si evolvono allo stesso livello ed entrambi possono essere trovati alla Collina Scrosciante in Pokémon Sole e Luna, alternandosi a seconda del tempo, con Dewpider che può essere trovato durante il giorno e Surskit durante la notte."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dewpider.mp3",
+    "dex_entries": {
+        "dewpider": {
+            "sun": "Sale sulla terraferma in cerca di prede. La sua bolla d’acqua gli permette di respirare e protegge la sua testa molle.",
+            "moon": "Quando avvista delle prede o dei nemici, li attacca scagliando contro di loro l’acqua della bolla che ha in testa.",
+            "ultra-sun": "Quando due Dewpider si incontrano, mettono in mostra con orgoglio la bolla sulla loro testa. Chi ha quella più piccola cede il passo.",
+            "ultra-moon": "Può respirare solo l'ossigeno contenuto nell'acqua. Sulla terraferma, tiene sempre la testa dentro la sua bolla.",
+            "sword": "Con l'addome gonfia una bolla d'acqua in cui tiene infilata la testa. Fa a gara con gli altri Dewpider a chi ha la bolla più grande.",
+            "shield": "Vive principalmente in acqua. Quando sale sulla terraferma in cerca di cibo ricopre la sua testa con una bolla d'acqua."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Coleottero"
+    ],
+    "flat_name": "dewpider",
+    "generation": 7,
+    "height": {
+        "dewpider": "0.3 m"
+    },
+    "id": 751,
+    "name": "Dewpider",
+    "name_origin": "Dewpider deriva da dew, goccia, e spider, ragno. Shizukumo può essere la combinazione di 滴 shizuku, goccia, e 蜘蛛 kumo, ragno. ",
+    "origin": "Dewpider è basato su un ragno palombaro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dewpider",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Bolladacqua",
+    "sprites": {
+        "dewpider": {
+            "default": "https://media.pokemoncentral.it/wiki/f/ff/Homem0751.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/64/Homemsh0751.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c5/Artwork0751_SL.png"
+    },
+    "stats": {
+        "dewpider": {
+            "hp": 38,
+            "atk": 40,
+            "def": 52,
+            "spa": 40,
+            "spd": 72,
+            "spe": 27
+        }
+    },
+    "stats_sum": {
+        "dewpider": 269
+    },
+    "types": {
+        "dewpider": [
+            "Coleot",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "dewpider": "4.0 kg"
+    }
+}

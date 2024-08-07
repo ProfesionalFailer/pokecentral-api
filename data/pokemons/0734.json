@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "yungoos": {
+            "primary": "Sorveglianza",
+            "secondary": "Ferromascella",
+            "hidden": "Adattabilità"
+        }
+    },
+    "curiosities": [
+        "Yungoos può imparare il minor numero di Mosse Uovo di tutti i Pokémon che possono imparare Mosse Uovo, soltanto 2."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/yungoos.mp3",
+    "dex_entries": {
+        "yungoos": {
+            "sun": "Addenta qualsiasi cosa con le sue zanne aguzze. È stato introdotto ad Alola tempo fa da un’altra regione.",
+            "moon": "Si muove continuamente in cerca di cibo. Quando si fa sera crolla esausto al suolo e si addormenta sul posto.",
+            "ultra-sun": "Lo stomaco occupa la maggior parte del suo lungo corpo. È un gran mangione e mantenerlo costa davvero un occhio della testa.",
+            "ultra-moon": "Gli Yungoos mangiano di tutto ma preferiscono cibo fresco o prede vive. Si vedono spesso sfilare lungo le strade alla ricerca di cibo.",
+            "scarlet": "Lo stomaco occupa la maggior parte del suo corpo. Segue ogni giorno lo stesso percorso in cerca di cibo fresco.",
+            "violet": "Trascorre ogni ora della sua veglia in cerca di cibo. Quando ha fame, la sua ferocia diventa ancora più terribile."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "yungoos",
+    "generation": 7,
+    "height": {
+        "yungoos": "0.4 m"
+    },
+    "id": 734,
+    "name": "Yungoos",
+    "name_origin": "Yungoos e Yangūsu potrebbero essere una combinazione di young , ヤンキー yankī  e mongoose . ",
+    "origin": "Yungoos sembra essere basato su una mangusta, in particolare sulla Mangusta di Giava, importata alle Hawaii per cacciare i topi europei importati attraverso le navi dei colonizzatori, ma che divenne a sua volta una specie invasiva. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Yungoos",
+    "shape": "quadrupede",
+    "specie": "Pokémon Pattuglia",
+    "sprites": {
+        "yungoos": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8b/Homem0734.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0734.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/63/Artwork0734_SL.png"
+    },
+    "stats": {
+        "yungoos": {
+            "hp": 48,
+            "atk": 70,
+            "def": 30,
+            "spa": 30,
+            "spd": 30,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "yungoos": 253
+    },
+    "types": {
+        "yungoos": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "yungoos": "6.0 kg"
+    }
+}

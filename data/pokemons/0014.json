@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "kakuna": {
+            "primary": "Muta"
+        }
+    },
+    "curiosities": [
+        "Kakuna condivide la sua categoria con Metapod, Silcoon e Cascoon. Tutti e quattro sono noti come Pokémon Bozzolo.\n\tCondividono, inoltre, lo stesso totale delle statistiche base, le stesse mosse apprese, la stessa abilità e gli stessi punti base ceduti.\n\tSono, inoltre, i Pokémon evoluti con il totale delle statische base più basso.",
+        "Condividono, inoltre, lo stesso totale delle statistiche base, le stesse mosse apprese, la stessa abilità e gli stessi punti base ceduti.",
+        "Sono, inoltre, i Pokémon evoluti con il totale delle statische base più basso.",
+        "Kakuna ha l'Attacco base più basso tra tutti i Pokémon di tipo Veleno.",
+        "Fino al rilascio di Pokémon Platino, quando ha avuto modo di imparare Coleomorso, Kakuna non poteva attaccare in alcun modo i Pokémon di tipo Acciaio, se non utilizzando Scontro. Condivide questa peculiarità con Weedle. La stessa cosa accade anche con Caterpie e Metapod, ma con i Pokémon di tipo Spettro.",
+        "Il nome prototipo inglese di Kakuna era \"Kokoon\", lo stesso della romanizzazione del nome giapponese.",
+        "Le \"braccia\" di Kakuna, viste nello sprite di Pokémon Rosso e Blu, vengono spesso scambiate per un errore poiché non vengono mostrate in nessun altro media. Finora sono state mostrate solo nello sprite dei due giochi e in una carta Carddass."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kakuna.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "kakuna",
+    "generation": 1,
+    "height": {
+        "kakuna": "0.6 m"
+    },
+    "id": 14,
+    "name": "Kakuna",
+    "name_origin": "Kakuna potrebbe essere una corruzione di cocoon, bozzolo. Cocoon potrebbe derivare da コクーン cocoon, bozzolo. ",
+    "origin": "Kakuna potrebbe essere basato su una pupa d'ape o di vespa. Nello specifico, potrebbe essere basato su una pupa di ape comune. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kakuna",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Bozzolo",
+    "sprites": {
+        "kakuna": {
+            "default": "https://media.pokemoncentral.it/wiki/8/83/Homem0014.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0014.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/55/Artwork0014_RFVF.png"
+    },
+    "stats": {
+        "kakuna": {
+            "hp": 45,
+            "atk": 25,
+            "def": 50,
+            "spa": 25,
+            "spd": 25,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "kakuna": 205
+    },
+    "types": {
+        "kakuna": [
+            "Veleno",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "kakuna": "10.0 kg"
+    }
+}

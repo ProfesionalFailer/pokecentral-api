@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "crustle": {
+            "primary": "Vigore",
+            "secondary": "Guscioscudo",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Nessun altro Pokémon ha la stessa combinazione di Gruppi Uova di Crustle e della sua pre-evoluzione.",
+        "Crustle rappresenta il mese di luglio nell'oroscopo di Unima."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/crustle.mp3",
+    "dex_entries": {
+        "crustle": {
+            "black": "I Crustle si disputano il territorio lottando ferocemente. Vince chi distrugge la roccia del rivale.",
+            "white": "Ha una tale forza nelle gambe, che può spostarsi per giorni in zone aride con una pesante roccia sulle spalle.",
+            "black-2": "Se durante una lotta per il territorio la sua roccia viene distrutta, si fa prendere dall'ansia e diventa più debole.",
+            "white-2": "Se durante una lotta per il territorio la sua roccia viene distrutta, si fa prendere dall'ansia e diventa più debole.",
+            "x": "Ha una tale forza nelle gambe, che può spostarsi per giorni in zone aride con una pesante roccia sulle spalle.",
+            "y": "I Crustle si disputano il territorio lottando ferocemente. Vince chi distrugge la roccia del rivale.",
+            "omega-ruby": "Ha una tale forza nelle gambe, che può spostarsi per giorni in zone aride con una pesante roccia sulle spalle.",
+            "alpha-sapphire": "I Crustle si disputano il territorio lottando ferocemente. Vince chi distrugge la roccia del rivale.",
+            "sword": "Predilige i luoghi aridi e nei giorni di pioggia non esce dalla sua roccia. È molto territoriale.",
+            "shield": "Le spesse chele sono la sua arma più potente. Sono talmente dure da poter perfino aprire brecce nella Copertura dei Rhyperior."
+        }
+    },
+    "egg_groups": [
+        "Coleottero",
+        "Minerale"
+    ],
+    "flat_name": "crustle",
+    "generation": 5,
+    "height": {
+        "crustle": "1.4 m"
+    },
+    "id": 558,
+    "name": "Crustle",
+    "name_origin": "Crustle potrebbe essere una combinazione di crust  o crumble  e mantle  o castle . Potrebbe anche essere un riferimento ai crostacei. Iwapalace è una combinazione di 岩 iwa  e palace . ",
+    "origin": "Crustle è basato su un paguro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Crustle",
+    "shape": "insettoide",
+    "specie": "Pokémon Scogliocasa",
+    "sprites": {
+        "crustle": {
+            "default": "https://media.pokemoncentral.it/wiki/6/68/Homem0558.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/da/Homemsh0558.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d8/Artwork0558_NB.png"
+    },
+    "stats": {
+        "crustle": {
+            "hp": 70,
+            "atk": 105,
+            "def": 125,
+            "spa": 65,
+            "spd": 75,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "crustle": 485
+    },
+    "types": {
+        "crustle": [
+            "Roccia",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "crustle": "200 kg"
+    }
+}

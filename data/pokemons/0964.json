@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "palafin": {
+            "primary": "Supercambio"
+        }
+    },
+    "curiosities": [
+        "Palafin, nella Forma Possente, è il secondo Pokémon non misterioso, leggendario o megaevoluto con il totale di statistiche più alto, con un totale di 650.\n\tIl più alto lo possiede Slaking con 670.\n\tInoltre, è l'unico Pokémon a possedere come totale di statistiche 650.\n\tNella camera di Penny è possibile notare un poster ritraente Palafin nella sua forma Possente come un supereroe.",
+        "Il più alto lo possiede Slaking con 670.",
+        "Inoltre, è l'unico Pokémon a possedere come totale di statistiche 650.",
+        "Nella camera di Penny è possibile notare un poster ritraente Palafin nella sua forma Possente come un supereroe."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/palafin.mp3",
+    "dex_entries": {
+        "forma-ingenua": {
+            "scarlet": "Cambia forma non appena sente i suoi compagni chiamare aiuto, assicurandosi di non essere mai visto da nessuno.",
+            "violet": "Ha la stessa forza fisica di Finizen, ma quando un suo compagno si trova in difficoltà, si trasforma e la sua potenza aumenta."
+        },
+        "forma-possente": {
+            "scarlet": "I suoi geni primordiali si sono risvegliati. Ha una forza talmente prodigiosa da sollevare una nave da crociera con una sola pinna senza difficoltà.",
+            "violet": "È un eroe dei mari che nuota a una velocità di 50 nodi per salvare persone e Pokémon che stanno per annegare."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Acqua 2"
+    ],
+    "flat_name": "palafin",
+    "generation": 9,
+    "height": {
+        "forma-ingenua": "1.3 m",
+        "forma-possente": "1.8 m"
+    },
+    "id": 964,
+    "name": "Palafin",
+    "name_origin": "Palafin potrebbe essere una combinazione di paladin  e fin . Irukaman potrebbe essere una combinazione di 海豚 iruka  e -man, usato come suffisso per nomi da supereroe. ",
+    "origin": "Palafin, nella sua forma Possente, ricorda molto un supereroe dall'identità segreta. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Palafin",
+    "shape": "pinne",
+    "specie": "Pokémon Delfino",
+    "sprites": {
+        "forma-ingenua": {
+            "default": "https://media.pokemoncentral.it/wiki/2/24/Homem0964.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6a/Homemsh0964.png"
+        },
+        "forma-possente": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8d/Homem0964P.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ec/Homemsh0964P.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0f/Artwork0964_SV.png"
+    },
+    "stats": {
+        "forma-ingenua": {
+            "hp": 100,
+            "atk": 70,
+            "def": 72,
+            "spa": 53,
+            "spd": 62,
+            "spe": 100
+        },
+        "forma-possente": {
+            "hp": 100,
+            "atk": 160,
+            "def": 97,
+            "spa": 106,
+            "spd": 87,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "forma-ingenua": 457,
+        "forma-possente": 650
+    },
+    "types": {
+        "palafin": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "forma-ingenua": "60.2 kg",
+        "forma-possente": "97.4 kg"
+    }
+}

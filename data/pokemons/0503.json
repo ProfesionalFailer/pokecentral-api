@@ -1,0 +1,95 @@
+{
+    "abilities": {
+        "samurott": {
+            "primary": "Acquaiuto",
+            "hidden": "Guscioscudo"
+        },
+        "forma-di-hisui": {
+            "primary": "Acquaiuto",
+            "hidden": "Affilama"
+        }
+    },
+    "curiosities": [
+        "Secondo i creatori rappresenta lo stile giapponese.",
+        "È il Pokémon iniziale di tipo Acqua col totale delle statistiche base più basso.",
+        "È il Pokémon iniziale di tipo Acqua più pesante.",
+        "Samurott ha la durata del verso più lunga di qualsiasi altro Pokémon iniziale, durando 2,099 secondi.",
+        "Samurott, Emboar e Serperior hanno la stessa somma di statistiche base, 528."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/samurott.mp3",
+    "dex_entries": {
+        "samurott": {
+            "black": "Atterra l'avversario con un solo colpo della spada inserita nell'armatura. Una sua occhiata ammutolisce il nemico.",
+            "white": "Usa parte dell'armatura degli arti anteriori come fosse una grande spada. Intimidisce il nemico col solo ruggito.",
+            "black-2": "Riesce ad estrarre le sue spade, colpire il nemico e riporle al loro posto nelle zampe anteriori in un batter d'occhio.",
+            "white-2": "Riesce ad estrarre le sue spade, colpire il nemico e riporle al loro posto nelle zampe anteriori in un batter d'occhio.",
+            "x": "Riesce a estrarre le sue spade, colpire il nemico e riporle al loro posto nelle zampe anteriori in un batter d'occhio.",
+            "y": "Atterra l'avversario con un solo colpo della spada inserita nell'armatura. Una sua occhiata ammutolisce il nemico.",
+            "omega-ruby": "Riesce a estrarre le sue spade, colpire il nemico e riporle a loro posto nelle zampe anteriori in un batter d'occhio.",
+            "alpha-sapphire": "Atterra l'avversario con un solo colpo della spada inserita nell'armatura. Una sua occhiata ammutolisce il nemico."
+        },
+        "forma-di-hisui": {
+            "legends-arceus": "Abile spadaccino dal carattere spietato, attacca con una sequela di colpi simili a mille burrascosi flutti. Di raro sembiante, frutto dell'evoluzione a Hisui."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "samurott",
+    "generation": 5,
+    "height": {
+        "samurott": "1.5 m"
+    },
+    "id": 503,
+    "name": "Samurott",
+    "name_origin": "Il suo nome deriva da samurai e otter . ",
+    "origin": "Ha l'aspetto di un leone marino o una lontra gigante sudamericana e di un samurai o uno shōgun. La sua coda è basata sui ventagli da combattimento giapponesi. La conchiglia sulla sua testa ricorda quelle del genere Murex. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Samurott",
+    "shape": "quadrupede",
+    "specie": "Pokémon Dignità",
+    "sprites": {
+        "samurott": {
+            "default": "https://media.pokemoncentral.it/wiki/7/72/Homem0503.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0503.png"
+        },
+        "forma-di-hisui": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c4/Homem0503H.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/12/Homemsh0503H.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/78/Artwork0503_NB.png"
+    },
+    "stats": {
+        "samurott": {
+            "hp": 95,
+            "atk": 100,
+            "def": 85,
+            "spa": 108,
+            "spd": 70,
+            "spe": 70
+        },
+        "forma-di-hisui": {
+            "hp": 90,
+            "atk": 108,
+            "def": 80,
+            "spa": 100,
+            "spd": 65,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "samurott": 528,
+        "forma-di-hisui": 528
+    },
+    "types": {
+        "samurott": [
+            "Acqua"
+        ],
+        "forma-di-hisui": [
+            "Buio",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "samurott": "94.6 kg"
+    }
+}

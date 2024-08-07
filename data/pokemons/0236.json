@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "tyrogue": {
+            "primary": "Dentistretti",
+            "secondary": "Cuordeciso",
+            "hidden": "Spiritovivo"
+        }
+    },
+    "curiosities": [
+        "Tyrogue è uno dei Pokémon con lo stesso valore in tutte le statistiche base.",
+        "Lo sprite cromatico di Tyrogue ha i colori di Hitmontop in forma normale, invece i colori normali di Tyrogue richiamano i colori di Hitmontop cromatico.",
+        "Tyrogue, Eevee ed Applin sono gli unici Pokémon le cui linee evolutive sono ramificate in più di due Pokémon in parallelo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tyrogue.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "tyrogue",
+    "generation": 2,
+    "height": {
+        "tyrogue": "0.7 m"
+    },
+    "id": 236,
+    "name": "Tyrogue",
+    "name_origin": "Deriva dalle parole tyro  e rogue . ",
+    "origin": "È basato su un lottatore, in particolare un apprendista del wrestling. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tyrogue",
+    "shape": "bipedi",
+    "specie": "Pokémon Baruffa",
+    "sprites": {
+        "tyrogue": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ec/Homem0236.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f4/Homemsh0236.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c4/Artwork0236_HGSS.png"
+    },
+    "stats": {
+        "tyrogue": {
+            "hp": 35,
+            "atk": 35,
+            "def": 35,
+            "spa": 35,
+            "spd": 35,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "tyrogue": 210
+    },
+    "types": {
+        "tyrogue": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "tyrogue": "21.0 kg"
+    }
+}

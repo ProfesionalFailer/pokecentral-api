@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "beautifly": {
+            "primary": "Aiutinsetto",
+            "hidden": "Antagonismo"
+        }
+    },
+    "curiosities": [
+        "Beautifly condivide la sua categoria con Butterfree. Entrambi sono noti come Pokémon Farfalla.",
+        "Prima della sesta generazione, Beautifly e la sua controparte Dustox condividevano le stesse statistiche base, con Attacco e Attacco Speciale di Beautifly scambiati con Difesa e Difesa Speciale di Dustox. In sesta generazione, Beautifly ha ricevuto un aumento di dieci punti in Attacco Speciale, ma Dustox non ha ricevuto alcun aumento delle statistiche. Condivide questa particolarità con Poliwrath."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/beautifly.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "beautifly",
+    "generation": 3,
+    "height": {
+        "beautifly": "1.00 m"
+    },
+    "id": 267,
+    "name": "Beautifly",
+    "name_origin": "Beautifly deriva dall'inglese beauty  e butterfly . Potrebbe anche essere un gioco di parole su beautiful , o beautify . ",
+    "origin": "Basato su di una farfalla della famiglia dei Papilionidi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Beautifly",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Farfalla",
+    "sprites": {
+        "beautifly": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6e/Homem0267.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0267.png"
+        },
+        "beautifly-f": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b8/Homef0267.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e2/Homefsh0267.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5e/Artwork0267_RZ.png"
+    },
+    "stats": {
+        "beautifly": {
+            "hp": 60,
+            "atk": 70,
+            "def": 50,
+            "spa": 100,
+            "spd": 50,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "beautifly": 395
+    },
+    "types": {
+        "beautifly": [
+            "Volante",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "beautifly": "28.4 kg"
+    }
+}

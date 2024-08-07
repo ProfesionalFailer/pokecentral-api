@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "magcargo": {
+            "primary": "Magmascudo",
+            "secondary": "Corpodifuoco",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Magcargo è l'unico Pokémon ottenibile in ogni gioco della serie principale di terza generazione se vengono inclusi anche Pokémon Colosseum e XD. È anche l'unico Pokémon ottenibile in tutti i giochi di seconda e quarta generazione, facendo Pokémon Nero e Bianco i primi giochi in cui non è possibile ottenerlo.",
+        "Lo sprite di Magcargo di Pokémon Cristallo è leggermente diverso da quello di Oro e Argento, rendendolo uno dei pochi Pokémon ad avere tre sprite distinti in seconda generazione.",
+        "La temperatura corporea di Magcargo  è molto più alta della temperatura presente nella superficie solare ."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/magcargo.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "magcargo",
+    "generation": 2,
+    "height": {
+        "magcargo": "0.8 m"
+    },
+    "id": 219,
+    "name": "Magcargo",
+    "name_origin": "Magcargo e Magcargot potrebbero essere una combinazione di magma ed escargot, un piatto tipico della cucina francese a base di chiocciole. Cargo potrebbe riferirsi anche al guscio che Slugma ha acquisito evolvendosi. ",
+    "origin": "Magcargo potrebbe essere basato su una chiocciola, in particolare sulla Victaphanta atramentaria, sulla Platymma tweediei o sulla Chrysomallon squamiferum. Potrebbe essere basato anche sul Cherufe, una creatura mitologica malvagia fatta di lava e roccia che vive nelle pozze di magma nei vulcani del Cile. Queste creature, secondo la mitologia, sono la causa dei terremoti nel Paese cileno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Magcargo",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Lava",
+    "sprites": {
+        "magcargo": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bb/Homem0219.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/11/Homemsh0219.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f2/Artwork0219_HGSS.png"
+    },
+    "stats": {
+        "magcargo": {
+            "hp": 60,
+            "atk": 50,
+            "def": 120,
+            "spa": 90,
+            "spd": 80,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "magcargo": 430
+    },
+    "types": {
+        "magcargo": [
+            "Fuoco",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "magcargo": "55.0 kg"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "tympole": {
+            "primary": "Nuotovelox",
+            "secondary": "Idratazione",
+            "hidden": "Assorbacqua"
+        }
+    },
+    "curiosities": [
+        "Tympole condivide il nome della specie con Poliwag, Poliwhirl e Poliwrath. Sono tutti e quattro noti come Pokémon Girino.",
+        "Il volto di Tympole è diventato un fenomeno nel famoso gruppo di artisti giapponese Pixiv.",
+        "Anche se nel Pokédex 3D è simulato il suo nuoto, a differenza degli altri Pokémon non viene visualizzato l'effetto delle bolle. La ragione di ciò è sconosciuta."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tympole.mp3",
+    "dex_entries": {
+        "tympole": {
+            "black": "Avverte i suoi simili del pericolo con un acuto suono d'allarme che produce facendo vibrare le guance.",
+            "white": "Facendo vibrare le guance, emette onde sonore che gli uomini non sentono. Conversa al ritmo di queste onde.",
+            "black-2": "Fa vibrare le membrane sulle guance per emettere onde sonore, impercettibili agli umani, con cui segnala un pericolo.",
+            "white-2": "Fa vibrare le membrane sulle guance per emettere onde sonore, impercettibili agli umani, con cui segnala un pericolo.",
+            "x": "Fa vibrare le membrane sulle guance per emettere onde sonore impercettibili agli umani con cui segnala un pericolo.",
+            "y": "Facendo vibrare le guance, emette onde sonore che gli uomini non sentono. Conversa al ritmo di queste onde.",
+            "omega-ruby": "Fa vibrare le membrane sulle guance per emettere onde sonore impercettibili agli umani con cui segnala un pericolo.",
+            "alpha-sapphire": "Facendo vibrare le guance, emette onde sonore che gli uomini non sentono. Conversa al ritmo di queste onde.",
+            "sword": "Tympole canta sott'acqua con la sua voce acuta formando delicate increspature sulla superficie.",
+            "shield": "Comunica con i suoi simili tramite onde sonore. Il suo grido d'allerta è impercettibile agli esseri umani e agli altri Pokémon."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1"
+    ],
+    "flat_name": "tympole",
+    "generation": 5,
+    "height": {
+        "tympole": "0.5 m"
+    },
+    "id": 535,
+    "name": "Tympole",
+    "name_origin": "Il suo nome deriva probabilmente dalla parola tympanum , perché i suoni che emette fanno male ai timpani, e tadpole . Un'altra possibile origine è tempo , o lo strumenti musicale timpano. ",
+    "origin": "Tympole è ispirato a un girino e ad un altoparlante. Le sue guance ricordano le cuffie per ascoltare la musica, ma possono anche ispirarsi alle ghiandole velenose o ai gonfiori tipici delle rane, o ai timpani che nelle rane sono collocati nella stessa zona. Le sue sopracciglia hanno la forma di note musicali. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tympole",
+    "shape": "pinne",
+    "specie": "Pokémon Girino",
+    "sprites": {
+        "tympole": {
+            "default": "https://media.pokemoncentral.it/wiki/0/08/Homem0535.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0535.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/18/Artwork0535_NB.png"
+    },
+    "stats": {
+        "tympole": {
+            "hp": 50,
+            "atk": 50,
+            "def": 40,
+            "spa": 50,
+            "spd": 40,
+            "spe": 64
+        }
+    },
+    "stats_sum": {
+        "tympole": 294
+    },
+    "types": {
+        "tympole": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "tympole": "4.5 kg"
+    }
+}

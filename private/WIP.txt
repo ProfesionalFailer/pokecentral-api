@@ -1,0 +1,93 @@
+FUTURE_MONS = {
+    "Acquecrespe",
+    "Fogliaferrea",
+    "Okidogi",
+    "Fezandipity",
+    "Munkidori",
+    "Ogerpon",
+    "Terapagos"
+    }
+
+
+
+# pokemon: official_artwork sprite, forms, mega and form cries, moves
+## pokemon move: accuracy, damage_class, effect_chance, effect_changes, flavor_text_entries, id, names, power, pp, priority, stat_changes, target, type,
+## pokemon types: old_api
+## pokeguesser show current points
+## home page for api
+
+minicone = (
+            self.imagesoup.find("span", {"id": "Serie_principale"})
+            .parent.find_next_sibling()
+            .find_all(
+                "div", {"class": "width-xl-100 width-lg- width-md- width-sm- width-xs-"}
+            )[-1]
+            .text
+        )
+    
+
+"ALL 9 GEN SHAPES"
+SPRITE_EXCEPTION = [
+    "EEVEE COMPAGNO",
+    "FLOETTE ETERNO
+]
+self.footprint = (
+    [i for i in self.soup.find_all("b") if "impronta" in i.text.lower()][0]
+    .find_next("img")
+    .get("src")
+    )
+
+
+    def defend(self, other, move: Move):
+        assert isinstance(move, Move)
+        assert self.__class__ == other.__class__
+
+        if move.category == "special":
+            attack = other.stats["sp_attack"]["base_stats"]
+            defense = other.stats["sp_defense"]["base_stats"]
+
+        if move.category == "physical":
+            attack = other.stats["attack"]["base_stats"]
+            defense = other.stats["defense"]["base_stats"]
+
+        multiplier = self.typing.defend(move.typing)
+        base_power = move.base_power
+
+        return int(base_power * multiplier * attack / defense)
+
+FORMS = [
+    "pikachu",
+    "pichu",
+    "unown",
+    "kyogre",
+    "groudon",
+    "deoxys",
+    "rotom",
+    "arceus",
+    "meloetta",
+    "genesect",
+    "greninja",
+    "vivillon",
+    "furfrou",
+    "xerneas",
+    "zygarde",
+    "hoopa",
+    "minior",
+    "magearna",
+    "revavroom",
+    "koraidon",
+    "miraidon",
+]
+
+
+const pokemon_jsons = Array(max_pokemon)
+    .fill()
+    .map((_, i) => i)
+    .slice(1)
+    .map((i) =>
+        JSON.parse(
+            fs.readFileSync(
+                path.join(__dirname, "data", "pokemons", i + ".json")
+            )
+        )
+    );

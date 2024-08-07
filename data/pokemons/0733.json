@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "toucannon": {
+            "primary": "Sguardofermo",
+            "secondary": "Abillegame",
+            "hidden": "Forzabruta"
+        }
+    },
+    "curiosities": [
+        "Nonostante la sua voce Pokédex in Pokémon Sole faccia riferimento alla sua capacità di arroventare il suo becco, non è di tipo Fuoco e non lo è neanche la sua mossa peculiare, Cannonbecco.\n\tCiononostante, Cannonbecco può scottare l'avversario ed è l'unica mossa di tipo Volante a poter infliggere questo problema di stato.",
+        "Ciononostante, Cannonbecco può scottare l'avversario ed è l'unica mossa di tipo Volante a poter infliggere questo problema di stato.",
+        "La sua voce Pokédex in Pokémon Luna fa riferimento alla sua capacità di usare il suo becco come cannone e sparare dei semi, e infatti Toucannon può imparare Semitraglia e Semebomba. La stessa voce Pokédex fa riferimento alla sua capacità di frantumare le rocce in questo modo, e infatti Toucannon impara Spaccaroccia sia come mossa iniziale che per livello.\n\tToucannon, assieme alla sua stessa famiglia evolutiva e a Golisopod, è uno dei quattro Pokémon a imparare Spaccaroccia per livello senza essere di tipo Lotta.",
+        "Toucannon, assieme alla sua stessa famiglia evolutiva e a Golisopod, è uno dei quattro Pokémon a imparare Spaccaroccia per livello senza essere di tipo Lotta."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/toucannon.mp3",
+    "dex_entries": {
+        "toucannon": {
+            "sun": "Quando lotta arroventa il suo becco a una temperatura di oltre 100 °C, sufficiente a provocare delle bruciature ai suoi avversari.",
+            "moon": "Sfruttando il gas del suo corpo, genera nel becco un’esplosione per sparare semi con una potenza tale da ridurre in frantumi un macigno.",
+            "ultra-sun": "I Toucannon comunicano tra di loro sbattendo i becchi. La forza e il numero dei colpi indicano i sentimenti che vogliono esprimere.",
+            "ultra-moon": "Le coppie di Toucannon sono famose per la loro perfetta armonia. Per questo c'è chi le porta ai matrimoni come augurio di felicità per gli sposi."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "toucannon",
+    "generation": 7,
+    "height": {
+        "toucannon": "1.1 m"
+    },
+    "id": 733,
+    "name": "Toucannon",
+    "name_origin": "Toucannon probabilmente deriva dalle parole Toucan, tucano, e cannon, cannone. Dodekabashi può essere una combinazione di どでかい dodekai, enorme, e 大嘴 Ōhashi, Tucano. ",
+    "origin": "Toucannon è basato su un tucano, in particolare al Ramphastos toco. Sia quest'ultimo che i picchi, su cui sono basate le sue pre-evoluzioni, appartengono allo stesso ordine animale dei Piciformi, e come essi posseggono le zampe zigodattile  tipiche degli uccelli arboricoli. Inoltre può avere delle caratteristiche in comune con i cannoni, da cui prende il nome. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Toucannon",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Cannone",
+    "sprites": {
+        "toucannon": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f6/Homem0733.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/70/Homemsh0733.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/98/Artwork0733_SL.png"
+    },
+    "stats": {
+        "toucannon": {
+            "hp": 80,
+            "atk": 120,
+            "def": 75,
+            "spa": 75,
+            "spd": 75,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "toucannon": 485
+    },
+    "types": {
+        "toucannon": [
+            "Volante",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "toucannon": "26.0 kg"
+    }
+}

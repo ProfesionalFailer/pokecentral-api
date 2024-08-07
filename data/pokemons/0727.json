@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "incineroar": {
+            "primary": "Aiutofuoco",
+            "hidden": "Prepotenza"
+        }
+    },
+    "curiosities": [
+        "Incineroar è l'unico Pokémon iniziale ad avere una statistica base più bassa rispetto alle sue pre-evoluzioni. La sua velocità è inferiore di 30 punti rispetto a quella di Torracat e di 10 rispetto a quella di Litten.",
+        "Incineroar è il primo Pokémon iniziale ad essere descritto in termini negativi  e di cui si dice esplicitamente che potrebbe decidere di non ascoltare il proprio Allenatore."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/incineroar.mp3",
+    "dex_entries": {
+        "incineroar": {
+            "sun": "Ha un carattere aggressivo ed egoista. Se ha la luna storta, non si fa problemi a ignorare gli ordini del proprio Allenatore.",
+            "moon": "Stordisce il nemico con pugni e calci di grande potenza per poi metterlo KO con le fiammate che emette dal ventre.",
+            "ultra-sun": "Pokémon rude ed egoista. Non gli piace prendersela con chi non è al suo livello e preferisce lottare con avversari più forti di lui.",
+            "ultra-moon": "Quando arde dalla voglia di lottare, anche le fiamme intorno alla vita bruciano più intensamente.",
+            "sword": "Le fiamme che fuoriescono dal suo ombelico superano i 2.000 °C. Dà il meglio nelle lotte furiose e senza regole.",
+            "shield": "Manifesta di solito un comportamento violento, ma possiede un lato gentile che emerge quando aiuta i Pokémon più piccoli."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "incineroar",
+    "generation": 7,
+    "height": {
+        "incineroar": "1.8 m"
+    },
+    "id": 727,
+    "name": "Incineroar",
+    "name_origin": "Incineroar potrebbe essere una combinazione di incinerate, bruciare, e roar, ruggito. Gaogaen potrebbe essere una combinazione di ガオー gao, onomatopea del ruggito, e 火炎 kaen, fiamma. ",
+    "origin": "Incineroar potrebbe essere ispirato su una tigre, un lottatore, in particolare ad un Heel. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Incineroar",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Colpibassi",
+    "sprites": {
+        "incineroar": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3f/Homem0727.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/23/Homemsh0727.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1a/Artwork0727_SL.png"
+    },
+    "stats": {
+        "incineroar": {
+            "hp": 95,
+            "atk": 115,
+            "def": 90,
+            "spa": 80,
+            "spd": 90,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "incineroar": 530
+    },
+    "types": {
+        "incineroar": [
+            "Fuoco",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "incineroar": "83.0 kg"
+    }
+}

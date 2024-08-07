@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "staravia": {
+            "primary": "Prepotenza",
+            "hidden": "Temerarietà"
+        }
+    },
+    "curiosities": [
+        "Staravia di Ash"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/staravia.mp3",
+    "dex_entries": {
+        "staravia": {
+            "diamond": "Vola nelle foreste e nei campi in cerca di Pokémon coleottero. Si muove in grandi gruppi.",
+            "pearl": "Vive nelle foreste e nei campi. Se alcuni gruppi si scontrano, danno inizio alla lotta per il territorio.",
+            "platinum": "Conscio della propria debolezza, vive in gruppo. Quando è da solo, STARAVIA emette forti versi.",
+            "heartgold": "Ha l'abitudine di riunirsi in grandi gruppi. Le zuffe tra gruppi sono particolarmente vivaci.",
+            "soulsilver": "Ha l'abitudine di riunirsi in grandi gruppi. Le zuffe tra gruppi sono particolarmente vivaci.",
+            "black": "Conscio della propria debolezza, vive in gruppo. Quando è da solo, Staravia emette forti versi.",
+            "white": "Conscio della propria debolezza, vive in gruppo. Quando è da solo, Staravia emette forti versi.",
+            "black-2": "Conscio della propria debolezza, vive in gruppo. Quando è da solo, Staravia emette forti versi.",
+            "white-2": "Conscio della propria debolezza, vive in gruppo. Quando è da solo, Staravia emette forti versi.",
+            "x": "Ha l'abitudine di riunirsi in grandi gruppi. Le zuffe tra gruppi sono particolarmente vivaci.",
+            "y": "Vive nelle foreste e nei campi muovendosi in grandi gruppi. Se due gruppi si incontrano, lottano per il territorio.",
+            "omega-ruby": "Ha l'abitudine di riunirsi in grandi gruppi. Le zuffe tra gruppi sono particolarmente vivaci.",
+            "alpha-sapphire": "Vive nelle foreste e nei campi muovendosi in grandi gruppi. Se due gruppi di incontrano, lottano per il territorio.",
+            "brilliant-diamond": "Vola nelle foreste e nei campi in cerca di Pokémon di tipo Coleottero. Si muove in grandi gruppi.",
+            "shining-pearl": "Vive nelle foreste e nei campi. Se due gruppi si incontrano, iniziano a lottare per il territorio.",
+            "legends-arceus": "Gli Staravia vivono in larghi stormi, in costante alterco gli uni cogli altri. Sospetto che chi tra di essi ha sul capo il piumaggio più florido sia ritenuto il più forte.",
+            "scarlet": "Conscio della propria debolezza, forma grandi gruppi con i propri simili. Quando si ritrova solo, canta con voce insistente e fastidiosa.",
+            "violet": "Ha l’abitudine di riunirsi in grandi stormi. Le zuffe tra gruppi diversi sono particolarmente intense."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "staravia",
+    "generation": 4,
+    "height": {
+        "staravia": "0.6 m"
+    },
+    "id": 397,
+    "name": "Staravia",
+    "name_origin": "Staravia è una combinazione fra starling  e avian . ",
+    "origin": "Staravia si basa su uno storno adulto. Tuttavia, le sue caratteristiche sembrano essere basate più su una pavoncella adulta del Nord. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Staravia",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Storno",
+    "sprites": {
+        "staravia": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8c/Homem0397.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0397.png"
+        },
+        "staravia-f": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7f/Homef0397.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homefsh0397.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cc/Artwork0397_DLPS.png"
+    },
+    "stats": {
+        "staravia": {
+            "hp": 55,
+            "atk": 75,
+            "def": 50,
+            "spa": 40,
+            "spd": 40,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "staravia": 340
+    },
+    "types": {
+        "staravia": [
+            "Volante",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "staravia": "15.5 kg"
+    }
+}

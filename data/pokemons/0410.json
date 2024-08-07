@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "shieldon": {
+            "primary": "Vigore",
+            "hidden": "Antisuono"
+        }
+    },
+    "curiosities": [
+        "Shieldon e Cranidos si evolvono al livello 30, prima di tutti gli altri Pokémon Fossili.",
+        "Le famiglie evolutive di Shieldon ed Aron erano gli unici Pokémon a poter imparare Metalscoppio prima di Pokémon Oro HeartGold e Argento SoulSilver.\n\tCuriosamente, le famiglie condividono la stessa combinazione di tipi, seppur invertita.",
+        "Curiosamente, le famiglie condividono la stessa combinazione di tipi, seppur invertita.",
+        "In Pokémon Spada e Scudo, Shieldon e Cranidos sono gli unici fossili a non essere stati aggiunti con il secondo aggiornamento del Pass di espansione di Pokémon Spada e Scudo, Le terre innevate della corona."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/shieldon.mp3",
+    "dex_entries": {
+        "shieldon": {
+            "diamond": "Pokémon che viveva nella giungla circa 100 milioni di anni fa. Il suo muso è molto resistente.",
+            "pearl": "Si pulisce il muso strofinandolo contro i tronchi degli alberi. È debole agli attacchi alle spalle.",
+            "platinum": "Ha una corazza molto spessa. Di conseguenza può procurarsi erba e bacche senza dover combattere.",
+            "heartgold": "Nato da un fossile portato alla luce da uno strato di cento milioni di anni fa. Ha un muso resistente.",
+            "soulsilver": "Nato da un fossile portato alla luce da uno strato di cento milioni di anni fa. Ha un muso resistente.",
+            "black": "Ha una corazza molto spessa. Di conseguenza può procurarsi erba e bacche senza dover combattere.",
+            "white": "Ha una corazza molto spessa. Di conseguenza può procurarsi erba e bacche senza dover combattere.",
+            "black-2": "Ha una corazza molto spessa. Di conseguenza può procurarsi erba e bacche senza dover combattere.",
+            "white-2": "Ha una corazza molto spessa. Di conseguenza può procurarsi erba e bacche senza dover combattere.",
+            "x": "Si pulisce il muso strofinandolo contro i tronchi degli alberi. È debole agli attacchi alle spalle.",
+            "y": "Nato da un fossile portato alla luce da uno strato di 100 milioni di anni fa. Ha un muso resistente.",
+            "omega-ruby": "Si pulisce il muso strofinandolo contro i tronchi degli alberi. È vulnerabile agli attacchi alle spalle.",
+            "alpha-sapphire": "Nato da un fossile portato alla luce da uno strato di 100 milioni di anni fa. Ha un muso resistente.",
+            "sun": "Tutti gli esemplari fossilizzati di questo Pokémon sono perfettamente conservati nella zona del muso, priva di qualsiasi scalfittura.",
+            "moon": "Viveva nelle giungle preistoriche. Si pensa che avesse pochi predatori per via del muso incredibilmente robusto.",
+            "ultra-sun": "Era un docile Pokémon erbivoro. Si serviva del muso protetto dalla pelle coriacea per scavare nel terreno e mangiare le radici degli alberi.",
+            "ultra-moon": "Fossili di questo Pokémon sono stati trovati in strati geologici antichissimi. Tuttavia, gli unici resti pervenuti costituiscono parti del muso.",
+            "brilliant-diamond": "Viveva nella giungla circa 100 milioni di anni fa. La pelle che ricopre la sua testa è estremamente dura.",
+            "shining-pearl": "Si pulisce il muso strofinandolo contro i tronchi degli alberi. Gli attacchi alle spalle sono il suo punto debole.",
+            "legends-arceus": "Una creatura grandemente misteriosa, per lo più sconosciuta. D'indole gentile, rifugge la lotta, preferendo levigare il viso contro alberi e rocce."
+        }
+    },
+    "egg_groups": [
+        "Mostro"
+    ],
+    "flat_name": "shieldon",
+    "generation": 4,
+    "height": {
+        "shieldon": "0.5 m"
+    },
+    "id": 410,
+    "name": "Shieldon",
+    "name_origin": "Deriva dalle parole shield  con il suffisso -don . ",
+    "origin": "Basato sul Protoceratops. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shieldon",
+    "shape": "quadrupede",
+    "specie": "Pokémon Schermo",
+    "sprites": {
+        "shieldon": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fd/Homem0410.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0410.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2d/Artwork0410_DP.png"
+    },
+    "stats": {
+        "shieldon": {
+            "hp": 30,
+            "atk": 42,
+            "def": 118,
+            "spa": 42,
+            "spd": 88,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "shieldon": 350
+    },
+    "types": {
+        "shieldon": [
+            "Roccia",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "shieldon": "57.0 kg"
+    }
+}

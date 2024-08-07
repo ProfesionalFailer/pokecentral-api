@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "machamp": {
+            "primary": "Dentistretti",
+            "secondary": "Nullodifesa",
+            "hidden": "Cuordeciso"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Rosso e Verde beta, Machamp aveva il nome di \"Ju-Doh\", derivante da \"judo\", un'arte marziale.",
+        "Machamp è uno dei quattro Pokémon a possedere quattro braccia. Gli altri sono Graveler, Ledian e Cofagrigus.",
+        "Machamp è in grado di apprendere la mossa Forza, il cui nome giapponese è lo stesso della specie di Machamp.",
+        "Machamp può essere considerato la controparte di Alakazam. Entrambi rappresentano lo stadio finale di una famiglia evolutiva composta da tre Pokémon, la cui forma finale si può ottenere solo tramite scambio. Ambedue sono stati introdotti in prima generazione ed entrambi hanno sesso maschile nel 75% dei casi. Inoltre, Machamp eccelle nella statistica Attacco mentre Alakazam eccelle nella statistica Attacco Speciale.\n\tMachamp può essere considerato anche la controparte di Conkeldurr. Entrambi sono Pokémon di tipo Lotta la cui statistica più alta è l'Attacco e la cui statistica più bassa è la Velocità. Ambedue fanno parte di una linea evolutiva a tre stadi di cui l'ultimo può essere ottenuto solo tramite scambio. Infine condividono anche il rapporto tra i sessi .",
+        "Machamp può essere considerato anche la controparte di Conkeldurr. Entrambi sono Pokémon di tipo Lotta la cui statistica più alta è l'Attacco e la cui statistica più bassa è la Velocità. Ambedue fanno parte di una linea evolutiva a tre stadi di cui l'ultimo può essere ottenuto solo tramite scambio. Infine condividono anche il rapporto tra i sessi .",
+        "Lo sprite di Machamp in Pokémon Giallo è della stessa colorazione che dalla terza generazione assumono gli esemplari cromatici.",
+        "Dalla seconda generazione in avanti, Machamp non è più in grado di imparare la mossa Schermoluce tramite MT, sebbene sia ancora in grado di apprenderla come mossa Uovo.",
+        "Tutti gli sprite di Machamp in terza generazione mancano erroneamente della sua cintura.",
+        "Il verso di Machamp è molto simile al verso di Slowbro, cambia solamente il tono.",
+        "Machamp è l'unico Pokémon in grado di imparare una mossa da OHKO ed avere l'abilità Nullodifesa, che la renderebbe infallibile. Tuttavia non è possibile ottenere legittimamente un Machamp con entrambe le caratteristiche: infatti può apprendere Abisso solamente nelle versioni Virtual Console dei giochi di prima generazione, e quando trasferito in settima avrà sempre la sua abilità speciale Cuordeciso."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/machamp.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "machamp",
+    "generation": 1,
+    "height": {
+        "machamp": "1.6 m",
+        "machamp-gigamax": "> 25.0 m"
+    },
+    "id": 68,
+    "name": "Machamp",
+    "name_origin": "Machamp deriva dall'unione della parola spagnola \"macho\"  con la parola inglese \"champion\" . ",
+    "origin": "Machamp sembra essere basato su un culturista o un wrestler. Poiché ha più di due braccia e pelle blu, Machamp potrebbe essere basato su un dio indù, forse Shiva o Vishnu. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Machamp",
+    "shape": "bipedi",
+    "specie": "Pokémon Megaforza",
+    "sprites": {
+        "machamp": {
+            "default": "https://media.pokemoncentral.it/wiki/1/15/Homem0068.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homemsh0068.png"
+        },
+        "machamp-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d8/Homem0068Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0a/Homemsh0068Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ac/Artwork0068_RFVF.png"
+    },
+    "stats": {
+        "machamp": {
+            "hp": 90,
+            "atk": 130,
+            "def": 80,
+            "spa": 65,
+            "spd": 85,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "machamp": 505
+    },
+    "types": {
+        "machamp": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "machamp": "130.0 kg",
+        "machamp-gigamax": "???.? kg"
+    }
+}

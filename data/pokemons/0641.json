@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "forma-incarnazione": {
+            "primary": "Burla",
+            "hidden": "Agonismo"
+        },
+        "forma-totem": {
+            "primary": "Rigenergia"
+        }
+    },
+    "curiosities": [
+        "Tornadus era l'unico Pokémon di tipo Volante puro prima dell'ottava generazione, oltre ad Arceus con una Lastracielo e Silvally con una ROM Volante."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tornadus.mp3",
+    "dex_entries": {
+        "tornadus": {
+            "black": "Ha la parte inferiore del corpo avvolta in una nuvola di energia. Sfreccia nei cieli a 300 km/h.",
+            "white": "L'energia sprigionata dalla coda di Tornadus provoca una violenta tempesta in grado di spazzare via le case.",
+            "black-2": "Vola nei cieli in perenne girovagare e produce un vento così forte da spazzare via ogni cosa incontri.",
+            "white-2": "Vola nei cieli in perenne girovagare e produce un vento così forte da spazzare via ogni cosa incontri.",
+            "x": "Ha la parte inferiore del corpo avvolta in una nuvola di energia. Sfreccia nei cieli a 300 km/h.",
+            "y": "L'energia sprigionata dalla coda di Tornadus provoca una violenta tempesta in grado di spazzare via le case.",
+            "omega-ruby": "Ha la parte inferiore del corpo avvolta in una nuvola di energia. Sfreccia nei cieli a 300 km/h.",
+            "alpha-sapphire": "L'energia sprigionata dalla coda di Tornadus provoca una violenta tempesta in grado di spazzare via le case."
+        },
+        "forma-incarnazione": {
+            "legends-arceus": "Cagionatore di tempeste, si tramanda scuota l'atmosfera per innescare la successione delle stagioni. Sospetto che il suo sembiante antropomorfo non sia reale."
+        },
+        "forma-totem": {
+            "legends-arceus": "Il fenomeno del cambio di forma gli ha conferito l'aspetto di un volatile mitologico, che sospetto sia il suo vero sembiante. È in questa guisa che lo si vede talora attraversare gli oceani."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "tornadus",
+    "generation": 5,
+    "height": {
+        "forma-incarnazione": "1.5 m",
+        "forma-totem": "1.4 m"
+    },
+    "id": 641,
+    "name": "Tornadus",
+    "name_origin": "Il suo nome deriva dalle parole inglesi tornado e genious . ",
+    "origin": "Così come la Forma Incarnata di Thundurus è basata su Raijin, quella di Tornadus è basata su suo fratello Fūjin, Kami del vento e delle correnti d'aria, che ha il compito di contenere la furia di Raijin proteggendo i cieli. Controlla e rilascia i venti da una sacca di pelle che porta sulle spalle, di cui la coda di Tornadus rievoca vagamente la forma. Nella Forma Totem, è basato sull'Uccello Vermiglio, una delle cinque bestie guardiane della mitologia cinese, o su Huitzilopochtli, un dio della mitologia azteca con le fattezze di un colibrì. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tornadus",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Turbinio",
+    "sprites": {
+        "forma-incarnazione": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c5/Homem0641.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fe/Homemsh0641.png"
+        },
+        "forma-totem": {
+            "default": "https://media.pokemoncentral.it/wiki/d/df/Homem0641T.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0641T.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f5/Artwork0641_NB.png"
+    },
+    "stats": {
+        "forma-incarnazione": {
+            "hp": 79,
+            "atk": 115,
+            "def": 70,
+            "spa": 125,
+            "spd": 80,
+            "spe": 111
+        },
+        "forma-totem": {
+            "hp": 79,
+            "atk": 100,
+            "def": 80,
+            "spa": 110,
+            "spd": 90,
+            "spe": 121
+        }
+    },
+    "stats_sum": {
+        "forma-incarnazione": 580,
+        "forma-totem": 580
+    },
+    "types": {
+        "tornadus": [
+            "Volante"
+        ]
+    },
+    "weight": {
+        "tornadus": "63.0 kg"
+    }
+}

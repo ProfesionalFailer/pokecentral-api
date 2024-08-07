@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "quagsire": {
+            "primary": "Umidità",
+            "secondary": "Assorbacqua",
+            "hidden": "Imprudenza"
+        }
+    },
+    "curiosities": [
+        "In seconda generazione Wooper e Quagsire avevano una combinazione di tipi unica."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/quagsire.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "flat_name": "quagsire",
+    "generation": 2,
+    "height": {
+        "quagsire": "1.4 m"
+    },
+    "id": 195,
+    "name": "Quagsire",
+    "name_origin": "Quagsire è una combinazione di quagmire  e l'onorifico sire o Siren . Nuoh potrebbe essere una combinazione di 沼 numa  e 王 ō  o オオサンショウウオ ōsanshōuo . ",
+    "origin": "Quagsire sembra essere basato su una salamandra gigante asiatica. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Quagsire",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Acquapesce",
+    "sprites": {
+        "quagsire": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b3/Homem0195.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0195.png"
+        },
+        "quagsire-f": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6e/Homef0195.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/ce/Homefsh0195.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/61/Artwork0195_HGSS.png"
+    },
+    "stats": {
+        "quagsire": {
+            "hp": 95,
+            "atk": 85,
+            "def": 85,
+            "spa": 65,
+            "spd": 65,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "quagsire": 430
+    },
+    "types": {
+        "quagsire": [
+            "Terra",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "quagsire": "75.0 kg"
+    }
+}

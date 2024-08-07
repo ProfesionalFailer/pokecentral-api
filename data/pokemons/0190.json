@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "aipom": {
+            "primary": "Fugafacile",
+            "secondary": "Raccolta",
+            "hidden": "Abillegame"
+        }
+    },
+    "curiosities": [
+        "È uno dei pochi Pokémon ad evolversi imparando una mossa e l'unico che si evolve imparando Doppiosmash.",
+        "Aipom e Zigzagoon sono gli unici Pokémon con l'abilità Raccolta che mantengono quest'abilità dopo l'evoluzione.",
+        "Lem utilizza un gadget basato sulla coda di Aipom, chiamato Braccio Aipom."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/aipom.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "aipom",
+    "generation": 2,
+    "height": {
+        "aipom": "0.8 m"
+    },
+    "id": 190,
+    "name": "Aipom",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi ape  e palm . ",
+    "origin": "La figura di Aipom si può basare semplicemente su una scimmia con una stravagante coda prensile, oppure ad un Ahuizotl, una creatura leggendaria tipica della religione azteca dotato di mani prensili più una mano aggiuntiva sulla coda. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Aipom",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Lungacoda",
+    "sprites": {
+        "aipom": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c4/Homem0190.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh0190.png"
+        },
+        "aipom-f": {
+            "default": "https://media.pokemoncentral.it/wiki/8/86/Homef0190.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homefsh0190.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/24/Artwork0190_HGSS.png"
+    },
+    "stats": {
+        "aipom": {
+            "hp": 55,
+            "atk": 70,
+            "def": 55,
+            "spa": 40,
+            "spd": 55,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "aipom": 360
+    },
+    "types": {
+        "aipom": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "aipom": "11.5 kg"
+    }
+}

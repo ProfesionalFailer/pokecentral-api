@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "regidrago": {
+            "primary": "Dragomascelle"
+        }
+    },
+    "curiosities": [
+        "Regidrago è l'unico tra i golem leggendari che:\n\tNon ha 80 PS base.\n\tNon impara Localizza  e Falcecannone  aumentando di livello.\n\tNon condivide una debolezza con gli altri golem.",
+        "Non ha 80 PS base.",
+        "Non impara Localizza  e Falcecannone  aumentando di livello.",
+        "Non condivide una debolezza con gli altri golem.",
+        "Insieme a Regieleki, Regidrago è l'unico Pokémon leggendario introdotto in ottava generazione a non essere shiny locked in Pokémon Spada e Scudo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/regidrago.mp3",
+    "dex_entries": {
+        "regidrago": {
+            "sword": "Si ipotizza che le sue braccia abbiano la forma della testa di un antico Pokémon di tipo Drago, ma non esistono prove certe.",
+            "shield": "Il suo corpo è formato da energia Drago cristallizzata. Pare che possieda i poteri di tutti i Pokémon di tipo Drago."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "regidrago",
+    "generation": 8,
+    "height": {
+        "regidrago": "2.1 m"
+    },
+    "id": 895,
+    "name": "Regidrago",
+    "name_origin": "Regidrago potrebbe essere una combinazione di regis, regale in latino, e dragon/draco, drago. ",
+    "origin": "Regidrago potrebbe essere basato sui golem dei miti ebraici. Si dice che questi golem fossero servi di poteri superiori e che avessero delle scritte sulla testa. Quando i testi vengono rimossi, la creatura viene indebolita o addirittura portata alla morte. Regidrago potrebbe essere basato su una sfera di cristallo con un motivo draconico. I golem leggendari possono avere come tema comune le epoche storiche, con Regidrago che rappresenta i secoli bui. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Regidrago",
+    "shape": "bipedi",
+    "specie": "Pokémon Dracosfera",
+    "sprites": {
+        "regidrago": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9a/Homem0895.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2a/Homemsh0895.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f7/Artwork0895_SpSc.png"
+    },
+    "stats": {
+        "regidrago": {
+            "hp": 200,
+            "atk": 100,
+            "def": 50,
+            "spa": 100,
+            "spd": 50,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "regidrago": 580
+    },
+    "types": {
+        "regidrago": [
+            "Drago"
+        ]
+    },
+    "weight": {
+        "regidrago": "200.0 kg"
+    }
+}

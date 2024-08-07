@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "aromatisse": {
+            "primary": "Curacuore",
+            "hidden": "Aromavelo"
+        }
+    },
+    "curiosities": [
+        "È il primo Pokémon di sesta generazione ad evolversi tramite scambio.",
+        "Aromatisse è l'unico Pokémon con un totale di statistiche base pari a 462.",
+        "Aromatisse può essere considerato la controparte di Slurpuff. Sono entrambi Pokémon di tipo Folletto di sesta generazione, esclusivi di Pokémon X e Y, ed entrambi si evolvono tramite scambio tenendo un oggetto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/aromatisse.mp3",
+    "dex_entries": {
+        "aromatisse": {
+            "x": "È in grado di emanare profumi di diversi tipi. Durante la lotta, mette in difficoltà i nemici emettendo odori sgradevoli.",
+            "y": "Emette un profumo intensissimo. Se un Allenatore non è un assoluto estimatore di quel particolare aroma, avrà grosse difficoltà anche solo a stargli vicino.",
+            "omega-ruby": "È in grado di emanare profumi di diversi tipi. Durante la lotta, mette in difficoltà i nemici emettendo odori sgradevoli.",
+            "alpha-sapphire": "Emette un profumo intensissimo. Se un Allenatore non è un assoluto estimatore di quel particolare aroma, avrà grosse difficoltà anche solo a stargli vicino.",
+            "sword": "Il suo pelo emette un profumo così intenso da compromettere irrimediabilmente l'olfatto del suo Allenatore.",
+            "shield": "Può produrre un tanfo così tremendo da far passare ai nemici la voglia di lottare, e un profumo così buono da incoraggiare gli alleati."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "flat_name": "aromatisse",
+    "generation": 6,
+    "height": {
+        "aromatisse": "0.8 m"
+    },
+    "id": 683,
+    "name": "Aromatisse",
+    "name_origin": "Il suo nome deriva da aroma, aromatic  o aromatize . Potrebbe anche contenere il nome del noto pittore francese Henri Matisse. ",
+    "origin": "Aromatisse sembra essere ispirato alle ballerine di flamenco o alle ballerine di can-can . È probabilmente, data la pre-evoluzione, basato anche su un fenicottero.\nCome per Spritzee, la colorazione bianca sul volto si ispira alle maschere carnevalesche indossate tradizionalmente nell'Europa centrale e meridionale, ma è più probabilmente un riferimento al medico della peste, la cui maschera, dotata di un becco adunco, conteneva fragranze profumate per tener lontani i cattivi odori portati dalle epidemie.\nLa sua forma vagamente a clessidra è peculiare di alcune boccette di profumo, mentre il becco, collocato nella parte alta, si può ricollegare all'imboccatura della boccetta.\nLa soffice consistenza del suo piumaggio può essere un richiamo ai piumini da cipria. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Aromatisse",
+    "shape": "bipedi",
+    "specie": "Pokémon Fragranza",
+    "sprites": {
+        "aromatisse": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2c/Homem0683.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/59/Homemsh0683.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0683_XY.png"
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 101,
+            "atk": 72,
+            "def": 72,
+            "spa": 99,
+            "spd": 89,
+            "spe": 29
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 462
+    },
+    "types": {
+        "aromatisse": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "aromatisse": "15.5 kg"
+    }
+}

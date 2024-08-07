@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "natu": {
+            "primary": "Sincronismo",
+            "secondary": "Sveglialampo",
+            "hidden": "Magispecchio"
+        }
+    },
+    "curiosities": [
+        "Nelle versioni inglesi di Pokémon Oro e Argento Natu era conosciuto come il Pokémon Piccolouccello , mentre da Pokémon Cristallo in poi hanno aggiunto uno spazio, quindi \"Little Bird\", ossia Uccellino nella versione italiana del gioco.\n\tNatu condivide dunque la sua categoria con Pidgey e Spearow.",
+        "Natu condivide dunque la sua categoria con Pidgey e Spearow.",
+        "Natu è il Pokémon di tipo Volante più piccolo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/natu.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "natu",
+    "generation": 2,
+    "height": {
+        "natu": "0.2 m"
+    },
+    "id": 177,
+    "name": "Natu",
+    "name_origin": "Potrebbe derivare dalla parola native  e Atu  o dalla parola latina natus . ",
+    "origin": "Basato tra un pappagallo e una quaglia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Natu",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Uccellino",
+    "sprites": {
+        "natu": {
+            "default": "https://media.pokemoncentral.it/wiki/3/38/Homem0177.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/93/Homemsh0177.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/96/Artwork0177_HGSS.png"
+    },
+    "stats": {
+        "natu": {
+            "hp": 40,
+            "atk": 50,
+            "def": 45,
+            "spa": 70,
+            "spd": 45,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "natu": 320
+    },
+    "types": {
+        "natu": [
+            "Volante",
+            "Psico"
+        ]
+    },
+    "weight": {
+        "natu": "2.0 kg"
+    }
+}

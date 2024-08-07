@@ -1,0 +1,57 @@
+{
+    "abilities": {
+        "wartortle": {
+            "primary": "Acquaiuto",
+            "hidden": "Copripioggia"
+        }
+    },
+    "curiosities": [
+        "Anche se le orecchie di Wartortle sono raffigurate con un colore più chiaro rispetto al suo volto, nell'artwork ufficiale di Ken Sugimori e nella maggior parte degli sprite dei giochi, gli artwork promozionali ufficiali lo mostrano con le orecchie dello stesso colore del volto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wartortle.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Acqua 1"
+    ],
+    "flat_name": "wartortle",
+    "generation": 1,
+    "height": {
+        "wartortle": "1.0 m"
+    },
+    "id": 8,
+    "name": "Wartortle",
+    "name_origin": "Wartortle potrebbe essere una combinazione di war, guerra, o warrior, guerriero, e turtle, tartaruga. Kameil potrebbe essere una combinazione di 亀 kame, tartaruga, e テール tēru, coda. Potrebbe essere anche una corruzione di 噛める kameru, essere in grado di mordere. ",
+    "origin": "Wartortle e la sua famiglia evolutiva sono basati su una tartaruga. La coda di Wartortle è un riferimento alle leggende giapponesi del 蓑亀 minogame, una tartaruga che visse per 10.000 anni e a cui crebbe una coda a forma di alghe. Secondo Ken Sugimori e Atsuko Nishida, l'artista si è basata su un criterio opposto rispetto alla sua forma finale, il che significa che Wartortle è direttamente basato su Blastoise. L'uso della coda per immagazzinare l'ossigeno potrebbe essere un riferimento a quelle tartarughe che respirano attraverso la loro cloaca, posizionata vicino alla coda. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wartortle",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Tartaruga",
+    "sprites": {
+        "wartortle": {
+            "default": "https://media.pokemoncentral.it/wiki/2/24/Homem0008.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0008.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/78/Artwork0008_RFVF.png"
+    },
+    "stats": {
+        "wartortle": {
+            "hp": 59,
+            "atk": 63,
+            "def": 80,
+            "spa": 65,
+            "spd": 80,
+            "spe": 58
+        }
+    },
+    "stats_sum": {
+        "wartortle": 405
+    },
+    "types": {
+        "wartortle": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "wartortle": "22.5 kg"
+    }
+}

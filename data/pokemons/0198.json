@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "murkrow": {
+            "primary": "Insonnia",
+            "secondary": "Supersorte",
+            "hidden": "Burla"
+        }
+    },
+    "curiosities": [
+        "Prima della quinta generazione Murkrow e Honchkrow avevano una combinazione di tipi unica.",
+        "Murkrow condivide la stessa categoria con Sableye. Entrambi sono noti come Pokémon Oscurità.",
+        "Pur essendo un Pokémon di seconda generazione, era disponibile solo a Kanto in Pokémon Oro, Argento e Cristallo, la stessa cosa vale per Slugma e Houndour. Tutti e tre possono essere ottenuti a Johto via Zona Safari in Oro HeartGold e Argento SoulSilver.",
+        "Nonostante sia stato dimostrato che è in grado di imitare le voci, non può imparare Schiamazzo.",
+        "Murkrow può essere visto come un parallelo di Misdreavus. Entrambi sono Pokémon di seconda generazione che si evolvono tramite Neropietra. Murkrow è esclusivo di Rosso Fuoco, Diamante e Nero mentre Misdreavus è esclusivo di Verde Foglia, Perla e Bianco. In aggiunta, entrambi sembrano essere ispirati alle streghe.",
+        "Murkrow è il Pokémon di tipo Buio più leggero.",
+        "Murkow viene prima di Misdreavus nel Pokédex di Johto, ma Honchkrow viene dopo Mismagius nella parte di Sinnoh del Pokédex Nazionale.",
+        "Murkrow è l'unico Pokémon non di tipo Spettro ad evolversi con una Neropietra.",
+        "Nonostante alcune descrizioni Pokédex dicano che questo Pokémon rubi oggetti di valore come anelli, può imparare la mossa Furto solo tramite MT."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/murkrow.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "murkrow",
+    "generation": 2,
+    "height": {
+        "murkrow": "0.5 m"
+    },
+    "id": 198,
+    "name": "Murkrow",
+    "name_origin": "Deriva dalle parole inglesi murky  e crow , oppure da murder  e crow . ",
+    "origin": "Murkrow è ispirato ai corvi, più specificatamente alle cornacchie nere, ma il becco di colore giallo lo riconduce anche al merlo. La sua cresta ricorda quella delle Aquile Black-Hawk, oppure potrebbe essere ispirato a un cappello da strega, cosi come la sua coda ricorda una scopa ricordando dunque una strega in volo. Potrebbe anche essere ispirato a una gang di teppisti, visto che loro sono sempre sotto la guida di un Honchkrow, la capacità di imitare i suoi è un riferimento al fatto che i corvi pure possono imitare i suoni. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Murkrow",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Oscurità",
+    "sprites": {
+        "murkrow": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e2/Homem0198.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/73/Homemsh0198.png"
+        },
+        "murkrow-f": {
+            "default": "https://media.pokemoncentral.it/wiki/3/38/Homef0198.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homefsh0198.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0198_RFVF.png"
+    },
+    "stats": {
+        "murkrow": {
+            "hp": 60,
+            "atk": 85,
+            "def": 42,
+            "spa": 85,
+            "spd": 42,
+            "spe": 91
+        }
+    },
+    "stats_sum": {
+        "murkrow": 405
+    },
+    "types": {
+        "murkrow": [
+            "Volante",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "murkrow": "2.1 kg"
+    }
+}

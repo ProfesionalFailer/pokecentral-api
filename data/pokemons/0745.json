@@ -1,0 +1,126 @@
+{
+    "abilities": {
+        "forma-giorno": {
+            "primary": "Sguardofermo",
+            "secondary": "Remasabbia",
+            "hidden": "Cuordeciso"
+        },
+        "forma-notte": {
+            "primary": "Sguardofermo",
+            "secondary": "Spiritovivo",
+            "hidden": "Nullodifesa"
+        },
+        "forma-crepuscolo": {
+            "primary": "Unghiedure"
+        }
+    },
+    "curiosities": [
+        "Il QR Code mostrato nella voce Pokédex di Lycanroc Forma Crepuscolo è in realtà quello della Forma Giorno."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lycanroc.mp3",
+    "dex_entries": {
+        "forma-giorno": {
+            "sun": "Confonde l’avversario grazie alla rapidità dei movimenti. Oltre ad artigli e zanne, nella lotta si serve anche delle pietre appuntite della criniera.",
+            "moon": "Se lo si allena nel modo giusto fin dalla tenera età, diventa un fedele compagno devoto al proprio Allenatore.",
+            "ultra-sun": "La sua criniera di roccia è affilata come la lama di un coltello. Segue la preda senza mai perderla di vista e quando è stanca le dà il colpo finale.",
+            "ultra-moon": "La sua criniera di roccia è più affilata della lama di un coltello. Le sue schegge sono considerate dei preziosi portafortuna.",
+            "sword": "È un Pokémon calmo e prudente. Le rocce della sua criniera sono affilate come lame di un rasoio.",
+            "shield": "Intrappola gradualmente la preda avvicinandosi con movimenti rapidi. Le sue zanne mirano dritto ai punti vitali.",
+            "scarlet": "Caccia la sua preda usando le zanne e gli artigli affilatissimi. Ascolta fedelmente le indicazioni degli Allenatori di cui si fida.",
+            "violet": "Un Pokémon dal temperamento calmo e sereno. Si avvicina rapidamente alla preda e la colpisce con la sua criniera di pietra."
+        },
+        "forma-notte": {
+            "sun": "Più è forte il nemico che deve affrontare, più si fa combattivo. Pensa solo alla vittoria e si lancia sul nemico senza pensare alle conseguenze.",
+            "moon": "Provoca il nemico per spingerlo ad attaccare. Lacera le carni, tira poderose testate e frantuma le ossa dei nemici con la sua criniera di pietra.",
+            "ultra-sun": "Ignora bellamente gli ordini che non gli vanno a genio. Il suo unico obiettivo è sconfiggere il nemico, al prezzo di qualunque ferita.",
+            "ultra-moon": "Vive solitario, senza mai formare un branco. Dà retta solamente agli Allenatori che riescono a tirare fuori tutto il suo potenziale.",
+            "sword": "Ha un'indole temeraria e si lancia sull'avversario senza badare alle ferite che potrebbe subire.",
+            "shield": "Più il suo nemico è forte, più gli ribolle il sangue. Con le sue testate micidiali può polverizzare macigni giganteschi.",
+            "scarlet": "Taglia con la criniera di rocce chi gli si avvicina. Disobbedisce addirittura al suo Allenatore se le indicazioni ricevute non sono di suo gradimento.",
+            "violet": "Di indole estremamente aggressiva, non gli importa di ferirsi se ciò gli permette di abbattere l’avversario."
+        },
+        "forma-crepuscolo": {
+            "sun": "Questa forma non esisteva in Pokémon Sole",
+            "moon": "Questa forma non esisteva in Pokémon Luna",
+            "ultra-sun": "Un Lycanroc speciale, evolutosi alla luce del tramonto. Sotto l’apparente calma, nasconde un impetuoso spirito combattivo.",
+            "ultra-moon": "Misteriosa evoluzione di Lycanroc che si verifica solo al crepuscolo. Ad Alola è un esemplare molto raro.",
+            "sword": "In genere è calmo e controllato, ma al momento di lottare sfodera un impetuoso spirito combattivo.",
+            "shield": "Ha un temperamento controllato ma feroce. Essendo un Pokémon molto esigente, è problematico da allenare.",
+            "scarlet": "In genere non ulula nemmeno. Una volta che inizia a lottare, dà la caccia all’avversario senza alcuna pietà.",
+            "violet": "Ha un temperamento controllato ma feroce. Si dice che i Lycanroc di questa forma siano i più impegnativi da allenare."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "lycanroc",
+    "generation": 7,
+    "height": {
+        "forma-giorno": "0.8 m",
+        "forma-notte": "1.1 m",
+        "forma-crepuscolo": "0.8 m"
+    },
+    "id": 745,
+    "name": "Lycanroc",
+    "name_origin": "Lycanroc potrebbe derivare da lycanthrope, licantropo, e rock, roccia. Lugarugan potrebbe essere una combinazione di loup-garou, lupo mannaro in francese, ガルル garuru', l'ululare di un cane, e di 岩 gan, roccia. ",
+    "origin": "La Forma Giorno e la Forma Crepuscolo di Lycanroc sono ispirate ad un lupo, mentre la Forma Notte è ispirata ad un licantropo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lycanroc",
+    "shape": "quadrupede",
+    "specie": "Pokémon Lupo",
+    "sprites": {
+        "forma-giorno": {
+            "default": "https://media.pokemoncentral.it/wiki/3/33/Homem0745.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0745.png"
+        },
+        "forma-notte": {
+            "default": "https://media.pokemoncentral.it/wiki/2/29/Homem0745N.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d5/Homemsh0745N.png"
+        },
+        "forma-crepuscolo": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a8/Homem0745C.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/61/Homemsh0745C.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/97/Artwork0745_SL.png"
+    },
+    "stats": {
+        "forma-giorno": {
+            "hp": 75,
+            "atk": 115,
+            "def": 65,
+            "spa": 55,
+            "spd": 65,
+            "spe": 112
+        },
+        "forma-notte": {
+            "hp": 85,
+            "atk": 115,
+            "def": 75,
+            "spa": 55,
+            "spd": 75,
+            "spe": 82
+        },
+        "forma-crepuscolo": {
+            "hp": 75,
+            "atk": 117,
+            "def": 65,
+            "spa": 55,
+            "spd": 65,
+            "spe": 110
+        }
+    },
+    "stats_sum": {
+        "forma-giorno": 487,
+        "forma-notte": 487,
+        "forma-crepuscolo": 487
+    },
+    "types": {
+        "lycanroc": [
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "forma-giorno": "25.0 kg",
+        "forma-notte": "25.0 kg",
+        "forma-crepuscolo": "25.0 kg"
+    }
+}

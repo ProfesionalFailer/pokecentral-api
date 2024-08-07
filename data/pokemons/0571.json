@@ -1,0 +1,96 @@
+{
+    "abilities": {
+        "zoroark": {
+            "primary": "Illusione"
+        }
+    },
+    "curiosities": [
+        "La sagoma di Zoroark è stata la prima a essere mostrata da Junichi Masuda il 7 febbraio 2010 a Pokémon Sunday. La sua immagine completa fu mostrata nel mese di marzo dal manga CoroCoro insieme a quella della sua pre-evoluzione Zorua.",
+        "Grazie al suo debutto nel tredicesimo film prima del rilascio della quinta generazione, può essere paragonato a Lucario, che ha debuttato nell'ottavo film, prima del rilascio della quarta generazione. A differenza di Lucario, però, Zoroark è stato rivelato insieme alla sua pre-evoluzione.\n\tAppena fu rivelato, si pensava fosse un leggendario, cosi come era successo con Lucario.",
+        "Appena fu rivelato, si pensava fosse un leggendario, cosi come era successo con Lucario.",
+        "Nonostante si evolva da Zorua al livello 30, informazioni prima del rilascio di CoroCoro suggerivano un'evoluzione con un metodo diverso dal solito. Quale sarebbe stato questo metodo non si sa tutt'ora.",
+        "Zoroark di Hisui e Zorua di Hisui sono i primi Pokémon a presentare la combinazione di tipi Normale/Spettro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/zoroark.mp3",
+    "dex_entries": {
+        "zoroark": {
+            "black": "Protegge la sicurezza del gruppo ammaliando gli avversari. Dimostra forte solidarietà verso i compagni.",
+            "white": "Ha la capacità di trasformarsi in una folla di persone. Protegge la tana creando dei miraggi.",
+            "black-2": "Gira voce che quelli che osano cercare di catturarlo restano imprigionati dentro mondi di fantasia che lui stesso crea.",
+            "white-2": "Gira voce che quelli che osano cercare di catturarlo restano imprigionati dentro mondi di fantasia che lui stesso crea.",
+            "x": "Ha la capacità di trarre in inganno una folla di persone. Protegge la tana creando dei miraggi.",
+            "y": "Protegge la sicurezza del gruppo ammaliando gli avversari. Dimostra forte solidarietà verso i compagni.",
+            "omega-ruby": "Ha la capacità di trarre in inganno una folla di persone. Protegge la tana creando dei miraggi.",
+            "alpha-sapphire": "Protegge la sicurezza del gruppo ammaliando gli avversari. Dimostra forte solidarietà verso i compagni.",
+            "ultra-sun": "Oltre a essere in grado di trasformarsi in qualsiasi cosa, ha anche il potere di creare miraggi, traendo in inganno centinaia di persone.",
+            "ultra-moon": "Se un essere umano sta per scoprire la sua tana, crea dei miraggi per depistarlo, facendolo vagare nel bosco all'infinito.",
+            "sword": "Tiene molto ai suoi simili e protegge la tana e il branco creando miraggi spaventosi.",
+            "shield": "Gli Allenatori tristi e soli chiedono a Zoroark di mostrare loro dei miraggi che allevino la loro solitudine.",
+            "scarlet": "Gira voce che quelli che osano cercare di catturarlo restano imprigionati dentro mondi di fantasia che lui stesso crea.",
+            "violet": "Ha la capacità di trarre in inganno una folla di persone. Protegge la tana creando paesaggi illusori."
+        },
+        "forma-di-hisui": {
+            "legends-arceus": "Il vello candido e scarmigliato lo fa somigliare a una divinità mortifera. Il profondo astio ne dilania le membra, portandolo ad abbattersi sull’inimico pronto a condividerne l’amara sorte."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "zoroark",
+    "generation": 5,
+    "height": {
+        "zoroark": "1.6 m"
+    },
+    "id": 571,
+    "name": "Zoroark",
+    "name_origin": "Il nome di Zoroark deriva dallo spagnolo zorro, volpe, e dall'inglese dark, buio, oscuro, oppure dal giapponese 悪 aku, male, o ancora dal prefisso arch-, usato per indicare superiorità, predominio. ",
+    "origin": "Zoroark è probabilmente basato sulla kitsune del folklore giapponese, una volpe mutaforma. I disegni e i lineamenti facciali rimandano al trucco teatrale kabuki e nō, oppure al raro esemplare di volpe nera. Potrebbe anche essere basato sui lupi mannari, data la sua posizione eretta, il suo aspetto di canide antropomorfo, il suo essere notturno e i suoi artigli lunghi e acuminati. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zoroark",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Mutevolpe",
+    "sprites": {
+        "zoroark": {
+            "default": "https://media.pokemoncentral.it/wiki/9/91/Homem0571.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1a/Homemsh0571.png"
+        },
+        "forma-di-hisui": {
+            "default": "https://media.pokemoncentral.it/wiki/d/dd/Homem0571H.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2b/Homemsh0571H.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/03/Artwork0571_NB.png"
+    },
+    "stats": {
+        "zoroark": {
+            "hp": 60,
+            "atk": 105,
+            "def": 60,
+            "spa": 120,
+            "spd": 60,
+            "spe": 105
+        },
+        "forma-di-hisui": {
+            "hp": 60,
+            "atk": 100,
+            "def": 60,
+            "spa": 120,
+            "spd": 60,
+            "spe": 110
+        }
+    },
+    "stats_sum": {
+        "zoroark": 510,
+        "forma-di-hisui": 510
+    },
+    "types": {
+        "zoroark": [
+            "Buio"
+        ],
+        "forma-di-hisui": [
+            "Spettro",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "zoroark": "81.1 kg"
+    }
+}

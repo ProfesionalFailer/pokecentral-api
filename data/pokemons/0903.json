@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "sneasler": {
+            "primary": "Pressione",
+            "secondary": "Agiltecnica",
+            "hidden": "Velentocco"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di ottava generazione",
+        "Pokémon di tipo Lotta",
+        "Pokémon di tipo Veleno",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Blu",
+        "Pokémon dalla sagoma n. 06",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 510",
+        "Pokémon con evoluzioni trans-generazionali"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sneasler.mp3",
+    "dex_entries": {
+        "sneasler": {
+            "legends-arceus": "Nei frigidi altipiani non ha pari grazie al veleno che produce e a capacità fisiche che nessun'altra specie può eguagliare. Non vive in branco e ben sopporta la solitudine."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "sneasler",
+    "generation": 8,
+    "height": {
+        "sneasler": "1.8 m"
+    },
+    "id": 903,
+    "name": "Sneasler",
+    "name_origin": "Sneasler potrebbe essere una combinazione di Sneasel e wrestler. Oonyura potrebbe essere una combinazione di 大 ō, grande, o 大入道 ōnyūdō, e Nyula. ",
+    "origin": "Come la sua preevoluzione, Sneasler potrebbe essere basata su un kamaitachi, uno yōkai a forma di donnola con artigli sulle zampe anteriori. L'aspetto umanoide e il tipo Veleno potrebbero anche essere basati su un altro yōkai, l'ōnyūdō, descritto con l'aspetto di un monaco che fa ammalare chiunque lo veda. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sneasler",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Scalata",
+    "sprites": {
+        "sneasler": {
+            "default": "https://media.pokemoncentral.it/wiki/7/76/Homem0903.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b0/Homemsh0903.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4c/Artwork0903_LPA.png"
+    },
+    "stats": {
+        "sneasler": {
+            "hp": 80,
+            "atk": 130,
+            "def": 60,
+            "spa": 40,
+            "spd": 80,
+            "spe": 120
+        }
+    },
+    "stats_sum": {
+        "sneasler": 510
+    },
+    "types": {
+        "sneasler": [
+            "Veleno",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "sneasler": "95.1 kg"
+    }
+}

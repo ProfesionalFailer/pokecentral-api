@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "pyroar": {
+            "primary": "Antagonismo",
+            "secondary": "Agitazione",
+            "hidden": "Arroganza"
+        }
+    },
+    "curiosities": [
+        "È stato rivelato grazie a un'immagine del sito IGN.",
+        "Pyroar è il secondo Pokémon il cui nome è stato svelato prima in inglese e poi in giapponese.\n\tI primi sono stati Xerneas e Yveltal.",
+        "I primi sono stati Xerneas e Yveltal.",
+        "Le zone gialle della sua criniera formano il Kanji 火.\n\tInoltre questo Kanji è lo stesso della mossa Fuocobomba.",
+        "Inoltre questo Kanji è lo stesso della mossa Fuocobomba.",
+        "In sesta generazione è il primo Pokémon a presentare differenze fra sessi.",
+        "Pyroar condivide la categoria con Slowking. Sono entrambi noti come Pokémon Reale.",
+        "Pyroar e la sua pre-evoluzione Litleo sono gli unici Pokémon ad avere la distribuzione del sesso di sette femmine per ogni maschio.",
+        "La sua catena evolutiva è l'unica a possedere la combinazione di tipo Fuoco/Normale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pyroar.mp3",
+    "dex_entries": {
+        "pyroar": {
+            "x": "Di solito, il maschio con la criniera fiammeggiante più ampia guida i compagni del gruppo.",
+            "y": "Minaccia furiosamente i nemici soffiando aria a una temperatura che raggiunge i 6000°C. Le femmine proteggono i piccoli del gruppo.",
+            "omega-ruby": "Di solito, il maschio con la criniera fiammeggiante più ampia guida i compagni del gruppo.",
+            "alpha-sapphire": "Minaccia furiosamente i nemici soffiando aria a una temperatura che raggiunge i 6000°C. Le femmine proteggono i piccoli del gruppo.",
+            "ultra-sun": "Di solito il maschio passa le giornate nell’ozio, ma se compare un nemico temibile è pronto a rischiare la vita per proteggere i compagni.",
+            "ultra-moon": "Con il suo soffio, infiamma l’aria a una temperatura di 6.000 °C, ma evita di farlo con le prede perché preferisce la carne cruda.",
+            "scarlet": "Le femmine collaborano per procacciare il cibo e grazie a loro il branco non patisce la fame.",
+            "violet": "Durante la lotta, la criniera dei maschi si scalda fino a raggiungere i 2.000 °C. Basta avvicinarsi a questo Pokémon per subire gravi scottature."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "pyroar",
+    "generation": 6,
+    "height": {
+        "pyroar": "1.5 m"
+    },
+    "id": 668,
+    "name": "Pyroar",
+    "name_origin": "Pyroar è una combinazione tra pyro  e roar . ",
+    "origin": "Pyroar è basato su un leone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pyroar",
+    "shape": "quadrupede",
+    "specie": "Pokémon Reale",
+    "sprites": {
+        "pyroar": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5e/Homem0668.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0668.png"
+        },
+        "pyroar-f": {
+            "default": "https://media.pokemoncentral.it/wiki/7/74/Homef0668.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homefsh0668.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7d/Artwork0668_XY.png"
+    },
+    "stats": {
+        "pyroar": {
+            "hp": 86,
+            "atk": 68,
+            "def": 72,
+            "spa": 109,
+            "spd": 66,
+            "spe": 106
+        }
+    },
+    "stats_sum": {
+        "pyroar": 507
+    },
+    "types": {
+        "pyroar": [
+            "Fuoco",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "pyroar": "81.5 kg"
+    }
+}

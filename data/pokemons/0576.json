@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "gothitelle": {
+            "primary": "Indagine",
+            "secondary": "Tenacia",
+            "hidden": "Pedinombra"
+        }
+    },
+    "curiosities": [
+        "Gothitelle può essere visto come un parallelo di Reuniclus: sono entrambi Pokémon di tipo Psico di quinta generazione, entrambi si evolvono dalle loro prime forme evolute al livello 41. Gothitelle è esclusivo di Pokémon Nero, mentre Reuniclus di Bianco."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gothitelle.mp3",
+    "dex_entries": {
+        "gothitelle": {
+            "black": "I suoi forti poteri psichici modificano lo spazio circostante rendendo visibili galassie lontane milioni di anni luce.",
+            "white": "Prevede il futuro dalla posizione e dal movimento delle stelle. Conosce anche la durata della vita dell'Allenatore.",
+            "black-2": "Legge il futuro nei moti delle stelle. Quando scopre la durata della vita del suo Allenatore, si abbandona al pianto.",
+            "white-2": "Legge il futuro nei moti delle stelle. Quando scopre la durata della vita del suo Allenatore, si abbandona al pianto.",
+            "x": "I suoi forti poteri psichici modificano lo spazio circostante rendendo visibili galassie lontane milioni di anni luce.",
+            "y": "Prevede il futuro dalla posizione e dal movimento delle stelle. Conosce anche la durata della vita dell'Allenatore.",
+            "omega-ruby": "I suoi forti poteri psichici modificano lo spazio circostante rendendo visibili galassie lontane milioni di anni luce.",
+            "alpha-sapphire": "Prevede il futuro dalla posizione e dal movimento delle stelle. Conosce anche la durata della vita dell'Allenatore.",
+            "sword": "Prevede il futuro osservando i moti delle stelle. Possiede terrificanti poteri psichici, ma per natura non ama le ostilità.",
+            "shield": "Pare che un malfattore non si sia più fatto vedere dopo che Gothitelle gli aveva rivelato i suoi ultimi momenti.",
+            "scarlet": "Quando libera i propri poteri psichici può far sognare all’avversario la fine dell’universo. Sembra siano sogni effimeri e meravigliosi.",
+            "violet": "Prevede il futuro osservando le stelle. Se ha un atteggiamento vagamente distaccato, è perché conosce la fine di ogni cosa."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "gothitelle",
+    "generation": 5,
+    "height": {
+        "gothitelle": "1.5 m"
+    },
+    "id": 576,
+    "name": "Gothitelle",
+    "name_origin": "Gothitelle potrebbe derivare dall'unione di ghotic  e dal francese mademoiselle . ",
+    "origin": "Gothitelle sembra essere basato su una rappresentazione stilizzata di una giovane donna che veste abiti stile Gothic Lolita. Potrebbe anche ispirarsi al corpo astrale o a una chiromante. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gothitelle",
+    "shape": "bipedi",
+    "specie": "Pokémon Corpoceleste",
+    "sprites": {
+        "gothitelle": {
+            "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0576.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5f/Homemsh0576.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/91/Artwork0576_NB.png"
+    },
+    "stats": {
+        "gothitelle": {
+            "hp": 70,
+            "atk": 55,
+            "def": 95,
+            "spa": 95,
+            "spd": 110,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "gothitelle": 490
+    },
+    "types": {
+        "gothitelle": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "gothitelle": "44 kg"
+    }
+}

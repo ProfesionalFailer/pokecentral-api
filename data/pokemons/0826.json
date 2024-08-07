@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "orbeetle": {
+            "primary": "Aiutinsetto",
+            "secondary": "Indagine",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Orbeetle e la sua pre-evoluzione Dottler sono i primi Pokémon a presentare la combinazione di tipi Coleottero/Psico.",
+        "Insieme a Corviknight Gigamax, Orbeetle Gigamax è la forma Gigamax più bassa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/orbeetle.mp3",
+    "dex_entries": {
+        "orbeetle": {
+            "sword": "Questo Pokémon è famoso per la sua intelligenza. Il cervello molto sviluppato è una spia dei suoi fenomenali poteri psichici.",
+            "shield": "Grazie ai suoi poteri psichici è in grado di tenere sotto controllo la situazione in un'area di ben 10 km attorno a lui."
+        },
+        "orbeetle-gigamax": {
+            "sword": "Il suo cervello si è ingigantito, dotandolo di facoltà mentali impressionanti e di un'enorme energia psichica.",
+            "shield": "Usando appieno i suoi poteri, è in grado di controllare la mente di chiunque abbia intorno."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "orbeetle",
+    "generation": 8,
+    "height": {
+        "orbeetle": "0.4 m",
+        "orbeetle-gigamax": "> 14.0 m"
+    },
+    "id": 826,
+    "name": "Orbeetle",
+    "name_origin": "Orbeetle potrebbe essere una combinazione di orb, sfera, orbit, orbita, orbital, orbitale, e lady beetle, signora scarabeo. Eolb potrebbe essere una combinazione di Io e orb, sfera. ",
+    "origin": "Orbeetle potrebbe essere basato su una coccinella, in particolar modo alla coccinella septempunctata, o su un robot cartoonesco creato da uno scienziato pazzo. Potrebbe essere ispirato anche sull'ipnosi e sul controllo mentale. In aggiunta, il suo intelletto di alto livello, il suo cervello molto sviluppato e la sua natura da osservatore potrebbero essere un riferimento dello stereotipo dei supercriminali, il cui obiettivo è spesso quello di ottenere il dominio del mondo attraverso il controllo della mente. Orbeetle Gigamax potrebbe essere basato su un UFO. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Orbeetle",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Settepunti",
+    "sprites": {
+        "orbeetle": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0826.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/44/Homemsh0826.png"
+        },
+        "orbeetle-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0826Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d6/Homemsh0826Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/93/Artwork0826_SpSc.png"
+    },
+    "stats": {
+        "orbeetle": {
+            "hp": 60,
+            "atk": 45,
+            "def": 110,
+            "spa": 80,
+            "spd": 120,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "orbeetle": 505
+    },
+    "types": {
+        "orbeetle": [
+            "Psico",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "orbeetle": "40.8 kg",
+        "orbeetle-gigamax": "???.? kg"
+    }
+}

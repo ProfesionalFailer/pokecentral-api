@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "alakazam": {
+            "primary": "Sincronismo",
+            "secondary": "Forza Interiore",
+            "hidden": "Magicscudo"
+        },
+        "megaalakazam": {
+            "primary": "Traccia"
+        }
+    },
+    "curiosities": [
+        "Alakazam pesa meno della sua pre-evoluzione Kadabra. Condivide questo fatto con Porygon2, Bellossom, Venomoth, Salamence, Shedinja e Gliscor.",
+        "Sebbene non possieda una coda, Alakazam può apprendere la mossa Codacciaio, probabilmente per il fatto che le sue pre-evoluzioni hanno la coda.",
+        "Nonostante si dica che abbia muscoli deboli , lo si è visto usare attacchi fisici, come i pugni, molte volte nell'anime e di solito con grandi effetti.",
+        "Alakazam può essere visto come una controparte di Machamp. Sono entrambi l'ultimo stadio di una famiglia evolutiva di tre elementi, entrambi raggiungono il loro stadio finale tramite scambio ed entrambi hanno una percentuale di esemplari maschi del 75%. Inoltre, Alakazam eccelle in Attacco Speciale, mentre Machamp eccelle in Attacco.",
+        "Alakazam e le sue pre-evoluzioni sono in tutti i Pokédex regionali.",
+        "Alakazam e le sue pre-evoluzioni hanno tutte per nome una parola magica."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/alakazam.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "alakazam",
+    "generation": 1,
+    "height": {
+        "alakazam": "1.5 m",
+        "megaalakazam": "1.2 m"
+    },
+    "id": 65,
+    "name": "Alakazam",
+    "name_origin": "Il nome di Alakazam è parte di una formula magica usata per effettuare incantesimi, simile ad Abracadabra. Il suo nome giapponese può essere pronunciato Houdin ed è probabilmente riferito a Jean Eugène Robert-Houdin e Harry Houdini, entrambi famosi illusionisti. ",
+    "origin": "I cucchiai di Alakazam sono un riferimento a Uri Geller, che affermò di possedere l'abilità di piegare i cucchiai con la sua mente. Come Abra e Kadabra, Alakazam condivide tratti somatici con capre e volpi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Alakazam",
+    "shape": "bipedi",
+    "specie": "Pokémon Psico",
+    "sprites": {
+        "alakazam": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ef/Homem0065.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6c/Homemsh0065.png"
+        },
+        "alakazam-f": {
+            "default": "https://media.pokemoncentral.it/wiki/9/92/Homef0065.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/de/Homefsh0065.png"
+        },
+        "megaalakazam": {
+            "default": "https://media.pokemoncentral.it/wiki/7/77/Homem0065M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0065M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f9/Artwork0065_RFVF.png"
+    },
+    "stats": {
+        "alakazam": {
+            "hp": 55,
+            "atk": 50,
+            "def": 45,
+            "spa": 135,
+            "spd": 95,
+            "spe": 120
+        },
+        "megaalakazam": {
+            "hp": 55,
+            "atk": 50,
+            "def": 65,
+            "spa": 175,
+            "spd": 105,
+            "spe": 150
+        }
+    },
+    "stats_sum": {
+        "alakazam": 500,
+        "megaalakazam": 600
+    },
+    "types": {
+        "alakazam": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "alakazam": "48.0 kg"
+    }
+}

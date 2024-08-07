@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "quaxwell": {
+            "primary": "Acquaiuto",
+            "hidden": "Arroganza"
+        }
+    },
+    "curiosities": [
+        "Quaxwell di Dot"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/quaxwell.mp3",
+    "dex_entries": {
+        "quaxwell": {
+            "scarlet": "Corre senza sosta in acque poco profonde per allenare gli arti inferiori così da fare a gara con i propri simili a chi ha le movenze più eleganti.",
+            "violet": "Estremamente diligente, osserva le movenze di esseri umani e Pokémon di altre regioni per incorporarle nelle proprie danze."
+        }
+    },
+    "egg_groups": [
+        "Volante",
+        "Acqua 1"
+    ],
+    "flat_name": "quaxwell",
+    "generation": 9,
+    "height": {
+        "quaxwell": "1.2 m"
+    },
+    "id": 913,
+    "name": "Quaxwell",
+    "name_origin": "Quaxwell potrebbe derivare da quack  aqua, acqua, wax , e well  ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Quaxwell",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Esercizio",
+    "sprites": {
+        "quaxwell": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6b/Homem0913.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8b/Homemsh0913.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2c/Artwork0913_SV.png"
+    },
+    "stats": {
+        "quaxwell": {
+            "hp": 70,
+            "atk": 85,
+            "def": 65,
+            "spa": 65,
+            "spd": 60,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "quaxwell": 410
+    },
+    "types": {
+        "quaxwell": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "quaxwell": "21.5 kg"
+    }
+}

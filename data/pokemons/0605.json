@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "elgyem": {
+            "primary": "Telepatia",
+            "secondary": "Sincronismo",
+            "hidden": "Ponderazione"
+        }
+    },
+    "curiosities": [
+        "Elgyem è l'unico Pokémon che può imparare Teletrasporto attraverso l'accoppiamento.",
+        "Elgyem e la sua evoluzione sono gli unici Pokémon che possono avere come abilità non nascosta Telepatia."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/elgyem.mp3",
+    "dex_entries": {
+        "elgyem": {
+            "black": "Con i suoi incredibili poteri psichici comprime il cervello dei suoi nemici provocando loro fortissime emicranie.",
+            "white": "È apparso all'improvviso 50 anni fa nei pressi di un deserto. Fino ad allora, nessuno l'aveva mai avvistato.",
+            "black-2": "Si dice che sia arrivato 50 anni fa da un deserto da cui sembra si sia schiantato un UFO.",
+            "white-2": "Si dice che sia arrivato 50 anni fa da un deserto da cui sembra si sia schiantato un UFO.",
+            "x": "Con i suoi incredibili poteri psichici comprime il cervello dei suoi nemici provocando loro fortissime emicranie.",
+            "y": "Si dice che sia arrivato 50 anni fa da un deserto da cui sembra si sia schiantato un UFO.",
+            "omega-ruby": "Con i suoi incredibili poteri psichici comprime il cervello dei suoi nemici provocando loro fortissime emicranie.",
+            "alpha-sapphire": "Si dice che sia arrivato 50 anni fa da un deserto in cui sembra si sia schiantato un UFO.",
+            "ultra-sun": "I suoi poteri psichici sono straordinari. Quando qualcuno dichiara di aver visto un alieno, nella maggior parte dei casi si tratta di un Elgyem.",
+            "ultra-moon": "È un Pokémon dai molti misteri. Si dice che provenga da un UFO schiantatosi 50 anni fa.",
+            "sword": "Quando si trova vicino a un televisore, sullo schermo appaiono paesaggi singolari. Si dice che siano vedute del luogo da cui proviene.",
+            "shield": "È stato scoperto circa 50 anni fa. Il suo cervello molto sviluppato gli permette di usare poteri psichici."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "elgyem",
+    "generation": 5,
+    "height": {
+        "elgyem": "0.5 m"
+    },
+    "id": 605,
+    "name": "Elgyem",
+    "name_origin": "Elgyem è una corruzione della sigla LGM , un termine comunemente usato per riferirsi a extraterrestri. ",
+    "origin": "Elgyem è molto probabilmente basato sui grigi o sugli omini verdi, due dei tipi più popolari di alieno, e su un cervello. Il suo aspetto ricorda una roccia, e potrebbe alludere ai cerchi di pietre, luoghi legati a leggende aliene. I punti colorati sulle sue mani possono trarre ispirazione dagli invasori alieni del film \"La guerra dei mondi\". Potrebbero essere ispirate inoltre all'Area 51 o all'incidente di Roswell. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Elgyem",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Cervello",
+    "sprites": {
+        "elgyem": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1c/Homem0605.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0605.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/af/Artwork0605_NB.png"
+    },
+    "stats": {
+        "elgyem": {
+            "hp": 55,
+            "atk": 55,
+            "def": 55,
+            "spa": 85,
+            "spd": 55,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "elgyem": 335
+    },
+    "types": {
+        "elgyem": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "elgyem": "9.0 kg"
+    }
+}

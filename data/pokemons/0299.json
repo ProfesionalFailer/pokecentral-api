@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "nosepass": {
+            "primary": "Vigore",
+            "secondary": "Magnetismo",
+            "hidden": "Silicoforza"
+        }
+    },
+    "curiosities": [
+        "Nosepass è l'unico Pokémon con un totale di statistiche base di 375.\n\tÈ anche l'unico Pokémon che può avere Magnetismo come abilità pur non essendo di tipo Elettro o Acciaio.\n\tÈ anche l'unico Pokémon non di tipo Elettro che si evolve tramite Pietratuono, senza però mai ottenere il tipo Elettro.",
+        "È anche l'unico Pokémon che può avere Magnetismo come abilità pur non essendo di tipo Elettro o Acciaio.",
+        "È anche l'unico Pokémon non di tipo Elettro che si evolve tramite Pietratuono, senza però mai ottenere il tipo Elettro.",
+        "In Pokémon Oro HeartGold e Argento SoulSilver, Nosepass è programmato per poter apprendere Zuccata attraverso l'accoppiamento, ma nessun altro Pokémon nel Gruppo Uova Minerale può legittimamente apprenderla per trasmetterlo come mossa Uovo in questi giochi. È stata rimossa dall'elenco delle mosse Uovo di Nosepass in quinta generazione, ma nei giochi più recenti alcuni Pokémon del Gruppo Uova Minerale riescono a trasmetterla.",
+        "A causa della censura che impedisce ai Pokémon con soprannomi offensivi di essere scambiati sul GTS, un Nosepass in lingua inglese non può essere scambiato sul GTS senza un soprannome in Pokémon Nero e Bianco.",
+        "Quando i Nosepass selvatici appaiono come incontri visibili, se non vengono disturbati sono sempre rivolti verso nord.\n\tQuesto comportamento è apparso per la prima volta in Pokémon GO, in cui il suo modello sarà sempre rivolto a nord quando visualizzato sulla mappa del mondo esterno. Normalmente, quando un giocatore entra ed esce da un incontro con un Pokémon selvatico, il modello di quel Pokémon si girerà di fronte al giocatore; tuttavia, nel caso di Nosepass, tornerà a guardare verso nord dopo pochi secondi.",
+        "Questo comportamento è apparso per la prima volta in Pokémon GO, in cui il suo modello sarà sempre rivolto a nord quando visualizzato sulla mappa del mondo esterno. Normalmente, quando un giocatore entra ed esce da un incontro con un Pokémon selvatico, il modello di quel Pokémon si girerà di fronte al giocatore; tuttavia, nel caso di Nosepass, tornerà a guardare verso nord dopo pochi secondi.",
+        "A differenza di Magneton, che si evolve anch'esso in un campo magnetico speciale, Nosepass non può evolversi utilizzando una Pietratuono in Pokémon Diamante Lucente e Perla Splendente, molto probabilmente perché non è presente in Pokémon Spada e Scudo.\n\tPuò farlo, tuttavia, da Leggende Pokémon: Arceus in poi, rendendolo l'unico Pokémon che non si evolve in un tipo Elettro dopo aver usato la Pietratuono.",
+        "Può farlo, tuttavia, da Leggende Pokémon: Arceus in poi, rendendolo l'unico Pokémon che non si evolve in un tipo Elettro dopo aver usato la Pietratuono.",
+        "Escludendo i Pokémon leggendari e misteriosi che ottengono il tipo Acciaio tramite strumenti o abilità, e Mew, che può imparare tutte le MT, Nosepass è l'unico Pokémon non di tipo Acciaio che può imparare Raggio d'Acciaio."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/nosepass.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "nosepass",
+    "generation": 3,
+    "height": {
+        "nosepass": "1.0 m"
+    },
+    "id": 299,
+    "name": "Nosepass",
+    "name_origin": "Nosepass potrebbe essere la combinazione delle parole \"nose\", naso, e \"compass\", bussola. ",
+    "origin": "Nosepass sembra essere basato sui Moai dell'Isola di Pasqua e su una bussola, dato il suo naso rosso somigliante all'ago di questa e il fatto che guardi sempre verso nord. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Nosepass",
+    "shape": "bipedi",
+    "specie": "Pokémon Bussola",
+    "sprites": {
+        "nosepass": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a4/Homem0299.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/19/Homemsh0299.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c4/Artwork0299_RZ.png"
+    },
+    "stats": {
+        "nosepass": {
+            "hp": 30,
+            "atk": 45,
+            "def": 135,
+            "spa": 45,
+            "spd": 90,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "nosepass": 375
+    },
+    "types": {
+        "nosepass": [
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "nosepass": "97.0 kg"
+    }
+}

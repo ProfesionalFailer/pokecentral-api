@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "nymble": {
+            "primary": "Aiutinsetto",
+            "hidden": "Lentifumé"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Coleottero",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Grigio",
+        "Pokémon dalla sagoma n. 14",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Coleottero",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 210"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/nymble.mp3",
+    "dex_entries": {
+        "nymble": {
+            "scarlet": "Di solito tiene ripiegato su di sé un terzo paio di zampe, la cui potenza gli permette di spiccare salti di oltre 10 metri nei momenti di pericolo.",
+            "violet": "È molto abile nello sfruttare le proprie capacità di salto per schivare gli attacchi avversari e infliggere danni allo stesso tempo."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "nymble",
+    "generation": 9,
+    "height": {
+        "nymble": "0.2 m"
+    },
+    "id": 919,
+    "name": "Nymble",
+    "name_origin": "Nymble potrebbe essere una combinazione di nimble  e nymph . Mamebatta potrebbe essere una combinazione di 豆 mame  e 飛蝗 batta . ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Nymble",
+    "shape": "insettoide",
+    "specie": "Pokémon Cavalletta",
+    "sprites": {
+        "nymble": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ee/Homem0919.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0919.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0e/Artwork0919_SV.png"
+    },
+    "stats": {
+        "nymble": {
+            "hp": 33,
+            "atk": 46,
+            "def": 40,
+            "spa": 21,
+            "spd": 25,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "nymble": 210
+    },
+    "types": {
+        "nymble": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "nymble": "1.0 kg"
+    }
+}

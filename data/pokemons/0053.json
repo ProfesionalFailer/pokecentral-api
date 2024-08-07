@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "persian": {
+            "primary": "Scioltezza",
+            "secondary": "Tecnico",
+            "hidden": "Agitazione"
+        },
+        "forma-di-alola": {
+            "primary": "Foltopelo",
+            "secondary": "Tecnico",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Dalla prima alla terza generazione, Persian imparava Giornopaga salendo di livello come la sua pre-evoluzione Meowth, ma dalla quarta generazione ciò non avviene.",
+        "Lo sprite di Pokémon Cristallo di Persian da fermo è diverso da quello di Pokémon Oro e Argento, rendendolo uno dei pochi Pokémon ad avere tre diversi sprite in seconda generazione.",
+        "Il numero di Persian nel Pokédex Nazionale e nel Pokédex di Alola in Pokémon Ultrasole e Ultraluna è lo stesso: 053."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/persian.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "persian",
+    "generation": 1,
+    "height": {
+        "persian": "1.0 m",
+        "forma-di-alola": "1.1 m"
+    },
+    "id": 53,
+    "name": "Persian",
+    "name_origin": "Persian si riferisce ai gatti persiani. Potrebbe anche riferirsi a \"purr\", un suono che emettono i gatti durante le fusa. ",
+    "origin": "La sua fisionomia è evidentemente più simile a quella dei gatti siamesi piuttosto che dei gatti persiani, e la sua specie giapponese è シャムネコ o \"shamuneko\" che significa \"Gatto siamese\". È anche simile ai grandi felini come i puma. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Persian",
+    "shape": "quadrupede",
+    "specie": "Pokémon Nobilgatto",
+    "sprites": {
+        "persian": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0d/Homem0053.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0053.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ac/Homem0053A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0053A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c6/Artwork0053_RFVF.png"
+    },
+    "stats": {
+        "persian": {
+            "hp": 65,
+            "atk": 70,
+            "def": 60,
+            "spa": 65,
+            "spd": 65,
+            "spe": 115
+        },
+        "forma-di-alola": {
+            "hp": 65,
+            "atk": 60,
+            "def": 60,
+            "spa": 75,
+            "spd": 65,
+            "spe": 115
+        }
+    },
+    "stats_sum": {
+        "persian": 440,
+        "forma-di-alola": 440
+    },
+    "types": {
+        "persian": [
+            "Normale"
+        ],
+        "forma-di-alola": [
+            "Buio"
+        ]
+    },
+    "weight": {
+        "persian": "32.0 kg",
+        "forma-di-alola": "33.0 kg"
+    }
+}

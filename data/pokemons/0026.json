@@ -1,0 +1,93 @@
+{
+    "abilities": {
+        "raichu": {
+            "primary": "Statico",
+            "hidden": "Parafulmine"
+        },
+        "forma-di-alola": {
+            "primary": "Codasurf"
+        }
+    },
+    "curiosities": [
+        "Pikachu e Raichu condividono la loro categoria con Rattata, Raticate, Sandshrew, Sandslash, Pawmi e Pawmo. Tutti e otto sono noti come Pokémon Topo.",
+        "In Pokémon Rosso e Blu, c'è un Scienziato, nel Laboratorio dell'Isola Cannella, che scambia un Raichu per un Electrode; se il giocatore parla con lui dopo lo scambio lo Scienziato dice che il suo Raichu si è evoluto, il che non è possibile. Questo errore, non presente nei giochi italiani, è dovuto alla traduzione basata sul gioco giapponese in cui questo personaggio non giocabile scambia un Graveler per un Kadabra.",
+        "Sebbene Pikachu sia il Pokémon iniziale di Pokémon Giallo, il Pokémon si rifiuta di evolversi in Raichu, a meno che non venga scambiato ed evoluto in un altro file di salvataggio. Questa impossibilità di evolvere il Pikachu iniziale è ispirata al Pikachu di Ash dell'anime.",
+        "Raichu di Alola è il primo Pokémon a presentare la combinazione di tipi Elettro/Psico.",
+        "Raichu di Alola è l'unica forma regionale ad avere una mossa Z specifica.",
+        "Raichu è il numero 26 sia nel Pokédex Nazionale che nel Pokédex di Sole e Luna.",
+        "Diverse voci del Pokédex dichiarano che Raichu è in grado di scaricare fino a 100.000 volt. Tuttavia, la voce di Pokémon Stadium dice che può scaricare solo fino a 10.000 volt. Questo è probabilmente un errore di traduzione a causa del modo in cui numeri vengono letti in giapponese, in cui 100.000 si dice letteralmente \"dieci a dieci migliaia\".",
+        "Raichu appare in tutti i Pokédex regionali, eccetto quello di Unima.",
+        "La voce del Pokédex di Rosso Fuoco potrebbe essere un riferimento al film documentario Electrocuting an Elephant di Thomas Edison.",
+        "Raichu di Alola è stato realizzato da Atsuko Nishida.",
+        "Originariamente, Raichu aveva un'evoluzione chiamata \"Gorochu\" con zanne e corna. Ken Sugimori ha dichiarato che, sebbene non ci fosse nulla di sbagliato nel suo aspetto, è stato comunque scartato perché il bilanciamento del gioco era migliore senza di lui."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/raichu.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo",
+        "Magico"
+    ],
+    "flat_name": "raichu",
+    "generation": 1,
+    "height": {
+        "raichu": "0.8 m",
+        "forma-di-alola": "0.7 m"
+    },
+    "id": 26,
+    "name": "Raichu",
+    "name_origin": "Raichu potrebbe essere una combinazione di 雷 rai, tuono, e チューチュー chūchū, il suono dello squittio. Il soprannome di Raichu di Alola, il surfista di terra, potrebbe essere un riferimento al termine hodad. ",
+    "origin": "Le zampe e la coda di Raichu ricordano quelle di uno jerboa o di un ratto canguro. Raichu di Alola potrebbe essere basato sul concetto di Pikachu Surf e sullo stesso sport del surf, originario delle Hawaii, la regione che ha ispirato la creazione di Alola. Il suo aspetto, inoltre, sembra essere influenzato da Puka, un Pikachu Surf apparso nell'anime. Nella serie Pokémon Stadium, Raichu cavalca la sua coda quando usa Surf. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Raichu",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Topo",
+    "sprites": {
+        "raichu": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c1/Homem0026.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0026.png"
+        },
+        "raichu-f": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c2/Homef0026.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homefsh0026.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/0/01/Homem0026A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/53/Homemsh0026A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f3/Artwork0026_RFVF.png"
+    },
+    "stats": {
+        "raichu": {
+            "hp": 60,
+            "atk": 90,
+            "def": 55,
+            "spa": 90,
+            "spd": 80,
+            "spe": 110
+        },
+        "forma-di-alola": {
+            "hp": 60,
+            "atk": 85,
+            "def": 50,
+            "spa": 95,
+            "spd": 85,
+            "spe": 110
+        }
+    },
+    "stats_sum": {
+        "raichu": 485,
+        "forma-di-alola": 485
+    },
+    "types": {
+        "raichu": [
+            "Elettro"
+        ],
+        "forma-di-alola": [
+            "Psico",
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "raichu": "30.0 kg",
+        "forma-di-alola": "21.0 kg"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "bonsly": {
+            "primary": "Vigore",
+            "secondary": "Testadura",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Bonsly, insieme a Feebas e a Shuckle è il Pokémon con il più basso Attacco Speciale.",
+        "Bonsly è l'unico Pokémon Baby di tipo Roccia.",
+        "Nonostante sia un Pokémon di quarta generazione, fa alcune apparizioni anche prima della pubblicazione ufficiale di Pokémon Diamante e Perla. Esempio è il Bonsly in Pokémon XD: Tempesta Oscura, visibile prima sulla M/N Libra, poi alla sede dell' ONBS.",
+        "Il nome inglese di Bonsly venne rivelato il 16 giugno 2005."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bonsly.mp3",
+    "dex_entries": {
+        "bonsly": {
+            "diamond": "Sembra che pianga tutto il tempo. In realtà regola il livello dei fluidi del corpo eliminando gli eccessi.",
+            "pearl": "Preferisce le terre aride. Rilascia acqua dagli occhi per regolare il livello dei suoi fluidi corporei.",
+            "platinum": "Ama i luoghi aridi. Quando regola l'umidità del corpo sembra che pianga.",
+            "heartgold": "Sembra che pianga tutto il tempo. In realtà regola il livello dei fluidi del corpo eliminandone gli eccessi.",
+            "soulsilver": "Sembra che pianga tutto il tempo. In realtà regola il livello dei fluidi del corpo eliminandone gli eccessi.",
+            "black": "Ama i luoghi aridi. Quando regola l'umidità del corpo sembra che pianga.",
+            "white": "Ama i luoghi aridi. Quando regola l'umidità del corpo sembra che pianga.",
+            "black-2": "Ama i luoghi aridi. Quando regola l'umidità del corpo sembra che pianga.",
+            "white-2": "Ama i luoghi aridi. Quando regola l'umidità del corpo sembra che pianga.",
+            "x": "Preferisce le terre aride. Rilascia acqua dagli occhi per regolare il livello dei suoi fluidi corporei.",
+            "y": "Ama i luoghi aridi. Quando regola l'umidità del corpo sembra che pianga.",
+            "omega-ruby": "Preferisce le terre aride. Rilascia acqua dagli occhi per regolare il livello dei suoi fluidi corporei.",
+            "alpha-sapphire": "Ama i luoghi aridi. Quando regola l'umidità del corpo sembra che pianga.",
+            "sun": "Non ama l'acqua e preferisce vivere in ambienti aridi. Data la mancanza di vegetazione in questi luoghi, individuarlo è molto facile.",
+            "moon": "Espelle dagli occhi l'umidità corporea in eccesso. Si tratta di un fenomeno fisiologico simile alla sudorazione.",
+            "ultra-sun": "Espelle l'umidità dagli occhi dando l'impressione che stia piangendo. I nemici che assistono a questo fenomeno abbassano la guardia.",
+            "ultra-moon": "Se il suo corpo è troppo umido, la sua vita è in pericolo. Per questo espelle dagli occhi l'umidità corporea come se fosse sudore.",
+            "sword": "Dagli occhi espelle sudore e lacrime. Il primo ha un gusto lievemente salato, le seconde sono leggermente amare.",
+            "shield": "Vive in ambienti aridi e pietrosi. Quando sono secche, le sue sfere verdi emettono un fioco bagliore.",
+            "brilliant-diamond": "Sembra che pianga tutto il tempo, ma in realtà sta solo regolando il livello dei suoi fluidi corporei eliminando gli eccessi.",
+            "shining-pearl": "Preferisce le terre aride. Rilascia acqua dagli occhi per regolare il livello dei suoi fluidi corporei.",
+            "legends-arceus": "Le sue lagrime ingannevoli muovono a pietà l'osservatore. In verità, sgorgano per un processo fisiologico atto a secernere i fluidi in eccedenza.",
+            "scarlet": "Regola il livello dei fluidi corporei espellendo quelli in eccesso dagli occhi. Per questo sembra che stia sempre piangendo.",
+            "violet": "Espelle dagli occhi l’umidità corporea in eccesso sotto forma di un liquido dalla composizione chimica simile a quella del sudore umano."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "bonsly",
+    "generation": 4,
+    "height": {
+        "bonsly": "0.5 m"
+    },
+    "id": 438,
+    "name": "Bonsly",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi bonsai e sly  o lie . ",
+    "origin": "È basato su un bonsai. Potrebbe anche ispirarsi alle foreste fossili. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bonsly",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Bonsai",
+    "sprites": {
+        "bonsly": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b2/Homem0438.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homemsh0438.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f1/Artwork0438_DP.png"
+    },
+    "stats": {
+        "bonsly": {
+            "hp": 50,
+            "atk": 80,
+            "def": 95,
+            "spa": 10,
+            "spd": 45,
+            "spe": 10
+        }
+    },
+    "stats_sum": {
+        "bonsly": 290
+    },
+    "types": {
+        "bonsly": [
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "bonsly": "15.0 kg"
+    }
+}

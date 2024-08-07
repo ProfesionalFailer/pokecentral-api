@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "vanillish": {
+            "primary": "Corpogelo",
+            "secondary": "Mantelneve",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Articoli incompleti",
+        "Pokémon",
+        "Pokémon di quinta generazione",
+        "Pokémon di tipo Ghiaccio",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Lento",
+        "Pokémon di colore Bianco",
+        "Pokémon dalla sagoma n. 05",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Minerale",
+        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
+        "Pokémon con statistiche base totali di 395"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/vanillish.mp3",
+    "dex_entries": {
+        "vanillish": {
+            "black": "Vive sulle montagne innevate. Durante le antiche glaciazioni si è spostato nelle regioni del sud.",
+            "white": "Si nasconde dai nemici producendo una miriade di granelli di ghiaccio.",
+            "black-2": "Congela il corpo del nemico con granelli di ghiaccio che genera raffreddando l'aria circostante.",
+            "white-2": "Congela il corpo del nemico con granelli di ghiaccio che genera raffreddando l'aria circostante.",
+            "x": "Congela il corpo del nemico con granelli di ghiaccio che genera raffreddando l'aria circostante.",
+            "y": "Vive sulle montagne innevate. Durante le antiche glaciazioni si è spostato nelle regioni del sud.",
+            "omega-ruby": "Congela il corpo del nemico con granelli di ghiaccio che genera raffreddando l'aria circostante.",
+            "alpha-sapphire": "Vive sulle montagne innevate. Durante le antiche glaciazioni si è spostato nelle regioni del sud.",
+            "sun": "Si scioglie nelle giornate calde. Riprende le proprie sembianze se viene congelato, pur rimanendo leggermente deformato.",
+            "moon": "Le sue origini risalgono all'era glaciale. Usa granelli di ghiaccio per congelare i nemici, che poi riduce in frantumi a testate.",
+            "ultra-sun": "Congela i nemici cospargendoli di granelli di ghiaccio. I Vanillish che vivono ad Alola sono più piccoli della media.",
+            "ultra-moon": "Un Pokémon incredibilmente robusto, rimasto inalterato fin dall'era glaciale. È popolarissimo tra gli abitanti delle regioni più calde.",
+            "sword": "Beve acqua pura per ingrandire il suo corpo di ghiaccio. Non si fa vedere in giro nei giorni di bel tempo.",
+            "shield": "Congela i nemici con il suo fiato a -100 °C, ma la sua indole gentile gli impedisce di infliggere loro danni letali."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "vanillish",
+    "generation": 5,
+    "height": {
+        "vanillish": "1.1 m"
+    },
+    "id": 583,
+    "name": "Vanillish",
+    "name_origin": "Il nome potrebbe essere la combinazione delle parole inglesi vanilla  e delish . ",
+    "origin": "Vanillish è basato su un ghiacciolo o un cono gelato fatto di neve e ghiaccio, oltre che su una stalattite. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Vanillish",
+    "shape": "testa e base",
+    "specie": "Pokémon Geloneve",
+    "sprites": {
+        "vanillish": {
+            "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0583.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/44/Homemsh0583.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/63/Artwork0583_NB.png"
+    },
+    "stats": {
+        "vanillish": {
+            "hp": 51,
+            "atk": 65,
+            "def": 65,
+            "spa": 80,
+            "spd": 75,
+            "spe": 59
+        }
+    },
+    "stats_sum": {
+        "vanillish": 395
+    },
+    "types": {
+        "vanillish": [
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "vanillish": "41.0 kg"
+    }
+}

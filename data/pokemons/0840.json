@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "applin": {
+            "primary": "Maturazione",
+            "secondary": "Voracità",
+            "hidden": "Antiproiettile"
+        }
+    },
+    "curiosities": [
+        "Applin e le sue evoluzioni sono gli unici Pokémon che si trovano nel Gruppo Uova Erba e Drago.",
+        "Applin ha la Velocità base più bassa tra tutti i Pokémon di tipo Drago.",
+        "Applin, Tyrogue ed Eevee sono gli unici Pokémon le cui linee evolutive sono ramificate in più di due Pokémon in parallelo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/applin.mp3",
+    "dex_entries": {
+        "applin": {
+            "sword": "Passa la vita all'interno di un pomo. Quando si imbatte in Pokémon alati, suoi nemici naturali, si protegge fingendosi un semplice frutto.",
+            "shield": "Quando nasce si intrufola in un pomo e cresce mangiandone la polpa. Si evolve in modo diverso a seconda del gusto del frutto.",
+            "scarlet": "Cresce alimentandosi della polpa di una mela. Secerne un liquido capace di rinforzarne la buccia, impedendo che ammuffisca.",
+            "violet": "Vive all’interno di una mela. In mancanza di quest’ultima, Applin si disidrata e si indebolisce."
+        }
+    },
+    "egg_groups": [
+        "Erba",
+        "Drago"
+    ],
+    "flat_name": "applin",
+    "generation": 8,
+    "height": {
+        "applin": "0.2 m"
+    },
+    "id": 840,
+    "name": "Applin",
+    "name_origin": "Applin potrebbe essere una combinazione di apple, mela, e inside, dentro, o tannin, un drago serpentino della Bibbia. Kajicchu potrebbe essere una combinazione di 齧る kajiru, rosicchiare, 果実 kajitsu, frutto, e 虫 chū, insetto. ",
+    "origin": "Applin potrebbe essere basato su una larva di carpocapsa del melo, un insetto che si nasconde nelle mele e che si nutre del loro nucleo, inibendo la crescita del frutto e maturandolo prima. I metodi evolutivi del Pokémon potrebbero essere un riferimento su come la pianta ospite dissuade la larva. I frutti selvatici sono, solitamente, aspri e hanno un'epidermide e un nucleo più spessi rispetto alle varietà di frutti domestici che sono dolci, quindi Flapple mantiene la buccia della mela, mentre Appletun cresce e diventa un tutt'uno con l'intero frutto. Il tipo Drago potrebbe essere un riferimento a Ladone, un drago della mitologia greca che sorveglia i pomi d'oro nel giardino delle Esperidi. Potrebbe trarre ispirazione anche dai serpenti biblici, spesso associati ai draghi. Uno di questi serpenti persuade Eva e le fa mangiare un frutto dell'albero della conoscenza, più volte rappresentato come una mela. Condivide inoltre molte somiglianze con il lindworm, un drago serpentino con solo due braccia e senza gambe  e il cui nome è worm, verme, larve di insetti. Potrebbe essere anche un gioco di parole su wyrm. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Applin",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Pomicolo",
+    "sprites": {
+        "applin": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b3/Homem0840.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/25/Homemsh0840.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/59/Artwork0840_SpSc.png"
+    },
+    "stats": {
+        "applin": {
+            "hp": 40,
+            "atk": 40,
+            "def": 80,
+            "spa": 40,
+            "spd": 40,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "applin": 260
+    },
+    "types": {
+        "applin": [
+            "Drago",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "applin": "0.5 kg"
+    }
+}

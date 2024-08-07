@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "marowak": {
+            "primary": "Testadura",
+            "secondary": "Parafulmine",
+            "hidden": "Lottascudo"
+        },
+        "forma-di-alola": {
+            "primary": "Corpofunesto",
+            "secondary": "Parafulmine",
+            "hidden": "Testadura"
+        }
+    },
+    "curiosities": [
+        "Nella versione beta di Rosso e Blu, Marowak era chiamato Guardia.",
+        "Marowak di Alola è l'unico Pokémon di doppio tipo che non ne condivide nemmeno uno con la sua pre-evoluzione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/marowak.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro"
+    ],
+    "flat_name": "marowak",
+    "generation": 1,
+    "height": {
+        "marowak": "1.0 m",
+        "forma-di-alola": "1.0 m",
+        "dominante": "1.7 m"
+    },
+    "id": 105,
+    "name": "Marowak",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi marrow  e whack . ",
+    "origin": "Si pensa che sia la reincarnazione di un rettile o di un dinosauro bipede. Nella forma di Alola potrebbe essere basato su di uno sciamano o di un danzatore del fuoco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Marowak",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Guardaossi",
+    "sprites": {
+        "marowak": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b7/Homem0105.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1e/Homemsh0105.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1f/Homem0105A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/41/Homemsh0105A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/20/Artwork0105_RFVF.png"
+    },
+    "stats": {
+        "marowak": {
+            "hp": 60,
+            "atk": 80,
+            "def": 110,
+            "spa": 50,
+            "spd": 80,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "marowak": 425
+    },
+    "types": {
+        "marowak": [
+            "Terra"
+        ],
+        "forma-di-alola": [
+            "Fuoco",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "marowak": "45.0 kg",
+        "forma-di-alola": "34.0 kg",
+        "dominante": "98.0 kg"
+    }
+}

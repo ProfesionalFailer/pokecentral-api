@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "mareep": {
+            "primary": "Statico",
+            "hidden": "Più"
+        }
+    },
+    "curiosities": [
+        "Anche se secondo il Pokédex il colore principale di Mareep è il bianco, in realtà è principalmente giallo e blu scuro, senza tracce rilevanti di bianco.",
+        "Il colore delle immagini di gioco di Mareep è stato cambiato due volte in quarta generazione: in Diamante e Perla è di un colore giallo brillante, mentre in Pokémon Platino è notevolmente più scuro e in Oro HeartGold e Argento SoulSilver è ancora più chiaro che in Diamante e Perla.",
+        "Mareep è il Pokémon di tipo Elettro più lento."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mareep.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Campo"
+    ],
+    "flat_name": "mareep",
+    "generation": 2,
+    "height": {
+        "mareep": "0.6 m"
+    },
+    "id": 179,
+    "name": "Mareep",
+    "name_origin": "Il suo nome è probabilmente una combinazione del nome Mary, proveniente dal titolo della filastrocca \"Mary Had a Little Lamb\" , e di sheep, \"pecora\". È anche un anagramma della parola ampere, l'unità di misura dell'intensità della corrente elettrica. ",
+    "origin": "Mareep è semplicemente basato su una pecora, insieme al modo in cui la lana è in grado di accumulare elettricità statica.\nUn'altra probabile fonte d'ispirazione per il Pokémon, dato il suo tipo, è il romanzo di fantascienza di Philip K. Dick Il Cacciatore di Androidi, chiamato in lingua originale Do Androids Dream of Electric Sheep? . Potrebbe essere anche ispirato al vello d'oro della mitologia greca. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mareep",
+    "shape": "quadrupede",
+    "specie": "Pokémon Lana",
+    "sprites": {
+        "mareep": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a1/Homem0179.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0179.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d2/Artwork0179_HGSS.png"
+    },
+    "stats": {
+        "mareep": {
+            "hp": 55,
+            "atk": 40,
+            "def": 40,
+            "spa": 65,
+            "spd": 45,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "mareep": 280
+    },
+    "types": {
+        "mareep": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "mareep": "7.8 kg"
+    }
+}

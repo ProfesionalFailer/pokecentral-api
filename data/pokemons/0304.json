@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "aron": {
+            "primary": "Vigore",
+            "secondary": "Testadura",
+            "hidden": "Metalpesante"
+        }
+    },
+    "curiosities": [
+        "In terza generazione Aron, Lairon e Aggron avevano una combinazione di tipi unica."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/aron.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro"
+    ],
+    "flat_name": "aron",
+    "generation": 3,
+    "height": {
+        "aron": "0.40 m"
+    },
+    "id": 304,
+    "name": "Aron",
+    "name_origin": "Aron è l'unione di Armor  e iron . Potrebbe anche aver a che fare con armadillo. ",
+    "origin": "Aron è basato sul pulgasari, mostro mangiatore di ferro della mitologia coreana. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Aron",
+    "shape": "quadrupede",
+    "specie": "Pokémon Corazza",
+    "sprites": {
+        "aron": {
+            "default": "https://media.pokemoncentral.it/wiki/8/82/Homem0304.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homemsh0304.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/90/Artwork0304_RZ.png"
+    },
+    "stats": {
+        "aron": {
+            "hp": 50,
+            "atk": 70,
+            "def": 100,
+            "spa": 40,
+            "spd": 40,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "aron": 330
+    },
+    "types": {
+        "aron": [
+            "Roccia",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "aron": "60.0 kg"
+    }
+}

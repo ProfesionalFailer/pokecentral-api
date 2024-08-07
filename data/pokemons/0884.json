@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "duraludon": {
+            "primary": "Metalleggero",
+            "secondary": "Metalpesante",
+            "hidden": "Volontà di Ferro"
+        }
+    },
+    "curiosities": [
+        "Duraludon è l'unico Pokémon che si trova nel Gruppo Uova Drago e Minerale.\n\tDuraludon è anche l'unico Pokémon ad avere Metalpesante e Metalleggero come abilità senza che queste ultime siano speciali.",
+        "Duraludon è anche l'unico Pokémon ad avere Metalpesante e Metalleggero come abilità senza che queste ultime siano speciali.",
+        "Duraludon è stato annunciato l'8 luglio 2019 in un trailer nel canale YouTube ufficiale di Pokémon.",
+        "Duraludon è il Pokémon con il totale di statistiche base più alto che può ancora evolvere.",
+        "Con l'introduzione dell'evoluzione Archaludon in nona generazione Duraludon diviene il quarto Pokémon non completamente evoluto ad avere una forma Gigamax, aggiungendosi a Pikachu, Meowth e Eevee."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/duraludon.mp3",
+    "dex_entries": {
+        "duraludon": {
+            "sword": "Il suo corpo simile a metallo lucidato è leggero e resistente, ma ha il difetto di arrugginire facilmente.",
+            "shield": "Il suo corpo fatto di un metallo speciale è leggero e gli conferisce un'andatura impeccabile. Vive nelle grotte perché odia la pioggia."
+        },
+        "duraludon-gigamax": {
+            "sword": "È diventato grande come un grattacielo. La sovrabbondanza di energia ha reso luminose alcune parti del suo corpo.",
+            "shield": "La sua struttura cellulare, capace di resistere anche ai terremoti, è di una durezza eccezionale anche tra i Pokémon di tipo Acciaio."
+        }
+    },
+    "egg_groups": [
+        "Minerale",
+        "Drago"
+    ],
+    "flat_name": "duraludon",
+    "generation": 8,
+    "height": {
+        "duraludon": "1.8 m",
+        "duraludon-gigamax": "> 43.0 m"
+    },
+    "id": 884,
+    "name": "Duraludon",
+    "name_origin": "Duraludon potrebbe derivare da ジュラルミン duralumin, duralluminio , ドラゴン durable, resistente, dragon, drago, don, signore in spagnolo e -don, suffisso comune nei nomi dei dinosauri che deriva da \"dente\" in greco antico. ",
+    "origin": "Duraludon potrebbe essere ispirato a The Shard, l'edificio più alto del Regno Unito. In base al suo nome, il metallo che copre il corpo del Pokémon potrebbe essere il duralluminio, una lega di alluminio e rame che è robusta e leggera, ma non molto resistente alla corrosione. La rivalità con Tyranitar è probabilmente un riferimento a Mechagodzilla, un antagonista della serie Godzilla nonché un kaijū del cinema giapponese. Nel complesso ricorda un dinosauro del gruppo Theropoda. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Duraludon",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Metallolega",
+    "sprites": {
+        "duraludon": {
+            "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0884.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/60/Homemsh0884.png"
+        },
+        "duraludon-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0884Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f8/Homemsh0884Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/72/Artwork0884_SpSc.png"
+    },
+    "stats": {
+        "duraludon": {
+            "hp": 70,
+            "atk": 95,
+            "def": 115,
+            "spa": 120,
+            "spd": 50,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "duraludon": 535
+    },
+    "types": {
+        "duraludon": [
+            "Drago",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "duraludon": "40.0 kg",
+        "duraludon-gigamax": "???.? kg"
+    }
+}

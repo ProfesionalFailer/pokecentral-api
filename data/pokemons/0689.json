@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "barbaracle": {
+            "primary": "Unghiedure",
+            "secondary": "Cecchino",
+            "hidden": "Arraffalesto"
+        }
+    },
+    "curiosities": [
+        "Può essere trovato al livello 30 nel Safari amici nonostante Binacle si evolva al 39.",
+        "Barbaracle è attualmente il Pokémon con più corpi/teste per ora conosciuto con un totale di 7 .\n\tCuriosamente i piedi non presentano occhi, forse atrofizzati perché usati per camminare.",
+        "Curiosamente i piedi non presentano occhi, forse atrofizzati perché usati per camminare."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/barbaracle.mp3",
+    "dex_entries": {
+        "barbaracle": {
+            "x": "Con l'evoluzione, i due Binacle si moltiplicano e il Pokémon lotta con la forza di sette Binacle.",
+            "y": "I Binacle delle gambe e delle braccia hanno cervelli indipendenti, ma generalmente seguono le direttive di quello della testa.",
+            "omega-ruby": "Con l'evoluzione, i due Binacle si moltiplicano e il Pokémon lotta con la forza di sette Binacle.",
+            "alpha-sapphire": "I Binacle delle gambe e delle braccia hanno cervelli indipendenti, ma generalmente seguono le direttive di quello della testa.",
+            "sword": "Il suo corpo è formato da sette Binacle. Quello che occupa la posizione della testa coordina gli altri.",
+            "shield": "Gli occhi sulle mani hanno una visuale a 360 gradi. Quando è in difficoltà, i suoi arti agiscono autonomamente per sconfiggere il nemico."
+        }
+    },
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "flat_name": "barbaracle",
+    "generation": 6,
+    "height": {
+        "barbaracle": "1.3 m"
+    },
+    "id": 689,
+    "name": "Barbaracle",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi barbarian  e barnacle . ",
+    "origin": "Barbaracle è basato su un cirripede dell'ordine dei Pedunculata. Potrebbe essere ispirato alla Mano di Fatima o essere un riferimento alla sindrome dell'arto fantasma. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Barbaracle",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Aggregato",
+    "sprites": {
+        "barbaracle": {
+            "default": "https://media.pokemoncentral.it/wiki/7/75/Homem0689.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0689.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0689_XY.png"
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 72,
+            "atk": 105,
+            "def": 115,
+            "spa": 54,
+            "spd": 86,
+            "spe": 68
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 500
+    },
+    "types": {
+        "barbaracle": [
+            "Roccia",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "barbaracle": "96.0 kg"
+    }
+}

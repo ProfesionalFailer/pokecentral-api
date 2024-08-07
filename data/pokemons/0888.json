@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "zacian": {
+            "primary": "Spada Indomita"
+        }
+    },
+    "curiosities": [
+        "Zacian condivide la sua categoria con Zamazenta. Entrambi sono conosciuti come Pokémon Guerriero.",
+        "Zacian non può dynamaxizzare.",
+        "Zacian Re delle Spade ha l'Attacco base più alto tra tutti i Pokémon di tipo Folletto e la Velocità base più alta tra tutti i Pokémon di tipo Acciaio.",
+        "Zacian Re delle Spade è il Pokémon più pesante di tipo Folletto.",
+        "Nonostante sia una specie asessuata, nelle versioni inglesi, giapponesi e cinesi delle voci del Pokédex di Pokémon Spada e Scudo ci si riferisce a Zacian come la \"sorella più vecchia di Zamazenta\". Le altre localizzazioni utilizzano il termine \"figura fraterna\".",
+        "Come da lui stesso confermato, Yusuke Ohmura s'è occupato della progettazione di Zacian e Zamazenta.",
+        "Zacian è stato annunciato il 5 giugno 2019 durante un Pokémon Direct.",
+        "Zacian Re delle Spade ha il totale di statistiche base più alto tra tutti i Pokémon di tipo Folletto, riuscendo addirittura a rivaleggiare Arceus mentre tiene la Lastraspiritello.\n\tZacian Re delle Spade, insieme a Zamazenta Re degli Scudi, ha anche il totale di statistiche base più alto tra i Pokémon di tipo Acciaio.",
+        "Zacian Re delle Spade, insieme a Zamazenta Re degli Scudi, ha anche il totale di statistiche base più alto tra i Pokémon di tipo Acciaio."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/zacian.mp3",
+    "dex_entries": {
+        "eroe-di-mille-lotte": {
+            "sword": "È conosciuto come \"l'eroe della leggenda\". Assorbe il metallo e lo trasforma per armarsi durante la lotta.",
+            "shield": "Viene considerato una figura fraterna e allo stesso tempo un rivale per Zamazenta, un Pokémon rimasto a lungo addormentato."
+        },
+        "re-delle-spade": {
+            "sword": "Armato della sua antica spada, è in grado di sconfiggere con un sol colpo anche i Pokémon Gigamax.",
+            "shield": "Temuto e rispettato da nemici e alleati, è detto \"spada del re folletto\" per la sua capacità di tranciare qualsiasi cosa."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "zacian",
+    "generation": 8,
+    "height": {
+        "zacian": "2.8 m"
+    },
+    "id": 888,
+    "name": "Zacian",
+    "name_origin": "Zacian deriva dalla pronuncia giapponese di the cyan, \"il ciano\" in inglese. ",
+    "origin": "Zacian potrebbe essere basato sulla spada Excalibur di Re Artù. Il suo ruolo di guerriero che aiuta un re potrebbe trarre ispirazione dai cavalieri della Tavola Rotonda. Inoltre, la natura femminile di Zacian  potrebbe essere un riferimento alla Dama del Lago, il personaggio che consegna la spada Excalibur a Re Artù; il suo rapporto con Zamazenta potrebbe invece alludere al rapporto tra Artù e sua sorella Fata Morgana. In alternativa può ricordare un lupo, un animale originario della Gran Bretagna e un importante simbolo araldico per le famiglie nobili durante il medioevo. La lunga pelliccia blu appesa al suo collo ricorda un caparison, un rivestimento di stoffa posto sui cavalli da guerra durante l'Alto Medioevo. La storia di Zacian e Zamazenta che si ritirano nel Bosco Assopito per riprendersi dalle loro ferite e il ritorno ai nostri giorni per salvare Galar è simile alla leggenda del ritorno messianico di Re Artù. L'abilità di Zacian di tagliare qualsiasi cosa con la sua spada e l'abilità di Zamazenta di resistere a qualsiasi tipo di attacco con il suo scudo potrebbe essere un esempio di paradosso dell'onnipotenza. Uno degli esempi più famosi di questo folklore include la storia cinese secondo cui un venditore ambulante vendette una spada e una lancia con abilità simili a quelle dei Pokémon solo per chiedersi cosa sarebbe successo se i due oggetti fossero stati utilizzati l'uno contro l'altro. Un altro esempio narra di un segugio da caccia greco, chiamato Lelapo, che acchiappava qualsiasi cosa gli si capitasse a tiro e della volpe di Teumesso che non poteva mai essere catturata. Era un paradosso senza possibilità di soluzione, quindi vennero tramutati in una roccia e il cane fu sistemato nella costellazione del Cane Maggiore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zacian",
+    "shape": "quadrupede",
+    "specie": "Pokémon Guerriero",
+    "sprites": {
+        "eroe-di-mille-lotte": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2e/Homem0888.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0888.png"
+        },
+        "re-delle-spade": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5d/Homem0888R.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0888R.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/23/Artwork0888_SpSc.png"
+    },
+    "stats": {
+        "eroe-di-mille-lotte": {
+            "hp": 92,
+            "atk": 120,
+            "def": 115,
+            "spa": 80,
+            "spd": 115,
+            "spe": 138
+        },
+        "re-delle-spade": {
+            "hp": 92,
+            "atk": 150,
+            "def": 115,
+            "spa": 80,
+            "spd": 115,
+            "spe": 148
+        }
+    },
+    "stats_sum": {
+        "eroe-di-mille-lotte": 660,
+        "re-delle-spade": 700
+    },
+    "types": {
+        "eroe-di-mille-lotte": [
+            "Folletto"
+        ],
+        "re-delle-spade": [
+            "Acciaio",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "eroe-di-mille-lotte": "110.0 kg",
+        "re-delle-spade": "355.0 kg"
+    }
+}

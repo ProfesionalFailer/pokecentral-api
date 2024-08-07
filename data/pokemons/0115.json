@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "kangaskhan": {
+            "primary": "Sveglialampo",
+            "secondary": "Nervisaldi",
+            "hidden": "Forza Interiore"
+        },
+        "megakangaskhan": {
+            "primary": "Amorefiliale"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Rosso e Blu era una delle evoluzioni di 'M.",
+        "È uno dei pochi Pokémon di prima generazione a non avere ancora nessuna evoluzione. Gli altri sono Farfetch'd, Pinsir, Tauros, Lapras, Ditto e Aerodactyl.\n\tIn sesta generazione però Kangaskhan, insieme a Pinsir e Aerodactyl, ha ottenuto una Megaevoluzione, mentre in ottava generazione, Farfetch'd di Galar può evolversi in Sirfetch'd.",
+        "In sesta generazione però Kangaskhan, insieme a Pinsir e Aerodactyl, ha ottenuto una Megaevoluzione, mentre in ottava generazione, Farfetch'd di Galar può evolversi in Sirfetch'd.",
+        "Nella Forma Mega il piccolo risulta più cresciuto, mentre invece la madre non subisce alcuna modifica.",
+        "Nei giochi il suo verso è simile a quello di Arbok.",
+        "Kangaskhan e Mantine erano gli unici Pokémon ad avere nel proprio sprite un altro Pokémon separato, con Mantine che aveva con se un Remoraid.\n\tDalla quarta generazione in poi il Remoraid è stato rimosso, lasciando tale particolarità solo a Kangaskhan.\n\tDalla settima generazione anche Wishiwashi nella forma Banco condivide questa peculiarità, essendo composto da molti esemplari.",
+        "Dalla quarta generazione in poi il Remoraid è stato rimosso, lasciando tale particolarità solo a Kangaskhan.\n\tDalla settima generazione anche Wishiwashi nella forma Banco condivide questa peculiarità, essendo composto da molti esemplari.",
+        "Dalla settima generazione anche Wishiwashi nella forma Banco condivide questa peculiarità, essendo composto da molti esemplari."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kangaskhan.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro"
+    ],
+    "flat_name": "kangaskhan",
+    "generation": 1,
+    "height": {
+        "kangaskhan": "2.2 m"
+    },
+    "id": 115,
+    "name": "Kangaskhan",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione della parola inglese kangaroo, canguro, con l'appellativo nobiliare di origine mongola Khan, monarca. Il suo nome giapponese, ガルーラ Garūra, probabilmente deriva dall'unione di garuu, canguro, e gojira, nome giapponese di Godzilla. ",
+    "origin": "Kangaskhan sembra essere basato su un canguro con il cucciolo nel suo marsupio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kangaskhan",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Genitore",
+    "sprites": {
+        "kangaskhan": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ed/Homef0115.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homefsh0115.png"
+        },
+        "megakangaskhan": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8b/Homef0115M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homefsh0115M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2f/Artwork0115_RFVF.png"
+    },
+    "stats": {
+        "kangaskhan": {
+            "hp": 105,
+            "atk": 95,
+            "def": 80,
+            "spa": 40,
+            "spd": 80,
+            "spe": 90
+        },
+        "megakangaskhan": {
+            "hp": 105,
+            "atk": 125,
+            "def": 100,
+            "spa": 60,
+            "spd": 100,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "kangaskhan": 490,
+        "megakangaskhan": 590
+    },
+    "types": {
+        "kangaskhan": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "kangaskhan": "80.0 kg",
+        "megakangaskhan": "100.0 kg"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "mantyke": {
+            "primary": "Nuotovelox",
+            "secondary": "Assorbacqua",
+            "hidden": "Idrovelo"
+        }
+    },
+    "curiosities": [
+        "Nel Pokédex è scritto che il segno sul dorso di Mantyke cambia a seconda della regione, anche se nelle regioni in cui è possibile ottenerlo esso non cambia mai.",
+        "Finora Mantyke è l'unico Pokémon che per evolversi richiede un aumento di livello con un determinato Pokémon in squadra.",
+        "Mantyke ha la più alta statistica base di Difesa Speciale di tutti i Pokémon Baby e di tutti i Pokémon non evoluti."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mantyke.mp3",
+    "dex_entries": {
+        "mantyke": {
+            "diamond": "Pokémon amichevole che con le antenne è in grado di avvertire anche minime correnti marine.",
+            "pearl": "Gli scienziati hanno scoperto che i motivi caratteristici del suo dorso variano da regione a regione.",
+            "platinum": "Vengono organizzate escursioni per vedere questo Pokémon giocare in in mezzo alle onde con REMORAID.",
+            "heartgold": "Poiché MANTYKE nuota in superficie, si possono ammirare i disegni sulla sua schiena da un'imbarcazione.",
+            "soulsilver": "Poiché MANTYKE nuota in superficie, si possono ammirare i disegni sulla sua schiena da un'imbarcazione.",
+            "black": "Vengono organizzate escursioni per vedere questo Pokémon giocare in mezzo alle onde con Remoraid.",
+            "white": "Vengono organizzate escursioni per vedere questo Pokémon giocare in mezzo alle onde con Remoraid.",
+            "black-2": "Il disegno sul suo dorso cambia a seconda della regione. Nuota spesso assieme ai branchi di Remoraid.",
+            "white-2": "Il disegno sul suo dorso cambia a seconda della regione. Nuota spesso assieme ai branchi di Remoraid.",
+            "x": "Il disegno sul suo dorso cambia a seconda della regione. Nuota spesso assieme ai branchi di Remoraid.",
+            "y": "Poiché Mantyke nuota in superficie, si possono ammirare i disegni sulla sua schiena da un'imbarcazione.",
+            "omega-ruby": "Il disegno sul suo dorso cambia a seconda della regione. Nuota spesso assieme ai branchi di Remoraid.",
+            "alpha-sapphire": "Poiché Mantyke nuota in superficie, si possono ammirare i disegni sulla sua schiena da un'imbarcazione.",
+            "ultra-sun": "È molto socievole e si affeziona facilmente. Nuotare assieme ai Mantyke accompagnati da una guida è un’attività tipica delle zone balneari.",
+            "ultra-moon": "Si avvicina spesso alle imbarcazioni per socializzare con gli esseri umani. Il disegno sul dorso è diverso a seconda della regione.",
+            "sword": "I Mantyke che vivono a Galar si muovono lentamente, forse per via della temperatura del mare relativamente bassa.",
+            "shield": "Nuota in mezzo ai banchi di Remoraid e lotta assieme a loro quando vengono attaccati.",
+            "brilliant-diamond": "È un Pokémon mansueto. Con le antenne è in grado di avvertire anche le più deboli correnti marine.",
+            "shining-pearl": "Gli scienziati hanno scoperto che il disegno caratteristico sul suo dorso varia da regione a regione.",
+            "legends-arceus": "Gran natatore nonostante le fattezze sferiche. È dimostrato che il fertile sodalizio con banchi di Remoraid conduce infine all'evoluzione."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "mantyke",
+    "generation": 4,
+    "height": {
+        "mantyke": "1.0 m"
+    },
+    "id": 458,
+    "name": "Mantyke",
+    "name_origin": "Deriva dalle parole manta e tyke, bambino. ",
+    "origin": "Basato su una manta. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mantyke",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Aquilone",
+    "sprites": {
+        "mantyke": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e3/Homem0458.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/50/Homemsh0458.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5b/Artwork0458_DP.png"
+    },
+    "stats": {
+        "mantyke": {
+            "hp": 45,
+            "atk": 20,
+            "def": 50,
+            "spa": 60,
+            "spd": 120,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "mantyke": 345
+    },
+    "types": {
+        "mantyke": [
+            "Volante",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "mantyke": "65.0 kg"
+    }
+}

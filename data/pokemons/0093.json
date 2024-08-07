@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "haunter": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "Il nome di Haunter nella Beta di Pokémon Rosso e Blu è \"Spectre\".",
+        "Haunter e Muk sono gli unici Pokémon che non cambiano il peso durante l'evoluzione.",
+        "Le mani di Haunter emanano un alone rosso , tranne che in Rosso Fuoco e Verde Foglia, in cui solo la mano destra emana il bagliore rosso, e in Oro HeartGold e Argento SoulSilver, in cui nessuna delle mani emana il bagliore.",
+        "Fino alla quarta generazione, ad ogni passaggio alla generazione successiva, le dita delle mani di questo Pokémon cambiavano da tre a quattro.",
+        "Lo sprite di Haunter di Pokémon Rosso e Blu è stato modificato in Pokémon Giallo perché si dice che fosse troppo inquietante per i tanti bambini che giocavano. Sono state tolte le mani avide, gli occhi malefici e i denti molto aguzzi.",
+        "Fino alla nona generazione, Haunter e la sua famiglia evolutiva avevano una combinazione di tipi unica."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/haunter.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "haunter",
+    "generation": 1,
+    "height": {
+        "haunter": "1.6 m"
+    },
+    "id": 93,
+    "name": "Haunter",
+    "name_origin": "Il nome inglese deriva dal verbo inglese to haunt . Letteralmente, il suo nome significa infestatore o persecutore, ma potrebbe anche essere una corruzione di Hunter . ",
+    "origin": "Haunter sembrerebbe essere basato su un fantasma. Condivide molte somiglianze con lo yōkai Akashita, una creatura con un'ampia bocca e una lunga lingua il cui corpo è coperto da nuvole scure, che rendono visibili solo la testa e le mani artigliate. Sebbene la lunga lingua di Haunter sia una caratteristica ricorrente tra molti yōkai, essa potrebbe provenire dal Dila, uno spirito filippino che lecca via l'energia vitale delle persone malate fino alla morte, o da alcune varianti dell'Akashita. Alcuni dei tratti di Haunter, come il tipo Veleno e il peso estremamente leggero, sembrano essere basati sui Fuyūrei, spiriti fluttuanti che si dice siano in grado di diffondere malattie. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Haunter",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Gas",
+    "sprites": {
+        "haunter": {
+            "default": "https://media.pokemoncentral.it/wiki/0/05/Homem0093.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0093.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/17/Artwork0093_RFVF.png"
+    },
+    "stats": {
+        "haunter": {
+            "hp": 45,
+            "atk": 50,
+            "def": 45,
+            "spa": 115,
+            "spd": 55,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "haunter": 405
+    },
+    "types": {
+        "haunter": [
+            "Veleno",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "haunter": "0.1 kg"
+    }
+}

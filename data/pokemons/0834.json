@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "drednaw": {
+            "primary": "Ferromascella",
+            "secondary": "Guscioscudo",
+            "hidden": "Nuotovelox"
+        }
+    },
+    "curiosities": [
+        "Drednaw condivide la sua categoria con Poochyena e Mightyena, sono tutti noti come Pokémon Morso.",
+        "Drednaw è stato annunciato il 5 giugno 2019 durante un Pokémon Direct."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/drednaw.mp3",
+    "dex_entries": {
+        "drednaw": {
+            "sword": "Ha una natura estremamente feroce e addenta le prede con la sua mascella, così potente da poter sbriciolare sbarre di ferro.",
+            "shield": "Ha un collo retrattile. Tenendosi a distanza dal nemico, lo estende all'improvviso per dare il colpo di grazia con i denti aguzzi.",
+            "scarlet": "Con la sua grande mascella frastagliata riesce a frantumare una roccia con un morso. Ha un temperamento estremamente aggressivo.",
+            "violet": "Si nasconde vicino alla riva in attesa che le prede vadano ad abbeverarsi, per poi allungare il collo e azzannarle."
+        },
+        "drednaw-gigamax": {
+            "sword": "Grazie all'energia del fenomeno Gigamax si è sollevato sulle zampe posteriori. Si getta sui nemici e li finisce con l'enorme mascella.",
+            "shield": "Si racconta che un tempo lontano questo Pokémon abbia fermato un'inondazione a Galar distruggendo una montagna a morsi."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Acqua 1"
+    ],
+    "flat_name": "drednaw",
+    "generation": 8,
+    "height": {
+        "drednaw": "1.0 m",
+        "drednaw-gigamax": "> 24.0 m"
+    },
+    "id": 834,
+    "name": "Drednaw",
+    "name_origin": "Drednaw potrebbe essere una combinazione di dread, timore in inglese, e gnaw, masticare in inglese. Potrebbe anche derivare da dreadnought. Kajirigame potrebbe essere una combinazione di 齧り付く kajiritsuku, mordere, e 亀 kame, tartaruga. ",
+    "origin": "Dreadnaw potrebbe essere basato su una tartaruga alligatore. La parte del corpo inferiore, visibile principalmente nella sua forma Gigamax, e la corazza superiore somigliano alle navi corazzate. Il corno del Pokémon ricorda una mannaia, mentre Drednaw Gigamax assomiglia alle dreadnought. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Drednaw",
+    "shape": "quadrupede",
+    "specie": "Pokémon Morso",
+    "sprites": {
+        "drednaw": {
+            "default": "https://media.pokemoncentral.it/wiki/7/71/Homem0834.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homemsh0834.png"
+        },
+        "drednaw-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/5/55/Homem0834Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1b/Homemsh0834Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7a/Artwork0834_SpSc.png"
+    },
+    "stats": {
+        "drednaw": {
+            "hp": 90,
+            "atk": 115,
+            "def": 90,
+            "spa": 48,
+            "spd": 68,
+            "spe": 74
+        }
+    },
+    "stats_sum": {
+        "drednaw": 485
+    },
+    "types": {
+        "drednaw": [
+            "Roccia",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "drednaw": "115.5 kg",
+        "drednaw-gigamax": "???.? kg"
+    }
+}

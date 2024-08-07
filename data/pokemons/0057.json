@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "primeape": {
+            "primary": "Spiritovivo",
+            "secondary": "Grancollera",
+            "hidden": "Agonismo"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Giallo Primeape impara Stridio al livello 44 e Colpo al livello 45, tuttavia nei dati di gioco Colpo viene elencata prima di Stridio. È l'unico caso in tutta la prima generazione in cui le mosse di un Pokémon sono elencate in disordine rispetto al livello di apprendimento.",
+        "Primeape è capace di imparare Codacciaio nonostante non abbia una coda visibile. Ciò può essere dovuto al fatto che la sua pre-evoluzione ne ha una.\n\tInoltre, lo stesso Primeape che nel gioco PokéPark Wii: la grande avventura di Pikachu insegna al giocatore Codacciaio dice che non ha una coda.",
+        "Inoltre, lo stesso Primeape che nel gioco PokéPark Wii: la grande avventura di Pikachu insegna al giocatore Codacciaio dice che non ha una coda.",
+        "In Pokémon Platino, Primeape è uno dei Pokémon non presenti nel Pokédex di Sinnoh e non introdotto in quarta generazione ad avere un nuovo sprite. Meowth, Oddish, Hitmonlee, Ninetales, Muk e Registeel sono gli altri."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/primeape.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "primeape",
+    "generation": 1,
+    "height": {
+        "primeape": "1.0 m"
+    },
+    "id": 57,
+    "name": "Primeape",
+    "name_origin": "Primeape pèuò essere una combinazione di prime  e ape , ma potrebbe anche essere un gioco di parole su primate. Il nome giapponese, オコリザル Okorizaru, può significare 怒り猿 ikarisaru . Alternativamente, potrebbe essere una combinazione di 怒って okotte , 怒り ikari , e 猿 saru . ",
+    "origin": "Considerando il naso simile a quello di un suino, la sua colorazione, e la tendenza ad arrabbiarsi se guardato negli occhi, Primeape ha molto in comune con i babbuini, ma è anche basato su un pugile. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Primeape",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Suinpanzè",
+    "sprites": {
+        "primeape": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0d/Homem0057.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0057.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e5/Artwork0057_RFVF.png"
+    },
+    "stats": {
+        "primeape": {
+            "hp": 65,
+            "atk": 105,
+            "def": 60,
+            "spa": 60,
+            "spd": 70,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "primeape": 455
+    },
+    "types": {
+        "primeape": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "primeape": "32.0 kg"
+    }
+}

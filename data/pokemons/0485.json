@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "heatran": {
+            "primary": "Fuocardore",
+            "hidden": "Corpodifuoco"
+        }
+    },
+    "curiosities": [
+        "Heatran, la linea evolutiva di Kubfu e Terapagos sono gli unici Pokémon leggendari che possono essere di entrambi i sessi.",
+        "Heatran è l'unico Pokémon di tipo Fuoco/Acciaio.\n\tQuesta doppia tipologia lo rende immune sia alla scottatura che all'avvelenamento.",
+        "Questa doppia tipologia lo rende immune sia alla scottatura che all'avvelenamento.",
+        "Heatran possiede il maggior numero di doppie resistenze: cinque.",
+        "Dopo l'incontro con Heatran, alcuni Allenatori quando risfidati hanno Pokémon con livelli più alti.",
+        "Nonostante sia di tipo Fuoco, sia fatto di lava e viva dentro i vulcani potendo anche farli eruttare, Heatran può imparare Eruzione solamente per evento in quarta generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/heatran.mp3",
+    "dex_entries": {
+        "heatran": {
+            "diamond": "Vive nelle cavità dei vulcani. Scava con i suoi piedi a croce per scalare pareti e arrampicarsi sui soffitti.",
+            "pearl": "Vive nelle cavità dei vulcani. Scava con i suoi piedi a croce per scalare pareti e arrampicarsi sui soffitti.",
+            "platinum": "Il suo corpo è fatto d’acciaio. Tuttavia, in alcune parti è sciolto a causa del suo stesso calore.",
+            "heartgold": "Nel suo corpo scorre sangue che ribolle come magma. Vive in antri all'interno di vulcani.",
+            "soulsilver": "Nel suo corpo scorre sangue che ribolle come magma. Vive in antri all'interno di vulcani.",
+            "black": "Il suo corpo è fatto d'acciaio. Tuttavia, in alcune parti è sciolto a causa del suo stesso calore.",
+            "white": "Il suo corpo è fatto d'acciaio. Tuttavia, in alcune parti è sciolto a causa del suo stesso calore.",
+            "black-2": "Il suo corpo è fatto d'acciaio. Tuttavia, in alcune parti è sciolto a causa del suo stesso calore.",
+            "white-2": "Il suo corpo è fatto d'acciaio. Tuttavia, in alcune parti è sciolto a causa del suo stesso calore.",
+            "x": "Vive nelle cavità dei vulcani. Scava con i suoi piedi a croce per scalare pareti e arrampicarsi sui soffitti.",
+            "y": "Nel suo corpo scorre sangue che ribolle come magma. Vive in antri all'interno di vulcani.",
+            "omega-ruby": "Vive nelle cavità dei vulcani. Scava con i suoi piedi a croce per scalare pareti e arrampicarsi sui soffitti.",
+            "alpha-sapphire": "Nel suo corpo scorre sangue che ribolle come magma. Vive in antri all'interno di vulcani.",
+            "brilliant-diamond": "Vive nelle cavità dei vulcani. Affonda nella roccia i suoi artigli disposti a croce per scalare pareti e arrampicarsi sui soffitti.",
+            "shining-pearl": "Vive nelle cavità dei vulcani. Affonda nella roccia i suoi artigli disposti a croce per scalare pareti e arrampicarsi sui soffitti.",
+            "legends-arceus": "Si narra che nacque dalle lave cocenti nel cuore del Monte Corona. Mi sfugge la vera natura delle sue membra d'acciaio fuso."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "heatran",
+    "generation": 4,
+    "height": {
+        "heatran": "1.7 m"
+    },
+    "id": 485,
+    "name": "Heatran",
+    "name_origin": "Deriva dalle parole inglesi heat, calore, e transfer, trasferimento. Potrebbe anche derivare da transition metal . ",
+    "origin": "Potrebbe basarsi sull'unione tra terra, roccia e magma, una specie di spirito o guardiano, facendo riferimento al fatto che il nucleo interno della Terra è composto di metallo soggetto a una fortissima pressione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Heatran",
+    "shape": "quadrupede",
+    "specie": "Pokémon Cratere",
+    "sprites": {
+        "heatran": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2b/Homem0485.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/73/Homemsh0485.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/aa/Artwork0485_DP.png"
+    },
+    "stats": {
+        "heatran": {
+            "hp": 91,
+            "atk": 90,
+            "def": 106,
+            "spa": 130,
+            "spd": 106,
+            "spe": 77
+        }
+    },
+    "stats_sum": {
+        "heatran": 600
+    },
+    "types": {
+        "heatran": [
+            "Fuoco",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "heatran": "430.0 kg"
+    }
+}

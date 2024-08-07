@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "sudowoodo": {
+            "primary": "Vigore",
+            "secondary": "Testadura",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Sudowoodo è stato creato da Ken Sugimori per fungere da ostacolo nell'overworld.",
+        "In seconda generazione, si poteva trovare un solo Sudowoodo . Analogamente, in terza generazione è ottenibile dopo averlo innaffiato con l'acqua di un Vaso Wailmer. Invece, in quarta generazione si possono ottenere più Sudowoodo evolvendo Bonsly o catturandoli nell'erba alta.",
+        "L'abitudine di Sudowoodo di camuffarsi da albero è stata occasionalmente evidenziata nei giochi.\n\tNella serie Pokémon Mystery Dungeon, i Sudowoodo stanno fermi nei dungeon in modo simile ai Sudowoodo di Johto.\n\tIn Pokémon X e Y, un Sudowoodo può essere incontrato nei Gruppi di Pokémon insieme a quattro Trevenant.\n\tA partire dalla sesta generazione, Sudowoodo rimane immobile durante la sua animazione idle.\n\tBrassius di Paldea usa un Sudowoodo di teratipo Erba.",
+        "Nella serie Pokémon Mystery Dungeon, i Sudowoodo stanno fermi nei dungeon in modo simile ai Sudowoodo di Johto.",
+        "In Pokémon X e Y, un Sudowoodo può essere incontrato nei Gruppi di Pokémon insieme a quattro Trevenant.",
+        "A partire dalla sesta generazione, Sudowoodo rimane immobile durante la sua animazione idle.",
+        "Brassius di Paldea usa un Sudowoodo di teratipo Erba."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sudowoodo.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "sudowoodo",
+    "generation": 2,
+    "height": {
+        "sudowoodo": "1.2 m"
+    },
+    "id": 185,
+    "name": "Sudowoodo",
+    "name_origin": "\"Sudowoodo\" potrebbe essere una combinazione di pseudo, falso, apparente, e wood, legno o bosco. \"Usokkie\" potrebbe essere una combinazione di 嘘 uso, falso, e 木 ki, legno o albero. Potrebbe anche derivare da 嘘つき usotsuki, bugiardo. ",
+    "origin": "Sudowoodo sembra essere basato su un piccolo albero e su un legno fossile, ovvero una pianta che si è fossilizzata nel tempo. Ciò spiegherebbe il suo tipo Roccia puro, poiché tutto il materiale organico nel legno pietrificato viene sostituito con minerali. Potrebbe anche essere basato sul concetto di mimetismo criptico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sudowoodo",
+    "shape": "bipedi",
+    "specie": "Pokémon Imitazione",
+    "sprites": {
+        "sudowoodo": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8a/Homem0185.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0185.png"
+        },
+        "sudowoodo-f": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ac/Homef0185.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/dd/Homefsh0185.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/26/Artwork0185_HGSS.png"
+    },
+    "stats": {
+        "sudowoodo": {
+            "hp": 70,
+            "atk": 100,
+            "def": 115,
+            "spa": 30,
+            "spd": 65,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "sudowoodo": 410
+    },
+    "types": {
+        "sudowoodo": [
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "sudowoodo": "38.0 kg"
+    }
+}

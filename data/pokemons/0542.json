@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "leavanny": {
+            "primary": "Aiutinsetto",
+            "secondary": "Clorofilla",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Leavanny di Ash"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/leavanny.mp3",
+    "dex_entries": {
+        "leavanny": {
+            "black": "Ha l'abitudine di cucire vestiti di foglie per i piccoli Pokémon che incontra, usando le lame sugli arti e filo viscoso.",
+            "white": "Sfrutta il calore dell'humus per covare le sue uova e fabbrica coperte di foglie per avvolgere Sewaddle.",
+            "black-2": "Quando incontra un giovane Pokémon gli fa un vestito di foglie che cuce con il filo appiccicoso prodotto dalla bocca.",
+            "white-2": "Quando incontra un giovane Pokémon gli fa un vestito di foglie che cuce con il filo appiccicoso prodotto dalla bocca.",
+            "x": "Quando incontra un giovane Pokémon gli fa un vestito di foglie che cuce con il filo appiccicoso prodotto dalla bocca.",
+            "y": "Sfrutta il calore dell'humus per covare le sue uova e fabbrica coperte di foglie per avvolgere Sewaddle.",
+            "omega-ruby": "Quando incontra un giovane Pokémon gli fa un vestito di foglie che cuce con il filo appiccicoso prodotto dalla bocca.",
+            "alpha-sapphire": "Sfrutta il calore dell'humus per covare le sue uova e fabbrica coperte di foglie per avvolgere Sewaddle.",
+            "scarlet": "È gentile e ha un forte istinto di protezione. Gli arti fatti di foglie sono così affilati da poter tagliare in due il tronco di un grosso albero.",
+            "violet": "Cuce foglie per farne dei vestiti. Ha un’indole pacifica, ma non ha pietà dei nemici che prendono di mira i Pokémon più giovani."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "leavanny",
+    "generation": 5,
+    "height": {
+        "leavanny": "1.2 m"
+    },
+    "id": 542,
+    "name": "Leavanny",
+    "name_origin": "Leavanny è una combinazione delle parole inglesi leaves  e nanny . Potrebbe inoltre derivare da Levana, la dea protettrice dei neonati nella Roma arcaica. Il nome giapponese Hahakomory deriva invece da 葉 ha , 母 haha  e 子守 komori . Potrebbe inoltre esserci un riferimento al termine ひきこもり hikikomori . ",
+    "origin": "Leavanny è basata su una mantide religiosa o su un insetto appartenente alla famiglia delle Phylliidae e sul baco di Epargyreus Clarus. Il suo \"abbigliamento\" ricorda quello di una casalinga o una baby-sitter, e la foglia sul suo addome potrebbe essere una sorta di grembiule. Ciò è confermato dal suo comportamento, affettuoso verso i piccoli Pokémon, che ricorda anche quello delle femmine dei dermatteri. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Leavanny",
+    "shape": "bipedi",
+    "specie": "Pokémon Balia",
+    "sprites": {
+        "leavanny": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e9/Homem0542.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0542.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8c/Artwork0542_NB.png"
+    },
+    "stats": {
+        "leavanny": {
+            "hp": 75,
+            "atk": 103,
+            "def": 80,
+            "spa": 70,
+            "spd": 80,
+            "spe": 92
+        }
+    },
+    "stats_sum": {
+        "leavanny": 500
+    },
+    "types": {
+        "leavanny": [
+            "Coleot",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "leavanny": "20.5 kg"
+    }
+}

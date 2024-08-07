@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "sandslash": {
+            "primary": "Sabbiavelo",
+            "hidden": "Remasabbia"
+        },
+        "forma-di-alola": {
+            "primary": "Mantelneve",
+            "hidden": "Spalaneve"
+        }
+    },
+    "curiosities": [
+        "Sandshrew e Sandslash condividono la loro categoria con Pikachu, Raichu, Rattata, Raticate, Pawmi e Pawmo. Tutti e otto sono noti come Pokémon Topo.",
+        "Il nome prototipo inglese di Sandslash era \"Sandstorm\".",
+        "Sandslash di Alola e la sua pre-evoluzione Sandshrew di Alola sono i primi Pokémon ad avere la combinazione di tipi Ghiaccio/Acciaio."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sandslash.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "sandslash",
+    "generation": 1,
+    "height": {
+        "sandslash": "1.0 m",
+        "forma-di-alola": "1.2 m"
+    },
+    "id": 28,
+    "name": "Sandslash",
+    "name_origin": "Sandslash potrebbe essere una combinazione di sand, sabbia, e slash, squarciare . Sandpan potrebbe essere una combinazione di sand, sabbia, e pangolin, pangolino. ",
+    "origin": "Sandslash condivide molti tratti fisici simili a quelli di un pangolino. Somiglia anche ad un riccio, ad un porcospino e ad un echidne per via della sua colorazione e dei suoi aghi. Sia Sandshrew che Sandslash possiedono artigli velenosi, simili a quelli dei toporagni. Gli artigli uncinati di Sandslash di Alola, in combinazione alla capacità di farsi strada tra la neve, potrebbero prendere ispirazione dalle piccozze. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sandslash",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Topo",
+    "sprites": {
+        "sandslash": {
+            "default": "https://media.pokemoncentral.it/wiki/1/16/Homem0028.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0028.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8d/Homem0028A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0028A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7f/Artwork0028_RFVF.png"
+    },
+    "stats": {
+        "sandslash": {
+            "hp": 75,
+            "atk": 100,
+            "def": 110,
+            "spa": 45,
+            "spd": 55,
+            "spe": 65
+        },
+        "forma-di-alola": {
+            "hp": 75,
+            "atk": 100,
+            "def": 120,
+            "spa": 25,
+            "spd": 65,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "sandslash": 450,
+        "forma-di-alola": 450
+    },
+    "types": {
+        "sandslash": [
+            "Terra"
+        ],
+        "forma-di-alola": [
+            "Ghiaccio",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "sandslash": "29.5 kg",
+        "forma-di-alola": "55.0 kg"
+    }
+}

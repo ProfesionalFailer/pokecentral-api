@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "charmeleon": {
+            "primary": "Aiutofuoco",
+            "hidden": "Solarpotere"
+        }
+    },
+    "curiosities": [
+        "Charmeleon e Charizard condividono la loro categoria con Flareon, Moltres e Infernape. Tutti e cinque sono noti come Pokémon Fiamma.",
+        "Charmeleon, Quilava e le loro rispettive famiglie evolutive possiedono le stesse statistiche base."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/charmeleon.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "flat_name": "charmeleon",
+    "generation": 1,
+    "height": {
+        "charmeleon": "1.1 m"
+    },
+    "id": 5,
+    "name": "Charmeleon",
+    "name_origin": "Charmeleon potrebbe essere una combinazione di char, carbonizzare, e chameleon, camaleonte. Lizardo potrebbe derivare dall'inglese lizard, lucertola. ",
+    "origin": "Charmeleon e la sua famiglia evolutiva sono basati su una lucertola, probabilmente sulla salamandra mitologica. Secondo Ken Sugimori e Atsuko Nishida, l'artista si è basata su un criterio opposto rispetto alla sua forma finale, il che significa che Charmeleon è direttamente basato su Charizard. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Charmeleon",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Fiamma",
+    "sprites": {
+        "charmeleon": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d0/Homem0005.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0005.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c2/Artwork0005_RFVF.png"
+    },
+    "stats": {
+        "charmeleon": {
+            "hp": 58,
+            "atk": 64,
+            "def": 58,
+            "spa": 80,
+            "spd": 65,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "charmeleon": 405
+    },
+    "types": {
+        "charmeleon": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "charmeleon": "19.0 kg"
+    }
+}

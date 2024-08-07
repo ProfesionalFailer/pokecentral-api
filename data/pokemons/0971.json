@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "greavard": {
+            "primary": "Raccolta",
+            "hidden": "Morbidone"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Spettro",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Lento",
+        "Pokémon di colore Bianco",
+        "Pokémon dalla sagoma n. 08",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pagine con articoli di Johto World",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 290"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/greavard.mp3",
+    "dex_entries": {
+        "greavard": {
+            "scarlet": "Si dice sia rinato da un Pokémon canide selvatico che ha perso la vita senza aver mai avuto contatti con gli esseri umani.",
+            "violet": "Soffre la solitudine e si affeziona facilmente. Se qualcuno gli rivolge anche la più piccola attenzione, inizia a seguirlo ovunque vada."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "greavard",
+    "generation": 9,
+    "height": {
+        "greavard": "0.6 m"
+    },
+    "id": 971,
+    "name": "Greavard",
+    "name_origin": "Greavard è una combinazione di grieve, lutto, graveyard, cimitero, e probabilmente Briard, una razza di cane dal pelo lungo. Bochi deriva da 墓地 bochi, cimitero, ポチ Pochi, un nome comune di cane domestico, e ひとりぼっち hitoribocchi, solitario. ",
+    "origin": "Greavard è probabilmente ispirato ad un cucciolo di Briard, una razza di cane da pastore, come suggerito anche dal suo nome inglese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Greavard",
+    "shape": "quadrupede",
+    "specie": "Pokémon Cantasma",
+    "sprites": {
+        "greavard": {
+            "default": "https://media.pokemoncentral.it/wiki/2/27/Homem0971.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/12/Homemsh0971.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d4/Artwork0971_SV.png"
+    },
+    "stats": {
+        "greavard": {
+            "hp": 50,
+            "atk": 61,
+            "def": 60,
+            "spa": 30,
+            "spd": 55,
+            "spe": 34
+        }
+    },
+    "stats_sum": {
+        "greavard": 290
+    },
+    "types": {
+        "greavard": [
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "greavard": "35.0 kg"
+    }
+}

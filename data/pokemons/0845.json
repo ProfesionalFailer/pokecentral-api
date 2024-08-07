@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "cramorant": {
+            "primary": "Inghiottimissile"
+        }
+    },
+    "curiosities": [
+        "Il nome giapponese di Cramorant è un palindromo.",
+        "Cramorant cromatico non ha Arrokuda/Pikachu cromatico nella sua Forma Inghiottitutto/Inghiottintero.",
+        "È stato annunciato il 5 settembre 2019 in occasione di un Nintendo Direct."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/cramorant.mp3",
+    "dex_entries": {
+        "cramorant": {
+            "sword": "È così potente che può sconfiggere l'avversario in un colpo solo, ma è talmente smemorato che si dimentica perfino con chi stava lottando.",
+            "shield": "È molto ingordo e ingoia tutti interi gli Arrokuda di cui si nutre. A volte ingoia anche altri Pokémon per sbaglio."
+        },
+        "forma-inghiottitutto": {
+            "sword": "Nella sua ingordigia, ha cercato di mangiare un Arrokuda enorme, ma gli è rimasto incastrato in gola.",
+            "shield": "Può bastare un piccolo spavento per fargli sputare con forza l'Arrokuda che ha incastrato in gola."
+        },
+        "forma-inghiottintero": {
+            "sword": "Ha cercato per sbaglio di mangiare un Pikachu, che gli è rimasto incastrato in gola. È un po' doloroso, ma non ci fa troppo caso.",
+            "shield": "Il Pikachu che ha incastrato in gola è ancora sotto shock. Se ne sta immobile, ma attende il momento giusto per passare all'azione."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Volante"
+    ],
+    "flat_name": "cramorant",
+    "generation": 8,
+    "height": {
+        "cramorant": "0.8 m"
+    },
+    "id": 845,
+    "name": "Cramorant",
+    "name_origin": "Cramorant potrebbe essere una combinazione di cram, riempire o ammassare, e cormorant, cormorano. Uu potrebbe essere una combinazione di ウッ u~, rumore di soffocamento, e 鵜 u, cormorano. ",
+    "origin": "Cramorant potrebbe essere basato su due uccelli marini comunemente presenti nelle Isole britanniche: il cormorano e il fulmaro, un uccello che utilizza i propri rigurgiti per difendersi dai suoi predatori. L'abilità di Cramorant potrebbe essere ispirata sulla pesca con il cormorano, un'antica tecnica di pesca che consiste nell'utilizzare cormorani addestrati a pescare e a sputare il pesce pescato. Il piumaggio nel collo ricorda un bavaglino. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Cramorant",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Inghiottone",
+    "sprites": {
+        "cramorant": {
+            "default": "https://media.pokemoncentral.it/wiki/2/26/Homem0845.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/73/Homemsh0845.png"
+        },
+        "forma-inghiottitutto": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c7/Homem0845T.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d6/Homemsh0845T.png"
+        },
+        "forma-inghiottintero": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ef/Homem0845I.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/99/Homemsh0845I.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/af/Artwork0845_SpSc.png"
+    },
+    "stats": {
+        "cramorant": {
+            "hp": 70,
+            "atk": 85,
+            "def": 55,
+            "spa": 85,
+            "spd": 95,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "cramorant": 475
+    },
+    "types": {
+        "cramorant": [
+            "Volante",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "cramorant": "18.0 kg"
+    }
+}

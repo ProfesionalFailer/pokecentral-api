@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "smoliv": {
+            "primary": "Sveglialampo",
+            "hidden": "Coglibacche"
+        }
+    },
+    "curiosities": [
+        "L'oliva verde sulla testa di questo Pokémon diventa nera nella versione cromatica, a simboleggiare i due diversi tipi di oliva esistenti. Stessa cosa per Dolliv, la sua evoluzione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/smoliv.mp3",
+    "dex_entries": {
+        "smoliv": {
+            "scarlet": "Si protegge dai nemici secernendo un olio dal gusto incredibilmente amaro e allappante dal frutto che ha sulla testa.",
+            "violet": "Trasforma in olio ciò di cui si nutre e lo conserva nel frutto sulla testa. Può facilmente resistere senza bere né mangiare per una settimana intera."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "smoliv",
+    "generation": 9,
+    "height": {
+        "smoliv": "0.3 m"
+    },
+    "id": 928,
+    "name": "Smoliv",
+    "name_origin": "Smoliv potrebbe derivare da smol, gergo dell'internet per small, piccolo, e olive.",
+    "origin": "Smoliv potrebbe essere basato su un'oliva verde. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Smoliv",
+    "shape": "testa e base",
+    "specie": "Pokémon Oliva",
+    "sprites": {
+        "smoliv": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f5/Homem0928.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0928.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/23/Artwork0928_SV.png"
+    },
+    "stats": {
+        "smoliv": {
+            "hp": 41,
+            "atk": 35,
+            "def": 45,
+            "spa": 58,
+            "spd": 51,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "smoliv": 260
+    },
+    "types": {
+        "smoliv": [
+            "Erba",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "smoliv": "6.5 kg"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "marshtomp": {
+            "primary": "Acquaiuto",
+            "hidden": "Umidità"
+        }
+    },
+    "curiosities": [
+        "Marshtomp è l'unico starter di tipo Acqua di primo stadio con due tipi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/marshtomp.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Acqua 1"
+    ],
+    "flat_name": "marshtomp",
+    "generation": 3,
+    "height": {
+        "marshtomp": "0.70 m"
+    },
+    "id": 259,
+    "name": "Marshtomp",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi marsh  e stomp . Il suo nome giapponese, ヌマクロー Numacraw, probabilmente deriva da 沼 numa  e da crawfish . ",
+    "origin": "Marshtomp sembra essere basato su una specie di saltafango o su un Ambystoma mexicanum. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Marshtomp",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Fango Pesce",
+    "sprites": {
+        "marshtomp": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8d/Homem0259.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0259.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/23/Artwork0259_RZ.png"
+    },
+    "stats": {
+        "marshtomp": {
+            "hp": 70,
+            "atk": 85,
+            "def": 70,
+            "spa": 60,
+            "spd": 70,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "marshtomp": 405
+    },
+    "types": {
+        "marshtomp": [
+            "Terra",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "marshtomp": "28 kg"
+    }
+}

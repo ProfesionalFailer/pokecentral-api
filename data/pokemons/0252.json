@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "treecko": {
+            "primary": "Erbaiuto",
+            "hidden": "Agiltecnica"
+        }
+    },
+    "curiosities": [
+        "Treecko e Snivy sono gli unici starter di tipo Erba a non imparare Foglielama.",
+        "Tra tutti i Pokémon di tipo Erba, la linea evolutiva di Treecko è l'unica, insieme a quella di Lileep, a non appartenere al Gruppo Uova Erba.\n\tTreecko, infatti, assieme alle sue evoluzioni, è l'unico Pokémon di tipo Erba ad appartenere al Gruppo Uova Drago.",
+        "Treecko, infatti, assieme alle sue evoluzioni, è l'unico Pokémon di tipo Erba ad appartenere al Gruppo Uova Drago."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/treecko.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "flat_name": "treecko",
+    "generation": 3,
+    "height": {
+        "treecko": "0.5 m"
+    },
+    "id": 252,
+    "name": "Treecko",
+    "name_origin": "Treecko è una combinazione di tree, albero e gecko, geco. Kimori è una combinazione di 木 ki, albero e 森 mori, foresta o ヤモリ yamori, geco. ",
+    "origin": "Treecko, come dice il nome della specie, è basato su un geco, probabilmente sul geco coda a foglia, che ha la coda simile a una foglia, proprio come Treecko. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Treecko",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Legnogeco",
+    "sprites": {
+        "treecko": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6d/Homem0252.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/78/Homemsh0252.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bb/Artwork0252_ROZA.png"
+    },
+    "stats": {
+        "treecko": {
+            "hp": 40,
+            "atk": 45,
+            "def": 35,
+            "spa": 65,
+            "spd": 55,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "treecko": 310
+    },
+    "types": {
+        "treecko": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "treecko": "5.0 kg"
+    }
+}

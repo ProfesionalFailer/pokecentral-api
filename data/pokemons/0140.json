@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "kabuto": {
+            "primary": "Nuotovelox",
+            "secondary": "Lottascudo",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Nella versione beta di Pokémon Rosso e Blu il suo nome era \"Att\" .",
+        "La linea evolutiva di Kabuto condivide la specie con Blastoise. Sono tutti Pokémon Crostaceo.",
+        "Gli sprite di Rosso e Blu mostrano Kabuto col guscio liscio. Nelle generazioni successive ha delle rientranze.",
+        "In terza generazione, Kabuto può imparare Aeroassalto tramite MT40, ma non può più farlo nelle generazioni successive.",
+        "Kabuto è uno dei cinque Pokémon di Kanto la cui cessione di punti esperienza è cambiata, da 119 a 99. Gli altri sono Abra, Machop, Geodude e Omanyte.",
+        "Kabuto e Kabutops possono imparare Idropompa in prima generazione, ai livelli rispettivamente 49 e 53. Tuttavia non possono più apprendere questa mossa in nessun modo nelle generazioni successive."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kabuto.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 3"
+    ],
+    "flat_name": "kabuto",
+    "generation": 1,
+    "height": {
+        "kabuto": "0.5 m"
+    },
+    "id": 140,
+    "name": "Kabuto",
+    "name_origin": "Il suo nome potrebbe derivare sia dalla parola giapponese 兜 kabuto  che dalla parola 兜蟹 kabutogani . ",
+    "origin": "Il design di Kabuto è basato su un trilobita mescolato con un limulo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kabuto",
+    "shape": "insettoide",
+    "specie": "Pokémon Crostaceo",
+    "sprites": {
+        "kabuto": {
+            "default": "https://media.pokemoncentral.it/wiki/6/68/Homem0140.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/34/Homemsh0140.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0f/Artwork0140_RFVF.png"
+    },
+    "stats": {
+        "kabuto": {
+            "hp": 30,
+            "atk": 80,
+            "def": 90,
+            "spa": 55,
+            "spd": 45,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "kabuto": 355
+    },
+    "types": {
+        "kabuto": [
+            "Roccia",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "kabuto": "11.5 kg"
+    }
+}

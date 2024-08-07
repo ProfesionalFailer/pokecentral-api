@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "scovillain": {
+            "primary": "Clorofilla",
+            "secondary": "Insonnia",
+            "hidden": "Altalena"
+        }
+    },
+    "curiosities": [
+        "Scovillain è il primo Pokémon ad avere la combinazione di tipi Erba/Fuoco. Prima de la maschera turchese, era anche l'unico.\n\tCiò lo rende l'unico Pokémon di tipo Fuoco ad avere l'abilità Clorofilla.\n\tÈ l'unico Pokémon la cui combinazione di tipi ha smesso di essere unica nella stessa generazione in cui è stato introdotto.",
+        "Ciò lo rende l'unico Pokémon di tipo Fuoco ad avere l'abilità Clorofilla.",
+        "È l'unico Pokémon la cui combinazione di tipi ha smesso di essere unica nella stessa generazione in cui è stato introdotto.",
+        "Scovillain è l'unico Pokémon con l'abilità Altalena ad avere questa abilità sin dal proprio gioco di introduzione, poiché tutti gli altri Pokémon che la hanno sono stati introdotti prima della quinta generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/scovillain.mp3",
+    "dex_entries": {
+        "scovillain": {
+            "scarlet": "La testa rossa trasforma le proprie sostanze pungenti in energia Fuoco che usa per lanciare fiammate superpiccanti.",
+            "violet": "Le sue sostanze piccanti influiscono sul cervello della testa verde, rendendola feroce. Quando va fuori di senno, non c'è modo di fermarla."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "scovillain",
+    "generation": 9,
+    "height": {
+        "scovillain": "0.9 m"
+    },
+    "id": 952,
+    "name": "Scovillain",
+    "name_origin": "Scovillain è la combinazione di Scoville, riferimento alla scala di Scoville, ovvero la scala utilizzata per misurare la piccantezza, e villain, inglese per cattivo. ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Scovillain",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Habanero",
+    "sprites": {
+        "scovillain": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ad/Homem0952.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0952.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d8/Artwork0952_SV.png"
+    },
+    "stats": {
+        "scovillain": {
+            "hp": 65,
+            "atk": 108,
+            "def": 65,
+            "spa": 108,
+            "spd": 65,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "scovillain": 486
+    },
+    "types": {
+        "scovillain": [
+            "Fuoco",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "scovillain": "15.0 kg"
+    }
+}

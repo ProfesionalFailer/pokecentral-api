@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "girafarig": {
+            "primary": "Forza Interiore",
+            "secondary": "Sveglialampo",
+            "hidden": "Mangiaerba"
+        }
+    },
+    "curiosities": [
+        "Il primo disegno di Girafarig era simile a una giraffa la cui parte anteriore e posteriore erano quasi identiche .",
+        "Prima della quinta generazione Girafarig aveva una combinazione di tipi unica.",
+        "Il suo nome è un palindromo. Condivide questa peculiarità con Eevee, Ho-Oh, Alomomola e con la sua evoluzione Farigiraf.\n\tKirinriki, il nome giapponese di Girafarig, è palindromo anche quando scritto in katakana.",
+        "Kirinriki, il nome giapponese di Girafarig, è palindromo anche quando scritto in katakana.",
+        "Nella sedicesima edizione della Gazzetta PKMN la sua coda viene considerata una delle sette meraviglie dei Pokémon, insieme agli svariati disegni del corpo di Arbok, l'interno del guscio di Forretress ed ai piedi di Diglett.",
+        "Assieme a Dunsparce, Girafarig è il Pokémon che ha atteso più tempo per ricevere un evoluzione ."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/girafarig.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "girafarig",
+    "generation": 2,
+    "height": {
+        "girafarig": "1.5 m"
+    },
+    "id": 203,
+    "name": "Girafarig",
+    "name_origin": "Il suo nome, come detto prima, è un palindromo, la cui base è giraf, che deriva dalla parola inglese giraffe  ",
+    "origin": "È basato su un giraffocerice, con alcuni elementi delle giraffe e degli okapi. Il piccolo cervello della coda potrebbe essere basato su quello che alcuni paleontologi descrivevano come \"secondo cervello\" dello stegosauro, che doveva trovarsi proprio nella coda. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Girafarig",
+    "shape": "quadrupede",
+    "specie": "Pokémon Lungocollo",
+    "sprites": {
+        "girafarig": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8e/Homem0203.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/94/Homemsh0203.png"
+        },
+        "girafarig-f": {
+            "default": "https://media.pokemoncentral.it/wiki/3/38/Homef0203.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c9/Homefsh0203.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6b/Artwork0203_HGSS.png"
+    },
+    "stats": {
+        "girafarig": {
+            "hp": 70,
+            "atk": 80,
+            "def": 65,
+            "spa": 90,
+            "spd": 65,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "girafarig": 455
+    },
+    "types": {
+        "girafarig": [
+            "Psico",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "girafarig": "41.5 kg"
+    }
+}

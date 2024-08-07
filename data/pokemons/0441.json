@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "chatot": {
+            "primary": "Sguardofermo",
+            "secondary": "Intricopiedi",
+            "hidden": "Pettinfuori"
+        }
+    },
+    "curiosities": [
+        "Nonostante la sua coda sia un metronomo, Chatot non è in grado di imparare la mossa Metronomo perché il nome giapponese della mossa significa \"agitare il dito\" .",
+        "In quarta e quinta generazione era possibile cambiare il verso di Chatot tramite Schiamazzo al di fuori di una lotta parlando nel microfono della console.",
+        "Prima della sesta generazione il verso di Chatot era l'unico a non essere riprodotto in modo distorto se il Pokémon andava KO o entrava in campo mentre era afflitto da un problema di stato, anche se il verso non era stato modificato tramite Schiamazzo.",
+        "Chatot è l'unico Pokémon non leggendario o misterioso  ad essere bandito dalla Global Battle Union di quinta generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/chatot.mp3",
+    "dex_entries": {
+        "chatot": {
+            "diamond": "Può imparare il linguaggio umano. Se un gruppo si raduna, tutti imparano le stesse parole.",
+            "pearl": "Mantiene il ritmo muovendo le piume della coda come un metronomo. Imita il linguaggio umano.",
+            "platinum": "La sua lingua è uguale a quella degli uomini. Gli riesce quindi facile imitare la voce umana.",
+            "heartgold": "Imita la voce dei nemici per far credere che è dei loro, evitando così di essere assalito.",
+            "soulsilver": "Imita la voce dei nemici per far credere che è dei loro, evitando così di essere assalito.",
+            "black": "La sua lingua è uguale a quella degli uomini. Gli riesce quindi facile imitare la voce umana.",
+            "white": "La sua lingua è uguale a quella degli uomini. Gli riesce quindi facile imitare la voce umana.",
+            "black-2": "La sua lingua è uguale a quella degli uomini. Gli riesce quindi facile imitare la voce umana.",
+            "white-2": "La sua lingua è uguale a quella degli uomini. Gli riesce quindi facile imitare la voce umana.",
+            "x": "Imita la voce dei nemici per far credere che è dei loro, evitando così di essere assalito.",
+            "y": "Può imparare il linguaggio umano. Se un gruppo si raduna, tutti imparano le stesse parole.",
+            "omega-ruby": "Imita la voce dei nemici per far credere che è dei loro, evitando così di essere assalito.",
+            "alpha-sapphire": "Può imparare il linguaggio umano. Se un gruppo si raduna, tutti imparano le stesse parole.",
+            "brilliant-diamond": "Memorizza e riproduce il linguaggio umano. Se forma un gruppo con altri suoi simili, imparano tutti le stesse parole.",
+            "shining-pearl": "Batte il tempo muovendo le piume della coda come se fosse un metronomo. Sa imitare il linguaggio umano.",
+            "legends-arceus": "Maestro nel simulare gli idiomi umani. Pare che, cogli anni e l'esperienza, taluni esemplari imparino finanche a comprendere ciò che simulano."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "chatot",
+    "generation": 4,
+    "height": {
+        "chatot": "0.5 m"
+    },
+    "id": 441,
+    "name": "Chatot",
+    "name_origin": "Probabilmente il nome deriva dal verbo inglese chat, chiacchierare, chattare, e dal sostantivo parrot, pappagallo. ",
+    "origin": "Chatot è basato su un pappagallo, probabilmente l'inseparabile mascherato. Presenta inoltre caratteristiche di un metronomo e una croma. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chatot",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Musicale",
+    "sprites": {
+        "chatot": {
+            "default": "https://media.pokemoncentral.it/wiki/7/70/Homem0441.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0441.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/af/Artwork0441_DP.png"
+    },
+    "stats": {
+        "chatot": {
+            "hp": 76,
+            "atk": 65,
+            "def": 45,
+            "spa": 92,
+            "spd": 42,
+            "spe": 91
+        }
+    },
+    "stats_sum": {
+        "chatot": 411
+    },
+    "types": {
+        "chatot": [
+            "Volante",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "chatot": "1.9 kg"
+    }
+}

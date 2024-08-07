@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "jigglypuff": {
+            "primary": "Incantevole",
+            "secondary": "Tenacia",
+            "hidden": "Amicoscudo"
+        }
+    },
+    "curiosities": [
+        "Jigglypuff è tipicamente raffigurato nella serie di Smash Bros. ed altri giochi 3D, in Un Jigglypuff imprendibile e in altri episodi dell'anime e nell'artwork di Ken Sugimori, con gli occhi verdi e la pelliccia rosa tè, più simile alla sua forma cromatica.",
+        "Jigglypuff condivide la sua specie Pokémon con Igglybuff, Wigglytuff, Qwilfish e Drifloon: sono tutti conosciuti come Pokémon Pallone.",
+        "Lo sprite di Jigglypuff di Cristallo è diverso da quello di Oro e Argento. Questo lo rende uno dei pochi Pokémon ad avere tre diversi sprite in seconda generazione.",
+        "Nella serie Super Smash, Jigglypuff è l'unico Pokémon ad aver mantenuto la sua originale voce in tutti e quattro i giochi.",
+        "Jigglypuff è uno dei pochi Pokémon a poter essere catturato in ogni gioco della serie principale di ogni generazione, tra cui i remake e giochi spin-off.",
+        "L'evento numero 39 di Super Smash Bros. Melee consiste in uno scontro in cui tutti i partecipanti sono Jigglypuff. Il numero dell'evento è un riferimento al numero di Jigglypuff nel Pokédex Nazionale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/jigglypuff.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Magico"
+    ],
+    "flat_name": "jigglypuff",
+    "generation": 1,
+    "height": {
+        "jigglypuff": "0.5 m"
+    },
+    "id": 39,
+    "name": "Jigglypuff",
+    "name_origin": "Il nome di Jigglypuff è una combinazione tra jiggly  e puff , riferendosi alla sua camminata barcollante e alla capacità di gonfiarsi. L'origine del suo nome giapponese è stata a lungo dibattuta, ma si crede che possa semplicemente derivare dalla parola giapponese プリン purin . Può anche essere una combinazione tra 风船 fusen  e 膨れる fukureru . ",
+    "origin": "Sembra essere basato su un pallone e su un puff rosa. A causa del suo colore, la forma e la capacità di gonfiarsi e fluttuare, Jigglypuff potrebbe anche essere stato basato su Kirby. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Jigglypuff",
+    "shape": "bipedi",
+    "specie": "Pokémon Pallone",
+    "sprites": {
+        "jigglypuff": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0039.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8e/Homemsh0039.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b5/Artwork0039_RFVF.png"
+    },
+    "stats": {
+        "jigglypuff": {
+            "hp": 115,
+            "atk": 45,
+            "def": 20,
+            "spa": 45,
+            "spd": 25,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "jigglypuff": 270
+    },
+    "types": {
+        "jigglypuff": [
+            "Folletto",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "jigglypuff": "5.5 kg"
+    }
+}

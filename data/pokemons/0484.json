@@ -1,0 +1,97 @@
+{
+    "abilities": {
+        "palkia": {
+            "primary": "Pressione",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Palkia potrebbe rappresentare lo stato di aggregazione liquido.",
+        "Palkia, come Blastoise, Venusaur, Ho-Oh, Dialga, Xerneas, Yveltal, Solgaleo e Lunala condivide l'iniziale del nome col gioco di cui fa la mascotte.",
+        "Anche se Palkia non ha sesso nei videogiochi principali, è maschio nella serie Mystery Dungeon.",
+        "Palkia è l'unico Pokémon nel gruppo QI J.",
+        "In Mystery Dungeon, i dialoghi di Palkia, insieme a quelli di Dialga Oscuro, dei golem leggendari, della famiglia di Magnemite e di Regigigas, sono scritti tutti in maiuscolo.",
+        "Nei giochi di settima generazione Palkia impara Idrondata due volte: al livello 24 e di nuovo al 42."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/palkia.mp3",
+    "dex_entries": {
+        "palkia": {
+            "diamond": "Ha l'abilità di distorcere lo spazio. Nella mitologia della regione di Sinnoh è una divinità.",
+            "pearl": "Si dice che viva in una dimensione parallela alla nostra. Appare nella mitologia.",
+            "platinum": "Pokémon leggendario della regione di Sinnoh. Si dice che lo spazio diventi più stabile al suo respiro.",
+            "heartgold": "Regola a piacimento le snodature dello spazio, potendo così viaggiare in luoghi lontani o altre dimensioni.",
+            "soulsilver": "Regola a piacimento le snodature dello spazio, potendo così viaggiare in luoghi lontani o altre dimensioni.",
+            "black": "Pokémon leggendario della regione di Sinnoh. Si dice che lo spazio diventi più stabile al suo respiro.",
+            "white": "Pokémon leggendario della regione di Sinnoh. Si dice che lo spazio diventi più stabile al suo respiro.",
+            "black-2": "Pokémon leggendario della regione di Sinnoh. Si dice che lo spazio diventi più stabile al suo respiro.",
+            "white-2": "Pokémon leggendario della regione di Sinnoh. Si dice che lo spazio diventi più stabile al suo respiro.",
+            "x": "Si dice che viva in una dimensione parallela alla nostra. Appare nella mitologia.",
+            "y": "Ha l'abilità di distorcere lo spazio. Nella mitologia della regione di Sinnoh è una divinità.",
+            "omega-ruby": "Si dice che viva in una dimensione parallela alla nostra. Appare nella mitologia.",
+            "alpha-sapphire": "Ha l'abilità di distorcere lo spazio. Nella mitologia della regione di Sinnoh è una divinità.",
+            "brilliant-diamond": "Ha l'abilità di distorcere lo spazio. Nella mitologia della regione di Sinnoh viene rappresentato come una divinità.",
+            "shining-pearl": "Di lui si narra nella mitologia. Si dice che viva in uno squarcio fra dimensioni parallele.",
+            "legends-arceus": "È temuto quale divinità in certe leggende di Hisui. Al suo divenire, gli argini che cingevano il mondo terreno sparirono, cedendo il posto a un cielo sconfinato."
+        },
+        "forma-originale": {
+            "legends-arceus": "Vederlo solcare i cieli mi riporta alla mente l'entità creatrice. Che, imitandone la forma, stia forse cercando di impadronirsi del suo potere?"
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "palkia",
+    "generation": 4,
+    "height": {
+        "palkia": "4.2 m"
+    },
+    "id": 484,
+    "name": "Palkia",
+    "name_origin": "Dovrebbe derivare dalla parola pearl, perla, e dal corrispondente giapponese パール paru, perla. ",
+    "origin": "Basato sulle leggende di Izanami e Izanagi. Il suo aspetto ricorda quello di un Plateosaurus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Palkia",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Spazio",
+    "sprites": {
+        "palkia": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8d/Homem0484.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c3/Homemsh0484.png"
+        },
+        "forma-originale": {
+            "default": "https://media.pokemoncentral.it/wiki/7/70/Homem0484O.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ee/Homemsh0484O.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ad/Artwork0484_DLPS.png"
+    },
+    "stats": {
+        "palkia": {
+            "hp": 90,
+            "atk": 120,
+            "def": 100,
+            "spa": 150,
+            "spd": 120,
+            "spe": 100
+        },
+        "forma-originale": {
+            "hp": 90,
+            "atk": 100,
+            "def": 100,
+            "spa": 150,
+            "spd": 120,
+            "spe": 120
+        }
+    },
+    "stats_sum": {
+        "palkia": 680,
+        "forma-originale": 680
+    },
+    "types": {
+        "palkia": [
+            "Drago",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "palkia": "336.0 kg"
+    }
+}

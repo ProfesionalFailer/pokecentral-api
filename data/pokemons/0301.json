@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "delcatty": {
+            "primary": "Incantevole",
+            "secondary": "Normalità",
+            "hidden": "Splendicute"
+        }
+    },
+    "curiosities": [
+        "Al momento della nona generazione, la distribuzione dei punti base ceduti di Delcatty  è unica.",
+        "Nonostante Delcatty e Skitty siano disponibili in Pokémon Diamante Lucente e Perla Splendente, la loro ex mossa peculiare, Assistente, è inutilizzabile a partire dall'ottava generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/delcatty.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo",
+        "Magico"
+    ],
+    "flat_name": "delcatty",
+    "generation": 3,
+    "height": {
+        "delcatty": "1.10 m"
+    },
+    "id": 301,
+    "name": "Delcatty",
+    "name_origin": "Deriva dalle parole delicate, elegante o delicious , delizioso, cat, gatto e kitty, gattino. ",
+    "origin": "Ricorda un gatto domestico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Delcatty",
+    "shape": "quadrupede",
+    "specie": "Pokémon Finezza",
+    "sprites": {
+        "delcatty": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c3/Homem0301.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ab/Homemsh0301.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e2/Artwork0301_RZ.png"
+    },
+    "stats": {
+        "delcatty": {
+            "hp": 70,
+            "atk": 65,
+            "def": 65,
+            "spa": 55,
+            "spd": 55,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "delcatty": 400
+    },
+    "types": {
+        "delcatty": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "delcatty": "32.6 kg"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "flareon": {
+            "primary": "Fuocardore",
+            "hidden": "Dentistretti"
+        }
+    },
+    "curiosities": [
+        "Flareon è l'unico Pokémon di tipo Fuoco a non poter imparare Solarraggio.",
+        "Flareon condivide lo stesso nome della Specie con Charmeleon, Charizard, Moltres e Infernape: sono tutti Pokémon Fiamma.",
+        "Tutte le voci Pokédex di Flareon fanno riferimento alla temperatura della sua fiamma o del suo corpo.",
+        "Nonostante abbia l'attacco fisico più alto di quello speciale, l'unica mossa fisica che Flareon poteva imparare aumentando di livello e che poteva usufruire del bonus di tipo fino alla quarta generazione era soltanto Rogodenti."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/flareon.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "flareon",
+    "generation": 1,
+    "height": {
+        "flareon": "0.9 m"
+    },
+    "id": 136,
+    "name": "Flareon",
+    "name_origin": "Il suo nome deriva dalle parole inglesi flare  e eon , suffisso per ogni Eevoluzione. ",
+    "origin": "Si basa su una volpe per via della sua forma corporea e del colorito, ma ha anche tratti felini, la coda soffice e il pelo intorno al collo ricordano un volpino e la criniera di un leone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Flareon",
+    "shape": "quadrupede",
+    "specie": "Pokémon Fiamma",
+    "sprites": {
+        "flareon": {
+            "default": "https://media.pokemoncentral.it/wiki/2/29/Homem0136.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0136.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4b/Artwork0136_RFVF.png"
+    },
+    "stats": {
+        "flareon": {
+            "hp": 65,
+            "atk": 130,
+            "def": 60,
+            "spa": 95,
+            "spd": 110,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "flareon": 525
+    },
+    "types": {
+        "flareon": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "flareon": "25.0 kg"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "volbeat": {
+            "primary": "Risplendi",
+            "secondary": "Aiutinsetto",
+            "hidden": "Burla"
+        }
+    },
+    "curiosities": [
+        "Fino alla quarta generazione Volbeat era l'unico Pokémon in grado di apprendere la mossa Codadiluce.",
+        "La sua controparte femminile è Illumise, con la quale condivide la categoria. Sono infatti entrambi il Pokémon Lucciola.",
+        "In terza generazione Volbeat poteva imparare per livello ben tre mosse che nessun altro Pokémon poteva imparare allo stesso modo: Codadiluce, Flash e Segnoraggio."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/volbeat.mp3",
+    "dex_entries": {
+        "volbeat": {
+            "ruby": "Quando cala la notte, VOLBEAT emette una luce intensa dalla coda. Comunica con gli altri regolando l'intensità e l'intermittenza della propria luce. Il POKéMON è attratto dal dolce aroma di ILLUMISE.",
+            "sapphire": "La coda di VOLBEAT si illumina come una lampadina. Assieme ai suoi simili usa la coda per tracciare figure geometriche nel cielo notturno. Questo POKéMON ama il dolce aroma emanato da ILLUMISE.",
+            "emerald": "Insieme ai suoi simili, VOLBEAT traccia figure geometriche nel cielo notturno con la sua coda illuminata. Se l'acqua dello stagno si sporca, fa il suo nido altrove.",
+            "firered": "Vive vicino a stagni puliti. Di notte, la sua coda lancia una luce intermittente per comunicare.",
+            "leafgreen": "Vive vicino a stagni puliti. Di notte, la sua coda lancia una luce intermittente per comunicare.",
+            "diamond": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di ILLUMISE.",
+            "pearl": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di ILLUMISE.",
+            "platinum": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di ILLUMISE.",
+            "heartgold": "Lancia una luce intermittente dalla coda per comunicare. È attratto dal dolce aroma di ILLUMISE.",
+            "soulsilver": "Lancia una luce intermittente dalla coda per comunicare. È attratto dal dolce aroma di ILLUMISE.",
+            "black": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di Illumise.",
+            "white": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di Illumise.",
+            "black-2": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di Illumise.",
+            "white-2": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di Illumise.",
+            "x": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di Illumise.",
+            "y": "Vive vicino a stagni puliti. Di notte, la sua coda lancia una luce intermittente per comunicare.",
+            "omega-ruby": "Quando cala la notte, Volbeat emette una luce intensa dalla coda. Comunica con gli altri regolando l'intensità e l'intermittenza della propria luce. Il Pokémon è attratto dal dolce aroma di Illumise.",
+            "alpha-sapphire": "La coda di Volbeat si illumina come una lampadina. Assieme ai suoi simili usa la coda per tracciare figure geometriche nel cielo notturno. Questo Pokémon ama il dolce aroma emanato da Illumise.",
+            "brilliant-diamond": "Di notte comunica con i suoi simili emettendo luce dalla coda. Ama il dolce aroma di Illumise.",
+            "shining-pearl": "Di notte comunica con i suoi simili emettendo luce dalla coda. Ama il dolce aroma di Illumise.",
+            "scarlet": "Vive vicino a stagni puliti. Di notte comunica con i suoi simili utilizzando la luce intermittente della coda.",
+            "violet": "Comunica con i suoi simili grazie alla luce intermittente della coda. Adora il dolce aroma di Illumise."
+        }
+    },
+    "egg_groups": [
+        "Coleottero",
+        "Umanoide"
+    ],
+    "flat_name": "volbeat",
+    "generation": 3,
+    "height": {
+        "volbeat": "0.70 m"
+    },
+    "id": 313,
+    "name": "Volbeat",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi volt, per la sua capacità di illuminare, e beetle, coleottero, insetto, o beat, battito, forse riferito al lampeggiare della coda. Potrebbe essere ispirato anche all'omonimo gruppo musicale danese. ",
+    "origin": "È basato su di una lucciola. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Volbeat",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Lucciola",
+    "sprites": {
+        "volbeat": {
+            "default": "https://media.pokemoncentral.it/wiki/1/12/Homem0313.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/29/Homemsh0313.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/00/Artwork0313_RZ.png"
+    },
+    "stats": {
+        "volbeat": {
+            "hp": 65,
+            "atk": 73,
+            "def": 75,
+            "spa": 47,
+            "spd": 85,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "volbeat": 430
+    },
+    "types": {
+        "volbeat": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "volbeat": "17.7 kg"
+    }
+}

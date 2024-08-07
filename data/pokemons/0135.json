@@ -1,0 +1,57 @@
+{
+    "abilities": {
+        "jolteon": {
+            "primary": "Assorbivolt",
+            "hidden": "Piedisvelti"
+        }
+    },
+    "curiosities": [
+        "Jolteon è il Pokémon più leggero tra tutte le Eeveeluzioni.",
+        "Assieme a Glaceon è tra le evoluzioni di Eevee il più piccolo con 80 cm di altezza."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/jolteon.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "jolteon",
+    "generation": 1,
+    "height": {
+        "jolteon": "0.8 m"
+    },
+    "id": 135,
+    "name": "Jolteon",
+    "name_origin": "Il nome di Jolteon deriva dall'unione della parola jolt  seguito dal suffisso -eon, comune a tutte le evoluzioni di Eevee. ",
+    "origin": "Jolteon ha un'anatomia fisica simile a quella di un cane pastore o di una volpe fennec con svariati tratti da coyote. Possiede anche tratti di felini come l'alta velocità dei ghepardi, potrebbe essere ispirato a Raiju, creatura mitologica giapponese fatta di fulmini che può assumere l'aspetto di un gatto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Jolteon",
+    "shape": "quadrupede",
+    "specie": "Pokémon Luminoso",
+    "sprites": {
+        "jolteon": {
+            "default": "https://media.pokemoncentral.it/wiki/d/dc/Homem0135.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/21/Homemsh0135.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/55/Artwork0135_RFVF.png"
+    },
+    "stats": {
+        "jolteon": {
+            "hp": 65,
+            "atk": 65,
+            "def": 60,
+            "spa": 110,
+            "spd": 95,
+            "spe": 130
+        }
+    },
+    "stats_sum": {
+        "jolteon": 525
+    },
+    "types": {
+        "jolteon": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "jolteon": "24.5 kg"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "octillery": {
+            "primary": "Ventose",
+            "secondary": "Cecchino",
+            "hidden": "Altalena"
+        }
+    },
+    "curiosities": [
+        "Il nome giapponese della sua mossa esclusiva, Octazooka, significa letteralmente Cannone Okutank. Questo fa di Octillery l'unico Pokémon con una mossa con il suo nome dentro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/octillery.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 2"
+    ],
+    "flat_name": "octillery",
+    "generation": 2,
+    "height": {
+        "octillery": "0.9 m"
+    },
+    "id": 224,
+    "name": "Octillery",
+    "name_origin": "Il nome deriva dall'unione della parola octopus, polpo, con la parola inglese artillery, artiglieria. ",
+    "origin": "È basato su un polpo. Il nome della sua mossa esclusiva fa pensare che sia basato su un bazooka, ma può mostrare somiglianze anche ad un carro armato. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Octillery",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Jet",
+    "sprites": {
+        "octillery": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9f/Homem0224.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/04/Homemsh0224.png"
+        },
+        "octillery-f": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a7/Homef0224.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/dc/Homefsh0224.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d1/Artwork0224_HGSS.png"
+    },
+    "stats": {
+        "octillery": {
+            "hp": 75,
+            "atk": 105,
+            "def": 75,
+            "spa": 105,
+            "spd": 75,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "octillery": 480
+    },
+    "types": {
+        "octillery": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "octillery": "28.5 kg"
+    }
+}

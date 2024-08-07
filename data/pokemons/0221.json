@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "piloswine": {
+            "primary": "Indifferenza",
+            "secondary": "Mantelneve",
+            "hidden": "Grassospesso"
+        }
+    },
+    "curiosities": [
+        "Prima della quarta generazione, Piloswine poteva imparare Forzantica per allevamento o allenando uno Swinub Ombra catturato in Pokémon XD; tuttavia non si poteva evolvere in Mamoswine.",
+        "Per via della loro combinazione unica di tipi, Piloswine e la sua famiglia sono gli unici Pokémon immuni a tutte le condizioni meteorologiche. In ogni caso, Piloswine non poteva essere un Pokémon Ombra in Pokémon XD, quindi in quel gioco riceve i danni di Cieloscuro.",
+        "È l'unico Pokémon che conosce la mossa necessaria alla sua evoluzione dall'inizio e non deve raggiungere un livello particolare per impararla.",
+        "Piloswine e la sua famiglia sono gli unici Pokémon di tipo Ghiaccio di colore marrone.\n\tPiloswine e la sua famiglia sono anche gli unici Pokémon deboli a tutti e tre i tipi dei Pokémon iniziali.",
+        "Piloswine e la sua famiglia sono anche gli unici Pokémon deboli a tutti e tre i tipi dei Pokémon iniziali.",
+        "Nonostante una specifica mossa  sia necessaria per la sua evoluzione, Piloswine può imparare quella mossa solamente ricordandola, dall'Insegnamosse o tramite allevamento senza utilizzare metodi esterni. Condivide questa caratteristica con Poipole."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/piloswine.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "piloswine",
+    "generation": 2,
+    "height": {
+        "piloswine": "1.1 m"
+    },
+    "id": 221,
+    "name": "Piloswine",
+    "name_origin": "Deriva dalle parole \"pilose\"  e \"swine\" . Potrebbe anche derivare da \"pil\" . ",
+    "origin": "Fisicamente i Piloswine sembrano basati su un misto tra cinghiale selvatico e yak, ma il loro habitat che di solito si basa sulle zone più fredde  può ricondurli ad un mammut od ad un mastodonte, come suggerisce anche la loro evoluzione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Piloswine",
+    "shape": "quadrupede",
+    "specie": "Pokémon Suino",
+    "sprites": {
+        "piloswine": {
+            "default": "https://media.pokemoncentral.it/wiki/1/10/Homem0221.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/73/Homemsh0221.png"
+        },
+        "piloswine-f": {
+            "default": "https://media.pokemoncentral.it/wiki/6/6b/Homef0221.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f3/Homefsh0221.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3a/Artwork0221_HGSS.png"
+    },
+    "stats": {
+        "piloswine": {
+            "hp": 100,
+            "atk": 100,
+            "def": 80,
+            "spa": 60,
+            "spd": 60,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "piloswine": 450
+    },
+    "types": {
+        "piloswine": [
+            "Ghiaccio",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "piloswine": "55.8 kg"
+    }
+}

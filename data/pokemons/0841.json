@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "flapple": {
+            "primary": "Maturazione",
+            "secondary": "Voracità",
+            "hidden": "Tuttafretta"
+        }
+    },
+    "curiosities": [
+        "Applin, Flapple e Appletun sono gli unici Pokémon che si trovano nel Gruppo Uova Erba e Drago.",
+        "Flapple ed Appletun hanno una forma Gigamax fisicamente identica, ma sono comunque considerati due Pokémon differenti con voci del Pokédex, mosse Gigamax e versi distinti."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/flapple.mp3",
+    "dex_entries": {
+        "flapple": {
+            "sword": "Si è evoluto dopo aver mangiato una mela aspra. Le sacche sulle guance contengono un liquido estremamente acido che può provocare ustioni.",
+            "shield": "Vola usando la buccia del pomo a mo' di ali e sputa una saliva altamente acida. Può assumere l'aspetto di una mela.",
+            "scarlet": "Svolazza qua e là in attesa del momento giusto per attaccare sputando un liquido talmente acido da sciogliere persino il metallo.",
+            "violet": "Utilizza i fluidi corporei per riparare la sua mela. Quelle dei Flapple reduci da mille battaglie assumono una colorazione che ricorda l’argilla."
+        },
+        "flapple-gigamax": {
+            "sword": "L'energia del fenomeno Gigamax ha fatto aumentare la quantità di sciroppo nel suo corpo dandogli l'aspetto di una mela enorme.",
+            "shield": "Quando allunga il collo, spande il dolce profumo del suo sciroppo, così intenso da far perdere i sensi ai Pokémon che lo annusano."
+        }
+    },
+    "egg_groups": [
+        "Erba",
+        "Drago"
+    ],
+    "flat_name": "flapple",
+    "generation": 8,
+    "height": {
+        "flapple": "0.3 m",
+        "flapple-gigamax": "> 24.0 m"
+    },
+    "id": 841,
+    "name": "Flapple",
+    "name_origin": "Flapple potrebbe essere una combinazione di flap, sventolare, e apple, mela. Appryu potrebbe essere una combinazione di apple, mela, e 竜 ryū, drago. ",
+    "origin": "Flapple potrebbe essere basato su una larva di carpocapsa del melo, un insetto che si nasconde nelle mele e che si nutre del loro nucleo, inibendo la crescita del frutto e maturandolo prima. Condivide alcuni aspetti estetici con i gechi. Il potente acido sputato dal Pokémon potrebbe essere un riferimento all'amigdalina, un composto chimico presente nei semi della mela che rilascia cianuro nel corpo quando digerito. La sua forma Gigamax potrebbe essere basata su una mela caramellata e la capacità di far svenire i Pokémon a causa della sua dolcezza potrebbe essere un riferimento al coma diabetico. Il tipo Drago potrebbe essere un riferimento a Ladone, un drago della mitologia greca che sorveglia i pomi d'oro nel giardino delle Esperidi. Potrebbe trarre ispirazione anche dai serpenti biblici, spesso associati ai draghi. Uno di questi serpenti persuade Eva e le fa mangiare un frutto dell'albero della conoscenza, più volte rappresentato come una mela. L'aspetto simile ad una mela volante e la sua mossa peculiare, Forza G, suggeriscono che Flapple potrebbe essere basato sulla leggenda della mela di Isaac Newton. La leggenda diventò popolare grazie a Voltaire, egli sosteneva che Isaac Newton ebbe il primo pensiero sulla gravità nel vedere una mela cascare da un albero. Il fatto che Flapple ed Appletun abbiano la stessa forma Gigamax potrebbe essere un riferimento alla convergenza evolutiva, il fenomeno per cui specie diverse che vivono nello stesso tipo di ambiente, sulla spinta delle stesse pressioni ambientali, si evolvono sviluppando, per selezione naturale, determinate strutture o adattamenti che li portano ad assomigliarsi moltissimo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Flapple",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Pomivolo",
+    "sprites": {
+        "flapple": {
+            "default": "https://media.pokemoncentral.it/wiki/0/05/Homem0841.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9e/Homemsh0841.png"
+        },
+        "flapple-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e9/Homem0841Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0841Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/78/Artwork0841_SpSc.png"
+    },
+    "stats": {
+        "flapple": {
+            "hp": 70,
+            "atk": 110,
+            "def": 80,
+            "spa": 95,
+            "spd": 60,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "flapple": 485
+    },
+    "types": {
+        "flapple": [
+            "Drago",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "flapple": "1.0 kg",
+        "flapple-gigamax": "???.? kg"
+    }
+}

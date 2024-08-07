@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "maschio": {
+            "primary": "Odore Tenace",
+            "secondary": "Voracità",
+            "hidden": "Grassospesso"
+        },
+        "femmina": {
+            "primary": "Aromavelo",
+            "secondary": "Voracità",
+            "hidden": "Grassospesso"
+        }
+    },
+    "curiosities": [
+        "Oinkologne è l’unico Pokémon con differenze tra i sessi introdotto in nona generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/oinkologne.mp3",
+    "dex_entries": {
+        "maschio": {
+            "scarlet": "La pelle liscia e luminosa è il suo orgoglio. Dalla punta della coda spande un profumo altamente concentrato.",
+            "violet": "Emana da tutto il corpo un dolce profumo ammaliante, irresistibile per i Pokémon femmina."
+        },
+        "femmina": {
+            "scarlet": "Emana un profumo simile a quello dei fiori. Può spiccare facilmente salti di oltre cinque metri grazie alle zampe dai muscoli ben sviluppati.",
+            "violet": "È un Pokémon metodico che ama la pulizia. Si avvolge nel suo profumo floreale che calma i Pokémon che ha intorno."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "oinkologne",
+    "generation": 9,
+    "height": {
+        "oinkologne": "1.0 m"
+    },
+    "id": 916,
+    "name": "Oinkologne",
+    "name_origin": "Oinkologne potrebbe essere una combinazione di oink, onomatopea del verso del maiale, e cologne, acqua di colonia. Perfuton potrebbe essere una combinazione di perfume, profumo, e 豚 ton  o ton, tonnellata. ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Oinkologne",
+    "shape": "quadrupede",
+    "specie": "Pokémon Porcellino",
+    "sprites": {
+        "oinkologne": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2e/Homem0916.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1e/Homemsh0916.png"
+        },
+        "oinkologne-f": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c0/Homef0916F.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6a/Homefsh0916F.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9f/Artwork0916_SV.png"
+    },
+    "stats": {
+        "maschio": {
+            "hp": 110,
+            "atk": 100,
+            "def": 75,
+            "spa": 59,
+            "spd": 80,
+            "spe": 65
+        },
+        "femmina": {
+            "hp": 115,
+            "atk": 90,
+            "def": 70,
+            "spa": 59,
+            "spd": 90,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "maschio": 489,
+        "femmina": 489
+    },
+    "types": {
+        "oinkologne": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "oinkologne": "120.0 kg"
+    }
+}

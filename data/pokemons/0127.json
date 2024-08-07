@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "pinsir": {
+            "primary": "Ipertaglio",
+            "secondary": "Rompiforma",
+            "hidden": "Arroganza"
+        },
+        "megapinsir": {
+            "primary": "Pellecielo"
+        }
+    },
+    "curiosities": [
+        "Nonostante Pinsir sia stato introdotto in prima generazione come un mono-tipo Coleottero, non è stato in grado di imparare mosse di tipo Coleottero tramite aumento di livello fino alla quarta generazione, e anche in tale generazione può impararne solo una .\n\tL'unica altra mossa che poteva imparare prima era Tagliofuria.",
+        "L'unica altra mossa che poteva imparare prima era Tagliofuria.",
+        "Prima dell'uscita di Oro e Argento, fu speculato che Heracross sarebbe stato una pre-evoluzione o un'evoluzione di Pinsir.",
+        "Pinsir ha l'Attacco e la Difesa più alti di tutti i Pokémon di tipo Coleottero della Prima generazione.",
+        "Pinsir è al momento l'unico Pokémon non di tipo Lotta ad imparare Sottomissione e Vitaltiro.",
+        "Pinsir è uno dei pochi Pokémon non leggendari di prima generazione non collegati ad alcun altro Pokémon tramite evoluzione, insieme a Kangaskhan, Tauros, Lapras, Ditto e Aerodactyl.\n\tCuriosamente, tre di questi, Pinsir stesso, Kangaskhan e Aerodactyl, possiedono una Megaevoluzione.",
+        "Curiosamente, tre di questi, Pinsir stesso, Kangaskhan e Aerodactyl, possiedono una Megaevoluzione.",
+        "Pinsir condivide il nome della sua specie con Vikavolt. Sono entrambi il Pokémon Cervolante."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pinsir.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "pinsir",
+    "generation": 1,
+    "height": {
+        "pinsir": "1.5 m",
+        "megapinsir": "1.7 m"
+    },
+    "id": 127,
+    "name": "Pinsir",
+    "name_origin": "Il nome Pinsir è una trasformazione di pincer , riferendosi alle chele sulla sua testa. Il suo nome giapponese può essere basato su 傀 kai, grande, or 魁偉 kaii, impetuoso. Potrebbe anche essere una combinazione del giapponese 刈 kai, taglio, e della parola greca per insetto, κοριός korios. ",
+    "origin": "È basato sui Cervi Volanti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pinsir",
+    "shape": "bipedi",
+    "specie": "Pokémon Cervolante",
+    "sprites": {
+        "pinsir": {
+            "default": "https://media.pokemoncentral.it/wiki/0/07/Homem0127.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0127.png"
+        },
+        "megapinsir": {
+            "default": "https://media.pokemoncentral.it/wiki/7/71/Homem0127M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/64/Homemsh0127M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ed/Artwork0127_RFVF.png"
+    },
+    "stats": {
+        "pinsir": {
+            "hp": 65,
+            "atk": 125,
+            "def": 100,
+            "spa": 55,
+            "spd": 70,
+            "spe": 85
+        },
+        "megapinsir": {
+            "hp": 65,
+            "atk": 155,
+            "def": 120,
+            "spa": 65,
+            "spd": 90,
+            "spe": 105
+        }
+    },
+    "stats_sum": {
+        "pinsir": 500,
+        "megapinsir": 600
+    },
+    "types": {
+        "pinsir": [
+            "Coleottero"
+        ],
+        "megapinsir": [
+            "Volante",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "pinsir": "55.0 kg",
+        "megapinsir": "59.0 kg"
+    }
+}

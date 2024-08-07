@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "rhyhorn": {
+            "primary": "Parafulmine",
+            "secondary": "Testadura",
+            "hidden": "Temerarietà"
+        }
+    },
+    "curiosities": [
+        "Gli sprite di prima e di seconda generazione lo fanno sembrare di tipo Roccia, invece dalla terza generazione in poi il suo corpo lo fa assomigliare ad un Pokémon di tipo Acciaio .",
+        "Nei videogiochi prima della sesta generazione aveva lo stesso verso di Charizard.",
+        "Satoshi Tajiri afferma che Rhyhorn è stato il primo Pokémon che ha disegnato.",
+        "In Pokémon X e Y, il giocatore può cavalcare Rhyhorn, potendo così di distruggere grossi massi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/rhyhorn.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Campo"
+    ],
+    "flat_name": "rhyhorn",
+    "generation": 1,
+    "height": {
+        "rhyhorn": "1.0 m"
+    },
+    "id": 111,
+    "name": "Rhyhorn",
+    "name_origin": "Il nome Rhyhorn probabilmente deriva dall'unione delle parola inglesi rhinoceros, rinoceronte, e horn, corno. ",
+    "origin": "Rhyhorn è chiaramente ispirato ad un rinoceronte. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rhyhorn",
+    "shape": "quadrupede",
+    "specie": "Pokémon Punzoni",
+    "sprites": {
+        "rhyhorn": {
+            "default": "https://media.pokemoncentral.it/wiki/6/61/Homem0111.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f0/Homemsh0111.png"
+        },
+        "rhyhorn-f": {
+            "default": "https://media.pokemoncentral.it/wiki/d/dc/Homef0111.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homefsh0111.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a8/Artwork0111_RFVF.png"
+    },
+    "stats": {
+        "rhyhorn": {
+            "hp": 80,
+            "atk": 85,
+            "def": 95,
+            "spa": 30,
+            "spd": 30,
+            "spe": 25
+        }
+    },
+    "stats_sum": {
+        "rhyhorn": 345
+    },
+    "types": {
+        "rhyhorn": [
+            "Roccia",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "rhyhorn": "115.0 kg"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "ferrothorn": {
+            "primary": "Spineferrate",
+            "hidden": "Presagio"
+        }
+    },
+    "curiosities": [
+        "Prima della settima generazione Ferroseed e Ferrothorn avevamo una combinazione di tipi unica.",
+        "Ferrothorn è l'unico Pokémon con un totale di statistiche base pari a 489.",
+        "Ferrothorn ha la più alta statistica base di Difesa di tutti i Pokémon di tipo Erba e la più alta statistica base di Difesa Speciale di tutti i Pokémon non leggendari di tipo Erba.",
+        "Insieme ad Escavalier, è il Pokémon completamente evoluto che fa parte di una linea evolutiva più lento, avendo una statistica base di Velocità pari a 20."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ferrothorn.mp3",
+    "dex_entries": {
+        "ferrothorn": {
+            "black": "Lotta agitando i tre tentacoli muniti di aculei. I suoi aculei d'acciaio possono frantumare rocce imponenti.",
+            "white": "Si appende al soffitto delle grotte e attacca le prede che passano al di sotto lanciando i suoi aculei di ferro.",
+            "black-2": "Fa a pezzi il nemico colpendolo prima con le sue tre antenne e poi sparandogli addosso i suoi aculei.",
+            "white-2": "Fa a pezzi il nemico colpendolo prima con le sue tre antenne e poi sparandogli addosso i suoi aculei.",
+            "x": "Fa a pezzi il nemico colpendolo prima con le sue tre antenne e poi sparandogli addosso i suoi aculei.",
+            "y": "Si appende al soffitto delle grotte e attacca le prede che passano al di sotto lanciando i suoi aculei di ferro.",
+            "omega-ruby": "Fa a pezzi il nemico colpendolo prima con le sue tre antenne e poi sparandogli addosso i suoi aculei.",
+            "alpha-sapphire": "Si appende al soffitto delle grotte e attacca le prede che passano al di sotto lanciando i suoi aculei di ferro.",
+            "sword": "Scalfisce gli strati rocciosi con i suoi aculei e utilizza le estremità delle sue antenne per estrarne gli elementi di cui si nutre.",
+            "shield": "I suoi aculei sono più duri dell'acciaio. Quelli che ha sulle antenne gli permettono di far presa sulle pareti rocciose per spostarsi."
+        }
+    },
+    "egg_groups": [
+        "Erba",
+        "Minerale"
+    ],
+    "flat_name": "ferrothorn",
+    "generation": 5,
+    "height": {
+        "ferrothorn": "1.0 m"
+    },
+    "id": 598,
+    "name": "Ferrothorn",
+    "name_origin": "Ferrothorn potrebbe derivare dall'unione dell'italiano ferro e l'inglese thorn . ",
+    "origin": "Ferrothorn è basato su un frutto o un seme spinoso, quali la nappola spinosa, il durian, l'ippocastano, o la mela delle spine, ma la sua forma ricorda anche quella di una noce. I suoi tentacoli rappresentano dei mazzafrusti. Potrebbe anche essere basato su un gioco di parole su \"tribulus\", una pianta spinosa appartenente alla famiglia delle Zygophyllaceae, il cui nome latino in epoca romana indicava il piede di corvo, un dispositivo bellico costituito da quattro punte metalliche fissate su una piccola sfera, simile ai ganci che usa per appendersi; inoltre la parte iniziale del nome può essere intesa come il prefisso \"tri-\", che indica \"tre\", il numero di tentacoli a forma di mazza che possiede. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ferrothorn",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Spinasfere",
+    "sprites": {
+        "ferrothorn": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d2/Homem0598.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9f/Homemsh0598.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cc/Artwork0598_NB.png"
+    },
+    "stats": {
+        "ferrothorn": {
+            "hp": 74,
+            "atk": 94,
+            "def": 131,
+            "spa": 54,
+            "spd": 116,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "ferrothorn": 489
+    },
+    "types": {
+        "ferrothorn": [
+            "Acciaio",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "ferrothorn": "110.0 kg"
+    }
+}

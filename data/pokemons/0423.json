@@ -1,0 +1,106 @@
+{
+    "abilities": {
+        "gastrodon": {
+            "primary": "Antifurto",
+            "secondary": "Acquascolo",
+            "hidden": "Silicoforza"
+        }
+    },
+    "curiosities": [
+        "Secondo un’intervista a Ken Sugimori, Shellos e Gastrodon erano in origine programmati per Pokémon Rubino e Zaffiro, ma non furono inclusi per delle limitazioni di tempo.\n\tInfatti il backsprite sia di Shellos che di Gastrodon sono presenti nella beta di Pokémon Diamante e Perla, senza però alcun frontsprite.",
+        "Infatti il backsprite sia di Shellos che di Gastrodon sono presenti nella beta di Pokémon Diamante e Perla, senza però alcun frontsprite.",
+        "In Diamante e Perla nessun Allenatore utilizza la forma Mare Est di Shellos in battaglia, anche se l'Allenatore si trova a est del Monte Corona. Questo poi è stato corretto in Platino.",
+        "In Pokémon X e Y è possibile catturare solo la forma Mare Ovest di Gastrodon, mentre in Pokémon Sole e Luna solo la forma Mare Est. In entrambi i casi per registrare tutte le forme sono necessari scambi o trasferimenti da generazioni passate."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gastrodon.mp3",
+    "dex_entries": {
+        "gastrodon": {
+            "diamond": "Ha un corpo flessibile e senza ossa. Qualsiasi parte del corpo che gli venga lacerata ricresce subito.",
+            "pearl": "Pare che in passato il suo corpo fosse protetto da un enorme carapace. Vive in bacini poco profondi.",
+            "platinum": "In passato portava sulla schiena un robusto carapace. Ne rimangono tracce nelle sue cellule.",
+            "heartgold": "Se minacciato da un nemico naturale rilascia un liquido viola e se la dà a gambe, per così dire...",
+            "soulsilver": "Se minacciato da un nemico naturale rilascia un liquido viola e se la dà a gambe, per così dire...",
+            "black": "In passato portava sulla schiena un robusto carapace. Ne rimangono tracce nelle sue cellule.",
+            "white": "In passato portava sulla schiena un robusto carapace. Ne rimangono tracce nelle sue cellule.",
+            "black-2": "In passato portava sulla schiena un robusto carapace. Ne rimangono tracce nelle sue cellule.",
+            "white-2": "In passato portava sulla schiena un robusto carapace. Ne rimangono tracce nelle sue cellule.",
+            "x": "Se minacciato da un nemico naturale rilascia un liquido viola e se la dà a gambe, per così dire...",
+            "y": "Pare che in passato il suo corpo fosse protetto da un enorme carapace. Vive in bacini poco profondi.",
+            "omega-ruby": "Se minacciato da un nemico naturale rilascia un liquido viola e se la dà a gambe, per così dire...",
+            "alpha-sapphire": "Pare che in passato il suo corpo fosse protetto da un enorme carapace. Vive in bacini poco profondi.",
+            "brilliant-diamond": "Ha un corpo flessibile e privo di ossa. Se ne viene lacerata una parte, si rigenera tornando subito come prima.",
+            "shining-pearl": "Pare che in passato il suo corpo fosse protetto da un robusto carapace. Vive in bacini di mare poco profondi."
+        },
+        "mare-ovest": {
+            "sun": "Ha notevoli capacità rigenerative: anche se viene mangiucchiato dai Pokémon acquatici può tornare come prima nel giro di qualche ora.",
+            "moon": "Si nutre principalmente di plancton. A volte si sposta sulla terraferma per motivi ancora sconosciuti.",
+            "ultra-sun": "In passato era protetto da un carapace di cui l’unica traccia rimasta è il disco duro e sottile sul suo dorso.",
+            "ultra-moon": "Il colore e la forma del suo corpo mutano in base all'habitat e all'alimentazione. Ne vivono tanti sui litorali rocciosi dove il mare è calmo.",
+            "sword": "Può salire sulla terraferma in cerca di cibo. Quando si sposta, lascia dietro di sé una scia di bava appiccicosa.",
+            "shield": "Il suo corpo molliccio è in grado di assorbire i colpi, rendendo questo Pokémon molto resistente.",
+            "legends-arceus": "Trae nutrimento dalla sabbia marina. Quando esemplari di diverso colore s'incontrano, scaturisce una feroce lotta.",
+            "scarlet": "Il suo corpo è ricoperto da una bava appiccicosa. In passato questa era la forma di Gastrodon più numerosa.",
+            "violet": "Lo si trova spesso in riva al mare, in acque poco profonde. Quando cattura una preda, la scioglie con la sua bava e la ingerisce un po’ alla volta."
+        },
+        "mare-est": {
+            "sun": "Esiste una squadra di scienziati che sta studiando i mari di tutto il mondo alla ricerca di Gastrodon dai colori sconosciuti.",
+            "moon": "Si stanno svolgendo esperimenti per scoprire cosa succede quando un Gastrodon cresce in un mare diverso da quello in cui è nato.",
+            "ultra-sun": "Se viene attaccato emette un liquido viola che, pur non essendo velenoso, rende la sua carne molto amara e sgradevole per i predatori.",
+            "ultra-moon": "Da un punto di vista tassonomico è un parente stretto di Shellder e Cloyster. A volte si spinge fin sulla terraferma per cercare cibo.",
+            "sword": "Tiene alla larga i nemici emettendo un liquido viola. Non è velenoso, ma è quasi impossibile da rimuovere.",
+            "shield": "È ricoperto da un liquido viscido. Non può rimanere a lungo sulla terraferma, perché rischia di disidratarsi.",
+            "legends-arceus": "Trascorre assai più tempo sulla terraferma che in acqua. È più laborioso in giornate nuvolose o piovorne piuttosto che sotto i raggi del sole.",
+            "scarlet": "Di solito vive sui litorali rocciosi, ma in periodi di piogge durature può capitare di trovarlo anche su monti molto distanti dal mare.",
+            "violet": "I pescatori dicono che in passato i Gastrodon in questa forma non si vedevano spesso, ma che ultimamente stanno aumentando."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Amorfo"
+    ],
+    "flat_name": "gastrodon",
+    "generation": 4,
+    "height": {
+        "gastrodon": "0.9 m"
+    },
+    "id": 423,
+    "name": "Gastrodon",
+    "name_origin": "Deriva dalla parola inglese gastropod  con la parola spagnola don . ",
+    "origin": "Gastrodon è probabilmente ispirato ad una lumaca di mare. In particolare Gastrodon Mare Ovest sembra basarsi su una Opisthobranchia, mentre Gastrodon Mare Est sull'Anaspidea. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gastrodon",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Lumacomare",
+    "sprites": {
+        "mare-ovest": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7b/Homem0423.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homemsh0423.png"
+        },
+        "mare-est": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f3/Homem0423E.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homemsh0423E.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1e/Artwork0423_DP.png"
+    },
+    "stats": {
+        "gastrodon": {
+            "hp": 111,
+            "atk": 83,
+            "def": 68,
+            "spa": 92,
+            "spd": 82,
+            "spe": 39
+        }
+    },
+    "stats_sum": {
+        "gastrodon": 475
+    },
+    "types": {
+        "gastrodon": [
+            "Terra",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "gastrodon": "29.9 kg"
+    }
+}

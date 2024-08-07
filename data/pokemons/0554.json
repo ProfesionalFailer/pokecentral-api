@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "darumaka": {
+            "primary": "Tuttafretta",
+            "hidden": "Forza Interiore"
+        }
+    },
+    "curiosities": [
+        "L'Attacco Speciale di Darumaka è il più basso tra tutti i Pokémon di tipo Fuoco.",
+        "Darumaka è uno dei tre Pokémon senza differenze di forma nella stessa famiglia evolutiva di Pokémon con differenze di forma, gli altri due sono Cherubi e Mothim."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/darumaka.mp3",
+    "dex_entries": {
+        "darumaka": {
+            "black": "Quando la sua fiamma interna brucia, corre qua e là senza trovare pace. Ma se il fuoco si smorza, si addormenta.",
+            "white": "Poiché i suoi escrementi sono molto caldi, nell'antichità gli uomini solevano conservarli in buste per riscaldarsi.",
+            "black-2": "Quando dorme ritrae gli arti. Anche il fuoco che gli brucia dentro a 600°C si affievolisce.",
+            "white-2": "Quando dorme ritrae gli arti. Anche il fuoco che gli brucia dentro a 600°C si affievolisce.",
+            "x": "Poiché i suoi escrementi sono molto caldi, nell'antichità gli uomini solevano conservarli in buste per riscaldarsi.",
+            "y": "Quando dorme ritrae gli arti. Anche il fuoco che gli brucia dentro a 600 °C si affievolisce.",
+            "omega-ruby": "Poiché i suoi escrementi sono molto caldi, nell'antichità gli uomini solevano conservarli in buste per riscaldarsi.",
+            "alpha-sapphire": "Quando dorme ritrae gli arti. Anche il fuoco che gli brucia dentro a 600 °C si affievolisce.",
+            "sword": "La fiamma che brucia dentro il suo corpo è la fonte della sua potenza. Quando si affievolisce il Pokémon si addormenta all'istante.",
+            "shield": "Quando dorme è impossibile buttarlo giù, per quanto lo si spinga. I portafortuna che lo rappresentano sono molto popolari."
+        },
+        "forma-di-galar": {
+            "sword": "Poiché vive in lande innevate, la sua sacca ignea si è congelata e atrofizzata, ma ha sviluppato un organo capace di produrre aria gelida.",
+            "shield": "Più il suo corpo è freddo, più è in forma. Gioca con i suoi simili lanciando palle di neve che crea congelando il suo alito."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "darumaka",
+    "generation": 5,
+    "height": {
+        "darumaka": "0.6 m",
+        "forma-di-galar": "0.7 m"
+    },
+    "id": 554,
+    "name": "Darumaka",
+    "name_origin": "Il nome Darumaka potrebbe derivare dall'insieme delle parole daruma e 真赤 makka  o macaque . ",
+    "origin": "Darumaka è basato su una bambola dharma, e presenta somiglianze con i misirizzi. Il suo tipo Fuoco ricorda le cerimonie in cui le bambole dharma vengono bruciate. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Darumaka",
+    "shape": "bipedi",
+    "specie": "Pokémon Daruma",
+    "sprites": {
+        "darumaka": {
+            "default": "https://media.pokemoncentral.it/wiki/2/29/Homem0554.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homemsh0554.png"
+        },
+        "forma-di-galar": {
+            "default": "https://media.pokemoncentral.it/wiki/6/63/Homem0554G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0554G.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/89/Artwork0554_NB.png"
+    },
+    "stats": {
+        "darumaka": {
+            "hp": 70,
+            "atk": 90,
+            "def": 45,
+            "spa": 15,
+            "spd": 45,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "darumaka": 315
+    },
+    "types": {
+        "darumaka": [
+            "Fuoco"
+        ],
+        "forma-di-galar": [
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "darumaka": "37.5 kg",
+        "forma-di-galar": "40.0 kg"
+    }
+}

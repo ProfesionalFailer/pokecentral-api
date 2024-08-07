@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "klink": {
+            "primary": "Più",
+            "secondary": "Meno",
+            "hidden": "Corpochiaro"
+        }
+    },
+    "curiosities": [
+        "Klink rappresenta giugno nell'oroscopo di Unima.",
+        "Klink e la sua famiglia evolutiva sono gli unici Pokémon in grado di apprendere Sottocarica senza essere di tipo Elettro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/klink.mp3",
+    "dex_entries": {
+        "klink": {
+            "black": "I due ingranaggi che lo compongono combaciano unicamente l'uno con l'altro. Qualsiasi altro incastro è impossibile.",
+            "white": "Produce l'energia che gli serve per vivere incastrando e facendo ruotare le due parti che lo compongono.",
+            "black-2": "Le due parti che lo compongono possono combinarsi solo in un determinato modo. Produce energia facendole ruotare.",
+            "white-2": "Le due parti che lo compongono possono combinarsi solo in un determinato modo. Produce energia facendole ruotare.",
+            "x": "Produce l'energia che gli serve per vivere incastrando e facendo ruotare le due parti che lo compongono.",
+            "y": "I due ingranaggi che lo compongono combaciano unicamente l'uno con l'altro. Qualsiasi altro incastro è impossibile.",
+            "omega-ruby": "Produce l'energia che gli serve per vivere incastrando e facendo ruotare le due parti che lo compongono.",
+            "alpha-sapphire": "I due ingranaggi che lo compongono combaciano unicamente l'uno con l'altro. Qualsiasi altro incastro è impossibile.",
+            "sword": "I due ingranaggi che lo compongono sono più uniti di una coppia di gemelli. Se combinati con ingranaggi diversi, non combaciano bene.",
+            "shield": "Si dice che gli uomini del passato abbiano inventato gli ingranaggi dopo aver visto questo Pokémon."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "klink",
+    "generation": 5,
+    "height": {
+        "klink": "0.30 m"
+    },
+    "id": 599,
+    "name": "Klink",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi clink  e link . ",
+    "origin": "È basato su due ingranaggi a ruota cilindrica dritta concatenati tra loro. La forma cromatica potrebbe essere basata sul colore del rame. Il naso verde infatti corrisponde al colore assunto dal rame quando si ossida in alcuni composti come il carbonato rameico. Inoltre sembra ispirarsi alle macchine dal moto perpetuo, poiché, dal momento che un ingranaggio fa ruotare l'altro e viceversa, si crea una forza motrice continua, e non smette mai di girare. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Klink",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Ingranaggio",
+    "sprites": {
+        "klink": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a1/Homem0599.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homemsh0599.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b2/Artwork0599_NB.png"
+    },
+    "stats": {
+        "klink": {
+            "hp": 40,
+            "atk": 55,
+            "def": 70,
+            "spa": 45,
+            "spd": 60,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "klink": 300
+    },
+    "types": {
+        "klink": [
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "klink": "21.0 kg"
+    }
+}

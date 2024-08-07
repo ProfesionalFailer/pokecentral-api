@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "pineco": {
+            "primary": "Vigore",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Pineco è l'unico Pokémon di tipo Coleottero puro introdotto in seconda generazione.",
+        "Pineco condivide la sua categoria con Forretress, Burmy e Wormadam. Sono tutti noti come Pokémon Larva.",
+        "Stranamente, Pineco può imparare Comete nella Terza Generazione tramite allevamento, ma non può tramite Insegnamosse. Lo stesso discorso vale per Forretress.",
+        "In Platino, sia Pineco che Forretress possono imparare Coleomorso pur non avendo una bocca visibile."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pineco.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "pineco",
+    "generation": 2,
+    "height": {
+        "pineco": "0.6 m"
+    },
+    "id": 204,
+    "name": "Pineco",
+    "name_origin": "Il suo nome deriva dalla parola inglese pinecone . ",
+    "origin": "Basato su una pigna.\nLa sua tendenza a esplodere potrebbe ricondurre Pineco anche ad una bomba a mano. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pineco",
+    "shape": "testa",
+    "specie": "Pokémon Larva",
+    "sprites": {
+        "pineco": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7f/Homem0204.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0204.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1d/Artwork0204_HGSS.png"
+    },
+    "stats": {
+        "pineco": {
+            "hp": 50,
+            "atk": 65,
+            "def": 90,
+            "spa": 35,
+            "spd": 35,
+            "spe": 15
+        }
+    },
+    "stats_sum": {
+        "pineco": 290
+    },
+    "types": {
+        "pineco": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "pineco": "7.2 kg"
+    }
+}

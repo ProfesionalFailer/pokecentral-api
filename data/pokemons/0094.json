@@ -1,0 +1,102 @@
+{
+    "abilities": {
+        "gengar": {
+            "primary": "Corpofunesto"
+        },
+        "megagengar": {
+            "primary": "Pedinombra"
+        },
+        "gengar-gigamax": {
+            "primary": "Corpofunesto"
+        }
+    },
+    "curiosities": [
+        "Nella versione beta di Rosso e Verde, Gengar era conosciuto come \"Phantom\".",
+        "Gengar, insieme a Nidorino, compare nel video introduttivo delle versioni Rosso e Blu, Verde, Rosso Fuoco e Verde Foglia.\n\tInoltre sono presenti entrambi nel manga di Pocket Monster, il quale è considerato il precursore di Pokémon.",
+        "Inoltre sono presenti entrambi nel manga di Pocket Monster, il quale è considerato il precursore di Pokémon.",
+        "MegaGengar ha le più alte statistiche di Attacco Speciale di tutti i Pokémon di tipo Spettro e Veleno.",
+        "In Pokémon Mystery Dungeon: Squadra Rossa e Squadra Blu, quando si affronta Gengar nella Grotta Oscura e nel Monte Congelante, questi potrà usare le mosse Attacco Rapido, Graffio e Fulmisguardo, anche se non può apprenderle in alcun modo ufficiale.",
+        "Date le somiglianze tra Gengar e Clefable e il probabile riferimento, nel nome, al doppelgänger , è nata e si è diffusa una leggenda metropolitana secondo la quale i due Pokémon sarebbero l'uno la controparte dell'altro.",
+        "Gengar è il Pokémon preferito da Ken Sugimori, colui che disegna gli artwork ufficiali dei Pokémon.",
+        "In sesta generazione Gengar è l'unico Pokémon con abilità Levitazione che non può partecipare alle Lotte Aeree.",
+        "Fino alla nona generazione, Gengar e la sua famiglia evolutiva avevano una combinazione di tipi unica.",
+        "Come da lui stesso confermato, James Turner si è occupato della progettazione di Gengar Gigamax.",
+        "Gengar è l'unico Pokémon non iniziale ad avere sia una megaevoluzione che una forma Gigamax."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gengar.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "gengar",
+    "generation": 1,
+    "height": {
+        "gengar": "1.5 m",
+        "megagengar": "1.4 m",
+        "gengar-gigamax": "> 20.0 m"
+    },
+    "id": 94,
+    "name": "Gengar",
+    "name_origin": "Il nome potrebbe essere un'abbreviazione di doppelgänger, una copia spettrale di una persona vivente generata dalla paura . Inoltre il kanji 幻 maboroshi può essere letto \"gen\" e viene usato per indicare fantasmi o illusioni. La pronuncia è sorprendentemente simile al termine del folklore danese \"genganger\", che indica un fantasma. ",
+    "origin": "Gengar sembrerebbe essere basato su un semplice fantasma dei cartoni animati, da un gatto, dallo Stregatto oppure dall'ombra distorta di una persona o una persona-ombra. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gengar",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Ombra",
+    "sprites": {
+        "gengar": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0094.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0094.png"
+        },
+        "megagengar": {
+            "default": "https://media.pokemoncentral.it/wiki/2/29/Homem0094M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/20/Homemsh0094M.png"
+        },
+        "gengar-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/4/42/Homem0094Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0094Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d1/Artwork0094_RFVF.png"
+    },
+    "stats": {
+        "gengar": {
+            "hp": 60,
+            "atk": 65,
+            "def": 60,
+            "spa": 130,
+            "spd": 75,
+            "spe": 110
+        },
+        "gengar-gigamax": {
+            "hp": 60,
+            "atk": 65,
+            "def": 60,
+            "spa": 130,
+            "spd": 75,
+            "spe": 110
+        },
+        "megagengar": {
+            "hp": 60,
+            "atk": 65,
+            "def": 80,
+            "spa": 170,
+            "spd": 95,
+            "spe": 130
+        }
+    },
+    "stats_sum": {
+        "gengar": 500,
+        "gengar-gigamax": 500,
+        "megagengar": 600
+    },
+    "types": {
+        "gengar": [
+            "Veleno",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "gengar": "40.5 kg",
+        "megagengar": "40.5 kg",
+        "gengar-gigamax": "???.? kg"
+    }
+}

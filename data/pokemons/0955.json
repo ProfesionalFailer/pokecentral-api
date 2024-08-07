@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "flittle": {
+            "primary": "Presagio",
+            "secondary": "Indagine",
+            "hidden": "Acceleratore"
+        }
+    },
+    "curiosities": [
+        "Decidueye, la linea evolutiva di Flittle, di Quaxly e di Farfetch'd di Galar sono gli unici Pokémon appartenenti al Gruppo Uova Volante che non possiedono il tipo Volante."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/flittle.mp3",
+    "dex_entries": {
+        "flittle": {
+            "scarlet": "Il potere psichico che emette dalle balze sull'addome gli permette di sollevarsi da terra di appena un centimetro e fluttuare nell'aria.",
+            "violet": "Passa il tempo scorrazzando per lande brulle. Se qualcuno gli toglie le sue bacche preferite, gli corre dietro senza sosta per vendicarsi."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "flittle",
+    "generation": 9,
+    "height": {
+        "flittle": "0.2 m"
+    },
+    "id": 955,
+    "name": "Flittle",
+    "name_origin": "Flittle potrebbe essere una combinazione di flutter  e little . Hirahina potrebbe essere una combinazione di ひらひら hirahira  e 雛 hina . ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Flittle",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Volant",
+    "sprites": {
+        "flittle": {
+            "default": "https://media.pokemoncentral.it/wiki/2/20/Homem0955.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/82/Homemsh0955.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7f/Artwork0955_SV.png"
+    },
+    "stats": {
+        "flittle": {
+            "hp": 30,
+            "atk": 35,
+            "def": 30,
+            "spa": 55,
+            "spd": 30,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "flittle": 255
+    },
+    "types": {
+        "flittle": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "flittle": "1.5 kg"
+    }
+}

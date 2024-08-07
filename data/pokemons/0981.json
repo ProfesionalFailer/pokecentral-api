@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "farigiraf": {
+            "primary": "Ruminante",
+            "secondary": "Codarmatura",
+            "hidden": "Mangiaerba"
+        }
+    },
+    "curiosities": [
+        "Il suo nome è un palindromo. Condivide questa peculiarità con Eevee, Ho-Oh, Alomomola e con la sua pre-evoluzione Girafarig.\n\tAl contrario di Girafarig  il suo nome giapponese  non è palindromo quando scritto in katakana.",
+        "Al contrario di Girafarig  il suo nome giapponese  non è palindromo quando scritto in katakana."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/farigiraf.mp3",
+    "dex_entries": {
+        "farigiraf": {
+            "scarlet": "Le onde cerebrali della testa e della coda si sono sincronizzate, rendendo i suoi poteri psichici dieci volte superiori a quelli dei Girafarig.",
+            "violet": "Protegge la testa principale con quella più dura della coda e fa roteare il lungo collo per tirare potenti testate."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "farigiraf",
+    "generation": 9,
+    "height": {
+        "farigiraf": "3.2 m"
+    },
+    "id": 981,
+    "name": "Farigiraf",
+    "name_origin": "Il suo nome è un anagramma di Girafarig, ottenuto spezzando la parola e invertendone le due metà risultanti. リキキリン Rikikirin potrebbe derivare da 力 riki, potere, e 麒麟 kirin, giraffa, e dall'anagramma di キリンリキ Kirinriki, Girafarig. ",
+    "origin": "A differenza della sua pre-evoluzione, Farigiraf si basa su una giraffa reticolata. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Farigiraf",
+    "shape": "quadrupede",
+    "specie": "Pokémon Lungocollo",
+    "sprites": {
+        "farigiraf": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d6/Homem0981.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7c/Homemsh0981.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b2/Artwork0981_SV.png"
+    },
+    "stats": {
+        "farigiraf": {
+            "hp": 120,
+            "atk": 90,
+            "def": 70,
+            "spa": 110,
+            "spd": 70,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "farigiraf": 520
+    },
+    "types": {
+        "farigiraf": [
+            "Psico",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "farigiraf": "160.0 kg"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "bramblin": {
+            "primary": "Vento Propizio",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "Bramblin è alla pari con Sunkern e Lotad per avere la Difesa di base più bassa tra tutti i Pokémon di tipo Erba."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bramblin.mp3",
+    "dex_entries": {
+        "bramblin": {
+            "scarlet": "Un'anima incapace di passare all'altro mondo, che trasportata via dal vento è rimasta impigliata in un arbusto secco, diventando un Pokémon.",
+            "violet": "Spinto dal vento, rotola per distese brulle senza sapere dove andrà a finire. Detesta bagnarsi."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "bramblin",
+    "generation": 9,
+    "height": {
+        "bramblin": "0.6 m"
+    },
+    "id": 946,
+    "name": "Bramblin",
+    "name_origin": "Bramblin potrebbe essere una combinazione di bramble, rovo, e ramblin, termine informale per rambling, ovvero vagante. ",
+    "origin": "Bramblin è basato sui cosiddetti rotolacampo, dei cespugli secchi tondeggianti che rotolano in giro nei deserti, spinti dal vento. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bramblin",
+    "shape": "testa",
+    "specie": "Pokémon Rotolerba",
+    "sprites": {
+        "bramblin": {
+            "default": "https://media.pokemoncentral.it/wiki/c/ce/Homem0946.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cf/Homemsh0946.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e1/Artwork0946_SV.png"
+    },
+    "stats": {
+        "bramblin": {
+            "hp": 40,
+            "atk": 65,
+            "def": 30,
+            "spa": 45,
+            "spd": 35,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "bramblin": 275
+    },
+    "types": {
+        "bramblin": [
+            "Spettro",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "bramblin": "0.6 kg"
+    }
+}

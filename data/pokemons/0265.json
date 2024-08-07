@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "wurmple": {
+            "primary": "Polvoscudo",
+            "hidden": "Fugafacile"
+        }
+    },
+    "curiosities": [
+        "Wurmple condivide la sua categoria con Caterpie e Snom. Sono tutti e tre noti come Pokémon Baco.",
+        "Wurmple è l'unico Pokémon la cui evoluzione è influenzata direttamente dal valore di personalità.\n\tAnche i Pokémon che si evolvono in base al sesso sono influenzati dalla personalità, ma nel loro caso questo valore è visibile.\n\tEvolvendo Wurmple in Silcoon o Cascoon e poi uscendo dal gioco senza salvare, è possibile sapere quale forma assumerà Wurmple senza farlo evolvere in modo irreversibile. Poiché il valore della personalità è un valore statico, il soft reset per riportarlo a Wurmple e farlo evolvere nuovamente non comporterà mai un'evoluzione diversa dal tentativo precedente.",
+        "Anche i Pokémon che si evolvono in base al sesso sono influenzati dalla personalità, ma nel loro caso questo valore è visibile.",
+        "Evolvendo Wurmple in Silcoon o Cascoon e poi uscendo dal gioco senza salvare, è possibile sapere quale forma assumerà Wurmple senza farlo evolvere in modo irreversibile. Poiché il valore della personalità è un valore statico, il soft reset per riportarlo a Wurmple e farlo evolvere nuovamente non comporterà mai un'evoluzione diversa dal tentativo precedente.",
+        "Nella serie animata, Vera cattura un Wurmple che in seguito si evolverà in un Beautifly. Gelosa della bellezza del Pokémon, anche Jessie ne cattura uno, ma per sua sfortuna si evolve in una Dustox. Questo fatto evidenzia l'influenza del comportamento dell'Allenatore sull'evoluzione Pokémon.",
+        "Prima della sesta generazione, la sagoma di Wurmple nel Pokédex era .",
+        "Wurmple è stato talvolta raffigurato con un corno giallo dietro la testa. Questo design appare in particolare nello sprite di Pokémon Pinball . È apparso anche nel materiale pre-release di Leggende Pokémon: Arceus, ma è stato rimosso nella versione definitiva."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wurmple.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "wurmple",
+    "generation": 3,
+    "height": {
+        "wurmple": "0.30 m"
+    },
+    "id": 265,
+    "name": "Wurmple",
+    "name_origin": "Il suo nome è la combinazione di \"worm\"  e \"rumple\"  oppure da \"Simple\" . ",
+    "origin": "Wurmple è basato su un bruco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wurmple",
+    "shape": "insettoide",
+    "specie": "Pokémon Baco",
+    "sprites": {
+        "wurmple": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4d/Homem0265.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7c/Homemsh0265.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/99/Artwork0265_RZ.png"
+    },
+    "stats": {
+        "wurmple": {
+            "hp": 45,
+            "atk": 45,
+            "def": 35,
+            "spa": 20,
+            "spd": 30,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "wurmple": 195
+    },
+    "types": {
+        "wurmple": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "wurmple": "3.6 kg"
+    }
+}

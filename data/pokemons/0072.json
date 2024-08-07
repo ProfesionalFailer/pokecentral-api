@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "tentacool": {
+            "primary": "Corpochiaro",
+            "secondary": "Melma",
+            "hidden": "Copripioggia"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Rosso e Blu beta, Tentacool si chiamava \"Jilly\".",
+        "Tentacool e Tentacruel sono gli unici Pokémon non asessuati ad avere l'abilità Corpochiaro.",
+        "Tentacool è stato il primo Pokémon glitch Ibrido di quarta generazione ad essere scoperto.",
+        "Tentacool appare in ogni Pokédex regionale ad eccezione del Pokédex di Unima.",
+        "Nell'anime Misty definisce le sfere che Tentacool e Tentacruel hanno sulla testa \"le perle rosse dell'oceano\".",
+        "In prima generazione Tentacool e Tentacruel avevano una combinazione di tipi unica."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tentacool.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "flat_name": "tentacool",
+    "generation": 1,
+    "height": {
+        "tentacool": "0.9 m"
+    },
+    "id": 72,
+    "name": "Tentacool",
+    "name_origin": "Tentacool è una combinazione di tentacle e cool. ",
+    "origin": "Tentacool è basato su una medusa, probabilmente una specie di cubomedusa come Chironex fleckeri o Carukia barnesi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tentacool",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Medusa",
+    "sprites": {
+        "tentacool": {
+            "default": "https://media.pokemoncentral.it/wiki/a/aa/Homem0072.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0072.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fa/Artwork0072_RFVF.png"
+    },
+    "stats": {
+        "tentacool": {
+            "hp": 40,
+            "atk": 40,
+            "def": 35,
+            "spa": 50,
+            "spd": 100,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "tentacool": 335
+    },
+    "types": {
+        "tentacool": [
+            "Veleno",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "tentacool": "45.5 kg"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "dugtrio": {
+            "primary": "Sabbiavelo",
+            "secondary": "Trappoarena",
+            "hidden": "Silicoforza"
+        },
+        "forma-di-alola": {
+            "primary": "Sabbiavelo",
+            "secondary": "Boccolidoro",
+            "hidden": "Silicoforza"
+        }
+    },
+    "curiosities": [
+        "Dugtrio e Diglett possono imparare Graffio, Lacerazione, Sfuriate, Ombrartigli e Taglio , nonostante non si vedano mai mani o artigli; inoltre possono imparare Aeroassalto, nonostante non si vedano mai alzarsi da terra.",
+        "Dugtrio e Diglett condividono lo stesso nome della specie con Drilbur: sono tutti noti come Pokémon Talpa.",
+        "Fino a Pokémon Diamante e Perla, Dugtrio e Diglett potevano essere catturati solo nella Grotta Diglett.",
+        "Dugtrio è il Pokémon di tipo Terra più veloce escludendo Arceus, il quale, in possesso di una Lastrageo, comunque lo eguaglia.\n\tLa sua Forma di Alola ha lo stesso primato, ma tra i Pokémon di tipo Acciaio non megaevoluti a pari merito con Kartana .",
+        "La sua Forma di Alola ha lo stesso primato, ma tra i Pokémon di tipo Acciaio non megaevoluti a pari merito con Kartana .",
+        "Nel Corsostacoli del Pokéathlon, Dugtrio e Diglett vanno sottoterra piuttosto che saltare fuori da terra.",
+        "In Pokémon Nero e Bianco, quando Dugtrio e Diglett vengono mandati in campo, la loro animazione consiste semplicemente di una rapida comparsa su schermo, a differenza delle animazioni di tutti gli altri Pokémon che consistono in un movimento dall'alto  verso il terreno.",
+        "Nel Pokétrasporto, Dugtrio e Diglett corrono tra i cespugli anziché saltare.",
+        "Nonostante siano le uniche specie presenti nei cunicoli dei Grandi Sotterranei in Diamante Lucente e Perla Splendente, Dugtrio e Diglett non possono essere catturati o incontrati normalmente in nessuno dei Rifugi di Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dugtrio.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "dugtrio",
+    "generation": 1,
+    "height": {
+        "dugtrio": "0.7 m"
+    },
+    "id": 51,
+    "name": "Dugtrio",
+    "name_origin": "Dugtrio è una combinazione del verbo inglese dug  e trio. ",
+    "origin": "Diglett sembra molto simile alle talpe artificiali usate in Acchiappa la talpa.\nLa forma di Alola potrebbe basarsi inoltre sui cosiddetti \"capelli di Pele\", un tipo di vetro vulcanico caratteristico dei vulcani hawaiani. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dugtrio",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Talpa",
+    "sprites": {
+        "dugtrio": {
+            "default": "https://media.pokemoncentral.it/wiki/0/09/Homem0051.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0e/Homemsh0051.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/6/67/Homem0051A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0051A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5c/Artwork0051_RFVF.png"
+    },
+    "stats": {
+        "dugtrio": {
+            "hp": 35,
+            "atk": 100,
+            "def": 50,
+            "spa": 50,
+            "spd": 70,
+            "spe": 120
+        },
+        "forma-di-alola": {
+            "hp": 35,
+            "atk": 100,
+            "def": 60,
+            "spa": 50,
+            "spd": 70,
+            "spe": 110
+        }
+    },
+    "stats_sum": {
+        "dugtrio": 425,
+        "forma-di-alola": 425
+    },
+    "types": {
+        "dugtrio": [
+            "Terra"
+        ],
+        "forma-di-alola": [
+            "Terra",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "dugtrio": "33.3 kg",
+        "forma-di-alola": "66.6 kg"
+    }
+}

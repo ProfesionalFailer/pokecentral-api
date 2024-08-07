@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "articuno": {
+            "primary": "Pressione",
+            "hidden": "Mantelneve"
+        },
+        "forma-di-galar": {
+            "primary": "Tenacia"
+        }
+    },
+    "curiosities": [
+        "In prima generazione Articuno aveva una combinazione di tipi unica.",
+        "Articuno è il primo Pokémon leggendario che appare nel Pokédex Nazionale.",
+        "Nel secondo episodio dell'anime, nel Centro Pokémon di Smeraldopoli c'è una pietra scolpita che raffigura gli uccelli leggendari, e Ash scambia Articuno per Ho-Oh. In effetti, in quel rilievo Articuno ha una coda molto simile a quella di Ho-Oh.",
+        "Articuno è stato l'ultimo Pokémon leggendario di prima generazione ad apparire fisicamente nell'anime.",
+        "In Pokémon Rosso e Blu, Pokémon Giallo e Pokémon Rosso Fuoco e Verde Foglia, nel casello tra Fucsiapoli e il Percorso 15, si può vedere Articuno che vola sopra il mare. Ciò succede stranamente anche dopo averlo catturato.",
+        "In A caccia di sorgenti, Todd indica una montagna che dice essere la casa di Articuno. La montagna è identica a quella in cui Articuno vive nel film Pokémon 2 - La forza di uno.",
+        "In Pokémon Mystery Dungeon: Esploratori del Tempo ed Esploratori dell'Oscurità è l'unico del suo trio che non può essere incontrato se non con una password evento.\n\tÈ anche l'unico Pokémon di tipo Ghiaccio nel gruppo QI C.",
+        "È anche l'unico Pokémon di tipo Ghiaccio nel gruppo QI C.",
+        "Insieme a Mew, Smeargle e Poliwrath , Articuno è l'unico Pokémon a poter imparare sia una mossa che aumenta la precisione che una mossa OHKO, in quanto può imparare sia Leggimente che Purogelo. Un Articuno con questa combinazione di mosse può essere incontrato nel Metrò Lotta."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/articuno.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "articuno",
+    "generation": 1,
+    "height": {
+        "articuno": "1.7 m",
+        "articuno-di-galar": "1.7 m"
+    },
+    "id": 144,
+    "name": "Articuno",
+    "name_origin": "La parola Articuno è composta dalle parole artic, le regioni nordiche del globo, ed uno, che indica il primo dei tre uccelli leggendari della regione di Kanto.\nIl suo nome giapponese è Freezer, dato dalla sua capacità di congelare gli esseri viventi e gli oggetti attorno a lui. ",
+    "origin": "Le sembianze di questo Pokémon sono basate sulla mitologia persiana del Roc, un enorme uccello artico.\nLa sua lunga coda ed il piccolo corpo potrebbero essere state prese come spunto dal Quetzal, un volatile molto raro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Articuno",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Gelo",
+    "sprites": {
+        "articuno": {
+            "default": "https://media.pokemoncentral.it/wiki/0/00/Homem0144.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2b/Homemsh0144.png"
+        },
+        "forma-di-galar": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1a/Homem0144G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f5/Homemsh0144G.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e6/Artwork0144_RFVF.png"
+    },
+    "stats": {
+        "articuno": {
+            "hp": 90,
+            "atk": 85,
+            "def": 100,
+            "spa": 95,
+            "spd": 125,
+            "spe": 85
+        },
+        "forma-di-galar": {
+            "hp": 90,
+            "atk": 85,
+            "def": 85,
+            "spa": 125,
+            "spd": 100,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "articuno": 580,
+        "forma-di-galar": 580
+    },
+    "types": {
+        "articuno": [
+            "Volante",
+            "Ghiaccio"
+        ],
+        "forma-di-galar": [
+            "Volante",
+            "Psico"
+        ]
+    },
+    "weight": {
+        "articuno": "55.4 kg",
+        "articuno-di-galar": "50.9 kg"
+    }
+}

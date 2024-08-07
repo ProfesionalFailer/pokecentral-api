@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "pachirisu": {
+            "primary": "Fugafacile",
+            "secondary": "Raccolta",
+            "hidden": "Assorbivolt"
+        }
+    },
+    "curiosities": [
+        "Nonostante il suo nome derivi dall'onomatopea giapponese del battere le mani , Pachirisu ha le zampe anteriori talmente corte che difficilmente riuscirebbe a metterle a contatto fra di loro.",
+        "Pachirisu ha il totale di statistiche base più basso di qualsiasi Pokémon facente parte di una squadra vincente ai Campionati Mondiali.",
+        "Pachirisu è l'unico Pokémon ammesso al Parco Concordia a non avere una linea evolutiva."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pachirisu.mp3",
+    "dex_entries": {
+        "pachirisu": {
+            "diamond": "Forma delle palle di pelo cariche elettrostaticamente e le conserva negli alberi insieme alle bacche.",
+            "pearl": "Nelle sacche sulle guance si forma elettricità, che rilascia poi dalla coda. Vive in cima agli alberi.",
+            "platinum": "Talvolta due esemplari si sfregano le guance per condividere l'elettricità immagazzinata.",
+            "heartgold": "Nelle sacche sulle sue guance si forma elettricità, che la coda poi rilascia.",
+            "soulsilver": "Nelle sacche sulle sue guance si forma elettricità, che la coda poi rilascia.",
+            "black": "Talvolta due esemplari si sfregano le guance per condividere l'elettricità immagazzinata.",
+            "white": "Talvolta due esemplari si sfregano le guance per condividere l'elettricità immagazzinata.",
+            "black-2": "Talvolta due esemplari si sfregano le guance per condividere l'elettricità immagazzinata.",
+            "white-2": "Talvolta due esemplari si sfregano le guance per condividere l'elettricità immagazzinata.",
+            "x": "Forma delle palle di pelo cariche elettrostaticamente e le conserva negli alberi insieme alle bacche.",
+            "y": "Talvolta due esemplari si sfregano le guance per condividere l'elettricità immagazzinata.",
+            "omega-ruby": "Forma delle palle di pelo cariche elettrostaticamente e le conserva negli alberi insieme alle bacche.",
+            "alpha-sapphire": "Talvolta due esemplari si sfregano le guance per condividere l'elettricità immagazzinata.",
+            "brilliant-diamond": "Forma delle palle di pelo cariche di elettricità elettrostatica, che conserva nelle cavità degli alberi insieme alle bacche di cui va ghiotto.",
+            "shining-pearl": "Colpisce rilasciando dalla coda l'elettricità che si crea nelle sacche sulle sue guance. Vive in cima agli alberi.",
+            "legends-arceus": "Parente prossimo di Pikachu e della sua linea evolutiva, ha indole mite. Coda e gote eiettano elettricità e sono pertanto dannose al tocco.",
+            "scarlet": "Appartiene alla tipologia di Pokémon muniti di sacche elettriche sulle guance. Rilascia dalla coda l’elettricità accumulata.",
+            "violet": "A volte si possono osservare esemplari che si sfregano a vicenda le sacche sulle guance per condividere l’elettricità immagazzinata."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Magico"
+    ],
+    "flat_name": "pachirisu",
+    "generation": 4,
+    "height": {
+        "pachirisu": "0.4 m"
+    },
+    "id": 417,
+    "name": "Pachirisu",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole giapponesi パチパチ pachipachi  e りす risu . ",
+    "origin": "Pachirisu è basato su uno scoiattolo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pachirisu",
+    "shape": "quadrupede",
+    "specie": "Pokémon Elescoiatto",
+    "sprites": {
+        "pachirisu": {
+            "default": "https://media.pokemoncentral.it/wiki/5/58/Homem0417.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/72/Homemsh0417.png"
+        },
+        "pachirisu-f": {
+            "default": "https://media.pokemoncentral.it/wiki/1/14/Homef0417.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homefsh0417.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/69/Artwork0417_DLPS.png"
+    },
+    "stats": {
+        "pachirisu": {
+            "hp": 60,
+            "atk": 45,
+            "def": 70,
+            "spa": 45,
+            "spd": 90,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "pachirisu": 405
+    },
+    "types": {
+        "pachirisu": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "pachirisu": "3.9 kg"
+    }
+}

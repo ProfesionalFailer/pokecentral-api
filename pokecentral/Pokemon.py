@@ -48,6 +48,8 @@ class Pokemon:
             for i in self.soup.find("div", {"id": "toc"}).find("ul").find_all(href=True)
         }
 
+        print(self._indices)
+
         # Cries are taken from pokemon showdown beacuse on pokemoncentral they aren't available for all pokemons
         self.cry = f"https://play.pokemonshowdown.com/audio/cries/{_POKEHELP.cry_corrector(self.name)}.mp3"
 
@@ -66,15 +68,19 @@ class Pokemon:
     def _set_abilities(self) -> None:
         self.abilities = _POKEHELP.divide_forms(
             {
-                i[0].text
-                if i[0].text.strip("\n ") != ""
-                and i[0].text.lower().strip("\n ") != "tutte le forme"
-                else self.flat_name: {
-                    _POKEHELP.ABILITIES[
-                        j.find("div", {"class": "small-text"}).text.lower()
-                    ]
-                    if j.find("div", {"class": "small-text"}) != None
-                    else "primary": j.find_all(href=True)[-1].text
+                (
+                    i[0].text
+                    if i[0].text.strip("\n ") != ""
+                    and i[0].text.lower().strip("\n ") != "tutte le forme"
+                    else self.flat_name
+                ): {
+                    (
+                        _POKEHELP.ABILITIES[
+                            j.find("div", {"class": "small-text"}).text.lower()
+                        ]
+                        if j.find("div", {"class": "small-text"}) != None
+                        else "primary"
+                    ): j.find_all(href=True)[-1].text
                     for j in i[1].find_all("div", {"class": "width-xl-33 width-xs-50"})
                 }
                 for i in _POKEHELP.split_by_two(
@@ -100,9 +106,11 @@ class Pokemon:
 
     def _set_dex_entries(self) -> None:
         self.dex_entries = {
-            _POKEHELP.flat_name(form.find_previous_sibling().text)
-            if _POKEHELP.decode(form.find_previous_sibling().text) != "voci pokedex"
-            else self.flat_name: _POKEHELP.split_dex(
+            (
+                _POKEHELP.flat_name(form.find_previous_sibling().text)
+                if _POKEHELP.decode(form.find_previous_sibling().text) != "voci pokedex"
+                else self.flat_name
+            ): _POKEHELP.split_dex(
                 [
                     [
                         _POKEHELP.GAMES[_POKEHELP.decode(sub_game.text.strip("\n"))]
@@ -272,10 +280,12 @@ class Pokemon:
     def _set_stats(self) -> None:
         self.stats = _POKEHELP.divide_forms(
             {
-                i.find_previous("h4").text
-                if i.find_previous("h4").text.lower() != "statistiche di base"
-                and i.find_previous("h4").text.lower() != "tutte le forme"
-                else self.flat_name: {
+                (
+                    i.find_previous("h4").text
+                    if i.find_previous("h4").text.lower() != "statistiche di base"
+                    and i.find_previous("h4").text.lower() != "tutte le forme"
+                    else self.flat_name
+                ): {
                     _POKEHELP.STATS[
                         j.find_next("td").text.strip(" \n").lower()
                     ]: _POKEHELP.rmv_chars(j.find_all_next("td")[1].text)

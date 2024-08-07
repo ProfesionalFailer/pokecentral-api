@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "slugma": {
+            "primary": "Magmascudo",
+            "secondary": "Corpodifuoco",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Nonostante diverse descrizioni del Pokédex dicano che Slugma non dorma mai, è perfettamente in grado di imparare Riposo e non può possedere l'abilità Insonnia.",
+        "Nonostante sembri fatto di magma, più volte si vede che gli Allenatori lo toccano senza alcun problema. Lo stesso accade con la criniera di Ponyta. Al contrario, nel Poké io&te e nel Poké Relax il giocatore rischia di scottarsi toccando Slugma e la sua evoluzione Magcargo.",
+        "Pur essendo un Pokémon di seconda generazione, era disponibile solo a Kanto in Pokémon Oro, Argento e Cristallo, e la stessa cosa valeva per Murkrow e Houndour. Tutti e tre possono ora essere ottenuti a Johto nella Zona Safari di Oro HeartGold e Argento SoulSilver."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/slugma.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "slugma",
+    "generation": 2,
+    "height": {
+        "slugma": "0.7 m"
+    },
+    "id": 218,
+    "name": "Slugma",
+    "name_origin": "Il suo nome deriva dalla parola \"slug\"  e \"magma\" . ",
+    "origin": "Slugma è ispirato a una lumaca con il corpo di lava, potrebbe essere basato anche sul Cherufe, malvagia creatura di magma e roccia che secondo i miti vive nelle profonde pozze di magma nei vulcani del Cile. La versione cromatica potrebbe essere basata su uno Slugma raffreddato per questo ha un colorito argentato, oppure fatto di solder, un metallo liquido estremamente caldo che si indurisce se raffreddato similmente al magma. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Slugma",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Lava",
+    "sprites": {
+        "slugma": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4d/Homem0218.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3b/Homemsh0218.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f1/Artwork0218_HGSS.png"
+    },
+    "stats": {
+        "slugma": {
+            "hp": 40,
+            "atk": 40,
+            "def": 40,
+            "spa": 70,
+            "spd": 40,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "slugma": 250
+    },
+    "types": {
+        "slugma": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "slugma": "35.0 kg"
+    }
+}

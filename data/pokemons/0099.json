@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "kingler": {
+            "primary": "Ipertaglio",
+            "secondary": "Guscioscudo",
+            "hidden": "Forzabruta"
+        }
+    },
+    "curiosities": [
+        "Kingler condivide la sua categoria con Scizor. Entrambi sono conosciuti come Pokémon Chela.",
+        "Il numero di Kingler nel Pokédex Nazionale e nel Pokédex di Galar è lo stesso: 099."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kingler.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "flat_name": "kingler",
+    "generation": 1,
+    "height": {
+        "kingler": "1.3 m",
+        "kingler-gigamax": "> 19.0 m"
+    },
+    "id": 99,
+    "name": "Kingler",
+    "name_origin": "Kingler potrebbe essere una combinazione di king crab, granchio reale, fiddler crab, granchio violinista, e angler, pescatore. ",
+    "origin": "Kingler potrebbe essere basato su un granchio violinista o su un granchio terrestre del genere Cardisoma che solitamente hanno una chela più grande dell'altra. Potrebbe trarre ispirazione anche dalle pinze o dai martelli. Concettualmente, la corona sopra la testa e il suo nome alluderebbero al granchio reale. La forma Gigamax potrebbe essere basata sul granchio gigante del Giappone con una \"barba\" composta da bolle, un riferimento al fatto che i granchi soffino bolle per mantenere l'ossigeno che passa attraverso le loro branchie quando sono fuori dall'acqua. Assomiglia anche ad un re barbuto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kingler",
+    "shape": "insettoide",
+    "specie": "Pokémon Chela",
+    "sprites": {
+        "kingler": {
+            "default": "https://media.pokemoncentral.it/wiki/2/28/Homem0099.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5f/Homemsh0099.png"
+        },
+        "kingler-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d9/Homem0099Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ef/Homemsh0099Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bd/Artwork0099_RFVF.png"
+    },
+    "stats": {
+        "kingler": {
+            "hp": 55,
+            "atk": 130,
+            "def": 115,
+            "spa": 50,
+            "spd": 50,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "kingler": 475
+    },
+    "types": {
+        "kingler": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "kingler": "60.0 kg",
+        "kingler-gigamax": "???.? kg"
+    }
+}

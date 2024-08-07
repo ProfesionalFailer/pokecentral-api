@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "maschiff": {
+            "primary": "Prepotenza",
+            "secondary": "Fugafacile",
+            "hidden": "Sorveglianza"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Buio",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Lento",
+        "Pokémon di colore Marrone",
+        "Pokémon dalla sagoma n. 08",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 340"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/maschiff.mp3",
+    "dex_entries": {
+        "maschiff": {
+            "scarlet": "Si mostra sempre accigliato per evitare di essere preso sottogamba, ma il suo buffo muso fa ridere persino i bambini in preda al pianto.",
+            "violet": "La mandibola e le zanne sono così potenti e ben sviluppate da poter sgretolare la pietra. Lo spesso strato di grasso gli dà un'ottima difesa."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "maschiff",
+    "generation": 9,
+    "height": {
+        "maschiff": "0.5 m"
+    },
+    "id": 942,
+    "name": "Maschiff",
+    "name_origin": "Maschiff potrebbe derivare da mafia, mastiff  e mischief . ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Maschiff",
+    "shape": "quadrupede",
+    "specie": "Pokémon Rompicollo",
+    "sprites": {
+        "maschiff": {
+            "default": "https://media.pokemoncentral.it/wiki/7/78/Homem0942.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/10/Homemsh0942.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f7/Artwork0942_SV.png"
+    },
+    "stats": {
+        "maschiff": {
+            "hp": 60,
+            "atk": 78,
+            "def": 60,
+            "spa": 40,
+            "spd": 51,
+            "spe": 51
+        }
+    },
+    "stats_sum": {
+        "maschiff": 340
+    },
+    "types": {
+        "maschiff": [
+            "Buio"
+        ]
+    },
+    "weight": {
+        "maschiff": "16.0 kg"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "spewpa": {
+            "primary": "Muta",
+            "hidden": "Amicoscudo"
+        }
+    },
+    "curiosities": [
+        "Spewpa è l'unico Pokémon con un totale di statistiche base pari a 213."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/spewpa.mp3",
+    "dex_entries": {
+        "spewpa": {
+            "x": "Vive nascosto nella boscaglia. Se attaccato, minaccia i nemici rizzando il pelo.",
+            "y": "Il becco dei Pokémon uccello non può neppure scalfire il suo durissimo corpo. Si difende spargendo scaglie.",
+            "omega-ruby": "Vive nascosto nella boscaglia. Se attaccato, minaccia i nemici rizzando il pelo.",
+            "alpha-sapphire": "Il becco dei pokemon uccello non può neppure scalfire il suo durissimo corpo. Si difende spargendo scaglie",
+            "scarlet": "Quando viene aggredito e preso a beccate dai Rufflet, contrattacca con la sua pelliccia pungente e con una polvere nera velenosa.",
+            "violet": "Non ha una tana fissa. Gira per campi e montagne senza una meta precisa, accumulando energia per l’evoluzione."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "spewpa",
+    "generation": 6,
+    "height": {
+        "spewpa": "0.3 m"
+    },
+    "id": 665,
+    "name": "Spewpa",
+    "name_origin": "Spewpa probabilmente è una combinazione tra il verbo  spew  e pupa. ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spewpa",
+    "shape": "insettoide",
+    "specie": "Pokémon Tirascaglie",
+    "sprites": {
+        "spewpa": {
+            "default": "https://media.pokemoncentral.it/wiki/5/52/Homem0665.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0665.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/95/Artwork0665_XY.png"
+    },
+    "stats": {
+        "spewpa": {
+            "hp": 45,
+            "atk": 22,
+            "def": 60,
+            "spa": 27,
+            "spd": 30,
+            "spe": 29
+        }
+    },
+    "stats_sum": {
+        "spewpa": 213
+    },
+    "types": {
+        "spewpa": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "spewpa": "8.4 kg"
+    }
+}

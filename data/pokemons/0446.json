@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "munchlax": {
+            "primary": "Raccolta",
+            "secondary": "Grassospesso",
+            "hidden": "Voracità"
+        }
+    },
+    "curiosities": [
+        "Munchlax è il Pokémon che insieme a Shuckle e Pyukumuku ha la statistica base della velocità più bassa in assoluto.",
+        "Munchlax ha il più alto totale di statistiche base di tutti i Pokémon Baby, ben 390."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/munchlax.mp3",
+    "dex_entries": {
+        "munchlax": {
+            "diamond": "Divora quotidianamente una quantità di cibo pari al suo peso mandandolo giù quasi senza masticare.",
+            "pearl": "Nasconde il cibo sotto i lunghi peli del suo corpo. Tuttavia, finisce spesso per dimenticarlo.",
+            "platinum": "Il suo insaziabile appetito gli fa spesso dimenticare di avere del cibo nascosto sotto il pelo.",
+            "heartgold": "Nasconde il cibo sotto il pelo arruffato. Lo inghiotte senza masticarlo: glop!",
+            "soulsilver": "Nasconde il cibo sotto il pelo arruffato. Lo inghiotte senza masticarlo: glop!",
+            "black": "Il suo insaziabile appetito gli fa spesso dimenticare di avere del cibo nascosto sotto il pelo.",
+            "white": "Il suo insaziabile appetito gli fa spesso dimenticare di avere del cibo nascosto sotto il pelo.",
+            "black-2": "Il suo insaziabile appetito gli fa spesso dimenticare di avere del cibo nascosto sotto il pelo.",
+            "white-2": "Il suo insaziabile appetito gli fa spesso dimenticare di avere del cibo nascosto sotto il pelo.",
+            "x": "Nasconde il cibo sotto i lunghi peli del suo corpo. Tuttavia, finisce spesso per dimenticarlo.",
+            "y": "Nasconde il cibo sotto il pelo arruffato. Lo inghiotte senza masticarlo: glop!",
+            "omega-ruby": "Nasconde il cibo sotto i lunghi peli del suo corpo. Tuttavia, finisce spesso per dimenticarlo.",
+            "alpha-sapphire": "Nasconde il cibo sotto il pelo arruffato. Lo inghiotte senza masticarlo: glop!",
+            "sun": "Deve divorare ogni giorno una quantità di cibo pari al suo peso corporeo. Mangia qualunque cosa, senza badare troppo al sapore.",
+            "moon": "Appena trova qualcosa di commestibile, lo inghiotte senza masticarlo. Per questo il suo peso aumenta a vista d'occhio.",
+            "ultra-sun": "Nasconde il cibo sotto il lungo pelo, ma spesso se ne dimentica finché non inizia a esalare odori molesti a causa della putrefazione.",
+            "ultra-moon": "Inghiotte qualunque cosa sia commestibile senza masticare. Ha uno stomaco robusto che gli permette di digerire anche il cibo andato a male.",
+            "sword": "Mangiare in quantità è la sua preoccupazione principale. Non bada al gusto e non si fa problemi se il cibo è andato a male.",
+            "shield": "Conserva il cibo sotto la pelliccia e talvolta ne condivide un boccone con chi si è guadagnato la sua piena fiducia.",
+            "brilliant-diamond": "Divora quotidianamente una quantità di cibo pari al suo peso, mandandolo giù quasi senza masticare.",
+            "shining-pearl": "Ha l'abitudine di nascondere il cibo sotto i lunghi peli del suo corpo, ma poi si dimentica di averlo fatto.",
+            "legends-arceus": "Provvisto di un robusto stomaco, si sazia con cibi marcescenti senza remore. Visita assiduamente il villaggio in cerca di rifiuti destinati al concime.",
+            "scarlet": "Ogni giorno deve mangiare una quantità di cibo pari al suo peso corporeo. Non bada troppo al sapore dio ciò che ingurgita.",
+            "violet": ""
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "munchlax",
+    "generation": 4,
+    "height": {
+        "munchlax": "0.6 m"
+    },
+    "id": 446,
+    "name": "Munchlax",
+    "name_origin": "Il nome potrebbe derivare dalla combinazione tra i verbi inglesi munch, masticare, biascicare, e lax, infiacchito, pigro, negligente, o relax, rilassarsi. ",
+    "origin": "Munchlax è basato su un cucciolo d'orso. Questo è confermato dal fatto che può essere trovato su alcuni alberi del Miele, che alcune specie di orso adorano particolarmente, e che ha l'abitudine di mangiare a volontà, proprio come gli orsi prima del letargo, rappresentato dalla sua pigrizia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Munchlax",
+    "shape": "bipedi",
+    "specie": "Pokémon Ghiottone",
+    "sprites": {
+        "munchlax": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b5/Homem0446.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0446.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/ff/Artwork0446_DP.png"
+    },
+    "stats": {
+        "munchlax": {
+            "hp": 135,
+            "atk": 85,
+            "def": 40,
+            "spa": 40,
+            "spd": 85,
+            "spe": 5
+        }
+    },
+    "stats_sum": {
+        "munchlax": 390
+    },
+    "types": {
+        "munchlax": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "munchlax": "105.0 kg"
+    }
+}

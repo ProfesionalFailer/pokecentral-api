@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "lombre": {
+            "primary": "Nuotovelox",
+            "secondary": "Copripioggia",
+            "hidden": "Mente Locale"
+        }
+    },
+    "curiosities": [
+        "La linea evolutiva di Lombre presenta alcune peculiarità:\n\tSono gli unici Pokémon che fanno parte sia del Gruppo Uova Acqua 1 che del Gruppo Uova Erba.\n\tSono gli unici Pokémon di tipo Acqua nel Gruppo Uova Erba.\n\tSono gli unici Pokémon che possono avere Copripioggia come abilità senza che sia speciale.",
+        "Sono gli unici Pokémon che fanno parte sia del Gruppo Uova Acqua 1 che del Gruppo Uova Erba.",
+        "Sono gli unici Pokémon di tipo Acqua nel Gruppo Uova Erba.",
+        "Sono gli unici Pokémon che possono avere Copripioggia come abilità senza che sia speciale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lombre.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 1",
+        "Erba"
+    ],
+    "flat_name": "lombre",
+    "generation": 3,
+    "height": {
+        "lombre": "1.20 m"
+    },
+    "id": 271,
+    "name": "Lombre",
+    "name_origin": "Il nome di Lombre potrebbe essere la combinazione di loto e hombre, che in Spagnolo significa uomo. Potrebbe anche derivare da sombrero, cappello in Spagnolo, simile al suo nome Giapponese. Hasubrero combina 蓮 hasu, che significa loto, e sombrero. Il suo nome in Tedesco, Lombrero, rispecchia perfettamente questo significato. ",
+    "origin": "L'aspetto di Lombre è simile alla creature mitologica Giapponese conosciuta come il Kappa. A differenza di Golduck, questo Pokémon è più simile al Kappa poiché ha lo stesso \" disco \" sulla sua testa carico d'acqua, la fonte del suo potere, esattamente come questo Pokémon usa Copripioggia per rimettersi in sesto. Ha anche l'aspetto del viso simile al Kappa, avendo un becco simile a quello di una tartaruga. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lombre",
+    "shape": "bipedi",
+    "specie": "Pokémon Giocoso",
+    "sprites": {
+        "lombre": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f1/Homem0271.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a1/Homemsh0271.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/05/Artwork0271_RZ.png"
+    },
+    "stats": {
+        "lombre": {
+            "hp": 60,
+            "atk": 50,
+            "def": 50,
+            "spa": 60,
+            "spd": 70,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "lombre": 340
+    },
+    "types": {
+        "lombre": [
+            "Erba",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "lombre": "32.5 kg"
+    }
+}

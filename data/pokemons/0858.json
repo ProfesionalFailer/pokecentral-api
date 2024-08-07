@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "hatterene": {
+            "primary": "Curacuore",
+            "secondary": "Presagio",
+            "hidden": "Magispecchio"
+        }
+    },
+    "curiosities": [
+        "Le linee evolutive di Hatenna e di Impidimp possono essere considerate delle controparti. Hatterene e Grimmsnarl sono di ottava generazione ed entrambi si evolvono prima al livello 32 e successivamente al livello 42. La linea evolutiva di Impidimp è solamente di sesso maschile, mentre quella di Hatenna è solamente di sesso femminile. Gli stadi finali di entrambi i Pokémon sono di tipo Folletto, con la stessa esperienza base e lo stesso tasso di cattura; entrambi hanno anche la stessa somma delle statistiche base. Hanno una forma Gigamax, una mossa Gigamax e entrambi i Pokémon utilizzano i capelli come arma. In aggiunta, ambedue i Pokémon sono basati su esseri mitici del folklore e della mitologia europea: Hatterene ricorda una strega, mentre Grimmsnarl un orco o un goblin. Infine, Hatterene e Grimmsnarl sono i Pokémon caratteristici rispettivamente di Mary e di Beet."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/hatterene.mp3",
+    "dex_entries": {
+        "hatterene": {
+            "sword": "Tiene alla larga gli esseri viventi che si trovano nei paraggi emettendo onde psichiche così forti da far venire il mal di testa.",
+            "shield": "È conosciuto anche come \"maga del bosco\". Se qualcuno fa troppo chiasso rischia di essere fatto a pezzettini dagli artigli sul suo tentacolo.",
+            "scarlet": "Stordisce con un raggio chiunque osi addentrarsi nel bosco in cui vive e lo squarcia con gli artigli, fortificati tramite i suoi poteri psichici.",
+            "violet": "Quando ci si imbatte in un bosco all’apparenza desolato, meglio fare attenzione: potrebbe trattarsi del territorio di un Hatterene."
+        },
+        "hatterene-gigamax": {
+            "sword": "È in grado di percepire le emozioni di ogni forma di vita nel raggio di 50 km. Quando avverte ostilità, parte immediatamente all'attacco.",
+            "shield": "Dai suoi tentacoli può lanciare raggi simili a fulmini. È soprannominato \"dea selvaggia\"."
+        }
+    },
+    "egg_groups": [
+        "Magico"
+    ],
+    "flat_name": "hatterene",
+    "generation": 8,
+    "height": {
+        "hatterene": "2.1 m",
+        "hatterene-gigamax": "> 26.0 m"
+    },
+    "id": 858,
+    "name": "Hatterene",
+    "name_origin": "Hatterene potrebbe essere una combinazione di hatter, cappellaio, e serene, tranquillo. Brimuon potrebbe essere una combinazione di brim, tesa, e 無音 muon, silenzio. ",
+    "origin": "Per via della sua connessione a Grimmsnarl, al nome della sua mossa Gigamax e alla possibilità di essere trovata solo con il genere femminile, Hatterene potrebbe essere basata sul Coco, la controparte femminile dell'uomo nero e raffigurata come una strega del bosco, menzionata spesso in ninne nanne e usata in alcune culture per spaventare i bambini che non vogliono dormire o stare zitti. Il suo aspetto potrebbe prendere ispirazione da una Harionago, uno spirito del folklore giapponese descritto come una bella donna che utilizza i suoi capelli estremamente lunghi con le punte simili a spine per attaccare. Il corpo relativamente piccolo di Hatterene, così come le \"finestre\" tra i suoi capelli nella forma Gigamax, potrebbero basarsi sul comune motivo fiabesco di una ragazza rinchiusa in una torre. In particolare, potrebbe essere ispirata a Raperonzolo i cui capelli erano abbastanza lunghi da raggiungere il suolo dalla cima di una torre e alla strega della fiaba di Hänsel e Gretel, entrambi personaggi dei fratelli Grimm. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hatterene",
+    "shape": "testa e base",
+    "specie": "Pokémon Silenzio",
+    "sprites": {
+        "hatterene": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c0/Homef0858.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homefsh0858.png"
+        },
+        "hatterene-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/8/84/Homef0858Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/81/Homefsh0858Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e4/Artwork0858_SpSc.png"
+    },
+    "stats": {
+        "hatterene": {
+            "hp": 57,
+            "atk": 90,
+            "def": 95,
+            "spa": 136,
+            "spd": 103,
+            "spe": 29
+        }
+    },
+    "stats_sum": {
+        "hatterene": 510
+    },
+    "types": {
+        "hatterene": [
+            "Psico",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "hatterene": "5.1 kg",
+        "hatterene-gigamax": "??? kg"
+    }
+}

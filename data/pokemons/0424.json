@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "ambipom": {
+            "primary": "Tecnico",
+            "secondary": "Raccolta",
+            "hidden": "Abillegame"
+        }
+    },
+    "curiosities": [
+        "Ambipom di Lucinda",
+        "Aibo"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ambipom.mp3",
+    "dex_entries": {
+        "ambipom": {
+            "diamond": "Si nutre di nocciole che sbuccia con le due code. Raramente usa le sue vere braccia.",
+            "pearl": "Vivono in colonie numerose e formano anelli legando le loro code in segno di amicizia.",
+            "platinum": "È talmente abile nel maneggiare gli oggetti con le sue due code che solo raramente usa le mani.",
+            "heartgold": "Vive in cima ai grandi alberi. Pare che gli AMBIPOM riescano a creare empatia legandosi le code tra loro.",
+            "soulsilver": "Gli attacchi sparati a raffica dalle sue due code sono difficilissimi da schivare.",
+            "black": "È talmente abile nel maneggiare gli oggetti con le sue due code che solo raramente usa le mani.",
+            "white": "È talmente abile nel maneggiare gli oggetti con le sue due code che solo raramente usa le mani.",
+            "black-2": "È talmente abile nel maneggiare gli oggetti con le sue due code che solo raramente usa le mani.",
+            "white-2": "È talmente abile nel maneggiare gli oggetti con le sue due code che solo raramente usa le mani.",
+            "x": "Vivono in colonie numerose e formano anelli legando le loro code in segno di amicizia.",
+            "y": "Si nutre di nocciole che sbuccia con le due code. Raramente usa le sue vere braccia.",
+            "omega-ruby": "Vivono in colonie numerose e formano anelli legando le loro code in segno di amicizia.",
+            "alpha-sapphire": "Si nutre di nocciole che sbuccia con le due code. Raramente usa le sue vere braccia.",
+            "ultra-sun": "Questi Pokémon si azzuffano con i Passimian per aggiudicarsi il territorio con gli alberi più comodi e la metà delle volte la spuntano.",
+            "ultra-moon": "Usa le code per fare tutto. Se abbraccia qualcuno con entrambe le code, significa che prova un grande affetto per questa persona.",
+            "brilliant-diamond": "Si nutre di bacche che sbuccia abilmente con le due code. Ormai usa raramente le sue vere braccia.",
+            "shining-pearl": "Vive in colonie numerose e forma anelli legando le code con gli altri in segno di amicizia.",
+            "legends-arceus": "Come segno d'affetto reciproco, gli Ambipom uniscono mutuamente le due code formando un circolo. Rari sono gli umani a cui è concesso aggiungersi a tali anelli."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "ambipom",
+    "generation": 4,
+    "height": {
+        "ambipom": "1.2 m"
+    },
+    "id": 424,
+    "name": "Ambipom",
+    "name_origin": "Deriva dalle parole ambidextrous  e palm . ",
+    "origin": "Basato su una scimmia scoiattolo. È ispirato alla creatura mitologica azteca Ahuizotl, che viene descritto con una zampa in fondo alla coda, simile a quella di una scimmia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ambipom",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Lungacoda",
+    "sprites": {
+        "ambipom": {
+            "default": "https://media.pokemoncentral.it/wiki/9/98/Homem0424.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a2/Homemsh0424.png"
+        },
+        "ambipom-f": {
+            "default": "https://media.pokemoncentral.it/wiki/5/50/Homef0424.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homefsh0424.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0424_DP.png"
+    },
+    "stats": {
+        "ambipom": {
+            "hp": 75,
+            "atk": 100,
+            "def": 66,
+            "spa": 60,
+            "spd": 66,
+            "spe": 115
+        }
+    },
+    "stats_sum": {
+        "ambipom": 482
+    },
+    "types": {
+        "ambipom": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "ambipom": "20.3 kg"
+    }
+}

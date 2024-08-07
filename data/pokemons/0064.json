@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "kadabra": {
+            "primary": "Sincronismo",
+            "secondary": "Forza Interiore",
+            "hidden": "Magicscudo"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Rosso e Verde beta, Kadabra si chiamava \"Pocus\".",
+        "Kadabra è uno dei pochi Pokémon che perde peso quando si evolve. Gli altri sono Porygon, Gloom, Venonat, Shelgon e Gligar.",
+        "Negli sprite di Rosso, Verde e Blu, la stella a cinque punte rossa non è presente sulla sua fronte.",
+        "Kadabra non è stato stampato nel GCC dall'espansione Skyridge per via di una controversia con Uri Geller.\n\tProbabilmente per la stessa ragione Kadabra non è più apparso nell'anime da La città fantasma.",
+        "Probabilmente per la stessa ragione Kadabra non è più apparso nell'anime da La città fantasma.",
+        "A causa di una svista, un Kadabra che tiene una Pietrastante si evolve comunque se scambiato a partire dalla quarta generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kadabra.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "kadabra",
+    "generation": 1,
+    "height": {
+        "kadabra": "1.3 m"
+    },
+    "id": 64,
+    "name": "Kadabra",
+    "name_origin": "Il suo nome deriva dalla formula magica abracadabra. Potrebbe anche derivare dallo spagnolo cabra. Yungerer è una corruzione di Uri Geller , che dichiara di avere l'abilità di piegare cucchiai con la mente, in quanto i nomi giapponesi della famiglia evolutiva di Abra sono basati su maghi famosi. Geller ha provato a fare causa alla Nintendo per aver sfruttato la sua similitudine in un personaggio ed ha perso, la difesa di Nintendo è stata di non aver chiamato nessun Pokémon basandosi su persone reali. ",
+    "origin": "Kadabra è basato su un mago e anche sui piegatori di cucchiai. Condivide similitudini con capre e volpi, entrambi animali legati alla magia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kadabra",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Psico",
+    "sprites": {
+        "kadabra": {
+            "default": "https://media.pokemoncentral.it/wiki/9/90/Homem0064.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0064.png"
+        },
+        "kadabra-f": {
+            "default": "https://media.pokemoncentral.it/wiki/3/32/Homef0064.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homefsh0064.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/48/Artwork0064_RFVF.png"
+    },
+    "stats": {
+        "kadabra": {
+            "hp": 40,
+            "atk": 35,
+            "def": 30,
+            "spa": 120,
+            "spd": 70,
+            "spe": 105
+        }
+    },
+    "stats_sum": {
+        "kadabra": 400
+    },
+    "types": {
+        "kadabra": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "kadabra": "56.5 kg"
+    }
+}

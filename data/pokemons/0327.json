@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "spinda": {
+            "primary": "Mente Locale",
+            "secondary": "Intricopiedi",
+            "hidden": "Inversione"
+        }
+    },
+    "curiosities": [
+        "Le macchie di Spinda hanno oltre 4 miliardi di combinazioni possibili e sono determinate dal valore della personalità di Spinda.",
+        "Spinda è uno dei Pokémon con lo stesso valore in tutte le statistiche base.",
+        "Il totale delle statistiche di Spinda è pari a 360, uguale ai gradi presenti in un angolo giro, che ricorda la peculiarità del Pokémon di girare su se stesso. Condivide questa caratteristica con Whirlipede.",
+        "Nonostante Spinda non abbia differenze tra i sessi, il Pokédex Rotom mostra Spinda maschio e femmina in modo separato."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/spinda.mp3",
+    "dex_entries": {
+        "spinda": {
+            "ruby": "Pare che ogni SPINDA esistente abbia un motivo maculato unico rispetto agli altri. Il suo passo barcollante e malsicuro dà l'impressione che stia ballando.",
+            "sapphire": "Pare che non esistano due SPINDA dall'identico motivo maculato. Questo POKéMON si muove in modo curioso barcollando come in preda alle vertigini. Tale comportamento può confondere l'avversario.",
+            "emerald": "Ogni esemplare di SPINDA ha un diverso motivo maculato sul corpo. Il suo passo incerto e barcollante confonde il nemico, che non riesce a prenderlo di mira.",
+            "firered": "Ogni SPINDA ha un diverso disegno sul corpo. I suoi movimenti confusi disorientano i nemici.",
+            "leafgreen": "Ogni SPINDA ha un diverso disegno sul corpo. I suoi movimenti confusi disorientano i nemici.",
+            "diamond": "Non ci sono due SPINDA con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
+            "pearl": "Non ci sono due SPINDA con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
+            "platinum": "Non ci sono due SPINDA con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
+            "heartgold": "La probabilità che due SPINDA con lo stesso disegno si incontrino è praticamente nulla.",
+            "soulsilver": "La probabilità che due SPINDA con lo stesso disegno si incontrino è praticamente nulla.",
+            "black": "Non ci sono due Spinda con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
+            "white": "Non ci sono due Spinda con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
+            "black-2": "Non ci sono due Spinda con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
+            "white-2": "Non ci sono due Spinda con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
+            "x": "Non ci sono due Spinda con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
+            "y": "Le probabilità che due Spinda con lo stesso disegno si incontrino è praticamente nulla.",
+            "omega-ruby": "Pare che ogni Spinda esistente abbia un motivo maculato unico rispetto agli altri. Il suo passo barcollante e malsicuro dà l'impressione che stia ballando.",
+            "alpha-sapphire": "Pare che non esistano due Spinda dall'identico motivo maculato. Questo Pokémon si muove in modo curioso barcollando come in preda alle vertigini. Tale comportamento può confondere l'avversario.",
+            "sun": "Si muove con passo incerto e barcollante, cercando invano di camminare dritto.",
+            "moon": "Ogni Spinda ha un motivo maculato unico. Alcuni appassionati si divertono a notare le differenze nella posizione delle macchie.",
+            "ultra-sun": "Si muove con passo incerto e barcollante. Se cammina troppo finisce per sentirsi male.",
+            "ultra-moon": "Ogni Spinda ha un motivo maculato unico. Grazie ai suoi movimenti incerti, riesce a schivare brillantemente gli attacchi nemici.",
+            "brilliant-diamond": "Non esistono due Spinda con lo stesso motivo maculato. Con il suo passo barcollante sfugge alla mira del nemico.",
+            "shining-pearl": "Non esistono due Spinda con lo stesso motivo maculato. Con il suo passo barcollante sfugge alla mira del nemico."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Umanoide"
+    ],
+    "flat_name": "spinda",
+    "generation": 3,
+    "height": {
+        "spinda": "1.10 m"
+    },
+    "id": 327,
+    "name": "Spinda",
+    "name_origin": "Il nome deriva dall'unione della parola inglese spin  con la parola panda. ",
+    "origin": "Basato su un panda minore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spinda",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Macchipanda",
+    "sprites": {
+        "spinda": {
+            "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0327.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0327.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/22/Artwork0327_RZ.png"
+    },
+    "stats": {
+        "spinda": {
+            "hp": 60,
+            "atk": 60,
+            "def": 60,
+            "spa": 60,
+            "spd": 60,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "spinda": 360
+    },
+    "types": {
+        "spinda": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "spinda": "5.0 kg"
+    }
+}

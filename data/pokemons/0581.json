@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "swanna": {
+            "primary": "Sguardofermo",
+            "secondary": "Pettinfuori",
+            "hidden": "Idratazione"
+        }
+    },
+    "curiosities": [
+        "Così come la sua pre-evoluzione, Swanna non impara nessuna mossa di tipo Normale salendo di livello."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/swanna.mp3",
+    "dex_entries": {
+        "swanna": {
+            "black": "Gli Swanna iniziano a ballare quando sorge il sole. Il capo del gruppo balla sempre al centro.",
+            "white": "Attacca violentemente col becco. Sferra colpi ripetuti, piegando il lungo collo.",
+            "black-2": "Non è solo elegante. Con il poderoso battito d'ali riesce a volare per migliaia di chilometri senza fermarsi.",
+            "white-2": "Non è solo elegante. Con il poderoso battito d'ali riesce a volare per migliaia di chilometri senza fermarsi.",
+            "x": "Non è solo elegante. Con il poderoso battito d'ali riesce a volare per migliaia di chilometri senza fermarsi.",
+            "y": "Gli Swanna iniziano a ballare quando sorge il sole. Il capo del gruppo balla sempre al centro.",
+            "omega-ruby": "Non è solo elegante. Con il poderoso battito d'ali riesce a volare per migliaia di chilometri senza fermarsi.",
+            "alpha-sapphire": "Gli Swanna iniziano a ballare quando sorge il sole. Il capo del gruppo balla sempre al centro."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Volante"
+    ],
+    "flat_name": "swanna",
+    "generation": 5,
+    "height": {
+        "swanna": "1.3 m"
+    },
+    "id": 581,
+    "name": "Swanna",
+    "name_origin": "Il suo nome deriva dall'inglese swan  e da ballerina. ",
+    "origin": "Swanna è basato su un cigno. Il fatto che la sua pre-evoluzione sia basata su una piccola papera potrebbe essere un riferimento alla favola de Il brutto anatroccolo. Il suo design trae ispirazione dal costume indossato dalla protagonista de Il lago dei cigni, Odette. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Swanna",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Biancuccello",
+    "sprites": {
+        "swanna": {
+            "default": "https://media.pokemoncentral.it/wiki/d/dc/Homem0581.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0581.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/21/Artwork0581_NB.png"
+    },
+    "stats": {
+        "swanna": {
+            "hp": 75,
+            "atk": 87,
+            "def": 63,
+            "spa": 87,
+            "spd": 63,
+            "spe": 98
+        }
+    },
+    "stats_sum": {
+        "swanna": 473
+    },
+    "types": {
+        "swanna": [
+            "Volante",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "swanna": "24.2 kg"
+    }
+}

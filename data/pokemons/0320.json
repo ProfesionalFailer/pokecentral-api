@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "wailmer": {
+            "primary": "Idrovelo",
+            "secondary": "Indifferenza",
+            "hidden": "Pressione"
+        }
+    },
+    "curiosities": [
+        "Wailmer fu uno dei primi Pokémon rivelati della terza generazione nel marzo del 2001, assieme ad Azurill e Kecleon.",
+        "Wailmer non compare nei giochi ambientati a Paldea, tuttavia viene menzionata dal Pokédex una parentela tra questo Pokémon e i Cetoddle."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wailmer.mp3",
+    "dex_entries": {
+        "wailmer": {
+            "ruby": "Le narici di WAILMER sono posizionate sopra gli occhi. È un giocherellone e ama spaventare le persone sparando dalle narici l'acqua del mare, che accumula all'interno del proprio corpo.",
+            "sapphire": "WAILMER accumula acqua all'interno del proprio corpo per trasformarsi in un pallone e rimbalzare al suolo. Questo POKéMON aumenta l'altezza del balzo incrementando la quantità d'acqua con cui si gonfia.",
+            "emerald": "Pur vivendo in mare, WAILMER può sopravvivere sulla terraferma, ma solo per brevi periodi. Se il suo corpo si secca, infatti, il POKéMON perde vitalità.",
+            "firered": "Se ingloba molta acqua diventa una specie di palla rimbalzante. Ha bisogno di una tonnellata di cibo al giorno.",
+            "leafgreen": "Se ingloba molta acqua diventa una specie di palla rimbalzante. Ha bisogno di una tonnellata di cibo al giorno.",
+            "diamond": "In giornate soleggiate, gioca rimbalzando sulla spiaggia. Spruzza acqua dalle narici.",
+            "pearl": "In giornate soleggiate, gioca rimbalzando sulla spiaggia. Spruzza acqua dalle narici.",
+            "platinum": "In giornate soleggiate, gioca rimbalzando sulla spiaggia. Spruzza acqua dalle narici.",
+            "heartgold": "Si diverte a rimbalzare come una palla. Più acqua di mare ingolla, più in alto riesce a rimbalzare.",
+            "soulsilver": "Si diverte a rimbalzare come una palla. Più acqua di mare ingolla, più in alto riesce a rimbalzare.",
+            "black": "In giornate soleggiate, gioca rimbalzando sulla spiaggia. Spruzza acqua dalle narici.",
+            "white": "In giornate soleggiate, gioca rimbalzando sulla spiaggia. Spruzza acqua dalle narici.",
+            "black-2": "Mangia una tonnellata di cibo al giorno. Si diverte a spruzzare con forza l'acqua marina attraverso il suo sfiatatoio.",
+            "white-2": "Mangia una tonnellata di cibo al giorno. Si diverte a spruzzare con forza l'acqua marina attraverso il suo sfiatatoio.",
+            "x": "Si diverte a rimbalzare come una palla. Più acqua di mare ingolla, più in alto riesce a rimbalzare.",
+            "y": "Magia una tonnellata di cibo al giorno. Si diverte a spruzzare con forza l'acqua marina attraverso il suo sfiatatoio.",
+            "omega-ruby": "Le narici di Wailmer sono posizionate sopra gli occhi. È un giocherellone e ama spaventare le persone sparando dalle narici l'acqua del mare,che accumula all'interno del proprio corpo.",
+            "alpha-sapphire": "Wailmer accumula acqua all'interno del proprio corpo per trasformarsi in un pallone e rimbalzare al suolo. Questo pokemon aumenta l'altezza del balzo incrementando la quantità d'acqua con cui si gonfia.",
+            "sun": "Si diverte a spaventare la gente. Ama gonfiarsi riempiendosi d'acqua e rimbalzare qua e là.",
+            "moon": "Gioca spruzzando l'acqua di mare dalle narici situate sopra agli occhi. Mangia una tonnellata di Wishiwashi al giorno.",
+            "ultra-sun": "Nuota con la bocca aperta, ingoiando cibo e acqua marina, poi espelle l’acqua in eccesso spruzzandola dallo sfiatatoio.",
+            "ultra-moon": "Molto raramente si possono vedere gruppi di questi Pokémon adagiati a riva, segno che in tempi antichi vivevano sulla terraferma.",
+            "sword": "Gioca spruzzando l'acqua di mare dalle narici situate sopra gli occhi. Mangia una tonnellata di Wishiwashi al giorno.",
+            "shield": "Se inghiotte molta acqua diventa una specie di palla rimbalzante. Ha bisogno di una tonnellata di cibo al giorno.",
+            "brilliant-diamond": "Nelle giornate soleggiate, gioca rimbalzando sulla spiaggia. Spruzza acqua dalle narici.",
+            "shining-pearl": "Nelle giornate soleggiate, gioca rimbalzando sulla spiaggia. Spruzza acqua dalle narici."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Acqua 2"
+    ],
+    "flat_name": "wailmer",
+    "generation": 3,
+    "height": {
+        "wailmer": "2.0 m"
+    },
+    "id": 320,
+    "name": "Wailmer",
+    "name_origin": "Wailmer può essere una combinazione dell'inglese whale, balena, o wail, lamento, che può riferirsi anche ai suoni o ai versi che le balene o gli Wailmer possono produrre, e del francese mer, mare. ",
+    "origin": "Wailmer si basa su una balena con gli aspetti di un pallone da spiaggia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wailmer",
+    "shape": "pinne",
+    "specie": "Pokémon Balenottero",
+    "sprites": {
+        "wailmer": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4e/Homem0320.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ed/Homemsh0320.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f1/Artwork0320_RZ.png"
+    },
+    "stats": {
+        "wailmer": {
+            "hp": 130,
+            "atk": 70,
+            "def": 35,
+            "spa": 70,
+            "spd": 35,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "wailmer": 400
+    },
+    "types": {
+        "wailmer": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "wailmer": "130.0 kg"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "beartic": {
+            "primary": "Mantelneve",
+            "secondary": "Spalaneve",
+            "hidden": "Nuotovelox"
+        }
+    },
+    "curiosities": [
+        "Beartic di Georgia"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/beartic.mp3",
+    "dex_entries": {
+        "beartic": {
+            "black": "Ha la facoltà di congelare il suo fiato. È un buon nuotatore e vaga nei mari del nord in cerca di prede.",
+            "white": "Lotta usando zanne o artigli creati congelando il suo stesso respiro. Vive nelle fredde regioni del nord.",
+            "black-2": "Predilige i mari freddi del nord. Crea strade di ghiaccio soffiando con il suo alito gelido sulla superficie del mare.",
+            "white-2": "Predilige i mari freddi del nord. Crea strade di ghiaccio soffiando con il suo alito gelido sulla superficie del mare.",
+            "x": "Predilige i mari freddi del nord. Crea strade di ghiaccio soffiando con il suo alito gelido sulla superficie del mare.",
+            "y": "Lotta usando zanne o artigli creati congelando il suo stesso respiro. Vive nelle fredde regioni del nord.",
+            "omega-ruby": "Predilige i freddi mari del nord. Crea strade di ghiaccio soffiando con il suo alito gelido sulla superficie del mare.",
+            "alpha-sapphire": "Lotta usando zanne o artigli creati congelando il suo stesso respiro. Vive nelle fredde regioni del nord.",
+            "sword": "Le zanne che crea congelando il suo respiro sono più dure dell'acciaio. Nuota nelle acque gelide del mare in cerca di cibo.",
+            "shield": "Nuota tranquillo nelle acque gelide del mare. Se è stanco, congela l'acqua con il suo soffio glaciale creando una piattaforma su cui riposare.",
+            "scarlet": "Pokémon carnivoro e feroce, usa il suo respiro gelido per congelare le prede catturate e conservarle.",
+            "violet": "Nelle terre del nord è temuto e chiamato \"demone bianco\". Assale la preda con artigli e zanne avvolti da aria gelida."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "beartic",
+    "generation": 5,
+    "height": {
+        "beartic": "2.6 m"
+    },
+    "id": 614,
+    "name": "Beartic",
+    "name_origin": "Beartic deriva da bear, orso, o anche beard, barba, e arctic, artico . ",
+    "origin": "Beartic è ispirato chiaramente a un orso polare. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Beartic",
+    "shape": "quadrupede",
+    "specie": "Pokémon Glaciale",
+    "sprites": {
+        "beartic": {
+            "default": "https://media.pokemoncentral.it/wiki/9/90/Homem0614.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e6/Homemsh0614.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ad/Artwork0614_NB.png"
+    },
+    "stats": {
+        "beartic": {
+            "hp": 95,
+            "atk": 130,
+            "def": 80,
+            "spa": 70,
+            "spd": 80,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "beartic": 505
+    },
+    "types": {
+        "beartic": [
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "beartic": "260 kg"
+    }
+}

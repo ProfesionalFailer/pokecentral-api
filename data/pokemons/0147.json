@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "dratini": {
+            "primary": "Muta",
+            "hidden": "Pelledura"
+        }
+    },
+    "curiosities": [
+        "Il nome beta di Dratini era Dragoon, il Dragoon però è anche un unità militare europea che si sposta a cavallo, ma combatte a piedi, il nome probabilmente deriva dall'unione di \"Dragon\"  e \"Lagoon\" .",
+        "Dratini è il primo Pokémon di tipo Drago del Pokédex Nazionale. Lui e le sue evoluzioni costituiscono gli unici Pokémon di tipo Drago della prima generazione.",
+        "Dratini ed evoluzioni hanno lo stesso nome della specie di Horsea ed evoluzioni, Salamence e Goodra. Sono tutti noti come Pokémon Drago.",
+        "Lo sprite di Dratini in Pokémon Rosso e Blu e Pokémon Verde lo mostrava con la pancia striata. Ciò è stato tolto da Pokémon Giallo in poi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dratini.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 1",
+        "Drago"
+    ],
+    "flat_name": "dratini",
+    "generation": 1,
+    "height": {
+        "dratini": "1.8 m"
+    },
+    "id": 147,
+    "name": "Dratini",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi dragon  e la corruzione di tiny  oppure proprio dal suffisso italiano \"ini\" per definire qualcosa di piccolo, anche se in realtà è un Pokémon abbastanza lungo essendo alto 1,8 metri. ",
+    "origin": "Sembra essere basato sui Serpenti marini o al Ryu, in alternativa potrebbe essersi basato sui Draghi cinesi o giapponesi che si dice portino fortuna, mentre la sua continua crescita potrebbe rimandarlo a Jourmungandr, un serpente della mitologia Norrena, mentre il fatto che vive solitario e che per molti è solo una leggenda lo rimandano al Mostro di Loch Ness. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dratini",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Drago",
+    "sprites": {
+        "dratini": {
+            "default": "https://media.pokemoncentral.it/wiki/7/71/Homem0147.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0147.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/94/Artwork0147_RFVF.png"
+    },
+    "stats": {
+        "dratini": {
+            "hp": 41,
+            "atk": 64,
+            "def": 45,
+            "spa": 50,
+            "spd": 50,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "dratini": 300
+    },
+    "types": {
+        "dratini": [
+            "Drago"
+        ]
+    },
+    "weight": {
+        "dratini": "3.3 kg"
+    }
+}

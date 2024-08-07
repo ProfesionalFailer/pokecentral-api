@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "mankey": {
+            "primary": "Spiritovivo",
+            "secondary": "Grancollera",
+            "hidden": "Agonismo"
+        }
+    },
+    "curiosities": [
+        "Mankey potrebbe essere considerato una controparte di Meowth. Entrambi sono Pokémon di prima generazione che si evolvono al livello 28. Mankey è esclusivo di Pokémon Rosso, Oro, Oro HeartGold e Let's Go, Pikachu!, mentre Meowth è esclusivo di Pokémon Blu, Argento, Argento SoulSilver e Let's Go, Eevee!. Inoltre, in Nero 2 e Bianco 2, Dadì darà al giocatore un Mankey se il giocatore è femmina, mentre Lilì darà al giocatore un Meowth se il giocatore è maschio. Infine, entrambi sembrano avere una combinazione di colori simile.",
+        "Nell'ufficio di Game Freak a Kantai in Pokémon Sole e Luna, Shigeki Morimoto afferma di aver progettato Mankey secondo le istruzioni del suo capo.",
+        "Mankey è il primo Pokémon di tipo Lotta ad apparire nel Pokédex Nazionale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mankey.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "mankey",
+    "generation": 1,
+    "height": {
+        "mankey": "0.5 m"
+    },
+    "id": 56,
+    "name": "Mankey",
+    "name_origin": "Mankey potrebbe essere una combinazione delle parole man  e monkey . Potrebbe essere anche un gioco di parole su manky . Alternativamente, potrebbe essere una combinazione delle parole mad  e monkey , a causa della personalità testarda e aggressiva. ",
+    "origin": "La classificazione di Mankey come \"Pokémon Suinpanzè\", insieme al suo naso da maiale, potrebbero essere ispirati al macaco nemestrino. Condivide con questo primate anche una combinazione di colori simile e la pelliccia ispida. Data la sua lunga coda, l'habitat e la personalità generale, Mankey ha molto in comune con i babbuini e le scimmie dal naso camuso. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mankey",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Suinpanzè",
+    "sprites": {
+        "mankey": {
+            "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0056.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0056.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/78/Artwork0056_RFVF.png"
+    },
+    "stats": {
+        "mankey": {
+            "hp": 40,
+            "atk": 80,
+            "def": 35,
+            "spa": 35,
+            "spd": 45,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "mankey": 305
+    },
+    "types": {
+        "mankey": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "mankey": "28.0 kg"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "snivy": {
+            "primary": "Erbaiuto",
+            "hidden": "Inversione"
+        }
+    },
+    "curiosities": [
+        "Snivy e gli altri starter sono stati mostrati con la loro ombra per la prima volta il 9 maggio 2010 nell'episodio di Pokémon Sunday. Sono stati rivelati completamente durante il mese di giugno 2010 nel manga distribuito da CoroCoro Comic.",
+        "A differenza degli altri Pokémon di quinta generazione, a Snivy è stato assegnato un nomignolo: Smugleaf . Questo soprannome è stato pubblicato nel blog Kotaku e più tardi in alcune riviste.",
+        "Ken Sugimori ha confermato che la personalità di Snivy è ispirata a quella degli europei nobili , più precisamente a quella di Lady Oscar.",
+        "Snivy è l'unico Pokémon iniziale di tipo Erba che non è al primo posto nel Pokédex regionale dell'apposita regione, siccome preceduto da Victini. Tuttavia, è sempre il numero #001.",
+        "Ha la somma delle statistiche più bassa di tutti gli starter di tipo Erba.",
+        "Nonostante il Pokédex di Pokémon Nero dica che assorbe la luce tramite la fotosintesi, non possiede l'abilità Clorofilla."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/snivy.mp3",
+    "dex_entries": {
+        "snivy": {
+            "black": "È dotato di intelligenza e sangue freddo. Quando riceve luce solare in abbondanza, i suoi movimenti si fanno agilissimi.",
+            "white": "Assorbe i raggi solari dalla coda, per operare la fotosintesi. Quando non sta bene, la sua coda si affloscia.",
+            "black-2": "Quando è esposto alla luce solare può muoversi più velocemente. Usa le sue liane meglio dei suoi stessi arti.",
+            "white-2": "Quando è esposto alla luce solare può muoversi più velocemente. Usa le sue liane meglio dei suoi stessi arti.",
+            "x": "Quando è esposto alla luce solare può muoversi più velocemente. Usa le sue liane meglio dei suoi stessi arti.",
+            "y": "Assorbe i raggi solari dalla coda, per operare la fotosintesi. Quando non sta bene, la sua coda si affloscia.",
+            "omega-ruby": "Quando è esposto alla luce solare può muoversi più velocemente. Usa le sue liane meglio dei suoi stessi arti.",
+            "alpha-sapphire": "Assorbe i raggi solari dalla coda per operare la fotosintesi. Quando non sta bene, la sua coda si affloscia."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Erba"
+    ],
+    "flat_name": "snivy",
+    "generation": 5,
+    "height": {
+        "snivy": "0.6 m"
+    },
+    "id": 495,
+    "name": "Snivy",
+    "name_origin": "Il nome di Snivy deriva probabilmente da snake  e ivy . Potrebbe involvere anche snide  o sly . Il suo nome giapponese Tsutarja probabilmente deriva da ツタ tsuta  e 蛇 ja . ",
+    "origin": "Snivy dovrebbe essere basato su una lucertola o su alcuni serpenti dal colore verde brillante appartenenti alla sottofamiglia colubrinae. La condivisione di alcuni tratti lo rende simile agli scincidi. Mentre la sua coda ricorda, come suggerisce il nome, la foglia dell'edera giapponese, le sporgenze sulle spalle potrebbero far pensare alla strelitzia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Snivy",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Serperba",
+    "sprites": {
+        "snivy": {
+            "default": "https://media.pokemoncentral.it/wiki/8/86/Homem0495.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/09/Homemsh0495.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ae/Artwork0495_N2B2.png"
+    },
+    "stats": {
+        "snivy": {
+            "hp": 45,
+            "atk": 45,
+            "def": 55,
+            "spa": 45,
+            "spd": 55,
+            "spe": 63
+        }
+    },
+    "stats_sum": {
+        "snivy": 308
+    },
+    "types": {
+        "snivy": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "snivy": "8.1 kg"
+    }
+}

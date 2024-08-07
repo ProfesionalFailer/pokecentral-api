@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "zubat": {
+            "primary": "Forza Interiore",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "Nessun altro Pokémon ha la stessa combinazione di tipo di Zubat e della sua famiglia evolutiva.",
+        "Zubat e Golbat sono i Pokémon di prima generazione che hanno mantenuto una combinazione di tipo unica per più a lungo.",
+        "Zubat e Golbat sono presenti in tutti i Pokédex regionali .",
+        "Stranamente Zubat può utilizzare l'attacco Malosguardo nonostante non abbia occhi.",
+        "Zubat era l'ultimo Pokémon in ordine alfabetico fino alla quarta generazione. Dalla Quinta, Zweilous ha preso il suo posto e dalla sesta l'ultimo è Zygarde.",
+        "Fino ad ora, tutte le organizzazioni nemiche nelle principali serie di videogiochi hanno almeno uno dei loro membri che utilizza Zubat e/o un membro della sua famiglia evolutiva.",
+        "Zubat condivide il nome della specie con le sue evoluzioni Golbat e Crobat e con Woobat: sono tutti noti come Pokémon Pipistrello.",
+        "Nella regione di Kalos è presente la Grotta Trait d'Union, denominata Tana degli Zubat in quanto unico luogo della regione in cui siano presenti tali Pokémon.",
+        "Zubat può essere contrapposto a Noibat in quanto sono entrambi di tipo Volante, hanno entrambi Intrapasso come abilità speciale e hanno esattamente le stesse statistiche di base, solamente con Attacco e Attacco Speciale scambiati.",
+        "La famiglia evolutiva di Zubat ha tre doppie resistenze, seconda solo a Heatran, che ne ha cinque.",
+        "Fino alla quarta generazione, né Zubat né Golbat potevano imparare Volo pur essendo di tipo Volante.",
+        "Zubat e la sua linea evolutiva sembrano essere simili alla famiglia evolutiva di Woobat: tutti i membri di entrambe le famiglie evolutive sono conosciuti come Pokémon Pipistrello , vivono in grotte o altri luoghi bui, le loro forme base non hanno occhi visibili, le loro forme finali si evolvono tramite affetto e hanno le forme cromatiche simili ; in più, i loro nomi si assomigliano avendo il suffisso bat ."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/zubat.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "zubat",
+    "generation": 1,
+    "height": {
+        "zubat": "0.8 m"
+    },
+    "id": 41,
+    "name": "Zubat",
+    "name_origin": "Il nome Zubat deriva dalla parole inglese bat  e della parola giapponese ずばっと zubatto . Inoltre potrebbe essere un riferimento all'eroe della serie televisiva giapponese Kaiketsu Zubat. ",
+    "origin": "Zubat è ispirato ad un pipistrello, mentre la sua mancanza di occhi è un riferimento all'idea sbagliata che i pipistrelli siano ciechi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Zubat",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Pipistrello",
+    "sprites": {
+        "zubat": {
+            "default": "https://media.pokemoncentral.it/wiki/4/48/Homem0041.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0041.png"
+        },
+        "zubat-f": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a2/Homef0041.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homefsh0041.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a5/Artwork0041_RFVF.png"
+    },
+    "stats": {
+        "zubat": {
+            "hp": 40,
+            "atk": 45,
+            "def": 35,
+            "spa": 30,
+            "spd": 40,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "zubat": 245
+    },
+    "types": {
+        "zubat": [
+            "Veleno",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "zubat": "7.5 kg"
+    }
+}

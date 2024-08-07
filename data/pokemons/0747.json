@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "mareanie": {
+            "primary": "Spietatezza",
+            "secondary": "Scioltezza",
+            "hidden": "Rigenergia"
+        }
+    },
+    "curiosities": [
+        "Mareanie di James"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mareanie.mp3",
+    "dex_entries": {
+        "mareanie": {
+            "sun": "Trafigge e indebolisce le prede con gli aculei avvelenati sulla testa, per poi immobilizzarle con i dieci tentacoli e infliggere il colpo di grazia.",
+            "moon": "Si aggira sui fondali marini e sulle spiagge. È ghiotto dei coralli che crescono sulla testa dei Corsola.",
+            "ultra-sun": "Poiché mangia i coralli dei Corsola, non è visto di buon occhio dagli artigiani che raccolgono e lavorano i rametti caduti spontaneamente.",
+            "ultra-moon": "A condizione che la testa rimanga intatta, anche se gli staccano qualche pezzo si rigenera subito. Dopo una notte di riposo ritorna come nuovo.",
+            "sword": "Chi viene punto dai suoi aculei viene colto da un formicolio che diventa presto un prurito insopportabile.",
+            "shield": "A differenza dei Mareanie di Alola, quelli di Galar non sanno quanto siano deliziosi i coralli dei Corsola.",
+            "scarlet": "Vaga qua e là per le spiagge in cerca di prede. Di tanto in tanto cerca di mangiarsi un aculeo caduto da un Pincurchin e prende la scossa.",
+            "violet": "Ha eccellenti capacità rigenerative. I suoi tentacoli caduti hanno un sapore amaro e allappante, e non sono adatti alla cucina."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1"
+    ],
+    "flat_name": "mareanie",
+    "generation": 7,
+    "height": {
+        "mareanie": "0.4 m"
+    },
+    "id": 747,
+    "name": "Mareanie",
+    "name_origin": "Mareanie può essere la combinazione di marine  e meanie . Hidoiede può essere la combinazione di 酷い hidoi  e 海星 hitode . ",
+    "origin": "Mareanie è basato su una stella corona di spine, una stella marina velenosa che si nutre di coralli. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mareanie",
+    "shape": "testa e base",
+    "specie": "Pokémon Stellatroce",
+    "sprites": {
+        "mareanie": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5a/Homem0747.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ad/Homemsh0747.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0747_SL.png"
+    },
+    "stats": {
+        "mareanie": {
+            "hp": 50,
+            "atk": 53,
+            "def": 62,
+            "spa": 43,
+            "spd": 52,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "mareanie": 305
+    },
+    "types": {
+        "mareanie": [
+            "Veleno",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "mareanie": "8.0 kg"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "kleavor": {
+            "primary": "Aiutinsetto",
+            "secondary": "Forzabruta",
+            "hidden": "Affilama"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di ottava generazione",
+        "Pokémon di tipo Coleottero",
+        "Pokémon di tipo Roccia",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Marrone",
+        "Pokémon dalla sagoma n. 13",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Coleottero",
+        "Pagine con articoli di Johto World",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 500",
+        "Pokémon con evoluzioni trans-generazionali"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kleavor.mp3",
+    "dex_entries": {
+        "kleavor": {
+            "legends-arceus": "Abbatte alberi con le grezze asce mentre difende le membra con dura pietra. D'indole brutale, se incontrato in natura non resta che la fuga.",
+            "scarlet": "Si è evoluto grazie a un minerale molto raro che si trova in zone vulcaniche. Per questo, parte del suo corpo si è tramutata in pietra.",
+            "violet": "Di indole violenta, rozza e brutale. Abbatte la preda mulinando le grosse e pesanti asce di pietra."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "kleavor",
+    "generation": 8,
+    "height": {
+        "kleavor": "1.8 m"
+    },
+    "id": 900,
+    "name": "Kleavor",
+    "name_origin": "Il nome Kleavor potrebbe derivare da un'alterazione di cleaver, mannaia. Basagiri potrebbe essere una combinazione di バッサリ bassari, colpo singolo, ばさら basara, agire senza ritegno, termine usato nel Giappone medievale, e カマキリ kamakiri, mantide. ",
+    "origin": "Kleavor potrebbe essere basato su una mantide religiosa con asce di pietra al posto delle zampe anteriori. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kleavor",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Scure",
+    "sprites": {
+        "kleavor": {
+            "default": "https://media.pokemoncentral.it/wiki/1/17/Homem0900.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0900.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/ff/Artwork0900_LPA.png"
+    },
+    "stats": {
+        "kleavor": {
+            "hp": 70,
+            "atk": 135,
+            "def": 95,
+            "spa": 45,
+            "spd": 70,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "kleavor": 500
+    },
+    "types": {
+        "kleavor": [
+            "Roccia",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "kleavor": "89 kg"
+    }
+}

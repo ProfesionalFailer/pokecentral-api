@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "eldegoss": {
+            "primary": "Lanugine",
+            "secondary": "Rigenergia",
+            "hidden": "Spargispora"
+        }
+    },
+    "curiosities": [
+        "Eldegoss è stato annunciato il 5 giugno 2019 durante un Pokémon Direct."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/eldegoss.mp3",
+    "dex_entries": {
+        "eldegoss": {
+            "sword": "I suoi semi lanuginosi, ricchi di sostanze nutritive, vengono trasportati dal vento e donano nuova energia a piante e Pokémon.",
+            "shield": "I fili realizzati con la lanugine del suo capo sono particolarmente belli e lucenti. Sono un prodotto tipico di Galar."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "eldegoss",
+    "generation": 8,
+    "height": {
+        "eldegoss": "0.5 m"
+    },
+    "id": 830,
+    "name": "Eldegoss",
+    "name_origin": "Eldegoss potrebbe essere una combinazione di elder, più anziano in inglese, e Gossypium. Potrebbe derivare anche da gossamer, sottilissimo. Ricorda inoltre il Leontopodium nivale, una pianta che produce un fiore ricoperto da uno strato di peluria. Watashiraga potrebbe essere una combinazione di 綿 wata, cotone, e 白髪 shiraga, capelli bianchi. ",
+    "origin": "Eldegoss potrebbe essere basato sulle piante del genere Anemone, come l'anemone dei boschi, una pianta comune nelle Isole britanniche. Potrebbe essere ispirato anche su un gomitolo di cotone utilizzato per fabbricare prodotti di tessuto. Ricorda inoltre un taglio di capelli afro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Eldegoss",
+    "shape": "testa e base",
+    "specie": "Pokémon Cotofronzolo",
+    "sprites": {
+        "eldegoss": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0f/Homem0830.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7d/Homemsh0830.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5b/Artwork0830_SpSc.png"
+    },
+    "stats": {
+        "eldegoss": {
+            "hp": 60,
+            "atk": 50,
+            "def": 90,
+            "spa": 80,
+            "spd": 120,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "eldegoss": 460
+    },
+    "types": {
+        "eldegoss": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "eldegoss": "2.5 kg"
+    }
+}

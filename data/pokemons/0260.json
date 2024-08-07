@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "swampert": {
+            "primary": "Acquaiuto",
+            "hidden": "Umidità"
+        },
+        "megaswampert": {
+            "primary": "Nuotovelox"
+        }
+    },
+    "curiosities": [
+        "È lo starter con il totale delle statistiche base più alto.",
+        "Swampert e la sua pre-evoluzione Marshtomp sono gli unici starter ad avere una doppia debolezza a un altro tipo degli starter.",
+        "In quinta generazione, Swampert è l'unico starter di tipo Acqua che non impara Idropompa salendo di livello. La può però imparare tramite la sua forma base Mudkip al livello 42.",
+        "Swampert è lo starter con il minor numero di debolezze in assoluto.",
+        "Nonostante nell'episodio Il relitto il Pokédex di Ash affermi che Swampert pesi oltre una tonnellata, pesa solo 81,9 kg."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/swampert.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Acqua 1"
+    ],
+    "flat_name": "swampert",
+    "generation": 3,
+    "height": {
+        "swampert": "1.5 m",
+        "megaswampert": "1.9 m"
+    },
+    "id": 260,
+    "name": "Swampert",
+    "name_origin": "Swampert potrebbe essere una combinazione di swamp  e rampart , o expert . Laglarge potrebbe essere una combinazione di lagoon  e large . Potrebbe anche includere lag, inteso come \"to lag behind\" , in riferimento al peso e alle dimensioni. ",
+    "origin": "Come Mudkip e Marshtomp, Swampert è basato sull'axolotl o sul saltafango. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Swampert",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Fango Pesce",
+    "sprites": {
+        "swampert": {
+            "default": "https://media.pokemoncentral.it/wiki/a/aa/Homem0260.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0260.png"
+        },
+        "megaswampert": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f4/Homem0260M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fd/Homemsh0260M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d3/Artwork0260_RZ.png"
+    },
+    "stats": {
+        "swampert": {
+            "hp": 100,
+            "atk": 110,
+            "def": 90,
+            "spa": 85,
+            "spd": 90,
+            "spe": 60
+        },
+        "megaswampert": {
+            "hp": 100,
+            "atk": 150,
+            "def": 110,
+            "spa": 95,
+            "spd": 110,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "swampert": 535,
+        "megaswampert": 635
+    },
+    "types": {
+        "swampert": [
+            "Terra",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "swampert": "81.9 kg",
+        "megaswampert": "102 kg"
+    }
+}

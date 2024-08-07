@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "electivire": {
+            "primary": "Elettrorapid",
+            "hidden": "Spiritovivo"
+        }
+    },
+    "curiosities": [
+        "Può essere considerato la controparte di Magmortar. Entrambi sono lo stadio evolutivo finale di un Pokémon Baby e si evolvono tramite scambio con strumenti simili. Entrambi hanno una percentuale di 75 maschi su 100 e un tasso di cattura di 30, inoltre entrambi hanno la somma delle statistiche base pari a 540.",
+        "Electivire condivide la categoria con Zebstrika. Sono entrambi noti come Pokémon Saetta."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/electivire.mp3",
+    "dex_entries": {
+        "electivire": {
+            "diamond": "Tocca il nemico con le sue due code e rilascia una scarica elettrica di oltre 20000 volt.",
+            "pearl": "Tocca il nemico con le sue due code e rilascia una scarica elettrica di oltre 20000 volt.",
+            "platinum": "Incurante degli attacchi nemici, si avvicina, tocca il nemico con le code e rilascia una scarica elettrica.",
+            "heartgold": "Quando accumula tanta elettricità sparge scintille azzurrine dallo spazio tra le due corna.",
+            "soulsilver": "Quando accumula tanta elettricità sparge scintille azzurrine dallo spazio tra le due corna.",
+            "black": "Incurante degli attacchi nemici, si avvicina, tocca il nemico con le code e rilascia una scarica elettrica.",
+            "white": "Incurante degli attacchi nemici, si avvicina, tocca il nemico con le code e rilascia una scarica elettrica.",
+            "black-2": "Tocca il nemico con la punta delle code rilasciando in un istante una scarica ad alta tensione di oltre 20.000 volt.",
+            "white-2": "Tocca il nemico con la punta delle code rilasciando in un istante una scarica ad alta tensione di oltre 20.000 volt.",
+            "x": "Quando accumula tanta elettricità sparge scintille azzurrine dallo spazio tra le due corna.",
+            "y": "Tocca il nemico con le sue due code e rilascia una scarica elettrica di oltre 20.000 volt.",
+            "omega-ruby": "Quando accumula tanta elettricità sparge scintille azzurrine dallo spazio tra le due corna.",
+            "alpha-sapphire": "Tocca il nemico con le sue due code e rilascia una scarica elettrica di oltre 20.000 volt.",
+            "sun": "Tocca il nemico con la punta delle code e rilascia una scarica elettrica ad alto voltaggio che lo carbonizza all'istante.",
+            "moon": "Quando è agitato, si batte il petto sprizzando scintille e producendo un rombo simile a un tuono.",
+            "ultra-sun": "Afferra le code sature di elettricità per caricare i suoi pugni al massimo della potenza per poi colpire il nemico.",
+            "ultra-moon": "Un singolo Electivire è in grado di fornire l'elettricità necessaria agli edifici di una grande città per un anno.",
+            "sword": "Produce una quantità di elettricità direttamente proporzionale alla sua frequenza cardiaca. Durante la lotta il voltaggio si alza all'istante.",
+            "shield": "È uno dei Pokémon di tipo Elettro che producono più elettricità. Rilascia scariche ad alto voltaggio dalla punta delle code.",
+            "brilliant-diamond": "Rilascia una scarica elettrica di oltre 20.000 volt sul nemico toccandolo con l'estremità delle sue due code.",
+            "shining-pearl": "Rilascia una scarica elettrica di oltre 20.000 volt sul nemico toccandolo con l'estremità delle sue due code.",
+            "legends-arceus": "Si è evoluto per mezzo di un singolare strumento. L'accelerare del palpito ingenera più elettricità. Eietta scariche da 20.000 volt dalle code."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "electivire",
+    "generation": 4,
+    "height": {
+        "electivire": "1.8 m"
+    },
+    "id": 466,
+    "name": "Electivire",
+    "name_origin": "Deriva dalle parole electric  o electricity  e wire  o una contrazione di live wire . ",
+    "origin": "Sembra che si basi su uno yeti, un oni o un gorilla. Il disegno che ha sulla schiena ricorda una presa della corrente, a cui sono collegati due cavi elettrici. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Electivire",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Saetta",
+    "sprites": {
+        "electivire": {
+            "default": "https://media.pokemoncentral.it/wiki/c/ca/Homem0466.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0466.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/21/Artwork0466_DLPS.png"
+    },
+    "stats": {
+        "electivire": {
+            "hp": 75,
+            "atk": 123,
+            "def": 67,
+            "spa": 95,
+            "spd": 85,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "electivire": 540
+    },
+    "types": {
+        "electivire": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "electivire": "138.6 kg"
+    }
+}

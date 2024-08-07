@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "magnemite": {
+            "primary": "Magnetismo",
+            "secondary": "Vigore",
+            "hidden": "Ponderazione"
+        }
+    },
+    "curiosities": [
+        "Nella versione beta di Pokémon Rosso e Blu, Magnemite era chiamato Coil, mentre la sua evoluzione era chiamata Recoil.",
+        "Nonostante il fatto che anche il Pokédex affermi che sappia fluttuare, Magnemite non possiede l'abilità Levitazione. Però dalla quarta generazione può imparare Magnetascesa che gli permette di fluttuare nell'aria, imitando Levitazione, per 5 turni.",
+        "Nonostante Magnemite sia un Pokémon di sesso sconosciuto, nella prima serie dell'anime, in Un'amica magnetica, un Magnemite sembra innamorarsi del Pikachu di Ash per via della sua eccessiva carica elettrica.\n\tIn Kalos, dove iniziano i sogni e le avventure!, vi è una breve presentazione di alcune città della regione tra cui Rio Acquerello. Dall'immagine è possibile notare due Magnemite che fluttuano in aria. Uno di questi indossa un fiocco rosa, facendolo sembrare una femmina.",
+        "In Kalos, dove iniziano i sogni e le avventure!, vi è una breve presentazione di alcune città della regione tra cui Rio Acquerello. Dall'immagine è possibile notare due Magnemite che fluttuano in aria. Uno di questi indossa un fiocco rosa, facendolo sembrare una femmina.",
+        "La versione cromatica di Magnemite negli sprite di seconda generazione presenta le estremità dei magneti colorate di rosso e blu. Tale particolarità non si è più vista nelle colorazioni cromatiche dalla terza generazione in poi.",
+        "Magnemite e la sua evoluzione Magneton sono due dei pochi Pokémon a cui è stato cambiato il verso in terza generazione a causa delle migliorie nei sistemi di gioco.",
+        "Prima della settima generazione Magnemite, Magneton e Magnezone avevano una combinazione di tipi unica.\n\tQuesta combinazione li rende i Pokémon con il maggior numero di resistenze : ben 12 su 18 , considerando anche l'immunità al Veleno.",
+        "Questa combinazione li rende i Pokémon con il maggior numero di resistenze : ben 12 su 18 , considerando anche l'immunità al Veleno."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/magnemite.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "magnemite",
+    "generation": 1,
+    "height": {
+        "magnemite": "0.3 m"
+    },
+    "id": 81,
+    "name": "Magnemite",
+    "name_origin": "Magnemite potrebbe essere giocato sulla magnetite. Coil è letteralmente coil, forse riferito al fatto che una spira di corrente elettrica genera un campo magnetico. ",
+    "origin": "Magnemite sembra essere basato su un Magnete. Potrebbe anche essere l'oggettivazione dell'Interazione elettromagnetica, una delle quattro Interazioni fondamentali della Natura. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Magnemite",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Calamita",
+    "sprites": {
+        "magnemite": {
+            "default": "https://media.pokemoncentral.it/wiki/9/99/Homem0081.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0b/Homemsh0081.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e6/Artwork0081_RFVF.png"
+    },
+    "stats": {
+        "magnemite": {
+            "hp": 25,
+            "atk": 35,
+            "def": 70,
+            "spa": 95,
+            "spd": 55,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "magnemite": 325
+    },
+    "types": {
+        "magnemite": [
+            "Elettro",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "magnemite": "6.0 kg"
+    }
+}

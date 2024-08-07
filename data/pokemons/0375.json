@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "metang": {
+            "primary": "Corpochiaro",
+            "hidden": "Metalleggero"
+        }
+    },
+    "curiosities": [
+        "Sebbene si dice che Metang è costituito da due Beldum, non vi sono prove di questo visibile.",
+        "Il numero di Metang nel Pokédex di Hoenn e nel Navigatore di Fiore sono gli stessi: 191.",
+        "Anche se sembra che Metang leviti nei giochi e nell'anime, non possiede l'abilità Levitazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/metang.mp3",
+    "dex_entries": {
+        "metang": {
+            "ruby": "Fondendo insieme due BELDUM, si crea METANG. I cervelli dei BELDUM sono uniti da un sistema nervoso magnetico. Questo particolare sistema di unione genera forti poteri psicocinetici.",
+            "sapphire": "Fondendosi, due BELDUM formano METANG. I cervelli dei BELDUM sono uniti da un sistema nervoso magnetico. Questo POKéMON ruota le zampe all'indietro per muoversi ad elevata velocità.",
+            "emerald": "Gli artigli di METANG sono dotati di un potere distruttivo tale da ridurre a brandelli spessi blocchi di ferro come se fossero seta. Vola a oltre 100 km/h.",
+            "firered": "Usa il magnetismo per volare a mezz'aria. Ha un corpo così possente che neppure lo scontro con un jet può scalfirlo.",
+            "leafgreen": "Usa il magnetismo per volare a mezz'aria. Ha un corpo così possente che neppure lo scontro con un jet può scalfirlo.",
+            "diamond": "È sorto dalla fusione di due BELDUM. Il suo corpo d’acciaio non viene scalfito neanche se urta un jet.",
+            "pearl": "È sorto dalla fusione di due BELDUM. Il suo corpo d’acciaio non viene scalfito neanche se urta un jet.",
+            "platinum": "È sorto dalla fusione di due BELDUM. Il suo corpo d’acciaio non viene scalfito neanche se urta un jet.",
+            "heartgold": "Sorto dalla fusione di 2 BELDUM. I cervelli dei BELDUM sono uniti da un sistema nervoso magnetico.",
+            "soulsilver": "Sorto dalla fusione di 2 BELDUM. I cervelli dei BELDUM sono uniti da un sistema nervoso magnetico.",
+            "black": "È sorto dalla fusione di due Beldum. Il suo corpo d'acciaio non viene scalfito neanche se urta un jet.",
+            "white": "È sorto dalla fusione di due Beldum. Il suo corpo d'acciaio non viene scalfito neanche se urta un jet.",
+            "black-2": "È nato dalla fusione di due Beldum. L'unione di due cervelli rende ancora più forti i suoi poteri psichici.",
+            "white-2": "È nato dalla fusione di due Beldum. L'unione di due cervelli rende ancora più forti i suoi poteri psichici.",
+            "x": "È sorto dalla fusione di due Beldum. Il suo corpo d'acciaio non viene scalfito neanche se urta un jet.",
+            "y": "È nato dalla fusione di due Beldum. L'unione di due cervelli rende ancora più forti i suoi poteri psichici.",
+            "omega-ruby": "Fondendo insieme due Beldum, si crea Metang. I cervelli dei Beldum sono uniti da un sistema nervoso magnetico. Questo particolare sistema di unione genera forti poteri psicocinetici.",
+            "alpha-sapphire": "Fondendosi, due Beldum formano Metang. I cervelli dei Beldum sono uniti da un sistema nervoso magnetico. Questo Pokémon ruota le zampe all'indietro per muoversi ad elevata velocità.",
+            "sun": "Quando due Beldum si fondono per formare un Metang, i loro poteri psichici raddoppiano, ma l'intelligenza rimane la stessa.",
+            "moon": "È ghiotto di materiali dotati di proprietà magnetiche. Quando dà la caccia ai Nosepass, può raggiungere i 100 km/h.",
+            "ultra-sun": "Grazie alla fusione di due cervelli, è in grado di scatenare fortissimi poteri psichici che immobilizzano le prede.",
+            "ultra-moon": "Vola a grande velocità. Una volta individuata la preda, la afferra saldamente con gli artigli affilati e non la lascia più andare.",
+            "sword": "Due Beldum si sono uniti tramite l'attrazione magnetica, raddoppiando i loro poteri psichici grazie ai due cervelli.",
+            "shield": "Levita sfruttando la forza magnetica. Si fa strada fra i picchi scoscesi volando a grande velocità mentre insegue le prede.",
+            "brilliant-diamond": "È nato dalla fusione di due Beldum. Il suo corpo d'acciaio non viene scalfito neanche dall'urto con un jet.",
+            "shining-pearl": "È nato dalla fusione di due Beldum. Il suo corpo d'acciaio non viene scalfito neanche dall'urto con un jet."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "metang",
+    "generation": 3,
+    "height": {
+        "metang": "1.2 m"
+    },
+    "id": 375,
+    "name": "Metang",
+    "name_origin": "Metang potrebbe essere l'unione di metal  e del suono onomatopeico del metallo, tang, o dal francese étang . Metang è anche l'anagramma di magnet . ",
+    "origin": "È composto da due Beldum fusi insieme. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Metang",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Ferrunghia",
+    "sprites": {
+        "metang": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9f/Homem0375.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0375.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8b/Artwork0375_RZ.png"
+    },
+    "stats": {
+        "metang": {
+            "hp": 60,
+            "atk": 75,
+            "def": 100,
+            "spa": 55,
+            "spd": 80,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "metang": 420
+    },
+    "types": {
+        "metang": [
+            "Psico",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "metang": "202.5 kg"
+    }
+}

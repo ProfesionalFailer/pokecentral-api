@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "thievul": {
+            "primary": "Fugafacile",
+            "secondary": "Agiltecnica",
+            "hidden": "Sorveglianza"
+        }
+    },
+    "curiosities": [
+        "Thievul e Nickit condividono la loro categoria con Vulpix, Ninetales, Fennekin, Braixen e Delphox. Tutti e sette sono conosciuti come Pokémon Volpe."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/thievul.mp3",
+    "dex_entries": {
+        "thievul": {
+            "sword": "Marca di nascosto le prede interessanti, ne segue l'odore per rintracciarle e approfitta di una loro distrazione per rubare nelle loro tane.",
+            "shield": "Se ne va in giro rubando Uova e cibo grazie al suo corpo agile e alle unghie affilate. Il suo nemico naturale è Boltund."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "thievul",
+    "generation": 8,
+    "height": {
+        "thievul": "1.2 m"
+    },
+    "id": 828,
+    "name": "Thievul",
+    "name_origin": "Thievul potrebbe essere una combinazione di thief, ladro, evil, malvagio, e vulpine, di volpe. Foxly potrebbe essere una combinazione di fox, volpe, e sly, scaltro. ",
+    "origin": "Thievul potrebbe essere basato su una volpe rossa. I dettagli sul muso e i baffi sembrano rappresentare lo stereotipo dei ladri e degli scassinatori o il tropo del ladro gentiluomo. Le zampe anteriori ricordano i guanti che indossano solitamente i ladri e gli scassinatori. La correlazione con Boltund potrebbe essere un riferimento alla caccia alla volpe, dove una volpe veniva cacciata da un English Foxhound su cui Boltund sembra appunto essere basato. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Thievul",
+    "shape": "quadrupede",
+    "specie": "Pokémon Volpe",
+    "sprites": {
+        "thievul": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f0/Homem0828.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0828.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/60/Artwork0828_SpSc.png"
+    },
+    "stats": {
+        "thievul": {
+            "hp": 70,
+            "atk": 58,
+            "def": 58,
+            "spa": 87,
+            "spd": 92,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "thievul": 455
+    },
+    "types": {
+        "thievul": [
+            "Buio"
+        ]
+    },
+    "weight": {
+        "thievul": "19.9 kg"
+    }
+}

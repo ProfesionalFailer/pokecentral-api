@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "mandibuzz": {
+            "primary": "Pettinfuori",
+            "secondary": "Copricapo",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Vullaby e Mandibuzz sono stati concepiti da James Turner."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mandibuzz.mp3",
+    "dex_entries": {
+        "mandibuzz": {
+            "black": "Si costruisce il nido con le ossa raccolte. Afferra le prede indebolite con gli arti e le trasporta nel nido.",
+            "white": "Osserva la terra dal cielo e si lancia sulle prede in difficoltà. Ha l'abitudine di farsi delle decorazioni con le ossa.",
+            "black-2": "Vola in cerchio nel cielo e quando scorge una preda le si lancia contro in picchiata per trasportarla al suo nido.",
+            "white-2": "Vola in cerchio nel cielo e quando scorge una preda le si lancia contro in picchiata per trasportarla al suo nido.",
+            "x": "Vola in cerchio nel cielo e quando scorge una preda le si lancia contro in picchiata per trasportarla al suo nido.",
+            "y": "Osserva la terra dal cielo e si lancia sulle prede in difficoltà. Ha l'abitudine di farsi delle decorazioni con le ossa.",
+            "omega-ruby": "Vola in cerchio nel cielo e quando scorge una preda le si lancia contro in picchiata per trasportarla al suo nido.",
+            "alpha-sapphire": "Osserva la terra dal cielo e si lancia sulle prede in difficoltà. Ha l'abitudine di farsi delle decorazioni con le ossa.",
+            "sun": "Si dice che si adorni di ossa per attirare esemplari di sesso opposto. Tuttavia non sono mai stati avvistati Mandibuzz maschi.",
+            "moon": "Volteggia nel cielo alla ricerca di Pokémon indeboliti. È ghiotto di Cubone.",
+            "ultra-sun": "Costruisce abilmente il nido usando le ossa delle sue prede, soprattutto quelle di Cubone.",
+            "ultra-moon": "È sempre in cerca di cibo per Vullaby. Appena trova un Pokémon indebolito, lo trasporta subito al suo nido.",
+            "sword": "Ha un'indole violenta, ma se trova un Vullaby che si è smarrito lo accudisce con amore fino a quando non è pronto a lasciare il nido.",
+            "shield": "Raccoglie ossa con cui adorna il suo corpo. Sembra che la forma di queste decorazioni cambi a seconda della moda del momento."
+        }
+    },
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "mandibuzz",
+    "generation": 5,
+    "height": {
+        "mandibuzz": "1.2 m"
+    },
+    "id": 630,
+    "name": "Mandibuzz",
+    "name_origin": "Il nome Mandibuzz deriva dal termine inglese mandible , o dallo spagnolo mandil , e sempre dall'inglese buzzard . ",
+    "origin": "Mandibuzz, come la sua pre-evoluzione Vullaby, è basato su un avvoltoio, come il condor della California. Il suo aspetto ricorda anche lo stereotipo di un guerriero barbaro. Inoltre il suo grembiule provvisto di spuntoni sembra la parte inferiore di un teschio capovolta , che andrebbe a completare la parte superiore del teschio presente in Vullaby. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mandibuzz",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Ossaquila",
+    "sprites": {
+        "mandibuzz": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e4/Homef0630.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ec/Homefsh0630.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b3/Artwork0630_NB.png"
+    },
+    "stats": {
+        "mandibuzz": {
+            "hp": 110,
+            "atk": 65,
+            "def": 105,
+            "spa": 55,
+            "spd": 95,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "mandibuzz": 510
+    },
+    "types": {
+        "mandibuzz": [
+            "Volante",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "mandibuzz": "39.5 kg"
+    }
+}

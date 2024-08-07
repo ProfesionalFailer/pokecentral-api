@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "hoppip": {
+            "primary": "Clorofilla",
+            "secondary": "Fogliamanto",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "In seconda generazione Hoppip, Skiploom e Jumpluff avevano una combinazione di tipi unica.",
+        "Col peso di 0,5 kg, Hoppip è il più leggero Pokémon Erba, di tipo Volante e di seconda generazione.",
+        "In seconda generazione Hoppip può imparare Giornopaga tramite allevamento, ma solo da un Pikachu o Raichu trasferiti da un gioco di prima generazione.",
+        "Hoppip è l'unico Pokémon Volante nel gruppo colore Rosa.",
+        "Il nome Inglese di Hoppip e delle sue evoluzioni è stato dato da Nob Ogasawara."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/hoppip.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Magico",
+        "Erba"
+    ],
+    "flat_name": "hoppip",
+    "generation": 2,
+    "height": {
+        "hoppip": "0.4 m"
+    },
+    "id": 187,
+    "name": "Hoppip",
+    "name_origin": "Deriva dalle parole hop  e pip . ",
+    "origin": "Basato su un fittone e le sue foglie ricordano quelle del soffione. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hoppip",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Gramigna",
+    "sprites": {
+        "hoppip": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a5/Homem0187.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/92/Homemsh0187.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/54/Artwork0187_HGSS.png"
+    },
+    "stats": {
+        "hoppip": {
+            "hp": 35,
+            "atk": 35,
+            "def": 40,
+            "spa": 35,
+            "spd": 55,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "hoppip": 250
+    },
+    "types": {
+        "hoppip": [
+            "Volante",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "hoppip": "0.5 kg"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "lunatone": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "Lunatone condivide la categoria con Solrock. Sono entrambi il Pokémon Meteorite."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lunatone.mp3",
+    "dex_entries": {
+        "lunatone": {
+            "ruby": "LUNATONE è stato scoperto nel luogo dove una volta cadde un meteorite. Si è pertanto dedotto che questo POKéMON venga dallo spazio. Tuttavia, questa teoria non è ancora stata confermata.",
+            "sapphire": "LUNATONE si desta quando domina la luna piena. Invece di camminare, fluttua a mezz'aria. I suoi occhi rossi così minacciosi terrorizzano chiunque li guardi.",
+            "emerald": "LUNATONE è stato scoperto 40 anni fa nella zona d'impatto di un meteorite. Questo POKéMON diventa particolarmente attivo nelle notti di luna piena.",
+            "firered": "Il suo stato di salute segue le fasi lunari, come le maree. L'esposizione alla luna piena lo rende fortissimo.",
+            "leafgreen": "Il suo stato di salute segue le fasi lunari, come le maree. L'esposizione alla luna piena lo rende fortissimo.",
+            "diamond": "Diventa attivo nelle notti di luna piena, pertanto si dice che abbia qualche legame con le fasi lunari.",
+            "pearl": "Diventa attivo nelle notti di luna piena, pertanto si dice che abbia qualche legame con le fasi lunari.",
+            "platinum": "Diventa attivo nelle notti di luna piena, pertanto si dice che abbia qualche legame con le fasi lunari.",
+            "heartgold": "Fu scoperto 40 anni fa nella zona d’impatto di un meteorite. Con il solo sguardo addormenta il nemico.",
+            "soulsilver": "Fu scoperto 40 anni fa nella zona d’impatto di un meteorite. Con il solo sguardo addormenta il nemico.",
+            "black": "Diventa attivo nelle notti di luna piena, pertanto si dice che abbia qualche legame con le fasi lunari.",
+            "white": "Diventa attivo nelle notti di luna piena, pertanto si dice che abbia qualche legame con le fasi lunari.",
+            "black-2": "La sua forza sembra aumentare o diminuire a seconda delle fasi lunari. È più attivo nelle notti di luna piena.",
+            "white-2": "La sua forza sembra aumentare o diminuire a seconda delle fasi lunari. È più attivo nelle notti di luna piena.",
+            "x": "Diventa attivo nelle notti di luna piena, pertanto si dice che abbia qualche legame con le fasi lunari.",
+            "y": "Fu scoperto 40 anni fa nella zona d'impatto di un meteorite. Con il solo sguardo addormenta il nemico.",
+            "omega-ruby": "Lunatone è stato scoperto nel luogo dove una volta cadde un meteorite. Si è pertanto dedotto che questo Pokémon venga dallo spazio. Tuttavia, questa teoria non è ancora stata confermata.",
+            "alpha-sapphire": "Lunatone si desta quando domina la luna piena. Invece di camminare, fluttua a mezz'aria. I suoi occhi rossi così minacciosi terrorizzano chiunque li guardi.",
+            "sword": "La sua forza sembra aumentare o diminuire a seconda delle fasi lunari. È più attivo nelle notti di luna piena.",
+            "shield": "Fu scoperto 40 anni fa nella zona d'impatto di un meteorite. Può addormentare il nemico con il solo sguardo.",
+            "brilliant-diamond": "È molto attivo nelle notti di luna piena, pertanto si dice che sia legato in qualche modo alle fasi lunari.",
+            "shining-pearl": "È molto attivo nelle notti di luna piena, pertanto si dice che sia legato in qualche modo alle fasi lunari."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "lunatone",
+    "generation": 3,
+    "height": {
+        "lunatone": "1.0 m"
+    },
+    "id": 337,
+    "name": "Lunatone",
+    "name_origin": "Il suo nome deriva da luna e dall'inglese stone . ",
+    "origin": "Lunatone è ispirato alla luna, a cui deve anche il nome. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lunatone",
+    "shape": "testa",
+    "specie": "Pokémon Meteorite",
+    "sprites": {
+        "lunatone": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0337.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0337.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6e/Artwork0337_RZ.png"
+    },
+    "stats": {
+        "lunatone": {
+            "hp": 90,
+            "atk": 55,
+            "def": 65,
+            "spa": 95,
+            "spd": 85,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "lunatone": 460
+    },
+    "types": {
+        "lunatone": [
+            "Roccia",
+            "Psico"
+        ]
+    },
+    "weight": {
+        "lunatone": "168.0 kg"
+    }
+}

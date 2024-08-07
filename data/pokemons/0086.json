@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "seel": {
+            "primary": "Grassospesso",
+            "secondary": "Idratazione",
+            "hidden": "Corpogelo"
+        }
+    },
+    "curiosities": [
+        "Seel è uno dei 4 Pokémon non di tipo Ghiaccio che si evolve in un Pokémon di quel tipo, assieme a Shellder, Eevee e Crabrawler.",
+        "Nonostante Seel venne introdotto in prima generazione come un Pokémon d'Acqua puro, non poteva apprendere nessuna mossa d'Acqua tramite livello fino alla quarta generazione.",
+        "Seel e Dewgong condividono la stessa categoria con Popplio: tutti e tre sono conosciuti come Pokémon otaria.",
+        "Seel è l'unico pokemon non di tipo Ghiaccio ad avere accesso all'abilità Corpogelo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/seel.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "flat_name": "seel",
+    "generation": 1,
+    "height": {
+        "seel": "1.1 m"
+    },
+    "id": 86,
+    "name": "Seel",
+    "name_origin": "L'origine del nome di Seel potrebbe derivare da una storpiatura delle parole inglesi sea  e seal . ",
+    "origin": "Seel è basato su cuccioli di foca, con una particolare somiglianza con un cucciolo di foca della Groenlandia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Seel",
+    "shape": "pinne",
+    "specie": "Pokémon Otaria",
+    "sprites": {
+        "seel": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0086.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/41/Homemsh0086.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/30/Artwork0086_RFVF.png"
+    },
+    "stats": {
+        "seel": {
+            "hp": 65,
+            "atk": 45,
+            "def": 55,
+            "spa": 45,
+            "spd": 70,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "seel": 325
+    },
+    "types": {
+        "seel": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "seel": "90.0 kg"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "stantler": {
+            "primary": "Prepotenza",
+            "secondary": "Indagine",
+            "hidden": "Mangiaerba"
+        }
+    },
+    "curiosities": [
+        "Da Pokémon Cristallo fino a Pokémon Smeraldo, gli sprite di Stantler lo raffiguravano con la coda color panna. Dai giochi di quarta generazione in poi, gli sprite sono tornati a raffigurare la coda con il colore marrone originario, uguale a quello del manto.\n\tCiò rende Stantler uno dei pochi Pokémon ad avere tre differenti sprite per ogni gioco di seconda generazione.",
+        "Ciò rende Stantler uno dei pochi Pokémon ad avere tre differenti sprite per ogni gioco di seconda generazione.",
+        "Stantler può essere trovato sul Percorso 36, che conduce a Violapoli, la controparte di Nara, città giapponese dove molti cervi addomesticati vagano liberamente."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/stantler.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "stantler",
+    "generation": 2,
+    "height": {
+        "stantler": "1.4 m"
+    },
+    "id": 234,
+    "name": "Stantler",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi stag, cervo, e antler, corna ramificate. ",
+    "origin": "È basato su una renna e sugli spaventapasseri giapponesi del tipo Medamafuusen, dei palloncini decorati con occhi che spaventano gli uccelli. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Stantler",
+    "shape": "quadrupede",
+    "specie": "Pokémon Grancorno",
+    "sprites": {
+        "stantler": {
+            "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0234.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0234.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/70/Artwork0234_HGSS.png"
+    },
+    "stats": {
+        "stantler": {
+            "hp": 73,
+            "atk": 95,
+            "def": 62,
+            "spa": 85,
+            "spd": 65,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "stantler": 465
+    },
+    "types": {
+        "stantler": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "stantler": "71.2 kg"
+    }
+}

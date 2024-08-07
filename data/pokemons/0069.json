@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "bellsprout": {
+            "primary": "Clorofilla",
+            "hidden": "Voracità"
+        }
+    },
+    "curiosities": [
+        "Bellsprout condivide lo stesso nome di specie con Vileplume e Bellossom: sono tutti noti come Pokémon Fiore.",
+        "Bellsprout poteva originariamente essere visto come un parallelo di Oddish: sono entrambi Pokémon di tipo Erba/Veleno di prima generazione, si evolvono prima al livello 21 e poi con Pietrafoglia. Oddish è esclusivo di Blu e Bellsprout di Rosso e possono essere trovati nella Foresta Bianca. Il parallelismo si è perso in seconda generazione, con l'introduzione dell'evoluzione ramificata di Oddish."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bellsprout.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "bellsprout",
+    "generation": 1,
+    "height": {
+        "bellsprout": "0.7 m"
+    },
+    "id": 69,
+    "name": "Bellsprout",
+    "name_origin": "Bellsprout è una combinazione di \"bell\"  e \"sprout\" . ",
+    "origin": "Bellsprout e le sue evoluzioni possono essere basate sulle piante carnivore. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bellsprout",
+    "shape": "bipedi",
+    "specie": "Pokémon Fiore",
+    "sprites": {
+        "bellsprout": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b5/Homem0069.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0069.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3c/Artwork0069_RFVF.png"
+    },
+    "stats": {
+        "bellsprout": {
+            "hp": 50,
+            "atk": 75,
+            "def": 35,
+            "spa": 70,
+            "spd": 30,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "bellsprout": 300
+    },
+    "types": {
+        "bellsprout": [
+            "Veleno",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "bellsprout": "4.00 kg"
+    }
+}

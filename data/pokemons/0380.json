@@ -1,0 +1,99 @@
+{
+    "abilities": {
+        "latias": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "Sebbene nel film Pokémon Heroes sia stato dimostrato che Latias e Latios si riproducono questa specie fa parte del gruppo Sconosciuto.",
+        "Inizialmente Latias e Blaziken erano un unico Pokémon, ma poi si è deciso di separarli.",
+        "Latias, Latios e UltraNecrozma sono gli unici Pokémon possedenti il doppio tipo Drago/Psico.",
+        "Latias, Latios, Rayquaza e Mewtwo sono gli unici Pokémon leggendari in grado di megaevolversi.",
+        "Nonostante la sua megaevoluzione sia stata ufficialmente rivelata in Pokémon Rubino Omega e Zaffiro Alpha, come per Latios, i dati relativi esistono anche in Pokémon X e Y. Tuttavia, la Megapietra non è ottenibile senza ricorrere all'uso di trucchi.",
+        "In uno speciale video dedicato alla distribuzione di Latios e Latias in Pokémon Sole e Luna e Ultrasole e Ultraluna, Shigeki Morimoto ha rivelato che l'Abilità Levitazione è stata assegnata a loro per ovviare all'impossibilità di dare il tipo Volante ai Pokémon Eone , ma renderli comunque immuni alle mosse di tipo Terra dato che volano."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/latias.mp3",
+    "dex_entries": {
+        "latias": {
+            "ruby": "LATIAS è sensibilissimo alle emozioni delle persone. Se percepisce una certa ostilità, questo POKéMON arruffa le piume su tutto il corpo ed emette un grido lancinante per intimidire il nemico.",
+            "sapphire": "Estremamente intelligente, LATIAS è in grado di capire il linguaggio umano. Il suo corpo e ricoperto di piumino vetroso che usa per rifrangere la luce e mutare il proprio aspetto.",
+            "emerald": "I LATIAS vivono in piccoli gruppi e solo di rado entrano in contatto con altri POKéMON o con gli uomini. Fuggono se percepiscono un pericolo.",
+            "firered": "Sa comunicare telepaticamente con gli umani. Si serve della luce riflessa dal piumaggio per cambiare aspetto.",
+            "leafgreen": "Sa comunicare telepaticamente con gli umani. Si serve della luce riflessa dal piumaggio per cambiare aspetto.",
+            "diamond": "Questo Pokémon ha il corpo ricoperto di piume che riflettono la luce e lo rendono invisibile.",
+            "pearl": "Questo Pokémon ha il corpo ricoperto di piume che riflettono la luce e lo rendono invisibile.",
+            "platinum": "Questo Pokémon ha il corpo ricoperto di piume che riflettono la luce e lo rendono invisibile.",
+            "heartgold": "Sa comunicare telepaticamente. Le piume sul suo corpo riflettono la luce e lo rendono invisibile.",
+            "soulsilver": "Sa comunicare telepaticamente. Le piume sul suo corpo riflettono la luce e lo rendono invisibile.",
+            "black": "Questo Pokémon ha il corpo ricoperto di piume che riflettono la luce e lo rendono invisibile.",
+            "white": "Questo Pokémon ha il corpo ricoperto di piume che riflettono la luce e lo rendono invisibile.",
+            "black-2": "Questo Pokémon ha il corpo ricoperto di piume che riflettono la luce e lo rendono invisibile.",
+            "white-2": "Questo Pokémon ha il corpo ricoperto di piume che riflettono la luce e lo rendono invisibile.",
+            "x": "Sa comunicare telepaticamente. Le piume sul suo corpo riflettono la luce e lo rendono invisibile.",
+            "y": "Sa comunicare telepaticamente con gli umani. Si serve della luce riflessa dal piumaggio per cambiare aspetto.",
+            "omega-ruby": "Latias è sensibilissimo alle emozioni delle persone. Se percepisce una certa ostilità, questo Pokémon arruffa le piume su tutto il corpo ed emette un grido lancitante per intimorire il nemico.",
+            "alpha-sapphire": "Estremamente intelligente, Latias è in grado di capire il linguaggio umano. Il suo corpo è ricoperto di piumino vetroso che usa per rifrangere la luce e mutare il proprio aspetto.",
+            "brilliant-diamond": "Questo Pokémon ha il corpo ricoperto di piume che rifrangono la luce e lo rendono invisibile.",
+            "shining-pearl": "Questo Pokémon ha il corpo ricoperto di piume che rifrangono la luce e lo rendono invisibile."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "latias",
+    "generation": 3,
+    "height": {
+        "latias": "1.4 m",
+        "megalatias": "1.8 m"
+    },
+    "id": 380,
+    "name": "Latias",
+    "name_origin": "È possibile che il nome Latias sia basato sulla parola latina lateo, celarsi, essere nascosto. Il suffisso -as nel suo nome indica che è una femmina, mentre quello -os di Latios indica che è un maschio. ",
+    "origin": "Latias sembra essere un incrocio tra un jet ed un drago, sebbene lei e Latios possano aver attinto ispirazione dalla filosofia dello Yin/Yang e dalla psicologia io/ego. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Latias",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Eone",
+    "sprites": {
+        "latias": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c9/Homef0380.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/94/Homefsh0380.png"
+        },
+        "megalatias": {
+            "default": "https://media.pokemoncentral.it/wiki/0/03/Homef0380M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homefsh0380M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/59/Artwork0380_RZ.png"
+    },
+    "stats": {
+        "latias": {
+            "hp": 80,
+            "atk": 80,
+            "def": 90,
+            "spa": 110,
+            "spd": 130,
+            "spe": 110
+        },
+        "megalatias": {
+            "hp": 80,
+            "atk": 100,
+            "def": 120,
+            "spa": 140,
+            "spd": 150,
+            "spe": 110
+        }
+    },
+    "stats_sum": {
+        "latias": 600,
+        "megalatias": 700
+    },
+    "types": {
+        "latias": [
+            "Psico",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "latias": "40.0 kg",
+        "megalatias": "52.0 kg"
+    }
+}

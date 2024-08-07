@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "maractus": {
+            "primary": "Assorbacqua",
+            "secondary": "Clorofilla",
+            "hidden": "Acquascolo"
+        }
+    },
+    "curiosities": [
+        "Maractus è l'unico Pokémon che ha come somma delle statistiche base 461.",
+        "Maractus condivide la categoria con Cacnea. Sono entrambi noti come Pokémon Cactus",
+        "Le due abilità di Maractus rispecchiano le caratteristiche dei cactus nei confronti dell'acqua nella realtà: Assorbacqua gli permette di ripristinare la salute se vengono colpiti da mosse di tipo Acqua e Acquascolo permette di farsi bersagliare dalle mosse di tipo acqua nelle lotte in doppio.",
+        "Nonostante Maractus si possa trovare all'interno del Deserto della Quiete, in cui incombe la tempesta di sabbia, egli non ha alcun modo per difendersi da essa e ne è quindi suscettibile."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/maractus.mp3",
+    "dex_entries": {
+        "maractus": {
+            "black": "Con danze e suoni a ritmo vivace scaccia i suoi predatori, i Pokémon uccello, che divorano i semi dei suoi fiori.",
+            "white": "Vive nelle zone aride. Se muove il corpo a tempo produce un suono di maracas.",
+            "black-2": "Se muove il corpo a tempo produce un suono di maracas che sorprende gli altri Pokémon, mettendoli in fuga",
+            "white-2": "Se muove il corpo a tempo produce un suono di maracas che sorprende gli altri Pokémon, mettendoli in fuga",
+            "x": "Con danze e suoni a ritmo vivace scaccia i suoi predatori, i Pokémon uccello, che divorano i semi dei suoi fiori.",
+            "y": "Vive nelle zone aride. Se muove il corpo a tempo produce un suono di maracas.",
+            "omega-ruby": "Con danze e suoni a ritmo vivace scaccia i suoi predatori, i Pokémon uccello, che divorano i semi dei suoi fiori.",
+            "alpha-sapphire": "Vive nelle zone aride. Se muove il corpo a tempo produce un suono di maracas.",
+            "sword": "Emette un suono di maracas. Sfrutta il suo ritmo vivace per prendere alla sprovvista i Pokémon alati, che volano via in tutta fretta.",
+            "shield": "Una volta all'anno i suoi fiori rilasciano semi ricchissimi di sostanze nutritive, che li rendono un prezioso alimento nel deserto."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "maractus",
+    "generation": 5,
+    "height": {
+        "maractus": "1.0 m"
+    },
+    "id": 556,
+    "name": "Maractus",
+    "name_origin": "Il nome Maractus deriva dall'unione delle parole maracas e cactus. ",
+    "origin": "Maractus è basato sulla pianta Opuntia Microdasys, originaria del Messico; questa pianta è chiamata anche \"cactus orecchie di coniglio\", perciò la sua apparenza simile a un coniglio potrebbe essere basata su un gioco di parole. Si ispira inoltre ad una maraca. Trae spunto anche, seguendo l'ispirazione messicana, dalle danze tradizionali, come una versione messicana del Son cubano, e dall'abbigliamento tipico del luogo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Maractus",
+    "shape": "testa e base",
+    "specie": "Pokémon Cactus",
+    "sprites": {
+        "maractus": {
+            "default": "https://media.pokemoncentral.it/wiki/1/19/Homem0556.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0556.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1c/Artwork0556_NB.png"
+    },
+    "stats": {
+        "maractus": {
+            "hp": 75,
+            "atk": 86,
+            "def": 67,
+            "spa": 106,
+            "spd": 67,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "maractus": 461
+    },
+    "types": {
+        "maractus": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "maractus": "28.0 kg"
+    }
+}

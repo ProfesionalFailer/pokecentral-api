@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "axew": {
+            "primary": "Antagonismo",
+            "secondary": "Rompiforma",
+            "hidden": "Agitazione"
+        }
+    },
+    "curiosities": [
+        "Axew ha la più bassa statistica base di Attacco Speciale tra tutti i Pokémon di tipo Drago."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/axew.mp3",
+    "dex_entries": {
+        "axew": {
+            "black": "Mangia le bacche sminuzzandole con i denti, che ricrescono costantemente, diventando sempre più forti e affilati.",
+            "white": "Incide gli alberi con le zanne per marcare il suo territorio. Se le zanne gli si spezzano, ricrescono subito.",
+            "black-2": "Le sue zanne sono ancora deboli e spesso di spezzano, ma ogni volta che ricrescono diventano sempre più robuste.",
+            "white-2": "Le sue zanne sono ancora deboli e spesso di spezzano, ma ogni volta che ricrescono diventano sempre più robuste.",
+            "x": "Mangia le bacche sminuzzandole con i denti, che ricrescono costantemente, diventando sempre più forti e affilati.",
+            "y": "Incide gli alberi con le zanne per marcare il suo territorio. Se le zanne gli si spezzano, ricrescono subito.",
+            "omega-ruby": "Mangia le bacche sminuzzandole con i denti, che ricrescono costantemente, diventando sempre più forti e affilati.",
+            "alpha-sapphire": "Incide gli alberi con le zanne per marcare il suo territorio. Se le zanne gli si spezzano, ricrescono subito.",
+            "sword": "Vive nelle tane che costruisce nel terreno. Fa a gara con i suoi compagni a chi riesce a frantumare con i denti le bacche più dure.",
+            "shield": "Giocano tra di loro facendo cozzare le zanne. Se si spezzano non è un problema, perché ricrescono subito.",
+            "scarlet": "Vive nelle tane che costruisce nel terreno. Nell’antichità, gli esseri umani usavano le sue zanne a mo’ di coltelli.",
+            "violet": "Se su alberi e rocce sono presenti i segni caratteristici lasciati dalle sue zanne, è probabile che viva nelle vicinanze."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "flat_name": "axew",
+    "generation": 5,
+    "height": {
+        "axew": "0.6 m"
+    },
+    "id": 610,
+    "name": "Axew",
+    "name_origin": "Il nome Axew deriva dalle parole inglesi axe  e chew  o hew . Il suo nome giapponese, キバゴ Kibago, deriva dall'unione delle parole 牙 kiba  e 顎 ago , o probabilmente drago. ",
+    "origin": "Axew è basato un piccolo dinosauro, mentre la cresta sulla sua testa ricorda un'ascia. Il suo design potrebbe ispirarsi agli adrosauridi, nello specifico a un saurolofo, con alcuni tratti in comune con il basilisco piumato. Le sue zanne appaiono simili a quelle dello scutosauro o agli zigomi sporgenti dei ceratopi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Axew",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Zanna",
+    "sprites": {
+        "axew": {
+            "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0610.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/98/Homemsh0610.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f7/Artwork0610_NB.png"
+    },
+    "stats": {
+        "axew": {
+            "hp": 46,
+            "atk": 87,
+            "def": 60,
+            "spa": 30,
+            "spd": 40,
+            "spe": 57
+        }
+    },
+    "stats_sum": {
+        "axew": 320
+    },
+    "types": {
+        "axew": [
+            "Drago"
+        ]
+    },
+    "weight": {
+        "axew": "18.0 kg"
+    }
+}

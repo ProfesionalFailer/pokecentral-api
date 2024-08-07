@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "perrserker": {
+            "primary": "Lottascudo",
+            "secondary": "Unghiedure",
+            "hidden": "Spiritoferreo"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di ottava generazione",
+        "Pokémon di tipo Acciaio",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Marrone",
+        "Pokémon dalla sagoma n. 06",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 440"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/perrserker.mp3",
+    "dex_entries": {
+        "perrserker": {
+            "sword": "La pelliccia sulla testa si è indurita ed è diventata simile a un elmetto di ferro. Ha una natura molto combattiva.",
+            "shield": "Si è evoluto dopo aver passato giorni interi a lottare e ha sviluppato degli artigli che, una volta sfoderati, diventano temibili pugnali."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "perrserker",
+    "generation": 8,
+    "height": {
+        "perrserker": "0.8 m"
+    },
+    "id": 863,
+    "name": "Perrserker",
+    "name_origin": "Perrserker potrebbe essere una combinazione di purr, fusa, o Persian e berserker. Nyaiking potrebbe essere una combinazione di ニャー nyā, il miagolio del gatto, Viking, vichingo, e king, re. ",
+    "origin": "Perrserker potrebbe essere basato su un gatto e sull'immagine stereotipata dei vichinghi. Il suo comportamento è simile a quello dei berserkr. Potrebbe prendere ispiraziona anche sui gatti donati da Thor a Freia e utilizzati per trainare il suo carro. Il tipo Acciaio potrebbe indicare l'utilizzo del ferro nelle armi e negli elmetti da parte dei vichinghi. Altra possibile ispirazione, considerando le orecchie a forma di corna e i vichinghi, potrebbe essere il gatto delle foreste norvegesi, una razza di gatto che proviene dalla Scandinavia e che è noto per i ciuffi sulle sue orecchie. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Perrserker",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Vichingo",
+    "sprites": {
+        "perrserker": {
+            "default": "https://media.pokemoncentral.it/wiki/4/45/Homem0863.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/38/Homemsh0863.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8f/Artwork0863_SpSc.png"
+    },
+    "stats": {
+        "perrserker": {
+            "hp": 70,
+            "atk": 110,
+            "def": 100,
+            "spa": 50,
+            "spd": 60,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "perrserker": 440
+    },
+    "types": {
+        "perrserker": [
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "perrserker": "28.0 kg"
+    }
+}

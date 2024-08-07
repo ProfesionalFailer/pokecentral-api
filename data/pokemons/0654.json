@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "braixen": {
+            "primary": "Aiutofuoco",
+            "hidden": "Prestigiatore"
+        }
+    },
+    "curiosities": [
+        "Braixen è l'unico Pokémon con un totale di statistiche base di 409.",
+        "Braixen e la sua famiglia evolutiva condividono la categoria con le famiglie evolutive di Vulpix e Nickit. Appartengono infatti tutti alla categoria Pokémon Volpe."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/braixen.mp3",
+    "dex_entries": {
+        "braixen": {
+            "x": "Incendia il ramo che ha infilato nella coda grazie allo sfregamento del pelo per poi lanciarsi nella lotta.",
+            "y": "Incendia il rametto che ha nella coda semplicemente estraendolo, grazie alla frizione del pelo. Lo usa anche per mandare segnali ai suoi compagni.",
+            "omega-ruby": "Incendia il ramo che ha infilato nella coda grazie allo sfregamento del pelo per poi lanciarsi nella lotta.",
+            "alpha-sapphire": "Incendia il rametto che ha nella coda semplicemente estraendolo, grazie alla frizione del pelo. Lo usa anche per mandare segnali ai suoi compagni."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "braixen",
+    "generation": 6,
+    "height": {
+        "braixen": "1.0 m"
+    },
+    "id": 654,
+    "name": "Braixen",
+    "name_origin": "Braixen deriva dal francese braise  e dall'inglese vixen . ",
+    "origin": "Si basa su un fennec. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Braixen",
+    "shape": "quadrupede",
+    "specie": "Pokémon Volpe",
+    "sprites": {
+        "braixen": {
+            "default": "https://media.pokemoncentral.it/wiki/7/78/Homem0654.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d7/Homemsh0654.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/60/Artwork0654_XY.png"
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 59,
+            "atk": 59,
+            "def": 58,
+            "spa": 90,
+            "spd": 70,
+            "spe": 73
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 409
+    },
+    "types": {
+        "braixen": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "braixen": "14.5 kg"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "abilities": {
+        "sandshrew": {
+            "primary": "Sabbiavelo",
+            "hidden": "Remasabbia"
+        },
+        "forma-di-alola": {
+            "primary": "Mantelneve",
+            "hidden": "Spalaneve"
+        }
+    },
+    "curiosities": [
+        "Sandshrew e Sandslash condividono la loro categoria con Rattata, Raticate, Pikachu, Raichu, Pawmi e Pawmo. Tutti e otto sono noti come Pokémon Topo.",
+        "Sandshrew ha l'Attacco più basso tra tutti i Pokémon di tipo Terra.\n\tSandshrew di Alola condivide con Shuckle, Feebas e Bonsly l'Attacco Speciale più basso tra tutti i Pokémon.",
+        "Sandshrew di Alola condivide con Shuckle, Feebas e Bonsly l'Attacco Speciale più basso tra tutti i Pokémon.",
+        "Sandshrew di Alola e la sua evoluzione Sandslash di Alola sono i primi Pokémon ad avere la combinazione di tipi Ghiaccio/Acciaio.",
+        "Sia Sandshrew che Sandshrew di Alola possiedono un'abilità in grado di aumentare l'elusione quando è presente una condizione atmosferica  e l'abilità speciale che aumenta la Velocità sempre quando è presente una condizione atmosferica .",
+        "Sandshrew di Alola e Vulpix di Alola possono essere considerati controparti:\n\tEntrambi sono stati introdotti in prima generazione ed hanno ottenuto una forma regionale ad Alola.\n\tEntrambi sono di tipo Ghiaccio.\n\tMentre Vulpix è esclusivo di Sole, Sandshrew è esclusivo di Pokémon Luna.\n\tEntrambi i Pokémon si evolvono quando esposti ad una Pietragelo.",
+        "Entrambi sono stati introdotti in prima generazione ed hanno ottenuto una forma regionale ad Alola.",
+        "Entrambi sono di tipo Ghiaccio.",
+        "Mentre Vulpix è esclusivo di Sole, Sandshrew è esclusivo di Pokémon Luna.",
+        "Entrambi i Pokémon si evolvono quando esposti ad una Pietragelo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sandshrew.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "sandshrew",
+    "generation": 1,
+    "height": {
+        "sandshrew": "0.6 m",
+        "forma-di-alola": "0.7 m"
+    },
+    "id": 27,
+    "name": "Sandshrew",
+    "name_origin": "Sandshrew potrebbe essere una combinazione di sand, sabbia, e shrew, toporagno. Sand potrebbe derivare da sand, sabbia. ",
+    "origin": "Sandshrew potrebbe essere basato su un armadillo, un mammifero che si arrotola a mo' di palla, che ha artigli affilati e che vive in regioni desertiche. Sia Sandshrew che Sandslash possiedono artigli velenosi, simili a quelli dei toporagni. Sandshrew ricorda anche un pangolino. Sandshrew di Alola potrebbe prendere ispirazione da un igloo o da una stone da curling. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sandshrew",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Topo",
+    "sprites": {
+        "sandshrew": {
+            "default": "https://media.pokemoncentral.it/wiki/1/16/Homem0027.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fb/Homemsh0027.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/a/af/Homem0027A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6a/Homemsh0027A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/48/Artwork0027_RFVF.png"
+    },
+    "stats": {
+        "sandshrew": {
+            "hp": 50,
+            "atk": 75,
+            "def": 85,
+            "spa": 20,
+            "spd": 30,
+            "spe": 40
+        },
+        "forma-di-alola": {
+            "hp": 50,
+            "atk": 75,
+            "def": 90,
+            "spa": 10,
+            "spd": 35,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "sandshrew": 300,
+        "forma-di-alola": 300
+    },
+    "types": {
+        "sandshrew": [
+            "Terra"
+        ],
+        "forma-di-alola": [
+            "Ghiaccio",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "sandshrew": "12.0 kg",
+        "forma-di-alola": "40.0 kg"
+    }
+}

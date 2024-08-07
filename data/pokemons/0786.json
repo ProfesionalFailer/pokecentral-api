@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "tapu-lele": {
+            "primary": "Psicogenesi",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Tapu Lele è uno dei Pokémon con caratteri non alfabetici nel nome.\n\tLui e gli altri Pokémon protettori sono gli unici Pokémon ad avere un punto mediano all'interno del proprio nome giapponese.",
+        "Lui e gli altri Pokémon protettori sono gli unici Pokémon ad avere un punto mediano all'interno del proprio nome giapponese.",
+        "Tapu Lele condivide la sua categoria con Tapu Koko, Tapu Bulu e Tapu Fini. Sono tutti conosciuti come Pokémon Nume Locale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tapulele.mp3",
+    "dex_entries": {
+        "tapu-lele": {
+            "sun": "Protettore di Akala, è un Pokémon innocente e spietato al tempo stesso. Il profumo soave dei fiori è la fonte della sua energia.",
+            "moon": "Svolazza nel cielo spargendo nuvole di scaglie dal misterioso luccichio che fanno tornare immediatamente il buon umore a chi le tocca.",
+            "ultra-sun": "È il Pokémon protettore di Akala. Sparge luccicanti nuvole di scaglie che curano le ferite di esseri umani e Pokémon.",
+            "ultra-moon": "È considerato il protettore di Akala e rappresenta l'incarnazione della natura. Ha un'indole innocente e spietata al tempo stesso."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "tapu-lele",
+    "generation": 7,
+    "height": {
+        "tapu-lele": "1.2 m"
+    },
+    "id": 786,
+    "name": "Tapu Lele",
+    "name_origin": "Tapu Lele potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e pulelehua, farfalla in hawaiano. Kapu-Tetefu potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e てふてふ tefutefu, un modo antico di scrivere farfalla in giapponese. ",
+    "origin": "Tapu Lele sembra essere basato su una farfalla. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tapu_Lele",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Nume Locale",
+    "sprites": {
+        "tapu-lele": {
+            "default": "https://media.pokemoncentral.it/wiki/5/50/Homem0786.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0786.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3c/Artwork0786_SL.png"
+    },
+    "stats": {
+        "tapu-lele": {
+            "hp": 70,
+            "atk": 85,
+            "def": 75,
+            "spa": 130,
+            "spd": 115,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "tapu-lele": 570
+    },
+    "types": {
+        "tapu-lele": [
+            "Psico",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "tapu-lele": "18.6 kg"
+    }
+}

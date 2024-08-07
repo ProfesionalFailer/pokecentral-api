@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "rapidash": {
+            "primary": "Fugafacile",
+            "secondary": "Fuocardore",
+            "hidden": "Corpodifuoco"
+        },
+        "forma-di-galar": {
+            "primary": "Fugafacile",
+            "secondary": "Pastelvelo",
+            "hidden": "Presagio"
+        }
+    },
+    "curiosities": [
+        "Originariamente Rapidash era conosciuto come \"Gallop\".",
+        "Rapidash è il Pokémon preferito del Presidente del Pokémon Fan Club di Kanto. Infatti, quando il giocatore gli rivolge la parola, lui parla per molto tempo di quanto sia stupendo il suo Rapidash.",
+        "Nel primo film dei Pokémon c'è una frazione di secondo in cui Rapidash non ha le fiamme.",
+        "Ponyta e Rapidash sono gli unici Pokémon di tipo Fuoco presenti nel Pokédex di Diamante e Perla oltre ai Pokémon iniziali, Chimchar, Monferno e Infernape. Ciò appare evidente durante la sfida contro Vulcano, i cui unici Pokémon di tipo Fuoco sono Rapidash e Infernape. Altri Pokémon di tipo Fuoco sono stati aggiunti nell'espansione in Platino."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/rapidash.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "rapidash",
+    "generation": 1,
+    "height": {
+        "rapidash": "1.7 m"
+    },
+    "id": 78,
+    "name": "Rapidash",
+    "name_origin": "Rapidash è la combinazione tra le parole inglesi rapid  e dash . ",
+    "origin": "È ispirato ad un unicorno. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Rapidash",
+    "shape": "quadrupede",
+    "specie": "Pokémon Cavalfuoco",
+    "sprites": {
+        "rapidash": {
+            "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0078.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fa/Homemsh0078.png"
+        },
+        "forma-di-galar": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ab/Homem0078G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9c/Homemsh0078G.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0078_RFVF.png"
+    },
+    "stats": {
+        "rapidash": {
+            "hp": 65,
+            "atk": 100,
+            "def": 70,
+            "spa": 80,
+            "spd": 80,
+            "spe": 105
+        }
+    },
+    "stats_sum": {
+        "rapidash": 500
+    },
+    "types": {
+        "rapidash": [
+            "Fuoco"
+        ],
+        "forma-di-galar": [
+            "Psico",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "rapidash": "95.0 kg",
+        "forma-di-galar": "80.0 kg"
+    }
+}

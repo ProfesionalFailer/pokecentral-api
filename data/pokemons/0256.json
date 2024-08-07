@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "combusken": {
+            "primary": "Aiutofuoco",
+            "hidden": "Acceleratore"
+        }
+    },
+    "curiosities": [
+        "In terza generazione, Combusken e Blaziken avevano una combinazione di tipi unica. Tale combinazione rimane comunque esclusiva dei Pokémon iniziali di tipo Fuoco di terza, quarta e quinta generazione, escluse le loro forme base.\n\tIn nona generazione anche una forma regionale di Tauros possiede i tipi Fuoco e Lotta.",
+        "In nona generazione anche una forma regionale di Tauros possiede i tipi Fuoco e Lotta.",
+        "Anche se il Pokédex dice che emette strilli acuti per aumentare la sua concentrazione, non può imparare Gridodilotta.",
+        "In ottava generazione, la versione cromatica di Combusken è cambiata."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/combusken.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "combusken",
+    "generation": 3,
+    "height": {
+        "combusken": "0.90 m"
+    },
+    "id": 256,
+    "name": "Combusken",
+    "name_origin": "Il suo nome è un incrocio tra le parole inglesi combustible, combustibile, e chicken, pollo.\nIl suo nome giapponese, ワカシャモ Wakashamo, deriva dall'unione delle parole ワカイ wakai, giovane, 赤 aka, rosso, e 軍鶏 shamo, razza di uccelli giapponesi, in origine allevata per i combattimenti tra galli. ",
+    "origin": "Combusken è probabilmente basato su un pollo da combattimento. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Combusken",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Rampollo",
+    "sprites": {
+        "combusken": {
+            "default": "https://media.pokemoncentral.it/wiki/3/32/Homem0256.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5e/Homemsh0256.png"
+        },
+        "combusken-f": {
+            "default": "https://media.pokemoncentral.it/wiki/9/93/Homef0256.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homefsh0256.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8f/Artwork0256_RZ.png"
+    },
+    "stats": {
+        "combusken": {
+            "hp": 60,
+            "atk": 85,
+            "def": 60,
+            "spa": 85,
+            "spd": 60,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "combusken": 405
+    },
+    "types": {
+        "combusken": [
+            "Fuoco",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "combusken": "19.5 kg"
+    }
+}

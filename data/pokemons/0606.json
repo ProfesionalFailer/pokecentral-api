@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "beheeyem": {
+            "primary": "Telepatia",
+            "secondary": "Sincronismo",
+            "hidden": "Ponderazione"
+        }
+    },
+    "curiosities": [
+        "Beheeyem e la sua pre-evoluzione sono gli unici Pokémon che possono avere come abilità non nascosta Telepatia.",
+        "Beheeyem impara Alacciaio sebbene nè lui nè la sua preevoluzione abbiano ali.\n\tSi ipotizza che l’accesso a tale mossa sia legittimato al Pokémon per via del suo numero fra le Macchine Tecniche, ovvero 51, a richiamare l’Area 51.\n\tAltra ipotesi invece è che per errore dato che fra la quinta e la sesta generazione è stata cambiata la Macchina Tecnica 51 da Cambiaposto, mossa che Beheeyem può imparare, ad Alacciaio, sia rimasta la possibilità a Beheeyem e alla sua preevoluzione di imparare questa mossa.",
+        "Si ipotizza che l’accesso a tale mossa sia legittimato al Pokémon per via del suo numero fra le Macchine Tecniche, ovvero 51, a richiamare l’Area 51.",
+        "Altra ipotesi invece è che per errore dato che fra la quinta e la sesta generazione è stata cambiata la Macchina Tecnica 51 da Cambiaposto, mossa che Beheeyem può imparare, ad Alacciaio, sia rimasta la possibilità a Beheeyem e alla sua preevoluzione di imparare questa mossa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/beheeyem.mp3",
+    "dex_entries": {
+        "beheeyem": {
+            "black": "Può manipolare i ricordi dell'avversario. Pare che comunichi con i suoi simili facendo lampeggiare le dita a tre colori.",
+            "white": "Controlla il cervello dell'avversario con poteri psichici e ne sostituisce i ricordi.",
+            "black-2": "Dialoga con i suoi simili con le luci dei suoi arti, ma la sua lingua è ancora un mistero.",
+            "white-2": "Dialoga con i suoi simili con le luci dei suoi arti, ma la sua lingua è ancora un mistero.",
+            "x": "Dialoga con i suoi simili tramite le luci sui suoi arti, ma il suo linguaggio è ancora un mistero.",
+            "y": "Controlla il cervello dell'avversario con poteri psichici e ne sostituisce i ricordi.",
+            "omega-ruby": "Dialoga con i suoi simili tramite le luci sui suoi arti, ma il suo linguaggio è ancora un mistero.",
+            "alpha-sapphire": "Controlla il cervello dell'avversario con poteri psichici e ne sostituisce i ricordi.",
+            "ultra-sun": "Modifica i ricordi degli avversari servendosi dei suoi poteri psichici. E chissà... può darsi che abbia già alterato anche la tua memoria!",
+            "ultra-moon": "È dotato di potenti poteri psichici. Controlla l'avversario tramite le dita, che emettono luci di tre colori in grado di modificare i ricordi.",
+            "sword": "Per qualche strano motivo, nelle fattorie in cui compare un Beheeyem sparisce sempre un Dubwool.",
+            "shield": "Può manipolare la memoria dell'avversario. A volte lo si vede vagare sopra i campi di grano."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "beheeyem",
+    "generation": 5,
+    "height": {
+        "beheeyem": "1.0 m"
+    },
+    "id": 606,
+    "name": "Beheeyem",
+    "name_origin": "Beheeyem è una corruzione della sigla BEM , un termine antiquato per indicare alcuni tipi di alieni. ",
+    "origin": "Beheeyem è molto probabilmente basato sui grigi o sui BEM, due tipi di alieno, e su un cervello. Il suo aspetto ricorda una roccia, e potrebbe alludere ai cerchi di pietre, luoghi legati a leggende aliene. I punti colorati sulle sue mani possono trarre ispirazione dagli invasori alieni del film La guerra dei mondi. Potrebbero essere ispirate inoltre all'Area 51 o all'incidente di Roswell. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Beheeyem",
+    "shape": "bipedi",
+    "specie": "Pokémon Cervello",
+    "sprites": {
+        "beheeyem": {
+            "default": "https://media.pokemoncentral.it/wiki/d/da/Homem0606.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0606.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0e/Artwork0606_NB.png"
+    },
+    "stats": {
+        "beheeyem": {
+            "hp": 75,
+            "atk": 75,
+            "def": 75,
+            "spa": 125,
+            "spd": 95,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "beheeyem": 485
+    },
+    "types": {
+        "beheeyem": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "beheeyem": "34.5 kg"
+    }
+}

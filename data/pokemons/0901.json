@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "ursaluna": {
+            "primary": "Dentistretti",
+            "secondary": "Antiproiettile",
+            "hidden": "Agitazione"
+        },
+        "luna-cremisi": {
+            "primary": "Occhio Interiore"
+        }
+    },
+    "curiosities": [
+        "Se si è ottenuto un Ursaluna Forma Normale cromatico in Pokémon Scarlatto e Violetto è possibile visualizzare nel Pokédex la forma Luna Cremisi cromatica, anche se questa non può essere ottenuta legittimamente in alcun modo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ursaluna.mp3",
+    "dex_entries": {
+        "ursaluna": {
+            "legends-arceus": "Ritengo che sia stato il terreno palustre di Hisui ad averlo reso nerboruto e ad avergli donato la facoltà di manipolare la torba a suo piacere."
+        },
+        "forma-luna-cremisi": {
+            "scarlet": "Ha attraversato il mare in una nuova terra dove, riuscendo a non soccombere, ha sviluppato un aspetto e delle capacità insoliti.",
+            "violet": "Questo insolito Ursaluna protegge il corpo con del fango indurito, robusto come ferro. Il suo occhio sinistro è in grado di vedere nell'oscurità"
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "ursaluna",
+    "generation": 8,
+    "height": {
+        "normale": "2.4 m",
+        "luna-cremisi": "2.7 m"
+    },
+    "id": 901,
+    "name": "Ursaluna",
+    "name_origin": "Ursaluna potrebbe essere una combinazione di ursa, latino per orso, e luna. Gachiguma potrebbe essere una combinazione di 月輪 gachirin, luna piena, e 熊 kuma, orso. ",
+    "origin": "Ursaluna potrebbe essere basato su un orso bruno dell'Amur, una sottospecie di orso bruno presente ad Hokkaidō . La sua forma simile ad una montagna e il tipo Terra potrebbero essere un riferimento a Kim-un-kamuy, il dio Ainu  degli orsi e delle montagne. In alternativa, questi aspetti potrebbero riferirsi all'abitudine degli orso bruno dell'Amur di vivere in tane scavate nei fianchi delle colline. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ursaluna",
+    "shape": "quadrupede",
+    "specie": "Pokémon Torba",
+    "sprites": {
+        "ursaluna": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0901.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0901.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3d/Artwork0901_LPA.png"
+    },
+    "stats": {
+        "ursaluna": {
+            "hp": 130,
+            "atk": 140,
+            "def": 105,
+            "spa": 45,
+            "spd": 80,
+            "spe": 50
+        },
+        "luna-cremisi": {
+            "hp": 113,
+            "atk": 70,
+            "def": 120,
+            "spa": 135,
+            "spd": 65,
+            "spe": 52
+        }
+    },
+    "stats_sum": {
+        "ursaluna": 550,
+        "luna-cremisi": 555
+    },
+    "types": {
+        "ursaluna": [
+            "Terra",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "normale": "290.0 kg",
+        "luna-cremisi": "333.0 kg"
+    }
+}

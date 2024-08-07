@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "growlithe": {
+            "primary": "Prepotenza",
+            "secondary": "Fuocardore",
+            "hidden": "Giustizia"
+        },
+        "forma-di-hisui": {
+            "primary": "Prepotenza",
+            "secondary": "Fuocardore",
+            "hidden": "Testadura"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Rosso e Blu beta, il nome originale di Growlithe era \"Flamie\".",
+        "In Pokémon Mystery Dungeon: Squadra Rossa e Squadra Blu, le frasi di Growlithe mentre cammina nei sotterranei nella squadra fanno riferimento all'attuale capo dei Pokémon come ad un \"padrone\". Ciò evidenzia la sua natura di cane, in quanto i cani obbediscono ai loro proprietri umani o \"padroni\".",
+        "Growlithe può essere considerato un parallelo a Vulpix: sono entrambi Pokémon di prima generazione la cui evoluzione richiede l'utilizzo di una Pietrafocaia; Vulpix è un Pokémon esclusivo di Pokémon Blu/Verde e Verde Foglia mentre Growlithe lo è di Pokémon Rosso e Rosso Fuoco; Growlithe ha il 75% di essere maschio mentre Vulpix ha il 75% di essere femmina; fanno entrambi parte del Gruppo Uova Campo; possono entrambi avere l'abilità Fuocardore; sono entrambi basati su dei canidi ; hanno entrambi cambiato la loro colorazione alternativa a gialla in terza generazione e sono entrambi basati su un Pokémon del folklore giapponese .",
+        "Le strisce sulla schiena di Growlithe nei giochi di seconda generazione sono leggermente più vicine tra di loro rispetto ai giochi successivi.",
+        "Condivide la sua categoria con Lillipup, Rockruff, Yamper e Fidough: sono tutti e cinque noti come Pokémon Cagnolino.\n\tPer coincidenza, Growlithe sembra condividere anche tratti fisici con Lillipup e Rockruff: hanno entrambi macchie di pelliccia nera sul loro corpo e un ciuffo di pelliccia color crema sulla loro testa.",
+        "Per coincidenza, Growlithe sembra condividere anche tratti fisici con Lillipup e Rockruff: hanno entrambi macchie di pelliccia nera sul loro corpo e un ciuffo di pelliccia color crema sulla loro testa.",
+        "La Forma di Hisui di Growlithe condivide invece la sua categoria con Patrat e Sentret, noti come Pokémon Esplorante."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/growlithe.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "growlithe",
+    "generation": 1,
+    "height": {
+        "growlithe": "0.7 m",
+        "forma-di-hisui": "0.8 m"
+    },
+    "id": 58,
+    "name": "Growlithe",
+    "name_origin": "Growlithe è una combinazione di growl e lithe. Il giapponese Gardie si può riferire alle sue abilità di cane da guardia, corruzione di guard o guardian. ",
+    "origin": "Growlithe è probabilmente basato sullo 獅子 Shīsā giapponese, che sono statue di cani giapponesi. Può anche essere che abbiano preso omaggio dagli Shishi, o 狛犬 koma-inu, che sono statue di guardia trovate in Cina che assomigliano a leoni, con tratti di tigri e cani. Sia le statue di Shīsā che quelle di Shishi sono spesso presenti in coppia, sono usate come guardiani, e si ritiene portino fortuna. Ciò può essere stato di spunto per la natura protettiva di Growlithe. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Growlithe",
+    "shape": "quadrupede",
+    "specie": "Pokémon Cagnolino",
+    "sprites": {
+        "growlithe": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bb/Homem0058.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homemsh0058.png"
+        },
+        "forma-di-hisui": {
+            "default": "https://media.pokemoncentral.it/wiki/7/76/Homem0058H.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/15/Homemsh0058H.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c1/Artwork0058_RFVF.png"
+    },
+    "stats": {
+        "growlithe": {
+            "hp": 55,
+            "atk": 70,
+            "def": 45,
+            "spa": 70,
+            "spd": 50,
+            "spe": 60
+        },
+        "forma-di-hisui": {
+            "hp": 60,
+            "atk": 75,
+            "def": 45,
+            "spa": 65,
+            "spd": 50,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "growlithe": 350,
+        "forma-di-hisui": 350
+    },
+    "types": {
+        "growlithe": [
+            "Fuoco"
+        ],
+        "forma-di-hisui": [
+            "Fuoco",
+            "Roccia"
+        ]
+    },
+    "weight": {
+        "growlithe": "19.0 kg",
+        "forma-di-hisui": "22.7 kg"
+    }
+}

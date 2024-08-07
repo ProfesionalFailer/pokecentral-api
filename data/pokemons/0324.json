@@ -1,0 +1,89 @@
+{
+    "abilities": {
+        "torkoal": {
+            "primary": "Fumochiaro",
+            "secondary": "Siccità",
+            "hidden": "Guscioscudo"
+        }
+    },
+    "curiosities": [
+        "Pur essendo basato su una tartaruga, non è in grado di accoppiarsi con Pokémon tartaruga come Blastoise o Torterra, appartenendo essi a gruppi uova diversi.",
+        "Anche se si dice che il fumo che emette sia nero, la sua sprite mostra fumo bianco."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/torkoal.mp3",
+    "dex_entries": {
+        "torkoal": {
+            "ruby": "TORKOAL scava in montagna in cerca di carbone. Quando lo trova, lo usa per riempire la cavità della propria corazza e poi lo brucia. In caso di aggressione, emette nubi di fumo nero per poi battere in ritirata.",
+            "sapphire": "TORKOAL genera energia bruciando il carbone. Si indebolisce con l'affievolirsi del fuoco. In preparazione alle lotte il POKéMON brucia maggiori quantità di carbone.",
+            "emerald": "TORKOAL lotta grazie all'energia prodotta dalla combustione del carbone. Quando gli esce il fumo dalle narici, emette anche un suono simile al fischio di una locomotiva.",
+            "firered": "All'interno del suo guscio si trova carbone ardente. Se è attaccato, fugge liberando una cupa e densa nube di fumo.",
+            "leafgreen": "All'interno del suo guscio si trova carbone ardente. Se è attaccato, fugge liberando una cupa e densa nube di fumo.",
+            "diamond": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
+            "pearl": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
+            "platinum": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
+            "heartgold": "I TORKOAL eleggono a propria dimora miniere di carbone abbandonate e vi scavano carbone con ardore.",
+            "soulsilver": "I TORKOAL eleggono a propria dimora miniere di carbone abbandonate e vi scavano carbone con ardore.",
+            "black": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
+            "white": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
+            "black-2": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
+            "white-2": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
+            "x": "I Torkoal eleggono a propria dimora miniere di carbone abbandonate e vi scavano carbone con ardore.",
+            "y": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
+            "omega-ruby": "Torkoal scava in montagna in cerca di carbone. Quando lo trova, lo usa per riempire la cavità della propria corazza e poi lo brucia. In caso di aggressione, emette nubi di fumo nero per poi battere in ritirata.",
+            "alpha-sapphire": "Torkoal genera energia bruciando il carbone. Si indebolisce con l'affievolirsi del fuoco. In preparazione alle lotte il Pokémon brucia maggiori quantità di carbone.",
+            "sun": "Genera energia bruciando carbone all'interno della corazza. Le montagne in cui vive sono ricche di questo materiale.",
+            "moon": "Se il fuoco che brucia dentro la sua corazza si estingue, le sue energie vitali si esauriscono. Se tenuto in casa, dà spesso fuoco agli oggetti.",
+            "ultra-sun": "Il fumo che fuoriesce dalla sua corazza permette di capire il suo stato di salute. Quando i getti sono vigorosi, significa che sta bene.",
+            "ultra-moon": "Genera energia bruciando carbone e quando lo esaurisce non riesce più a muoversi.",
+            "sword": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
+            "shield": "Elegge a propria dimora miniere abbandonate, dove cerca carbone scavando con ardore.",
+            "brilliant-diamond": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
+            "shining-pearl": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
+            "scarlet": "Brucia carbone all’interno della corazza. Quando è in pericolo, emette del fumo nero per poi battere in ritirata.",
+            "violet": "Vive in montagne ricche di carbone, materiale da cui ricava tutta l’energia di cui ha bisogno."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "torkoal",
+    "generation": 3,
+    "height": {
+        "torkoal": "0.50 m"
+    },
+    "id": 324,
+    "name": "Torkoal",
+    "name_origin": "Il nome potrebbe derivare dall'unione delle parole inglesi tortoise , oppure torch  e coal . ",
+    "origin": "Torkoal è basato su una tartaruga gigante con caratteristiche da forno o stufa di cucina a causa anche delle cavità del guscio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Torkoal",
+    "shape": "quadrupede",
+    "specie": "Pokémon Carbone",
+    "sprites": {
+        "torkoal": {
+            "default": "https://media.pokemoncentral.it/wiki/e/eb/Homem0324.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0324.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/89/Artwork0324_RZ.png"
+    },
+    "stats": {
+        "torkoal": {
+            "hp": 70,
+            "atk": 85,
+            "def": 140,
+            "spa": 85,
+            "spd": 70,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "torkoal": 470
+    },
+    "types": {
+        "torkoal": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "torkoal": "80.4 kg"
+    }
+}

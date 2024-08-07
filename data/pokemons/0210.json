@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "granbull": {
+            "primary": "Prepotenza",
+            "secondary": "Piedisvelti",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Granbull e la sua pre-evoluzione condividono la stessa categoria di Clefairy e Clefable. Sono tutti noti come Pokémon Fata.",
+        "Granbull è il primo Pokémon ad evolversi su schermo nella serie Pokémon Mystery Dungeon.",
+        "Granbull ha, alla pari con Grimmsnarl, l'Attacco più alto di tutti i Pokémon non leggendari di tipo Folletto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/granbull.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo",
+        "Magico"
+    ],
+    "flat_name": "granbull",
+    "generation": 2,
+    "height": {
+        "granbull": "1.4 m"
+    },
+    "id": 210,
+    "name": "Granbull",
+    "name_origin": "Il suo nome deriva dall'unione della parola inglese grand  con la parola bulldog. ",
+    "origin": "Basato su un bulldog. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Granbull",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Fata",
+    "sprites": {
+        "granbull": {
+            "default": "https://media.pokemoncentral.it/wiki/0/04/Homem0210.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homemsh0210.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a8/Artwork0210_HGSS.png"
+    },
+    "stats": {
+        "granbull": {
+            "hp": 90,
+            "atk": 120,
+            "def": 75,
+            "spa": 60,
+            "spd": 60,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "granbull": 450
+    },
+    "types": {
+        "granbull": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "granbull": "48.7 kg"
+    }
+}

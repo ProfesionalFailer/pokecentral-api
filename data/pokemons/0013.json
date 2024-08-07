@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "weedle": {
+            "primary": "Polvoscudo",
+            "hidden": "Fugafacile"
+        }
+    },
+    "curiosities": [
+        "Weedle:\n\tHa le statistiche base totali più basse tra i Pokémon di tipo Veleno.\n\tCondivide con Caterpie, Magikarp, Igglybuff, Carvanha, Deoxys Forma Attacco e Stonjourner la Difesa Speciale più bassa tra tutti i Pokémon.\n\tCondivide con Gastly la Difesa più bassa tra tutti i Pokémon di tipo Veleno.\n\tÈ l'unico Pokémon che non può imparare una mossa di tipo Normale.",
+        "Ha le statistiche base totali più basse tra i Pokémon di tipo Veleno.",
+        "Condivide con Caterpie, Magikarp, Igglybuff, Carvanha, Deoxys Forma Attacco e Stonjourner la Difesa Speciale più bassa tra tutti i Pokémon.",
+        "Condivide con Gastly la Difesa più bassa tra tutti i Pokémon di tipo Veleno.",
+        "È l'unico Pokémon che non può imparare una mossa di tipo Normale.",
+        "Weedle si evolve al livello 7, il minore livello richiesto per evolversi tramite livello. Condivide questa peculiarità con Caterpie e Wurmple.",
+        "Prima della sesta generazione, la sagoma di Weedle era .",
+        "Fino al rilascio di Pokémon Platino, quando ha avuto modo di imparare Coleomorso, Weedle non poteva attaccare in alcun modo i Pokémon di tipo Acciaio, se non utilizzando Scontro. Condivide questa peculiarità con Kakuna. La stessa cosa accade anche con Caterpie e Metapod, ma con i Pokémon di tipo Spettro.",
+        "Uno schizzo dello sprite di Weedle fu mostrato nel sito ufficiale giapponese di Pokémon.",
+        "Weedle ha ispirato la denominazione della Stentorceps weedlei, una specie di vespa. Sia Weedle che la Stentorceps weedlei presentano la caratteristica distintiva di avere una spina al centro della testa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/weedle.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "weedle",
+    "generation": 1,
+    "height": {
+        "weedle": "0.3 m"
+    },
+    "id": 13,
+    "name": "Weedle",
+    "name_origin": "Weedle potrebbe essere una combinazione di worm, verme, e needle, ago . Potrebbe essere anche una corruzione di weevil, l'ordine di coleotteri Curculionoidea. Beedle potrebbe essere una combinazione di ビー bee, ape, e ニードル needle, ago. ",
+    "origin": "Weedle potrebbe essere basato su una larva di vespa o di calabrone. Il naso e le zampe rosse del Pokémon somigliano ai puntini che compaiono su alcune larve di vespe e di calabroni. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Weedle",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Millepiedi",
+    "sprites": {
+        "weedle": {
+            "default": "https://media.pokemoncentral.it/wiki/9/92/Homem0013.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homemsh0013.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/ca/Artwork0013_RFVF.png"
+    },
+    "stats": {
+        "weedle": {
+            "hp": 40,
+            "atk": 35,
+            "def": 30,
+            "spa": 20,
+            "spd": 20,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "weedle": 195
+    },
+    "types": {
+        "weedle": [
+            "Veleno",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "weedle": "3.2 kg"
+    }
+}

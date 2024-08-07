@@ -1,0 +1,114 @@
+{
+    "abilities": {
+        "mewtwo": {
+            "primary": "Pressione",
+            "hidden": "Agitazione"
+        },
+        "megamewtwo-x": {
+            "primary": "Cuordeciso"
+        },
+        "megamewtwo-y": {
+            "primary": "Insonnia"
+        }
+    },
+    "curiosities": [
+        "Nonostante venga prima di Mew nel Pokédex Nazionale, secondo la lore del gioco è stato scoperto dopo il Pokémon misterioso, essendone un clone.",
+        "Mewtwo era in prima generazione il Pokémon con la più alta somma di statistiche. In seconda e terza condivide il primato con altri Pokémon leggendari, ed in quarta viene superato da Arceus.\n\tQuando è megaevoluto, il totale delle sue statistiche di base  è di 780, permettendogli così di superare Arceus .\n\tCon l'introduzione di Pokémon Rubino Omega e Zaffiro Alpha, Mewtwo non è più il Pokémon più forte in assoluto ma condivide il titolo con la forma megaevoluta di Rayquaza.\n\tIn ottava generazione, con l'introduzione di Eternatus Dynamax infinito, Mewtwo viene superato.",
+        "Quando è megaevoluto, il totale delle sue statistiche di base  è di 780, permettendogli così di superare Arceus .",
+        "Con l'introduzione di Pokémon Rubino Omega e Zaffiro Alpha, Mewtwo non è più il Pokémon più forte in assoluto ma condivide il titolo con la forma megaevoluta di Rayquaza.",
+        "In ottava generazione, con l'introduzione di Eternatus Dynamax infinito, Mewtwo viene superato.",
+        "MegaMewtwo X ha la più alta statistica base di Attacco in assoluto, ma il suo Attacco può essere superato da MegaMawile e MegaMedicham grazie alle loro abilità Macroforza e Forzapura.",
+        "MegaMewtwo Y possiede la più alta statistica base di Attacco Speciale.",
+        "Insieme a Lugia, Hoopa Libero, Solgaleo e Lunala ha la più alta somma di statistiche fra tutti i Pokémon di tipo Psico non megaevoluti.",
+        "Il suo compleanno nel gioco è il 6 febbraio, come si evince da un diario trovato nella Villa Pokémon.",
+        "Mewtwo cromatico in Pokémon Stadium 2 appare di colore nero anziché verde.",
+        "Un'immagine di Mewtwo appare nel faro di Bill nell'anime nonostante Mewtwo non sia ancora stato creato.",
+        "L'isola di Niue ha rilasciato un dollaro con Mewtwo impresso sulla moneta.",
+        "Mewtwo ha cambiato verso in sesta generazione.\n\tInoltre ogni sua forma Mega ha il proprio verso.",
+        "Inoltre ogni sua forma Mega ha il proprio verso.",
+        "Una sagoma di Mewtwo, anche se leggermente modificata, compare nel quarto volume del manga Assassination Classroom.",
+        "Condivide con Mew il primato del maggior numero di apparizioni nell'opening della serie animata, 7 volte."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mewtwo.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "mewtwo",
+    "generation": 1,
+    "height": {
+        "mewtwo": "2.0 m",
+        "megamewtwo-x": "2.3 m",
+        "megamewtwo-y": "1.5 m"
+    },
+    "id": 150,
+    "name": "Mewtwo",
+    "name_origin": "Mewtwo è una combinazione di Mew e two, indicando che si tratta di un clone, il nome assomiglia anche alla parola giapponese myūtanto . ",
+    "origin": "Mewtwo è probabilmente ispirato al mostro di Frankenstein di Mary Shelley, ovvero un essere creato innaturalmente in laboratorio che si rivolta contro il proprio creatore e alla fine entrambi si pentono dei loro errori. Come Mew, anche Mewtwo ha caratteristiche tipiche dei felini, ma presenta anche caratteristiche di un alieno grigio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mewtwo",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Genetico",
+    "sprites": {
+        "mewtwo": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8c/Homem0150.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4b/Homemsh0150.png"
+        },
+        "megamewtwo-x": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5d/Homem0150MX.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bf/Homemsh0150MX.png"
+        },
+        "megamewtwo-y": {
+            "default": "https://media.pokemoncentral.it/wiki/3/32/Homem0150MY.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homemsh0150MY.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cf/Artwork0150_RFVF.png"
+    },
+    "stats": {
+        "mewtwo": {
+            "hp": 106,
+            "atk": 110,
+            "def": 90,
+            "spa": 154,
+            "spd": 90,
+            "spe": 130
+        },
+        "megamewtwo-x": {
+            "hp": 106,
+            "atk": 190,
+            "def": 100,
+            "spa": 154,
+            "spd": 100,
+            "spe": 130
+        },
+        "megamewtwo-y": {
+            "hp": 106,
+            "atk": 150,
+            "def": 70,
+            "spa": 194,
+            "spd": 120,
+            "spe": 140
+        }
+    },
+    "stats_sum": {
+        "mewtwo": 680,
+        "megamewtwo-x": 780,
+        "megamewtwo-y": 780
+    },
+    "types": {
+        "mewtwo": [
+            "Psico"
+        ],
+        "megamewtwo-y": [
+            "Psico"
+        ],
+        "megamewtwo-x": [
+            "Psico",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "mewtwo": "122.0 kg",
+        "megamewtwo-x": "127.0 kg",
+        "megamewtwo-y": "33.0 kg"
+    }
+}

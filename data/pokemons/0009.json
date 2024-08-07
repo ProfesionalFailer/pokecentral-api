@@ -1,0 +1,96 @@
+{
+    "abilities": {
+        "blastoise": {
+            "primary": "Acquaiuto",
+            "hidden": "Copripioggia"
+        },
+        "blastoise-gigamax": {
+            "primary": "Acquaiuto",
+            "hidden": "Copripioggia"
+        },
+        "megablastoise": {
+            "primary": "Megalancio"
+        }
+    },
+    "curiosities": [
+        "Blastoise condivide la sua categoria con Kabuto e Kabutops. Tutti e tre sono noti come Pokémon Crostaceo.",
+        "Il prototipo di Blastoise, chiamato \"Karabajio\", era senza i cannoni. Karabajo potrebbe essere una combinazione di carapace e di Caravaggio.",
+        "MegaBlastoise è l'unica megaevoluzione di un Pokémon iniziale a non possedere una doppia combinazione di tipi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/blastoise.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Acqua 1"
+    ],
+    "flat_name": "blastoise",
+    "generation": 1,
+    "height": {
+        "blastoise": "1.6 m",
+        "megablastoise": "1.6 m",
+        "blastoise-gigamax": "> 25.0 m"
+    },
+    "id": 9,
+    "name": "Blastoise",
+    "name_origin": "Blastoise potrebbe essere una combinazione di blast, getto, e tortoise, tartaruga o testuggine. Kamex potrebbe essere una combinazione di 亀 kame, tartaruga, e マックス max, massimo. ",
+    "origin": "Blastoise e la sua famiglia evolutiva sono basati su una tartaruga e probabilmente su un carro armato. Secondo Ken Sugimori e Atsuko Nishida, Blastoise sarebbe stato progettato per primo e, solo in seguito, sarebbero stati progettati Squirtle ed Wartortle, direttamente basati sulla sua forma finale. I cannoni di Blastoise potrebbero essere un riferimento ad alcuni organi, a forma di tubo, delle cozze e di altri crostacei. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Blastoise",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Crostaceo",
+    "sprites": {
+        "blastoise": {
+            "default": "https://media.pokemoncentral.it/wiki/0/04/Homem0009.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homemsh0009.png"
+        },
+        "megablastoise": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2a/Homem0009M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0009M.png"
+        },
+        "blastoise-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d9/Homem0009Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/16/Homemsh0009Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/74/Artwork0009_RFVF.png"
+    },
+    "stats": {
+        "blastoise": {
+            "hp": 79,
+            "atk": 83,
+            "def": 100,
+            "spa": 85,
+            "spd": 105,
+            "spe": 78
+        },
+        "blastoise-gigamax": {
+            "hp": 79,
+            "atk": 83,
+            "def": 100,
+            "spa": 85,
+            "spd": 105,
+            "spe": 78
+        },
+        "megablastoise": {
+            "hp": 79,
+            "atk": 103,
+            "def": 120,
+            "spa": 135,
+            "spd": 115,
+            "spe": 78
+        }
+    },
+    "stats_sum": {
+        "blastoise": 530,
+        "blastoise-gigamax": 530,
+        "megablastoise": 630
+    },
+    "types": {
+        "blastoise": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "blastoise": "85.5 kg",
+        "megablastoise": "101.1 kg",
+        "blastoise-gigamax": "???.? kg"
+    }
+}

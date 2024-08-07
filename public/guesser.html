@@ -1,36 +1,34 @@
 <!DOCTYPE html>
 <html lang="it">
 <title>PokeGuesser</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <head>
     <!-- Assets -->
     <link rel="stylesheet" href="guesser.css">
     <script type="text/javascript" src="guesser.js" defer></script>
-    <meta charset="UTF-8" />
+    <meta charset="UTF-8">
 
     <!-- Boostrap -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
-        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
-        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css">
+    <script src="/bootstrap/js/bootstrap.min.js"></script>
 </head>
 
 <body data-bs-theme="dark">
     <!-- Header -->
     <header class="sticky-top">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-dark -primary">
             <a class="navbar-brand px-4" href="">JSPokèGuesser</a>
             <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true"
                 aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
-                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 ">
+                <ul class="navbar-nav mb-2 mb-lg-0 ">
                     <li class="nav-item">
                         <a class="nav-link" href="/">Home</a>
                     </li>
                 </ul>
-                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 ">
+                <ul class="navbar-nav mb-2 mb-lg-0 ">
                     <li class="nav-item">
                         <a class="nav-link active" href="/guesser">Pokeguesser</a>
                     </li>
@@ -40,76 +38,77 @@
     </header>
 
 
-    <div class="container-fluid">
+    <div class="container-fluid my-3">
         <div class="row">
-            <div class="col-lg order-sm-1 order-lg-3 my-2">
-                <div class="border-box border-center my-auto">
-                    <h3 id="points_text">Punti Totali: </h3>
-                    <img class="img-fluid" id="sprite" src="question.png"></img>
+            <div class="col-lg order-sm-1 order-lg-3 my-lg-2 mx-lg-1">
+                <div class="border-box border-center">
+                    <h3 class="my-lg-3" id="points_text">Punti Totali: </h3>
+                    <img class="img-fluid my-lg-2" id="sprite" alt="?" src="question.png"></img>
                 </div>
             </div>
 
-            <div class="col-lg-6 my-lg-5 order-sm-2 order-lg-2 mx-1">
+            <div class="col-lg-6 my-lg-5 order-sm-2 order-lg-2 mx-2">
                 <div class="row">
                     <p class="display-2 font-weight-bold mx-auto text-center" id="game">
                         ???</h2>
-                    <div id="dex_entry" class="border border-dark border-box py-4 my-3 h4"></div>
+                    <div id="dex_entry" class="border -tertiary border-dark border-box py-4 my-3 h4"></div>
                 </div>
 
                 <div class="row">
                     <div class="input-group my-5">
-                        <input class="form-control" type="text" list="poke_list" autocomplete="off" id="user_guess">
+                        <input aria-label="user guess?" class="form-control py-2" type="text" list="poke_list"
+                            autocomplete="off" id="user_guess">
                         <datalist id="poke_list">
                         </datalist>
-                        <button class="btn btn-dark btn-block my-2" onclick="guess()">Guess</button>
+                        <button class="btn btn-tertiary btn-block my-auto mx-2" onclick="guess()">Guess</button>
                     </div>
                 </div>
             </div>
 
 
-            <div class="col-lg hints my-lg-4 mx-2 order-sm-3 order-lg-1 d-lg-block">
+            <div class="col-lg hints my-lg-2 mx-lg-3 order-sm-3 order-lg-1 d-lg-block -tertiary">
 
-                <div class="row pt-1 pb-2">
+                <div class="row mx-1 pt-1 pb-2">
                     <button type="button" class="btn btn-primary btn-lg btn-block py-3" onclick="show_info(this)"
                         id="abilities" aria-pressed="true">
                         Abilità</button>
                 </div>
 
-                <div class="row pt-1 pb-2">
+                <div class="row mx-1 pt-1 pb-2">
                     <button type="button" class="btn btn-primary btn-lg btn-block py-3" onclick="show_info(this)"
                         id="dimension">Dimensioni</button>
                 </div>
 
-                <div class="row pt-1 pb-2">
+                <div class="row mx-1 pt-1 pb-2">
                     <button type="button" class="btn btn-primary btn-lg btn-block py-3" onclick="show_info(this)"
                         id="shape">Forma</button>
                 </div>
 
-                <div class="row pt-1 pb-2">
+                <div class="row mx-1 pt-1 pb-2">
                     <button type="button" class="btn btn-primary btn-lg btn-block py-3" onclick="show_info(this)"
                         id="egg">Gruppo
                         Uova</button>
                 </div>
 
-                <div class="row pt-1 pb-2">
+                <div class="row mx-1 pt-1 pb-2">
                     <button type="button" class="btn btn-primary btn-lg btn-block py-3" onclick="show_info(this)"
                         id="pokedex">Numero
                         Pokedex</button>
                 </div>
 
 
-                <div class="row pt-1 pb-2">
+                <div class="row mx-1 pt-1 pb-2">
                     <button type="button" class="btn btn-primary btn-lg btn-block py-3" onclick="show_info(this)"
                         id="stats">Somma
                         Statistiche</button>
                 </div>
 
-                <div class="row pt-1 pb-2">
+                <div class="row mx-1 pt-1 pb-2">
                     <button type="button" class="btn btn-primary btn-lg btn-block py-3" onclick="show_info(this)"
                         id="specie">Specie</button>
                 </div>
 
-                <div class="row pt-1 pb-2">
+                <div class="row mx-1 pt-1 pb-2">
                     <button type="button" class="btn btn-primary btn-lg btn-block py-3" onclick="show_info(this)"
                         id="types">Tipi</button>
                 </div>

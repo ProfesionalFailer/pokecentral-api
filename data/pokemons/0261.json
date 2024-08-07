@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "poochyena": {
+            "primary": "Fugafacile",
+            "secondary": "Piedisvelti",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Poochyena ha il totale delle statistiche base più basso tra tutti i Pokémon di tipo Buio.",
+        "Poochyena e la sua forma evoluta Mightyena condividono la loro categoria con Drednaw. Sono infatti conosciuti come Pokémon Morso."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/poochyena.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "poochyena",
+    "generation": 3,
+    "height": {
+        "poochyena": "0.50 m"
+    },
+    "id": 261,
+    "name": "Poochyena",
+    "name_origin": "Deriva dalle parole pooch , e hyena . ",
+    "origin": "Basato su un lupo e una iena. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Poochyena",
+    "shape": "quadrupede",
+    "specie": "Pokémon Morso",
+    "sprites": {
+        "poochyena": {
+            "default": "https://media.pokemoncentral.it/wiki/1/13/Homem0261.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/21/Homemsh0261.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f0/Artwork0261_RZ.png"
+    },
+    "stats": {
+        "poochyena": {
+            "hp": 35,
+            "atk": 55,
+            "def": 35,
+            "spa": 30,
+            "spd": 30,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "poochyena": 220
+    },
+    "types": {
+        "poochyena": [
+            "Buio"
+        ]
+    },
+    "weight": {
+        "poochyena": "13.6 kg"
+    }
+}

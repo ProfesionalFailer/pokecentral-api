@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "arbok": {
+            "primary": "Prepotenza",
+            "secondary": "Muta",
+            "hidden": "Agitazione"
+        }
+    },
+    "curiosities": [
+        "Arbok è l'unico Pokémon con il totale delle statistiche base pari a 438.",
+        "Il disegno simile ad una faccia sulla pancia di Arbok presenta delle differenze tra i giochi. In prima generazione, in Pokémon Rosso Fuoco e Verde Foglia e dalla quarta generazione in poi, il disegno differisce rispetto a quello presente in seconda generazione e in Pokémon Rubino, Zaffiro e Smeraldo. A supporto di ciò, il Pokédex rivela che questi disegni cambiano da zona a zona; tuttavia, nei remake basati su Johto e Hoenn, i disegni differiscono da quelli dei giochi originali ambientati in quelle regioni.\n\tAltri media rappresentano ulteriori disegni. In Pokémon Adventures, Arbok può cambiare il proprio disegno, come accaduto con l'Arbok di Agatha. La carta Dark Arbok del GCC raffigura un ulteriore e differente disegno.\n\tNella sedicesima edizione della Gazzetta Pokémon, i disegni di Arbok sono cosiderati una delle sette meraviglie dei Pokémon.",
+        "Altri media rappresentano ulteriori disegni. In Pokémon Adventures, Arbok può cambiare il proprio disegno, come accaduto con l'Arbok di Agatha. La carta Dark Arbok del GCC raffigura un ulteriore e differente disegno.",
+        "Nella sedicesima edizione della Gazzetta Pokémon, i disegni di Arbok sono cosiderati una delle sette meraviglie dei Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/arbok.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo",
+        "Drago"
+    ],
+    "flat_name": "arbok",
+    "generation": 1,
+    "height": {
+        "arbok": "3.5 m"
+    },
+    "id": 24,
+    "name": "Arbok",
+    "name_origin": "Arbok potrebbe derivare da cobra scritto all'incontrario, con la \"k\" al posto della \"c\". Inoltre, Arbok si riferisce al nome giapponese di Ekans, Arbo. ",
+    "origin": "Arbok potrebbe essere basato su un cobra dagli occhiali. Ekans e Arbok potrebbero essere ispirati anche dal basilisco, poiché erano gli unici Pokémon ad imparare Sguardo Feroce. Si diceva che il basilisco fosse un drago serpentino velenoso che uccideva le persone con il suo sguardo; questo potrebbe spiegare il Gruppo Uova Drago dei due Pokémon. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Arbok",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Cobra",
+    "sprites": {
+        "arbok": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2b/Homem0024.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0024.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0d/Artwork0024_RFVF.png"
+    },
+    "stats": {
+        "arbok": {
+            "hp": 60,
+            "atk": 95,
+            "def": 69,
+            "spa": 65,
+            "spd": 79,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "arbok": 448
+    },
+    "types": {
+        "arbok": [
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "arbok": "65.0 kg"
+    }
+}

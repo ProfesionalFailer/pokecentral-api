@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "sneasel": {
+            "primary": "Forza Interiore",
+            "secondary": "Sguardofermo",
+            "hidden": "Arraffalesto"
+        }
+    },
+    "curiosities": [
+        "Nonostante sia un tipo Ghiaccio, Sneasel non può imparare mosse di questo tipo salendo di livello nei giochi di seconda generazione.",
+        "Prima della quarta generazione la mossa esclusiva di Sneasel era Picchiaduro.",
+        "Prima della nona generazione, nessun Pokémon, eccetto la sua evoluzione Weavile, possedeva la stessa combinazione di tipi di Sneasel.",
+        "Sneasel ha la più alta statistica di base in Velocità tra tutti i Pokémon non completamente evoluti.",
+        "La colorazione dello sprite originale di Sneasel in Pokémon Oro e Argento era diversa rispetto a quella attuale.",
+        "Sneasel può essere considerato \"parallelo\" a Gligar. Entrambi sono Pokémon di doppio tipo; hanno lo stesso totale delle statistiche di base; le loro rispettive evoluzioni sono stata introdotte in quarta generazione; si evolvono di notte tenendo strumenti dai nomi molto simili .",
+        "Sneasel è uno dei quattordici Pokémon ottenibili in Diamante e Perla con la descrizione del Pokédex in una lingua straniera.",
+        "Sneasel è l'unico Pokémon ad avere una forma di Hisui la cui forma originale è ottenibile e trasferibile in Leggende Pokémon: Arceus."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sneasel.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "sneasel",
+    "generation": 2,
+    "height": {
+        "sneasel": "0.9 m"
+    },
+    "id": 215,
+    "name": "Sneasel",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi sneaky  o snow  e weasel . Il suo nome giapponese, ニューラ Nyula, potrebbe derivare dall'unione delle parole 潜入 sennyū  o にゃ nyā  e 鼬 yū . ",
+    "origin": "Sneasel è probabilmente ispirato a un kamaitachi, creatura mitologica del folklore nipponico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sneasel",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Lamartigli",
+    "sprites": {
+        "sneasel": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0215.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0215.png"
+        },
+        "sneasel-f": {
+            "default": "https://media.pokemoncentral.it/wiki/6/61/Homef0215.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homefsh0215.png"
+        },
+        "forma-di-hisui": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9a/Homem0215H.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0215H.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/75/Artwork0215_RFVF.png"
+    },
+    "stats": {
+        "sneasel": {
+            "hp": 55,
+            "atk": 95,
+            "def": 55,
+            "spa": 35,
+            "spd": 75,
+            "spe": 115
+        }
+    },
+    "stats_sum": {
+        "sneasel": 430
+    },
+    "types": {
+        "sneasel": [
+            "Buio",
+            "Ghiaccio"
+        ],
+        "forma-di-hisui": [
+            "Veleno",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "sneasel": "28.0 kg"
+    }
+}

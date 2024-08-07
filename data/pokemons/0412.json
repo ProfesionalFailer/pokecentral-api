@@ -1,0 +1,95 @@
+{
+    "abilities": {
+        "burmy": {
+            "primary": "Muta",
+            "hidden": "Copricapo"
+        }
+    },
+    "curiosities": [
+        "Burmy è uno dei cinque Pokémon la cui evoluzione è basata sul genere. Gli altri quattro sono Combee in Vespiquen, Kirlia in Gallade, Snorunt in Froslass e Salandit in Salazzle.",
+        "Wormadam e Burmy condividono la categoria con Pineco e Forretress. Sono tutti noti come Pokémon Larva.",
+        "La famiglia evolutiva di Burmy è una delle più complesse, con due fattori determinanti l'evento evolutivo: il suo genere e il suo aspetto.",
+        "Burmy è l'unico Pokémon che ha un totale di statistiche base di 224.",
+        "Ad oggi, non è mai stato visto un Burmy col Manto Sabbia o col Manto Scarti nell'anime."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/burmy.mp3",
+    "dex_entries": {
+        "burmy": {
+            "diamond": "Per ripararsi dal freddo e dai venti invernali si copre con un manto fatto di rami e foglie.",
+            "pearl": "Se il suo manto si rompe mentre lotta, lo rifa velocemente con ciò che trova attorno a sé.",
+            "platinum": "Anche se dove nasce non ci sono materiali per fare bozzoli, si ritrova sempre coperto da un manto.",
+            "heartgold": "Per ripararsi dal freddo si avvolge in un mantello. Nella stagione calda usa un mantello più leggero.",
+            "soulsilver": "Per ripararsi dal freddo si avvolge in un mantello. Nella stagione calda usa un mantello più leggero.",
+            "black": "Anche se dove nasce non ci sono materiali per fare bozzoli, si ritrova sempre coperto da un manto.",
+            "white": "Anche se dove nasce non ci sono materiali per fare bozzoli, si ritrova sempre coperto da un manto.",
+            "black-2": "Anche se dove nasce non ci sono materiali per fare bozzoli, si ritrova sempre coperto da un manto.",
+            "white-2": "Anche se dove nasce non ci sono materiali per fare bozzoli, si ritrova sempre coperto da un manto.",
+            "x": "Per ripararsi dal freddo e dai venti invernali si copre con un manto fatto di rami e foglie.",
+            "y": "Se il suo manto si rompe mentre lotta, lo rifa velocemente con ciò che trova attorno a sé.",
+            "omega-ruby": "Per ripararsi dal freddo e dai venti invernali si copre con un manto fatto di rami e foglie.",
+            "alpha-sapphire": "Se il suo manto si rompe mentre lotta, lo rifa velocemente con ciò che trova attorno a sé.",
+            "brilliant-diamond": "Per ripararsi dal freddo e dai venti invernali si copre con un manto fatto di rami e foglie.",
+            "shining-pearl": "Se il suo manto si rompe mentre lotta, lo rifà velocemente con ciò che trova attorno a sé."
+        },
+        "manto-pianta": {
+            "legends-arceus": "Ad ogni lieve lesione del manto utilizza materiali immediatamente disponibili per rappezzarlo. Cela delle membra deboli e sensibili al freddo."
+        },
+        "manto-sabbia": {
+            "legends-arceus": "Confeziona un manto amalgamando sabbia limacciosa con il filo che tesse. È solito celarsi in spelonche, giacché tale rivestimento cede alle intemperie."
+        },
+        "manto-scarti": {
+            "legends-arceus": "In mancanza di materiali idonei, confeziona un manto usufruendo di scarti. Contrariamente alle mie aspettative, non pare affatto scomodo."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "burmy",
+    "generation": 4,
+    "height": {
+        "burmy": "0.2 m"
+    },
+    "id": 412,
+    "name": "Burmy",
+    "name_origin": "Burmy può essere una combinazione di bug  o bag  e worm  o bagworm . ",
+    "origin": "Burmy si basa su una pupa, probabilmente quella della Psychidae , che poi si trasformerà in una farfalla se maschio, o rimarrà una creatura simile a una pupa se femmina. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Burmy",
+    "shape": "testa e base",
+    "specie": "Pokémon Larva",
+    "sprites": {
+        "manto-pianta": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9e/Homem0412.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0412.png"
+        },
+        "manto-sabbia": {
+            "default": "https://media.pokemoncentral.it/wiki/3/39/Homem0412Sa.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0412Sa.png"
+        },
+        "manto-scarti": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7a/Homem0412Sc.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/60/Homemsh0412Sc.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b9/Artwork0412_DP.png"
+    },
+    "stats": {
+        "burmy": {
+            "hp": 40,
+            "atk": 29,
+            "def": 45,
+            "spa": 29,
+            "spd": 45,
+            "spe": 36
+        }
+    },
+    "stats_sum": {
+        "burmy": 224
+    },
+    "types": {
+        "burmy": [
+            "Coleottero"
+        ]
+    },
+    "weight": {
+        "burmy": "3.4 kg"
+    }
+}

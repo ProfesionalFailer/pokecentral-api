@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "lairon": {
+            "primary": "Vigore",
+            "secondary": "Testadura",
+            "hidden": "Metalpesante"
+        }
+    },
+    "curiosities": [
+        "In terza generazione, Aron, Lairon e Aggron avevano una combinazione di tipi unica.",
+        "Prima di Pokémon Rubino Omega e Zaffiro Alpha, l'intera linea evolutiva di Lairon non imparava nessuna mossa Roccia aumentando di livello pur essendo in parte di questo tipo. Con l'arrivo dei giochi sopracitati è in grado di imparare Rocciotomba e Frana.",
+        "Lairon pesa esattamente quanto Rhydon, un altro Pokémon Roccia al secondo stadio evolutivo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/lairon.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro"
+    ],
+    "flat_name": "lairon",
+    "generation": 3,
+    "height": {
+        "lairon": "0.90 m"
+    },
+    "id": 305,
+    "name": "Lairon",
+    "name_origin": "Il nome \"Lairon\" potrebbe essere l'unione di lairy  o di lair  con iron . ",
+    "origin": "Lairon sembra essere basato sul Palgasauro, una creatura mitologica coreana che si nutre di metallo, ma assomiglia anche ai Placerias, un gruppo di rettili che avrebbe dato origine ai mammiferi del periodo Triassico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Lairon",
+    "shape": "quadrupede",
+    "specie": "Pokémon Corazza",
+    "sprites": {
+        "lairon": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0a/Homem0305.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0305.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/06/Artwork0305_RZ.png"
+    },
+    "stats": {
+        "lairon": {
+            "hp": 60,
+            "atk": 90,
+            "def": 140,
+            "spa": 50,
+            "spd": 50,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "lairon": 430
+    },
+    "types": {
+        "lairon": [
+            "Roccia",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "lairon": "120.0 kg"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "ralts": {
+            "primary": "Sincronismo",
+            "secondary": "Traccia",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Il numero di Ralts nel Pokédex di Sinnoh di Pokémon Platino e nel Navigatore di Almia è lo stesso: 157.",
+        "Lo sprite di Pokémon Link! di Ralts è l'unico in cui i suoi occhi sono visibili. In Pokémon X e Y, Pokémon Colosseum e Pokémon XD: Tempesta Oscura, è possibile vederli se si guarda il modello di Ralts dal basso nel Pokédex/PokéMemo.",
+        "Ralts è l'unico Pokémon con un totale di statistiche base di 198.\n\tQuesto è anche il totale delle statistiche base più basso tra tutti i Pokémon di tipo Psico.",
+        "Questo è anche il totale delle statistiche base più basso tra tutti i Pokémon di tipo Psico.",
+        "Sebbene Lino catturi il suo Ralts sul Percorso 102 al livello 5 nei giochi ambientati a Hoenn, è impossibile per il giocatore catturare in questi giochi un Ralts di livello 5 se non attraverso il NaviDex in Pokémon Rubino Omega e Zaffiro Alpha.",
+        "A partire dall'ottava generazione, Ralts e la sua linea evolutiva sono gli unici Pokémon che appartengono ai Gruppi Uova Amorfo e Umanoide."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ralts.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Amorfo",
+        "Umanoide",
+        "VIII"
+    ],
+    "flat_name": "ralts",
+    "generation": 3,
+    "height": {
+        "ralts": "0.40 m"
+    },
+    "id": 280,
+    "name": "Ralts",
+    "name_origin": "\"Ralts\" può essere un anagramma parziale di \"astral\", astrale, in relazione ai suoi poteri psichici. Può anche includere la parola \"waltz\", valzer, in relazione alle sue forme evolute che ricordano dei ballerini. ",
+    "origin": "Ralts sembra essere basato su un bambino piccolo e sul concetto di empatia. È comune in varie forme di media che personaggi timidi e sensibili siano raffigurati con i capelli che oscurano gli occhi, il che potrebbe spiegare l'acconciatura a caschetto di Ralts. La forma delle sue gambe ricorda un lungo vestito e le corna rosse sulla sua testa ricordano le due metà di un cuore, il che potrebbe riguardare la sua capacità di percepire le emozioni. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ralts",
+    "shape": "bipedi",
+    "specie": "Pokémon Sensazione",
+    "sprites": {
+        "ralts": {
+            "default": "https://media.pokemoncentral.it/wiki/3/33/Homem0280.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5b/Homemsh0280.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ee/Artwork0280_RZ.png"
+    },
+    "stats": {
+        "ralts": {
+            "hp": 28,
+            "atk": 25,
+            "def": 25,
+            "spa": 45,
+            "spd": 35,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "ralts": 198
+    },
+    "types": {
+        "ralts": [
+            "Psico",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "ralts": "6.6 kg"
+    }
+}

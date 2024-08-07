@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "turtonator": {
+            "primary": "Guscioscudo"
+        }
+    },
+    "curiosities": [
+        "Turtonator ha la più alta statistica base di difesa di tutti i Pokémon di tipo Drago.",
+        "Turtonator può essere visto come la controparte di Drampa. Entrambi sono Pokémon di tipo Drago con lo stesso totale di statistiche base. I valori delle statistiche sono inoltre identici, ma ad eccezione della velocità, sono assegnati a statistiche differenti. Mentre Turtonator è esclusivo di Pokémon Sole, Drampa è esclusivo di Pokémon Luna."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/turtonator.mp3",
+    "dex_entries": {
+        "turtonator": {
+            "sun": "Il carapace sulla schiena è esplosivo e, se lo si urta per errore, scoppia. Il suo punto debole è il buco sulla pancia.",
+            "moon": "Espelle dalle narici fiamme e gas velenosi. I suoi escrementi sono esplosivi e per questo trovano molte applicazioni.",
+            "ultra-sun": "Vive nei vulcani e si nutre di zolfo e minerali, che rendono il suo carapace esplosivo.",
+            "ultra-moon": "Il suo pericoloso carapace esplosivo è messo fuori uso dall'umidità. Nei giorni di pioggia si rifugia all'interno delle grotte.",
+            "sword": "Il carapace sulla schiena è rivestito di esplosivo. Respinge gli attacchi nemici con un potente scoppio.",
+            "shield": "Vive nei vulcani. Lo zolfo di cui si nutre rende esplosivo il suo carapace e i suoi escrementi. Questi ultimi sono molto pericolosi."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "flat_name": "turtonator",
+    "generation": 7,
+    "height": {
+        "turtonator": "2.0 m"
+    },
+    "id": 776,
+    "name": "Turtonator",
+    "name_origin": "Turtonator potrebbe essere una combinazione di turtle, tartaruga, e detonator, detonatore. Bakugames potrebbe essere una combinazione di 爆発 bakuhatsu, esplosione, e di 亀 kame, tartaruga. ",
+    "origin": "Turtonator sembra essere basato sulla Chelus fimbriata, tartaruga Mata Mata, ma potrebbe anche avere dei riferimenti al Kappa o al Tarrasque. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Turtonator",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Tartabomba",
+    "sprites": {
+        "turtonator": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem0776.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/09/Homemsh0776.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b6/Artwork0776_SL.png"
+    },
+    "stats": {
+        "turtonator": {
+            "hp": 60,
+            "atk": 78,
+            "def": 135,
+            "spa": 91,
+            "spd": 85,
+            "spe": 36
+        }
+    },
+    "stats_sum": {
+        "turtonator": 485
+    },
+    "types": {
+        "turtonator": [
+            "Fuoco",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "turtonator": "212.0 kg"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "abilities": {
+        "charjabug": {
+            "primary": "Batteria"
+        }
+    },
+    "curiosities": [
+        "Charjabug è stato disegnato da Hitoshi Ariga.",
+        "Charjabug e Yamper sono gli unici Pokémon che perdono la loro abilità esclusiva con l'evoluzione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/charjabug.mp3",
+    "dex_entries": {
+        "charjabug": {
+            "sun": "Può immagazzinare elettricità all'interno del corpo. Per questo la sua compagnia è utile quando si va in campeggio.",
+            "moon": "Genera energia elettrica durante la digestione e la conserva in una sacca interna.",
+            "ultra-sun": "Si nasconde tra le foglie cadute a terra e rimane immobile nutrendosi esclusivamente di humus. Chi lo pesta per sbaglio prende la scossa.",
+            "ultra-moon": "Il suo robusto esoscheletro lo protegge dagli attacchi. Se il nemico non molla, contrattacca con scariche elettriche.",
+            "sword": "È protetto da un robusto esoscheletro. Contrattacca con l'elettricità che rilascia dalle punte che ha sulla mandibola.",
+            "shield": "Produce energia tramite la digestione delle foglie morte di cui si nutre e la conserva nella sacca apposita che ha nel ventre.",
+            "scarlet": "Protetto da un robusto esoscheletro, si nutre di una grande quantità di humus e foglie morte per evolversi.",
+            "violet": ""
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "charjabug",
+    "generation": 7,
+    "height": {
+        "charjabug": "0.5 m"
+    },
+    "id": 737,
+    "name": "Charjabug",
+    "name_origin": "Charjabug è una combinazione di charge, inteso come caricare una batteria, e bug . Dendimushi potrebbe essere una combinazione di 電池 denchi  e 地虫 jimushi . ",
+    "origin": "Charjabug potrebbe essere ispriato ad un insetto dentro ad un bozzolo e ad una batteria. Il suo verso e la sua forma possono essere ricondotti a quelli di una fisarmonica. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Charjabug",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Batteria",
+    "sprites": {
+        "charjabug": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f7/Homem0737.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ed/Homemsh0737.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/35/Artwork0737_SL.png"
+    },
+    "stats": {
+        "charjabug": {
+            "hp": 57,
+            "atk": 82,
+            "def": 95,
+            "spa": 55,
+            "spd": 75,
+            "spe": 36
+        }
+    },
+    "stats_sum": {
+        "charjabug": 400
+    },
+    "types": {
+        "charjabug": [
+            "Coleot",
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "charjabug": "10.5 kg"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "seismitoad": {
+            "primary": "Nuotovelox",
+            "secondary": "Velentocco",
+            "hidden": "Assorbacqua"
+        }
+    },
+    "curiosities": [
+        "Seismitoad è l'unico Pokémon non di tipo Veleno che può avere Velentocco come abilità.",
+        "È l'unico Pokémon che ha le statistiche base totali pari a 509.",
+        "Seasmitoad condivide la sua categoria con Palpitoad e Vibrava. Sono tutti conosciuti come Pokémon Vibrazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/seismitoad.mp3",
+    "dex_entries": {
+        "seismitoad": {
+            "black": "Dalle escrescenze che ha sulla testa spara un liquido che paralizza i nervi. Usa le vibrazioni per attaccare il nemico.",
+            "white": "Facendo vibrare le protuberanze sui pugni, ne raddoppia la potenza. Frantuma enormi massi con un colpo.",
+            "black-2": "Usa le sue protuberanze per emettere delle vibrazioni che aumentano la potenza dei suoi pugni.",
+            "white-2": "Usa le sue protuberanze per emettere delle vibrazioni che aumentano la potenza dei suoi pugni.",
+            "x": "Facendo vibrare le protuberanze sui pugni, ne raddoppia la potenza. Frantuma enormi massi con un colpo.",
+            "y": "Dalle escrescenze che ha sulla testa spara un liquido che paralizza i nervi. Usa le vibrazioni per attaccare il nemico.",
+            "omega-ruby": "Facendo vibrare le protuberanze sui pugni, ne raddoppia la potenza. Frantuma enormi massi con un colpo.",
+            "alpha-sapphire": "Dalle escrescenze che ha sulla testa spara un liquido che paralizza i nervi. Usa le vibrazioni per attaccare il nemico.",
+            "sword": "Fa vibrare le protuberanze su tutto il corpo provocando delle scosse simili a un terremoto. Come specie è affine ai Croagunk.",
+            "shield": "Particolarmente amato dagli anziani per via delle vibrazioni prodotte dalle protuberanze sui suoi pugni, perfette per fare massaggi."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1"
+    ],
+    "flat_name": "seismitoad",
+    "generation": 5,
+    "height": {
+        "seismitoad": "1.5 m"
+    },
+    "id": 537,
+    "name": "Seismitoad",
+    "name_origin": "Il nome deriva probabilmente dalle parole inglesi seismic  e toad . ",
+    "origin": "Probabilmente si ispira ad un rospo e ad un altoparlante. I rigonfiamenti sulla testa assomigliano ai campanelli della classica sveglia tradizionale. Le sfere sul suo corpo invece hanno un'aspetto simile alle verruche delle rane, o alle loro ghiandole velenose, oppure potrebbero essere basate sulla rana del Surinam, che sul dorso ha delle sacche per contenere le uova e che inoltre, come Palpitoad, produce vibrazioni subacquee. Potrebbe anche ispirarsi alla rana golia, per le sue dimensioni e la corporatura massiccia. Appunto la sua corporatura muscolosa e la sua abilità di lottatore, possono essere una metafora della potenza sonora : le vibrazioni sonore ad alta frequenza possono arrivare a danneggiare o deformare oggetti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Seismitoad",
+    "shape": "bipedi",
+    "specie": "Pokémon Vibrazione",
+    "sprites": {
+        "seismitoad": {
+            "default": "https://media.pokemoncentral.it/wiki/9/97/Homem0537.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0d/Homemsh0537.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4d/Artwork0537_NB.png"
+    },
+    "stats": {
+        "seismitoad": {
+            "hp": 105,
+            "atk": 95,
+            "def": 75,
+            "spa": 85,
+            "spd": 75,
+            "spe": 74
+        }
+    },
+    "stats_sum": {
+        "seismitoad": 509
+    },
+    "types": {
+        "seismitoad": [
+            "Terra",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "seismitoad": "62.0 kg"
+    }
+}

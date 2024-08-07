@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "magnezone": {
+            "primary": "Magnetismo",
+            "secondary": "Vigore",
+            "hidden": "Ponderazione"
+        }
+    },
+    "curiosities": [
+        "Prima della settima generazione Magnemite, Magneton e Magnezone avevano una combinazione di tipi unica.\n\tQuesta combinazione li rende i Pokémon con il maggior numero di resistenze: ben 12 su 18 , considerando anche l'immunità al Veleno.",
+        "Questa combinazione li rende i Pokémon con il maggior numero di resistenze: ben 12 su 18 , considerando anche l'immunità al Veleno.",
+        "In Pokémon Diamante e Perla, i poli delle calamite di Magnezone sono grigi, mentre in Pokémon Platino e in Pokémon Oro HeartGold e Argento SoulSilver sono di colore blu e rosso, che corrispondono rispettivamente al polo negativo e a quello positivo.\n\tIn Pokémon Nero e Bianco, visto che è stato recuperato lo sprite di Diamante e Perla, i poli sono tornati grigi.",
+        "In Pokémon Nero e Bianco, visto che è stato recuperato lo sprite di Diamante e Perla, i poli sono tornati grigi.",
+        "Poiché non c'è nessun posto soggetto a forte elettromagnetismo nelle versioni Pokémon Oro HeartGold e Argento SoulSilver, in questi giochi è impossibile far evolvere Magneton in Magnezone. Lo stesso vale per Probopass, Leafeon e Glaceon. Per ottenerli è necessario farli scambiare tutti da Pokémon Diamante, Perla e Platino.",
+        "Nonostante molte caratteristiche che dimostrano che può fluttuare in aria, Magnezone non ha l'Abilità Levitazione, quindi può subire le mosse di tipo Terra. Tuttavia, Magnezone può imparare Magnetascesa, che simula Levitazione per cinque turni."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/magnezone.mp3",
+    "dex_entries": {
+        "magnezone": {
+            "diamond": "Si è evoluto in seguito all'esposizione a uno speciale campo magnetico. Tre unità generano magnetismo.",
+            "pearl": "Si è evoluto in seguito all'esposizione a uno speciale campo magnetico. Tre unità generano magnetismo.",
+            "platinum": "Alcuni hanno provato a farlo evolvere artificialmente, ma l’esperimento non è andato a buon fine.",
+            "heartgold": "Si è evoluto in MAGNEZONE modificando la struttura molecolare di MAGNETON con un campo magnetico ad hoc.",
+            "soulsilver": "Si è evoluto in MAGNEZONE modificando la struttura molecolare di MAGNETON con un campo magnetico ad hoc.",
+            "black": "Alcuni hanno provato a farlo evolvere artificialmente, ma l'esperimento non è andato a buon fine.",
+            "white": "Alcuni hanno provato a farlo evolvere artificialmente, ma l'esperimento non è andato a buon fine.",
+            "black-2": "A volte si attraggono l'un l'altro con la loro potentissima carica magnetica, e poi non riescono più a muoversi.",
+            "white-2": "A volte si attraggono l'un l'altro con la loro potentissima carica magnetica, e poi non riescono più a muoversi.",
+            "x": "A volte si attraggono l'un l'altro con la loro potentissima carica magnetica e poi non riescono più a muoversi.",
+            "y": "Si è evoluto in seguito all'esposizione a uno speciale campo magnetico. Tre unità generano magnetismo.",
+            "omega-ruby": "A volte si attraggono l'un l'altro con la loro potentissima carica magnetica e poi non riescono più a muoversi.",
+            "alpha-sapphire": "Si è evoluto in seguito all'esposizione a uno speciale campo magnetico. Tre unità generano magnetismo.",
+            "sun": "Le sue tre unità generano magnetismo. Quando vola nel cielo notturno, viene spesso scambiato per un UFO.",
+            "moon": "Fluttua in aria trasmettendo e ricevendo misteriose onde elettromagnetiche.",
+            "ultra-sun": "Sorveglia il suo territorio via radar ed elimina immediatamente gli intrusi con un raggio distruttore.",
+            "ultra-moon": "Ancora oggi c'è chi crede che Magnezone sia venuto dallo spazio. Emette un'intensa forza magnetica.",
+            "sword": "Si dice che venga controllato tramite onde elettromagnetiche provenienti dallo spazio, che capta con l'antenna posta sulla testa.",
+            "shield": "Si pensa che la sua struttura molecolare sia mutata in seguito all'esposizione a uno speciale campo magnetico, che ha innescato l'evoluzione.",
+            "brilliant-diamond": "Si è evoluto in seguito all'esposizione a uno speciale campo magnetico. Le tre unità generano forza magnetica.",
+            "shining-pearl": "Si è evoluto in seguito all'esposizione a uno speciale campo magnetico. Le tre unità generano forza magnetica.",
+            "legends-arceus": "Sospetto si sia evoluto per mutazione molecolare indotta da un singolare campo magnetico. Inoltra nel cosmo criptici segnali elettrici con l'antenna.",
+            "scarlet": "Vola per il cielo inviando misteriose onde elettromagnetiche e ricevendo onde sconosciute.",
+            "violet": "È l’evoluzione di un Magneton, prodotta dalla riorganizzazione della sua struttura molecolare per mezzo di uno speciale campo magnetico."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "magnezone",
+    "generation": 4,
+    "height": {
+        "magnezone": "1.2 m"
+    },
+    "id": 462,
+    "name": "Magnezone",
+    "name_origin": "Deriva dalle parole magnet  e zone , oppure da magnetic zone . ",
+    "origin": "Basato su un magnete o su un disco volante. Potrebbe essere l'oggettificazione di un campo magnetico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Magnezone",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Magnetico",
+    "sprites": {
+        "magnezone": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b8/Homem0462.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6b/Homemsh0462.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d3/Artwork0462_DP.png"
+    },
+    "stats": {
+        "magnezone": {
+            "hp": 70,
+            "atk": 70,
+            "def": 115,
+            "spa": 130,
+            "spd": 90,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "magnezone": 535
+    },
+    "types": {
+        "magnezone": [
+            "Elettro",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "magnezone": "180.0 kg"
+    }
+}

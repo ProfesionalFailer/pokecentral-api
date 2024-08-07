@@ -1,0 +1,77 @@
+{
+    "abilities": {
+        "golem": {
+            "primary": "Testadura",
+            "secondary": "Vigore",
+            "hidden": "Sabbiavelo"
+        },
+        "forma-di-alola": {
+            "primary": "Magnetismo",
+            "secondary": "Vigore",
+            "hidden": "Pellelettro"
+        }
+    },
+    "curiosities": [
+        "In prima generazione, Golem era uno dei Pokémon che l'Allenatore non poteva nemmeno vedere senza fare scambi. Comunque, si sa della sua esistenza grazie a un NPC che ha appena ricevuto un Graveler da un suo amico. Anche Venusaur , o Kabutops o Omastar , Magmar in Pokémon Rosso e Electabuzz in Pokémon Blu non venivano visti, ma solo Golem viene nominato ed è impossibile da incontrare in entrambi i giochi.\n\tNella versione giapponese di Pokémon Blu, Golem poteva essere trovato grazie ad uno scambio all'interno del gioco in cui veniva dato un Graveler.",
+        "Nella versione giapponese di Pokémon Blu, Golem poteva essere trovato grazie ad uno scambio all'interno del gioco in cui veniva dato un Graveler.",
+        "Golem è l'unico Pokémon con due braccia che si evolve da un Pokémon che ne ha quattro.",
+        "Nella sua forma di Alola, Golem è il Pokémon Elettro con la statistica di Difesa più alta.",
+        "Nella sua forma di Alola è il Pokémon di tipo Elettro più pesante."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/golem.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "golem",
+    "generation": 1,
+    "height": {
+        "golem": "1.4 m",
+        "forma-di-alola": "1.7 m"
+    },
+    "id": 76,
+    "name": "Golem",
+    "name_origin": "Golem è un riferimento ai golem della leggenda medievale ed Ebrea . Golonya potrebbe essere una combinazione di golem e stone. In più ゴロゴローン gorogorōn è il suono del rotolare, un'abitudine di Golem. ",
+    "origin": "Golem è probabilmente basato su una tartaruga. Si crede che le tartarughe avessero il mondo sulle loro schiene nei miti . Il suo \"guscio\" potrebbe rappresentare le placche tettoniche della Terra. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Golem",
+    "shape": "bipedi",
+    "specie": "Pokémon Megatone",
+    "sprites": {
+        "golem": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0076.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0076.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/c/ca/Homem0076A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/23/Homemsh0076A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/82/Artwork0076_RFVF.png"
+    },
+    "stats": {
+        "golem": {
+            "hp": 80,
+            "atk": 120,
+            "def": 130,
+            "spa": 55,
+            "spd": 65,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "golem": 495
+    },
+    "types": {
+        "golem": [
+            "Roccia",
+            "Terra"
+        ],
+        "forma-di-alola": [
+            "Roccia",
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "golem": "300.0 kg",
+        "forma-di-alola": "316.0 kg"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "shroodle": {
+            "primary": "Agiltecnica",
+            "secondary": "Arraffalesto",
+            "hidden": "Burla"
+        }
+    },
+    "curiosities": [
+        "Shroodle e la sua evoluzione Grafaiai sono i primi Pokémon ad avere la combinazione di tipi Veleno/Normale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/shroodle.mp3",
+    "dex_entries": {
+        "shroodle": {
+            "scarlet": "È di natura mite, ma se qualcuno lo fa arrabbiare lo morde con gli incisivi impregnati di un veleno paralizzante.",
+            "violet": "Per evitare che i nemici si avvicinino al suo territorio, disegna figure intorno alla tana con un liquido velenoso dall'odore pungente."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "shroodle",
+    "generation": 9,
+    "height": {
+        "shroodle": "0.2 m"
+    },
+    "id": 944,
+    "name": "Shroodle",
+    "name_origin": "Shroodle potrebbe essere una combinazione di shrew , shrewd , e doodle . ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shroodle",
+    "shape": "quadrupede",
+    "specie": "Pokémon Velentopo",
+    "sprites": {
+        "shroodle": {
+            "default": "https://media.pokemoncentral.it/wiki/8/81/Homem0944.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d7/Homemsh0944.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/fd/Artwork0944_SV.png"
+    },
+    "stats": {
+        "shroodle": {
+            "hp": 40,
+            "atk": 65,
+            "def": 35,
+            "spa": 40,
+            "spd": 35,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "shroodle": 290
+    },
+    "types": {
+        "shroodle": [
+            "Veleno",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "shroodle": "0.7 kg"
+    }
+}

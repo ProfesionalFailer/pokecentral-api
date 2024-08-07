@@ -1,0 +1,81 @@
+{
+    "abilities": {
+        "ampharos": {
+            "primary": "Statico",
+            "hidden": "Più"
+        },
+        "megaampharos": {
+            "primary": "Rompiforma"
+        }
+    },
+    "curiosities": [
+        "Ampharos condivide il nome della specie con Lanturn: entrambi sono noti come Pokémon Luce.",
+        "Nonostante tutte le sue voci nel Pokédex parlino della sua coda luminosa, Ampharos non è in grado di imparare Codadiluce. Questo è probabilmente perché il nome originale della mossa è ほたるび che significa \"luce di lucciola\", e quindi non è attribuibile ad un Pokémon come Ampharos.\n\tTuttavia è strano che Manaphy e Xurkitree siano in grado di apprendere Codadiluce pur non essendo basati su lucciole.",
+        "Tuttavia è strano che Manaphy e Xurkitree siano in grado di apprendere Codadiluce pur non essendo basati su lucciole.",
+        "I versi di Ampharos e di Heracross sono molto simili, anche se hanno alcune piccole differenze.",
+        "Ampharos è l'unico Pokémon ad avere la stessa descrizione del Pokédex in Pokémon X e Y."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ampharos.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Mostro",
+        "Campo"
+    ],
+    "flat_name": "ampharos",
+    "generation": 2,
+    "height": {
+        "ampharos": "1.4 m"
+    },
+    "id": 181,
+    "name": "Ampharos",
+    "name_origin": "Il suo nome è una combinazione di ampere , e pharos, la parola greca per faro. Il nome giapponese di Ampharos deriva probabilmente da 電流 denryū, corrente elettrica, o da 電竜 denryū, drago elettrico, e potrebbe includere 電球 denkyū, lampadina. ",
+    "origin": "È con ogni probabilità basato su una pecora senza lana. La sua andatura bipede lo rende simile ad un canguro, e il suo collo lungo unito ai suoi colori ad una giraffa. Il suo aspetto ricorda anche un faro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ampharos",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Luce",
+    "sprites": {
+        "ampharos": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9f/Homem0181.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/50/Homemsh0181.png"
+        },
+        "megaampharos": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ee/Homem0181M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0181M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a2/Artwork0181_HGSS.png"
+    },
+    "stats": {
+        "ampharos": {
+            "hp": 90,
+            "atk": 75,
+            "def": 85,
+            "spa": 115,
+            "spd": 90,
+            "spe": 55
+        },
+        "megaampharos": {
+            "hp": 90,
+            "atk": 95,
+            "def": 105,
+            "spa": 165,
+            "spd": 110,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "ampharos": 510,
+        "megaampharos": 610
+    },
+    "types": {
+        "ampharos": [
+            "Elettro"
+        ],
+        "megaampharos": [
+            "Drago",
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "ampharos": "61.5 kg"
+    }
+}

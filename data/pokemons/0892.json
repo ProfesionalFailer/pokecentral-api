@@ -1,0 +1,95 @@
+{
+    "abilities": {
+        "urshifu": {
+            "primary": "Pugni Invisibili"
+        }
+    },
+    "curiosities": [
+        "Urshifu è l'unico Pokémon leggendario che possiede una forma Gigamax e di conseguenza è anche l'unico Pokémon leggendario che può utilizzare una mossa Gigamax.\n\tÈ anche l'unico Pokémon con più di una forma Gigamax e di conseguenza è l'unico Pokémon che può utilizzare più di una mossa Gigamax.",
+        "È anche l'unico Pokémon con più di una forma Gigamax e di conseguenza è l'unico Pokémon che può utilizzare più di una mossa Gigamax.",
+        "Urshifu, la sua pre-evoluzione Kubfu, Heatran e Terapagos sono gli unici Pokémon leggendari che possono essere di entrambi i sessi.",
+        "È stato annunciato il 9 gennaio 2020 durante un Pokémon Direct.",
+        "Come da lui stesso confermato, Yusuke Ohmura s'è occupato della progettazione di Kubfu ed Urshifu."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/urshifu.mp3",
+    "dex_entries": {
+        "stile-singolcolpo": {
+            "sword": "Il suo credo è sconfiggere l'avversario con un colpo solo. Si lancia sul nemico e lo colpisce con un pugno potenziato al massimo dall'allenamento.",
+            "shield": "Vive nelle zone montuose di una regione lontana. Corre sulle pareti dei dirupi, allenando gli arti inferiori e perfezionando le sue mosse."
+        },
+        "stile-pluricolpo": {
+            "sword": "Si dice che abbia ideato il suo stile di lotta ispirandosi alla corrente del fiume, a volte impetuosa, a volte placida.",
+            "shield": "Il suo credo è sconfiggere l'avversario a suon di colpi. Sferra raffiche di attacchi che si abbattono sul nemico come un flusso d'acqua continuo."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "urshifu",
+    "generation": 8,
+    "height": {
+        "urshifu": "1.9 m",
+        "urshifu-gigamax-": "> 26.0 m"
+    },
+    "id": 892,
+    "name": "Urshifu",
+    "name_origin": "Urshifu potrebbe essere una combinazione di ursus, orso in latino e shifu, maestro in cinese. Wulaosu potrebbe essere una combinazione di wushu e 老師 / 老师 lǎoshī, maestro in cinese, e probabilmente ウラー urā, \"urrà\", e 押忍 osu, un'interazione utilizzata nelle arti marziali giapponesi. ",
+    "origin": "Urshifu potrebbe essere basato su un orso della luna e un lottatore di wushu. Il tipo Acqua dello Stile Pluricolpo potrebbe essere un riferimento alla frase \"sii come l'acqua\" di Bruce Lee. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Urshifu",
+    "shape": "bipedi",
+    "specie": "Pokémon Kung Fu",
+    "sprites": {
+        "stile-singolcolpo": {
+            "default": "https://media.pokemoncentral.it/wiki/9/91/Homem0892.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0892.png"
+        },
+        "urshifu-gigamax-(stile-singolcolpo)": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b2/Homem0892Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homemsh0892Gi.png"
+        },
+        "stile-pluricolpo": {
+            "default": "https://media.pokemoncentral.it/wiki/7/70/Homem0892P.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5c/Homemsh0892P.png"
+        },
+        "urshifu-gigamax-(stile-pluricolpo)": {
+            "default": "https://media.pokemoncentral.it/wiki/1/13/Homem0892PGi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fa/Homemsh0892PGi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/10/Artwork0892_SpSc.png"
+    },
+    "stats": {
+        "urshifu": {
+            "hp": 100,
+            "atk": 130,
+            "def": 100,
+            "spa": 63,
+            "spd": 60,
+            "spe": 97
+        }
+    },
+    "stats_sum": {
+        "urshifu": 550
+    },
+    "types": {
+        "stile-singolcolpo": [
+            "Buio",
+            "Lotta"
+        ],
+        "urshifu-gigamax-(stile-singolcolpo)": [
+            "Buio",
+            "Lotta"
+        ],
+        "stile-pluricolpo": [
+            "Acqua",
+            "Lotta"
+        ],
+        "urshifu-gigamax-(stile-pluricolpo)": [
+            "Acqua",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "urshifu": "105.0 kg",
+        "urshifu-gigamax-": "???.? kg"
+    }
+}

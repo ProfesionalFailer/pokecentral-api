@@ -1,0 +1,106 @@
+{
+    "abilities": {
+        "abomasnow": {
+            "primary": "Scendineve",
+            "hidden": "Antisuono"
+        },
+        "megaabomasnow": {
+            "primary": "Scendineve"
+        }
+    },
+    "curiosities": [
+        "Abomasnow è il primo Pokémon secondo l'ordine alfabetico.",
+        "Abomasnow, insieme alla sua pre-evoluzione Snover, è l'unico Pokémon di doppio tipo Erba/Ghiaccio.\n\tQuesta combinazione di tipi unica rende lui e la sua pre-evoluzione due dei sei Pokémon con più debolezze, essendo debole a ben sette tipi diversi.",
+        "Questa combinazione di tipi unica rende lui e la sua pre-evoluzione due dei sei Pokémon con più debolezze, essendo debole a ben sette tipi diversi.",
+        "Abomasnow è uno dei Pokémon con più debolezze, ben 7."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/abomasnow.mp3",
+    "dex_entries": {
+        "abomasnow": {
+            "diamond": "Crea bufere di neve sui monti ricoperti da nevi perenni. È l'abominevole essere delle nevi.",
+            "pearl": "Crea bufere che ricoprono di neve ampissime aree. È noto anche come “Mostro dei ghiacci”.",
+            "platinum": "Appare quando sbocciano i fiori invernali. Quando i petali cadono si ritira in luoghi sconosciuti.",
+            "heartgold": "Vive nella pace delle cime montuose tra le nevi eterne: scatena bufere di neve e poi si nasconde.",
+            "soulsilver": "Vive nella pace delle cime montuose tra le nevi eterne: scatena bufere di neve e poi si nasconde.",
+            "black": "Appare quando sbocciano i fiori invernali. Quando i petali cadono si ritira in luoghi sconosciuti.",
+            "white": "Appare quando sbocciano i fiori invernali. Quando i petali cadono si ritira in luoghi sconosciuti.",
+            "black-2": "Appare quando sbocciano i fiori invernali. Quando i petali cadono si ritira in luoghi sconosciuti.",
+            "white-2": "Appare quando sbocciano i fiori invernali. Quando i petali cadono si ritira in luoghi sconosciuti.",
+            "x": "Crea bufere che ricoprono di neve ampissime aree. È noto anche come \"Mostro dei ghiacci\".",
+            "y": "Vive nella pace delle cime montuose tra le nevi eterne: scatena bufere di neve e poi si nasconde.",
+            "omega-ruby": "Crea bufere che ricoprono di neve ampissime aree. È noto anche come \"Mostro dei ghiacci\".",
+            "alpha-sapphire": "Vive nella pace delle cime montuose tra le nevi eterne: scatena bufere di neve e poi si nasconde.",
+            "sword": "Agitando le grosse braccia come dei martelli scaccia i gruppi di Darumaka che prendono di mira gli Snover.",
+            "shield": "Scatena bufere di neve. Se scuote il suo grosso corpo, imbianca il terreno circostante in un attimo.",
+            "brilliant-diamond": "Crea tormente sui monti ricoperti da nevi perenni. È l'abominevole uomo delle nevi.",
+            "shining-pearl": "Crea bufere che ricoprono di neve ampissime aree. È noto anche come \"mostro dei ghiacci\".",
+            "legends-arceus": "Coriaceo e atto a frantumare macigni con agio, mal sopporta le interazioni, preferendo un eremo montano ove sollazzarsi con la neve.",
+            "scarlet": "Vive nella pace delle cime montuose tra le nevi perenni. Si nasconde scatenando bufere di neve.",
+            "violet": "Appare da chissà dove quando sbocciano i fiori invernali, e non appena i loro petali cadono torna a nascondersi nel luogo da cui era venuto."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Erba"
+    ],
+    "flat_name": "abomasnow",
+    "generation": 4,
+    "height": {
+        "abomasnow": "2.2 m",
+        "megaabomasnow": "2.7 m"
+    },
+    "id": 460,
+    "name": "Abomasnow",
+    "name_origin": "Il suo nome deriva dall'abbreviazione inglese Abominable Snowman , un altro nome per indicare lo yeti. ",
+    "origin": "Abomasnow è basato sull'unione di una pianta sempreverde coperta di neve e uno yeti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Abomasnow",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Albergelo",
+    "sprites": {
+        "abomasnow": {
+            "default": "https://media.pokemoncentral.it/wiki/6/67/Homem0460.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/00/Homemsh0460.png"
+        },
+        "abomasnow-f": {
+            "default": "https://media.pokemoncentral.it/wiki/1/19/Homef0460.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/67/Homefsh0460.png"
+        },
+        "megaabomasnow": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0460M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/ff/Homemsh0460M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/be/Artwork0460_DP.png"
+    },
+    "stats": {
+        "abomasnow": {
+            "hp": 90,
+            "atk": 92,
+            "def": 75,
+            "spa": 92,
+            "spd": 85,
+            "spe": 60
+        },
+        "megaabomasnow": {
+            "hp": 90,
+            "atk": 132,
+            "def": 105,
+            "spa": 132,
+            "spd": 105,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "abomasnow": 494,
+        "megaabomasnow": 594
+    },
+    "types": {
+        "abomasnow": [
+            "Ghiaccio",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "abomasnow": "135.5 kg",
+        "megaabomasnow": "185.0 kg"
+    }
+}

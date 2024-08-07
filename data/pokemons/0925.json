@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "maushold": {
+            "primary": "Amicoscudo",
+            "secondary": "Guancegonfie",
+            "hidden": "Tecnico"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Normale",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Veloce",
+        "Pokémon di colore Bianco",
+        "Pokémon dalla sagoma n. 11",
+        "Pokémon di sesso sconosciuto",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon di Gruppo Uova Magico",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 470"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/maushold.mp3",
+    "dex_entries": {
+        "trifamiglia": {
+            "scarlet": "Costruiscono una grande tana divisa in più stanze a seconda dell'uso: una per dormire, una per mangiare e così via.",
+            "violet": "Il più piccolo è comparso dal nulla da un giorno all'altro. Vivono assieme come una famiglia, ma la relazione tra i tre componenti non è chiara."
+        },
+        "quadrifamiglia": {
+            "scarlet": "A un certo punto si sono aggiunti due piccoli. Potrebbero essere una famiglia, ma non si sa con sicurezza.",
+            "violet": "I due individui grandi lottano proteggendo i piccoli, ma in caso di avversari più forti partecipa l’intero gruppo."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Magico"
+    ],
+    "flat_name": "maushold",
+    "generation": 9,
+    "height": {
+        "maushold": "0.3 m"
+    },
+    "id": 925,
+    "name": "Maushold",
+    "name_origin": "Maushold deriva da maus, , household  e hold , in riferimento a come le varie unità si tengono per mano. ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Maushold",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Famiglia",
+    "sprites": {
+        "quadrifamiglia": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3b/Homem0925.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d0/Homemsh0925.png"
+        },
+        "trifamiglia": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2d/Homem0925T.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/25/Homemsh0925T.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c7/Artwork0925_SV.png"
+    },
+    "stats": {
+        "maushold": {
+            "hp": 74,
+            "atk": 75,
+            "def": 70,
+            "spa": 65,
+            "spd": 75,
+            "spe": 111
+        }
+    },
+    "stats_sum": {
+        "maushold": 470
+    },
+    "types": {
+        "maushold": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "trifamiglia": "2.3 kg",
+        "quadrifamiglia": "2.8 kg"
+    }
+}

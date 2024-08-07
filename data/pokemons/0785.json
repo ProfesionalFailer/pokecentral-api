@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "tapu-koko": {
+            "primary": "Elettrogenesi",
+            "hidden": "Telepatia"
+        }
+    },
+    "curiosities": [
+        "Tapu Koko è uno dei Pokémon con caratteri non alfabetici nel nome.\n\tLui e gli altri Pokémon protettori sono gli unici Pokémon ad avere un punto mediano all'interno del proprio nome giapponese.",
+        "Lui e gli altri Pokémon protettori sono gli unici Pokémon ad avere un punto mediano all'interno del proprio nome giapponese.",
+        "Tapu Koko condivide la sua categoria con Tapu Lele, Tapu Bulu e Tapu Fini. Sono tutti conosciuti come Pokémon Nume Locale.",
+        "Tapu Koko ha la più alta statistica base di Velocità fra tutti i Pokémon di tipo Folletto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tapukoko.mp3",
+    "dex_entries": {
+        "tapu-koko": {
+            "sun": "Protettore di Mele Mele, è un Pokémon dalla vivace curiosità. Attira a sé le nuvole temporalesche per assorbirne la carica elettrica.",
+            "moon": "Confonde i nemici con i suoi spostamenti improvvisi. È tremendamente irascibile, ma quando si arrabbia si scorda subito il perché.",
+            "ultra-sun": "È considerato un nume protettore ma, se si offende, monta su tutte le furie e non esita ad attaccare Pokémon ed esseri umani.",
+            "ultra-moon": "Protettore di Mele Mele, è in grado di controllare i fulmini. La sua grande curiosità a volte lo spinge a mostrarsi agli esseri umani."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "tapu-koko",
+    "generation": 7,
+    "height": {
+        "tapu-koko": "1.8 m"
+    },
+    "id": 785,
+    "name": "Tapu Koko",
+    "name_origin": "Tapu Koko potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e kokō, chicchirichì . Kapu-Kokeko potrebbe essere una combinazione di kapu, sacro o santo in hawaiano, e コケコッコー kokekokkō, l'onomatopea del verso del gallo. ",
+    "origin": "Tapu Koko potrebbe prendere ispirazione da Kūkaʻilimoku, dio della guerra hawaiano, e principalmente dal suo kinolau  del gallo, animale rappresentato dalla sua maschera somigliante ad un totem. Il suo colore ed il tipo Elettro derivano probabilmente dal fatto che in alchimia il giallo rappresenta l'aria, e quindi anche le tempeste di fulmini. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tapu_Koko",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Nume Locale",
+    "sprites": {
+        "tapu-koko": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cd/Homem0785.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0785.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0785_SL.png"
+    },
+    "stats": {
+        "tapu-koko": {
+            "hp": 70,
+            "atk": 115,
+            "def": 85,
+            "spa": 95,
+            "spd": 75,
+            "spe": 130
+        }
+    },
+    "stats_sum": {
+        "tapu-koko": 570
+    },
+    "types": {
+        "tapu-koko": [
+            "Elettro",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "tapu-koko": "20.5 kg"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "wugtrio": {
+            "primary": "Viscosità",
+            "secondary": "Paura",
+            "hidden": "Sabbiavelo"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Acqua",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Rosso",
+        "Pokémon dalla sagoma n. 05",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Acqua 3",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 425"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wugtrio.mp3",
+    "dex_entries": {
+        "wugtrio": {
+            "scarlet": "Dall'aspetto non si direbbe, ma ha un'indole feroce. Si stringe attorno alla preda col suo lungo corpo e la trascina nella sua tana.",
+            "violet": "È un Pokémon acquatico. Per un periodo, in passato, si è anche pensato che fosse una forma regionale di Dugtrio."
+        }
+    },
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "flat_name": "wugtrio",
+    "generation": 9,
+    "height": {
+        "wugtrio": "1.2 m"
+    },
+    "id": 961,
+    "name": "Wugtrio",
+    "name_origin": "Wugtrio potrebbe essere una combinazione delle parole water  o wiggle  e Dugtrio. Umitrio potrebbe essere una combinazione di 海 umi, mare, e Dugtrio. ",
+    "origin": "Wugtrio potrebbe essere ispirato a pesci marini come gronghi e murene che vivono tra le rocce e tra le quali cercano le prede. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wugtrio",
+    "shape": "testa e base",
+    "specie": "Pokémon Grongo",
+    "sprites": {
+        "wugtrio": {
+            "default": "https://media.pokemoncentral.it/wiki/8/85/Homem0961.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/24/Homemsh0961.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0961_SV.png"
+    },
+    "stats": {
+        "wugtrio": {
+            "hp": 35,
+            "atk": 100,
+            "def": 50,
+            "spa": 50,
+            "spd": 70,
+            "spe": 120
+        }
+    },
+    "stats_sum": {
+        "wugtrio": 425
+    },
+    "types": {
+        "wugtrio": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "wugtrio": "5.4 kg"
+    }
+}

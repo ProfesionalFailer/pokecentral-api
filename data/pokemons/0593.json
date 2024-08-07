@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "jellicent": {
+            "primary": "Assorbacqua",
+            "secondary": "Corpofunesto",
+            "hidden": "Umidità"
+        }
+    },
+    "curiosities": [
+        "Jellicent e Frillish, prima dell'ottava generazione, erano gli unici Pokémon possedenti il doppio tipo Acqua/Spettro.",
+        "Nonostante esista l'artwork del Dream World della forma femminile di Jellicent, durante il Global Link userà l'artwork della forma maschile indipendentemente dal sesso.",
+        "Nonostante il fatto che le specie di Jellicent e la sua pre-evoluzione siano Pokémon fluttuanti, e che Frillish sia stato visto galleggiare nell'anime, non hanno l'abilità Levitazione e non possono apprendere Magnetascesa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/jellicent.mp3",
+    "dex_entries": {
+        "jellicent": {
+            "black": "Affonda le sfortunate navi che si avventurano nel suo territorio e consuma l'energia dell'equipaggio.",
+            "white": "Avanza espellendo con forza l'acqua di mare risucchiata nel corpo. È ghiotto di energia vitale.",
+            "black-2": "È composto per lo più di acqua marina. Dicono che si sia costruito un castello coi relitti delle navi che ha affondato.",
+            "white-2": "È composto per lo più di acqua marina. Dicono che si sia costruito un castello coi relitti delle navi che ha affondato.",
+            "x": "È composto per lo più di acqua marina. Dicono che si sia costruito un castello coi relitti delle navi che ha affondato.",
+            "y": "Affonda le sfortunate navi che si avventurano nel suo territorio e consuma l'energia dell'equipaggio.",
+            "omega-ruby": "È composto per lo più di acqua marina. Dicono che si sia costruito un castello coi relitti delle navi che ha affondato.",
+            "alpha-sapphire": "Affonda le sfortunate navi che si avventurano nel suo territorio e consuma l'energia dell'equipaggio.",
+            "ultra-sun": "Lo si incontra spesso vicino a navi da crociera e petroliere in cerca di nuove prede da trascinare via con sé.",
+            "ultra-moon": "È molto temuto dai pescatori. Si dice che trascini in mare le prede per rubarne l'energia vitale."
+        },
+        "maschio": {
+            "sword": "Il suo corpo è costituito per la maggior parte dagli stessi elementi che compongono l'acqua marina. Si serve dei relitti delle navi come tana.",
+            "shield": "Nelle notti di luna piena emergono in massa, rendendosi visibili sulla superficie del mare, in attesa di prede."
+        },
+        "femmina": {
+            "sword": "Il suo corpo è costituito per la maggior parte dagli stessi elementi che compongono l'acqua marina. Si serve dei relitti delle navi come tana.",
+            "shield": "La corona sulla testa si gonfia e aumenta di volume man mano che il Pokémon assorbe energia vitale dagli esseri viventi."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "jellicent",
+    "generation": 5,
+    "height": {
+        "jellicent": "2.2 m"
+    },
+    "id": 593,
+    "name": "Jellicent",
+    "name_origin": "Il suo nome deriva dalle parole inglesi jellyfish  e magnificent  o translucent . ",
+    "origin": "Jellicent è ispirato probabilmente al Nurahrihyon, uno yokai che appare con l'aspetto di una medusa demoniaca o come un uomo simile ad una medusa vestito raffinatamente o con abiti regali, ed è possibile che abbia tratto ispirazione anche dal Kurage no Hinotama, un tipo di medusa simile al fuoco fatuo. Il suo aspetto è chiaramente ispirato a quello delle meduse, in particolare le meduse corona, e a agli abbigliamenti monarchici in stile vittoriano; la forma maschile basa il suo design sugli abiti di un re, mentre la forma femminile su quelli di una regina. La somiglianza con la Medusa Luna  ha ispirato il tipo Spettro di questo Pokémon, mentre il fatto che catturi gli umani come sua preda può ispirarsi alle meduse della classe Cubozoa, chiamate anche cubomeduse, le quali sono altamente velenose e possono facilmente uccidere gli uomini. Tuttavia, i due tentacoli più lunghi sono più simili a quelli dei calamari che a quelli delle meduse. Jellicent possiede anche tratti in cumune con alcuni mostri marini come il Kraken, in quanto si dice che affondino navi e si nutrano dell'equipaggio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Jellicent",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Fluttuante",
+    "sprites": {
+        "jellicent": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0593.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/05/Homemsh0593.png"
+        },
+        "jellicent-f": {
+            "default": "https://media.pokemoncentral.it/wiki/0/08/Homef0593.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ed/Homefsh0593.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/40/Artwork0593_NB.png"
+    },
+    "stats": {
+        "jellicent": {
+            "hp": 100,
+            "atk": 60,
+            "def": 70,
+            "spa": 85,
+            "spd": 105,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "jellicent": 480
+    },
+    "types": {
+        "jellicent": [
+            "Spettro",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "jellicent": "135 kg"
+    }
+}

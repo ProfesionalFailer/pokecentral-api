@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "armaldo": {
+            "primary": "Lottascudo",
+            "hidden": "Nuotovelox"
+        }
+    },
+    "curiosities": [
+        "Armaldo, la sua pre-evoluzione Anorith, Azurill, Castform, Stunfisk e Dragalge sono gli unici Pokémon non di tipo Acqua che imparano Pistolacqua aumentando di livello.\n\tDi questi, solo Anorith, Armaldo stesso e Stunfisk non sono legati in alcun modo, se non per l'ispirazione di base, al tipo Acqua.",
+        "Di questi, solo Anorith, Armaldo stesso e Stunfisk non sono legati in alcun modo, se non per l'ispirazione di base, al tipo Acqua.",
+        "Armaldo e la sua pre-evoluzione sono gli unici Pokémon che possono avere Nuotovelox come abilità con una debolezza al tipo Acqua.",
+        "Un fossile di Armaldo è conservato nel Museo di Zefiropoli a Unima."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/armaldo.mp3",
+    "dex_entries": {
+        "armaldo": {
+            "ruby": "La dura corazza di ARMALDO protegge da ogni tipo di attacco. I suoi due enormi artigli sono in grado di estendersi e contrarsi. Inoltre sono dotati di una potenza tale da spaccare una lastra in acciaio.",
+            "sapphire": "ARMALDO è una specie di POKéMON estinta già in tempi antichi. Si dice che camminasse sugli arti inferiori per affrontare meglio il tipo di vita che conduceva sulla terraferma.",
+            "emerald": "ARMALDO vive solitamente sulla terraferma. Quando caccia, tuttavia, si tuffa nell'oceano e nuota con le sue due grandi ali.",
+            "firered": "Ha un corpo molto resistente, protetto da un duro guscio. Infilza le prede con gli artigli per poi cibarsene.",
+            "leafgreen": "Ha un corpo molto resistente, protetto da un duro guscio. Infilza le prede con gli artigli per poi cibarsene.",
+            "diamond": "Dopo essersi evoluto, è andato a vivere a riva. Tutto il suo corpo è rivestito da un’armatura robusta.",
+            "pearl": "Dopo essersi evoluto, è andato a vivere a riva. Tutto il suo corpo è rivestito da un’armatura robusta.",
+            "platinum": "Dopo essersi evoluto, è andato a vivere a riva. Tutto il suo corpo è rivestito da un’armatura robusta.",
+            "heartgold": "Cattura il nemico infilzandolo con gli enormi artigli retrattili. È rivestito di una robusta corazza.",
+            "soulsilver": "Cattura il nemico infilzandolo con gli enormi artigli retrattili. È rivestito di una robusta corazza.",
+            "black": "Dopo essersi evoluto, è andato a vivere a riva. Tutto il suo corpo è rivestito da un'armatura robusta.",
+            "white": "Dopo essersi evoluto, è andato a vivere a riva. Tutto il suo corpo è rivestito da un'armatura robusta.",
+            "black-2": "Dopo essersi evoluto, è andato a vivere a riva. Tutto il suo corpo è rivestito da un'armatura robusta.",
+            "white-2": "Dopo essersi evoluto, è andato a vivere a riva. Tutto il suo corpo è rivestito da un'armatura robusta.",
+            "x": "Cattura il nemico infilzandolo con gli enormi artigli retrattili. È rivestito di una robusta corazza.",
+            "y": "Ha un corpo molto resistente, protetto da un duro guscio. Infilza le prede con gli artigli per poi cibarsene.",
+            "omega-ruby": "La dura corazza di Armaldo lo protegge da ogni tipo di attacco. I suoi due enormi artigli sono in grado di estendersi e contrarsi. Inoltre sono dotati di una potenza tale da spaccare una lastra in acciaio.",
+            "alpha-sapphire": "Armaldo è una specie di Pokémon estinta già in tempi antichi. Si dice che camminasse sugli arti inferiori per affrontare meglio il tipo di vita che conduceva sulla terraferma.",
+            "ultra-sun": "Viveva sulla terraferma e si tuffava in mare per cacciare le prede. La sua arma migliore erano gli artigli affilati.",
+            "ultra-moon": "Originariamente viveva in mare, ma poi si spostò sulla terraferma. Si è scoperto che è l’antenato di alcuni Pokémon Coleottero.",
+            "sword": "Dopo l'evoluzione, è salito sulla terraferma. La parte inferiore del corpo si è rafforzata, rendendo i colpi della sua coda devastanti.",
+            "shield": "Vive sulla terraferma, ma è un abile nuotatore. Si tuffa in mare alla ricerca di prede, che abbatte con i suoi artigli affilati.",
+            "brilliant-diamond": "Dopo essersi evoluto è andato a vivere sulla terraferma. Il suo corpo è interamente ricoperto da una corazza robusta.",
+            "shining-pearl": "Dopo essersi evoluto è andato a vivere sulla terraferma. Il suo corpo è interamente ricoperto da una corazza robusta."
+        }
+    },
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "flat_name": "armaldo",
+    "generation": 3,
+    "height": {
+        "armaldo": "1.5 m"
+    },
+    "id": 348,
+    "name": "Armaldo",
+    "name_origin": "Armaldo può essere una corruzione di armor, corazza, armatura. Potrebbe anche derivare da Anomalocaris o da armadillo. ",
+    "origin": "Sembra essere basato sul Anomalocaris, un animale estinto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Armaldo",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Piastre",
+    "sprites": {
+        "armaldo": {
+            "default": "https://media.pokemoncentral.it/wiki/2/26/Homem0348.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/18/Homemsh0348.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6e/Artwork0348_RZ.png"
+    },
+    "stats": {
+        "armaldo": {
+            "hp": 75,
+            "atk": 125,
+            "def": 100,
+            "spa": 70,
+            "spd": 80,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "armaldo": 495
+    },
+    "types": {
+        "armaldo": [
+            "Roccia",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "armaldo": "68.2 kg"
+    }
+}

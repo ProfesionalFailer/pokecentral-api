@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "solrock": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "Solrock condivide la categoria con Lunatone. Sono entrambi il Pokémon Meteorite.",
+        "Solrock è l'unico Pokémon non di tipo Fuoco ad essere in grado di imparare Turbofuoco."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/solrock.mp3",
+    "dex_entries": {
+        "solrock": {
+            "ruby": "SOLROCK è una nuova specie di POKéMON che pare sia precipitata dallo spazio. Fluttua a mezz'aria spostandosi silenziosamente. In lotta emana una luce estremamente intensa.",
+            "sapphire": "La luce solare è la fonte primaria dell'energia di SOLROCK. Pare che riesca a carpire i pensieri degli altri. Il POKéMON emana un calore intenso roteando vorticosamente.",
+            "emerald": "SOLROCK attinge energia dalla luce solare. Nelle belle giornate, è possibile vedere questi POKéMON schierati con la faccia in direzione del sole per assorbirne i raggi.",
+            "firered": "Durante il giorno assorbe la luce solare. Sempre perfettamente inespressivo, può leggere nel pensiero del nemico.",
+            "leafgreen": "Durante il giorno assorbe la luce solare. Sempre perfettamente inespressivo, può leggere nel pensiero del nemico.",
+            "diamond": "Nuova specie di Pokémon che si dice provenga dal sole. Emana luce roteando vorticosamente.",
+            "pearl": "Nuova specie di Pokémon che si dice provenga dal sole. Emana luce roteando vorticosamente.",
+            "platinum": "Nuova specie di Pokémon che si dice provenga dal sole. Emana luce roteando vorticosamente.",
+            "heartgold": "Ruota vorticosamente su se stesso per emanare una luce abbagliante che acceca il nemico.",
+            "soulsilver": "Ruota vorticosamente su se stesso per emanare una luce abbagliante che acceca il nemico.",
+            "black": "Nuova specie di Pokémon che si dice provenga dal sole. Emana luce roteando vorticosamente.",
+            "white": "Nuova specie di Pokémon che si dice provenga dal sole. Emana luce roteando vorticosamente.",
+            "black-2": "L'energia solare è la fonte della sua potenza, per cui è più forte di giorno. Emana luce quando ruota su se stesso.",
+            "white-2": "L'energia solare è la fonte della sua potenza, per cui è più forte di giorno. Emana luce quando ruota su se stesso.",
+            "x": "L'energia solare è la fonte della sua potenza, per cui è più forte di giorno. Emana luce quando ruota su se stesso.",
+            "y": "Durante il giorno assorbe la luce solare. Sempre perfettamente inespressivo, può leggere nel pensiero del nemico.",
+            "omega-ruby": "Solrock è una nuova specie di Pokémon che pare sia precipitata dallo spazio. Fluttua a mezz'aria spostandosi silenziosamente. In lotta emana una luce estremamente intensa.",
+            "alpha-sapphire": "La luce solare è la fonte primaria dell'energia di Solrock. Pare che riesca a carpire i pensieri degli altri. Il Pokémon emana un calore intenso roteando vorticosamente",
+            "sword": "Ruota velocemente su se stesso per emanare una luce abbagliante che acceca il nemico.",
+            "shield": "L'energia solare è la fonte della sua potenza, per cui è più forte di giorno. Emana luce quando ruota su se stesso.",
+            "brilliant-diamond": "Nuova specie di Pokémon che si dice provenga dal sole. Emana luce roteando.",
+            "shining-pearl": "Nuova specie di Pokémon che si dice provenga dal sole. Emana luce roteando."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "solrock",
+    "generation": 3,
+    "height": {
+        "solrock": "1.2 m"
+    },
+    "id": 338,
+    "name": "Solrock",
+    "name_origin": "Il nome deriva probabilmente dalla parola latina sol  e da quella inglese rock . ",
+    "origin": "È basato sul Sole e sul meteorite. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Solrock",
+    "shape": "testa",
+    "specie": "Pokémon Meteorite",
+    "sprites": {
+        "solrock": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2b/Homem0338.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0338.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a3/Artwork0338_RZ.png"
+    },
+    "stats": {
+        "solrock": {
+            "hp": 90,
+            "atk": 95,
+            "def": 85,
+            "spa": 55,
+            "spd": 65,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "solrock": 460
+    },
+    "types": {
+        "solrock": [
+            "Roccia",
+            "Psico"
+        ]
+    },
+    "weight": {
+        "solrock": "154.0 kg"
+    }
+}

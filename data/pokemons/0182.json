@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "bellossom": {
+            "primary": "Clorofilla",
+            "hidden": "Curacuore"
+        }
+    },
+    "curiosities": [
+        "Bellossom è più basso e leggero di entrambe le sue pre-evoluzioni. Gli altri Pokémon con questa caratteristica sono Porygon2 e Dragonite.",
+        "Originariamente il corpo di Bellossom non sarebbe dovuto essere verde ma blu, per farlo somigliare alle sue pre-evoluzioni.",
+        "È l'unico Pokémon di tipo singolo che si evolve da uno di doppio tipo.",
+        "Già dalla sua introduzione, il Pokédex citava la sua danza allo scopo di invocare il sole, nonostante ciò, è in grado di imparare Giornodisole tramite livello solo dalla quarta generazione in poi.",
+        "Bellossom condivide la sua categoria con Vileplume e Bellsprout. Sono tutti conosciuti come Pokémon Fiore.",
+        "In seconda generazione, Bellossom non poteva imparare Fangobomba tramite MT36, nonostante le sue pre-evoluzioni potessero. Questo è stato risolto in terza generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bellossom.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "bellossom",
+    "generation": 2,
+    "height": {
+        "bellossom": "0.4 m"
+    },
+    "id": 182,
+    "name": "Bellossom",
+    "name_origin": "Il suo nome deriva dall'italiano o spagnolo bella, dal francese belle , o dall'inglese bell  e blossom . ",
+    "origin": "Il suo aspetto ricorda una danzatrice hawaiana. La sua struttura corporea è molto simile a una campana, possibile riferimento alle campanule. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bellossom",
+    "shape": "bipedi",
+    "specie": "Pokémon Fiore",
+    "sprites": {
+        "bellossom": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0a/Homem0182.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/29/Homemsh0182.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/71/Artwork0182_RFVF.png"
+    },
+    "stats": {
+        "bellossom": {
+            "hp": 75,
+            "atk": 80,
+            "def": 95,
+            "spa": 90,
+            "spd": 100,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "bellossom": 490
+    },
+    "types": {
+        "bellossom": [
+            "Erba"
+        ]
+    },
+    "weight": {
+        "bellossom": "5.8 kg"
+    }
+}

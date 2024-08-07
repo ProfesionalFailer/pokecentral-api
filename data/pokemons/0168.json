@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "ariados": {
+            "primary": "Aiutinsetto",
+            "secondary": "Insonnia",
+            "hidden": "Cecchino"
+        }
+    },
+    "curiosities": [
+        "Ariados è uno dei pochi Pokémon che hanno lo stesso sprite sia in Oro che in Argento.",
+        "Nonostante il suo nome e il suo aspetto ricordano un ragno, Ariados non ha le 8 zampe necessarie per essere un vero aracnide.",
+        "Ariados e la sua pre-evoluzione Spinarak sono gli unici Pokémon di tipo Coleottero che possono imparare Ombra Notturna.",
+        "Nelle versioni di Diamante, Perla e Platino, Ariados, Banette e Ledian possono essere trovati selvatici, al contrario delle loro pre-evoluzioni. L'unico modo per ottenere queste ultime è tramite allevamento, nonostante non siano collegati con nessun Pokémon baby.",
+        "Il suo nome nell'anime è stato pronunciato sia ar-ia-dos che er-ia-dos.",
+        "Nonostante Ariados possieda delle zanne molto simili a quelle che vengono mostrate nell’animazione di Velenodenti della sesta generazione, non può imparare questa mossa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ariados.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "ariados",
+    "generation": 2,
+    "height": {
+        "ariados": "1.1 m"
+    },
+    "id": 168,
+    "name": "Ariados",
+    "name_origin": "Il nome di Ariados deriva probabilmente da aracnide, ragno in latino o Arianna, Aracne. Dos potrebbe derivare dal giapponese 脅す odosu, minacciare. Come alternativa, dos potrebbe riferirsi alla parola spagnola dos che significa due, usata forse perché il Pokémon ha due pungiglioni, o perché è la seconda forma della sua linea evolutiva. ",
+    "origin": "L'aspetto di Ariados sembra basarsi sul Myrmarachne formicaria, ma ricorda due yōkai: l'ushi-oni e lo tsuchigumo, chiamato anche Yatsukahagi, che di solito appare come un ragno gigante. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ariados",
+    "shape": "insettoide",
+    "specie": "Pokémon Lungazampa",
+    "sprites": {
+        "ariados": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2c/Homem0168.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f7/Homemsh0168.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/21/Artwork0168_HGSS.png"
+    },
+    "stats": {
+        "ariados": {
+            "hp": 70,
+            "atk": 90,
+            "def": 70,
+            "spa": 60,
+            "spd": 70,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "ariados": 400
+    },
+    "types": {
+        "ariados": [
+            "Veleno",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "ariados": "33.5 kg"
+    }
+}

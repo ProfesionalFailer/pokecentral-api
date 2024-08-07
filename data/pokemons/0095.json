@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "onix": {
+            "primary": "Testadura",
+            "secondary": "Vigore",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Onix è il Pokémon più lungo e più pesante non evoluto.",
+        "Di tutti i Pokémon che si possono evolvere, Onix ha la difesa base più alta.",
+        "La famiglia di Onix è l'unica in cui entrambi i membri possono essere ottenuti tramite scambi interni al gioco. Però ciò è possibile solo in Oro HeartGold e Argento SoulSilver in cui il giocatore può scambiare Bellsprout per un Onix a Violapoli e qualunque Pokémon per Steelix a Olivinopoli.",
+        "Lo strumento Rallentocoda assomiglia alla parte finale della coda di un Onix."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/onix.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "onix",
+    "generation": 1,
+    "height": {
+        "onix": "8.8 m"
+    },
+    "id": 95,
+    "name": "Onix",
+    "name_origin": "Il nome Onix deriva dalla parola onice, un minerale, in inglese onyx, ma potrebbe anche derivare da helix . Il suo nome giapponese potrebbe essere la combinazione di 岩 iwa, roccia, e スネ−ク snake, serpente. ",
+    "origin": "Onix è basato su un serpente ed un lombrico. Molto probabilmente potrebbe anche essere basato sul Wyrm, un tipo di drago senza arti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Onix",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Serpesasso",
+    "sprites": {
+        "onix": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1a/Homem0095.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0095.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f1/Artwork0095_RFVF.png"
+    },
+    "stats": {
+        "onix": {
+            "hp": 35,
+            "atk": 45,
+            "def": 160,
+            "spa": 30,
+            "spd": 45,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "onix": 385
+    },
+    "types": {
+        "onix": [
+            "Roccia",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "onix": "210.0 kg"
+    }
+}

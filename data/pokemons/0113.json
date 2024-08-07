@@ -1,0 +1,59 @@
+{
+    "abilities": {
+        "chansey": {
+            "primary": "Alternacura",
+            "secondary": "Leggiadro",
+            "hidden": "Curacuore"
+        }
+    },
+    "curiosities": [
+        "Il nome originario di Chansey era \"Lucky\".",
+        "Chansey è il primo Pokémon nel Pokédex Nazionale a essere correlato con l'evoluzione da due generazioni diverse dalla sua.",
+        "Chansey condivide lo stesso nome di specie con Exeggcute. Sono entrambi conosciuti come Pokémon Uovo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/chansey.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Magico"
+    ],
+    "flat_name": "chansey",
+    "generation": 1,
+    "height": {
+        "chansey": "1.1 m"
+    },
+    "id": 113,
+    "name": "Chansey",
+    "name_origin": "Chansey è una corruzione di \"chance\" e \"chancy\", riferito ad una rarità e/o alla possibilità di una cattura di successo. ",
+    "origin": "La sua tendenza a portare le uova in un marsupio la associa ad un marsupiale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chansey",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Uovo",
+    "sprites": {
+        "chansey": {
+            "default": "https://media.pokemoncentral.it/wiki/4/47/Homef0113.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/35/Homefsh0113.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b1/Artwork0113_RFVF.png"
+    },
+    "stats": {
+        "chansey": {
+            "hp": 250,
+            "atk": 5,
+            "def": 5,
+            "spa": 35,
+            "spd": 105,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "chansey": 450
+    },
+    "types": {
+        "chansey": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "chansey": "34.6 kg"
+    }
+}

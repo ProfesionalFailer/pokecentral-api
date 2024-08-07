@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "pawmi": {
+            "primary": "Statico",
+            "secondary": "Alternacura",
+            "hidden": "Ferropugno"
+        }
+    },
+    "curiosities": [
+        "Pawmi condivide con Cleffa il record per il nome giapponese più corto tra tutti i Pokémon , essendo scritto solo con due kanji.",
+        "Pawmi e Pawmo condividono la loro categoria con Rattata, Raticate, Sandshrew, Sandslash, Pikachu e Raichu. Tutti e otto sono noti come Pokémon Topo.\n\tSono anche gli unici tra questi a non essere stati introdotti in prima generazione e a non avere una forma di Alola nella loro linea evolutiva.",
+        "Sono anche gli unici tra questi a non essere stati introdotti in prima generazione e a non avere una forma di Alola nella loro linea evolutiva."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pawmi.mp3",
+    "dex_entries": {
+        "pawmi": {
+            "scarlet": "Le sacche elettriche sulle sue guance non si sono sviluppate del tutto e per generare energia deve sfregarle vigorosamente con le zampe anteriori.",
+            "violet": "I cuscinetti delle zampe anteriori sono organi che scaricano elettricità. Quando riesce a stare sulle zampe posteriori può lanciare attacchi elettrici."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "pawmi",
+    "generation": 9,
+    "height": {
+        "pawmi": "0.3 m"
+    },
+    "id": 921,
+    "name": "Pawmi",
+    "name_origin": "Pawmi potrebbe derivare dalla combinazione delle parole paw, che in inglese significa zampa, palm, inteso come il palmo della mano, e 鼠 nezumi, che in giapponese significa topo. ",
+    "origin": "Pawmi sembra essere basato su diversi roditori, tra cui la marmotta delle Alpi, il cincillà e la viscaccia di montagna. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pawmi",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Topo",
+    "sprites": {
+        "pawmi": {
+            "default": "https://media.pokemoncentral.it/wiki/0/09/Homem0921.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9b/Homemsh0921.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bd/Artwork0921_SV.png"
+    },
+    "stats": {
+        "pawmi": {
+            "hp": 45,
+            "atk": 50,
+            "def": 20,
+            "spa": 40,
+            "spd": 25,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "pawmi": 240
+    },
+    "types": {
+        "pawmi": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "pawmi": "2.5 kg"
+    }
+}

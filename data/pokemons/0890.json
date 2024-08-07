@@ -1,0 +1,96 @@
+{
+    "abilities": {
+        "eternatus": {
+            "primary": "Pressione"
+        }
+    },
+    "curiosities": [
+        "Eternatus è l'unico Pokémon con il totale delle statistiche base pari a 690.",
+        "Eternatus ha la più alta somma di statistiche base tra i Pokémon di tipo Drago e di tipo Veleno .",
+        "Eternatus è il primo Pokémon leggendario di tipo Veleno .",
+        "Eternatus è il Pokémon più pesante di tipo Veleno e Drago.",
+        "Nonostante possegga una forma alternativa simile ad una forma Gigamax, non è in grado di dynamaxizzarsi o gigamaxizzarsi.",
+        "Eternatus in forma Dynamax Infinito:\n\tHa i PS più alti in assoluto, a pari merito con Blissey.\n\tHa la Difesa e la Difesa Speciale più alte in assoluto tra tutti i Pokémon.\n\tHa le statistiche base totali più alte tra tutti i Pokémon, 1125.\n\tQuesto lo rende l'unico Pokémon ad avere la somma di statistiche a quattro cifre.\n\tHa un tema inutilizzato nel gioco.",
+        "Ha i PS più alti in assoluto, a pari merito con Blissey.",
+        "Ha la Difesa e la Difesa Speciale più alte in assoluto tra tutti i Pokémon.",
+        "Ha le statistiche base totali più alte tra tutti i Pokémon, 1125.\n\tQuesto lo rende l'unico Pokémon ad avere la somma di statistiche a quattro cifre.",
+        "Questo lo rende l'unico Pokémon ad avere la somma di statistiche a quattro cifre.",
+        "Ha un tema inutilizzato nel gioco.",
+        "Eternatus è il primo Pokémon leggendario che può essere catturato con qualsiasi Poké Ball senza che questa fallisca la cattura.\n\tSe il giocatore non ha una Poké Ball quando viene richiesto di catturare Eternatus, ne compare improvvisamente una nella Borsa.",
+        "Se il giocatore non ha una Poké Ball quando viene richiesto di catturare Eternatus, ne compare improvvisamente una nella Borsa.",
+        "Rispetto agli altri Pokémon presenti nella serie animata, Eternatus è stato animato in 3D piuttosto che in 2D.",
+        "Nell'anime, Rose è colui che ha dato un nome a Eternatus. Inizialmente condivideva il suo nome con il fenomeno della Notte Oscura.",
+        "Eternatus è il primo Pokémon leggendario catturato da un personaggio principale dell'anime.",
+        "Eternatus è l'unico Pokémon ad avere tre temi di lotta diversi."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/eternatus.mp3",
+    "dex_entries": {
+        "eternatus": {
+            "sword": "Si alimenta attraverso il nucleo sul suo petto, con cui assorbe l'energia emanata dalla terra della regione di Galar.",
+            "shield": "È giunto dallo spazio dentro un meteorite caduto 20.000 anni fa. Sembra essere in qualche modo collegato al mistero del fenomeno Dynamax."
+        },
+        "dynamax-infinito": {
+            "sword": "Ha assunto questa forma dopo aver assorbito energia da tutta la regione di Galar per opera di Rose ed è in costante sovraccarico energetico.",
+            "shield": "L'energia senza fine emessa dal suo nucleo cresciuto a dismisura distorce lo spazio-tempo tutto intorno."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "eternatus",
+    "generation": 8,
+    "height": {
+        "eternatus": "20.0 m",
+        "dynamax-infinito": "100.0 m"
+    },
+    "id": 890,
+    "name": "Eternatus",
+    "name_origin": "Eternatus potrebbe essere la combinazione di eternal, eterno, aeternatus, reso immortale in latino, e Thanatus, translitterazione latina per Tanato. Mugendina potrebbe essere la combinazione di 無限大 mugendai, infinito, ダイマックス Daimax, Dynamax, e probabilmente dynamic, dinamico. ",
+    "origin": "Eternatus potrebbe essere basato su diversi giganti della mitologia e della letteratura. La sua natura extra-terrestre e il suo aspetto simile ad un drago potrebbero essere un riferimento a Uther Pendragon, il padre di Re Artù, che acquisì il suo epiteto dopo aver visto una cometa a forma di drago. Il suo aspetto ricorda anche dei resti scheletrici di un drago, con la cassa toracica a forma di cannone. La forma Dynamax Infinito potrebbe trarre ispirazione da un drago biblico a sette teste, comparso nel libro dell'Apocalisse, che lanciò un terzo di tutte le stelle sulla Terra con l'aiuto dei nefilim, i giganti ebraici. L'evento avrebbe portato quindi la fine dei tempi. Questa considerazione potrebbe essere anche l'origine delle Desiostelle e della Notte Oscura. Eternatus forma Dynamax Infinito potrebbe essere basato anche su Shesha, il re dei nāga nella mitologia indù, che di solito è rappresentato come un serpente gigante a forma di spirale, con mille teste  e in grado di sputare veleno e fuoco. Shesha porta la divinità Visnù nelle sue spirali in modo simile al modo in cui Eternatus Dynamax Infinito porta il suo nucleo. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Eternatus",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Gigante",
+    "sprites": {
+        "eternatus": {
+            "default": "https://media.pokemoncentral.it/wiki/1/17/Homem0890.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a2/Homemsh0890.png"
+        },
+        "dynamax-infinito": {
+            "default": "https://media.pokemoncentral.it/wiki/5/54/Homem0890D.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/66/Homemsh0890D.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1c/Artwork0890_SpSc.png"
+    },
+    "stats": {
+        "eternatus": {
+            "hp": 140,
+            "atk": 85,
+            "def": 95,
+            "spa": 145,
+            "spd": 95,
+            "spe": 130
+        },
+        "dynamax-infinito": {
+            "hp": 255,
+            "atk": 115,
+            "def": 250,
+            "spa": 125,
+            "spd": 250,
+            "spe": 130
+        }
+    },
+    "stats_sum": {
+        "eternatus": 690,
+        "dynamax-infinito": 1125
+    },
+    "types": {
+        "eternatus": [
+            "Veleno",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "eternatus": "950.0 kg",
+        "dynamax-infinito": "???.? kg"
+    }
+}

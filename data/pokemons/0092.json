@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "gastly": {
+            "primary": "Levitazione"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Rosso e Blu beta il nome del prototipo di Gastly era \"Spirit\".",
+        "Fino alla nona generazione, Gastly e la sua famiglia evolutiva avevano una combinazione di tipi unica.",
+        "Con un peso pari a 0,1 kg, Gastly è, insieme a Haunter, Flabébé, Cosmog e Kartana, il Pokémon più leggero.",
+        "Anche se non ha mani visibili, Gastly può imparare tutti i pugni elementali, sia come mosse Uovo sia come tutor. Ciò è possibile forse perché le sue evoluzioni hanno le mani.\n\tTuttavia, in La torre della Paura, si è visto che è in grado di creare mani con il gas che ha intorno al corpo.",
+        "Tuttavia, in La torre della Paura, si è visto che è in grado di creare mani con il gas che ha intorno al corpo.",
+        "Gastly:\n\tCondivide con Weedle la Difesa più bassa tra tutti i Pokémon di tipo Veleno.\n\tCondivide con Dreepy la Difesa più bassa tra tutti i Pokémon di tipo Spettro.\n\tCondivide con Venipede i PS più bassi tra tutti i Pokémon di tipo Veleno.",
+        "Condivide con Weedle la Difesa più bassa tra tutti i Pokémon di tipo Veleno.",
+        "Condivide con Dreepy la Difesa più bassa tra tutti i Pokémon di tipo Spettro.",
+        "Condivide con Venipede i PS più bassi tra tutti i Pokémon di tipo Veleno."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gastly.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "gastly",
+    "generation": 1,
+    "height": {
+        "gastly": "1.3 m"
+    },
+    "id": 92,
+    "name": "Gastly",
+    "name_origin": "Il nome sembra essere una combinazione tra le parole gas e ghastly . ",
+    "origin": "Gastly sembra essere basato su un fantasma o spirito tipico dei cartoni animati o forse al Fuoco Fatuo. Sembra anche essere ispirato ai miti giapponesi degli Yokai Sogen Bi, ovvero una testa di monaco decapitata condannata a vagare in eterno sulla Terra mentre è divorata dal fuoco. Il suo tipo Veleno potrebbe essere un riferimento ai gas velenosi o inquinati. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gastly",
+    "shape": "testa",
+    "specie": "Pokémon Gas",
+    "sprites": {
+        "gastly": {
+            "default": "https://media.pokemoncentral.it/wiki/0/04/Homem0092.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/10/Homemsh0092.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f6/Artwork0092_RFVF.png"
+    },
+    "stats": {
+        "gastly": {
+            "hp": 30,
+            "atk": 35,
+            "def": 30,
+            "spa": 100,
+            "spd": 35,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "gastly": 310
+    },
+    "types": {
+        "gastly": [
+            "Veleno",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "gastly": "0.1 kg"
+    }
+}

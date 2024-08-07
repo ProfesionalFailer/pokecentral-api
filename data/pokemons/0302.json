@@ -1,0 +1,80 @@
+{
+    "abilities": {
+        "sableye": {
+            "primary": "Sguardofermo",
+            "secondary": "Rallentatore",
+            "hidden": "Burla"
+        },
+        "megasableye": {
+            "primary": "Magispecchio"
+        }
+    },
+    "curiosities": [
+        "Sableye sembra essere la controparte di Mawile. Entrambi sono Pokémon esclusivi in base alla versione in Rubino e Zaffiro, Oro HeartGold e Argento SoulSilver, Rubino Omega e Zaffiro Alpha, Spada e Scudo e Diamante Lucente e Perla Splendente. Entrambi hanno inoltre forme megaevolute e le stesse statistiche base totali, oltre agli stessi PS e la stessa Velocità.",
+        "Sableye condivide la sua categoria con Murkrow. Sono entrambi conosciuti come Pokémon Oscurità.",
+        "MegaSableye ha la Velocità base più bassa tra tutti i Pokémon di tipo Buio.",
+        "Prima dell'introduzione del tipo Folletto in sesta generazione, Sableye, insieme a Spiritomb, non aveva debolezze in condizioni normali.",
+        "Sableye è uno dei pochi Pokémon il cui sprite animato in Smeraldo non ha alcuna animazione di trans-locazione , rimanendo sul posto durante l'animazione.\n\tSableye e Kecleon sono gli unici Pokémon il cui sprite in Smeraldo subisce alterazioni durante l'animazione; nel caso di Sableye il suo corpo viene coperto da un velo d'ombra.",
+        "Sableye e Kecleon sono gli unici Pokémon il cui sprite in Smeraldo subisce alterazioni durante l'animazione; nel caso di Sableye il suo corpo viene coperto da un velo d'ombra."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sableye.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "sableye",
+    "generation": 3,
+    "height": {
+        "sableye": "0.5 m"
+    },
+    "id": 302,
+    "name": "Sableye",
+    "name_origin": "Il suo nome deriva dalla combinazione delle parole inglesi sable  e eye , potrebbe anche essere un gioco di parole di \"able-eyed\" . ",
+    "origin": "Sableye è una stilizzazione del Goblin di Hopkinsville, una presunta creatura aliena che è stata descritta con occhi brillanti, piccole gambe, braccia artigliate e con movimenti ondeggianti . I Goblin di Hopkinsville sono particolarmente famosi in Giappone dove hanno fatto varie apparizioni negli anime e nei videogiochi.\nGli zaffiri, i rubini e gli smeraldi che ha nel corpo, potrebbero essere un riferimento ai giochi di terza generazione, dove il Pokémon ha fatto il suo debutto. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sableye",
+    "shape": "bipedi",
+    "specie": "Pokémon Oscurità",
+    "sprites": {
+        "sableye": {
+            "default": "https://media.pokemoncentral.it/wiki/4/40/Homem0302.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/89/Homemsh0302.png"
+        },
+        "megasableye": {
+            "default": "https://media.pokemoncentral.it/wiki/1/13/Homem0302M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4f/Homemsh0302M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/02/Artwork0302_RZ.png"
+    },
+    "stats": {
+        "sableye": {
+            "hp": 50,
+            "atk": 75,
+            "def": 75,
+            "spa": 65,
+            "spd": 65,
+            "spe": 50
+        },
+        "megasableye": {
+            "hp": 50,
+            "atk": 85,
+            "def": 125,
+            "spa": 85,
+            "spd": 115,
+            "spe": 20
+        }
+    },
+    "stats_sum": {
+        "sableye": 380,
+        "megasableye": 480
+    },
+    "types": {
+        "sableye": [
+            "Buio",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "sableye": "11.0 kg",
+        "megasableye": "161.0 kg"
+    }
+}

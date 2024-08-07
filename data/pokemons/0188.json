@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "skiploom": {
+            "primary": "Clorofilla",
+            "secondary": "Fogliamanto",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "In seconda generazione Hoppip, Skiploom e Jumpluff avevano una combinazione di tipi unica.",
+        "Il colore normale di Skiploom e il colore cromatico sono il contrario della sua pre-evoluzione, Hoppip.",
+        "Skiploom è l'ultimo Pokémon menzionato nel Pokérap GS.",
+        "Il nome di Skiploom, della sua pre-evoluzione e della sua evoluzione è stato dato da Nob Ogasawara."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/skiploom.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Magico",
+        "Erba"
+    ],
+    "flat_name": "skiploom",
+    "generation": 2,
+    "height": {
+        "skiploom": "0.6 m"
+    },
+    "id": 188,
+    "name": "Skiploom",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi skip  e bloom .\nIl suo nome giapponese, ポポッコ Popokko, potrebbe derivare dalla parola 蒲公英 tanpopo . ",
+    "origin": "Skiploom sembra basarsi su una lampadina e un fiore, in particolare un dente di leone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Skiploom",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Gramigna",
+    "sprites": {
+        "skiploom": {
+            "default": "https://media.pokemoncentral.it/wiki/5/57/Homem0188.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0d/Homemsh0188.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/aa/Artwork0188_HGSS.png"
+    },
+    "stats": {
+        "skiploom": {
+            "hp": 55,
+            "atk": 45,
+            "def": 50,
+            "spa": 45,
+            "spd": 65,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "skiploom": 340
+    },
+    "types": {
+        "skiploom": [
+            "Volante",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "skiploom": "1.0 kg"
+    }
+}

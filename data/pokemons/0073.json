@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "tentacruel": {
+            "primary": "Corpochiaro",
+            "secondary": "Melma",
+            "hidden": "Copripioggia"
+        }
+    },
+    "curiosities": [
+        "Nonostante venga descritto con 80 tentacoli, non se ne vedono più di 10 negli sprite.",
+        "Il nome beta di Tentacruel era Man O War.",
+        "Tentacruel è uno dei pochi Pokémon ad avere tre sprite diversi nei tre giochi di seconda generazione.",
+        "Tentacruel appare in tutti i Pokédex regionali eccetto quello di Unima.",
+        "Tentacruel e Tentacool sono gli unici Pokémon non asessuati ad avere l'abilità Corpochiaro.",
+        "Nell'anime Misty definisce le sfere che Tentacool e Tentacruel hanno sulla testa \"le perle rosse dell'oceano\".",
+        "In prima generazione Tentacool e Tentacruel avevano una combinazione di tipi unica."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tentacruel.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 3"
+    ],
+    "flat_name": "tentacruel",
+    "generation": 1,
+    "height": {
+        "tentacruel": "1.6 m"
+    },
+    "id": 73,
+    "name": "Tentacruel",
+    "name_origin": "Il nome Tentacruel è una combinazione di tentacle  e cruel  o ruler  ",
+    "origin": "Tentacruel è basato principalmente sulla Caravella portoghese, che non è una medusa, ma un insieme di polipi, tuttavia fisicamente ha più cose in comune con le piovre. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tentacruel",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Medusa",
+    "sprites": {
+        "tentacruel": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cd/Homem0073.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homemsh0073.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1d/Artwork0073_RFVF.png"
+    },
+    "stats": {
+        "tentacruel": {
+            "hp": 80,
+            "atk": 70,
+            "def": 65,
+            "spa": 80,
+            "spd": 120,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "tentacruel": 515
+    },
+    "types": {
+        "tentacruel": [
+            "Veleno",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "tentacruel": "55.0 kg"
+    }
+}

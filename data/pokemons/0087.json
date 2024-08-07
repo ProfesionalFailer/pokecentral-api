@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "dewgong": {
+            "primary": "Grassospesso",
+            "secondary": "Idratazione",
+            "hidden": "Corpogelo"
+        }
+    },
+    "curiosities": [
+        "In origine, il nome inglese di Dewgong era \"Manaty\".",
+        "Dewgong è il primo Pokémon Ghiaccio secondo l'ordine del Pokédex Nazionale.",
+        "Dewgong e la linea evolutiva di Spheal sono i soli Pokémon ad avere una \"tripla resistenza\", grazie all'abilità Grassospesso.",
+        "Nello sprite di Pokémon Smeraldo, Dewgong possiede una lingua blu, mentre in tutti gli altri sprite è rossa.",
+        "Seel e Dewgong condividono la stessa categoria con Popplio: tutti e tre sono conosciuti come Pokémon otaria."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dewgong.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "flat_name": "dewgong",
+    "generation": 1,
+    "height": {
+        "dewgong": "1.7 m"
+    },
+    "id": 87,
+    "name": "Dewgong",
+    "name_origin": "Dewgong è l'unione delle parole inglesi dew e dugong. ",
+    "origin": "Dewgong si basa sull'otaria, sul dugongo e sulla sirena, in quanto i dugonghi in passato venivano scambiati dai marinai per delle sirene. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dewgong",
+    "shape": "pinne",
+    "specie": "Pokémon Otaria",
+    "sprites": {
+        "dewgong": {
+            "default": "https://media.pokemoncentral.it/wiki/6/69/Homem0087.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0087.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/eb/Artwork0087_RFVF.png"
+    },
+    "stats": {
+        "dewgong": {
+            "hp": 90,
+            "atk": 70,
+            "def": 80,
+            "spa": 70,
+            "spd": 95,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "dewgong": 475
+    },
+    "types": {
+        "dewgong": [
+            "Ghiaccio",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "dewgong": "120.0 kg"
+    }
+}

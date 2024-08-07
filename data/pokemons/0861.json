@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "grimmsnarl": {
+            "primary": "Burla",
+            "secondary": "Indagine",
+            "hidden": "Arraffalesto"
+        }
+    },
+    "curiosities": [
+        "Grimmsnarl e le sue pre-evoluzioni Impidimp e Morgrem sono i primi Pokémon a presentare la combinazione di tipi Buio/Folletto.",
+        "Le linee evolutive di Hatenna e di Impidimp possono essere considerate delle controparti. Grimmsnarl e Hatterene sono di ottava generazione ed entrambi si evolvono prima al livello 32 e successivamente al livello 42. La linea evolutiva di Impidimp è solamente di sesso maschile, mentre quella di Hatenna è solamente di sesso femminile. Gli stadi finali di entrambi i Pokémon sono di tipo Folletto, con la stessa esperienza base e lo stesso tasso di cattura; entrambi hanno anche la stessa somma delle statistiche base. Hanno una forma Gigamax, una mossa Gigamax e entrambi i Pokémon utilizzano i capelli come arma. In aggiunta, ambedue i Pokémon sono basati su esseri mitologici del floklore e della mitologia europea: Hatterene ricorda una strega, mentre Grimmsnarl un orco o un goblin. Infine, Hatterene e Grimmsnarl sono i Pokémon caratteristici rispettivamente di Mary e di Beet.",
+        "Grimmsnarl e le sue pre-evoluzioni Impidimp e Morgrem sono gli unici Pokémon che si trovano nel Gruppo Uova Magico e Umanoide."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/grimmsnarl.mp3",
+    "dex_entries": {
+        "grimmsnarl": {
+            "sword": "Se avvolge il corpo con i capelli, la sua potenza muscolare aumenta. La sua forza gli permette di immobilizzare a terra anche Machamp.",
+            "shield": "I sui capelli svolgono una funzione simile a quella delle fibre muscolari. Li può sciogliere e usare come dei tentacoli per avvinghiare il nemico.",
+            "scarlet": "Manovra la chioma come preferisce. Solitamente la tiene avvolta attorno al corpo per supportare i muscoli.",
+            "violet": "Vive nelle profondità dei boschi. Per quanto si sia evoluto in questa splendida forma, non ha perso il vizio di fare dispetti e cattiverie."
+        },
+        "grimmsnarl-gigamax": {
+            "sword": "Modifica la forma dei peli che ricoprono le sue gambe per sferrare calci a trivella in grado di creare enormi buchi nel suolo di Galar.",
+            "shield": "L'energia del fenomeno Gigamax ha infoltito i peli in tutto il suo corpo. Può superare con un salto anche i grattacieli più alti del mondo."
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Umanoide"
+    ],
+    "flat_name": "grimmsnarl",
+    "generation": 8,
+    "height": {
+        "grimmsnarl": "1.5 m",
+        "grimmsnarl-gigamax": "> 32.0 m"
+    },
+    "id": 861,
+    "name": "Grimmsnarl",
+    "name_origin": "Grimmsnarl potrebbe essere una combinazione di grim, lugubre, e snarl, smorfia. Grimmsnarl potrebbe prendere il nome anche dai fratelli Grimm, una coppia di fratelli che viaggiavano per l'Europa per raccogliere in un unico libro le informazioni sul folklore e le fiabe del continente. Assomiglia anche alle parole girmoire, grimorio, e Grímnismál, un poema mitologico dell'Edda poetica. Ohlonge potrebbe essere una combinazione di ogre, orco, e ロン毛 ronge, capelli lunghi. ",
+    "origin": "Grimmsnarl potrebbe essere basato su un orco, su un troll e su un oni, tutte delle grandi e malevoli creature umanoidi del folklore e della mitologia che sono comunemente rappresentate con apparenze grottesche e molti capelli. Come le sue pre-evoluzioni, anche Grimmsnarl condivide alcune somiglianze con un goblin. Il fatto che la sua forza provenga dai suoi capelli potrebbe essere un riferimento a Sansone del libro dei Giudici. Considerando la sua correlazione con Hatterene, potrebbe essere ispirato anche sull'uomo nero, una creatura immaginaria utilizzata in alcune culture europee per spaventare i bambini che non vogliono dormire o stare zitti. Inoltre, sembra ricordare alcune rappresentazioni di Grendel, un mostro gigante del poema epico anglosassone Beowulf che viene descritto come una \"creatura dell'oscurità\" e che è noto per la sua immensa forza. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Grimmsnarl",
+    "shape": "bipedi",
+    "specie": "Pokémon Granfisico",
+    "sprites": {
+        "grimmsnarl": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f1/Homem0861.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/58/Homemsh0861.png"
+        },
+        "grimmsnarl-gigamax": {
+            "default": "https://media.pokemoncentral.it/wiki/3/32/Homem0861Gi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0861Gi.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e9/Artwork0861_SpSc.png"
+    },
+    "stats": {
+        "grimmsnarl": {
+            "hp": 95,
+            "atk": 120,
+            "def": 65,
+            "spa": 95,
+            "spd": 75,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "grimmsnarl": 510
+    },
+    "types": {
+        "grimmsnarl": [
+            "Buio",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "grimmsnarl": "61.0 kg",
+        "grimmsnarl-gigamax": "??? kg"
+    }
+}

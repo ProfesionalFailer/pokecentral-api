@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "doublade": {
+            "primary": "Nullodifesa"
+        }
+    },
+    "curiosities": [
+        "Doublade è l'unico Pokémon con un totale di statistiche base pari a 448."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/doublade.mp3",
+    "dex_entries": {
+        "doublade": {
+            "x": "Sdoppiatesi con l'evoluzione, le due parti comunicano telepaticamente per lanciarsi in un attacco coordinato.",
+            "y": "I fendenti vorticosi e velocissimi delle due spade possono mettere in ginocchio anche gli spadaccini più esperti.",
+            "omega-ruby": "Sdoppiatesi con l'evoluzione, le due parti comunicano telepaticamente per lanciarsi in un attacco coordinato.",
+            "alpha-sapphire": "I fendenti vorticosi e velocissimi delle due spade possono mettere in ginocchio anche gli spadaccini più esperti.",
+            "sword": "Si è duplicato con l'evoluzione. Minaccia l'avversario con il suono metallico che produce sfregando le sue due lame.",
+            "shield": "Le due spade abbattono la preda alternando mosse di attacco e di difesa a un ritmo vertiginoso."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "doublade",
+    "generation": 6,
+    "height": {
+        "doublade": "0.8 m"
+    },
+    "id": 680,
+    "name": "Doublade",
+    "name_origin": "Doublade viene da termini inglesi double  e blade . Nidangir viene da 二, due, 断, recidere e 斬る, uccidere con una lama. ",
+    "origin": "Doublade sembra essere basato sul concetto di oggetto magico posseduto e completamente senziente, il fatto che è spesso mostrato come due spade incrociate e che questi due corpi sono tenuti insieme da uno scudo, potrebbe essere basato anche su uno stemma. Il fatto che Honedge, il suo stadio base, inizia come una comune spada, può rimandare ad un mito del Bushido riguardo alle katane, secondo cui esse siano possedute dalle anime dei samurai e che attacchino di loro spontanea volontà. Vista la forma dell'elsa sembra che le spade di Doublade siano ispirate alle spade spatha, claymore o la spada jian, anche se il panno sembra essere ispirato a quelli usati nelle sciabole che assomigliano a degli arti pensili, tale teoria è rafforzata anche dal fatto che lo scudo è formato dai due foderi insieme. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Doublade",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Armabianca",
+    "sprites": {
+        "doublade": {
+            "default": "https://media.pokemoncentral.it/wiki/a/a9/Homem0680.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0680.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6a/Artwork0680_XY.png"
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 59,
+            "atk": 110,
+            "def": 150,
+            "spa": 45,
+            "spd": 49,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 448
+    },
+    "types": {
+        "doublade": [
+            "Spettro",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "doublade": "4.5 kg"
+    }
+}

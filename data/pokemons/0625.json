@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "bisharp": {
+            "primary": "Agonismo",
+            "secondary": "Forza Interiore",
+            "hidden": "Pressione"
+        }
+    },
+    "curiosities": [
+        "I membri della linea evolutiva di Bisharp sono gli unici Pokémon ad avere il doppio tipo Buio/Acciaio."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bisharp.mp3",
+    "dex_entries": {
+        "bisharp": {
+            "black": "Controlla gruppi di Pawniard. Lotta spietatamente per il comando, ma se perde deve abbandonare il gruppo.",
+            "white": "Accompagnato da molti Pawniard, blocca le prede grazie alla forza del gruppo. È Bisharp a dare il colpo di grazia.",
+            "black-2": "È molto crudele. Lascia che un gruppo di Pawniard attacchi la preda e, quando è ferita e non può più muoversi, la finisce.",
+            "white-2": "È molto crudele. Lascia che un gruppo di Pawniard attacchi la preda e, quando è ferita e non può più muoversi, la finisce.",
+            "x": "È molto crudele. Lascia che un gruppo di Pawniard attacchi la preda e, quando è ferita e non può più muoversi, la finisce.",
+            "y": "Accompagnato da molti Pawniard, blocca le prede grazie alla forza del gruppo. È Bisharp a dare il colpo di grazia.",
+            "omega-ruby": "È molto crudele. Lascia che un gruppo di Pawniard attacchi la preda e, quando è ferita e non può più muoversi, la finisce.",
+            "alpha-sapphire": "Accompagnato da molti Pawniard, blocca le prede grazie alla forza del gruppo. È Bisharp a dare il colpo di grazia.",
+            "ultra-sun": "Per quanto sia forte, se la lama sulla sua testa viene intaccata deve rinunciare al comando del gruppo.",
+            "ultra-moon": "Comanda gruppi di Pawniard. Quando attacca il nemico per dargli il colpo di grazia, non lascia trasparire alcuna emozione.",
+            "sword": "È sempre accompagnato da molti Pawniard. Per evitare che si verifichino ammutinamenti, li tiene sempre sotto stretta sorveglianza.",
+            "shield": "Affronta spesso Fraxure in violenti scontri per il controllo dei territori in cui si trovano le pietre che usa per affilare le sue lame.",
+            "scarlet": "Comanda dei gruppi di Pawniard. I gruppi che risultano perdenti nelle lotte per il territorio vengono assorbiti dai vincitori.",
+            "violet": "Fa a pezzi l’avversario senza alcuna pietà con le affilatissime lame al centro del suo corpo. Usa ogni mezzo pur di vincere."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "bisharp",
+    "generation": 5,
+    "height": {
+        "bisharp": "1.6 m"
+    },
+    "id": 625,
+    "name": "Bisharp",
+    "name_origin": "Il suo nome deriva dai termini inglesi bishop  e sharp . Inoltre potrebbe derivare dal prefisso bi- , o da bisec . Il suo nome giapponese, キリキザン Kirikizan, deriva invece dai verbi giapponesi 切り刻む kirikizamu  e 斬 zan . ",
+    "origin": "Si presume che Bisharp sia stato basato sugli alfieri degli scacchi: infatti Pawniard è basato su un pedone, che secondo il gioco degli scacchi può essere promosso in alfiere in caso riesca ad avanzare fino all'ottava traversa. Inoltre sembra ispirarsi a una capo di una banda di banditi, oltre che ai guerrieri samurai, oppure potrebbe prendere alcune caratteristiche dagli ashigaru, fanti medioevali giapponesi, o dai kaijin di alcune serie tv giapponesi, ovvero mostri umanoidi che si comportano come furfanti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bisharp",
+    "shape": "bipedi",
+    "specie": "Pokémon Fildilama",
+    "sprites": {
+        "bisharp": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ac/Homem0625.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0625.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/48/Artwork0625_NB.png"
+    },
+    "stats": {
+        "bisharp": {
+            "hp": 65,
+            "atk": 125,
+            "def": 100,
+            "spa": 60,
+            "spd": 70,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "bisharp": 490
+    },
+    "types": {
+        "bisharp": [
+            "Buio",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "bisharp": "70 kg"
+    }
+}

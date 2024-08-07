@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "delibird": {
+            "primary": "Spiritovivo",
+            "secondary": "Tuttafretta",
+            "hidden": "Insonnia"
+        }
+    },
+    "curiosities": [
+        "Delibird è uno dei pochi Pokémon che, nonostante possa imparare aumentando di livello meno di 4 mosse, può apprendere mosse MT.",
+        "È l'unico Pokémon non di tipo Acqua a poter apprendere Palla Gelo, nonostante Palla Gelo sia una mossa di tipo Ghiaccio.",
+        "Il Pokémon Ultimate Handbook afferma erroneamente che Delibird è un Pokémon leggendario.",
+        "Nonostante Delibird sia un Pokémon basato su un volatile, non è presente nel Gruppo Uova Volante. Condivide questa caratteristica con Torchic, Piplup e le loro rispettive evoluzioni.\n\tSia Delibird che la famiglia evolutiva di Piplup sono basati su dei pinguini.",
+        "Sia Delibird che la famiglia evolutiva di Piplup sono basati su dei pinguini.",
+        "L'abilità speciale di Delibird è Insonnia, nonostante abbia accesso normalmente a un'abilità con la stessa funzione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/delibird.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "flat_name": "delibird",
+    "generation": 2,
+    "height": {
+        "delibird": "0.9 m"
+    },
+    "id": 225,
+    "name": "Delibird",
+    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi delivery  e bird . Deli potrebbe derivare anche dal pigoscelide di Adelia. Pronunciando Delibird con la stessa inflessione di delivered  si ottiene un suono molto simile, rendendo la \"b\" e la \"v\" le uniche variazioni tra le due parole. ",
+    "origin": "È basato su un pinguino saltarocce, ma i suoi colori rosso e bianco, la tendenza di fare regali e la coda a forma di sacco lo rimandano a Babbo Natale, il comportamento ricorda anche la cicogna bianca. Potrebbe essere stato ispirato anche dai Fratercula, uccelli assomiglianti a pinguini capaci di volare. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Delibird",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Consegna",
+    "sprites": {
+        "delibird": {
+            "default": "https://media.pokemoncentral.it/wiki/9/90/Homem0225.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/07/Homemsh0225.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b4/Artwork0225_HGSS.png"
+    },
+    "stats": {
+        "delibird": {
+            "hp": 45,
+            "atk": 55,
+            "def": 45,
+            "spa": 65,
+            "spd": 45,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "delibird": 330
+    },
+    "types": {
+        "delibird": [
+            "Volante",
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "delibird": "16.0 kg"
+    }
+}

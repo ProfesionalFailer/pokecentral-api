@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "helioptile": {
+            "primary": "Pellearsa",
+            "secondary": "Sabbiavelo",
+            "hidden": "Solarpotere"
+        }
+    },
+    "curiosities": [
+        "Helioptile, Pancham, Fletchling e Gogoat sono i primi 4 Pokémon a comparire prima sui siti occidentali che su quello giapponese.",
+        "Helioptile, insieme alla sua evoluzione, è l'unico Pokémon possedente il doppio tipo Elettro/Normale.",
+        "È l'unico Pokémon ad evolversi tramite la Pietrasolare senza essere di tipo Erba.",
+        "Insieme alle linee evolutive di Litleo, Smoliv, Shroodle, Rattata di Alola e Zigzagoon di Galar e ad Indeedee, Ursaluna e Cyclizar ha il tipo Normale come tipo secondario.",
+        "Helioptile è l'unico Pokémon con un totale di statistiche base pari a 289."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/helioptile.mp3",
+    "dex_entries": {
+        "helioptile": {
+            "x": "Vive nei deserti. Può produrre energia elettrica sfruttando la luce solare e, grazie a essa, può sopravvivere anche senza mangiare.",
+            "y": "Le pieghe ai due lati della testa contengono cellule in grado di convertire la luce solare in energia elettrica.",
+            "omega-ruby": "Vive nei deserti. Può produrre energia elettrica sfruttando la luce solare e, grazie a essa, può sopravvivere anche senza mangiare.",
+            "alpha-sapphire": "Le pieghe ai due lati della testa contengono cellule in grado di convertire la luce solare in energia elettrica.",
+            "sword": "Distende le pieghe sulla testa per raccogliere la luce solare e produrre energia elettrica che usa per sferrare potenti mosse di tipo Elettro.",
+            "shield": "Possiede un organo con cui genera energia elettrica fotovoltaica. Se viene disturbato mentre la produce, si stressa e si indebolisce."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "flat_name": "helioptile",
+    "generation": 6,
+    "height": {
+        "helioptile": "0.5 m"
+    },
+    "id": 694,
+    "name": "Helioptile",
+    "name_origin": "Helioptile è una combinazione tra ἥλιος elio  e reptile . Erikiteru probabilmente è una combinazione tra elekiter e エリマキトカゲ erimaki tokage . ",
+    "origin": "Helioptile è basato su una lucertola o su un clamidosauro. Probabilmente è basato anche sulla salamandra pezzata che può fare la fotosintesi clorofilliana. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Helioptile",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Generatore",
+    "sprites": {
+        "helioptile": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9b/Homem0694.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/62/Homemsh0694.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a9/Artwork0694_XY.png"
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 44,
+            "atk": 38,
+            "def": 33,
+            "spa": 61,
+            "spd": 43,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 289
+    },
+    "types": {
+        "helioptile": [
+            "Elettro",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "helioptile": "6.0 kg"
+    }
+}

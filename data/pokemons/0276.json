@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "taillow": {
+            "primary": "Dentistretti",
+            "hidden": "Nervisaldi"
+        }
+    },
+    "curiosities": [
+        "Taillow ha esattamente le stesse statistiche di base di Wingull, con solo l'Attacco e l'Attacco Speciale scambiati.",
+        "Taillow, Starly e Pikipek sono alla pari con:\n\tSpearow, Hoothoot, Ledyba e Wingull per la statistica base di Difesa più bassa di tutti i Pokémon di tipo Volante.\n\tZubat e Combee per la statistica base di Attacco Speciale più bassa tra tutti i Pokémon di tipo Volante.\n\tWingull e Pidove per la statistica base di Difesa Speciale più bassa di tutti i Pokémon di tipo Volante.",
+        "Spearow, Hoothoot, Ledyba e Wingull per la statistica base di Difesa più bassa di tutti i Pokémon di tipo Volante.",
+        "Zubat e Combee per la statistica base di Attacco Speciale più bassa tra tutti i Pokémon di tipo Volante.",
+        "Wingull e Pidove per la statistica base di Difesa Speciale più bassa di tutti i Pokémon di tipo Volante."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/taillow.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "taillow",
+    "generation": 3,
+    "height": {
+        "taillow": "0.30 m"
+    },
+    "id": 276,
+    "name": "Taillow",
+    "name_origin": "\"Taillow\" può essere una combinazione delle parole \"tail\"  e \"swallow\" . \"Subame\" potrebbe essere una corruzione di 燕 tsubame . ",
+    "origin": "Taillow sembra essere basato su una rondine, in particolare sulla rondine comune o sulla rondine benvenuta. La colorazione verde della sua forma cromatica potrebbe essere un cenno alla rondine verdeviola. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Taillow",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Rondine",
+    "sprites": {
+        "taillow": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c1/Homem0276.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c3/Homemsh0276.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/61/Artwork0276_RZ.png"
+    },
+    "stats": {
+        "taillow": {
+            "hp": 40,
+            "atk": 55,
+            "def": 30,
+            "spa": 30,
+            "spd": 30,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "taillow": 270
+    },
+    "types": {
+        "taillow": [
+            "Volante",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "taillow": "2.3 kg"
+    }
+}

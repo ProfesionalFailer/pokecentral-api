@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "regieleki": {
+            "primary": "Transistor"
+        }
+    },
+    "curiosities": [
+        "Regieleki ha la Velocità base più alta in assoluto tra tutti i Pokémon.",
+        "Regieleki, insieme a Regice e Regirock è il Pokémon leggendario con la statistica singola più alta: ha infatti la Velocità di 200. Regice ha lo stesso valore di Difesa Speciale, mentre Regirock in Difesa.",
+        "Insieme a Regidrago, Regieleki è l'unico Pokémon leggendario introdotto in ottava generazione a non essere shiny locked in Pokémon Spada e Scudo.",
+        "Regieleki è il membro più piccolo tra i golem leggendari."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/regieleki.mp3",
+    "dex_entries": {
+        "regieleki": {
+            "sword": "È un agglomerato di energia elettrica. Si dice che rimuovere gli anelli che ha attorno al corpo liberi la sua potenza latente.",
+            "shield": "Il suo corpo è costituito interamente da un organo che produce energia elettrica. Fornisce corrente all'intera regione di Galar."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "regieleki",
+    "generation": 8,
+    "height": {
+        "regieleki": "1.2 m"
+    },
+    "id": 894,
+    "name": "Regieleki",
+    "name_origin": "Regieleki potrebbe essere una combinazione di regis, regale in latino, ed エレキ electric, elettrico. ",
+    "origin": "Regieleki potrebbe essere basato sui golem dei miti ebraici. Si dice che questi golem fossero servi di poteri superiori e che avessero delle scritte sulla testa. Quando i testi vengono rimossi, la creatura viene indebolita o addirittura portata alla morte. Regieleki potrebbe essere basato sul concetto di una carica elettrica trattenuta dall'isolamento elettrico. Nel complesso ricorda una lampadina. I golem leggendari possono avere come tema comune le epoche storiche, con Regieleki che rappresenta l'età moderna. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Regieleki",
+    "shape": "bipedi",
+    "specie": "Pokémon Elettrone",
+    "sprites": {
+        "regieleki": {
+            "default": "https://media.pokemoncentral.it/wiki/e/ee/Homem0894.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7e/Homemsh0894.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b0/Artwork0894_SpSc.png"
+    },
+    "stats": {
+        "regieleki": {
+            "hp": 80,
+            "atk": 100,
+            "def": 50,
+            "spa": 100,
+            "spd": 50,
+            "spe": 200
+        }
+    },
+    "stats_sum": {
+        "regieleki": 580
+    },
+    "types": {
+        "regieleki": [
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "regieleki": "145.0 kg"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "klinklang": {
+            "primary": "Più",
+            "secondary": "Meno",
+            "hidden": "Corpochiaro"
+        }
+    },
+    "curiosities": [
+        "Sebbene Klinklang sia di tipo Acciaio puro, impara più mosse di tipo Elettro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/klinklang.mp3",
+    "dex_entries": {
+        "klinklang": {
+            "black": "Il nucleo rosso serve da serbatoio di energia, che poi spara intorno a sé attraverso gli spuntoni.",
+            "white": "Facendo girare velocemente l'ingranaggio dotato del nucleo rosso, accumula una grande quantità di energia.",
+            "black-2": "L' ingranaggio con il nucleo rosso ruota e così fornisce all'ingranaggio più piccolo l'energia necessaria per attaccare.",
+            "white-2": "L' ingranaggio con il nucleo rosso ruota e così fornisce all'ingranaggio più piccolo l'energia necessaria per attaccare.",
+            "x": "Facendo girare velocemente l'ingranaggio dotato del nucleo rosso, accumula una grande quantità di energia.",
+            "y": "Il nucleo rosso serve da serbatoio di energia, che poi spara intorno a sé attraverso gli spuntoni.",
+            "omega-ruby": "Facendo girare velocemente l'ingranaggio dotato del nucleo rosso, accumula una grande quantità di energia.",
+            "alpha-sapphire": "Il nucleo rosso serve da serbatoio di energia, che poi spara intorno a sé attraverso gli spuntoni.",
+            "sword": "Emette una forte scarica elettrica dall'estremità dei suoi spuntoni. Il nucleo rosso contiene un'enorme quantità di energia.",
+            "shield": "I suoi tre ingranaggi girano ad altissima velocità. Quello con gli spuntoni, apparso dopo l'evoluzione, è inanimato."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "klinklang",
+    "generation": 5,
+    "height": {
+        "klinklang": "0.6 m"
+    },
+    "id": 601,
+    "name": "Klinklang",
+    "name_origin": "Klinklang deriva palesemente dall'unione dei nomi delle sue pre-evoluzioni, Klink e Klang, i quali a loro volta derivano dalle onomatopee clink e clang , e dall'inglese link . ",
+    "origin": "Klingklang è basato su degli ingranaggi a ruota cilindrica dritta concatenati tra loro, così da costituire un sistema di ingranaggi planetario e una coppia conica. La forma cromatica, potrebbe essere basata sul colore del rame. Il naso verde infatti corrisponde al colore assunto dal rame quando si ossida in alcuni composti come il carbonato rameico. Inoltre sembra ispirarsi alle macchine dal moto perpetuo, poiché, dal momento che un ingranaggio fa ruotare l'altro e viceversa, si crea una forza motrice continua, e non smette mai di girare. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Klinklang",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Ingranaggio",
+    "sprites": {
+        "klinklang": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0f/Homem0601.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0601.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0b/Artwork0601_NB.png"
+    },
+    "stats": {
+        "klinklang": {
+            "hp": 60,
+            "atk": 100,
+            "def": 115,
+            "spa": 70,
+            "spd": 85,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "klinklang": 520
+    },
+    "types": {
+        "klinklang": [
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "klinklang": "81.0 kg"
+    }
+}

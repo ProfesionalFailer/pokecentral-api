@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "baxcalibur": {
+            "primary": "Termoscambio",
+            "hidden": "Corpogelo"
+        }
+    },
+    "curiosities": [
+        "Baxcalibur e Kommo-o sono gli unici Pokémon pseudo-leggendari che non possono avere alcuna immunità."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/baxcalibur.mp3",
+    "dex_entries": {
+        "baxcalibur": {
+            "scarlet": "Emette dalla bocca un getto d'aria glaciale con cui può congelare all'istante anche del magma incandescente.",
+            "violet": "Si mette a testa in giù e soffia un vento gelido dalla bocca per spingersi contro il nemico e trafiggerlo con la lama della sua cresta dorsale."
+        }
+    },
+    "egg_groups": [
+        "Drago",
+        "Minerale"
+    ],
+    "flat_name": "baxcalibur",
+    "generation": 9,
+    "height": {
+        "baxcalibur": "2.1 m"
+    },
+    "id": 998,
+    "name": "Baxcalibur",
+    "name_origin": "Baxcalibur potrebbe essere una combinazione di back  ed Excalibur. ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Baxcalibur",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Gelodrago",
+    "sprites": {
+        "baxcalibur": {
+            "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0998.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/12/Homemsh0998.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e7/Artwork0998_SV.png"
+    },
+    "stats": {
+        "baxcalibur": {
+            "hp": 115,
+            "atk": 145,
+            "def": 92,
+            "spa": 75,
+            "spd": 86,
+            "spe": 87
+        }
+    },
+    "stats_sum": {
+        "baxcalibur": 600
+    },
+    "types": {
+        "baxcalibur": [
+            "Drago",
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "baxcalibur": "210.0 kg"
+    }
+}

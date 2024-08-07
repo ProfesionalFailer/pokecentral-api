@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "mienshao": {
+            "primary": "Forza Interiore",
+            "secondary": "Rigenergia",
+            "hidden": "Temerarietà"
+        }
+    },
+    "curiosities": [
+        "Articoli incompleti",
+        "Pokémon",
+        "Pokémon di quinta generazione",
+        "Pokémon di tipo Lotta",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Lento",
+        "Pokémon di colore Viola",
+        "Pokémon dalla sagoma n. 06",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon di Gruppo Uova Umanoide",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 510"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mienshao.mp3",
+    "dex_entries": {
+        "mienshao": {
+            "black": "Usa i peli degli arti come fruste. I suoi attacchi sono talmente rapidi da essere invisibili a occhio nudo.",
+            "white": "Lotta colpendo i nemici con i lunghi peli degli arti anteriori, che fa schioccare come fruste.",
+            "black-2": "Usa i peli degli arti anteriori a mo' di frusta e se inizia un attacco a catena non c'è nessuno che lo possa fermare.",
+            "white-2": "Usa i peli degli arti anteriori a mo' di frusta e se inizia un attacco a catena non c'è nessuno che lo possa fermare.",
+            "x": "Usa i peli degli arti anteriori a mo' di frusta e se inizia un attacco a catena non c'è nessuno che lo possa fermare.",
+            "y": "Usa i peli degli arti anteriori a mo' di frusta e se inizia un attacco a catena non c'è nessuno che lo possa fermare.",
+            "omega-ruby": "Usa i peli degli arti come fruste. I suoi attacchi sono talmente rapidi da essere invisibili a occhio nudo.",
+            "alpha-sapphire": "Usa i peli degli arti anteriori a mo' di frusta e se inizia un attacco a catena non c'è nessuno che lo possa fermare.",
+            "ultra-sun": "Mette alle strette l’avversario con una raffica di colpi, poi si concentra per raccogliere le energie prima di sferrare il colpo finale.",
+            "ultra-moon": "Se emette un verso bizzarro, è meglio stargli alla larga: potrebbe scatenare una pioggia di calci e pugni così rapidi da essere invisibili!",
+            "sword": "Se incontra un nemico veramente forte, si strappa a morsi i peli degli arti per alleggerirsi e guadagnare in agilità.",
+            "shield": "I suoi calci, talmente veloci da risultare invisibili, sono in grado di sbriciolare anche massi enormi.",
+            "scarlet": "Se emette un verso bizzarro, è meglio stargli alla larga: potrebbe scatenare una pioggia di calci e pugni così rapidi da essere invisibili.",
+            "violet": ""
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Umanoide"
+    ],
+    "flat_name": "mienshao",
+    "generation": 5,
+    "height": {
+        "mienshao": "1.4 m"
+    },
+    "id": 620,
+    "name": "Mienshao",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione della parola inglese ermine  con Shaolin o con il giapponese シャオ shao . ",
+    "origin": "Mienshao potrebbe basarsi su un ermellino e sulle lotte rituali con le fruste, come su altri tipi di arti marziali come il kung fu, il taekwondo e il Kokondō. Il pelo sulle sue braccia potrebbe inoltre ispirarsi alle shuixiu, delle maniche bianche lunghe che vengono attaccate al costume al livello del polso nell'opera cinese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Mienshao",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Marziale",
+    "sprites": {
+        "mienshao": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d8/Homem0620.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f1/Homemsh0620.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2a/Artwork0620_NB.png"
+    },
+    "stats": {
+        "mienshao": {
+            "hp": 65,
+            "atk": 125,
+            "def": 60,
+            "spa": 95,
+            "spd": 60,
+            "spe": 105
+        }
+    },
+    "stats_sum": {
+        "mienshao": 510
+    },
+    "types": {
+        "mienshao": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "mienshao": "35.5 kg"
+    }
+}

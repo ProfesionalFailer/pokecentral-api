@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "frosmoth": {
+            "primary": "Polvoscudo",
+            "hidden": "Geloscaglie"
+        }
+    },
+    "curiosities": [
+        "Frosmoth e la sua pre-evoluzione Snom sono i primi Pokémon a presentare la combinazione di tipi Ghiaccio/Coleottero.",
+        "Quando Frosmoth è il primo Pokémon in squadra, gli viene sempre cucinata la porzione piccola di curry nel Pokécampeggio, al contrario di Snom, per cui viene cucinata la porzione più grande.",
+        "Frosmoth è uno dei pochi Pokémon, insieme a Ninetales di Alola, Shedinja, Amaura, Aurorus e Snom, che possono essere mandati KO da una entry hazard quando hanno tutti i PS. Se uno di questi Pokémon viene mandato in campo mentre sono presenti tre file di Punte, di Levitoroccia o dell'effetto di Gigaferroaculei sulla sua porzione di campo, il danno totale è pari al 100% dei suoi PS ."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/frosmoth.mp3",
+    "dex_entries": {
+        "frosmoth": {
+            "sword": "La temperatura delle sue ali è di -180 °C. Sorvola pianure e montagne lasciando cadere le sue scaglie gelide come fossero fiocchi di neve.",
+            "shield": "Non ha alcuna pietà per chi danneggia la natura. Vola in ricognizione e punisce i malfattori con tempeste di neve che crea con le sue fredde ali.",
+            "scarlet": "Percepisce le correnti d’aria grazie alle antenne. Impregna di aria gelida le sue scaglie per farle poi cadere a mo’ di nevicata.",
+            "violet": "Vola generando con le grandi ali delle correnti gelide che causano tempeste di neve. Adora dissetarsi d’acqua limpida del disgelo."
+        }
+    },
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "frosmoth",
+    "generation": 8,
+    "height": {
+        "frosmoth": "1.3 m"
+    },
+    "id": 873,
+    "name": "Frosmoth",
+    "name_origin": "Frosmoth potrebbe essere una combinazione di frost, gelo, e moth, falena. Mothnow potrebbe essere una combinazione di moth, falena, e snow, neve. ",
+    "origin": "Frosmoth potrebbe essere ispirato alle falene alpine e artiche del genere Gynaephora. Una specie in particolare, la Gynaephora groenlandica, può entrare in uno stato dormiente che gli consente di sopportare fino a -70 gradi Celsius. Considerando le sue grandi dimensioni, i colori della forma cromatica e il fatto che si evolva durante la notte, Frosmoth potrebbe essere basato anche sulle falene del genere Actias. Potrebbe trarre ispirazione anche dalle falene della famiglia Megalopygidae o dalla farfalla di vetro. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Frosmoth",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Gelofalena",
+    "sprites": {
+        "frosmoth": {
+            "default": "https://media.pokemoncentral.it/wiki/1/10/Homem0873.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b5/Homemsh0873.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/31/Artwork0873_SpSc.png"
+    },
+    "stats": {
+        "frosmoth": {
+            "hp": 70,
+            "atk": 65,
+            "def": 60,
+            "spa": 125,
+            "spd": 90,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "frosmoth": 475
+    },
+    "types": {
+        "frosmoth": [
+            "Ghiaccio",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "frosmoth": "42.0 kg"
+    }
+}

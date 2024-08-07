@@ -1,0 +1,84 @@
+{
+    "abilities": {
+        "walrein": {
+            "primary": "Grassospesso",
+            "secondary": "Corpogelo",
+            "hidden": "Indifferenza"
+        }
+    },
+    "curiosities": [
+        "La linea evolutiva di Walrein, insieme a quella di Dewgong, è l'unica ad avere una tripla resistenza, grazie all'abilità Grassospesso.",
+        "La linea evolutiva di Walrein è l'unica di tipo Ghiaccio/Acqua a presentare il Ghiaccio come tipo primario."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/walrein.mp3",
+    "dex_entries": {
+        "walrein": {
+            "ruby": "Le due zanne molto sviluppate di WALREIN sono in grado di ridurre in polvere blocchi di ghiaccio del peso di 100 quintali. Lo spesso strato di grasso attorno al corpo lo isola dalle rigide temperature polari.",
+            "sapphire": "WALREIN nuota in tutti i mari glaciali e frantuma gli iceberg con le sue enormi e potenti zanne. Lo spesso strato di grasso che avvolge il suo corpo fa rimbalzare senza danno gli attacchi nemici.",
+            "emerald": "Per proteggere il branco, il capogruppo dei WALREIN lotta contro chiunque invada il loro territorio, anche a costo della vita. In lotta, a volte, le sue zanne si staccano.",
+            "firered": "Nuota nei mari gelati facendosi strada tra il ghiaccio con le zanne. È protetto da uno spesso strato di grasso.",
+            "leafgreen": "Nuota nei mari gelati facendosi strada tra il ghiaccio con le zanne. È protetto da uno spesso strato di grasso.",
+            "diamond": "Frantuma il ghiaccio con le zanne. Lo spesso strato adiposo respinge il freddo e gli attacchi nemici.",
+            "pearl": "Frantuma il ghiaccio con le zanne. Lo spesso strato adiposo respinge il freddo e gli attacchi nemici.",
+            "platinum": "Frantuma il ghiaccio con le zanne. Lo spesso strato adiposo respinge il freddo e gli attacchi nemici.",
+            "heartgold": "Frantuma il ghiaccio con le potenti zanne. Il suo spesso strato adiposo respinge gli attacchi nemici.",
+            "soulsilver": "Frantuma il ghiaccio con le potenti zanne. Il suo spesso strato adiposo respinge gli attacchi nemici.",
+            "black": "Frantuma il ghiaccio con le zanne. Lo spesso strato adiposo respinge il freddo e gli attacchi nemici.",
+            "white": "Frantuma il ghiaccio con le zanne. Lo spesso strato adiposo respinge il freddo e gli attacchi nemici.",
+            "black-2": "Lo spesso strato di grasso lo protegge dal freddo e dagli attacchi nemici. Frantuma il ghiaccio con le zanne.",
+            "white-2": "Lo spesso strato di grasso lo protegge dal freddo e dagli attacchi nemici. Frantuma il ghiaccio con le zanne.",
+            "x": "Frantuma il ghiaccio con le zanne. Lo spesso strato adiposo respinge il freddo e gli attacchi nemici.",
+            "y": "Frantuma il ghiaccio con le potenti zanne. Il suo spesso strato adiposo respinge gli attacchi nemici.",
+            "omega-ruby": "Le due zanne molto sviluppate di Walrein sono in grado di ridurre in polvere blocchi di ghiaccio del peso di 100 quintali. Lo spesso strato di grasso attorno al corpo lo isola dalle rigide temperature polari.",
+            "alpha-sapphire": "Walrein nuota in tutti i mari glaciali e frantuma gli iceberg con le sue enormi e potenti zanne. Lo spesso strato di grasso che avvolge il suo corpo fa rimbalzare senza danno gli attacchi nemici.",
+            "sword": "Vive in branchi di 20-30 esemplari. In caso di attacco nemico, il capo protegge il gruppo a costo della vita.",
+            "shield": "Le sue zanne continuano a crescere per tutta la vita. Se si spezzano mentre lotta, tornano forti e robuste nell'arco di un anno.",
+            "legends-arceus": "Le enormi zanne possono infrangere banchi di ghiaccio. Talvolta si rompono, nondimeno si rigenerano in un anno. Costituiscono oggetti tipici della terra di Hisui."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "flat_name": "walrein",
+    "generation": 3,
+    "height": {
+        "walrein": "1.4 m"
+    },
+    "id": 365,
+    "name": "Walrein",
+    "name_origin": "Il nome di Walrein potrebbe essere una combinazione di \"walrus\", tricheco, e di un derivato della parola \"reign\", regno, o forse rain, pioggia. ",
+    "origin": "Walrein è ispirato ad un Tricheco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Walrein",
+    "shape": "quadrupede",
+    "specie": "Pokémon Spaccagelo",
+    "sprites": {
+        "walrein": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1b/Homem0365.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a1/Homemsh0365.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8a/Artwork0365_RZ.png"
+    },
+    "stats": {
+        "walrein": {
+            "hp": 110,
+            "atk": 80,
+            "def": 90,
+            "spa": 95,
+            "spd": 90,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "walrein": 530
+    },
+    "types": {
+        "walrein": [
+            "Ghiaccio",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "walrein": "150.6 kg"
+    }
+}

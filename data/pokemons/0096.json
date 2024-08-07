@@ -1,0 +1,57 @@
+{
+    "abilities": {
+        "drowzee": {
+            "primary": "Insonnia",
+            "secondary": "Premonizione",
+            "hidden": "Forza Interiore"
+        }
+    },
+    "curiosities": [
+        "Nonostante il suo artwork mostri che ha tre dita, lo sprite di Rosso e Blu ne mostra cinque, mentre quello di Rosso e Verde quattro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/drowzee.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "drowzee",
+    "generation": 1,
+    "height": {
+        "drowzee": "1.0 m"
+    },
+    "id": 96,
+    "name": "Drowzee",
+    "name_origin": "Drowzee è una corruzione di drowsy . Lo \"zee\" potrebbe essere un riferimento al detto inglese catching some Zs , ovvero dormire, in quanto zzz è l'onomatopea del russare. ",
+    "origin": "Drowzee è basato sul mito giapponese del Baku, creature che mangiano incubi delle persone che dormono, tanto che il Pokédex afferma che ne è un discendente. Questi originariamente erano animali compositi, ma in seguito sono diventati Tapiri, animali simili a maiali con piccole proboscidi, originari dell'America Meridionale e dell'Asia meridionale. Ha anche delle somiglianze con gli elefanti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Drowzee",
+    "shape": "bipedi",
+    "specie": "Pokémon Ipnosi",
+    "sprites": {
+        "drowzee": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1b/Homem0096.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/84/Homemsh0096.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/13/Artwork0096_RFVF.png"
+    },
+    "stats": {
+        "drowzee": {
+            "hp": 60,
+            "atk": 48,
+            "def": 45,
+            "spa": 43,
+            "spd": 90,
+            "spe": 42
+        }
+    },
+    "stats_sum": {
+        "drowzee": 328
+    },
+    "types": {
+        "drowzee": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "drowzee": "32.4 kg"
+    }
+}

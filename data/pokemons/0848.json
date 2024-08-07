@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "toxel": {
+            "primary": "Paura",
+            "secondary": "Statico",
+            "hidden": "Impaccio"
+        }
+    },
+    "curiosities": [
+        "Toxel e la sua evoluzione Toxtricity sono i primi Pokémon ad avere la combinazione di tipi Elettro/Veleno.",
+        "Toxel è l'unico Pokémon con il totale delle statistiche base pari a 242.",
+        "Toxel è il primo Pokémon Baby ad essere stato introdotto successivamente alla quarta generazione.\n\tToxel è, inoltre, l'unico Pokémon Baby a non essere ancora comparso nella serie animata.",
+        "Toxel è, inoltre, l'unico Pokémon Baby a non essere ancora comparso nella serie animata.",
+        "Tutte la nature che diminuiscono l'Attacco  fanno evolvere Toxel in Toxtricity Forma Basso, mentre quelle che diminuiscono la Difesa Speciale  fanno evolvere Toxel in Toxtricity Forma Melodia.",
+        "Come da lui stesso confermato, Yusuke Kozaki s'è occupato della progettazione di Toxel."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/toxel.mp3",
+    "dex_entries": {
+        "toxel": {
+            "sword": "Secerne dalla pelle le tossine contenute nella sua sacca di veleno interna. Provoca a chi lo tocca una sensazione di bruciore.",
+            "shield": "Produce elettricità grazie a una reazione chimica delle sue tossine. Il voltaggio è debole, ma può intorpidire il nemico.",
+            "scarlet": "Dotato di un organo in grado di filtrare anche l’acqua più sporca, può berla e convertirla in un liquido tossico a lui innocuo.",
+            "violet": "È un Pokémon egoista che pensa solo a se stesso. Immagazzina veleno ed elettricità in due sacche distinte all’interno del suo corpo."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "toxel",
+    "generation": 8,
+    "height": {
+        "toxel": "0.4 m"
+    },
+    "id": 848,
+    "name": "Toxel",
+    "name_origin": "Toxel potrebbe essere una combinazione di toxic, tossico, electric, elettrico, e little, piccolo. Eleson potrebbe essere una combinazione di electric, elettrico, e poison, veleno. ",
+    "origin": "Toxel potrebbe essere basato su diverse specie di lucertole e rane, in particolar modo su una Dendrobatidae dato il tipo Veleno del Pokémon. Potrebbe essere basato anche su un bambino, poiché la parte inferiore del corpo ricorda un pannolino, mentre la macchia bianca sul petto ricorda un bavaglino, inoltre, spesso si dimena come se stesse facendo dei capricci. Le punte sulla testa di Toxel ricordano un Ankylosaurus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Toxel",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Bebè",
+    "sprites": {
+        "toxel": {
+            "default": "https://media.pokemoncentral.it/wiki/2/24/Homem0848.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0848.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/5f/Artwork0848_SpSc.png"
+    },
+    "stats": {
+        "toxel": {
+            "hp": 40,
+            "atk": 38,
+            "def": 35,
+            "spa": 54,
+            "spd": 35,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "toxel": 242
+    },
+    "types": {
+        "toxel": [
+            "Veleno",
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "toxel": "11.0 kg"
+    }
+}

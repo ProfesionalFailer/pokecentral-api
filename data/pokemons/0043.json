@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "oddish": {
+            "primary": "Clorofilla",
+            "hidden": "Fugafacile"
+        }
+    },
+    "curiosities": [
+        "In seconda generazione, il Nonno di Bill chiede al giocatore di portargli un Pokémon tondo e verde con foglie sulla testa. Il Pokémon richiesto è Oddish, che è verde solo nella forma cromatica. Probabilmente è un errore di traduzione dovuto all'ambiguità del giapponese aoi, che può significare blu e verde. L'errore è stato corretto in quarta generazione.",
+        "Oddish ha un nome scientifico: Oddium viandantis. L'unico altro Pokémon con un nome scientifico è Kabutops, con Kabutops maximis.",
+        "Oddish è il primo Pokémon del Pokédex Nazionale ad avere un'evoluzione ramificata.",
+        "Bellsprout poteva originariamente essere visto come un parallelo di Oddish: sono entrambi Pokémon di tipo Erba/Veleno di prima generazione, si evolvono prima al livello 21 e poi con Pietrafoglia. Oddish è esclusivo di Blu e Bellsprout di Rosso e possono essere trovati nella Foresta Bianca. Il parallelismo si è perso in seconda generazione con l'introduzione dell'evoluzione ramificata di Oddish.",
+        "In Pokémon Oro e Argento, Oddish era programmato per apprendere Fascino tramite allevamento, ma nessun altro Pokémon nel Gruppo Uova Erba poteva impararla legittimamente e passarla quindi come Mossa Uovo. Dalla terza generazione, Oddish può apprendere Fascino grazie a Shroomish attraverso una catena di accoppiamenti. Dalla quinta generazione, Oddish può apprendere la mossa tramite accoppiamento direttamente da Cottonee."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/oddish.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "oddish",
+    "generation": 1,
+    "height": {
+        "oddish": "0.5 m"
+    },
+    "id": 43,
+    "name": "Oddish",
+    "name_origin": "Il nome è una combinazione di odd  e radish . Potrebbe anche essere un gioco di parole in modo che suoni come oddish, \"un po' strano\". ",
+    "origin": "È basato su una mandragora. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Oddish",
+    "shape": "testa e gambe",
+    "specie": "Pokémon Malerba",
+    "sprites": {
+        "oddish": {
+            "default": "https://media.pokemoncentral.it/wiki/3/35/Homem0043.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0043.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/4b/Artwork0043_RFVF.png"
+    },
+    "stats": {
+        "oddish": {
+            "hp": 45,
+            "atk": 50,
+            "def": 55,
+            "spa": 75,
+            "spd": 65,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "oddish": 320
+    },
+    "types": {
+        "oddish": [
+            "Veleno",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "oddish": "5.4 kg"
+    }
+}

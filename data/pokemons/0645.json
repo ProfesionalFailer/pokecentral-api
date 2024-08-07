@@ -1,0 +1,93 @@
+{
+    "abilities": {
+        "forma-incarnazione": {
+            "primary": "Silicoforza",
+            "hidden": "Forzabruta"
+        },
+        "forma-totem": {
+            "primary": "Prepotenza"
+        }
+    },
+    "curiosities": [
+        "Pur essendo parzialmente di tipo Volante, Landorus non impara neanche una mossa di questo tipo salendo di livello.\n\tInoltre, può imparare tramite MT e MN una sola mossa di questo tipo: Volo.",
+        "Inoltre, può imparare tramite MT e MN una sola mossa di questo tipo: Volo.",
+        "Landorus nella sua Forma Incarnata ha il più alto Attacco Speciale di base tra tutti i Pokémon di tipo Terra."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/landorus.mp3",
+    "dex_entries": {
+        "landorus": {
+            "black": "Poiché le terre che visita producono abbondanti raccolti, è considerato una benedizione per i campi.",
+            "white": "Poiché l'energia che riversa dalla coda porta nutrimento alla terra, i raccolti crescono rigogliosi.",
+            "black-2": "Rende fertile la terra trasformando l'energia del vento e dei fulmini in nutrimento per il suolo.",
+            "white-2": "Rende fertile la terra trasformando l'energia del vento e dei fulmini in nutrimento per il suolo.",
+            "x": "Poiché le terre che visita producono abbondanti raccolti, è considerato una benedizione per i campi.",
+            "y": "Rende fertile la terra trasformando l'energia del vento e dei fulmini in nutrimento per il suolo.",
+            "omega-ruby": "Poiché le terre che visita producono abbondanti raccolti, è considerato una benedizione per i campi.",
+            "alpha-sapphire": "Rende fertile la terra trasformando l'energia del vento e dei fulmini in nutrimento per il suolo."
+        },
+        "forma-incarnazione": {
+            "legends-arceus": "Emerge per chetare le dispute fra l'incarnazione dei turbini e quella dei fulmini. Il loro dileguarsi sancisce il buon esito delle coltivazioni."
+        },
+        "forma-totem": {
+            "legends-arceus": "Solca da nord a sud i cieli di Hisui in un paio d'ore. Le genti venerano l'aspetto totemico con il quale s'innalza nell'aere e dona messi rigogliose."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "landorus",
+    "generation": 5,
+    "height": {
+        "forma-incarnazione": "1.5 m",
+        "forma-totem": "1.3 m"
+    },
+    "id": 645,
+    "name": "Landorus",
+    "name_origin": "Sia il nome inglese Landorus che quello giapponese ランドロス Landlos derivano da Land, \"terra\" in inglese. ",
+    "origin": "La Forma Incarnata è certamente ispirata a Inari, il Kami dei campi di riso, dell'agricoltura, dell'artigianato e della prosperità: in tempi più antichi era anche il patrono dei fabbri e dei mastri spadai, e si dice sia venerato dalle volpi. La Forma Totem è basata sulla Tigre Bianca, una delle cinque bestie guardiane della mitologia cinese. Altre fonti d'ispirazione potrebbero essere Tezcatlipoca e Tepeyollotl, dei giaguari della mitologia azteca. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Landorus",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Fertilità",
+    "sprites": {
+        "forma-incarnazione": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0645.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cc/Homemsh0645.png"
+        },
+        "forma-totem": {
+            "default": "https://media.pokemoncentral.it/wiki/3/31/Homem0645T.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0645T.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b9/Artwork0645_NB.png"
+    },
+    "stats": {
+        "forma-incarnazione": {
+            "hp": 89,
+            "atk": 125,
+            "def": 90,
+            "spa": 115,
+            "spd": 80,
+            "spe": 101
+        },
+        "forma-totem": {
+            "hp": 89,
+            "atk": 145,
+            "def": 90,
+            "spa": 105,
+            "spd": 80,
+            "spe": 91
+        }
+    },
+    "stats_sum": {
+        "forma-incarnazione": 600,
+        "forma-totem": 600
+    },
+    "types": {
+        "landorus": [
+            "Volante",
+            "Terra"
+        ]
+    },
+    "weight": {
+        "landorus": "68.0 kg"
+    }
+}

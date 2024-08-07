@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "gyarados": {
+            "primary": "Prepotenza",
+            "hidden": "Arroganza"
+        },
+        "megagyarados": {
+            "primary": "Rompiforma"
+        }
+    },
+    "curiosities": [
+        "In prima generazione Gyarados aveva una combinazione di tipi unica.",
+        "In seconda e in quarta generazione, Gyarados è l'unico Pokémon che si può incontrare nella sua versione cromatica con una probabilità del 100%. È inoltre uno dei due Pokémon cromatici usati nella trama di un videogioco Pokémon .",
+        "Gli sprite cromatici di Gyarados di terza generazione sono stranamente differenti da tutti gli altri: in Rubino, Zaffiro e Smeraldo è colorato di un rosso tendente al fucsia e quello di Rosso Fuoco e Verde Foglia di un rosso tendente all'arancione. In tutte le altre generazioni invece presenta la stessa tonalità di rosso, differente da entrambe le tonalità usate nei giochi di terza generazione.",
+        "Benché sia di tipo Acqua, molte delle sue descrizioni nel Pokédex fanno riferimento a Gyarados che \"bruciano ogni cosa\" e a \"violente fiammate\", come se fosse un tipo Fuoco. Questo può essere spiegato dal fatto che Gyarados può apprendere sia Lanciafiamme che Fuocobomba.",
+        "In X e Y, la Gyaradosite è reperibile nei pressi di una cascata. Probabilmente è un riferimento alla leggenda giapponese secondo la quale una carpa, risalendo una cascata, si sarebbe trasformata in un drago."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gyarados.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 2",
+        "Drago"
+    ],
+    "flat_name": "gyarados",
+    "generation": 1,
+    "height": {
+        "gyarados": "6.5 m"
+    },
+    "id": 130,
+    "name": "Gyarados",
+    "name_origin": "Il nome Gyarados deriva dalla parola 虐杀 gyakusatsu  oppure da 逆境 gyakkyō , entrambe si riferiscono alla natura violenta del Pokémon e la difficoltà per potersi evolvere, oppure da 逆 gyaku  possibile riferimento al fatto che da un Pokémon debole ed inutile diventa uno in grado di distruggere intere città oppure al mito secondo cui la carpa deve andare nel senso opposto della cascata per diventare un drago, assieme a 岚 Arashi  o 争い Arasoi  riferimento al fatto che appaia durante le guerre e l'ultima parte da ドス Dosu  sempre riferimento alla sua natura violenta o dallo spagnolo dos  per indicare che è il secondo Pokémon della sua linea evolutiva. ",
+    "origin": "È ispirato al serpente marino mitologico, ed al raro Pesce Remo, pesce-serpente marino che supera i 17 metri. Ricorda anche il Leviatano, serpente marino della mitologia ebraica o Jormungandr, serpente marino della mitologia nordica. Potrebbe anche essere ispirato in parte alla leggenda secondo cui le carpe che attraversano il Portale dei Draghi sarebbero diventate dei draghi. Si dice infatti che molte cascate cinesi potrebbero essere il Portale dei Draghi, in Pokémon Snap infatti è necessario lanciare un Magikarp in una cascata per farlo evolvere. Questa leggenda insegna che bisogna superare molti ostacoli per poter diventare più forti . Il tipo Volante apparentemente insensato potrebbe essere un riferimento ai Koinobori, una sorta di aquilone a calzino a forma di carpa che si appende per celebrare la giornata del bambino in Giappone, in passato chiamato Tango no Sekku . ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gyarados",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Atroce",
+    "sprites": {
+        "gyarados": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4b/Homem0130.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0130.png"
+        },
+        "gyarados-f": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2b/Homef0130.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b0/Homefsh0130.png"
+        },
+        "megagyarados": {
+            "default": "https://media.pokemoncentral.it/wiki/6/66/Homem0130M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a1/Homemsh0130M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/f/f9/Artwork0130_RFVF.png"
+    },
+    "stats": {
+        "gyarados": {
+            "hp": 95,
+            "atk": 125,
+            "def": 79,
+            "spa": 60,
+            "spd": 100,
+            "spe": 81
+        },
+        "megagyarados": {
+            "hp": 95,
+            "atk": 155,
+            "def": 109,
+            "spa": 70,
+            "spd": 130,
+            "spe": 81
+        }
+    },
+    "stats_sum": {
+        "gyarados": 540,
+        "megagyarados": 640
+    },
+    "types": {
+        "gyarados": [
+            "Volante",
+            "Acqua"
+        ],
+        "megagyarados": [
+            "Buio",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "gyarados": "235.0 kg",
+        "megagyarados": "305.0 kg"
+    }
+}

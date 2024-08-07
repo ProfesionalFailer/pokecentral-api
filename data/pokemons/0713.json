@@ -1,0 +1,100 @@
+{
+    "abilities": {
+        "avalugg": {
+            "primary": "Mente Locale",
+            "secondary": "Corpogelo",
+            "hidden": "Vigore"
+        },
+        "forma-di-hisui": {
+            "primary": "Ferromascella",
+            "secondary": "Corpogelo",
+            "hidden": "Vigore"
+        }
+    },
+    "curiosities": [
+        "Avalugg ha la Difesa più alta di tutti i Pokémon di tipo Ghiaccio.",
+        "Avalugg l'unico Pokémon che ha il totale delle statistiche base pari a 514.",
+        "Avalugg condivide la categoria con Regice, infatti entrambi sono conosciuti come Pokémon Iceberg.",
+        "Avalugg è il Pokémon di tipo Ghiaccio più pesante.",
+        "A partire dall'ottava generazione, Avalugg appartiene anche al Gruppo Uova Minerale.\n\tAvalugg e Bergmite sono gli unici Pokémon ad appartenere ai Gruppi Uova Mostro e Minerale.",
+        "Avalugg e Bergmite sono gli unici Pokémon ad appartenere ai Gruppi Uova Mostro e Minerale."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/avalugg.mp3",
+    "dex_entries": {
+        "avalugg": {
+            "x": "Il suo enorme corpo di ghiaccio è duro come l'acciaio. Avanza distruggendo tutto ciò che gli si para davanti.",
+            "y": "Ospita numerosi Bergmite sul suo dorso,come una vera e propria portaerei di ghiaccio.",
+            "omega-ruby": "Il suo enorme corpo di ghiaccio è duro come l'acciaio. Avanza distruggendo tutto ciò che gli si para davanti.",
+            "alpha-sapphire": "Ospita numerosi Bergmite sul suo dorso,come una vera e propria portaerei di ghiaccio.",
+            "sword": "Nuota nei freddi mari polari ospitando numerosi Bergmite sulla schiena e confondendosi tra gli iceberg.",
+            "shield": "Durante il giorno le crepe sul suo corpo diventano più profonde, ma nel giro di una notte si riempiono del tutto.",
+            "scarlet": "Quando cammina con dei Bergmite sul dorso, spesso incontra branchi di Cetitan, ma li lascia passare per evitare conflitti.",
+            "violet": "Schiaccia qualsiasi cosa lo intralci con il suo enorme corpo di ghiaccio. Quando galleggia nel mare, è tale e quale a un pezzo di banchisa."
+        },
+        "forma-di-hisui": {
+            "legends-arceus": "L'armatura glaciale di cui la sua mandibola è ammantata è più dura dell'acciaio e frantuma la roccia senza sforzo. Avanza pegli arditi sentieri montani facendosi largo inarrestabile tra la neve."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Minerale",
+        "VIII"
+    ],
+    "flat_name": "avalugg",
+    "generation": 6,
+    "height": {
+        "avalugg": "2.0 m"
+    },
+    "id": 713,
+    "name": "Avalugg",
+    "name_origin": "Avalugg è una combinazione di avalanche  e lug  o \"lugg\", che significa 'mucchio' in norvegese. Oppure al progetto Habakkuk. ",
+    "origin": "Avalugg sembra basato su un iceberg. Potrebbe anche essere basato su una portaerei. Il suo aspetto ricorda anche una testuggine potrebbe essere ispirato al progetto Habakkuk. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Avalugg",
+    "shape": "quadrupede",
+    "specie": "Pokémon Iceberg",
+    "sprites": {
+        "avalugg": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b8/Homem0713.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/51/Homemsh0713.png"
+        },
+        "forma-di-hisui": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7f/Homem0713H.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0713H.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/48/Artwork0713_XY.png"
+    },
+    "stats": {
+        "avalugg": {
+            "hp": 95,
+            "atk": 117,
+            "def": 184,
+            "spa": 44,
+            "spd": 46,
+            "spe": 28
+        },
+        "forma-di-hisui": {
+            "hp": 95,
+            "atk": 127,
+            "def": 184,
+            "spa": 34,
+            "spd": 36,
+            "spe": 38
+        }
+    },
+    "stats_sum": {
+        "avalugg": 514,
+        "forma-di-hisui": 514
+    },
+    "types": {
+        "avalugg": [
+            "Ghiaccio"
+        ],
+        "forma-di-hisui": [
+            "Roccia",
+            "Ghiaccio"
+        ]
+    },
+    "weight": {
+        "avalugg": "505.0 kg"
+    }
+}

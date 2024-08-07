@@ -1,0 +1,103 @@
+{
+    "abilities": {
+        "alcremie": {
+            "primary": "Dolcevelo",
+            "hidden": "Aromavelo"
+        }
+    },
+    "curiosities": [
+        "Alcremie è il Pokémon con il maggior numero di forme alternative, ben 64.\n\tNonostante ciò, le forme in cui cambia solo il bonbon sono raggruppate sotto uno stesso nome, ne consegue che possiede 10 diverse voci nel Pokédex.",
+        "Nonostante ciò, le forme in cui cambia solo il bonbon sono raggruppate sotto uno stesso nome, ne consegue che possiede 10 diverse voci nel Pokédex.",
+        "Alcremie condivide con Minior il maggior numero di raggruppamenti per colore del Pokédex con un totale di sei colori diversi.",
+        "Alcremie è stato annunciato l'8 luglio 2019 in un trailer nel canale YouTube ufficiale di Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/alcremie.mp3",
+    "dex_entries": {
+        "lattevaniglia": {
+            "sword": "Agli Allenatori di cui si fida regala bacche decorate con la panna.",
+            "shield": "La panna che Alcremie produce dalle mani è più dolce e gustosa quando è felice."
+        },
+        "latterosa": {
+            "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore agrodolce.",
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore agrodolce."
+        },
+        "lattematcha": {
+            "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore fragrante e aromatico.",
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore fragrante e aromatico."
+        },
+        "lattementa": {
+            "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore rinfrescante.",
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore rinfrescante."
+        },
+        "lattelimone": {
+            "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore acido.",
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore acido."
+        },
+        "lattesale": {
+            "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore salato.",
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore salato."
+        },
+        "rosamix": {
+            "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore speciale.",
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore speciale."
+        },
+        "caramelmix": {
+            "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore amaro.",
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore amaro."
+        },
+        "triplomix": {
+            "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore complesso.",
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore complesso."
+        },
+        "alcremie-gigamax": {
+            "sword": "Il suo corpo, dal quale trabocca panna senza sosta, diventa tanto più duro quanto più forti sono gli attacchi che subisce.",
+            "shield": "Lancia missili di panna dall’apporto calorico di 100.000 chilocalorie l'uno. Chi viene colpito è preso da fortissimi giramenti di testa."
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Amorfo"
+    ],
+    "flat_name": "alcremie",
+    "generation": 8,
+    "height": {
+        "alcremie": "0.3 m",
+        "alcremie-gigamax": "> 30.0 m"
+    },
+    "id": 869,
+    "name": "Alcremie",
+    "name_origin": "Alcremie è probabilmente una combinazione di alchemy, alchimia, cream, crema, o creamy, cremoso. Mawhip è probabilmente una combinazione di 魔法 mahō, magico, e ホイップ hoippu, panna montata. ",
+    "origin": "Alcremie potrebbe essere basata su un Eton mess, un dolce tradizionale inglese fatto con la frutta, su una meringa o sulla panna montata. La forma Gigamax potrebbe essere basata su una torta nuziale. La sua capacità di indurirsi quando viene colpito dovrebbe invece essere basata su una proprietà fisica di alcuni fluidi non newtoniani, e nel particolare sul fenomeno di dilatamento dato dalla mescolatura tra acqua e amido di mais, la quale è di uso comune in pasticceria. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Alcremie",
+    "shape": "testa e base",
+    "specie": "Pokémon Pannafresca",
+    "sprites": {
+        "alcremie": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9d/Homef0869.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/48/Homefsh0869.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/99/Artwork0869_SpSc.png"
+    },
+    "stats": {
+        "alcremie": {
+            "hp": 65,
+            "atk": 60,
+            "def": 75,
+            "spa": 110,
+            "spd": 121,
+            "spe": 64
+        }
+    },
+    "stats_sum": {
+        "alcremie": 495
+    },
+    "types": {
+        "alcremie": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "alcremie": "0.5 kg",
+        "alcremie-gigamax": "???.? kg"
+    }
+}

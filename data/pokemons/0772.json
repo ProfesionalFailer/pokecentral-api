@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "tipo-zero": {
+            "primary": "Lottascudo"
+        }
+    },
+    "curiosities": [
+        "È il primo Pokémon i cui nomi in italiano e in spagnolo differiscono da quello inglese. Prima della nona generazione, era anche l'unico.\n\tTuttavia, è l'unico tra questi a non essere un Pokémon Paradosso.",
+        "Tuttavia, è l'unico tra questi a non essere un Pokémon Paradosso.",
+        "È l'unico Pokémon leggendario che si evolve per affetto.",
+        "Inizialmente questo Pokémon veniva chiamato \"Omnitipo\". In seguito al fallimento degli esperimenti con il Sistema Primevo, il suo nome è stato cambiato in Tipo Zero.",
+        "Tipo Zero ha il secondo totale di statistiche base più alto tra tutti i Pokémon che possono evolversi. Dalla nona generazione è stato superato da Duraludon.",
+        "Tipo Zero condivide alcune similarità con Mewtwo. Entrambi sono stati creati da umani per mezzo della scienza, con lo scopo di essere più forti degli altri Pokémon ed entrambi sono scappati dal loro luogo di origine causando ingenti danni.",
+        "Tipo Zero è uno dei Pokémon con caratteri non alfabetici nel nome.",
+        "Possiede alcune similitudini con Arceus: il collare incluso nella maschera ricorda l'anello di Arceus e lo stesso Pokédex afferma che Tipo Zero è ispirato ad un \"Pokémon mitologico\"."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/tipozero.mp3",
+    "dex_entries": {
+        "tipo-zero": {
+            "sun": "La pesante maschera che indossa agisce come un freno che gli impedisce di usare la sua vera potenza. Nasconde in sé un potere speciale.",
+            "moon": "È un Pokémon artificiale. La maschera che porta ha la funzione di tenere a freno la sua potenza e impedirgli di perdere il controllo.",
+            "ultra-sun": "È stato creato come arma per una missione precisa. Fu ibernato dopo aver perso il controllo durante un esperimento.",
+            "ultra-moon": "La maschera che porta ha la funzione di tenere a freno la sua vera potenza e impedirgli di perdere il controllo.",
+            "sword": "Si dice che sia stato ricreato nuovamente a Galar sulla base di documenti top secret trafugati.",
+            "shield": "È stato creato sul modello di un Pokémon mitologico. È stato necessario dotarlo di una maschera per tenere a freno la sua potenza."
+        }
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "tipo-zero",
+    "generation": 7,
+    "height": {
+        "tipo-zero": "1.9 m"
+    },
+    "id": 772,
+    "name": "Tipo Zero",
+    "name_origin": "Tipo Zero è una sorta di nome in codice. Type: Null significa letteralmente \"tipo nullo\". ",
+    "origin": "Sembra che Tipo Zero sia basato su una chimera e su un grifone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Tipo_Zero",
+    "shape": "quadrupede",
+    "specie": "Pokémon Multigene",
+    "sprites": {
+        "tipo-zero": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d1/Homem0772.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9e/Homemsh0772.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0772_SL.png"
+    },
+    "stats": {
+        "tipo-zero": {
+            "hp": 95,
+            "atk": 95,
+            "def": 95,
+            "spa": 95,
+            "spd": 95,
+            "spe": 59
+        }
+    },
+    "stats_sum": {
+        "tipo-zero": 534
+    },
+    "types": {
+        "tipo-zero": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "tipo-zero": "120.5 kg"
+    }
+}

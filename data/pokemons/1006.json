@@ -6,7 +6,8 @@
     },
     "curiosities": [
         "Eroeferreo ha una combinazione di tipi unica.",
-        "Eroeferreo è l'unico Pokémon Paradosso ad assomigliare a due Pokémon ."
+        "Eroeferreo è l'unico Pokémon Paradosso ad assomigliare a due Pokémon .",
+        "Insieme a Poliwrath e Lucario, Eroeferreo è l'unico Pokémon di tipo Lotta e non di tipo Psico capace di apprendere Psichico."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/eroeferreo.mp3",
     "dex_entries": {
@@ -21,20 +22,19 @@
     "flat_name": "eroeferreo",
     "generation": 9,
     "height": {
-        "eroeferreo": "1,4 m"
+        "eroeferreo": "1.4 m"
     },
     "id": 1006,
     "name": "Eroeferreo",
     "name_origin": "Eroeferreo è una combinazione di eroe e ferro. Iron Valiant è una combinazione di iron, ferro, e valiant, valoroso. ",
     "origin": "Eroeferreo potrebbe essere una versione robotica di una fusione tra Gardevoir e Gallade. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Eroeferreo",
-    "shape": "None",
+    "shape": "bipedi",
     "specie": "Pokémon Paradosso",
     "sprites": {
         "eroeferreo": {
             "default": "https://media.pokemoncentral.it/wiki/5/5a/Homem1006.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh1006.png",
-            "corporate": "https://media.pokemoncentral.it/wiki/4/4e"
+            "shiny": "https://media.pokemoncentral.it/wiki/9/91/Homemsh1006.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/3/32/Artwork1006_SV.png"
     },
@@ -53,11 +53,11 @@
     },
     "types": {
         "eroeferreo": [
-            "Folletto",
-            "Lotta"
+            "Lotta",
+            "Folletto"
         ]
     },
     "weight": {
-        "eroeferreo": "35,0 kg"
+        "eroeferreo": "35.0 kg"
     }
 }

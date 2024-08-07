@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "watchog": {
+            "primary": "Risplendi",
+            "secondary": "Sguardofermo",
+            "hidden": "Ponderazione"
+        }
+    },
+    "curiosities": [
+        "Di tutti i Pokémon evoluti di Unima ha la somma delle statistiche base più bassa.",
+        "A differenza degli sprite degli altri Pokémon non chiude gli occhi quando viene addormentato.",
+        "In Pokémon Nero e Bianco Watchog fornisce solamente 1 EV in Attacco.",
+        "Watchog è l'unico Pokémon completamente evoluto a possedere un tasso di cattura pari a 255.",
+        "Nonostante le voci del Pokédex dicano che Watchog attacchi sputando i semi delle bacche che mangia, può apprendere Semebomba solo tramite Insegnamosse e non può in alcun modo apprendere Semitraglia."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/watchog.mp3",
+    "dex_entries": {
+        "watchog": {
+            "black": "Attacca sparando i semi delle bacche che ha accumulato nelle guance. Se avvista il nemico, drizza la coda.",
+            "white": "Intimidisce i nemici facendo brillare le strisce che ha sul corpo. La sua vista gli permette di muoversi anche al buio.",
+            "black-2": "Fa tentennare il nemico facendo brillare occhi e pelliccia grazie a una sostanza fluorescente contenuta nel suo corpo.",
+            "white-2": "Fa tentennare il nemico facendo brillare occhi e pelliccia grazie a una sostanza fluorescente contenuta nel suo corpo.",
+            "x": "Fa tentennare il nemico facendo brillare occhi e pelliccia grazie a una sostanza fluorescente contenuta nel suo corpo.",
+            "y": "Attacca sparando i semi delle bacche che ha accumulato nelle guance. Se avvista il nemico, drizza la coda.",
+            "omega-ruby": "Fa tentennare il nemico facendo brillare occhi e pelliccia grazie a una sostanza fluorescente contenuta nel suo corpo.",
+            "alpha-sapphire": "Attacca sparando i semi delle bacche che ha accumulato nelle guance. Se avvista il nemico, drizza la coda."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "watchog",
+    "generation": 5,
+    "height": {
+        "watchog": "1.1 m"
+    },
+    "id": 505,
+    "name": "Watchog",
+    "name_origin": "Il suo nome deriva dall'inglese watch , groundhog  e dalla storpiatura del termine inglese watchdog . ",
+    "origin": "Il suo aspetto è da ricondursi molto probabilmente a un suricato o al cane della prateria, ma presenta anche tratti che lo fanno assomigliare a una marmotta americana oppure uno scoiattolo del genere tamias. le striature gialle sul suo pelo ricordano una veste d'avvertimento, il che fa pensare che sia basato anche su un lavoratore di strada. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Watchog",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Sentinella",
+    "sprites": {
+        "watchog": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d0/Homem0505.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/65/Homemsh0505.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/36/Artwork0505_NB.png"
+    },
+    "stats": {
+        "watchog": {
+            "hp": 60,
+            "atk": 85,
+            "def": 69,
+            "spa": 60,
+            "spd": 69,
+            "spe": 77
+        }
+    },
+    "stats_sum": {
+        "watchog": 420
+    },
+    "types": {
+        "watchog": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "watchog": "27.0 kg"
+    }
+}

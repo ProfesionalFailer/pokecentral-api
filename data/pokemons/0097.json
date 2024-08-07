@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "hypno": {
+            "primary": "Insonnia",
+            "secondary": "Premonizione",
+            "hidden": "Forza Interiore"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di prima generazione",
+        "Pokémon di tipo Psico",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Giallo",
+        "Pokémon dalla sagoma n. 12",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Umanoide",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 483",
+        "Pokémon la cui statistica Speciali è diventata Difesa Speciale",
+        "Pokémon con un totale massimo di 17 stelle prestazione",
+        "Pokémon con mole 1",
+        "Pokémon che sono inclusi in Pokémon Stadium solo in Giappone",
+        "Pokémon Ombra di Pokémon XD"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/hypno.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "hypno",
+    "generation": 1,
+    "height": {
+        "hypno": "1.6 m"
+    },
+    "id": 97,
+    "name": "Hypno",
+    "name_origin": "Il suo nome deriva probabilmente dalla parola inglese hypnosis , ma potrebbe riferirsi al dio greco Ὕπνος Ypnos  ",
+    "origin": "Il Pokémon è basato sul baku , ed il suo aspetto ricorda quello di un tapiro. Inoltre il suo naso adunco e il collare di pelliccia riconducono le sue origini ad un avvoltoio di Rüppell o ad una nasica. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hypno",
+    "shape": "bipedi",
+    "specie": "Pokémon Ipnosi",
+    "sprites": {
+        "hypno": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f2/Homem0097.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0097.png"
+        },
+        "hypno-f": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1c/Homef0097.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bd/Homefsh0097.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d1/Artwork0097_RFVF.png"
+    },
+    "stats": {
+        "hypno": {
+            "hp": 85,
+            "atk": 73,
+            "def": 70,
+            "spa": 73,
+            "spd": 115,
+            "spe": 67
+        }
+    },
+    "stats_sum": {
+        "hypno": 483
+    },
+    "types": {
+        "hypno": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "hypno": "75.6 kg"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "grapploct": {
+            "primary": "Scioltezza",
+            "hidden": "Tecnico"
+        }
+    },
+    "curiosities": [
+        "Clobbopus e Grapploct sono gli unici Pokémon che si trovano nel Gruppo Uova Acqua 1 e Umanoide."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/grapploct.mp3",
+    "dex_entries": {
+        "grapploct": {
+            "sword": "Il suo corpo è un ammasso di muscoli. È in grado di stritolare con una potenza formidabile grazie ai suoi tentacoli.",
+            "shield": "Si spinge sulla terraferma in cerca di avversari da sfidare per mettere alla prova la propria forza. Terminata la lotta, ritorna in mare."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Umanoide"
+    ],
+    "flat_name": "grapploct",
+    "generation": 8,
+    "height": {
+        "grapploct": "1.6 m"
+    },
+    "id": 853,
+    "name": "Grapploct",
+    "name_origin": "Grapploct potrebbe essere una combinazione di grapple, presa, e octopus, polpo. Otosupus potrebbe essere una combinazione di 落とす otosu, buttare giù qualcuno, e octopus, polpo. ",
+    "origin": "Clobbopus potrebbe essere basato su un polpo e su un lottatore di jūjitsu. L'aspetto della sua faccia sembra essere basato su una maschera da wrestling, mentre il tentacolo attorno alla sua vita ricorda una cintura delle arti marziali. Potrebbe essere un riferimento alle lotte contro i polpi che si praticavano nella costa orientale degli Stati Uniti durante gli anni '60; in questo tipo di lotta, un subacqueo alle prese con un polpo in acque poco profonde avrebbe dovuto trascinare l'animale fino alla terraferma. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Grapploct",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Jujitsu",
+    "sprites": {
+        "grapploct": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9c/Homem0853.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/77/Homemsh0853.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c6/Artwork0853_SpSc.png"
+    },
+    "stats": {
+        "grapploct": {
+            "hp": 80,
+            "atk": 118,
+            "def": 90,
+            "spa": 70,
+            "spd": 80,
+            "spe": 42
+        }
+    },
+    "stats_sum": {
+        "grapploct": 480
+    },
+    "types": {
+        "grapploct": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "grapploct": "39.0 kg"
+    }
+}

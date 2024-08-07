@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "palpitoad": {
+            "primary": "Nuotovelox",
+            "secondary": "Idratazione",
+            "hidden": "Assorbacqua"
+        }
+    },
+    "curiosities": [
+        "Palpitoad condivide la sua categoria con Vibrava e Seismitoad. Sono tutti conosciuti come Pokémon Vibrazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/palpitoad.mp3",
+    "dex_entries": {
+        "palpitoad": {
+            "black": "Se fa vibrare il bernoccolo sulla testa può sollevare onde nell'acqua e anche provocare terremoti.",
+            "white": "Vive in acqua e sulla terraferma. Cattura le prede avvolgendole con la sua lunga lingua appiccicosa.",
+            "black-2": "Vive in acqua e sulla terraferma. Immobilizza le prede con la sua lunga lingua appiccicosa.",
+            "white-2": "Vive in acqua e sulla terraferma. Immobilizza le prede con la sua lunga lingua appiccicosa.",
+            "x": "Se fa vibrare il bernoccolo sulla testa può sollevare onde nell'acqua e anche provocare terremoti.",
+            "y": "Vive in acqua e sulla terraferma. Immobilizza la preda con la sua lunga lingua appiccicosa.",
+            "omega-ruby": "Se fa vibrare il bernoccolo sulla testa può sollevare onde nell'acqua e anche provocare terremoti.",
+            "alpha-sapphire": "Vive in acqua e sulla terraferma. Immobilizza la preda con la sua lunga lingua appiccicosa.",
+            "sword": "Indebolisce la preda con onde sonore in grado di causare emicranie e poi la cattura con la sua lingua appiccicosa.",
+            "shield": "A volte emette un canto di notevole bellezza. Più grandi sono i bernoccoli che ha sul corpo, più ampio è il registro dei suoni che produce."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1"
+    ],
+    "flat_name": "palpitoad",
+    "generation": 5,
+    "height": {
+        "palpitoad": "0.8 m"
+    },
+    "id": 536,
+    "name": "Palpitoad",
+    "name_origin": "Il suo nome deriva probabilmente dalle parole inglesi palpitation  e toad . ",
+    "origin": "Probabilmente si ispira al girino di un rospo e a un altoparlante. I rigonfiamenti sulle guance sono tipici delle rane, ma ricordano anche delle cuffie per ascoltare la musica. Le sfere sul suo corpo invece hanno un'aspetto simile alle verruche delle rane, o alle loro ghiandole velenose, oppure potrebbero essere basate sulla rana del Surinam, che sul dorso ha delle sacche per contenere le uova e che inoltre, come Palpitoad, produce vibrazioni subacquee. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Palpitoad",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Vibrazione",
+    "sprites": {
+        "palpitoad": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2f/Homem0536.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh0536.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/bb/Artwork0536_NB.png"
+    },
+    "stats": {
+        "palpitoad": {
+            "hp": 75,
+            "atk": 65,
+            "def": 55,
+            "spa": 65,
+            "spd": 55,
+            "spe": 69
+        }
+    },
+    "stats_sum": {
+        "palpitoad": 384
+    },
+    "types": {
+        "palpitoad": [
+            "Terra",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "palpitoad": "17.0 kg"
+    }
+}

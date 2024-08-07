@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "gardevoir": {
+            "primary": "Sincronismo",
+            "secondary": "Traccia",
+            "hidden": "Telepatia"
+        },
+        "megagardevoir": {
+            "primary": "Pellefolletto"
+        }
+    },
+    "curiosities": [
+        "Le statistiche di Attacco e Attacco Speciale di Gardevoir sono il contrario di quelle di Gallade, mentre le altre statistiche sono identiche.",
+        "Il numero di Gardevoir nel Pokédex di Sinnoh di Pokémon Platino e nel Navigatore di Almia è lo stesso: 159.",
+        "Gardevoir e la sua linea evolutiva sono gli unici Pokémon che appartengono ai Gruppi Uova Amorfo e Umanoide.",
+        "MegaGardevoir ha la statistica di Attacco Speciale base più alta tra tutti i Pokémon di tipo Folletto.",
+        "Gardevoir e Gallade sono gli unici Pokémon capaci di megaevoluzione che appartengono alla stessa famiglia evolutiva.",
+        "Le descrizioni dei trofei per Gardevoir sia in Super Smash Bros. Brawl che in Super Smash Bros. per Nintendo 3DS/Wii U sottolineano il fatto che Gardevoir può essere di entrambi i sessi nonostante il design dall'aspetto femminile. Questo tipo di affermazione non compare in nessun altro media relativo ai Pokémon.",
+        "Gardevoir compare nel nono episodio della serie Beyond the Pokédex."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/gardevoir.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Amorfo",
+        "Umanoide",
+        "VIII"
+    ],
+    "flat_name": "gardevoir",
+    "generation": 3,
+    "height": {
+        "gardevoir": "1.60 m"
+    },
+    "id": 282,
+    "name": "Gardevoir",
+    "name_origin": "\"Gardevoir\" può essere una combinazione delle parole francesi \"garde\"  o \"garder\"  e \"devoir\" , così come \"voir\" . \"Sirnight\" potrebbe essere una combinazione di \"sir\" , \"knight\" , \"Syrinx\"  e forse un gioco di parole di さあ、ナイト saa, naito . ",
+    "origin": "Gardevoir sembra essere basato su una prima ballerina femminile e su un cavaliere, così come sui concetti di cavalleria ed empatia. I lunghi volant bianchi che circondano il suo corpo ricordano un vestito lungo fino al pavimento, e le sue gambe sottili e appuntite lo fanno sembrare come se fosse in punta e indossasse collant bianchi. I suoi capelli sono acconciati a caschetto e ricordano un elmo barbuta, mentre le corte punte dietro gli occhi ricordano una maschera da ballo. Le sue corna rosse assomigliano alla metà del simbolo di un cuore e sembrano perforargli il petto, il che implica che la sua capacità di percepire le emozioni è ancora più forte delle sue forme pre-evolute, poiché le corna sono collegate direttamente al suo cuore. Il tipo Folletto di Gardevoir e la natura protettiva nei confronti del suo Allenatore sembrano essere ispirati dagli angeli custodi, e il suo corpo bianco e fluente ricorda fantasmi o spiriti come una dama bianca. La sua grande testa, i lineamenti del viso e il fisico fragile sono simili a quelli dell'anesama ningyō, un tipo di bambola di carta giapponese. MegaGardevoir sembra essere basato su una ballerina di sala che indossa un ampio abito da ballo e guanti da sera. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Gardevoir",
+    "shape": "bipedi",
+    "specie": "Pokémon Abbraccio",
+    "sprites": {
+        "gardevoir": {
+            "default": "https://media.pokemoncentral.it/wiki/7/70/Homem0282.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/9d/Homemsh0282.png"
+        },
+        "megagardevoir": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b1/Homem0282M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d7/Homemsh0282M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1c/Artwork0282_RZ.png"
+    },
+    "stats": {
+        "gardevoir": {
+            "hp": 68,
+            "atk": 65,
+            "def": 65,
+            "spa": 125,
+            "spd": 115,
+            "spe": 80
+        },
+        "megagardevoir": {
+            "hp": 68,
+            "atk": 85,
+            "def": 65,
+            "spa": 165,
+            "spd": 135,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "gardevoir": 518,
+        "megagardevoir": 618
+    },
+    "types": {
+        "gardevoir": [
+            "Psico",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "gardevoir": "48.4 kg"
+    }
+}

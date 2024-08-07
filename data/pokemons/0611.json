@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "fraxure": {
+            "primary": "Antagonismo",
+            "secondary": "Rompiforma",
+            "hidden": "Agitazione"
+        }
+    },
+    "curiosities": [
+        "Fraxure è stato il primo Pokémon di quinta generazione ad essere stato progettato.",
+        "Fraxure rappresenta dicembre nell'oroscopo di Unima."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/fraxure.mp3",
+    "dex_entries": {
+        "fraxure": {
+            "black": "Poiché, una volta spezzate, le zanne non gli ricrescono, alla fine di ogni lotta le affila con delle pietre di fiume.",
+            "white": "Ha zanne in grado di frantumare rocce. Le lotte per il territorio tra i Fraxure sono furibonde.",
+            "black-2": "Le sue zanne non ricrescono più, per cui finita una lotta se ne prende cura e le affila diligentemente con pietre di fiume.",
+            "white-2": "Le sue zanne non ricrescono più, per cui finita una lotta se ne prende cura e le affila diligentemente con pietre di fiume.",
+            "x": "Ha zanne in grado di frantumare rocce. Le lotte per il territorio tra i Fraxure sono furibonde.",
+            "y": "Le sue zanne non ricrescono più, per cui finita una lotta se ne prende cura e le affila diligentemente con pietre di fiume.",
+            "omega-ruby": "Ha zanne in grado di frantumare rocce. Le lotte per il territorio tra i Fraxure sono furibonde.",
+            "alpha-sapphire": "Le sue zanne non ricrescono più, per cui finita una lotta se ne prende cura e le affila diligentemente con pietre di fiume.",
+            "sword": "Se le sue zanne si spezzano, non ricrescono più. Finita la lotta le affila diligentemente con pietre di fiume.",
+            "shield": "La sua pelle è dura quanto una corazza. La sua specialità è lanciarsi sull'avversario e infilzarlo con le zanne.",
+            "scarlet": "Dato che le sue zanne non ricrescono se si spezzano, cerca di usarle soltanto nei momenti cruciali.",
+            "violet": "Usa le grosse zanne per tranciare la preda con precisione e suddividerla in parti da mangiare subito e parti da conservare."
+        }
+    },
+    "egg_groups": [
+        "Mostro",
+        "Drago"
+    ],
+    "flat_name": "fraxure",
+    "generation": 5,
+    "height": {
+        "fraxure": "1.0 m"
+    },
+    "id": 611,
+    "name": "Fraxure",
+    "name_origin": "Combina i termini inglesi axe  e fracture . ",
+    "origin": "è basato un dinosauro, mentre la cresta sulla sua testa ricorda un'ascia. Il suo design potrebbe ispirarsi agli adrosauridi, nello specifico a un saurolofo, con alcuni tratti in comune con il basilisco piumato. Le sue zanne appaiono simili a quelle dello scutosauro o agli zigomi sporgenti dei ceratopi, o anche ad un piccone. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Fraxure",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Mascellascia",
+    "sprites": {
+        "fraxure": {
+            "default": "https://media.pokemoncentral.it/wiki/4/46/Homem0611.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6a/Homemsh0611.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/36/Artwork0611_NB.png"
+    },
+    "stats": {
+        "fraxure": {
+            "hp": 66,
+            "atk": 117,
+            "def": 70,
+            "spa": 40,
+            "spd": 50,
+            "spe": 67
+        }
+    },
+    "stats_sum": {
+        "fraxure": 410
+    },
+    "types": {
+        "fraxure": [
+            "Drago"
+        ]
+    },
+    "weight": {
+        "fraxure": "36.0 kg"
+    }
+}

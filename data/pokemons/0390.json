@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "chimchar": {
+            "primary": "Aiutofuoco",
+            "hidden": "Ferropugno"
+        }
+    },
+    "curiosities": [
+        "Chimchar è l'unico Pokémon iniziale ad appartenere al Gruppo Uova Umanoide.",
+        "Chimchar, insieme a Cyndaquil, è il Pokémon iniziale che si evolve al livello più basso: 14.",
+        "Prima della quinta generazione, Chimchar era l'unico Pokémon ad apprendere Facciata aumentando di livello.",
+        "Nonostante non possieda materialmente una coda, può imparare Codacciaio.",
+        "Chimchar è l'unico Pokémon non evoluto di tipo Fuoco non leggendario introdotto in quarta generazione.",
+        "Senza contare Eevee, Chimchar è l'unico Pokémon iniziale di colore marrone.",
+        "Tra i Pokémon iniziali di Sinnoh, Chimchar è l'unico ad ottenere un secondo tipo già alla prima evoluzione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/chimchar.mp3",
+    "dex_entries": {
+        "chimchar": {
+            "diamond": "Scala agilmente le rocce scoscese e vive in cima ai monti. Prima di dormire spegne le fiamme.",
+            "pearl": "Le fiamme sulla coda, alimentate dai gas della pancia, non si spengono neppure quando piove.",
+            "platinum": "È molto agile. Prima di addormentarsi spegne la fiamma sulla coda per scongiurare il rischio di incendi.",
+            "heartgold": "Le fiamme sulla coda sono alimentate dal gas della pancia. Si affievoliscono quando sta male.",
+            "soulsilver": "Le fiamme sulla coda sono alimentate dal gas della pancia. Si affievoliscono quando sta male.",
+            "black": "È molto agile. Prima di addormentarsi spegne la fiamma sulla coda per scongiurare il rischio di incendi.",
+            "white": "È molto agile. Prima di addormentarsi spegne la fiamma sulla coda per scongiurare il rischio di incendi.",
+            "black-2": "È molto agile. Prima di addormentarsi spegne la fiamma sulla coda per scongiurare il rischio di incendi.",
+            "white-2": "È molto agile. Prima di addormentarsi spegne la fiamma sulla coda per scongiurare il rischio di incendi.",
+            "x": "Le fiamme sulla coda sono alimentate dal gas della pancia. Si affievoliscono quando sta male.",
+            "y": "Le fiamme sulla coda sono alimentate dal gas della pancia. Si affievoliscono quando sta male.",
+            "omega-ruby": "Le fiamme sulla coda, alimentate dai gas della pancia, non si spengono neppure quando piove.",
+            "alpha-sapphire": "Le fiamme sulla coda sono alimentate dal gas della pancia. Si affievoliscono quando sta male.",
+            "brilliant-diamond": "Scala agilmente pareti rocciose e va a vivere sulle cime dei monti. Prima di dormire spegne la sua fiamma.",
+            "shining-pearl": "La fiamma sulla coda, alimentata dai gas della pancia, non si spegne neppure quando piove.",
+            "legends-arceus": "Creatura assai vivace, con il fuoco addosso. Veniva chiamato \"lanterga\" dagli antichi ed era temuto al pari di uno spirito malevolo."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Umanoide"
+    ],
+    "flat_name": "chimchar",
+    "generation": 4,
+    "height": {
+        "chimchar": "0.5 m"
+    },
+    "id": 390,
+    "name": "Chimchar",
+    "name_origin": "Chimchar viene da chimp  e char . ",
+    "origin": "Chimchar è evidentemente basato su una giovane scimmia. La coda infuocata ricalca la figura di Charmander, ed entrambi i Pokémon hanno la radice char nel loro nome. Questo deriva dal loro nome giapponese: Hikozaru  and Hitokage , contenenti l'elemento 火 hi, che vuol dire fuoco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Chimchar",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Scimpanzé",
+    "sprites": {
+        "chimchar": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1c/Homem0390.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1f/Homemsh0390.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/74/Artwork0390_DLPS.png"
+    },
+    "stats": {
+        "chimchar": {
+            "hp": 44,
+            "atk": 58,
+            "def": 44,
+            "spa": 58,
+            "spd": 44,
+            "spe": 61
+        }
+    },
+    "stats_sum": {
+        "chimchar": 309
+    },
+    "types": {
+        "chimchar": [
+            "Fuoco"
+        ]
+    },
+    "weight": {
+        "chimchar": "6.2 kg"
+    }
+}

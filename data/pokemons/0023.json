@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "ekans": {
+            "primary": "Prepotenza",
+            "secondary": "Muta",
+            "hidden": "Agitazione"
+        }
+    },
+    "curiosities": [
+        "Ekans è uno dei quattordici Pokémon che possiede una voce del Pokédex straniera collezionabile in Pokémon Diamante e Perla.",
+        "Ekans sarebbe dovuto comparire in Pokémon Snap, tuttavia non è mai stato inserito nella versione finale del gioco. Ciò vale anche per la sua evoluzione, Arbok.",
+        "Nel primo artwork ufficiale di Ekans, le fasce lungo il corpo del Pokémon erano di colore giallo anziché viola. Nell'artwork ufficiale di terza generazione assume definitivamente l'aspetto attuale, con una sola fascia gialla lungo il \"collo\".",
+        "Il nome prototipo inglese di Ekans era \"Arbo\", lo stesso della romanizzazione del nome giapponese.",
+        "Ekans e Goldeen non sono mai stati scansionati da un Pokédex nella serie animata nonostante abbiano fatto il loro debutto nel secondo episodio di Pokémon Gli albori. Sono quindi i Pokémon con il maggior numero di episodi trasmessi dal loro debutto senza che abbiano mai ricevuto una voce del Pokédex."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ekans.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo",
+        "Drago"
+    ],
+    "flat_name": "ekans",
+    "generation": 1,
+    "height": {
+        "ekans": "2.0 m"
+    },
+    "id": 23,
+    "name": "Ekans",
+    "name_origin": "Ekans potrebbe derivare da snake, serpente, scritto all'incontrario. Arbo potrebbe derivare dall'anagramma di ボア boa, il boa. ",
+    "origin": "Ekans potrebbe essere basato su un boa e su un serpente a sonagli, con i segni nel viso che somigliano a quelli di un cappuccio di un cobra dagli occhiali. Tuttavia, la mancanza di denti, la capacità di inghiottire grandi prede, la caccia alle Uova Pokémon e la reazione alle minacce sono più simili ad un serpente mangia uova. La fascia gialla attorno al collo ricorda quella presente nel Diadophis punctatus. Ekans e Arbok potrebbero essere ispirati anche dal basilisco, poiché erano gli unici Pokémon ad imparare Sguardo Feroce. Si diceva che il basilisco fosse un drago serpentino velenoso che uccideva le persone con il suo sguardo; questo potrebbe spiegare il Gruppo Uova Drago dei due Pokémon. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ekans",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Serpente",
+    "sprites": {
+        "ekans": {
+            "default": "https://media.pokemoncentral.it/wiki/0/03/Homem0023.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0023.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/89/Artwork0023_RFVF.png"
+    },
+    "stats": {
+        "ekans": {
+            "hp": 35,
+            "atk": 60,
+            "def": 44,
+            "spa": 40,
+            "spd": 54,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "ekans": 288
+    },
+    "types": {
+        "ekans": [
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "ekans": "6.9 kg"
+    }
+}

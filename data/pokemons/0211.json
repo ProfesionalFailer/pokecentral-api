@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "qwilfish": {
+            "primary": "Velenopunte",
+            "secondary": "Nuotovelox",
+            "hidden": "Prepotenza"
+        }
+    },
+    "curiosities": [
+        "Qwilfish condivide la stessa specie con la famiglia evolutiva di Jigglypuff e Drifloon. Sono tutti conosciuti come Pokémon Pallone.\n\tÈ l'unico Pokémon Pallone la cui forma di Johto non si evolve né da né verso un altro Pokémon.",
+        "È l'unico Pokémon Pallone la cui forma di Johto non si evolve né da né verso un altro Pokémon.",
+        "Qwilfish e Munchlax sono gli unici Pokémon che imparano Accumulo aumentando di livello, ma non imparano l'uno Introenergia e l'altro Sfoghenergia.\n\tCasualmente, imparano Accumulo allo stesso livello: 25.",
+        "Casualmente, imparano Accumulo allo stesso livello: 25.",
+        "Pur essendo costantemente indicato come un cattivo nuotatore nel Pokédex, Qwilfish è in grado di imparare la mossa Surf.",
+        "Nonostante sia basato su un pesce palla, è costantemente gonfiato, a differenza dell'animale a cui è ispirato che si gonfia solo in caso di pericolo.",
+        "Qwilfish può essere visto come un parallelo di Remoraid. Entrambi sono Pokémon di seconda generazione di tipo Acqua. Qwilfish è esclusivo di Rosso Fuoco, mentre Remoraid è esclusivo di Verde Foglia, ed entrambi i Pokémon possono essere trovati nello stesso luogo in entrambe le versioni, ed entrambi in seconda generazione e in Pokémon Oro HeartGold e Argento SoulSilver possono apparire con le comparse massicce."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/qwilfish.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 2"
+    ],
+    "flat_name": "qwilfish",
+    "generation": 2,
+    "height": {
+        "qwilfish": "0.5 m"
+    },
+    "id": 211,
+    "name": "Qwilfish",
+    "name_origin": "Il nome è una combinazione delle parole \"Quill\"  e \"Fish\" . ",
+    "origin": "Si basa sul pesce palla e sul pesce istrice, ma la capacità di espellere gli aculei velenosi lo rimandano ad una esplosione e quindi potrebbe essere ispirato anche ad una mina navale. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Qwilfish",
+    "shape": "pinne",
+    "specie": "Pokémon Pallone",
+    "sprites": {
+        "qwilfish": {
+            "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0211.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/85/Homemsh0211.png"
+        },
+        "forma-di-hisui": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7c/Homem0211H.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a8/Homemsh0211H.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/eb/Artwork0211_HGSS.png"
+    },
+    "stats": {
+        "qwilfish": {
+            "hp": 65,
+            "atk": 95,
+            "def": 85,
+            "spa": 55,
+            "spd": 55,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "qwilfish": 440
+    },
+    "types": {
+        "qwilfish": [
+            "Veleno",
+            "Acqua"
+        ],
+        "forma-di-hisui": [
+            "Veleno",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "qwilfish": "3.9 kg"
+    }
+}

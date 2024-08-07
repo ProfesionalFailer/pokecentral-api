@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "orthworm": {
+            "primary": "Mangiaterra",
+            "hidden": "Sabbiavelo"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Acciaio",
+        "Pokémon di tipo singolo",
+        "Pokémon nel gruppo di esperienza Lento",
+        "Pokémon di colore Rosa",
+        "Pokémon dalla sagoma n. 02",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon che non fanno parte di una linea di evoluzione",
+        "Pokémon con statistiche base totali di 480"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/orthworm.mp3",
+    "dex_entries": {
+        "orthworm": {
+            "scarlet": "Quando viene assalito da un nemico, fa vibrare le ciglia laterali per investirlo con una tempesta di pugni.",
+            "violet": "Vive in zone sabbiose dal clima secco. Si nutre del ferro contenuto nel terreno per sostentare il suo corpo metallico."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "orthworm",
+    "generation": 9,
+    "height": {
+        "orthworm": "2.5 m"
+    },
+    "id": 968,
+    "name": "Orthworm",
+    "name_origin": "Orthworm potrebbe essere una combinazione di ore  ed earthworm . Mimizuzu potrebbe essere una combinazione di 蚯蚓 mimizu  e 埋める uzumeru . ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Orthworm",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Lombrico",
+    "sprites": {
+        "orthworm": {
+            "default": "https://media.pokemoncentral.it/wiki/0/05/Homem0968.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0f/Homemsh0968.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/34/Artwork0968_SV.png"
+    },
+    "stats": {
+        "orthworm": {
+            "hp": 70,
+            "atk": 85,
+            "def": 145,
+            "spa": 60,
+            "spd": 55,
+            "spe": 65
+        }
+    },
+    "stats_sum": {
+        "orthworm": 480
+    },
+    "types": {
+        "orthworm": [
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "orthworm": "310.0 kg"
+    }
+}

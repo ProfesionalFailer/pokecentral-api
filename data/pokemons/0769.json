@@ -1,0 +1,69 @@
+{
+    "abilities": {
+        "sandygast": {
+            "primary": "Idrorinforzo",
+            "hidden": "Sabbiavelo"
+        }
+    },
+    "curiosities": [
+        "Sandygast ha la più bassa statistica base di velocità tra tutti i Pokémon di tipo Spettro.",
+        "Sandygast e la sua evoluzione, Palossand, sono immuni alla mossa Telecinesi. Tuttavia, l'effetto della mossa rimane se Sandygast o Palossand lo ottengono per mezzo di Staffetta."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sandygast.mp3",
+    "dex_entries": {
+        "sandygast": {
+            "sun": "È nato quando della sabbia ammucchiata da un bambino è stata animata dallo spirito risentito di un viandante morto da solo durante un viaggio.",
+            "moon": "Prende il controllo di chiunque gli metta le mani nella bocca, servendosi delle vittime per accrescere le dimensioni del proprio corpo.",
+            "ultra-sun": "È affezionato alla paletta che ha nel capo. Se arriva un bambino per riprendersela, si scatena una vera e propria zuffa.",
+            "ultra-moon": "A fine giornata bisognerebbe disperdere la sabbia ammucchiata, altrimenti uno spirito potrebbe animarla e generare un Sandygast.",
+            "sword": "È nato quando uno spirito rancoroso si è impossessato di una montagna di sabbia. Tiene molto alla paletta che ha sul capo.",
+            "shield": "Vive principalmente in spiagge sabbiose. Aumenta di dimensioni prendendo il controllo di chiunque gli metta una mano in bocca.",
+            "scarlet": "Se gli capita di perdere la paletta si infila in testa un ramo o un altro oggetto per distrarsi in attesa di trovarne una nuova.",
+            "violet": "Acceca il nemico lanciandogli della sabbia negli occhi e ne approfitta per cercare di avvicinarsi, ma è così lento che spesso la preda fugge via."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "sandygast",
+    "generation": 7,
+    "height": {
+        "sandygast": "0.5 m"
+    },
+    "id": 769,
+    "name": "Sandygast",
+    "name_origin": "Sandygast potrebbe derivare da sandy, sabbioso, e ghast, orribile. Sunabā potrebbe essere una combinazione di 砂場 sunaba, recinto di sabbia, o 砂 suna, sabbia, bar, banco di sabbia, e いないいないばあ inai-inai-baa, gioco del cucù. ",
+    "origin": "Sandygast è ispirato ad un castello di sabbia distrutto. Potrebbe anche essere la rappresentazione ideologica di un diavolo di sabbia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sandygast",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Montesabbia",
+    "sprites": {
+        "sandygast": {
+            "default": "https://media.pokemoncentral.it/wiki/3/31/Homem0769.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/96/Homemsh0769.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0769_SL.png"
+    },
+    "stats": {
+        "sandygast": {
+            "hp": 55,
+            "atk": 55,
+            "def": 80,
+            "spa": 70,
+            "spd": 45,
+            "spe": 15
+        }
+    },
+    "stats_sum": {
+        "sandygast": 320
+    },
+    "types": {
+        "sandygast": [
+            "Terra",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "sandygast": "70.0 kg"
+    }
+}

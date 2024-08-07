@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "shuckle": {
+            "primary": "Vigore",
+            "secondary": "Voracità",
+            "hidden": "Inversione"
+        }
+    },
+    "curiosities": [
+        "In seconda generazione Shuckle aveva una combinazione di tipi unica.",
+        "Shuckle detiene diversi record in fatto di statistiche base:\n\tSe usa Ingannoforza ottiene l'Attacco più alto in assoluto.\n\tAveva la Difesa più alta a pari merito con MegaAggron e MegaSteelix prima dell'ottava generazione.\n\tAveva la Difesa Speciale base più alta prima dell'ottava generazione.\n\tHa l'Attacco Speciale più basso a pari merito con Sandshrew di Alola, Feebas e Bonsly.\n\tHa la Velocità più bassa a pari merito con Munchlax e Pyukumuku.",
+        "Se usa Ingannoforza ottiene l'Attacco più alto in assoluto.",
+        "Aveva la Difesa più alta a pari merito con MegaAggron e MegaSteelix prima dell'ottava generazione.",
+        "Aveva la Difesa Speciale base più alta prima dell'ottava generazione.",
+        "Ha l'Attacco Speciale più basso a pari merito con Sandshrew di Alola, Feebas e Bonsly.",
+        "Ha la Velocità più bassa a pari merito con Munchlax e Pyukumuku.",
+        "Shuckle è il Pokémon in grado di infliggere più danno con un solo attacco  se rispetta le seguenti condizioni:\n\tÈ di livello 100;\n\tLa lotta è in Triplo ed entrambi gli alleati usano Altruismo;\n\tEntrambi gli alleati hanno Regalfiore come abilità  e c'è luce solare intensa;\n\tTiene un Plessimetro;\n\tUsa Ingannoforza;\n\tHa Forzapura o Macroforza come abilità ;\n\tHa usato per la quinta volta Rotolamento potenziato con Ricciolscudo;\n\tRotolamento infligge un brutto colpo;\n\tIl bersaglio è un Ledyba di livello 1;\n\tHa l'Attacco aumentato di 6 livelli e il nemico ha la Difesa diminuita di 6 livelli;\n\tHa la più alta Difesa possibile .",
+        "È di livello 100;",
+        "La lotta è in Triplo ed entrambi gli alleati usano Altruismo;",
+        "Entrambi gli alleati hanno Regalfiore come abilità  e c'è luce solare intensa;",
+        "Tiene un Plessimetro;",
+        "Usa Ingannoforza;",
+        "Ha Forzapura o Macroforza come abilità ;",
+        "Ha usato per la quinta volta Rotolamento potenziato con Ricciolscudo;",
+        "Rotolamento infligge un brutto colpo;",
+        "Il bersaglio è un Ledyba di livello 1;",
+        "Ha l'Attacco aumentato di 6 livelli e il nemico ha la Difesa diminuita di 6 livelli;",
+        "Ha la più alta Difesa possibile .",
+        "Pur essendo in parte di tipo Coleottero, non era in grado di apprendere alcuna mossa di questo tipo prima della quarta generazione.",
+        "Nei giochi di seconda generazione, Shuckle può trasformare una Bacca in Succodibacca dopo una lotta."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/shuckle.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "shuckle",
+    "generation": 2,
+    "height": {
+        "shuckle": "0.6 m"
+    },
+    "id": 213,
+    "name": "Shuckle",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione della parola inglese shuck  e turtle  o barnacle . ",
+    "origin": "Sembra essere basato su un Endolith, organismo che vive dentro rocce porose o nelle conchiglie di altri animali, oppure in un abalone. Potrebbe essere ispirato ad un fungo, che è un tipo di muffa, il tipo più comune di endolith, da qui la sua specie \"Pokémon Muffa\". Potrebbe essere basato anche sulle cocciniglie, piccoli parassiti sgranati che producono un liquido dolciastro noto come melata che attira gli insetti. Sembra avere anche caratteristiche di vari molluschi, in quanto vive dentro una roccia, ha il corpo molliccio, si muove in modo lento e goffo, utilizza il suo acido gastrico per nutrirsi e per abbattere ostacoli, si nutre di cibi fermentati e vive nei pressi dell'acqua. Dal suo aspetto sembra essere basato anche in tartarughe o testuggini. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shuckle",
+    "shape": "insettoide",
+    "specie": "Pokémon Muffa",
+    "sprites": {
+        "shuckle": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f3/Homem0213.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/ea/Homemsh0213.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/29/Artwork0213_HGSS.png"
+    },
+    "stats": {
+        "shuckle": {
+            "hp": 20,
+            "atk": 10,
+            "def": 230,
+            "spa": 10,
+            "spd": 230,
+            "spe": 5
+        }
+    },
+    "stats_sum": {
+        "shuckle": 505
+    },
+    "types": {
+        "shuckle": [
+            "Roccia",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "shuckle": "20.5 kg"
+    }
+}

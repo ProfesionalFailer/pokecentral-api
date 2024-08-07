@@ -1,0 +1,85 @@
+{
+    "abilities": {
+        "frillish": {
+            "primary": "Assorbacqua",
+            "secondary": "Corpofunesto",
+            "hidden": "Umidità"
+        }
+    },
+    "curiosities": [
+        "Nonostante esiste l'artwork del Dream World della forma femminile di Frillish, durante il Global Link userà l'artwork della forma maschile indipendentemente dal sesso.",
+        "Nessun altro Pokémon ha la stessa combinazione di tipi di Frillish e della sua evoluzione Jellicent.",
+        "Il nome beta giapponese di Frillish era プルンス Purunsu."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/frillish.mp3",
+    "dex_entries": {
+        "frillish": {
+            "black": "Avvolge l'avversario con i suoi arti simili a un velo sottile e lo trascina sul fondo del mare.",
+            "white": "Paralizza la preda con il veleno e la porta nella sua dimora a 8000 metri in fondo al mare.",
+            "black-2": "Paralizza la preda con i suoi tentacoli a forma di velo e poi la trascina a 8000 metri sotto il livello del mare.",
+            "white-2": "Paralizza la preda con i suoi tentacoli a forma di velo e poi la trascina a 8000 metri sotto il livello del mare.",
+            "x": "Paralizza la preda con il veleno e la porta nella sua dimora a 8000 metri in fondo al mare.",
+            "y": "Paralizza la preda con i suoi tentacoli a forma di velo e poi la trascina a 8000 metri sotto il livello del mare.",
+            "omega-ruby": "Paralizza la preda con il veleno e la porta nella sua dimora a 8000 metri in fondo al mare.",
+            "alpha-sapphire": "Paralizza la preda con i suoi tentacoli a forma di velo e poi la trascina a 8000 m sotto il livello del mare.",
+            "ultra-sun": "Con i suoi tentacoli a forma di velo avvolge la sua preda mentre nuota e la trascina con sé sul fondo del mare.",
+            "ultra-moon": "I suoi tentacoli a forma di velo sono ricoperti da invisibili pungiglioni velenosi con i quali paralizza il nemico per poi annegarlo."
+        },
+        "maschio": {
+            "sword": "Agguanta la preda con i suoi tentacoli a forma di velo e poi la trascina a 8.000 m sotto il livello del mare.",
+            "shield": "La leggenda narra che i Frillish siano in realtà gli abitanti di un'antica città sommersa che si sono trasformati in Pokémon."
+        },
+        "femmina": {
+            "sword": "Agguanta la preda con i suoi tentacoli a forma di velo e poi la trascina a 8.000 m sotto il livello del mare.",
+            "shield": "I sottili tentacoli a forma di velo celano migliaia di pungiglioni velenosi. Nella femmina, questi pungiglioni sono un po' più lunghi."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "frillish",
+    "generation": 5,
+    "height": {
+        "frillish": "1.2 m"
+    },
+    "id": 592,
+    "name": "Frillish",
+    "name_origin": "Frillish deriva dalle parole inglesi frill  e jellyfish . ",
+    "origin": "Frillish è ispirato probabilmente al Nurahrihyon, uno yokai che appare con l'aspetto di una medusa demoniaca o come un uomo simile ad una medusa vestito raffinatamente o con abiti regali, ed è possibile che abbia tratto ispirazione anche dal Kurage no Hinotama, un tipo di medusa simile al fuoco fatuo. Il suo aspetto è chiaramente ispirato a quello delle meduse a agli abbigliamenti monarchici in stile vittoriano, in particolare la forma maschile basa il suo design sugli abiti di un re, mentre la forma femminile su quelli di una regina. La somiglianza con la medusa luna  ha ispirato il tipo Spettro di questo Pokémon, tuttavia i due tentacoli più lunghi sono più simili a quelli dei calamari che a quelli delle meduse. Frillish possiede anche tratti in cumune con alcuni mostri marini come il Kraken, in quanto si dice che affondino navi e si nutrano dell'equipaggio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Frillish",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Fluttuante",
+    "sprites": {
+        "frillish": {
+            "default": "https://media.pokemoncentral.it/wiki/3/34/Homem0592.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/74/Homemsh0592.png"
+        },
+        "frillish-f": {
+            "default": "https://media.pokemoncentral.it/wiki/7/74/Homef0592.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c0/Homefsh0592.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cb/Artwork0592_NB.png"
+    },
+    "stats": {
+        "frillish": {
+            "hp": 55,
+            "atk": 40,
+            "def": 50,
+            "spa": 65,
+            "spd": 85,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "frillish": 335
+    },
+    "types": {
+        "frillish": [
+            "Spettro",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "frillish": "33 kg"
+    }
+}

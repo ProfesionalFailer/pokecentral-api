@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "ribombee": {
+            "primary": "Mielincetta",
+            "secondary": "Polvoscudo",
+            "hidden": "Dolcevelo"
+        }
+    },
+    "curiosities": [
+        "È l'unico Pokémon, introdotto finora, insieme alla sua pre-evoluzione, a possedere la combinazione di tipi Coleottero/Folletto."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ribombee.mp3",
+    "dex_entries": {
+        "ribombee": {
+            "sun": "Crea delle sfere di polline di vario genere in base alle necessità: alcune gli servono per nutrirsi, altre per lottare.",
+            "moon": "Alcune sfere di polline prodotte da questo Pokémon sono talmente nutrienti da essere vendute come integratori alimentari.",
+            "ultra-sun": "Odia la pioggia perché bagna il polline. Se il tempo si fa minaccioso, si infila nella cavità di un albero e se ne resta lì fermo.",
+            "ultra-moon": "Prevede che tempo farà dall'umidità e dalla direzione del vento. Lo si vede in giro solo durante i periodi di bel tempo stabile.",
+            "sword": "Crea delle sfere di polline e nettare che hanno effetti diversi a seconda degli ingredienti usati e della loro quantità.",
+            "shield": "Odia ritrovarsi madido di pioggia. È raro vederne uno nella regione di Galar, dove il tempo è spesso nuvoloso.",
+            "scarlet": "Quando sente che un Pokémon o un essere umano è triste, lo rincuora con le sfere di polline che produce.",
+            "violet": "Le sfere di polline create dai Ribombee esperti sono prodotti molto popolari perché efficaci contro la stanchezza."
+        }
+    },
+    "egg_groups": [
+        "Coleottero",
+        "Magico"
+    ],
+    "flat_name": "ribombee",
+    "generation": 7,
+    "height": {
+        "ribombee": "0.2 m",
+        "dominante": "0.4 m"
+    },
+    "id": 743,
+    "name": "Ribombee",
+    "name_origin": "Ribombee potrebbe essere una combinazione di ribbon, fiocco, Bombyliidae e bee, ape. Aburibon potrebbe essere una combinazione di 吊虻 tsuriabu, bombilide e ribbon, fiocco. ",
+    "origin": "Ribombee sembra essere basato su di un bombilide. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ribombee",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Bombilide",
+    "sprites": {
+        "ribombee": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0743.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c5/Homemsh0743.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0f/Artwork0743_SL.png"
+    },
+    "stats": {
+        "ribombee": {
+            "hp": 60,
+            "atk": 55,
+            "def": 60,
+            "spa": 95,
+            "spd": 70,
+            "spe": 124
+        }
+    },
+    "stats_sum": {
+        "ribombee": 464
+    },
+    "types": {
+        "ribombee": [
+            "Coleot",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "ribombee": "0.5 kg",
+        "dominante": "2.0 kg"
+    }
+}

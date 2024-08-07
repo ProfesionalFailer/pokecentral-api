@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "omanyte": {
+            "primary": "Nuotovelox",
+            "secondary": "Guscioscudo",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "Il nome originario di Omanyte era \"Ess\", che deriva dall'inizio della parola \"escargot\" .",
+        "Omanyte è uno dei pochi Pokémon la cui cessione di punti esperienza è cambiata in quarta generazione . Gli altri sono Abra, Machop, Geodude e Kabuto.",
+        "In prima generazione, Omanyte poteva imparare Sparalance, sebbene non possedesse spine. Tuttavia la sua evoluzione Omastar le possiede."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/omanyte.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 3"
+    ],
+    "flat_name": "omanyte",
+    "generation": 1,
+    "height": {
+        "omanyte": "0.4 m"
+    },
+    "id": 138,
+    "name": "Omanyte",
+    "name_origin": "Omanyte è un anagramma fonetico di ammonite, la creatura su cui si basa. ",
+    "origin": "Si basa sulla ammonite. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Omanyte",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Spirale",
+    "sprites": {
+        "omanyte": {
+            "default": "https://media.pokemoncentral.it/wiki/4/47/Homem0138.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e3/Homemsh0138.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/4/42/Artwork0138_RFVF.png"
+    },
+    "stats": {
+        "omanyte": {
+            "hp": 35,
+            "atk": 40,
+            "def": 100,
+            "spa": 90,
+            "spd": 55,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "omanyte": 355
+    },
+    "types": {
+        "omanyte": [
+            "Roccia",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "omanyte": "7.5 kg"
+    }
+}

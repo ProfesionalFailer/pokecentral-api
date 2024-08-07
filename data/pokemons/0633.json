@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "deino": {
+            "primary": "Tuttafretta"
+        }
+    },
+    "curiosities": [
+        "Stando alle interviste a Ken Sugimori su Nintendo Dream, Deino e la sua famiglia evolutiva originariamente si basavano sul concept di draghi cyborg con l'aspetto di carri armati. I design furono cestinati fino alle ultime fasi dello sviluppo, dove vennero ripresi e rimodellati sulla base dello Yamata no Orochi.",
+        "Prima della settima generazione Deino, Zweilous e Hydreigon avevano una combinazione di tipi unica.",
+        "Nei nomi della famiglia evolutiva di Deino è inserito il numero di teste in tedesco: infatti Deino contiene ein , Zweilous contiene zwei  e Hydreigon contiene drei .",
+        "Deino è il Pokémon che si evolve completamente il più tardi possibile, in quanto può diventare un Hydreigon solo salendo dal livello 64 in poi.",
+        "Deino e Zweilous sono gli unici Pokémon ad avere Tuttafretta come unica Abilità.",
+        "Deino è l'unico Pokémon con le lettere del nome inglese disposte in ordine alfabetico."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/deino.mp3",
+    "dex_entries": {
+        "deino": {
+            "black": "Ha il vizio di mordere tutto e mangia qualsiasi cosa gli passi davanti. È pericoloso avvicinarlo senza cautela.",
+            "white": "Dal momento che non ci vede, esamina ciò che lo circonda mordendo o lanciandosi di peso. Ha ammaccature su tutto il corpo.",
+            "black-2": "Non vede bene ciò che lo circonda e sbatte qua e là mordendo e mangiando tutto ciò che si muove.",
+            "white-2": "Non vede bene ciò che lo circonda e sbatte qua e là mordendo e mangiando tutto ciò che si muove.",
+            "x": "Dal momento che non ci vede, esamina ciò che lo circonda mordendo o lanciandosi di peso. Ha ammaccature su tutto il corpo.",
+            "y": "Non vede bene ciò che lo circonda e sbatte qua e là mordendo e mangiando tutto ciò che si muove.",
+            "omega-ruby": "Dal momento che non ci vede, esamina ciò che lo circonda mordendo o lanciandosi di peso. Ha ammaccature su tutto il corpo.",
+            "alpha-sapphire": "Non vede bene ciò che lo circonda e sbatte qua e là mordendo e mangiando tutto ciò che si muove.",
+            "sword": "Ha l'abitudine di mordere tutto quello che trova. Si dice che ricordi con precisione il profumo di ciò che ha trovato delizioso.",
+            "shield": "È cieco e si orienta mordicchiando tutto ciò che ha intorno.",
+            "scarlet": "Essendo cieco, esamina le cose mordicchiandole. Finché non prende confidenza, bisogna rassegnarsi ad avere ferite ovunque!",
+            "violet": "Dimora nel profondo delle caverne. Non avendo molto cibo a disposizione, si nutre cercando di addentare tutto ciò che si muove."
+        }
+    },
+    "egg_groups": [
+        "Drago"
+    ],
+    "flat_name": "deino",
+    "generation": 5,
+    "height": {
+        "deino": "0.8 m"
+    },
+    "id": 633,
+    "name": "Deino",
+    "name_origin": "Il suo nome potrebbe derivare dal nome di una delle tre Graie, Deino, oltre che dall'unione della parola inglese dino  con la parola tedesca ein” . Potrebbe inoltre derivare dal termine greco δεινός deinos , o ancora dai nomi di dinosauri Deinosuchus o Deinonychus, e dall'italiano uno. ",
+    "origin": "È basato su un drago, specificamente una versione infantile del Yamata no Orochi. Potrebbe basarsi inoltre sulla salamandra delle caverne , un pletodontide che vive nelle caverne buie lungo corsi d'acqua, noto anche come salamandra cieca per la dimensione ridotta degli occhi. La sua catena evolutiva potrebbe basarsi sulle tre Graie della mitologia greca: queste erano figure tetre dotate di un occhio solo dal quale condividevano la vista, così come Deino e Zweilous sono ciechi, mentre solo la testa centrale di Hydreigon ha l'iride visibile negli occhi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Deino",
+    "shape": "quadrupede",
+    "specie": "Pokémon Impeto",
+    "sprites": {
+        "deino": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c1/Homem0633.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8a/Homemsh0633.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/1f/Artwork0633_NB.png"
+    },
+    "stats": {
+        "deino": {
+            "hp": 52,
+            "atk": 65,
+            "def": 50,
+            "spa": 45,
+            "spd": 50,
+            "spe": 38
+        }
+    },
+    "stats_sum": {
+        "deino": 300
+    },
+    "types": {
+        "deino": [
+            "Buio",
+            "Drago"
+        ]
+    },
+    "weight": {
+        "deino": "17.3 kg"
+    }
+}

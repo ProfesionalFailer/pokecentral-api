@@ -1,0 +1,75 @@
+{
+    "abilities": {
+        "graveler": {
+            "primary": "Testadura",
+            "secondary": "Vigore",
+            "hidden": "Sabbiavelo"
+        },
+        "forma-di-alola": {
+            "primary": "Magnetismo",
+            "secondary": "Vigore",
+            "hidden": "Pellelettro"
+        }
+    },
+    "curiosities": [
+        "Graveler è uno dei quattro Pokémon ad avere quattro braccia, gli altri sono Machamp, Ledian e Cofagrigus.\n\tDi questi Graveler è l'unico che si evolve ancora .\n\tI disegni di Mato del Pokémon mostrano il Graveler di Giallo con solo due braccia invece che quattro, probabilmente per una interpretazione errata dell'artwork del Pokémon. Tutti gli altri Graveler che sono successivamente apparsi in Pokémon Adventures hanno il giusto numero di braccia.",
+        "Di questi Graveler è l'unico che si evolve ancora .",
+        "I disegni di Mato del Pokémon mostrano il Graveler di Giallo con solo due braccia invece che quattro, probabilmente per una interpretazione errata dell'artwork del Pokémon. Tutti gli altri Graveler che sono successivamente apparsi in Pokémon Adventures hanno il giusto numero di braccia.",
+        "Lo sprite di Graveler di Cristallo è diverso da quello di Oro e Argento, rendendolo uno dei pochi Pokémon ad avere tre diversi sprite in seconda generazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/graveler.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "graveler",
+    "generation": 1,
+    "height": {
+        "graveler": "1.0 m"
+    },
+    "id": 75,
+    "name": "Graveler",
+    "name_origin": "Graveler può essere derivato da gravel, ghiaia, o da grave, tomba. Può anche essere una corruzione di groveler, qualcuno che si inchina ai piedi di un superiore. Golone può essere una combinazione di golem e stone. In più, ゴロゴローン gorogorōn è il suono di rotolare, un passatempo di Graveler. ",
+    "origin": "Graveler non condivide molto con altro che non siano massi. Le sue quattro braccia possono essere basate su divinità Hindu come Shiva o Vishnu. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Graveler",
+    "shape": "bipedi",
+    "specie": "Pokémon Roccia",
+    "sprites": {
+        "graveler": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d1/Homem0075.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/03/Homemsh0075.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/8/87/Homem0075A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f9/Homemsh0075A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ae/Artwork0075_RFVF.png"
+    },
+    "stats": {
+        "graveler": {
+            "hp": 55,
+            "atk": 95,
+            "def": 115,
+            "spa": 45,
+            "spd": 45,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "graveler": 390
+    },
+    "types": {
+        "graveler": [
+            "Roccia",
+            "Terra"
+        ],
+        "forma-di-alola": [
+            "Roccia",
+            "Elettro"
+        ]
+    },
+    "weight": {
+        "graveler": "105.0 kg",
+        "forma-di-alola": "110.0 kg"
+    }
+}

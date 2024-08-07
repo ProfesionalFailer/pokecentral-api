@@ -1,0 +1,78 @@
+{
+    "abilities": {
+        "pawniard": {
+            "primary": "Agonismo",
+            "secondary": "Forza Interiore",
+            "hidden": "Pressione"
+        }
+    },
+    "curiosities": [
+        "Pawniard, Bisharp e Kingambit sono gli unici Pokémon ad avere il doppio tipo Buio/Acciaio.",
+        "Pawniard, Bisharp e Kingambit sono gli unici Pokémon che possono avere Agonismo come abilità non nascosta.",
+        "Pawniard è il Pokémon che si evolve più tardi in un Pokémon ancora in grado di evolversi, siccome si evolve in Bisharp al livello 52.\n\tPrima della nona generazione, questo record era detenuto da Deino e Dreepy.",
+        "Prima della nona generazione, questo record era detenuto da Deino e Dreepy."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pawniard.mp3",
+    "dex_entries": {
+        "pawniard": {
+            "black": "Il suo intero corpo è un'arma da taglio. Se le lame si smussano lottando, le affila con pietre di fiume.",
+            "white": "Lotta agli ordini di Bisharp. Si avvinghia alla preda e la attacca con le lame.",
+            "black-2": "Incuranti di ferirsi, si lanciano in gruppo addosso alla preda infilzandola con le lame che hanno sul corpo.",
+            "white-2": "Incuranti di ferirsi, si lanciano in gruppo addosso alla preda infilzandola con le lame che hanno sul corpo.",
+            "x": "Il suo intero corpo è un'arma da taglio. Se le lame si smussano lottando, le affila con pietre di fiume.",
+            "y": "Incuranti di ferirsi, si lanciano in gruppo addosso alla preda infilzandola con le lame che hanno sul corpo.",
+            "omega-ruby": "Il suo intero corpo è un'arma da taglio. Se le lame si smussano lottando, le affila con pietre di fiume.",
+            "alpha-sapphire": "Incuranti di ferirsi, si lanciano in gruppo addosso alla preda infilzandola con le lame che hanno sul corpo.",
+            "ultra-sun": "Dopo aver fatto a pezzi la preda, affila le sue lame con pietre di fiume. Ogni Pawniard ha le sue pietre preferite.",
+            "ultra-moon": "Seguendo prontamente gli ordini di Bisharp, si lancia sul nemico e lo fa a pezzi, poi fa risuonare le sue lame di un clangore metallico.",
+            "sword": "Incalza il nemico con le lame che ha sul corpo, e le mantiene sempre taglienti affilandole con pietre di fiume.",
+            "shield": "Con i suoi simili forma gruppi capeggiati da un Bisharp. Si allena quotidianamente sognando un giorno di diventare il capo del gruppo.",
+            "scarlet": "Sfida anche i nemici più potenti senza timore. Se necessario, si aggrappa all’avversario e lo trafigge con le lame che ha sul corpo.",
+            "violet": "Avere le lame smussate gli può essere fatale. Alla fine di ogni lotta se ne prende cura scrupolosamente con la sua cote preferita."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "pawniard",
+    "generation": 5,
+    "height": {
+        "pawniard": "0.5 m"
+    },
+    "id": 624,
+    "name": "Pawniard",
+    "name_origin": "Il nome deriva dalle parole inglesi pawn  e poniard o poignard . Il suo nome giapponese, コマタナ Komatana, deriva dalle parole 駒 koma , 細切れ komagire , 刀 katana  e 小刀 kogatana . ",
+    "origin": "Pawniard è basato sul pedone degli scacchi, raffigurato spesso come un componente della fanteria di uno schieramento militare, per la somiglianza, per l'origine del suo nome, e per il fatto che Bisharp è ispirato ad un alfiere. Si basa inoltre sui banditi giapponesi, ma potrebbe trarre ispirazione anche dagli ashigaru, fanti medioevali giapponesi, o dai kaijin di alcune serie tv giapponesi, ovvero mostri umanoidi che si comportano come furfanti. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pawniard",
+    "shape": "bipedi",
+    "specie": "Pokémon Lamaffilata",
+    "sprites": {
+        "pawniard": {
+            "default": "https://media.pokemoncentral.it/wiki/8/88/Homem0624.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/40/Homemsh0624.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8a/Artwork0624_NB.png"
+    },
+    "stats": {
+        "pawniard": {
+            "hp": 45,
+            "atk": 85,
+            "def": 70,
+            "spa": 40,
+            "spd": 40,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "pawniard": 340
+    },
+    "types": {
+        "pawniard": [
+            "Buio",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "pawniard": "10.2 kg"
+    }
+}

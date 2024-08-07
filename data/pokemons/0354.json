@@ -1,0 +1,107 @@
+{
+    "abilities": {
+        "banette": {
+            "primary": "Insonnia",
+            "secondary": "Indagine",
+            "hidden": "Corpofunesto"
+        },
+        "megabanette": {
+            "primary": "Burla"
+        }
+    },
+    "curiosities": [
+        "Secondo il Pokédex, l'energia maledetta che si trova in Banette viene liberata quando la cerniera che funge da bocca viene aperta. Nonostante questo, nei giochi, l'animazione di svenimento è caratterizzata dall'apertura della bocca da parte di Banette. Nell'anime ci sono allo stesso modo diverse circostanze nelle quali Banette apre la bocca.",
+        "MegaBanette ha la statistica base di Attacco più alta di tutti i Pokémon di tipo Spettro."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/banette.mp3",
+    "dex_entries": {
+        "banette": {
+            "ruby": "BANETTE genera energia per lanciare terribili maledizioni, conficcandosi alcuni spilli nel corpo. Originariamente questo POKéMON era un dolce peluche, successivamente gettato via.",
+            "sapphire": "Un'energia maledetta ha permeato l'imbottitura di un peluche vecchio e dimenticato, dando vita a BANETTE. Questo POKéMON deve tenere sempre la bocca chiusa per evitare che l'energia accumulata scappi fuori.",
+            "emerald": "I BANETTE si sono generati da peluche vecchi e abbandonati. Pare che vivano nelle discariche e che si aggirino in cerca dei bambini che li hanno gettati via.",
+            "firered": "Peluche trasformato in POKéMON da un forte odio. Appena apre la sua bocca, sprigiona una forte energia negativa.",
+            "leafgreen": "Peluche trasformato in POKéMON da un forte odio. Appena apre la sua bocca, sprigiona una forte energia negativa.",
+            "diamond": "Un peluche divenuto Pokémon per la rabbia di essere stato buttato via da un bimbo, di cui è alla ricerca.",
+            "pearl": "Un peluche divenuto Pokémon per la rabbia di essere stato buttato via da un bimbo, di cui è alla ricerca.",
+            "platinum": "Un peluche divenuto Pokémon per la rabbia di essere stato buttato via da un bimbo, di cui è alla ricerca.",
+            "heartgold": "Peluche mutato in Pokémon dal rancore per essere stato gettato. Bazzica i vicoli bui un po’ nascosti.",
+            "soulsilver": "Peluche mutato in Pokémon dal rancore per essere stato gettato. Bazzica i vicoli bui un po’ nascosti.",
+            "black": "Un peluche divenuto Pokémon per la rabbia di essere stato buttato via da un bimbo, di cui è alla ricerca.",
+            "white": "Un peluche divenuto Pokémon per la rabbia di essere stato buttato via da un bimbo, di cui è alla ricerca.",
+            "black-2": "Un peluche divenuto Pokémon per il rancore di essere stato buttato via da un bimbo, di cui è alla ricerca.",
+            "white-2": "Un peluche divenuto Pokémon per il rancore di essere stato buttato via da un bimbo, di cui è alla ricerca.",
+            "x": "Un peluche divenuto Pokémon per la rabbia di essere stato buttato via da un bimbo, di cui è alla ricerca.",
+            "y": "Peluche trasformato in Pokémon da un forte odio. Appena apre la sua bocca, sprigiona una forte energia negativa.",
+            "omega-ruby": "Banette genera energia per lanciare terribili maledizioni, conficcandosi alcuni spilli nel corpo. Originariamente questo Pokémon era un dolce peluche, successivamente gettato via.",
+            "alpha-sapphire": "Un'energia maledetta ha permeato l'imbottitura di un peluche vecchio e dimenticato, dando vita a Banette. Questo Pokémon deve tenere sempre la bocca chiusa per evitare che l'energia accumulata scappi fuori.",
+            "ultra-sun": "È un peluche pieno di rancore per essere stato buttato via. Cerca senza darsi pace il vecchio proprietario per vendicarsi.",
+            "ultra-moon": "È stato generato dalla rabbia per essere stato buttato via. Si dice che se ci si prende cura di lui, tornerà a essere il peluche di un tempo.",
+            "brilliant-diamond": "Un peluche divenuto Pokémon per il rancore provato per essere stato abbandonato. È alla ricerca del bimbo che l'ha buttato via.",
+            "shining-pearl": "Un peluche divenuto Pokémon per il rancore provato per essere stato abbandonato. È alla ricerca del bimbo che l'ha buttato via.",
+            "scarlet": "Un peluche gettato via, tramutato in Pokémon da un profondo rancore. Lo si vede spesso in vicoli bui.",
+            "violet": "Un peluche trasformato in Pokémon da un odio estremamente intenso. Quando apre la bocca sprigiona una forte energia negativa."
+        },
+        "megabanette": {
+            "ultra-sun": "La sua maledizione, amplificata da un’energia smisurata, diventa incontrollabile, spingendo il Pokémon a odiare persino il suo Allenatore.",
+            "ultra-moon": "La megaevoluzione amplifica il suo rancore facendo erompere l’energia negativa, prima contenuta dalle cerniere."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "banette",
+    "generation": 3,
+    "height": {
+        "banette": "1.1 m",
+        "megabanette": "1.2 m"
+    },
+    "id": 354,
+    "name": "Banette",
+    "name_origin": "Il nome deriva dall'unione delle parole \"Bane\"  e \"Marionette\" . ",
+    "origin": "Il suo aspetto e la sua abitudine di attaccarsi con delle punte, fanno rassomigliare molto Banette a una bambola voodoo. Mentre per la descrizione  della normale bambola che si anima da energia maledetta è simile a Tsukumogami. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Banette",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Marionetta",
+    "sprites": {
+        "banette": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ab/Homem0354.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0354.png"
+        },
+        "megabanette": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b5/Homem0354M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0354M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/32/Artwork0354_RZ.png"
+    },
+    "stats": {
+        "banette": {
+            "hp": 64,
+            "atk": 115,
+            "def": 65,
+            "spa": 83,
+            "spd": 63,
+            "spe": 65
+        },
+        "megabanette": {
+            "hp": 64,
+            "atk": 165,
+            "def": 75,
+            "spa": 93,
+            "spd": 83,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "banette": 455,
+        "megabanette": 555
+    },
+    "types": {
+        "banette": [
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "banette": "12.5 kg",
+        "megabanette": "13.0 kg"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "heracross": {
+            "primary": "Aiutinsetto",
+            "secondary": "Dentistretti",
+            "hidden": "Arroganza"
+        },
+        "megaheracross": {
+            "primary": "Abillegame"
+        }
+    },
+    "curiosities": [
+        "Prima della settima generazione Heracross aveva una combinazione di tipi unica.",
+        "MegaHeracross ha la più alta statistica base di Attacco di tutti i Pokémon non leggendari e di tutti i Pokémon di tipo Coleottero.",
+        "Heracross è uno dei quattordici Pokémon ottenibili in Diamante e Perla con la descrizione del Pokédex in una lingua straniera."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/heracross.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "heracross",
+    "generation": 2,
+    "height": {
+        "heracross": "1.5 m",
+        "megaheracross": "1.7 m"
+    },
+    "id": 214,
+    "name": "Heracross",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione della parola greca \"Ἡρακλῆς\"  con la parola inglese \"cross\" . ",
+    "origin": "È ispirato allo scarabeo rinoceronte giapponese, insetto coleottero con i quali condivide il corno. Questi insetti sono conosciuti per la loro forza, e vengono usati nelle lotte tra insetti, cosa che spiega il tipo Lotta. MegaHeracross è basato su uno scarabeo Ercole. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Heracross",
+    "shape": "bipedi",
+    "specie": "Pokémon Monocorno",
+    "sprites": {
+        "heracross": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e6/Homem0214.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0214.png"
+        },
+        "heracross-f": {
+            "default": "https://media.pokemoncentral.it/wiki/0/02/Homef0214.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/ba/Homefsh0214.png"
+        },
+        "megaheracross": {
+            "default": "https://media.pokemoncentral.it/wiki/6/61/Homem0214M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0214M.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d4/Artwork0214_RFVF.png"
+    },
+    "stats": {
+        "heracross": {
+            "hp": 80,
+            "atk": 125,
+            "def": 75,
+            "spa": 40,
+            "spd": 95,
+            "spe": 85
+        },
+        "megaheracross": {
+            "hp": 80,
+            "atk": 185,
+            "def": 115,
+            "spa": 40,
+            "spd": 105,
+            "spe": 75
+        }
+    },
+    "stats_sum": {
+        "heracross": 500,
+        "megaheracross": 600
+    },
+    "types": {
+        "heracross": [
+            "Coleot",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "heracross": "54.0 kg",
+        "megaheracross": "62.5 kg"
+    }
+}

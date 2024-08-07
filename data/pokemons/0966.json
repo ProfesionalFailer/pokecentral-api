@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "revavroom": {
+            "primary": "Copricapo",
+            "hidden": "Filtro"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Acciaio",
+        "Pokémon di tipo Veleno",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Grigio",
+        "Pokémon dalla sagoma n. 01",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Minerale",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pokémon con statistiche base totali di 500",
+        "Pokémon artificiali"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/revavroom.mp3",
+    "dex_entries": {
+        "revavroom": {
+            "scarlet": "Produce energia facendo esplodere nei suoi otto cilindri un gas che forma mescolando tossine e minerali delle rocce.",
+            "violet": "Intimidisce il nemico con il rumore assordante dei suoi scarichi. Spruzza liquido tossico dalla bocca cilindrica facendo pernacchie."
+        }
+    },
+    "egg_groups": [
+        "Minerale"
+    ],
+    "flat_name": "revavroom",
+    "generation": 9,
+    "height": {
+        "revavroom": "1.8 m"
+    },
+    "id": 966,
+    "name": "Revavroom",
+    "name_origin": "Revavroom potrebbe essere una combinazione di rev  e vroom . Burororomu potrebbe derivare da va-va-va-vroom . ",
+    "origin": "",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Revavroom",
+    "shape": "testa",
+    "specie": "Pokémon Policilindro",
+    "sprites": {
+        "revavroom": {
+            "default": "https://media.pokemoncentral.it/wiki/5/57/Homem0966.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/87/Homemsh0966.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9e/Artwork0966_SV.png"
+    },
+    "stats": {
+        "revavroom": {
+            "hp": 80,
+            "atk": 119,
+            "def": 90,
+            "spa": 54,
+            "spd": 67,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "revavroom": 500
+    },
+    "types": {
+        "revavroom": [
+            "Veleno",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "revavroom": "120.0 kg"
+    }
+}

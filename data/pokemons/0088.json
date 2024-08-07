@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "grimer": {
+            "primary": "Tanfo",
+            "secondary": "Antifurto",
+            "hidden": "Velentocco"
+        },
+        "forma-di-alola": {
+            "primary": "Velentocco",
+            "secondary": "Voracità",
+            "hidden": "Forza Chimica"
+        }
+    },
+    "curiosities": [
+        "Grimer e Gastly sono gli unici Pokémon che non cambiano peso durante l'evoluzione.",
+        "In Un'amica magnetica, il debutto nell'anime di Grimer, aveva un odore molto forte che faceva coprire i nasi delle persone intorno per coprire la puzza. Però, in episodi più recenti, l'odore di Grimer sembra essere svanito. Ciò appare evidente in L'accademia Pokémon estiva! in cui Lucinda ha un Grimer da allevare e lo abbraccia immediatamente, senza nessun commento su eventuali odori.",
+        "Grimer è l'unico Pokémon che può imparare Pugnodombra tramite allevamento. Inoltre, Grimer e Muk sono gli unici Pokémon non di Spettro ad imparare questa mossa.\n\tPuò anche imparare Furtivombra tramite allevamento, senza avere riferimenti a Pokémon di tipo Spettro o ad ombre.",
+        "Può anche imparare Furtivombra tramite allevamento, senza avere riferimenti a Pokémon di tipo Spettro o ad ombre.",
+        "In tutte le sue voci Pokédex, si dice quanto Grimer sia sporco. Condivide questa caratteristica con Magikarp, tutte le cui voci Pokédex fanno riferimento alla sua debolezza.",
+        "Grimer e Muk non possiedono l'abilità Melma, pur essendo noti come Pokémon Melma.",
+        "Grimer ha dei tratti comuni con Koffing e Trubbish: sono tutti e tre Pokémon di tipo Veleno puro  con una singola evoluzione, hanno circa le stesse statistiche di base totali, si evolvono circa allo stesso livello e sono basati su diversi tipi di inquinamento: Grimer è l'inquinamento dell'acqua, Koffing l'inquinamento dell'aria e Trubbish l'inquinamento del suolo.",
+        "Nonostante la descrizione Pokédex di Giallo, può essere trovato nell’erba alta."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/grimer.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "grimer",
+    "generation": 1,
+    "height": {
+        "grimer": "0.9 m",
+        "forma-di-alola": "0.7 m"
+    },
+    "id": 88,
+    "name": "Grimer",
+    "name_origin": "In inglese Grimer significa imbrattatore, con possibile riferimento a grim, sinistro. ",
+    "origin": "Grimer rappresenta sia l'inquinamento che la sua decomposizione, assieme ai loro attributi di insanità e infestazione. È basato essenzialmente sull'inquinamento dell'acqua, infatti la sua forma base è fatta di fango e la forma Alola è fatta di detersivi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Grimer",
+    "shape": "testa e braccia",
+    "specie": "Pokémon Melma",
+    "sprites": {
+        "grimer": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f0/Homem0088.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1d/Homemsh0088.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e2/Homem0088A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0088A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/13/Artwork0088_RFVF.png"
+    },
+    "stats": {
+        "grimer": {
+            "hp": 80,
+            "atk": 80,
+            "def": 50,
+            "spa": 40,
+            "spd": 50,
+            "spe": 25
+        }
+    },
+    "stats_sum": {
+        "grimer": 325
+    },
+    "types": {
+        "grimer": [
+            "Veleno"
+        ],
+        "forma-di-alola": [
+            "Veleno",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "grimer": "30.0 kg",
+        "forma-di-alola": "42.0 kg"
+    }
+}

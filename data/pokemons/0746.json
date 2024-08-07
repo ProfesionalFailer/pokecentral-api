@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "wishiwashi": {
+            "primary": "Banco"
+        }
+    },
+    "curiosities": [
+        "Nella sua forma Individuale, Wishiwashi è il Pokémon con il totale delle statistiche più basso.\n\tI 620 punti della sua forma Banco, invece, sono il terzo totale delle statistiche più alto tra i Pokémon non leggendari, non misteriosi e non megaevoluti, dopo Palafin Forma Possente e Slaking.\n\tWishiwashi forma Banco rimane comunque il Pokémon non evoluto con il totale delle statistiche più alto escludendo i leggendari e i misteriosi, alcuni dei quali hanno comunque un totale inferiore.",
+        "I 620 punti della sua forma Banco, invece, sono il terzo totale delle statistiche più alto tra i Pokémon non leggendari, non misteriosi e non megaevoluti, dopo Palafin Forma Possente e Slaking.\n\tWishiwashi forma Banco rimane comunque il Pokémon non evoluto con il totale delle statistiche più alto escludendo i leggendari e i misteriosi, alcuni dei quali hanno comunque un totale inferiore.",
+        "Wishiwashi forma Banco rimane comunque il Pokémon non evoluto con il totale delle statistiche più alto escludendo i leggendari e i misteriosi, alcuni dei quali hanno comunque un totale inferiore.",
+        "Wishiwashi è uno dei quattro Pokémon che cambiano forma quando raggiungono un certo numero di PS in battaglia. Gli altri sono Minior, Zygarde con Sciamefusione e Darmanitan con Stato Zen."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/wishiwashi.mp3",
+    "dex_entries": {
+        "forma-individuale": {
+            "sun": "Quando è in pericolo, i suoi occhi iniziano a brillare e il luccichio richiama i suoi simili, con cui forma un banco per attaccare il nemico.",
+            "moon": "A causa dell’aspetto inoffensivo e del sapore delizioso, attira su di sé molti predatori che però si pentono regolarmente di averlo importunato.",
+            "ultra-sun": "È molto debole, per questo agisce sempre con il suo banco. Spesso, però, si vedono esemplari vagare da soli dopo aver perso di vista gli altri.",
+            "ultra-moon": "Quando si trova in difficoltà chiede aiuto ai suoi compagni emettendo una luce dalle pupille visibile fino a 40 km di distanza.",
+            "sword": "Presi singolarmente sono estremamente deboli. Ciò li ha portati ad acquisire l'abilità di formare un banco quando affrontano il nemico.",
+            "shield": "Quando percepisce un pericolo gli lacrimano gli occhi. Lo scintillio delle sue lacrime è un segnale che indica ai suoi simili di radunarsi."
+        },
+        "forma-banco": {
+            "sun": "Poiché sono molto deboli, si organizzano in banchi. Quando si uniscono formano un mostro marino conosciuto come “Demone del mare”.",
+            "moon": "Se assume questo aspetto, fa paura anche ai Gyarados. Se più esemplari usano Pistolacqua in gruppo, raggiungono la potenza di Idropompa.",
+            "ultra-sun": "I Wishiwashi si uniscono in questa forma per affrontare il nemico. La forza di questa creatura le ha valso il nome di \"Demone del mare\".",
+            "ultra-moon": "Viene chiamato anche \"Demone del mare\". Se troppi Wishiwashi scappano per le ferite riportate, il banco si disperde.",
+            "sword": "Presi singolarmente sono deboli, ma unendo le forze possono dare vita a una creatura chiamata \"demone del mare\".",
+            "shield": "I Wishiwashi affrontano i nemici più forti uniti in questa forma. Se si feriscono durante la lotta, il banco si disperde."
+        }
+    },
+    "egg_groups": [
+        "Acqua 2"
+    ],
+    "flat_name": "wishiwashi",
+    "generation": 7,
+    "height": {
+        "forma-individuale": "0.2 m",
+        "forma-banco": "8.2 m"
+    },
+    "id": 746,
+    "name": "Wishiwashi",
+    "name_origin": "Wishiwashi potrebbe derivare da wishy-washy e 鰯 iwashi, sardina. Yowashi potrebbe essere una combinazione di 弱し yowai  o di 弱々しい yowayowashii, fragile, e di イワシ iwashi, sardina. ",
+    "origin": "La forma individuale di Wishiwashi è ispirata ad una sardina. La forma Banco, invece, è ispirata al fenomeno dei banchi di pesci che si fingono un'unica creatura o anche ad un sottomarino o all'estinto Dunkleosteus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Wishiwashi",
+    "shape": "pinne",
+    "specie": "Pokémon Pesciolino",
+    "sprites": {
+        "forma-individuale": {
+            "default": "https://media.pokemoncentral.it/wiki/9/99/Homem0746.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/01/Homemsh0746.png"
+        },
+        "forma-banco": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e3/Homem0746B.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b6/Homemsh0746B.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/62/Artwork0746_SL.png"
+    },
+    "stats": {
+        "forma-individuale": {
+            "hp": 45,
+            "atk": 20,
+            "def": 20,
+            "spa": 25,
+            "spd": 25,
+            "spe": 40
+        },
+        "forma-banco": {
+            "hp": 45,
+            "atk": 140,
+            "def": 130,
+            "spa": 140,
+            "spd": 135,
+            "spe": 30
+        }
+    },
+    "stats_sum": {
+        "forma-individuale": 175,
+        "forma-banco": 620
+    },
+    "types": {
+        "wishiwashi": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "forma-individuale": "0.3 kg",
+        "forma-banco": "78.6 kg"
+    }
+}

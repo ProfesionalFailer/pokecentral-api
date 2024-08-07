@@ -1,0 +1,72 @@
+{
+    "abilities": {
+        "pangoro": {
+            "primary": "Ferropugno",
+            "secondary": "Rompiforma",
+            "hidden": "Nervisaldi"
+        }
+    },
+    "curiosities": [
+        "Pangoro non impara nessuna mossa speciale naturalmente, né aumentando di livello né tramite accoppiamento: bisogna ricorrere a MT, MN o all'Insegnamosse per far sì che Pangoro conosca questa categoria di mosse."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pangoro.mp3",
+    "dex_entries": {
+        "pangoro": {
+            "x": "Ha un carattere focoso e attaccabrighe, ma non sopporta chi maltratta i più deboli. Usa la foglia che tiene in bocca per prevedere i movimenti dei nemici.",
+            "y": "Quando lotta, avanza impetuosamente senza curarsi dei colpi nemici. Le sue braccia sono talmente forti che potrebbe spezzare in due un palo della luce.",
+            "omega-ruby": "Ha un carattere focoso e attaccabrighe, ma non sopporta chi maltratta i più deboli. Usa la foglia che tiene in bocca per prevedere i movimenti dei nemici.",
+            "alpha-sapphire": "Quando lotta, avanza impetuosamente senza curarsi dei colpi nemici. Le sue braccia sono talmente forti che potrebbe spezzare in due un palo della luce.",
+            "sun": "Va molto fiero dell'enorme forza delle sue braccia. Gli Allenatori sono avvisati: la lingua che capisce meglio è quella dei pugni.",
+            "moon": "È un attaccabrighe, ma è anche generoso con gli amici. Prevede i movimenti dei nemici dalle vibrazioni della foglia che tiene in bocca.",
+            "ultra-sun": "È aggressivo e va molto fiero della forza delle sue braccia. Molti Allenatori vanno matti per il suo carattere intrepido.",
+            "ultra-moon": "Preferisce parlare la lingua dei pugni. Si lancia alla carica con un impeto tale da far prendere il volo a un autocarro.",
+            "sword": "Ha un'indole focosa e sistema ogni diatriba con la forza delle braccia. Il suo spirito combattivo arde quando lotta con Obstagoon.",
+            "shield": "Prevede i movimenti dei nemici dalle vibrazioni della foglia che tiene in bocca. Con un pugno può fare a pezzi un camion ribaltabile."
+        }
+    },
+    "egg_groups": [
+        "Campo",
+        "Umanoide"
+    ],
+    "flat_name": "pangoro",
+    "generation": 6,
+    "height": {
+        "pangoro": "2.1 m"
+    },
+    "id": 675,
+    "name": "Pangoro",
+    "name_origin": "Pangoro e Goronda può derivare dalla fusione delle parole ごろごろ gorogoro  e \"panda\".\nCondivide inoltre un'assonanza con \"Punong Guro\", col quale si indica il Grande Maestro delle arti marziali filippine. ",
+    "origin": "Pangoro è basato su un panda gigante, anche se il suo carattere stizzoso è più riconducibile ad un grizzly o a un gorilla. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pangoro",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Occhiotruce",
+    "sprites": {
+        "pangoro": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e8/Homem0675.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0675.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0675_XY.png"
+    },
+    "stats": {
+        "pangoro": {
+            "hp": 95,
+            "atk": 124,
+            "def": 78,
+            "spa": 69,
+            "spd": 71,
+            "spe": 58
+        }
+    },
+    "stats_sum": {
+        "pangoro": 495
+    },
+    "types": {
+        "pangoro": [
+            "Buio",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "pangoro": "136.0 kg"
+    }
+}

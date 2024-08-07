@@ -1,0 +1,76 @@
+{
+    "abilities": {
+        "throh": {
+            "primary": "Dentistretti",
+            "secondary": "Forza Interiore",
+            "hidden": "Rompiforma"
+        }
+    },
+    "curiosities": [
+        "Throh e Sawk possiedono alcuni punti in comune con i Pokémon della prima generazione Hitmonlee e Hitmonchan, in quanto entrambi sono Pokémon di tipo Lotta che sembrerebbero essere imparentati.",
+        "Throh è uno dei pochi Pokémon non leggendari o misteriosi dotati di sesso che non è in grado di riprodursi in natura senza un Ditto, così come Sawk, Rufflet, Braviary, Tauros, Hitmonlee e Hitmonchan.",
+        "Salendo di livello, Throh è solamente in grado di imparare mosse Fisiche e di Stato.\n\tComplessivamente, le uniche mosse speciali che può imparare sono Coro, Focalcolpo, Laccioerboso e Introforza, tutte tramite MT.",
+        "Complessivamente, le uniche mosse speciali che può imparare sono Coro, Focalcolpo, Laccioerboso e Introforza, tutte tramite MT.",
+        "Throh e la sua controparte sono stati disegnati da Ken Sugimori.",
+        "Nell'anime e in PokéPark 2: Il Mondo dei Desideri Throh è leggermente più alto di Sawk, nonostante il Pokédex affermi che quest'ultimo sia più basso di circa dieci centimetri.",
+        "Throh e Sawk sono gli unici Pokémon che indossano vestiti anche allo stato selvatico"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/throh.mp3",
+    "dex_entries": {
+        "throh": {
+            "black": "La cintura da karate lo rende più forte. I Throh selvatici si costruiscono le cinture usando piante rampicanti.",
+            "white": "Ha il vizio di affrontare avversari più grandi di lui. In genere si sposta in gruppi di cinque individui.",
+            "black-2": "Quando incontra un avversario più grande di lui, lo assale l'istinto di lanciarlo via. Cambia cintura quando diventa più forte.",
+            "white-2": "Quando incontra un avversario più grande di lui, lo assale l'istinto di lanciarlo via. Cambia cintura quando diventa più forte.",
+            "x": "La cintura da karate lo rende più forte. I Throh selvatici si costruiscono le cinture usando piante rampicanti.",
+            "y": "Quando incontra un avversario più grande di lui, lo assale l'istinto di lanciarlo via. Cambia cintura quando diventa più forte.",
+            "omega-ruby": "La cintura da karate lo rende più forte. I Throh selvatici si costruiscono le cinture usando piante rampicanti.",
+            "alpha-sapphire": "Quando incontra un avversario più grande di lui, lo assale l'istinto di lanciarlo via. Cambia cintura quando diventa più forte.",
+            "sword": "È molto bravo nelle tecniche di lancio. Il sudore prodotto durante la lotta impregna la sua cintura da karate e la rende più scura",
+            "shield": "Si allenano in gruppi di cinque. Se uno di loro non riesce a stare al passo con l'allenamento, getta via la cintura e abbandona il gruppo."
+        }
+    },
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "throh",
+    "generation": 5,
+    "height": {
+        "throh": "1.3 m"
+    },
+    "id": 538,
+    "name": "Throh",
+    "name_origin": "Throh è una corruzione di throw  e potrebbe anche derivare da ROH. Il suo nome giapponese, Nageki, è la combinazione delle parole 投げる nageru  e 撃 geki . ",
+    "origin": "Throh sembrerebbe essere basato su un maestro di judo e un oni. Secondo un'intervista con Ken Sugimori, in origine sia Throh che Sawk erano stati pensati con un paio di corna sul capo, cosa che li avrebbe resi più simili a un oni, ma poi sono state sostituite con le sopracciglia perché non assomigliassero troppo a Tornadus e Thundurus, i cui colori dominanti erano stati pensati inizialmente come rosso e blu, come Sawk e Throh. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Throh",
+    "shape": "bipedi",
+    "specie": "Pokémon Judo",
+    "sprites": {
+        "throh": {
+            "default": "https://media.pokemoncentral.it/wiki/3/35/Homem0538.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f8/Homemsh0538.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2b/Artwork0538_NB.png"
+    },
+    "stats": {
+        "throh": {
+            "hp": 120,
+            "atk": 100,
+            "def": 85,
+            "spa": 30,
+            "spd": 85,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "throh": 465
+    },
+    "types": {
+        "throh": [
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "throh": "55.5 kg"
+    }
+}

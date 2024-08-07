@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "abra": {
+            "primary": "Sincronismo",
+            "secondary": "Forza Interiore",
+            "hidden": "Magicscudo"
+        }
+    },
+    "curiosities": [
+        "\"Hocus\" fu il nome inglese originale di Abra.",
+        "Abra e le sue evoluzioni hanno tutte per nome una parola magica.",
+        "Abra è uno dei pochi Pokémon che non imparano per livello mosse con bonus di tipo.",
+        "Nelle prime tre generazioni, Abra è sempre stato il primo Pokémon in ordine alfabetico nel Pokédex. Tuttavia, dalla quarta generazione lo è diventato Abomasnow.",
+        "Abra è il primo Pokémon di tipo Psico secondo l'ordine del Pokédex Nazionale.",
+        "Abra è uno dei 5 Pokémon di Kanto la cui esperienza base è cambiata in terza generazione: il suo valore di esperienza base era 73. Gli altri sono Machop, Geodude, Omanyte e Kabuto.",
+        "L'unico sprite di Abra in cui si vedono i suoi occhi è lo sprite di Pokémon Oro, ma anche lì gli occhi sono strizzati.",
+        "Sebbene il Pokédex dica che Abra si teletrasporta mentre dorme, quando è addormentato non può usare Teletrasporto.",
+        "Abra ha avuto fino alla quarta generazione la statistica base di Attacco Speciale più alta fra tutti i Pokémon allora non evoluti appartenenti ad una famiglia evolutiva di tre stadi. Ora condivide questa particolarità con Solosis."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/abra.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Umanoide"
+    ],
+    "flat_name": "abra",
+    "generation": 1,
+    "height": {
+        "abra": "0.9 m"
+    },
+    "id": 63,
+    "name": "Abra",
+    "name_origin": "Il nome di Abra è parte di una formula magica usata per effettuare incantesimi, Abracadabra. Il suo nome giapponese può essere derivato da 消し飛ぶ keshitobu, lanciare lontano, in riferimento alla sua tendenza a teletrasportarsi lontano dalla lotta. ",
+    "origin": "Sembra basato su un mago. Può anche essere messo in riferimento con Edgar Cayce, un \"profeta dormiente\" che asseriva di avere delle visioni durante degli stati di trance. È anche simile alla Capra hircus ed alla Volpe. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Abra",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Psico",
+    "sprites": {
+        "abra": {
+            "default": "https://media.pokemoncentral.it/wiki/9/99/Homem0063.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homemsh0063.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/74/Artwork0063_RFVF.png"
+    },
+    "stats": {
+        "abra": {
+            "hp": 25,
+            "atk": 20,
+            "def": 15,
+            "spa": 105,
+            "spd": 55,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "abra": 310
+    },
+    "types": {
+        "abra": [
+            "Psico"
+        ]
+    },
+    "weight": {
+        "abra": "19.5 kg"
+    }
+}

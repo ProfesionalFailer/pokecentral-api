@@ -1,0 +1,74 @@
+{
+    "abilities": {
+        "hawlucha": {
+            "primary": "Scioltezza",
+            "secondary": "Agiltecnica",
+            "hidden": "Rompiforma"
+        }
+    },
+    "curiosities": [
+        "Prima dell'ottava generazione Hawlucha aveva una combinazione di tipi unica.",
+        "Nonostante sia parzialmente ispirato a un uccello e di tipo Volante, prima dell'ottava generazione non faceva parte del Gruppo Uova Volante."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/hawlucha.mp3",
+    "dex_entries": {
+        "hawlucha": {
+            "x": "Nonostante le piccole dimensioni, è in grado di tenere testa a Pokémon ben più grandi come Machamp o Hariyama.",
+            "y": "Grazie alle sue ali riesce a controllare con la massima precisione i movimenti in aria e attacca dall'alto, in posizione di vantaggio rispetto ai nemici.",
+            "omega-ruby": "Nonostante le piccole dimensioni, è in grado di tenere testa a Pokémon ben più grandi come Machamp o Hariyama.",
+            "alpha-sapphire": "Grazie alle sue ali riesce a controllare con la massima precisione i movimenti in aria e attacca dall'alto, in posizione di vantaggio rispetto ai nemici.",
+            "ultra-sun": "Prevale sul nemico grazie alla sua rapidità, ma a volte per mettersi in mostra aspetta troppo a lanciare l'attacco finale e si trova in difficoltà.",
+            "ultra-moon": "Durante la lotta, si porta con agili salti negli angoli ciechi della visuale dell'avversario. È in grado di eseguire magnifiche leve articolari.",
+            "sword": "Sfrutta la sua agilità per indebolire l'avversario, e conclude la lotta dandogli il colpo di grazia con una mossa grandiosa.",
+            "shield": "Assume sempre una posa speciale prima di sferrare il colpo finale. A volte i nemici approfittano di questo istante per contrattaccare.",
+            "scarlet": "Al momento di sferrare il suo elegante colpo di grazia, si libra in volo grazie alle sue ali. Affina questa tecnica nel bosco in cui è nato e cresciuto.",
+            "violet": "Gli Hawlucha vivono in solitudine e tranquillità. Si scontrano spesso con i Primeape, loro acerrimi nemici, perché formano branchi chiassosi."
+        }
+    },
+    "egg_groups": [
+        "Umanoide",
+        "Volante",
+        "VIII"
+    ],
+    "flat_name": "hawlucha",
+    "generation": 6,
+    "height": {
+        "hawlucha": "0.8 m"
+    },
+    "id": 701,
+    "name": "Hawlucha",
+    "name_origin": "Hawlucha deriva da hawk, falco, e lucha libre una forma di wrestling latinoamericana. Luchabull è una combinazione tra lucha libre e bull, toro. ",
+    "origin": "Hawlucha è chiaramente basato su un volatile e un lottatore di lotta libera, uno stile di combattimento nel quale si preferisce di gran lunga l'uso di manovre aeree a scapito della forza fisica . Inoltre, i suoi colori ricordano la bandiera messicana. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hawlucha",
+    "shape": "bipedi",
+    "specie": "Pokémon Lottalibera",
+    "sprites": {
+        "hawlucha": {
+            "default": "https://media.pokemoncentral.it/wiki/a/af/Homem0701.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/0d/Homemsh0701.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/86/Artwork0701_XY.png"
+    },
+    "stats": {
+        "hawlucha": {
+            "hp": 78,
+            "atk": 92,
+            "def": 75,
+            "spa": 74,
+            "spd": 63,
+            "spe": 118
+        }
+    },
+    "stats_sum": {
+        "hawlucha": 500
+    },
+    "types": {
+        "hawlucha": [
+            "Volante",
+            "Lotta"
+        ]
+    },
+    "weight": {
+        "hawlucha": "21.5 kg"
+    }
+}

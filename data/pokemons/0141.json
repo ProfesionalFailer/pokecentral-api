@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "kabutops": {
+            "primary": "Nuotovelox",
+            "secondary": "Lottascudo",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Rosso e Verde beta, Kabutops è conosciuto come \"Lantis\", parola che deriva da Atlantis.",
+        "In prima generazione, Kabutops presenta un'enorme placca a forma di diamante sulla schiena, che viene rimpiazzata con un'estensione simile ad un corno a partire dalla seconda generazione.",
+        "In Jurassic Pokémon, a Kabutops viene dato un nome scientifico: Kabutops Maximis. L'unico altro Pokémon dotato di nome scientifico è Oddish: Oddium Viandantis.",
+        "Kabuto e Kabutops imparano Idropompa salendo di livello in prima generazione. In seguito, non saranno più in grado di apprendere questa mossa in nessun modo.",
+        "La linea evolutiva di Kabuto condivide la specie con Blastoise. Sono tutti noti come Pokémon Crostaceo."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/kabutops.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 3"
+    ],
+    "flat_name": "kabutops",
+    "generation": 1,
+    "height": {
+        "kabutops": "1.3 m"
+    },
+    "id": 141,
+    "name": "Kabutops",
+    "name_origin": "Il nome deriva dalle parole giapponesi kabuto, elmetto degli antichi guerrieri giapponesi, e kabutogani, granchio reale. \"Tops\" potrebbe riferirsi ai triops, un genere di fossili viventi, oppure al fatto che, dopo l'evoluzione, il suo elmetto si trova sopra, dalla parola inglese \"top\", la testa e non copre più l'intero corpo. ",
+    "origin": "Kabutops è basato su un trilobita. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Kabutops",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Crostaceo",
+    "sprites": {
+        "kabutops": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0141.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b7/Homemsh0141.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/db/Artwork0141_RFVF.png"
+    },
+    "stats": {
+        "kabutops": {
+            "hp": 60,
+            "atk": 115,
+            "def": 105,
+            "spa": 65,
+            "spd": 70,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "kabutops": 495
+    },
+    "types": {
+        "kabutops": [
+            "Roccia",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "kabutops": "40.5 kg"
+    }
+}

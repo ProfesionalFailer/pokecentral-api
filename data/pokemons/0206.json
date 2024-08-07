@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "dunsparce": {
+            "primary": "Leggiadro",
+            "secondary": "Fugafacile",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Nonostante le voci del Pokédex affermino che sia in grado di spiccare brevi voli, non possiede l'abilità Levitazione né può imparare mosse di tipo Volante .",
+        "Nonostante Dunsparce sia un tipo Normale puro, il suo aspetto è facilmente riconducibile ad un tipo Coleottero, la sua capacità di volare lo ricollega al tipo Volante, la sua innata abilità di scavatore lo associa al tipo Terra e la sua origine da serpente mitologico al tipo Drago.\n\tÈ anche l'unico pokemon non di tipo Volante in grado di apprendere Trespolo per livello e l'unico, insieme a Lugia, in grado di apprendere Dragofuria allo stesso modo.",
+        "È anche l'unico pokemon non di tipo Volante in grado di apprendere Trespolo per livello e l'unico, insieme a Lugia, in grado di apprendere Dragofuria allo stesso modo.",
+        "Dunsparce è stato disegnato da Hironobu Yoshida.",
+        "Assieme a Girafarig, Dunsparce è il Pokémon che ha atteso più tempo per ricevere un evoluzione ."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dunsparce.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "dunsparce",
+    "generation": 2,
+    "height": {
+        "dunsparce": "1.5 m"
+    },
+    "id": 206,
+    "name": "Dunsparce",
+    "name_origin": "Il suo nome deriva dalle parole dun  e sparse . ",
+    "origin": "E' basato sullo tsuchinoko, un serpente mitologico giapponese. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dunsparce",
+    "shape": "serpentiforme",
+    "specie": "Pokémon Terraserpe",
+    "sprites": {
+        "dunsparce": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5a/Homem0206.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/14/Homemsh0206.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/b/b7/Artwork0206_HGSS.png"
+    },
+    "stats": {
+        "dunsparce": {
+            "hp": 100,
+            "atk": 70,
+            "def": 70,
+            "spa": 65,
+            "spd": 65,
+            "spe": 45
+        }
+    },
+    "stats_sum": {
+        "dunsparce": 415
+    },
+    "types": {
+        "dunsparce": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "dunsparce": "14.0 kg"
+    }
+}

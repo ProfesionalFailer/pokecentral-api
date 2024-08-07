@@ -1,0 +1,62 @@
+{
+    "abilities": {
+        "ledyba": {
+            "primary": "Aiutinsetto",
+            "secondary": "Sveglialampo",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "Ledyba può essere visto come la controparte di Spinarak. Sono entrambi dei Pokémon di tipo Coleottero introdotti in seconda generazione. Ledyba è esclusivo di Pokémon Argento e di Pokémon Argento SoulSilver mentre Spinarak di Pokémon Oro e Pokémon Oro HeartGold. Nei suddetti giochi, Ledyba è un Pokémon mattutino, mentre Spinarak è un Pokémon notturno. In aggiunta, la loro rarità è invertita, con Ledyba più comune in Pokémon Verde Foglia mentre Spinarak in Pokémon Rosso Fuoco. Entrambi inoltre sono stati aggiunti alla Zona Safari di Pokémon Smeraldo, ed entrambi possono essere ottenuti solo allevando le loro forme evolute in Pokémon Diamante e Perla, Platino, Nero e Bianco. Inoltre, in Pokémon Bianco 2, nel Percorso 22 è possibile trovare la sua evoluzione nelle comparse massicce, mentre in Pokémon Nero 2 l'evoluzione di Spinarak."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ledyba.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "ledyba",
+    "generation": 2,
+    "height": {
+        "ledyba": "1.0 m"
+    },
+    "id": 165,
+    "name": "Ledyba",
+    "name_origin": "Ledyba può essere una corruzione di \"ladybug\"  o un accorciamento corrotto di \"ladybird\". ",
+    "origin": "Ledyba si basa su un Coccinellidae. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Ledyba",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Pentastra",
+    "sprites": {
+        "ledyba": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e0/Homem0165.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f2/Homemsh0165.png"
+        },
+        "ledyba-f": {
+            "default": "https://media.pokemoncentral.it/wiki/7/78/Homef0165.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/92/Homefsh0165.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/87/Artwork0165_RFVF.png"
+    },
+    "stats": {
+        "ledyba": {
+            "hp": 40,
+            "atk": 20,
+            "def": 30,
+            "spa": 40,
+            "spd": 80,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "ledyba": 265
+    },
+    "types": {
+        "ledyba": [
+            "Volante",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "ledyba": "10.8 kg"
+    }
+}

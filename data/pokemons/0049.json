@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "venomoth": {
+            "primary": "Polvoscudo",
+            "secondary": "Lentifumé",
+            "hidden": "Splendicute"
+        }
+    },
+    "curiosities": [
+        "Nonostante Venomoth voli, non è né in parte di tipo Volante, né possiede l'abilità Levitazione, il che lo rende vulnerabile alle mosse di tipo Terra. Condivide questa caratteristica con Beedrill e Dustox. Per coincidenza, tutti questi Pokémon sono di tipo Coleottero/Veleno.\n\tCondivide questa caratteristica anche con Heracross, Volbeat, Illumise, Volcarona, Frosmoth e Orbeetle, che sono tutti dei tipi Coleottero.",
+        "Condivide questa caratteristica anche con Heracross, Volbeat, Illumise, Volcarona, Frosmoth e Orbeetle, che sono tutti dei tipi Coleottero.",
+        "In un primo artwork di Venomoth, erano visibili delle macchie gialle sul retro delle sue ali. Queste sono state rimosse quando l'artwork ufficiale è stato rilasciato.",
+        "Venomoth condivide la sua specie con Dustox: sono entrambi conosciuti come Pokémon Velentarma.",
+        "Nonostante sia in parte un tipo Veleno, Venomoth poteva imparare solo Fangobomba come mossa di questo tipo che infliggesse danno prima della quarta generazione. In prima generazione, Venomoth non poteva imparare nessuna mossa che infliggesse danno di tipo Veleno.\n\tNonostante questo, Koga usa tre Venonat e un Venomoth in Pokémon Giallo.",
+        "Nonostante questo, Koga usa tre Venonat e un Venomoth in Pokémon Giallo.",
+        "Nel manga Pokémon: La Grande Avventura, il Pokédex afferma che la vita dei Venomoth è breve."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/venomoth.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Coleottero"
+    ],
+    "flat_name": "venomoth",
+    "generation": 1,
+    "height": {
+        "venomoth": "1.5 m"
+    },
+    "id": 49,
+    "name": "Venomoth",
+    "name_origin": "Venomoth è probabilmente una combinazione di venom e moth. Morphon potrebbe riferirsi al genere delle farfalle, Morpho. ",
+    "origin": "L'abilità di Venomoth di avvelenare i suoi nemici e i suoi tipi suggeriscono che possa essere basato su una falena della famiglia Arctiinae. Il suo nome giapponese potrebbe implicare che sia stato influenzato dalla sottofamiglia Morphinae delle farfalle; il design delle sue ali sembra essere stato pesantemente influenzato dalle Morfinadi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Venomoth",
+    "shape": "due paia di ali",
+    "specie": "Pokémon Velentarma",
+    "sprites": {
+        "venomoth": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0049.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/81/Homemsh0049.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2b/Artwork0049_RFVF.png"
+    },
+    "stats": {
+        "venomoth": {
+            "hp": 70,
+            "atk": 65,
+            "def": 60,
+            "spa": 90,
+            "spd": 75,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "venomoth": 450
+    },
+    "types": {
+        "venomoth": [
+            "Veleno",
+            "Coleot"
+        ]
+    },
+    "weight": {
+        "venomoth": "12.5 kg"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "comfey": {
+            "primary": "Fiorvelo",
+            "secondary": "Primacura",
+            "hidden": "Alternacura"
+        }
+    },
+    "curiosities": [
+        "Comfey è l'unico Pokémon a far parte del Gruppo Uova Erba a non essere di tipo Erba.",
+        "Comfey, Joltik, Flabébé, Cutiefly e Cosmoem sono i Pokémon più piccoli."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/comfey.mp3",
+    "dex_entries": {
+        "comfey": {
+            "sun": "Alla sua liana ricca di nutrienti attacca dei fiori che così riprendono vigore, emanando piacevoli fragranze.",
+            "moon": "Se si immergono i suoi fiori in un bagno caldo si produce un effetto rilassante. Ciò lo ha reso molto popolare nei centri termali.",
+            "ultra-sun": "Ama adornare di fiori la liana appiccicosa che gli spunta dalla testa. Se resta senza fiori, si fa prendere dall’ansia.",
+            "ultra-moon": "Usa i suoi fluidi corporei per attaccarsi addosso i fiori che raccoglie. Il profumo che emana dai suoi petali ha proprietà curative.",
+            "sword": "Coglie fiori con la sua liana e li usa per decorare il proprio corpo. Non si sa come mai, ma i fiori che ha addosso non appassiscono.",
+            "shield": "Questo Pokémon emette un profumo davvero delizioso. Ogni esemplare ha una fragranza diversa a seconda dei fiori che ha addosso."
+        }
+    },
+    "egg_groups": [
+        "Erba"
+    ],
+    "flat_name": "comfey",
+    "generation": 7,
+    "height": {
+        "comfey": "0.1 m"
+    },
+    "id": 764,
+    "name": "Comfey",
+    "name_origin": "Comfey potrebbe derivare da comfy/comfort, confortevole, fey, fata, e Lei, la tipica collana di fiori hawaiana. Potrebbe derivare anche da Comfrey, il nome inglese della consolida maggiore, una pianta medicinale. Kyuwawā potrebbe essere una combinazione di cure, curare in inglese, 輪 wa, anello e flower, fiore. ",
+    "origin": "Comfey è ispirato ad un Lei, la tipica collana di fiori hawaiana, e le sue proprietà curative potrebbero però ricollegarlo anche alla Floriterapia. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Comfey",
+    "shape": "testa",
+    "specie": "Pokémon Ghirlanda",
+    "sprites": {
+        "comfey": {
+            "default": "https://media.pokemoncentral.it/wiki/5/55/Homem0764.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/2c/Homemsh0764.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/65/Artwork0764_SL.png"
+    },
+    "stats": {
+        "comfey": {
+            "hp": 51,
+            "atk": 52,
+            "def": 90,
+            "spa": 82,
+            "spd": 110,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "comfey": 485
+    },
+    "types": {
+        "comfey": [
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "comfey": "0.3 kg"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "abilities": {
+        "omastar": {
+            "primary": "Nuotovelox",
+            "secondary": "Guscioscudo",
+            "hidden": "Sottilguscio"
+        }
+    },
+    "curiosities": [
+        "In origine il suo nome doveva essere Kargo, come emerge dalle versioni Beta di Pokémon Rosso e Blu. Questo nome è derivato da escargot, il francese per lumaca.",
+        "Omastar è l'unico Pokémon di cui si data una motivazione per la sua estinzione: egli si estinse per fame, essendo il suo guscio troppo pesante da non consentirgli di cacciare."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/omastar.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 1",
+        "Acqua 3"
+    ],
+    "flat_name": "omastar",
+    "generation": 1,
+    "height": {
+        "omastar": "1.0 m"
+    },
+    "id": 139,
+    "name": "Omastar",
+    "name_origin": "Il suo nome nasce dall'unione di una variante fonetica di ammonite e di star . ",
+    "origin": "Sembra essere basato su una qualche specie di ammonite. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Omastar",
+    "shape": "più di 4 arti",
+    "specie": "Pokémon Spirale",
+    "sprites": {
+        "omastar": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fa/Homem0139.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7f/Homemsh0139.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/2b/Artwork0139_RFVF.png"
+    },
+    "stats": {
+        "omastar": {
+            "hp": 70,
+            "atk": 60,
+            "def": 125,
+            "spa": 115,
+            "spd": 70,
+            "spe": 55
+        }
+    },
+    "stats_sum": {
+        "omastar": 495
+    },
+    "types": {
+        "omastar": [
+            "Roccia",
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "omastar": "35.0 kg"
+    }
+}

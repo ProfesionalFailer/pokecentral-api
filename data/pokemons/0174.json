@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "igglybuff": {
+            "primary": "Incantevole",
+            "secondary": "Tenacia",
+            "hidden": "Amicoscudo"
+        }
+    },
+    "curiosities": [
+        "Igglybuff è l'unico Pokémon di seconda generazione il cui nome comincia per I.",
+        "La sua voce Pokédex in Zaffiro dice che può emanare un odore per calmare i nemici, ma non può imparare Profumino.",
+        "Igglybuff ha la statistica base Velocità più bassa di tutti i tipi Folletto. Condivide questa peculiarità con Cleffa.",
+        "Igglybuff e le sue evoluzioni hanno lo stesso nome di specie di Qwilfish e Drifloon: sono tutti noti come Pokémon Pallone.",
+        "Igglybuff, a pari merito con altri cinque Pokémon, ha la statistica base di Difesa Speciale più bassa di tutti i Pokémon.\n\tInoltre, ha la statistica base di Difesa Speciale più bassa di tutti i Pokémon di tipo Normale e Folletto.",
+        "Inoltre, ha la statistica base di Difesa Speciale più bassa di tutti i Pokémon di tipo Normale e Folletto.",
+        "Uno schizzo pre-alpha mostra un Pokémon inutilizzato con lo stesso numero del Pokédex di Igglybuff."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/igglybuff.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "igglybuff",
+    "generation": 2,
+    "height": {
+        "igglybuff": "0.3 m"
+    },
+    "id": 174,
+    "name": "Igglybuff",
+    "name_origin": "Il suo nome deriva da una variazione e un'accorciamento dei nomi delle sue evoluzioni, Jigglypuff e Wigglytuff. ",
+    "origin": "Basato su un palloncino, ricorda anche Kirby. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Igglybuff",
+    "shape": "bipedi",
+    "specie": "Pokémon Pallone",
+    "sprites": {
+        "igglybuff": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8b/Homem0174.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/27/Homemsh0174.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/a9/Artwork0174_RFVF.png"
+    },
+    "stats": {
+        "igglybuff": {
+            "hp": 90,
+            "atk": 30,
+            "def": 15,
+            "spa": 40,
+            "spd": 20,
+            "spe": 15
+        }
+    },
+    "stats_sum": {
+        "igglybuff": 210
+    },
+    "types": {
+        "igglybuff": [
+            "Folletto",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "igglybuff": "1.0 kg"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "abilities": {
+        "koffing": {
+            "primary": "Levitazione",
+            "secondary": "Gas Reagente",
+            "hidden": "Tanfo"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Rosso e Blu beta, Koffing si doveva chiamare \"Ny\", rappresentando l'aria inquinata di New York.\n\tPer questo sarebbe stato, insieme alla sua evoluzione , il Pokémon con il nome italiano più corto. Per ora il record è detenuto da Muk e da Mew, entrambi introdotti in prima generazione.",
+        "Per questo sarebbe stato, insieme alla sua evoluzione , il Pokémon con il nome italiano più corto. Per ora il record è detenuto da Muk e da Mew, entrambi introdotti in prima generazione.",
+        "Koffing e Weezing sono gli unici Pokémon solo di tipo Veleno immuni alle mosse di tipo Terra, grazie alla loro abilità Levitazione.",
+        "Secondo una domanda dell'Esame Pokémon a cui hanno partecipato i personaggi della serie animata, Koffing sarebbe stato scoperto in un bagno pubblico. Però la carta dell'espansione del Team Rocket Koffing dice che Koffing è stato scoperto in una fabbrica di armi. Ma questo potrebbe essere dovuto al fatto che Jessie abbia risposto alla domanda in modo errato, o per un'incoerenza tra il GCC e l'animazione.",
+        "Sembra che il gas dello sprite di Koffing di Pokémon Rosso e Verde assuma la forma delle mani."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/koffing.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "koffing",
+    "generation": 1,
+    "height": {
+        "koffing": "0.6 m"
+    },
+    "id": 109,
+    "name": "Koffing",
+    "name_origin": "Il nome di Koffing è una corruzione della parola inglese coughing, che tossisce. Il suo nome Giapponese è una combinazione di 獰 dō, che significa cattivo o 毒 doku, che significa velenoso, e gas. Il suo nome giapponese può derivare anche dall'espressione brasiliana droga, che significa qualcosa di cattivo, marcio. ",
+    "origin": "Considerando il suo aspetto, la sua abilità di fluttuare, e la sua tendenza ad esplodere, Koffing può essere stato basato su una mina navale galleggiante. Si basa  anche sullo smog e sulle altre forme di inquinamento atmosferico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Koffing",
+    "shape": "testa",
+    "specie": "Pokémon Velenuvola",
+    "sprites": {
+        "koffing": {
+            "default": "https://media.pokemoncentral.it/wiki/9/90/Homem0109.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a9/Homemsh0109.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/13/Artwork0109_RFVF.png"
+    },
+    "stats": {
+        "koffing": {
+            "hp": 40,
+            "atk": 65,
+            "def": 95,
+            "spa": 60,
+            "spd": 45,
+            "spe": 35
+        }
+    },
+    "stats_sum": {
+        "koffing": 340
+    },
+    "types": {
+        "koffing": [
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "koffing": "1.0 kg"
+    }
+}

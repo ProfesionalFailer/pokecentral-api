@@ -1,0 +1,67 @@
+{
+    "abilities": {
+        "shiftry": {
+            "primary": "Clorofilla",
+            "secondary": "Vento Propizio",
+            "hidden": "Arraffalesto"
+        }
+    },
+    "curiosities": [
+        "La linea evolutiva di Shiftry può essere vista come un parallelo alla linea di Ludicolo:\n\tEntrambe sono in parte di tipo Erba.\n\tEntrambe fanno parte di una linea evolutiva a tre stadi i cui componenti si evolvono prima al livello 14 e poi con una pietra evolutiva.\n\tEntrambe sono esclusive di versione tra Pokémon Rubino e Zaffiro.\n\tEntrambe sono basate su creature leggendarie giapponesi o yōkai: la linea di Shiftry è basata sul tengu, mentre quella di Ludicolo è basata sul kappa.",
+        "Entrambe sono in parte di tipo Erba.",
+        "Entrambe fanno parte di una linea evolutiva a tre stadi i cui componenti si evolvono prima al livello 14 e poi con una pietra evolutiva.",
+        "Entrambe sono esclusive di versione tra Pokémon Rubino e Zaffiro.",
+        "Entrambe sono basate su creature leggendarie giapponesi o yōkai: la linea di Shiftry è basata sul tengu, mentre quella di Ludicolo è basata sul kappa."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/shiftry.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo",
+        "Erba"
+    ],
+    "flat_name": "shiftry",
+    "generation": 3,
+    "height": {
+        "shiftry": "1.30 m"
+    },
+    "id": 275,
+    "name": "Shiftry",
+    "name_origin": "\"Shiftry\" potrebbe derivare dalle parole \"shifty\"  e \"tree\" . \"Dirteng\" potrebbe essere una combinazione di \"dirty\"  e 天狗 tengu. ",
+    "origin": "Shiftry sembra essere basato su una quercia e un tengu, yōkai giapponese con il naso lungo che usa i suoi poteri soprannaturali per proteggere le foreste e fare scherzi crudeli alle persone. Come Shiftry, i tengu sono spesso raffigurati con fluenti capelli bianchi e indossano tradizionali sandali di legno chiamati \"geta\". Inoltre brandiscono ventagli magici che hanno il potere di suscitare grandi venti, similmente agli arti di Shiftry e alla sua capacità di apprendere grazie ad essi mosse come Turbine e Tifone, oltre ad avere l'abilità Vento Propizio. La colorazione rossastra della sua forma cromatica potrebbe essere ispirata alla pelle rossa tipica del tengu. Il suo corpo umanoide in legno e la grande bocca possono anche ricordare uno schiaccianoci. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Shiftry",
+    "shape": "bipedi",
+    "specie": "Pokémon Burbero",
+    "sprites": {
+        "shiftry": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0275.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0275.png"
+        },
+        "shiftry-f": {
+            "default": "https://media.pokemoncentral.it/wiki/1/13/Homef0275.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homefsh0275.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/98/Artwork0275_RZ.png"
+    },
+    "stats": {
+        "shiftry": {
+            "hp": 90,
+            "atk": 100,
+            "def": 60,
+            "spa": 90,
+            "spd": 60,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "shiftry": 480
+    },
+    "types": {
+        "shiftry": [
+            "Buio",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "shiftry": "59.6 kg"
+    }
+}

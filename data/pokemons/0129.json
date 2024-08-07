@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "magikarp": {
+            "primary": "Nuotovelox",
+            "hidden": "Paura"
+        }
+    },
+    "curiosities": [
+        "A causa delle sue statistiche ed alle poche mosse in grado di apprendere, Magikarp è spesso ritenuto il Pokémon più debole che esista. Tuttavia, ci sono otto Pokémon più deboli di lui  e uno quanto lui  dal punto di vista delle statistiche base.",
+        "Escludendo i Pokémon degli Allenatori affrontabili in certi edifici lotta e quelli di altri giocatori, Magikarp è, insieme a Regigigas, il Pokémon non glitch a poter essere incontrato sia con il livello più basso, che al livello più alto. Infatti, in Pokémon Platino e Pokémon Nero 2 e Bianco 2, i Magikarp pescati con un Super Amo possono apparire ad un livello qualunque compreso tra l'1 e il 100.",
+        "Magikarp impiega la minor quantità di tempo a schiudersi di tutti i Pokémon che possono schiudersi legittimamente, con cinque cicli uovo.",
+        "Magikarp è l'unico Pokémon a poter imparare mosse di attacco ma a non poter ottenere un bonus di tipo da nessuna di esse. Ciò non include Bolla, ottenibile via evento solo in seconda generazione, e Idropompa, apprendibile in ottava generazione tramite DT.",
+        "Dalla terza alla settima generazione, Magikarp è l'unico Pokémon di tipo Acqua a non poter imparare alcuna mossa di tipo Acqua, nemmeno di Stato.",
+        "Magikarp è uno dei quattro Pokémon di tipo acqua a non poter imparare Surf ",
+        "Magikarp è il primo Pokémon ad essere apparso nei segmenti Ookido hakase no Pokémon kouza.",
+        "La combinazione del Gruppo Uova di Magikarp e della sua evoluzione  è unica.",
+        "Magikarp è uno dei quattordici Pokémon di cui si possono ottenere voci Pokédex straniere in Pokémon Diamante e Perla.",
+        "Magikarp condivide lo stesso nome della specie con Feebas. Sono entrambi noti come Pokémon Pesce.",
+        "Ognuna delle voci Pokédex di Magikarp fa riferimento alla sua mancanza di forza, alla sua tendenza a usare Splash o a entrambe.",
+        "La voce Pokédex di Magikarp di Rosso Fuoco sottolinea la sua mancanza di forza e di velocità. Mentre è effettivamente debole, la sua Velocità di base è di 80, che lo rende piuttosto veloce.",
+        "Le voci Pokédex di Magikarp in Oro e Oro HeartGold e di Platino si contraddicono tra di loro; Oro e Oro HeartGold dicono che Magikarp non salta più di due metri, mentre in Platino afferma che può saltare una montagna dopo aver vissuto molti anni.",
+        "Insieme a Pichu, Rattata e Seedot, Magikarp è il Pokémon più facile da catturare in Pokémon Ranger, necessitando di un solo cerchio.",
+        "Magikarp è uno dei Pokémon più comuni della serie: si può trovare ovunque si possa pescare .",
+        "Magikarp è uno dei pochi Pokémon che possono essere ottenuti in tutti i giochi della serie principale, includendo espansioni e remake.",
+        "Entrambe le abilità di Magikarp aumentano la sua statistica di Velocità in certe situazioni.",
+        "Magikarp appare in ogni Pokédex regionale ad eccezione del Pokédex di Unima.",
+        "Magikarp è, insieme a Blissey, il secondo Pokémon con l'Attacco più basso, con soltanto 10. I primi sono Chansey e Happiny a parimerito con un'attacco di 5."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/magikarp.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Acqua 2",
+        "Drago"
+    ],
+    "flat_name": "magikarp",
+    "generation": 1,
+    "height": {
+        "magikarp": "0.9 m"
+    },
+    "id": 129,
+    "name": "Magikarp",
+    "name_origin": "Il suo nome deriva dalle parole inglesi magic, magico, e karp, carpa. L'aggettivo magic potrebbe essere ironico, in quanto può far pensare che il Pokémon sia forte, quando in realtà è considerato il più debole, oppure potrebbe far riferimento alla sua origine della carpa che si trasforma in drago per magia.\nUn'altra ipotesi è che il nome possa derivare da magi, tre racconti navali, e karp, carpa.\nIl nome giapponese deriva da koi, carpa, e king, re. Questo indica come Magikarp sia il \"re delle carpe\", poiché nell'antichità era molto potente. ",
+    "origin": "Secondo una leggenda cinese, si narra che le carpe, attraversando una cascata, si trasformino in draghi. Ecco perché Magikarp, la carpa, si evolve in Gyarados, il drago, anche se non è di tipo Drago ma l'aspetto lo ricorda ed inoltre può imparare anche mosse di tipo Drago, come Dragodanza. Infatti, su Pokémon Snap, un Magikarp si evolve proprio attraversando una cascata, dimostrandoci, per metafora, che una persona debole può diventare molto forte superando certi ostacoli. Il suo aspetto ricorda una carpa asiatica che inoltre può saltare normalmente fino ai 2,5-3 metri. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Magikarp",
+    "shape": "pinne",
+    "specie": "Pokémon Pesce",
+    "sprites": {
+        "magikarp": {
+            "default": "https://media.pokemoncentral.it/wiki/0/03/Homem0129.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f3/Homemsh0129.png"
+        },
+        "magikarp-f": {
+            "default": "https://media.pokemoncentral.it/wiki/0/07/Homef0129.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/8d/Homefsh0129.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c8/Artwork0129_RFVF.png"
+    },
+    "stats": {
+        "magikarp": {
+            "hp": 20,
+            "atk": 10,
+            "def": 55,
+            "spa": 15,
+            "spd": 20,
+            "spe": 80
+        }
+    },
+    "stats_sum": {
+        "magikarp": 200
+    },
+    "types": {
+        "magikarp": [
+            "Acqua"
+        ]
+    },
+    "weight": {
+        "magikarp": "10.0 kg"
+    }
+}

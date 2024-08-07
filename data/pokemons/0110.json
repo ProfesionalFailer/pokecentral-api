@@ -1,0 +1,79 @@
+{
+    "abilities": {
+        "weezing": {
+            "primary": "Levitazione",
+            "secondary": "Gas Reagente",
+            "hidden": "Tanfo"
+        },
+        "forma-di-galar": {
+            "primary": "Levitazione",
+            "secondary": "Gas Reagente",
+            "hidden": "Nebbiogenesi"
+        }
+    },
+    "curiosities": [
+        "In Pokémon Rosso e Blu beta, Weezing si doveva chiamare \"La\", rappresentando l'aria inquinata di Los Angeles\n\tPer questo sarebbe stato, insieme alla sua pre-evoluzione , il Pokémon con il nome italiano più corto. Per ora il record è detenuto da Muk e da Mew, entrambi introdotti in prima generazione.",
+        "Per questo sarebbe stato, insieme alla sua pre-evoluzione , il Pokémon con il nome italiano più corto. Per ora il record è detenuto da Muk e da Mew, entrambi introdotti in prima generazione.",
+        "Koffing e Weezing sono gli unici Pokémon solo di tipo Veleno immuni alle mosse di tipo Terra, grazie alla loro abilità Levitazione.",
+        "Weezing ha la Difesa più alta di tutti i Pokémon di tipo Veleno.",
+        "In ottava generazione Weezing di Galar aveva una combinazione di tipi unica.",
+        "In alcune occasioni nei giochi, come nelle pagine di riassunto e nelle Gare Pokémon, uno sprite del Pokémon sarà ribaltato orizzontalmente, a meno che il suo corpo sia asimmetrico. Per alcune ragioni, lo sprite di Weezing viene ribaltato in tutte le occasioni nonostante il suo corpo asimmetrico. Però questo può essere spiegato con il gonfiamento e sgonfiamento dei corpi gemelli, come menzionato nel Pokédex, anche se non spiega come mai cambiano anche i disegni sul corpo.",
+        "Nelle voci Pokédex di Pokémon Diamante, Perla e Platino di Weezing si afferma che sono state scoperte forme triple di Weezing; tuttavia non sono state mai mostrate nel mondo dei Pokémon.\n\tAnche se una terza parte di Weezing  appare su ogni Weezing mostrato finora.",
+        "Anche se una terza parte di Weezing  appare su ogni Weezing mostrato finora."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/weezing.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "weezing",
+    "generation": 1,
+    "height": {
+        "weezing": "1.2 m",
+        "forma-di-galar": "3.0 m"
+    },
+    "id": 110,
+    "name": "Weezing",
+    "name_origin": "Potrebbe derivare da wheezing  o dalle parole wee  e zing . ",
+    "origin": "Come per Koffing, dovrebbe assomigliare a due mine unite. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Weezing",
+    "shape": "corpi multipli",
+    "specie": "Pokémon Velenuvola",
+    "sprites": {
+        "weezing": {
+            "default": "https://media.pokemoncentral.it/wiki/6/69/Homem0110.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0110.png"
+        },
+        "forma-di-galar": {
+            "default": "https://media.pokemoncentral.it/wiki/0/04/Homem0110G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/78/Homemsh0110G.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/6a/Artwork0110_RFVF.png"
+    },
+    "stats": {
+        "weezing": {
+            "hp": 65,
+            "atk": 90,
+            "def": 120,
+            "spa": 85,
+            "spd": 70,
+            "spe": 60
+        }
+    },
+    "stats_sum": {
+        "weezing": 490
+    },
+    "types": {
+        "weezing": [
+            "Veleno"
+        ],
+        "forma-di-galar": [
+            "Veleno",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "weezing": "9.5 kg",
+        "forma-di-galar": "16.0 kg"
+    }
+}

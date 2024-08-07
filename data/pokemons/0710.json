@@ -1,0 +1,127 @@
+{
+    "abilities": {
+        "pumpkaboo": {
+            "primary": "Raccolta",
+            "secondary": "Indagine",
+            "hidden": "Insonnia"
+        }
+    },
+    "curiosities": [
+        "Pumpkaboo nella Forma Maxi ha il verso più lungo e profondo rispetto alle altre tre forme.",
+        "Soltanto nella Forma Grande e nella Forma Maxi può avere l'abilità Nascota Insonnia; il primo si può trovare nel Safari Amici, mentre il secondo distribuito come evento."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/pumpkaboo.mp3",
+    "dex_entries": {
+        "pumpkaboo": {
+            "x": "Pokémon nato quando uno spirito inquieto è entrato in una zucca. Si attiva dopo il calar del sole.",
+            "y": "Si dice che aiuti le anime smarrite a ritrovare il cammino.",
+            "omega-ruby": "Pokémon nato quando uno spirito inquieto è entrato in una zucca. Si attiva dopo il calar del sole.",
+            "alpha-sapphire": "Si dice che aiuti le anime smarrite a ritrovare il cammino."
+        },
+        "normale": {
+            "sword": "Le anime che vagano in questo mondo entrano nel suo corpo per iniziare il loro viaggio verso l'aldilà.",
+            "shield": "Con la luce che emana dai buchi nella zucca ipnotizza esseri umani e Pokémon e ne assume il controllo."
+        },
+        "mini": {
+            "sword": "I Pumpkaboo Mini amano accompagnare le anime dei bambini nell'aldilà.",
+            "shield": "Si dice che sia rimasto così piccolo perché ha vissuto in un luogo con poche anime erranti."
+        },
+        "grande": {
+            "sword": "I Pumpkaboo Grandi amano accompagnare le anime degli adulti nell'aldilà.",
+            "shield": "Si dice che sia diventato così grande perché ha vissuto in un luogo con molte anime erranti."
+        },
+        "maxi": {
+            "sword": "I Pumpkaboo Maxi adorano le anime degli esseri umani di corporatura particolarmente robusta.",
+            "shield": "Si dice che sia diventato particolarmente grande perché ha vissuto in un luogo con tantissime anime erranti."
+        }
+    },
+    "egg_groups": [
+        "Amorfo"
+    ],
+    "flat_name": "pumpkaboo",
+    "generation": 6,
+    "height": {
+        "normale": "0.4 m",
+        "mini": "0.3 m",
+        "grande": "0.5 m",
+        "maxi": "0.8 m"
+    },
+    "id": 710,
+    "name": "Pumpkaboo",
+    "name_origin": "Pumpkaboo potrebbe essere una combinazione di pumpkin, zucca, e boo, una parola comune usata per spaventare le persone, o peek-a-boo, gioco del cucù. Bakeccha potrebbe essere una combinazione di お化け obake, spettro, e 南瓜 kabocha, zucca. ",
+    "origin": "Pumpkaboo sembra essere basato su una zucca, in particolare quelle che vengono usate come lanterne ad Halloween: le jack-o'-lantern. Le zucche sono anche note per le loro varie dimensioni, ecco perché esistono esemplari di Pumpkaboo di dimensioni diverse. La parte marrone scuro del corpo e le zanne ricordano i pipistrelli, animali spesso associati alla festa di Halloween. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Pumpkaboo",
+    "shape": "testa",
+    "specie": "Pokémon Zucca",
+    "sprites": {
+        "normale": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d7/Homem0710.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0710.png"
+        },
+        "mini": {
+            "default": "https://media.pokemoncentral.it/wiki/0/02/Homem0710S.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/e/e8/Homemsh0710S.png"
+        },
+        "grande": {
+            "default": "https://media.pokemoncentral.it/wiki/2/25/Homem0710L.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/46/Homemsh0710L.png"
+        },
+        "maxi": {
+            "default": "https://media.pokemoncentral.it/wiki/d/d4/Homem0710XL.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ae/Homemsh0710XL.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/a/af/Artwork0710_XY.png"
+    },
+    "stats": {
+        "normale": {
+            "hp": 49,
+            "atk": 66,
+            "def": 70,
+            "spa": 44,
+            "spd": 55,
+            "spe": 51
+        },
+        "mini": {
+            "hp": 44,
+            "atk": 66,
+            "def": 70,
+            "spa": 44,
+            "spd": 55,
+            "spe": 56
+        },
+        "grande": {
+            "hp": 54,
+            "atk": 66,
+            "def": 70,
+            "spa": 44,
+            "spd": 55,
+            "spe": 46
+        },
+        "maxi": {
+            "hp": 59,
+            "atk": 66,
+            "def": 70,
+            "spa": 44,
+            "spd": 55,
+            "spe": 41
+        }
+    },
+    "stats_sum": {
+        "normale": 335,
+        "mini": 335,
+        "grande": 335,
+        "maxi": 335
+    },
+    "types": {
+        "pumpkaboo": [
+            "Erba",
+            "Spettro"
+        ]
+    },
+    "weight": {
+        "normale": "5.0 kg",
+        "mini": "3.5 kg",
+        "grande": "7.5 kg",
+        "maxi": "15.0 kg"
+    }
+}

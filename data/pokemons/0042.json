@@ -1,0 +1,70 @@
+{
+    "abilities": {
+        "golbat": {
+            "primary": "Forza Interiore",
+            "hidden": "Intrapasso"
+        }
+    },
+    "curiosities": [
+        "Nessun altro Pokémon ha la stessa combinazione di tipo di Golbat e della sua famiglia evolutiva.",
+        "Zubat e Golbat sono i Pokémon di prima generazione che hanno mantenuto una combinazione di tipo unica per più a lungo.",
+        "La famiglia evolutiva di Golbat ha tre doppie resistenze, seconda solo a Heatran, che ne ha cinque.",
+        "Golbat è il primo Pokémon nel Pokédex Nazionale che ha ottenuto una nuova evoluzione in una generazione successiva.",
+        "Fino alla quarta generazione, né Golbat né Zubat potevano imparare Volo pur essendo di tipo Volante.",
+        "Zubat e Golbat appaiono in ogni Pokédex regionale .",
+        "Golbat è uno dei pochi Pokémon che è possibile ottenere in ogni gioco principale, includendo espansioni e remake.",
+        "Fino ad ora, tutte le organizzazioni nemiche nelle principali serie di videogiochi hanno almeno uno dei loro membri che utilizza Golbat e/o un membro della sua famiglia evolutiva.",
+        "Golbat condivide il nome della specie con Zubat, Crobat e Woobat: sono tutti noti come Pokémon Pipistrello.",
+        "La combinazione di colori di Golbat è stata la combinazione di colori di Crobat, invertita. Ciò vale anche per la sua variazione cromatica.."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/golbat.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "golbat",
+    "generation": 1,
+    "height": {
+        "golbat": "1.6 m"
+    },
+    "id": 42,
+    "name": "Golbat",
+    "name_origin": "Il nome Golbat potrebbe trarre origine dalla parola \"gollop,\" che significa \"mangiare o bere rapidamente o avidamente\" e bat . ",
+    "origin": "Probabilmente, Golbat è basato su un desmodus rotundus. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Golbat",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Pipistrello",
+    "sprites": {
+        "golbat": {
+            "default": "https://media.pokemoncentral.it/wiki/3/32/Homem0042.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c9/Homemsh0042.png"
+        },
+        "golbat-f": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5d/Homef0042.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c7/Homefsh0042.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/72/Artwork0042_RFVF.png"
+    },
+    "stats": {
+        "golbat": {
+            "hp": 75,
+            "atk": 80,
+            "def": 70,
+            "spa": 65,
+            "spd": 75,
+            "spe": 90
+        }
+    },
+    "stats_sum": {
+        "golbat": 455
+    },
+    "types": {
+        "golbat": [
+            "Veleno",
+            "Volante"
+        ]
+    },
+    "weight": {
+        "golbat": "55.0 kg"
+    }
+}

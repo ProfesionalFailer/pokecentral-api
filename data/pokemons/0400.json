@@ -1,0 +1,82 @@
+{
+    "abilities": {
+        "bibarel": {
+            "primary": "Disinvoltura",
+            "secondary": "Imprudenza",
+            "hidden": "Altalena"
+        }
+    },
+    "curiosities": [
+        "Bibarel è l'unico Pokémon che possiede il doppio tipo Normale/Acqua."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bibarel.mp3",
+    "dex_entries": {
+        "bibarel": {
+            "diamond": "Sbarra il corso dei fiumi con corteccia e fango per farsi la tana. È noto come lavoratore instancabile.",
+            "pearl": "Fuori dall'acqua si muove molto lentamente, ma riesce a nuotare più velocemente di qualsiasi FEEBAS.",
+            "platinum": "Un fiume in cui BIBAREL ha costruito una diga non straripa mai, cosa molto apprezzata da chi ci vive vicino.",
+            "heartgold": "Costruisce con zelo la tana in riva ai corsi d'acqua, levigando radici e rami con gli affilati incisivi.",
+            "soulsilver": "Costruisce con zelo la tana in riva ai corsi d'acqua, levigando radici e rami con gli affilati incisivi.",
+            "black": "Un fiume in cui Bibarel ha costruito una diga non straripa mai, cosa molto apprezzata da chi ci vive vicino.",
+            "white": "Un fiume in cui Bibarel ha costruito una diga non straripa mai, cosa molto apprezzata da chi ci vive vicino.",
+            "black-2": "Un fiume in cui Bibarel ha costruito una diga non straripa mai, cosa molto apprezzata da chi ci vive vicino.",
+            "white-2": "Un fiume in cui Bibarel ha costruito una diga non straripa mai, cosa molto apprezzata da chi ci vive vicino.",
+            "x": "Costruisce con zelo la tana in riva ai corsi d'acqua, levigando radici e rami con gli affilati incisivi.",
+            "y": "Sbarra il corso dei fiumi con corteccia e fango per farsi la tana. È noto come lavoratore instancabile.",
+            "omega-ruby": "Costruisce con zelo la tana in riva ai corsi d'acqua, levigando radici e rami con gli affilati incisivi.",
+            "alpha-sapphire": "Sbarra il corso dei fiumi con corteccia e fango per farsi la tana. È noto come lavoratore instancabile.",
+            "brilliant-diamond": "Sbarra il corso dei fiumi con dighe fatte di corteccia e fango per farsi la tana. È noto per essere un lavoratore instancabile.",
+            "shining-pearl": "Fuori dall'acqua si muove molto lentamente, ma quando nuota è veloce quanto un Feebas.",
+            "legends-arceus": "Il pregevole vello repelle eccelsamente l'acqua e tiene calde le membra. Edifica dighe sui corsi fluviali e vi costruisce la sua tana."
+        }
+    },
+    "egg_groups": [
+        "Acqua 1",
+        "Campo"
+    ],
+    "flat_name": "bibarel",
+    "generation": 4,
+    "height": {
+        "bibarel": "1.0 m"
+    },
+    "id": 400,
+    "name": "Bibarel",
+    "name_origin": "Il suo nome probabilmente deriva dall'unione della parola inglese inglesi beaver , o della corrispondente tedesca biber , o la traslitterazione del giapponese ビーバー biibaa  e barrel . Potrebbe anche avere a che fare il termine bib . ",
+    "origin": "È basato sui castori. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bibarel",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Castoro",
+    "sprites": {
+        "bibarel": {
+            "default": "https://media.pokemoncentral.it/wiki/2/21/Homem0400.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/aa/Homemsh0400.png"
+        },
+        "bibarel-f": {
+            "default": "https://media.pokemoncentral.it/wiki/4/4e/Homef0400.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6e/Homefsh0400.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/26/Artwork0400_DP.png"
+    },
+    "stats": {
+        "bibarel": {
+            "hp": 79,
+            "atk": 85,
+            "def": 60,
+            "spa": 55,
+            "spd": 60,
+            "spe": 71
+        }
+    },
+    "stats_sum": {
+        "bibarel": 410
+    },
+    "types": {
+        "bibarel": [
+            "Acqua",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "bibarel": "31.5 kg"
+    }
+}

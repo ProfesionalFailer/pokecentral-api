@@ -1,0 +1,90 @@
+{
+    "abilities": {
+        "raticate": {
+            "primary": "Fugafacile",
+            "secondary": "Dentistretti",
+            "hidden": "Tuttafretta"
+        },
+        "forma-di-alola": {
+            "primary": "Voracità",
+            "secondary": "Tuttafretta",
+            "hidden": "Grassospesso"
+        }
+    },
+    "curiosities": [
+        "Rattata e Raticate condividono la loro categoria con Pikachu, Raichu, Sandshrew, Sandslash, Pawmi e Pawmo. Tutti e otto sono noti come Pokémon Topo.\n\tPrima della terza generazione, Rattata e Raticate erano noti come Pokémon Ratto.",
+        "Prima della terza generazione, Rattata e Raticate erano noti come Pokémon Ratto.",
+        "Il tasso di cattura di Raticate era 90 in prima e seconda generazione. È stato cambiato in 127 dalla terza generazione.",
+        "Raticate è l'unico Pokémon che ha il numero del Pokédex Nazionale uguale al livello necessario per evolversi dalla sua forma base."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/raticate.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "raticate",
+    "generation": 1,
+    "height": {
+        "raticate": "0.7 m",
+        "forma-di-alola": "0.7 m",
+        "dominante": "1.4 m"
+    },
+    "id": 20,
+    "name": "Raticate",
+    "name_origin": "Raticate potrebbe essere una combinazione di rat, ratto, e eradicate, estirpare, o masticate, masticare . Ratta potrebbe derivare da ラット rat, ratto. ",
+    "origin": "Raticate potrebbe essere basato sul topo muschiato, un roditore semi-acquatico. Le orecchie trasandate del Pokémon sembrano quelle di una cavia domestica. Le zampe palmate, invece, potrebbero prendere ispirazione dalla nutria. Raticate di Alola potrebbe essere basato su un ratto del Pacifico. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Raticate",
+    "shape": "quadrupede",
+    "specie": "Pokémon Topo",
+    "sprites": {
+        "raticate": {
+            "default": "https://media.pokemoncentral.it/wiki/8/84/Homem0020.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0020.png"
+        },
+        "raticate-f": {
+            "default": "https://media.pokemoncentral.it/wiki/1/1e/Homef0020.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c6/Homefsh0020.png"
+        },
+        "forma-di-alola": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c7/Homem0020A.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0020A.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d2/Artwork0020_RFVF.png"
+    },
+    "stats": {
+        "raticate": {
+            "hp": 55,
+            "atk": 81,
+            "def": 60,
+            "spa": 50,
+            "spd": 70,
+            "spe": 97
+        },
+        "forma-di-alola": {
+            "hp": 75,
+            "atk": 71,
+            "def": 70,
+            "spa": 40,
+            "spd": 80,
+            "spe": 77
+        }
+    },
+    "stats_sum": {
+        "raticate": 413,
+        "forma-di-alola": 413
+    },
+    "types": {
+        "raticate": [
+            "Normale"
+        ],
+        "forma-di-alola": [
+            "Buio",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "raticate": "18.5 kg",
+        "forma-di-alola": "25.5 kg",
+        "dominante": "105.0 kg"
+    }
+}

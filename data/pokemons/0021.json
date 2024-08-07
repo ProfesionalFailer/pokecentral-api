@@ -1,0 +1,58 @@
+{
+    "abilities": {
+        "spearow": {
+            "primary": "Sguardofermo",
+            "hidden": "Cecchino"
+        }
+    },
+    "curiosities": [
+        "Spearow condivide la sua categoria con Pidgey, Natu e Rookidee. Tutti e quattro sono noti come Pokémon Uccellino.",
+        "È stato mostrato nella serie animata che Spearow vede in bianco e nero."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/spearow.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Volante"
+    ],
+    "flat_name": "spearow",
+    "generation": 1,
+    "height": {
+        "spearow": "0.3 m"
+    },
+    "id": 21,
+    "name": "Spearow",
+    "name_origin": "Spearow potrebbe essere una combinazione di spear, infilzare, e sparrow, passerotto. Onisuzume potrebbe essere una combinazione di 鬼 oni, demone, e 雀 suzume, passerotto. ",
+    "origin": "Spearow potrebbe essere basato su un passerotto con alcune caratteristiche tipiche della famiglia dei Laniidi, incluso il becco adunco. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Spearow",
+    "shape": "un paio di ali",
+    "specie": "Pokémon Uccellino",
+    "sprites": {
+        "spearow": {
+            "default": "https://media.pokemoncentral.it/wiki/8/87/Homem0021.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/df/Homemsh0021.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/98/Artwork0021_RFVF.png"
+    },
+    "stats": {
+        "spearow": {
+            "hp": 40,
+            "atk": 60,
+            "def": 30,
+            "spa": 31,
+            "spd": 31,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "spearow": 262
+    },
+    "types": {
+        "spearow": [
+            "Volante",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "spearow": "2.0 kg"
+    }
+}

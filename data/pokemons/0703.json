@@ -1,0 +1,71 @@
+{
+    "abilities": {
+        "carbink": {
+            "primary": "Corpochiaro",
+            "hidden": "Vigore"
+        }
+    },
+    "curiosities": [
+        "Carbink è assieme a Diancie il Pokémon di tipo Folletto con i punti base della Difesa più alti, pari a 150."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/carbink.mp3",
+    "dex_entries": {
+        "carbink": {
+            "x": "Nato in ambienti sotterranei a elevati livelli di pressione e temperatura, emette energia dalla pietra che ha sulla testa.",
+            "y": "Dopo la nascita, dorme nelle viscere della terra per milioni di anni. A volte se ne trova qualche esemplare scavando nelle caverne.",
+            "omega-ruby": "Nato in ambienti sotterranei a elevati livelli di pressione e temperatura, emette energia dalla pietra che ha sulla testa.",
+            "alpha-sapphire": "Dopo la nascita, dorme nelle viscere della terra per milioni di anni. A volte se ne trova qualche esemplare scavando nelle caverne.",
+            "sun": "Questo Pokémon nasce sottoterra in condizioni di pressione e temperature estreme. Si difende emettendo raggi dalla gemme.",
+            "moon": "Pur non essendo particolarmente raro, è molto apprezzato per le scintillanti pietre preziose di cui è cosparso il suo corpo.",
+            "ultra-sun": "Corre voce che nelle profondità della terra ci sia un regno fatto di pietre preziose dove vivono i Carbink assieme alla loro regina.",
+            "ultra-moon": "Per evitare che le pietre preziose che adornano il loro corpo perdano lucentezza, i Carbink se le lucidano a vicenda con i morbidi baffi.",
+            "sword": "Le gemme incastonate nel suo corpo emettono potenti raggi energetici con cui spazza via i nemici che lo attaccano.",
+            "shield": "Si dice che da qualche parte nel mondo c'è una miniera in cui i Carbink dormono assieme alla loro regina."
+        }
+    },
+    "egg_groups": [
+        "Magico",
+        "Minerale"
+    ],
+    "flat_name": "carbink",
+    "generation": 6,
+    "height": {
+        "carbink": "0.3 m"
+    },
+    "id": 703,
+    "name": "Carbink",
+    "name_origin": "Carbink è una combinazione tra carbuncle' , carbonio , Carato e tink . Melecie è una combinazione tra melée , 珍しい mezurashii  e ishi 石' . ",
+    "origin": "Carbink potrebbe essere basato sul carbonchio, una creatura fiabesca che si diceva di avere delle gemme che uscivano fuori da esso. Il suo aspetto è probabilmente basato su un minerale, un tipo di roccia che contiene minerali con elementi importanti che sono valutati per un prezzo elevato. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Carbink",
+    "shape": "testa",
+    "specie": "Pokémon Gemma",
+    "sprites": {
+        "carbink": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0703.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/ff/Homemsh0703.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/9f/Artwork0703_XY.png"
+    },
+    "stats": {
+        "carbink": {
+            "hp": 50,
+            "atk": 50,
+            "def": 150,
+            "spa": 50,
+            "spd": 150,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "carbink": 500
+    },
+    "types": {
+        "carbink": [
+            "Roccia",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "carbink": "5.7 kg"
+    }
+}

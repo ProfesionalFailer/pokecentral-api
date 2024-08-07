@@ -1,0 +1,73 @@
+{
+    "abilities": {
+        "linoone": {
+            "primary": "Raccolta",
+            "secondary": "Voracità",
+            "hidden": "Piedisvelti"
+        },
+        "forma-di-galar": {
+            "primary": "Raccolta",
+            "secondary": "Voracità",
+            "hidden": "Piedisvelti"
+        }
+    },
+    "curiosities": [
+        "Linoone è l'unico Pokémon che può usare l'Elisir Mix in Pokémon Mystery Dungeon: Esploratori del Cielo.",
+        "Linoone ha lo stesso numero nel Pokédex di Hoenn e nel Pokédex di Kalos Centrale.",
+        "Gli sprite di Linoone non cambiano tra i giochi di terza generazione e i giochi di quarta .",
+        "Linoone di Galar e la sua forma cromatica sono stati disegnati da James Turner."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/linoone.mp3",
+    "dex_entries": {},
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "linoone",
+    "generation": 3,
+    "height": {
+        "linoone": "0.5 m"
+    },
+    "id": 264,
+    "name": "Linoone",
+    "name_origin": "Il nome di Linoone è una combinazione di linea, e Procyon lotor. Potrebbe anche riferirsi alla sua abilità di correre in linea retta. Massuguma potrebbe essere la combinazione di まっすぐ massugu, che significa dritto, e 洗い熊 araiguma, cioè il Procyon lotor, o 穴熊 anaguma, cioè il Meles meles. ",
+    "origin": "L'aspetto di Linoone è forse un incrocio tra il Meles meles e il Mustela putorius furo. Linoone può essere basato anche sulla creatura leggendaria del Kamaitachi o sul Ramidreju, una lunga donnola con la fissazione per l'oro. Ciò potrebbe spiegare l'ossessione di Linoone per gli oggetti rotondi. Esteticamente, Linoone di Galar potrebbe essere basato su Paul Stanley del gruppo musicale Kiss. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Linoone",
+    "shape": "quadrupede",
+    "specie": "Pokémon Sfrecciante",
+    "sprites": {
+        "linoone": {
+            "default": "https://media.pokemoncentral.it/wiki/9/95/Homem0264.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/09/Homemsh0264.png"
+        },
+        "forma-di-galar": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c8/Homem0264G.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/43/Homemsh0264G.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/ca/Artwork0264_RZ.png"
+    },
+    "stats": {
+        "linoone": {
+            "hp": 78,
+            "atk": 70,
+            "def": 61,
+            "spa": 50,
+            "spd": 61,
+            "spe": 100
+        }
+    },
+    "stats_sum": {
+        "linoone": 420
+    },
+    "types": {
+        "linoone": [
+            "Normale"
+        ],
+        "forma-di-galar": [
+            "Buio",
+            "Normale"
+        ]
+    },
+    "weight": {
+        "linoone": "32.5 kg"
+    }
+}

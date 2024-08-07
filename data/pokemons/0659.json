@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "bunnelby": {
+            "primary": "Raccolta",
+            "secondary": "Guancegonfie",
+            "hidden": "Macroforza"
+        }
+    },
+    "curiosities": [
+        "Nel gruppo dei roditori Bunnelby e Bidoof sono gli unici ad acquisire un nuovo tipo con l'evoluzione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/bunnelby.mp3",
+    "dex_entries": {
+        "bunnelby": {
+            "x": "Scava tane nel terreno grazie alle grandi orecchie. Può andare avanti senza fermarsi per tutta la notte.",
+            "y": "Usa le orecchie come pale per scavare buche nel terreno. Queste propaggini sono talmente potenti da permettergli di strappare via enormi radici.",
+            "omega-ruby": "Scava tane nel terreno grazie alle grandi orecchie. Può andare avanti senza fermarsi per tutta la notte.",
+            "alpha-sapphire": "Usa le orecchie come pale per scavare buche nel terreno. Queste propaggini sono talmente potenti da permettergli di strappare via enormi radici.",
+            "sword": "Usa abilmente le orecchie per scavare buche nel terreno. Gli basta una notte per scavare una tana profonda 10 m.",
+            "shield": "È sempre all'erta contro i pericoli. Se percepisce il battito d'ali di Corviknight scava una buca e si nasconde sotto terra."
+        }
+    },
+    "egg_groups": [
+        "Campo"
+    ],
+    "flat_name": "bunnelby",
+    "generation": 6,
+    "height": {
+        "bunnelby": "0.4 m"
+    },
+    "id": 659,
+    "name": "Bunnelby",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi bunny  e tunnel. Il suo nome giapponese potrebbe derivare dal giapponese ホル horu . ",
+    "origin": "È basato su un coniglio. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Bunnelby",
+    "shape": "bipedi con coda",
+    "specie": "Pokémon Scavabuche",
+    "sprites": {
+        "bunnelby": {
+            "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0659.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/19/Homemsh0659.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/2/25/Artwork0659_XY.png"
+    },
+    "stats": {
+        "statistiche-base": {
+            "hp": 38,
+            "atk": 36,
+            "def": 38,
+            "spa": 32,
+            "spd": 36,
+            "spe": 57
+        }
+    },
+    "stats_sum": {
+        "statistiche-base": 237
+    },
+    "types": {
+        "bunnelby": [
+            "Normale"
+        ]
+    },
+    "weight": {
+        "bunnelby": "5.0 kg"
+    }
+}

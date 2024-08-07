@@ -1,0 +1,83 @@
+{
+    "abilities": {
+        "drapion": {
+            "primary": "Lottascudo",
+            "secondary": "Cecchino",
+            "hidden": "Sguardofermo"
+        }
+    },
+    "curiosities": [
+        "Nonostante non sia un Pokémon d'Acqua, e il suo habitat naturale sia esclusivamente la terraferma, Drapion fa parte del Gruppo Uova Acqua 3.\n\tOltre che con la sua pre-evoluzione Skorupi, condivide questa caratteristica con Archen e Archeops.",
+        "Oltre che con la sua pre-evoluzione Skorupi, condivide questa caratteristica con Archen e Archeops.",
+        "Nonostante sia basato su uno scorpione ha perso il tipo Coleottero con l'evoluzione.",
+        "È uno dei Pokémon che nell'anime vengono rappresentati in modo diverso rispetto alle dimensioni dei giochi: in uno scontro contro il Gliscor di Ash  viene rappresentato molto più grande di questo, mentre nei giochi viene descritto come alto solo 1.3 metri."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/drapion.mp3",
+    "dex_entries": {
+        "drapion": {
+            "diamond": "Con le zampe può accartocciare una macchina. Le punte degli artigli sono velenose.",
+            "pearl": "Ha il corpo incassato in un robusto carapace. Ruota la testa di 180° e riesce a vedere tutto.",
+            "platinum": "Dotato di una costituzione robusta, va orgoglioso della sua forza e abbatte i nemici senza usare tossine.",
+            "heartgold": "Temuto come la peste giacché attacca tutti i viaggiatori del deserto, umani o Pokémon.",
+            "soulsilver": "Temuto come la peste giacché attacca tutti i viaggiatori del deserto, umani o Pokémon.",
+            "black": "Dotato di una costituzione robusta, va orgoglioso della sua forza e abbatte i nemici senza usare tossine.",
+            "white": "Dotato di una costituzione robusta, va orgoglioso della sua forza e abbatte i nemici senza usare tossine.",
+            "black-2": "Va fiero della sua forza con cui può fare a pezzi il nemico, ma in genere preferisce finirlo usando le sue tossine.",
+            "white-2": "Va fiero della sua forza con cui può fare a pezzi il nemico, ma in genere preferisce finirlo usando le sue tossine.",
+            "x": "Va fiero della sua forza con cui può fare a pezzi il nemico, ma in genere preferisce finirlo usando le sue tossine.",
+            "y": "Con le zampe può accartocciare una macchina. Le punte degli artigli sono velenose.",
+            "omega-ruby": "Va fiero della sua forza con cui può fare a pezzi il nemico, ma in genere preferisce finirlo usando le sue tossine.",
+            "alpha-sapphire": "Con le zampe può accartocciare una macchina. Le punte degli artigli sono velenose.",
+            "sword": "Le sue tossine sono letali ma se ne serve di rado. Semina distruzione con la sua forza prodigiosa che gli permette di sfasciare persino automobili.",
+            "shield": "Attacca la preda afferrandola con gli artigli velenosi della coda, poi inietta il veleno per immobilizzarla.",
+            "brilliant-diamond": "Con le braccia può accartocciare una macchina. Le punte degli artigli sono velenose.",
+            "shining-pearl": "Il suo corpo è protetto da un robusto carapace. È capace di ruotare la testa di 180 gradi, eliminando ogni punto morto.",
+            "legends-arceus": "Ha un'indole feroce e barbarica. Peregrina portando distruzione con la sua forza erculea e il suo carapace, impenetrabile persino a spade."
+        }
+    },
+    "egg_groups": [
+        "Coleottero",
+        "Acqua 3"
+    ],
+    "flat_name": "drapion",
+    "generation": 4,
+    "height": {
+        "drapion": "1.3 m"
+    },
+    "id": 452,
+    "name": "Drapion",
+    "name_origin": "Deriva dalle parole Dracula o dragon  e scorpion . Potrebbe inoltre derivare da harpoon  e poison . ",
+    "origin": "Drapion sembra essere basato sulla classe di aracnidi degli Uropygi, aracnidi che riconducono ad uno scorpione. Per il fatto che appartiene al Gruppo Uova Acqua 3 potrebbe anche derivare da un antico gruppo di antropodi, gli euripteridi. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Drapion",
+    "shape": "insettoide",
+    "specie": "Pokémon Scorpiaccio",
+    "sprites": {
+        "drapion": {
+            "default": "https://media.pokemoncentral.it/wiki/d/df/Homem0452.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/cd/Homemsh0452.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c5/Artwork0452_DP.png"
+    },
+    "stats": {
+        "drapion": {
+            "hp": 70,
+            "atk": 90,
+            "def": 110,
+            "spa": 60,
+            "spd": 75,
+            "spe": 95
+        }
+    },
+    "stats_sum": {
+        "drapion": 500
+    },
+    "types": {
+        "drapion": [
+            "Veleno",
+            "Buio"
+        ]
+    },
+    "weight": {
+        "drapion": "61.5 kg"
+    }
+}
