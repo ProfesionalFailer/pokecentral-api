@@ -7,7 +7,8 @@
     },
     "curiosities": [
         "Oro HeartGold e Argento SoulSilver sono gli unici giochi dove non è possibile far evolvere Eevee in Leafeon. Lo stesso vale per Magnezone, Probopass e Glaceon, infatti l'unico modo per ottenerli è scambiarli da Diamante e Perla o da Platino.",
-        "In Pokémon Nero 2 e Bianco 2 Leafeon appartiene al Pokédex regionale ma non è ottenibile prima di aver ricevuto il Pokédex Nazionale , poiché il Masso Muschioso si trova nel Bosco Girandola che non è accessibile nella prima parte di gioco. Condivide questa peculiarità con Glaceon, dato che il Monte Vite e di conseguenza il Masso Ghiacciato non sono accessibili prima di essere entrati nella Sala d'Onore."
+        "In Pokémon Nero 2 e Bianco 2 Leafeon appartiene al Pokédex regionale ma non è ottenibile prima di aver ricevuto il Pokédex Nazionale , poiché il Masso Muschioso si trova nel Bosco Girandola che non è accessibile nella prima parte di gioco. Condivide questa peculiarità con Glaceon, dato che il Monte Vite e di conseguenza il Masso Ghiacciato non sono accessibili prima di essere entrati nella Sala d'Onore.",
+        "Leafeon è stato disegnato da Atsuko Nishida"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/leafeon.mp3",
     "dex_entries": {
@@ -15,8 +16,8 @@
             "diamond": "Usa la fotosintesi, proprio come una pianta. Pertanto è sempre circondato da aria pulita.",
             "pearl": "Usa la fotosintesi, proprio come una pianta. Pertanto è sempre circondato da aria pulita.",
             "platinum": "Rifugge le lotte. Ha una struttura cellulare simile a quella delle piante, perciò usa la fotosintesi.",
-            "heartgold": "Nelle belle giornate si sdraia al sole e usa la fotosintesi, producendo aria pulita.",
-            "soulsilver": "Nelle belle giornate si sdraia al sole e usa la fotosintesi, producendo aria pulita.",
+            "heart-gold": "Nelle belle giornate si sdraia al sole e usa la fotosintesi, producendo aria pulita.",
+            "soul-silver": "Nelle belle giornate si sdraia al sole e usa la fotosintesi, producendo aria pulita.",
             "black": "Rifugge le lotte. Ha una struttura cellulare simile a quella delle piante, perciò usa la fotosintesi.",
             "white": "Rifugge le lotte. Ha una struttura cellulare simile a quella delle piante, perciò usa la fotosintesi.",
             "black-2": "Le sue cellule sono simili a quelle delle piante. Rende l'aria più pulita effettuando la fotosintesi.",
@@ -35,7 +36,8 @@
             "shining-pearl": "Usa la fotosintesi, proprio come una pianta. Pertanto è sempre circondato da aria pulita.",
             "legends-arceus": "Nel suo vello ho rinvenuto cellule analoghe a quelle vegetali. La coda robusta, affilata più d'una spada pregiata, può recidere alberi massicci.",
             "scarlet": "Nelle belle giornate dorme al sole e usa la fotosintesi, producendo aria pulita.",
-            "violet": "Quando è giovane emette un forte profumo d’erba fresca, ma nella vecchiaia odora di foglie morte."
+            "violet": "Quando è giovane emette un forte profumo d’erba fresca, ma nella vecchiaia odora di foglie morte.",
+            "legends-za": "Usa la fotosintesi, proprio come una pianta. Pertanto è sempre circondato da aria pulita."
         }
     },
     "egg_groups": [
@@ -44,21 +46,21 @@
     "flat_name": "leafeon",
     "generation": 4,
     "height": {
-        "leafeon": "1.0 m"
+        "leafeon": "1,0 m"
     },
     "id": 470,
     "name": "Leafeon",
-    "name_origin": "Deriva dalle parole leaf  ed eon  un suffisso presente su ogni Eevoluzione. ",
-    "origin": "Basato su una volpe e su un felino anche in comportamento visto che si arrampica sugli alberi, anche il suo verso è molto simile a quello di un gatto di una volpe, i suoi colori tuttavia ricordano un gatto siamese o una volpe rossa. Leafeon ha anche tratti di piante come fare la fotosintesi e le zampe marroni sembrano in realtà sporche di terra, potrebbe anche essere ispirata alla leggenda giapponese che se un animale domestico viene abbandonato nel bosco esso diventa un tutt'uno con la natura, naturalmente qui la cosa è esagerata. ",
+    "name_origin": "Leafeon potrebbe derivare da leaf, foglia, e eon , suffisso finale di ogni Eeveeluzione. Leafia, il suo nome giapponese, potrebbe derivare da leaf, foglia. ",
+    "origin": "Leafeon condivide tratti con volpi e gatti, includendo il suo verso simile ad un verso di questi. La colorazione del corpo ricorda quella di un gatto siamese o una volpe rossa. La sua fisionomia include foglie, dandogli caratteristiche di piante, come la possibilità di effettuare la fotosintesi clorofilliana. Il colorito marrone delle zampe le fa sembrare coperte di terra, come radici interrate. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Leafeon",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Rigoglioso",
     "sprites": {
         "leafeon": {
             "default": "https://media.pokemoncentral.it/wiki/0/07/Homem0470.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homemsh0470.png"
         },
-        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e2/Artwork0470_DLPS.png"
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c8/Artwork0470_DP.png"
     },
     "stats": {
         "leafeon": {
@@ -79,6 +81,6 @@
         ]
     },
     "weight": {
-        "leafeon": "25.5 kg"
+        "leafeon": "25,5 kg"
     }
 }

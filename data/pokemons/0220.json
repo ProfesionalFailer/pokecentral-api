@@ -10,26 +10,56 @@
         "Swinub e la sua famiglia evolutiva sono gli unici Pokémon di tipo Ghiaccio ad essere di colore marrone.",
         "Swinub è uno dei pochi Pokémon a mantenere invariato il suo sprite in Pokémon Oro e Argento.",
         "Grazie alla sua combinazione di tipi unica, Swinub e la sua famiglia evolutiva sono gli unici Pokémon ad essere immuni a tutte le condizioni atmosferiche.",
-        "Swinub ha il totale di statistiche base più basso di tutti i Pokémon di tipo Ghiaccio.",
-        "Swinub e la sua famiglia sono gli unici Pokémon deboli a tutti e tre i tipi dei Pokémon iniziali .",
-        "Nel capitolo VS Bellossom del manga Pokémon: La Grande Avventura, Swinub viene visto per la prima volta con gli occhi aperti."
+        "Swinub e la sua famiglia sono gli unici Pokémon deboli a tutti e tre i tipi dei Pokémon iniziali .\n\tLa loro è anche l'unica combinazione possibile ad avere questa peculiarità: il tipo Roccia  è resistente contro Fuoco, mentre Coleottero e Acciaio  resistono ad Erba.",
+        "La loro è anche l'unica combinazione possibile ad avere questa peculiarità: il tipo Roccia  è resistente contro Fuoco, mentre Coleottero e Acciaio  resistono ad Erba."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/swinub.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "swinub": {
+            "gold": "Sfrega il muso sul terreno per scovare del cibo. Talvolta scopre sorgenti d'acqua calda.",
+            "silver": "Appena avverte un profumo invitante, cerca subito di capire la provenienza di quell'odore.",
+            "crystal": "Scava con la punta del muso alla ricerca di cibo. Il muso è così duro che rompe anche il ghiaccio.",
+            "ruby": "SWINUB cerca il proprio nutrimento strofinando il muso sul terreno. È ghiotto dei funghi che crescono sotto la coltre di erba e fogliame rinsecchito. Talvolta scova qualche sorgente termale.",
+            "sapphire": "SWINUB cerca il proprio nutrimento strofinando il muso sul terreno. È ghiotto dei funghi che crescono sotto la coltre di erba e fogliame rinsecchito. Talvolta scova qualche sorgente termale.",
+            "emerald": "SWINUB strofina il muso sul terreno, scovando i funghi di cui è ghiotto sotto il fogliame rinsecchito. Talvolta scova qualche sorgente termale.",
+            "fire-red": "Appena avverte un profumo invitante, cerca subito di capire la provenienza di quell'odore.",
+            "leaf-green": "Sfrega il muso sul terreno per scovare del cibo. Talvolta scopre sorgenti d'acqua calda.",
+            "diamond": "Ama mangiare i funghi che crescono sotto l’erba secca. Mentre cerca, talvolta trova sorgenti termali.",
+            "pearl": "Ama mangiare i funghi che crescono sotto l’erba secca. Mentre cerca, talvolta trova sorgenti termali.",
+            "platinum": "Ama mangiare i funghi che crescono sotto l’erba secca. Mentre cerca, talvolta trova sorgenti termali.",
+            "heart-gold": "Sfrega il muso sul terreno per scovare del cibo. Talvolta scopre sorgenti d’acqua calda.",
+            "soul-silver": "Appena avverte un profumo invitante, cerca subito di capire la provenienza di quell'odore.",
+            "black": "Grazie al suo olfatto sviluppato trova funghi, bacche e persino sorgenti termali sotto al ghiaccio.",
+            "white": "Grazie al suo olfatto sviluppato trova funghi, bacche e persino sorgenti termali sotto al ghiaccio.",
+            "black-2": "Annusa il terreno e scava alla ricerca di cibo. A volte scopre persino delle sorgenti termali.",
+            "white-2": "Annusa il terreno e scava alla ricerca di cibo. A volte scopre persino delle sorgenti termali.",
+            "x": "Sfrega il muso sul terreno per scovare del cibo. Talvolta scopre sorgenti d’acqua calda.",
+            "y": "Appena avverte un profumino invitante, cerca subito di capire la provenienza di quell'odore.",
+            "omega-ruby": "Swinub cerca il proprio nutrimento strofinando il muso sul terreno. È ghiotto dei funghi che crescono sotto la coltre di erba e fogliame rinsecchito. Talvolta scova qualche sorgente termale.",
+            "alpha-sapphire": "Swinub cerca il proprio nutrimento strofinando il muso sul terreno. È ghiotto dei funghi che crescono sotto la coltre di erba e fogliame rinsecchito. Talvolta scova qualche sorgente termale.",
+            "sword": "Scava con il muso nel terreno per scovare del cibo. Talvolta scopre sorgenti d'acqua calda.",
+            "shield": "Appena avverte un profumo invitante, si fionda nella direzione da cui proviene senza la minima esitazione.",
+            "brilliant-diamond": "Ama mangiare i funghi che crescono sotto l'erba secca. Nel cercarli, annusando qua e là, talvolta rinviene delle sorgenti termali.",
+            "shining-pearl": "Ama mangiare i funghi che crescono sotto l'erba secca. Nel cercarli, annusando qua e là, talvolta rinviene delle sorgenti termali.",
+            "legends-arceus": "Con il suo eccellente olfatto trova funghi sepolti nell'erba alta e nella neve, talento che da lungo tempo torna sovente utile alle genti di Hisui.",
+            "scarlet": "Scava con la punta del naso alla ricerca di cibo. Può penetrare persino il terreno ghiacciato.",
+            "violet": "Scava alla ricerca di cibo sfregando il naso contro il terreno. A volte finisce per scoprire delle sorgenti termali."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "swinub",
     "generation": 2,
     "height": {
-        "swinub": "0.4 m"
+        "swinub": "0,4 m"
     },
     "id": 220,
     "name": "Swinub",
-    "name_origin": "Il suo nome deriva dall'unione delle parole Swine  e nub . ",
-    "origin": "L'aspetto di Swinub, per alcune caratteristiche, ricorda quello di un suide. ",
+    "name_origin": "Swinub potrebbe derivare da swine, suino, e nub, una piccola escrescenza, possibilmente in riferimento al naso del Pokémon, o cub, cucciolo. Urimoo, il suo nome giapponese, potrebbe derivare da 瓜坊 uribō, cucciolo di cinghiale, หมู, tailandese per \"maiale\", e ブーブー būbū, onomatopea del grugnito dei maiali. ",
+    "origin": "La taglia e l'aspetto di Swinub lo possono ricollegare ad un cucciolo di cinghiale e ad un porcellino d'India dal pelo lungo. Il suo design potrebbe essere un gioco di parole con il nome inglese della marmotta americana, \"groundhog\": questa specie ricorda il Pokémon in aspetto e comportamento e Swinub è letteralmente un \"Ground Hog\" . Swinub ricorda inoltre una talpa marsupiale. L'abilità del Pokémon di trovare sorgenti di acqua calda potrebbe essere un riferimento all'uso storico di animali per questo scopo. In particolare, potrebbe derivare dalla leggenda di re Bladud di Bath in Inghilterra, i cui maiali hanno trovato delli sorgenti termali che hanno curato la sua lebbra. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Swinub",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Maiale",
     "sprites": {
         "swinub": {
@@ -53,11 +83,11 @@
     },
     "types": {
         "swinub": [
-            "Ghiaccio",
-            "Terra"
+            "Terra",
+            "Ghiaccio"
         ]
     },
     "weight": {
-        "swinub": "6.5 kg"
+        "swinub": "6,5 kg"
     }
 }

@@ -9,11 +9,40 @@
     "curiosities": [
         "In quinta generazione, Azumarill e Marill potevano avere il tipo Elettro come unica debolezza grazie all'abilità Mangiaerba.",
         "In sesta generazione Marill e Azumarill avevano una combinazione di tipi unica.",
-        "Azumarill è l'unico Pokémon della sua catena evolutiva che non è stato rivelato prima dell'arrivo della sua generazione.",
-        "In Pokémon Mystery Dungeon: Squadra di Soccorso DX è il Supernemico del Monte Vampa."
+        "Azumarill è l'unico Pokémon della sua catena evolutiva che non è stato rivelato prima dell'arrivo della sua generazione."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/azumarill.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "azumarill": {
+            "gold": "Stando in silenzio e ascoltando con attenzione può dire ciò che si trova anche nei fiumi impetuosi.",
+            "silver": "Quando gioca in acqua arrotola le lunghe orecchie perché non si bagnino all'interno.",
+            "crystal": "Le bolle disegnate sulla pancia gli permettono di mimetizzarsi quando si trova in acqua.",
+            "ruby": "Le lunghe orecchie di AZUMARILL sono sensori indispensabili. Concentrandosi sull'udito, è in grado di identificare che tipo di prede ci siano nelle vicinanze, anche in torrenti rapidi e impetuosi.",
+            "sapphire": "AZUMARILL riesce a creare bolle d'aria in grado di aiutare un POKéMON che sta per affogare. Quando ne vede uno, AZUMARILL gli manda una bolla per aiutarlo a respirare.",
+            "emerald": "AZUMARILL trascorre tutta la giornata in acqua. Il colore e la forma del suo corpo gli permettono di mimetizzarsi, pertanto i nemici hanno difficoltà a localizzarlo.",
+            "fire-red": "Quando gioca in acqua arrotola le lunghe orecchie per evitare che si bagnino all'interno.",
+            "leaf-green": "Se resta in silenzio e si concentra può persino percepire rumori provenienti da torrenti impetuosi.",
+            "diamond": "Vive nei fiumi e nei laghi. Il suo colore e i disegni confondono i nemici in acqua.",
+            "pearl": "Le lunghe orecchie sono ottimi sensori. Distingue i movimenti di esseri viventi sui fondali fluviali.",
+            "platinum": "Può rimanere a lungo in acqua poiché è in grado di inalare e immagazzinare molta aria.",
+            "heart-gold": "Ascoltando in silenzio con attenzione capisce ciò che si può trovare anche nei fiumi più impetuosi.",
+            "soul-silver": "Quando gioca in acqua arrotola le lunghe orecchie perché non si bagnino all'interno.",
+            "black": "Può rimanere a lungo in acqua poiché è in grado di inalare e immagazzinare molta aria.",
+            "white": "Può rimanere a lungo in acqua poiché è in grado di inalare e immagazzinare molta aria.",
+            "black-2": "Le sue lunghe orecchie sono ricettori sensibilissimi. Riesce a distinguere ogni minimo rumore perfino sott'acqua.",
+            "white-2": "Le sue lunghe orecchie sono ricettori sensibilissimi. Riesce a distinguere ogni minimo rumore perfino sott'acqua.",
+            "x": "Le lunghe orecchie sono ottimi sensori. Distingue i movimenti di esseri viventi sui fondali fluviali.",
+            "y": "Le bolle disegnate sulla pancia gli permettono di mimetizzarsi quando si trova in acqua.",
+            "omega-ruby": "Le lunghe orecchie di Azumarill sono sensori indispendabili. Concentrandosi sull'udito, è in grado di identificare che tipo di prede ci siano nelle vicinanze, anche in torrenti rapidi e impetuosi.",
+            "alpha-sapphire": "Azumarill riesce a creare bolle d'aria in grado di aiutare un Pokémon che sta per affogare. Quando ne vede uno, Azumarill gli manda una bolla per aiutarlo a respirare.",
+            "sword": "Passa la maggior parte della giornata in acqua. Se è bel tempo galleggia in superficie per prendere il sole.",
+            "shield": "Crea delle bolle d'aria con cui avvolge dolcemente gli Azurill che giocano nel fiume.",
+            "brilliant-diamond": "Vive nei fiumi e nei laghi. Il suo colore e i disegni sul suo corpo confondono i nemici in acqua.",
+            "shining-pearl": "Le lunghe orecchie sono ottimi sensori. Riesce a distinguere i suoni prodotti dai diversi esseri viventi che si spostano sui fondali fluviali.",
+            "scarlet": "Le sue lunghe orecchie sono ricettori sensibilissimi. Riesce a distinguere e identificare ogni minimo rumore perfino sott'acqua.",
+            "violet": "Se rimane immobile e aguzza le orecchie, riesce a capire cosa si nasconde nelle acque dei fiumi, anche nelle rapide travolgenti."
+        }
+    },
     "egg_groups": [
         "Acqua 1",
         "Magico"
@@ -21,14 +50,14 @@
     "flat_name": "azumarill",
     "generation": 2,
     "height": {
-        "azumarill": "0.8 m"
+        "azumarill": "0,8 m"
     },
     "id": 184,
     "name": "Azumarill",
-    "name_origin": "Il suo nome deriva dall'unione della parola spagnola azure  con le parole inglesi marine  e rill , ma ci sono possibilità che prenda origine, come il suo nome giapponese, dalle parole 丸い marui, 鞠 mari e 瑠璃 ruri . Inoltre è un'allungamento del nome della sua pre-evoluzione Marill, e sembra un'unione di Marill e Azurill, sebbene quest'ultimo sia stato introdotto nella generazione successiva ",
-    "origin": "Basato su un coniglio e su una boa. ",
+    "name_origin": "Azumarill potrebbe derivare da azure, azzurro, azul, spagnolo e portoghese per \"blu\", azul marino, spagnolo per \"blu marino\", mar, mare in spagnolo e portoghese, Marill o rill . Marilli, il suo nome giapponese, potrebbe derivare da 丸い marui, routondo o circolare, o 鞠 mari, palla, 瑠璃 ruri, lapislazzuli, e possibilmente da rill  e マリンブルー marine blue, il colore blu marino. ",
+    "origin": "Azumarill sembra essere basato su una combinazione di un coniglio insieme ad un pallone da spiaggia, o possibilmente un giubbotto salvagente o un salvagente anulare. Potrebbe prendere ispirazione dal coniglio delle paludi, che preferiscono abitare in aree paludose e che possono nuotare. Il pattern sul suo corpo simile ad uno schizzo d'acqua potrebbe derivare dal Countershading, un tipo di camuffamento notato negli squali o nei pinguini. Questo metodo dà all'animale una colorazione scura sul dorso e chiara sulla parte inferiore del corpo, in modo che, in acqua, guardandoli da sopra si mimetizzino con il fondale scuro e da sotto con il cielo chiaro. La forma del suo corpo, il suo aspetto simile ad un coniglio e il pattern sul suo corpo possono ricondurlo al coniglietto pasquale o ad un uovo di Pasqua. Inoltre, le sue fattezze di coniglio potrebbero aver ispirato il suo tipo Folletto e la sua abilità Macroforza  lo possono ricondurre al coniglio lunare, dove le parti scure della luna vengono interpretate come un coniglio con un pestello per il mochi. Il tipo Folletto è associato spesso con la luna e i dolci. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Azumarill",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Acquniglio",
     "sprites": {
         "azumarill": {
@@ -57,6 +86,6 @@
         ]
     },
     "weight": {
-        "azumarill": "28.5 kg"
+        "azumarill": "28,5 kg"
     }
 }

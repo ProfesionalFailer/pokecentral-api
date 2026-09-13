@@ -5,8 +5,9 @@
         }
     },
     "curiosities": [
-        "Mismagius ha le stesse statistiche base in PS, Attacco e Difesa della sua pre-evoluzione Misdreavus, ma Attacco Speciale, Difesa Speciale e Velocità sono superiori .",
-        "È l'unico Pokémon di tipo Spettro ad apprendere Fogliamagica aumentando di livello."
+        "Mismagius ha le stesse statistiche base in Punti Salute, Attacco e Difesa della sua pre-evoluzione Misdreavus, ma Attacco Speciale, Difesa Speciale e Velocità sono superiori.",
+        "Mismagius può essere visto come un parallelo a Honchkrow: entrambi sono evoluzioni introdotte in quarta generazione di Pokémon di seconda ed entrambi si evolvono tramite Neropietra. Mismagius è esclusivo di Pokémon Perla, Bianco e Perla Splendente, mentre Honchkrow di Pokémon Diamante, Nero e Diamante Lucente.",
+        "Il nome inglese di Mismagius è stato dato da Nob Ogasawara."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mismagius.mp3",
     "dex_entries": {
@@ -14,8 +15,8 @@
             "diamond": "I suoi versi sembrano incantesimi. Chi li sente è tormentato da emicranie e allucinazioni.",
             "pearl": "Recita incantesimi che tormentano il nemico. Tuttavia, alcune formule portano felicità.",
             "platinum": "I suoi versi sembrano incantesimi. Pare che a volte contengano un potere che porta felicità.",
-            "heartgold": "Tormenta i malcapitati con un verso simile a formule magiche. Appare dovunque in qualsiasi momento.",
-            "soulsilver": "Tormenta i malcapitati con un verso simile a formule magiche. Appare dovunque in qualsiasi momento.",
+            "heart-gold": "Tormenta i malcapitati con un verso simile a formule magiche. Appare dovunque in qualsiasi momento.",
+            "soul-silver": "Tormenta i malcapitati con un verso simile a formule magiche. Appare dovunque in qualsiasi momento.",
             "black": "I suoi versi sembrano incantesimi. Pare che a volte contengano un potere che porta felicità.",
             "white": "I suoi versi sembrano incantesimi. Pare che a volte contengano un potere che porta felicità.",
             "black-2": "I suoi versi sembrano incantesimi. Pare che a volte contengano un potere che porta felicità.",
@@ -41,14 +42,14 @@
     "flat_name": "mismagius",
     "generation": 4,
     "height": {
-        "mismagius": "0.9 m"
+        "mismagius": "0,9 m"
     },
     "id": 429,
     "name": "Mismagius",
-    "name_origin": "Mismagius ha origine da mischievous , magic  e magus . Mumargi potrebbe essere una combinazione di 夢魔 muma e mage o magic. ",
-    "origin": "Mismagius è basato su un mago o una strega, ma anche sulla creatura mitologica della banshee. La sua colorazione potrebbe essere un riferimento al Nasu-babā, uno Yōkai con la pelle viola, mentre la sua forma ricorda un teru teru bōzu ",
+    "name_origin": "Mismagius potrebbe derivare da da mischievous, dispettoso, Misdreavus, magus, mago, o magic, magia o magico. Mumargi, il suo nome giapponese, potrebbe essere una combinazione di 夢魔 muma, incubo, demone presente nei sogni, 蠱 maji, stregare, e mage o magic. ",
+    "origin": "Mismagius sembra essere basato sugli zmory, spiriti vaganti di streghe simili a succubi associati con torrori notturni del folklore polacco. Il suo aspetto può ricordare uno spaventapasseri, ricollegandolo anche agli Strzyga, demoni simili a vampiri con uno spirito buono e uno malvagio della mitologia slava, i cui spiriti negativi, se maschi, diventano spaventapasseri. Le sue gemme rosse potrebbero essere ispirate dalle collane di korale rossi, popolari in Polonia nel 18° secolo, dette avere poteri magici. Il suo colore viola potrebbe derivare dalla Nasu-babā, uno Yōkai con la pelle caratteristicamente di questo colore. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Mismagius",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Stregone",
     "sprites": {
         "mismagius": {
@@ -76,6 +77,6 @@
         ]
     },
     "weight": {
-        "mismagius": "4.4 kg"
+        "mismagius": "4,4 kg"
     }
 }

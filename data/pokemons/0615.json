@@ -5,8 +5,7 @@
         }
     },
     "curiosities": [
-        "Cryogonal ha la più alta statistica base di Difesa Speciale di tutti i Pokémon non-leggendari di tipo Ghiaccio.",
-        "Cryogonal e Mew sono gli unici Pokémon asessuati capaci di imparare Attrazione. Tuttavia questa mossa fallirà sempre se usata da un Pokémon asessuato."
+        "Cryogonal è l'unico Pokémon che può imparare Solarraggio salendo di livello ma che allo stesso tempo non può imparare Giornodisole in alcun modo."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/cryogonal.mp3",
     "dex_entries": {
@@ -22,7 +21,8 @@
             "sword": "Maneggia una catena di ghiaccio, con cui congela e trascina via chiunque incontri.",
             "shield": "Quando fa caldo si dissolve in una nuvola di vapore acqueo. Per questo è molto raro vederlo in estate.",
             "scarlet": "Appare nelle stagioni fredde. Si dice sia la reincarnazione di Pokémon ed esseri umani scomparsi sulle montagne innevate.",
-            "violet": "Avvolge il nemico usando delle catene fatte di ghiaccio e lo congela così com’è in un istante."
+            "violet": "Avvolge il nemico usando delle catene fatte di ghiaccio e lo congela così com'è in un istante.",
+            "legends-za": "Cattura le sue prede con catene fatte di cristalli di ghiaccio, poi le congela a una temperatura di -100 °C."
         }
     },
     "egg_groups": [
@@ -31,14 +31,14 @@
     "flat_name": "cryogonal",
     "generation": 5,
     "height": {
-        "cryogonal": "1.1 m"
+        "cryogonal": "1,1 m"
     },
     "id": 615,
     "name": "Cryogonal",
     "name_origin": "Cryogonal è una combinazione del greco antico κρύος cryos  o dell'inglese cry , con il suffisso -gonal . Il nome giapponese, フリージオ Freegeo, potrebbe essere una combinazione dei termini inglesi freeze , frigid  e geometrical . ",
     "origin": "L'aspetto di Cryogonal sembra essere basato su fiocchi di neve e cristalli di ghiaccio. Imparando anche alcune mosse basate sulla luce, potrebbe ispirarsi in aggiunta a uno specchio. La sua abilità di intrappolare le prede nel ghiaccio ricorda quella analoga dei Hrímþursar, i giganti di ghiaccio nella mitologia norrena. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Cryogonal",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Cristallo",
     "sprites": {
         "cryogonal": {
@@ -66,6 +66,6 @@
         ]
     },
     "weight": {
-        "cryogonal": "148.0 kg"
+        "cryogonal": "148,0 kg"
     }
 }

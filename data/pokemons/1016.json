@@ -1,0 +1,63 @@
+{
+    "abilities": {
+        "fezandipiti": {
+            "primary": "Catena Tossica",
+            "hidden": "Tecnico"
+        }
+    },
+    "curiosities": [
+        "Sebbene sia un volatile, Fezandipiti è debole al tipo Terra, non essendo né di tipo Volante né avendo l'abilità Levitazione."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/fezandipiti.mp3",
+    "dex_entries": {
+        "fezandipiti": {
+            "scarlet": "Ha sviluppato una voce e un aspetto ammalianti grazie alla stimolazione delle tossine emesse dalla catena che ha attorno al corpo.",
+            "violet": "Battendo le ali eleganti sparge feromoni che stregano sia esseri umani che Pokémon."
+        },
+        "": {}
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "fezandipiti",
+    "generation": 9,
+    "height": {
+        "fezandipiti": "1,4 m"
+    },
+    "id": 1016,
+    "name": "Fezandipiti",
+    "name_origin": "Fezandipiti potrebbe essere una combinazione di pheasant, fagiano, e serendipity, un avvenimento inaspettato, ma di buon auspicio. Kichikigisu potrebbe essere una combinazione di 吉 kichi, fortuna, e 雉子 kigisu, fagiano. ",
+    "origin": "Fezandipiti è basato su un fagiano, più precisamente su quello che accompagna il protagonista della favola Momotarō. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Fezandipiti",
+    "shape": "None",
+    "specie": "Pokémon Servo",
+    "sprites": {
+        "fezandipiti": {
+            "default": "https://media.pokemoncentral.it/wiki/3/33/Homem1016.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh1016.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/e8/Artwork1016_SV.png"
+    },
+    "stats": {
+        "fezandipiti": {
+            "hp": 88,
+            "atk": 91,
+            "def": 82,
+            "spa": 70,
+            "spd": 125,
+            "spe": 99
+        }
+    },
+    "stats_sum": {
+        "fezandipiti": 555
+    },
+    "types": {
+        "fezandipiti": [
+            "Veleno",
+            "Folletto"
+        ]
+    },
+    "weight": {
+        "fezandipiti": "30,1 kg"
+    }
+}

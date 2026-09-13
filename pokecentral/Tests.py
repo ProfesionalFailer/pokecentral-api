@@ -9,8 +9,8 @@ class PokeTest:
     @staticmethod
     def _dump_single_mon(id: int) -> None:
         try:
-            with open(f"data/pokemons/{id}.json", "w", encoding="utf-8") as outfile:
-                pkm = Pokemon(id)
+            pkm = Pokemon(id)
+            with open(f"data/pokemons/{id:04}.json", "w", encoding="utf-8") as outfile:
                 json_dump(pkm.json(), outfile, ensure_ascii=False, indent=4)
                 print(pkm.name)
         except Exception as e:
@@ -43,10 +43,10 @@ class PokeTest:
             pkm = Pokemon(id)
             print(f"\t{pkm.name}")
 
-            with open(f"data/pokemons/{id}.json", "w", encoding="utf-8") as outfile:
+            with open(f"data/pokemons/{id:04}.json", "w", encoding="utf-8") as outfile:
                 json_dump(pkm.json(), outfile, ensure_ascii=False, indent=4)
 
             lista.pop(0)
 
             with open("private/pkm_down.txt", "w") as f:
-                f.writelines(lista)
+                f.writelines([f"{i}\n" for i in lista])

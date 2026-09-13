@@ -7,30 +7,67 @@
         }
     },
     "curiosities": [
-        "Il nome originale di Lickitung in lingua inglese sarebbe stato \"Tonguetyd\". Tuttavia, questo fu modificato poco prima della pubblicazione della versione inglese di Pokémon Rosso e Blu.",
-        "Anche se veniva più a volte affermato che Lickitung attaccasse gli avversari leccandoli, non fu in grado in imparare la mossa Leccata prima della seconda generazione.",
-        "Prima della quarta generazione, Lickitung può imparare la mossa Rotolamento tramite la MT04 in seconda generazione, oppure tramite purificazione in Pokémon XD, o ancora tramite Insegnamosse in Pokémon Smeraldo. In quarta generazione, Lickitung deve imparare la mossa Rotolamento per potersi evolvere in Lickilicky. Questo fa di Lickitung e Piloswine gli unici Pokémon che soddisfano i propri criteri di evoluzione nei giochi antecedenti l'introduzione delle evoluzioni stesse.",
-        "Nei dati del Pokédex di Pokémon Rosso e Blu e Verde Foglia, la lingua di Lickitung è paragonata a quella di un camaleonte, un animale del mondo reale.",
-        "Lickitung è stato erratamente considerato un Pokémon di tipo Lotta nella guida al gioco Pokémon Rosso Fuoco & Verde Foglia.",
-        "Nel Pokédex di Kanto il nome di Lickitung è scritto con un errore: \"Likitung\".",
-        "Nei giochi il suo verso è molto simile a quello di Dewgong."
+        "Il nome inglese di Lickitung era inizialmente \"Tonguetyd\".",
+        "Prima della quarta generazione, Lickitung può imparare la mossa Rotolamento tramite la MT04 in seconda generazione, oppure tramite purificazione in Pokémon XD o Insegnamosse in Pokémon Smeraldo. Siccome l'evoluzione in Lickilicky richiede proprio questa mossa, questo rende Lickitung e Piloswine gli unici Pokémon che possono soddisfare i propri criteri evolutivi in giochi precedenti all'introduzione delle loro evoluzioni.",
+        "Lickitung è stato erroneamente indicato come di tipo Lotta nella guida ufficiale di Pokémon Rosso Fuoco e Verde Foglia",
+        "Nel Pokérap di Kanto il nome di Lickitung è erroneamente scritto come \"Likitung\".",
+        "Lickitung è elencato nei crediti del gioco Paperboy per Nintendo 64 sotto \"Special Edition Thanks\".",
+        "Nel Fiortunnel è presente un Pokémaniaco che menziona come il suo Pokémon abbia appena ricevuto un taglio di capelli. Dato che il suo unico Pokémon è Lickitung, questo significa che questa specie ha peli.",
+        "Non considerando i Pokémon temporanei, Lickitung è l'unico Pokémon usato dal Team Rocket a Kanto ottenibile in LGP, dato che gli altri sono esclusivi di LPEshort.",
+        "Secondo Nob Ogasawara, il numero di Pokédex di Lickitung, 0108, conterrebbe un gioco di parole. Questo numero infatti si pronuncia come hyakuhachi, dalla pronuncia simile a shakuhachi, uno strumento musicale ma anche un termine di slang giapponese per intendere la fellatio."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/lickitung.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "lickitung": {
+            "red": "Gli si allunga la lingua come a un camaleonte. Le sue leccate provocano prurito e irritazioni.",
+            "blue": "Gli si allunga la lingua come a un camaleonte. Le sue leccate provocano prurito e irritazioni.",
+            "yellow": "La sua lingua lunga circa un metro si muove velocissima. Se colpisce paralizza l'avversario.",
+            "gold": "La sua lingua ha nervi ben sviluppati che vanno fino alla punta, ed è quindi facilmente governabile.",
+            "silver": "La lunga lingua intrisa di saliva appiccicosa si attacca ovunque e perciò è molto utile.",
+            "crystal": "Usa la lingua lunga 2 metri per leccarsi il corpo fino a renderlo perfettamente pulito.",
+            "ruby": "Quando LICKITUNG si trova di fronte a qualcosa di nuovo, istintivamente lo assaggia con una leccata. È dotato infatti di una memoria legata al gusto e alla consistenza degli oggetti. Non ama i sapori aspri.",
+            "sapphire": "Quando LICKITUNG si trova di fronte a qualcosa di nuovo, istintivamente lo assaggia con una leccata. È dotato infatti di una memoria legata al gusto e alla consistenza degli oggetti. Non ama i sapori aspri.",
+            "emerald": "La memoria di LICKITUNG è legata al gusto e alla consistenza degli oggetti. Pertanto, se vede una cosa nuova, la lecca istintivamente. Non ama i sapori aspri.",
+            "fire-red": "La sua lingua è lunga il doppio del corpo. La usa come un braccio per afferrare cibo e attaccare.",
+            "leaf-green": "Gli si allunga la lingua come a un camaleonte. Le sue leccate provocano prurito e irritazioni.",
+            "diamond": "Al posto delle mani usa la sua lingua appiccicosa, lunga il doppio di lui. Con essa afferra qualsiasi cosa.",
+            "pearl": "Al posto delle mani usa la sua lingua appiccicosa, lunga il doppio di lui. Con essa afferra qualsiasi cosa.",
+            "platinum": "Quando estende la sua lingua, lunga quasi due metri, gli trema la coda. È possibile che siano collegate.",
+            "heart-gold": "La sua lingua ha nervi ben sviluppati che raggiungono la punta ed è quindi facilmente governabile.",
+            "soul-silver": "La lunga lingua intrisa di saliva appiccicosa si attacca agli oggetti e può diventare molto utile.",
+            "black": "Quando estende la sua lingua, lunga quasi due metri, gli trema la coda. È possibile che siano collegate.",
+            "white": "Quando estende la sua lingua, lunga quasi due metri, gli trema la coda. È possibile che siano collegate.",
+            "black-2": "Quando estende la sua lingua, lunga quasi due metri, gli trema la coda. È possibile che siano collegate.",
+            "white-2": "Quando estende la sua lingua, lunga quasi due metri, gli trema la coda. È possibile che siano collegate.",
+            "x": "La lunga lingua intrisa di saliva appiccicosa si attacca agli oggetti e può diventare molto utile.",
+            "y": "La sua lingua è lunga il doppio del corpo. La usa come un braccio per afferrare cibo e attaccare.",
+            "omega-ruby": "Quando Lickitung si trova di fronte a qualcosa di nuovo, istintivamente lo assaggia con una leccata. È dotato infatti di una memoria legata al gusto e alla consistenza degli oggetti. Non ama i sapori aspri.",
+            "alpha-sapphire": "Quando Lickitung si trova di fronte a qualcosa di nuovo, istintivamente lo assaggia con una leccata. È dotato infatti di una memoria legata al gusto e alla consistenza degli oggetti. Non ama i sapori aspri.",
+            "ultra-sun": "Esamina tutto ciò che lo circonda con la sua lunga lingua. Le parti leccate, se trascurate, possono sviluppare irritazioni.",
+            "ultra-moon": "Rimuove lo sporco leccandolo via, ma gli oggetti leccati emanano un cattivo odore che fa dubitare dell'efficacia della pulizia.",
+            "lets-go-pikachu": "Ha una lingua lunga circa 2 m, che può muovere con più scioltezza rispetto alle sue zampe anteriori. Le sue leccate paralizzano.",
+            "lets-go-eevee": "Ha una lingua lunga circa 2 m, che può muovere con più scioltezza rispetto alle sue zampe anteriori. Le sue leccate paralizzano.",
+            "sword": "La sua saliva appiccicosa provoca un prurito terribile che non dà tregua se le parti leccate non vengono ripulite.",
+            "shield": "Si nutre principalmente di Pokémon Coleottero. Paralizza le prede leccandole con la lunga lingua e le inghiotte in un boccone.",
+            "brilliant-diamond": "Al posto delle mani usa la lingua, lunga il doppio del suo corpo. La saliva appiccicosa si attacca a tutto.",
+            "shining-pearl": "Al posto delle mani usa la lingua, lunga il doppio del suo corpo. La saliva appiccicosa si attacca a tutto.",
+            "legends-arceus": "Adopra con destrezza la lingua bislunga alla stregua di una mano. La viscosa saliva, se bollita, si converte in un efficace e utile collante."
+        }
+    },
     "egg_groups": [
         "Mostro"
     ],
     "flat_name": "lickitung",
     "generation": 1,
     "height": {
-        "lickitung": "1.2 m"
+        "lickitung": "1,2 m"
     },
     "id": 108,
     "name": "Lickitung",
-    "name_origin": "Il nome di Lickitung è una corruzione e una combinazione dell'inglese \"lick\", \"leccare\" e \"tongue\", \"lingua\". ",
-    "origin": "Potrebbe essere basato su certi tipi di lucertole dotate di lingue estensibili, come la Tiliqua, o gli stessi camaleonti. Condivide certune caratteristiche anche con i formichieri. L'artiglio sul pollice lo collega anche all'iguanodonte. ",
+    "name_origin": "Lickitung deriva da \"lick\", \"leccare\", e \"tongue\", \"lingua\". ",
+    "origin": "Lickitung potrebbe essere basato su un Pletodontide, una famiglia di salamandre che include alcune specie dotate di lingua estensibile e che possono secernere una sostanza irritante e appiccicosa. Potrebbe anche essere basato su altre lucertole dotate di lingua estensibile, come i camaleonti. Inoltre, potrebbe trarre ispirazione dall'akaname, uno yōkai dotato di un artiglio per mano ed una lunga lingua. Gli akaname sono conosciuti per il loro pulire lo sporco da vasche da bagno, in modo simile a come Lickitung pulisca lo sporco leccandolo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Lickitung",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Linguaccia",
     "sprites": {
         "lickitung": {
@@ -58,6 +95,6 @@
         ]
     },
     "weight": {
-        "lickitung": "65.5 kg"
+        "lickitung": "65,5 kg"
     }
 }

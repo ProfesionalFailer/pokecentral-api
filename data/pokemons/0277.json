@@ -9,21 +9,44 @@
         "Swellow di Ash"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/swellow.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "swellow": {
+            "ruby": "SWELLOW vola alto sopra le nostre teste disegnando armoniosi archi in cielo. Appena scova una preda si lancia su di essa in picchiata. SWELLOW cattura poi la sventurata preda con le sue zampe artigliate impedendole la fuga.",
+            "sapphire": "SWELLOW è molto attento a mantenere le proprie ali sempre lucide e splendenti. Spesso si incontra coi propri simili e questi POKéMON in gruppo si lisciano vicendevolmente le piume.",
+            "emerald": "SWELLOW si lancia dall'alto in picchiata sulla preda, senza mai sbagliare un colpo. Lo si vede volare alto nei cieli alla ricerca di terre dal clima mite.",
+            "fire-red": "Se le due penne sulla coda sono ritte, significa che è in buona salute. Si libra elegantemente nel cielo.",
+            "leaf-green": "Se le due penne sulla coda sono ritte, significa che è in buona salute. Si libra elegantemente nel cielo.",
+            "diamond": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "pearl": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "platinum": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "heart-gold": "Trova nella foresta le sue prede, vi si scaglia sopra in picchiata e le afferra con i suoi artigli affilati.",
+            "soul-silver": "Trova nella foresta le sue prede, vi si scaglia sopra in picchiata e le afferra con i suoi artigli affilati.",
+            "black": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "white": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "black-2": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "white-2": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "x": "Se le sue due penne sulla coda sono ritte, significa che è in buona salute. Si libra elegantemente nel cielo.",
+            "y": "Trova nella foresta le sue prede, vi si scaglia sopra in picchiata e le afferra con i suoi artigli affilati.",
+            "omega-ruby": "Swellow volta alto sopra le nostre teste disegnando armoniosi archi in cielo. Appena scova una preda si lancia su di essa in picchiata. Swellow cattura poi la sventurata preda con le sue zampe artigliate impedendole la fuga.",
+            "alpha-sapphire": "Swellow è molto attento a mantenere le proprie ali sempre lucide e splendenti. Spesso si incontra coi propri simili e questi Pokémon in gruppo si lisciano vicendevolmente le piume.",
+            "brilliant-diamond": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla.",
+            "shining-pearl": "Vola in tondo alla ricerca di prede. Quando ne avvista una, si lancia in picchiata per catturarla."
+        }
+    },
     "egg_groups": [
         "Volante"
     ],
     "flat_name": "swellow",
     "generation": 3,
     "height": {
-        "swellow": "0.70 m"
+        "swellow": "0,70 m"
     },
     "id": 277,
     "name": "Swellow",
-    "name_origin": "\"Swellow\" può essere una combinazione di \"swell\"  e \"swallow\" . \"Ohsubame\" potrebbe essere una corruzione di 大燕 ōtsubame . ",
-    "origin": "Swellow sembra essere basato su una rondine, in particolare sulla rondine comune o sulla rondine benvenuta. I suoi colori e la sua cresta sono simili anche a quelli di un rondone crestato. Il suo comportamento predatorio e il volo veloce possono essere basati su quelli dei falchi o dei nibbi codadirondine. I suoi colori nella versione cromatica e le lunghe penne della coda ricordano il quetzal splendente; la colorazione verde della versione cromatica potrebbe inoltre essere un cenno alla rondine verdeviola. ",
+    "name_origin": "Swellow potrebbe essere una combinazione di swell, eccellente o ingrandirsi, e swallow, rondine. Ohsubame potrebbe essere una corruzione di 大燕 ōtsubame, grande rondine. ",
+    "origin": "Swellow sembra essere basato su una rondine, in particolare sulla rondine comune o sulla rondine benvenuta. I suoi colori e la sua cresta sono simili anche a quelli di un rondone crestato. Il suo comportamento predatorio e il volo veloce possono essere basati su quelli dei falchi o dei nibbi codadirondine. I suoi colori nella versione cromatica e le lunghe penne della coda ricordano il quetzal splendente; la colorazione verde della versione cromatica potrebbe inoltre essere un cenno alla rondine verdeviola. Le piume della coda di Swellow ricordano delle katane: è da notare la famosa mossa \"Tsubame-Gaeshi\" , ispirazione anche della mossa Aeroassalto, sviluppata da Sasaki Kojirō. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Swellow",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Rondine",
     "sprites": {
         "swellow": {
@@ -52,6 +75,6 @@
         ]
     },
     "weight": {
-        "swellow": "19.8 kg"
+        "swellow": "19,8 kg"
     }
 }

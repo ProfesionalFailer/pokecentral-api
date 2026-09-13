@@ -17,10 +17,11 @@
         "Pokémon di Gruppo Uova Sconosciuto",
         "Pokémon che non fanno parte di una linea di evoluzione",
         "Pokémon con statistiche base totali di 570",
-        "Pagine che richiamano file inesistenti",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti",
         "Pokémon Paradosso"
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/falenaferrea.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ironmoth.mp3",
     "dex_entries": {
         "falenaferrea": {
             "scarlet": "Ricorda molto un oscuro oggetto descritto in una rivista di paranormale come un ufo inviato qui per spiare le attività umane.",
@@ -33,14 +34,14 @@
     "flat_name": "falenaferrea",
     "generation": 9,
     "height": {
-        "falenaferrea": "1.2 m"
+        "falenaferrea": "1,2 m"
     },
     "id": 994,
     "name": "Falenaferrea",
     "name_origin": "Falenaferrea è una combinazione di falena e ferro. Iron Moth è una combinazione di iron, ferro, e moth, falena. ",
     "origin": "Falenaferrea potrebbe essere una versione robotica di Volcarona. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Falenaferrea",
-    "shape": "due paia di ali",
+    "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
         "falenaferrea": {
@@ -64,11 +65,11 @@
     },
     "types": {
         "falenaferrea": [
-            "Veleno",
-            "Fuoco"
+            "Fuoco",
+            "Veleno"
         ]
     },
     "weight": {
-        "falenaferrea": "36.0 kg"
+        "falenaferrea": "36,0 kg"
     }
 }

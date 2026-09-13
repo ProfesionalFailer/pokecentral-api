@@ -3,28 +3,23 @@
         "glimmora": {
             "primary": "Mantossina",
             "hidden": "Corrosione"
+        },
+        "megaglimmora": {
+            "primary": "Adattabilità"
         }
     },
     "curiosities": [
-        "Pokémon",
-        "Pokémon di nona generazione",
-        "Pokémon di tipo Roccia",
-        "Pokémon di tipo Veleno",
-        "Pokémon di doppio tipo",
-        "Pokémon nel gruppo di esperienza Medio-Lento",
-        "Pokémon di colore Blu",
-        "Pokémon dalla sagoma n. 01",
-        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
-        "Pokémon di Gruppo Uova Minerale",
-        "Pagine con articoli di Johto World",
-        "Pokémon appartenenti a una linea di evoluzione a due stadi",
-        "Pokémon con statistiche base totali di 525"
+        "Glimmora e la sua pre evoluzione Glimmet condividono la propria categoria con Boldore. Tutti e tre sono infatti noti come Pokémon Minerale."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/glimmora.mp3",
     "dex_entries": {
         "glimmora": {
             "scarlet": "Se avverte un pericolo, schiude i petali di cristallo ed emette dei raggi dal suo corpo conico.",
-            "violet": "Recentemente è emerso che i suoi petali fatti di energia Veleno cristallizzata sono affini alle pietre preziose del fenomeno Teracristal."
+            "violet": "Recentemente è emerso che i suoi petali fatti di energia Veleno cristallizzata sono affini alle pietre preziose del fenomeno Teracristal.",
+            "legends-za": "Schiude il grosso fiore composto da sostanze velenose e respinge i nemici con l’aiuto dei Glimmet."
+        },
+        "megaglimmora": {
+            "legends-za": "I petali si sono staccati dopo essere aumentati di dimensione e spargono frammenti tossici mentre ruotano a difesa del corpo centrale."
         }
     },
     "egg_groups": [
@@ -33,19 +28,23 @@
     "flat_name": "glimmora",
     "generation": 9,
     "height": {
-        "glimmora": "1.5 m"
+        "glimmora": "1,5 m"
     },
     "id": 970,
     "name": "Glimmora",
-    "name_origin": "Glimmora potrebbe derivare da glimmer  e flora. ",
-    "origin": "",
+    "name_origin": "Glimmora potrebbe derivare da glimmer  e flora o anche da ore . ",
+    "origin": "Glimmora potrebbe essere basato sulla calcantite, sulla passiflora, per via dei suoi petali, e, come Glimmet, su vari animali sessili, come le spugne o gli anemoni di mare. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Glimmora",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Minerale",
     "sprites": {
         "glimmora": {
             "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0970.png",
             "shiny": "https://media.pokemoncentral.it/wiki/a/ac/Homemsh0970.png"
+        },
+        "megaglimmora": {
+            "default": "https://media.pokemoncentral.it/wiki/d/dc/Homem0970M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/af/Homemsh0970M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/f/fe/Artwork0970_SV.png"
     },
@@ -57,18 +56,27 @@
             "spa": 130,
             "spd": 81,
             "spe": 86
+        },
+        "megaglimmora": {
+            "hp": 83,
+            "atk": 90,
+            "def": 105,
+            "spa": 150,
+            "spd": 96,
+            "spe": 101
         }
     },
     "stats_sum": {
-        "glimmora": 525
+        "glimmora": 525,
+        "megaglimmora": 625
     },
     "types": {
         "glimmora": [
-            "Veleno",
-            "Roccia"
+            "Roccia",
+            "Veleno"
         ]
     },
     "weight": {
-        "glimmora": "45.0 kg"
+        "glimmora": "45,0 kg"
     }
 }

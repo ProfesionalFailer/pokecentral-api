@@ -12,21 +12,19 @@
         }
     },
     "curiosities": [
-        "Il nome originale Inglese di Slowpoke era \"Slowmo\".\n\tForse era un riferimento alla parola slow-motion, in gergo detta anche \"slowmo\", appunto.",
+        "Il nome inglese di Slowpoke era inizialmente \"Slowmo\".\n\tForse era un riferimento alla parola slow-motion, in gergo detta anche \"slowmo\", appunto.",
         "Forse era un riferimento alla parola slow-motion, in gergo detta anche \"slowmo\", appunto.",
-        "Nell'anime, Slowpoke si evolve in Slowbro se uno Shellder gli morde la coda, o in Slowking se uno Shellder gli morde la testa mentre una Roccia di re vi è appoggiata. L'evoluzione di Slowbro è l'unica volta nell'anime in cui l'unione fisica di due Pokémon per l'evoluzione di uno di essi è effettivamente mostrata.\n\tTuttavia, l'evoluzione per vicinanza  non esisteva in prima generazione, quindi Shellder non ha in realtà alcuna relazione con l'evoluzione di Slowpoke.\n\tIl Pokédex afferma anche che se Slowbro perde il suo Shellder torna un Slowpoke. Questo nei giochi è impossibile e, nel caso fosse vero, questo sarebbe l'unico caso in cui un Pokémon evoluto può de-evolversi.",
-        "Tuttavia, l'evoluzione per vicinanza  non esisteva in prima generazione, quindi Shellder non ha in realtà alcuna relazione con l'evoluzione di Slowpoke.",
+        "Nell'anime, Slowpoke si evolve in Slowbro se uno Shellder gli morde la coda, o in Slowking se uno Shellder gli morde la testa mentre una Roccia di re vi è appoggiata. L'evoluzione di Slowbro è l'unica volta nell'anime in cui l'unione fisica di due Pokémon per l'evoluzione di uno di essi è effettivamente mostrata.\n\tTuttavia, l'evoluzione per vicinanza  non esisteva in prima generazione.\n\tIl Pokédex afferma anche che se Slowbro perde il suo Shellder torna un Slowpoke. Questo nei giochi è impossibile e, nel caso fosse vero, questo sarebbe l'unico caso in cui un Pokémon evoluto può de-evolversi.",
+        "Tuttavia, l'evoluzione per vicinanza  non esisteva in prima generazione.",
         "Il Pokédex afferma anche che se Slowbro perde il suo Shellder torna un Slowpoke. Questo nei giochi è impossibile e, nel caso fosse vero, questo sarebbe l'unico caso in cui un Pokémon evoluto può de-evolversi.",
         "In Oro e Argento, Slowpoke ha due serie distinte di immagini di gioco.",
         "L'unico gioco di terza generazione in cui Slowpoke e le sue evoluzioni sono catturabili è Pokémon Verde Foglia: questo è l'unico caso in questa generazione in cui una linea evolutiva è esclusiva di un solo gioco.",
-        "Nonostante sia apparso diverse volte, nessuno Slowpoke ha mai utilizzato una mossa nell'anime.\n\tTuttavia, subito dopo l'evoluzione, nell'Episodio \"Una grande scoperta\", uno Slowbro usa Amnesia.",
-        "Tuttavia, subito dopo l'evoluzione, nell'Episodio \"Una grande scoperta\", uno Slowbro usa Amnesia.",
+        "Nonostante sia apparso diverse volte, nessuno Slowpoke ha mai utilizzato una mossa nell'anime.",
         "Prima di Oro HeartGold e Argento SoulSilver, Slowpoke aveva la bocca aperta in tutte le immagini di gioco.",
         "Nonostante Slowpoke sia considerato uno dei Pokémon più stupidi, la sua evoluzione Slowking è considerata una delle più intelligenti.",
         "Nonostante il nome contenga la parola \"slow\", Slowpoke non è il Pokémon più lento.\n\tÈ però il Pokémon più lento di tipo Psico e, a pari merito con Wooper, di tipo Acqua.",
         "È però il Pokémon più lento di tipo Psico e, a pari merito con Wooper, di tipo Acqua.",
-        "Nel videogioco Dragon Ball Z: Budokai Tenkaichi 3, quando Gogeta  sconfigge Omega Shenron, dirà \"Try to keep up, slowpoke.\" .",
-        "Tra il Pokémon Argento giapponese e quello rilasciato internazionalmente, gli artwork di Slowpoke hanno delle differenze: nella versione giapponese Slowpoke ha la pancia più grossa e striata, simile a quella di Slowbro e Slowking. Non si sa perché è stato in seguito cambiato. Comunque, la sua pancia striata è ancora parzialmente visibile in tutti gli artwork di Oro e Cristallo. Questo però non è un vero errore, in quanto è stato riscontrato anche in un artwork di Ken Sugimori della prima generazione.",
+        "Tra il Pokémon Argento giapponese e quello rilasciato internazionalmente, gli sprite di Slowpoke hanno delle differenze: nella versione giapponese Slowpoke ha la pancia più grossa e striata, simile a quella di Slowbro e Slowking. Non si sa perché è stato in seguito cambiato. Comunque, la sua pancia striata è ancora parzialmente visibile in tutti gli artwork di Oro e Cristallo. Questo però non è un vero errore, in quanto è stato riscontrato anche in un artwork di Ken Sugimori della prima generazione.",
         "Nonostante molte voci del Pokédex parlino della sua lentezza nel reagire ai morsi sulla sua coda, in Pokémon Snap Slowpoke reagisce velocemente a un morso di uno Shellder. Ciò potrebbe accadere a causa del veleno di Shellder  che stimola una reazione veloce o semplicemente un errore o una meccanica di gioco per velocizzare il processo.",
         "The Pokémon Company ha caricato un video di musica reggae a tema Slowpoke nel suo canale giapponese, intitolandolo \"What's Going on, Yadon?\". La canzone è stata in seguito doppiata in inglese e caricata nel canale inglese con il titolo di \"Slowpoke Song\".",
         "Slowpoke è l'unico Pokémon con evoluzione ramificata le cui evoluzioni hanno un totale diverso di PA ceduti: Slowbro cede 2 PA, mentre Slowking ne cede 3.",
@@ -37,7 +35,54 @@
         "Gli occhi di Slowpoke di Galar diventano a forma di X quando questo Pokémon viene colpito da un mossa in una lotta in Pokémon Spada e Scudo."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/slowpoke.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "slowpoke": {
+            "red": "Incredibilmente lento e tonto, ci mette 5 secondi a percepire il dolore dopo l'attacco.",
+            "blue": "Incredibilmente lento e tonto, ci mette 5 secondi a percepire il dolore dopo l'attacco.",
+            "yellow": "Questo POKéMON è incredibilmente pigro e lento. Adora dormire e poltrire tutto il giorno.",
+            "gold": "Ozia con aria assente vicino all'acqua. Se gli si morsicasse la coda non se ne accorgerebbe neppure.",
+            "silver": "Una dolce linfa gli cola dalla punta della coda. Non è nutriente, ma ha un buon sapore.",
+            "crystal": "È sempre talmente distratto che non reagisce neppure se gli si morsica la gustosissima coda.",
+            "ruby": "SLOWPOKE usa la coda per pescare la preda, immergendola in acqua dalle rive dei fiumi. Tuttavia, spesso dimentica cosa stava facendo e trascorre giorni interi a ciondolare vicino ai corsi d'acqua.",
+            "sapphire": "SLOWPOKE usa la coda per pescare la preda, immergendola in acqua dalle rive dei fiumi. Tuttavia, spesso dimentica cosa stava facendo e trascorre giorni interi a ciondolare vicino ai corsi d'acqua.",
+            "emerald": "SLOWPOKE immerge la coda in acqua dalle rive dei fiumi per pescare la preda. Spesso dimentica cosa stava facendo e ciondola vicino ai corsi d'acqua per intere giornate.",
+            "fire-red": "È sempre assorto, ma nessuno sa a cosa stia pensando. Si serve della coda per pescare.",
+            "leaf-green": "Incredibilmente lento e tonto, ci mette 5 secondi a percepire il dolore dopo l'attacco.",
+            "diamond": "Anche se è lento, è abile a pescare con la coda. Non avverte alcun dolore se gliela mordono.",
+            "pearl": "Anche se è lento, è abile a pescare con la coda. Non avverte alcun dolore se gliela mordono.",
+            "platinum": "Anche se è lento, è abile a pescare con la coda. Non avverte alcun dolore se gliela mordono.",
+            "heart-gold": "Ozia assentemente vicino all'acqua. Se gli si mordesse la coda non se ne accorgerebbe neppure.",
+            "soul-silver": "Una dolce linfa gli cola dalla punta della coda. Non è nutriente, ma ha un buon sapore.",
+            "black": "Anche se è lento, è abile a pescare con la coda. Non avverte alcun dolore se gliela mordono.",
+            "white": "Anche se è lento, è abile a pescare con la coda. Non avverte alcun dolore se gliela mordono.",
+            "black-2": "Anche se è lento, è abile a pescare con la coda. Non avverte alcun dolore se gliela mordono.",
+            "white-2": "Anche se è lento, è abile a pescare con la coda. Non avverte alcun dolore se gliela mordono.",
+            "x": "È sempre assorto, ma nessuno sa a cosa stia pensando. Si serve della coda per pescare.",
+            "y": "Ozia assentemente vicino all'acqua. Se gli si mordesse la coda non se ne accorgerebbe neppure.",
+            "omega-ruby": "Slowpoke usa la coda per pescare la preda, immergendola in acqua dalle rive dei fiumi. Tuttavia, spesso dimentica cosa stava facendo e trascorre giorni interi a ciondolare vicino ai corsi d'acqua.",
+            "alpha-sapphire": "Slowpoke usa la coda per pescare la preda, immergendola in acqua dalle rive dei fiumi. Tuttavia, spesso dimentica cosa stava facendo e trascorre giorni interi a ciondolare vicino ai corsi d'acqua.",
+            "sun": "La sua lunga coda si spezza facilmente, ma senza causargli dolore. Inoltre, ricresce sempre, quindi il Pokémon non sembra preoccuparsene.",
+            "moon": "La coda di Slowpoke essiccata e bollita a fuoco lento in acqua salata è un piatto tipico della cucina di Alola.",
+            "ultra-sun": "Secondo una leggenda, quando sbadiglia piove. Sembra che in alcune regioni venga venerato per questo motivo.",
+            "ultra-moon": "Le code di Slowpoke si staccano naturalmente e cadono qua e là. Vengono raccolte e usate come preziosi ingredienti in cucina.",
+            "lets-go-pikachu": "Non è molto sveglio ed è lento nei movimenti. Dorme e poltrisce tutto il giorno, incurante del tempo che passa.",
+            "lets-go-eevee": "Non è molto sveglio ed è lento nei movimenti. Dorme e poltrisce tutto il giorno, incurante del tempo che passa.",
+            "sword": "Poco sveglio e privo di intuito. Se gli mangiano la coda non sente alcun dolore, e non si accorge nemmeno quando gli ricresce.",
+            "shield": "Se immersa nell'acqua, la coda di Slowpoke secerne una dolce linfa che il Pokémon usa per attirare altri Pokémon e pescarli.",
+            "brilliant-diamond": "Pur essendo lento, è abile a pescare con la coda. Non avverte alcun dolore se gliela mordono.",
+            "shining-pearl": "Pur essendo lento, è abile a pescare con la coda. Non avverte alcun dolore se gliela mordono.",
+            "scarlet": "Incredibilmente lento e tonto, ci mette cinque secondi a percepire il dolore dopo essere stato colpito.",
+            "violet": "È sempre assorto, ma nessuno sa a cosa stia pensando. Si serve della coda per pescare.",
+            "legends-za": "Ozia distrattamente vicino all'acqua. Se gli si mordesse la coda non se ne accorgerebbe neppure dopo un giorno intero."
+        },
+        "forma-di-galar": {
+            "sword": "Ha sempre un'aria assente, ma a volte il suo viso si contrae improvvisamente in una smorfia. Pare che questo sia dovuto alla sua alimentazione.",
+            "shield": "Si nutre di semi di piante che crescono solo nella regione di Galar. La sua dieta conferisce un gusto piccante alla sua coda.",
+            "scarlet": "L’odore pungente che emana è dovuto alla massiccia presenza nel suo corpo delle sostanze contenute nelle spezie di cui si nutre.",
+            "violet": "Mette la coda in acqua per pescare ma, a causa dell’odore di spezie che emana, i risultati sono sempre scarsi.",
+            "legends-za": "Ha sempre un'aria assente, ma a volte contrae improvvisamente il muso in una smorfia. Pare che questo sia dovuto alla sua alimentazione."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Acqua 1"
@@ -45,14 +90,14 @@
     "flat_name": "slowpoke",
     "generation": 1,
     "height": {
-        "slowpoke": "1.2 m"
+        "slowpoke": "1,2 m"
     },
     "id": 79,
     "name": "Slowpoke",
-    "name_origin": "Il termine slowpoke indica in Inglese una persona lenta. Può anche derivare da slow, \"lento\", e poke . Il suo nome giapponese Yadon deriva probabilmente da 宿借り yadokari, paguro, oppure da 宿主 yadonushi, ospite . Inoltre, 鈍感 donkan significa \"stupido\" o \"dalla testa dura\", mentre 鈍 don significa \"lento\" o \"stupido\". ",
-    "origin": "Slowpoke sembrerebbe essere basato su una salamandra gigante con alcuni elementi di un ippopotamo. ",
+    "name_origin": "Slowpoke potrebbe derivare dal termine slowpoke, che indica in Inglese una persona lenta. Yadon deriva probabilmente da 宿借り yadokari, paguro, oppure da 宿主 yadonushi, ospite . Inoltre, 鈍感 donkan significa \"stupido\" o \"dalla testa dura\", mentre 鈍 don significa \"lento\" o \"stupido\". ",
+    "origin": "Slowpoke sembrerebbe essere basato su una salamandra gigante con alcuni elementi di un ippopotamo. Data la sua natura marina e l'associazione gon le conchiglie, potrebbee ssere anche basato su una lontra marina. La sua abilità di far ricrescere la propria coda deriva dall'autotomia e dalle capacità di rigenerazione viste con alcune specie di lucertole e salamandre. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Slowpoke",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Ronfone",
     "sprites": {
         "slowpoke": {
@@ -80,14 +125,14 @@
     },
     "types": {
         "slowpoke": [
-            "Psico",
-            "Acqua"
+            "Acqua",
+            "Psico"
         ],
         "forma-di-galar": [
             "Psico"
         ]
     },
     "weight": {
-        "slowpoke": "36.0 kg"
+        "slowpoke": "36,0 kg"
     }
 }

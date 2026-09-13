@@ -22,8 +22,7 @@
         }
     },
     "curiosities": [
-        "Meowth potrebbe essere considerato una controparte di Pikachu: entrambi sono Pokémon di prima generazione; uno è un gatto, l'altro un topo; Pikachu è il Pokémon numero 25 nel Pokédex Nazionale, mentre Meowth è il numero 52; nella serie animata, Meowth cerca sempre di catturare Pikachu insieme al Team Rocket.\n\tMeowth può essere anche considerato una controparte di Mankey. Entrambi sono Pokémon di prima generazione che si evolvono nelle loro forme finali al livello 28. Meowth è esclusivo di Pokémon Blu, Argento, Argento SoulSilver e Let's Go, Eevee!; mentre Mankey è esclusivo di Pokémon Rosso, Oro, Oro HeartGold e Let's Go, Pikachu!. Inoltre, in Nero 2 e Bianco 2, Lilì darà al giocatore un Meowth se il giocatore è maschio, mentre Dadì darà al giocatore un Mankey se il giocatore è femmina. Infine, entrambi sembrano avere una combinazione di colori simile.",
-        "Meowth può essere anche considerato una controparte di Mankey. Entrambi sono Pokémon di prima generazione che si evolvono nelle loro forme finali al livello 28. Meowth è esclusivo di Pokémon Blu, Argento, Argento SoulSilver e Let's Go, Eevee!; mentre Mankey è esclusivo di Pokémon Rosso, Oro, Oro HeartGold e Let's Go, Pikachu!. Inoltre, in Nero 2 e Bianco 2, Lilì darà al giocatore un Meowth se il giocatore è maschio, mentre Dadì darà al giocatore un Mankey se il giocatore è femmina. Infine, entrambi sembrano avere una combinazione di colori simile.",
+        "Meowth può essere considerato una controparte di Mankey. Entrambi sono Pokémon di prima generazione che si evolvono nelle loro forme finali al livello 28. Meowth è esclusivo di Pokémon Blu, Pokémon Argento, Pokémon Argento SoulSilver e LGE; mentre Mankey è esclusivo di Pokémon Rosso, Pokémon Oro, Pokémon Oro HeartGold e LGP. Inoltre, in Nero 2 e Bianco 2, Lilì darà al giocatore un Meowth se il giocatore è maschio, mentre Dadì darà al giocatore un Mankey se il giocatore è femmina. Infine, entrambi sembrano avere una combinazione di colori simile.",
         "Il numero di Meowth nel Pokédex Nazionale e nel Pokédex di Alola in Pokémon Ultrasole e Ultraluna è lo stesso: 052.",
         "Niue ha realizzato monete da un dollaro che raffigurano da una parte Meowth e dall'altra il blasone della nazione, come promozione commemorativa del franchise dei Pokémon.",
         "Nell'episodio La storia di Meowth della serie animata Pokémon, si afferma che il Meowth del Team Rocket ha dovuto imparare ed esercitarsi a stare sulle sue zampe posteriori come un umano, il che implica che i Meowth come specie non sono normalmente in grado di stare sulle loro zampe posteriori. Nonostante ciò, quasi tutti gli sprite dei giochi e del Pokédex nella serie animata lo raffigurano sulle sue zampe posteriori. Anche il Meowth di Tyson è in grado di camminare su due zampe, sembrando naturale.\n\tOro HeartGold e Argento SoulSilver sono gli unici giochi Pokémon in cui Meowth può essere visto camminare a quattro zampe, quando è il Pokémon accompagnatore del giocatore.",
@@ -40,21 +39,81 @@
         "Meowth appare in Pokémon Battle Chess, dove non si comporta come qualsiasi altro pezzo tradizionale degli scacchi."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/meowth.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "meowth": {
+            "red": "Ama gli oggetti rotondi. Di notte vaga per le vie in cerca di monetine perdute.",
+            "blue": "Ama gli oggetti rotondi. Di notte vaga per le vie in cerca di monetine perdute.",
+            "yellow": "Sembra essere più attivo di notte. Ama gli oggetti lucenti e rotondi e non può evitare di raccoglierli.",
+            "gold": "È affascinato da oggetti rotondi. Non può fare a meno di giocarci fino a stancarsi e addormentarsi.",
+            "silver": "Ama tutto ciò che splende, soprattutto le monete che raccoglie e accumula segretamente.",
+            "crystal": "Ama gli oggetti scintillanti. Se nota qualcosa brillare, splende la moneta d'oro sulla sua fronte.",
+            "ruby": "MEOWTH ritira i suoi artigli affilati all'interno delle zampe per poter aggirarsi furtivo camuffando le tracce. Per qualche oscura ragione questo POKéMON è attratto dalle monetine che splendono alla luce.",
+            "sapphire": "MEOWTH ritira i suoi artigli affilati all'interno delle zampe per poter aggirarsi furtivo camuffando le tracce. Per qualche oscura ragione questo POKéMON è attratto dalle monetine che splendono alla luce.",
+            "emerald": "MEOWTH ritira i suoi artigli affilati all'interno delle zampe per poter aggirarsi furtivo. Per ragioni oscure, è attratto dalle monetine che splendono alla luce.",
+            "fire-red": "Di giorno non fa che dormire, mentre la notte perlustra il territorio con i suoi occhi luccicanti.",
+            "leaf-green": "Ama gli oggetti rotondi. Di notte vaga per le vie in cerca di monetine perdute.",
+            "diamond": "È un Pokémon attivo di notte. Se nota qualcosa di luccicante, i suoi occhi cominciano a brillare.",
+            "pearl": "È un Pokémon attivo di notte. Se nota qualcosa di luccicante, i suoi occhi cominciano a brillare.",
+            "platinum": "È un Pokémon attivo di notte. Se nota qualcosa di luccicante, i suoi occhi cominciano a brillare.",
+            "heart-gold": "Gli piacciono gli oggetti rotondi. Non può fare a meno di giocarci fino a stancarsi e addormentarsi.",
+            "soul-silver": "Ama tutto ciò che splende, soprattutto le monete che raccoglie e accumula segretamente.",
+            "black": "È un Pokémon attivo di notte. Se nota qualcosa di luccicante, i suoi occhi cominciano a brillare.",
+            "white": "È un Pokémon attivo di notte. Se nota qualcosa di luccicante, i suoi occhi cominciano a brillare.",
+            "black-2": "È un Pokémon attivo di notte. Se nota qualcosa di luccicante, i suoi occhi cominciano a brillare.",
+            "white-2": "È un Pokémon attivo di notte. Se nota qualcosa di luccicante, i suoi occhi cominciano a brillare.",
+            "x": "È un Pokémon attivo di notte. Se nota qualcosa di luccicante, i suoi occhi cominciano a brillare.",
+            "y": "Ama gli oggetti rotondi. Di notte vaga per le vie in cerca di monetine perdute.",
+            "omega-ruby": "Meowth ritira i suoi artigli affilati all'interno delle zampe per poter aggirarsi furtivo camuffando le tracce. Per qualche oscura ragione questo Pokémon è attratto dalle monetine che splendono alla luce.",
+            "alpha-sapphire": "Meowth ritira i suoi artigli affilati all'interno delle zampe per poter aggirarsi furtivo camuffando le tracce. Per qualche oscura ragione questo Pokémon è attratto dalle monetine che splendono alla luce.",
+            "sun": "Dorme tutto il giorno e si attiva verso il tramonto, Durante la notte gira per la città in cerca di monetine.",
+            "moon": "Ama gli oggetti luccicanti. Spesso se li contende con Murkrow.",
+            "ultra-sun": "Nelle discariche capita di vederlo lottare furiosamente con Murkrow per gli oggetti luccicanti.",
+            "ultra-moon": "Adora le monetine. Basta dargliene un po' perché si affezioni, ma a causa del suo carattere volubile non è affidabile.",
+            "lets-go-pikachu": "Pare che sia più attivo durante la notte. Ama gli oggetti lucenti e rotondi, e quando ne vede non può fare a meno di raccoglierli.",
+            "lets-go-eevee": "Pare che sia più attivo durante la notte. Ama gli oggetti lucenti e rotondi, e quando ne vede non può fare a meno di raccoglierli.",
+            "sword": "Ama raccogliere oggetti luccicanti. Quando è di buon umore mostra la sua collezione anche al suo Allenatore.",
+            "shield": "Si lava regolarmente il muso per tenere pulita la moneta sulla fronte. Non va d’accordo con il Meowth di Galar.",
+            "brilliant-diamond": "È attivo di notte. Se nota qualcosa di luccicante, i suoi occhi cominciano a brillare intensamente.",
+            "shining-pearl": "È attivo di notte. Se nota qualcosa di luccicante, i suoi occhi cominciano a brillare intensamente.",
+            "scarlet": "Di giorno non fa che dormire, mentre la notte perlustra il suo territorio con gli occhi luccicanti.",
+            "violet": "Ama gli oggetti scintillanti. Se nota qualcosa che brilla, anche la moneta sulla sua fronte risplende.",
+            "legends-za": "Ama tutto ciò che splende, soprattutto le monete che raccoglie e accumula segretamente."
+        },
+        "forma-di-alola": {
+            "sun": "Non è un Pokémon autoctono di Alola, è stato introdotto dall'uomo per poi inselvatichirsi. È un Pokémon furbo e molto orgoglioso.",
+            "moon": "Se qualcuno ferisce il suo orgoglio o sporca la moneta sulla sua fronte, perde le staffe e scatena una furia incontrollabile.",
+            "ultra-sun": "È capriccioso, egoista e volubile. È molto popolare tra gli Allenatori che amano viziare i loro Pokémon.",
+            "ultra-moon": "È stato introdotto da un'altra regione grazie a una fiorente famiglia reale dell'antichità. È egoista e molto orgoglioso.",
+            "lets-go-pikachu": "È un Pokémon intelligente e molto orgoglioso. Ha la fama di essere difficile da trattare, ma gli appassionati lo apprezzano anche per questo.",
+            "lets-go-eevee": "È un Pokémon intelligente e molto orgoglioso. Ha la fama di essere difficile da trattare, ma gli appassionati lo apprezzano anche per questo.",
+            "sword": "In passato viveva nel lusso assieme alla famiglia reale della regione di Alola. Per questo è molto schizzinoso riguardo al cibo.",
+            "shield": "È molto orgoglioso ed estremamente intelligente. Agisce con furbizia attaccando con ostinazione i punti deboli del nemico.",
+            "legends-za": "È capriccioso, egoista e volubile. È molto popolare tra certi Allenatori che amano viziare i loro Pokémon."
+        },
+        "forma-di-galar": {
+            "sword": "Parte del suo corpo si è trasformata in ferro dopo un lungo soggiorno e continui allenamenti con un battagliero popolo del mare.",
+            "shield": "Più è nera la moneta sulla sua fronte, più è rispettato dai suoi simili. È intrepido e non conosce la paura.",
+            "legends-za": "La sua barba incolta è retaggio di un passato trascorso in terre fredde. Lotta con intrepida risolutezza usando i suoi artigli d'acciaio."
+        },
+        "forma-gigamax": {
+            "sword": "Si pensa che il motivo sulla moneta che ha sulla fronte sia la chiave per comprendere il fenomeno Dynamax.",
+            "shield": "L’energia del fenomeno Gigamax ne ha allungato il busto e ingrandito la moneta sulla fronte."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "meowth",
     "generation": 1,
     "height": {
-        "meowth": "0.4 m"
+        "meowth": "0,4 m"
     },
     "id": 52,
     "name": "Meowth",
-    "name_origin": "Meowth sembra essere una combinazione di meow, il verso del gatto, e bocca. Il -th potrebbe anche essere stato preso in prestito da Nyarth, poiché sia meow che nyā sono onomatopee del verso di un gatto. Nyarth potrebbe essere una combinazione di ニャー nyā, il verso dei gatti, e i suoni scambiati di シャム Syamu, Siam, antico nome della Thailandia, diventato ミャス Myasu. Siam si riferisce a una varietà di gatti, i siamesi, che sono in relazione con l'evoluzione di Meowth, Persian e la varietà di gatti persiani. Su è compatibile a livello verbale con th, poiché s e th sono spesso scambiati in alcuni difetti di pronuncia. ",
-    "origin": "Junichi Masuda afferma che Meowth è basato sul personale gatto di Satoshi Tajiri. Meowth sembra essere basato sulla leggenda giapponese del 招き猫 Maneki Neko, conosciuto anche come gatto fortunato o gatto invitante. Secondo la leggenda, un gatto alzò la sua zampa per salutare un signore e gli salvò la vita quando un fulmine colpì il punto dove si trovava. I Maneki Neko sono spesso usati nei ristoranti e nei negozi come portafortuna per portare ai clienti fortuna. Statue del gatto sono spesso raffigurate mentre tengono un koban, una moneta antica usata in Giappone, come quella sulla testa di Meowth. ",
+    "name_origin": "Meowth sembra essere una combinazione di meow , il verso del gatto, mouth,  e wealth . Il -th potrebbe anche derivare da Nyarth, poiché sia meow che nyā sono onomatopee del verso di un gatto. Nyarth potrebbe essere una combinazione di ニャー nyā, il verso dei gatti in giapponese, e i suoni scambiati di シャム Syamu, Siam, antico nome della Thailandia, diventato ミャス Myasu. Siam si riferisce a una varietà di gatti, i siamesi, che sono in relazione con l'evoluzione di Meowth, Persian e la varietà di gatti persiani. Su è compatibile a livello verbale con th, poiché s e th sono spesso scambiati in alcuni difetti di pronuncia. ",
+    "origin": "Meowth sembra essere basato sulla leggenda giapponese del 招き猫 Maneki Neko, conosciuto anche come gatto fortunato o gatto invitante. Secondo la leggenda, un gatto alzò la sua zampa per salutare un Signore e gli salvò la vita quando un fulmine colpì il punto dove si trovava. I Maneki Neko sono spesso usati nei ristoranti e nei negozi come portafortuna per portare ai clienti fortuna. Statue del gatto sono spesso raffigurate mentre tengono un koban, una moneta antica usata in Giappone, come quella sulla testa di Meowth. Meowth di Alola sembra essere basato su un gatto domestico come il British Shorthair, conosciuto per la testa tonda e il \"sorriso\" pronunciato, entrambi il risultato di accoppiamento selettivo. Meowth di Galar potrebbe essere basato su un gatto norvegese delle foreste o il gatto selvatico con alcuni tratti di vichinghi. Si crede che questi tenevano antenati dei gatti sopra citati nelle loro navi, a cui farebbe riferimento la voce Pokédex di Pokémon Spada. La sua forma Gigamax potrebbe essere basata su uno sketch di Monty Python's Flying Circus in cui è presente un gatto gigante con le braccia estese davanti a sé, o sul meme del Longcat  ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Meowth",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Graffimiao",
     "sprites": {
         "meowth": {
@@ -130,8 +189,8 @@
         ]
     },
     "weight": {
-        "meowth-e-forma-di-alola": "4.2 kg",
-        "forma-di-galar": "7.5 kg",
-        "meowth-gigamax": "???.? kg"
+        "meowth-e-forma-di-alola": "4,2 kg",
+        "forma-di-galar": "7,5 kg",
+        "meowth-gigamax": "???,? kg"
     }
 }

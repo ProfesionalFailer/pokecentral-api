@@ -6,8 +6,10 @@
         }
     },
     "curiosities": [
-        "Nessun altro Pokémon ha gli stessi due Gruppi Uova di Cacnea e della sua evoluzione. Infatti sono gli unici ad essere Erba e Umanoide.",
-        "Cacnea condivide la categoria con Maractus; entrambi sono infatti conosciuti come Pokémon Cactus."
+        "Nessun altro Pokémon ha gli stessi due Gruppi Uova di Cacnea e della sua evoluzione.\n\tSono gli unici Pokémon di tipo Erba nel Gruppo Uova Umanoide.",
+        "Sono gli unici Pokémon di tipo Erba nel Gruppo Uova Umanoide.",
+        "Cacnea condivide la categoria con Maractus; entrambi sono infatti conosciuti come Pokémon Cactus.",
+        "Cacnea non aveva mosse uovo in Pokémon Scarlatto e Violetto fino alla versione 2.0.1, dove le ha riottenute. Condivide questa caratteristica con Luvdisc e Grimer di Alola."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/cacnea.mp3",
     "dex_entries": {
@@ -15,13 +17,13 @@
             "ruby": "CACNEA vive in luoghi molto aridi come il deserto. Il suo fiore rilascia un forte aroma per attirare le prede. Quando la preda si avvicina, il POKéMON le spara contro un nuvolo di spine del proprio corpo per abbatterla.",
             "sapphire": "Quanto più arido e aspro è l'ambiente, tanto più rigoglioso cresce il fiore di CACNEA. Il POKéMON lotta agitando furiosamente gli spinosi arti superiori.",
             "emerald": "CACNEA vive in deserti dove non piove mai. Per la lotta usa le sue grosse zampe ricoperte di spine. Una volta all'anno sboccia il suo fiore giallo.",
-            "firered": "Predilige ambienti ostili, come i deserti. Grazie all'acqua immagazzinata nel corpo, può resistere 30 giorni senza bere.",
-            "leafgreen": "Predilige ambienti ostili, come i deserti. Grazie all'acqua immagazzinata nel corpo, può resistere 30 giorni senza bere.",
+            "fire-red": "Predilige ambienti ostili, come i deserti. Grazie all'acqua immagazzinata nel corpo, può resistere 30 giorni senza bere.",
+            "leaf-green": "Predilige ambienti ostili, come i deserti. Grazie all'acqua immagazzinata nel corpo, può resistere 30 giorni senza bere.",
             "diamond": "Immagazzina acqua nel corpo e riesce a sopravvivere nel deserto senz'acqua anche per 30 giorni.",
             "pearl": "Immagazzina acqua nel corpo e riesce a sopravvivere nel deserto senz'acqua anche per 30 giorni.",
             "platinum": "Immagazzina acqua nel corpo e riesce a sopravvivere nel deserto senz'acqua anche per 30 giorni.",
-            "heartgold": "CACNEA vive in zone aride, dove non piove quasi mai. Il suo fiore giallo sboccia una volta all'anno.",
-            "soulsilver": "CACNEA vive in zone aride, dove non piove quasi mai. Il suo fiore giallo sboccia una volta all'anno.",
+            "heart-gold": "CACNEA vive in zone aride, dove non piove quasi mai. Il suo fiore giallo sboccia una volta all'anno.",
+            "soul-silver": "CACNEA vive in zone aride, dove non piove quasi mai. Il suo fiore giallo sboccia una volta all'anno.",
             "black": "Immagazzina acqua nel corpo e riesce a sopravvivere nel deserto senz'acqua anche per 30 giorni.",
             "white": "Immagazzina acqua nel corpo e riesce a sopravvivere nel deserto senz'acqua anche per 30 giorni.",
             "black-2": "Immagazzina acqua nel corpo e riesce a sopravvivere nel deserto senz'acqua anche per 30 giorni.",
@@ -32,8 +34,8 @@
             "alpha-sapphire": "Quanto più arido e aspro è l'ambiente, tanto più rigoglioso cresce il fiore di Cacnea. Il Pokémon lotta agitando furiosamente gli spinosi arti superiori.",
             "brilliant-diamond": "Vive nel deserto. Immagazzina acqua nel corpo e riesce quindi a sopravvivere senza anche per 30 giorni.",
             "shining-pearl": "Vive nel deserto. Immagazzina acqua nel corpo e riesce quindi a sopravvivere senza anche per 30 giorni.",
-            "scarlet": "Predilige ambienti ostili come i deserti. Grazie all’acqua immagazzinata nel corpo, può resistere 30 giorni senza bere.",
-            "violet": "Vive in zone aride, dove non piove quasi mai. Il suo fiore giallo sboccia una volta all’anno."
+            "scarlet": "Predilige ambienti ostili come i deserti. Grazie all'acqua immagazzinata nel corpo, può resistere 30 giorni senza bere.",
+            "violet": "Vive in zone aride, dove non piove quasi mai. Il suo fiore giallo sboccia una volta all'anno."
         }
     },
     "egg_groups": [
@@ -43,14 +45,14 @@
     "flat_name": "cacnea",
     "generation": 3,
     "height": {
-        "cacnea": "0.4 m"
+        "cacnea": "0,4 m"
     },
     "id": 331,
     "name": "Cacnea",
-    "name_origin": "Il nome Cacnea deriva da cactus, ed è stato fatto suonare come il suo nome giapponese. ",
-    "origin": "Cacnea è ispirato a un cactus barile e, forse, a un Jack-o'-lantern ",
+    "name_origin": "Cacnea potrebbe derivare da cactus e il suo nome giapponese. Sabonea, il suo nome giapponese, potrebbe derivare da 仙人掌 saboten, cactus, e debonair, disinvolto. ",
+    "origin": "Cacnea sembra essere ispirato ad una pianta del genere echinocactus e possibilmente da un Jack-o'-lantern. Il fiore sulla sua testa può ricordare una corona. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Cacnea",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Cactus",
     "sprites": {
         "cacnea": {
@@ -78,6 +80,6 @@
         ]
     },
     "weight": {
-        "cacnea": "51.3 kg"
+        "cacnea": "51,3 kg"
     }
 }

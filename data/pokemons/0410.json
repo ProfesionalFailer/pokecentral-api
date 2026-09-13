@@ -6,10 +6,7 @@
         }
     },
     "curiosities": [
-        "Shieldon e Cranidos si evolvono al livello 30, prima di tutti gli altri Pokémon Fossili.",
-        "Le famiglie evolutive di Shieldon ed Aron erano gli unici Pokémon a poter imparare Metalscoppio prima di Pokémon Oro HeartGold e Argento SoulSilver.\n\tCuriosamente, le famiglie condividono la stessa combinazione di tipi, seppur invertita.",
-        "Curiosamente, le famiglie condividono la stessa combinazione di tipi, seppur invertita.",
-        "In Pokémon Spada e Scudo, Shieldon e Cranidos sono gli unici fossili a non essere stati aggiunti con il secondo aggiornamento del Pass di espansione di Pokémon Spada e Scudo, Le terre innevate della corona."
+        "Shieldon e Cranidos si evolvono al livello 30, prima di tutti gli altri Pokémon Fossili."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/shieldon.mp3",
     "dex_entries": {
@@ -17,8 +14,8 @@
             "diamond": "Pokémon che viveva nella giungla circa 100 milioni di anni fa. Il suo muso è molto resistente.",
             "pearl": "Si pulisce il muso strofinandolo contro i tronchi degli alberi. È debole agli attacchi alle spalle.",
             "platinum": "Ha una corazza molto spessa. Di conseguenza può procurarsi erba e bacche senza dover combattere.",
-            "heartgold": "Nato da un fossile portato alla luce da uno strato di cento milioni di anni fa. Ha un muso resistente.",
-            "soulsilver": "Nato da un fossile portato alla luce da uno strato di cento milioni di anni fa. Ha un muso resistente.",
+            "heart-gold": "Nato da un fossile portato alla luce da uno strato di cento milioni di anni fa. Ha un muso resistente.",
+            "soul-silver": "Nato da un fossile portato alla luce da uno strato di cento milioni di anni fa. Ha un muso resistente.",
             "black": "Ha una corazza molto spessa. Di conseguenza può procurarsi erba e bacche senza dover combattere.",
             "white": "Ha una corazza molto spessa. Di conseguenza può procurarsi erba e bacche senza dover combattere.",
             "black-2": "Ha una corazza molto spessa. Di conseguenza può procurarsi erba e bacche senza dover combattere.",
@@ -33,8 +30,11 @@
             "ultra-moon": "Fossili di questo Pokémon sono stati trovati in strati geologici antichissimi. Tuttavia, gli unici resti pervenuti costituiscono parti del muso.",
             "brilliant-diamond": "Viveva nella giungla circa 100 milioni di anni fa. La pelle che ricopre la sua testa è estremamente dura.",
             "shining-pearl": "Si pulisce il muso strofinandolo contro i tronchi degli alberi. Gli attacchi alle spalle sono il suo punto debole.",
-            "legends-arceus": "Una creatura grandemente misteriosa, per lo più sconosciuta. D'indole gentile, rifugge la lotta, preferendo levigare il viso contro alberi e rocce."
-        }
+            "legends-arceus": "Una creatura grandemente misteriosa, per lo più sconosciuta. D'indole gentile, rifugge la lotta, preferendo levigare il viso contro alberi e rocce.",
+            "scarlet": "Ha capacità difensive eccezionali, perciò passa il tempo a mangiare erba e bacche, senza dover competere con altri.",
+            "violet": "Viveva nelle giungle preistoriche. Si pensa che avesse pochi predatori per via del muso incredibilmente robusto."
+        },
+        "\n": {}
     },
     "egg_groups": [
         "Mostro"
@@ -42,14 +42,14 @@
     "flat_name": "shieldon",
     "generation": 4,
     "height": {
-        "shieldon": "0.5 m"
+        "shieldon": "0,5 m"
     },
     "id": 410,
     "name": "Shieldon",
-    "name_origin": "Deriva dalle parole shield  con il suffisso -don . ",
-    "origin": "Basato sul Protoceratops. ",
+    "name_origin": "Shieldon potrebbe derivare da shield, scudo, con il suffisso -don, utilizzato in vari nomi di dinosauri, dal greco per \"dente\". Tatetops, il suo nome giapponese, potrebbe derivare da 盾 tate, scudo, e ceratops o dal suffisso -ops, utilizzato in vari nomi di dinosauri, dal greco per \"faccia\". ",
+    "origin": "Shieldon sembra essere basato sui dinosauri ceratopsi insieme ad uno scudo. La mancanza di corna sulla testa lo riconduce ad un Protoceratops. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Shieldon",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Schermo",
     "sprites": {
         "shieldon": {
@@ -78,6 +78,6 @@
         ]
     },
     "weight": {
-        "shieldon": "57.0 kg"
+        "shieldon": "57,0 kg"
     }
 }

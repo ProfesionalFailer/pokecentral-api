@@ -3,6 +3,9 @@
         "baxcalibur": {
             "primary": "Termoscambio",
             "hidden": "Corpogelo"
+        },
+        "megabaxcalibur": {
+            "primary": "Termoscambio"
         }
     },
     "curiosities": [
@@ -12,7 +15,8 @@
     "dex_entries": {
         "baxcalibur": {
             "scarlet": "Emette dalla bocca un getto d'aria glaciale con cui può congelare all'istante anche del magma incandescente.",
-            "violet": "Si mette a testa in giù e soffia un vento gelido dalla bocca per spingersi contro il nemico e trafiggerlo con la lama della sua cresta dorsale."
+            "violet": "Si mette a testa in giù e soffia un vento gelido dalla bocca per spingersi contro il nemico e trafiggerlo con la lama della sua cresta dorsale.",
+            "legends-za": "Sputa dalla bocca un getto d'aria così fredda da solidificare perfino il magma. Congela i nemici per poi mandarli in frantumi con un colpo di coda."
         }
     },
     "egg_groups": [
@@ -22,19 +26,23 @@
     "flat_name": "baxcalibur",
     "generation": 9,
     "height": {
-        "baxcalibur": "2.1 m"
+        "baxcalibur": "2,1 m"
     },
     "id": 998,
     "name": "Baxcalibur",
     "name_origin": "Baxcalibur potrebbe essere una combinazione di back  ed Excalibur. ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Baxcalibur",
-    "shape": "due paia di ali",
+    "shape": "None",
     "specie": "Pokémon Gelodrago",
     "sprites": {
         "baxcalibur": {
             "default": "https://media.pokemoncentral.it/wiki/c/cb/Homem0998.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/12/Homemsh0998.png"
+        },
+        "megabaxcalibur": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c5/Homem0998M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/45/Homemsh0998M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/e/e7/Artwork0998_SV.png"
     },
@@ -46,10 +54,19 @@
             "spa": 75,
             "spd": 86,
             "spe": 87
+        },
+        "megabaxcalibur": {
+            "hp": 115,
+            "atk": 175,
+            "def": 117,
+            "spa": 105,
+            "spd": 101,
+            "spe": 87
         }
     },
     "stats_sum": {
-        "baxcalibur": 600
+        "baxcalibur": 600,
+        "megabaxcalibur": 700
     },
     "types": {
         "baxcalibur": [
@@ -58,6 +75,6 @@
         ]
     },
     "weight": {
-        "baxcalibur": "210.0 kg"
+        "baxcalibur": "210,0 kg"
     }
 }

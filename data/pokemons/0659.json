@@ -17,7 +17,8 @@
             "omega-ruby": "Scava tane nel terreno grazie alle grandi orecchie. Può andare avanti senza fermarsi per tutta la notte.",
             "alpha-sapphire": "Usa le orecchie come pale per scavare buche nel terreno. Queste propaggini sono talmente potenti da permettergli di strappare via enormi radici.",
             "sword": "Usa abilmente le orecchie per scavare buche nel terreno. Gli basta una notte per scavare una tana profonda 10 m.",
-            "shield": "È sempre all'erta contro i pericoli. Se percepisce il battito d'ali di Corviknight scava una buca e si nasconde sotto terra."
+            "shield": "È sempre all'erta contro i pericoli. Se percepisce il battito d'ali di Corviknight scava una buca e si nasconde sotto terra.",
+            "legends-za": "Scava tane nel terreno grazie alle grandi orecchie. Può andare avanti senza fermarsi per tutta la notte."
         }
     },
     "egg_groups": [
@@ -26,14 +27,14 @@
     "flat_name": "bunnelby",
     "generation": 6,
     "height": {
-        "bunnelby": "0.4 m"
+        "bunnelby": "0,4 m"
     },
     "id": 659,
     "name": "Bunnelby",
     "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi bunny  e tunnel. Il suo nome giapponese potrebbe derivare dal giapponese ホル horu . ",
     "origin": "È basato su un coniglio. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Bunnelby",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Scavabuche",
     "sprites": {
         "bunnelby": {
@@ -61,6 +62,6 @@
         ]
     },
     "weight": {
-        "bunnelby": "5.0 kg"
+        "bunnelby": "5,0 kg"
     }
 }

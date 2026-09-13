@@ -27,7 +27,8 @@
             "ultra-moon": "Si immergeva fino a 1.000 m di profondità e il suo territorio di caccia si estendeva dagli abissi marini alla terraferma.",
             "sword": "Nell'antichità viveva nei mari. Pur essendo solo in grado di strisciare, sale anche sulla terraferma in cerca di prede.",
             "shield": "Si ritiene sia l'antenato di molti Pokémon con carapace. È stato rigenerato da un fossile."
-        }
+        },
+        "\n": {}
     },
     "egg_groups": [
         "Acqua 1",
@@ -36,14 +37,14 @@
     "flat_name": "tirtouga",
     "generation": 5,
     "height": {
-        "tirtouga": "0.7 m"
+        "tirtouga": "0,7 m"
     },
     "id": 564,
     "name": "Tirtouga",
     "name_origin": "Tirtouga può essere una corruzione della parola spagnola tortuga, tartaruga. Può essere anche ispirato all'isola Tortuga, tradotto come Isola della tartaruga in francese e spagnolo. Inoltre potrebbe derivare dall'italiano o portoghese tartaruga. ",
     "origin": "Tirtouga è basato su un cucciolo di Tartaruga marina, più specificamente una Tartaruga liuto, la più grande tartaruga vivente al giorno d'oggi. Come Carracosta, può essere basato anche su una Protostega gigas o su un Archelon ischyros, tartarughe preistoriche gigantesche. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Tirtouga",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Ancestruga",
     "sprites": {
         "tirtouga": {
@@ -72,6 +73,6 @@
         ]
     },
     "weight": {
-        "tirtouga": "16.5 kg"
+        "tirtouga": "16,5 kg"
     }
 }

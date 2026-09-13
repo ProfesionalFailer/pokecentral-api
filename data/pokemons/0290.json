@@ -6,31 +6,55 @@
         }
     },
     "curiosities": [
-        "In terza generazione Nincada aveva una combinazione di tipi unica.",
         "Nincada è l'unico Pokémon di sesso non sconosciuto che non può imparare mosse come Attrazione o Fascino. Il motivo potrebbe essere il fatto che evolvendosi in Shedinja quest'ultimo erediterebbe tali mosse e non potrebbe usarle, poiché è un Pokémon di sesso sconosciuto.",
-        "Nincada è l'unico Pokémon che può evolversi in due Pokémon contemporaneamente, sempre che si consideri Shedinja un appartenente alla sua linea evolutiva.",
-        "Se non si considera Shedinja un membro della famiglia evolutiva di Nincada, allora questi e Phione sono gli unici Pokémon a poter nascere da un Pokémon in cui non si evolvono.",
+        "Nincada è l'unico Pokémon che può evolversi in due Pokémon contemporaneamente.",
         "È l'unico Pokémon ad avere come statistiche totali 266.",
-        "È l'unico Pokémon ad avere le statistiche totali superiori alla sua evoluzione, infatti ha 30 punti in più di Shedinja .",
+        "È l'unico Pokémon ad avere le statistiche totali superiori alla sua evoluzione, infatti ha 30 punti in più di Shedinja.",
         "Un Nincada che si evolve in Spada e Scudo passa i suoi fiocchi ed emblemi soltanto a Ninjask, lasciandone Shedinja sprovvisto. Tuttavia, un bug permette di far ottenere un titolo associato anche a Shedinja; questo rimarrà anche dopo uno scambio o il deposito in Pokémon HOME, finché il titolo non sarà tolto manualmente o non verrà selezionato un fiocco/emblema diverso.",
-        "Un Nincada originario di Diamante Lucente e Perla Splendente non può essere ritirato in nessun gioco diverso da  Diamante Lucente e Perla Splendente, così come un Nincada originario di un gioco diverso da Diamante Lucente e Perla Splendente non può essere trasferito e ritirato in Diamante Lucente e Perla Splendente."
+        "Un Nincada originario di Diamante Lucente e Perla Splendente non può essere ritirato in nessun gioco diverso da  Diamante Lucente e Perla Splendente, così come un Nincada originario di un gioco diverso da Diamante Lucente e Perla Splendente non può essere trasferito e ritirato in Diamante Lucente e Perla Splendente.",
+        "Nincada si trova solo nel Gruppo Uova Coleottero, mentre Shedinja solo nel Gruppo Uova Minerale, rendendo Nincada l'unico Pokémon in un Gruppo Uova di cui la sua evoluzione non fa parte (non considerando le linee evolutive in cui uno stadio entra o esce dal Gruppo Uova Sconosciuto."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/nincada.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "nincada": {
+            "ruby": "NINCADA vive sottoterra per molti anni nell'oscurità più assoluta. Questo POKéMON assume le sostanze nutritive dalle radici degli alberi. Rimane immobile in attesa dell'evoluzione.",
+            "sapphire": "NINCADA vive sottoterra. Usa i suoi artigli affilati per incidere le radici degli alberi e assorbirne l'acqua e altre sostanze nutritive. Il POKéMON non sopporta la luce del sole, quindi cerca di evitarla.",
+            "emerald": "NINCADA fa il suo rifugio tra le radici di giganteschi alberi. Si muove nell'oscurità sottoterra sondando il terreno con le sue antenne, che sono simili a dei baffi.",
+            "fire-red": "Poiché passa quasi tutta l'esistenza sottoterra, è quasi cieco. Usa le antenne per orientarsi.",
+            "leaf-green": "Poiché passa quasi tutta l'esistenza sottoterra, è quasi cieco. Usa le antenne per orientarsi.",
+            "diamond": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "pearl": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "platinum": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "heart-gold": "Gli capita di restare anche più di dieci anni sottoterra. Si nutre delle radici di enormi alberi.",
+            "soul-silver": "Gli capita di restare anche più di dieci anni sottoterra. Si nutre delle radici di enormi alberi.",
+            "black": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "white": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "black-2": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "white-2": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "x": "Poiché passa quasi tutta l'esistenza sottoterra, è quasi cieco. Usa le antenne per orientarsi.",
+            "y": "Gli capita di restare anche più di dieci anni sottoterra. Si nutre delle radici di enormi alberi.",
+            "omega-ruby": "Nincada vive sottoterra per molti anni nell'oscurità più assoluta. Questo Pokémon assume le sostanze nutritive dalle radici degli alberi. Rimane immobile in attesa dell'evoluzione.",
+            "alpha-sapphire": "Nincada vive sottoterra. Usa i suoi artigli affilati per incidere le radici degli alberi e assorbirne l'acqua e altre sostanze nutritive. Il Pokémon non sopporta la luce del sole, quindi cerca di evitarla.",
+            "sword": "Poiché passa quasi tutta l'esistenza sottoterra, è quasi cieco. Usa le antenne per sondare ciò che lo circonda.",
+            "shield": "Gli capita di restare anche più di dieci anni sottoterra. Assorbe le sostanze nutritive dalle radici degli alberi.",
+            "brilliant-diamond": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda.",
+            "shining-pearl": "Cresce sottoterra e, poiché è quasi cieco, usa le antenne per sondare ciò che lo circonda."
+        }
+    },
     "egg_groups": [
         "Coleottero"
     ],
     "flat_name": "nincada",
     "generation": 3,
     "height": {
-        "nincada": "0.50 m"
+        "nincada": "0,50 m"
     },
     "id": 290,
     "name": "Nincada",
-    "name_origin": "Nincada è probabilmente l'unione di ninja e cicada . ",
-    "origin": "Nincada è basato su una larva di cicala. ",
+    "name_origin": "Nincada potrebbe derivare da ninja e cicada, cicala. Tutinin, il suo nome giapponese, potrebbe derivare da 土に埋める tsuchi ni umeru, seppellire nel terreno, e 忍者 ninja. ",
+    "origin": "Nincada sembra essere basato su una ninfa di cicala. La sua associazione con i ninja potrebbe derivare dal fatto che i ninja usavano cicale per nascondere i propri rumori, o da alcune tecniche ninja: doton no jutsu , una tecnica dove il ninja si nasconde in un buco scavato in precedenza finché il nemico non si allontana, e utsusemi no jutsu , una tecnica dove si usano fantocci per confondere i nemici. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Nincada",
-    "shape": "insettoide",
+    "shape": "None",
     "specie": "Pokémon Novizio",
     "sprites": {
         "nincada": {
@@ -59,6 +83,6 @@
         ]
     },
     "weight": {
-        "nincada": "5.5 kg"
+        "nincada": "5,5 kg"
     }
 }

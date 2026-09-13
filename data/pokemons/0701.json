@@ -4,6 +4,9 @@
             "primary": "Scioltezza",
             "secondary": "Agiltecnica",
             "hidden": "Rompiforma"
+        },
+        "megahawlucha": {
+            "primary": "Nullodifesa"
         }
     },
     "curiosities": [
@@ -22,7 +25,11 @@
             "sword": "Sfrutta la sua agilità per indebolire l'avversario, e conclude la lotta dandogli il colpo di grazia con una mossa grandiosa.",
             "shield": "Assume sempre una posa speciale prima di sferrare il colpo finale. A volte i nemici approfittano di questo istante per contrattaccare.",
             "scarlet": "Al momento di sferrare il suo elegante colpo di grazia, si libra in volo grazie alle sue ali. Affina questa tecnica nel bosco in cui è nato e cresciuto.",
-            "violet": "Gli Hawlucha vivono in solitudine e tranquillità. Si scontrano spesso con i Primeape, loro acerrimi nemici, perché formano branchi chiassosi."
+            "violet": "Gli Hawlucha vivono in solitudine e tranquillità. Si scontrano spesso con i Primeape, loro acerrimi nemici, perché formano branchi chiassosi.",
+            "legends-za": "Si serve delle ali per regolare la propria posizione in aria. Sferra attacchi dall'alto difficili da evitare."
+        },
+        "megahawlucha": {
+            "legends-za": "Fa sfoggio della sua forza sfruttando l'enorme massa muscolare, aumentata a dismisura in seguito alla megaevoluzione."
         }
     },
     "egg_groups": [
@@ -33,19 +40,23 @@
     "flat_name": "hawlucha",
     "generation": 6,
     "height": {
-        "hawlucha": "0.8 m"
+        "hawlucha": "0,8 m"
     },
     "id": 701,
     "name": "Hawlucha",
     "name_origin": "Hawlucha deriva da hawk, falco, e lucha libre una forma di wrestling latinoamericana. Luchabull è una combinazione tra lucha libre e bull, toro. ",
     "origin": "Hawlucha è chiaramente basato su un volatile e un lottatore di lotta libera, uno stile di combattimento nel quale si preferisce di gran lunga l'uso di manovre aeree a scapito della forza fisica . Inoltre, i suoi colori ricordano la bandiera messicana. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Hawlucha",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Lottalibera",
     "sprites": {
         "hawlucha": {
             "default": "https://media.pokemoncentral.it/wiki/a/af/Homem0701.png",
             "shiny": "https://media.pokemoncentral.it/wiki/0/0d/Homemsh0701.png"
+        },
+        "megahawlucha": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2e/Homem0701M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0701M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/8/86/Artwork0701_XY.png"
     },
@@ -57,10 +68,19 @@
             "spa": 74,
             "spd": 63,
             "spe": 118
+        },
+        "megahawlucha": {
+            "hp": 78,
+            "atk": 137,
+            "def": 100,
+            "spa": 74,
+            "spd": 93,
+            "spe": 118
         }
     },
     "stats_sum": {
-        "hawlucha": 500
+        "hawlucha": 500,
+        "megahawlucha": 600
     },
     "types": {
         "hawlucha": [
@@ -69,6 +89,6 @@
         ]
     },
     "weight": {
-        "hawlucha": "21.5 kg"
+        "hawlucha": "21,5 kg"
     }
 }

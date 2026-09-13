@@ -7,7 +7,6 @@
         }
     },
     "curiosities": [
-        "Articoli incompleti",
         "Pokémon",
         "Pokémon di terza generazione",
         "Pokémon di tipo Ghiaccio",
@@ -29,13 +28,13 @@
             "ruby": "SEALEO è solito giocare con qualsiasi cosa veda per la prima volta, tenendola in equilibrio sulla punta del naso. Talvolta, si diverte a far rotolare sul proprio naso anche SPHEAL.",
             "sapphire": "SEALEO gioca spesso tenendo in equilibrio oggetti sulla punta del naso e facendoli rotolare. Riesce così anche ad annusarli e provarne la consistenza per capire se sono di suo gradimento o meno.",
             "emerald": "I SEALEO vivono in branco su lastre di ghiaccio, che riescono a rompere con le potenti pinne. Cinque volte al giorno si tuffano in mare per pescare.",
-            "firered": "Col naso tasta gli oggetti e ne sente l'odore. Lo usa anche per giocare, facendovi girare SPHEAL.",
-            "leafgreen": "Col naso tasta gli oggetti e ne sente l'odore. Lo usa anche per giocare, facendovi girare SPHEAL.",
+            "fire-red": "Col naso tasta gli oggetti e ne sente l'odore. Lo usa anche per giocare, facendovi girare SPHEAL.",
+            "leaf-green": "Col naso tasta gli oggetti e ne sente l'odore. Lo usa anche per giocare, facendovi girare SPHEAL.",
             "diamond": "Fa roteare oggetti sul naso per controllarne l'odore e la consistenza.",
             "pearl": "Fa roteare oggetti sul naso per controllarne l'odore e la consistenza.",
             "platinum": "Fa roteare oggetti sul naso per controllarne l'odore e la consistenza.",
-            "heartgold": "Per memorizzare un nuovo oggetto, ha bisogno di toccarlo con il naso, dove risiede la sua sensibilità.",
-            "soulsilver": "Per memorizzare un nuovo oggetto, ha bisogno di toccarlo con il naso, dove risiede la sua sensibilità.",
+            "heart-gold": "Per memorizzare un nuovo oggetto, ha bisogno di toccarlo con il naso, dove risiede la sua sensibilità.",
+            "soul-silver": "Per memorizzare un nuovo oggetto, ha bisogno di toccarlo con il naso, dove risiede la sua sensibilità.",
             "black": "Fa roteare oggetti sul naso per controllarne l'odore e la consistenza.",
             "white": "Fa roteare oggetti sul naso per controllarne l'odore e la consistenza.",
             "black-2": "Fa roteare sul naso qualsiasi cosa abbia forma sferica, Poké Ball e Spheal inclusi.",
@@ -46,6 +45,8 @@
             "alpha-sapphire": "Sealeo gioca spesso tenendo in equilibrio oggetti sulla punta del naso e facendoli rotolare. Riesce così anche ad annusarli e provarne la consistenza per capire se sono di suo gradimento o meno.",
             "sword": "Vive su banchi di ghiaccio alla deriva. Individua le prede fiutandone l'odore mentre nuota.",
             "shield": "È solito giocare facendo ruotare sulla punta del naso qualsiasi cosa rotonda gli capiti a tiro, compresi Spheal e Poké Ball.",
+            "brilliant-diamond": "Ha l’abitudine di far roteare oggetti sul naso e, così facendo, familiarizza con il loro odore e con la loro consistenza.",
+            "shining-pearl": "Ha l’abitudine di far roteare oggetti sul naso e, così facendo, familiarizza con il loro odore e con la loro consistenza.",
             "legends-arceus": "I suoi baffi candidi sono assai sensibili. Pone gli Spheal sulla punta del naso per saggiarne la buona salute attraverso l'odorato e il tatto."
         }
     },
@@ -56,14 +57,14 @@
     "flat_name": "sealeo",
     "generation": 3,
     "height": {
-        "sealeo": "1.1 m"
+        "sealeo": "1,1 m"
     },
     "id": 364,
     "name": "Sealeo",
-    "name_origin": "Deriva dalla parola inglese seal  o sea  unita alla parola latina leo , in riferimento ai leoni marini. ",
-    "origin": "Basato su un leone marino. ",
+    "name_origin": "Sealeo potrebbe derivare da seal, foca, o sea, mare, e la parola latina leo, leone, in riferimento ai leoni marini. Todoggler, il suo nome giapponese, potrebbe derivare da 胡獱 todo, leone marino di Steller, e juggler, giocoliere. ",
+    "origin": "Sealeo sembra essere basato su un'otaria con elementi di un tricheco. L'abilità di Sealeo di far roteare Spheal sul suo muso è simile ad un trucco fatto spesso compiere da leoni marini con delle palle. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Sealeo",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Rotapalla",
     "sprites": {
         "sealeo": {
@@ -87,11 +88,11 @@
     },
     "types": {
         "sealeo": [
-            "Ghiaccio",
-            "Acqua"
+            "Acqua",
+            "Ghiaccio"
         ]
     },
     "weight": {
-        "sealeo": "87.6 kg"
+        "sealeo": "87,6 kg"
     }
 }

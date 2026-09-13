@@ -8,7 +8,8 @@
     },
     "curiosities": [
         "In sesta generazione Cottonee e Whimsicott avevano una combinazione di tipi unica.",
-        "In Pokémon Nero 2 e Bianco 2 Cottonee diventa più piccolo.",
+        "Cottonee è l'unico Pokémon i cui sprite sono diversi tra Pokémon Nero e Bianco e Pokémon Nero 2 e Bianco 2, divenendo più piccolo.",
+        "Il design di Cottonee è stato realizzato da Atsuko Nishida.",
         "Le sezioni gonfie sulla parte superiore della sua testa e la sua parte inferiore diventano scure."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/cottonee.mp3",
@@ -27,7 +28,9 @@
             "ultra-sun": "Si difende creando una nuvola di cotone. Quando piove, il cotone si appesantisce per l'umidità, impedendogli di muoversi.",
             "ultra-moon": "Se viene attaccato, crea una nuvola di cotone come diversivo. Il cotone consumato a questo scopo ricresce immediatamente.",
             "sword": "Si difende creando una nuvola di cotone. A volte viene trasportato fino all'altro capo del mondo dai tifoni.",
-            "shield": "Le case di alta moda utilizzano pregiati tessuti realizzati con il cotone prodotto da Cottonee ed Eldegoss."
+            "shield": "Le case di alta moda utilizzano pregiati tessuti realizzati con il cotone prodotto da Cottonee ed Eldegoss.",
+            "scarlet": "Cuscini, materassi e piumoni realizzati con il cotone prodotto da Cottonee sono leggeri, traspiranti e di ottima qualità.",
+            "violet": "Se viene attaccato, crea una nuvola di cotone simile a se stesso per confondere il nemico, poi ne approfitta per fuggire."
         }
     },
     "egg_groups": [
@@ -37,14 +40,14 @@
     "flat_name": "cottonee",
     "generation": 5,
     "height": {
-        "cottonee": "0.3 m"
+        "cottonee": "0,3 m"
     },
     "id": 546,
     "name": "Cottonee",
     "name_origin": "Il nome di Cottonee deriva dalla parola inglese cotton  o cottony  e wee . ",
     "origin": "Cottonee è basato sulla pianta di cotone e su una nuvola. Potrebbe inoltre basarsi sulla testa di una pecora. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Cottonee",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Cotonpalla",
     "sprites": {
         "cottonee": {
@@ -68,11 +71,11 @@
     },
     "types": {
         "cottonee": [
-            "Erba",
-            "Folletto"
+            "Folletto",
+            "Erba"
         ]
     },
     "weight": {
-        "cottonee": "0.6 kg"
+        "cottonee": "0,6 kg"
     }
 }

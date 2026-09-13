@@ -5,7 +5,8 @@
         }
     },
     "curiosities": [
-        "Lunatone condivide la categoria con Solrock. Sono entrambi il Pokémon Meteorite."
+        "Lunatone condivide la categoria con Solrock. Sono entrambi il Pokémon Meteorite.",
+        "Le statistiche di Lunatone e Solrock sono praticamente identiche, con solo le statistiche fisiche e speciali scambiate tra i due."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/lunatone.mp3",
     "dex_entries": {
@@ -13,13 +14,13 @@
             "ruby": "LUNATONE è stato scoperto nel luogo dove una volta cadde un meteorite. Si è pertanto dedotto che questo POKéMON venga dallo spazio. Tuttavia, questa teoria non è ancora stata confermata.",
             "sapphire": "LUNATONE si desta quando domina la luna piena. Invece di camminare, fluttua a mezz'aria. I suoi occhi rossi così minacciosi terrorizzano chiunque li guardi.",
             "emerald": "LUNATONE è stato scoperto 40 anni fa nella zona d'impatto di un meteorite. Questo POKéMON diventa particolarmente attivo nelle notti di luna piena.",
-            "firered": "Il suo stato di salute segue le fasi lunari, come le maree. L'esposizione alla luna piena lo rende fortissimo.",
-            "leafgreen": "Il suo stato di salute segue le fasi lunari, come le maree. L'esposizione alla luna piena lo rende fortissimo.",
+            "fire-red": "Il suo stato di salute segue le fasi lunari, come le maree. L'esposizione alla luna piena lo rende fortissimo.",
+            "leaf-green": "Il suo stato di salute segue le fasi lunari, come le maree. L'esposizione alla luna piena lo rende fortissimo.",
             "diamond": "Diventa attivo nelle notti di luna piena, pertanto si dice che abbia qualche legame con le fasi lunari.",
             "pearl": "Diventa attivo nelle notti di luna piena, pertanto si dice che abbia qualche legame con le fasi lunari.",
             "platinum": "Diventa attivo nelle notti di luna piena, pertanto si dice che abbia qualche legame con le fasi lunari.",
-            "heartgold": "Fu scoperto 40 anni fa nella zona d’impatto di un meteorite. Con il solo sguardo addormenta il nemico.",
-            "soulsilver": "Fu scoperto 40 anni fa nella zona d’impatto di un meteorite. Con il solo sguardo addormenta il nemico.",
+            "heart-gold": "Fu scoperto 40 anni fa nella zona d’impatto di un meteorite. Con il solo sguardo addormenta il nemico.",
+            "soul-silver": "Fu scoperto 40 anni fa nella zona d’impatto di un meteorite. Con il solo sguardo addormenta il nemico.",
             "black": "Diventa attivo nelle notti di luna piena, pertanto si dice che abbia qualche legame con le fasi lunari.",
             "white": "Diventa attivo nelle notti di luna piena, pertanto si dice che abbia qualche legame con le fasi lunari.",
             "black-2": "La sua forza sembra aumentare o diminuire a seconda delle fasi lunari. È più attivo nelle notti di luna piena.",
@@ -40,14 +41,14 @@
     "flat_name": "lunatone",
     "generation": 3,
     "height": {
-        "lunatone": "1.0 m"
+        "lunatone": "1,0 m"
     },
     "id": 337,
     "name": "Lunatone",
-    "name_origin": "Il suo nome deriva da luna e dall'inglese stone . ",
-    "origin": "Lunatone è ispirato alla luna, a cui deve anche il nome. ",
+    "name_origin": "Lunatone potrebbe derivare da lunar, lunare, e stone, pietra. ",
+    "origin": "Lunatone sembra essere ispirato ad una luna crescente e ad un meteorite. Potrebbe inoltre prendere ispirazione dall'Uomo nella Luna, una figura vista sulla superficie lunare a causa di avvallamenti e monti. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Lunatone",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Meteorite",
     "sprites": {
         "lunatone": {
@@ -76,6 +77,6 @@
         ]
     },
     "weight": {
-        "lunatone": "168.0 kg"
+        "lunatone": "168,0 kg"
     }
 }

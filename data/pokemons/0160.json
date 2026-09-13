@@ -3,18 +3,52 @@
         "feraligatr": {
             "primary": "Acquaiuto",
             "hidden": "Forzabruta"
+        },
+        "megaferaligatr": {
+            "primary": "Pelledrago"
         }
     },
     "curiosities": [
         "Feraligatr è la più alta  forma evolutiva finale di un Pokémon starter di tipo acqua.",
         "Feraligatr raggiunge il suo stadio evolutivo finale al livello 30, prima di qualsiasi di altro Pokémon starter. Casualmente la sua prima forma evolutiva, Totodile, si evolve al livello 18, che insieme a Turtwig è l'evoluzione più tarda tra le prime forme degli starter.",
-        "La mancanza di una vocale tra la T e la R e dovuta al limite dei dieci caratteri sui nomi Pokémon, condivide questa caratteristica con Victreebel.",
         "Feraligatr condivide con Blastoise le stesse statistiche di base, ma distribuiti in maniera diversa.",
-        "In Pokémon Oro e Argento il corpo di Feraligatr è dello stesso colore sia nello sprite normale che in quello cromatico che è stato poi modificato in Pokémon Cristallo.",
+        "In Pokémon Oro e Argento il corpo di Feraligatr è dello stesso colore sia nello sprite normale che in quello cromatico. Il colore del corpo nella versione normale è stato poi modificato in Pokémon Cristallo.",
         "Feraligatr è l'unica forma evolutiva finale di uno starter di Johto che compare in PokéPark Wii: la grande avventura di Pikachu."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/feraligatr.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "feraligatr": {
+            "gold": "Mordendo con le grandi e potenti mandibole, agita il capo riducendo la vittima in brandelli.",
+            "silver": "Non potendo reggere il suo grande peso fuori dall'acqua, si muove a quattro zampe, ma è molto rapido.",
+            "crystal": "Nonostante il corpo pesante, con le potenti zampe posteriori si muove bene anche sulla terraferma.",
+            "ruby": "FERALIGATR spaventa il nemico spalancando la sua bocca enorme. In lotta pesta pesantemente il terreno con le sue possenti zampe posteriori per scagliarsi contro il nemico ad un'incredibile velocità.",
+            "sapphire": "FERALIGATR spaventa il nemico spalancando la sua bocca enorme. In lotta pesta pesantemente il terreno con le sue possenti zampe posteriori per scagliarsi contro il nemico ad un'incredibile velocità.",
+            "emerald": "FERALIGATR spalanca l'enorme bocca per spaventare il nemico. In lotta, pesta il terreno con le possenti zampe posteriori per scagliarsi con furia contro il nemico.",
+            "fire-red": "Non potendo reggere il suo grande peso fuori dall'acqua, si muove a quattro zampe, ma è molto rapido.",
+            "leaf-green": "Mordendo con le grandi e potenti mandibole, agita il capo riducendo la vittima in brandelli.",
+            "diamond": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "pearl": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "platinum": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "heart-gold": "Mordendo con le grandi e potenti mandibole, agita il capo riducendo la vittima in brandelli.",
+            "soul-silver": "Fuori dall'acqua cammina su due zampe, ma è molto pesante. Perciò le usa tutte e quattro se vuole essere più veloce.",
+            "black": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "white": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "black-2": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "white-2": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "x": "Di solito si muove lentamente, ma quando attacca e morde la preda si muove ad una velocità incredibile.",
+            "y": "Mordendo con le grandi e potenti mandibole, agita il capo riducendo la vittima in brandelli.",
+            "omega-ruby": "Feraligatr spaventa il nemico spalancando la sua bocca enorme. Nella lotta pesta pesantemente il terreno con le sue possenti zampe posteriori per scagliarsi contro il nemico a un'incredibile velocità.",
+            "alpha-sapphire": "Feraligatr spaventa il nemico spalancando la sua bocca enorme. Nella lotta pesta pesantemente il terreno con le sue possenti zampe posteriori per scagliarsi contro il nemico a un'incredibile velocità.",
+            "brilliant-diamond": "Di solito si muove lentamente, ma quando scatta per addentare la preda si muove a una velocità incredibile.",
+            "shining-pearl": "Di solito si muove lentamente, ma quando scatta per addentare la preda si muove a una velocità incredibile.",
+            "scarlet": "Azzanna l'avversario con le sue grandi e potenti mandibole e, senza lasciare la presa, agita la testa riducendolo a brandelli.",
+            "violet": "Nonostante le sue grandi dimensioni, con le potenti zampe posteriori si muove rapidamente anche sulla terraferma.",
+            "legends-za": "Di solito si muove lentamente, ma quando scatta per addentare la preda si muove a una velocità incredibile."
+        },
+        "megaferaligatr": {
+            "legends-za": "Crea delle mascelle enormi con le braccia e la cresta a forma di cappuccio, aumentando di dieci volte la potenza dei suoi morsi."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Acqua 1"
@@ -22,19 +56,24 @@
     "flat_name": "feraligatr",
     "generation": 2,
     "height": {
-        "feraligatr": "2.3 m"
+        "feraligatr": "2,3 m",
+        "megaferaligatr": "2,3 m"
     },
     "id": 160,
     "name": "Feraligatr",
-    "name_origin": "Il suo nome probabilmente deriva dalle parole inglesi feral  e alligator  oppure da ferocious . Il fatto che la parte finale del nome sia Gatr, anziche Gator è dovuto al limite di dieci lettere per nome. ",
-    "origin": "Come le sue pre-evoluzioni, Feraligatr è ispirato ad un coccodrillo, tuttavia il suo aspetto potrebbe ricordare anche un alligatore. ",
+    "name_origin": "Feraligatr deriva probabilmente dalle parole inglesi feral, selvatico, o ferocious, feroce, e alligator, alligatore. Il fatto che la parte finale del nome sia Gatr, anziche Gator è dovuto al limite di dieci lettere per nome. ",
+    "origin": "Feraligatr sembra essere basato su un coccodrillo, e condivide tratti con gli alligatori. Le strisce gialle sul suo corpo ricordano quelle di un cucciolo di alligatore del Mississippi. In Pokémon Sleep, Totodile e le sue evoluzioni dormono con un occhio aperto, proprio come i coccodrilli del mondo reale. La cresta sul suo dorso potrebbe ricordare un taglio alla mohawk, in possibile riferimento alla natura turbolenta del Pokémon. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Feraligatr",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Mascellone",
     "sprites": {
         "feraligatr": {
             "default": "https://media.pokemoncentral.it/wiki/6/67/Homem0160.png",
             "shiny": "https://media.pokemoncentral.it/wiki/a/a8/Homemsh0160.png"
+        },
+        "megaferaligatr": {
+            "default": "https://media.pokemoncentral.it/wiki/a/ab/Homem0160M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/fc/Homemsh0160M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/d/d2/Artwork0160_HGSS.png"
     },
@@ -46,17 +85,31 @@
             "spa": 79,
             "spd": 83,
             "spe": 78
+        },
+        "megaferaligatr": {
+            "hp": 85,
+            "atk": 160,
+            "def": 125,
+            "spa": 89,
+            "spd": 93,
+            "spe": 78
         }
     },
     "stats_sum": {
-        "feraligatr": 530
+        "feraligatr": 530,
+        "megaferaligatr": 630
     },
     "types": {
         "feraligatr": [
             "Acqua"
+        ],
+        "megaferaligatr": [
+            "Drago",
+            "Acqua"
         ]
     },
     "weight": {
-        "feraligatr": "88.8 kg"
+        "feraligatr": "88,8 kg",
+        "megaferaligatr": "108,8 kg"
     }
 }

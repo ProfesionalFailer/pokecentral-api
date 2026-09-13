@@ -10,13 +10,48 @@
     },
     "curiosities": [
         "Ampharos condivide il nome della specie con Lanturn: entrambi sono noti come Pokémon Luce.",
-        "Nonostante tutte le sue voci nel Pokédex parlino della sua coda luminosa, Ampharos non è in grado di imparare Codadiluce. Questo è probabilmente perché il nome originale della mossa è ほたるび che significa \"luce di lucciola\", e quindi non è attribuibile ad un Pokémon come Ampharos.\n\tTuttavia è strano che Manaphy e Xurkitree siano in grado di apprendere Codadiluce pur non essendo basati su lucciole.",
-        "Tuttavia è strano che Manaphy e Xurkitree siano in grado di apprendere Codadiluce pur non essendo basati su lucciole.",
+        "Nonostante tutte le sue voci nel Pokédex parlino della sua coda luminosa, Ampharos non è in grado di imparare Codadiluce. Questo è probabilmente perché il nome originale della mossa è ほたるび che significa \"luce di lucciola\", e quindi non è attribuibile ad un Pokémon come Ampharos. Tuttavia, è strano che Manaphy e Xurkitree siano in grado di apprendere Codadiluce pur non essendo basati su lucciole.",
         "I versi di Ampharos e di Heracross sono molto simili, anche se hanno alcune piccole differenze.",
         "Ampharos è l'unico Pokémon ad avere la stessa descrizione del Pokédex in Pokémon X e Y."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/ampharos.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "ampharos": {
+            "gold": "La punta della coda è molto luminosa, visibile da grandi distanze. Fa da segnale per chi si è perso.",
+            "silver": "La forte luce che ha sulla coda è visibile da molto lontano. Da sempre è un riferimento per chi si perde.",
+            "crystal": "Di notte, la luce intensa e lampeggiante della coda si può vedere sull'oceano da molto lontano.",
+            "ruby": "AMPHAROS emana una luce così intensa da essere visibile anche dallo spazio. In passato si usava questo POKéMON per mandare segnali luminosi a persone molto lontane.",
+            "sapphire": "AMPHAROS emana una luce così intensa da essere visibile anche dallo spazio. In passato si usava questo POKéMON per mandare segnali luminosi a persone molto lontane.",
+            "emerald": "AMPHAROS emana una luce così intensa da essere visibile anche dallo spazio. In passato veniva usato per mandare segnali luminosi a persone molto lontane.",
+            "fire-red": "La forte luce che ha sulla coda è visibile da molto lontano. Da sempre è un riferimento per chi si perde.",
+            "leaf-green": "La punta della coda è molto luminosa, visibile da grandi distanze. Fa da segnale per chi si è perso.",
+            "diamond": "La punta della sua coda brilla. In passato, le persone si inviavano segnali usando la luce della coda.",
+            "pearl": "La punta della sua coda brilla. In passato, le persone si inviavano segnali usando la luce della coda.",
+            "platinum": "La punta della sua coda brilla. In passato, le persone si inviavano segnali usando la luce della coda.",
+            "heart-gold": "La punta molto luminosa della coda è visibile da grandi distanze. Fa da segnale per chi si è perso.",
+            "soul-silver": "La forte luce che ha sulla coda è visibile da molto lontano. Da sempre è un riferimento per chi si perde.",
+            "black": "La punta della sua coda brilla. In passato, le persone si inviavano segnali usando la luce della coda.",
+            "white": "La punta della sua coda brilla. In passato, le persone si inviavano segnali usando la luce della coda.",
+            "black-2": "La punta della sua coda è così luminosa che raggiunge regioni lontanissime e viene usata come segnale da chi naviga in mare.",
+            "white-2": "La punta della sua coda è così luminosa che raggiunge regioni lontanissime e viene usata come segnale da chi naviga in mare.",
+            "x": "La punta molto luminosa della coda è visibile da grandi distanze. Fa da segnale per chi si è perso.",
+            "y": "La punta molto luminosa della coda è visibile da grandi distanze. Fa da segnale per chi si è perso.",
+            "omega-ruby": "Ampharos emana una luce così intensa da essere visibile anche dallo spazio. In passato si usava questo Pokémon per mandare segnali luminosi a persone molto lontane.",
+            "alpha-sapphire": "Ampharos emana una luce così intensa da essere visibile anche dallo spazio. In passato si usava questo Pokémon per mandare segnali luminosi a persone molto lontane.",
+            "ultra-sun": "Questo Pokémon è facile da individuare grazie alla luce della sua coda, visibile anche dallo spazio. Per questo di solito la tiene spenta.",
+            "ultra-moon": "La punta della sua coda brilla di una luce molto intensa che in passato era una preziosa guida per i marinai.",
+            "brilliant-diamond": "La punta della sua coda emette una luce usata in passato dalle persone per inviarsi segnali.",
+            "shining-pearl": "La punta della sua coda emette una luce usata in passato dalle persone per inviarsi segnali.",
+            "scarlet": "La luce che ha sulla coda è visibile da molto lontano. Da sempre funge da faro.",
+            "violet": "Di notte, la luce intensa e lampeggiante della coda si può vedere sull'oceano da molto lontano.",
+            "legends-za": "La punta molto luminosa della coda è visibile da grandi distanze. Fa da segnale per chi si è perso."
+        },
+        "megaampharos": {
+            "ultra-sun": "L'esplosione di energia della megaevoluzione ha stimolato i suoi geni facendo ricrescere la pelliccia che aveva perso.",
+            "ultra-moon": "Un'enorme energia ha stimolato le sue cellule, risvegliando nel Pokémon la forza latente del tipo Drago.",
+            "legends-za": "Un'enorme energia ha stimolato le sue cellule, risvegliando nel Pokémon la forza latente del tipo Drago."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Campo"
@@ -24,14 +59,14 @@
     "flat_name": "ampharos",
     "generation": 2,
     "height": {
-        "ampharos": "1.4 m"
+        "ampharos": "1,4 m"
     },
     "id": 181,
     "name": "Ampharos",
-    "name_origin": "Il suo nome è una combinazione di ampere , e pharos, la parola greca per faro. Il nome giapponese di Ampharos deriva probabilmente da 電流 denryū, corrente elettrica, o da 電竜 denryū, drago elettrico, e potrebbe includere 電球 denkyū, lampadina. ",
-    "origin": "È con ogni probabilità basato su una pecora senza lana. La sua andatura bipede lo rende simile ad un canguro, e il suo collo lungo unito ai suoi colori ad una giraffa. Il suo aspetto ricorda anche un faro. ",
+    "name_origin": "Ampharos sembra essere una combinazione di amp, abbreviazione di ampere, l'unità di misura dell'intensità di corrente elettrica, e Φάρος pháros, la parola greca per faro. Denryu, il suo nome giapponese, deriva probabilmente da 電流 denryū, corrente elettrica, o da 電竜 denryū, drago elettrico, e potrebbe includere 電球 denkyū, lampadina. ",
+    "origin": "Ampharos sembra essere ispirato ad una pecora tosata: ogni fase della sua linea evolutiva perde più lana. Condivide tratti con un faro, come l'altezza, le striature e la possibilità di emettere fasci luminosi. La sua linea evolutiva potrebbe inoltre prendere ispirazione dal titolo inglese del romanzo Il Cacciatore di Androidi, ovvero \"Do Androids Dream of Electric Sheep?\" . La criniera e la coda lanosa di MegaAmpharos, insieme alle sfere sul suo corpo e al suo tipo Drago lo riconducono ad un drago cinese. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Ampharos",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Luce",
     "sprites": {
         "ampharos": {
@@ -71,11 +106,11 @@
             "Elettro"
         ],
         "megaampharos": [
-            "Drago",
-            "Elettro"
+            "Elettro",
+            "Drago"
         ]
     },
     "weight": {
-        "ampharos": "61.5 kg"
+        "ampharos": "61,5 kg"
     }
 }

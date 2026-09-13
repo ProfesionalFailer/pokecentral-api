@@ -8,8 +8,8 @@
     },
     "curiosities": [
         "Prima della settima generazione Golett e Golurk avevano una combinazione di tipi unica.",
-        "Game Freak ha confermato che Golett e Golurk sono stati disegnati da James Turner.",
-        "Nonostante ci sia una piccola probabilità che Golett possa tenere la Cretaluce quando incontrato come selvatico, non può imparare né Riflesso né Schermoluce.",
+        "GAME FREAK ha confermato che Golett e Golurk sono stati disegnati da James Turner.",
+        "Nonostante ci sia una piccola probabilità che Golett possa tenere la Creta luce quando incontrato come selvatico, non può imparare né Riflesso né Schermoluce.",
         "Nel Pokédex di Bianco, Golett viene definito \"creato artificialmente\", tuttavia può nascere da un uovo. Condivide questa caratteristica con Voltorb e Porygon ma non con Tipo Zero."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/golett.mp3",
@@ -26,7 +26,8 @@
             "ultra-sun": "È animato da un’energia misteriosa, ma essendo in funzione fin dall’antichità si sospetta che potrebbe esaurirsi presto.",
             "ultra-moon": "Un popolo antico lo ha creato modellando l'argilla per farne un servitore. La fonte dell'energia che lo anima è sconosciuta.",
             "sword": "È un Pokémon antico creato dall'argilla. Non si sa perché, ma ad alcuni esemplari piace creare file interminabili di grandi rocce.",
-            "shield": "È stato creato modellando dell'argilla. Segue ancora gli ordini che il suo padrone gli ha impartito molti secoli or sono."
+            "shield": "È stato creato modellando dell'argilla. Segue ancora gli ordini che il suo padrone gli ha impartito molti secoli or sono.",
+            "legends-za": "Un popolo antico lo ha creato modellando l'argilla per farne un servitore. La fonte dell'energia che lo anima è sconosciuta."
         }
     },
     "egg_groups": [
@@ -35,14 +36,14 @@
     "flat_name": "golett",
     "generation": 5,
     "height": {
-        "golett": "1.0 m"
+        "golett": "1,0 m"
     },
     "id": 622,
     "name": "Golett",
     "name_origin": "Golett potrebbe derivare da golem e -lett . ",
     "origin": "Golett sembrerebbe ispirato a un golem, uomini di argilla che secondo alcune versioni della mitologia possono essere animati da incantesimi scritti su una pergamena posta al loro interno, che potrebbe corrispondere all'energia misteriosa che brucia dentro Golett per animarlo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Golett",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Statuanimata",
     "sprites": {
         "golett": {
@@ -66,11 +67,11 @@
     },
     "types": {
         "golett": [
-            "Terra",
-            "Spettro"
+            "Spettro",
+            "Terra"
         ]
     },
     "weight": {
-        "golett": "92.0 kg"
+        "golett": "92,0 kg"
     }
 }

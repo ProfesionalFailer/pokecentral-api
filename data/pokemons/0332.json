@@ -6,8 +6,9 @@
         }
     },
     "curiosities": [
-        "Nessun altro Pokémon ha gli stessi due Gruppi Uova di Cacturne e della sua pre-evoluzione. Infatti sono gli unici ad essere Erba e Umanoide.",
-        "È uno dei Pokémon con più debolezze, ben 7."
+        "Nessun altro Pokémon ha gli stessi due Gruppi Uova di Cacturne e della sua preevoluzione.\n\tSono gli unici Pokémon di tipo Erba nel Gruppo Uova Umanoide.",
+        "Sono gli unici Pokémon di tipo Erba nel Gruppo Uova Umanoide.",
+        "Non contando Jynx, Kadabra e la linea evolutiva di Porygon, che hanno avuto controversie o problemi legali, Cacturne è l'unico Pokémon delle prime tre generazioni a non apparire nella serie animata o film basati su di essa dalla serie Rubino e Zaffiro."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/cacturne.mp3",
     "dex_entries": {
@@ -15,13 +16,13 @@
             "ruby": "Di giorno CACTURNE rimane immobile in modo da non perdere neanche una goccia d'acqua al sole cocente del deserto. Il POKéMON si desta di notte quando cala la temperatura.",
             "sapphire": "Se un viaggiatore passa attraverso il deserto nella notte tenebrosa, un gruppo scomposto di CACTURNE lo segue. Poi attende pazientemente che il malcapitato sia esausto e incapace di muoversi.",
             "emerald": "Avendo vissuto per migliaia di anni in deserti ostili, il sangue di CACTURNE si è trasformato in una sostanza uguale alla sabbia. Predilige cacciare di notte.",
-            "firered": "Vive nei deserti. È attivo la notte, quando va a caccia delle prede stremate dalla calura del deserto.",
-            "leafgreen": "Vive nei deserti. È attivo la notte, quando va a caccia delle prede stremate dalla calura del deserto.",
+            "fire-red": "Vive nei deserti. È attivo la notte, quando va a caccia delle prede stremate dalla calura del deserto.",
+            "leaf-green": "Vive nei deserti. È attivo la notte, quando va a caccia delle prede stremate dalla calura del deserto.",
             "diamond": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
             "pearl": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
             "platinum": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
-            "heartgold": "Gruppi di CACTURNE nel deserto braccano i passanti finché questi, spossati, non si muovono più.",
-            "soulsilver": "Gruppi di CACTURNE nel deserto braccano i passanti finché questi, spossati, non si muovono più.",
+            "heart-gold": "Gruppi di CACTURNE nel deserto braccano i passanti finché questi, spossati, non si muovono più.",
+            "soul-silver": "Gruppi di CACTURNE nel deserto braccano i passanti finché questi, spossati, non si muovono più.",
             "black": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
             "white": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
             "black-2": "Diventa attivo di notte, quando va a caccia di prede stremate dalla calura del deserto.",
@@ -43,14 +44,14 @@
     "flat_name": "cacturne",
     "generation": 3,
     "height": {
-        "cacturne": "1.30 m"
+        "cacturne": "1,30 m"
     },
     "id": 332,
     "name": "Cacturne",
-    "name_origin": "Il suo nome deriva dalla parola cactus e dal termine inglese nocturne . Potrebbe derivare anche da tricorne . ",
-    "origin": "Basato su un cactus particolare , ma il suo aspetto ricorda uno spaventapasseri. ",
+    "name_origin": "Cacturne e Noctus, il suo nome giapponese, sembrano derivare da cactus e il termine francese nocturne, notturno. ",
+    "origin": "Cacturne sembra essere basato su una pianta cactacea, nello specifico il saguaro, e uno spaventapasseri. Sembra essere associato alla notte perché i cactus sono piante che effettuano fotosintesi CAM, ovvero la loro fotosintesi avviene di notte. La testa del Pokémon ricorda un Jack-o'-lantern, e potrebbe essere un riferimento a come gli spaventapasseri presentino zucche per teste. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Cacturne",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Spavento",
     "sprites": {
         "cacturne": {
@@ -78,11 +79,11 @@
     },
     "types": {
         "cacturne": [
-            "Buio",
-            "Erba"
+            "Erba",
+            "Buio"
         ]
     },
     "weight": {
-        "cacturne": "77.4 kg"
+        "cacturne": "77,4 kg"
     }
 }

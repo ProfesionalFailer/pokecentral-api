@@ -5,7 +5,6 @@
         }
     },
     "curiosities": [
-        "Articoli incompleti",
         "Pokémon",
         "Pokémon di sesta generazione",
         "Pokémon di tipo Acqua",
@@ -31,7 +30,8 @@
             "sword": "Individua la preda con le antenne della sua enorme chela e la attacca sparando proiettili d'acqua.",
             "shield": "L'arto destro è una sorta di cannone da cui spara proiettili d'acqua marina tanto potenti da affondare una petroliera.",
             "scarlet": "Usando i gas nel suo corpo riesce a espellere acqua dal retro della sua chela e nuotare a una velocità di 60 nodi.",
-            "violet": "I proiettili di acqua marina sparati dalla sua chela sono talmente potenti da riuscire a perforare lo scafo di una nave cisterna."
+            "violet": "I proiettili di acqua marina sparati dalla sua chela sono talmente potenti da riuscire a perforare lo scafo di una nave cisterna.",
+            "legends-za": "Si sposta alla velocità di 60 nodi grazie alla spinta propulsiva generata dall'acqua che espelle dal foro sul retro della chela."
         }
     },
     "egg_groups": [
@@ -41,14 +41,14 @@
     "flat_name": "clawitzer",
     "generation": 6,
     "height": {
-        "clawitzer": "1.3 m"
+        "clawitzer": "1,3 m"
     },
     "id": 693,
     "name": "Clawitzer",
     "name_origin": "Clawitzer deriva dall'unione delle parole inglesi claw  e howitzer . Bloster è una combinazione tra blow  e blaster. ",
     "origin": "Sembra basato su un gambero pistolero. Il suo aspetto ricorda inoltre quello di un astaco della Florida o di un astice blu. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Clawitzer",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Acqualancio",
     "sprites": {
         "clawitzer": {
@@ -76,6 +76,6 @@
         ]
     },
     "weight": {
-        "clawitzer": "35.3 kg"
+        "clawitzer": "35,3 kg"
     }
 }

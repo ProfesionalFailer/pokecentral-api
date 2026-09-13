@@ -17,7 +17,8 @@
             "omega-ruby": "Immobilizza il nemico avvolgendolo in filamenti bianchi, dolci e appiccicosi, simili a zucchero filato.",
             "alpha-sapphire": "Poiché mangia solo cose dolci, il suo pelo ha la consistenza e il sapore dello zucchero filato.",
             "sword": "Mangia ogni giorno una quantità di zucchero pari al peso del suo corpo. Quando il suo livello di glucosio cala troppo, diventa di cattivo umore.",
-            "shield": "La sua soffice pelliccia emette un dolce profumo di zucchero filato. Avvolge il nemico con filamenti appiccicosi."
+            "shield": "La sua soffice pelliccia emette un dolce profumo di zucchero filato. Avvolge il nemico con filamenti appiccicosi.",
+            "legends-za": "Immobilizza il nemico avvolgendolo in filamenti bianchi, dolci e appiccicosi, simili a zucchero filato."
         }
     },
     "egg_groups": [
@@ -26,14 +27,14 @@
     "flat_name": "swirlix",
     "generation": 6,
     "height": {
-        "swirlix": "0.4 m"
+        "swirlix": "0,4 m"
     },
     "id": 684,
     "name": "Swirlix",
     "name_origin": "Swirlix può essere una corruzione di swirl  e una corruzione di licks . Peroppafu può essere una combinazione ペロペロ peropero  and puff. ",
     "origin": "Swirlix è basato sullo zucchero filato, conosciuto in passato anche come fairy floss , ciò può essere un'ispirazione per il tipo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Swirlix",
-    "shape": "testa e gambe",
+    "shape": "None",
     "specie": "Pokémon Zuccherino",
     "sprites": {
         "swirlix": {
@@ -61,6 +62,6 @@
         ]
     },
     "weight": {
-        "swirlix": "3.5 kg"
+        "swirlix": "3,5 kg"
     }
 }

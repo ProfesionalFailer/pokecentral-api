@@ -6,8 +6,8 @@
         }
     },
     "curiosities": [
-        "Servine è stato visto per la prima volta sulla scheda di riferimento di un animatore nella Pokémon Nero e Bianco, insieme a Dewott, Axew e Woobat.",
-        "Il nome Servine, così come quello di Dewott, fu ufficialmente confermato attraverso l'episodio dell'anime Il Club di Lotta e la scelta di Tepig!."
+        "Servine è stato visto per la prima volta su una reference sheet per gli animatori della Pokémon Nero e Bianco, insieme a Dewott, Axew e Woobat.\n\tIl nome di Servine, così come quello di Dewott, fu ufficialmente confermato nell'episodio Il Club di Lotta e la scelta di Tepig!.",
+        "Il nome di Servine, così come quello di Dewott, fu ufficialmente confermato nell'episodio Il Club di Lotta e la scelta di Tepig!."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/servine.mp3",
     "dex_entries": {
@@ -19,7 +19,9 @@
             "x": "Corre quasi scivolando sulle superfici. Confonde il nemico con i rapidi movimenti, per poi attaccarlo con una frustata.",
             "y": "Se si sporca, le sue foglie non possono più effettuare la fotosintesi, perciò si tiene sempre molto pulito.",
             "omega-ruby": "Corre quasi scivolando sulle superfici. Confonde il nemico con i rapidi movimenti, per poi attaccarlo con una frustata.",
-            "alpha-sapphire": "Se si sporca, le sue foglie non possono più effettuare la fotosintesi, perciò si tiene sempre molto pulito."
+            "alpha-sapphire": "Se si sporca, le sue foglie non possono più effettuare la fotosintesi, perciò si tiene sempre molto pulito.",
+            "scarlet": "Si accovaccia e guizza veloce tra l’erba, poi colpisce senza pietà con le sue fruste fatte di liane.",
+            "violet": "Il suo unico difetto è l’essere molto orgoglioso. Gli ci vuole tempo per imparare a collaborare con altri Pokémon."
         }
     },
     "egg_groups": [
@@ -29,14 +31,14 @@
     "flat_name": "servine",
     "generation": 5,
     "height": {
-        "servine": "0.8 m"
+        "servine": "0,8 m"
     },
     "id": 496,
     "name": "Servine",
-    "name_origin": "Il suo nome deriva da serpent  e vine . ",
-    "origin": "La colorazione di Servine lo rende simile all'Opheodrys aestivus, il serpente d'erba nordamericano, mentre e l' Oxybelis fulgidus, serpente color verde brillante dell'America centrale, può essere un'altra possibile ispirazione. La forma generale del corpo, la testa, così come le foglie gialle che sporgono sulle sue spalle, possono essere basate sulla strelizia. La sua linea evolutiva, come confermato da Ken Sugimori, è basata sulla regalità francese. Il design di Servine ricorda anche i motivi ornamentali delle foglie di acanto, oltre che l'edera giapponese. ",
+    "name_origin": "Servine potrebbe derivare da serpent, serpente, e vine, viticcio. Janovy, il suo nome giapponese, potrebbe derivare da 蛇 ja, serpente, e canopy, canopia, o ivy, edera. ",
+    "origin": "Servine è basato su un serpente, possibilmente su serpenti che assomigliano a liane e viticci. Nello specifico potrebbe quindi prendere ispirazione da serpenti arboricoli e dal genere Opheodrys. Al contrario dei serpenti del mondo reale, a Servine sono state date braccia e gambe per farlo apparire meno minaccioso ai giocatori, mentre diventa più simile ad un serpente con le evoluzioni. Alcuni aspetti di Servine potrebbero derivare da lucertole senza arti, il genere Chamaesaura, la specie Takydromus sexlineatus o scinidi. La forma della testa, corpo e protrusioni sulle spalle lo ricollegano anche ai fiori Strelitzia e Heliconia, oltre che il giglio araldico. Questo, oltre al fatto che il primo fiore prenda il nome dalla regina Carlotta di Meclemburgo-Strelitz, si ricollegano al tema regale di Servine. Ken Sugimori ha affermato che Snivy, Servine e Serperior sono basati sulla cultura occidentali, menzionando nella specifico il manga Lady Oscar come fonte di ispirazione. Le linee evolutive di Snivy, Tepig, e Oshawott rappresentano le culture che hanno ispirato il design di Unima: occidentale, cinese e giapponese, rispettivamente. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Servine",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Serperba",
     "sprites": {
         "servine": {

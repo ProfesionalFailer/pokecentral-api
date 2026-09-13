@@ -13,21 +13,44 @@
         "Wingull e Pidove per la statistica base di Difesa Speciale più bassa di tutti i Pokémon di tipo Volante."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/taillow.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "taillow": {
+            "ruby": "TAILLOW affronta coraggiosamente persino i nemici più forti. Anche in caso di sconfitta rimane fiero e spavaldo. D'altra parte, quando ha fame, si lamenta rumorosamente.",
+            "sapphire": "TAILLOW è molto piccolo, infatti ha appena lasciato il nido. Talvolta di notte si sente solo e piange. Si nutre dei WURMPLE che vivono nella foresta.",
+            "emerald": "TAILLOW è sì piccolo, ma ha coraggio da vendere, tanto che riesce a tenere testa a uno SKARMORY. Se è affamato, però, la sua determinazione si affievolisce.",
+            "fire-red": "Non ama il freddo. In inverno emigra verso regioni calde, viaggiando ad una velocità di 300 chilometri al giorno.",
+            "leaf-green": "Non ama il freddo. In inverno emigra verso regioni calde, viaggiando ad una velocità di 300 chilometri al giorno.",
+            "diamond": "È molto coraggioso e affronta spavaldo i nemici più forti. Migra verso i paesi caldi.",
+            "pearl": "È molto coraggioso e affronta spavaldo i nemici più forti. Migra verso i paesi caldi.",
+            "platinum": "È molto coraggioso e affronta spavaldo i nemici più forti. Migra verso i paesi caldi.",
+            "heart-gold": "Nella stagione fredda migra al caldo viaggiando 300 km al giorno. WURMPLE è la sua preda favorita.",
+            "soul-silver": "Nella stagione fredda migra al caldo viaggiando 300 km al giorno. WURMPLE è la sua preda favorita.",
+            "black": "È molto coraggioso e affronta spavaldo i nemici più forti. Migra verso i paesi caldi.",
+            "white": "È molto coraggioso e affronta spavaldo i nemici più forti. Migra verso i paesi caldi.",
+            "black-2": "È molto coraggioso e affronta spavaldo i nemici più forti. Migra verso i paesi caldi.",
+            "white-2": "È molto coraggioso e affronta spavaldo i nemici più forti. Migra verso i paesi caldi.",
+            "x": "È molto coraggioso e affronta spavaldo i nemici più forti. Migra verso i paesi caldi.",
+            "y": "Non ama il freddo. In inverno emigra verso regioni calde, viaggiando a una velocità di 300 km al giorno.",
+            "omega-ruby": "Taillow affronta coraggiosamente persino i nemici più forti. Anche in caso di sconfitta rimane fiero e spavaldo. Ma quando ha fame, si lamenta rumorosamente.",
+            "alpha-sapphire": "Taillow è molto piccolo, infatti ha appena lasciato il nido. Talvolta di notte si sente solo e piange. Si nutre dei Wurmple che vivono nella foresta.",
+            "brilliant-diamond": "È molto coraggioso e affronta spavaldo anche i nemici più forti. Migra verso i paesi caldi.",
+            "shining-pearl": "È molto coraggioso e affronta spavaldo anche i nemici più forti. Migra verso i paesi caldi."
+        }
+    },
     "egg_groups": [
         "Volante"
     ],
     "flat_name": "taillow",
     "generation": 3,
     "height": {
-        "taillow": "0.30 m"
+        "taillow": "0,30 m"
     },
     "id": 276,
     "name": "Taillow",
-    "name_origin": "\"Taillow\" può essere una combinazione delle parole \"tail\"  e \"swallow\" . \"Subame\" potrebbe essere una corruzione di 燕 tsubame . ",
+    "name_origin": "Taillow potrebbe essere una combinazione di tail, coda, e swallow, rondine. Subame potrebbe essere una corruzione di 燕 tsubame, rondine. ",
     "origin": "Taillow sembra essere basato su una rondine, in particolare sulla rondine comune o sulla rondine benvenuta. La colorazione verde della sua forma cromatica potrebbe essere un cenno alla rondine verdeviola. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Taillow",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Rondine",
     "sprites": {
         "taillow": {
@@ -56,6 +79,6 @@
         ]
     },
     "weight": {
-        "taillow": "2.3 kg"
+        "taillow": "2,3 kg"
     }
 }

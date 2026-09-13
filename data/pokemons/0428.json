@@ -12,9 +12,8 @@
     "curiosities": [
         "Lopunny è l'unico Pokémon che può imparare Ritorno salendo di livello.\n\tLa sua pre-evoluzione impara Frustrazione allo stesso livello, ed è anche l'unico a impararla salendo di livello.",
         "La sua pre-evoluzione impara Frustrazione allo stesso livello, ed è anche l'unico a impararla salendo di livello.",
-        "Nonostante il suo aspetto esteriore sia chiaramente femminile, esistono Lopunny di entrambi i sessi.\n\tInoltre, la probabilità che appaia un esemplare maschio piuttosto che femmina è la stessa.",
-        "Inoltre, la probabilità che appaia un esemplare maschio piuttosto che femmina è la stessa.",
-        "MegaLopunny ha la più alta statistica base di Velocità di tutti i Pokémon di tipo Normale."
+        "MegaLopunny ha la più alta statistica base di Velocità di tutti i Pokémon di tipo Normale.",
+        "Lopunny è l'unico Pokémon che poteva evolvere in sesta generazione a non far parte del Pokédex di Hoenn o quello di Kalos. Fa però parte del Pokédex di Luminopoli."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/lopunny.mp3",
     "dex_entries": {
@@ -22,8 +21,8 @@
             "diamond": "Pokémon molto cauto. Se percepisce un pericolo, si avvolge nelle sue orecchie morbide e pelose.",
             "pearl": "È molto pulito e non dimentica mai di lisciarsi le orecchie. Corre saltando molto energicamente.",
             "platinum": "Ha delle orecchie molto delicate. Se le si tocca con forza, scalcia con le sue graziose gambe.",
-            "heartgold": "Cambia pelliccia due volte l'anno. Il suo pelo nella stagione fredda è di una morbidezza imbattibile.",
-            "soulsilver": "Cambia pelliccia due volte l'anno. Il suo pelo nella stagione fredda è di una morbidezza imbattibile.",
+            "heart-gold": "Cambia pelliccia due volte l'anno. Il suo pelo nella stagione fredda è di una morbidezza imbattibile.",
+            "soul-silver": "Cambia pelliccia due volte l'anno. Il suo pelo nella stagione fredda è di una morbidezza imbattibile.",
             "black": "Ha delle orecchie molto delicate. Se le si tocca con forza, scalcia con le sue graziose gambe.",
             "white": "Ha delle orecchie molto delicate. Se le si tocca con forza, scalcia con le sue graziose gambe.",
             "black-2": "È un Pokémon estremamente cauto. Se avverte un pericolo, si dà subito alla fuga saltellando.",
@@ -38,11 +37,13 @@
             "shield": "Terminata la stagione calda, si prepara all'arrivo del freddo coprendosi di una pelliccia soffice e vaporosa.",
             "brilliant-diamond": "Pokémon molto cauto. Se percepisce un pericolo, si avvolge nelle sue orecchie morbide e pelose.",
             "shining-pearl": "È molto pulito e non dimentica mai di lisciarsi le orecchie. Corre saltando con destrezza.",
-            "legends-arceus": "Il vello è caldo, benché notevolmente leggero. Sgomina con facilità gli avversari con calci degni di un maestro di karate."
+            "legends-arceus": "Il vello è caldo, benché notevolmente leggero. Sgomina con facilità gli avversari con calci degni di un maestro di karate.",
+            "legends-za": "Ha delle orecchie molto delicate. Chi le tocca con troppa forza viene preso a calci dalle sue graziose gambe."
         },
         "megalopunny": {
             "ultra-sun": "Colpisce i nemici usando le orecchie come fruste. Ha un temperamento violento e bellicoso.",
-            "ultra-moon": "La megaevoluzione ha risvegliato il suo spirito combattivo sopito e lo ha liberato della pelliccia eliminando ogni intralcio nella lotta."
+            "ultra-moon": "La megaevoluzione ha risvegliato il suo spirito combattivo sopito e lo ha liberato della pelliccia eliminando ogni intralcio nella lotta.",
+            "legends-za": "Colpisce i nemici usando le orecchie come fruste. Ha un temperamento violento e bellicoso."
         }
     },
     "egg_groups": [
@@ -52,15 +53,15 @@
     "flat_name": "lopunny",
     "generation": 4,
     "height": {
-        "lopunny": "1.2 m",
-        "megalopunny": "1.3 m"
+        "lopunny": "1,2 m",
+        "megalopunny": "1,3 m"
     },
     "id": 428,
     "name": "Lopunny",
-    "name_origin": "Il suo nome unisce le parole inglesi lop  e bunny . In giapponese è Mimilop che unisce 耳 mimi  con la parola inglese lop . ",
-    "origin": "Lopunny sembra essere una caricatura di una coniglietta di Playboy. ",
+    "name_origin": "Lopunny potrebbe derivare da lop, penzolare, anche il nome inglese del coniglio ariete, una razza con le orecchie che penzolano verso il basso, e bunny, coniglietto. Mimilop, il suo nome giapponese, potrebbe derivare da 耳 mimi, orecchio, e lop. ",
+    "origin": "Lopunny sembra essere basato su un coniglio ariete. La pelliccia chiara sul corpo può assomigliare a bordi di capi d'abbigliamento in pelliccia e a degli stivali. Questi capi d'abbigliamento pregiati e il suo aspetto femminile potrebbe ricollegarlo alle conigliette di Playboy Club, spesso ritratte indossando abiti in pelliccia, che hanno continuato ad essere parte della coltura di massa giapponese, apparendo in vari media come giochi o serie TV. L'affetto base pari a 0 della sua preevoluzione potrebbe essere un riferimento al fatto che ai conigli domestici serva molto tempo per fidarsi del proprio padrone, vedendolo come un predatore data la loro natura timorosa. Questo potrebbe anche essere visto nel fatto che impara Frustrazione ad un livello basso, mentre allo stesso livello la sua evoluzione impara ritorno: se non si riesce a stabilire un alto rapporto di amicizia con il Pokémon in fretta per farlo evolvere esso diventa frustrato, come i conigli domistici che, intimoriti dal loro padrone, risultano frustrati non trovando vie di fuga all'interno di abitazioni. MegaLopunny potrebbe prendere ispirazione da vari stili di ginnastica aerobica, diventati popolari tra le donne negli anni '80: le parti della pelliccia rimanenti ricordano scaldamuscoli, scrunchie, mitene e leggings strappati, tutti tipici di questa ginnastica. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Lopunny",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Coniglio",
     "sprites": {
         "lopunny": {
@@ -100,12 +101,12 @@
             "Normale"
         ],
         "megalopunny": [
-            "Lotta",
-            "Normale"
+            "Normale",
+            "Lotta"
         ]
     },
     "weight": {
-        "lopunny": "33.3 kg",
-        "megalopunny": "28.3 kg"
+        "lopunny": "33,3 kg",
+        "megalopunny": "28,3 kg"
     }
 }

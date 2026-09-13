@@ -7,8 +7,10 @@
         }
     },
     "curiosities": [
+        "Di tutti i Pokémon con la combinazione di tipi Coleottero/Veleno, Skorupi è l'unico che ha il Veleno come tipo primario.\n\tSkorupi è l'unico Pokémon di tipo Coleottero che perde il suddetto tipo con l'evoluzione.",
         "Skorupi è l'unico Pokémon di tipo Coleottero che perde il suddetto tipo con l'evoluzione.",
-        "Di tutti i Pokémon con la combinazione di tipi Coleottero/Veleno, Skorupi è l'unico che ha il Veleno come tipo primario."
+        "Skorupi e Drapion sono gli unici Pokémon con un corpo insettoide introdotti in quarta generazione.\n\tSono anche gli unici Pokémon nel Gruppo Uova Acqua 3 introdotti in quarta generazione.",
+        "Sono anche gli unici Pokémon nel Gruppo Uova Acqua 3 introdotti in quarta generazione."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/skorupi.mp3",
     "dex_entries": {
@@ -16,8 +18,8 @@
             "diamond": "Afferra le prede con gli artigli della coda e non si allontana finché il veleno che inietta non agisce.",
             "pearl": "Vive in terre aride. Si seppellisce nella sabbia e aspetta l’arrivo di una preda ignara del pericolo.",
             "platinum": "Rilascia veleno dagli artigli sulla coda. Può resistere senza cibo per un anno.",
-            "heartgold": "Si seppellisce nella sabbia e tende agguati alle prede, poi inietta loro il veleno dagli artigli della coda.",
-            "soulsilver": "Si seppellisce nella sabbia e tende agguati alle prede, poi inietta loro il veleno dagli artigli della coda.",
+            "heart-gold": "Si seppellisce nella sabbia e tende agguati alle prede, poi inietta loro il veleno dagli artigli della coda.",
+            "soul-silver": "Si seppellisce nella sabbia e tende agguati alle prede, poi inietta loro il veleno dagli artigli della coda.",
             "black": "Rilascia veleno dagli artigli sulla coda. Può resistere senza cibo per un anno.",
             "white": "Rilascia veleno dagli artigli sulla coda. Può resistere senza cibo per un anno.",
             "black-2": "Vive in territori aridi e può aspettare la sua preda immobile per un anno intero senza bisogno di mangiare.",
@@ -40,14 +42,14 @@
     "flat_name": "skorupi",
     "generation": 4,
     "height": {
-        "skorupi": "0.8 m"
+        "skorupi": "0,8 m"
     },
     "id": 451,
     "name": "Skorupi",
-    "name_origin": "Deriva da una corruzione della parola scorpion . ",
-    "origin": "Basato su uno scorpione. Ha caratteristiche in comune con l'Uropygi. Il fatto che sia inserito nel Gruppo Uova Acqua 3, potrebbe indicare che tragga ispirazione da un antico animale, l'euripteride. ",
+    "name_origin": "Skorupi e Scorupi, il suo nome giapponese, potrebbero derivare da scorpion, scorpione. ",
+    "origin": "Skorupi sembra essere basato su uno scorpione. Condivide tratti con il gruppo Thelyphonida. Il fatto che sia nel Gruppo Uova Acqua 3 potrebbe derivare dagli euripteridi, detti anche \"scorpioni di mare\", considerati antenati degli scorpioni moderni. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Skorupi",
-    "shape": "insettoide",
+    "shape": "None",
     "specie": "Pokémon Scorpione",
     "sprites": {
         "skorupi": {
@@ -71,11 +73,11 @@
     },
     "types": {
         "skorupi": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {
-        "skorupi": "12.0 kg"
+        "skorupi": "12,0 kg"
     }
 }

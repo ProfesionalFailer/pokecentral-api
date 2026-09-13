@@ -8,14 +8,41 @@
     },
     "curiosities": [
         "In seconda generazione Hoppip, Skiploom e Jumpluff avevano una combinazione di tipi unica.",
-        "Con un peso di 3 kg, Jumpluff è il Pokémon di secondo stadio più leggero.",
-        "Jumpluff è l'unico Pokémon di seconda generazione il cui nome inizia per J.",
+        "Con un peso di 3 kg, Jumpluff è il Pokémon al terzo stadio evolutivo più leggero.",
         "Il verso della famiglia evolutiva di Jumpluff utilizzato sin dalle sue prime apparizioni in Oro e Argento è lo stesso, solo diminuito di qualche ottava ad ogni stadio evolutivo.",
         "In Pokémon Colosseum, le ombre delle spore di Jumpluff sono quadrate e il giocatore è in grado di vedere solo un lato di loro. Questo poi è stato risolto in Pokémon XD: Tempesta Oscura.",
         "Il nome di Jumpluff e delle sue pre-evoluzioni è stato dato da Nob Ogasawara."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/jumpluff.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "jumpluff": {
+            "gold": "Sospinto dal vento controlla con abilità i semi a batuffolo di cotone per volare persino intorno al mondo.",
+            "silver": "Si fa trasportare dai venti stagionali, spargendo ovunque i semi simili al cotone, per moltiplicarsi.",
+            "crystal": "Anche nel vento forte controlla abilmente il suo batuffolo per volare in ogni parte del mondo.",
+            "ruby": "JUMPLUFF si affida alle correnti d'aria calda per attraversare il mare e volare verso terre lontane. Questo POKéMON ridiscende a terra quando incontra una corrente fredda mentre fluttua.",
+            "sapphire": "JUMPLUFF si affida alle correnti d'aria calda per attraversare il mare e volare verso terre lontane. Questo POKéMON ridiscende a terra quando incontra una corrente fredda mentre fluttua.",
+            "emerald": "JUMPLUFF attraversa il mare grazie alle correnti d'aria calda, volando così verso terre lontane. Ridiscende a terra quando, fluttuando, incontra una corrente fredda.",
+            "fire-red": "Sospinto dai venti stagionali, sparge ovunque i semi simili al cotone per moltiplicarsi.",
+            "leaf-green": "Sospinto dal vento, controlla con abilità i semi a batuffolo di cotone per volare persino intorno al mondo.",
+            "diamond": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "pearl": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "platinum": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "heart-gold": "Sospinto dal vento controlla con abilità i semi a batuffolo di cotone per volare anche intorno al mondo.",
+            "soul-silver": "Si fa trasportare dai venti stagionali, spargendo ovunque i suoi semi simili al cotone per moltiplicarsi.",
+            "black": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "white": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "black-2": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "white-2": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "x": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando i suoi semi simili al cotone.",
+            "y": "Anche nel vento forte controlla abilmente il suo batuffolo per volare in ogni parte del mondo.",
+            "omega-ruby": "Jumpluff si affida alle correnti d'aria calda per attraversare il mare e volare verso terre lontane. Questo Pokémon ridiscende a terra quando incontra una corrente fredda mentre fluttua.",
+            "alpha-sapphire": "Jumpluff si affida alle correnti d'aria calda per attraversare il mare e volare verso terre lontane. Questo Pokémon ridiscende a terra quando incontra una corrente fredda mentre fluttua.",
+            "brilliant-diamond": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando le sue spore di cotone.",
+            "shining-pearl": "Sospinto dai venti stagionali, gira intorno al globo sparpagliando le sue spore di cotone.",
+            "scarlet": "Viaggia facendosi trasportare dai venti stagionali. Quando le spore simili al cotone si esauriscono, terminano anche il suo viaggio e la sua vita.",
+            "violet": "Bisogna fare attenzione ai suoi semi simili al cotone. Se inalati provocano tosse e prurito molto fastidiosi."
+        }
+    },
     "egg_groups": [
         "Magico",
         "Erba"
@@ -23,14 +50,14 @@
     "flat_name": "jumpluff",
     "generation": 2,
     "height": {
-        "jumpluff": "0.8 m"
+        "jumpluff": "0,8 m"
     },
     "id": 189,
     "name": "Jumpluff",
-    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi jump  e fluff .\nIl suo nome giapponese, ワタッコ Watakko, potrebbe derivare dalla parola 綿 wata . ",
-    "origin": "Basato sul soffione. ",
+    "name_origin": "Jumpluff deriva probabilmente da jump, salto, e fluff, batuffolo, e possibilmente plush, peluche. Il suo nome, combinato insieme a quello del resto della sua famiglia evolutiva, potrebbe derivare dalla frase Just a hop, skip, and a jump away, usata per indicare che qualcosa si trova a poca distanza. Watakko, il suo nome giapponese, potrebbe derivare dalla parola 綿 wata, cotone, e 根っ子 nekko, radice. Potrebbe anche essere un gioco di parole con 猫 neko, gatto, vista la sua faccia simile a quella di un gatto. ",
+    "origin": "Jumpluff sembra essere basato sull'ultimo stadio del ciclo vitale del dente di leone. Le sue \"mani\" ricordano dei pom-pom e i suoi movimenti in alcuni giochi come Pokémon Stadium 2 e Pokémon Colosseum ricordano una cheerleader. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Jumpluff",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Gramigna",
     "sprites": {
         "jumpluff": {
@@ -59,6 +86,6 @@
         ]
     },
     "weight": {
-        "jumpluff": "3.0 kg"
+        "jumpluff": "3,0 kg"
     }
 }

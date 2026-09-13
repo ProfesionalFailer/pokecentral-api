@@ -7,12 +7,13 @@
     "curiosities": [
         "Solcoferreo è l'unico Pokémon Paradosso del futuro ad essere davvero di tipo Acciaio, nonostante anche tutti gli altri abbiano il suffisso ferreo nel nome italiano."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/solcoferreo.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/irontreads.mp3",
     "dex_entries": {
         "solcoferreo": {
             "scarlet": "Somiglia molto a un'arma ad alta tecnologia che, secondo una rivista di paranormale, sarebbe stata inviata qui dagli alieni.",
             "violet": "Alcuni riportano di averlo avvistato negli ultimi anni. Somiglia a un oggetto misterioso descritto in un antico diario di viaggio."
-        }
+        },
+        "": {}
     },
     "egg_groups": [
         "Sconosciuto"
@@ -20,14 +21,14 @@
     "flat_name": "solcoferreo",
     "generation": 9,
     "height": {
-        "solcoferreo": "0.9 m"
+        "solcoferreo": "0,9 m"
     },
     "id": 990,
     "name": "Solcoferreo",
     "name_origin": "Il nome italiano significa proprio solco ferreo e fa riferimento alla traccia lasciata dal suo passaggio e che ricorda quella di uno pneumatico.\nIl nome inglese significa letteralmente battistrada di ferro. ",
     "origin": "Solcoferreo potrebbe essere una versione robotica di Donphan. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Solcoferreo",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
         "solcoferreo": {
@@ -51,11 +52,11 @@
     },
     "types": {
         "solcoferreo": [
-            "Terra",
-            "Acciaio"
+            "Acciaio",
+            "Terra"
         ]
     },
     "weight": {
-        "solcoferreo": "240.0 kg"
+        "solcoferreo": "240,0 kg"
     }
 }

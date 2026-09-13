@@ -7,25 +7,14 @@
         }
     },
     "curiosities": [
-        "Pokémon",
-        "Pokémon di nona generazione",
-        "Pokémon di tipo Folletto",
-        "Pokémon di tipo Acciaio",
-        "Pokémon di doppio tipo",
-        "Pokémon nel gruppo di esperienza Medio-Lento",
-        "Pokémon di colore Rosa",
-        "Pokémon dalla sagoma n. 12",
-        "Pokémon esclusivamente femmine",
-        "Pokémon di Gruppo Uova Magico",
-        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
-        "Pokémon con statistiche base totali di 297",
-        "Pokémon con statistiche base totali uniche"
+        "Tinkatink di Dot"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/tinkatink.mp3",
     "dex_entries": {
         "tinkatink": {
             "scarlet": "Si difende adoperando un martello che ha forgiato personalmente, anche se spesso i Pokémon ghiotti di metallo glielo rubano.",
-            "violet": "Forgia il suo martello colpendo ripetutamente dei pezzi di ferraglia. Se non è soddisfatto del risultato, ricomincia più e più volte da capo."
+            "violet": "Forgia il suo martello colpendo ripetutamente dei pezzi di ferraglia. Se non è soddisfatto del risultato, ricomincia più e più volte da capo.",
+            "legends-za": "Costruisce un martello adatto alle sue esigenze combinando strumenti e pezzi di metallo che trova nelle miniere."
         }
     },
     "egg_groups": [
@@ -34,19 +23,19 @@
     "flat_name": "tinkatink",
     "generation": 9,
     "height": {
-        "tinkatink": "0.4 m"
+        "tinkatink": "0,4 m"
     },
     "id": 957,
     "name": "Tinkatink",
-    "name_origin": "Tinkatink potrebbe essere una combinazione di tinker  e pink . ",
+    "name_origin": "Tinkatink potrebbe essere una combinazione di tinker, armeggiare, e pink, rosa. ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Tinkatink",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Forgiatore",
     "sprites": {
-        "tinkatink": {
-            "default": "https://media.pokemoncentral.it/wiki/b/b9/Homef0957.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/9/9a/Homemsh0957.png"
+        "file:homefsh0957png": {
+            "default": "",
+            "shiny": ""
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/c/cf/Artwork0957_SV.png"
     },
@@ -70,6 +59,6 @@
         ]
     },
     "weight": {
-        "tinkatink": "8.9 kg"
+        "tinkatink": "8,9 kg"
     }
 }

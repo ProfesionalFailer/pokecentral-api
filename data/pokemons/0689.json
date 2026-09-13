@@ -4,6 +4,9 @@
             "primary": "Unghiedure",
             "secondary": "Cecchino",
             "hidden": "Arraffalesto"
+        },
+        "megabarbaracle": {
+            "primary": "Unghiedure"
         }
     },
     "curiosities": [
@@ -19,7 +22,11 @@
             "omega-ruby": "Con l'evoluzione, i due Binacle si moltiplicano e il Pokémon lotta con la forza di sette Binacle.",
             "alpha-sapphire": "I Binacle delle gambe e delle braccia hanno cervelli indipendenti, ma generalmente seguono le direttive di quello della testa.",
             "sword": "Il suo corpo è formato da sette Binacle. Quello che occupa la posizione della testa coordina gli altri.",
-            "shield": "Gli occhi sulle mani hanno una visuale a 360 gradi. Quando è in difficoltà, i suoi arti agiscono autonomamente per sconfiggere il nemico."
+            "shield": "Gli occhi sulle mani hanno una visuale a 360 gradi. Quando è in difficoltà, i suoi arti agiscono autonomamente per sconfiggere il nemico.",
+            "legends-za": "Anche gli arti possiedono un cervello e possono muoversi autonomamente, ma in genere seguono le direttive impartite dalla testa."
+        },
+        "megabarbaracle": {
+            "legends-za": "Può sottomettere l'avversario usando le sue numerose braccia, ma ciò impegna notevolmente il Barbaracle che funge da testa."
         }
     },
     "egg_groups": [
@@ -28,42 +35,59 @@
     "flat_name": "barbaracle",
     "generation": 6,
     "height": {
-        "barbaracle": "1.3 m"
+        "barbaracle": "1,3 m"
     },
     "id": 689,
     "name": "Barbaracle",
     "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi barbarian  e barnacle . ",
     "origin": "Barbaracle è basato su un cirripede dell'ordine dei Pedunculata. Potrebbe essere ispirato alla Mano di Fatima o essere un riferimento alla sindrome dell'arto fantasma. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Barbaracle",
-    "shape": "corpi multipli",
+    "shape": "None",
     "specie": "Pokémon Aggregato",
     "sprites": {
         "barbaracle": {
             "default": "https://media.pokemoncentral.it/wiki/7/75/Homem0689.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/b1/Homemsh0689.png"
         },
+        "megabarbaracle": {
+            "default": "https://media.pokemoncentral.it/wiki/9/93/Homem0689M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh0689M.png"
+        },
         "official_artwork": "https://media.pokemoncentral.it/wiki/d/d7/Artwork0689_XY.png"
     },
     "stats": {
-        "statistiche-base": {
+        "barbaracle": {
             "hp": 72,
             "atk": 105,
             "def": 115,
             "spa": 54,
             "spd": 86,
             "spe": 68
+        },
+        "megabarbaracle": {
+            "hp": 72,
+            "atk": 140,
+            "def": 130,
+            "spa": 64,
+            "spd": 106,
+            "spe": 88
         }
     },
     "stats_sum": {
-        "statistiche-base": 500
+        "barbaracle": 500,
+        "megabarbaracle": 600
     },
     "types": {
         "barbaracle": [
             "Roccia",
             "Acqua"
+        ],
+        "megabarbaracle": [
+            "Roccia",
+            "Lotta"
         ]
     },
     "weight": {
-        "barbaracle": "96.0 kg"
+        "barbaracle": "96,0 kg"
     }
 }

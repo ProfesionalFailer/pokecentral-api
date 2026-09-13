@@ -12,7 +12,9 @@
     "dex_entries": {
         "cinderace": {
             "sword": "Crea un pallone da calcio infuocato palleggiando con un sasso e poi tira una cannonata contro il nemico per abbrustolirlo.",
-            "shield": "Eccelle in attacco e in difesa. Se sente il tifo, a volte si fa prendere dall'entusiasmo e inizia a dare spettacolo, finendo per trovarsi in difficoltà."
+            "shield": "Eccelle in attacco e in difesa. Se sente il tifo, a volte si fa prendere dall'entusiasmo e inizia a dare spettacolo, finendo per trovarsi in difficoltà.",
+            "scarlet": "Gli basta un nonnulla per agitarsi, ma quando ha fiducia in chi lo allena ed è in sua compagnia, riesce a rimanere ben concentrato sulla lotta.",
+            "violet": "Adopera la sua palla di fuoco per tenere a bada l'avversario e accecarlo."
         },
         "cinderace-gigamax": {
             "sword": "La gigantesca palla infuocata, infusa dell'ardente spirito combattivo di Cinderace, incenerisce l'avversario senza lasciargli scampo.",
@@ -26,15 +28,15 @@
     "flat_name": "cinderace",
     "generation": 8,
     "height": {
-        "cinderace": "1.4 m",
-        "cinderace-gigamax": "> 27.0 m"
+        "cinderace": "1,4 m",
+        "cinderace-gigamax": "> 27,0 m"
     },
     "id": 815,
     "name": "Cinderace",
     "name_origin": "Cinderace potrebbe essere una combinazione delle parole cinder, cenere, e ace, campione. Potrebbe derivare anche da race, competizione. Aceburn potrebbe essere una combinazione delle parole ace, campione, e bunny, coniglio. ",
     "origin": "Cinderace potrebbe essere basato su un coniglio con alcuni elementi condivisi con i giocatori di calcio. Secondo la sua abilità speciale Libero, potrebbe essere basato su un giocatore di calcio che copre l'omonimo ruolo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Cinderace",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Cannoniere",
     "sprites": {
         "cinderace": {
@@ -66,7 +68,7 @@
         ]
     },
     "weight": {
-        "cinderace": "33.0 kg",
-        "cinderace-gigamax": "???.? kg"
+        "cinderace": "33,0 kg",
+        "cinderace-gigamax": "???,? kg"
     }
 }

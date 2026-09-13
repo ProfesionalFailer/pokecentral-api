@@ -20,7 +20,8 @@
             "shield": "Odia ritrovarsi madido di pioggia. È raro vederne uno nella regione di Galar, dove il tempo è spesso nuvoloso.",
             "scarlet": "Quando sente che un Pokémon o un essere umano è triste, lo rincuora con le sfere di polline che produce.",
             "violet": "Le sfere di polline create dai Ribombee esperti sono prodotti molto popolari perché efficaci contro la stanchezza."
-        }
+        },
+        "": {}
     },
     "egg_groups": [
         "Coleottero",
@@ -29,15 +30,15 @@
     "flat_name": "ribombee",
     "generation": 7,
     "height": {
-        "ribombee": "0.2 m",
-        "dominante": "0.4 m"
+        "ribombee": "0,2 m",
+        "dominante": "0,4 m"
     },
     "id": 743,
     "name": "Ribombee",
     "name_origin": "Ribombee potrebbe essere una combinazione di ribbon, fiocco, Bombyliidae e bee, ape. Aburibon potrebbe essere una combinazione di 吊虻 tsuriabu, bombilide e ribbon, fiocco. ",
     "origin": "Ribombee sembra essere basato su di un bombilide. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Ribombee",
-    "shape": "due paia di ali",
+    "shape": "None",
     "specie": "Pokémon Bombilide",
     "sprites": {
         "ribombee": {
@@ -66,7 +67,7 @@
         ]
     },
     "weight": {
-        "ribombee": "0.5 kg",
-        "dominante": "2.0 kg"
+        "ribombee": "0,5 kg",
+        "dominante": "2,0 kg"
     }
 }

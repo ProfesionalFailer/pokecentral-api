@@ -1,8 +1,11 @@
 {
     "abilities": {
-        "tatsugiri": {
+        "forma-arcuata": {
             "primary": "Torre di Comando",
             "hidden": "Acquascolo"
+        },
+        "megatatsugiri": {
+            "primary": "Sconosciuta"
         }
     },
     "curiosities": [
@@ -17,22 +20,25 @@
         "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
         "Pokémon di Gruppo Uova Acqua 2",
         "Pokémon che non fanno parte di una linea di evoluzione",
-        "Pokémon con statistiche base totali di 475"
+        "Pokémon con statistiche base totali di 475",
+        "Pokémon con statistiche base totali di 575",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti",
+        "Pokémon dominanti ",
+        "Megaevoluzione"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/tatsugiri.mp3",
     "dex_entries": {
         "forma-arcuata": {
-            "scarlet": "Un Pokémon di tipo Drago di piccole dimensioni. Vive all'interno della bocca di Dondozo, protetto dagli attacchi dei nemici.",
-            "violet": "È un Pokémon estremamente astuto. Attira la preda fingendosi stremato, lasciando che sia il suo alleato ad attaccarla."
+            "legends-za": "La megaevoluzione ha stimolato il suo cervello, rendendolo ancora più astuto. Può creare delle copie di se stesso che comanda a piacimento."
         },
         "forma-adagiata": {
-            "scarlet": "Pare che le differenze nei colori e nei motivi sul suo corpo siano il risultato di mutazioni avvenute per adeguarsi ai gusti delle prede che attira.",
-            "violet": "Inganna l’avversario fingendosi morto. È piccolo e debole, ma sopravvive grazie alla sua intelligenza."
+            "legends-za": "Condensa l'energia della megaevoluzione e ne espelle la parte in eccedenza. Questo eccesso esplode al tocco, liberando una potenza enorme."
         },
         "forma-tesa": {
-            "scarlet": "Le sue prede principali sono i Pokémon alati. Sa di essere debole e per questo preferisce avere un compagno di caccia.",
-            "violet": "È uno dei Pokémon di tipo Drago più intelligenti. Si mimetizza gonfiando la sacca sulla gola."
-        }
+            "legends-za": "Sfrutta l'energia della megaevoluzione per creare un mezzo di trasporto simile a un piatto che usa per spostarsi ovunque voglia, persino in cielo."
+        },
+        "": {}
     },
     "egg_groups": [
         "Acqua 2"
@@ -40,14 +46,14 @@
     "flat_name": "tatsugiri",
     "generation": 9,
     "height": {
-        "tatsugiri": "0.3 m"
+        "tatsugiri": "0,3 m"
     },
     "id": 978,
     "name": "Tatsugiri",
-    "name_origin": "Tatsugiri deriva dall'unione di 竜 tatsu, drago in giapponese e nigirizushi o おにぎり onigiri,\npalla di riso in giapponese. ",
+    "name_origin": "Tatsugiri deriva dall'unione di 竜 tatsu, drago in giapponese e nigirizushi o おにぎり onigiri, \npalla di riso in giapponese. ",
     "origin": "Tatsugiri sembra essere basato sul sushi, specificamente il nigirizushi . Le sue forme somigliano rispettivamente al nigiri di gamberi, di tonno e di uova. La sua capacità di entrare nella bocca di un Dondozo è un possibile riferimento al pidocchio mangia lingua, un crostaceo parassita che si attacca alla linga dei pesci per rubare loro il cibo. Il suo tipo drago portrebbe essere un riferimento al Dragon Roll, un tipo di sushi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Tatsugiri",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Mimetico",
     "sprites": {
         "forma-arcuata": {
@@ -62,28 +68,49 @@
             "default": "https://media.pokemoncentral.it/wiki/7/73/Homem0978T.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d9/Homemsh0978T.png"
         },
+        "megatatsugiri": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8a/Homem0978M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homemsh0978M.png"
+        },
+        "megatatsugiri-forma-adagiata": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f5/Homem0978AM.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b2/Homemsh0978AM.png"
+        },
+        "megatatsugiri-forma-tesa": {
+            "default": "https://media.pokemoncentral.it/wiki/8/86/Homem0978TM.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/3e/Homemsh0978TM.png"
+        },
         "official_artwork": "https://media.pokemoncentral.it/wiki/4/40/Artwork0978_SV.png"
     },
     "stats": {
-        "tatsugiri": {
+        "forma-arcuata": {
             "hp": 68,
             "atk": 50,
             "def": 60,
             "spa": 120,
             "spd": 95,
             "spe": 82
+        },
+        "megatatsugiri": {
+            "hp": 68,
+            "atk": 65,
+            "def": 90,
+            "spa": 135,
+            "spd": 125,
+            "spe": 92
         }
     },
     "stats_sum": {
-        "tatsugiri": 475
+        "forma-arcuata": 475,
+        "megatatsugiri": 575
     },
     "types": {
         "tatsugiri": [
-            "Drago",
-            "Acqua"
+            "Acqua",
+            "Drago"
         ]
     },
     "weight": {
-        "tatsugiri": "8.0 kg"
+        "tatsugiri": "8,0 kg"
     }
 }

@@ -13,21 +13,50 @@
         "Tutte le statistiche base di Makuhita sono esattamente la metà del valore di quelle di Hariyama."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/makuhita.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "makuhita": {
+            "ruby": "MAKUHITA è estremamente tenace: anche se messo al tappeto più volte si rialza sempre e contrattacca. Ogni volta che riceve aiuto, questo POKéMON accumula ulteriore energia per la futura evoluzione.",
+            "sapphire": "MAKUHITA è infaticabile, perseverante e non perde mai la speranza. Mangia molto, dorme molto e si allena con rigore. Questo tenore di vita gli consente di essere sempre carico di energia.",
+            "emerald": "MAKUHITA ama mantenersi in forma e rafforzare il proprio corpo. Se sentite un frastuono provenire da una grotta, è di sicuro MAKUHITA che si sta allenando.",
+            "fire-red": "Si rafforza allenandosi duramente. Molto coraggioso, può resistere a qualsiasi attacco.",
+            "leaf-green": "Si rafforza allenandosi duramente. Molto coraggioso, può resistere a qualsiasi attacco.",
+            "diamond": "Si rinforza sbattendo contro enormi alberi. Vicino alla sua tana si trovano parecchi alberi abbattuti.",
+            "pearl": "Si rinforza sbattendo contro enormi alberi. Vicino alla sua tana si trovano parecchi alberi abbattuti.",
+            "platinum": "Si rinforza sbattendo contro enormi alberi. Vicino alla sua tana si trovano parecchi alberi abbattuti.",
+            "heart-gold": "Sbattendo a ripetizione contro enormi alberi, si costruisce un corpo e uno spirito indistruttibili.",
+            "soul-silver": "Sbattendo a ripetizione contro enormi alberi, si costruisce un corpo e uno spirito indistruttibili.",
+            "black": "Si rinforza sbattendo contro enormi alberi. Vicino alla sua tana si trovano parecchi alberi abbattuti.",
+            "white": "Si rinforza sbattendo contro enormi alberi. Vicino alla sua tana si trovano parecchi alberi abbattuti.",
+            "black-2": "Si rinforza sbattendo contro enormi alberi. Vicino alla sua tana si trovano parecchi alberi abbattuti.",
+            "white-2": "Si rinforza sbattendo contro enormi alberi. Vicino alla sua tana si trovano parecchi alberi abbattuti.",
+            "x": "Sbattendo a ripetizione contro enormi alberi, si costruisce un corpo e uno spirito indistruttibili.",
+            "y": "Si rafforza allenandosi duramente. Molto coraggioso, può resistere a qualsiasi attacco.",
+            "omega-ruby": "Makuhita è estremamente tenace: anche se messo al tappeto più volte si rialza sempre e contrattacca. Ogni volta che si rialza, questo Pokémon accumula ulteriore energia per la futura evoluzione.",
+            "alpha-sapphire": "Makuhita è infaticabile, perseverante e non perde mai la speranza. Mangia molto, dorme molto e si allena con rigore. Questo tenore di vita gli permette di essere sempre carico di energia.",
+            "sun": "Pur non essendo un Pokémon originario di Alola, oggi i Makuhita di Alola sono quelli più famosi.",
+            "moon": "Si allena duramente ogni giorno assieme ai suoi compagni, fermandosi solo per mangiare e per fare un pisolino.",
+            "ultra-sun": "Si allena tirando manate contro gli alberi. A volte finisce per colpire un Exeggutor, che gli rende la pariglia scaraventandolo via.",
+            "ultra-moon": "Sembra che gli Allenatori preparino un piatto tradizionale particolarmente indicato per far crescere forti i propri Makuhita.",
+            "brilliant-diamond": "Si rinforza sbattendo contro enormi alberi. Vicino alla sua tana si trovano parecchi alberi abbattuti.",
+            "shining-pearl": "Si rinforza sbattendo contro enormi alberi. Vicino alla sua tana si trovano parecchi alberi abbattuti.",
+            "scarlet": "Si rafforza allenandosi duramente. La sua grande forza di volontà gli permette di resistere a qualsiasi attacco.",
+            "violet": "Si scaraventa più e più volte contro enormi alberi. Così facendo rafforza il corpo e tempra lo spirito."
+        }
+    },
     "egg_groups": [
         "Umanoide"
     ],
     "flat_name": "makuhita",
     "generation": 3,
     "height": {
-        "makuhita": "1.0 m"
+        "makuhita": "1,0 m"
     },
     "id": 296,
     "name": "Makuhita",
-    "name_origin": "Il suo nome deriva dal grado di sumo Makushita. ",
-    "origin": "Makuhita presenta somiglianze sia con un lottatore di sumo, sia con un pugile. ",
+    "name_origin": "Makuhita e Makunoshita, il suo nome giapponese, potrebbero derivare da 幕下 makushita, la terza divisione più alta nel sumo. ",
+    "origin": "Makuhita presenta somiglianze sia con un lottatore di sumo. Ricorda anche un sacco da boxe dato il suo corpo tondeggiante e il \"nodo\" sulla testa. Questo nodo potrebbe essere un riferimento al Chonmage, un'acconciatura tradizionalmente usata da lottatori di sumo. Le sue mani ricordano guanti da boxe, mentre i piedi con due dita dei geta o degli zōri. La parte nera intorno al collo ricorda un bavaglino, indicando la sua inesperienza, da Pokémon non evoluto, e come i lottatori di sumo debbano seguire una dieta multicalorica. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Makuhita",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Coraggio",
     "sprites": {
         "makuhita": {
@@ -55,6 +84,6 @@
         ]
     },
     "weight": {
-        "makuhita": "86.4 kg"
+        "makuhita": "86,4 kg"
     }
 }

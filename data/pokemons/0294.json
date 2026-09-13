@@ -9,7 +9,32 @@
         "Loudred e la sua pre-evoluzione Whismur sono stati disegnati da Takao Unno."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/loudred.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "loudred": {
+            "ruby": "I suoni assordanti emessi da LOUDRED sono in grado di abbattere anche una casa in legno. La sua voce è così potente da poter essere usata come attacco contro i nemici. Le sue orecchie tonde fungono da altoparlanti.",
+            "sapphire": "LOUDRED urla pestando i piedi. Alla fine dei suoi strepiti è temporaneamente incapace di udire qualsiasi rumore. Questo è considerato il suo tallone d'Achille.",
+            "emerald": "LOUDRED aggredisce il nemico emettendo onde ultrasoniche assordanti dalle sue orecchie-altoparlanti. Pesta i piedi a terra per accumulare energia.",
+            "fire-red": "Quando urla pestando i piedi a terra genera onde ultrasoniche capaci di distruggere un edificio.",
+            "leaf-green": "Quando urla pestando i piedi a terra genera onde ultrasoniche capaci di distruggere un edificio.",
+            "diamond": "Le onde d’urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "pearl": "Le onde d’urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "platinum": "Le onde d’urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "heart-gold": "Leva potenti grida inspirando tanta aria e poi sparandola fuori con tutta la forza degli addominali.",
+            "soul-silver": "Leva potenti grida inspirando tanta aria e poi sparandola fuori con tutta la forza degli addominali.",
+            "black": "Le onde d'urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "white": "Le onde d'urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "black-2": "Le onde d'urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "white-2": "Le onde d'urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "x": "Leva potenti grida inspirando tanta aria e poi sparandola fuori con tutta la forza degli addominali.",
+            "y": "Le onde d'urto dei suoi versi ribaltano anche i camion. Pesta i piedi per accumulare energia.",
+            "omega-ruby": "I suoni assordanti emessi da Loudred sono in grado di abbattere anche una casa in legno. La sua voce è così potente da poter essere usata come attacco contro i nemici. Le sue orecchie tonde fungono da altoparlanti.",
+            "alpha-sapphire": "Loudred urla pestando i piedi. Alla fine dei suoi strepiti è temporaneamente incapace di udire qualsiasi rumore. Questo è considerato il suo punto debole.",
+            "sword": "Le sue orecchie fungono da altoparlanti e sono in grado di emettere onde sonore talmente potenti da abbattere una casa.",
+            "shield": "Oltre a colpire l'udito, la sua potente voce produce anche delle onde d'urto con le quali spazza via e danneggia i nemici.",
+            "brilliant-diamond": "Le onde d'urto dei suoi versi possono ribaltare anche i camion. Accumula energia battendo pesantemente i piedi per terra.",
+            "shining-pearl": "Le onde d'urto dei suoi versi possono ribaltare anche i camion. Accumula energia battendo pesantemente i piedi per terra."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Campo"
@@ -17,14 +42,14 @@
     "flat_name": "loudred",
     "generation": 3,
     "height": {
-        "loudred": "1.0 m"
+        "loudred": "1,0 m"
     },
     "id": 294,
     "name": "Loudred",
-    "name_origin": "Loudred potrebbe derivare dalle parole loud, sonoro, rumoroso, e dread, paura, timore. ",
-    "origin": "Loudred sembra essere basato su un stereo con altoparlanti. ",
+    "name_origin": "Loudred potrebbe derivare dalle parole loud, rumoroso, e dread, timore. Dogohmb, il suo nome giapponese, potrebbe derivare da 怒号 dogō, ruggito di rabbia, e bomb, bomba. ",
+    "origin": "Loudred sembra essere basato su uno stereo, con le sue orecchie simili ad altoparlanti. Potrebbe anche essere basato su un megafono o un amplificatore elettronico, dato che la sua coda assomiglia a una porta di input/output. Il segno giallo curvo sul dorso ricorda un'onda sonora stilizzata. La sua bocca ricorda quella di un ippopotamo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Loudred",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Vocione",
     "sprites": {
         "loudred": {
@@ -52,6 +77,6 @@
         ]
     },
     "weight": {
-        "loudred": "40.5 kg"
+        "loudred": "40,5 kg"
     }
 }

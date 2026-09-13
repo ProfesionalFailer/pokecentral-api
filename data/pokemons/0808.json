@@ -27,7 +27,8 @@
             "lets-go-pikachu": "Il suo corpo è composto di acciaio liquefatto. Scioglie il ferro e gli altri metalli presenti nel sottosuolo per assorbirli.",
             "lets-go-eevee": "Il suo corpo è composto di acciaio liquefatto. Scioglie il ferro e gli altri metalli presenti nel sottosuolo per assorbirli.",
             "sword": "Fonde il metallo per cibarsene, e lo fa circolare nel suo corpo per produrre energia.",
-            "shield": "Vive in gruppo, ma quando giunge il momento l'esemplare più forte ingloba i compagni e si evolve."
+            "shield": "Vive in gruppo, ma quando giunge il momento l'esemplare più forte ingloba i compagni e si evolve.",
+            "legends-za": "Il suo corpo è composto di acciaio liquefatto. Scioglie il ferro e gli altri metalli presenti nel sottosuolo per assorbirli."
         }
     },
     "egg_groups": [
@@ -36,14 +37,14 @@
     "flat_name": "meltan",
     "generation": 7,
     "height": {
-        "meltan": "0.2 m"
+        "meltan": "0,2 m"
     },
     "id": 808,
     "name": "Meltan",
     "name_origin": "Meltan potrebbe essere una combinazione di melt, fuso, metal, metallo, e たん -tan, un suffisso diminutivo giapponese. La parte finale del nome potrebbe anche derivare da tantalio. ",
     "origin": "Meltan è basato su un dado esagonale. Il suo corpo è basato sul mercurio, un metallo che a temperatura ambiente è liquido. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Meltan",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Bullone",
     "sprites": {
         "official_artwork": "https://media.pokemoncentral.it/wiki/a/a8/Artwork0808_LGPE.png"
@@ -67,6 +68,6 @@
         ]
     },
     "weight": {
-        "meltan": "8.0 kg"
+        "meltan": "8,0 kg"
     }
 }

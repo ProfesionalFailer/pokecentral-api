@@ -12,7 +12,8 @@
     "dex_entries": {
         "gholdengo": {
             "scarlet": "Pare che il suo corpo sia formato da 1.000 monete. È molto socievole e fa subito amicizia con chiunque.",
-            "violet": "Il suo corpo, formato da pile di monete, è molto robusto. Annienta i nemici lanciando raffiche di monete."
+            "violet": "Il suo corpo, formato da pile di monete, è molto robusto. Annienta i nemici lanciando raffiche di monete.",
+            "legends-za": "Poiché apprezzano i luoghi vivaci, alcuni esemplari di Gholdengo selvatici vivono in centri abitati."
         }
     },
     "egg_groups": [
@@ -21,14 +22,14 @@
     "flat_name": "gholdengo",
     "generation": 9,
     "height": {
-        "gholdengo": "1.2 m"
+        "gholdengo": "1,2 m"
     },
     "id": 1000,
     "name": "Gholdengo",
-    "name_origin": "Gholdengo potrebbe essere una combinazione di golden  e ghost . Surfugo potrebbe essere una combinazione di surf e gold . ",
+    "name_origin": "Gholdengo potrebbe essere una combinazione di golden, dorato, e ghost, spettro. Surfugo potrebbe essere una combinazione di surf e gold, oro. ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Gholdengo",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Tesoro",
     "sprites": {
         "gholdengo": {
@@ -52,11 +53,11 @@
     },
     "types": {
         "gholdengo": [
-            "Spettro",
-            "Acciaio"
+            "Acciaio",
+            "Spettro"
         ]
     },
     "weight": {
-        "gholdengo": "30.0 kg"
+        "gholdengo": "30,0 kg"
     }
 }

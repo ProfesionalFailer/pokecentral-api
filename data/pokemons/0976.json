@@ -17,7 +17,9 @@
         "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
         "Pokémon di Gruppo Uova Acqua 2",
         "Pokémon che non fanno parte di una linea di evoluzione",
-        "Pokémon con statistiche base totali di 478"
+        "Pokémon con statistiche base totali di 478",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/veluza.mp3",
     "dex_entries": {
@@ -32,14 +34,14 @@
     "flat_name": "veluza",
     "generation": 9,
     "height": {
-        "veluza": "2.5 m"
+        "veluza": "2,5 m"
     },
     "id": 976,
     "name": "Veluza",
     "name_origin": "Veluza potrebbe essere una combinazione di velocity  e merluza . Migarusa potrebbe essere una combinazione di 身軽 migaru  e 魚 sakana . ",
     "origin": "Veluza potrebbe essere basato sul Merluccius australis, un pesce osseo marino appartenente alla famiglia Merlucciidae. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Veluza",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Separazione",
     "sprites": {
         "veluza": {
@@ -63,11 +65,11 @@
     },
     "types": {
         "veluza": [
-            "Psico",
-            "Acqua"
+            "Acqua",
+            "Psico"
         ]
     },
     "weight": {
-        "veluza": "90.0 kg"
+        "veluza": "90,0 kg"
     }
 }

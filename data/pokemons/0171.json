@@ -7,7 +7,7 @@
         }
     },
     "curiosities": [
-        "In Pokémon Smeraldo è possibile incontrare un allenatore nella Via Vittoria con un Lanturn che utilizza la mossa Terremoto, nonostante non possa apprenderla.",
+        "In Pokémon Smeraldo è possibile incontrare una Fantallenatrice nella Via Vittoria con un Lanturn che utilizza la mossa Terremoto, nonostante non possa apprenderla.",
         "Prima della quinta generazione Chinchou e Lanturn avevano una combinazione di tipi unica.",
         "Lanturn condivide il nome della specie con Ampharos: entrambi sono detti Pokémon Luce.",
         "Lanturn può essere visto come parallelo di Lumineon:\n\tHanno lo stesso totale di statistiche.\n\tSecondo alcune voci del Pokédex di Lumineon, si contendono cibo e zone di caccia, oltre ad avere comportamenti simili e la stessa abilità nel emettere luce propria.\n\tAnche le loro pre-evoluzioni, Chinchou e Finneon hanno le medesime caratteristiche comuni alle statistiche.",
@@ -16,21 +16,55 @@
         "Anche le loro pre-evoluzioni, Chinchou e Finneon hanno le medesime caratteristiche comuni alle statistiche."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/lanturn.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "lanturn": {
+            "gold": "Emette una luce così intensa che può illuminare la superficie del mare da oltre 5 km di profondità.",
+            "silver": "Acceca la preda con un'intensa ondata di luce, immobilizzandola, per poi ingoiarla in un sol boccone.",
+            "crystal": "Usa la parte luminosa del suo corpo, che un tempo era la pinna dorsale, per attirare la preda.",
+            "ruby": "LANTURN è detto anche \"Stella degli abissi\" per la sua antenna-lanterna. Genera la luce grazie ad una reazione chimica tra i batteri e i fluidi corporei all'interno dell'antenna stessa.",
+            "sapphire": "LANTURN emette una luce intensa. Osservando il mare da un'imbarcazione, di notte, è possibile scorgere la sua luce risalire dagli abissi dov'è solito nuotare. Il mare assume l'aspetto d'un cielo stellato.",
+            "emerald": "Le sfere luminose sulle antenne di LANTURN emettono una luce molto intensa che illumina gli oscuri abissi del mare. Le antenne sono in realtà una pinna evoluta.",
+            "fire-red": "Acceca la preda con un'intensa ondata di luce, immobilizzandola, per poi ingoiarla in un sol boccone.",
+            "leaf-green": "Emette una luce così intensa che può illuminare la superficie del mare da oltre 5 km di profondità.",
+            "diamond": "La sua luce è visibile anche quando si trova in profondità. È soprannominato \"Stella degli abissi\".",
+            "pearl": "La sua luce è visibile anche quando si trova in profondità. È soprannominato \"Stella degli abissi\".",
+            "platinum": "La sua luce è visibile anche quando si trova in profondità. È soprannominato \"Stella degli abissi\".",
+            "heart-gold": "Emette una luce così intensa che può illuminare la superficie del mare da oltre 5 km di profondità.",
+            "soul-silver": "Acceca la preda con un’intensa ondata di luce, immobilizzandola, per poi ingoiarla in un sol boccone.",
+            "black": "La sua luce è visibile anche quando si trova in profondità. È soprannominato \"Stella degli abissi\".",
+            "white": "La sua luce è visibile anche quando si trova in profondità. È soprannominato \"Stella degli abissi\".",
+            "black-2": "La sua luce è visibile anche quando si trova in profondità. È soprannominato \"Stella degli abissi\".",
+            "white-2": "La sua luce è visibile anche quando si trova in profondità. È soprannominato \"Stella degli abissi\".",
+            "x": "La sua luce è visibile anche quando si trova in profondità. È soprannominato \"Stella degli abissi\".",
+            "y": "Acceca la preda con un’intensa ondata di luce, immobilizzandola, per poi ingoiarla in un sol boccone.",
+            "omega-ruby": "Lanturn è detto anche \"Stella degli abissi\" per la sua antenna-lanterna. Genera la luce grazie a una reazione chimica tra i batteri e i fluidi corporei all'interno dell'antenna stessa.",
+            "alpha-sapphire": "Lanturn emette una luce intensa. Osservando il mare da un'imbarcazione, di notte, è possibile scorgere la sua luce risalire dagli abissi dov'è solito nuotare. Il mare assume l'aspetto d'un cielo stellato.",
+            "sun": "Quando sulla superficie del mare si vede brillare una luce che sembra una stella, si tratta di un Lanturn.",
+            "moon": "Acceca la preda con una luce intensa per poi attaccarla immediatamente con una scossa elettrica.",
+            "ultra-sun": "Quando i batteri nelle antenne di Lanturn assimilano i suoi fluidi corporei, scatenano una reazione che sprigiona una forte luce.",
+            "ultra-moon": "Vive negli abissi più remoti. Abbaglia la preda con la sua luce e approfitta del suo stordimento per ingoiarla in un sol boccone.",
+            "sword": "Emette una luce così intensa da illuminare la superficie del mare da oltre 5 km di profondità.",
+            "shield": "Acceca la preda con una luce intensa per poi attaccarla immediatamente con una scossa elettrica.",
+            "brilliant-diamond": "La sua luce è visibile in superficie anche quando nuota in profondità. È soprannominato \"stella degli abissi\".",
+            "shining-pearl": "La sua luce è visibile in superficie anche quando nuota in profondità. È soprannominato \"stella degli abissi\".",
+            "scarlet": "Parte della sua pinna dorsale è mutata nelle sfere luminose con cui attira le prede.",
+            "violet": "Immobilizza la preda accecandola con un intenso lampo di luce per poi ingoiarla in un sol boccone."
+        }
+    },
     "egg_groups": [
         "Acqua 2"
     ],
     "flat_name": "lanturn",
     "generation": 2,
     "height": {
-        "lanturn": "1.2 m"
+        "lanturn": "1,2 m"
     },
     "id": 171,
     "name": "Lanturn",
-    "name_origin": "Il suo nome deriva probabilmente dalla parola inglese Lantern . ",
-    "origin": "Lanturn è basato sull'ordine animale dei pesci Lophiiformes, inoltre il suo aspetto ricorda quello di un delfino. È possibile che questo sia un riferimento al dio greco Apollo, il quale era dio della luce e il suo animale simbolo era proprio il delfino. ",
+    "name_origin": "Lanturn potrebbe derivare da lantern, lanterna e possibilmente turn, come in turn on the lights, accendere le luci. ",
+    "origin": "Lanturn sembra essere basato sui pesci lofiformi, nello specifico sui pesci della famiglia Himantolophidae. Condivide anche tratti con un delfino. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Lanturn",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Luce",
     "sprites": {
         "lanturn": {
@@ -59,6 +93,6 @@
         ]
     },
     "weight": {
-        "lanturn": "22.5 kg"
+        "lanturn": "22,5 kg"
     }
 }

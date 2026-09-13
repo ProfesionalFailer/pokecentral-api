@@ -14,13 +14,13 @@
             "ruby": "SOLROCK è una nuova specie di POKéMON che pare sia precipitata dallo spazio. Fluttua a mezz'aria spostandosi silenziosamente. In lotta emana una luce estremamente intensa.",
             "sapphire": "La luce solare è la fonte primaria dell'energia di SOLROCK. Pare che riesca a carpire i pensieri degli altri. Il POKéMON emana un calore intenso roteando vorticosamente.",
             "emerald": "SOLROCK attinge energia dalla luce solare. Nelle belle giornate, è possibile vedere questi POKéMON schierati con la faccia in direzione del sole per assorbirne i raggi.",
-            "firered": "Durante il giorno assorbe la luce solare. Sempre perfettamente inespressivo, può leggere nel pensiero del nemico.",
-            "leafgreen": "Durante il giorno assorbe la luce solare. Sempre perfettamente inespressivo, può leggere nel pensiero del nemico.",
+            "fire-red": "Durante il giorno assorbe la luce solare. Sempre perfettamente inespressivo, può leggere nel pensiero del nemico.",
+            "leaf-green": "Durante il giorno assorbe la luce solare. Sempre perfettamente inespressivo, può leggere nel pensiero del nemico.",
             "diamond": "Nuova specie di Pokémon che si dice provenga dal sole. Emana luce roteando vorticosamente.",
             "pearl": "Nuova specie di Pokémon che si dice provenga dal sole. Emana luce roteando vorticosamente.",
             "platinum": "Nuova specie di Pokémon che si dice provenga dal sole. Emana luce roteando vorticosamente.",
-            "heartgold": "Ruota vorticosamente su se stesso per emanare una luce abbagliante che acceca il nemico.",
-            "soulsilver": "Ruota vorticosamente su se stesso per emanare una luce abbagliante che acceca il nemico.",
+            "heart-gold": "Ruota vorticosamente su se stesso per emanare una luce abbagliante che acceca il nemico.",
+            "soul-silver": "Ruota vorticosamente su se stesso per emanare una luce abbagliante che acceca il nemico.",
             "black": "Nuova specie di Pokémon che si dice provenga dal sole. Emana luce roteando vorticosamente.",
             "white": "Nuova specie di Pokémon che si dice provenga dal sole. Emana luce roteando vorticosamente.",
             "black-2": "L'energia solare è la fonte della sua potenza, per cui è più forte di giorno. Emana luce quando ruota su se stesso.",
@@ -41,14 +41,14 @@
     "flat_name": "solrock",
     "generation": 3,
     "height": {
-        "solrock": "1.2 m"
+        "solrock": "1,2 m"
     },
     "id": 338,
     "name": "Solrock",
-    "name_origin": "Il nome deriva probabilmente dalla parola latina sol  e da quella inglese rock . ",
-    "origin": "È basato sul Sole e sul meteorite. ",
+    "name_origin": "Solrock è una combinazione di solar, solare, e rock, roccia. ",
+    "origin": "Solrock sembra essere basato sul Sole e su un meteorite. I suoi occhi socchiusi potrebbero essere un riferimento alla difficoltà di guardare il sole direttamente, o le fessure negli occhiali da neve, che proteggono dalla luce solare. La colorazione della forma cromatica ricorda una nana rossa. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Solrock",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Meteorite",
     "sprites": {
         "solrock": {
@@ -77,6 +77,6 @@
         ]
     },
     "weight": {
-        "solrock": "154.0 kg"
+        "solrock": "154,0 kg"
     }
 }

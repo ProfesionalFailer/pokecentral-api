@@ -17,10 +17,11 @@
         "Pokémon di Gruppo Uova Sconosciuto",
         "Pokémon che non fanno parte di una linea di evoluzione",
         "Pokémon con statistiche base totali di 570",
-        "Pagine che richiamano file inesistenti",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti",
         "Pokémon Paradosso"
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/peldisabbia.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sandyshocks.mp3",
     "dex_entries": {
         "peldisabbia": {
             "scarlet": "Mancano dati su questo Pokémon, mai catturato in passato. La sua descrizione coincide con quella di una creatura citata in un certo diario di viaggio.",
@@ -33,14 +34,14 @@
     "flat_name": "peldisabbia",
     "generation": 9,
     "height": {
-        "peldisabbia": "2.3 m"
+        "peldisabbia": "2,3 m"
     },
     "id": 989,
     "name": "Peldisabbia",
-    "name_origin": "",
+    "name_origin": "Peldisabbia è una combinazione di pel, di e sabbia. Sandy Shocks è una combinazione di sandy, sabbioso, e shoks, scosse ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Peldisabbia",
-    "shape": "corpi multipli",
+    "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
         "peldisabbia": {
@@ -69,6 +70,6 @@
         ]
     },
     "weight": {
-        "peldisabbia": "60.0 kg"
+        "peldisabbia": "60,0 kg"
     }
 }

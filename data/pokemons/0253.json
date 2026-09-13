@@ -6,10 +6,36 @@
         }
     },
     "curiosities": [
-        "Grovyle, assieme alla sua pre-evoluzione e alla sua evoluzione, è l'unico Pokémon di tipo Erba ad appartenere al Gruppo Uova Drago."
+        "Grovyle ha dato il nome ad una specie di ragno, il Anyphaena grovyle. Il nome è stato scelto in riferimento al Pokémon e al fatto che il ragno è stato scoperto in una foresta."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/grovyle.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "grovyle": {
+            "ruby": "Le foglie che crescono sul corpo di GROVYLE sono utili per mimetizzarsi contro i nemici nella foresta. Questo POKéMON sa arrampicarsi sugli alberi della giungla con una maestria senza pari.",
+            "sapphire": "GROVYLE vola di ramo in ramo e di albero in albero. Non c'è nessun POKéMON nella foresta in grado di catturarlo in volo: la sua velocità è impressionante!",
+            "emerald": "Sul corpo di GROVYLE crescono delle foglie che gli servono per mimetizzarsi e nascondersi dai nemici quando si trova in una fitta foresta.",
+            "fire-red": "I muscoli delle zampe estremamente sviluppati gli permettono di saltare fino a grandi altezze.",
+            "leaf-green": "I muscoli delle zampe estremamente sviluppati gli permettono di saltare fino a grandi altezze.",
+            "diamond": "Vive in giungle fitte. Si avvicina alle prede saltando di ramo in ramo.",
+            "pearl": "Vive in giungle fitte. Si avvicina alle prede saltando di ramo in ramo.",
+            "platinum": "Vive in giungle fitte. Si avvicina alle prede saltando di ramo in ramo.",
+            "heart-gold": "Ha un potere propulsivo impressionante. Si sposta saltando agilmente tra i rami di giganteschi alberi.",
+            "soul-silver": "Ha un potere propulsivo impressionante. Si sposta saltando agilmente tra i rami di giganteschi alberi.",
+            "black": "Vive in giungle fitte. Si avvicina alle prede saltando di ramo in ramo.",
+            "white": "Vive in giungle fitte. Si avvicina alle prede saltando di ramo in ramo.",
+            "black-2": "Vive in giungle fitte. Si avvicina alle prede saltando di ramo in ramo.",
+            "white-2": "Vive in giungle fitte. Si avvicina alle prede saltando di ramo in ramo.",
+            "x": "I muscoli delle zampe estremamente sviluppati gli permettono di saltare fino a grandi altezze.",
+            "y": "Vive in giungle fitte. Si avvicina alle prede saltando di ramo in ramo.",
+            "omega-ruby": "Le foglie che crescono sul corpo di Grovyle sono utili per mimetizzarsi contro i nemici nella foresta. Questo Pokémon sa arrampicarsi sugli alberi della giungla con una maestria senza pari.",
+            "alpha-sapphire": "Grovyle vola di ramo in ramo e di albero in albero. Non c'è nessun pokémon nella foresta in grado di catturarlo in volo: la sua velocità è impressionante!",
+            "brilliant-diamond": "Vive in giungle fitte. Si avvicina alle prede saltando di ramo in ramo.",
+            "shining-pearl": "Vive in giungle fitte. Si avvicina alle prede saltando di ramo in ramo.",
+            "scarlet": "I muscoli delle cosce estremamente sviluppati gli conferiscono un’incredibile agilità e una prodigiosa capacità di salto.",
+            "violet": "Si sposta saltando agilmente tra i rami di grandi alberi. È capace di scatti impressionanti.",
+            "legends-za": "I muscoli delle cosce estremamente sviluppati gli conferiscono un’incredibile agilità e una prodigiosa capacità di salto."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Drago"
@@ -17,14 +43,14 @@
     "flat_name": "grovyle",
     "generation": 3,
     "height": {
-        "grovyle": "0.90 m"
+        "grovyle": "0,90 m"
     },
     "id": 253,
     "name": "Grovyle",
-    "name_origin": "Grovyle è una combinazione di grove  e reptile . Vyle potrebbe essere un riferimento a vine . Juptile deriva da jungle  o 樹 ju  e reptile  o raptor. ",
-    "origin": "Grovyle assomiglia a un dinosauro, il Dromaeosaurus. Si ritiene che il dinosauro aveva delle piume, molto simili alle foglie su corpo di Grovyle. Il suo disegno potrebbe essere basato anche su un Protarchaeopteryx. ",
+    "name_origin": "Grovyle potrebbe essere una combinazione di grove, gruppo di alberi, e reptile, rettile o possibilmente vine, viticcio, o ivy, edera. Juptile, il suo nome giapponese, sembra derivare da 樹 ju  e reptile  o raptor. ",
+    "origin": "L'aspetto di Grovyle ricorda un Dromaeosaurus. Si crede che questo dinosauro possedesse piume similmente alle foglie sul corpo di Grovyle. Le foglie sulla coda ricordano particolarmente le piume della coda di un Epidexipteryx, e in generale il Pokémon potrebbe ricordare un protarcheotterige. Come gli altri membri della sua linea evolutiva, Grovyle presenta caratteristiche comuni con il geco coda a foglia, un tipo di lucertola che presenta appendici simili a foglie con cui si mimetizza. La pelle verde e il ventre rosso possono ricondurlo ad un maschio di anolide della Carolina, i cui sacchi giugulare che presentano un colore rosaceo vengono gonfiati per difendersi dai rivali. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Grovyle",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Legnogeco",
     "sprites": {
         "grovyle": {
@@ -52,6 +78,6 @@
         ]
     },
     "weight": {
-        "grovyle": "21.6 kg"
+        "grovyle": "21,6 kg"
     }
 }

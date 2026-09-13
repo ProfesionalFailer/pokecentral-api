@@ -6,9 +6,9 @@
         }
     },
     "curiosities": [
-        "Carvanha, insieme alla sua evoluzione Sharpedo, è l'unico Pokémon che impara una sola mossa del suo tipo  salendo di livello, ovvero Acquagetto, mentre in terza generazione non ne poteva imparare nemmeno una.",
-        "Carvanha ha la più bassa statistica base di Difesa Speciale dei Pokémon di tipo Acqua, a pari merito con Magikarp.\n\tHa inoltre anche la più bassa statistica base di Difesa Speciale dei Pokémon di tipo Buio.",
-        "Ha inoltre anche la più bassa statistica base di Difesa Speciale dei Pokémon di tipo Buio."
+        "Carvanha ha più bassa statistica base di Difesa Speciale dei Pokémon di tipo Buio, e insieme a Feebas e Wishiwashi Forma Individuale la più bassa statistica di Difesa tra tutti i Pokémon di tipo Acqua.\n\tInsieme a Caterpie, Weedle, Magikarp, Igglybuff, Deoxys Forma Attacco e Stonjourner la più bassa statistica di Difesa Speciale tra tutti i Pokémon.",
+        "Insieme a Caterpie, Weedle, Magikarp, Igglybuff, Deoxys Forma Attacco e Stonjourner la più bassa statistica di Difesa Speciale tra tutti i Pokémon.",
+        "La linea evolutiva di Carvanha può essere considerata un parallelo di quella di Numel: entrambi i Pokémon hanno un doppio tipo, hanno le stesse statistiche totali ad ogni stadio evolutivo, sono usate rispettivamente dal capo del Team Idro Ivan e del Team Magma Max, ed entrambe le loro evoluzioni possono Megaevolvere."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/carvanha.mp3",
     "dex_entries": {
@@ -16,13 +16,13 @@
             "ruby": "Le sviluppate mascelle di CARVANHA e i denti estremamente appuntiti e affilati hanno una potenza distruttiva tale da sventrare la carena di una nave. Già molte navi sono state attaccate e affondate da questo POKéMON.",
             "sapphire": "In caso di invasione del proprio territorio, i CARVANHA si lanciano in branco contro gli intrusi annientandoli senza pietà. Preso singolarmente, invece, questo POKéMON diventa estremamente timido.",
             "emerald": "I CARVANHA si lanciano in branco contro le navi, facendole affondare. Sebbene sia considerato un POKéMON feroce, scappa non appena si trova lontano dal gruppo.",
-            "firered": "Vive in grandi fiumi che attraversano la giungla, lanciandosi in branco contro gli intrusi.",
-            "leafgreen": "Vive in grandi fiumi che attraversano la giungla, lanciandosi in branco contro gli intrusi.",
+            "fire-red": "Vive in grandi fiumi che attraversano la giungla, lanciandosi in branco contro gli intrusi.",
+            "leaf-green": "Vive in grandi fiumi che attraversano la giungla, lanciandosi in branco contro gli intrusi.",
             "diamond": "Attacca in branco chi invade il suo territorio. Le zanne aguzze lacerano anche gli scafi delle navi.",
             "pearl": "Attacca in branco chi invade il suo territorio. Le zanne aguzze lacerano anche gli scafi delle navi.",
             "platinum": "Attacca in branco chi invade il suo territorio. Le zanne aguzze lacerano anche gli scafi delle navi.",
-            "heartgold": "I CARVANHA attaccano le navi in branco e ne strappano gli scafi a morsi. Abitano i fiumi della giungla.",
-            "soulsilver": "I CARVANHA attaccano le navi in branco e ne strappano gli scafi a morsi. Abitano i fiumi della giungla.",
+            "heart-gold": "I CARVANHA attaccano le navi in branco e ne strappano gli scafi a morsi. Abitano i fiumi della giungla.",
+            "soul-silver": "I CARVANHA attaccano le navi in branco e ne strappano gli scafi a morsi. Abitano i fiumi della giungla.",
             "black": "Attacca in branco chi invade il suo territorio. Le zanne aguzze lacerano anche gli scafi delle navi.",
             "white": "Attacca in branco chi invade il suo territorio. Le zanne aguzze lacerano anche gli scafi delle navi.",
             "black-2": "Attacca in branco chi invade il suo territorio. Le zanne aguzze lacerano anche gli scafi delle navi.",
@@ -38,7 +38,8 @@
             "sword": "Se è da solo, non assale la preda. Preferisce aspettare i suoi compagni per attaccare in gruppo.",
             "shield": "È dotato di denti affilati e mascelle robuste. Chi viaggia per mare si tiene accuratamente alla larga dalle tane di Carvanha.",
             "brilliant-diamond": "Attacca in gruppo chi invade il suo territorio. Le zanne aguzze possono lacerare anche gli scafi delle navi.",
-            "shining-pearl": "Attacca in gruppo chi invade il suo territorio. Le zanne aguzze possono lacerare anche gli scafi delle navi."
+            "shining-pearl": "Attacca in gruppo chi invade il suo territorio. Le zanne aguzze possono lacerare anche gli scafi delle navi.",
+            "legends-za": "Vive in grandi fiumi che attraversano la giungla. Attacca in banco le prede che sconfinano ignare nel suo territorio."
         }
     },
     "egg_groups": [
@@ -47,14 +48,14 @@
     "flat_name": "carvanha",
     "generation": 3,
     "height": {
-        "carvanha": "0.8 m"
+        "carvanha": "0,8 m"
     },
     "id": 318,
     "name": "Carvanha",
-    "name_origin": "Il nome di Carvanha è nato dall'unione delle parole inglesi carve , o carnivorous  e piranha. ",
-    "origin": "Carvanha si basa soprattutto su un piranha. ",
+    "name_origin": "Carvanha potrebbe derivare da carve, incidere, carnivorous, carnivoro, e piranha. Kibanha, il suo nome giapponese, potrebbe derivare da 牙 kiba, zanna, e piranha. ",
+    "origin": "Carvanha sembra essere basato su un piranha, con la parte inferiore del corpo di colore rosso simile al piranha rosso. La stella sotto la bocca potrebbe derivare dal Mustelus manazo o sul palombo stellato. Il suo comportamente aggressivo, che include attaccare e affondare navi, insiemi al suo corpo rotondo e disegno di una stella simile ad un'esplosione lo riconducono anche ad una palla di cannone. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Carvanha",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Feroce",
     "sprites": {
         "carvanha": {
@@ -83,6 +84,6 @@
         ]
     },
     "weight": {
-        "carvanha": "20.8 kg"
+        "carvanha": "20,8 kg"
     }
 }

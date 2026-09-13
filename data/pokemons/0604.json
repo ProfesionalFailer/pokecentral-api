@@ -2,6 +2,9 @@
     "abilities": {
         "eelektross": {
             "primary": "Levitazione"
+        },
+        "megaeelektross": {
+            "primary": "Rapidascesa"
         }
     },
     "curiosities": [
@@ -21,7 +24,11 @@
             "omega-ruby": "Si attacca alla preda con la bocca a ventosa e la fulmina attraverso i denti conficcati.",
             "alpha-sapphire": "Striscia fuori dal mare con la sola forza dei propri arti. Poi attacca la preda a riva e con un guizzo la trascina con sé.",
             "scarlet": "Striscia fuori dal mare con la sola forza dei propri arti. Poi attacca la preda a riva e con un guizzo la trascina con sé in acqua.",
-            "violet": "Si attacca alla preda con la bocca a ventosa, conficca i denti nel suo corpo e rilascia una potente scarica elettrica."
+            "violet": "Si attacca alla preda con la bocca a ventosa, conficca i denti nel suo corpo e rilascia una potente scarica elettrica.",
+            "legends-za": "Si attacca alla preda con la bocca a ventosa e la fulmina attraverso i denti in essa conficcati."
+        },
+        "megaeelektross": {
+            "legends-za": "Genera il decuplo dell'energia elettrica prodotta prima della megaevoluzione e la scarica dai falsi Eelektrik fatti di muco."
         }
     },
     "egg_groups": [
@@ -30,19 +37,24 @@
     "flat_name": "eelektross",
     "generation": 5,
     "height": {
-        "eelektross": "2.1 m"
+        "eelektross": "2,1 m",
+        "megaeelektross": "3,0 m"
     },
     "id": 604,
     "name": "Eelektross",
     "name_origin": "Il nome Eelektross è una combinazione tra le parole eel , electric  e boss  oppure gross . La \"k\", potrebbe esprimere un'onomatopea del crepitio elettrico. Il suo nome giapponese, シビルドン Shibirudon, potrebbe essere una combinazione tra le parole 痺れ shibire , しびれうなぎ shibireunagi , ビリビリ biribiri , e -don . ",
     "origin": "Eelektross è basato su un pesce elettroforo. In particolare potrebbe trarre ispirazione da un'anguilla elettrica, dagli agnati come le lamprede, dalle sanguisughe, o dai cefalocordati. Il suo tipo Elettro potrebbe essere ispirato alla bioelettrogenesi, la generazione di energia elettrica da parte di organismi viventi tramite impulsi nervosi, un fenomeno che appartiene alla scienza della elettrofisiologia. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Eelektross",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Elettropesce",
     "sprites": {
         "eelektross": {
             "default": "https://media.pokemoncentral.it/wiki/6/62/Homem0604.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/12/Homemsh0604.png"
+        },
+        "megaeelektross": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c7/Homem0604M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/c/c5/Homemsh0604M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/c/c6/Artwork0604_NB.png"
     },
@@ -54,10 +66,19 @@
             "spa": 105,
             "spd": 80,
             "spe": 50
+        },
+        "megaeelektross": {
+            "hp": 85,
+            "atk": 145,
+            "def": 80,
+            "spa": 135,
+            "spd": 90,
+            "spe": 80
         }
     },
     "stats_sum": {
-        "eelektross": 515
+        "eelektross": 515,
+        "megaeelektross": 615
     },
     "types": {
         "eelektross": [
@@ -65,6 +86,7 @@
         ]
     },
     "weight": {
-        "eelektross": "80.5 kg"
+        "eelektross": "80,5 kg",
+        "megaeelektross": "180,0 kg"
     }
 }

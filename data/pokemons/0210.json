@@ -12,7 +12,39 @@
         "Granbull ha, alla pari con Grimmsnarl, l'Attacco più alto di tutti i Pokémon non leggendari di tipo Folletto."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/granbull.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "granbull": {
+            "gold": "È timido e facile da spaventare. Se è attaccato, inizia ad agitarsi per tenere lontano il nemico.",
+            "silver": "Sta sempre con il capo piegato in avanti, perché ha i denti troppo pesanti. Il suo MORSO è potente.",
+            "crystal": "Se spalanca la bocca mostrando i grandi denti, quasi tutti i POKéMON fuggono spaventati.",
+            "ruby": "GRANBULL è dotato di una mascella inferiore particolarmente sviluppata. A causa delle enormi e pesanti zanne deve inclinare la testa per mantenersi in equilibrio. Se non è spaventato, non morde in modo inconsulto.",
+            "sapphire": "GRANBULL è dotato di una mascella inferiore particolarmente sviluppata. A causa delle enormi e pesanti zanne deve inclinare la testa per mantenersi in equilibrio. Se non è spaventato, non morde in modo inconsulto.",
+            "emerald": "GRANBULL è dotato di una mascella inferiore molto sviluppata. A causa delle enormi zanne, inclina la testa per stare in equilibrio. Morde solo se viene spaventato.",
+            "fire-red": "Sta sempre con il capo piegato in avanti perché ha zanne troppo pesanti. Il suo MORSO è potente.",
+            "leaf-green": "È timido e facile da spaventare. Se è attaccato, inizia ad agitarsi per tenere lontano il nemico.",
+            "diamond": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "pearl": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "platinum": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "heart-gold": "Timido e facile da spaventare, se attaccato inizia ad agitarsi per tenere lontano il nemico.",
+            "soul-silver": "Sta sempre con il capo piegato in avanti, perché ha le zanne troppo pesanti. Il suo morso è potente.",
+            "black": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "white": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "black-2": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "white-2": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "x": "Malgrado il suo aspetto, è molto timido. Se si arrabbia, tuttavia, colpisce con le sue enormi zanne.",
+            "y": "Se spalanca la bocca mostrando i grandi denti, quasi tutti i Pokémon fuggono spaventati.",
+            "omega-ruby": "Granbull è dotato di una mascella inferiore particolarmente sviluppata. A causa delle enormi e pesanti zanne deve inclinare la testa per mantenersi in equilibrio. Se non è spaventato, non morde in modo inconsulto.",
+            "alpha-sapphire": "Granbull è dotato di una mascella inferiore particolarmente sviluppata. A causa delle enormi e pesanti zanne deve inclinare la testa per mantenersi in equilibrio. Se non è spaventato, non morde in modo inconsulto.",
+            "sun": "Attacca i nemici con la grossa mascella inferiore, dotata di zanne massicce. Morde solo quando è arrabbiato.",
+            "moon": "È persino più timido di Snubbull. I giovani lo trovano irresistibile proprio per lo scarto tra il suo aspetto minaccioso e il suo carattere.",
+            "ultra-sun": "Ha una mascella molto potente, ma non ama battersi, perciò non ha molte occasioni di dare prova della sua forza.",
+            "ultra-moon": "Piace moltissimo ai giovani. Di indole timida e delicata, non è adatto a fare la guardia.",
+            "brilliant-diamond": "Malgrado il suo aspetto, è molto timido. Tuttavia, se si arrabbia contrattacca con le sue enormi zanne.",
+            "shining-pearl": "Malgrado il suo aspetto, è molto timido. Tuttavia, se si arrabbia contrattacca con le sue enormi zanne.",
+            "scarlet": "Timido e pauroso, se viene attaccato cerca di scacciare il nemico agitando forsennatamente le zampe.",
+            "violet": "Se spalanca la bocca mostrando i grandi denti, quasi tutti i Pokémon fuggono spaventati."
+        }
+    },
     "egg_groups": [
         "Campo",
         "Magico"
@@ -20,14 +52,14 @@
     "flat_name": "granbull",
     "generation": 2,
     "height": {
-        "granbull": "1.4 m"
+        "granbull": "1,4 m"
     },
     "id": 210,
     "name": "Granbull",
-    "name_origin": "Il suo nome deriva dall'unione della parola inglese grand  con la parola bulldog. ",
-    "origin": "Basato su un bulldog. ",
+    "name_origin": "Granbull e Granbulu, il suo nome giapponese, potrebbero essere una combinazione di grand, grande, grumble, brontolare, bulldog e bully, bullo. ",
+    "origin": "Granbull sembra essere basato su un bulldog, una razza canina dal comportamente gentile nonostante l'aspetto. I bulldog sono spesso usati come cani da guardia, il che potrebbe spiegare il collare e le macchie simili a bracciali o catene del Pokémon. Data la sua grande stazza, è possibile che sia ispirato dal cane mastino di Maiorca o dall'alano spagnolo. La sua associazione con le fate potrebbe derivare dal Cù Sìth, una creatura del folclore scozzese il cui nome significa \"cane fata\". Alternativamente, nonostante il suo aspetto aggressivo faccia pensare a goblin e orchi, il Pokémon potrebbe essere ispirato ad un coboldo, una specie di folletto tipicamente rappresentata con fattezze di cane in media giapponesi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Granbull",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Fata",
     "sprites": {
         "granbull": {
@@ -55,6 +87,6 @@
         ]
     },
     "weight": {
-        "granbull": "48.7 kg"
+        "granbull": "48,7 kg"
     }
 }

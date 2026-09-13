@@ -7,10 +7,11 @@
         }
     },
     "curiosities": [
-        "Bonsly, insieme a Feebas e a Shuckle è il Pokémon con il più basso Attacco Speciale.",
-        "Bonsly è l'unico Pokémon Baby di tipo Roccia.",
-        "Nonostante sia un Pokémon di quarta generazione, fa alcune apparizioni anche prima della pubblicazione ufficiale di Pokémon Diamante e Perla. Esempio è il Bonsly in Pokémon XD: Tempesta Oscura, visibile prima sulla M/N Libra, poi alla sede dell' ONBS.",
-        "Il nome inglese di Bonsly venne rivelato il 16 giugno 2005."
+        "Bonsly, insieme a Feebas, Shuckle e Sandshrew di Alola, è il Pokémon con il più basso Attacco Speciale.",
+        "Il nome inglese di Bonsly è stato rivelato il 16 giugno 2005, prima ancora che Pokémon Diamante e Perla uscissero in Giappone.",
+        "Bonsly è l'unico Pokémon di quarta generazione usabile prima che questa generazione iniziasse, in Pokémon XD: Tempesta Oscura.",
+        "Bonsly e Munchlax hanno avuto i loro versi rivelati in Pokémon XD.",
+        "La descrizione del trofeo di Super Smash Bros. Brawl dice che Bonsly è apparso per la prima volta in Pokémon Diamante e Perla, anche se è apparso in precedenza in Pokémon XD e Pokémon Mystery Dungeon: Squadra Rossa e Squadra Blu. Un caso simile avviene con Munchlax, Weavile, Togepi e Lucario."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/bonsly.mp3",
     "dex_entries": {
@@ -18,8 +19,8 @@
             "diamond": "Sembra che pianga tutto il tempo. In realtà regola il livello dei fluidi del corpo eliminando gli eccessi.",
             "pearl": "Preferisce le terre aride. Rilascia acqua dagli occhi per regolare il livello dei suoi fluidi corporei.",
             "platinum": "Ama i luoghi aridi. Quando regola l'umidità del corpo sembra che pianga.",
-            "heartgold": "Sembra che pianga tutto il tempo. In realtà regola il livello dei fluidi del corpo eliminandone gli eccessi.",
-            "soulsilver": "Sembra che pianga tutto il tempo. In realtà regola il livello dei fluidi del corpo eliminandone gli eccessi.",
+            "heart-gold": "Sembra che pianga tutto il tempo. In realtà regola il livello dei fluidi del corpo eliminandone gli eccessi.",
+            "soul-silver": "Sembra che pianga tutto il tempo. In realtà regola il livello dei fluidi del corpo eliminandone gli eccessi.",
             "black": "Ama i luoghi aridi. Quando regola l'umidità del corpo sembra che pianga.",
             "white": "Ama i luoghi aridi. Quando regola l'umidità del corpo sembra che pianga.",
             "black-2": "Ama i luoghi aridi. Quando regola l'umidità del corpo sembra che pianga.",
@@ -38,8 +39,9 @@
             "shining-pearl": "Preferisce le terre aride. Rilascia acqua dagli occhi per regolare il livello dei suoi fluidi corporei.",
             "legends-arceus": "Le sue lagrime ingannevoli muovono a pietà l'osservatore. In verità, sgorgano per un processo fisiologico atto a secernere i fluidi in eccedenza.",
             "scarlet": "Regola il livello dei fluidi corporei espellendo quelli in eccesso dagli occhi. Per questo sembra che stia sempre piangendo.",
-            "violet": "Espelle dagli occhi l’umidità corporea in eccesso sotto forma di un liquido dalla composizione chimica simile a quella del sudore umano."
-        }
+            "violet": "Espelle dagli occhi l'umidità corporea in eccesso sotto forma di un liquido dalla composizione chimica simile a quella del sudore umano."
+        },
+        "": {}
     },
     "egg_groups": [
         "Sconosciuto"
@@ -47,14 +49,14 @@
     "flat_name": "bonsly",
     "generation": 4,
     "height": {
-        "bonsly": "0.5 m"
+        "bonsly": "0,5 m"
     },
     "id": 438,
     "name": "Bonsly",
-    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi bonsai e sly  o lie . ",
-    "origin": "È basato su un bonsai. Potrebbe anche ispirarsi alle foreste fossili. ",
+    "name_origin": "Bonsly potrebbe derivare da bonsai e sly, furbo, o lie, bugia. Usohachi, il suo nome giapponese, mpotrebbe derivare da 嘘 uso, bugia, o 嘘っ八 usoppachi, mentire spudoratamente, e 鉢 hachi, vaso. ",
+    "origin": "Bonsly sembra essere basato su un bonsai e sul legno fossile. Ciò spiegherebbe il suo tipo Roccia puro, poiché tutto il materiale organico nel legno pietrificato viene sostituito con minerali. Ricorda anche un neonato, con il suo vaso simile ad un Pannolino ela sua tendenza a piangere. Potrebbe anche essere basato sul concetto di mimetismo criptico. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Bonsly",
-    "shape": "testa e gambe",
+    "shape": "None",
     "specie": "Pokémon Bonsai",
     "sprites": {
         "bonsly": {
@@ -82,6 +84,6 @@
         ]
     },
     "weight": {
-        "bonsly": "15.0 kg"
+        "bonsly": "15,0 kg"
     }
 }

@@ -6,12 +6,36 @@
         }
     },
     "curiosities": [
-        "Treecko e Snivy sono gli unici starter di tipo Erba a non imparare Foglielama.",
-        "Tra tutti i Pokémon di tipo Erba, la linea evolutiva di Treecko è l'unica, insieme a quella di Lileep, a non appartenere al Gruppo Uova Erba.\n\tTreecko, infatti, assieme alle sue evoluzioni, è l'unico Pokémon di tipo Erba ad appartenere al Gruppo Uova Drago.",
-        "Treecko, infatti, assieme alle sue evoluzioni, è l'unico Pokémon di tipo Erba ad appartenere al Gruppo Uova Drago."
+        "Treecko ha dato il nome ad una specie di ragno, il Rathalos treecko. Il nome è stato scelto in riferimento al Pokémon e al fatto che il ragno è stato scoperto in una foresta."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/treecko.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "treecko": {
+            "ruby": "TREECKO è dotato di piccoli uncini sulla pianta delle zampe inferiori, che gli consentono di camminare su pareti verticali. Attacca frustando i suoi nemici con la coda grossa e forte.",
+            "sapphire": "TREECKO ha classe, è calmo e posato: non si lascia mai prendere dal panico. Quando affronta un nemico più grande di lui, lo fissa dritto negli occhi senza la minima esitazione.",
+            "emerald": "TREECKO fa il nido su enormi alberi nella foresta e difende accanitamente il proprio territorio da chiunque si avvicini. È considerato il protettore degli alberi.",
+            "fire-red": "Riesce a scalare rapidamente anche pareti verticali. Rileva l'umidità attraverso la coda per prevedere il tempo dell'indomani.",
+            "leaf-green": "Riesce a scalare rapidamente anche pareti verticali. Rileva l'umidità attraverso la coda per prevedere il tempo dell'indomani.",
+            "diamond": "Le piante dei suoi piedi sono piene di uncini che gli permettono di camminare su muri e soffitti.",
+            "pearl": "Le piante dei suoi piedi sono piene di uncini che gli permettono di camminare su muri e soffitti.",
+            "platinum": "Le piante dei suoi piedi sono piene di uncini che gli permettono di camminare su muri e soffitti.",
+            "heart-gold": "Le piante dei suoi piedi sono piene di uncini che gli permettono di camminare su muri e soffitti.",
+            "soul-silver": "Le piante dei suoi piedi sono piene di uncini che gli permettono di camminare su muri e soffitti.",
+            "black": "Le piante dei suoi piedi sono piene di uncini che gli permettono di camminare su muri e soffitti.",
+            "white": "Le piante dei suoi piedi sono piene di uncini che gli permettono di camminare su muri e soffitti.",
+            "black-2": "Le piante dei suoi piedi sono piene di uncini che gli permettono di camminare su muri e soffitti.",
+            "white-2": "Le piante dei suoi piedi sono piene di uncini che gli permettono di camminare su muri e soffitti.",
+            "x": "Riesce a scalare rapidamente anche pareti verticali. Rileva l'umidità attraverso la coda per prevedere il tempo dell'indomani.",
+            "y": "Le piante dei suoi piedi sono piene di uncini che gli permettono di camminare su muri e soffitti.",
+            "omega-ruby": "Treecko è dotato di piccoli uncini sulla pianta delle zampe, che gli consentono di camminare su pareti verticali. Attacca frustando i suoi nemici con la coda grossa e forte.",
+            "alpha-sapphire": "Treecko ha classe, è calmo e posato: non si lascia mai prendere dal panico. Quando affronta un nemico più grande di lui, lo fissa dritto negli occhi senza la minima esitazione.",
+            "brilliant-diamond": "Le piante delle sue zampe sono piene di setole che gli permettono di camminare su muri e soffitti.",
+            "shining-pearl": "Le piante delle sue zampe sono piene di setole che gli permettono di camminare su muri e soffitti.",
+            "scarlet": "Le piccole setole sulle piante dei piedi si ancorano a pareti e soffitti, permettendogli di restarvi aggrappato anche a testa in giù.",
+            "violet": "Riesce a scalare rapidamente anche pareti verticali. Rileva l’umidità attraverso la coda per prevedere il tempo dell’indomani.",
+            "legends-za": "Riesce a scalare rapidamente anche pareti verticali. Rileva l'umidità attraverso le code per prevedere il tempo dell'indomani."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Drago"
@@ -19,14 +43,14 @@
     "flat_name": "treecko",
     "generation": 3,
     "height": {
-        "treecko": "0.5 m"
+        "treecko": "0,5 m"
     },
     "id": 252,
     "name": "Treecko",
-    "name_origin": "Treecko è una combinazione di tree, albero e gecko, geco. Kimori è una combinazione di 木 ki, albero e 森 mori, foresta o ヤモリ yamori, geco. ",
-    "origin": "Treecko, come dice il nome della specie, è basato su un geco, probabilmente sul geco coda a foglia, che ha la coda simile a una foglia, proprio come Treecko. ",
+    "name_origin": "Treecko è una combinazione di tree, albero, e gecko, geco. Kimori, il suo nome giapponese, potrebbe essere una combinazione di 木 ki, albero, e 森 mori, foresta, o ヤモリ yamori, geco. ",
+    "origin": "Treecko sembra prendere ispirazione da un geco. Presenta caratteristiche comuni con il geco coda a foglia, un tipo di lucertola che presenta appendici simili a foglie con cui si mimetizza. La pelle verde e il ventre rosso possono ricondurlo ad un maschio di anolide della Carolina, i cui sacchi giugulare che presentano un colore rosaceo vengono gonfiati per difendersi dai rivali. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Treecko",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Legnogeco",
     "sprites": {
         "treecko": {
@@ -54,6 +78,6 @@
         ]
     },
     "weight": {
-        "treecko": "5.0 kg"
+        "treecko": "5,0 kg"
     }
 }

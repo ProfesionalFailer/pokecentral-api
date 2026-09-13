@@ -7,24 +7,14 @@
         }
     },
     "curiosities": [
-        "Pokémon",
-        "Pokémon di nona generazione",
-        "Pokémon di tipo Folletto",
-        "Pokémon di tipo Acciaio",
-        "Pokémon di doppio tipo",
-        "Pokémon nel gruppo di esperienza Medio-Lento",
-        "Pokémon di colore Rosa",
-        "Pokémon dalla sagoma n. 12",
-        "Pokémon esclusivamente femmine",
-        "Pokémon di Gruppo Uova Magico",
-        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
-        "Pokémon con statistiche base totali di 380"
+        "Tinkatuff di Dot"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/tinkatuff.mp3",
     "dex_entries": {
         "tinkatuff": {
             "scarlet": "Assalta i branchi capeggiati da Bisharp per procurarsi il metallo necessario a realizzare il suo martello grande e resistente.",
-            "violet": "Nidifica in montagne di ferraglia e testa la forza del proprio martello battendolo violentemente contro quello dei propri simili."
+            "violet": "Nidifica in montagne di ferraglia e testa la forza del proprio martello battendolo violentemente contro quello dei propri simili.",
+            "legends-za": "Capita che si spinga fino a luoghi abitati per rovistare in fabbriche e magazzini alla ricerca di metallo da raccogliere."
         }
     },
     "egg_groups": [
@@ -33,19 +23,19 @@
     "flat_name": "tinkatuff",
     "generation": 9,
     "height": {
-        "tinkatuff": "0.7 m"
+        "tinkatuff": "0,7 m"
     },
     "id": 958,
     "name": "Tinkatuff",
-    "name_origin": "Tinkatuff potrebbe essere una combinazione di tinker  e tuff . ",
+    "name_origin": "Tinkatuff potrebbe essere una combinazione di tinker, armeggiare, e tuff, un altro modo di scrivere tough, duro. ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Tinkatuff",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Martello",
     "sprites": {
-        "tinkatuff": {
-            "default": "https://media.pokemoncentral.it/wiki/5/5b/Homef0958.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/0/01/Homemsh0958.png"
+        "file:homefsh0958png": {
+            "default": "",
+            "shiny": ""
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/a/aa/Artwork0958_SV.png"
     },
@@ -69,6 +59,6 @@
         ]
     },
     "weight": {
-        "tinkatuff": "59.1 kg"
+        "tinkatuff": "59,1 kg"
     }
 }

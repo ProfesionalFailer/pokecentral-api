@@ -9,28 +9,63 @@
     "curiosities": [
         "Sudowoodo è stato creato da Ken Sugimori per fungere da ostacolo nell'overworld.",
         "In seconda generazione, si poteva trovare un solo Sudowoodo . Analogamente, in terza generazione è ottenibile dopo averlo innaffiato con l'acqua di un Vaso Wailmer. Invece, in quarta generazione si possono ottenere più Sudowoodo evolvendo Bonsly o catturandoli nell'erba alta.",
-        "L'abitudine di Sudowoodo di camuffarsi da albero è stata occasionalmente evidenziata nei giochi.\n\tNella serie Pokémon Mystery Dungeon, i Sudowoodo stanno fermi nei dungeon in modo simile ai Sudowoodo di Johto.\n\tIn Pokémon X e Y, un Sudowoodo può essere incontrato nei Gruppi di Pokémon insieme a quattro Trevenant.\n\tA partire dalla sesta generazione, Sudowoodo rimane immobile durante la sua animazione idle.\n\tBrassius di Paldea usa un Sudowoodo di teratipo Erba.",
+        "L'abitudine di Sudowoodo di camuffarsi da albero è stata occasionalmente evidenziata nei giochi:\n\tNella serie Pokémon Mystery Dungeon, i Sudowoodo stanno fermi nei dungeon in modo simile ai Sudowoodo di Johto.\n\tIn Pokémon X e Y, un Sudowoodo può essere incontrato nei Gruppi di Pokémon insieme a quattro Trevenant.\n\tA partire dalla sesta generazione, Sudowoodo rimane immobile durante la sua animazione idle.\n\tBrassius, Capopalestra di tipo Erba di Paldea, usa un Sudowoodo di teratipo Erba.",
         "Nella serie Pokémon Mystery Dungeon, i Sudowoodo stanno fermi nei dungeon in modo simile ai Sudowoodo di Johto.",
         "In Pokémon X e Y, un Sudowoodo può essere incontrato nei Gruppi di Pokémon insieme a quattro Trevenant.",
         "A partire dalla sesta generazione, Sudowoodo rimane immobile durante la sua animazione idle.",
-        "Brassius di Paldea usa un Sudowoodo di teratipo Erba."
+        "Brassius, Capopalestra di tipo Erba di Paldea, usa un Sudowoodo di teratipo Erba."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/sudowoodo.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "sudowoodo": {
+            "gold": "Sebbene finga di essere un albero, la composizione sembra più simile a quella di una roccia.",
+            "silver": "Si traveste da albero per evitare gli attacchi. Odiando l'acqua, scompare appena inizia a piovere.",
+            "crystal": "Se si nota un albero ondeggiare anche se non c'è vento, quello non è un albero, ma SUDOWOODO.",
+            "ruby": "SUDOWOODO si camuffa da albero per evitare gli attacchi nemici. Tuttavia, poiché le zampe anteriori sono sempreverdi, d'inverno il POKéMON viene spesso scambiato per una pianta artificiale.",
+            "sapphire": "SUDOWOODO si camuffa da albero per evitare gli attacchi nemici. Tuttavia, poiché le zampe anteriori sono sempreverdi, d'inverno il POKéMON viene spesso scambiato per una pianta artificiale.",
+            "emerald": "SUDOWOODO evita gli attacchi nemici camuffandosi da albero. In inverno si capisce che non è una pianta dalle zampe anteriori sempreverdi.",
+            "fire-red": "Si traveste da albero per evitare gli attacchi. Odiando l'acqua, scompare appena inizia a piovere.",
+            "leaf-green": "Sebbene finga di essere un albero, la sua composizione sembra più simile a quella di una roccia.",
+            "diamond": "Ha l'aspetto di un albero, ma il suo corpo è più simile alla roccia. È debole contro l'acqua.",
+            "pearl": "Si piazza lungo i sentieri fingendosi un albero. Scompare non appena comincia a piovere.",
+            "platinum": "Evita gli attacchi nemici rimanendo immobile e camuffandosi da albero. Odia l’acqua e rifugge la pioggia.",
+            "heart-gold": "Sebbene finga di essere un albero, la composizione sembra più simile a quella di una roccia.",
+            "soul-silver": "Si traveste da albero per evitare gli attacchi. Odiando l'acqua, scompare appena inizia a piovere.",
+            "black": "Evita gli attacchi nemici rimanendo immobile e camuffandosi da albero. Odia l'acqua e rifugge la pioggia.",
+            "white": "Evita gli attacchi nemici rimanendo immobile e camuffandosi da albero. Odia l'acqua e rifugge la pioggia.",
+            "black-2": "Evita gli attacchi nemici rimanendo immobile e camuffandosi da albero. Odia l'acqua e rifugge la pioggia.",
+            "white-2": "Evita gli attacchi nemici rimanendo immobile e camuffandosi da albero. Odia l'acqua e rifugge la pioggia.",
+            "x": "Sebbene finga di essere un albero, la composizione sembra più simile a quella di una roccia.",
+            "y": "Si traveste da albero per evitare gli attacchi. Odiando l'acqua, scompare appena inizia a piovere.",
+            "omega-ruby": "Sudowoodo si camuffa da albero per evitare gli attacchi nemici. Tuttavia, poiché gli arti superiori sono sempreverdi, d'inverno viene scoperto facilmente.",
+            "alpha-sapphire": "Sudowoodo si camuffa da albero per evitare gli attacchi nemici. Tuttavia, poiché gli arti superiori sono sempreverdi, d'inverno viene scoperto facilmente.",
+            "sun": "Si camuffa da albero per evitare gli attacchi nemici, ma odia l'acqua e se viene annaffiato scappa via.",
+            "moon": "È popolare soprattutto tra gli anziani. Gli appassionati apprezzano in particolare quelli con la parte verde più sviluppata.",
+            "ultra-sun": "Gli anziani lo adorano e ci sono riviste dedicate a lui. Gli appassionati danno molta importanza alla lunghezza e all'angolatura delle sue braccia.",
+            "ultra-moon": "Mantiene la stessa posizione tutto il giorno e per questo le sue braccia sono diventate robuste e flessibili.",
+            "sword": "Se si nota un albero ondeggiare anche se non c'è vento, probabilmente è un Sudowoodo. Si dice che nelle giornate piovose se ne stia nascosto.",
+            "shield": "Fa finta di essere un albero per evitare di essere attaccato. Poiché odia l'acqua, scompare appena inizia a piovere.",
+            "brilliant-diamond": "Ha l'aspetto di un albero, ma il suo corpo è più simile alla roccia o alla pietra. Non sopporta l'acqua.",
+            "shining-pearl": "Si piazza lungo le strade fingendosi un albero, ma scompare non appena comincia a piovere.",
+            "legends-arceus": "Benché si finga un albero, non inganna neppure i fanciulli. Al tatto la cute non è corteccia, ma roccia. È degna di nota la sua avversione per l'acqua.",
+            "scarlet": "Sebbene finga di essere un albero, il suo corpo ha una composizione più simile a quella di una roccia che a quella di un vegetale.",
+            "violet": "Finge di essere un albero per evitare di venire attaccato, ma odia l’acqua e quando piove fugge altrove."
+        }
+    },
     "egg_groups": [
         "Minerale"
     ],
     "flat_name": "sudowoodo",
     "generation": 2,
     "height": {
-        "sudowoodo": "1.2 m"
+        "sudowoodo": "1,2 m"
     },
     "id": 185,
     "name": "Sudowoodo",
-    "name_origin": "\"Sudowoodo\" potrebbe essere una combinazione di pseudo, falso, apparente, e wood, legno o bosco. \"Usokkie\" potrebbe essere una combinazione di 嘘 uso, falso, e 木 ki, legno o albero. Potrebbe anche derivare da 嘘つき usotsuki, bugiardo. ",
-    "origin": "Sudowoodo sembra essere basato su un piccolo albero e su un legno fossile, ovvero una pianta che si è fossilizzata nel tempo. Ciò spiegherebbe il suo tipo Roccia puro, poiché tutto il materiale organico nel legno pietrificato viene sostituito con minerali. Potrebbe anche essere basato sul concetto di mimetismo criptico. ",
+    "name_origin": "Sudowoodo potrebbe essere una combinazione di pseudo, falso, apparente, e wood, legno o bosco. Usokkie, il suo nome giapponese, potrebbe essere una combinazione di 嘘 uso, falso, e 木 ki, legno o albero. Potrebbe anche derivare da 嘘つき usotsuki, bugiardo. Brassius sembra fare un riferimento a questa origine del nome in quanto, quando teracristallizza il suo Sudowoodo, in inglese si riferisce al Pokémon come Truleewoodo  ",
+    "origin": "Sudowoodo sembra essere basato su un piccolo albero e su un legno fossile, ovvero una pianta che si è fossilizzata nel tempo. Ciò spiegherebbe il suo tipo Roccia puro, poiché tutto il materiale organico nel legno pietrificato viene sostituito con minerali. Potrebbe anche essere basato sul concetto di mimetismo criptico, come quello degli insetti nell'ordine Phasmatodea, che presentano inoltre antenne simili al corno di Sudowoodo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Sudowoodo",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Imitazione",
     "sprites": {
         "sudowoodo": {
@@ -62,6 +97,6 @@
         ]
     },
     "weight": {
-        "sudowoodo": "38.0 kg"
+        "sudowoodo": "38,0 kg"
     }
 }

@@ -15,7 +15,36 @@
         "A partire dall'ottava generazione, Ralts e la sua linea evolutiva sono gli unici Pokémon che appartengono ai Gruppi Uova Amorfo e Umanoide."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/ralts.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "ralts": {
+            "ruby": "RALTS percepisce le emozioni delle persone usando le corna poste sul capo. Raramente si fa vedere dagli esseri umani, ma se percepisce un'energia positiva provenire da qualcuno è possibile che si avvicini.",
+            "sapphire": "RALTS ha la capacità di percepire le emozioni delle persone. Se il suo ALLENATORE è di buon umore, questo influisce positivamente sul carattere di RALTS, che crescerà così allegro e gioioso.",
+            "emerald": "RALTS ha la capacità di percepire le emozioni di uomini e POKéMON grazie alle corna poste sul capo. Se avverte ostilità, corre a rifugiarsi.",
+            "fire-red": "È molto sensibile agli umori delle persone e degli altri POKéMON. Se avverte ostilità, va a nascondersi.",
+            "leaf-green": "È molto sensibile agli umori delle persone e degli altri POKéMON. Se avverte ostilità, va a nascondersi.",
+            "diamond": "Percepisce gli stati d’animo delle persone con le corna che ha sul capo. Si mostra alla gente allegra.",
+            "pearl": "Percepisce gli stati d’animo delle persone con le corna che ha sul capo. Si mostra alla gente allegra.",
+            "platinum": "Se con le corna avverte emozioni positive di persone o Pokémon, il suo corpo si scalda leggermente.",
+            "heart-gold": "Ha la capacità di percepire le emozioni delle persone grazie alle corna rosse poste sul suo capo.",
+            "soul-silver": "Ha la capacità di percepire le emozioni delle persone grazie alle corna rosse poste sul suo capo.",
+            "black": "Se con le corna avverte emozioni positive di persone o Pokémon, il suo corpo si scalda leggermente.",
+            "white": "Se con le corna avverte emozioni positive di persone o Pokémon, il suo corpo si scalda leggermente.",
+            "black-2": "Se con le corna avverte emozioni positive di persone o Pokémon, il suo corpo si scalda leggermente.",
+            "white-2": "Se con le corna avverte emozioni positive di persone o Pokémon, il suo corpo si scalda leggermente.",
+            "x": "Se con le corna avverte emozioni positive di persone o Pokémon, il suo corpo si scalda leggermente.",
+            "y": "È molto sensibile agli umori delle persone e dei Pokémon. Se avverte ostilità, va a nascondersi.",
+            "omega-ruby": "Ralts percepisce le emozioni delle persone usando le corna poste sul capo. Raramente si fa vedere dagli esseri umani, ma se percepisce un'energia positiva provenire da qualcuno è possibile che si avvicini.",
+            "alpha-sapphire": "Ralts ha la capacità di percepire le emozioni delle persone. Se il suo Allenatore è di buon umore, questo influisce positivamente sul carattere di Ralts, che crescerà così allegro e gioioso.",
+            "sword": "È molto sensibile agli umori delle persone e degli altri Pokémon. Se avverte ostilità, va a nascondersi.",
+            "shield": "Se con le sue corna rosse avverte emozioni positive di persone o Pokémon, il suo corpo si scalda leggermente.",
+            "brilliant-diamond": "Percepisce gli stati d'animo delle persone con le corna che ha sul capo. Si mostra alla gente allegra.",
+            "shining-pearl": "Percepisce gli stati d'animo delle persone con le corna che ha sul capo. Si mostra alla gente allegra.",
+            "legends-arceus": "Sembra prediligere, senza distinzione d'età e di sesso, le personalità radiose anziché quelle inclini alla malinconia. Creatura da approfondire.",
+            "scarlet": "Ha la capacità di percepire le emozioni delle persone grazie alle corna rosse che ha sul capo.",
+            "violet": "È molto sensibile all’umore delle persone e degli altri Pokémon. Non appena avverte ostilità, si nasconde subito nell’ombra.",
+            "legends-za": "Se con le sue corna rosse avverte emozioni positive di persone o Pokémon, il suo corpo si scalda leggermente."
+        }
+    },
     "egg_groups": [
         "Amorfo",
         "Umanoide",
@@ -24,14 +53,14 @@
     "flat_name": "ralts",
     "generation": 3,
     "height": {
-        "ralts": "0.40 m"
+        "ralts": "0,40 m"
     },
     "id": 280,
     "name": "Ralts",
-    "name_origin": "\"Ralts\" può essere un anagramma parziale di \"astral\", astrale, in relazione ai suoi poteri psichici. Può anche includere la parola \"waltz\", valzer, in relazione alle sue forme evolute che ricordano dei ballerini. ",
+    "name_origin": "Ralts potrebbe essere un anagramma parziale di astral, astrale, in relazione ai suoi poteri psichici. Può anche includere la parola waltz, valzer, in relazione alle sue forme evolute che ricordano dei ballerini. ",
     "origin": "Ralts sembra essere basato su un bambino piccolo e sul concetto di empatia. È comune in varie forme di media che personaggi timidi e sensibili siano raffigurati con i capelli che oscurano gli occhi, il che potrebbe spiegare l'acconciatura a caschetto di Ralts. La forma delle sue gambe ricorda un lungo vestito e le corna rosse sulla sua testa ricordano le due metà di un cuore, il che potrebbe riguardare la sua capacità di percepire le emozioni. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Ralts",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Sensazione",
     "sprites": {
         "ralts": {
@@ -60,6 +89,6 @@
         ]
     },
     "weight": {
-        "ralts": "6.6 kg"
+        "ralts": "6,6 kg"
     }
 }

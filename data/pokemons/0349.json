@@ -7,10 +7,17 @@
         }
     },
     "curiosities": [
-        "La probabilità di incontrare una mattonella d'acqua con Feebas nel Monte Corona è 1 su 132, con 4 possibili zone di pesca su 528 mattonelle d'acqua.\n\tLa probabilità di incontrare una mattonella d'acqua con Feebas nel Percorso 119 è 1 su 72,6666... , con 6 possibili zone di pesca su 436 mattonelle d'acqua.\n\tCiò rende Feebas molto più raro rispetto alla sua controparte Magikarp.",
-        "La probabilità di incontrare una mattonella d'acqua con Feebas nel Percorso 119 è 1 su 72,6666... , con 6 possibili zone di pesca su 436 mattonelle d'acqua.\n\tCiò rende Feebas molto più raro rispetto alla sua controparte Magikarp.",
-        "Ciò rende Feebas molto più raro rispetto alla sua controparte Magikarp.",
-        "Nonostante in Pokémon Rubino Omega e Zaffiro Alpha siano state reintrodotte le Gare, non può più evolversi a seconda del suo livello di Bellezza."
+        "Feebas condivide molte caratteristiche con Magikarp:\n\tLe mosse che impara per livello sono le stesse di Magikarp, agli stessi livelli;\n\tFeebas può però imparare più mosse tramite MT e MN, avere Mosse Uovo e imparare mosse dagli Insegnamosse.\n\tCondividono la stessa specie: Pokémon Pesce;\n\tHanno statistiche quasi uguali: Feebas ha più Attacco e Difesa Speciale, mentre Magikarp ha più Attacco Speciale e Difesa. Entrambe le statistiche di attacco e difesa sono scambiate tra i due.\n\tCondividono il più alto aumento di statistiche totali con l'evoluzione, guadagnandone 340 ;\n\tEntrambi cambiano drasticamente con l'evoluzione, diventando più simili a draghi serpentiformi.",
+        "Le mosse che impara per livello sono le stesse di Magikarp, agli stessi livelli;\n\tFeebas può però imparare più mosse tramite MT e MN, avere Mosse Uovo e imparare mosse dagli Insegnamosse.",
+        "Feebas può però imparare più mosse tramite MT e MN, avere Mosse Uovo e imparare mosse dagli Insegnamosse.",
+        "Condividono la stessa specie: Pokémon Pesce;",
+        "Hanno statistiche quasi uguali: Feebas ha più Attacco e Difesa Speciale, mentre Magikarp ha più Attacco Speciale e Difesa. Entrambe le statistiche di attacco e difesa sono scambiate tra i due.",
+        "Condividono il più alto aumento di statistiche totali con l'evoluzione, guadagnandone 340 ;",
+        "Entrambi cambiano drasticamente con l'evoluzione, diventando più simili a draghi serpentiformi.",
+        "Feebas è l'unico Pokémon ad evolversi all'aumento di una Virtù.",
+        "La probabilità di incontrare una mattonella d'acqua con Feebas nel Percorso 119 è 1 su 72,6... , con 6 possibili zone di pesca su 436 mattonelle d'acqua. Nel Monte Corona la probabilità è 1 su 132, con 4 possibili zone di pesca su 528 mattonelle d'acqua. Se si pesca su ogni mattonella possibile, la possibilità di non incontrare Feebas è 1/64 sul Percorso 119 e 1/32 nel Monte Corona.",
+        "Feebas ha la prestazione più bassa di ogni Pokémon, potendo ottenere solo 11 stelle.",
+        "Feebas condivide la statistica di Attacco Speciale più bassa con Shuckle, Bonsly e Sandshrew di Alola."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/feebas.mp3",
     "dex_entries": {
@@ -18,13 +25,13 @@
             "ruby": "Le pinne di FEEBAS sono logore e sbrindellate fin dalla nascita. A causa di questo suo aspetto disordinato, il POKéMON è solitamente ignorato. È in grado di vivere in mare e nei fiumi.",
             "sapphire": "Sebbene abbia il corpo logoro, FEEBAS è molto tenace e resistente, potendo così vivere in ogni luogo. Tuttavia, questo POKéMON è anche lento e poco sveglio, il che lo rende una preda facile.",
             "emerald": "FEEBAS vive in laghi infestati da alghe. A causa del suo aspetto estremamente disordinato, solo pochi ALLENATORI allevano questo POKéMON.",
-            "firered": "L'aspetto disordinato lo rende ridicolo e di scarso interesse scientifico. Vive in stagni pieni d'alghe.",
-            "leafgreen": "L'aspetto disordinato lo rende ridicolo e di scarso interesse scientifico. Vive in stagni pieni d'alghe.",
+            "fire-red": "L'aspetto disordinato lo rende ridicolo e di scarso interesse scientifico. Vive in stagni pieni d'alghe.",
+            "leaf-green": "L'aspetto disordinato lo rende ridicolo e di scarso interesse scientifico. Vive in stagni pieni d'alghe.",
             "diamond": "È noto per il suo aspetto disordinato. È molto comune e tende a raggrupparsi nei soliti posti.",
             "pearl": "Si nutre di qualsiasi cosa, pertanto vive anche in fiumi e laghi inquinati. È un Pokémon di scarso interesse.",
             "platinum": "È un Pokémon brutto e sciatto. Tuttavia, è molto resistente e sopravvive in pochissima acqua.",
-            "heartgold": "Il Pokémon più sciatto. Vive in grandi gruppi nei letti dei fiumi ricchi di piante acquatiche.",
-            "soulsilver": "Il Pokémon più sciatto. Vive in grandi gruppi nei letti dei fiumi ricchi di piante acquatiche.",
+            "heart-gold": "Il Pokémon più sciatto. Vive in grandi gruppi nei letti dei fiumi ricchi di piante acquatiche.",
+            "soul-silver": "Il Pokémon più sciatto. Vive in grandi gruppi nei letti dei fiumi ricchi di piante acquatiche.",
             "black": "È un Pokémon brutto e sciatto. Tuttavia, è molto resistente e sopravvive in pochissima acqua.",
             "white": "È un Pokémon brutto e sciatto. Tuttavia, è molto resistente e sopravvive in pochissima acqua.",
             "black-2": "È un Pokémon brutto e sciatto. Tuttavia, è molto resistente e sopravvive in pochissima acqua.",
@@ -40,7 +47,10 @@
             "sword": "È un Pokémon poco popolare per via del suo misero aspetto. Tuttavia, la sua prodigiosa vitalità ha attirato l'interesse dei ricercatori.",
             "shield": "È un Pokémon dall'aspetto brutto e misero. Tuttavia, è molto resistente e può sopravvivere anche in pochissima acqua.",
             "brilliant-diamond": "È noto per il suo misero aspetto. Ce ne sono molti in giro, ma tendono a raggrupparsi tutti in un posto solo.",
-            "shining-pearl": "Si nutre di qualsiasi cosa, pertanto vive anche in fiumi e laghi inquinati. È un Pokémon a cui nessuno presta attenzione."
+            "shining-pearl": "Si nutre di qualsiasi cosa, pertanto vive anche in fiumi e laghi inquinati. È un Pokémon a cui nessuno presta attenzione.",
+            "scarlet": "Non è molto popolare per via del suo misero aspetto, ma è molto resistente e in grado di vivere anche in acque inquinate.",
+            "violet": "Il Pokémon dall'aspetto più misero. Vive in grandi gruppi nei letti dei fiumi ricchi di piante acquatiche.",
+            "legends-za": "Sono noti per il loro misero aspetto. Popolano il loro habitat in grande numero, ma tendono a raggrupparsi tutti in un solo punto."
         }
     },
     "egg_groups": [
@@ -50,14 +60,14 @@
     "flat_name": "feebas",
     "generation": 3,
     "height": {
-        "feebas": "0.60 m"
+        "feebas": "0,60 m"
     },
     "id": 349,
     "name": "Feebas",
-    "name_origin": "Il suo nome è l'unione delle parole inglesi feeble  e bass . ",
-    "origin": "Basato su un pesce persico. ",
+    "name_origin": "Il nome Feebas potrebbe derivare da feeble  e bass . ヒンバス Hinbass potrebbe derivare da 貧 hin  e l'inglese bass . ",
+    "origin": "Feebas sembra essere basato su un persico trota. Ricorda anche uno Sternoptychinae. La sua drastica trasformazione in Milotic e la bellezza associata a quest'ultimo possono ricordare la favola de Il brutto anatroccolo, dove un anatroccolo viene emarginato finché non cresce in uno splendido cigno. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Feebas",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Pesce",
     "sprites": {
         "feebas": {
@@ -85,6 +95,6 @@
         ]
     },
     "weight": {
-        "feebas": "7.4 kg"
+        "feebas": "7,4 kg"
     }
 }

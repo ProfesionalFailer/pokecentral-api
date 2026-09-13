@@ -6,9 +6,7 @@
         }
     },
     "curiosities": [
-        "Torracat di Ash",
-        "Torracat di Professor Kukui",
-        "En"
+        "Nella lotta ad Ohana in Pokémon Sole e Luna e Ultrasole e Ultraluna, se il giocatore avrà scelto Popplio, Hau manderà in campo un Torracat di livello 16 anche se Litten si evolve solo al livello 17."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/torracat.mp3",
     "dex_entries": {
@@ -18,7 +16,9 @@
             "ultra-sun": "Quando si affeziona, Il suo Allenatore deve stare attento ai suoi slanci: data la sua forza e i suoi artigli affilati, rischia di ritrovarsi pieno di graffi.",
             "ultra-moon": "Quando la sua criniera è ritta, vuol dire che è in buona salute. Se sta male, invece, la lascia cadere all'indietro.",
             "sword": "Durante la lotta, la sacca alla base del collo aumenta la produzione di energia termica ed emette un tintinnio simile a un sonaglio.",
-            "shield": "Quando affronta un nemico molto forte il suo spirito combattivo e l'energia termica prodotta dal sonaglio infuocato aumentano."
+            "shield": "Quando affronta un nemico molto forte il suo spirito combattivo e l'energia termica prodotta dal sonaglio infuocato aumentano.",
+            "scarlet": "",
+            "violet": "Quando si affeziona, si lascia coccolare da chi lo allena, ma essendo forte e dotato di artigli affilati, c'è il rischio di ritrovarsi pieni di graffi."
         }
     },
     "egg_groups": [
@@ -27,14 +27,14 @@
     "flat_name": "torracat",
     "generation": 7,
     "height": {
-        "torracat": "0.7 m"
+        "torracat": "0,7 m"
     },
     "id": 726,
     "name": "Torracat",
     "name_origin": "Torracat potrebbe essere una combinazione di torrid, molto caldo e secco, e cat, gatto. Potrebbe anche derivare da 虎 tora, il giapponese di tigre. Nyahīto potrebbe essere una combinazione di ニャー nyā, il miagolio di un gatto, 火 hi, fuoco, ed heat, calore. ",
     "origin": "Torracat è ispirato ad un Gatto soriano e ad un cucciolo di tigre. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Torracat",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Pirofelino",
     "sprites": {
         "torracat": {
@@ -62,6 +62,6 @@
         ]
     },
     "weight": {
-        "torracat": "25.0 kg"
+        "torracat": "25,0 kg"
     }
 }

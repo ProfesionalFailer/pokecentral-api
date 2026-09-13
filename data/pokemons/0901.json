@@ -28,20 +28,24 @@
     "flat_name": "ursaluna",
     "generation": 8,
     "height": {
-        "normale": "2.4 m",
-        "luna-cremisi": "2.7 m"
+        "normale": "2,4 m",
+        "luna-cremisi": "2,7 m"
     },
     "id": 901,
     "name": "Ursaluna",
     "name_origin": "Ursaluna potrebbe essere una combinazione di ursa, latino per orso, e luna. Gachiguma potrebbe essere una combinazione di 月輪 gachirin, luna piena, e 熊 kuma, orso. ",
     "origin": "Ursaluna potrebbe essere basato su un orso bruno dell'Amur, una sottospecie di orso bruno presente ad Hokkaidō . La sua forma simile ad una montagna e il tipo Terra potrebbero essere un riferimento a Kim-un-kamuy, il dio Ainu  degli orsi e delle montagne. In alternativa, questi aspetti potrebbero riferirsi all'abitudine degli orso bruno dell'Amur di vivere in tane scavate nei fianchi delle colline. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Ursaluna",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Torba",
     "sprites": {
         "ursaluna": {
             "default": "https://media.pokemoncentral.it/wiki/b/bf/Homem0901.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0901.png"
+        },
+        "luna-cremisi": {
+            "default": "https://media.pokemoncentral.it/wiki/b/b7/Homem0901L.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homemsh0901L.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/3/3d/Artwork0901_LPA.png"
     },
@@ -69,12 +73,12 @@
     },
     "types": {
         "ursaluna": [
-            "Terra",
-            "Normale"
+            "Normale",
+            "Terra"
         ]
     },
     "weight": {
-        "normale": "290.0 kg",
-        "luna-cremisi": "333.0 kg"
+        "normale": "290,0 kg",
+        "luna-cremisi": "333,0 kg"
     }
 }

@@ -13,21 +13,53 @@
         "Nella serie animata Sole e Luna viene mostrato che i cuccioli di Miltank sono senza mammelle e corna."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/miltank.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "miltank": {
+            "gold": "Il suo latte è ricco di sostanze nutrienti, che ne fanno il miglior rimedio per chi è stanco o ammalato.",
+            "silver": "Se ha appena avuto un piccolo, il latte che produce è molto più nutriente del normale.",
+            "crystal": "Mungere MILTANK non è facile: occorre saper tirare su e giù ritmicamente le sue mammelle.",
+            "ruby": "MILTANK produce venti litri di latte al giorno. Il latte è apprezzato da adulti e bambini perché leggermente dolce. Chi non può bere latte, lo usa per farne uno yogurt squisito.",
+            "sapphire": "MILTANK produce venti litri di latte al giorno. Il latte è apprezzato da adulti e bambini perché leggermente dolce. Chi non può bere latte, lo usa per farne uno yogurt squisito.",
+            "emerald": "Ogni giorno, MILTANK produce venti litri di un latte apprezzato da adulti e bambini perché leggermente dolce. Chi non può bere latte, lo usa per fare uno yogurt squisito.",
+            "fire-red": "Se ha appena avuto un piccolo, il latte che produce è molto più nutriente del normale.",
+            "leaf-green": "Il suo latte è ricco di sostanze nutritive, che ne fanno il miglior rimedio per chi è stanco o ammalato.",
+            "diamond": "Si dice che se un bambino beve il latte di MILTANK crescerà bene e da adulto sarà sano e buono.",
+            "pearl": "Si dice che se un bambino beve il latte di MILTANK crescerà bene e da adulto sarà sano e buono.",
+            "platinum": "Si dice che se un bambino beve il latte di MILTANK crescerà bene e da adulto sarà sano e buono.",
+            "heart-gold": "Il suo latte è ricco di sostanze nutrienti, che ne fanno il miglior rimedio per chi è stanco o malato.",
+            "soul-silver": "Se ha appena avuto un piccolo, il latte che produce è molto più nutriente del normale.",
+            "black": "Si dice che se un bambino beve il latte di Miltank crescerà bene e da adulto sarà sano e buono.",
+            "white": "Si dice che se un bambino beve il latte di Miltank crescerà bene e da adulto sarà sano e buono.",
+            "black-2": "Si dice che se un bambino beve il latte di Miltank crescerà bene e da adulto sarà sano e buono.",
+            "white-2": "Si dice che se un bambino beve il latte di Miltank crescerà bene e da adulto sarà sano e buono.",
+            "x": "Se ha appena avuto un piccolo, il latte che produce è molto più nutriente del normale.",
+            "y": "Il suo latte è ricco di sostanze nutrienti, che ne fanno il miglior rimedio per chi è stanco o malato.",
+            "omega-ruby": "Miltank produce venti litri di latte al giorno. Il latte è apprezzato da adulti e bambini perché leggermente dolce. Chi non può bere latte, lo usa per farne uno yogurt squisito.",
+            "alpha-sapphire": "Miltank produce venti litri di latte al giorno. Il latte è apprezzato da adulti e bambini perché leggermente dolce. Chi non può bere latte, lo usa per farne uno yogurt squisito.",
+            "sun": "Il suo latte è ricco di sostanze nutritive e molto calorico. Se se ne beve troppo, si finisce per avere quello che si definisce \"girovita Miltank\".",
+            "moon": "Viene allevato principalmente per il latte, ma poiché è piuttosto forte e robusto, è efficace anche nelle lotte.",
+            "ultra-sun": "Produce 20 litri di latte al giorno. Più alta è la qualità del pascolo, più gustoso sarà il latte.",
+            "ultra-moon": "Il suo latte è buono e ricco di sostanze nutritive, ma se se ne beve troppo, si rischia il mal di pancia.",
+            "sword": "Il suo latte altamente nutriente contribuisce al sostentamento di persone e Pokémon da tempo immemore.",
+            "shield": "Se non viene munto ogni giorno, la sua salute ne risente. Il sapore del suo latte può variare in base alla stagione.",
+            "brilliant-diamond": "Si dice che i bambini cresciuti bevendo il latte di Miltank diventino adulti sani e forti.",
+            "shining-pearl": "Si dice che i bambini cresciuti bevendo il latte di Miltank diventino adulti sani e forti."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "miltank",
     "generation": 2,
     "height": {
-        "miltank": "1.2 m"
+        "miltank": "1,2 m"
     },
     "id": 241,
     "name": "Miltank",
-    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi milk  e tank . ",
-    "origin": "È basato su una femmina di bue domestico. ",
+    "name_origin": "Miltank potrebbe derivare dall'unione delle parole inglesi milk  e tank  tipicamente dotata di alta difesa e salute a scapito dell'attacco). ",
+    "origin": "Miltank sembra essere basata su una mucca, con tratti simili alle razze Jersey e Frisona. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Miltank",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Bovino",
     "sprites": {
         "miltank": {
@@ -55,6 +87,6 @@
         ]
     },
     "weight": {
-        "miltank": "75.5 kg"
+        "miltank": "75,5 kg"
     }
 }

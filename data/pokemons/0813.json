@@ -16,7 +16,9 @@
     "dex_entries": {
         "scorbunny": {
             "sword": "Quando corre, la sua temperatura corporea sale pervadendolo di un'energia infuocata che gli permette di scatenare la sua vera potenza.",
-            "shield": "Quando si prepara a lottare, la punta del naso e i cuscinetti sotto le zampe irradiano calore."
+            "shield": "Quando si prepara a lottare, la punta del naso e i cuscinetti sotto le zampe irradiano calore.",
+            "scarlet": "Quando la temperatura corporea sale, sprigiona tutta la sua potenza. Perciò fa sempre esercizi di riscaldamento.",
+            "violet": "L'energia Fuoco si concentra nei cuscinetti sotto i suoi piedi, rendendoli roventi e consentendogli di infliggere ingenti danni agli avversari."
         }
     },
     "egg_groups": [
@@ -26,14 +28,14 @@
     "flat_name": "scorbunny",
     "generation": 8,
     "height": {
-        "scorbunny": "0.3 m"
+        "scorbunny": "0,3 m"
     },
     "id": 813,
     "name": "Scorbunny",
     "name_origin": "Scorbunny potrebbe essere una combinazione di scorch, bruciacchiare, e bunny, coniglio. Hibanny potrebbe essere una combinazione di 火 hi, fuoco, 火花 hibana, scintilla, e bunny, coniglio. ",
     "origin": "Scorbunny potrebbe essere basato su un coniglio. Potrebbe essere ispirato anche alla temperatura corporea, molto alta, dei conigli che si aggira intorno ai 38,5 e i 40 °C. Il fatto che Scorbunny sia di tipo Fuoco potrebbe essere un riferimento al racconto 316 dei Jātaka, dove un coniglio non viene bruciato dalle fiamme. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Scorbunny",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Coniglio",
     "sprites": {
         "scorbunny": {
@@ -61,6 +63,6 @@
         ]
     },
     "weight": {
-        "scorbunny": "4.5 kg"
+        "scorbunny": "4,5 kg"
     }
 }

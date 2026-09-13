@@ -7,9 +7,9 @@
         }
     },
     "curiosities": [
-        "La linea evolutiva di Lotad presenta alcune peculiarità:\n\tSono gli unici Pokémon che fanno parte sia del Gruppo Uova Acqua 1 che del Gruppo Uova Erba.\n\tSono gli unici Pokémon di tipo Acqua nel Gruppo Uova Erba.\n\tSono gli unici Pokémon che possono avere Copripioggia come abilità senza che sia speciale.",
+        "La linea evolutiva di Lotad presenta alcune peculiarità:\n\tSono gli unici Pokémon che fanno parte sia del Gruppo Uova Acqua 1 che del Gruppo Uova Erba.\n\tSono gli unici Pokémon di tipo Acqua nel Gruppo Uova Erba, e gli unici Pokémon di tipo Erba nel gruppo Acqua 1.\n\tSono gli unici Pokémon che possono avere Copripioggia come abilità senza che sia speciale.",
         "Sono gli unici Pokémon che fanno parte sia del Gruppo Uova Acqua 1 che del Gruppo Uova Erba.",
-        "Sono gli unici Pokémon di tipo Acqua nel Gruppo Uova Erba.",
+        "Sono gli unici Pokémon di tipo Acqua nel Gruppo Uova Erba, e gli unici Pokémon di tipo Erba nel gruppo Acqua 1.",
         "Sono gli unici Pokémon che possono avere Copripioggia come abilità senza che sia speciale.",
         "Lotad può essere visto come la controparte di Seedot:\n\tEntrambi sono Pokémon di terza generazione di tipo Erba; Lotad è esclusivo di Pokémon Zaffiro e Seedot è esclusivo di Pokémon Rubino ed entrambi possono essere trovati nello stesso luogo nelle rispettive versioni.\n\tEntrambi possono essere trovati in Pokémon Diamante, Perla e Platino utilizzando la modalità dual-slot, con Lotad che richiede Pokémon Zaffiro e Seedot che richiede Pokémon Rubino.\n\tEntrambi fanno parte di una linea evolutiva a tre stadi e si evolvono prima al livello 14 e poi con una Pietra evolutiva.\n\tEntrambi hanno un totale delle statistiche base di 220.\n\tEntrambe le famiglie evolutive possono possedere un'abilità che raddoppia la Velocità a seconda delle condizioni atmosferiche, ovvero Nuotovelox e Clorofilla.\n\tEntrambi hanno nomi giapponesi, francesi e tedeschi che terminano con gli stessi suoni, ボー -boh, -piot e -urzel, rispettivamente.",
         "Entrambi sono Pokémon di terza generazione di tipo Erba; Lotad è esclusivo di Pokémon Zaffiro e Seedot è esclusivo di Pokémon Rubino ed entrambi possono essere trovati nello stesso luogo nelle rispettive versioni.",
@@ -21,7 +21,34 @@
         "Lotad è alla pari con Sunkern e Bramblin per avere la Difesa di base più bassa tra tutti i Pokémon di tipo Erba."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/lotad.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "lotad": {
+            "ruby": "LOTAD vive in stagni e laghi, galleggiando a pelo d'acqua. S'indebolisce se muoiono le larghe foglie in superficie. In rare occasioni si avventura sulla terraferma in cerca di acqua pulita.",
+            "sapphire": "Si dice che prima LOTAD vivesse sulla terraferma. Tuttavia, si dice che sia tornato all'acqua perché le foglie che ha sulla testa erano diventate troppo grandi e pesanti. Ora vive galleggiando a pelo d'acqua.",
+            "emerald": "LOTAD vive in stagni di acqua pulita. Trasporta altri piccoli POKéMON da una sponda all'altra facendoli accomodare sulla foglia che ha in testa.",
+            "fire-red": "Vaga alla ricerca di acqua pulita. Se non beve per parecchio tempo, la foglia che ha sul capo appassisce.",
+            "leaf-green": "Vaga alla ricerca di acqua pulita. Se non beve per parecchio tempo, la foglia che ha sul capo appassisce.",
+            "diamond": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "pearl": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "platinum": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "heart-gold": "Pare che viva a galla in acqua a causa della foglia che ha in testa, diventata troppo grande e pesante.",
+            "soul-silver": "Pare che viva a galla in acqua a causa della foglia che ha in testa, diventata troppo grande e pesante.",
+            "black": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "white": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "black-2": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "white-2": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "x": "Sembra una pianta acquatica e viene usato come traghetto dai Pokémon che non sanno nuotare.",
+            "y": "Vaga alla ricerca di acqua pulita. Se non beve per parecchio tempo, la foglia che ha sul capo appassisce.",
+            "omega-ruby": "Lotad vive in stagni e laghi, galleggiando a pelo dell'acqua. S'indebolisce se muoiono le foglie larghe in superficie. In rare occasioni si avventura sulla terraferma in cerca di acqua pulita.",
+            "alpha-sapphire": "Si dice che prima Lotad vivesse sulla terraferma. Tuttavia,si dice che sia tornato all'acqua perché le foglie che ha sulla testa erano diventate troppo grandi e pesanti. Ora vive galleggiando a pelo d'acqua.",
+            "sword": "Vaga alla ricerca di acqua pulita. Se non beve per parecchio tempo, la foglia che ha sul capo appassisce.",
+            "shield": "La foglia che ha in testa, diventata troppo grande e pesante, lo ha spinto a vivere galleggiando a pelo d'acqua.",
+            "brilliant-diamond": "Assomiglia a una pianta acquatica. I Pokémon che non sanno nuotare lo usano per farsi traghettare.",
+            "shining-pearl": "Assomiglia a una pianta acquatica. I Pokémon che non sanno nuotare lo usano per farsi traghettare.",
+            "scarlet": "La foglia che ha in testa possiede la proprietà di repellere lo sporco, perciò resta pulita anche se ci salgono dei Pokémon tutti infangati.",
+            "violet": "Si concentrano nei laghi dall’acqua pulita, arrivando a volte a ricoprirne l’intera superficie con le loro foglie."
+        }
+    },
     "egg_groups": [
         "Acqua 1",
         "Erba"
@@ -29,14 +56,14 @@
     "flat_name": "lotad",
     "generation": 3,
     "height": {
-        "lotad": "0.50 m"
+        "lotad": "0,50 m"
     },
     "id": 270,
     "name": "Lotad",
-    "name_origin": "Il nome di Lotad è una combinazione di lotus, loto, e tadpole, girino, o lily pad, ninfea. ",
-    "origin": "Lotad sembra essere un esempio di ninfea. ",
+    "name_origin": "Lotad potrebbe derivare da lotus, loto, lilypad, ninfea, e tadpole, girino, o tad, una piccola quantità. Hassboh, il suo nome giapponese, potrebbe derivare da 蓮 hasu, loto, e 赤ん坊 akanbō, infante, o 帽子 bōshi, cappello. ",
+    "origin": "Lotad sembra essere basato su una ninfea ed un kappa, uno Yōkai con un piatto sulla testa e un becco simile a quello di una tartaruga. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Lotad",
-    "shape": "insettoide",
+    "shape": "None",
     "specie": "Pokémon Alga",
     "sprites": {
         "lotad": {
@@ -60,11 +87,11 @@
     },
     "types": {
         "lotad": [
-            "Erba",
-            "Acqua"
+            "Acqua",
+            "Erba"
         ]
     },
     "weight": {
-        "lotad": "2.6 kg"
+        "lotad": "2,6 kg"
     }
 }

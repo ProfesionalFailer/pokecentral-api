@@ -7,12 +7,11 @@
         }
     },
     "curiosities": [
-        "Prima della settima generazione Magnemite, Magneton e Magnezone avevano una combinazione di tipi unica.\n\tQuesta combinazione li rende i Pokémon con il maggior numero di resistenze: ben 12 su 18 , considerando anche l'immunità al Veleno.",
-        "Questa combinazione li rende i Pokémon con il maggior numero di resistenze: ben 12 su 18 , considerando anche l'immunità al Veleno.",
-        "In Pokémon Diamante e Perla, i poli delle calamite di Magnezone sono grigi, mentre in Pokémon Platino e in Pokémon Oro HeartGold e Argento SoulSilver sono di colore blu e rosso, che corrispondono rispettivamente al polo negativo e a quello positivo.\n\tIn Pokémon Nero e Bianco, visto che è stato recuperato lo sprite di Diamante e Perla, i poli sono tornati grigi.",
-        "In Pokémon Nero e Bianco, visto che è stato recuperato lo sprite di Diamante e Perla, i poli sono tornati grigi.",
-        "Poiché non c'è nessun posto soggetto a forte elettromagnetismo nelle versioni Pokémon Oro HeartGold e Argento SoulSilver, in questi giochi è impossibile far evolvere Magneton in Magnezone. Lo stesso vale per Probopass, Leafeon e Glaceon. Per ottenerli è necessario farli scambiare tutti da Pokémon Diamante, Perla e Platino.",
-        "Nonostante molte caratteristiche che dimostrano che può fluttuare in aria, Magnezone non ha l'Abilità Levitazione, quindi può subire le mosse di tipo Terra. Tuttavia, Magnezone può imparare Magnetascesa, che simula Levitazione per cinque turni."
+        "I colori dei magneti di Magnezone possono apparire e sparire a volontà, come visto nei giochi 3D.",
+        "Poiché non è presente nessun campo magnetico speciale in Pokémon Oro HeartGold e Argento SoulSilver, in questi giochi è impossibile far evolvere Magneton in Magnezone. Lo stesso vale per Probopass, Leafeon e Glaceon. Per ottenerli è necessario farli scambiare tutti da Pokémon Diamante, Perla e Platino.",
+        "A partire da Pokémon Battle Revolution, quanto un Magnezone viene addormentato il suo occhio centrale rimane aperto, mentre quelli ai lati si chiudono normalmente.",
+        "Nel Pokémon Direct di settembre 2013 viene elencato un Magnezone femmina, nonostante sia di sesso sconosciuto.",
+        "Magnezone è il primo Pokémon introdotto con il doppio tipo Elettro/Acciaio, dato che le sue preevoluzioni erano state introdotte con solo il tipo Elettro."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/magnezone.mp3",
     "dex_entries": {
@@ -20,8 +19,8 @@
             "diamond": "Si è evoluto in seguito all'esposizione a uno speciale campo magnetico. Tre unità generano magnetismo.",
             "pearl": "Si è evoluto in seguito all'esposizione a uno speciale campo magnetico. Tre unità generano magnetismo.",
             "platinum": "Alcuni hanno provato a farlo evolvere artificialmente, ma l’esperimento non è andato a buon fine.",
-            "heartgold": "Si è evoluto in MAGNEZONE modificando la struttura molecolare di MAGNETON con un campo magnetico ad hoc.",
-            "soulsilver": "Si è evoluto in MAGNEZONE modificando la struttura molecolare di MAGNETON con un campo magnetico ad hoc.",
+            "heart-gold": "Si è evoluto in MAGNEZONE modificando la struttura molecolare di MAGNETON con un campo magnetico ad hoc.",
+            "soul-silver": "Si è evoluto in MAGNEZONE modificando la struttura molecolare di MAGNETON con un campo magnetico ad hoc.",
             "black": "Alcuni hanno provato a farlo evolvere artificialmente, ma l'esperimento non è andato a buon fine.",
             "white": "Alcuni hanno provato a farlo evolvere artificialmente, ma l'esperimento non è andato a buon fine.",
             "black-2": "A volte si attraggono l'un l'altro con la loro potentissima carica magnetica, e poi non riescono più a muoversi.",
@@ -49,14 +48,14 @@
     "flat_name": "magnezone",
     "generation": 4,
     "height": {
-        "magnezone": "1.2 m"
+        "magnezone": "1,2 m"
     },
     "id": 462,
     "name": "Magnezone",
-    "name_origin": "Deriva dalle parole magnet  e zone , oppure da magnetic zone . ",
-    "origin": "Basato su un magnete o su un disco volante. Potrebbe essere l'oggettificazione di un campo magnetico. ",
+    "name_origin": "Magnezone potrebbe derivare da magnetic zone, un altro termine per magnetic field, campo elettromagnetico. Jibacoil, il suo nome giapponese, potrebbe derivare da 磁場 jiba, campo elettromagnetico, 自爆 jibaku, autodetonazione, e electromagnetic coil, bobina. ",
+    "origin": "Magnezone sembra essere basato sull'idea di un Magneton fuso: uno dei Magnemite ottiene un corpo più grande che ingloba gli altri due ai lati. In generale, la linea evolutiva sembra essere basata sull'interazione elettromagnetica, una delle quattro interazioni fondamentali della natura. Magnezone sembra essere basato nello specifico sulla formazione elettromagnetica causata da un campo elettromagnetico, combinato con la forma di un UFO. La sua forma e abilità di esplodere potrebbero prendere ispirazione dal mito in cui Matsunaga Hisahide riempì un chagama di polvere da sparo e lo distrusse per impedire a Oda Nobunaga di ottenerlo come premio. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Magnezone",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Magnetico",
     "sprites": {
         "magnezone": {
@@ -85,6 +84,6 @@
         ]
     },
     "weight": {
-        "magnezone": "180.0 kg"
+        "magnezone": "180,0 kg"
     }
 }

@@ -13,7 +13,7 @@
         "Se si cerca di catturare Regigigas senza possedere i tre Regi il giocatore potrà entrare nel Tempio Nevepoli, troverà Regigigas al suo solito posto, ma se raggiunge la piattaforma dov'è situato Regigigas e preme A davanti a quest'ultimo, il gioco dirà che è solo una statua di cartone.\n\tStessa cosa accade al Monte Vite di Unima: il giocatore potrà interagire con il Pokémon immobile, ma un'iscrizione lo avvertirà della necessità di avere i tre golem in squadra per poterlo risvegliare.",
         "Stessa cosa accade al Monte Vite di Unima: il giocatore potrà interagire con il Pokémon immobile, ma un'iscrizione lo avvertirà della necessità di avere i tre golem in squadra per poterlo risvegliare.",
         "In Rubino Omega e Zaffiro Alpha è l'unico dei Regi a non possedere uno sprite overworld, in quanto appare nella Grotta Insulare solo con un terremoto che indirizza subito alla lotta.",
-        "Insieme a Magikarp, Regigigas è il Pokémon non glitch che può essere catturato contemporaneamente al livello più basso e al livello più alto possibili. In Pokémon Platino il Regigigas del Tempio Nevepoli è infatti catturabile al livello 1, mentre con l'avvento di Pass di espansione di Pokémon Spada e Scudo, un Raid Dynamax speciale nella Landa Corona permette di affrontare e catturare un Regigigas al livello 100.\n\tQuesto lo rende anche l'unico Pokémon leggendario ad essere catturabile contemporaneamente al livello più basso e al livello più alto possibili.",
+        "Insieme a Magikarp, Regigigas è il Pokémon non glitch che può essere catturato contemporaneamente al livello più basso e al livello più alto possibili. In Pokémon Platino il Regigigas del Tempio Nevepoli è infatti catturabile al livello 1, mentre con l'avvento di Pass di espansione, un Raid Dynamax speciale nella Landa Corona permette di affrontare e catturare un Regigigas al livello 100.\n\tQuesto lo rende anche l'unico Pokémon leggendario ad essere catturabile contemporaneamente al livello più basso e al livello più alto possibili.",
         "Questo lo rende anche l'unico Pokémon leggendario ad essere catturabile contemporaneamente al livello più basso e al livello più alto possibili."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/regigigas.mp3",
@@ -22,8 +22,8 @@
             "diamond": "Una leggenda narra che questo Pokémon abbia trainato i continenti con delle funi.",
             "pearl": "Una leggenda narra che questo Pokémon abbia trainato i continenti con delle funi.",
             "platinum": "Si dice che abbia creato dei Pokémon simili a lui usando una montagna ghiacciata, rocce e magma.",
-            "heartgold": "Pare che abbia plasmato REGIROCK, REGICE e REGISTEEL utilizzando argilla, ghiaccio e magma.",
-            "soulsilver": "Pare che abbia plasmato REGIROCK, REGICE e REGISTEEL utilizzando argilla, ghiaccio e magma.",
+            "heart-gold": "Pare che abbia plasmato REGIROCK, REGICE e REGISTEEL utilizzando argilla, ghiaccio e magma.",
+            "soul-silver": "Pare che abbia plasmato REGIROCK, REGICE e REGISTEEL utilizzando argilla, ghiaccio e magma.",
             "black": "Si dice che abbia creato dei Pokémon simili a sé usando una montagna ghiacciata, rocce e magma.",
             "white": "Si dice che abbia creato dei Pokémon simili a sé usando una montagna ghiacciata, rocce e magma.",
             "black-2": "Si dice che abbia creato dei Pokémon simili a sé usando una montagna ghiacciata, rocce e magma.",
@@ -43,14 +43,14 @@
     "flat_name": "regigigas",
     "generation": 4,
     "height": {
-        "regigigas": "3.7 m"
+        "regigigas": "3,7 m"
     },
     "id": 486,
     "name": "Regigigas",
-    "name_origin": "Il suo nome deriva dalla parola latina regius, regale, e dal greco γίγας gigas, gigante. ",
-    "origin": "Regigigas è basato sulle leggende ebraiche dei golem. Le leggende li definiscono come dei servitori con enormi poteri, che vengono esercitati tramite delle parole scritte sulle loro fronti. Se le parole vengono rimosse, essi si indeboliscono. I golem leggendari possono avere come tema comune le epoche storiche, con Regigigas che rappresenta l'Archeano, cioè il periodo preistorico in cui si formarono gli oceani e i continenti e nacque la vita sulla Terra. ",
+    "name_origin": "Regigigas potrebbe derivare da regius, latino per \"regale\", e da gigas, latino per \"gigante\". ",
+    "origin": "Regigigas potrebbe essere basato sui golem della mitologia ebraica. Nello specifico, Regigigas ricorda il Golem di Praga, il cui immenso potere intimidiva le persone e finì imprigionato. I sette occhi al centro del corpo di Regigigas sembrano essere ispirati sull'alfabeto Braille, possibilmente in riferimento al metodo per incontrare i Golem Leggendari in Pokémon Rubino, Zaffiro e Smeraldo. Alternativamente, potrebbe essere basato sui titani della mitologia greca. Il suo imprigionamento potrebbe quindi essere un riferimento al risultato della titanomachia, che vede i titani rinchiusi negli inferi. Potrebbe inoltre derivare dal daidarabotchi, uno Yōkai gigantesco. Le sue voci Pokédex potrebbero essere ispirate al mito di Kunibiki, che descrive come il semidio Omizunu, della stessa altezza e potere di un daidarabotchi, usò funi per spostare continenti e ampliare il proprio regno. In generale la sua forma ricorda quella dei blemmi. Le tre paia di gemme sul suo corpo potrebbero corrispondere ai primi tre Golem Leggendari: Le gemme rosse potrebbero rappresentare Regirock, quelle blu Regice mentre quelle grigie Registeel. I golem leggendari sembrano avere come tema comune le epoche storiche, con Regigigas che rappresenta l'Archeano, cioè il periodo preistorico in cui si formarono gli oceani e i continenti e nacque la vita sulla Terra. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Regigigas",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Colossale",
     "sprites": {
         "regigigas": {
@@ -78,6 +78,6 @@
         ]
     },
     "weight": {
-        "regigigas": "420.0 kg"
+        "regigigas": "420,0 kg"
     }
 }

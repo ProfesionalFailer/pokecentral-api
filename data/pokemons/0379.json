@@ -6,9 +6,13 @@
         }
     },
     "curiosities": [
-        "Registeel, insieme agli altri due membri del suo trio, è l'unico Pokémon leggendario di terza generazione a non avere una mossa esclusiva.",
-        "Prima del rilascio europeo di Pokémon Diamante e Perla, lo sprite di Registeel è stato leggermente modificato poiché nelle prime versione uscite , il braccio sinistro di Registeel era esteso in avanti ricordando il saluto nazista.",
-        "Registeel è l’unico tra i golem leggendari a non avere statistiche con valore base 50, 100 o 200."
+        "Nelle versioni europee non inglesi di Pokémon Diamante e Perla lo sprite di Registeel è stato modificato a causa della somiglianza della sua posa con il saluto nazista. Questo sprite è stato poi usato in tutte le versioni di Pokémon Platino e Pokémon Oro HeartGold e Argento SoulSilver.\n\tQuesto rende Registeel l'unico Pokémon il cui sprite nel Pokéwalker non è quello di Diamante e Perla, escludendo le forme introdotte in Platino.",
+        "Questo rende Registeel l'unico Pokémon il cui sprite nel Pokéwalker non è quello di Diamante e Perla, escludendo le forme introdotte in Platino.",
+        "Registeel è alla pari con Probopass per la più alta Difesa Speciale di base tra i Pokémon di tipo Acciaio.",
+        "Registeel condivide le sue abilità con la linea evolutiva di Beldum.",
+        "Registeel è l’unico tra i golem leggendari:\n\tA non avere statistiche con valore base 50, 100 o 200.\n\tIl cui Attacco e Attacco Speciale non sono multipli di 10.",
+        "A non avere statistiche con valore base 50, 100 o 200.",
+        "Il cui Attacco e Attacco Speciale non sono multipli di 10."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/registeel.mp3",
     "dex_entries": {
@@ -16,13 +20,13 @@
             "ruby": "REGISTEEL ha un corpo più duro di ogni tipo di metallo. Pare inoltre che all'interno sia totalmente vuoto. Nessuno sa cosa mangi questo POKéMON.",
             "sapphire": "REGISTEEL è stato imprigionato dagli esseri umani nell'antichità. Pare che il metallo di cui è composto provenga dallo spazio.",
             "emerald": "Il corpo metallico di REGISTEEL è costituito da una sostanza misteriosa più dura di qualsiasi altro metallo e al tempo stesso estremamente elastica.",
-            "firered": "È più resistente di qualsiasi metallo, grazie alla pressione subita sottoterra in decine di migliaia di anni.",
-            "leafgreen": "È più resistente di qualsiasi metallo, grazie alla pressione subita sottoterra in decine di migliaia di anni.",
+            "fire-red": "È più resistente di qualsiasi metallo, grazie alla pressione subita sottoterra in decine di migliaia di anni.",
+            "leaf-green": "È più resistente di qualsiasi metallo, grazie alla pressione subita sottoterra in decine di migliaia di anni.",
             "diamond": "La pressione subita sottoterra per decine di migliaia di anni ha reso il suo corpo resistentissimo.",
             "pearl": "La pressione subita sottoterra per decine di migliaia di anni ha reso il suo corpo resistentissimo.",
             "platinum": "La pressione subita sottoterra per decine di migliaia di anni ha reso il suo corpo resistentissimo.",
-            "heartgold": "Ha un corpo più duro di qualunque metallo. Una ricerca ha stabilito che all'interno è cavo.",
-            "soulsilver": "Ha un corpo più duro di qualunque metallo. Una ricerca ha stabilito che all'interno è cavo.",
+            "heart-gold": "Ha un corpo più duro di qualunque metallo. Una ricerca ha stabilito che all'interno è cavo.",
+            "soul-silver": "Ha un corpo più duro di qualunque metallo. Una ricerca ha stabilito che all'interno è cavo.",
             "black": "La pressione subita sottoterra per decine di migliaia di anni ha reso il suo corpo resistentissimo.",
             "white": "La pressione subita sottoterra per decine di migliaia di anni ha reso il suo corpo resistentissimo.",
             "black-2": "La pressione subita sottoterra per decine di migliaia di anni ha reso il suo corpo resistentissimo.",
@@ -43,14 +47,14 @@
     "flat_name": "registeel",
     "generation": 3,
     "height": {
-        "registeel": "1.9 m"
+        "registeel": "1,9 m"
     },
     "id": 379,
     "name": "Registeel",
-    "name_origin": "Il suo nome deriva dalla parola latina regius, regale, e da steel, acciaio. ",
-    "origin": "Registeel è basato sulle leggende ebraiche dei golem. Le leggende li definiscono come dei servitori con enormi poteri, che vengono esercitati tramite delle parole scritte sulle loro fronti. Se le parole vengono rimosse, loro si indeboliscono. I golem leggendari possono avere come tema comune le epoche storiche, con Registeel che rappresenta l’età del ferro. ",
+    "name_origin": "Registeel potrebbe derivare da regius, latino per \"regale\", e da steel, ferro. ",
+    "origin": "Registeel potrebbe essere basato sui golem della mitologia ebraica. Le leggende li definiscono come dei servitori con enormi poteri, che vengono esercitati tramite delle parole scritte sulle loro fronti. Se le parole vengono rimosse, essi si indeboliscono o, in alcune versioni, muoiono. La faccia di Registeel presenta una scritta simile, ma basata sull'alfabeto Braille, possibilmente in riferimento al metodo per incontrarlo in Pokémon Rubino, Zaffiro e Smeraldo. La sua forma e corpo metallico lo possono ricondurre ad un robot umanoide. I golem leggendari sembrano avere come tema comune le epoche storiche, con Registeel che rappresenta l'età del ferro. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Registeel",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Ferro",
     "sprites": {
         "registeel": {
@@ -78,6 +82,6 @@
         ]
     },
     "weight": {
-        "registeel": "205.0 kg"
+        "registeel": "205,0 kg"
     }
 }

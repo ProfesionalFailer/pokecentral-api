@@ -6,7 +6,9 @@
         }
     },
     "curiosities": [
-        "Pansear di Chicco"
+        "Pansear e la sua evoluzione sono gli unici Pokémon ad avere l'abilità Aiutofuoco a non essere Pokémon iniziali.",
+        "In Pokémon GO Pansear è esclusivo dell'Europa, Medio Oriente, Africa e India, Pansage in Asia Pacifica, mentre Panpour in America e Groenlandia.",
+        "Pansage, Pansear e Panpour sono stati disegnati da Takao Unno. Sono stati tutti ideati come compagni per Spighetto, Chicco e Maisello e, dato che la loro palestra è in parte un ristorante, ai tre Pokémon è stato dato un tema alimentare, con le loro mani disegnate per essere simili a guanti da forno."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/pansear.mp3",
     "dex_entries": {
@@ -18,7 +20,8 @@
             "x": "È molto intelligente e ha l'abitudine di arrostire le bacche prima di mangiarle. Adora aiutare gli esseri umani.",
             "y": "Vive nelle grotte vulcaniche. L'interno del ciuffo che ha in testa brucia a una temperatura di 300°C.",
             "omega-ruby": "È molto intelligente e ha l'abitudine di arrostire le bacche prima di mangiarle. Adora aiutare gli esseri umani.",
-            "alpha-sapphire": "Vive nelle grotte vulcaniche. L'interno del ciuffo che ha in testa brucia a una temperatura di 300°C."
+            "alpha-sapphire": "Vive nelle grotte vulcaniche. L'interno del ciuffo che ha in testa brucia a una temperatura di 300°C.",
+            "legends-za": "È molto intelligente e ha l'abitudine di arrostire le bacche prima di mangiarle. Adora aiutare gli esseri umani."
         }
     },
     "egg_groups": [
@@ -27,14 +30,14 @@
     "flat_name": "pansear",
     "generation": 5,
     "height": {
-        "pansear": "0.6 m"
+        "pansear": "0,6 m"
     },
     "id": 513,
     "name": "Pansear",
-    "name_origin": "Il nome deriva dalla combinazione della parola pan  con la parola inglese sear  oppure ear . ",
-    "origin": "È basato su una scimmia e su una fiamma. Insieme a Pansage e a Panpour si ispira alle tre scimmie sagge del santuario di Nikko. Pansear rappresenta Kikazaru, la scimmia che \"Non sente il Male\", per questo spesso viene rappresentata con la zampa sull'orecchio. ",
+    "name_origin": "Pansear potrebbe derivare da pan , e da sear  o ear, orecchio, o hear, sentire, entrambi in riferimento alle tre scimmie sagge, o da pan searing, arrostire in padella. Baoppu, il suo nome giapponese, potrebbe derivare da 爆 bào, cinese per scoppiare, esplodere, バースト bāsuto , e ape, scimmia antropomorfa. ",
+    "origin": "Pansear è basato su una scimmia. La cima della sua testa ricorda una fiamma. Insieme a Pansage e Panpour sembra essere ispirato alle tre scimmie sagge. Dato che ha la mano all'orecchio, Pansear potrebbe rappresentare non sentire il male. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Pansear",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Testacalda",
     "sprites": {
         "pansear": {
@@ -62,6 +65,6 @@
         ]
     },
     "weight": {
-        "pansear": "11.0 kg"
+        "pansear": "11,0 kg"
     }
 }

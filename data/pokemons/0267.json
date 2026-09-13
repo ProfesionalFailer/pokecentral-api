@@ -10,21 +10,45 @@
         "Prima della sesta generazione, Beautifly e la sua controparte Dustox condividevano le stesse statistiche base, con Attacco e Attacco Speciale di Beautifly scambiati con Difesa e Difesa Speciale di Dustox. In sesta generazione, Beautifly ha ricevuto un aumento di dieci punti in Attacco Speciale, ma Dustox non ha ricevuto alcun aumento delle statistiche. Condivide questa particolarità con Poliwrath."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/beautifly.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "beautifly": {
+            "ruby": "Il nutrimento preferito da BEAUTIFLY è il polline dei fiori. Per attirare questo POKéMON basta mettere una pianta fiorita sul davanzale: senza dubbio si avvicinerà in cerca di polline.",
+            "sapphire": "La bocca di BEAUTIFLY è costituita da un ago spiraliforme, molto utile per succhiare il polline dai fiori. Questo POKéMON si fa trasportare dal vento nei suoi viaggi alla ricerca del polline.",
+            "emerald": "BEAUTIFLY ha delle favolose ali colorate. È solito volare su campi ricoperti di fiori per raccogliere il polline. Se provocato, attacca il nemico in modo molto aggressivo.",
+            "fire-red": "POKéMON aggressivo, nonostante l'aspetto. Attacca conficcando la bocca lunga e sottile nel corpo del nemico.",
+            "leaf-green": "POKéMON aggressivo, nonostante l'aspetto. Attacca conficcando la bocca lunga e sottile nel corpo del nemico.",
+            "diamond": "Ha un'indole aggressiva. Conficca la sua bocca lunga e sottile nelle prede e ne succhia i fluidi.",
+            "pearl": "Quando i fiori sbocciano nei campi, vola qua e là raccogliendo polline. Nonostante l'aspetto, è crudele.",
+            "platinum": "Malgrado l'aspetto, è feroce. Se disturbato in cerca di polline, attacca con la bocca lunga e sottile.",
+            "heart-gold": "Sulle ali ha splendidi, vividi colori. Succhia il dolce polline dai fiori allungando la bocca sottile.",
+            "soul-silver": "Sulle ali ha splendidi, vividi colori. Succhia il dolce polline dai fiori allungando la bocca sottile.",
+            "black": "Malgrado l'aspetto, è feroce. Se disturbato in cerca di polline, attacca con la bocca lunga e sottile.",
+            "white": "Malgrado l'aspetto, è feroce. Se disturbato in cerca di polline, attacca con la bocca lunga e sottile.",
+            "black-2": "Malgrado l'aspetto, è feroce. Se disturbato in cerca di polline, attacca con la bocca lunga e sottile.",
+            "white-2": "Malgrado l'aspetto, è feroce. Se disturbato in cerca di polline, attacca con la bocca lunga e sottile.",
+            "x": "Sulle ali ha splendidi, vividi colori. Succhia il dolce polline dai fiori allungando la bocca sottile.",
+            "y": "Ha un'indole aggressiva. Conficca la sua bocca lunga e sottile nelle prede e ne succhia i fluidi.",
+            "omega-ruby": "Il nutrimento preferito da Beautifly è il polline dei fiori. Per attirare questo Pokémon basta mettere una pianta fiorita sul davanzale: senza dubbio si avvicinerà in cerca di polline.",
+            "alpha-sapphire": "La bocca di Beautyfly è costituita da un ago spiraliforme,molto utile per succhiare il polline dai fiori. Questo Pokémon si fa trasportare dal vento nei suoi viaggi alla ricerca del polline.",
+            "brilliant-diamond": "Ha un'indole aggressiva. Conficca l'ago lungo e sottile che ha sulla bocca nelle prede e ne succhia i fluidi.",
+            "shining-pearl": "Quando i fiori sbocciano nei campi, vola qua e là raccogliendo polline. Ha un aspetto docile, ma è in realtà piuttosto aggressivo.",
+            "legends-arceus": "Multicolore e bello alla vista, è di natura avida. Scaccia i Combee che raccolgono nettare per tenere per sé il suo nutrimento favorito."
+        }
+    },
     "egg_groups": [
         "Coleottero"
     ],
     "flat_name": "beautifly",
     "generation": 3,
     "height": {
-        "beautifly": "1.00 m"
+        "beautifly": "1,00 m"
     },
     "id": 267,
     "name": "Beautifly",
-    "name_origin": "Beautifly deriva dall'inglese beauty  e butterfly . Potrebbe anche essere un gioco di parole su beautiful , o beautify . ",
-    "origin": "Basato su di una farfalla della famiglia dei Papilionidi. ",
+    "name_origin": "Beautifly potrebbe derivare da beauty, bellezza, e butterfly, farfalla. Potrebbe anche essere un gioco di parole su beautiful,bellissimo, o beautify, abbellire. Agehunt, il suo nome giapponese, potrebbe essere una combinazione di 揚羽蝶 agehachō, papilionide, e hunt, cacciare, in riferimento alla sua natura aggressiva. ",
+    "origin": "Beautifly condivide caratteristiche con un papilionide, in particolare il macaone vista la forma e il colore delle sue ali. Il fatto che succhi fluidi con la propria proboscide ricorda alcune specie di falena Calyptra, dove i maschi possono usare la proboscide per succhiare sangue, o le zanzare. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Beautifly",
-    "shape": "due paia di ali",
+    "shape": "None",
     "specie": "Pokémon Farfalla",
     "sprites": {
         "beautifly": {
@@ -57,6 +81,6 @@
         ]
     },
     "weight": {
-        "beautifly": "28.4 kg"
+        "beautifly": "28,4 kg"
     }
 }

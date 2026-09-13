@@ -12,21 +12,46 @@
         "Mightyena e la sua forma pre-evoluta Poochyena condividono la loro categoria con Drednaw. Sono infatti conosciuti come Pokémon Morso."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mightyena.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "mightyena": {
+            "ruby": "MIGHTYENA invia chiari segnali quando sta preparando un attacco. Inizia a ringhiare cupo e a lisciarsi il pelo. Morde selvaggiamente con le zanne appuntite ed affilate.",
+            "sapphire": "Allo stato brado MIGHTYENA si sposta e agisce soltanto assieme al suo branco. A causa della sua natura selvatica obbedisce solo a quegli ALLENATORI che considera possedere abilità superiori.",
+            "emerald": "Allo stato brado, i MIGHTYENA vivono in branco e cacciano il nemico dando prova di un perfetto lavoro di gruppo. Non disubbidiscono mai agli ordini del capobranco.",
+            "fire-red": "La sua eccezionale obbedienza verso gli ALLENATORI esperti deriva dall'antica abitudine di vivere in branchi.",
+            "leaf-green": "La sua eccezionale obbedienza verso gli ALLENATORI esperti deriva dall'antica abitudine di vivere in branchi.",
+            "diamond": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "pearl": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "platinum": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "heart-gold": "Una decina di MIGHTYENA per branco cacciano e sconfiggono il nemico con un perfetto lavoro di gruppo.",
+            "soul-silver": "Una decina di MIGHTYENA per branco cacciano e sconfiggono il nemico con un perfetto lavoro di gruppo.",
+            "black": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "white": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "black-2": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "white-2": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "x": "La sua eccezionale obbedienza verso gli Allenatori esperti deriva dall'antica abitudine di vivere in branchi.",
+            "y": "Una decina di Mightyena per branco cacciano e sconfiggono il nemico con un perfetto lavoro di gruppo.",
+            "omega-ruby": "Mightyena invia chiari segnali quando sta preparando un attacco. Inizia a ringhiare cupo e si appiattisce. Morde selvaggiamente con le zanne appuntite e affilate.",
+            "alpha-sapphire": "Allo stato brado Mightyena si sposta e agisce soltanto assieme al suo branco. A causa della sua natura selvatica obbedisce solo a quegli Allenatori che considera possedere abilità superiori.",
+            "brilliant-diamond": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "shining-pearl": "Caccia le prede in branco. Non disobbedisce mai agli ordini di un Allenatore abile.",
+            "scarlet": "Segue fedelmente gli ordini del capobranco. Grazie a un perfetto lavoro di squadra, le prede prese di mira non hanno scampo.",
+            "violet": "Quando fiuta l’odore di una preda in lontananza, il branco si muove unito seguendo gli ordini del capobranco."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "mightyena",
     "generation": 3,
     "height": {
-        "mightyena": "1.0 m"
+        "mightyena": "1,0 m"
     },
     "id": 262,
     "name": "Mightyena",
-    "name_origin": "Deriva dall'unione dell'aggettivo inglese \"mighty\"  con \"hyena\" . ",
-    "origin": "Condivide alcune somiglianze con cani e iene. ",
+    "name_origin": "Mightyena potrebbe derivare da mighty, potente, e hyena, iena. Graena, il suo nome giapponese, potrebbe derivare da grand, grandioso, growl, ringhio, e hyena, iena. ",
+    "origin": "Mightyena sembra essere basato su una iena bruna, e il lungo manto lo riconduce alla iena striata, dotata di un pelo similmente lungo. Il design potrebbe essere stato influenzato anche da un Cane da pastore tedesco o un Cane da pastore australiano Kelpie, due razze canine le cui personalità sono influenzate dai padroni. I pastori tedeschi hanno spesso colorazioni grigie o nere. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Mightyena",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Morso",
     "sprites": {
         "mightyena": {

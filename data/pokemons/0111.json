@@ -7,13 +7,45 @@
         }
     },
     "curiosities": [
-        "Gli sprite di prima e di seconda generazione lo fanno sembrare di tipo Roccia, invece dalla terza generazione in poi il suo corpo lo fa assomigliare ad un Pokémon di tipo Acciaio .",
         "Nei videogiochi prima della sesta generazione aveva lo stesso verso di Charizard.",
-        "Satoshi Tajiri afferma che Rhyhorn è stato il primo Pokémon che ha disegnato.",
-        "In Pokémon X e Y, il giocatore può cavalcare Rhyhorn, potendo così di distruggere grossi massi."
+        "Satoshi Tajiri afferma che Rhyhorn è stato il primo Pokémon che ha disegnato."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/rhyhorn.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "rhyhorn": {
+            "red": "Le sue ossa sono 1000 volte più dure di quelle umane. Può anche far volare un rimorchio.",
+            "blue": "Le sue ossa sono 1000 volte più dure di quelle umane. Può anche far volare un rimorchio.",
+            "yellow": "Questo POKéMON ha la mente a senso unico. Quando attacca si ferma solo a esaurimento delle sue forze.",
+            "gold": "Le quattro piccole zampe gli impediscono di voltarsi. Perciò corre e attacca in una sola direzione.",
+            "silver": "Non si preoccupa degli oggetti che trova sulla sua strada: carica e distrugge ogni ostacolo.",
+            "crystal": "Non può ricordare più di una sola cosa alla volta. Parte alla carica ma ne dimentica subito il motivo.",
+            "ruby": "RHYHORN corre diritto per la sua strada fracassando tutto ciò che trova. Non si scompone nemmeno scontrandosi con un blocco d'acciaio. Tuttavia, il giorno seguente può accusare qualche dolore.",
+            "sapphire": "Il cervello di RHYHORN è così piccolo che durante la corsa il POKéMON non riesce neanche a ricordare dov'era diretto. A volte gli capita di ricordare di aver distrutto qualcosa.",
+            "emerald": "Dotato di un cervello minuto, RHYHORN non è affatto brillante. Corre senza mai fermarsi, ma a volte durante la corsa finisce col dimenticarsi dov'era diretto.",
+            "fire-red": "Potente, benché non particolarmente brillante, con AZIONE può distruggere anche un grattacielo.",
+            "leaf-green": "Le sue ossa sono 1.000 volte più dure di quelle umane. Con AZIONE può far volare un rimorchio.",
+            "diamond": "Ha una pelle molto spessa ed è in grado di abbattere interi edifici. Non è molto sagace.",
+            "pearl": "Ha una pelle molto spessa ed è in grado di abbattere interi edifici. Non è molto sagace.",
+            "platinum": "Con i suoi potenti attacchi distrugge qualsiasi cosa. Non è abbastanza sagace da aiutare le persone.",
+            "heart-gold": "Le quattro piccole zampe gli impediscono di voltarsi. Così corre e attacca in una sola direzione.",
+            "soul-silver": "Non si preoccupa degli oggetti che trova sulla sua strada: carica e distrugge ogni ostacolo.",
+            "black": "Con i suoi potenti attacchi distrugge qualsiasi cosa. Non è abbastanza sagace da aiutare le persone.",
+            "white": "Con i suoi potenti attacchi distrugge qualsiasi cosa. Non è abbastanza sagace da aiutare le persone.",
+            "black-2": "Con i suoi potenti attacchi distrugge qualsiasi cosa. Non è abbastanza sagace da aiutare le persone.",
+            "white-2": "Con i suoi potenti attacchi distrugge qualsiasi cosa. Non è abbastanza sagace da aiutare le persone.",
+            "x": "Potente, benché non particolarmente brillante, con Azione può distruggere anche un grattacielo.",
+            "y": "Le quattro piccole zampe gli impediscono di voltarsi. Così corre e attacca in una sola direzione.",
+            "omega-ruby": "Rhyhorn corre diritto per la sua strada fracassando tutto ciò che trova. Non si scompone nemmeno scontrandosi con un blocco d'acciaio. Tuttavia, il giorno seguente può accusare qualche dolore.",
+            "alpha-sapphire": "Il cervello di Rhyhorn è così piccolo che durante la corsa il Pokémon non riesce neanche a ricordare dov'era diretto. A volte gli capita di ricordare di aver distrutto qualcosa.",
+            "lets-go-pikachu": "Ha una mente molto semplice e riesce a concentrarsi solo su una cosa alla volta. Quando parte alla carica, si ferma solo se si addormenta.",
+            "lets-go-eevee": "Ha una mente molto semplice e riesce a concentrarsi solo su una cosa alla volta. Quando parte alla carica, si ferma solo se si addormenta.",
+            "sword": "È molto forte, benché non particolarmente brillante. Se si scaglia contro un grattacielo può raderlo al suolo.",
+            "shield": "Non è in grado di ricordare più di una cosa alla volta. Quando parte alla carica ne dimentica subito il motivo.",
+            "legends-arceus": "Con la sua forza bruta frantuma montagne a suon di testate. Ha zampe tozze incapaci di svoltare, e può arrestarsi solo cozzando contro un ostacolo.",
+            "scarlet": "Sceglie un’area di 10 km di raggio come suo territorio, ma pare che quando corre finisca per dimenticare quale sia.",
+            "violet": "Quando inizia a correre non si ferma neanche se va a sbattere contro un macigno. Per questo il suo habitat ha continuato a ingrandirsi."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Campo"
@@ -21,14 +53,14 @@
     "flat_name": "rhyhorn",
     "generation": 1,
     "height": {
-        "rhyhorn": "1.0 m"
+        "rhyhorn": "1,0 m"
     },
     "id": 111,
     "name": "Rhyhorn",
-    "name_origin": "Il nome Rhyhorn probabilmente deriva dall'unione delle parola inglesi rhinoceros, rinoceronte, e horn, corno. ",
-    "origin": "Rhyhorn è chiaramente ispirato ad un rinoceronte. ",
+    "name_origin": "Rhyhorn probabilmente deriva da rhinoceros, rinoceronte, \"rhyolite\", riolite, e horn, corno. ",
+    "origin": "Rhyhorn sembra ispirato ad un riconeronte indiano, che possiede un'armatura a placche simile a quella del Pokémon, e ad un uintaterio, un animale estinto con corna e forma della testa simili. Sembra anche avere elementi simili a quelli di un ceratopsidi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Rhyhorn",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Punzoni",
     "sprites": {
         "rhyhorn": {
@@ -61,6 +93,6 @@
         ]
     },
     "weight": {
-        "rhyhorn": "115.0 kg"
+        "rhyhorn": "115,0 kg"
     }
 }

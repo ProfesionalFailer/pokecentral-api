@@ -8,25 +8,23 @@
     },
     "curiosities": [
         "Porygon-Z è l'unico Pokémon il cui nome giapponese contiene una lettera di un alfabeto straniero.",
-        "Porygon-Z pesa esattamente come Lucinda.",
-        "Il nome del Dubbiodisco sembra suggerire che, al contrario di Porygon2, Porygon-Z sia un aggiornamento non autorizzato dalla Silph SpA.",
-        "Le pre-evoluzioni di Porygon-Z hanno ognuna una propria mossa Conversione, ma Porygon-Z non ha ricevuto alcuna nuova versione di Conversione.",
         "Porygon-Z è uno dei Pokémon con caratteri non alfabetici nel nome.",
-        "Dato che l'evoluzione di Porygon-Z non richiede alcun aumento di livello, Porygon-Z è uno dei due Pokémon evoluti due volte che può essere legittimamente di livello 1, e al contrario dell'altro  non può saltare alcuna fase.",
-        "Porygon-Z è l'unico Pokémon che si evolve da un Pokémon evoluto attraverso scambio tenendo uno strumento. È anche l'unico Pokémon che si evolve da un Pokémon evoluto con un metodo diverso dal salire di livello  come primo stadio).",
-        "Porygon-Z ha un totale delle statistiche base maggiore di soli 20 punti rispetto a Porygon2: infatti ha 30 punti in più in Attacco Speciale e Velocità, ma 20 in meno in Difesa e Difesa Speciale.\n\tDopo Scizor, che ha la stessa somma di statistiche base della sua pre-evoluzione Scyther, è il Pokémon completamente evoluto con la più bassa differenza nelle statistiche totali rispetto alla sua forma precedente.",
-        "Dopo Scizor, che ha la stessa somma di statistiche base della sua pre-evoluzione Scyther, è il Pokémon completamente evoluto con la più bassa differenza nelle statistiche totali rispetto alla sua forma precedente.",
-        "Porygon-Z ha la statistica di Attacco Speciale più alta tra i Pokémon di tipo Normale a pari merito con Mega Pidgeot.",
-        "Porygon-Z è l'unico Pokémon ad avere un peso minore dello stadio base della sua linea evolutiva. Pesa infatti 2,5 kg in meno di Porygon."
+        "La sua linea evolutiva ha diverse peculiarità:\n\tÈ l'unica linea evolutiva a tre stadi in cui tutti i Pokémon erano completamente evoluti al momento della loro introduzione.\n\tSono gli unici Pokémon di tipo Normale nel Gruppo Uova Minerale.",
+        "È l'unica linea evolutiva a tre stadi in cui tutti i Pokémon erano completamente evoluti al momento della loro introduzione.",
+        "Sono gli unici Pokémon di tipo Normale nel Gruppo Uova Minerale.",
+        "Porygon-Z è l'unico Pokémon che si evolve tenendo uno strumento quando scambiato che si evolve da un altro Pokémon che si evolve nello stesso modo.",
+        "Porygon-Z è l'unico Pokémon introdotto in quarta generazione a non essere apparso nella serie animata.",
+        "In PokéPark Wii: la grande avventura di Pikachu è menzionato come maschio, nonostante sia di sesso sconosciuto.\n\tIn questo gioco dispone di una voce simile a quella che avrebbe avuto nella serie animata.",
+        "In questo gioco dispone di una voce simile a quella che avrebbe avuto nella serie animata."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/porygon-z.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/porygonz.mp3",
     "dex_entries": {
         "porygon-z": {
             "diamond": "È stato aggiunto un software per migliorare le prestazioni di questo Pokémon. Agisce in modo strano.",
             "pearl": "È stato aggiunto un software per migliorare le prestazioni di questo Pokémon. Agisce in modo strano.",
             "platinum": "È stato riprogrammato per il lavoro in dimensioni sconosciute, ma pare non funzionare correttamente.",
-            "heartgold": "Non sembra funzionare correttamente dopo essere stato riprogrammato per muoversi in dimensioni sconosciute.",
-            "soulsilver": "Non sembra funzionare correttamente dopo essere stato riprogrammato per muoversi in dimensioni sconosciute.",
+            "heart-gold": "Non sembra funzionare correttamente dopo essere stato riprogrammato per muoversi in dimensioni sconosciute.",
+            "soul-silver": "Non sembra funzionare correttamente dopo essere stato riprogrammato per muoversi in dimensioni sconosciute.",
             "black": "È stato riprogrammato per il lavoro in dimensioni sconosciute, ma pare non funzionare correttamente.",
             "white": "È stato riprogrammato per il lavoro in dimensioni sconosciute, ma pare non funzionare correttamente.",
             "black-2": "È stato riprogrammato per il lavoro in dimensioni sconosciute, ma pare non funzionare correttamente.",
@@ -43,7 +41,10 @@
             "shield": "Pare che si sia evoluto in seguito all'installazione di un programma, ma la comunità scientifica non è concorde nel definire ciò un'evoluzione.",
             "brilliant-diamond": "Gli è stato aggiunto un software volto a migliorarne le prestazioni, ma per qualche motivo ha iniziato ad agire in modo strano.",
             "shining-pearl": "Gli è stato aggiunto un software volto a migliorarne le prestazioni, ma per qualche motivo ha iniziato ad agire in modo strano.",
-            "legends-arceus": "Evolutosi di nuovo per mezzo di un singolare strumento, sfoggia un drastico sviluppo offensivo, ma l'accresciuta stranezza della sua condotta m'inquieta."
+            "legends-arceus": "Evolutosi di nuovo per mezzo di un singolare strumento, sfoggia un drastico sviluppo offensivo, ma l'accresciuta stranezza della sua condotta m'inquieta.",
+            "scarlet": "Si muove in maniera bizzarra a causa di un bug nel software aggiuntivo, originariamente installato per migliorarne le prestazioni.",
+            "violet": "È stato riprogrammato per poter funzionare anche in altre dimensioni, ma la modifica non ha sortito i risultati sperati.",
+            "legends-za": "Da quando è stato riprogrammato per lavorare in dimensioni sconosciute ha assunto comportamenti visibilmente strani."
         }
     },
     "egg_groups": [
@@ -52,14 +53,14 @@
     "flat_name": "porygon-z",
     "generation": 4,
     "height": {
-        "porygon-z": "0.9 m"
+        "porygon-z": "0,9 m"
     },
     "id": 474,
     "name": "Porygon-Z",
-    "name_origin": "Il nome di Porygon-Z deriva da polygon, \"poligono\", scritto con una R in riferimento al fatto che il giapponese non distingue i suoni di R e L. Potrebbe anche contenere la parola origami. La Z potrebbe essere una versione corrotta del 2 , essendo Porygon-Z una versione corrotta di Porygon2; in alternativa potrebbe essere un richiamo al fatto che Porygon-Z è lo stadio finale della sua catena evolutiva, in quanto la Z è l'ultima lettera dell'alfabeto latino. ",
-    "origin": "Come Porygon2 è probabilmente basato su un origami creato con un software di rendering 3D, oltre che su un papero bevitore. Potrebbe anche basarsi sul concetto di virus infestante, infatti viene descritto come la versione di Porygon2 sul quale è stato installato un software mal funzionante che causa il suo comportamento strano. ",
+    "name_origin": "Porygon-Z sembra derivare da Porygon2 e la lettera Z. Questa potrebbe derivare dall'asse Z essenziale in figure 3D, oppure dal fatto che sia l'ultima lettera dell'alfabeto latino, indicando sia la \"versione finale\" di Porygon. Potrebbe anche essere una corruzione del numero 2, indicando il suo rapporto con Porygon2. ",
+    "origin": "Porygon è probabilmente basato su un origami di un uccello creato con un software di rendering 3D rudimentale. Il movimento della testa che compie nei giochi 3D ricorda un drinking bird. Il suo aspetto simile ad una versione distorta di Porygon2, evoluzione tramite Dubbiodisco e comportamento imprevedibile lo riconducono a un virus informatico o una patch non autorizzata che causa bug in un software. Le sue voci del Pokédex lo riconducono a un'intelligenza artificiale o un veicolo spaziale robotico. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Porygon-Z",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Virtuale",
     "sprites": {
         "porygon-z": {
@@ -87,6 +88,6 @@
         ]
     },
     "weight": {
-        "porygon-z": "34.0 kg"
+        "porygon-z": "34,0 kg"
     }
 }

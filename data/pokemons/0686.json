@@ -22,7 +22,8 @@
             "ultra-sun": "Attira a sé la preda con luci lampeggianti per poi immobilizzarla avvinghiandola con i suoi tentacoli.",
             "ultra-moon": "Scambia informazioni con i suoi simili facendo lampeggiare i motivi sul suo corpo in sequenze complesse.",
             "sword": "Gira su se stesso facendo lampeggiare i motivi che ha sul corpo. Comunica con i suoi simili emettendo segnali luminosi.",
-            "shield": "Fa perdere ai nemici lo spirito combattivo grazie alla luce lampeggiante che emette dal suo corpo e ne approfitta per scappare."
+            "shield": "Fa perdere ai nemici lo spirito combattivo grazie alla luce lampeggiante che emette dal suo corpo e ne approfitta per scappare.",
+            "legends-za": "Emette luce intermittente che fa passare ai nemici la voglia di attaccarlo dandogli così l'opportunità di scappare."
         }
     },
     "egg_groups": [
@@ -32,14 +33,14 @@
     "flat_name": "inkay",
     "generation": 6,
     "height": {
-        "inkay": "0.4 m"
+        "inkay": "0,4 m"
     },
     "id": 686,
     "name": "Inkay",
     "name_origin": "Inkay deriva da inkfish e da okay . Il nome giapponese Māīka può essere una combinazione di 魔 ma  e 烏賊 ika  o 真烏賊 maika . ",
     "origin": "Inkay è basato su un calamaro. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Inkay",
-    "shape": "più di 4 arti",
+    "shape": "None",
     "specie": "Pokémon Volteggio",
     "sprites": {
         "inkay": {
@@ -63,11 +64,11 @@
     },
     "types": {
         "inkay": [
-            "Psico",
-            "Buio"
+            "Buio",
+            "Psico"
         ]
     },
     "weight": {
-        "inkay": "3.5 kg"
+        "inkay": "3,5 kg"
     }
 }

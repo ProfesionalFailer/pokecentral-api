@@ -6,7 +6,9 @@
         }
     },
     "curiosities": [
-        "Gabite condivide la categoria con Druddigon. Entrambi sono noti come Pokémon Grotta."
+        "Gabite condivide la categoria con Druddigon. Entrambi sono noti come Pokémon Grotta.",
+        "A causa della censura sui soprannomi dei Pokémon in quinta generazione, un Gabite con il nome inglese non può essere scambiato senza soprannome nel GTS.",
+        "La famiglia di Gabite debutta nella serie animata in ordine inverso alla loro evoluzione. Garchomp appare in Il coraggio di Paul, Gabite in Gabite mangia la polvere! e Gible in Rivalità per un Gible!."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/gabite.mp3",
     "dex_entries": {
@@ -14,8 +16,8 @@
             "diamond": "Molti credono che le medicine fatte con le sue scaglie curino anche i mali incurabili.",
             "pearl": "È solito scavare per cercare gemme, che conserva nella tana. I ladri tentano spesso di rubargliele.",
             "platinum": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
-            "heartgold": "Ha l’abitudine di collezionare gemme che trova mentre si scava la tana, appositamente ampliata.",
-            "soulsilver": "Ha l’abitudine di collezionare gemme che trova mentre si scava la tana, appositamente ampliata.",
+            "heart-gold": "Ha l’abitudine di collezionare gemme che trova mentre si scava la tana, appositamente ampliata.",
+            "soul-silver": "Ha l’abitudine di collezionare gemme che trova mentre si scava la tana, appositamente ampliata.",
             "black": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
             "white": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
             "black-2": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
@@ -34,7 +36,8 @@
             "shining-pearl": "Ha l'abitudine di conservare nella sua tana le gemme che trova scavando nel terreno. Sono molti i ladri che tentano di rubargliele.",
             "legends-arceus": "Seppur d'indole irascibile, questo Pokémon si placa non appena gli viene fatto dono di perline in vetro, per cui nutre tangibile interesse.",
             "scarlet": "Fa la muta molto di rado. Con le scaglie perse in questo modo si possono preparare tonici che alleviano la stanchezza e ripristinano le energie.",
-            "violet": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido."
+            "violet": "Adora gli oggetti luccicanti. Va a caccia di tesori nelle grotte e li trasporta nel suo nido.",
+            "legends-za": "Ha l'abitudine di collezionare nel nido le gemme grezze che emergono dal terreno quando amplia la tana."
         }
     },
     "egg_groups": [
@@ -44,14 +47,14 @@
     "flat_name": "gabite",
     "generation": 4,
     "height": {
-        "gabite": "1.4 m"
+        "gabite": "1,4 m"
     },
     "id": 444,
     "name": "Gabite",
-    "name_origin": "Il suo nome probabilmente deriva dall'unione della parola giapponese がぶがぶ gabugabu, onomatopeico per quando si beve tutto d'un fiato, かぶりつく kaburitsuku, scavare, がぶりと gaburito, masticare, がぶりと噛み付く gaburitokamitsuku, affondare un dente in qualcosa, e la parola inglese bite, morso. ",
-    "origin": "Gabite è basato su un drago ed uno squalo. ",
+    "name_origin": "Gabite potrebbe derivare da がぶり gaburi, \"dal grande morso\", e bite, morso. ",
+    "origin": "Gabite condivide caratteristiche con Kaijū, viverne e squali, nello specifico lo squalo martello. Sembra prendere anche ispirazione dai dinosauri teropodi, in particolare dal Carcharodontosaurus, i cui denti sono spesso paragonati a quelli di uno squalo. Il suo tipo Terra potrebbe derivare dagli Carcharhiniformes, chiamatati anche \"ground sharks\", o dagli Odontaspididae, chiamati anche \"sand sharks\". Il fatto che effettivamente viva sulla terraferma potrebbe derivare dai land shark, esseri tipici di scenari fantasy. La sua tendenza di collezionare gemme e altri tesori lo riconducono ai draghi europei, spesso rappresentati a guardia di tesori. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Gabite",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Grotta",
     "sprites": {
         "gabite": {
@@ -84,6 +87,6 @@
         ]
     },
     "weight": {
-        "gabite": "56.0 kg"
+        "gabite": "56,0 kg"
     }
 }

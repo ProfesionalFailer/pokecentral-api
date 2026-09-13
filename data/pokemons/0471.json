@@ -6,14 +6,8 @@
         }
     },
     "curiosities": [
-        "Il nome giapponese di Glaceon è lo stesso di quello inglese di Frida , membro dei Superquattro di Hoenn.",
-        "Glaceon è, insieme a Jolteon, la più piccola Eeveeluzione.",
-        "Glaceon ed Espeon sono le uniche Eeveeluzioni a condividere la stessa statistica più alta, l'Attacco Speciale. Tuttavia, Espeon ha una maggiore Velocità mentre Glaceon una maggiore Difesa.\n\tGlaceon aveva anche l'Attacco Speciale più alto tra tutti i Pokémon di tipo Ghiaccio fino alla quarta generazione. In quinta generazione è stato eguagliato da Kyurem e poi superato da Kyurem Bianco.\n\tTuttavia, Glaceon ha ancora l'Attacco Speciale più alto tra tutti i Pokémon di tipo Ghiaccio puro e tra tutti i Pokémon di tipo Ghiaccio non leggendari.",
-        "Glaceon aveva anche l'Attacco Speciale più alto tra tutti i Pokémon di tipo Ghiaccio fino alla quarta generazione. In quinta generazione è stato eguagliato da Kyurem e poi superato da Kyurem Bianco.",
-        "Tuttavia, Glaceon ha ancora l'Attacco Speciale più alto tra tutti i Pokémon di tipo Ghiaccio puro e tra tutti i Pokémon di tipo Ghiaccio non leggendari.",
-        "Nonostante Glaceon possa congelare la sua pelliccia per far rizzare i peli come aghi, non è in grado di utilizzare Missilspillo, al contrario di Jolteon.",
+        "Glaceon è stato disegnato da Atsuko Nishida",
         "Stando al Pokédex di Diamante e Perla, Glaceon, Leafeon ed Umbreon hanno la stessa impronta.",
-        "In Pokémon Battle Revolution, Glaceon non apre la bocca per usare attacchi come Gelodenti.",
         "Oro HeartGold e Argento SoulSilver sono gli unici giochi dove non è possibile far evolvere Eevee in Glaceon. Lo stesso vale per Magnezone, Probopass e Leafeon; l'unico modo per ottenerli è scambiarli da Diamante e Perla o da Platino.",
         "In Pokémon Nero 2 e Bianco 2 Glaceon appartiene al Pokédex regionale, ma non è ottenibile prima di aver ricevuto il Pokédex Nazionale , poiché il Masso Ghiacciato si trova nel Monte Vite che non è accessibile nella prima parte di gioco. Condivide questa peculiarità con Leafeon, dato che il Bosco Girandola  non sono accessibili prima di essere entrati nella Sala d'Onore."
     ],
@@ -23,8 +17,8 @@
             "diamond": "Come tecnica di difesa, congela completamente la sua pelliccia per far rizzare i peli come aghi.",
             "pearl": "Come tecnica di difesa, congela completamente la sua pelliccia per far rizzare i peli come aghi.",
             "platinum": "Modificando la temperatura del corpo, congela l'aria e crea folate di cristalli di ghiaccio.",
-            "heartgold": "GLACEON raffredda l'aria che circonda il suo corpo, formando dei minuscoli cristalli di ghiaccio.",
-            "soulsilver": "GLACEON raffredda l'aria che circonda il suo corpo, formando dei minuscoli cristalli di ghiaccio.",
+            "heart-gold": "GLACEON raffredda l'aria che circonda il suo corpo, formando dei minuscoli cristalli di ghiaccio.",
+            "soul-silver": "GLACEON raffredda l'aria che circonda il suo corpo, formando dei minuscoli cristalli di ghiaccio.",
             "black": "Modificando la temperatura del corpo, congela l'aria e crea folate di cristalli di ghiaccio.",
             "white": "Modificando la temperatura del corpo, congela l'aria e crea folate di cristalli di ghiaccio.",
             "black-2": "Abbassa la temperatura del corpo per ghiacciare i propri peli e lanciarli come micidiali aghi sottilissimi.",
@@ -43,7 +37,8 @@
             "shining-pearl": "Come tecnica di difesa, congela completamente la sua pelliccia per far rizzare i peli come aghi.",
             "legends-arceus": "È in grado di ridurre repentinamente la propria temperatura corporea. Gela l'aere, facendo indi turbinare esili granelli di ghiaccio affini a gemme.",
             "scarlet": "Può modificare a piacimento la sua temperatura corporea. Così può congelare l’umidità dell’aria e creare cristalli di ghiaccio intorno a sé.",
-            "violet": "Abbassa la temperatura del corpo per ghiacciare i propri peli e lanciarli come aghi sottilissimi."
+            "violet": "Abbassa la temperatura del corpo per ghiacciare i propri peli e lanciarli come aghi sottilissimi.",
+            "legends-za": "Modificando la temperatura del corpo, congela l'aria e crea piogge di cristalli di ghiaccio."
         }
     },
     "egg_groups": [
@@ -52,21 +47,21 @@
     "flat_name": "glaceon",
     "generation": 4,
     "height": {
-        "glaceon": "0.8 m"
+        "glaceon": "0,8 m"
     },
     "id": 471,
     "name": "Glaceon",
-    "name_origin": "Deriva dalle parole glacier  o dalla parola francese glace  ed eon , che è un suffisso presente in tutte le Eevolution, potrebbe anche essere un'anagramma di Congeal, ovvero congelare in inglese. ",
-    "origin": "Basato su una volpe artica, anche se ha caratteristiche di cani e gatti, inoltre le orecchie sembrano quelle delle volpi Fennec. ",
+    "name_origin": "Glaceon potrebbe derivare da glacier, ghiacciao, o glace, ghiaccio in francese, e eon , suffisso finale di ogni Eeveeluzione. Glacia, il suo nome giapponese, potrebbe derivare da glacier e grace, grazia. ",
+    "origin": "Glaceon condivide tratti con volpi, gatti e cani. Dato che vive in ambienti freddi, potrebbe essere basato su una volpe artica. La parte superiore della sua testa e ai lati di questa assomiglia ad un colbacco con paraorecchie. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Glaceon",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Nevefresca",
     "sprites": {
         "glaceon": {
             "default": "https://media.pokemoncentral.it/wiki/2/28/Homem0471.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/4e/Homemsh0471.png"
         },
-        "official_artwork": "https://media.pokemoncentral.it/wiki/d/dd/Artwork0471_DLPS.png"
+        "official_artwork": "https://media.pokemoncentral.it/wiki/1/11/Artwork0471_DP.png"
     },
     "stats": {
         "glaceon": {
@@ -87,6 +82,6 @@
         ]
     },
     "weight": {
-        "glaceon": "25.9 kg"
+        "glaceon": "25,9 kg"
     }
 }

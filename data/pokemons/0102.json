@@ -15,21 +15,58 @@
         "In prima generazione Exeggcute ed Exeggutor avevano una combinazione di tipi unica."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/exeggcute.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "exeggcute": {
+            "red": "Molto simili alle uova, se disturbati si raggruppano in fretta attaccando all'unisono.",
+            "blue": "Molto simili alle uova, se disturbati si raggruppano in fretta attaccando all'unisono.",
+            "yellow": "Attraendosi le sei teste creano un rapido movimento circolare con cui si mantengono in equilibrio.",
+            "gold": "Ha un guscio molto resistente. Anche se si rompe, sopravvive senza perdere il contenuto.",
+            "silver": "Con un richiamo telepatico che solo loro possono ricevere, formano un gruppo di sei EXEGGCUTE.",
+            "crystal": "L'energia che lega il gruppo è così forte che se uno dei sei si stacca, viene subito riassorbito.",
+            "ruby": "Questo POKéMON consiste di un nucleo compatto formato da sei uova, che girano vorticosamente attraendosi a vicenda. Quando i gusci iniziano a rompersi, EXEGGCUTE è prossimo all'evoluzione.",
+            "sapphire": "Questo POKéMON consiste di un nucleo compatto formato da sei uova, che girano vorticosamente attraendosi a vicenda. Quando i gusci iniziano a rompersi, EXEGGCUTE è prossimo all'evoluzione.",
+            "emerald": "EXEGGCUTE consiste di un nucleo formato da sei uova che si attirano girando velocemente. Quando i gusci si crepano, il POKéMON è prossimo all'evoluzione.",
+            "fire-red": "Nonostante sia formato da uova, si è scoperto che la sua struttura è più simile a quella dei semi.",
+            "leaf-green": "Molto simili alle uova, se disturbati si raggruppano in fretta attaccando all'unisono.",
+            "diamond": "Queste sei uova comunicano per telepatia. Si riuniscono subito anche se vengono divise.",
+            "pearl": "Queste sei uova comunicano per telepatia. Si riuniscono subito anche se vengono divise.",
+            "platinum": "Queste sei uova comunicano per telepatia. Si riuniscono subito anche se vengono divise.",
+            "heart-gold": "Ha un guscio molto resistente. Anche se si rompe, sopravvive senza perdere il contenuto.",
+            "soul-silver": "L'EXEGGCUTE ha un richiamo telepatico unico che usa per formare gruppi di sei individui con i propri simili.",
+            "black": "Queste sei uova comunicano per telepatia. Si riuniscono subito anche se vengono divise.",
+            "white": "Queste sei uova comunicano per telepatia. Si riuniscono subito anche se vengono divise.",
+            "black-2": "Queste sei uova comunicano per telepatia. Si riuniscono subito anche se vengono divise.",
+            "white-2": "Queste sei uova comunicano per telepatia. Si riuniscono subito anche se vengono divise.",
+            "x": "Queste sei uova comunicano per telepatia. Si riuniscono subito anche se vengono divise.",
+            "y": "Nonostante sia formato da uova, si è scoperto che la sua struttura è più simile a quella dei semi.",
+            "omega-ruby": "Questo Pokémon consiste di un nucleo compatto formato da sei uova, che girano vorticosamente attraendosi a vicenda. Quando i gusci iniziano a rompersi, Exeggcute è prossimo all'evoluzione.",
+            "alpha-sapphire": "Questo Pokémon consiste di un nucleo compatto formato da sei uova, che girano vorticosamente attraendosi a vicenda. Quando i gusci iniziano a rompersi, Exeggcute è prossimo all'evoluzione.",
+            "sun": "Le sei uova comunicano telepaticamente. Il loro patrimonio genetico sembra avere elementi in comune con quello dei vegetali e di altre specie.",
+            "moon": "È costituito da sei individui. Viene spesso preso di mira dai Crabrawler, ma riesce a metterli in fuga con i suoi poteri psichici.",
+            "ultra-sun": "Ciascun Pokémon è formato da sei individui. Anche se dovesse sparirne uno per qualche motivo, la mattina dopo sarebbero di nuovo sei.",
+            "ultra-moon": "Gli Exeggcute che vivono ad Alola, pur essendo grandi come quelli di altre regioni, sono più pesanti per via dell'interno più denso.",
+            "lets-go-pikachu": "Le teste si attraggono a vicenda, creando un movimento circolare. Riescono a stabilizzarsi solo se sono in sei.",
+            "lets-go-eevee": "Le teste si attraggono a vicenda, creando un movimento circolare. Riescono a stabilizzarsi solo se sono in sei.",
+            "sword": "Somiglia a un mucchio di uova, ma è un Pokémon a tutti gli effetti. Pare che comunichi con i suoi simili telepaticamente.",
+            "shield": "Se non sono presenti tutti e sei gli individui che lo compongono, non è tranquillo. Appena ne sparisce uno si prepara alla fuga.",
+            "scarlet": "Se gli si tocca una delle teste scambiandola per un uovo, le altre non esitano ad attaccare in gruppo.",
+            "violet": "Usando un richiamo telepatico percepito solo dai suoi simili, riesce in qualsiasi momento a formare un gruppo di sei individui."
+        }
+    },
     "egg_groups": [
         "Erba"
     ],
     "flat_name": "exeggcute",
     "generation": 1,
     "height": {
-        "exeggcute": "0.4 m"
+        "exeggcute": "0,4 m"
     },
     "id": 102,
     "name": "Exeggcute",
     "name_origin": "Il suo nome deriva dalla combinazione dei termini execute , egg , e cute  . ",
-    "origin": "Exeggcute è ispirato ad un gruppo di uova e semi riunite come all interno di un nido. ",
+    "origin": "Exeggcute sembra essere ispirato ad un gruppo di semi e a delle uova. Dato il design di Exeggutor, potrebbe anche essere ispirato a delle noci di cocco. Potrebbe anche essere un gioco di parole su \"eggplant\" , o sul Nidulariaceae, un fungo dall'aspetto simile ad un nido con uova. Il tipo Psico potrebbe derivare dall'idea che la telepatia possa far coordinare più esseri e farli comportare come se fossero uno solo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Exeggcute",
-    "shape": "corpi multipli",
+    "shape": "None",
     "specie": "Pokémon Uovo",
     "sprites": {
         "exeggcute": {
@@ -58,6 +95,6 @@
         ]
     },
     "weight": {
-        "exeggcute": "2.5 kg"
+        "exeggcute": "2,5 kg"
     }
 }

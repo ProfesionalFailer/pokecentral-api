@@ -7,9 +7,6 @@
         }
     },
     "curiosities": [
-        "Rhyperior è il Pokémon che impara più mosse fisiche.\n\tSalendo di livello, infatti, impara solamente mosse fisiche e due di stato.",
-        "Salendo di livello, infatti, impara solamente mosse fisiche e due di stato.",
-        "Fino alla quarta generazione era l'unico Pokémon in grado di imparare, salendo di livello, la mossa Devastomasso. Con la quinta generazione anche Dwebble e Crustle possono imparare Devastomasso.",
         "Rhyperior e la sua pre-evoluzione condividono la categoria con Nidoking e Nidoqueen. Sono tutti noti come Pokémon Trapano.\n\tCuriosamente, sono tutti Pokémon di tipo Terra.",
         "Curiosamente, sono tutti Pokémon di tipo Terra."
     ],
@@ -19,8 +16,8 @@
             "diamond": "Mette rocce nelle cavità dei suoi palmi e le getta con tutta la sua forza. Talvolta lancia GEODUDE.",
             "pearl": "Mette rocce nelle cavità dei suoi palmi e le getta con tutta la sua forza. Talvolta lancia GEODUDE.",
             "platinum": "Può gettare una roccia che tiene in mano come un missile contraendo ed estendendo velocemente i muscoli.",
-            "heartgold": "Mette dei GEODUDE nelle cavità dei palmi e li lancia. Usa Copertura per resistere alle eruzioni vulcaniche.",
-            "soulsilver": "Mette dei GEODUDE nelle cavità dei palmi e li lancia. Usa Copertura per resistere alle eruzioni vulcaniche.",
+            "heart-gold": "Mette dei GEODUDE nelle cavità dei palmi e li lancia. Usa Copertura per resistere alle eruzioni vulcaniche.",
+            "soul-silver": "Mette dei GEODUDE nelle cavità dei palmi e li lancia. Usa Copertura per resistere alle eruzioni vulcaniche.",
             "black": "Può gettare una roccia che tiene in mano come un missile contraendo ed estendendo velocemente i muscoli.",
             "white": "Può gettare una roccia che tiene in mano come un missile contraendo ed estendendo velocemente i muscoli.",
             "black-2": "Può gettare una roccia che tiene in mano come un missile contraendo ed estendendo velocemente i muscoli.",
@@ -43,14 +40,14 @@
     "flat_name": "rhyperior",
     "generation": 4,
     "height": {
-        "rhyperior": "2.4 m"
+        "rhyperior": "2,4 m"
     },
     "id": 464,
     "name": "Rhyperior",
-    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi rhinoceros , rhyolite  e superior  o Hyperion . ",
-    "origin": "Rhyperior è basato sia sui rinoceronti che sui ceratopsidi. La sua coda dalle caratteristiche di una mazza ricorda quella di un anchilosauro. ",
+    "name_origin": "Rhyperior potrebbe derivare da rhinoceros, rinoceronte, rhyolite, riolite, e superior, superiore, o Hyperion, Iperione. Dosidon, il suo nome giapponese, potrebbe derivare da 土 do, terreno, 怒 do, rabbia, o ど do-, suffisso per \"veramente\", 犀 sai, rinoceronte, e -don, suffisso comune per i nomi di dinosauri derivante da \"dente\" in greco. ",
+    "origin": "Rhyperior condivide tratti con rinoceronti, Kaijū, dinosauri , giubbotti antiproiettile e cannoni. In generale può ricordare un minatore con casco di protezione e abbigliamento ad alta visibilità. La sua coda ricorda una palla da demolizione, mentre le sue braccia martelli pneumatici. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Rhyperior",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Trapano",
     "sprites": {
         "rhyperior": {
@@ -83,6 +80,6 @@
         ]
     },
     "weight": {
-        "rhyperior": "282.8 kg"
+        "rhyperior": "282,8 kg"
     }
 }

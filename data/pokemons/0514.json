@@ -6,9 +6,11 @@
         }
     },
     "curiosities": [
-        "Secondo un sondaggio giapponese risulta essere il Pokémon meno popolare.",
-        "Simisear condivide la categoria con Fletchinder. Entrambi sono noti come Pokémon Sfavillante.",
-        "Simisear risulta essere il Pokémon meno apprezzato dai fan, come dimostrato dall'Elezione Generale tenutasi in Giappone tra maggio e giugno 2016 ."
+        "Simisear e la sua preevoluzione sono gli unici Pokémon ad avere l'abilità Aiutofuoco a non essere Pokémon iniziali.",
+        "Simisear condivide il nome della categoria con Fletchinder: sono entrambi conosciuti come Pokémon Sfavillante.\n\tIn giapponese condividono la categoria anche con Charcadet: qui sono tutti conosciuti come ひのこポケモン Hinoko Pokémon .",
+        "In giapponese condividono la categoria anche con Charcadet: qui sono tutti conosciuti come ひのこポケモン Hinoko Pokémon .",
+        "In Pokémon GO Simisear è esclusivo dell'Europa, Medio Oriente, Africa e India, Simisage in Asia Pacifica, mentre Simipour in America e Groenlandia.",
+        "Simisear è arrivato ultimo nel Pokémon general election 720, un sondaggio per decidere quale Pokémon sarebbe stato distribuito in proiezioni giapponesi di Volcanion e la meraviglia meccanica. In seguito è stato distribuito in Pokémon Center e Pokémon Store per commemorare la sua perdita."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/simisear.mp3",
     "dex_entries": {
@@ -20,7 +22,8 @@
             "x": "Alimentando la fiamma all'interno del suo corpo, sparge dalla testa o dalla coda una pioggia di fuoco che scotta i nemici.",
             "y": "Quando è concitato si scalda e iniziano a levarsi scintille dalla testa e dalla coda. Per qualche motivo adora i dolci.",
             "omega-ruby": "Alimentando la fiamma all'interno del suo corpo, sparge dalla testa o dalla coda una pioggia di fuoco che scotta i nemici.",
-            "alpha-sapphire": "Quando è concitato si scalda e iniziano a levarsi scintille dalla testa e dalla coda. Per qualche motivo adora i dolci."
+            "alpha-sapphire": "Quando è concitato si scalda e iniziano a levarsi scintille dalla testa e dalla coda. Per qualche motivo adora i dolci.",
+            "legends-za": "Quando è concitato si scalda e iniziano a levarsi scintille dalla testa e dalla coda. Per qualche motivo adora i dolci."
         }
     },
     "egg_groups": [
@@ -29,14 +32,14 @@
     "flat_name": "simisear",
     "generation": 5,
     "height": {
-        "simisear": "1.0 m"
+        "simisear": "1,0 m"
     },
     "id": 514,
     "name": "Simisear",
-    "name_origin": "SImisear potrebbe avere origine dall'inglese simian , sear  e ear . ",
-    "origin": "È basato su una scimmia e su una fiamma. Si ispira a una delle tre scimmie sagge del santuario di Nikko, Kikazaru, la scimmia che \"Non sente il Male\". I motivi a forma di fiamma e nuvola di vapore lo rendono simile a un vulcano attivo. Il fatto che Simisear mangi dolci per alimentare l'energia della fiamma interna, ricorda l'effetto dei glucidi che danno energia al corpo. ",
+    "name_origin": "Simisear potrebbe derivare da simian , e da sear  o ear, orecchio, o hear, sentire, entrambi in riferimento alle tre scimmie sagge. Baoakkie, il suo nome giapponese, potrebbe derivare da 爆 bào, cinese per scoppiare, esplodere, バースト bāsuto , e monkey, scimmia. ",
+    "origin": "Simisear sembra essere basato su una scimmia e una fiamma. La colorazione del torso e la \"spalliera\" simile a fumo o vapore lo possono far assomigliare ad un vulcano. Insieme a Simisage e Simipour sembra essere ispirato alle tre scimmie sagge. Dato che Pansear ha la mano all'orecchio, Simisear potrebbe rappresentare non sentire il male. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Simisear",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Sfavillante",
     "sprites": {
         "simisear": {
@@ -64,6 +67,6 @@
         ]
     },
     "weight": {
-        "simisear": "28.0 kg"
+        "simisear": "28,0 kg"
     }
 }

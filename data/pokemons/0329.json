@@ -5,12 +5,11 @@
         }
     },
     "curiosities": [
-        "In terza generazione Vibrava e Flygon avevano una combinazione di tipi unica.",
-        "Vibrava e la sua evoluzione Flygon condividono certe caratteristiche con specie diverse dalla loro.",
-        "Vibrava ha la statistica Attacco di base inferiore rispetto alla pre-evoluzione Trapinch.\n\tVibrava è l'unico Pokémon non basato su una crisalide ad avere l'Attacco inferiore rispetto alla pre-evoluzione.",
-        "Vibrava è l'unico Pokémon non basato su una crisalide ad avere l'Attacco inferiore rispetto alla pre-evoluzione.",
+        "Vibrava condivide la sua categoria con Palpitoad e Seismitoad: sono tutti noti come Pokémon Vibrazione.",
+        "Vibrava ha la statistica Attacco di base inferiore rispetto alla pre-evoluzione Trapinch.",
         "Tutte le statistiche base di Vibrava salgono di esattamente 30 punti ciascuna quando si evolve in Flygon.",
-        "Vibrava e Crobat sono gli unici Pokémon che hanno la sagoma dei Pokémon con due paia di ali che non sono di tipo Coleottero."
+        "Vibrava è l'unico Pokémon di tipo Terra con Pokémon con due paia di ali.",
+        "Vibrava e la sua evoluzione sono gli unici Pokémon di tipo Drago presenti nel Gruppo uova Coleottero, e gli unici Pokémon presenti nei Gruppi uova Coleottero e Drago."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/vibrava.mp3",
     "dex_entries": {
@@ -18,13 +17,13 @@
             "ruby": "VIBRAVA attacca la preda generando onde ad ultrasuoni con le vigorose vibrazioni delle due ali. Tali onde sono così potenti da causare il mal di testa a chi le sente.",
             "sapphire": "Le ali di VIBRAVA non hanno ancora completato il loro sviluppo. Più che per affrontare lunghe distanze, le utilizza per generare onde ultrasoniche facendole vibrare.",
             "emerald": "Sfregando le sue ali, VIBRAVA produce onde ultrasoniche. Poiché le ali non hanno ancora completato lo sviluppo, con esse può volare solo per brevi distanze.",
-            "firered": "Sbattendo violentemente le ali genera onde ultrasoniche per far svenire la preda che poi scioglie col proprio acido.",
-            "leafgreen": "Sbattendo violentemente le ali genera onde ultrasoniche per far svenire la preda che poi scioglie col proprio acido.",
+            "fire-red": "Sbattendo violentemente le ali genera onde ultrasoniche per far svenire la preda che poi scioglie col proprio acido.",
+            "leaf-green": "Sbattendo violentemente le ali genera onde ultrasoniche per far svenire la preda che poi scioglie col proprio acido.",
             "diamond": "Fa vibrare violentemente le ali generando onde ultrasoniche che provocano il mal di testa.",
             "pearl": "Fa vibrare violentemente le ali generando onde ultrasoniche che provocano il mal di testa.",
             "platinum": "Fa vibrare violentemente le ali generando onde ultrasoniche che provocano il mal di testa.",
-            "heartgold": "Fa vibrare violentemente le ali generando onde ultrasoniche che provocano il mal di testa.",
-            "soulsilver": "Fa vibrare violentemente le ali generando onde ultrasoniche che provocano il mal di testa.",
+            "heart-gold": "Fa vibrare violentemente le ali generando onde ultrasoniche che provocano il mal di testa.",
+            "soul-silver": "Fa vibrare violentemente le ali generando onde ultrasoniche che provocano il mal di testa.",
             "black": "Fa vibrare violentemente le ali generando onde ultrasoniche che provocano il mal di testa.",
             "white": "Fa vibrare violentemente le ali generando onde ultrasoniche che provocano il mal di testa.",
             "black-2": "Fa vibrare violentemente le ali generando onde ultrasoniche che provocano il mal di testa.",
@@ -40,7 +39,9 @@
             "sword": "Fa vibrare velocemente le ali generando onde ultrasoniche che provocano dei forti mal di testa.",
             "shield": "Per far sviluppare le ali, si nutre ogni giorno di una grande quantità di prede, che succhia dopo averle sciolte con il proprio acido.",
             "brilliant-diamond": "Fa vibrare violentemente le ali generando onde ultrasoniche così potenti da provocare il mal di testa anche a un essere umano.",
-            "shining-pearl": "Fa vibrare violentemente le ali generando onde ultrasoniche così potenti da provocare il mal di testa anche a un essere umano."
+            "shining-pearl": "Fa vibrare violentemente le ali generando onde ultrasoniche così potenti da provocare il mal di testa anche a un essere umano.",
+            "scarlet": "Le sue ali non sono del tutto sviluppate. Più che per volare, le usa per attaccare i nemici con le onde ultrasoniche che produce sfregandole.",
+            "violet": "Facendo vibrare le ali con violenza genera onde ultrasoniche per far svenire la preda, che poi scioglie con i propri succhi gastrici."
         }
     },
     "egg_groups": [
@@ -51,14 +52,14 @@
     "flat_name": "vibrava",
     "generation": 3,
     "height": {
-        "vibrava": "1.10 m"
+        "vibrava": "1,10 m"
     },
     "id": 329,
     "name": "Vibrava",
-    "name_origin": "Vibrava deriva dalle parole inglesi \"vibrate\", vibrare e \"larva\". Potrebbe anche derivare da Vibra, un particolare tipo di drago europeo. ",
-    "origin": "Vibrava è basato sulla forma adulta della formica leone. Spesse volte la libellula e la forma adulta di formica leone vengono confuse l'una per l'altra; Vibrava potrebbe trarre ispirazione da entrambe. Inoltre alcune libellule sono dette \"draghi di sabbia\", da cui potrebbe derivare la particolare combinazione di tipi di questa specie. ",
+    "name_origin": "Vibrava potrebbe derivare da vibrate, vibrare, e larva. Potrebbe anche derivare da Vibra, un particolare tipo di drago europeo. ",
+    "origin": "Vibrava sembra essere basato sulla forma adulta della formica leone, anche se condivide tratti con un'effimera. Questo potrebbe derivare dal termine giapponese per una formica leone adulta, ovvero usuba-kagerou, \"effimera dalle ali sottili\". Data la somiglianza di una formica leone adulta ad una libellula, Vibrava potrebbe derivare dal genere Progomphus di libellule, i cui membri sono chiamati sanddragon  in inglese. La sua capacità di creare forti rumori con le ali ricorda una cicala. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Vibrava",
-    "shape": "due paia di ali",
+    "shape": "None",
     "specie": "Pokémon Vibrazione",
     "sprites": {
         "vibrava": {
@@ -87,6 +88,6 @@
         ]
     },
     "weight": {
-        "vibrava": "15.3 kg"
+        "vibrava": "15,3 kg"
     }
 }

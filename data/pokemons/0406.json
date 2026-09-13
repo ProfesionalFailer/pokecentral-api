@@ -7,9 +7,8 @@
         }
     },
     "curiosities": [
-        "Budew è l'unico Pokémon di quarta generazione che può imparare Cottonspora.",
-        "Finora Budew è l'unico Pokémon Baby di doppio tipo Erba/Veleno.",
-        "Budew è l'unico membro della sua linea evolutiva il cui nome Inglese differisce dal nome giapponese."
+        "Budew è l'unico membro della sua linea evolutiva il cui nome inglese differisce dal nome giapponese.",
+        "Budew e Roserade sono gli unici membri della stessa famiglia evolutiva vicini nel Pokédex che hanno uno stadio evolutivo intermedio."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/budew.mp3",
     "dex_entries": {
@@ -17,8 +16,8 @@
             "diamond": "D'inverno chiude la sua gemma e resiste al freddo. In primavera la gemma si riapre e rilascia polline.",
             "pearl": "Vive sulle rive di stagni puliti. Il suo polline fa starnutire e colare il naso.",
             "platinum": "La sua gemma, sensibile agli sbalzi di temperatura, si schiude quando avverte i caldi raggi del sole.",
-            "heartgold": "I raggi del sole gli fanno schiudere la gemma e rilasciare polline. Fa la tana vicino a bei corsi d'acqua.",
-            "soulsilver": "I raggi del sole gli fanno schiudere la gemma e rilasciare polline. Fa la tana vicino a bei corsi d'acqua.",
+            "heart-gold": "I raggi del sole gli fanno schiudere la gemma e rilasciare polline. Fa la tana vicino a bei corsi d'acqua.",
+            "soul-silver": "I raggi del sole gli fanno schiudere la gemma e rilasciare polline. Fa la tana vicino a bei corsi d'acqua.",
             "black": "La sua gemma, sensibile agli sbalzi di temperatura, si schiude quando avverte i caldi raggi del sole.",
             "white": "La sua gemma, sensibile agli sbalzi di temperatura, si schiude quando avverte i caldi raggi del sole.",
             "black-2": "È sensibile agli sbalzi di temperatura. Quando fa caldo la sua gemma si schiude liberando nell'aria un polline velenoso.",
@@ -27,12 +26,14 @@
             "y": "D'inverno chiude la sua gemma e resiste al freddo. In primavera la gemma si riapre e rilascia polline.",
             "omega-ruby": "I raggi del sole gli fanno schiudere la gemma e rilasciare polline. Fa la tana vicino a bei corsi d'acqua.",
             "alpha-sapphire": "D'inverno chiude la sua gemma e resiste al freddo. In primavera la gemma si riapre e rilascia polline.",
-            "sword": "Più pulita è l’acqua con cui è a contatto durante la crescita, più aumentano i componenti tossici del polline velenoso che sparge.",
+            "sword": "Più pulita è l'acqua con cui è a contatto durante la crescita, più aumentano i componenti tossici del polline velenoso che sparge.",
             "shield": "È sensibile agli sbalzi di temperatura. Quando le sue gemme si schiudono è segno che la primavera è vicina.",
             "brilliant-diamond": "D'inverno chiude la sua gemma per resistere al freddo. In primavera la riapre per rilasciare il polline.",
             "shining-pearl": "Vive sulle rive di limpidi specchi d'acqua. Sparge del polline che fa starnutire e colare il naso.",
-            "legends-arceus": "Quando il sole acquista vigore, le gemme sul capo si schiudono. Ciò annunzia la fine del rigido inverno e l'inizio della stagione dei germogli."
-        }
+            "legends-arceus": "Quando il sole acquista vigore, le gemme sul capo si schiudono. Ciò annunzia la fine del rigido inverno e l'inizio della stagione dei germogli.",
+            "legends-za": "Se esposte ai caldi raggi del sole, le gemme si schiudono e rilasciano polline. Fa la tana vicino all'acqua pulita."
+        },
+        "": {}
     },
     "egg_groups": [
         "Sconosciuto"
@@ -40,14 +41,14 @@
     "flat_name": "budew",
     "generation": 4,
     "height": {
-        "budew": "0.2 m"
+        "budew": "0,2 m"
     },
     "id": 406,
     "name": "Budew",
-    "name_origin": "Il nome di Budew nasce dall'unione delle parole inglesi bud  e dew . ",
-    "origin": "Budew si basa su un bocciolo di rosa. ",
+    "name_origin": "Budew potrebbe derivare da bud, germoglio, e dew, rugiada. Subomie, il suo nome giapponese, potrebbe derivare da 蕾 tsubomi, germoglio di fiore. ",
+    "origin": "Budew sembra essere basato su un bocciolo di rosa. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Budew",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Germoglio",
     "sprites": {
         "budew": {
@@ -76,6 +77,6 @@
         ]
     },
     "weight": {
-        "budew": "1.2 kg"
+        "budew": "1,2 kg"
     }
 }

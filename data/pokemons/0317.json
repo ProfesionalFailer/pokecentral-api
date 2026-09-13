@@ -16,13 +16,13 @@
             "ruby": "Quando individua la preda, SWALOT spruzza sul bersaglio un ripugnante fluido tossico dai propri pori. Una volta indebolito l'avversario, SWALOT lo ingoia intero con la bocca simile ad una voragine.",
             "sapphire": "SWALOT non ha denti, così quando mangia ingoia ogni cosa intera, senza masticare. Quando sbadiglia, la sua bocca enorme si apre a mo' di voragine. È così grande che potrebbe contenere persino un pneumatico.",
             "emerald": "Non c'è cosa che i micidiali succhi gastrici di SWALOT non possano sciogliere, eccezion fatta per il suo stesso stomaco.",
-            "firered": "Può ingoiare uno pneumatico in un boccone. Da tutti i pori del corpo secerne un liquido tossico.",
-            "leafgreen": "Può ingoiare uno pneumatico in un boccone. Da tutti i pori del corpo secerne un liquido tossico.",
+            "fire-red": "Può ingoiare uno pneumatico in un boccone. Da tutti i pori del corpo secerne un liquido tossico.",
+            "leaf-green": "Può ingoiare uno pneumatico in un boccone. Da tutti i pori del corpo secerne un liquido tossico.",
             "diamond": "Inghiotte intera qualsiasi cosa. Dai pori traspira un liquido tossico con cui bagna i nemici.",
             "pearl": "Inghiotte intera qualsiasi cosa. Dai pori traspira un liquido tossico con cui bagna i nemici.",
             "platinum": "Inghiotte intera qualsiasi cosa. Dai pori traspira un liquido tossico con cui bagna i nemici.",
-            "heartgold": "Inghiotte qualunque cosa che possa infilarsi in bocca. Digerisce tutto con succhi gastrici speciali.",
-            "soulsilver": "Inghiotte qualunque cosa che possa infilarsi in bocca. Digerisce tutto con succhi gastrici speciali.",
+            "heart-gold": "Inghiotte qualunque cosa che possa infilarsi in bocca. Digerisce tutto con succhi gastrici speciali.",
+            "soul-silver": "Inghiotte qualunque cosa che possa infilarsi in bocca. Digerisce tutto con succhi gastrici speciali.",
             "black": "Inghiotte intera qualsiasi cosa. Dai pori traspira un liquido tossico con cui bagna i nemici.",
             "white": "Inghiotte intera qualsiasi cosa. Dai pori traspira un liquido tossico con cui bagna i nemici.",
             "black-2": "Inghiotte intera qualsiasi cosa. Dai pori traspira un liquido tossico con cui bagna i nemici.",
@@ -34,7 +34,8 @@
             "brilliant-diamond": "Inghiotte qualsiasi cosa nella sua interezza. Dai pori secerne un liquido tossico che spruzza addosso ai nemici.",
             "shining-pearl": "Inghiotte qualsiasi cosa nella sua interezza. Dai pori secerne un liquido tossico che spruzza addosso ai nemici.",
             "scarlet": "Inghiotte qualunque cosa che possa infilarsi in bocca. Non c’è nulla che i suoi succhi gastrici speciali non riescano a digerire.",
-            "violet": "Può ingoiare uno pneumatico in un sol boccone. Secerne un liquido incredibilmente tossico da tutti i pori del corpo."
+            "violet": "Può ingoiare uno pneumatico in un sol boccone. Secerne un liquido incredibilmente tossico da tutti i pori del corpo.",
+            "legends-za": "Inghiotte qualsiasi cosa nella sua interezza. Dai pori secerne un liquido tossico che spruzza addosso ai nemici."
         }
     },
     "egg_groups": [
@@ -43,14 +44,14 @@
     "flat_name": "swalot",
     "generation": 3,
     "height": {
-        "swalot": "1.7 m"
+        "swalot": "1,7 m"
     },
     "id": 317,
     "name": "Swalot",
-    "name_origin": "Il nome Swalot potrebbe derivare dall'unione di swallow, inghiottire, e a lot, molto. Il nome Marunoom potrebbe derivare dall'unione di 丸呑み marunomi, inghiottire per intero, e 呑む nomu, inglobare. ",
-    "origin": "Swalot potrebbe essere basato su una miriade di vari organi o ghiandole, come uno stomaco, una cistifellea o una singola ghiandola velenosa gigante. Potrebbe anche essere basato su un organismo generico che utilizza pseudopodi. La sua forma generale ricorda quella di una lumaca. ",
+    "name_origin": "Swalot potrebbe derivare dall'unione di swallow, inghiottire, e a lot, molto. Marunoom, il suo nome giapponese, potrebbe derivare da 丸呑み marunomi, inghiottire per intero. ",
+    "origin": "Swalot sembra essere basato su vari organi o ghiandole, come uno stomaco, la cistifellea o una singola ghiandola velenifera. Potrebbe anche derivare da un organismo unicellulare dotato di pseudopodo. Potrebbe anche prendere ispirazione da una busta della spazzatura. Swalot potrebbe prendere ispirazione dal Nuppeppō, uno yōkai raffigurato come un essere gelatinoso dotato di arti. Potrebbe inoltre prendere ispirazione dal Physarum polycephalum, un tipo di muffa che si nutre di spore e batteri, da un'ameba, o anche dal film Blob - Fluido mortale o dal Megalodicopia hians. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Swalot",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Velenosacco",
     "sprites": {
         "swalot": {
@@ -82,6 +83,6 @@
         ]
     },
     "weight": {
-        "swalot": "80.0 kg"
+        "swalot": "80,0 kg"
     }
 }

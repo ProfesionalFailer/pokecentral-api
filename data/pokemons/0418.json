@@ -6,7 +6,8 @@
         }
     },
     "curiosities": [
-        "Buizel è stato rivelato in largo anticipo nel marzo del 2006 in promozione col film Pokémon Ranger e il Tempio del Mare, insieme a Mantyke e Chatot."
+        "Buizel è stato rivelato in largo anticipo nel marzo del 2006 in promozione col film Pokémon Ranger e il Tempio del Mare, insieme a Mantyke e Chatot.",
+        "Ogni Buizel apparso nella serie animata finora è stato maschio."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/buizel.mp3",
     "dex_entries": {
@@ -14,8 +15,8 @@
             "diamond": "Ha un collare che funge da galleggiante. Quando nuota, la sua testa rimane sempre fuori dall'acqua.",
             "pearl": "Nuota roteando le due code come fossero viti. Quando si immerge, il suo galleggiante si sgonfia.",
             "platinum": "Usa le sue due code come eliche per spostarsi nell'acqua e con esse taglia anche le alghe che s'impigliano.",
-            "heartgold": "Gonfia il suo collare galleggiante e nuota con la testa fuori dall'acqua in cerca di prede terrestri.",
-            "soulsilver": "Gonfia il suo collare galleggiante e nuota con la testa fuori dall'acqua in cerca di prede terrestri.",
+            "heart-gold": "Gonfia il suo collare galleggiante e nuota con la testa fuori dall'acqua in cerca di prede terrestri.",
+            "soul-silver": "Gonfia il suo collare galleggiante e nuota con la testa fuori dall'acqua in cerca di prede terrestri.",
             "black": "Usa le sue due code come eliche per spostarsi nell'acqua e con esse taglia anche le alghe che s'impigliano.",
             "white": "Usa le sue due code come eliche per spostarsi nell'acqua e con esse taglia anche le alghe che s'impigliano.",
             "black-2": "Gonfia il salvagente che ha attorno al collo per mantenere la testa fuori dall'acqua mentre controlla i paraggi.",
@@ -27,8 +28,8 @@
             "brilliant-diamond": "Se riempito d'aria, il suo collare si gonfia come un galleggiante. Quando nuota, la sua testa rimane sempre fuori dall'acqua.",
             "shining-pearl": "Nuota roteando le due code come fosse una vite. Quando si immerge, il suo galleggiante si sgonfia.",
             "legends-arceus": "Si muove liberamente in acqua per mezzo della forza propulsiva delle due code che ricordano, del tutto fortuitamente, l'elica d'un vaporetto.",
-            "scarlet": "Facendo girare le sue code a mo’ di elica si sposta nell’acqua e riesce anche a falciare le alghe quando rimane impigliato.",
-            "violet": "Gonfia il suo collare galleggiante e rimane con la testa fuori dall’acqua in cerca di prede sulla terraferma."
+            "scarlet": "Facendo girare le sue code a mo' di elica si sposta nell'acqua e riesce anche a falciare le alghe quando rimane impigliato.",
+            "violet": "Gonfia il suo collare galleggiante e rimane con la testa fuori dall'acqua in cerca di prede sulla terraferma."
         }
     },
     "egg_groups": [
@@ -38,14 +39,14 @@
     "flat_name": "buizel",
     "generation": 4,
     "height": {
-        "buizel": "0.7 m"
+        "buizel": "0,7 m"
     },
     "id": 418,
     "name": "Buizel",
-    "name_origin": "Deriva dalle parole buoy  e weasel . ",
-    "origin": "Basato su una lontra con caratteristiche di una donnola. ",
+    "name_origin": "Buizel e Buoysel, il suo nome giapponese, potrebbero derivare da buoy, boa, e weasel, donnola. ",
+    "origin": "Buizel sembra essere basato su una donnola con caratteristiche di una lontra. Include anche elementi di dispositivi galleggianti, come salvagenti. Il suo modo di roteare la coda per muoversi nell'acqua ricorda le eliche usate dalle barche. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Buizel",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Maridonnola",
     "sprites": {
         "buizel": {
@@ -56,7 +57,7 @@
             "default": "https://media.pokemoncentral.it/wiki/3/35/Homef0418.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/e9/Homefsh0418.png"
         },
-        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7a/Artwork0418_DLPS.png"
+        "official_artwork": "https://media.pokemoncentral.it/wiki/7/7f/Artwork0418_DP.png"
     },
     "stats": {
         "buizel": {
@@ -77,6 +78,6 @@
         ]
     },
     "weight": {
-        "buizel": "29.5 kg"
+        "buizel": "29,5 kg"
     }
 }

@@ -12,7 +12,8 @@
     "dex_entries": {
         "runerigus": {
             "sword": "Un antico disegno afflitto da una potente maledizione ha preso vita, imprigionando l'anima di Yamask.",
-            "shield": "Non bisogna toccare il suo corpo simile a un'ombra, o si vedranno i propri ricordi più terribili imprigionati nel suo motivo."
+            "shield": "Non bisogna toccare il suo corpo simile a un'ombra, o si vedranno i propri ricordi più terribili imprigionati nel suo motivo.",
+            "legends-za": "Le tavolette d'argilla sono tornate a formare la lastra originale, liberando tutta l'energia del rancore imprigionato al loro interno"
         }
     },
     "egg_groups": [
@@ -22,14 +23,14 @@
     "flat_name": "runerigus",
     "generation": 8,
     "height": {
-        "runerigus": "1.6 m"
+        "runerigus": "1,6 m"
     },
     "id": 867,
     "name": "Runerigus",
     "name_origin": "Runerigus potrebbe essere una combinazione di rune, runa, egregious, disdicevole, e Cofagrigus. Deathbarn potrebbe essere una combinazione di death, morte, 板 ban, lastra, e Desukān. ",
-    "origin": "Runerigus potrebbe essere basato sulle pietre runiche di Ingvar, delle grandi pietre incise dai vichinghi e utilizzate per commemorare la vita di persone illustri ed eventi come la spedizione vichinga nel mar Caspio. Molte delle pietre runiche scoperte avevano un motivo a serpente. Si riteneva, inoltre, che le pietre avessero proprietà mistiche e che potessero offrire protezione, ricchezza e vittoria. Potrebbe essere basato anche su Apopi, il dio egizio del caos, che era spesso rappresentato come un serpente. Il fatto che Yamask di Galar si evolva in Runerigus dopo aver subito almeno 49 PS di danni potrebbe essere un riferimento a Bardo Thödol, un concetto buddhista di purgatorio dopo al morte e prima della reincarnazione; si dice che questo processo duri quarantanove giorni. Può anche essere un riferimento al fatto che in Giappone 49 è un numero sfortunato perché i numeri 4 e 9 si leggono \"shi-ku\", come \"shinu made kurushimu\" . ",
+    "origin": "Runerigus potrebbe essere basato sulle pietre runiche di Ingvar, delle grandi pietre incise dai vichinghi e utilizzate per commemorare la vita di persone illustri ed eventi come la spedizione vichinga nel mar Caspio. Molte delle pietre runiche scoperte avevano un motivo a serpente. Si riteneva, inoltre, che le pietre avessero proprietà mistiche e che potessero offrire protezione, ricchezza e vittoria. Potrebbe essere basato anche su Apopi, il dio egizio del caos, che era spesso rappresentato come un serpente. Il fatto che Yamask di Galar si evolva in Runerigus dopo aver subito almeno 49 Punti Salute di danno potrebbe essere un riferimento a Bardo Thödol, un concetto buddhista di purgatorio dopo al morte e prima della reincarnazione; si dice che questo processo duri quarantanove giorni. Può anche essere un riferimento al fatto che in Giappone 49 è un numero sfortunato perché i numeri 4 e 9 si leggono \"shi-ku\", come \"shinu made kurushimu\" . ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Runerigus",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Rancore",
     "sprites": {
         "runerigus": {
@@ -53,11 +54,11 @@
     },
     "types": {
         "runerigus": [
-            "Terra",
-            "Spettro"
+            "Spettro",
+            "Terra"
         ]
     },
     "weight": {
-        "runerigus": "66.6 kg"
+        "runerigus": "66,6 kg"
     }
 }

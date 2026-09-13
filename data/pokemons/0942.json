@@ -17,13 +17,16 @@
         "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
         "Pokémon di Gruppo Uova Campo",
         "Pokémon appartenenti a una linea di evoluzione a due stadi",
-        "Pokémon con statistiche base totali di 340"
+        "Pokémon con statistiche base totali di 340",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/maschiff.mp3",
     "dex_entries": {
         "maschiff": {
             "scarlet": "Si mostra sempre accigliato per evitare di essere preso sottogamba, ma il suo buffo muso fa ridere persino i bambini in preda al pianto.",
-            "violet": "La mandibola e le zanne sono così potenti e ben sviluppate da poter sgretolare la pietra. Lo spesso strato di grasso gli dà un'ottima difesa."
+            "violet": "La mandibola e le zanne sono così potenti e ben sviluppate da poter sgretolare la pietra. Lo spesso strato di grasso gli dà un'ottima difesa.",
+            "legends-za": "Il suo branco è molto unito. Per evitare di essere preso sottogamba intimidisce gli avversari con un’espressione imbronciata."
         }
     },
     "egg_groups": [
@@ -32,14 +35,14 @@
     "flat_name": "maschiff",
     "generation": 9,
     "height": {
-        "maschiff": "0.5 m"
+        "maschiff": "0,5 m"
     },
     "id": 942,
     "name": "Maschiff",
     "name_origin": "Maschiff potrebbe derivare da mafia, mastiff  e mischief . ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Maschiff",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Rompicollo",
     "sprites": {
         "maschiff": {
@@ -67,6 +70,6 @@
         ]
     },
     "weight": {
-        "maschiff": "16.0 kg"
+        "maschiff": "16,0 kg"
     }
 }

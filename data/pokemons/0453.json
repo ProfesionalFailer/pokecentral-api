@@ -7,10 +7,13 @@
         }
     },
     "curiosities": [
-        "Prima dell'uscita di Leggende Pokémon: Arceus Croagunk e la sua evoluzione Toxicroak erano gli unici Pokémon possedenti il doppio tipo Veleno/Lotta.",
-        "A Pratopoli, nell'anime, si tiene il festival dei Croagunk.\n\tCroagunk infatti è la mascotte di Pratopoli, come si evince dalla statuetta di legno messa al bancone nel Pokémon-Market della città.\n\tSempre a Pratopoli, nei videogiochi, è presente un pannello ritraente Croagunk con un buco all'altezza della testa, dove il giocatore può posizionarsi. Raramente, dal basso può apparire un Croagunk diretto verso la palude.",
-        "Croagunk infatti è la mascotte di Pratopoli, come si evince dalla statuetta di legno messa al bancone nel Pokémon-Market della città.\n\tSempre a Pratopoli, nei videogiochi, è presente un pannello ritraente Croagunk con un buco all'altezza della testa, dove il giocatore può posizionarsi. Raramente, dal basso può apparire un Croagunk diretto verso la palude.",
-        "Sempre a Pratopoli, nei videogiochi, è presente un pannello ritraente Croagunk con un buco all'altezza della testa, dove il giocatore può posizionarsi. Raramente, dal basso può apparire un Croagunk diretto verso la palude."
+        "Croagunk è stato disegnato da Takao Unno.",
+        "Croagunk può essere considerato come una mascotte di Pratopoli:\n\tNella serie animata in questa città si tiene il Festival dei Croagunk;\n\tÈ presente una sua statuetta di legno messa al bancone nel Pokémon-Market della città;\n\tÈ presente un pannello ritraente Croagunk con un buco all'altezza della testa, dove il giocatore può posizionarsi. Raramente, in Pokémon Platino, dal basso può apparire un Croagunk diretto verso la palude.",
+        "Nella serie animata in questa città si tiene il Festival dei Croagunk;",
+        "È presente una sua statuetta di legno messa al bancone nel Pokémon-Market della città;",
+        "È presente un pannello ritraente Croagunk con un buco all'altezza della testa, dove il giocatore può posizionarsi. Raramente, in Pokémon Platino, dal basso può apparire un Croagunk diretto verso la palude.",
+        "Il nome inglese di Croagunk, insieme a quello di altri, è stato rivelato il 13 febbraio 2007. A causa della bassa qualità dell'immagine, però, il nome sembrava \"Croalurk\".",
+        "Gli sprite di Croagunk di quarta e quinta generazione lo mostrano con guance rosa, mentre i modelli 3D e i vari artwork le mostrano arancioni."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/croagunk.mp3",
     "dex_entries": {
@@ -18,8 +21,8 @@
             "diamond": "Le sacche delle guance contengono veleno. Infilza i nemici con le sue unghie avvelenate.",
             "pearl": "Gonfiando le sacche di veleno, emette dei gargarismi misteriosi che intimoriscono il nemico.",
             "platinum": "Combatte spesso slealmente, ma lo fa per sopravvivere. È molto apprezzato come mascotte.",
-            "heartgold": "Si spreme dalle dita un succo velenoso usato nella ricetta di un rimedio contro la lombaggine.",
-            "soulsilver": "Si spreme dalle dita un succo velenoso usato nella ricetta di un rimedio contro la lombaggine.",
+            "heart-gold": "Si spreme dalle dita un succo velenoso usato nella ricetta di un rimedio contro la lombaggine.",
+            "soul-silver": "Si spreme dalle dita un succo velenoso usato nella ricetta di un rimedio contro la lombaggine.",
             "black": "Combatte spesso slealmente, ma lo fa per sopravvivere. È molto apprezzato come mascotte.",
             "white": "Combatte spesso slealmente, ma lo fa per sopravvivere. È molto apprezzato come mascotte.",
             "black-2": "Gonfia le sue sacche di veleno emettendo un verso sinistro che può far tentennare l'avversario, poi lo avvelena.",
@@ -33,7 +36,7 @@
             "brilliant-diamond": "Le sacche delle guance contengono veleno. Coglie di sorpresa i nemici per infilzarli con le sue dita avvelenate.",
             "shining-pearl": "Gonfiando le sacche di veleno, emette dei gargarismi misteriosi che intimoriscono il nemico.",
             "legends-arceus": "È velenifero e iniquo per natura. Malgrado ciò, gode di una certa notorietà grazie al suo singolare verso e ai comici lineamenti facciali.",
-            "scarlet": "Gonfia le sue sacche di veleno emettendo un verso sinistro che fa impietrire l’avversario, poi lo avvelena.",
+            "scarlet": "Gonfia le sue sacche di veleno emettendo un verso sinistro che fa impietrire l'avversario, poi lo avvelena.",
             "violet": "Combatte spesso slealmente, ma lo fa per sopravvivere. È molto apprezzato come mascotte."
         }
     },
@@ -43,14 +46,14 @@
     "flat_name": "croagunk",
     "generation": 4,
     "height": {
-        "croagunk": "0.7 m"
+        "croagunk": "0,7 m"
     },
     "id": 453,
     "name": "Croagunk",
-    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi croak, gracidio, e gunk, poltiglia, schifezza. ",
-    "origin": "Basato su una rana freccia. ",
+    "name_origin": "Croagunk potrebbe derivare da croak, gracidio, e gunk, sudiciume. Gureggru, il suo nome giapponese, potrebbe derivare da グレる gureru, \"diventare un delinquente\", e げろげろ gerogero, onomatopea del gracidio o per indicare disgusto. ",
+    "origin": "Croagunk sembra essere basato su una rana freccia. Le strisce bianche sull'addome ricordano un sarashi, e il diverso posizionamento di queste tra maschio e femmina è simile al diverso modo diindossare questo indumento tra uomini e donne. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Croagunk",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Inveieleno",
     "sprites": {
         "croagunk": {
@@ -83,6 +86,6 @@
         ]
     },
     "weight": {
-        "croagunk": "23.0 kg"
+        "croagunk": "23,0 kg"
     }
 }

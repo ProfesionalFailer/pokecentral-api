@@ -12,7 +12,8 @@
         }
     },
     "curiosities": [
-        "È l'unico Pokémon che si evolve in presenza di una condizione atmosferica."
+        "Sliggoo è l'unico Pokémon conosciuto che si evolve in presenza di una condizione atmosferica.",
+        "Nel codice interno di Leggende Pokémon: Arceus, l'abilità secondaria di Sliggoo di Hisui è Copricapo anziché Guscioscudo."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/sliggoo.mp3",
     "dex_entries": {
@@ -28,7 +29,8 @@
             "sword": "È un Pokémon debole. Ha evitato l'estinzione grazie al suo muco corrosivo.",
             "shield": "Nella protuberanza che ha sulla schiena si trova un piccolo cervello. Pensa solo a mangiare e a scappare dai nemici.",
             "scarlet": "I suoi organi vitali, come ad esempio il cuore e il cervello, sono tutti racchiusi nella protuberanza a spirale che ha sulla schiena.",
-            "violet": "Quando Sliggoo avverte il pericolo, la membrana che ricopre il suo corpo diventa molto più densa e può sciogliere qualsiasi cosa."
+            "violet": "Quando Sliggoo avverte il pericolo, la membrana che ricopre il suo corpo diventa molto più densa e può sciogliere qualsiasi cosa.",
+            "legends-za": "Le quattro corna di questo Pokémon sono simili a un potente radar e fungono da organi sensoriali al posto di orecchie e naso."
         },
         "forma-di-hisui": {
             "legends-arceus": "Ha un temperamento alquanto cupo. Ritengo che il carapace metallico sia il risultato dell'interazione tra l'acqua ferrosa di Hisui e il muco ricoprente la cute."
@@ -40,14 +42,14 @@
     "flat_name": "sliggoo",
     "generation": 6,
     "height": {
-        "sliggoo": "0.8 m"
+        "sliggoo": "0,8 m"
     },
     "id": 705,
     "name": "Sliggoo",
     "name_origin": "Sliggoo è una combinazione tra slick , slimy , slug  e goo. Numeil deriva da 滑る numeru  e snail . ",
     "origin": "Sliggoo sembra essere basato sui gasteropodi con il corpo molle, come le lumache e i nudibranchia; la sua immagine e l'eventuale disegno del drago nelle evoluzioni può essere un riferimento alla lumaca di mare \"drago blu\". Il corpo a forma di conchiglia è probabilmente un riferimento alle conchiglie rudimentali in determinate specie di lumache o forse un riferimento alle semi-lumache. Può anche essere basato sul concetto di melma che vive nella cultura popolare. Le sue origini da lumaca così come la sua immagine di drago e la forma del corpo allungato possono significare che potrebbe anche essere basato sul Lou Carcolh, un serpente/mollusco mitico del folclore francese. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Sliggoo",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Mollusco",
     "sprites": {
         "sliggoo": {
@@ -92,6 +94,6 @@
         ]
     },
     "weight": {
-        "sliggoo": "17.5 kg"
+        "sliggoo": "17,5 kg"
     }
 }

@@ -21,7 +21,8 @@
             "omega-ruby": "Quando carica, ha una forza tale da sfondare un'enorme muraglia. Si racconta di lui nelle leggende.",
             "alpha-sapphire": "Si racconta di lui nelle leggende. Per salvare i Pokémon, ha distrutto un castello con il suo immenso potere.",
             "sword": "Possiede una forza straordinaria. Non ha alcuna pietà per quelli che se la prendono con i Pokémon più piccoli di loro.",
-            "shield": "Le leggende della regione di Unima narrano delle sue lotte contro gli esseri umani per proteggere i Pokémon."
+            "shield": "Le leggende della regione di Unima narrano delle sue lotte contro gli esseri umani per proteggere i Pokémon.",
+            "legends-za": "Quando parte alla carica, ha una forza tale da sfondare un'enorme muraglia con un colpo solo. Si racconta di lui nelle leggende."
         }
     },
     "egg_groups": [
@@ -30,14 +31,14 @@
     "flat_name": "terrakion",
     "generation": 5,
     "height": {
-        "terrakion": "1.9 m"
+        "terrakion": "1,9 m"
     },
     "id": 639,
     "name": "Terrakion",
     "name_origin": "Il suo nome, probabilmente, deriva dalla parola terra o terracotta e dalla parola inglese champion  o lion . ",
     "origin": "Terrakion è basato sulla figura di Porthos, personaggio del racconto \"I tre moschettieri\". Come il suo omonimo è il più forte, pesante e robusto del gruppo. Il suo aspetto ricorda quello del bighorn, una pecora nordamericana, o del bue. Il colore del manto è un riferimento esplicito al terra cotta. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Terrakion",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Caverna",
     "sprites": {
         "terrakion": {
@@ -66,6 +67,6 @@
         ]
     },
     "weight": {
-        "terrakion": "260.0 kg"
+        "terrakion": "260,0 kg"
     }
 }

@@ -7,15 +7,9 @@
         }
     },
     "curiosities": [
-        "Porygon2 è uno dei Pokémon con caratteri non alfabetici nel nome.\n\tNei giochi di seconda generazione, è impossibile riportare un Porygon2 con un soprannome al nome della sua specie: questo perché il 2 non è disponibile tra i caratteri usati per i soprannomi.",
+        "Porygon2 è uno dei Pokémon con caratteri non alfabetici nel nome, e l'unico con un numero nel suo nome.\n\tNei giochi di seconda generazione, è impossibile riportare un Porygon2 con un soprannome al nome della sua specie: questo perché il 2 non è disponibile tra i caratteri usati per i soprannomi.",
         "Nei giochi di seconda generazione, è impossibile riportare un Porygon2 con un soprannome al nome della sua specie: questo perché il 2 non è disponibile tra i caratteri usati per i soprannomi.",
-        "È uno dei due Pokémon più piccoli e leggeri di quelli da cui si evolvono. L'altro è Bellossom.\n\tÈ possibile che questo sia in riferimento al fatto che i computer tendono a diventare più piccoli e potenti con l'avanzare delle tecnologie.",
-        "È possibile che questo sia in riferimento al fatto che i computer tendono a diventare più piccoli e potenti con l'avanzare delle tecnologie.",
-        "È l'unico Pokémon evoluto attraverso scambio che si evolve ancora attraverso scambio.",
-        "In seconda generazione Porygon, Porygon2 e Smeargle erano gli unici Pokémon in grado di ottenere entrambi gli effetti di Maledizione: l'uno semplicemente usando la mossa, l'altro dopo aver ottenuto il tipo Spettro usando Conversione o Conversione2. In terza generazione Porygon e Porygon2 perdono questa possibilità perché Maledizione non è più una MT, ma la ottengono nuovamente in settima grazie alla compatibilità con i giochi su Virtual Console.\n\tMolti altri Pokémon potrebbero sfruttare entrambi gli effetti di Maledizione grazie a Inondazione o Halloween, con la differenza che non sono in grado di farlo autonomamente perché devono subire una di queste mosse.",
-        "Molti altri Pokémon potrebbero sfruttare entrambi gli effetti di Maledizione grazie a Inondazione o Halloween, con la differenza che non sono in grado di farlo autonomamente perché devono subire una di queste mosse.",
-        "Nonostante sia rosa e blu, il Pokédex lo classifica come rosso, una situazione simile a quella di Butterfree e Mothim.",
-        "Nei giochi il suo verso è simile a quello di Girafarig, cambia solamente il tono."
+        "È uno dei due Pokémon più piccoli e leggeri di quelli da cui si evolvono. L'altro è Bellossom."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/porygon2.mp3",
     "dex_entries": {
@@ -26,13 +20,13 @@
             "ruby": "PORYGON2 è una creatura artificiale frutto del sapere scientifico. Questo POKéMON è dotato di un'intelligenza artificiale che gli consente d'imparare autonomamente nuove abilità ed emozioni.",
             "sapphire": "PORYGON2 è una creatura artificiale frutto del sapere scientifico. Questo POKéMON è dotato di un'intelligenza artificiale che gli consente d'imparare autonomamente nuove abilità ed emozioni.",
             "emerald": "PORYGON2 è una creatura artificiale frutto della scienza. È stato dotato di un'intelligenza che gli consente d'imparare nuove abilità ed emozioni.",
-            "firered": "Ricerche avanzate hanno potenziato le sue capacità. Ora può fare movimenti che non erano programmati.",
-            "leafgreen": "Questa evoluzione di PORYGON è adatta alle esplorazioni nello spazio. Tuttavia non sa volare.",
+            "fire-red": "Ricerche avanzate hanno potenziato le sue capacità. Ora può fare movimenti che non erano programmati.",
+            "leaf-green": "Questa evoluzione di PORYGON è adatta alle esplorazioni nello spazio. Tuttavia non sa volare.",
             "diamond": "Gli è stato installato un programma di sviluppo planetario che lo rende capace di lavorare nello spazio.",
             "pearl": "Gli è stato installato un programma di sviluppo planetario che lo rende capace di lavorare nello spazio.",
             "platinum": "È stato potenziato per consentire l’esplorazione di altri pianeti. Tuttavia, non ha avuto successo.",
-            "heartgold": "Questa evoluzione di PORYGON è adatta alle esplorazioni nello spazio. Tuttavia non sa volare.",
-            "soulsilver": "Ricerche avanzate hanno potenziato le sue capacità. Ora può fare movimenti che non erano programmati.",
+            "heart-gold": "Questa evoluzione di PORYGON è adatta alle esplorazioni nello spazio. Tuttavia non sa volare.",
+            "soul-silver": "Ricerche avanzate hanno potenziato le sue capacità. Ora può fare movimenti che non erano programmati.",
             "black": "È stato potenziato per consentire l'esplorazione di altri pianeti. Tuttavia, non ha avuto successo.",
             "white": "È stato potenziato per consentire l'esplorazione di altri pianeti. Tuttavia, non ha avuto successo.",
             "black-2": "È stato potenziato per consentire l'esplorazione di altri pianeti. Tuttavia, non ha avuto successo.",
@@ -51,7 +45,8 @@
             "shining-pearl": "Gli è stato installato un programma di sviluppo planetario che lo rende capace di lavorare nello spazio.",
             "legends-arceus": "Si è evoluto per mezzo di un singolare strumento. Gestualità ed espressività si sono fatte più ricche, seppur rimangano ignoti i dati biologici sul suo conto.",
             "scarlet": "Un Pokémon artificiale realizzato con tecnologia d'avanguardia. Di tanto in tanto mostra reazioni non programmate.",
-            "violet": "Questa versione aggiornata di Porygon è adatta allo sviluppo planetario, anche se non è ancora in grado di volare."
+            "violet": "Questa versione aggiornata di Porygon è adatta allo sviluppo planetario, anche se non è ancora in grado di volare.",
+            "legends-za": "È stato creato aggiornando Porygon con la tecnologia più avanzata per l’epoca, in vista di un progetto di sviluppo planetario."
         }
     },
     "egg_groups": [
@@ -60,14 +55,14 @@
     "flat_name": "porygon2",
     "generation": 2,
     "height": {
-        "porygon2": "0.6 m"
+        "porygon2": "0,6 m"
     },
     "id": 233,
     "name": "Porygon2",
-    "name_origin": "Il nome di Porygon2 deriva da polygon, \"poligono\", scritto con una R in riferimento al fatto che il giapponese non distingue i suoni di R e L. Potrebbe anche contenere la parola origami. Il 2 si riferisce al fatto che è la seconda versione di Porygon. ",
-    "origin": "Come Porygon è probabilmente basato su un origami creato con un software di rendering 3D, oltre che su un papero bevitore. Il suo aspetto più liscio rispetto a quello di Porygon si rifa al concetto di superficie di suddivisione nella grafica 3D. ",
+    "name_origin": "Porygon2 potrebbe derivare da Porygon, la sua forma pre-evoluta, e 2, a indicare che si tratta della sua seconda forma evoluta, o una seconda versione del software di Porygon. ",
+    "origin": "Porygon è probabilmente basato su un origami di un uccello creato con un software di rendering 3D rudimentale. Il movimento della testa che compie nei giochi 3D ricorda un drinking bird. Le figure piatte che costituiscono il suo corpo ricordano un mesh poligonale. Il suo aspetto più liscio rispetto a quello di Porygon potrebbe derivare dal concetto di superficie di suddivisione nella grafica 3D. Essendo una versione aggiornata di Porygon, potrebbe anche essere un riferimento alle revisioni di software. Il fatto che sia più leggero di Porygon potrebbe essere basato sull'ottimizzazione dei software. Le sue voci del Pokédex fanno riferimento all'intelligenza artificiale e alla navigazione spaziale robotica. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Porygon2",
-    "shape": "testa e gambe",
+    "shape": "None",
     "specie": "Pokémon Virtuale",
     "sprites": {
         "porygon2": {
@@ -95,6 +90,6 @@
         ]
     },
     "weight": {
-        "porygon2": "32.5 kg"
+        "porygon2": "32,5 kg"
     }
 }

@@ -12,7 +12,9 @@
     "dex_entries": {
         "milcery": {
             "sword": "Il suo corpo è fatto di panna. È nato dall'unione di particelle di profumo dolce disperse nell'aria.",
-            "shield": "Si dice che le pasticcerie in cui è apparso un Milcery avranno un successo assicurato!"
+            "shield": "Si dice che le pasticcerie in cui è apparso un Milcery avranno un successo assicurato!",
+            "scarlet": "Quanto più assorbe profumi dolci, tanto più si gonfia. Tuttavia, appena la sua energia diminuisce, si affloscia.",
+            "violet": "Se un nemico lo attacca, gli si lancia contro e lo cosparge di panna per impedirgli di vedere o lo sorprende con la sua bontà. Poi, scappa via."
         }
     },
     "egg_groups": [
@@ -22,14 +24,14 @@
     "flat_name": "milcery",
     "generation": 8,
     "height": {
-        "milcery": "0.2 m"
+        "milcery": "0,2 m"
     },
     "id": 868,
     "name": "Milcery",
     "name_origin": "Milcery potrebbe essere una combinazione di milk, latte, e sorcery, magia, o mercurio. Mahomil potrebbe essere una combinazione di 魔法 mahō, magico, e milk, latte. ",
     "origin": "Milcery potrebbe essere basato su una goccia di latte o di crema. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Milcery",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Pannafresca",
     "sprites": {
         "milcery": {
@@ -57,6 +59,6 @@
         ]
     },
     "weight": {
-        "milcery": "0.3 kg"
+        "milcery": "0,3 kg"
     }
 }

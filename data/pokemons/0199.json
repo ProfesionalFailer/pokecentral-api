@@ -15,12 +15,54 @@
         "Nell'anime, Slowking è uno dei pochi Pokémon in grado di parlare come un umano senza bisogno di telepatia.",
         "Slowking è stato l'unico Pokémon con un tasso di cattura pari a 70 fino alla settima generazione quando sono stati introdotti Turtonator, Bewear e Drampa.",
         "Nel gioco di carte, lo Slowking dell'espansione Southern Islands è l'unica carta che presenta un Pokémon introdotto dopo la prima generazione con il contenitore dell'evoluzione quadrato, anche se solo nella versione giapponese. Nella versione inglese, tutte le carte dell'espansione utilizzano il design dei set Neo, e quindi un contenitore circolare.",
-        "Lo Shellder della versione cromatica di Slowbro è dorato, come uno Shellder cromatico. Questo non è così per Slowking cromatico.",
+        "Lo Shellder della versione cromatica di Slowbro è dorato, come uno Shellder cromatico. Lo stesso non vale per Slowking cromatico.",
         "Slowking condivide il nome della sua categoria con Pyroar. Sono entrambi noti come Pokémon Reale.",
-        "Slowking di Galar e la sua controparte, insieme a Gholdengo, sono gli unici Pokémon ad ottenere un secondo tipo evolvendosi, ma che hanno il nuovo tipo come tipo primario anziché tipo secondario."
+        "Slowking e Slowbro di Galar, insieme a Mr. Mime di Galar, Sliggoo di Hisui, Ursaluna e Gholdengo, sono gli unici Pokémon che acquisiscono un nuovo tipo con l'evoluzione a ricevevere quest'ultimo come primo tipo, mentre il tipo che rimane dallo stadio precedente diventa il secondo tipo."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/slowking.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "slowking": {
+            "gold": "Dotato di incredibile intelligenza e intuito, sa restare calmo e padrone di sé in ogni situazione.",
+            "silver": "Quando la testa di SLOWPOKE fu morsa, vi penetrarono delle tossine che produssero un enorme potere.",
+            "crystal": "Ogni volta che sbadiglia SHELLDER gli inietta del veleno, che lo rende più intelligente.",
+            "ruby": "Ogni giorno SLOWKING cerca di comprendere e svelare i misteri del mondo. Tuttavia, pare che questo POKéMON dimentichi tutto ciò che ha imparato se perde lo SHELLDER che ha sul capo.",
+            "sapphire": "Ogni giorno SLOWKING cerca di comprendere e svelare i misteri del mondo. Tuttavia, pare che questo POKéMON dimentichi tutto ciò che ha imparato se perde lo SHELLDER che ha sul capo.",
+            "emerald": "Ogni giorno SLOWKING cerca di comprendere e svelare i misteri del mondo. Tuttavia, se perde lo SHELLDER che ha sul capo, pare che dimentichi tutto ciò che ha imparato.",
+            "fire-red": "Quando la testa di SLOWPOKE fu morsa, vi penetrarono delle tossine che produssero un enorme potere.",
+            "leaf-green": "Dotato di incredibile intelligenza e intuito, sa restare calmo e padrone di sé in ogni situazione.",
+            "diamond": "Il morso di SHELLDER gli ha infuso un’intelligenza pari a quella di rinomati scienziati.",
+            "pearl": "Il morso di SHELLDER gli ha infuso un’intelligenza pari a quella di rinomati scienziati.",
+            "platinum": "Il morso di SHELLDER gli ha infuso un’intelligenza pari a quella di rinomati scienziati.",
+            "heart-gold": "Dotato di incredibile intelligenza e intuito, sa restare calmo e padrone di sé in ogni situazione.",
+            "soul-silver": "Quando la testa di SLOWPOKE fu morsa, vi penetrarono delle tossine che produssero un enorme potere.",
+            "black": "Il morso di Shellder gli ha infuso un'intelligenza pari a quella di rinomati scienziati.",
+            "white": "Il morso di Shellder gli ha infuso un'intelligenza pari a quella di rinomati scienziati.",
+            "black-2": "Il morso di Shellder gli ha infuso un'intelligenza pari a quella di rinomati scienziati.",
+            "white-2": "Il morso di Shellder gli ha infuso un'intelligenza pari a quella di rinomati scienziati.",
+            "x": "Dotato di incredibile intelligenza e intuito, sa restare calmo e padrone di sé in ogni situazione.",
+            "y": "Quando la testa di Slowpoke fu morsa, vi penetrarono delle tossine che produssero un enorme potere.",
+            "omega-ruby": "Ogni giorno Slowking cerca di comprendere e svelare i misteri del mondo. Tuttavia, pare che questo Pokémon dimentichi tutto ciò che ha imparato se perde lo Shellder che ha sul capo.",
+            "alpha-sapphire": "Ogni giorno Slowking cerca di comprendere e svelare i misteri del mondo. Tuttavia, pare che questo Pokémon dimentichi tutto ciò che ha imparato se perde lo Shellder che ha sul capo.",
+            "sun": "Il morso velenoso di Shellder gli ha conferito un'intelligenza straordinaria. È in grado di usare i suoi poteri psichici con grande maestria.",
+            "moon": "È famoso per la sua grande intelligenza. In alcune regioni si dice comunemente: \"Nel dubbio, chiedi a Slowking\".",
+            "ultra-sun": "Ha sempre un sacco di idee che potrebbero cambiare il mondo, ma le dimentica un attimo dopo che gli sono venute in mente.",
+            "ultra-moon": "È chiamato il saggio del mare. Rivaleggia per intelligenza con Oranguru e quasi sempre le loro sfide finiscono in parità.",
+            "sword": "Le tossine secrete da Shellder sono entrate in circolo nel cervello di Slowpoke con il prodigioso risultato di risvegliare capacità intellettive latenti.",
+            "shield": "È in grado di risolvere qualsiasi problema gli venga sottoposto, ma nessuno riesce a comprendere le sue parole.",
+            "brilliant-diamond": "Il morso di Shellder gli ha infuso un'intelligenza pari a quella di scienziati di fama mondiale.",
+            "shining-pearl": "Il morso di Shellder gli ha infuso un'intelligenza pari a quella di scienziati di fama mondiale.",
+            "scarlet": "Uno Slowpoke il cui straordinario potere si è risvegliato per via delle tossine penetrate in lui dopo essere stato morso alla testa.",
+            "violet": "Dotato di incredibile intelligenza e intuito, sa restare calmo e rilassato in ogni situazione.",
+            "legends-za": "Dotato di incredibile intelligenza e intuito, sa restare calmo e padrone di sé in ogni situazione."
+        },
+        "forma-di-galar": {
+            "sword": "Lo shock dell'evoluzione e le tossine hanno favorito lo sviluppo dell'intelletto di Shellder, che ora è in grado di manipolare Slowking.",
+            "shield": "Produce un misterioso farmaco miscelando ciò che ingerisce con le tossine nel suo corpo mentre recita un sinistro sortilegio.",
+            "scarlet": "Quando trova un Pokémon indebolito, gli dà un farmaco che secerne dai buchi sulle corna, creato a partire da un liquido velenoso.",
+            "violet": "Mescola ciò che ha mangiato al suo liquido tossico per creare un intruglio di cui lui stesso non conosce gli effetti.",
+            "legends-za": "Lo shock dell'evoluzione e le tossine hanno favorito lo sviluppo dell'intelletto di Shellder, che ora è in grado di manipolare Slowking."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Acqua 1"
@@ -28,15 +70,15 @@
     "flat_name": "slowking",
     "generation": 2,
     "height": {
-        "slowking": "2.0 m",
-        "slowking-di-galar": "1.8 m"
+        "slowking": "2,0 m",
+        "slowking-di-galar": "1,8 m"
     },
     "id": 199,
     "name": "Slowking",
-    "name_origin": "Il nome di Slowking è una combinazione di slow, lento, e king, re. Il suo nome giapponese deriva da 宿主 yadonushi, ospite  o 宿借り yadokari, paguro, e da king. ",
-    "origin": "Slowking è basato come gli altri membri della sua famiglia evolutiva su un ippopotamo con tratti di un paguro, oltre che ovviamente su di un re. ",
+    "name_origin": "Slowking sembra essere una combinazione di slow, lento, e king, re. Yadoking, il suo nome giapponese, potrebbe derivare da 宿主 yadonushi, ospite  o 宿借り yadokari, paguro, e da king. Come Slowbro, il suo nome deriva in parte dalla cantante jugoslava Jadranka Stojaković, che lavorava per Konami durante il suo soggiorno in Giappone. Il suo nome si scrive in giapponese come ヤドランカ Yadoranka, da cui un suo collega ha avuto l'ispirazione per i nomi di Slowbro e Slowking. ",
+    "origin": "L'aspetto di Slowking sembra derivare dagli ippopotami, dalle lontre giganti e dalle salamandre giganti asiatiche. Il suo guscio potrebbe essere un riferimento ai paguri e al Sazae-oni, un essere del folclore giapponese che presenta un guscio a spirale sulla testa. Slowking sembra essere inoltre ispirato ad un re: la parte intorno al collo ricorda una gorgiera e il suo guscio una corona. Gli ippopotami vivono in branchi in cui un esemplare è al comando, ed è possibile che questa sia l'origine del concetto di Slowking come re degli Slowpoke e Slowbro. Slowking di Galr, invece, sembra essere ispirato ad un warlock o uno stregone: la sua corona diventa un cappello a punta, la gorgiera ricorda un mantello e ha la capacità di usare \"sinistri sortilegi\". ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Slowking",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Reale",
     "sprites": {
         "slowking": {
@@ -73,16 +115,16 @@
     },
     "types": {
         "slowking": [
-            "Psico",
-            "Acqua"
+            "Acqua",
+            "Psico"
         ],
         "forma-di-galar": [
-            "Veleno",
-            "Psico"
+            "Psico",
+            "Veleno"
         ]
     },
     "weight": {
-        "slowking": "79.5 kg",
-        "slowking-di-galar": "79.5 kg"
+        "slowking": "79,5 kg",
+        "slowking-di-galar": "79,5 kg"
     }
 }

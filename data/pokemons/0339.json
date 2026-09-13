@@ -7,7 +7,8 @@
         }
     },
     "curiosities": [
-        "Barboach e Whiscash sono gli unici Pokémon di doppio tipo Acqua/Terra a non far parte del Gruppo Uova Acqua 1."
+        "Barboach e Whiscash sono gli unici Pokémon di doppio tipo Acqua/Terra a non far parte del Gruppo Uova Acqua 1.\n\tSono anche gli unici Pokémon di tipo Terra nel Gruppo Uova Acqua 2.",
+        "Sono anche gli unici Pokémon di tipo Terra nel Gruppo Uova Acqua 2."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/barboach.mp3",
     "dex_entries": {
@@ -15,13 +16,13 @@
             "ruby": "I sensibili baffi di BARBOACH fungono da sistema radar precisissimo. Il POKéMON vive nel fango, lasciando esposti soltanto i due baffi mentre attende pazientemente che si avvicini la preda.",
             "sapphire": "Il corpo di BARBOACH è coperto da una pellicola viscida. Se un nemico cerca di afferrarlo, il POKéMON gli scivola via dalle grinfie. Se la pellicola viscida si secca, BARBOACH si indebolisce.",
             "emerald": "Il corpo di BARBOACH è ricoperto da una pellicola viscida, che serve da barriera e lo protegge dall'infiltrazione di batteri provenienti dalle acque melmose.",
-            "firered": "Si serve dei lunghi baffi per saggiare i letti fangosi dei fiumi. Ha il corpo protetto da una pellicola viscida.",
-            "leafgreen": "Si serve dei lunghi baffi per saggiare i letti fangosi dei fiumi. Ha il corpo protetto da una pellicola viscida.",
+            "fire-red": "Si serve dei lunghi baffi per saggiare i letti fangosi dei fiumi. Ha il corpo protetto da una pellicola viscida.",
+            "leaf-green": "Si serve dei lunghi baffi per saggiare i letti fangosi dei fiumi. Ha il corpo protetto da una pellicola viscida.",
             "diamond": "Il suo corpo è ricoperto da una pellicola viscida, che gli permette di sgusciare via, se afferrato.",
             "pearl": "I suoi baffi sono un eccellente radar. Possono localizzare le prede persino nelle acque più torbide.",
             "platinum": "Il suo viscido corpo è difficile da afferrare. In una regione si dice che sia nato da fango indurito.",
-            "heartgold": "I suoi due baffi gli consentono di distinguere i sapori dei vari cibi al pari della lingua umana.",
-            "soulsilver": "I suoi due baffi gli consentono di distinguere i sapori dei vari cibi al pari della lingua umana.",
+            "heart-gold": "I suoi due baffi gli consentono di distinguere i sapori dei vari cibi al pari della lingua umana.",
+            "soul-silver": "I suoi due baffi gli consentono di distinguere i sapori dei vari cibi al pari della lingua umana.",
             "black": "Il suo viscido corpo è difficile da afferrare. In una regione si dice che sia nato da fango indurito.",
             "white": "Il suo viscido corpo è difficile da afferrare. In una regione si dice che sia nato da fango indurito.",
             "black-2": "Il suo viscido corpo è difficile da afferrare. In una regione si dice che sia nato da fango indurito.",
@@ -49,14 +50,14 @@
     "flat_name": "barboach",
     "generation": 3,
     "height": {
-        "barboach": "0.4 m"
+        "barboach": "0,4 m"
     },
     "id": 339,
     "name": "Barboach",
-    "name_origin": "Il nome è un combinazione di Barb o Barbel, entrambi barbiglio, riferimento ai suoi baffetti, e Loach, cobite. ",
-    "origin": "Barboach è basato sul cobite di stagno orientale, infatti ha anche loro caratteristiche come vivere nei fondali fangosi, usare i baffetti per individuare le creature che lo circondano e avere un muco che riveste il corpo. ",
+    "name_origin": "Barboach potrebbe derivare da barb o barbel, entrambi barbiglio, e loach, cobite. Dojoach, il suo nome giapponese, potrebbe derivare da 泥鰌 dojō, cobite di stagno, e loach, cobite. ",
+    "origin": "Barboach sembra essere basato su un cobite di stagno orientale, che similmente al Pokémon si seppellisce per nascondersi, usa le vibrisse per analizzare l'ambiente circostante e si copre di fango. Data la sua forma evoluta, Barboach potrebbe essere basato su un Amphiliidae, una famiglia di pesce gatto simile ai cobiti. Data questa connessione ai pesci gatto e il suo corpo piccolo e esile, potrebbe prendere ispirazione dai candiru, dei pesci gatto parassitici. Potrebbe inoltre essere basato sui pesci gatto elettrici data la sua abilità di imparare Scintilla. Barboach potrebbe inoltre essere basato su Namazu, un enorme pesce gatto della mitologia giapponese detto causare terremoti. La sua capacità di imparare Divinazione e la sua abilità Presagio possono alludere a questo mito, derivato dal fatto che i pesce gatto possano prevedere i terremoti e diventare agitati ore prima che accadano. A volte Namazu è descritto come un drago-serpente, possibilmente spiegando come Barboach possa imparare Dragodanza. Il fatto che la voce Pokédex di Pokémon Platino menzioni la credenza che Barboach sia nato dal fango indurito può essere un riferimento alla generazione spontanea, ovvero la credenza che esseri viventi potevano nascere da materiale inanimato. Più specificamente potrebbe derivare dalla teoria di Aristotele che le anguille nascano dal fango, dato il loro ancora sconosciuto metodo di riproduzione. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Barboach",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Baffetti",
     "sprites": {
         "barboach": {
@@ -80,11 +81,11 @@
     },
     "types": {
         "barboach": [
-            "Terra",
-            "Acqua"
+            "Acqua",
+            "Terra"
         ]
     },
     "weight": {
-        "barboach": "1.9 kg"
+        "barboach": "1,9 kg"
     }
 }

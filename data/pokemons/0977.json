@@ -17,14 +17,19 @@
         "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
         "Pokémon di Gruppo Uova Acqua 2",
         "Pokémon che non fanno parte di una linea di evoluzione",
-        "Pokémon con statistiche base totali di 530"
+        "Pokémon con statistiche base totali di 530",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti",
+        "Pokémon dominanti "
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/dondozo.mp3",
     "dex_entries": {
         "dondozo": {
             "scarlet": "È un Pokémon vorace, ma non è molto abile nel procacciarsi il cibo. Cattura le sue prede collaborando con il Tatsugiri che è con lui.",
-            "violet": "È molto forte, ma non sembra essere particolarmente intelligente. Adora il Tatsugiri che è con lui e lo considera il suo capo."
-        }
+            "violet": "È molto forte, ma non sembra essere particolarmente intelligente. Adora il Tatsugiri che è con lui e lo considera il suo capo.",
+            "legends-za": "Possiede una stazza e una potenza tali che quando si scatena genera onde enormi, ma non è molto abile nel procurarsi il cibo."
+        },
+        "": {}
     },
     "egg_groups": [
         "Acqua 2"
@@ -32,14 +37,14 @@
     "flat_name": "dondozo",
     "generation": 9,
     "height": {
-        "dondozo": "12.0 m"
+        "dondozo": "12,0 m"
     },
     "id": 977,
     "name": "Dondozo",
     "name_origin": "Dondozo potrebbe essere una combinazione di Don  e どうぞ dōzo \" tipicamente usata quando si offre qualcosa). Heyrusher potrebbe essere una combinazione di へいらっしゃい e irasshai  e il suffisso di agente ～者 -sha. ",
-    "origin": "Dondozo potrebbe essere ispirato a un pesce gatto e a un cuoco di sushi. Le parti bianche sulla testa somigliano ad una fascia che i cuochi giapponesi indossano. ",
+    "origin": "Dondozo potrebbe essere ispirato a un pesce gatto e a un cuoco di sushi. Le parti bianche sulla testa somigliano ad una fascia che i cuochi giapponesi  indossano. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Dondozo",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Pescegattone",
     "sprites": {
         "dondozo": {
@@ -67,6 +72,6 @@
         ]
     },
     "weight": {
-        "dondozo": "220.0 kg"
+        "dondozo": "220,0 kg"
     }
 }

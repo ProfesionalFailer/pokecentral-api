@@ -6,9 +6,13 @@
         }
     },
     "curiosities": [
-        "In quinta generazione Starly era l'unico Pokémon senza abilità speciale che si evolveva in un Pokémon con un'abilità speciale, mentre dalla sesta generazione in poi la sua abilità speciale è la stessa delle sue forme evolute.",
-        "Starly è il primo Pokémon incontrato in battaglia in Diamante e Perla, ma non in Pokémon Platino.\n\tInoltre, il suo sprite overworld è l'unico sprite di un Pokémon non leggendario che non può accedere al Parco Concordia.",
-        "Inoltre, il suo sprite overworld è l'unico sprite di un Pokémon non leggendario che non può accedere al Parco Concordia."
+        "In quinta generazione l'abilità nascosta di Starly era uguale alla sua prima abilità, Sguardofermo, al contrario delle sue evoluzioni che avevano Temerarietà. Uno Starly che si evolve in Staravia con Temerarietà può accoppiarsi per produrre uno Starly che si evolverà in uno Staravia con Temerarietà. Se uno Starly che si evolve in uno Staravia con Temerarietà viene trasferito nella quarta generazione avrà Temerarietà come abilità.\n\tQuesto rende Starly l'unico Pokémon in quinta generazione ad ottenere un'abilità nascosta quando non ne aveva una prima dell'evoluzione.",
+        "Questo rende Starly l'unico Pokémon in quinta generazione ad ottenere un'abilità nascosta quando non ne aveva una prima dell'evoluzione.",
+        "Starly è l'unico Pokémon ad avere uno sprite overworld, visto nei primi momenti di Pokémon Diamante, Perla e Platino, a non essere leggendario e non poter accedere al Parco Concordia.",
+        "Starly, Taillow e Pikipek sono alla pari con:\n\tSpearow, Hoothoot, Ledyba e Wingull per la Difesa più bassa tra i Pokémon di tipo Volante;\n\tZubat e Combee per l'Attacco Speciale più basso tra i Pokémon di tipo Volante;\n\tWingull e Pidove per la Difesa Speciale più bassa tra i Pokémon di tipo Volante;",
+        "Spearow, Hoothoot, Ledyba e Wingull per la Difesa più bassa tra i Pokémon di tipo Volante;",
+        "Zubat e Combee per l'Attacco Speciale più basso tra i Pokémon di tipo Volante;",
+        "Wingull e Pidove per la Difesa Speciale più bassa tra i Pokémon di tipo Volante;"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/starly.mp3",
     "dex_entries": {
@@ -16,8 +20,8 @@
             "diamond": "Si muove in grandi gruppi. Anche se piccolo, batte le ali in maniera molto energica.",
             "pearl": "Di solito si muove in gruppi numerosi. È raro trovarlo da solo. Emette versi estremamente acuti.",
             "platinum": "Da soli sono deboli, quindi si muovono in gruppo. Tuttavia, se sono troppi finiscono per litigare.",
-            "heartgold": "Saltella per i campi in grandi stormi a caccia di Pokémon coleottero. Emette versi davvero acuti.",
-            "soulsilver": "Saltella per i campi in grandi stormi a caccia di Pokémon coleottero. Emette versi davvero acuti.",
+            "heart-gold": "Saltella per i campi in grandi stormi a caccia di Pokémon coleottero. Emette versi davvero acuti.",
+            "soul-silver": "Saltella per i campi in grandi stormi a caccia di Pokémon coleottero. Emette versi davvero acuti.",
             "black": "Da soli sono deboli, quindi si muovono in gruppo. Tuttavia, se sono troppi finiscono per litigare.",
             "white": "Da soli sono deboli, quindi si muovono in gruppo. Tuttavia, se sono troppi finiscono per litigare.",
             "black-2": "Da soli sono deboli, quindi si muovono in gruppo. Tuttavia, se sono troppi finiscono per litigare.",
@@ -30,7 +34,8 @@
             "shining-pearl": "Di solito si muove in gruppi numerosi, ma se è da solo passa del tutto inosservato. Emette dei versi estremamente acuti.",
             "legends-arceus": "Questi Pokémon abitano le piane e i monti in gruppi. Il loro canto è molesto all'orecchio. Di stazza minuta, hanno ali possenti che arrecano sette giorni di dolore.",
             "scarlet": "Sorvola i campi in grandi stormi a caccia di Pokémon Coleottero. Il suo canto è alquanto fastidioso.",
-            "violet": "Da soli sono deboli, quindi si muovono in gruppo. Tuttavia, se sono troppi finiscono per litigare."
+            "violet": "Da soli sono deboli, quindi si muovono in gruppo. Tuttavia, se sono troppi finiscono per litigare.",
+            "legends-za": "Si muove in grandi stormi. È piccolo, ma la forza con cui sbatte le ali è sorprendente."
         }
     },
     "egg_groups": [
@@ -39,14 +44,14 @@
     "flat_name": "starly",
     "generation": 4,
     "height": {
-        "starly": "0.3 m"
+        "starly": "0,3 m"
     },
     "id": 396,
     "name": "Starly",
-    "name_origin": "Deriva della parola inglese starling . ",
-    "origin": "Starly è basato su uno storno. ",
+    "name_origin": "Starly potrebbe derivare da starling . Mukkuru, il suo nome giapponese, potrebbe derivare da 椋鳥 mukudori, storno grigio, e クルクル kurukuru, onomatopea del canto degli uccelli. ",
+    "origin": "Starly sembra essere basato su un pulcino di storno guancebianche. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Starly",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Storno",
     "sprites": {
         "starly": {
@@ -79,6 +84,6 @@
         ]
     },
     "weight": {
-        "starly": "2.0 kg"
+        "starly": "2,0 kg"
     }
 }

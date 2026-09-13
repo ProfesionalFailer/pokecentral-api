@@ -5,33 +5,59 @@
         }
     },
     "curiosities": [
-        "Quando è stato introdotto era il Pokémon con più forme in assoluto nei giochi, ben 26, poi diventate 28 in terza generazione. In ottava generazione è stato superato da Alcremie.",
-        "Nel terzo film dei Pokémon viene erroneamente detto che gli Unown sono Pokémon leggendari, forse per via della loro rarità.\n\tNello stesso film inoltre il Professor Oak ha vari disegni di Unown nel suo computer che non sono mai apparsi in nessun altro media.",
-        "Nello stesso film inoltre il Professor Oak ha vari disegni di Unown nel suo computer che non sono mai apparsi in nessun altro media.",
-        "In seconda generazione sono presenti ben 230 Unown glitch.",
+        "Quando è stato introdotto, era il Pokémon con più forme in assoluto nei giochi, ben 26, poi diventate 28 in terza generazione. In ottava generazione è stato superato da Alcremie.",
+        "Nel terzo film dei Pokémon viene mostrato che il Professor Oak ha nel suo computer vari disegni di Unown mai apparsi in nessun altro medium.",
+        "In seconda generazione sono presenti 230 Unown glitch.",
         "Unown è l'unico Pokémon con un totale di statistiche base pari a 336.",
         "Unown è l'unico Pokémon di seconda generazione che non è apparso in un gioco della serie Ranger.",
-        "Assieme a Nidorina e Nidoqueen, è l'unico Pokémon ad essere nel Gruppo Uova Sconosciuto senza essere un Pokémon Baby, leggendario, misterioso o Ultracreatura.",
-        "Unown è l'unico Pokémon che può utilizzare solo una mossa e non può impararne altre in nessun modo, nemmeno momentaneamente. Ciò significa che anche se teoricamente rimane compatibile con la MT di Introforza, all'atto pratico non può sfruttarla.",
-        "In seconda generazione sia la cromaticità che la lettera di Unown sono determinate dai punti individuali, in maniera tale che solo le forme I e V possono essere cromatiche; nel codice di gioco comunque sono presenti anche gli sprite cromatici di tutte le altre forme, probabilmente come precauzione in caso di glitch o trucchi.",
-        "Unown è l'unico Pokémon i cui sprite sono uguali in Pokémon Oro e Argento, ed è anche l'unico con gli sprite posteriori di Cristallo diversi da Oro e Argento."
+        "Unown è l'unico Pokémon che può utilizzare solo una mossa e non può impararne altre in nessun modo, nemmeno momentaneamente. Ciò significa che, anche se teoricamente rimane compatibile con la MT di Introforza, all'atto pratico non può sfruttarla.",
+        "In seconda generazione sia la cromaticità che la lettera di Unown sono determinate dai punti individuali, in maniera tale che solo le forme I e V possono essere cromatiche; nel codice di gioco sono comunque presenti anche gli sprite cromatici di tutte le altre forme, probabilmente come precauzione in caso di glitch o trucchi.",
+        "Unown è l'unico Pokémon i cui sprite sono uguali in Pokémon Oro e Argento, ed è anche l'unico con gli sprite posteriori di Cristallo diversi da quelli di Oro e Argento.",
+        "Dei due artwork principali di Unown, uno lo raffigura nella forma G, da Pokémon Oro e Argento, e l'altro nella forma F, da Pokémon Rosso Fuoco e Verde Foglia. Questo potrebbe essere un riferimento alle iniziali di GAME FREAK."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/unown.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "unown": {
+            "gold": "La loro forma è simile a geroglifici su antiche tavole. Si pensa che non sia una coincidenza.",
+            "silver": "Il corpo piatto e sottile sta sempre attaccato ai muri. Pare che la forma abbia un preciso significato.",
+            "crystal": "Poiché esistono molti tipi diversi di UNOWN, si dice che abbiano anche diversi tipi di abilità.",
+            "ruby": "Questo POKéMON pare una lettera di un alfabeto antico. A tutt'oggi rimane un mistero chi sia comparso prima, se l'alfabeto o UNOWN. Sono in corso ricerche in merito ma non si sa ancora praticamente nulla.",
+            "sapphire": "Questo POKéMON pare una lettera di un alfabeto antico. A tutt'oggi rimane un mistero chi sia comparso prima, se l'alfabeto o UNOWN. Sono in corso ricerche in merito ma non si sa ancora praticamente nulla.",
+            "emerald": "Questo POKéMON pare una lettera di un alfabeto antico. Malgrado le ricerche, a tutt'oggi non si sa ancora chi sia comparso prima, se l'alfabeto o UNOWN.",
+            "fire-red": "Spesso appoggia ai muri il corpo piatto e sottile. Pare che la sua forma abbia un preciso significato.",
+            "leaf-green": "La loro forma è simile a geroglifici su antiche tavole. Si pensa che non sia una coincidenza.",
+            "diamond": "È a forma di lettera di un antico alfabeto. È un mistero chi sia apparso prima, l’alfabeto o UNOWN.",
+            "pearl": "Comunica con i suoi simili telepaticamente. Se ne trovano spesso esemplari attaccati alle pareti.",
+            "platinum": "Un solo esemplare non produce alcun effetto, ma se ce ne sono due o più, emerge uno strano potere.",
+            "heart-gold": "La loro forma è simile a geroglifici su antiche tavole. Si pensa che non sia una coincidenza.",
+            "soul-silver": "Il corpo piatto e sottile sta sempre attaccato ai muri. Pare che la forma abbia un preciso significato.",
+            "black": "Un solo esemplare non produce alcun effetto, ma se ce ne sono due o più, emerge uno strano potere.",
+            "white": "Un solo esemplare non produce alcun effetto, ma se ce ne sono due o più, emerge uno strano potere.",
+            "black-2": "Un solo esemplare non produce alcun effetto, ma se ce ne sono due o più, emerge uno strano potere.",
+            "white-2": "Un solo esemplare non produce alcun effetto, ma se ce ne sono due o più, emerge uno strano potere.",
+            "x": "Il corpo piatto e sottile sta sempre attaccato ai muri. Pare che la forma abbia un preciso significato.",
+            "y": "È a forma di lettera di un antico alfabeto. È un mistero chi sia apparso prima, l'alfabeto o Unown.",
+            "omega-ruby": "Questo Pokémon pare una lettera di un alfabeto antico. A tutt'oggi rimane un mistero chi sia comparso prima, se l'alfabeto o Unown. Sono in corso ricerche in merito ma non si sa ancora praticamente nulla.",
+            "alpha-sapphire": "Questo Pokémon pare una lettera di un alfabeto antico. A tutt'oggi rimane un mistero chi sia comparso prima, se l'alfabeto o Unown. Sono in corso ricerche in merito ma non si sa ancora praticamente nulla.",
+            "brilliant-diamond": "Ha la forma delle lettere di un antico alfabeto. È un mistero chi sia apparso prima, l'alfabeto o Unown.",
+            "shining-pearl": "Sembra che comunichi con i suoi simili telepaticamente. Se ne trovano spesso esemplari attaccati alle pareti.",
+            "legends-arceus": "Questi Pokémon sono multiformi e di apparenza così bizzarra che è difficile crederli creature viventi. Io sembro il solo a vederli simiglianti a caratteri di una lingua straniera."
+        }
+    },
     "egg_groups": [
         "Sconosciuto"
     ],
     "flat_name": "unown",
     "generation": 2,
     "height": {
-        "unown": "0.5 m"
+        "unown": "0,5 m"
     },
     "id": 201,
     "name": "Unown",
-    "name_origin": "Il suo nome deriva dalla parola inglese unknown , che è anche il suo nome giapponese. ",
-    "origin": "Gli Unown sono basati sulle lettere dell'alfabeto e sui segni di punteggiatura ! e ?. ",
+    "name_origin": "Unown potrebbe derivare da unknown , che è anche il suo nome giapponese. ",
+    "origin": "Unown ha la forma di un occhio e le sue varie sagome ricordano le lettere dell'alfabeto latino, oltre al punto esclamativo e al punto interrogativo. La forma G ricorda per la precisione una lettera \"g\" minuscola. Le forme degli Unown sono state usate come metodo di scrittura nel mondo dei Pokémon, ma a Hoenn e nel Settipelago viene usato l'alfabeto Braille. Il fatto che un Unown da solo sia debole, ma che più esemplari possano unire i propri poteri, potrebbe derivare dal fatto che una lettera da sola spesso non ha significato, mentre più lettere insieme possono comporre infinite parole. Unown potrebbe inoltre essere basato sulla scrittura Brahmi o Siddham, usata in Giappone dall'VIII secolo per indicare le tombe di importanti figure buddiste. Siccome poche persone sapevano leggere l'alfabeto Siddham, con il tempo è stato considerato mistico e associato alle divinità e al buddha; molti caratteri, soprattutto quelli Brahmi, sono molto simili alle forme di Unown o possono diventarlo con lievi modifiche. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Unown",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Simbolo",
     "sprites": {
         "unown": {
@@ -59,6 +85,6 @@
         ]
     },
     "weight": {
-        "unown": "5.0 kg"
+        "unown": "5,0 kg"
     }
 }

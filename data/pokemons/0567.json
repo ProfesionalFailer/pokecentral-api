@@ -24,10 +24,11 @@
             "sun": "Nonostante sapesse volare, si spostava principalmente via terra a una velocità media di 40 km/h.",
             "moon": "Cacciava in gruppo: alcuni Pokémon intrappolavano la preda e i loro compagni la assalivano.",
             "ultra-sun": "È un Pokémon antico dal piumaggio molto fitto. Solo i più esperti riescono a rigenerarlo con successo.",
-            "ultra-moon": "Si ritiene che sia l’antenato dei Pokémon alati. Ha i muscoli delle ali non ancora sviluppati e per volare deve prendere la rincorsa.",
+            "ultra-moon": "Si ritiene che sia l'antenato dei Pokémon alati. Ha i muscoli delle ali non ancora sviluppati e per volare deve prendere la rincorsa.",
             "sword": "Prende la rincorsa per volare, percorrendo circa 4 km a una velocità di 40 km/h.",
             "shield": "Si sa che questo Pokémon era in grado di volare, ma pare che fosse molto più abile nel cacciare le prede a terra."
-        }
+        },
+        "\n": {}
     },
     "egg_groups": [
         "Volante",
@@ -36,14 +37,14 @@
     "flat_name": "archeops",
     "generation": 5,
     "height": {
-        "archeops": "1.4 m"
+        "archeops": "1,4 m"
     },
     "id": 567,
     "name": "Archeops",
     "name_origin": "Il nome di Archeops deriva da Archaeopteryx. Il suffisso -ops è comune in molti generi di dinosauro. ",
     "origin": "L'aspetto di Archeops ricorda quello di Microraptor, un piccolo dinosauro piumato, così come ricorda l'Archaeopteryx, ritenuto il primo uccello mai esistito. Potrebbe anche alludere ai serpenti piumati delle leggende mesoamericane. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Archeops",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Paleouccello",
     "sprites": {
         "archeops": {
@@ -67,11 +68,11 @@
     },
     "types": {
         "archeops": [
-            "Volante",
-            "Roccia"
+            "Roccia",
+            "Volante"
         ]
     },
     "weight": {
-        "archeops": "32.0 kg"
+        "archeops": "32,0 kg"
     }
 }

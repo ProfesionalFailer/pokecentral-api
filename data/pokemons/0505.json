@@ -7,11 +7,10 @@
         }
     },
     "curiosities": [
-        "Di tutti i Pokémon evoluti di Unima ha la somma delle statistiche base più bassa.",
-        "A differenza degli sprite degli altri Pokémon non chiude gli occhi quando viene addormentato.",
-        "In Pokémon Nero e Bianco Watchog fornisce solamente 1 EV in Attacco.",
-        "Watchog è l'unico Pokémon completamente evoluto a possedere un tasso di cattura pari a 255.",
-        "Nonostante le voci del Pokédex dicano che Watchog attacchi sputando i semi delle bacche che mangia, può apprendere Semebomba solo tramite Insegnamosse e non può in alcun modo apprendere Semitraglia."
+        "Al momento di Pokémon Scarlatto e Violetto, entrambe le abilità di Watchog hanno lo stesso effetto.",
+        "Watchog è l'unico Pokémon completamente evoluto con un tasso di cattura pari a 255.",
+        "In Pokémon Nero e Bianco Watchog cedeva gli stessi punti base della sua preevoluzione, essendo l'unico Pokémon a cederne solo 1.\n\tA partire da Pokémon Nero 2 e Bianco 2 cede invece 2 punti in Attacco, rendendolo l'unico Pokémon ad avere il quantitativo di punti base ceduti cambiato in una sola generazione.",
+        "A partire da Pokémon Nero 2 e Bianco 2 cede invece 2 punti in Attacco, rendendolo l'unico Pokémon ad avere il quantitativo di punti base ceduti cambiato in una sola generazione."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/watchog.mp3",
     "dex_entries": {
@@ -23,7 +22,8 @@
             "x": "Fa tentennare il nemico facendo brillare occhi e pelliccia grazie a una sostanza fluorescente contenuta nel suo corpo.",
             "y": "Attacca sparando i semi delle bacche che ha accumulato nelle guance. Se avvista il nemico, drizza la coda.",
             "omega-ruby": "Fa tentennare il nemico facendo brillare occhi e pelliccia grazie a una sostanza fluorescente contenuta nel suo corpo.",
-            "alpha-sapphire": "Attacca sparando i semi delle bacche che ha accumulato nelle guance. Se avvista il nemico, drizza la coda."
+            "alpha-sapphire": "Attacca sparando i semi delle bacche che ha accumulato nelle guance. Se avvista il nemico, drizza la coda.",
+            "legends-za": "Fa tentennare il nemico facendo brillare gli occhi e i segni sul corpo grazie a una sostanza fluorescente contenuta nel proprio organismo."
         }
     },
     "egg_groups": [
@@ -32,14 +32,14 @@
     "flat_name": "watchog",
     "generation": 5,
     "height": {
-        "watchog": "1.1 m"
+        "watchog": "1,1 m"
     },
     "id": 505,
     "name": "Watchog",
-    "name_origin": "Il suo nome deriva dall'inglese watch , groundhog  e dalla storpiatura del termine inglese watchdog . ",
-    "origin": "Il suo aspetto è da ricondursi molto probabilmente a un suricato o al cane della prateria, ma presenta anche tratti che lo fanno assomigliare a una marmotta americana oppure uno scoiattolo del genere tamias. le striature gialle sul suo pelo ricordano una veste d'avvertimento, il che fa pensare che sia basato anche su un lavoratore di strada. ",
+    "name_origin": "Watchog potrebbe derivare da to watch, guardare, e groundhog, marmotta americana, oltre a essere un gioco di parole con watchdog, cane da guardia, e watch out, fare attenzione. Miruhog, il suo nome giapponese, potrebbe derivare da 見る miru, guardare, osservare, e groundhog. ",
+    "origin": "Il nome di Watchog lo ricollega alla marmotta americana, chiamata \"groundhog\" in inglese, mentre l'aspetto, come per la sua preevoluzione, è simile a quello di cani della prateria, chipmunk e suricati. In generale potrebbe essere basato su un lavoratore stradale: le parti gialle del corpo sono simili a vestiti ad alta visibilità, e la sua affinità per mosse che modificano il normale svolgimento della lotta è simile a come questi lavoratori e altri agenti possano modificare il funzionamento delle regole stradali in casi specifici. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Watchog",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Sentinella",
     "sprites": {
         "watchog": {
@@ -67,6 +67,6 @@
         ]
     },
     "weight": {
-        "watchog": "27.0 kg"
+        "watchog": "27,0 kg"
     }
 }

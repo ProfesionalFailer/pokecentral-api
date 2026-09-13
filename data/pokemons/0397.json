@@ -6,7 +6,7 @@
         }
     },
     "curiosities": [
-        "Staravia di Ash"
+        "I nomi inglesi di Staravia e Staraptor sono stati ideati da Nob Ogasawara."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/staravia.mp3",
     "dex_entries": {
@@ -14,8 +14,8 @@
             "diamond": "Vola nelle foreste e nei campi in cerca di Pokémon coleottero. Si muove in grandi gruppi.",
             "pearl": "Vive nelle foreste e nei campi. Se alcuni gruppi si scontrano, danno inizio alla lotta per il territorio.",
             "platinum": "Conscio della propria debolezza, vive in gruppo. Quando è da solo, STARAVIA emette forti versi.",
-            "heartgold": "Ha l'abitudine di riunirsi in grandi gruppi. Le zuffe tra gruppi sono particolarmente vivaci.",
-            "soulsilver": "Ha l'abitudine di riunirsi in grandi gruppi. Le zuffe tra gruppi sono particolarmente vivaci.",
+            "heart-gold": "Ha l'abitudine di riunirsi in grandi gruppi. Le zuffe tra gruppi sono particolarmente vivaci.",
+            "soul-silver": "Ha l'abitudine di riunirsi in grandi gruppi. Le zuffe tra gruppi sono particolarmente vivaci.",
             "black": "Conscio della propria debolezza, vive in gruppo. Quando è da solo, Staravia emette forti versi.",
             "white": "Conscio della propria debolezza, vive in gruppo. Quando è da solo, Staravia emette forti versi.",
             "black-2": "Conscio della propria debolezza, vive in gruppo. Quando è da solo, Staravia emette forti versi.",
@@ -28,7 +28,8 @@
             "shining-pearl": "Vive nelle foreste e nei campi. Se due gruppi si incontrano, iniziano a lottare per il territorio.",
             "legends-arceus": "Gli Staravia vivono in larghi stormi, in costante alterco gli uni cogli altri. Sospetto che chi tra di essi ha sul capo il piumaggio più florido sia ritenuto il più forte.",
             "scarlet": "Conscio della propria debolezza, forma grandi gruppi con i propri simili. Quando si ritrova solo, canta con voce insistente e fastidiosa.",
-            "violet": "Ha l’abitudine di riunirsi in grandi stormi. Le zuffe tra gruppi diversi sono particolarmente intense."
+            "violet": "Ha l’abitudine di riunirsi in grandi stormi. Le zuffe tra gruppi diversi sono particolarmente intense.",
+            "legends-za": "Vive nelle foreste e nei campi. Se due gruppi si incontrano, iniziano a lottare per il territorio."
         }
     },
     "egg_groups": [
@@ -37,14 +38,14 @@
     "flat_name": "staravia",
     "generation": 4,
     "height": {
-        "staravia": "0.6 m"
+        "staravia": "0,6 m"
     },
     "id": 397,
     "name": "Staravia",
-    "name_origin": "Staravia è una combinazione fra starling  e avian . ",
-    "origin": "Staravia si basa su uno storno adulto. Tuttavia, le sue caratteristiche sembrano essere basate più su una pavoncella adulta del Nord. ",
+    "name_origin": "Staravia potrebbe derivare da starling, storno, e avian, aviario. Mukubird, il suo nome giapponese, potrebbe derivare da 椋鳥 mukudori, storno grigio, e bird, uccello. ",
+    "origin": "Staravia potrebbe essere basato storno adulto. Tuttavia, alcune sue caratteristiche sembrano essere basate su una pavoncella. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Staravia",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Storno",
     "sprites": {
         "staravia": {
@@ -55,7 +56,7 @@
             "default": "https://media.pokemoncentral.it/wiki/7/7f/Homef0397.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homefsh0397.png"
         },
-        "official_artwork": "https://media.pokemoncentral.it/wiki/c/cc/Artwork0397_DLPS.png"
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/94/Artwork0397_DP.png"
     },
     "stats": {
         "staravia": {
@@ -77,6 +78,6 @@
         ]
     },
     "weight": {
-        "staravia": "15.5 kg"
+        "staravia": "15,5 kg"
     }
 }

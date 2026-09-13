@@ -10,8 +10,13 @@
         }
     },
     "curiosities": [
-        "Secondo il Pokédex, l'energia maledetta che si trova in Banette viene liberata quando la cerniera che funge da bocca viene aperta. Nonostante questo, nei giochi, l'animazione di svenimento è caratterizzata dall'apertura della bocca da parte di Banette. Nell'anime ci sono allo stesso modo diverse circostanze nelle quali Banette apre la bocca.",
-        "MegaBanette ha la statistica base di Attacco più alta di tutti i Pokémon di tipo Spettro."
+        "MegaBanette ha la statistica base di Attacco più alta di tutti i Pokémon di tipo Spettro.",
+        "MegaBanette è la megaevoluzione più leggera, pesando solo 13 kg.",
+        "Banette può essere visto come una controparte di Dusclops: entrambi sono Pokémon di tipo Spettro, entrambi sono stati introdotti in terza generazione, hanno lo stesso totale di statistiche base, entrambi si evolvono al livello 37, Banette è incontrabile selvatico solo in Pokémon Zaffiro mentre Dusclops selvatico in Pokémon Rubino.\n\tLe similitudini tra i due vengono perse col passare delle generazioni: in quarta generazione Dusclops ha un'evoluzione in Dusknoir mentre Banette una megaevoluzione in sesta.",
+        "Le similitudini tra i due vengono perse col passare delle generazioni: in quarta generazione Dusclops ha un'evoluzione in Dusknoir mentre Banette una megaevoluzione in sesta.",
+        "Secondo il Pokédex, l'energia maledetta che si trova in Banette viene liberata quando la cerniera che funge da bocca viene aperta. Nonostante questo, nei giochi e nell'anime viene visto spesso aprire la bocca.",
+        "In quinta e sesta generazione Banette può imparare Sporcolancio tramite accoppiamento, ma non tramite Insegnamosse.",
+        "Banette è stato l'ultimo Pokémon scannerizzato dal Pokédex di Ash."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/banette.mp3",
     "dex_entries": {
@@ -19,13 +24,13 @@
             "ruby": "BANETTE genera energia per lanciare terribili maledizioni, conficcandosi alcuni spilli nel corpo. Originariamente questo POKéMON era un dolce peluche, successivamente gettato via.",
             "sapphire": "Un'energia maledetta ha permeato l'imbottitura di un peluche vecchio e dimenticato, dando vita a BANETTE. Questo POKéMON deve tenere sempre la bocca chiusa per evitare che l'energia accumulata scappi fuori.",
             "emerald": "I BANETTE si sono generati da peluche vecchi e abbandonati. Pare che vivano nelle discariche e che si aggirino in cerca dei bambini che li hanno gettati via.",
-            "firered": "Peluche trasformato in POKéMON da un forte odio. Appena apre la sua bocca, sprigiona una forte energia negativa.",
-            "leafgreen": "Peluche trasformato in POKéMON da un forte odio. Appena apre la sua bocca, sprigiona una forte energia negativa.",
+            "fire-red": "Peluche trasformato in POKéMON da un forte odio. Appena apre la sua bocca, sprigiona una forte energia negativa.",
+            "leaf-green": "Peluche trasformato in POKéMON da un forte odio. Appena apre la sua bocca, sprigiona una forte energia negativa.",
             "diamond": "Un peluche divenuto Pokémon per la rabbia di essere stato buttato via da un bimbo, di cui è alla ricerca.",
             "pearl": "Un peluche divenuto Pokémon per la rabbia di essere stato buttato via da un bimbo, di cui è alla ricerca.",
             "platinum": "Un peluche divenuto Pokémon per la rabbia di essere stato buttato via da un bimbo, di cui è alla ricerca.",
-            "heartgold": "Peluche mutato in Pokémon dal rancore per essere stato gettato. Bazzica i vicoli bui un po’ nascosti.",
-            "soulsilver": "Peluche mutato in Pokémon dal rancore per essere stato gettato. Bazzica i vicoli bui un po’ nascosti.",
+            "heart-gold": "Peluche mutato in Pokémon dal rancore per essere stato gettato. Bazzica i vicoli bui un po' nascosti.",
+            "soul-silver": "Peluche mutato in Pokémon dal rancore per essere stato gettato. Bazzica i vicoli bui un po' nascosti.",
             "black": "Un peluche divenuto Pokémon per la rabbia di essere stato buttato via da un bimbo, di cui è alla ricerca.",
             "white": "Un peluche divenuto Pokémon per la rabbia di essere stato buttato via da un bimbo, di cui è alla ricerca.",
             "black-2": "Un peluche divenuto Pokémon per il rancore di essere stato buttato via da un bimbo, di cui è alla ricerca.",
@@ -39,11 +44,13 @@
             "brilliant-diamond": "Un peluche divenuto Pokémon per il rancore provato per essere stato abbandonato. È alla ricerca del bimbo che l'ha buttato via.",
             "shining-pearl": "Un peluche divenuto Pokémon per il rancore provato per essere stato abbandonato. È alla ricerca del bimbo che l'ha buttato via.",
             "scarlet": "Un peluche gettato via, tramutato in Pokémon da un profondo rancore. Lo si vede spesso in vicoli bui.",
-            "violet": "Un peluche trasformato in Pokémon da un odio estremamente intenso. Quando apre la bocca sprigiona una forte energia negativa."
+            "violet": "Un peluche trasformato in Pokémon da un odio estremamente intenso. Quando apre la bocca sprigiona una forte energia negativa.",
+            "legends-za": "Un peluche divenuto Pokémon per il rancore provato per essere stato abbandonato. È alla ricerca del bimbo che l'ha buttato via."
         },
         "megabanette": {
-            "ultra-sun": "La sua maledizione, amplificata da un’energia smisurata, diventa incontrollabile, spingendo il Pokémon a odiare persino il suo Allenatore.",
-            "ultra-moon": "La megaevoluzione amplifica il suo rancore facendo erompere l’energia negativa, prima contenuta dalle cerniere."
+            "ultra-sun": "La sua maledizione, amplificata da un'energia smisurata, diventa incontrollabile, spingendo il Pokémon a odiare persino il suo Allenatore.",
+            "ultra-moon": "La megaevoluzione amplifica il suo rancore facendo erompere l'energia negativa, prima contenuta dalle cerniere.",
+            "legends-za": "La megaevoluzione amplifica il suo rancore facendo erompere l'energia negativa, prima contenuta dalle cerniere."
         }
     },
     "egg_groups": [
@@ -52,15 +59,15 @@
     "flat_name": "banette",
     "generation": 3,
     "height": {
-        "banette": "1.1 m",
-        "megabanette": "1.2 m"
+        "banette": "1,1 m",
+        "megabanette": "1,2 m"
     },
     "id": 354,
     "name": "Banette",
-    "name_origin": "Il nome deriva dall'unione delle parole \"Bane\"  e \"Marionette\" . ",
-    "origin": "Il suo aspetto e la sua abitudine di attaccarsi con delle punte, fanno rassomigliare molto Banette a una bambola voodoo. Mentre per la descrizione  della normale bambola che si anima da energia maledetta è simile a Tsukumogami. ",
+    "name_origin": "Banette potrebbe derivare da bane, flagello, e marionette, marionetta. Juppeta, il suo nome giapponese, potrebbe derivare da 呪 ju, maledizione, e puppet, pupazzo. Potrebbe anche essere un riferimento a Geppetto, un intagliatore che ha scolpito il burattino Pinocchio. ",
+    "origin": "Banette sembra essere basato su una bambola stregata. Le voci Pokédex che raccontano di come un tempo era una bambola normale lo ricollegano ad uno Tsukumogami. Il suo aspetto e la sua abitudine di attaccarsi con delle punte lo fanno assomigliare a una bambola voodoo. Le sue braccia penzolanti ricordano quelle di uno yūrei e il suo corno triangolare ricorda un copricapo tenkan spesso indossato da yūrei o cadaveri. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Banette",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Marionetta",
     "sprites": {
         "banette": {
@@ -101,7 +108,7 @@
         ]
     },
     "weight": {
-        "banette": "12.5 kg",
-        "megabanette": "13.0 kg"
+        "banette": "12,5 kg",
+        "megabanette": "13,0 kg"
     }
 }

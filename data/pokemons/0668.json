@@ -4,6 +4,9 @@
             "primary": "Antagonismo",
             "secondary": "Agitazione",
             "hidden": "Arroganza"
+        },
+        "megapyroar": {
+            "primary": "Pirocriniera"
         }
     },
     "curiosities": [
@@ -27,7 +30,11 @@
             "ultra-sun": "Di solito il maschio passa le giornate nell’ozio, ma se compare un nemico temibile è pronto a rischiare la vita per proteggere i compagni.",
             "ultra-moon": "Con il suo soffio, infiamma l’aria a una temperatura di 6.000 °C, ma evita di farlo con le prede perché preferisce la carne cruda.",
             "scarlet": "Le femmine collaborano per procacciare il cibo e grazie a loro il branco non patisce la fame.",
-            "violet": "Durante la lotta, la criniera dei maschi si scalda fino a raggiungere i 2.000 °C. Basta avvicinarsi a questo Pokémon per subire gravi scottature."
+            "violet": "Durante la lotta, la criniera dei maschi si scalda fino a raggiungere i 2.000 °C. Basta avvicinarsi a questo Pokémon per subire gravi scottature.",
+            "legends-za": "Il maschio con la criniera fiammeggiante più ampia è il capo che guida i compagni del gruppo."
+        },
+        "megapyroar": {
+            "legends-za": "Sputa fiamme che superano i 10.000 °C. Protegge i compagni scuotendo la sua maestosa criniera ardente."
         }
     },
     "egg_groups": [
@@ -36,14 +43,14 @@
     "flat_name": "pyroar",
     "generation": 6,
     "height": {
-        "pyroar": "1.5 m"
+        "pyroar": "1,5 m"
     },
     "id": 668,
     "name": "Pyroar",
     "name_origin": "Pyroar è una combinazione tra pyro  e roar . ",
     "origin": "Pyroar è basato su un leone. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Pyroar",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Reale",
     "sprites": {
         "pyroar": {
@@ -53,6 +60,10 @@
         "pyroar-f": {
             "default": "https://media.pokemoncentral.it/wiki/7/74/Homef0668.png",
             "shiny": "https://media.pokemoncentral.it/wiki/2/26/Homefsh0668.png"
+        },
+        "megapyroar": {
+            "default": "https://media.pokemoncentral.it/wiki/4/42/Homem0668M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/83/Homemsh0668M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/7/7d/Artwork0668_XY.png"
     },
@@ -64,18 +75,27 @@
             "spa": 109,
             "spd": 66,
             "spe": 106
+        },
+        "megapyroar": {
+            "hp": 86,
+            "atk": 88,
+            "def": 92,
+            "spa": 129,
+            "spd": 86,
+            "spe": 126
         }
     },
     "stats_sum": {
-        "pyroar": 507
+        "pyroar": 507,
+        "megapyroar": 607
     },
     "types": {
         "pyroar": [
-            "Fuoco",
-            "Normale"
+            "Normale",
+            "Fuoco"
         ]
     },
     "weight": {
-        "pyroar": "81.5 kg"
+        "pyroar": "81,5 kg"
     }
 }

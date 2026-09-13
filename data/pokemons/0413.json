@@ -6,14 +6,13 @@
         }
     },
     "curiosities": [
-        "Ogni forma di Wormadam ha lo stesso doppio tipo di un altro Pokémon: il Manto Erba ha lo stesso doppio tipo di Paras e Parasect, il Manto Sabbia di Nincada, il Manto Scarti invece lo ha uguale a Forretress, Scizor e Genesect.",
-        "Fino alla distribuzione della Chiave Segreta Wormadam era l'unico Pokémon non leggendario con più forme ad imparare mosse diverse a seconda della forma in cui si trovava.",
-        "Il Manto Pianta e il Manto Scarti hanno in comune la doppia debolezza al tipo Fuoco, mentre il Manto Sabbia è l'unico a non averne nessuna.",
-        "Il Manto Pianta è l'unico dei tre che non ha immunità.",
-        "Il Manto Pianta è l'unico Pokémon di tipo Erba che non può imparare Danzaspada.",
-        "Il Manto Sabbia è l'unico Pokémon di tipo Coleottero capace di imparare Abisso.",
-        "Wormadam non poteva imparare nessun attacco di tipo Coleottero fino all'uscita di Pokémon Platino nonostante fosse il suo tipo primario.",
-        "Wormadam e Deoxys sono gli unici Pokémon con differenti PA ceduti, poiché li cedono in modo diverso in base alla forma."
+        "Burmy e Wormadam condividono la categoria con Pineco e Forretress. Sono tutti noti come Pokémon Larva.",
+        "Wormadam e Mothim sono gli unici Pokémon con un totale di statistiche base pari a 424.",
+        "Sul Percorso 12, Scolara Delia ha una Wormadam Manto Sabbia che conosce Verdebufera. Questo è impossibile, dato che la mossa viene imparata dalla forma Manto Pianta. Il Manto Sabbia dovrebbe invece conoscere Abisso.",
+        "Prima della sesta generazione Wormadam aveva la sagoma .",
+        "Prima della settima generazione tutte le forme di Wormadam erano grigie nel Pokédex.",
+        "Prima dell'ottava generazione l'unico modo di ottenere l'abilità nascosta della linea di Burmy era il Dream World e accoppiando esemplari che l'avevano, rendendo quasi impossibile ottenerla dopo la chiusura del servizio. Ora è ottenibile anche con Cerotto abilità.",
+        "Burmy, Wormadam, Mothim, Geodude, Graveler e Golem sono gli unici presenti in tutti gli elenchi del Pokédex di Hisui."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/wormadam.mp3",
     "dex_entries": {
@@ -21,8 +20,8 @@
             "diamond": "Con l’evoluzione, il manto di BURMY diventa parte del corpo di questo Pokémon. Non se ne separa mai.",
             "pearl": "Il suo aspetto dipende dal luogo in cui si evolve. Tutto ciò che ha intorno va a costituire il suo corpo.",
             "platinum": "Quando si evolve assorbe i materiali che ha intorno. Per questo motivo ne esistono molte varianti.",
-            "heartgold": "Con l’evoluzione, nei giorni in cui la temperatura si abbassa, il mantello diventa più spesso. Così si dice.",
-            "soulsilver": "Con l’evoluzione, nei giorni in cui la temperatura si abbassa, il mantello diventa più spesso. Così si dice.",
+            "heart-gold": "Con l’evoluzione, nei giorni in cui la temperatura si abbassa, il mantello diventa più spesso. Così si dice.",
+            "soul-silver": "Con l’evoluzione, nei giorni in cui la temperatura si abbassa, il mantello diventa più spesso. Così si dice.",
             "black": "Quando si evolve assorbe i materiali che ha intorno. Per questo motivo ne esistono molte varianti.",
             "white": "Quando si evolve assorbe i materiali che ha intorno. Per questo motivo ne esistono molte varianti.",
             "black-2": "Quando si evolve assorbe i materiali che ha intorno. Per questo motivo ne esistono molte varianti.",
@@ -50,14 +49,14 @@
     "flat_name": "wormadam",
     "generation": 4,
     "height": {
-        "wormadam": "0.5 m"
+        "wormadam": "0,5 m"
     },
     "id": 413,
     "name": "Wormadam",
-    "name_origin": "Wormadam è l'unione di bagworm  e madam , mentre il giapponese ミノマダム Minomadam è la fusione di 蓑虫 minomushi  e madam. ",
-    "origin": "Wormadam è basato sulle falene della famiglia delle Psychidae, ordine dei Lepidotteri, che hanno la caratteristica di attaccare al bozzolo materiale prelevato dall'ambiente, come foglie o sabbia. ",
+    "name_origin": "Wormadam potrebbe derivare da bagworm, larva di psichide, e madam,signora. Minomadam, il suo nome giapponese, potrebbe derivare da 蓑虫 minomushi, la suddetta larva, e madam. ",
+    "origin": "Wormadam sembra essere basata su una falena femmina adulta di psichide, che in molti casi rimangono di forma larvale all'interno della teca che creano da larve. Potrebbe anche prendere ispirazione da Baba Jaga, con il Manto simile al mortaio e pestello usato da questa strega per spostarsi, oltre che la forma generale ricordante una scopa, tipicamente usata dalle streghe per volare. Le sue tre forme potrebbero derivare dalle tre Baba Jaga presenti in alcune storie. Singolarmente, le tre forme potrebbero prendere ispirazione dalle streghe slave. Il Manto Pianta potrebbe derivare dalla \"madre della foresta\" Gorska Maika, il Manto Sabbia dalla Baba Roga, che vive in grotte, e il Manto Scarti dalla Vasorrú Bába, con un naso di ferro. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Wormadam",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Larva",
     "sprites": {
         "manto-pianta": {
@@ -120,6 +119,6 @@
         ]
     },
     "weight": {
-        "wormadam": "6.5 kg"
+        "wormadam": "6,5 kg"
     }
 }

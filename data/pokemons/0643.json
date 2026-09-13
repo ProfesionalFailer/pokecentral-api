@@ -5,14 +5,12 @@
         }
     },
     "curiosities": [
-        "Reshiram condivide alcune peculiarità con Zekrom:\n\tÈ stato rivelato ufficialmente assieme a quest'ultimo il 28 maggio 2010 sui siti giapponese ed americano, rendendoli così i primi Pokémon rivelati simultaneamente in tutto il mondo.\n\tIn quinta generazione aveva una combinazione di tipi unica.\n\tQuando lo si affronta nel Palazzo di N non si viene mostrato il tipico messaggio \"È apparso Reshiram selvatico!\", ma \"È apparso Reshiram!\", ed è obbligatorio catturarlo: sconfiggendolo o fuggendo riappare immediatamente nello stesso posto, e non fornisce né Esperienza né punti base. L'unico modo per aggirare questo limite è affrontarlo con squadra e box pieni, in modo da farlo riapparire nel post-game alla Torre Dragospira.\n\tI titoli di quinta generazione sono programmati affinché non possa essere ottenuto cromatico, ma nel codice di gioco sono comunque presenti gli sprite cromatici, probabilmente come precauzione in caso di trucchi/glitch imprevisti.",
+        "Reshiram condivide alcune peculiarità con Zekrom:\n\tÈ stato rivelato ufficialmente assieme a quest'ultimo il 28 maggio 2010 sui siti giapponese ed americano, rendendoli così i primi Pokémon rivelati simultaneamente in tutto il mondo.\n\tIn quinta generazione aveva una combinazione di tipi unica.\n\tQuando lo si affronta nel Palazzo di N non si viene mostrato il tipico messaggio \"È apparso Reshiram selvatico!\", ma \"È apparso Reshiram!\", ed è obbligatorio catturarlo: sconfiggendolo o fuggendo riappare immediatamente nello stesso posto, e non fornisce né Esperienza né punti base. L'unico modo per aggirare questo limite è affrontarlo con squadra e box pieni, in modo da farlo riapparire nel post-game alla Torre Dragospira.",
         "È stato rivelato ufficialmente assieme a quest'ultimo il 28 maggio 2010 sui siti giapponese ed americano, rendendoli così i primi Pokémon rivelati simultaneamente in tutto il mondo.",
         "In quinta generazione aveva una combinazione di tipi unica.",
         "Quando lo si affronta nel Palazzo di N non si viene mostrato il tipico messaggio \"È apparso Reshiram selvatico!\", ma \"È apparso Reshiram!\", ed è obbligatorio catturarlo: sconfiggendolo o fuggendo riappare immediatamente nello stesso posto, e non fornisce né Esperienza né punti base. L'unico modo per aggirare questo limite è affrontarlo con squadra e box pieni, in modo da farlo riapparire nel post-game alla Torre Dragospira.",
-        "I titoli di quinta generazione sono programmati affinché non possa essere ottenuto cromatico, ma nel codice di gioco sono comunque presenti gli sprite cromatici, probabilmente come precauzione in caso di trucchi/glitch imprevisti.",
         "Reshiram aveva l'Attacco Speciale più alto di tutti i Pokémon di tipo Fuoco prima della sesta generazione, quando è stato superato da MegaCharizard Y, mentre la sua somma di statistiche è la più alta fra tutti i Pokémon Fuoco assieme ad Ho-Oh, escludendo Arceus quando tiene una Lastrarogo.",
-        "Reshiram, Zekrom e Pikachu avevano dei loro carri da cerimonia durante la Macy's Thanksgiving Day Parade del 2010.",
-        "Come Charizard, il verso di Reshiram a partire dalla sesta generazione viene modificato."
+        "Reshiram, Zekrom e Pikachu avevano dei loro carri da cerimonia durante la Macy's Thanksgiving Day Parade del 2010."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/reshiram.mp3",
     "dex_entries": {
@@ -35,14 +33,14 @@
     "flat_name": "reshiram",
     "generation": 5,
     "height": {
-        "reshiram": "3.2 m"
+        "reshiram": "3,2 m"
     },
     "id": 643,
     "name": "Reshiram",
     "name_origin": "Il suo nome deriva dalla parola giapponese 白む shiro, che significa \"bianco\", inoltre Sugimori ha confermato che il \"Re\" all'inizio del nome era per dare un nome più morbido rispetto al \"Ze\" di Zekrom. ",
     "origin": "Reshiram e Zekrom sono basati sul concetto dello yin e yang nel Taoismo, infatti Reshiram è noto come il Pokémon Bianco Verità. Ken Sugimori ha affermato che il design di Reshiram è stato concepito per essere luminoso, leggiadro e morbido per contrastare il design di Zekrom , mentre la sua coda è basata su una turbina elettrica; inoltre sembra essere un mix di animali, ovvero uccello, volpe o lupo, pterodattilo e viverna. La lunga chioma invece potrebbe ricordare le scie di fumo, oppure un fuoco bianco. La leggenda secondo la quale lui e Zekrom sono fratelli che combattono tra loro potrebbe ricordare la mitologia di Romolo e Remo o di Caino e Abele; è possibile che possa essere basato anche sulla mitologia zoroastriana in cui vi erano due divinità ugualmente potenti, una rappresentante la luce e la verità, l'altra l'oscurità e la menzogna, quindi Reshiram potrebbe essere ispirato appunto anche a questa divinità nota come Ahura Mazda in quanto è bianco e alato e rappresenta la verità, e anche per il fatto che Ahura Mazda rappresenta il fuoco. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Reshiram",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Bianco Verità",
     "sprites": {
         "reshiram": {
@@ -66,11 +64,11 @@
     },
     "types": {
         "reshiram": [
-            "Fuoco",
-            "Drago"
+            "Drago",
+            "Fuoco"
         ]
     },
     "weight": {
-        "reshiram": "330.0 kg"
+        "reshiram": "330,0 kg"
     }
 }

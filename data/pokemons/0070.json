@@ -6,24 +6,56 @@
         }
     },
     "curiosities": [
-        "Originariamente  il suo corpo era di colore verde, successivamente  è diventato giallo."
+        "Nelle prime due generazione il suo corpo era di colore verde. Dalla terza generazione in poi è diventato giallo."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/weepinbell.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "weepinbell": {
+            "red": "Sputa VELENPOLVERE per immobilizzare il nemico e poi lo finisce con il suo ACIDO.",
+            "blue": "Sputa VELENPOLVERE per immobilizzare il nemico e poi lo finisce con il suo ACIDO.",
+            "yellow": "Quando è affamato divora qualsiasi cosa gli capiti a tiro. La preda è poi disciolta da potenti acidi.",
+            "gold": "Sebbene sia pieno di ACIDO, riesce a non sciogliersi perché emette un liquido neutralizzante.",
+            "silver": "Se la preda è più grande della sua bocca, la fa a pezzi con foglie affilate prima di mangiarla.",
+            "crystal": "Se ha fame, agita le foglie affilate come lame, per poi cibarsi di ciò che è riuscito a tagliare.",
+            "ruby": "WEEPINBELL è dotato di un grande uncino posteriore. Di notte lo usa per appendersi ad un ramo e mettersi a dormire. Talvolta, agitandosi nel sonno, si sveglia al suolo.",
+            "sapphire": "WEEPINBELL è dotato di un grande uncino posteriore. Di notte lo usa per appendersi ad un ramo e mettersi a dormire. Talvolta, agitandosi nel sonno, si sveglia al suolo.",
+            "emerald": "WEEPINBELL è dotato di un grande uncino posteriore con cui di notte si appende ad un ramo. Talvolta, agitandosi nel sonno, si sveglia al suolo.",
+            "fire-red": "Si serve delle foglie laterali come lame contro i nemici. Il fluido che secerne dalla bocca scioglie qualsiasi cosa.",
+            "leaf-green": "Sputa VELENPOLVERE per immobilizzare il nemico e poi lo finisce con il suo ACIDO.",
+            "diamond": "Questo Pokémon sembra una pianta. Cattura le prede con una polvere tossica.",
+            "pearl": "Questo Pokémon sembra una pianta. Cattura le prede con una polvere tossica.",
+            "platinum": "Questo Pokémon sembra una pianta. Cattura le prede con una polvere tossica.",
+            "heart-gold": "Sebbene sia pieno di acido, riesce a non sciogliersi perché emette un liquido neutralizzante.",
+            "soul-silver": "Se la preda è più grande della sua bocca, la fa a pezzi con foglie affilate prima di mangiarla.",
+            "black": "Questo Pokémon sembra una pianta. Cattura le prede con una polvere tossica.",
+            "white": "Questo Pokémon sembra una pianta. Cattura le prede con una polvere tossica.",
+            "black-2": "Questo Pokémon sembra una pianta. Cattura le prede con una polvere tossica.",
+            "white-2": "Questo Pokémon sembra una pianta. Cattura le prede con una polvere tossica.",
+            "x": "Si serve delle foglie laterali come lame contro i nemici. Il fluido che secerne dalla bocca scioglie qualsiasi cosa.",
+            "y": "Sputa Velenpolvere per immobilizzare il nemico e poi lo finisce con il suo acido.",
+            "omega-ruby": "Weepinbell è dotato di un grande uncino posteriore. Di notte lo usa per appendersi ad un ramo e mettersi a dormire. Talvolta, agitandosi nel sonno, si sveglia al suolo.",
+            "alpha-sapphire": "Weepinbell è dotato di un grande uncino posteriore. Di notte lo usa per appendersi ad un ramo e mettersi a dormire. Talvolta, agitandosi nel sonno, si sveglia al suolo.",
+            "lets-go-pikachu": "Quando è affamato divora qualsiasi cosa gli capiti a tiro e la scioglie con i suoi potenti acidi.",
+            "lets-go-eevee": "Quando è affamato divora qualsiasi cosa gli capiti a tiro e la scioglie con i suoi potenti acidi.",
+            "scarlet": "Il liquido neutralizzante che secerne gli permette di non venir sciolto dal suo stesso acido.",
+            "violet": "Si serve delle foglie laterali come lame contro i nemici. Il fluido che secerne dalla bocca scioglie qualsiasi cosa.",
+            "legends-za": "Sputa una polvere velenosa per immobilizzare il nemico e poi finirlo con dell'acido."
+        }
+    },
     "egg_groups": [
         "Erba"
     ],
     "flat_name": "weepinbell",
     "generation": 1,
     "height": {
-        "weepinbell": "1.0 m"
+        "weepinbell": "1,0 m"
     },
     "id": 70,
     "name": "Weepinbell",
-    "name_origin": "Weepinbell è probabilmente una combinazione di \"bell\"  col verbo inglese \"weeping\" . ",
-    "origin": "Weepinbell e gli altri Pokémon della sua linea evolutiva possono essere basati sulle piante carnivore. ",
+    "name_origin": "Weepinbell sembra essere una combinazione di weeping  e bell . ",
+    "origin": "Weepinbell sembra essere basato su una pianta del gene Nepenthes. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Weepinbell",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Moschivoro",
     "sprites": {
         "weepinbell": {
@@ -52,6 +84,6 @@
         ]
     },
     "weight": {
-        "weepinbell": "6.4 kg"
+        "weepinbell": "6,4 kg"
     }
 }

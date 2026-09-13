@@ -18,7 +18,34 @@
         "Seedot è alla pari con Bellsprout e Sunkern per avere la Difesa Speciale di base più bassa tra tutti i Pokémon di tipo Erba."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/seedot.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "seedot": {
+            "ruby": "SEEDOT si attacca ai rami degli alberi usando il picciolo che ha sul capo. In questa posizione succhia la linfa dell'albero per nutrirsi. Più acqua assume, più lucido appare il suo corpo.",
+            "sapphire": "SEEDOT è molto simile ad una ghianda penzolante dal ramo della quercia. È solito spaventare gli altri POKéMON con movimenti improvvisi. Pulisce il proprio corpo una volta al giorno usando delle foglie.",
+            "emerald": "SEEDOT sta appeso ai rami succhiando le sostanze nutritive degli alberi. Alla fine del pasto, il suo corpo è così pesante che il POKéMON cade a terra con un tonfo.",
+            "fire-red": "Quando è immobile è difficile distinguerlo dalle vere ghiande. Così PIDGEY, quando tenta di beccarlo, fugge spaventato.",
+            "leaf-green": "Quando è immobile è difficile distinguerlo dalle vere ghiande. Così PIDGEY, quando tenta di beccarlo, fugge spaventato.",
+            "diamond": "Quando si attacca a un ramo, sembra una vera ghianda. Si diverte a spaventare gli altri Pokémon.",
+            "pearl": "Quando si attacca a un ramo, sembra una vera ghianda. Si diverte a spaventare gli altri Pokémon.",
+            "platinum": "Quando si attacca a un ramo, sembra una vera ghianda. Si diverte a spaventare gli altri Pokémon.",
+            "heart-gold": "Si attacca ai rami degli alberi usando il picciolo che ha sul capo. Talvolta il vento lo fa cadere.",
+            "soul-silver": "Si attacca ai rami degli alberi usando il picciolo che ha sul capo. Talvolta il vento lo fa cadere.",
+            "black": "Quando si attacca a un ramo, sembra una vera ghianda. Si diverte a spaventare gli altri Pokémon.",
+            "white": "Quando si attacca a un ramo, sembra una vera ghianda. Si diverte a spaventare gli altri Pokémon.",
+            "black-2": "Quando si attacca a un ramo, sembra una vera ghianda. Si diverte a spaventare gli altri Pokémon.",
+            "white-2": "Quando si attacca a un ramo, sembra una vera ghianda. Si diverte a spaventare gli altri Pokémon.",
+            "x": "Si attacca ai rami degli alberi usando il picciolo che ha sul capo. Talvolta il vento lo fa cadere.",
+            "y": "Quando si attacca a un ramo, sembra una vera ghianda. Si diverte a spaventare gli altri Pokémon.",
+            "omega-ruby": "Seedot si attacca ai rami degli alberi usando il picciolo che ha sul capo. In questa posizione succhia l'umidità dell'albero per nutrirsi. Più acqua assume, più lucido appare il suo corpo.",
+            "alpha-sapphire": "Seedot è molto simile ad una ghianda penzolante dal ramo della quercia. È solito spaventare gli altri Pokémon con movimenti improvvisi. Pulisce il proprio corpo una volta al giorno usando delle foglie.",
+            "sword": "Quando è immobile è identico a una ghianda. Si diverte a sorprendere i Pokémon che si avvicinano con l'intenzione di beccarlo.",
+            "shield": "Si attacca ai rami degli alberi usando il picciolo che ha sul capo. Talvolta il vento lo fa cadere.",
+            "brilliant-diamond": "Quando si attacca a un ramo, sembra una vera ghianda. Si diverte a spaventare i Pokémon che cercano di beccarlo.",
+            "shining-pearl": "Quando si attacca a un ramo, sembra una vera ghianda. Si diverte a spaventare i Pokémon che cercano di beccarlo.",
+            "scarlet": "Per espandere il suo habitat, finge di essere una ghianda e si fa afferrare dai Pokémon alati per essere trasportato lontano.",
+            "violet": "Vive appeso ai rami degli alberi, assorbendone l’umidità. Gli alberi giovani e grandi attraggono un maggior numero di Seedot."
+        }
+    },
     "egg_groups": [
         "Campo",
         "Erba"
@@ -26,14 +53,14 @@
     "flat_name": "seedot",
     "generation": 3,
     "height": {
-        "seedot": "0.50 m"
+        "seedot": "0,50 m"
     },
     "id": 273,
     "name": "Seedot",
-    "name_origin": "\"Seedot\" può essere una combinazione di \"seed\"  e \"dot\" o \"tot\" . \"Taneboh\" può essere una combinazion di 種 tane  e 赤ん坊 akanbō  o 帽子 bōshi . ",
+    "name_origin": "Seedot potrebbe essere una combinazione di seed, seme, e dot, puntino, o tot, bambino piccolo. Taneboh, il suo nome giapponese, potrebbe essere una combinazione di 種 tane, seme, e 赤ん坊 akanbō, bambino, o 帽子 bōshi, cappello. ",
     "origin": "Seedot sembra essere basato su una ghianda, con la sua cupola che ricorda un berretto. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Seedot",
-    "shape": "testa e gambe",
+    "shape": "None",
     "specie": "Pokémon Ghianda",
     "sprites": {
         "seedot": {
@@ -61,6 +88,6 @@
         ]
     },
     "weight": {
-        "seedot": "4.0 kg"
+        "seedot": "4,0 kg"
     }
 }

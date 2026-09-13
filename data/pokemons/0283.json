@@ -7,11 +7,40 @@
     },
     "curiosities": [
         "Surskit può essere visto come una controparte di Dewpider. Entrambi condividono il tipo Coleottero/Acqua e la stesse statistiche base totali di 269, entrambi si evolvono allo stesso livello ed entrambi possono essere trovati alla Collina Scrosciante in Pokémon Sole e Luna, alternandosi a seconda del tempo, con Surskit che può essere trovato durante la notte e Dewpider durante il giorno.",
-        "A causa di un errore nei dati delle comparse di Surskit selvatico in Pokémon Scarlatto e Violetto, dove gli ID delle aree sono inseriti come \"1,4.5,7\" invece che come \"1,4,5,7\", Surskit è abbinato ai dati di comparsa per l'Area 2 Sud e l'Area 4 Sud , ma si incontra solo nell'Area 1 Sud e nell'Area 5 Sud , perché nessuna area in Paldea corrisponde al valore ID \"4.5\".\n\tQuesto problema è stato parzialmente risolto nella versione 3.0.0+, poiché ora il Pokémon si genera correttamente nell'Area 2 Sud.",
+        "A causa di un errore nei dati delle comparse di Surskit selvatico in Pokémon Scarlatto e Violetto, dove gli ID delle aree sono stati inseriti come \"1,4.5,7\" invece che come \"1,4,5,7\", Surskit è abbinato ai dati di comparsa per l'Area 2 Sud e l'Area 4 Sud , ma si incontra solo nell'Area 1 Sud e nell'Area 5 Sud , perché nessuna area in Paldea corrisponde al valore ID \"4.5\".\n\tQuesto problema è stato parzialmente risolto nella versione 3.0.0+, poiché ora il Pokémon si genera correttamente nell'Area 2 Sud.",
         "Questo problema è stato parzialmente risolto nella versione 3.0.0+, poiché ora il Pokémon si genera correttamente nell'Area 2 Sud."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/surskit.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "surskit": {
+            "ruby": "Dalla punta delle zampe SURSKIT secerne un olio che gli consente di camminare sul pelo dell'acqua come se stesse pattinando. Si ciba di organismi microscopici in stagni e laghi.",
+            "sapphire": "In caso di pericolo SURSKIT secerne un fluido denso e zuccheroso dall'aculeo posto sulla sommità del capo. Esistono POKéMON che adorano cibarsi di questo fluido.",
+            "emerald": "Dopo un acquazzone serale, è facile vedere i SURSKIT scivolare a pelo d'acqua sulle pozzanghere. Dal capo secernono un fluido dal dolce aroma.",
+            "fire-red": "Normalmente vivono negli stagni, ma dopo un acquazzone è possibile trovarli anche in città, nelle pozzanghere.",
+            "leaf-green": "Normalmente vivono negli stagni, ma dopo un acquazzone è possibile trovarli anche in città, nelle pozzanghere.",
+            "diamond": "Cammina a pelo d'acqua. Dall'aculeo sulla testa emana un dolce aroma con cui attira le prede.",
+            "pearl": "Cammina a pelo d'acqua. Dall'aculeo sulla testa emana un dolce aroma con cui attira le prede.",
+            "platinum": "Cammina a pelo d'acqua. Dall'aculeo sulla testa emana un dolce aroma con cui attira le prede.",
+            "heart-gold": "Il suo capo secerne un liquido sciropposo e profumato. Vive negli stagni tra le piante acquatiche.",
+            "soul-silver": "Il suo capo secerne un liquido sciropposo e profumato. Vive negli stagni tra le piante acquatiche.",
+            "black": "Cammina a pelo d'acqua. Dall'aculeo sulla testa emana un dolce aroma con cui attira le prede.",
+            "white": "Cammina a pelo d'acqua. Dall'aculeo sulla testa emana un dolce aroma con cui attira le prede.",
+            "black-2": "Cammina a pelo d'acqua. Dall'aculeo sulla testa emana un dolce aroma con cui attira le prede.",
+            "white-2": "Cammina a pelo d'acqua. Dall'aculeo sulla testa emana un dolce aroma con cui attira le prede.",
+            "x": "Normalmente vivono negli stagni, ma dopo un acquazzone è possibile trovarli anche in città, nelle pozzanghere.",
+            "y": "Cammina a pelo d’acqua. Dall'aculeo sulla testa emana un dolce aroma con cui attira le prede.",
+            "omega-ruby": "Dalla punta delle zampe Surskit secerne un olio che gli consente di camminare a pelo dell'acqua come se stesse pattinando. Si ciba di organismi microscopici in stagni e laghi.",
+            "alpha-sapphire": "In caso di pericolo Surskit secerne un fluido denso e zuccheroso dall'aculeo posto sulla sommità del capo. Esistono Pokémon che adorano cibarsi di questo fluido.",
+            "sun": "Si muove scivolando sul pelo dell'acqua come se stesso pattinando. Spesso si scontra con i Dewpider per il cibo.",
+            "moon": "Quando si sente minacciato, secerne dalla punta della testa un liquido dal sapore dolciastro che i Pokémon alati detestano.",
+            "ultra-sun": "Quando è in difficoltà, secerne un liquido dolce dalla punta della testa. Lo sciroppo ricavato da questo liquido è ottimo da spalmare sul pane.",
+            "ultra-moon": "Vive tra le piante acquatiche di stagni e paludi. Spesso lotta con i Dewpider per contendersi il cibo e il territorio.",
+            "brilliant-diamond": "Quando cammina, sembra che scivoli sulla superficie dell'acqua. Dall'aculeo sulla testa emana un dolce aroma con cui attira le prede.",
+            "shining-pearl": "Quando cammina, sembra che scivoli sulla superficie dell'acqua. Dall'aculeo sulla testa emana un dolce aroma con cui attira le prede.",
+            "scarlet": "Normalmente vivono negli stagni, ma dopo un acquazzone possono comparire persino nelle pozzanghere delle città.",
+            "violet": "Il suo capo secerne un liquido dal dolce profumo simile a sciroppo. Vive negli stagni ricchi di piante acquatiche."
+        }
+    },
     "egg_groups": [
         "Acqua 1",
         "Coleottero"
@@ -19,14 +48,14 @@
     "flat_name": "surskit",
     "generation": 3,
     "height": {
-        "surskit": "0.50 m"
+        "surskit": "0,50 m"
     },
     "id": 283,
     "name": "Surskit",
-    "name_origin": "\"Surskit\" può essere una combinazione di \"surface\"  o \"surf\" e \"skitter\" . \"Ametama\" può essere una combinazione di 雨 ame , 水黽 amenbo  e 玉 tama . Potrebbe includere anche 飴玉 amedama , per le sue secrezioni dolci e sciroppose. ",
+    "name_origin": "Surskit potrebbe essere una combinazione di surface, superficie, o surf e skitter, muoversi in modo frettoloso, a scatti. Ametama può essere una combinazione di 雨 ame, pioggia, 水黽 amenbo, gerride, e 玉 tama, sfera. Potrebbe includere anche 飴玉 amedama, caramella, per le sue secrezioni dolci e sciroppose. ",
     "origin": "Surskit sembra essere basato su un gerride. La forma del suo corpo ricorda una pietra da curling, che scivola sul ghiaccio in modo simile a come Surskit riesce a scivolare sulla superficie dell'acqua. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Surskit",
-    "shape": "insettoide",
+    "shape": "None",
     "specie": "Pokémon Sfiorapozze",
     "sprites": {
         "surskit": {
@@ -50,11 +79,11 @@
     },
     "types": {
         "surskit": [
-            "Coleot",
-            "Acqua"
+            "Acqua",
+            "Coleot"
         ]
     },
     "weight": {
-        "surskit": "1.7 kg"
+        "surskit": "1,7 kg"
     }
 }

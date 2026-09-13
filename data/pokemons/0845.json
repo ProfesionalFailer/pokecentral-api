@@ -13,7 +13,9 @@
     "dex_entries": {
         "cramorant": {
             "sword": "È così potente che può sconfiggere l'avversario in un colpo solo, ma è talmente smemorato che si dimentica perfino con chi stava lottando.",
-            "shield": "È molto ingordo e ingoia tutti interi gli Arrokuda di cui si nutre. A volte ingoia anche altri Pokémon per sbaglio."
+            "shield": "È molto ingordo e ingoia tutti interi gli Arrokuda di cui si nutre. A volte ingoia anche altri Pokémon per sbaglio.",
+            "scarlet": "",
+            "violet": "È molto smemorato, ma limitando al minimo l'energia usata per il cervello può destinarne una maggiore quantità alla lotta."
         },
         "forma-inghiottitutto": {
             "sword": "Nella sua ingordigia, ha cercato di mangiare un Arrokuda enorme, ma gli è rimasto incastrato in gola.",
@@ -31,14 +33,14 @@
     "flat_name": "cramorant",
     "generation": 8,
     "height": {
-        "cramorant": "0.8 m"
+        "cramorant": "0,8 m"
     },
     "id": 845,
     "name": "Cramorant",
     "name_origin": "Cramorant potrebbe essere una combinazione di cram, riempire o ammassare, e cormorant, cormorano. Uu potrebbe essere una combinazione di ウッ u~, rumore di soffocamento, e 鵜 u, cormorano. ",
     "origin": "Cramorant potrebbe essere basato su due uccelli marini comunemente presenti nelle Isole britanniche: il cormorano e il fulmaro, un uccello che utilizza i propri rigurgiti per difendersi dai suoi predatori. L'abilità di Cramorant potrebbe essere ispirata sulla pesca con il cormorano, un'antica tecnica di pesca che consiste nell'utilizzare cormorani addestrati a pescare e a sputare il pesce pescato. Il piumaggio nel collo ricorda un bavaglino. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Cramorant",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Inghiottone",
     "sprites": {
         "cramorant": {
@@ -75,6 +77,6 @@
         ]
     },
     "weight": {
-        "cramorant": "18.0 kg"
+        "cramorant": "18,0 kg"
     }
 }

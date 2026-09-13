@@ -3,12 +3,17 @@
         "froslass": {
             "primary": "Mantelneve",
             "hidden": "Corpofunesto"
+        },
+        "megafroslass": {
+            "primary": "Scendineve"
         }
     },
     "curiosities": [
         "Froslass ha una combinazione di tipi unica.",
-        "Nonostante Froslass fluttui per aria, non può avere l'abilità Levitazione.",
-        "A causa della censura dei soprannomi attuata in Pokémon Nero e Bianco, un Froslass proveniente dalle versioni inglesi non poteva essere scambiato nel Global Trade System senza un soprannome adeguato in questi giochi."
+        "A causa della censura sui soprannomi dei Pokémon in quinta generazione, un Probopass con il nome inglese non può essere scambiato senza soprannome nel GTS.",
+        "Froslass è l'unico membro della sua famiglia evolutiva a non avere due abilità normali.",
+        "Froslass e la sua linea evolutiva sono gli unici Pokémon di tipo Ghiaccio nel Gruppo Uova Magico.\n\tFroslass è anche l'unico Pokémon di tipo Spettro in questo Gruppo.",
+        "Froslass è anche l'unico Pokémon di tipo Spettro in questo Gruppo."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/froslass.mp3",
     "dex_entries": {
@@ -16,8 +21,8 @@
             "diamond": "Congela i nemici con un alito glaciale a -50°C. Il suo corpo è vuoto.",
             "pearl": "Congela i nemici con un alito glaciale a -50°C. Il suo corpo è vuoto.",
             "platinum": "Congela le prede con un alito glaciale a -50 °C. Si dice che poi le metta segretamente in mostra.",
-            "heartgold": "Qua e là corre ancora voce che FROSLASS fosse in origine una donna dispersa in montagna tra la neve.",
-            "soulsilver": "Qua e là corre ancora voce che FROSLASS fosse in origine una donna dispersa in montagna tra la neve.",
+            "heart-gold": "Qua e là corre ancora voce che Froslass fosse in origine una donna dispersa in montagna tra la neve.",
+            "soul-silver": "Qua e là corre ancora voce che Froslass fosse in origine una donna dispersa in montagna tra la neve.",
             "black": "Congela le prede con un alito glaciale a -50°C. Si dice che poi le metta segretamente in mostra.",
             "white": "Congela le prede con un alito glaciale a -50°C. Si dice che poi le metta segretamente in mostra.",
             "black-2": "Congela le prede con un alito glaciale a -50°C. Si dice che poi le metta segretamente in mostra.",
@@ -36,7 +41,11 @@
             "shining-pearl": "Congela i nemici con un alito glaciale a -50 ºC. La parte del corpo che sembra il suo torso in realtà è vuota.",
             "legends-arceus": "Questo Pokémon ospita lo spirito rancoroso di una donna svanita fra le vette innevate. Si narra maledica a morte gli uomini empi, e mi si gela il sangue al sol pensiero.",
             "scarlet": "Con il suo alito glaciale congela gli esseri umani e i Pokémon che gli piacciono e li usa per decorare la sua tana.",
-            "violet": "Congela le prede con un alito glaciale a -50 ºC. Si dice che poi le metta in mostra in un luogo segreto."
+            "violet": "Congela le prede con un alito glaciale a -50 ºC. Si dice che poi le metta in mostra in un luogo segreto.",
+            "legends-za": "Congela i nemici con un alito glaciale a -50 °C. La parte del corpo che sembra il suo torso in realtà è vuota."
+        },
+        "megafroslass": {
+            "legends-za": "Usando una sinistra aria gelida infusa di energia Spettro può congelare persino fiamme, vento e altre sostanze aeriformi."
         }
     },
     "egg_groups": [
@@ -46,19 +55,24 @@
     "flat_name": "froslass",
     "generation": 4,
     "height": {
-        "froslass": "1.3 m"
+        "froslass": "1,3 m",
+        "megafroslass": "2,6 m"
     },
     "id": 478,
     "name": "Froslass",
-    "name_origin": "Froslass potrebbe essere un'unione delle parole inglesi \"Frost\"  e \"Lass\" . ",
-    "origin": "Froslass sembra essere basata su una Yuki-onna, uno spirito del ghiaccio delle leggende giapponesi. ",
+    "name_origin": "Froslass potrebbe derivare da frost, gelo, e lass, ragazza. Yukimenoko, il suo nome giapponese, potrebbe derivare da 雪 yuki, neve, 雪女 yuki-onna, e 女の子 menoko, termine arcaico per \"ragazza\". ",
+    "origin": "Froslass sembra essere basata su una yuki-onna, uno spirito del ghiaccio delle leggende giapponesi descritto come un fantasma di donna con cui condivide molti comportamenti. Le yuki-onna sono dette portare in braccio dei bambini per attirare viandanti. Questi bambini sono in realtà yukinko, che condividono tratti con Snorunt. In altri casi sono descritte come vampiri che assorbono l'energia vitale dei passanti dalla loro bocca dopo averli attirati; in modo simile Froslass può imparare Assorbibacio per livello. La voce Pokédex di Pokémon Luna che menziona sia nata da una stalattite animata da uno spirito di donna è simile all'origine di una tsurara-onna. La forma del suo corpo ricorda una bambola kokeshi. La fascia rossa fa sembrare che indossi un Kimono. L'aspetto più alto e regale di MegaFroslass potrebbe derivare da La regina delle nevi. Ricorda anche una takaonna, spirito della mitologia giapponese caratterizzato dalla sua altezza. Le sue corna ricordano quelle di un oni. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Froslass",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Suolnevoso",
     "sprites": {
         "froslass": {
             "default": "https://media.pokemoncentral.it/wiki/4/4f/Homef0478.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d8/Homefsh0478.png"
+        },
+        "megafroslass": {
+            "default": "https://media.pokemoncentral.it/wiki/7/77/Homef0478M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b3/Homefsh0478M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/6/6d/Artwork0478_DP.png"
     },
@@ -70,18 +84,28 @@
             "spa": 80,
             "spd": 70,
             "spe": 110
+        },
+        "megafroslass": {
+            "hp": 70,
+            "atk": 80,
+            "def": 70,
+            "spa": 140,
+            "spd": 100,
+            "spe": 120
         }
     },
     "stats_sum": {
-        "froslass": 480
+        "froslass": 480,
+        "megafroslass": 580
     },
     "types": {
         "froslass": [
-            "Ghiaccio",
-            "Spettro"
+            "Spettro",
+            "Ghiaccio"
         ]
     },
     "weight": {
-        "froslass": "26.6 kg"
+        "froslass": "26,6 kg",
+        "megafroslass": "29,6 kg"
     }
 }

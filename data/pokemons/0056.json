@@ -7,26 +7,63 @@
         }
     },
     "curiosities": [
-        "Mankey potrebbe essere considerato una controparte di Meowth. Entrambi sono Pokémon di prima generazione che si evolvono al livello 28. Mankey è esclusivo di Pokémon Rosso, Oro, Oro HeartGold e Let's Go, Pikachu!, mentre Meowth è esclusivo di Pokémon Blu, Argento, Argento SoulSilver e Let's Go, Eevee!. Inoltre, in Nero 2 e Bianco 2, Dadì darà al giocatore un Mankey se il giocatore è femmina, mentre Lilì darà al giocatore un Meowth se il giocatore è maschio. Infine, entrambi sembrano avere una combinazione di colori simile.",
-        "Nell'ufficio di Game Freak a Kantai in Pokémon Sole e Luna, Shigeki Morimoto afferma di aver progettato Mankey secondo le istruzioni del suo capo.",
-        "Mankey è il primo Pokémon di tipo Lotta ad apparire nel Pokédex Nazionale."
+        "Mankey può essere considerato una controparte di Meowth. Entrambi sono Pokémon di prima generazione che si evolvono nelle loro forme finali al livello 28. Meowth è esclusivo di Pokémon Blu, Pokémon Argento, Pokémon Argento SoulSilver e LGE; mentre Mankey è esclusivo di Pokémon Rosso, Pokémon Oro, Pokémon Oro HeartGold e LGP. Inoltre, in Nero 2 e Bianco 2, Lilì darà al giocatore un Meowth se il giocatore è maschio, mentre Dadì darà al giocatore un Mankey se il giocatore è femmina. Infine, entrambi sembrano avere una combinazione di colori simile.",
+        "Nell'ufficio di GAME FREAK a Kantai in Pokémon Sole e Luna, Shigeki Morimoto afferma di aver progettato Mankey secondo le istruzioni del suo capo."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mankey.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "mankey": {
+            "red": "Molto iracondo, può passare dalla docilità all'ira nell'arco di un solo istante.",
+            "blue": "Molto iracondo, può passare dalla docilità all'ira nell'arco di un solo istante.",
+            "yellow": "POKéMON agile che vive sugli alberi. Molto irascibile non esita ad attaccare tutto e tutti.",
+            "gold": "Ha un pessimo carattere. Può attaccare in gruppo qualsiasi obiettivo senza alcuna ragione.",
+            "silver": "È pericoloso avvicinarlo se è tanto arrabbiato da non poter più distinguere gli amici dai nemici.",
+            "crystal": "Vivono in branchi, in cima agli alberi. Se perdono il contatto con il gruppo s'infuriano per la solitudine.",
+            "ruby": "Quando MANKEY inizia a tremare e la sua respirazione nasale diventa pesante significa che si sta infuriando. Tuttavia, a causa dei suoi repentini attacchi d'ira, è impossibile per chiunque sfuggire alla sua furia.",
+            "sapphire": "Quando MANKEY inizia a tremare e la sua respirazione nasale diventa pesante significa che si sta infuriando. Tuttavia, a causa dei suoi repentini attacchi d'ira, è impossibile per chiunque sfuggire alla sua furia.",
+            "emerald": "Quando MANKEY sta per avere un attacco d'ira, inizia a tremare e a respirare pesantemente dal naso. Tali sfuriate sono così repentine che è impossibile sfuggirgli.",
+            "fire-red": "POKéMON agile particolarmente feroce, cade spesso vittima di incontrollabili accessi d'ira.",
+            "leaf-green": "Molto iracondo, può passare dalla docilità all'ira nell'arco di un solo istante.",
+            "diamond": "Vive in colonie sugli alberi. Se uno si adira, l'intera colonia comincia a agire violentemente senza motivo.",
+            "pearl": "Vive in colonie sugli alberi. Se uno si adira, l'intera colonia comincia a agire violentemente senza motivo.",
+            "platinum": "Vive in colonie sugli alberi. Se uno si adira, l'intera colonia comincia a agire violentemente senza motivo.",
+            "heart-gold": "Ha un pessimo carattere. Può attaccare in gruppo qualsiasi obiettivo senza alcuna ragione.",
+            "soul-silver": "Se è tanto arrabbiato da non riuscire più a distinguere gli amici dai nemici, è pericoloso avvicinarsi.",
+            "black": "Vive in colonie sugli alberi. Se uno si adira, l'intera colonia comincia a agire violentemente senza motivo.",
+            "white": "Vive in colonie sugli alberi. Se uno si adira, l'intera colonia comincia a agire violentemente senza motivo.",
+            "black-2": "Vive in colonie sugli alberi. Se uno si adira, l'intera colonia comincia a agire violentemente senza motivo.",
+            "white-2": "Vive in colonie sugli alberi. Se uno si adira, l'intera colonia comincia a agire violentemente senza motivo.",
+            "x": "Se è tanto arrabbiato da non riuscire più a distinguere gli amici dai nemici, è pericoloso avvicinarsi.",
+            "y": "Vive in colonie sugli alberi. Se uno si adira, l'intera colonia comincia ad agire violentemente senza motivo.",
+            "omega-ruby": "Quando Mankey inizia a tremare e la sua respirazione nasale diventa pesante significa che si sta infuriando. Tuttavia, a causa dei suoi repentini attacchi d'ira, è impossibile per chiunque sfuggire alla sua furia.",
+            "alpha-sapphire": "Quando Mankey inizia a tremare e la sua respirazione nasale diventa pesante significa che si sta infuriando. Tuttavia, a causa dei suoi repentini attacchi d'ira, è impossibile per chiunque sfuggire alla sua furia.",
+            "sun": "È soggetto ad attacchi di rabbia improvvisi e se tutti attorno a lui si dileguano, si arrabbia ancora di più per la stizza di essere rimasto solo.",
+            "moon": "Quando si infuria si stanca così tanto che si addormenta, ma si arrabbia anche in sogno, e si risveglia ancora più arrabbiato.",
+            "ultra-sun": "Basta un nonnulla per farlo andare su tutte le furie. Tuttavia, non accumula stress e vive molto a lungo.",
+            "ultra-moon": "Se uno di loro si arrabbia, si infuriano anche i Mankey che gli stanno intorno. Per questo nelle loro colonie non regna mai il silenzio.",
+            "lets-go-pikachu": "Un Pokémon agile che vive sugli alberi. È molto irascibile e non esita ad attaccare chiunque gli capiti a tiro.",
+            "lets-go-eevee": "Un Pokémon agile che vive sugli alberi. È molto irascibile e non esita ad attaccare chiunque gli capiti a tiro.",
+            "brilliant-diamond": "Vive in colonie sugli alberi. Se uno si adira, l'intera colonia comincia ad agire violentemente senza motivo.",
+            "shining-pearl": "Vive in colonie sugli alberi. Se uno si adira, l'intera colonia comincia ad agire violentemente senza motivo.",
+            "scarlet": "Vivono in branchi in cima agli alberi. Se perdono il contatto con il gruppo s'infuriano per la solitudine.",
+            "violet": "Anche quando è di buon umore, solitamente può abbandonarsi all'ira da un momento all'altro per un nonnulla.",
+            "legends-za": "Sono sempre arrabbiati. Se avvistano una preda adeguata la attaccano in branco."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "mankey",
     "generation": 1,
     "height": {
-        "mankey": "0.5 m"
+        "mankey": "0,5 m"
     },
     "id": 56,
     "name": "Mankey",
-    "name_origin": "Mankey potrebbe essere una combinazione delle parole man  e monkey . Potrebbe essere anche un gioco di parole su manky . Alternativamente, potrebbe essere una combinazione delle parole mad  e monkey , a causa della personalità testarda e aggressiva. ",
+    "name_origin": "Mankey potrebbe essere una combinazione delle parole man  e monkey . Potrebbe essere anche un gioco di parole su mad . ",
     "origin": "La classificazione di Mankey come \"Pokémon Suinpanzè\", insieme al suo naso da maiale, potrebbero essere ispirati al macaco nemestrino. Condivide con questo primate anche una combinazione di colori simile e la pelliccia ispida. Data la sua lunga coda, l'habitat e la personalità generale, Mankey ha molto in comune con i babbuini e le scimmie dal naso camuso. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Mankey",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Suinpanzè",
     "sprites": {
         "mankey": {
@@ -54,6 +91,6 @@
         ]
     },
     "weight": {
-        "mankey": "28.0 kg"
+        "mankey": "28,0 kg"
     }
 }

@@ -7,9 +7,10 @@
         }
     },
     "curiosities": [
-        "Nel Pokédex è scritto che il segno sul dorso di Mantyke cambia a seconda della regione, anche se nelle regioni in cui è possibile ottenerlo esso non cambia mai.",
-        "Finora Mantyke è l'unico Pokémon che per evolversi richiede un aumento di livello con un determinato Pokémon in squadra.",
-        "Mantyke ha la più alta statistica base di Difesa Speciale di tutti i Pokémon Baby e di tutti i Pokémon non evoluti."
+        "Nel Pokédex è scritto che il disegno sul dorso di Mantyke cambia a seconda della regione, anche se nelle regioni in cui è possibile ottenerlo esso non cambia mai.",
+        "Mantyke è l'unico Pokémon che per evolversi richiede un aumento di livello con un determinato Pokémon in squadra.",
+        "Mantyke ha la più alta statistica di Difesa Speciale tra tutti i Pokémon Baby.\n\tHa anche, insieme a Ledyba, la più bassa statistica di Attacco tra i Pokémon di tipo Volante",
+        "Ha anche, insieme a Ledyba, la più bassa statistica di Attacco tra i Pokémon di tipo Volante"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mantyke.mp3",
     "dex_entries": {
@@ -17,8 +18,8 @@
             "diamond": "Pokémon amichevole che con le antenne è in grado di avvertire anche minime correnti marine.",
             "pearl": "Gli scienziati hanno scoperto che i motivi caratteristici del suo dorso variano da regione a regione.",
             "platinum": "Vengono organizzate escursioni per vedere questo Pokémon giocare in in mezzo alle onde con REMORAID.",
-            "heartgold": "Poiché MANTYKE nuota in superficie, si possono ammirare i disegni sulla sua schiena da un'imbarcazione.",
-            "soulsilver": "Poiché MANTYKE nuota in superficie, si possono ammirare i disegni sulla sua schiena da un'imbarcazione.",
+            "heart-gold": "Poiché MANTYKE nuota in superficie, si possono ammirare i disegni sulla sua schiena da un'imbarcazione.",
+            "soul-silver": "Poiché MANTYKE nuota in superficie, si possono ammirare i disegni sulla sua schiena da un'imbarcazione.",
             "black": "Vengono organizzate escursioni per vedere questo Pokémon giocare in mezzo alle onde con Remoraid.",
             "white": "Vengono organizzate escursioni per vedere questo Pokémon giocare in mezzo alle onde con Remoraid.",
             "black-2": "Il disegno sul suo dorso cambia a seconda della regione. Nuota spesso assieme ai branchi di Remoraid.",
@@ -34,7 +35,8 @@
             "brilliant-diamond": "È un Pokémon mansueto. Con le antenne è in grado di avvertire anche le più deboli correnti marine.",
             "shining-pearl": "Gli scienziati hanno scoperto che il disegno caratteristico sul suo dorso varia da regione a regione.",
             "legends-arceus": "Gran natatore nonostante le fattezze sferiche. È dimostrato che il fertile sodalizio con banchi di Remoraid conduce infine all'evoluzione."
-        }
+        },
+        "": {}
     },
     "egg_groups": [
         "Sconosciuto"
@@ -42,14 +44,14 @@
     "flat_name": "mantyke",
     "generation": 4,
     "height": {
-        "mantyke": "1.0 m"
+        "mantyke": "1,0 m"
     },
     "id": 458,
     "name": "Mantyke",
-    "name_origin": "Deriva dalle parole manta e tyke, bambino. ",
-    "origin": "Basato su una manta. ",
+    "name_origin": "Mantyke potrebbe derivare da manta e tyke, termine per un cucciolo o un bambino piccolo. Tamanta, il suo nome giapponese, potrebbe derivare da 玉 tama, palla, e manta. ",
+    "origin": "Mantyke sembra essere basato su una manta. Il disegno sul dorso ricorda uno smiley. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Mantyke",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Aquilone",
     "sprites": {
         "mantyke": {
@@ -78,6 +80,6 @@
         ]
     },
     "weight": {
-        "mantyke": "65.0 kg"
+        "mantyke": "65,0 kg"
     }
 }

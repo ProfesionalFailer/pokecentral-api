@@ -12,15 +12,17 @@
         }
     },
     "curiosities": [
-        "Goodra, a pari merito con MegaLatias, ha la più alta statistica base di Difesa Speciale di tutti i Pokémon di tipo Drago.",
-        "Fra i Pokémon pseudo-leggendari, Goodra è:\n\tL'unico non di doppio tipo .\n\tIl secondo che sorride dopo Dragonite.\n\tIl primo ad avere due possibili abilità non speciali.\n\tIl primo a non avere un'immunità dovuta al suo tipo .\n\tQuello con il valore più alto di una singola statistica base, grazie ai 150 punti in Difesa Speciale .\n\tL'unico a necessitare di una specifica condizione atmosferica per evolversi.\n\tQuello con il valore di attacco più basso: 100.",
-        "L'unico non di doppio tipo .",
-        "Il secondo che sorride dopo Dragonite.",
-        "Il primo ad avere due possibili abilità non speciali.",
-        "Il primo a non avere un'immunità dovuta al suo tipo .",
-        "Quello con il valore più alto di una singola statistica base, grazie ai 150 punti in Difesa Speciale .",
-        "L'unico a necessitare di una specifica condizione atmosferica per evolversi.",
-        "Quello con il valore di attacco più basso: 100."
+        "Goodra è l'unico Pokémon pseudo-leggendario:\n\tad avere un metodo di evoluzione che richiede più di un semplice aumento di livello.\n\tad avere una forma regionale.",
+        "ad avere un metodo di evoluzione che richiede più di un semplice aumento di livello.",
+        "ad avere una forma regionale.",
+        "Goodra di Kalos è l'unico Pokémon pseudo-leggendario a non essere di doppio tipo.",
+        "Ognuna delle statistiche base di Goodra di Kalos è pari a esattamente il doppio di quelle di Goomy, con Sliggoo di Kalos che si trova a metà strada tra queste .",
+        "Goodra di Kalos condivide la sua categoria con le linee evolutive di Horsea e Dratini e con Salamence. Sono tutti noti come Pokémon Drago.",
+        "Goodra di Kalos è stato disegnato da Saya Tsuruta.",
+        "Goodra di Hisui è a pari merito con Registeel e Probopass per la statistica base di Difesa Speciale più alta di tutti i Pokémon di tipo Acciaio.",
+        "Nel codice interno di Leggende Pokémon: Arceus, l'abilità secondaria di Goodra di Hisui è Copricapo invece che Guscioscudo.",
+        "Goodra e Hydreigon sono gli unici Pokémon pseudo-leggendari con una statistica di Attacco Speciale più alta di quella di Attacco.",
+        "Goodra è il primo Pokémon pseudo-leggendario a non essere immune a nessun tipo tramite normali abbinamenti di tipo. Tuttavia, se la sua abilità è Mangiaerba, è immune alle mosse di tipo Erba."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/goodra.mp3",
     "dex_entries": {
@@ -36,7 +38,8 @@
             "sword": "A volte non capisce gli ordini del suo Allenatore e rimane immobile con un'aria stupita. Molti lo trovano adorabile proprio per questo.",
             "shield": "Distende i suoi lunghi corni e si lancia all'attacco con una potenza 100 volte superiore al pugno di un peso massimo.",
             "scarlet": "Questo Pokémon mite adora i diluvi, tanto che spesso lo si vede camminare per monti e per valli sotto la pioggia scrosciante.",
-            "violet": "Quando si arrabbia non c’è verso di calmarlo: si scatena con colpi di coda capaci di rivoltare persino un autocarro."
+            "violet": "Quando si arrabbia non c’è verso di calmarlo: si scatena con colpi di coda capaci di rivoltare persino un autocarro.",
+            "legends-za": "Un Pokémon Drago davvero amichevole. Abbraccia il suo amato Allenatore lasciandolo ricoperto di bava."
         },
         "forma-di-hisui": {
             "legends-arceus": "Può regolare la durezza del carapace metallico. Rifugge la solitudine e monta su tutte le furie se abbandonato da coloro a cui è più affezionato."
@@ -48,14 +51,14 @@
     "flat_name": "goodra",
     "generation": 6,
     "height": {
-        "goodra": "2.0 m"
+        "goodra": "2,0 m"
     },
     "id": 706,
     "name": "Goodra",
     "name_origin": "Goodra deriva dall'unione delle parole inglesi goo  e dragon . Potrebbe anche derivare da good . Numelgon è una combinazione tra 滑る numeru , gel e dragon . ",
     "origin": "Goodra è basato su un gasteropode e su un drago. La sua natura di drago e le corna retrattili fanno pensare che questo Pokémon prenda spunto da Lou Carcolh, un serpente/mollusco mitologico proveniente dal folklore francese. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Goodra",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Drago",
     "sprites": {
         "goodra": {
@@ -100,6 +103,6 @@
         ]
     },
     "weight": {
-        "goodra": "150.5 kg"
+        "goodra": "150,5 kg"
     }
 }

@@ -12,41 +12,78 @@
         }
     },
     "curiosities": [
-        "Nonostante venga prima di Mew nel Pokédex Nazionale, secondo la lore del gioco è stato scoperto dopo il Pokémon misterioso, essendone un clone.",
-        "Mewtwo era in prima generazione il Pokémon con la più alta somma di statistiche. In seconda e terza condivide il primato con altri Pokémon leggendari, ed in quarta viene superato da Arceus.\n\tQuando è megaevoluto, il totale delle sue statistiche di base  è di 780, permettendogli così di superare Arceus .\n\tCon l'introduzione di Pokémon Rubino Omega e Zaffiro Alpha, Mewtwo non è più il Pokémon più forte in assoluto ma condivide il titolo con la forma megaevoluta di Rayquaza.\n\tIn ottava generazione, con l'introduzione di Eternatus Dynamax infinito, Mewtwo viene superato.",
-        "Quando è megaevoluto, il totale delle sue statistiche di base  è di 780, permettendogli così di superare Arceus .",
-        "Con l'introduzione di Pokémon Rubino Omega e Zaffiro Alpha, Mewtwo non è più il Pokémon più forte in assoluto ma condivide il titolo con la forma megaevoluta di Rayquaza.",
-        "In ottava generazione, con l'introduzione di Eternatus Dynamax infinito, Mewtwo viene superato.",
-        "MegaMewtwo X ha la più alta statistica base di Attacco in assoluto, ma il suo Attacco può essere superato da MegaMawile e MegaMedicham grazie alle loro abilità Macroforza e Forzapura.",
-        "MegaMewtwo Y possiede la più alta statistica base di Attacco Speciale.",
-        "Insieme a Lugia, Hoopa Libero, Solgaleo e Lunala ha la più alta somma di statistiche fra tutti i Pokémon di tipo Psico non megaevoluti.",
-        "Il suo compleanno nel gioco è il 6 febbraio, come si evince da un diario trovato nella Villa Pokémon.",
+        "Il suo compleanno nel gioco è il 6 febbraio, come si evince da un diario trovato nella Villa Pokémon.\n\tNello stesso diario viene descritto come Mew abbia \"dato alla luce\" Mewtwo, implicando una gravidanza come avviene nelle clonazioni nel mondo reale. Nonostante questo, in ogni altra rappresentazione Mewtwo è stato creato in un macchinario.",
+        "Nello stesso diario viene descritto come Mew abbia \"dato alla luce\" Mewtwo, implicando una gravidanza come avviene nelle clonazioni nel mondo reale. Nonostante questo, in ogni altra rappresentazione Mewtwo è stato creato in un macchinario.",
         "Mewtwo cromatico in Pokémon Stadium 2 appare di colore nero anziché verde.",
-        "Un'immagine di Mewtwo appare nel faro di Bill nell'anime nonostante Mewtwo non sia ancora stato creato.",
+        "Un'immagine di Mewtwo appare nel faro di Bill nell'anime nonostante Mewtwo non sia ancora stato creato. In modo simile, lo sprite di Mewtwo appare nella Palestra di Smeraldopoli.",
         "L'isola di Niue ha rilasciato un dollaro con Mewtwo impresso sulla moneta.",
-        "Mewtwo ha cambiato verso in sesta generazione.\n\tInoltre ogni sua forma Mega ha il proprio verso.",
-        "Inoltre ogni sua forma Mega ha il proprio verso.",
+        "Mewtwo ha cambiato verso in sesta generazione.\n\tInoltre ogni sua megaevoluzione ha il proprio verso.",
+        "Inoltre ogni sua megaevoluzione ha il proprio verso.",
         "Una sagoma di Mewtwo, anche se leggermente modificata, compare nel quarto volume del manga Assassination Classroom.",
         "Condivide con Mew il primato del maggior numero di apparizioni nell'opening della serie animata, 7 volte."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mewtwo.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "mewtwo": {
+            "red": "Creato da uno scienziato dopo anni di orribili esperimenti di ingegneria genetica.",
+            "blue": "Creato da uno scienziato dopo anni di orribili esperimenti di ingegneria genetica.",
+            "yellow": "Il suo DNA è quasi uguale a quello di MEW, tuttavia le dimensioni e il carattere sono agli antipodi.",
+            "gold": "Dato che le sue abilità nel combattimento sono al massimo, non fa altro che battere i nemici.",
+            "silver": "Di solito rimane immobile, conservando l'energia che poi scatena durante la lotta.",
+            "crystal": "POKéMON creato esclusivamente per la lotta: si dice che riposi all'interno di grotte inesplorate.",
+            "ruby": "MEWTWO è stato creato grazie ad una manipolazione genetica. Tuttavia, sebbene la scienza sia riuscita a creare un corpo di POKéMON, ha fallito nell'intento di dare a MEWTWO un animo generoso.",
+            "sapphire": "MEWTWO è stato creato grazie ad una manipolazione genetica. Tuttavia, sebbene la scienza sia riuscita a creare un corpo di POKéMON, ha fallito nell'intento di dare a MEWTWO un animo generoso.",
+            "emerald": "MEWTWO è il risultato di una manipolazione genetica. Sebbene la scienza sia riuscita a creare un corpo di POKéMON, ha fallito nell'intento di dargli un animo generoso.",
+            "fire-red": "Il codice genetico di questo POKéMON è stato ripetutamente ricombinato a scopo di ricerca. Ciò l'ha reso malvagio.",
+            "leaf-green": "Creato da uno scienziato dopo anni di orribili esperimenti di ingegneria genetica.",
+            "diamond": "Un Pokémon creato usando i geni di MEW. Si dice che fra i Pokémon sia quello con l'animo più crudele.",
+            "pearl": "Un Pokémon creato usando i geni di MEW. Si dice che fra i Pokémon sia quello con l'animo più crudele.",
+            "platinum": "Un Pokémon creato usando i geni di MEW. Si dice che fra i Pokémon sia quello con l'animo più crudele.",
+            "heart-gold": "Dato che le sue abilità nel combattimento sono al massimo, non fa altro che battere i nemici.",
+            "soul-silver": "Di solito rimane immobile, conservando l’energia che poi scatena durante la lotta.",
+            "black": "Un Pokémon creato usando i geni di Mew. Si dice che fra i Pokémon sia quello con l'animo più crudele.",
+            "white": "Un Pokémon creato usando i geni di Mew. Si dice che fra i Pokémon sia quello con l'animo più crudele.",
+            "black-2": "Un Pokémon creato usando i geni di Mew. Si dice che fra i Pokémon sia quello con l'animo più crudele.",
+            "white-2": "Un Pokémon creato usando i geni di Mew. Si dice che fra i Pokémon sia quello con l'animo più crudele.",
+            "x": "Creato da uno scienziato dopo anni di orribili esperimenti di ingegneria genetica.",
+            "y": "Un Pokémon creato usando i geni di Mew. Si dice che fra i Pokémon sia quello con l’animo più crudele.",
+            "omega-ruby": "Mewtwo è stato creato grazie a una manipolazione genetica. Tuttavia, sebbene la scienza sia riuscita a creare un corpo di Pokémon, ha fallito nell'intento di dare a Mewtwo un animo generoso.",
+            "alpha-sapphire": "Mewtwo è stato creato grazie a una manipolazione genetica. Tuttavia, sebbene la scienza sia riuscita a creare un corpo di Pokémon, ha fallito nell'intento di dare a Mewtwo un animo generoso.",
+            "lets-go-pikachu": "Il suo DNA è quasi uguale a quello di Mew. Ciò nonostante, sono agli antipodi per dimensioni e carattere.",
+            "lets-go-eevee": "Il suo DNA è quasi uguale a quello di Mew. Ciò nonostante, sono agli antipodi per dimensioni e carattere.",
+            "sword": "Un Pokémon creato usando i geni di Mew. Ha un’indole feroce ed è dotato di una potenza impressionante.",
+            "shield": "È stato creato da uno scienziato dopo lunghe ricerche. La sua potenza emerge specialmente nella lotta.",
+            "brilliant-diamond": "Un Pokémon creato ricombinando i geni di Mew. Si dice che fra i Pokémon sia quello con l'animo più feroce.",
+            "shining-pearl": "Un Pokémon creato ricombinando i geni di Mew. Si dice che fra i Pokémon sia quello con l'animo più feroce.",
+            "legends-za": "Creato da uno scienziato dopo anni di orribili esperimenti di ingegneria genetica."
+        },
+        "megamewtwo-x": {
+            "lets-go-pikachu": "I suoi muscoli sono potenziati dai poteri psichici e può percorrere 100 m in due secondi. La sua stretta esercita una pressione di una tonnellata.",
+            "lets-go-eevee": "I suoi muscoli sono potenziati dai poteri psichici e può percorrere 100 m in due secondi. La sua stretta esercita una pressione di una tonnellata.",
+            "legends-za": "I suoi muscoli sono potenziati dai poteri psichici e può percorrere 100 m in due secondi. La sua stretta esercita una pressione di una tonnellata."
+        },
+        "megamewtwo-y": {
+            "lets-go-pikachu": "Il suo corpo si è rimpicciolito, ma la sua potenza è aumentata a dismisura. Gli basta concentrarsi appena per fare a pezzi un intero edificio.",
+            "lets-go-eevee": "Il suo corpo si è rimpicciolito, ma la sua potenza è aumentata a dismisura. Gli basta concentrarsi appena per fare a pezzi un intero edificio.",
+            "legends-za": "Il suo corpo si è rimpicciolito, ma la sua potenza è aumentata a dismisura. Gli basta concentrarsi appena per fare a pezzi un intero edificio."
+        }
+    },
     "egg_groups": [
         "Sconosciuto"
     ],
     "flat_name": "mewtwo",
     "generation": 1,
     "height": {
-        "mewtwo": "2.0 m",
-        "megamewtwo-x": "2.3 m",
-        "megamewtwo-y": "1.5 m"
+        "mewtwo": "2,0 m",
+        "megamewtwo-x": "2,3 m",
+        "megamewtwo-y": "1,5 m"
     },
     "id": 150,
     "name": "Mewtwo",
-    "name_origin": "Mewtwo è una combinazione di Mew e two, indicando che si tratta di un clone, il nome assomiglia anche alla parola giapponese myūtanto . ",
-    "origin": "Mewtwo è probabilmente ispirato al mostro di Frankenstein di Mary Shelley, ovvero un essere creato innaturalmente in laboratorio che si rivolta contro il proprio creatore e alla fine entrambi si pentono dei loro errori. Come Mew, anche Mewtwo ha caratteristiche tipiche dei felini, ma presenta anche caratteristiche di un alieno grigio. ",
+    "name_origin": "Mewtwo potrebbe essere una combinazione di Mew o di mutant  e two. ",
+    "origin": "Come Mew, Mewtwo ricorda un embrione, anche se molto più grande di Mew grazie al gene splicing. Ha inoltre caratteristiche di un alieno grigio e di una salamandra. Mewtwo presenta somiglianze con Giygas, il nemico principale dei giochi EarthBound Beginnings e EarthBound, in particolare il suo design nel primo gioco. È degno di nota il fatto che alcuni membri di GAME FREAK hanno collaborato alla serie di videogiochi EarthBound prima di Pocket Monsters aka e midori, rendendolo un possibile riferimento. MegaMewtwo Y ha caratteristiche che lo fanno assomigliare di più ad un embrione di vertebrato. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Mewtwo",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Genetico",
     "sprites": {
         "mewtwo": {
@@ -107,8 +144,8 @@
         ]
     },
     "weight": {
-        "mewtwo": "122.0 kg",
-        "megamewtwo-x": "127.0 kg",
-        "megamewtwo-y": "33.0 kg"
+        "mewtwo": "122,0 kg",
+        "megamewtwo-x": "127,0 kg",
+        "megamewtwo-y": "33,0 kg"
     }
 }

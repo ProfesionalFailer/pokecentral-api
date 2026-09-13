@@ -4,6 +4,9 @@
             "primary": "Muta",
             "secondary": "Arroganza",
             "hidden": "Prepotenza"
+        },
+        "megascrafty": {
+            "primary": "Prepotenza"
         }
     },
     "curiosities": [
@@ -28,7 +31,11 @@
             "ultra-sun": "È un Pokémon violento, ma al tempo stesso molto dedito alla famiglia, ai membri del proprio gruppo e al suo territorio.",
             "ultra-moon": "Provoca il nemico sputandogli addosso. Quando conquista un territorio, non lo abbandona più per tutta la vita.",
             "sword": "Pur se tirati con aria svogliata, i suoi calci sono così distruttivi da sgretolare perfino i pilastri di cemento di Conkeldurr.",
-            "shield": "Ha un'indole estremamente aggressiva, ma se si tratta della sua famiglia, dei suoi compagni e del suo territorio, diventa molto protettivo."
+            "shield": "Ha un'indole estremamente aggressiva, ma se si tratta della sua famiglia, dei suoi compagni e del suo territorio, diventa molto protettivo.",
+            "legends-za": "Sferra calci e limita i propri danni tirando su la pelle della muta. Più grande è la cresta e più arie si dà."
+        },
+        "megascrafty": {
+            "legends-za": "Per effetto della megaevoluzione, la sua pelle è diventata bianca, dura ed elastica. Il suo spirito combattivo rimane inalterato."
         }
     },
     "egg_groups": [
@@ -38,19 +45,24 @@
     "flat_name": "scrafty",
     "generation": 5,
     "height": {
-        "scrafty": "1.1 m"
+        "scrafty": "1,1 m",
+        "megascrafty": "1,1 m"
     },
     "id": 560,
     "name": "Scrafty",
     "name_origin": "Il suo nome deriva dalle parole inglesi scraggy  o scrappy  e crafty . ",
     "origin": "Scrafty è basato su una lucertola. In aggiunta, a causa del suo cappuccio, della cresta e dei \"pantaloni\", Scrafty è uno stereotipo dell'hip hop e del punk. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Scrafty",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Furfante",
     "sprites": {
         "scrafty": {
             "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0560.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/3d/Homemsh0560.png"
+        },
+        "megascrafty": {
+            "default": "https://media.pokemoncentral.it/wiki/d/de/Homem0560M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/02/Homemsh0560M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/c/c9/Artwork0560_NB.png"
     },
@@ -62,10 +74,19 @@
             "spa": 45,
             "spd": 115,
             "spe": 58
+        },
+        "megascrafty": {
+            "hp": 65,
+            "atk": 130,
+            "def": 135,
+            "spa": 55,
+            "spd": 135,
+            "spe": 68
         }
     },
     "stats_sum": {
-        "scrafty": 488
+        "scrafty": 488,
+        "megascrafty": 588
     },
     "types": {
         "scrafty": [
@@ -74,6 +95,7 @@
         ]
     },
     "weight": {
-        "scrafty": "30 kg"
+        "scrafty": "30,0 kg",
+        "megascrafty": "31,0 kg"
     }
 }

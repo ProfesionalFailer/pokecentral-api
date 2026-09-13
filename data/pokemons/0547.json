@@ -22,11 +22,13 @@
             "omega-ruby": "Appare con un vortice d'aria, facendo piccoli dispetti come spostare i mobili nelle case o lasciare cotone ovunque.",
             "alpha-sapphire": "Si infiltra nelle fessure più sottili, come un soffio di vento, lasciando dietro di sé dei batuffoli bianchi.",
             "sun": "Entra nelle case trasportato dal vento. Dopo averle riempite, se ne va ridendo felice.",
-            "moon": "Si sposta fluttuando nell'aria. Se il vento è troppo forte, perde il cotone che a sulla testa.",
+            "moon": "Si sposta fluttuando nell'aria. Se il vento è troppo forte, perde il cotone che ha sulla testa.",
             "ultra-sun": "È dispettoso e ama entrare di soppiatto nelle case, nascondendo oggetti importanti e spargendo cotone ovunque.",
             "ultra-moon": "Non ha un habitat fisso e si sposta fluttuando trasportato dai vortici d'aria, facendo dispetti ovunque va.",
             "sword": "Si diverte a spargere cotone ovunque. Se gli si versa dell'acqua addosso, diventa troppo pesante per muoversi e si arrende.",
-            "shield": "Il cotone sul suo corpo si gonfia con la luce del sole. Quando diventa eccessivamente voluminoso, si stacca disperdendosi ovunque."
+            "shield": "Il cotone sul suo corpo si gonfia con la luce del sole. Quando diventa eccessivamente voluminoso, si stacca disperdendosi ovunque.",
+            "scarlet": "Si infiltra nelle fessure più sottili, come un soffio di vento, lasciando dietro di sé dei batuffoli bianchi.",
+            "violet": "Entra nelle case trasportato dal vento. Dopo averle riempite di cotone, se ne va ridendo felice."
         }
     },
     "egg_groups": [
@@ -36,14 +38,14 @@
     "flat_name": "whimsicott",
     "generation": 5,
     "height": {
-        "whimsicott": "0.7 m"
+        "whimsicott": "0,7 m"
     },
     "id": 547,
     "name": "Whimsicott",
     "name_origin": "Whimsicott è la combinazione delle parole whimsical  e cotton . Il suo nome giapponese, エルフーン Elfuun, potrebbe derivare dall'inglese elf , typhoon  e fun . Alternativamente, potrebbe essere la combinazione delle parole エルフ erufu , ふわふわ fuwa fuwa  e フロート furōto . ",
     "origin": "Whimsicott sembra essere basato su una balla di cotone fiorita. Potrebbe anche avere origine dall'agnello vegetale della Tartaria, una pianta semi-leggendaria che si pensava desse come frutto delle pecore, usata per spiegare la produzione del cotone durante il Medioevo. Inoltre, potrebbe trarre alcuni elementi dalla creatura del folklore brasiliano nota come Saci , o su un folletto dei boschi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Whimsicott",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Spiffero",
     "sprites": {
         "whimsicott": {
@@ -67,11 +69,11 @@
     },
     "types": {
         "whimsicott": [
-            "Erba",
-            "Folletto"
+            "Folletto",
+            "Erba"
         ]
     },
     "weight": {
-        "whimsicott": "6.6 kg"
+        "whimsicott": "6,6 kg"
     }
 }

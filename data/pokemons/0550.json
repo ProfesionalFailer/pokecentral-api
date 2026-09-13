@@ -17,7 +17,15 @@
         }
     },
     "curiosities": [
-        "Basculin  condivide la sua specie con Zweilous. Entrambi sono infatti conosciuti come Pokémon Irruenza."
+        "In Pokémon Nero e Bianco, i Basculin Lineablu hanno Temerarietà come loro prima abilità standard; tuttavia, un Basculin Lineablu con Testadura può essere ottenuto tramite uno scambio nel gioco in Bianco. In Pokémon Nero 2 e Bianco 2, i Basculin Lineablu selvatici hanno Testadura come prima abilità, ma i Basculin Lineablu nati da un Uovo in Pokémon Nero 2 e Bianco 2 possiedono ancora Temerarietà.",
+        "Nella sesta generazione, i Basculin Lineablu hanno Testadura come prima abilità e i Basculin Lineablu con Temerarietà trasferiti nella Banca Pokémon vedono la loro abilità cambiata in Testadura.",
+        "I Basculin Linearossa e Lineablu condividono la loro categoria con Zweilous. Sono entrambi noti come Pokémon Ostile.",
+        "Basculin Lineabianca è l'unica forma regionale di un Pokémon  ad avere esattamente lo stesso tipo della sua forma originale.",
+        "Prima della versione 2.0.1 di Pokémon Scarlatto e Violetto, Basculin aveva un tasso di cattura di 25.\n\tBasculin è il primo Pokémon il cui tasso di cattura è stato modificato tramite una patch al gioco.",
+        "Basculin è il primo Pokémon il cui tasso di cattura è stato modificato tramite una patch al gioco.",
+        "Le voci Pokédex di Basculin in Pokémon Nero 2 e Bianco 2, X, Rubino Omega, Spada e Scudo descrivono il loro sapore, una delle rare istanze che alludono al fatto che i Pokémon vengano usati come cibo dagli umani.",
+        "In Pokémon Scarlatto e Violetto, avere Basculin Linearossa o Lineablu registrato nel Pokédex di Paldea non registrerà la forma Lineabianca nel Pokédex di Nordivia e viceversa.",
+        "In Pokémon GO, Basculin Linearossa è un Pokémon esclusivo di una regione che si trova generalmente nell'emisfero orientale, mentre Basculin Lineablu si trova generalmente nell'emisfero occidentale."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/basculin.mp3",
     "dex_entries": {
@@ -57,14 +65,14 @@
     "flat_name": "basculin",
     "generation": 5,
     "height": {
-        "basculin": "1.0 m"
+        "basculin": "1,0 m"
     },
     "id": 550,
     "name": "Basculin",
-    "name_origin": "Basculin potrebbe derivare dall'insieme della parola inglese bass, pesce persico, e masculine, maschile o mascolino. ",
-    "origin": "È basato sul persico trota, pesce di origini nord-americane vorace ed aggressivo che tende a invadere altri territori e scacciare le altre specie. Alcuni tratti fisici comuni potrebbero ispirarsi al betta combattente, pesce che quando spaventato o si presta ad attaccare, mostra delle fasce colorate orizzontali, equiparabili alla Linearossa e Lineablu di Basculin. ",
+    "name_origin": "Basculin potrebbe essere una combinazione di bass  e masculine . Bassrao potrebbe essere una combinazione di bass e 丈夫 masurao  o バカラオ bakarao . ",
+    "origin": "Basculin è basato su un persico, molto probabilmente il persico trota o quelli appartenenti al genere Cichla a causa del loro colore verdastro, del motivo a macchie orizzontali e della vigorosa resistenza durante la pesca. Probabilmente è ispirato anche al piranha, che è stato storicamente visto come violento. Le sue varianti Linearossa e Lineablu che sono ostili l'una verso l'altra sono simili ai pesci combattenti, che si presentano in una varietà di colori  e sono estremamente aggressivi e territoriali con gli altri. Potrebbe anche essere paragonato alle bande di strada, dove gruppi di persone affiliate spesso combattono gruppi rivali per il proprio territorio. Mentre la Forma Lineabianca di Basculin potrebbe essere ugualmente ispirata a un persico, il suo design ricorda anche il salmone o il parente itou ), a causa del suo comportamento e della forma della sua bocca che ricorda gli uncini che si sviluppano nei salmoni maschi. La sua voce del Pokédex in Pokémon Violetto che suggerisce che potrebbe essere una specie diversa da Basculin Linearossa e Lineablu potrebbe essere un riferimento a questo. La selezione di forme colorate rossa, bianca e blu potrebbe fare riferimento alla bandiera degli Stati Uniti nazionale, poiché Unima, la regione in cui Basculin è stato introdotto per la prima volta, è basata su New York. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Basculin",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Irruenza",
     "sprites": {
         "forma-linearossa": {
@@ -74,6 +82,10 @@
         "forma-lineablu": {
             "default": "https://media.pokemoncentral.it/wiki/9/94/Homem0550B.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/32/Homemsh0550B.png"
+        },
+        "forma-lineabianca": {
+            "default": "https://media.pokemoncentral.it/wiki/1/18/Homem0550Bi.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/9/98/Homemsh0550Bi.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/d/de/Artwork0550_NB.png"
     },
@@ -96,6 +108,6 @@
         ]
     },
     "weight": {
-        "basculin": "18.0 kg"
+        "basculin": "18,0 kg"
     }
 }

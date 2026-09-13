@@ -7,26 +7,60 @@
     },
     "curiosities": [
         "Vileplume condivide lo stesso nome di specie con Bellsprout e Bellossom: sono tutti conosciuti come Pokémon Fiore.",
-        "Vileplume è uno dei pochi Pokémon apparso nell'anime con una colorazione differente che non fosse la sua colorazione cromatica.",
-        "Nonostante sia basato su di un fiore puzzolente che non è in grado di formare la Clorofilla e di effettuare la fotosintesi clorofilliana, Vileplume è in grado di imparare le mosse Aromaterapia, Profumino e Sintesi e può avere l'abilità Clorofilla.",
-        "Vileplume può imparare Solarraggio salendo di livello, nonostante sia associato alla luna, mentre la sua controparte, Bellossom, che è associata al sole, non può ."
+        "Vileplume è uno dei Pokémon apparsi nell'anime con una colorazione differente che non fosse la sua colorazione cromatica.",
+        "Nonostante sia basato su di un fiore puzzolente che non è in grado di formare la clorofilla e di effettuare la fotosintesi clorofilliana, Vileplume è in grado di imparare le mosse Aromaterapia, Profumino e Sintesi e può avere l'abilità Clorofilla."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/vileplume.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "vileplume": {
+            "red": "Più sono grandi i petali, più sarà il polline tossico contenuto. Fatica a reggere la testa pesante.",
+            "blue": "Più sono grandi i petali, più sarà il polline tossico contenuto. Fatica a reggere la testa pesante.",
+            "yellow": "Con gran frastuono e violenza scuote i suoi petali grandissimi per liberare polline velenoso.",
+            "gold": "Ha i petali più grandi del mondo. Ad ogni suo passo, i petali liberano fitte nubi di polline tossico.",
+            "silver": "Il bocciolo fiorisce con un'esplosione. Poi inizia a spargere polline irritante e velenoso.",
+            "crystal": "Scuotendo i grandi petali, diffonde nell'atmosfera polline tossico, colorando l'aria di giallo.",
+            "ruby": "Il polline velenoso di VILEPLUME scatena paurose reazioni allergiche. Per questo motivo si consiglia di non avvicinarsi mai a nessun fiore di bosco, per quanto bello possa essere.",
+            "sapphire": "VILEPLUME ha i petali più grandi al mondo. Li usa per attirare la preda per poi ricoprirla di spore velenose. Una volta immobilizzata la preda, il POKéMON la cattura e la divora.",
+            "emerald": "Nelle stagioni di maggior produzione di polline, quando VILEPLUME cammina, l'aria si colora di giallo. Questo polline è altamente tossico e causa paralisi.",
+            "fire-red": "Dai suoi petali, che pare siano i più grandi del mondo, si diffonde un polline che causa allergie.",
+            "leaf-green": "Più grandi sono i petali, maggiore è la quantità di polline tossico che contengono. La testa è molto pesante.",
+            "diamond": "I suoi petali sono i più grandi al mondo. Mentre cammina diffonde un polline che causa allergie.",
+            "pearl": "I suoi petali sono i più grandi al mondo. Mentre cammina diffonde un polline che causa allergie.",
+            "platinum": "I suoi petali sono i più grandi al mondo. Mentre cammina diffonde un polline che causa allergie.",
+            "heart-gold": "Ha i petali più grandi del mondo. Ad ogni suo passo, i petali liberano fitte nubi di polline tossico.",
+            "soul-silver": "Il bocciolo fiorisce con un’esplosione. Poi inizia a spargere polline irritante e velenoso.",
+            "black": "I suoi petali sono i più grandi al mondo. Mentre cammina diffonde un polline che causa allergie.",
+            "white": "I suoi petali sono i più grandi al mondo. Mentre cammina diffonde un polline che causa allergie.",
+            "black-2": "I suoi petali sono i più grandi al mondo. Mentre cammina diffonde un polline che causa allergie.",
+            "white-2": "I suoi petali sono i più grandi al mondo. Mentre cammina diffonde un polline che causa allergie.",
+            "x": "Più grandi sono i petali, maggiore è la quantità di polline tossico che contengono. La testa è molto pesante.",
+            "y": "Ha i petali più grandi del mondo. Ad ogni suo passo, i petali liberano fitte nubi di polline tossico.",
+            "omega-ruby": "Il polline velenoso di Vileplume scatena paurose reazioni allergiche. Per questo motivo si consiglia di non avvicinarsi mai a nessun fiore di bosco, per quanto bello possa essere.",
+            "alpha-sapphire": "Vileplume ha i petali più grandi al mondo. Li usa per attirare la preda per poi ricoprirla di spore velenose. Una volta immobilizzata la preda, il Pokémon la cattura e la divora.",
+            "lets-go-pikachu": "Scuote gli enormi petali per liberare polline velenoso, producendo un gran frastuono.",
+            "lets-go-eevee": "Scuote gli enormi petali per liberare polline velenoso, producendo un gran frastuono.",
+            "sword": "Ha i petali più grandi del mondo. Ad ogni suo passo, liberano fitte nubi di polline tossico.",
+            "shield": "Più grandi sono i petali, maggiore è la quantità di polline tossico che contengono. La testa, però, diventa molto pesante e fa fatica a sostenerla.",
+            "brilliant-diamond": "I suoi petali sono i più grandi al mondo. Mentre cammina diffonde un polline tossico che causa allergie.",
+            "shining-pearl": "I suoi petali sono i più grandi al mondo. Mentre cammina diffonde un polline tossico che causa allergie.",
+            "scarlet": "Il bocciolo fiorisce con un botto e inizia a rilasciare un polline velenoso che provoca reazioni allergiche.",
+            "violet": "I suoi petali sono i più grandi al mondo e diffondono un’enorme quantità di polline allergenico."
+        }
+    },
     "egg_groups": [
         "Erba"
     ],
     "flat_name": "vileplume",
     "generation": 1,
     "height": {
-        "vileplume": "1.2 m"
+        "vileplume": "1,2 m"
     },
     "id": 45,
     "name": "Vileplume",
-    "name_origin": "Vileplume è una combinazione di vile  e plume o plumose . Ruffresia è una corruzione di rafflesia. ",
-    "origin": "Vileplume, come Gloom è basato sulla Rafflesia Arnoldii, un fiore puzzolente conosciuto come il più grande fiore singolo al mondo. Questo Pokémon, assomiglia ancora di più al fiore rispetto a Gloom, che potrebbe rappresentare lo stadio di fioritura del rafflesia. Il fiore di Vileplume assomiglia anche a molte altre specie di rafflesia, in particolare cantleyi, keithii, pricei, panchoana e speciosa, di cui corrisponde maggiormente la forma dai petali. Le femmine di Vileplume potrebbero essere basate su Rafflesia hasseltii, poiché i suoi petali hanno chiazze più grandi rispetto alle altre specie di Rafflesia. ",
+    "name_origin": "Vileplume è una combinazione di vile  e plume  o plumose  o bloom . Ruffresia potrebbe essere una corruzione di rafflesia. ",
+    "origin": "Vileplume sembra essere basato su una mandragora, una pianta le cui radici possono assomigliare a delle figure umane e che sono state oggetto di vari miti, e dalla rafflesia, un genere di piante parassite dagli enormi petali e dall'odore altamente sgradevole. A causa dei punti più grandi sui loro petali, le Vileplume femmina possono ricordare di più una Rafflesia hasseltii. La sua capacità di attirare le prede usando il nettare dei petali per poi mangiarle è simile a quella di una pianta carnivora. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Vileplume",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Fiore",
     "sprites": {
         "vileplume": {
@@ -59,6 +93,6 @@
         ]
     },
     "weight": {
-        "vileplume": "18.6 kg"
+        "vileplume": "18,6 kg"
     }
 }

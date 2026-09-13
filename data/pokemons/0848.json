@@ -21,7 +21,8 @@
             "shield": "Produce elettricità grazie a una reazione chimica delle sue tossine. Il voltaggio è debole, ma può intorpidire il nemico.",
             "scarlet": "Dotato di un organo in grado di filtrare anche l’acqua più sporca, può berla e convertirla in un liquido tossico a lui innocuo.",
             "violet": "È un Pokémon egoista che pensa solo a se stesso. Immagazzina veleno ed elettricità in due sacche distinte all’interno del suo corpo."
-        }
+        },
+        "": {}
     },
     "egg_groups": [
         "Sconosciuto"
@@ -29,14 +30,14 @@
     "flat_name": "toxel",
     "generation": 8,
     "height": {
-        "toxel": "0.4 m"
+        "toxel": "0,4 m"
     },
     "id": 848,
     "name": "Toxel",
     "name_origin": "Toxel potrebbe essere una combinazione di toxic, tossico, electric, elettrico, e little, piccolo. Eleson potrebbe essere una combinazione di electric, elettrico, e poison, veleno. ",
     "origin": "Toxel potrebbe essere basato su diverse specie di lucertole e rane, in particolar modo su una Dendrobatidae dato il tipo Veleno del Pokémon. Potrebbe essere basato anche su un bambino, poiché la parte inferiore del corpo ricorda un pannolino, mentre la macchia bianca sul petto ricorda un bavaglino, inoltre, spesso si dimena come se stesse facendo dei capricci. Le punte sulla testa di Toxel ricordano un Ankylosaurus. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Toxel",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Bebè",
     "sprites": {
         "toxel": {
@@ -60,11 +61,11 @@
     },
     "types": {
         "toxel": [
-            "Veleno",
-            "Elettro"
+            "Elettro",
+            "Veleno"
         ]
     },
     "weight": {
-        "toxel": "11.0 kg"
+        "toxel": "11,0 kg"
     }
 }

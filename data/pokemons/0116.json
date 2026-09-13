@@ -15,7 +15,40 @@
         "Nonostante possa imparare Fulmisguardo salendo di livello, Horsea non può imparare attacchi fisici senza usare MT."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/horsea.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "horsea": {
+            "red": "È noto per i suoi attacchi ai volatili con getti d'inchiostro dalla superficie dell'acqua.",
+            "blue": "È noto per i suoi attacchi ai volatili con getti d'inchiostro dalla superficie dell'acqua.",
+            "yellow": "Se minacciato sputa dalla bocca un inchiostro speciale o potenti getti d'acqua per difendersi.",
+            "gold": "Se è attaccato da un nemico più grande, si mette in salvo nuotando agilmente con la pinna dorsale.",
+            "silver": "Con le sue pinne grandi e ben sviluppate nuota all'indietro mentre sta ancora guardando avanti.",
+            "crystal": "Se si trovano in un luogo sicuro si possono vedere giocare intrecciando le code tra loro.",
+            "ruby": "Horsea si nutre di piccoli insetti e del muschio trovato sugli scogli. Se la corrente oceanica si fa rapida, avvolge la coda attorno agli spuntoni di roccia o ai coralli per evitare di essere spazzato via.",
+            "sapphire": "Avvertendo il pericolo, Horsea spruzza istintivamente una nube d'inchiostro nero dalla bocca, tentando poi la fuga. Questo POKéMON nuota agitando abilmente le pinne sulla schiena.",
+            "emerald": "Agitando abilmente le pinne sulla schiena, Horsea si muove in ogni direzione con lo sguardo rivolto in avanti. Se avverte un pericolo, sputa inchiostro per sfuggire.",
+            "fire-red": "Si mantiene in equilibrio grazie alla coda avvolta a spirale. Può sputare inchiostro dalla bocca.",
+            "leaf-green": "È noto per i suoi attacchi ai volatili con getti d'inchiostro dalla superficie dell'acqua.",
+            "diamond": "Crea la sua tana all'ombra dei coralli. Se avverte un pericolo, spruzza inchiostro nero e fugge.",
+            "pearl": "Crea la sua tana all'ombra dei coralli. Se avverte un pericolo, spruzza inchiostro nero e fugge.",
+            "platinum": "Crea la sua tana all'ombra dei coralli. Se avverte un pericolo, spruzza inchiostro nero e fugge.",
+            "heart-gold": "Se è attaccato da un nemico più grande, si mette in salvo nuotando agilmente con la pinna dorsale.",
+            "soul-silver": "Con le sue pinne grandi e ben sviluppate nuota all'indietro mentre sta ancora guardando avanti.",
+            "black": "Crea la sua tana all'ombra dei coralli. Se avverte un pericolo, spruzza inchiostro nero e fugge.",
+            "white": "Crea la sua tana all'ombra dei coralli. Se avverte un pericolo, spruzza inchiostro nero e fugge.",
+            "black-2": "Crea la sua tana all'ombra dei coralli. Se avverte un pericolo, spruzza inchiostro nero e fugge.",
+            "white-2": "Crea la sua tana all'ombra dei coralli. Se avverte un pericolo, spruzza inchiostro nero e fugge.",
+            "x": "È noto per i suoi attacchi ai volatili con getti d'inchiostro dalla superficie dell'acqua.",
+            "y": "Crea la sua tana all'ombra dei coralli. Se avverte un pericolo, spruzza inchiostro nero e fugge.",
+            "omega-ruby": "Horsea si nutre di piccoli insetti e del muschio trovato sugli scogli. Se la corrente oceanica si fa rapida, avvolge la coda attorno agli spuntoni di roccia o ai coralli per evitare di essere spazzato via.",
+            "alpha-sapphire": "Avvertendo il pericolo, Horsea spruzza istintivamente una nube d'inchiostro nero dalla bocca, tentando poi la fuga. Questo Pokémon nuota agitando abilmente la pinna sulla schiena.",
+            "lets-go-pikachu": "Se si sente minacciato, sputa dalla bocca un inchiostro speciale o un potente getto d'acqua per difendersi.",
+            "lets-go-eevee": "Se si sente minacciato, sputa dalla bocca un inchiostro speciale o un potente getto d'acqua per difendersi.",
+            "sword": "Vive in mari dalle correnti tranquille. Quando viene attaccato spruzza inchiostro nero e ne approfitta per fuggire.",
+            "shield": "Nuota come se danzasse nell'acqua creando mulinelli. Gioca con i suoi simili facendo a gara a chi ne crea di più grandi.",
+            "scarlet": "Anche se viene attaccato da un nemico di grandi dimensioni, si mette facilmente in salvo nuotando agilmente con la pinna dorsale ben sviluppata.",
+            "violet": "Si mantiene in equilibrio grazie alla coda avvolta a spirale. Può sputare inchiostro dalla bocca."
+        }
+    },
     "egg_groups": [
         "Acqua 1",
         "Drago"
@@ -23,14 +56,14 @@
     "flat_name": "horsea",
     "generation": 1,
     "height": {
-        "horsea": "0.4 m"
+        "horsea": "0,4 m"
     },
     "id": 116,
     "name": "Horsea",
     "name_origin": "Horsea viene dalla parola inglese seahorse . ",
-    "origin": "È basato su un cavalluccio marino. ",
+    "origin": "Horsea sembra essere basato su un cavalluccio marino. La sua specie potrebbe essere un riferimento al nome giapponese del cavalluccio marino, 竜の落とし子 tatsu-no-otoshigo , che deriva dal mito che se un esemplare vive per cento anni può trasformarsi in drago. La sua abilità di sparare inchiostro è simile a quella di un calamaro e la forma del muso e la sua abilità Cecchino ricordano una pistola ad acqua. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Horsea",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Drago",
     "sprites": {
         "horsea": {
@@ -58,6 +91,6 @@
         ]
     },
     "weight": {
-        "horsea": "8.0 kg"
+        "horsea": "8,0 kg"
     }
 }

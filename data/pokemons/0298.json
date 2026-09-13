@@ -12,29 +12,57 @@
         "Azurill è l'unico Pokémon con un totale di statistiche base di 190.",
         "Azurill è a pari merito con Togepi e Marill per l'Attacco base più basso tra tutti i Pokémon di tipo Folletto.\n\tInoltre, Azurill e Marill hanno entrambi l'Attacco Speciale base più basso tra tutti i Pokémon di tipo Folletto.",
         "Inoltre, Azurill e Marill hanno entrambi l'Attacco Speciale base più basso tra tutti i Pokémon di tipo Folletto.",
-        "I pois sono conosciuti in Giappone come 水玉 mizutama, che letteralmente significa palline d'acqua. Questo potrebbe spiegare perché Azurill è conosciuto come il Pokémon Pois.\n\tQuesto nome riflette anche il modo in cui Azurill è indirettamente correlato all'Acqua.",
+        "I pois sono conosciuti in Giappone come 水玉 mizutama, che letteralmente significa palline d'acqua. Questo potrebbe spiegare perché Azurill è conosciuto come Pokémon Pois.\n\tQuesto nome riflette anche il modo in cui Azurill è indirettamente correlato all'Acqua.",
         "Questo nome riflette anche il modo in cui Azurill è indirettamente correlato all'Acqua.",
-        "Prima della sesta generazione, poiché la determinazione tra sesso maschile e sesso femminile di Azurill non corrisponde a quella delle sue forme evolute e la sua evoluzione non dipende dal sesso, essendo femmina il 75% delle volte mentre Marill e Azumarill lo sono solo il 50% delle volte, un Azurill femmina su tre si evolve in un Marill maschio . Azurill è l'unico Pokémon a possedere questa particolarità. Dalla sesta generazione in poi, Azurill mantiene il suo genere anche dopo l'evoluzione, nonostante i rapporti tra i sessi siano ancora diversi.",
+        "Prima della sesta generazione, poiché la determinazione tra sesso maschile e sesso femminile di Azurill non corrisponde a quella delle sue forme evolute e la sua evoluzione non dipende dal sesso, essendo femmina il 75% delle volte mentre Marill e Azumarill lo sono solo il 50% delle volte, un Azurill femmina su tre si evolve in un Marill maschio . Azurill è l'unico Pokémon a possedere questa particolarità. Dalla sesta generazione in poi, Azurill mantiene il suo genere anche dopo l'evoluzione, nonostante i rapporti tra i sessi rimangano diversi.",
         "Azurill è l'unico Pokémon che si evolve tramite affetto la cui forma evoluta si evolve in base al livello.\n\tÈ anche l'unico Pokémon di terza generazione che si evolve tramite affetto.",
         "È anche l'unico Pokémon di terza generazione che si evolve tramite affetto.",
         "Azurill è alla pari con Shroodle e Terapagos Forma Normale per essere il Pokémon di tipo Normale più basso."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/azurill.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "azurill": {
+            "ruby": "AZURILL fa roteare la propria coda come un lazzo, poi la scaglia lontano. Nel momento del lancio prende il volo anche il suo corpo. Grazie a questa tecnica unica, uno di questi POKéMON è riuscito a lanciarsi a 10 m di distanza.",
+            "sapphire": "AZURILL è dotato di una coda lunga ed elastica. Inoltre, è ricca di sostanze nutritive indispensabili per la sua sopravvivenza. Spesso lo si vede saltellare e giocare sulla coda gommosa e molleggiata.",
+            "emerald": "Gli AZURILL possiedono una coda elastica e gommosa che contiene sostanze nutritive. Nelle giornate di sole, sono soliti giocare con l'acqua su una riva.",
+            "fire-red": "Combatte agitando la coda, più grande del corpo, che utilizza anche per galleggiare nell'acqua.",
+            "leaf-green": "Combatte agitando la coda, più grande del corpo, che utilizza anche per galleggiare nell'acqua.",
+            "diamond": "Pokémon che vive nell'acqua. Si muove rapidamente sulla terraferma saltellando sulla grossa coda.",
+            "pearl": "La sua coda è piena di sostanze nutritive essenziali per crescere. Gioca saltellando sulla coda.",
+            "platinum": "La sua coda rimbalza come un pallone. Lotta contro avversari più grandi di lui agitando la coda.",
+            "heart-gold": "La sua coda è piena di sostanze nutritive essenziali per la crescita.",
+            "soul-silver": "La sua coda è piena di sostanze nutritive essenziali per la crescita.",
+            "black": "La sua coda rimbalza come un pallone. Lotta contro avversari più grandi di lui agitando la coda.",
+            "white": "La sua coda rimbalza come un pallone. Lotta contro avversari più grandi di lui agitando la coda.",
+            "black-2": "Si scaglia contro avversari più forti di lui agitando la grande coda in cui conserva le sostanze di cui si nutre.",
+            "white-2": "Si scaglia contro avversari più forti di lui agitando la grande coda in cui conserva le sostanze di cui si nutre.",
+            "x": "Pokémon che vive nell'acqua. Si muove rapidamente sulla terraferma saltellando sulla grossa coda.",
+            "y": "Si scaglia contro avversari più forti di lui agitando la grande coda in cui conserva le sostanze di cui si nutre.",
+            "omega-ruby": "Azurill fa roteare la propria coda come un lazzo, poi la scaglia lontano. Nel momento del lancio prende il volo anche il suo corpo. Grazie a questa tecnica unica, uno di questi Pokémon è riuscito a lanciarsi a 10 m di distanza.",
+            "alpha-sapphire": "Azurill è dotato di una coda lunga ed elastica. Inoltre, è ricca di sostanze nutritive indispensabili per la sua sopravvivenza. Spesso lo si vede saltellare e giocare sulla coda gommosa e molleggiata.",
+            "sword": "Nella sfera all'estremità della coda, che rimbalza come una palla, sono conservate le sostanze nutritive necessarie per la crescita del Pokémon.",
+            "shield": "È un Pokémon docile, ma se si arrabbia attacca agitando la grossa palla che ha sulla coda.",
+            "brilliant-diamond": "Vive in prossimità dell'acqua. Si muove rapidamente sulla terraferma saltellando sulla grossa coda.",
+            "shining-pearl": "La sua coda è piena di sostanze nutritive essenziali per crescere. Gioca saltellando su di essa.",
+            "scarlet": "Rimbalza su e giù come una pallina di gomma. Lotta contro avversari più grandi di lui agitando la coda.",
+            "violet": "Nella sua grande coda rotonda conserva tutte le sostanze nutritive di cui ha bisogno per crescere sano e forte."
+        },
+        "": {}
+    },
     "egg_groups": [
         "Sconosciuto"
     ],
     "flat_name": "azurill",
     "generation": 3,
     "height": {
-        "azurill": "0.20 m"
+        "azurill": "0,20 m"
     },
     "id": 298,
     "name": "Azurill",
-    "name_origin": "Deriva dalla parola spagnola azure  combinata con la parola inglese rill . Inoltre potrebbe derivare dal giapponese 瑠璃 ruri . ",
-    "origin": "Basato su un topo e su una boa. La disposizione delle sue orecchie sul corpo ricorda molto una molecola d'acqua. ",
+    "name_origin": "Azurill potrebbe derivare da azure, azzurro, e rill . Potrebbe anche derivare dai nomi delle sue evoluzioni, Marill e Azumarill. Ruriri, il suo nome giapponese, potrebbe derivare da 瑠璃 ruri, lapislazzuli, una pietra preziosa di colore blu. ",
+    "origin": "Azurill sembra essere basato su un topo e un pallone da spiaggia, o possibilmente un giubbotto salvagente o una boa. Il fatto che azurill possa mantenere sostanze nutritive nella coda potrebbe derivare dal topo marsupiale dalla coda grassa, che trattiene nutrienti sotto forma di grasso nella coda per periodi di scarsità di cibo. Il suo tipo Normale opposto al tipo Acqua delle sue evoluzioni potrebbe indicare un'inabilità al nuoto nelle prime fasi di vita. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Azurill",
-    "shape": "testa e gambe",
+    "shape": "None",
     "specie": "Pokémon Pois",
     "sprites": {
         "azurill": {
@@ -58,11 +86,11 @@
     },
     "types": {
         "azurill": [
-            "Folletto",
-            "Normale"
+            "Normale",
+            "Folletto"
         ]
     },
     "weight": {
-        "azurill": "2.0 kg"
+        "azurill": "2,0 kg"
     }
 }

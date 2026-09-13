@@ -7,7 +7,6 @@
         }
     },
     "curiosities": [
-        "Articoli incompleti",
         "Pokémon",
         "Pokémon di quinta generazione",
         "Pokémon di tipo Ghiaccio",
@@ -18,7 +17,9 @@
         "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
         "Pokémon di Gruppo Uova Campo",
         "Pokémon appartenenti a una linea di evoluzione a due stadi",
-        "Pokémon con statistiche base totali di 305"
+        "Pokémon con statistiche base totali di 305",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/cubchoo.mp3",
     "dex_entries": {
@@ -43,14 +44,14 @@
     "flat_name": "cubchoo",
     "generation": 5,
     "height": {
-        "cubchoo": "0.5 m"
+        "cubchoo": "0,5 m"
     },
     "id": 613,
     "name": "Cubchoo",
     "name_origin": "Cubchoo è una combinazione di cub  e ah-choo . ",
     "origin": "Cubchoo si basa su un cucciolo di orso polare. Il muco che possiede è probabilmente ispirato al fatto che il freddo si traduce spesso in un naso che cola. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Cubchoo",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Freddo",
     "sprites": {
         "cubchoo": {
@@ -78,6 +79,6 @@
         ]
     },
     "weight": {
-        "cubchoo": "8.5 kg"
+        "cubchoo": "8,5 kg"
     }
 }

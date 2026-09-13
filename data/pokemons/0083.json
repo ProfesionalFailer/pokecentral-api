@@ -21,7 +21,44 @@
         "Tutte e tre le forme in questione sono forme di Galar."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/farfetchd.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "farfetch'd": {
+            "red": "Il ramoscello verde di cipolla che brandisce è la sua arma, che usa come spada.",
+            "blue": "Il ramoscello verde di cipolla che brandisce è la sua arma, che usa come spada.",
+            "yellow": "Vive nei canneti ma si vede molto raramente, quindi si pensa che sia in via di estinzione.",
+            "gold": "Se qualcuno disturba la crescita dei gambi per lui così preziosi, lo blocca usando il suo come un'arma.",
+            "silver": "Se mangia il gambo che porta con sé per le emergenze, corre alla ricerca di un altro gambo.",
+            "crystal": "Molti hanno provato ad allevare questi POKéMON per evitarne l'estinzione.",
+            "ruby": "FARFETCH'D ha sempre con sé lo stelo di qualche pianta. Pare che alcuni steli siano migliori di altri. Spesso lotta con altri POKéMON per avere lo stelo migliore.",
+            "sapphire": "FARFETCH'D ha sempre con sé lo stelo di qualche pianta. Pare che alcuni steli siano migliori di altri. Spesso lotta con altri POKéMON per avere lo stelo migliore.",
+            "emerald": "FARFETCH'D ha sempre con sé lo stelo di qualche pianta. Pare che alcuni steli siano migliori di altri. Spesso lotta con altri POKéMON per avere lo stelo migliore.",
+            "fire-red": "Si sposta sempre tenendo un gambo con il becco. Gli serve per costruire il nido.",
+            "leaf-green": "Il verde gambo di porro che brandisce è la sua arma, che usa come spada.",
+            "diamond": "Non può vivere senza lo stelo che tiene con un'ala. Lo difende dagli attacchi a costo della vita.",
+            "pearl": "Non può vivere senza lo stelo che tiene con un'ala. Lo difende dagli attacchi a costo della vita.",
+            "platinum": "Non può vivere senza lo stelo che tiene con un'ala. Lo difende dagli attacchi a costo della vita.",
+            "heart-gold": "Se qualcuno disturba la crescita dei gambi per lui così preziosi, lo blocca usando il suo come un'arma.",
+            "soul-silver": "Se mangia il gambo che porta con sé per le emergenze, corre alla ricerca di un altro gambo.",
+            "black": "Non può vivere senza lo stelo che tiene con un'ala. Lo difende dagli attacchi a costo della vita.",
+            "white": "Non può vivere senza lo stelo che tiene con un'ala. Lo difende dagli attacchi a costo della vita.",
+            "black-2": "Non può vivere senza lo stelo che tiene con un'ala. Lo difende dagli attacchi a costo della vita.",
+            "white-2": "Non può vivere senza lo stelo che tiene con un'ala. Lo difende dagli attacchi a costo della vita.",
+            "x": "Il verde gambo di porro che brandisce è la sua arma, che usa come spada.",
+            "y": "Si sposta sempre tenendo un gambo con il becco. Gli serve per costruire il nido.",
+            "omega-ruby": "Farfetch'd ha sempre con sé il gambo di qualche pianta. Pare che alcuni gambi siano migliori di altri. Spesso lotta con altri Pokémon per avere i gambi migliori.",
+            "alpha-sapphire": "Farfetch'd ha sempre con sé il gambo di qualche pianta. Pare che alcuni gambi siano migliori di altri. Spesso lotta con altri Pokémon per avere i gambi migliori.",
+            "lets-go-pikachu": "Vivono nei canneti, un tipo di habitat che sta diventando sempre più raro. Per questo si pensa che anche il numero di Farfetch'd sia diminuito.",
+            "lets-go-eevee": "Vivono nei canneti, un tipo di habitat che sta diventando sempre più raro. Per questo si pensa che anche il numero di Farfetch'd sia diminuito.",
+            "sword": "Colpisce gli avversari con un gambo, che brandisce con l'ala come se fosse una spada. In caso di necessità, può anche mangiarselo.",
+            "shield": "Affronta i nemici usando il gambo di una pianta, brandendolo secondo stili diversi in base alla scuola di lotta che segue.",
+            "legends-za": "Il gambo di porro che brandisce è la sua fidata arma, che utilizza come spada per tagliare tante cose diverse."
+        },
+        "forma-di-galar": {
+            "sword": "È la forma assunta dai Farfetch'd che vivono a Galar, che lottano con coraggio brandendo un porro grosso e robusto.",
+            "shield": "Farfetch'd ha assunto questa forma singolare imparando a utilizzare i particolari porri lunghi e grossi di Galar.",
+            "legends-za": "Ha irrobustito il corpo a furia di maneggiare un porro grosso e pesante. Punta tutto sulla potenza distruttiva dei suoi singoli colpi."
+        }
+    },
     "egg_groups": [
         "Volante",
         "Campo"
@@ -29,14 +66,14 @@
     "flat_name": "farfetch'd",
     "generation": 1,
     "height": {
-        "farfetch'd": "0.8 m"
+        "farfetch'd": "0,8 m"
     },
     "id": 83,
     "name": "Farfetch'd",
     "name_origin": "Farfetch'd potrebbe derivare da far-fetched, incredibile, probabilmente in relazione alla rarità del Pokémon o al tema inverosimile del suo nome giapponese. Kamonegi potrebbe essere una combinazione di 鴨 kamo, anatra selvatica, e 葱 negi, cipollotto. 鴨葱 kamonegi è un'abbreviazione del proverbio 「鴨が葱を背負って来る」 Kamo ga negi o shotte kuru, \"un'anatra arriva portando una cipolletta\". ",
-    "origin": "Farfetch'd potrebbe essere basato su un'anatra. Potrebbe essere ispirato sul detto giapponese 「鴨が葱を背負って来る」 Kamo ga negi o shotte kuru , indicante qualcosa di inaspettato ma conveniente. La frase può essere abbreviata in 「鴨葱」 Kamo negi. ",
+    "origin": "Farfetch'd potrebbe essere basato su un'anatra. Potrebbe essere ispirato sul detto giapponese 「鴨が葱を背負って来る」 Kamo ga negi o shotte kuru , indicante qualcosa di inaspettato ma conveniente. La frase può essere abbreviata in 「鴨葱」 Kamo negi, che è anche il nome giapponese del Pokémon. La sua forma di Galar è ispirata dal fatto che i porri in Inghilterra crescano più grandi di quelli giapponesi. Il porro che porta assomiglia alla tipologia Giant Musselburgh, una variante cresciuta in Scozia, e al Allium ampeloprasum, uno dei simboli nazionali del Galles. Per via del modo con cui regge il porro, agitandolo in un movimento circolare mentre attacca, potrebbe essere ispirato ad un atleta del lancio del martello o del giavellotto. Il suo aspetto serio può ricordare le raffigurazioni moderne dei samurai, e il porro potrebbe quindi ricordare una spada Ōdachi che i guerrieri portavano sulle spalle. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Farfetch%27d",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Selvanatra",
     "sprites": {
         "farfetch'd": {
@@ -81,7 +118,7 @@
         ]
     },
     "weight": {
-        "farfetch'd": "15.0 kg",
-        "forma-di-galar": "42.0 kg"
+        "farfetch'd": "15,0 kg",
+        "forma-di-galar": "42,0 kg"
     }
 }

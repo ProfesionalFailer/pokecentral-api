@@ -16,21 +16,57 @@
         "Uno schizzo pre-alpha mostra un Pokémon inutilizzato con lo stesso numero del Pokédex di Igglybuff."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/igglybuff.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "igglybuff": {
+            "gold": "Il suo corpo è morbidissimo. Se inizia a rotolare, rimbalza così forte che è impossibile fermarlo.",
+            "silver": "Il corpo molto flessibile ed elastico lo fa rimbalzare da ogni parte continuamente.",
+            "crystal": "Anziché camminare sulle sue corte zampe, preferisce rimbalzare sul suo corpo soffice e delicato.",
+            "ruby": "Le corde vocali di IGGLYBUFF non sono sufficientemente sviluppate. Se eccede nel canto, gli viene il mal di gola. È solito fare i gargarismi con l'acqua corrente dei torrenti puri.",
+            "sapphire": "IGGLYBUFF, così morbido e soffice, sembra fatto di gommapiuma rosa. Il suo corpo emana un lieve aroma che placa le emozioni e l'aggressività del nemico.",
+            "emerald": "Il corpo di IGGLYBUFF è morbido ed elastico. Quando canta a squarciagola senza fermarsi, il suo corpo si colora di un rosa intenso ed uniforme.",
+            "fire-red": "Il corpo molto flessibile ed elastico lo fa rimbalzare da ogni parte continuamente.",
+            "leaf-green": "Il suo corpo è morbidissimo. Se inizia a rotolare, rimbalza così tanto che è impossibile fermarlo.",
+            "diamond": "Ha un corpo morbido ed elastico. Quando comincia a saltellare è praticamente impossibile fermarlo.",
+            "pearl": "Ha un corpo morbido ed elastico. Quando comincia a saltellare è praticamente impossibile fermarlo.",
+            "platinum": "Ha un corpo morbido ed elastico. Quando comincia a saltellare è praticamente impossibile fermarlo.",
+            "heart-gold": "Il suo corpo è morbidissimo. Se inizia a rotolare, rimbalza così forte che è impossibile fermarlo.",
+            "soul-silver": "Il corpo molto flessibile ed elastico lo fa rimbalzare da ogni parte continuamente.",
+            "black": "Ha un corpo morbido ed elastico. Quando comincia a saltellare è praticamente impossibile fermarlo.",
+            "white": "Ha un corpo morbido ed elastico. Quando comincia a saltellare è praticamente impossibile fermarlo.",
+            "black-2": "Il suo corpo è mordido, elastico ed emette un profumo dolce e delicato. Se inizia a rimbalzare è impossibile fermarlo.",
+            "white-2": "Il suo corpo è mordido, elastico ed emette un profumo dolce e delicato. Se inizia a rimbalzare è impossibile fermarlo.",
+            "x": "Anziché camminare sulle sue corte zampe, preferisce rimbalzare sul suo corpo soffice e delicato.",
+            "y": "Il suo corpo è morbidissimo. Se inizia a rotolare, rimbalza così forte che è impossibile fermarlo.",
+            "omega-ruby": "Le corde vocali di Igglybuff non sono sufficientemente sviluppate. Se eccede nel canto, gli viene il mal di gola. È solito fare i gargarismi con l'acqua corrente dei torrenti puri.",
+            "alpha-sapphire": "Igglybuff, così morbido e soffice, sembra fatto di gommapiuma rosa. Il suo corpo emana un lieve aroma che placa le emozioni e l'aggressività del nemico.",
+            "sun": "Gli piace molto cantare, ma è ancora inesperto. Se incoraggiato nel modo giusto, migliora a poco a poco.",
+            "moon": "Si muove rimbalzando e quando suda molto emana un lieve aroma dolciastro.",
+            "ultra-sun": "Si allena continuamente nel canto per migliorare. Anche mentre dorme, continua a cantare in sogno.",
+            "ultra-moon": "Se lasciato fare, si allena nel canto senza sosta. Ogni tanto è meglio fargli fare una pausa per evitare che si faccia male alla gola.",
+            "sword": "Adora cantare. Il suo corpo simile al marshmallow emana una lieve e dolce fragranza.",
+            "shield": "Si sposta facendo rimbalzare il suo corpo morbido. Quando la sua temperatura corporea si alza, si colora di un rosa intenso.",
+            "brilliant-diamond": "Ha un corpo morbido ed elastico. Quando comincia a saltellare è praticamente impossibile fermarlo.",
+            "shining-pearl": "Ha un corpo morbido ed elastico. Quando comincia a saltellare è praticamente impossibile fermarlo.",
+            "scarlet": "Il suo corpo morbido ed elastico emette un profumo dolce e delicato. Se inizia a rimbalzare è impossibile fermarlo.",
+            "violet": "Gli piace molto cantare, ma è ancora inesperto. Se incoraggiato nel modo giusto, migliora a poco a poco.",
+            "legends-za": "Si allena continuamente nel canto per migliorare. Anche mentre dorme, continua a cantare nei suoi sogni."
+        },
+        "": {}
+    },
     "egg_groups": [
         "Sconosciuto"
     ],
     "flat_name": "igglybuff",
     "generation": 2,
     "height": {
-        "igglybuff": "0.3 m"
+        "igglybuff": "0,3 m"
     },
     "id": 174,
     "name": "Igglybuff",
-    "name_origin": "Il suo nome deriva da una variazione e un'accorciamento dei nomi delle sue evoluzioni, Jigglypuff e Wigglytuff. ",
-    "origin": "Basato su un palloncino, ricorda anche Kirby. ",
+    "name_origin": "Igglybuff potrebbe essere una combinazione tra jiggly, dondolante, o wiggly, sinuoso, e buff leather . ",
+    "origin": "Igglybuff sembra essere basato su un palloncino data la sua capacità di gonfiare il proprio corpo. La sua morbida pelliccia e abilità di cantare ricordano un peluche. Il suo colore rosa, pelle simile a gomma e capacità di rimbalzare lo riconducono ad una palla rimbalzante. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Igglybuff",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Pallone",
     "sprites": {
         "igglybuff": {
@@ -54,11 +90,11 @@
     },
     "types": {
         "igglybuff": [
-            "Folletto",
-            "Normale"
+            "Normale",
+            "Folletto"
         ]
     },
     "weight": {
-        "igglybuff": "1.0 kg"
+        "igglybuff": "1,0 kg"
     }
 }

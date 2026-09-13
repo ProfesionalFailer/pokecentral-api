@@ -18,13 +18,16 @@
         "Pokémon di Gruppo Uova Minerale",
         "Pagine con articoli di Johto World",
         "Pokémon appartenenti a una linea di evoluzione a tre stadi",
-        "Pokémon con statistiche base totali di 355"
+        "Pokémon con statistiche base totali di 355",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/naclstack.mp3",
     "dex_entries": {
         "naclstack": {
             "scarlet": "Spruzza sale addosso alla preda fino a ricoprirla del tutto per estrarne i liquidi corporei.",
-            "violet": "Comprime salgemma all'interno del corpo per creare proiettili salini, che spara con una potenza tale da trafiggere lastre di ferro."
+            "violet": "Comprime salgemma all'interno del corpo per creare proiettili salini, che spara con una potenza tale da trafiggere lastre di ferro.",
+            "legends-za": "È smemorato di natura e tende a dimenticare non solo le prede che ha messo sotto sale, ma addirittura gli ordini del proprio Allenatore."
         }
     },
     "egg_groups": [
@@ -33,14 +36,14 @@
     "flat_name": "naclstack",
     "generation": 9,
     "height": {
-        "naclstack": "0.6 m"
+        "naclstack": "0,6 m"
     },
     "id": 933,
     "name": "Naclstack",
     "name_origin": "Naclstack potrebbe derivare da NaCl , e stack . ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Naclstack",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Salgemma",
     "sprites": {
         "naclstack": {
@@ -68,6 +71,6 @@
         ]
     },
     "weight": {
-        "naclstack": "105.0 kg"
+        "naclstack": "105,0 kg"
     }
 }

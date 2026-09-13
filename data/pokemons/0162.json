@@ -10,21 +10,49 @@
         "L'artwork di Furret da Oro HeartGold e Argento SoulSilver ha la stessa posa di quello di Oro e Argento."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/furret.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "furret": {
+            "gold": "Il suo nido è adatto al corpo lungo e magro. Gli altri POKéMON non riescono ad entrarci.",
+            "silver": "Impossibile dire dove inizi la coda. Nonostante le zampe corte, è veloce a cacciare i RATTATA.",
+            "crystal": "Vive in strette buche, adatte al suo corpo. Più sono profonde, più somigliano a labirinti.",
+            "ruby": "FURRET è di esile costituzione. Quando è attaccato riesce a scappare intrufolandosi in ogni fessura. Nonostante i suoi arti corti, questo POKéMON è molto agile e rapido nei movimenti.",
+            "sapphire": "FURRET è di esile costituzione. Quando è attaccato riesce a scappare intrufolandosi in ogni fessura. Nonostante i suoi arti corti, questo POKéMON è molto agile e rapido nei movimenti.",
+            "emerald": "FURRET è di esile costituzione. Quando è attaccato sfugge intrufolandosi in ogni fessura. Malgrado i suoi arti siano corti, è molto agile e rapido nei movimenti.",
+            "fire-red": "Impossibile dire dove inizi la coda. Nonostante le zampe corte, è veloce a cacciare i RATTATA.",
+            "leaf-green": "Il suo nido è adatto al corpo lungo e magro. Gli altri POKéMON non riescono ad entrarci.",
+            "diamond": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "pearl": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "platinum": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "heart-gold": "Il suo nido è adatto al corpo lungo e magro. Gli altri Pokémon non riescono ad entrarci.",
+            "soul-silver": "Impossibile dire dove inizi la coda. Nonostante le zampe corte, è veloce a cacciare i RATTATA.",
+            "black": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "white": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "black-2": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "white-2": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "x": "Si addormenta avvolto nell'esile corpo della madre. Mette all'angolo i nemici con movimenti rapidi.",
+            "y": "Il suo nido è adatto al corpo lungo e magro. Gli altri Pokémon non riescono ad entrarci.",
+            "omega-ruby": "Furret è di esile costituzione. Quando è attaccato riesce a scappare intrufolandosi in ogni fessura. Nonostante i suoi arti corti, questo Pokémon è molto agile e rapido nei movimenti.",
+            "alpha-sapphire": "Furret è di esile costituzione. Quando è attaccato riesce a scappare intrufolandosi in ogni fessura. Nonostante i suoi arti corti, questo Pokémon è molto agile e rapido nei movimenti.",
+            "brilliant-diamond": "La madre addormenta i piccoli avvolgendoli col suo corpo affusolato. Mette all’angolo i nemici con movimenti rapidi.",
+            "shining-pearl": "La madre addormenta i piccoli avvolgendoli col suo corpo affusolato. Mette all’angolo i nemici con movimenti rapidi.",
+            "scarlet": "Alleva i piccoli in tane lunghe e strette. Quando questi crescono, li porta fuori dalla tana per prepararli all’indipendenza.",
+            "violet": "Essendo veloce e molto flessibile, sfugge facilmente dalle mani di chi lo ha catturato."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "furret",
     "generation": 2,
     "height": {
-        "furret": "1.8 m"
+        "furret": "1,8 m"
     },
     "id": 162,
     "name": "Furret",
-    "name_origin": "Furret è la combinazione di fur e furetto. Il suo nome giapponese è la combinazione di 大 ō, grande, e 鼬 itachi, donnola, e potrebbe anche includere 尾 o, coda, e 立つ tatsu, posizione, proprio come il nome giapponese di Sentret. Può derivare anche dalla parola francese che sta per furetto, furet. ",
-    "origin": "Furret sembra basarsi su un furetto. ",
+    "name_origin": "Furret sembra essere combinazione di fur, pelo, ferret, furetto e possibilmente turret, torretta. Il suo nome giapponese, Ootachi, potrebbe essere la combinazione di 大 ō, grande, 尾 o, coda, 立ち tachi, posa, e 鼬 itachi, donnola. ",
+    "origin": "Furret sembra essere basato su un furetto, come suggerisce l'aspetto e il nome inglese. Condivide tratti anche con altri mustelidi, e ad altri animali come il bassarisco del Nordamerica o il bassarisco del Centroamerica. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Furret",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Lungocorpo",
     "sprites": {
         "furret": {
@@ -52,6 +80,6 @@
         ]
     },
     "weight": {
-        "furret": "32.5 kg"
+        "furret": "32,5 kg"
     }
 }

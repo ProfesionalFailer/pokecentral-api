@@ -11,12 +11,7 @@
         "Quando Castform si trasforma in una delle sue altre forme l'animazione è la stessa della mossa Trasformazione.",
         "Castform è l'unico Pokémon che può imparare contemporaneamente Pistolacqua, Braciere e Polneve.",
         "Castform è l'unico Pokémon che può imparare per aumento di livello Idropompa, Bora e Fuocobomba.",
-        "Nessun altro Pokémon oltre a Castform appartiene ai due Gruppi Uova Amorfo e Magico.",
-        "Castform riceve sempre il bonus di tipo dalla mossa Palla Clima tranne quando le condizioni climatiche sono tempesta di sabbia o aura scura, viene cambiato il suo tipo, oppure perde la sua abilità Previsioni.",
-        "In Pokémon Mystery Dungeon: Esploratori del Tempo ed Esploratori dell'Oscurità Castform è di grandezza 4, mentre nel primo gioco della serie, Pokémon Mystery Dungeon: Squadra Rossa e Squadra Blu è di grandezza 1.",
-        "Le forme alterate di Castform non sono presenti sul Pokédex di Pokémon Diamante e Perla e su quello di Pokémon Platino. Allo stesso modo nel Pokédex di Pokémon Oro HeartGold e Argento SoulSilver non compaiono le forme alterate di Castform alla sua voce, ma nella sezione delle forme sì.",
-        "A dispetto del fatto che Castform trae vantaggio dal clima non può apprendere le mosse Nebbia, Nube e Ondacalda.",
-        "Prima della settima generazione la Forma Neve di Castform era il primo Pokémon di tipo Ghiaccio puro nel Pokédex Nazionale.",
+        "In Pokémon Mystery Dungeon: Esploratori del Tempo ed Esploratori dell'Oscurità Castform è di grandezza 4, mentre nel primo gioco della serie, Pokémon Mystery Dungeon: Squadra Rossa e Squadra Blu è di grandezza 1, nonostante abbia lo stesso sprite in entrambe i giochi. Questo è dovuto al fatto che nei primi giochi tutte le forme di Castform vengano caricate insieme, rendendolo di fatto 4 Pokémon di peso 1.",
         "Castform è il Pokémon di tipo Normale più leggero."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/castform.mp3",
@@ -25,13 +20,13 @@
             "ruby": "L'aspetto di CASTFORM cambia con le condizioni atmosferiche. Questo POKéMON ha imparato ad usare la potente forza della natura per proteggere il suo corpicino indifeso.",
             "sapphire": "CASTFORM usa il potere della natura per trasformarsi in sole, gocce di pioggia e nubi nevose. Il tipo di questo POKéMON varia con i mutamenti meteorologici.",
             "emerald": "La forma di CASTFORM cambia con le condizioni atmosferiche. Le variazioni di temperatura e umidità, infatti, influiscono sulla sua struttura cellulare.",
-            "firered": "Ha la capacità di trasformarsi in sole, pioggia o in una nuvola di neve, secondo le condizioni atmosferiche.",
-            "leafgreen": "Ha la capacità di trasformarsi in sole, pioggia o in una nuvola di neve, secondo le condizioni atmosferiche.",
+            "fire-red": "Ha la capacità di trasformarsi in sole, pioggia o in una nuvola di neve, secondo le condizioni atmosferiche.",
+            "leaf-green": "Ha la capacità di trasformarsi in sole, pioggia o in una nuvola di neve, secondo le condizioni atmosferiche.",
             "diamond": "Il suo aspetto varia con il clima. Recentemente si è scoperto che le sue molecole sono di acqua.",
             "pearl": "Il suo aspetto varia con il clima. Recentemente si è scoperto che le sue molecole sono di acqua.",
             "platinum": "Il suo aspetto varia con il clima. Recentemente si è scoperto che le sue molecole sono di acqua.",
-            "heartgold": "Il suo aspetto varia con l’umidità e la temperatura, che influenzano la sua struttura molecolare.",
-            "soulsilver": "Il suo aspetto varia con l’umidità e la temperatura, che influenzano la sua struttura molecolare.",
+            "heart-gold": "Il suo aspetto varia con l'umidità e la temperatura, che influenzano la sua struttura molecolare.",
+            "soul-silver": "Il suo aspetto varia con l'umidità e la temperatura, che influenzano la sua struttura molecolare.",
             "black": "Il suo aspetto varia con il clima. Recentemente si è scoperto che le sue molecole sono di acqua.",
             "white": "Il suo aspetto varia con il clima. Recentemente si è scoperto che le sue molecole sono di acqua.",
             "black-2": "Le sue cellule reagiscono all'umidità e alle temperature, facendogli assumere un aspetto diverso a seconda del clima.",
@@ -56,7 +51,7 @@
         "forma-pioggia": {
             "sun": "Castform assume questa forma quando piove. Il suo corpo diventa come una spugna e, se lo si stringe, rilascia un po' d'acqua.",
             "moon": "È la forma di Castform quando è bagnato dalla pioggia. Il suo corpo trattiene l'umidità e diventa scivoloso.",
-            "ultra-sun": "È la forma di Castform quando è bagnato dalla pioggia. Con l’acqua si gonfia leggermente e diventa molle.",
+            "ultra-sun": "È la forma di Castform quando è bagnato dalla pioggia. Con l'acqua si gonfia leggermente e diventa molle.",
             "ultra-moon": "È la forma di Castform quando è bagnato dalla pioggia. Come dimostrato, non è sufficiente metterlo sotto la doccia per farlo trasformare..."
         },
         "forma-nuvola-di-neve": {
@@ -73,14 +68,14 @@
     "flat_name": "castform",
     "generation": 3,
     "height": {
-        "castform": "0.3 m"
+        "castform": "0,3 m"
     },
     "id": 351,
     "name": "Castform",
-    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi forecast  e form  o transform , come riferimento alla sua abilità di cambiare forma con le condizioni atmosferiche. ",
-    "origin": "Castform sembra agire come una nuvola vivente e si modifica con il cambiare delle condizioni meteorologiche, per questo potrebbe essere paragonato ad un pallone sonda. Sembra assomigliare come concetto anche a un teru teru bozu, una bambola giapponese usata per desiderare il bel tempo. ",
+    "name_origin": "Castform potrebbe derivare da forecast, previsione del tempo, e form, forma, o transform, trasformarsi. Powalen, il suo nome giapponese, potrebbe essere una combinazione di ポワン powan, onomatopea per una trasformazione improvvisa, simile a \"poof\", e 変わる kawaru, cambiare o trasformarsi. ",
+    "origin": "Castform sembra agire come una nuvola vivente e si modifica con il cambiare delle condizioni meteorologiche, ma potrebbe anche prendere ispirazione da un un pallone sonda. Sembra assomigliare come concetto anche a un teru teru bozu, una bambola giapponese usata per desiderare il bel tempo. Le sue forme potrebbero prendere ispirazione dal modo di dire inglese \"hail, rain or shine\" . La sua forma composta di una sfera grande e due sfere più piccole ricorda una molecola di H2O, rispecchiando come sia detto essere composto da molecole simili ad acqua. Concettualmente, Castform può essere visto come un opposto alla Weather rock, ovvero delle rocce appese che presentano descrizioni umoristiche per stabilire il tempo atmosferico, create come satira della scarsa capacità di predire il meteo di alcuni metodi più tecnologici . Date le origini artificiali di Castform e il suo scopo originario di predire il meteo, ma incapacità di trasformarsi se la condizione atmosferica non è già presente, può essere visto come l'esatto contrario di una Weather rock. La forma Sole ricorda una stilizzazione del sole su una nuvola, la forma Pioggia una goccia d'acqua, e la forma Nuvola di Neve una folata di vento o un cono gelato. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Castform",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Meteo",
     "sprites": {
         "forma-castform": {
@@ -129,6 +124,6 @@
         ]
     },
     "weight": {
-        "castform": "0.8 kg"
+        "castform": "0,8 kg"
     }
 }

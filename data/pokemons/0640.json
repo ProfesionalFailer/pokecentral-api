@@ -19,7 +19,8 @@
             "omega-ruby": "Le corna della testa sono lame affilate. Muovendosi come un turbine, scuote e falcia fulmineo i nemici.",
             "alpha-sapphire": "Le leggende dicono di lui che protegge i Pokémon tenendo in scacco i nemici con i suoi movimenti fulminei.",
             "sword": "Secondo la leggenda, ha lottato fino all'ultimo assieme a Cobalion e Terrakion per proteggere i Pokémon di Unima.",
-            "shield": "Si abbatte sui nemici rapido come un turbine e li fa a pezzi senza pietà con le sue corna affilate."
+            "shield": "Si abbatte sui nemici rapido come un turbine e li fa a pezzi senza pietà con le sue corna affilate.",
+            "legends-za": "Disorienta i nemici con un turbinio di rapidi movimenti e li fa a pezzi senza pietà con le sue corna affilate."
         }
     },
     "egg_groups": [
@@ -28,14 +29,14 @@
     "flat_name": "virizion",
     "generation": 5,
     "height": {
-        "virizion": "2.0 m"
+        "virizion": "2,0 m"
     },
     "id": 640,
     "name": "Virizion",
     "name_origin": "Il suo nome probabilmente deriva dalle parole inglesi viridian, verde Veronese, e champion, campione. Potrebbe anche derivare dal latino viridis, verde, e dall'inglese lion, leone. ",
     "origin": "Virizion è basato su Aramis, uno de I tre moschettieri. Il suo aspetto ricorda un'antilope, un gerenuk, una gazzella o un giovane cervo. Il colore del manto è un riferimento esplicito al verde Veronese. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Virizion",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Prateria",
     "sprites": {
         "virizion": {
@@ -59,8 +60,8 @@
     },
     "types": {
         "virizion": [
-            "Erba",
-            "Lotta"
+            "Lotta",
+            "Erba"
         ]
     },
     "weight": {

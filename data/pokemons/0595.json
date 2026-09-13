@@ -12,7 +12,7 @@
         "Joltik, assieme a Flabébé, è il Pokémon più piccolo in assoluto.",
         "Joltik è il Pokémon di tipo Coleottero più leggero.",
         "Joltik è l'unico Pokémon con la somma delle statistiche base pari a 319.",
-        "Joltik si può definire il parallelo di Larvesta in quanto entrambi sono di tipo Coleottero per metà, entrambi hanno una combinazione unica di tipo, entrambi si evolvono una sola volta ed entrambi sono stati introdotti in quinta generazione."
+        "Joltik si può definire il parallelo di Larvesta in quanto entrambi sono di tipo Coleottero per metà, entrambi si evolvono una sola volta ed entrambi sono stati introdotti in quinta generazione."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/joltik.mp3",
     "dex_entries": {
@@ -25,8 +25,10 @@
             "y": "Si aggrappa ai Pokémon più grossi e ne assorbe l'energia statica che conserva in una sacca d'accumulo.",
             "omega-ruby": "Non può produrre elettricità da sé, per cui si attacca a Pokémon più grandi per succhiarne l'energia elettrostatica.",
             "alpha-sapphire": "Si aggrappa ai Pokémon più grossi e ne assorbe l'energia statica che conserva in una sacca d'accumulo.",
-            "sword": "Si aggrappa al corpo di altri Pokémon e ne assorbe l'energia elettrostatica. Non può produrre l'elettricità da sé.",
-            "shield": "Si attacca ad altri Pokémon per assorbirne l'energia elettrostatica. Non è raro trovarne uno sul posteriore di Yamper."
+            "sword": "Si aggrappa al corpo di altri Pokémon e ne assorbe l'energia elettrostatica. Non può produrre elettricità da sé.",
+            "shield": "Si attacca ad altri Pokémon per assorbirne l'energia elettrostatica. Non è raro trovarne uno sul posteriore di Yamper.",
+            "scarlet": "I Joltik che vivono in città hanno imparato una tecnica per succhiare l'elettricità dalle prese di corrente delle case.",
+            "violet": "Non può produrre elettricità da sé, per cui si attacca a Pokémon più grandi per succhiarne l'energia elettrostatica."
         }
     },
     "egg_groups": [
@@ -35,14 +37,14 @@
     "flat_name": "joltik",
     "generation": 5,
     "height": {
-        "joltik": "0.1 m"
+        "joltik": "0,1 m"
     },
     "id": 595,
     "name": "Joltik",
     "name_origin": "Il nome di Joltik può essere una combinazione di jolt  e tick . ",
     "origin": "A causa del suo comportamenti di aggrapparsi ai Pokémon più grandi per assorbirne l'elettricità lo ricollega molto ad una zecca, tuttavia il suo aspetto è più ricollegabile a quello di una tarantola proprio come la sua evoluzione. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Joltik",
-    "shape": "insettoide",
+    "shape": "None",
     "specie": "Pokémon Appiccicante",
     "sprites": {
         "joltik": {
@@ -66,11 +68,11 @@
     },
     "types": {
         "joltik": [
-            "Coleot",
-            "Elettro"
+            "Elettro",
+            "Coleot"
         ]
     },
     "weight": {
-        "joltik": "0.6 kg"
+        "joltik": "0,6 kg"
     }
 }

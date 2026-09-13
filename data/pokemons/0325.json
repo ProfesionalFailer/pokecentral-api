@@ -16,13 +16,13 @@
             "ruby": "SPOINK rimbalza come una molla sulla coda. Il colpo ricevuto dal rimbalzo gli fa battere il cuore. Di conseguenza, non può mai smettere di saltellare, altrimenti il suo cuore smette di battere.",
             "sapphire": "Sulla sommità del capo SPOINK porta un perla che serve per amplificare i suoi poteri psicocinetici. Per questo motivo è sempre in cerca di una perla più grande.",
             "emerald": "SPOINK ha poteri psichici che usa a proprio piacimento. Non smette mai di rimbalzare, neppure quando dorme. Si nutre di funghi che crescono sottoterra.",
-            "firered": "Se smettesse di rimbalzare, forse il cuore si fermerebbe. Porta una perla di CLAMPERL sul capo.",
-            "leafgreen": "Se smettesse di rimbalzare, forse il cuore si fermerebbe. Porta una perla di CLAMPERL sul capo.",
+            "fire-red": "Se smettesse di rimbalzare, forse il cuore si fermerebbe. Porta una perla di CLAMPERL sul capo.",
+            "leaf-green": "Se smettesse di rimbalzare, forse il cuore si fermerebbe. Porta una perla di CLAMPERL sul capo.",
             "diamond": "Rimbalza costantemente usando la coda come una molla. Il movimento sollecita il cuore e lo fa battere.",
             "pearl": "Rimbalza costantemente usando la coda come una molla. Il movimento sollecita il cuore e lo fa battere.",
             "platinum": "Rimbalza costantemente usando la coda come una molla. Il movimento sollecita il cuore e lo fa battere.",
-            "heartgold": "Deve saltellare continuamente per far battere il suo cuore. Porta una perla di CLAMPERL sul capo.",
-            "soulsilver": "Deve saltellare continuamente per far battere il suo cuore. Porta una perla di CLAMPERL sul capo.",
+            "heart-gold": "Deve saltellare continuamente per far battere il suo cuore. Porta una perla di CLAMPERL sul capo.",
+            "soul-silver": "Deve saltellare continuamente per far battere il suo cuore. Porta una perla di CLAMPERL sul capo.",
             "black": "Rimbalza costantemente usando la coda come una molla. Il movimento sollecita il cuore e lo fa battere.",
             "white": "Rimbalza costantemente usando la coda come una molla. Il movimento sollecita il cuore e lo fa battere.",
             "black-2": "Usa la coda come molla per rimbalzare in modo da mantenere vivo il battito del suo cuore, che altrimenti si fermerebbe.",
@@ -34,7 +34,8 @@
             "brilliant-diamond": "Rimbalza costantemente usando la coda come una molla. Il movimento sollecita il cuore e lo fa battere.",
             "shining-pearl": "Rimbalza costantemente usando la coda come una molla. Il movimento sollecita il cuore e lo fa battere.",
             "scarlet": "Se dovesse smettere di saltellare, morirebbe. La perla che porta sul capo amplifica i suoi poteri psichici.",
-            "violet": "Usa la coda come una molla, rimbalzando per mantenere vivo il battito del cuore. Se dovesse mai fermarsi, morirebbe."
+            "violet": "Usa la coda come una molla, rimbalzando per mantenere vivo il battito del cuore. Se dovesse mai fermarsi, morirebbe.",
+            "legends-za": "Rimbalza costantemente usando la coda come una molla. Il movimento sollecita il cuore e lo fa battere."
         }
     },
     "egg_groups": [
@@ -43,14 +44,14 @@
     "flat_name": "spoink",
     "generation": 3,
     "height": {
-        "spoink": "0.70 m"
+        "spoink": "0,70 m"
     },
     "id": 325,
     "name": "Spoink",
-    "name_origin": "Potrebbe derivare dall'unione della parola inglese spring  e oink . Potrebbe derivare anche dalla corruzione della parola boing . ",
-    "origin": "Come l'evoluzione Grumpig, Spoink sembra essere un riferimento alla locuzione latina \"Margaritas ante porcos\", che significa \"perle ai porci\": l'espressione è un invito a non sprecare ciò che ha un valore, sia materiale che non, dandolo a chi non saprebbe apprezzarlo, per esempio dando proprio delle perle a dei maiali. Tuttavia Spoink e Grumpig sono dei maiali che non sprecano le perle, usandole per aumentare i propri poteri psichici. ",
+    "name_origin": "Spoink potrebbe derivare da spring, molla, e oink, onomatopea del verso dei maiali. Baneboo, il suo nome giapponese, potrebbe derivare da 発条 bane, molla, e ブーブー būbū, onomatopea del verso dei maiali. ",
+    "origin": "Spoink sembra essere basato su un cucciolo di maiale. Potrebbe anche essere un riferimento ad un verso della Bibbia: \"Non date ciò che è santo ai cani e non gettate le vostre perle ai porci, perché non le calpestino e, rivoltandosi, vi sbranino\" , dove le perle rappresentano la saggezza data ad ascoltatori che non la capirebbero. Spoink e la sua evoluzione invece usano le perle per aumentare i propri poteri psichici, rendendole simili ad una sfera di cristallo. L'avere una molla al posto delle gambe potrebbe essere un riferimento ad un pupazzo a molla, o alla coda arricciata dei maiali. L'associazione del Pokémon e i funghi sotterranei ricorda i maiali da tartufo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Spoink",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Molla",
     "sprites": {
         "spoink": {
@@ -78,6 +79,6 @@
         ]
     },
     "weight": {
-        "spoink": "30.6 kg"
+        "spoink": "30,6 kg"
     }
 }

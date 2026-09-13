@@ -7,29 +7,58 @@
         }
     },
     "curiosities": [
-        "Prima della quarta generazione, Piloswine poteva imparare Forzantica per allevamento o allenando uno Swinub Ombra catturato in Pokémon XD; tuttavia non si poteva evolvere in Mamoswine.",
         "Per via della loro combinazione unica di tipi, Piloswine e la sua famiglia sono gli unici Pokémon immuni a tutte le condizioni meteorologiche. In ogni caso, Piloswine non poteva essere un Pokémon Ombra in Pokémon XD, quindi in quel gioco riceve i danni di Cieloscuro.",
-        "È l'unico Pokémon che conosce la mossa necessaria alla sua evoluzione dall'inizio e non deve raggiungere un livello particolare per impararla.",
-        "Piloswine e la sua famiglia sono gli unici Pokémon di tipo Ghiaccio di colore marrone.\n\tPiloswine e la sua famiglia sono anche gli unici Pokémon deboli a tutti e tre i tipi dei Pokémon iniziali.",
-        "Piloswine e la sua famiglia sono anche gli unici Pokémon deboli a tutti e tre i tipi dei Pokémon iniziali.",
-        "Nonostante una specifica mossa  sia necessaria per la sua evoluzione, Piloswine può imparare quella mossa solamente ricordandola, dall'Insegnamosse o tramite allevamento senza utilizzare metodi esterni. Condivide questa caratteristica con Poipole."
+        "Piloswine e la sua famiglia sono gli unici Pokémon di tipo Ghiaccio di colore marrone.",
+        "Piloswine e la sua famiglia sono gli unici Pokémon deboli a tutti e tre i tipi dei Pokémon iniziali .\n\tLa loro è anche l'unica combinazione possibile ad avere questa peculiarità: il tipo Roccia  è resistente contro Fuoco, mentre Coleottero e Acciaio  resistono ad Erba.",
+        "La loro è anche l'unica combinazione possibile ad avere questa peculiarità: il tipo Roccia  è resistente contro Fuoco, mentre Coleottero e Acciaio  resistono ad Erba."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/piloswine.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "piloswine": {
+            "gold": "Poiché il lungo pelo sul suo corpo gli impedisce di vedere, non fa che caricare il nemico senza tregua.",
+            "silver": "Quando carica il nemico, i peli gli si rizzano sul dorso. È molto sensibile ai suoni.",
+            "crystal": "Ha le zampe corte, ma grazie agli zoccoli ruvidi, riesce a non scivolare neppure sul ghiaccio.",
+            "ruby": "PILOSWINE è ricoperto da una fitta chioma di pelo lungo che lo aiuta a contrastare il freddo pungente. Usa le proprie zanne per scavare in cerca del cibo sepolto sotto i ghiacci.",
+            "sapphire": "PILOSWINE è ricoperto da una fitta chioma di pelo lungo che lo aiuta a contrastare il freddo pungente. Usa le proprie zanne per scavare in cerca del cibo sepolto sotto i ghiacci.",
+            "emerald": "PILOSWINE è ricoperto da una fitta chioma di pelo lungo che lo aiuta a contrastare il freddo pungente. Usa le zanne per cercare il cibo sepolto sotto i ghiacci.",
+            "fire-red": "Quando carica il nemico, i peli gli si rizzano sul dorso. È molto sensibile ai suoni.",
+            "leaf-green": "Poiché il lungo pelo sul suo corpo gli impedisce di vedere, non fa che caricare il nemico senza tregua.",
+            "diamond": "Poiché il lungo pelo gli impedisce di vedere, sonda il terreno circostante con il sensibilissimo naso.",
+            "pearl": "Poiché il lungo pelo gli impedisce di vedere, sonda il terreno circostante con il sensibilissimo naso.",
+            "platinum": "Il suo fitto pelo lo protegge dal freddo. Ha zanne di ghiaccio che si ispessiscono quando nevica.",
+            "heart-gold": "Poiché il lungo pelo sul suo corpo gli impedisce di vedere, non fa che caricare il nemico senza tregua.",
+            "soul-silver": "Quando carica il nemico, i peli gli si rizzano sul dorso. È molto sensibile ai suoni.",
+            "black": "Il suo fitto pelo lo protegge dal freddo. Ha zanne di ghiaccio che si ispessiscono quando nevica.",
+            "white": "Il suo fitto pelo lo protegge dal freddo. Ha zanne di ghiaccio che si ispessiscono quando nevica.",
+            "black-2": "Con l'olfatto sopraffino riesce persino a scovare i funghi che sono sepolti sotto la terra ghiacciata.",
+            "white-2": "Con l'olfatto sopraffino riesce persino a scovare i funghi che sono sepolti sotto la terra ghiacciata.",
+            "x": "Ha le zampe corte, ma grazie agli zoccoli ruvidi, riesce a non scivolare neppure sul ghiaccio.",
+            "y": "Poiché il lungo pelo sul suo corpo gli impedisce di vedere, non fa che caricare il nemico senza tregua.",
+            "omega-ruby": "Piloswine è ricoperto da una fitta chioma di pelo lungo che lo aiuta a contrastare il freddo pungente. Usa le proprie zanne per scavare in cerca del cibo sepolto sotto i ghiacci.",
+            "alpha-sapphire": "Piloswine è ricoperto da una fitta chioma di pelo lungo che lo aiuta a contrastare il freddo pungente. Usa le proprie zanne per scavare in cerca del cibo sepolto sotto i ghiacci.",
+            "sword": "Quando carica il nemico, i peli gli si rizzano sul dorso. È molto sensibile ai suoni.",
+            "shield": "Ha le zampe corte, ma grazie agli zoccoli ruvidi riesce a camminare sul ghiaccio senza scivolare.",
+            "brilliant-diamond": "Poiché il lungo pelo gli ostacola la vista, sonda il terreno circostante con il sensibilissimo naso.",
+            "shining-pearl": "Poiché il lungo pelo gli ostacola la vista, sonda il terreno circostante con il sensibilissimo naso.",
+            "legends-arceus": "Il lungo vello ricopre non solo occhi e fauci, ma pure gli arti, proteggendolo da temperature austere. Sgomina gli inimici con le bianche zanne.",
+            "scarlet": "Il suo fitto pelo lo protegge dal freddo. Ha zanne di ghiaccio che si ispessiscono quando nevica.",
+            "violet": "Poiché il lungo pelo sul suo corpo gli impedisce di vedere, non fa che caricare il nemico senza tregua."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "piloswine",
     "generation": 2,
     "height": {
-        "piloswine": "1.1 m"
+        "piloswine": "1,1 m"
     },
     "id": 221,
     "name": "Piloswine",
-    "name_origin": "Deriva dalle parole \"pilose\"  e \"swine\" . Potrebbe anche derivare da \"pil\" . ",
-    "origin": "Fisicamente i Piloswine sembrano basati su un misto tra cinghiale selvatico e yak, ma il loro habitat che di solito si basa sulle zone più fredde  può ricondurli ad un mammut od ad un mastodonte, come suggerisce anche la loro evoluzione. ",
+    "name_origin": "Piloswine potrebbe derivare da pilose, peloso, e swine, suino. Potrebbe anche derivare da פיל píl, elefante in ebraico. Inomoo, il suo nome giapponese, potrebbe derivare da 猪 inoshishi, cinghiale, e ブーブー būbū, onomatopea del grugnito dei maiali. ",
+    "origin": "Piloswine potrebbe essere ispirato ad un cinghiale, con tratti di un mammut lanoso. Condivide tratti anche con bue muschiati, yak, e vacche Highlander: gli habitat montani di questi animali non sono dissimili dalla Via Gelata, habitat di Swinub. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Piloswine",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Suino",
     "sprites": {
         "piloswine": {
@@ -57,11 +86,11 @@
     },
     "types": {
         "piloswine": [
-            "Ghiaccio",
-            "Terra"
+            "Terra",
+            "Ghiaccio"
         ]
     },
     "weight": {
-        "piloswine": "55.8 kg"
+        "piloswine": "55,8 kg"
     }
 }

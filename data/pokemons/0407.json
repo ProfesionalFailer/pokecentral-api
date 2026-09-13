@@ -7,8 +7,7 @@
         }
     },
     "curiosities": [
-        "Dato che non è necessario raggiungere un particolare livello per consentire l'evoluzione da Roselia , Roserade è uno dei due Pokémon di terzo stadio in grado di poter essere allenato sin dal livello 1 .",
-        "Roserade condivide con Exeggutor il più alto Attacco Speciale fra tutti i Pokémon di tipo Erba non megaevoluti.",
+        "Roserade e Porygon-Z sono le uniche evoluzioni finali ottenibili al livello 1 evolvendole normalmente.",
         "Roserade e la sua pre-evoluzione sono gli unici Pokémon di tipo Veleno facenti parte del Gruppo Uova Magico."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/roserade.mp3",
@@ -17,8 +16,8 @@
             "diamond": "Attira la preda con un dolce aroma, poi l’abbatte con le fruste spinose celate fra i bouquet delle braccia.",
             "pearl": "Con i movimenti di una ballerina, colpisce con le fruste, piene di spine velenose.",
             "platinum": "Le due diverse tossine sulle mani di ROSERADE hanno un effetto quasi letale quando il Pokémon colpisce.",
-            "heartgold": "Attira la preda con un dolce aroma, poi l’abbatte con il veleno. Più dolce l’aroma, più forte il veleno.",
-            "soulsilver": "Attira la preda con un dolce aroma, poi l’abbatte con il veleno. Più dolce l’aroma, più forte il veleno.",
+            "heart-gold": "Attira la preda con un dolce aroma, poi l’abbatte con il veleno. Più dolce l’aroma, più forte il veleno.",
+            "soul-silver": "Attira la preda con un dolce aroma, poi l’abbatte con il veleno. Più dolce l’aroma, più forte il veleno.",
             "black": "Le due diverse tossine sulle mani di Roserade hanno un effetto quasi letale quando il Pokémon colpisce.",
             "white": "Le due diverse tossine sulle mani di Roserade hanno un effetto quasi letale quando il Pokémon colpisce.",
             "black-2": "Attira la preda con il suo profumo soave per poi afferrarla e abbatterla con gli arti velenosi.",
@@ -31,7 +30,8 @@
             "shield": "Il veleno nel bouquet destro ha effetto istantaneo, quello nel sinistro ha effetto ritardato. Entrambi possono essere letali.",
             "brilliant-diamond": "Attira la preda con un dolce aroma, poi l'abbatte con le fruste spinose celate fra i bouquet delle braccia.",
             "shining-pearl": "Attacca con le fruste piene di spine velenose mentre si muove a passo di danza.",
-            "legends-arceus": "Cela velenifere fruste spinose nei mazzolini degli arti. Circuisce la preda con suadenti movenze per poi colpirla con le impietose fruste."
+            "legends-arceus": "Cela velenifere fruste spinose nei mazzolini degli arti. Circuisce la preda con suadenti movenze per poi colpirla con le impietose fruste.",
+            "legends-za": "Attira la preda con il suo profumo soave per poi pungerla, legarla e abbatterla con le fruste velenose delle braccia."
         }
     },
     "egg_groups": [
@@ -41,14 +41,14 @@
     "flat_name": "roserade",
     "generation": 4,
     "height": {
-        "roserade": "0.9 m"
+        "roserade": "0,9 m"
     },
     "id": 407,
     "name": "Roserade",
-    "name_origin": "Il nome di Roserade è probabilmente la combinazione di rose  e masquerade , come si può desumere anche dal fatto che sembra che indossi una maschera. Il nome è anche un anagramma di a red rose  - tuttavia questa pare essere solo una coincidenza in quanto oltre ad una rosa rossa, Roserade tiene in mano pure una rosa blu. ",
-    "origin": "Roserade è basato su una rosa, oltre che su un partecipante ad un ballo in maschera. ",
+    "name_origin": "Roserade potrebbe derivare da rose, rosa, e masquerade, ballo in maschera. ",
+    "origin": "Roserade sembra essere basato su un boquet di rose, oltre che ad un partecipante ad un ballo in maschera, che usavano maschere per nascondere la propria identità. Questo sarebbe confermato dalla sua maschera, il suo mantello e le voci Pokédex che affermano si muova con passi di danza. É possibile che invece il suo aspetto sia basato sugli ellebori, un genere di piante velenose dall'aspetto simile alle rose, ricollegando il Pokémon al tema del mascherarsi. Alternativamente i suoi fiori potrebbero essere ispirati dalle Hydrangea, piante velenose i cui fiori crescono in gruppi vicini e possono essere di colore rosso o blu. Il suo aspetto umanoide, collegamento ai fiori e il Gruppo Uova Magico lo riconducono ad una fata. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Roserade",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Floreale",
     "sprites": {
         "roserade": {
@@ -81,6 +81,6 @@
         ]
     },
     "weight": {
-        "roserade": "14.5 kg"
+        "roserade": "14,5 kg"
     }
 }

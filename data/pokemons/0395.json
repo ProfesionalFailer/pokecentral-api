@@ -6,13 +6,11 @@
         }
     },
     "curiosities": [
-        "Empoleon possiede alcune caratteristiche uniche dovute al proprio tipo Acciaio:\n\tHa una combinazione di tipo unica .\n\tInsieme ad Infernape, è l'unico Pokémon iniziale che presenta una debolezza verso entrambi gli altri due Pokémon iniziali della sua stessa generazione .\n\tÈ l'unico Pokémon iniziale di tipo Acqua che non è debole al tipo Erba.",
-        "Ha una combinazione di tipo unica .",
-        "Insieme ad Infernape, è l'unico Pokémon iniziale che presenta una debolezza verso entrambi gli altri due Pokémon iniziali della sua stessa generazione .",
+        "Empoleon ha una combinazione di tipo unica.\n\tQuesto lo rende l'unico Pokémon iniziale a non resistere o essere debole agli altri tipi principali degli starter. Rimane comunque debole al tipo Terra di Torterra e Lotta di Infernape.\n\tÈ l'unico Pokémon iniziale di tipo Acqua che non è debole al tipo Erba.",
+        "Questo lo rende l'unico Pokémon iniziale a non resistere o essere debole agli altri tipi principali degli starter. Rimane comunque debole al tipo Terra di Torterra e Lotta di Infernape.",
         "È l'unico Pokémon iniziale di tipo Acqua che non è debole al tipo Erba.",
-        "Nonostante Empoleon sia di secondo tipo Acciaio, impara una sola mossa di questo tipo  crescendo di livello e la impara quando è ancora un Prinplup.",
-        "Empoleon può imparare sette mosse MN, il numero più grande tra tutti gli starter. L'unica mossa MN che non può imparare è Volo, nonostante abbia le ali.",
-        "La statura di Empoleon è grossomodo la stessa del suo \"omonimo\" Napoleone Bonaparte."
+        "Empoleon è l'unico Pokémon iniziale di tipo Acciaio.",
+        "In Pokémon Nero e Bianco sul Propulsione è presente una gang di motociclisti chiamata Black Empoleon. Una volta sconfitti cambieranno il loro nome con quello del primo Pokémon nella squadra del giocatore."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/empoleon.mp3",
     "dex_entries": {
@@ -20,8 +18,8 @@
             "diamond": "I tre corni che si allungano dal suo becco attestano la sua forza. Il capogruppo ha i corni più grossi.",
             "pearl": "Nuota veloce come una moto d'acqua. Le estremità delle ali sono aguzze, spaccano anche il ghiaccio.",
             "platinum": "Chi osa ferirlo nell'orgoglio, viene colpito dalle sue ali tanto possenti da fendere un banco di ghiaccio.",
-            "heartgold": "Non attacca briga senza motivo, ma se un nemico minaccia la pace del branco, lo pesta senza pietà.",
-            "soulsilver": "Non attacca briga senza motivo, ma se un nemico minaccia la pace del branco, lo pesta senza pietà.",
+            "heart-gold": "Non attacca briga senza motivo, ma se un nemico minaccia la pace del branco, lo pesta senza pietà.",
+            "soul-silver": "Non attacca briga senza motivo, ma se un nemico minaccia la pace del branco, lo pesta senza pietà.",
             "black": "Chi osa ferirlo nell'orgoglio, viene colpito dalle sue ali tanto possenti da fendere un banco di ghiaccio.",
             "white": "Chi osa ferirlo nell'orgoglio, viene colpito dalle sue ali tanto possenti da fendere un banco di ghiaccio.",
             "black-2": "Chi osa ferirlo nell'orgoglio, viene colpito dalle sue ali tanto possenti da fendere un banco di ghiaccio.",
@@ -32,7 +30,9 @@
             "alpha-sapphire": "Le tre corna che si allungano dal suo becco attestano la sua forza. Il capogruppo ha le corna più grosse.",
             "brilliant-diamond": "È dotato di tre corna sul becco che attestano la sua forza. Il capogruppo le ha più grandi.",
             "shining-pearl": "Nuota veloce come una moto d'acqua. Le estremità delle ali sono talmente aguzze da fendere banchi di ghiaccio.",
-            "legends-arceus": "Da tempi remoti è noto alle genti di Hisui come il \"signore dei flutti\". Le sue ali fendono al pari di lame forgiate da sopraffini maestri."
+            "legends-arceus": "Da tempi remoti è noto alle genti di Hisui come il \"signore dei flutti\". Le sue ali fendono al pari di lame forgiate da sopraffini maestri.",
+            "scarlet": "Se qualcuno lo ferisce nell'orgoglio, lo trancia con le sue ali capaci di fendere un banco di ghiaccio.",
+            "violet": "Non attacca briga senza motivo, ma se un nemico minaccia la pace del branco, lo pesta senza pietà."
         }
     },
     "egg_groups": [
@@ -42,14 +42,14 @@
     "flat_name": "empoleon",
     "generation": 4,
     "height": {
-        "empoleon": "1.7 m"
+        "empoleon": "1,7 m"
     },
     "id": 395,
     "name": "Empoleon",
     "name_origin": "Deriva dalle parole emperor, imperatore, pole, polo, come in Polo Sud, e il nome Napoleon, Napoleone Bonaparte. ",
-    "origin": "Basato su un pinguino imperatore o su un pinguino reale. ",
+    "origin": "Empoleon sembra essere basato su un pinguino imperatore e su un imperatore, dato il suo aspetto regale. Dato il suo nome in molte lingue, potrebbe prendere ispirazione più precisamente da Napoleone Bonaparte, un imperatore della Francia. Il becco di Empoleon ha la forma sia di una corona che di un tridente, l'arma prediletta dal dio dei mari greco Poseidone. Presenta somiglianze anche con un pinguino reale. La sua abilità di tagliare il ghiaccio con le ali affilate ricorda un rompighiaccio. Il piumaggio di Empoleon può ricordare un frac con bavaglio, simile a quello di un maggiordomo o di un regale, abito spesso comparato alle piume bianche e nere dei pinguini. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Empoleon",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Imperatore",
     "sprites": {
         "empoleon": {
@@ -73,11 +73,11 @@
     },
     "types": {
         "empoleon": [
-            "Acciaio",
-            "Acqua"
+            "Acqua",
+            "Acciaio"
         ]
     },
     "weight": {
-        "empoleon": "84.5 kg"
+        "empoleon": "84,5 kg"
     }
 }

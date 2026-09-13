@@ -13,7 +13,34 @@
         "Sono gli unici Pokémon che possono avere Copripioggia come abilità senza che sia speciale."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/lombre.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "lombre": {
+            "ruby": "LOMBRE è un POKéMON notturno, che si sveglia dopo il crepuscolo. È anche molto dispettoso: quando scopre un pescatore, inizia a tirare l'amo sott'acqua e si diverte a spiare la costernazione del malcapitato.",
+            "sapphire": "L'intero corpo di LOMBRE è ricoperto di una pellicola viscida e scivolosa. Il contatto con le sue zampe dà una sensazione orribile. Spesso LOMBRE è confuso con un bambino piccolo.",
+            "emerald": "Sul far della sera, LOMBRE si diverte un mondo a spaventare le persone schizzando fuori dai fiumi. Si nutre del muschio che cresce sui sassi nel letto dei fiumi.",
+            "fire-red": "Vive in riva a specchi d'acqua, in aree soleggiate. Di giorno dorme su di un letto di alghe, mentre la notte è attivo.",
+            "leaf-green": "Vive in riva a specchi d'acqua, in aree soleggiate. Di giorno dorme su di un letto di alghe, mentre la notte è attivo.",
+            "diamond": "È un po' dispettoso. Se vede un pescatore, gli tira la lenza solo per dargli fastidio.",
+            "pearl": "È un po' dispettoso. Se vede un pescatore, gli tira la lenza solo per dargli fastidio.",
+            "platinum": "È un po' dispettoso. Se vede un pescatore, gli tira la lenza solo per dargli fastidio.",
+            "heart-gold": "Pokémon notturno, che si attiva con l'oscurità. Si nutre di sfagno, che trova nei letti dei fiumi.",
+            "soul-silver": "Pokémon notturno, che si attiva con l'oscurità. Si nutre di sfagno, che trova nei letti dei fiumi.",
+            "black": "È un po' dispettoso. Se vede un pescatore, gli tira la lenza solo per dargli fastidio.",
+            "white": "È un po' dispettoso. Se vede un pescatore, gli tira la lenza solo per dargli fastidio.",
+            "black-2": "È un po' dispettoso. Se vede un pescatore, gli tira la lenza solo per dargli fastidio.",
+            "white-2": "È un po' dispettoso. Se vede un pescatore, gli tira la lenza solo per dargli fastidio.",
+            "x": "Vive in riva a specchi d'acqua, in aree soleggiate. Di giorno dorme su di un letto di alghe, mentre la notte è attivo.",
+            "y": "È un po' dispettoso. Se vede un pescatore, gli tira la lenza solo per dargli fastidio.",
+            "omega-ruby": "Lombre è un Pokémon notturno, che si sveglia dopo il crepuscolo. È anche molto dispettoso: quando scopre un pescatore, inizia a tirare l'amo sott'acqua e si diverte a spiare la costernazione del malcapitato.",
+            "alpha-sapphire": "L'intero corpo di Lombre è ricoperto di una pellicola viscida e scivolosa. Il contatto con le sue zampe dà una sensazione orribile. Spesso Lombre è confuso con un bambino piccolo.",
+            "sword": "È un Pokémon notturno, che si sveglia dopo il crepuscolo. Si nutre di sfagno, che trova nei letti dei fiumi.",
+            "shield": "Vive in riva a specchi d'acqua, in aree soleggiate. Di giorno dorme su di un letto di piante acquatiche, mentre la notte è attivo.",
+            "brilliant-diamond": "È un po' dispettoso. Se vede un pescatore quando è immerso nell'acqua, tira la lenza della sua canna solo per dargli fastidio.",
+            "shining-pearl": "È un po' dispettoso. Se vede un pescatore quando è immerso nell'acqua, tira la lenza della sua canna solo per dargli fastidio.",
+            "scarlet": "Secondo un'antica leggenda di Nordivia, questo Pokémon sarebbe la reincarnazione di un bambino dispettoso.",
+            "violet": "Ama gli specchi d'acqua ricchi di cibo. È diventato notturno per non doverselo contendere con i Pokémon alati."
+        }
+    },
     "egg_groups": [
         "Acqua 1",
         "Erba"
@@ -21,14 +48,14 @@
     "flat_name": "lombre",
     "generation": 3,
     "height": {
-        "lombre": "1.20 m"
+        "lombre": "1,20 m"
     },
     "id": 271,
     "name": "Lombre",
-    "name_origin": "Il nome di Lombre potrebbe essere la combinazione di loto e hombre, che in Spagnolo significa uomo. Potrebbe anche derivare da sombrero, cappello in Spagnolo, simile al suo nome Giapponese. Hasubrero combina 蓮 hasu, che significa loto, e sombrero. Il suo nome in Tedesco, Lombrero, rispecchia perfettamente questo significato. ",
-    "origin": "L'aspetto di Lombre è simile alla creature mitologica Giapponese conosciuta come il Kappa. A differenza di Golduck, questo Pokémon è più simile al Kappa poiché ha lo stesso \" disco \" sulla sua testa carico d'acqua, la fonte del suo potere, esattamente come questo Pokémon usa Copripioggia per rimettersi in sesto. Ha anche l'aspetto del viso simile al Kappa, avendo un becco simile a quello di una tartaruga. ",
+    "name_origin": "Lombre potrebbe derivare da lotus, loto, hombre, uomo in spagnolo, e sombrero, cappello in spagnolo. Hasubrero, il suo nome giapponese, potrebbe derivare da 蓮 hasu, loto, e sombrero. ",
+    "origin": "Lotad sembra essere basato su una ninfea ed un kappa, uno Yōkai con un piatto sulla testa e un becco simile a quello di una tartaruga. Ricorda anche un musicista mariachi, con la testa simile ad un sombrero, i segni sul corpo che ricordano un outfit charro, e la parte rossa del becco somigliante a baffi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Lombre",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Giocoso",
     "sprites": {
         "lombre": {
@@ -52,11 +79,11 @@
     },
     "types": {
         "lombre": [
-            "Erba",
-            "Acqua"
+            "Acqua",
+            "Erba"
         ]
     },
     "weight": {
-        "lombre": "32.5 kg"
+        "lombre": "32,5 kg"
     }
 }

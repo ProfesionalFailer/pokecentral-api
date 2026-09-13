@@ -2,6 +2,9 @@
     "abilities": {
         "zeraora": {
             "primary": "Assorbivolt"
+        },
+        "megazeraora": {
+            "primary": "Sconosciuta"
         }
     },
     "curiosities": [
@@ -15,7 +18,11 @@
             "ultra-sun": "Fa a pezzi l’avversario con le unghie cariche di elettricità. Anche se il nemico schiva il colpo, riceve comunque una scarica folgorante.",
             "ultra-moon": "Si avvicina all’avversario con la velocità di un fulmine e lo fa a pezzi con le unghie affilate.",
             "sword": "Dotato di una velocità fulminea, fa a pezzi l'avversario con i suoi artigli carichi di elettricità ad alta tensione.",
-            "shield": "Emette scariche elettriche dai cuscinetti delle zampe. Sfreccia a tutta velocità accompagnato da saette e rombi di tuono."
+            "shield": "Emette scariche elettriche dai cuscinetti delle zampe. Sfreccia a tutta velocità accompagnato da saette e rombi di tuono.",
+            "legends-za": "Emette scariche elettriche dai cuscinetti delle zampe. Sfreccia a tutta velocità accompagnato da saette e rombi di tuono."
+        },
+        "mega-zeraora": {
+            "legends-za": "Accumula energia elettrica pari a dieci fulmini. Quando decide di trascendere i suoi limiti, diventa uno dei migliori Pokémon Elettro."
         }
     },
     "egg_groups": [
@@ -24,19 +31,23 @@
     "flat_name": "zeraora",
     "generation": 7,
     "height": {
-        "zeraora": "1.5 m"
+        "zeraora": "1,5 m"
     },
     "id": 807,
     "name": "Zeraora",
     "name_origin": "Zeraora potrebbe essere una combinazione di زر zarra  e 虎 tora  o tora . ",
     "origin": "L'aspetto felino di Zeraora è probabilmente ispirato ad una tigre o un leopardo. Il suo tipo Elettro potrebbe alludere a Kanehekili, il dio del tuono hawaiano, mentre le sue movenze rapide rimandano al kamaitachi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Zeraora",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Fulmirapido",
     "sprites": {
         "zeraora": {
             "default": "https://media.pokemoncentral.it/wiki/6/60/Homem0807.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/31/Homemsh0807.png"
+        },
+        "megazeraora": {
+            "default": "https://media.pokemoncentral.it/wiki/f/f7/Homem0807M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/d1/Homemsh0807M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/6/6e/Artwork0807_UsUl.png"
     },
@@ -48,10 +59,19 @@
             "spa": 102,
             "spd": 80,
             "spe": 143
+        },
+        "megazeraora": {
+            "hp": 88,
+            "atk": 157,
+            "def": 75,
+            "spa": 147,
+            "spd": 80,
+            "spe": 153
         }
     },
     "stats_sum": {
-        "zeraora": 600
+        "zeraora": 600,
+        "megazeraora": 700
     },
     "types": {
         "zeraora": [
@@ -59,6 +79,6 @@
         ]
     },
     "weight": {
-        "zeraora": "44.5 kg"
+        "zeraora": "44,5 kg"
     }
 }

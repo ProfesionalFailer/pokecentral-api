@@ -6,24 +6,53 @@
         }
     },
     "curiosities": [
-        "Donphan condivide la stessa categoria con Tyranitar. Entrambi sono noti come Pokémon Armatura."
+        "Donphan condivide la stessa categoria con Tyranitar. Entrambi sono noti come Pokémon Armatura.",
+        "Donphan, Volcarona e Cyclizar sono gli unici Pokémon ad avere una versione Paradosso sia del passato che del futuro."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/donphan.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "donphan": {
+            "gold": "Ha zanne dure e affilate e la pelle grinzosa. La sua AZIONE è così forte da abbattere una casa.",
+            "silver": "Più grandi sono le zanne, più alto è il suo rango nel branco. Le zanne crescono lentamente.",
+            "crystal": "La pelle di questo POKéMON è così dura che un normale attacco non può neppure scalfirla.",
+            "ruby": "DONPHAN adora attaccare arrotolandosi in forma sferica e puntando sul nemico ad elevata velocità. Una volta partito, questo POKéMON è molto difficile da fermare.",
+            "sapphire": "Il massiccio corpo di DONPHAN dispone di una forza tale da poter abbattere persino una casa. La sua incredibile potenza aiuta a liberare i sentieri montani dopo una frana di massi o fango.",
+            "emerald": "DONPHAN dispone di una forza tale da trainare un autocarro. La sua epidermide è così dura che un attacco normale non può neppure scalfirla.",
+            "fire-red": "Più grandi sono le zanne, più alto è il suo rango nel branco. Le zanne crescono lentamente.",
+            "leaf-green": "Ha zanne dure e affilate e la pelle grinzosa. La sua AZIONE è così forte da abbattere una casa.",
+            "diamond": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "pearl": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "platinum": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "heart-gold": "Ha zanne dure e affilate e la pelle grinzosa. La sua Azione è così forte da abbattere una casa.",
+            "soul-silver": "Più grandi sono le zanne, più alto è il suo rango nel branco. Le zanne crescono lentamente.",
+            "black": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "white": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "black-2": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "white-2": "Si arrotola a palla e attacca il nemico. Riesce ad abbattere una casa con un solo colpo.",
+            "x": "Ha zanne dure e affilate e la pelle grinzosa. La sua Azione è così forte da abbattere una casa.",
+            "y": "Più grandi sono le zanne, più alto è il suo rango nel branco. Le zanne crescono lentamente.",
+            "omega-ruby": "Donphan adora attaccare arrotolandosi in forma sferica e puntando sul nemico ad elevata velocità. Una volta partito, questo Pokémon è molto difficile da fermare.",
+            "alpha-sapphire": "Il massiccio corpo di Donphan dispone di una forza tale da poter abbattere persino una casa. La sua incredibile potenza aiuta a liberare i sentieri montani dopo una frana di massi o fango.",
+            "brilliant-diamond": "Si avvolge su se stesso e attacca il nemico rotolando. È in grado di abbattere una casa con un solo colpo.",
+            "shining-pearl": "Si avvolge su se stesso e attacca il nemico rotolando. È in grado di abbattere una casa con un solo colpo.",
+            "scarlet": "La sua pelle è così dura che anche se sbatte contro una macchina non si fa un graffio. La pioggia è il suo punto debole.",
+            "violet": "Di solito ha un'indole tranquilla, ma se qualcuno lo fa arrabbiare si appallottola e carica rotolando."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "donphan",
     "generation": 2,
     "height": {
-        "donphan": "1.1 m"
+        "donphan": "1,1 m"
     },
     "id": 232,
     "name": "Donphan",
-    "name_origin": "È una combinazione di don  e elephant . Potrebbe inoltre derivare da mastodon . ",
-    "origin": "È chiaramente basato su un elefante, probabilmente sull'Elephas maximus borneensis, più comodamente chiamato elefante del Borneo. L'armatura è ispirata ad un elefante da guerra, ovverosia ad elefanti che venivano addestrati per mano degli uomini e successivamente usati in battaglia. Inoltre, la corazza che ha sul dorso, si ispira ad uno pneumatico. ",
+    "name_origin": "Donphan e Donfan, il suo nome giapponese, potrebbero derivare da Don, onorifico spagnolo simile a \"Signore\", o dal suffisso -don , derivante dalla parola greca ὀδούς odoús, dente) e elephant, elefante. ",
+    "origin": "Donphan sembra essere basato su un elefante adulto, possibilmente su un elefante del Borneo o sull'estinto elefante nano data la sua bassa statura. La sua pelle indurita e la sua categoria, \"Pokémon Armatura\", potrebbero collegarlo ad un elefante da guerra corazzato. I segni sul suo dorso ricordano i solchi presenti sui pneumatici, in particolari quelli delle macchine movimento terra o dei fuoristrada. Questa somiglianza ad uno pneumatico si riconduce anche alla sua capacità di arrotolarsi e attaccare. Il suo tipo Terra potrebbe derivare dal fatto che gli elefanti si facciano bagni nel fango e nella sabbia per regolare la temperatura corporea, o da come gli pneumatici dei fuoristrada siano adatti a terreni fangosi e sabbiosi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Donphan",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Armatura",
     "sprites": {
         "donphan": {
@@ -55,6 +84,6 @@
         ]
     },
     "weight": {
-        "donphan": "120.0 kg"
+        "donphan": "120,0 kg"
     }
 }

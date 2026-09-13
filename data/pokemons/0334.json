@@ -9,10 +9,9 @@
         }
     },
     "curiosities": [
-        "Altaria è l'unico Pokémon di tipo Drago appartenente al gruppo di esperienza Irregolare.",
-        "Altaria e Noivern sono gli unici Pokémon col doppio tipo Drago/Volante che non sono Pokémon leggendari o pseudo-leggendari.",
-        "Altaria, Marill, Steelix e Fletchinder sono gli unici Pokémon di doppio tipo il cui tipo primario è diverso rispetto alla loro forma pre-evoluta.",
-        "Altaria è il Pokémon di tipo Drago più veloce a salire di livello; infatti necessita solo di 600.000 Punti Esperienza per raggiungere il livello 100.",
+        "Altaria e Applin richiedono 600.000 Punti Esperienza per raggiungere il livello 100, il numero minore di tutti i tipi Drago.",
+        "Altaria è l'unico Pokémon di tipo Drago ad evolversi da uno di tipo Normale.\n\tÈ anche l'unico Pokémon la cui preevoluzione e megaevoluzione non condividono tipi.",
+        "È anche l'unico Pokémon la cui preevoluzione e megaevoluzione non condividono tipi.",
         "MegaAltaria ha una combinazione di tipi unica."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/altaria.mp3",
@@ -21,13 +20,13 @@
             "ruby": "ALTARIA danza e volteggia nel cielo tra le nubi soffici come batuffoli di cotone. Cantando con la sua voce cristallina, riesce a mandare in onirica estasi chi lo ascolta.",
             "sapphire": "ALTARIA canta con una sublime voce di soprano. Le sue ali spumeggianti, che sembrano nubi di cotone, gli consentono di sfruttare le correnti ascensionali e di risalire verso l'infinito cielo blu.",
             "emerald": "ALTARIA ha una sublime voce da soprano. Vola alto nel cielo blu in mezzo alle nuvole e lancia bollenti palle di fuoco dalla bocca.",
-            "firered": "Se si ode un'incantevole melodia risuonare tra le montagne, potrebbe essere il canto di ALTARIA.",
-            "leafgreen": "Se si ode un'incantevole melodia risuonare tra le montagne, potrebbe essere il canto di ALTARIA.",
+            "fire-red": "Se si ode un'incantevole melodia risuonare tra le montagne, potrebbe essere il canto di ALTARIA.",
+            "leaf-green": "Se si ode un'incantevole melodia risuonare tra le montagne, potrebbe essere il canto di ALTARIA.",
             "diamond": "Quando lotta, sembra una morbida nuvola. Canticchia con la sua voce da soprano.",
             "pearl": "Quando lotta, sembra una morbida nuvola. Canticchia con la sua voce da soprano.",
             "platinum": "Se lega con una persona, la avvolge nelle sue soffici ali e poi inizia a canticchiare.",
-            "heartgold": "Volteggia elegante nel cielo. Canticchia soavemente, mandando in onirica estasi chi lo ascolta.",
-            "soulsilver": "Volteggia elegante nel cielo. Canticchia soavemente, mandando in onirica estasi chi lo ascolta.",
+            "heart-gold": "Volteggia elegante nel cielo. Canticchia soavemente, mandando in onirica estasi chi lo ascolta.",
+            "soul-silver": "Volteggia elegante nel cielo. Canticchia soavemente, mandando in onirica estasi chi lo ascolta.",
             "black": "Se lega con una persona, la avvolge nelle sue soffici ali e poi inizia a canticchiare.",
             "white": "Se lega con una persona, la avvolge nelle sue soffici ali e poi inizia a canticchiare.",
             "black-2": "Nelle belle giornate, ama confondersi con le poche nuvole in cielo e cantare con una bellissima voce di soprano.",
@@ -41,7 +40,11 @@
             "brilliant-diamond": "Quando vola nel cielo sembra proprio una morbida nuvola. Canticchia con la sua voce da soprano.",
             "shining-pearl": "Quando vola nel cielo sembra proprio una morbida nuvola. Canticchia con la sua voce da soprano.",
             "scarlet": "Quando si affeziona a una persona, la avvolge nelle sue soffici ali e inizia a canticchiare.",
-            "violet": "Nelle belle giornate, ama volare nel cielo confondendosi tra le nuvole. Canta con una bellissima voce da soprano."
+            "violet": "Nelle belle giornate, ama volare nel cielo confondendosi tra le nuvole. Canta con una bellissima voce da soprano.",
+            "legends-za": "Volteggia elegante nel cielo. Canticchia soavemente, mandando in onirica estasi chi lo ascolta."
+        },
+        "megaaltaria": {
+            "legends-za": "Le sue piume dalla sublime morbidezza sono così resistenti che ne bastano poche per tenere sospeso in aria un autocarro."
         }
     },
     "egg_groups": [
@@ -51,15 +54,15 @@
     "flat_name": "altaria",
     "generation": 3,
     "height": {
-        "altaria": "1.1 m",
-        "megaaltaria": "1.5 m"
+        "altaria": "1,1 m",
+        "megaaltaria": "1,5 m"
     },
     "id": 334,
     "name": "Altaria",
-    "name_origin": "Altaria è una combinazione di alto o altus  e aria. Aria in musica si ci riferisce ad una melodia espressiva, un riferimento alle abilità musicali di Altaria. Potrebbe anche essere un riferimento a Altair, la stella più luminosa della costellazione dell'Aquila. ",
-    "origin": "Altaria sembra basato sul Peng, uccelli cinesi leggendari di grandi dimensioni, che si dice siano in grado di viaggiare per 3000 lǐ in un solo battito delle loro ali potenti e simili a nuvole. Vengono spesso disegnati con la testa e baffi di un drago. ",
+    "name_origin": "Altaria potrebbe derivare da alto  e aria, indicante sia l'aria che un componimento canoro per una sola voce. Entrambi i termini possono essere ricollegate alle capacità canore di Altaria. Il nome potrebbe anche derivare da Altair , la stella più luminosa nella costellazione dell'Aquila. Potrebbe anche prendere il nome dal precedente nome della stella Delta Draconis, ovvero \"Altais\". Tyltalis, il suo nome giapponese, potrebbe derivare da Tyltto, Swablu, e alis, \"ali\" in latino. Potrebbe anche essere un riferimento all'opera L'Oiseau Bleu  del commediografo belga Maurice Maeterlinck, ai cui protagonisti, i fratelli Mytyl e Tyltyl, viene chiesto di trovare l'uccellino azzurro della felicità. Potrebbe inoltre includere チル chiru , Tyl, un altro nome per l'Epsilon Draconis, una stella della costellazione del Dragone, e Altais. ",
+    "origin": "Altaria sembra basato sul Peng, uccelli cinesi leggendari di grandi dimensioni, che si dice siano in grado di viaggiare per 3000 lǐ in un solo battito delle loro ali potenti e simili a nuvole. Vengono spesso rappresentati con testa e vibrisse di un pesce. Altaria può anche ricordare una calopsite, con nuvole al posto delle ali, date le guance e la cresta. Questa somiglianza è accentuata dalla forma cromatica di Altaria, simile ad un Lutino cockatiel. I nomi di Altaria nelle varie lingue mostrano possibili collegamenti con un uccello azzurro e con la costellazione del Dragone. Il tipo Drago di Altaria potrebbe derivare dai Feilong, i draghi volanti nella mitologia cinese. Inoltre, nella mitologia cinese, le divinità, i draghi e altre creature mitologiche sono raffigurate cavalcando nuvole. Le nuvole sulla testa di MegaAltaria possono ricordare un colbacco. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Altaria",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Canterino",
     "sprites": {
         "altaria": {
@@ -105,6 +108,6 @@
         ]
     },
     "weight": {
-        "altaria": "20.6 kg"
+        "altaria": "20,6 kg"
     }
 }

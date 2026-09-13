@@ -13,7 +13,7 @@
     },
     "curiosities": [
         "Indeedee condivide la sua categoria con Kirlia e Mesprit. Tutti e tre sono conosciuti come Pokémon Emozione.",
-        "Indeedee è l'unico Pokémon ad avere statistiche e mosse Uovo differenti in base al sesso.",
+        "Indeedee è l'unico Pokémon ad avere mosse Uovo differenti in base al sesso.",
         "Indeedee condivide con Meowstic la caratteristica di avere due forme differenti in base al sesso, aventi mosse apprese e voce Pokédex diverse.\n\tCuriosamente il suo numero di Pokédex Nazionale, 876, è il contrario di 678, il numero di Meowstic.",
         "Curiosamente il suo numero di Pokédex Nazionale, 876, è il contrario di 678, il numero di Meowstic."
     ],
@@ -23,13 +23,15 @@
             "sword": "Le corna sulla testa gli permettono di percepire lo stato d'animo degli altri. Il maschio segue il suo Allenatore ovunque e si prende cura di lui.",
             "shield": "Percepisce lo stato d'animo di chi gli sta intorno grazie alle sue corna. I sentimenti positivi sono la sua fonte di energia.",
             "scarlet": "Con le corna percepisce le emozioni positive degli esseri viventi e le usa come fonte di energia.",
-            "violet": "Resta sempre al fianco del proprio Allenatore. Usa i poteri psichici per prevederne le azioni e per prendersene cura."
+            "violet": "Resta sempre al fianco del proprio Allenatore. Usa i poteri psichici per prevederne le azioni e per prendersene cura.",
+            "legends-za": "Percepisce lo stato d'animo di chi gli sta intorno grazie alle sue corna. I sentimenti positivi sono la sua fonte di energia."
         },
         "femmina": {
             "sword": "Pokémon estremamente intelligente, scambia informazioni avvicinando le corna a quelle dei suoi simili.",
             "shield": "Aiuta spesso persone o Pokémon per ottenere quanta più gratitudine possibile. Le femmine sono eccellenti babysitter.",
             "scarlet": "Detesta i conflitti e, se inizia una lite nel suo territorio, cerca di cacciare i contendenti lanciando oggetti con i suoi poteri psichici.",
-            "violet": "Si prende amorevole cura di persone e Pokémon intorno a sé, alla ricerca di sentimenti positivi come la felicità e la gratitudine."
+            "violet": "Si prende amorevole cura di persone e Pokémon intorno a sé, alla ricerca di sentimenti positivi come la felicità e la gratitudine.",
+            "legends-za": "Pokémon estremamente intelligente, scambia informazioni avvicinando le corna a quelle dei suoi simili."
         }
     },
     "egg_groups": [
@@ -38,23 +40,23 @@
     "flat_name": "indeedee",
     "generation": 8,
     "height": {
-        "indeedee": "0.9 m"
+        "indeedee": "0,9 m"
     },
     "id": 876,
     "name": "Indeedee",
     "name_origin": "Indeedee potrebbe derivare da indeed, certamente. Yessan potrebbe essere una combinazione di yessir, sissignore, e ～さん -san, un titolo onorifico. ",
     "origin": "Indeedee potrebbe essere basato sui Lari, delle divinità domestiche dell'antica religione romana, che si dice proteggano casa in cambio di adorazione ed gratitudine. I Lari vengono spesso raffigurati in coppia e mentre tengono un rhyton, un contenitore a forma di corno che a sua volta raffigura comunemente i satiri, creature per metà capra della mitologia greca. Potrebbe trarre ispirazione anche da un brownie, spiriti domestici del folclore britannico che sono soliti uscire la notte per svolgere lavori domestici e agricoli. La differenza di sesso potrebbe basarsi sulla figura maschile, i maggiordomi, e femminile, le cameriere, di chi svolge lavori casalinghi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Indeedee",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Emozione",
     "sprites": {
-        "indeedee": {
+        "maschio": {
             "default": "https://media.pokemoncentral.it/wiki/0/03/Homem0876.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/5e/Homemsh0876.png"
         },
-        "indeedee-f": {
+        "femmina": {
             "default": "https://media.pokemoncentral.it/wiki/e/e3/Homef0876F.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/1/1a/Homefsh0876F.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5e/Homemsh0876.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/6/6a/Artwork0876_SpSc.png"
     },
@@ -82,11 +84,11 @@
     },
     "types": {
         "indeedee": [
-            "Psico",
-            "Normale"
+            "Normale",
+            "Psico"
         ]
     },
     "weight": {
-        "indeedee": "28.0 kg"
+        "indeedee": "28,0 kg"
     }
 }

@@ -14,21 +14,54 @@
         "Spinarak può essere visto come la controparte di Ledyba. Sono entrambi dei Pokémon di tipo Coleottero introdotti in seconda generazione. Ledyba è esclusivo di Pokémon Argento e di Pokémon Argento SoulSilver mentre Spinarak di Pokémon Oro e Pokémon Oro HeartGold. Nei suddetti giochi, Ledyba è un Pokémon mattutino, mentre Spinarak è un Pokémon notturno. In aggiunta, la loro rarità è invertita, con Ledyba più comune in Pokémon Verde Foglia mentre Spinarak in Pokémon Rosso Fuoco. Entrambi inoltre sono stati aggiunti alla Zona Safari di Pokémon Smeraldo, ed entrambi possono essere ottenuti solo allevando le loro forme evolute in Pokémon Diamante e Perla, Platino, Nero e Bianco. Inoltre, in Pokémon Bianco 2, nel Percorso 22 è possibile trovare la sua evoluzione nelle comparse massicce, mentre in Pokémon Nero 2 l'evoluzione di Spinarak."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/spinarak.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "spinarak": {
+            "gold": "Può rimanere immobile nella tela per giorni, attendendo che s'avvicini un' ignara preda.",
+            "silver": "Tesse la tela con un filo sottile ma forte. Poi attende paziente che una preda ci finisca dentro.",
+            "crystal": "Se una preda rimane irretita nella sua tela, non le si avvicina finché non cala la notte.",
+            "ruby": "La ragnatela tessuta da SPINARAK può essere considerata il suo secondo sistema nervoso. Infatti, pare che questo POKéMON riesca a capire la natura della sua preda dalle leggere vibrazioni di tale ragnatela.",
+            "sapphire": "La ragnatela tessuta da SPINARAK può essere considerata il suo secondo sistema nervoso. Infatti, pare che questo POKéMON riesca a capire la natura della sua preda dalle leggere vibrazioni di tale ragnatela.",
+            "emerald": "La ragnatela tessuta da SPINARAK può essere considerata il suo secondo sistema nervoso poiché dalle sue vibrazioni pare riesca a capire la natura della sua preda.",
+            "fire-red": "Tesse la tela con un filo sottile ma forte. Poi attende paziente che una preda ci finisca dentro.",
+            "leaf-green": "Può rimanere immobile nella tela per giorni, attendendo che s'avvicini un'ignara preda.",
+            "diamond": "Tesse una trappola con un filo di seta, sottile ma robusto. Attende la preda senza muoversi.",
+            "pearl": "Tesse una trappola con un filo di seta, sottile ma robusto. Attende la preda senza muoversi.",
+            "platinum": "Tesse una trappola con un filo di seta, sottile ma robusto. Attende la preda senza muoversi.",
+            "heart-gold": "Può rimanere immobile nella tela per giorni, attendendo che s’avvicini una preda ignara.",
+            "soul-silver": "Tesse la tela con un filo sottile ma resistente. Poi attende paziente che una preda ci finisca dentro.",
+            "black": "Tesse una trappola con un filo di seta, sottile ma robusto. Attende la preda senza muoversi.",
+            "white": "Tesse una trappola con un filo di seta, sottile ma robusto. Attende la preda senza muoversi.",
+            "black-2": "Tesse una trappola con un filo di seta, sottile ma robusto. Attende la preda senza muoversi.",
+            "white-2": "Tesse una trappola con un filo di seta, sottile ma robusto. Attende la preda senza muoversi.",
+            "x": "Tesse la tela con un filo sottile ma resistente. Poi attende paziente che una preda ci finisca dentro.",
+            "y": "Può rimanere immobile nella tela per giorni, attendendo che s'avvicini una preda ignara.",
+            "omega-ruby": "La ragnatela tessuta da Spinarak può essere considerata il suo secondo sistema nervoso. Infatti, pare che questo Pokémon riesca a capire la natura della sua preda dalle leggere vibrazioni di tale ragnatela.",
+            "alpha-sapphire": "La ragnatela tessuta da Spinarak può essere considerata il suo secondo sistema nervoso. Infatti, pare che questo Pokémon riesca a capire la natura della sua preda dalle leggere vibrazioni di tale ragnatela.",
+            "sun": "Aspetta immobile finché le sue prede preferite, i Cutiefly, non cadono nella tela. È un Pokémon molto paziente.",
+            "moon": "Alcuni pescatori usano il suo filo resistente per fabbricare le reti con cui pescano i Pokémon acquatici.",
+            "ultra-sun": "Con il filo che secerne dalla bocca tesse una tela talmente resistente da sostenere il peso di una roccia di 10 kg.",
+            "ultra-moon": "Il veleno delle zanne non è particolarmente potente, ma è sufficiente a indebolire le prede intrappolate nella tela.",
+            "brilliant-diamond": "Tesse una trappola con un filo sottile ma robusto. Attende la preda senza muoversi.",
+            "shining-pearl": "Tesse una trappola con un filo sottile ma robusto. Attende la preda senza muoversi.",
+            "scarlet": "Se una preda rimane irretita nella sua tela, non le si avvicina finché non cala la notte.",
+            "violet": "Alcuni pescatori usano il suo filo resistente per fabbricare le reti con cui pescano i Pokémon acquatici.",
+            "legends-za": "Tesse la tela con un filo sottile ma resistente. Poi attende paziente che una preda ci finisca dentro."
+        }
+    },
     "egg_groups": [
         "Coleottero"
     ],
     "flat_name": "spinarak",
     "generation": 2,
     "height": {
-        "spinarak": "0.5 m"
+        "spinarak": "0,5 m"
     },
     "id": 167,
     "name": "Spinarak",
-    "name_origin": "Il suo nome probabilmente deriva dalle parole spinneret  e arachnid . ",
-    "origin": "Basato su un ragno, di preciso un Theridion grallator. ",
+    "name_origin": "Spinarak potrebbe derivare da spinneret, seritteri, to spin, creare una tela, e arachnid, aracnide. ",
+    "origin": "Spinarak sembra essere basato su un Trichonephila clavata, un ragno di colori simili originario del Giappone. Il pattern sulla schiena ricorda quello del Theridion grallator, detto anche \"Happy Face Spider\" per via delle macchie sul suo addome simili, appunto, ad una faccina sorridente. Potrebbe essere basato anche su altri ragni, come l'Araneus mitificus, che ha macchie che ricordano, invece una faccina triste come ha Spinarak in alcune rappresentazioni, o ai ragni saltatori, che hanno una forma del corpo simile a quella del Pokémon. Il corno sulla testa lo riconduce anche alle tarantole del genere Ceratogyrus, alcune delle quali hanno un corno simile. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Spinarak",
-    "shape": "insettoide",
+    "shape": "None",
     "specie": "Pokémon Tela",
     "sprites": {
         "spinarak": {
@@ -52,11 +85,11 @@
     },
     "types": {
         "spinarak": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {
-        "spinarak": "8.5 kg"
+        "spinarak": "8,5 kg"
     }
 }

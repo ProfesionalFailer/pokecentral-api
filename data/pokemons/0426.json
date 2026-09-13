@@ -7,10 +7,10 @@
         }
     },
     "curiosities": [
-        "Drifblim e la sua pre-evoluzione Drifloon hanno diverse peculiarità:\n\tPrima della settima generazione avevano una combinazione di tipi unica.\n\tSono gli unici Pokémon con crescita fluttuante non introdotti in terza generazione.",
-        "Prima della settima generazione avevano una combinazione di tipi unica.",
-        "Sono gli unici Pokémon con crescita fluttuante non introdotti in terza generazione.",
-        "Drifblim ha la statistica base di PS più alta di tutti i Pokémon di tipo Volante e, assieme a Giratina, anche di quelli di tipo Spettro."
+        "Drifblim e la sua preevoluzione Drifloon sono gli unici Pokémon con crescita fluttuante non introdotti in terza generazione.\n\tSono anche gli unici Pokémon di tipo Spettro e Volante con questa crescita.",
+        "Sono anche gli unici Pokémon di tipo Spettro e Volante con questa crescita.",
+        "Drifblim ha la statistica base di Punti Salute più alta di tutti i Pokémon di tipo Volante e, assieme a Giratina, anche di quelli di tipo Spettro.",
+        "Drifblim è alla pari con Bronzong come Pokémon più usato dai Superquattro, venendo usato da quattro di loro."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/drifblim.mp3",
     "dex_entries": {
@@ -18,8 +18,8 @@
             "diamond": "Di giorno fluttua con aria sonnolenta, ma di notte vola via in gruppo. Nessuno sa dove vada.",
             "pearl": "Vola trascinando persone e Pokémon. Poiché si fa portare dal vento, non si sa dove vada a finire.",
             "platinum": "Al tramonto, gruppi di DRIFBLIM si fanno trascinare dal vento. Se avvistati, scompaiono all'improvviso.",
-            "heartgold": "Può regolare l’altezza dei suoi voli nel cielo grazie alla capacità di produrre gas ed espellerli.",
-            "soulsilver": "Può regolare l’altezza dei suoi voli nel cielo grazie alla capacità di produrre gas ed espellerli.",
+            "heart-gold": "Può regolare l'altezza dei suoi voli nel cielo grazie alla capacità di produrre gas ed espellerli.",
+            "soul-silver": "Può regolare l'altezza dei suoi voli nel cielo grazie alla capacità di produrre gas ed espellerli.",
             "black": "Al tramonto, gruppi di Drifblim si fanno trascinare dal vento. Se avvistati, scompaiono all'improvviso.",
             "white": "Al tramonto, gruppi di Drifblim si fanno trascinare dal vento. Se avvistati, scompaiono all'improvviso.",
             "black-2": "Trasporta Pokémon e persone, ma poiché si fa trascinare dal vento, non si sa mai dove va a finire.",
@@ -37,7 +37,7 @@
             "brilliant-diamond": "Di giorno fluttua con aria sonnolenta, ma di notte vola via in gruppo. Nessuno sa dove vada.",
             "shining-pearl": "Vola portando in giro persone e Pokémon. Siccome si lascia trasportare dal vento, non si sa mai quale sia la sua destinazione.",
             "legends-arceus": "Fluttua silente nell'oscurità del vespro. La sua foggia effimera e malinconica tocca il cuore, ispirando sovente poeti e scrittori.",
-            "scarlet": "Può regolare l’altitudine di volo grazie alla capacità di produrre gas all’interno del proprio corpo e di espellerli.",
+            "scarlet": "Può regolare l'altitudine di volo grazie alla capacità di produrre gas all'interno del proprio corpo e di espellerli.",
             "violet": "Trasporta Pokémon e persone, ma poiché si lascia trascinare dal vento, non sa mai dove andrà a finire."
         }
     },
@@ -47,14 +47,14 @@
     "flat_name": "drifblim",
     "generation": 4,
     "height": {
-        "drifblim": "1.2 m"
+        "drifblim": "1,2 m"
     },
     "id": 426,
     "name": "Drifblim",
-    "name_origin": "Il suo nome deriva da drift, andare alla deriva, e blimp, dirigibile. ",
-    "origin": "Drifblim è basato su una mongolfiera. ",
+    "name_origin": "Il suo nome deriva da drift, andare alla deriva, e blimp, dirigibile. Fuwaride , il suo nome giapponese, potrebbe derivare da ふわふわ fuwa fuwa , 風船 fūsen, palloncino, e ride, andare, guidare, cavalcare. Potrebbe anche essere un gioco di parole con 付和雷同 fuwaraidō, seguire altri ciecamente. ",
+    "origin": "Drifblim è basato su una mongolfiera. La forma gialla sul corpo ricorda una toppa, con la bocca che funge da foro coperto, la forma sulla sua testa ricorda una nuvola e le parti a forma di cuore sugli arti del Pokémon ricordano le funi usate per collegare il cesto delle mongolfiere al loro pallone. Drifblim ricorda anche una cubomedusa, specificamente una Carukia barnesi. Potrebbe anche essere basato su una Space jellyfish , un fenomeno atmosferico causato da lanci di razzi, spesso frainteso come un criptide o UFO. Il concetto di un palloncino spettrale potrebbe derivare da alcune storie Kwaidan, dove i fantasmi sono stati paragonati a palloncini. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Drifblim",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Dirigibile",
     "sprites": {
         "drifblim": {
@@ -83,6 +83,6 @@
         ]
     },
     "weight": {
-        "drifblim": "15.0 kg"
+        "drifblim": "15,0 kg"
     }
 }

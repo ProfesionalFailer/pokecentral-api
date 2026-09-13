@@ -7,10 +7,11 @@
         }
     },
     "curiosities": [
-        "Happiny possiede la statistica base dei PS più alta fra tutti i Pokémon non evoluti appartenenti ad una famiglia evolutiva di tre stadi, superando anche Pokémon molto potenti come Gyarados e Salamence.",
+        "Happiny è l'unico Pokémon che si evolve due volte crescendo di livello in particolari condizioni: prima tenendo uno strumento e poi per affetto.",
+        "Happiny possiede la statistica base di Attacco Speciale più bassa fra tutti i Pokémon di tipo Normale.",
         "Happiny, come Chansey, possiede la più bassa statistica di base per Attacco e Difesa nel gioco.",
-        "Se la Pietraovale è considerata una pietra evolutiva, allora Happiny è l'unico Pokémon che si evolve tenendo una pietra che può evolversi più tardi. È anche l'unico Pokémon che si evolve due volte crescendo di livello in particolari condizioni: prima tenendo uno strumento, e poi evolvendosi per affetto.",
-        "Happiny e la sua famiglia evolutiva possiedono il maggior numero di oggetti ad essi associati, con l'eccezione di Arceus. Questi comprendono Fortunuovo, Fortunpugno e Fortunaroma."
+        "Happiny è stata disegnata da Emi Yoshida.",
+        "Tutte le mosse che Happiny impara per livello in Leggende Pokémon: Arceus sono mosse che non poteva apprendere legittimamente in precedenza. Condivide questo tratto con Burmy."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/happiny.mp3",
     "dex_entries": {
@@ -18,8 +19,8 @@
             "diamond": "Ama gli oggetti bianchi e tondi. Imita CHANSEY trasportando una roccia a forma di uovo.",
             "pearl": "Trasporta una roccia a forma di uovo nella sua tasca ventrale e poi la offre ai suoi amici.",
             "platinum": "Gli piace trasportare una piccola roccia. A volte cammina tra i piedi degli altri, facendoli inciampare.",
-            "heartgold": "Pokémon a forma di ricciolo, che trasporta con cura un sasso bianco e tondo trattandolo come un uovo.",
-            "soulsilver": "Pokémon a forma di ricciolo, che trasporta con cura un sasso bianco e tondo trattandolo come un uovo.",
+            "heart-gold": "Pokémon a forma di ricciolo, che trasporta con cura un sasso bianco e tondo trattandolo come un uovo.",
+            "soul-silver": "Pokémon a forma di ricciolo, che trasporta con cura un sasso bianco e tondo trattandolo come un uovo.",
             "black": "Gli piace trasportare una piccola roccia. A volte cammina tra i piedi degli altri, facendoli inciampare.",
             "white": "Gli piace trasportare una piccola roccia. A volte cammina tra i piedi degli altri, facendoli inciampare.",
             "black-2": "Gli piace trasportare una piccola roccia. A volte cammina tra i piedi degli altri, facendoli inciampare.",
@@ -39,7 +40,8 @@
             "legends-arceus": "Emula Chansey accudendo un rotondo sasso che serba nella tasca ventrale. Ama la compagnia dei fanciulli e con essi inscena giuochi a tema famigliare.",
             "scarlet": "Trasporta nella tasca ventrale una roccia a forma di uovo, che a volte regala ai suoi amici.",
             "violet": "Trasporta con cura un sasso bianco e tondo trattandolo come un uovo. Adora il ricciolo che ha in testa."
-        }
+        },
+        "": {}
     },
     "egg_groups": [
         "Sconosciuto"
@@ -47,14 +49,14 @@
     "flat_name": "happiny",
     "generation": 4,
     "height": {
-        "happiny": "0.6 m"
+        "happiny": "0,6 m"
     },
     "id": 440,
     "name": "Happiny",
-    "name_origin": "Deriva dalle parole happiness, felicità, e tiny, piccolo. ",
-    "origin": "Potrebbe basarsi su un neonato. ",
+    "name_origin": "Happiny potrebbe derivare da happiness, felicità, e tiny, piccolo, o teeny, piccolino. Potrebbe anche includere happenstance, casualità. Pinpuku, il suo nome giapponese, potrebbe derivare da ピンク pinku, pink, rosa, e 福 fuku, buona sorte. ",
+    "origin": "Happiny condivide delle caratteristiche con infanti, come la pelle morbida, i capelli arricciati e la tasca simile ad un pannolino. Ricorda anche una tazza per uova. Il modo in cui imita la sua evoluzione e si comporta da infermiera è simile a come i bambini giocano con le bambole. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Happiny",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Ovettino",
     "sprites": {
         "happiny": {
@@ -82,6 +84,6 @@
         ]
     },
     "weight": {
-        "happiny": "24.4 kg"
+        "happiny": "24,4 kg"
     }
 }

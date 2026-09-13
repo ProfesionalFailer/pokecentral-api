@@ -32,14 +32,14 @@
     "flat_name": "seismitoad",
     "generation": 5,
     "height": {
-        "seismitoad": "1.5 m"
+        "seismitoad": "1,5 m"
     },
     "id": 537,
     "name": "Seismitoad",
     "name_origin": "Il nome deriva probabilmente dalle parole inglesi seismic  e toad . ",
     "origin": "Probabilmente si ispira ad un rospo e ad un altoparlante. I rigonfiamenti sulla testa assomigliano ai campanelli della classica sveglia tradizionale. Le sfere sul suo corpo invece hanno un'aspetto simile alle verruche delle rane, o alle loro ghiandole velenose, oppure potrebbero essere basate sulla rana del Surinam, che sul dorso ha delle sacche per contenere le uova e che inoltre, come Palpitoad, produce vibrazioni subacquee. Potrebbe anche ispirarsi alla rana golia, per le sue dimensioni e la corporatura massiccia. Appunto la sua corporatura muscolosa e la sua abilità di lottatore, possono essere una metafora della potenza sonora : le vibrazioni sonore ad alta frequenza possono arrivare a danneggiare o deformare oggetti. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Seismitoad",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Vibrazione",
     "sprites": {
         "seismitoad": {
@@ -63,11 +63,11 @@
     },
     "types": {
         "seismitoad": [
-            "Terra",
-            "Acqua"
+            "Acqua",
+            "Terra"
         ]
     },
     "weight": {
-        "seismitoad": "62.0 kg"
+        "seismitoad": "62,0 kg"
     }
 }

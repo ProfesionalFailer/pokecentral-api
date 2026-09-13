@@ -18,24 +18,54 @@
         "Zigzagoon ha lo stesso numero nel Pokédex di Hoenn e nel Pokédex di Kalos Centrale.",
         "Secondo un'intervista a Ken Sugimori, il nome di Zigzagoon è stato concepito prima che fosse creato il suo design.",
         "Sul sito ufficiale Pokémon, viene affermato che lo Zigzagoon di Galar rappresenta il ramo più antico della specie.",
+        "Zigzagoon e la sua evoluzione Linoone sono gli unici Pokémon di terza generazione ad avere una forma regionale.",
         "Lo Zigzagoon di Galar e la sua forma cromatica sono stati disegnati da James Turner."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/zigzagoon.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "zigzagoon": {
+            "ruby": "ZIGZAGOON scorrazza a destra e a manca senza sosta, a causa della sua indole molto curiosa. Qualunque cosa veda riesce ad attirare la sua attenzione.",
+            "sapphire": "La schiena di ZIGZAGOON è caratterizzata da una folta pelliccia rizzata. Per delimitare il suo territorio strofina il suo pelo irsuto contro i tronchi degli alberi. Per confondere i nemici, in lotta si finge morto.",
+            "emerald": "ZIGZAGOON si muove di continuo a destra e a manca strofinando il muso sul terreno alla ricerca di qualcosa. Si distingue per le tracce a zig zag che lascia.",
+            "fire-red": "L'estrema curiosità lo porta a spostarsi di continuo in ogni direzione.",
+            "leaf-green": "L'estrema curiosità lo porta a spostarsi di continuo in ogni direzione.",
+            "diamond": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "pearl": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "platinum": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "heart-gold": "Va zigzagando a destra e a manca, attirato da questo e quello. La sua specialità è trovare le cose.",
+            "soul-silver": "Va zigzagando a destra e a manca, attirato da questo e quello. La sua specialità è trovare le cose.",
+            "black": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "white": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "black-2": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "white-2": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "x": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "y": "L'estrema curiosità lo porta a spostarsi di continuo in ogni direzione.",
+            "omega-ruby": "Zigzagoon scorrazza a destra e manca senza sosta, a causa della sua indole molto curiosa. Qualunque cosa veda riesce ad attirare la sua attenzione.",
+            "alpha-sapphire": "La schiena di Zigzagoon è caratterizzata da una folta pelliccia rizzata. Per delimitare il suo territorio strofina il suo pelo irsuto contro i tronchi degli alberi. Per confondere i nemici, in lotta si finge morto.",
+            "sword": "Strofina la sua pelliccia ispida contro i tronchi degli alberi per delimitare il suo territorio. Ha un carattere più pacifico dello Zigzagoon di Galar.",
+            "shield": "Lo Zigzagoon di Galar ha assunto questo aspetto negli altri territori in cui si è diffuso. Ritrovare gli oggetti smarriti è la sua specialità.",
+            "brilliant-diamond": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno.",
+            "shining-pearl": "Avanza a zigzag. È bravo a trovare strumenti nell'erba e sul terreno."
+        },
+        "forma-di-galar": {
+            "sword": "Corre qua e là senza sosta. Quando trova un altro Pokémon, gli va addosso di proposito per attaccare briga.",
+            "shield": "Pare che questa sia la forma originaria di Zigzagoon. Si muove a zig zag mettendo a soqquadro tutto ciò che lo circonda."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "zigzagoon",
     "generation": 3,
     "height": {
-        "zigzagoon": "0.4 m"
+        "zigzagoon": "0,4 m"
     },
     "id": 263,
     "name": "Zigzagoon",
-    "name_origin": "Il nome deriva dall'unione di zig-zag con il nome inglese raccoon . ",
-    "origin": "Ha delle somiglianze con i procioni. Zigzagoon di Galar potrebbe assomigliare a Paul Stanley dal gruppo musicale \"Kiss\". ",
+    "name_origin": "Zigzagoon potrebbe derivare da zigzag e raccoon, procione. Jiguzaguma, il suo nome giapponese, potrebbe derivare da zigzag e アライグマ araiguma, procione, o 穴熊 anaguma, tasso. Guma  è un suffisso usato nei nomi di animali somiglianti ad orsi. ",
+    "origin": "Il nome inglese e giapponese di Zigzagoon, il nome della sua specie e il pattern della pelliccia lo riconducono ad un procione , mentre la forma del suo corpo e il colorito marrone sono ispirate dal tasso giapponese. Sembra inoltre prendere ispirazione dal cane procione giapponese, detto anche tanuki. A seconda della regione, in giapponese il termine \"tanuki\" può riferirsi sia ad un procione che ad un cane procione. Questo potrebbe essere il motivo per cui il Pokémon prende tratti di entrambe le specie. Nel folklore giapponese, i tanuki sono creature conosciute per usare le proprie pance come tamburi, in modo simile a come Zigzagoon e Linoone possano imparare Panciamburo. La forma del corpo di Zigzagoon sembra derivare da piccole razze canine come il pechinese e l'Irish Soft Coated Wheaten Terrier. La colorazione di Zigzagoon di Galar prende ispirazione da quella del tasso, che mostra colori bianco e neri al contrario della controparte giapponese. Tenendo in considerazione la sua evoluzione finale Obstagoon, è possibile che questi colori, la lingua appuntita e le stelle intorno agli occhi derivino da band glam rock. La linea evolutiva di Zigzagoon ha un tema basato sul movimento: Zigzagoon si muove a zig-zag, Linoone in linea retta, e Obstagoon blocca il passaggio. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Zigzagoon",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Procione",
     "sprites": {
         "zigzagoon": {
@@ -71,6 +101,6 @@
         ]
     },
     "weight": {
-        "zigzagoon": "17.5 kg"
+        "zigzagoon": "17,5 kg"
     }
 }

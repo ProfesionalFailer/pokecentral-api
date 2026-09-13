@@ -10,13 +10,47 @@
         }
     },
     "curiosities": [
-        "L'impronta di Mawile è diversa tra i giochi di terza generazione e quelli di quarta generazione.",
+        "L'impronta di Mawile è cambiata tra i giochi di terza generazione  e quelli di quarta generazione .",
         "Nella versione 1.0 di Pokémon Rubino in inglese, la voce del Pokédex di Mawile scrive erroneamente il suo nome due volte come MAWHILE. Questo errore di battitura è stato corretto nella versione 1.1.",
         "Dato che la schiena di Mawile è rivolta verso l'avversario nelle lotte, nei Pokémon Musical usa il suo sprite posteriore.",
-        "Mawile sembra essere la controparte di Sableye. Entrambi sono Pokémon esclusivi in base alla versione in Pokémon Rubino e Zaffiro, Oro HeartGold e Argento SoulSilver, Rubino Omega e Zaffiro Alpha, Spada e Scudo e Diamante Lucente e Perla Splendente. Entrambi hanno inoltre forme megaevolute e le stesse statistiche base totali, oltre agli stessi PS e la stessa Velocità."
+        "Mawile sembra essere la controparte di Sableye. Entrambi sono Pokémon esclusivi in base alla versione in Pokémon Rubino e Zaffiro, Oro HeartGold e Argento SoulSilver, Rubino Omega e Zaffiro Alpha, Spada e Scudo e Diamante Lucente e Perla Splendente. Entrambi hanno inoltre forme megaevolute e le stesse statistiche base totali, oltre agli stessi Punti Salute e la stessa Velocità.",
+        "Al momento della sua introduzione, Mawile era il primo Pokémon di tipo Acciaio puro."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mawile.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "mawile": {
+            "ruby": "Le enormi mascelle di MAWILE sono in realtà corna d'acciaio trasformate. Il volto dallo sguardo tanto mansueto serve a indurre i nemici ad abbassare la guardia. Infatti MAWILE attacca quando l'avversario meno se l'aspetta.",
+            "sapphire": "Non bisogna mai farsi ingannare dallo sguardo mansueto di MAWILE, che è invece estremamente pericoloso. Tenta così di far abbassare la guardia al nemico per attaccare con le possenti mascelle formate da corna trasformate.",
+            "emerald": "Le enormi mascelle di MAWILE sono in realtà corna d'acciaio trasformate. Inganna il nemico con il suo modo di fare mansueto e poi lo azzanna con le possenti mascelle.",
+            "fire-red": "Intenerisce i nemici con la sua faccia innocente, per poi morderli con le forti e instancabili mascelle.",
+            "leaf-green": "Intenerisce i nemici con la sua faccia innocente, per poi morderli con le forti e instancabili mascelle.",
+            "diamond": "Le sue due enormi mandibole sono corna trasformate. Con esse può masticare persino travi di ferro.",
+            "pearl": "Le sue due enormi mandibole sono corna trasformate. Con esse può masticare persino travi di ferro.",
+            "platinum": "Le sue due enormi mandibole sono corna trasformate. Con esse può masticare persino travi di ferro.",
+            "heart-gold": "Le enormi mascelle con cui MAWILE morde il nemico, sono in realtà corna d'acciaio trasformate.",
+            "soul-silver": "Le enormi mascelle con cui MAWILE morde il nemico, sono in realtà corna d'acciaio trasformate.",
+            "black": "Le sue due enormi mandibole sono corna trasformate. Con esse può masticare persino travi di ferro.",
+            "white": "Le sue due enormi mandibole sono corna trasformate. Con esse può masticare persino travi di ferro.",
+            "black-2": "Le sue due enormi mandibole sono corna trasformate. Con esse può masticare persino travi di ferro.",
+            "white-2": "Le sue due enormi mandibole sono corna trasformate. Con esse può masticare persino travi di ferro.",
+            "x": "Intenerisce i nemici con la sua faccia innocente, per poi morderli con le forti e instancabili mascelle.",
+            "y": "Le sue due enormi mandibole sono corna trasformate.Con esse può masticare persino travi di ferro.",
+            "omega-ruby": "Le enormi mascelle di Mawile sono in realtà corna d'acciaio trasformate. Il volto dallo sguardo tanto mansueto serve a indurre i nemici ad abbassare la guardia. Infatti Mawile attacca quando l'avversario meno se l'aspetta.",
+            "alpha-sapphire": "Non bisogna mai farsi ingannare dallo sguardo mansueto di Mawile, che è invece estremamente pericoloso. Tenta così di far abbassare la guardia al nemico per attaccare con le possenti mascelle formate da corna trasformate.",
+            "ultra-sun": "Scaltro e pericoloso, induce il nemico ad abbassare la guardia con atteggiamenti graziosi e lo divora in un colpo con le possenti mascelle.",
+            "ultra-moon": "Ha due bocche. Quella dietro la nuca, dotata di possenti mascelle, non percepisce i sapori e viene usata per mangiare i cibi meno graditi.",
+            "sword": "Distrae i nemici con la sua faccia innocente, per poi azzannarli con le sue possenti mascelle. Non molla la presa a nessun costo.",
+            "shield": "Le sue corna d'acciaio si sono trasformate in enormi mascelle, con cui morde i nemici.",
+            "brilliant-diamond": "Le enormi mascelle congiunte alla sua testa sono in realtà corna che hanno cambiato forma. Con esse può masticare persino travi di ferro.",
+            "shining-pearl": "Le enormi mascelle congiunte alla sua testa sono in realtà corna che hanno cambiato forma. Con esse può masticare persino travi di ferro.",
+            "legends-za": "Le enormi mascelle congiunte alla sua testa sono in realtà corna che hanno cambiato forma. Con esse può masticare persino travi di ferro."
+        },
+        "megamawile": {
+            "ultra-sun": "Dando prova di un carattere estremamente aggressivo, afferra la preda con le sue mascelle e con una potenza brutale la fa a pezzi.",
+            "ultra-moon": "Le due bocche si agitano furiosamente come se avessero volontà propria. Possono sbriciolare una roccia con un solo morso.",
+            "legends-za": "Le due bocche si agitano furiosamente come se avessero volontà propria. Possono sbriciolare una roccia con un solo morso."
+        }
+    },
     "egg_groups": [
         "Campo",
         "Magico"
@@ -24,15 +58,15 @@
     "flat_name": "mawile",
     "generation": 3,
     "height": {
-        "mawile": "0.60 m",
-        "megamawile": "1.0 m"
+        "mawile": "0,60 m",
+        "megamawile": "1,0 m"
     },
     "id": 303,
     "name": "Mawile",
-    "name_origin": "Il nome Mawile è una combinazione di maw, la bocca di un animale feroce, e wile, uno stratagemma o trucco volto ad ingannare o adescare. Kucheat è una combinazione di 口 kuchi, bocca, e l'inglese cheat o eat. ",
-    "origin": "Potrebbe esserci una connessione con la leggenda giapponese della futakuchi-onna, una donna con una bocca sul retro della testa. ",
+    "name_origin": "Mawile potrebbe derivare da maw, la bocca di un animale feroce, e wile, uno stratagemma o trucco volto ad ingannare o adescare, o smile, sorriso. Kucheat, il suo nome giapponese, potrebbe essere una combinazione di 口 kuchi, bocca, e cheat, barare, tradire, o eat, mangiare. ",
+    "origin": "Mawile sembra prendere ispirazione dalla leggenda giapponese della futakuchi-onna, una donna con una bocca sul retro della testa. Potrebbe anche prendere ispirazione dall'ouni, uno Yōkai con la bocca deformata e corpo coperto di peluria. La bocca sul retro della testa può ricordare una tagliola, che spiegherebbe il suo inaspettato tipo Acciaio, che si allinea anche con il nome della specie. Può anche derivare dalla metafora \"silk hiding steel\" , indicando una persona che a primo impatto sembra innocua ma che usa queste aspettative per nascondere un lato violento. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Mawile",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Inganno",
     "sprites": {
         "mawile": {
@@ -74,7 +108,7 @@
         ]
     },
     "weight": {
-        "mawile": "11.5 kg",
-        "megamawile": "23.5 kg"
+        "mawile": "11,5 kg",
+        "megamawile": "23,5 kg"
     }
 }

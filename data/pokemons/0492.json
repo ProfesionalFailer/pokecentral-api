@@ -24,8 +24,8 @@
             "diamond": "Vive nei campi di fiori e cerca di non farsi vedere arrotolandosi per sembrare una pianta fiorita.",
             "pearl": "Può dissolvere le tossine nell'aria per mutare all'istante una terra arida in un rigoglioso campo fiorito.",
             "platinum": "I fiori che lo ricoprono sbocciano se viene abbracciato con affetto e si sente apprezzato.",
-            "heartgold": "Si narra che SHAYMIN si alzi in volo per esprimere commossa gratitudine per la fioritura delle gracidee.",
-            "soulsilver": "Si narra che SHAYMIN si alzi in volo per esprimere commossa gratitudine per la fioritura delle gracidee.",
+            "heart-gold": "Si narra che SHAYMIN si alzi in volo per esprimere commossa gratitudine per la fioritura delle gracidee.",
+            "soul-silver": "Si narra che SHAYMIN si alzi in volo per esprimere commossa gratitudine per la fioritura delle gracidee.",
             "black": "I fiori che lo ricoprono sbocciano se viene abbracciato con affetto e si sente apprezzato.",
             "white": "I fiori che lo ricoprono sbocciano se viene abbracciato con affetto e si sente apprezzato.",
             "black-2": "I fiori che lo ricoprono sbocciano se viene abbracciato con affetto e si sente apprezzato.",
@@ -50,15 +50,15 @@
     "flat_name": "shaymin",
     "generation": 4,
     "height": {
-        "forma-terra": "0.2 m",
-        "forma-cielo": "0.4 m"
+        "forma-terra": "0,2 m",
+        "forma-cielo": "0,4 m"
     },
     "id": 492,
     "name": "Shaymin",
-    "name_origin": "Il suo nome probabilmente deriva dall'unione della parola giapponesi 謝 sha, gratitudine, o dalla parola inglese shaman, sciamano, o stamen, stame, con la parola 蝟 harinezumi, riccio. Inoltre deriva da Shamayim, il primo paradiso della religione ebraica. ",
-    "origin": "Shaymin potrebbe essere ispirato ad un riccio ed un cespuglio di fiori nella forma Terra, mentre la forma Cielo potrebbe essere ispirata ad un terrier o ad una renna. Si basa probabilmente sul concetto di paradiso terrestre. Potrebbe inoltre essere ispirato all'animale giapponese Costasiella Kuroshimae, conosciuto informalmente come \"lumaca di foglia\". ",
+    "name_origin": "Shaymin deriva da 謝謝 xièxie, \"grazie\" in cinese. Potrebbe anche derivare da 蝟 harinezumi, riccio, e םשמי Shamayim, \"paradiso\" in ebraico, ricollegandosi alla forma Cielo. ",
+    "origin": "La forma Terra di Shaymin potrebbe essere ispirata ad un riccio. Il suo corpo simile ad un cespuglio ricorda un Chia Pet, ma in generale ricorda un prato con fiori. Quando la forma Terra fiorisce, come visto in Giratina e il Guerriero dei Cieli, il Pokémon ricorda un bouquet di fiori, tipicamente scambiati durante festività, enfatizzando il suo ruolo come Pokémon Gratitudine. Il fiore sul suo corpo ricorda una Gracidea e potrebbe essere basato su una Hydrangea, nello specifico un'ortensia. Come anche il collare della forma Cielo, ricorda una poinsettia. La forma Cielo ha aspetti, come i palchi, che ricordano una rennaQuesti, combinati con l'abilità di volare, lo possono ricollegare alle renne di Babbo Natale. Il suo comportamento vivace, affinità per i fiori e l'abilità di volare possono ricondurlo ad un angelo o una fata. Date le sue abilità curative, potrebbe anche essere basato su un angelo custode. Dato l'aspetto del fiore intorno al collo simile ad un fazzolettone, la similitudine della parte verde delle zampe a guanti e stivali, abilità di volare e comportamento più deciso visto nella serie animata, è possibile prenda ispirazione anche da supereroi, soprattutto al genere sentai giapponese. La sua abilità di convertire gas tossici in aria pulita potrebbe derivare da pratiche ambientaliste per purificare l'aria e rendere gli ecosistemi più abitabili. Potrebbe anche derivare dalla capacità delle piante di filtrare l'anidride carbonica, non respirabile, in ossigeno, o come alcuni organismi facciano decomporre materiali organici per immettere nutrienti nel suolo e favorire la crescita di piante. Il suo potere di far fiorire interi prati e abilità di volare lo possono collegare anche a pollini, spore e semi anemocori. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Shaymin",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Gratitudine",
     "sprites": {
         "forma-terra": {
@@ -103,7 +103,7 @@
         ]
     },
     "weight": {
-        "forma-terra": "2.1 kg",
-        "forma-cielo": "5.2 kg"
+        "forma-terra": "2,1 kg",
+        "forma-cielo": "5,2 kg"
     }
 }

@@ -14,7 +14,38 @@
         "Pidove per la statistica base di Difesa Speciale più bassa di tutti i Pokémon di tipo Volante."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/wingull.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "wingull": {
+            "ruby": "WINGULL ha l'abitudine di trasportare prede e oggetti preziosi nel becco per poi nasconderli dappertutto. Questo POKéMON vola a cavallo dei venti planando in cielo.",
+            "sapphire": "WINGULL segue le correnti ascensionali presenti sul mare allargando le sue ali lunghe e strette per planare. Il lungo becco del POKéMON è utile per catturare la preda.",
+            "emerald": "WINGULL nidifica su scogliere a picco sul mare. Poiché non riesce a sbattere le ali molto a lungo, si fa trasportare dalle correnti ascensionali sul mare.",
+            "fire-red": "Vola sulle onde dell'oceano come un deltaplano. D'inverno, nasconde cibo vicino al nido.",
+            "leaf-green": "Vola sulle onde dell'oceano come un deltaplano. D'inverno, nasconde cibo vicino al nido.",
+            "diamond": "Nidifica su scogliere a picco sul mare. Si fa trasportare ad alta quota dalle correnti ascensionali.",
+            "pearl": "Segue i venti marini con le sue lunghe ali e si libra in volo come un aliante. Si riposa piegando le ali.",
+            "platinum": "Si fa trasportare ad alta quota dalle correnti ascensionali. Trasporta il cibo nel becco.",
+            "heart-gold": "Volteggia nel cielo ad ali ferme, grazie alle correnti ascensionali. Fa il nido lungo la costa.",
+            "soul-silver": "Volteggia nel cielo ad ali ferme, grazie alle correnti ascensionali. Fa il nido lungo la costa.",
+            "black": "Si fa trasportare ad alta quota dalle correnti ascensionali. Trasporta il cibo nel becco.",
+            "white": "Si fa trasportare ad alta quota dalle correnti ascensionali. Trasporta il cibo nel becco.",
+            "black-2": "Costruisce il nido a ridosso dei precipizi. Sfrutta la brezza marina per levarsi alto in cielo.",
+            "white-2": "Costruisce il nido a ridosso dei precipizi. Sfrutta la brezza marina per levarsi alto in cielo.",
+            "x": "Segue i venti marini con le lunghe ali e libra in volo come un aliante. Si riposa piegando le ali.",
+            "y": "Nidifica su scogliere a picco sul mare. Si fa trasportare ad alta quota dalle correnti ascensionali.",
+            "omega-ruby": "Wingull ha l'abitudine di trasportare prede e oggetti preziosi nel becco per poi nasconderli dappertutto. Questo Pokémon vola a cavallo dei venti planando in cielo.",
+            "alpha-sapphire": "Wingull segue le correnti ascensionali presenti sul mare allargando le sue ali lunghe e strette per planare. Il lungo becco del pokemon è utile per catturare la preda.",
+            "sun": "Volteggia lieve nel cielo sfruttando le correnti grazie alle ossa leggere e alle grandi ali.",
+            "moon": "I pescatori li tengono d'occhi per via della loro abitudine di volare sui tratti di mare dove si radunano i Pokémon acquatici.",
+            "ultra-sun": "Grazie alle ali lunghe e strette, vola in alto lasciandosi trasportare dalle correnti ascensionali come un aliante.",
+            "ultra-moon": "Fa il nido sulle rocce a picco lungo la costa. Vola sul mare in cerca delle sue prede preferite, i Wishiwashi.",
+            "sword": "Costruisce il nido a ridosso dei precipizi. Sfrutta la brezza marina per levarsi alto in cielo.",
+            "shield": "Sfrutta le correnti ascensionali per volteggiare nel cielo senza sbattere le ali. Fa il nido nelle scogliere lungo la costa.",
+            "brilliant-diamond": "Nidifica su scogliere a picco sul mare. Si fa trasportare ad alta quota dalle correnti ascensionali.",
+            "shining-pearl": "Usa le sue lunghe ali per farsi sostenere dai venti marini, librandosi in volo come un aliante. Quando riposa, le ripiega.",
+            "scarlet": "Si lascia trasportare ad alta quota dalle correnti ascensionali, librandosi nel cielo come un aliante e trasportando il cibo nel becco.",
+            "violet": "Vola scivolando sulla brezza marina come un aliante. D’inverno, nasconde il cibo attorno al nido."
+        }
+    },
     "egg_groups": [
         "Acqua 1",
         "Volante"
@@ -22,14 +53,14 @@
     "flat_name": "wingull",
     "generation": 3,
     "height": {
-        "wingull": "0.60 m"
+        "wingull": "0,60 m"
     },
     "id": 278,
     "name": "Wingull",
-    "name_origin": "\"Wingull\" è molto probabilmente l'unione delle parole inglesi wing, ala, e gull, gabbiano. \"Camome\" deriva molto probabilmente da 鴎 kamome, gabbiano. ",
-    "origin": "Wingull è basato su un gabbiano. Le sue ali strette lo fanno assomigliare alle sagome semplificate a forma di V degli uccelli in volo raffigurate in alcuni disegni e dipinti. Le sue ali potrebbero anche essere un riferimento alla formazione a V utilizzata dagli uccelli migratori. La lunghezza delle sue ali e il suo modo di fluttuare sulle correnti d'aria ricordano gli albatri. I due ciuffi sopra la testa di Wingull ricordano orecchie di gatto, che potrebbero essere un riferimento al gabbiano codanera, conosciuto in giapponese come 海猫 umineko, letteralmente \"gatto di mare\", così chiamato per il verso del gabbiano che ricorda quello di un gatto. ",
+    "name_origin": "Wingull è molto probabilmente l'unione delle parole inglesi wing, ala, e gull, gabbiano. Camome, il suo nome giapponese, deriva molto probabilmente da 鴎 kamome, gabbiano. ",
+    "origin": "Wingull sembra essere basato su un gabbiano. Le sue ali strette lo fanno assomigliare alle sagome semplificate a forma di V degli uccelli in volo raffigurate in alcuni disegni e dipinti. Le sue ali potrebbero anche essere un riferimento alla formazione a V utilizzata dagli uccelli migratori. La lunghezza delle sue ali e il suo modo di fluttuare sulle correnti d'aria ricordano gli albatri. I due ciuffi sopra la testa di Wingull ricordano orecchie di gatto, che potrebbero essere un riferimento al gabbiano codanera, conosciuto in giapponese come 海猫 umineko, letteralmente \"gatto di mare\", così chiamato per il verso del gabbiano che ricorda quello di un gatto. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Wingull",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Gabbiano",
     "sprites": {
         "wingull": {
@@ -58,6 +89,6 @@
         ]
     },
     "weight": {
-        "wingull": "9.5 kg"
+        "wingull": "9,5 kg"
     }
 }

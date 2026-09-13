@@ -25,7 +25,8 @@
             "shield": "Una favola di Galar narra di un Sylveon di rara bellezza che sconfisse uno spaventoso Pokémon di tipo Drago.",
             "legends-arceus": "L'organo a foggia di fiocco emette radiazioni che placano la collera. Lo avviluppa attorno agli irati, quietando tosto gli animi.",
             "scarlet": "Le antenne simili a fiocchetti emettono onde calmanti che placano l’ostilità dei nemici.",
-            "violet": "Malgrado il suo aspetto elegante mentre danza leggiadro facendo fluttuare le antenne, quando attacca va dritto ai punti deboli degli avversari."
+            "violet": "Malgrado il suo aspetto elegante mentre danza leggiadro facendo fluttuare le antenne, quando attacca va dritto ai punti deboli degli avversari.",
+            "legends-za": "Cammina fianco a fianco con il suo amato Allenatore cingendogli il braccio con le antenne a forma di fiocchetto."
         }
     },
     "egg_groups": [
@@ -34,14 +35,14 @@
     "flat_name": "sylveon",
     "generation": 6,
     "height": {
-        "sylveon": "1.0 m"
+        "sylveon": "1,0 m"
     },
     "id": 700,
     "name": "Sylveon",
     "name_origin": "Sylveon può essere una combinazione di sylph, una creatura mitologica descritta come essere invisibile dell'aria, o sylvan , una parola riferita ad una associazione con boschi o foreste  e eon . Eon è un suffisso di tutte le evoluzioni di Eevee. Eon era anche il nome provvisorio inglese di Eevee. ",
     "origin": "Al contrario delle altre Eeveeluzioni, le orecchie di Sylveon sono grandi e arrotondate, simili a quelle di un coniglio. Considerando anche che secondo la mitologia le fate sono particolarmente attive in presenza di luna piena, si potrebbe pensare che Sylveon sia basato sul Coniglio lunare. Infatti questo viene spesso raffigurato come un compagno della dea della luna cinese Chang'e, che è spesso raffigurata con indosso una tunica adornata in molti nastri. Inoltre, la coda di Sylveon assomiglia alla coda del Viscaccia. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Sylveon",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Legame",
     "sprites": {
         "sylveon": {
@@ -69,6 +70,6 @@
         ]
     },
     "weight": {
-        "sylveon": "23.5 kg"
+        "sylveon": "23,5 kg"
     }
 }

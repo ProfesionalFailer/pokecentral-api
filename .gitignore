@@ -1,7 +1,8 @@
 .git
 .vscode
 node_modules
+package-lock.json
 pokecentral/__pycache__
-test.py
-private/*
-new_mons.py
+venv
+private
+*.py

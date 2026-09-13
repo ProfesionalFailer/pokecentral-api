@@ -6,12 +6,11 @@
         }
     },
     "curiosities": [
-        "Palkia potrebbe rappresentare lo stato di aggregazione liquido.",
-        "Palkia, come Blastoise, Venusaur, Ho-Oh, Dialga, Xerneas, Yveltal, Solgaleo e Lunala condivide l'iniziale del nome col gioco di cui fa la mascotte.",
-        "Anche se Palkia non ha sesso nei videogiochi principali, è maschio nella serie Mystery Dungeon.",
-        "Palkia è l'unico Pokémon nel gruppo QI J.",
-        "In Mystery Dungeon, i dialoghi di Palkia, insieme a quelli di Dialga Oscuro, dei golem leggendari, della famiglia di Magnemite e di Regigigas, sono scritti tutti in maiuscolo.",
-        "Nei giochi di settima generazione Palkia impara Idrondata due volte: al livello 24 e di nuovo al 42."
+        "Palkia Forma Origine è il Pokémon di tipo Acqua più pesante.",
+        "Nonostante sia di sesso sconosciuto, in Pokémon Mystery Dungeon: Esploratori del Tempo ed Esploratori dell'Oscurità viene menzionato come maschio. Fuori dal dialogo è comunque trattato come di sesso sconosciuto.",
+        "Dialga è l'unico Pokémon leggendario ad avere un ruolo in quattro film diversi.",
+        "Dialga e Palkia sono gli unici Pokémon possibili da catturare in ogni tipo di Poké Ball  in quanto sono gli unici Pokémon catturabili con la Origin Ball.",
+        "Palkia è l'unico Pokémon che permette a Arceus con Lastraleggenda di diventare di tipo Drago quando usa Giudizio, dato che la combinazione di tipi di Palkia è l'unica che possa permettere questo tipo ed è l'unico Pokémon con questa combinazione in Leggende Pokémon: Arceus."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/palkia.mp3",
     "dex_entries": {
@@ -19,8 +18,8 @@
             "diamond": "Ha l'abilità di distorcere lo spazio. Nella mitologia della regione di Sinnoh è una divinità.",
             "pearl": "Si dice che viva in una dimensione parallela alla nostra. Appare nella mitologia.",
             "platinum": "Pokémon leggendario della regione di Sinnoh. Si dice che lo spazio diventi più stabile al suo respiro.",
-            "heartgold": "Regola a piacimento le snodature dello spazio, potendo così viaggiare in luoghi lontani o altre dimensioni.",
-            "soulsilver": "Regola a piacimento le snodature dello spazio, potendo così viaggiare in luoghi lontani o altre dimensioni.",
+            "heart-gold": "Regola a piacimento le snodature dello spazio, potendo così viaggiare in luoghi lontani o altre dimensioni.",
+            "soul-silver": "Regola a piacimento le snodature dello spazio, potendo così viaggiare in luoghi lontani o altre dimensioni.",
             "black": "Pokémon leggendario della regione di Sinnoh. Si dice che lo spazio diventi più stabile al suo respiro.",
             "white": "Pokémon leggendario della regione di Sinnoh. Si dice che lo spazio diventi più stabile al suo respiro.",
             "black-2": "Pokémon leggendario della regione di Sinnoh. Si dice che lo spazio diventi più stabile al suo respiro.",
@@ -43,14 +42,14 @@
     "flat_name": "palkia",
     "generation": 4,
     "height": {
-        "palkia": "4.2 m"
+        "palkia": "4,2 m"
     },
     "id": 484,
     "name": "Palkia",
-    "name_origin": "Dovrebbe derivare dalla parola pearl, perla, e dal corrispondente giapponese パール paru, perla. ",
-    "origin": "Basato sulle leggende di Izanami e Izanagi. Il suo aspetto ricorda quello di un Plateosaurus. ",
+    "name_origin": "Palkia potrebbe derivare da パール pāru, perla, galaxia, galassia, e 海 kai, mare, oceano. ",
+    "origin": "Palkia e Dialga sembrano essere basati sulle divinità shintoiste Izanami e Izanagi, dette aver creato un'isola con una lancia, averci eretto un pilastro e usato questo come base per creare il Giappone. Il suo aspetto assomiglia ad un Plateosaurus o un Oviraptor. La cresta sul collo e sulla testa ricorda un elmo greco o romano, somiglianza accentuata nella Forma Origine. Il suo tipo acqua potrebbe derivare dal fatto che le perle hanno origine marina, o dal grande spazio occupato da mari e oceani. Metaforicamente potrebbe derivare la fluidità della materia nel cosmo, combinandosi e cambiando forme e stati. Potrebbe anche rappresentare lo stato liquido della materia, con il tipo Acciaio di Dialga a rappresentare lo stato solido e il tipo Spettro di Giratina lo stato gassoso. La sua Forma Origine sembra basata su Arceus, quindi condivide con questo le possibili ispirazioni di qilin e longma. Ricorda anche un centauro o Pegaso. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Palkia",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Spazio",
     "sprites": {
         "palkia": {
@@ -61,7 +60,7 @@
             "default": "https://media.pokemoncentral.it/wiki/7/70/Homem0484O.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/ee/Homemsh0484O.png"
         },
-        "official_artwork": "https://media.pokemoncentral.it/wiki/a/ad/Artwork0484_DLPS.png"
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/0f/Artwork0484_DP.png"
     },
     "stats": {
         "palkia": {
@@ -92,6 +91,6 @@
         ]
     },
     "weight": {
-        "palkia": "336.0 kg"
+        "palkia": "336,0 kg"
     }
 }

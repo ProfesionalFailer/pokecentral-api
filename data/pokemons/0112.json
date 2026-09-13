@@ -17,7 +17,41 @@
         "Però, prima della quarta generazione che ha introdotto Rhyperior, Rhydon era completamente evoluto."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/rhydon.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "rhydon": {
+            "red": "Protetto da una pelle-armatura, può vivere in lava liquida a 2.000 gradi.",
+            "blue": "Protetto da una pelle-armatura, può vivere in lava liquida a 2.000 gradi.",
+            "yellow": "Molto intelligente cammina in posizione eretta. La sua corazza può resistere anche alla lava fusa.",
+            "gold": "La sua pelle dura lo protegge anche dalla lava. La sua pelle però lo rende anche insensibile.",
+            "silver": "Il cervello si è sviluppato da quando si muove sulle zampe posteriori. La pelle lo difende dal magma.",
+            "crystal": "Facendo ruotare leggermente il corno simile ad un trapano è in grado di frantumare un diamante grezzo.",
+            "ruby": "Il corno di RHYDON riesce a fracassare anche un diamante grezzo. Un colpo della sua coda abbatte un edificio. La pelle-armatura di questo POKéMON è così coriacea da essere immune anche alle cannonate.",
+            "sapphire": "RHYDON è dotato di un corno che usa a mo' di trapano. Serve a distruggere rocce e massi. Talvolta questo POKéMON s'imbatte in rivoli di magma, ma la sua pelle-armatura lo protegge dall'eccessivo calore.",
+            "emerald": "RHYDON fa ruotare il suo corno a mo' di trapano e con esso è in grado di abbattere un palazzo. Cammina sulle zampe posteriori e il suo cervello è ben sviluppato.",
+            "fire-red": "Dopo l'evoluzione inizia a muoversi sulle zampe posteriori. Con il corno può perforare la roccia.",
+            "leaf-green": "Protetto da una pelle-armatura, può vivere nella lava liquida a 2.000 ºC.",
+            "diamond": "Si è alzato sulle zampe posteriori e poi gli si è sviluppato il cervello. Con il corno perfora la roccia.",
+            "pearl": "Si è alzato sulle zampe posteriori e poi gli si è sviluppato il cervello. Con il corno perfora la roccia.",
+            "platinum": "Alzandosi sulle zampe posteriori, è diventato più sagace. Tuttavia, è molto smemorato.",
+            "heart-gold": "La sua pelle dura lo protegge persino dalla lava, però lo rende anche insensibile.",
+            "soul-silver": "Il cervello si è sviluppato da quando si muove sulle zampe posteriori. La pelle lo difende dal magma.",
+            "black": "Alzandosi sulle zampe posteriori, è diventato più sagace. Tuttavia, è molto smemorato.",
+            "white": "Alzandosi sulle zampe posteriori, è diventato più sagace. Tuttavia, è molto smemorato.",
+            "black-2": "Alzandosi sulle zampe posteriori, è diventato più sagace. Tuttavia, è molto smemorato.",
+            "white-2": "Alzandosi sulle zampe posteriori, è diventato più sagace. Tuttavia, è molto smemorato.",
+            "x": "Protetto da una pelle-armatura, può vivere nella lava liquida a 2.000 ºC.",
+            "y": "Dopo l'evoluzione inizia a muoversi sulle zampe posteriori. Con il corno può perforare la roccia.",
+            "omega-ruby": "Il corno di Rhydon riesce a fracassare anche un diamante grezzo. Un colpo della sua coda abbatte un edificio. La pelle-armatura di questo Pokémon è così coriacea da essere immune anche alle cannonate.",
+            "alpha-sapphire": "Rhydon è dotato di un corno che usa a mo' di trapano. Serve a distruggere rocce e massi. Talvolta questo Pokémon s'imbatte in rivoli di magma, ma la sua pelle-armatura lo protegge dall'eccessivo calore.",
+            "lets-go-pikachu": "Ha imparato a camminare in posizione eretta e il suo cervello si è evoluto. La sua pelle simile a un'armatura può resistere anche al magma.",
+            "lets-go-eevee": "Ha imparato a camminare in posizione eretta e il suo cervello si è evoluto. La sua pelle simile a un'armatura può resistere anche al magma.",
+            "sword": "Dopo l’evoluzione inizia a muoversi sulle sulle zampe posteriori. Con il corno può perforare la roccia.",
+            "shield": "La sua pelle, simile a un’armatura, lo protegge consentendogli di vivere nel magma a 2.000 ºC.",
+            "legends-arceus": "Rotea il corno ad alta velocità per perforare la roccia. La sua cute, solida come una corazza, ben tollera la lava di incandescenti lande vulcaniche.",
+            "scarlet": "Si scontra con i suoi simili per affinare il corno che può fracassare perfino i diamanti grezzi.",
+            "violet": "Grazie all’evoluzione può camminare sulle sole zampe posteriori, per questo il suo habitat si è esteso fino a comprendere anche monti scoscesi."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Campo"
@@ -25,14 +59,14 @@
     "flat_name": "rhydon",
     "generation": 1,
     "height": {
-        "rhydon": "1.9 m"
+        "rhydon": "1,9 m"
     },
     "id": 112,
     "name": "Rhydon",
-    "name_origin": "Il suo nome probabilmente deriva dall'unione della parola inglese rhinoceros , Rhyolite  e la parola spagnola don  o il suffisso -don . ",
-    "origin": "Rhydon sembra essere basato su un rinoceronte. ",
+    "name_origin": "Rhydon probabilmente deriva dall'unione della parola inglese rhinoceros, rinoceronte, Rhyolite, Riolite e la parola spagnola don  o il suffisso -don . ",
+    "origin": "Rhydon è stato creato basandosi sui kaiju. Il suo aspetto potrebbe inoltre essere ispirato ai rinoceronti e ai dinosauri, in modo particolare ai ceratopsidi. Il suo corno potrebbe essere ispirato ad una trivella. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Rhydon",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Trapano",
     "sprites": {
         "rhydon": {
@@ -65,6 +99,6 @@
         ]
     },
     "weight": {
-        "rhydon": "120.0 kg"
+        "rhydon": "120,0 kg"
     }
 }

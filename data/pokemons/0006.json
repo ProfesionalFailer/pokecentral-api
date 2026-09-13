@@ -31,7 +31,57 @@
         "L'attuale aspetto di Charizard cromatico è stato visto per la prima volta in un artwork ufficiale del 2001, tra il rilascio di Pokémon Cristallo e di Pokémon Rubino e Zaffiro."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/charizard.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "charizard": {
+            "red": "Sputa fuoco in grado di fondere le rocce. Causa incendi boschivi senza averne l'intenzione.",
+            "blue": "Sputa fuoco in grado di fondere le rocce. Causa incendi boschivi senza averne l'intenzione.",
+            "yellow": "Quando emette le sue lingue di fuoco, la fiamma rossa sulla punta della coda brucia più intensamente.",
+            "gold": "Se s'infuria, la fiamma che ha sulla punta della coda si colora di un blu biancastro.",
+            "silver": "Sputando fiamme caldissime può sciogliere quasi ogni cosa. Le sue fiamme causano dolori terribili.",
+            "crystal": "Spiega le ali per volare alto. La temperatura del fuoco sale mentre acquista esperienza nella lotta.",
+            "ruby": "CHARIZARD solca i cieli in cerca di nemici molto forti. Riesce ad emettere fiammate di un calore tale da fondere ogni cosa. Tuttavia, non rivolge mai le sue micidiali lingue di fuoco contro avversari più deboli di lui.",
+            "sapphire": "CHARIZARD solca i cieli in cerca di nemici molto forti. Riesce ad emettere fiammate di un calore tale da fondere ogni cosa. Tuttavia, non rivolge mai le sue micidiali lingue di fuoco contro avversari più deboli di lui.",
+            "emerald": "CHARIZARD solca i cieli in cerca di nemici molto forti. Emette intense fiammate che fondono ogni cosa, ma non le rivolge mai contro avversari più deboli.",
+            "fire-red": "Grazie alle possenti ali può volare fino a 1.400 metri d'altezza. Sputa fuoco ad una temperatura impressionante.",
+            "leaf-green": "Sputa fuoco in grado di fondere le rocce. Causa incendi boschivi senza averne l'intenzione.",
+            "diamond": "Pare che la temperatura della fiamma di CHARIZARD aumenti dopo che ha affrontato dure lotte.",
+            "pearl": "Pare che la temperatura della fiamma di CHARIZARD aumenti dopo che ha affrontato dure lotte.",
+            "platinum": "Pare che la temperatura della fiamma di CHARIZARD aumenti dopo che ha affrontato dure lotte.",
+            "heart-gold": "Se s'infuria, la fiamma che ha sulla punta della coda si colora di un blu biancastro.",
+            "soul-silver": "Sputando fiamme caldissime può sciogliere quasi ogni cosa. Le sue fiamme causano dolori terribili.",
+            "black": "Pare che la temperatura della fiamma di Charizard aumenti dopo che ha affrontato dure lotte.",
+            "white": "Pare che la temperatura della fiamma di Charizard aumenti dopo che ha affrontato dure lotte.",
+            "black-2": "Pare che la temperatura della fiamma di Charizard aumenti dopo che ha affrontato dure lotte.",
+            "white-2": "Pare che la temperatura della fiamma di Charizard aumenti dopo che ha affrontato dure lotte.",
+            "x": "Quando emette le sue lingue di fuoco, la fiamma rossa sulla punta della coda brucia più intensamente.",
+            "y": "Grazie alle possenti ali può volare fino a 1400 m d'altezza. Sputa fuoco a una temperatura impressionante.",
+            "omega-ruby": "Charizard solca i cieli in cerca di nemici molto forti. Riesce a emettere fiammate di un calore tale da fondere ogni cosa. Tuttavia, non rivolge mai le sue micidiale lingue di fuoco contro avversari più deboli di lui.",
+            "alpha-sapphire": "Charizard solca i cieli in cerca di nemici molto forti. Riesce a emettere fiammate di un calore tale da fondere ogni cosa. Tuttavia, non rivolge mai le sue micidiale lingue di fuoco contro avversari più deboli di lui.",
+            "lets-go-pikachu": "Quando emette lingue di fuoco roventi dalla bocca, la fiamma rossa sulla punta della coda brucia più intensamente.",
+            "lets-go-eevee": "Quando emette lingue di fuoco roventi dalla bocca, la fiamma rossa sulla punta della coda brucia più intensamente.",
+            "sword": "Sputa fiamme incandescenti in grado di fondere le rocce. A volte causa incendi boschivi.",
+            "shield": "Grazie alle possenti ali può volare fino a 1.400 m d'altezza. Le fiamme che sputa possono raggiungere temperature altissime.",
+            "brilliant-diamond": "Si dice che la fiamma di Charizard abbia una temperatura tanto più alta quanto più dure sono le lotte che ha affrontato.",
+            "shining-pearl": "Si dice che la fiamma di Charizard abbia una temperatura tanto più alta quanto più dure sono le lotte che ha affrontato.",
+            "scarlet": "Se s'infuria, la fiamma che ha sulla punta della coda si colora di un blu biancastro.",
+            "violet": "Si libra alto in cielo grazie alle sue ali. Più acquisisce esperienza nella lotta, più la temperatura delle sue fiamme aumenta.",
+            "legends-za": "Grazie alle sue ali può volare fino a 1.400 m d'altezza. Sputa fiamme incandescenti."
+        },
+        "megacharizard-x": {
+            "lets-go-pikachu": "La straordinaria potenza che pervade il suo corpo lo rende ancora più scuro e genera roventi fiamme che si colorano di blu.",
+            "lets-go-eevee": "La straordinaria potenza che pervade il suo corpo lo rende ancora più scuro e genera roventi fiamme che si colorano di blu.",
+            "legends-za": "La straordinaria potenza che pervade il suo corpo lo rende più scuro e genera roventi fiamme che si colorano di blu."
+        },
+        "megacharizard-y": {
+            "lets-go-pikachu": "Il legame con il suo Allenatore è la fonte del suo potere. Vanta una velocità di volo superiore a quella di un aereo a reazione.",
+            "lets-go-eevee": "Il legame con il suo Allenatore è la fonte del suo potere. Vanta una velocità di volo superiore a quella di un aereo a reazione.",
+            "legends-za": "Il legame con il suo Allenatore è la fonte del suo potere. Vanta una velocità di volo superiore a quella di un aereo a reazione."
+        },
+        "charizard-gigamax": {
+            "sword": "L'energia del fenomeno Gigamax lo ha trasformato in un Charizard gigante dalle ali di fuoco.",
+            "shield": "All'interno del suo corpo turbina il fuoco a una temperatura di 2.000 °C. Quando ruggisce, la sua energia termica aumenta ulteriormente."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Drago"
@@ -39,17 +89,17 @@
     "flat_name": "charizard",
     "generation": 1,
     "height": {
-        "charizard": "1.7 m",
-        "megacharizard-x": "1.7 m",
-        "megacharizard-y": "1.7 m",
-        "charizard-gigamax": "> 28.0 m"
+        "charizard": "1,7 m",
+        "megacharizard-x": "1,7 m",
+        "megacharizard-y": "1,7 m",
+        "charizard-gigamax": "> 28,0 m"
     },
     "id": 6,
     "name": "Charizard",
     "name_origin": "Charizard potrebbe essere una combinazione di char, carbonizzare, e lizard, lucertola. Lizardon potrebbe essere una combinazione di リザード rizādo, lucertola, e ドン don, dente in greco antico, ドン don, dominare , o ドラゴン dragon, drago. ",
     "origin": "Charizard e la sua famiglia evolutiva sono basati su una lucertola, probabilmente sulla salamandra mitologica. Secondo Ken Sugimori e Atsuko Nishida, Charizard sarebbe stato progettato per primo e, solo in seguito, sarebbero stati progettati Charmander ed Charmeleon, direttamente basati sulla sua forma finale. Charizard potrebbe essere quindi basato su un drago europeo, il quale è estremamente associato all'elemento del fuoco nel folklore europeo. L'aspetto draconico si rifletterebbe sulla combinazione di tipo Fuoco/Drago di MegaCharizard X. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Charizard",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Fiamma",
     "sprites": {
         "charizard": {
@@ -124,14 +174,14 @@
             "Fuoco"
         ],
         "megacharizard-x": [
-            "Fuoco",
-            "Drago"
+            "Drago",
+            "Fuoco"
         ]
     },
     "weight": {
-        "charizard": "90.5 kg",
-        "megacharizard-x": "110.5 kg",
-        "megacharizard-y": "100.5 kg",
-        "charizard-gigamax": "???.? kg"
+        "charizard": "90,5 kg",
+        "megacharizard-x": "110,5 kg",
+        "megacharizard-y": "100,5 kg",
+        "charizard-gigamax": "???,? kg"
     }
 }

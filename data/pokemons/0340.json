@@ -7,12 +7,8 @@
         }
     },
     "curiosities": [
-        "Whiscash può essere visto come parallelo di Crawdaunt:\n\tEntrambi hanno la stessa somma statistiche base di 468 e sono i soli con questo totale.\n\tCondividono il tipo Acqua essendo entrambi ispirati, almeno in parte, ad animali di acqua dolce.\n\tSi sono evoluti entrambi al livello 30.\n\tLe loro linee evolutive sono poste vicine nel Pokédex nazionale.",
-        "Entrambi hanno la stessa somma statistiche base di 468 e sono i soli con questo totale.",
-        "Condividono il tipo Acqua essendo entrambi ispirati, almeno in parte, ad animali di acqua dolce.",
-        "Si sono evoluti entrambi al livello 30.",
-        "Le loro linee evolutive sono poste vicine nel Pokédex nazionale.",
-        "Whiscash e Barboach sono gli unici Pokémon di doppio tipo Acqua/Terra a non far parte del Gruppo Uova Acqua 1."
+        "Whiscash e Barboach sono gli unici Pokémon di doppio tipo Acqua/Terra a non far parte del Gruppo Uova Acqua 1.\n\tSono anche gli unici Pokémon di tipo Terra nel Gruppo Uova Acqua 2.",
+        "Sono anche gli unici Pokémon di tipo Terra nel Gruppo Uova Acqua 2."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/whiscash.mp3",
     "dex_entries": {
@@ -20,13 +16,13 @@
             "ruby": "WHISCASH è estremamente legato all'area in cui vive e delimita laghi enormi come proprio territorio. All'avvicinarsi di un nemico, s'infuria scatenando terribili terremoti.",
             "sapphire": "Se WHISCASH si infuria, è in grado di scatenare una specie di terremoto del raggio di 5 km. Inoltre ha la capacità di prevedere i terremoti reali.",
             "emerald": "WHISCASH ha la sorprendente capacità di prevedere i terremoti. Di giorno dorme sul fondo melmoso di una palude, mentre di notte mangia di continuo.",
-            "firered": "Nidifica nel letto delle paludi. È in grado di mangiare qualsiasi essere vivente.",
-            "leafgreen": "Nidifica nel letto delle paludi. È in grado di mangiare qualsiasi essere vivente.",
+            "fire-red": "Nidifica nel letto delle paludi. È in grado di mangiare qualsiasi essere vivente.",
+            "leaf-green": "Nidifica nel letto delle paludi. È in grado di mangiare qualsiasi essere vivente.",
             "diamond": "Ha un senso del territorio molto sviluppato. Respinge i nemici scatenando terremoti del raggio di 5 km.",
             "pearl": "Se s’infuria, provoca forti scosse telluriche. Ha sviluppato così l’abilità di prevedere i terremoti.",
             "platinum": "Ha un senso del territorio molto sviluppato. Se un nemico si avvicina, scatena forti terremoti.",
-            "heartgold": "Stabilisce il suo territorio nelle grandi paludi. Se il nemico gli si accosta, provoca un terremoto.",
-            "soulsilver": "Stabilisce il suo territorio nelle grandi paludi. Se il nemico gli si accosta, provoca un terremoto.",
+            "heart-gold": "Stabilisce il suo territorio nelle grandi paludi. Se il nemico gli si accosta, provoca un terremoto.",
+            "soul-silver": "Stabilisce il suo territorio nelle grandi paludi. Se il nemico gli si accosta, provoca un terremoto.",
             "black": "Ha un senso del territorio molto sviluppato. Se un nemico si avvicina, scatena forti terremoti.",
             "white": "Ha un senso del territorio molto sviluppato. Se un nemico si avvicina, scatena forti terremoti.",
             "black-2": "Ha un senso del territorio molto sviluppato. Se un nemico si avvicina, scatena forti terremoti.",
@@ -54,14 +50,14 @@
     "flat_name": "whiscash",
     "generation": 3,
     "height": {
-        "whiscash": "0.9 m"
+        "whiscash": "0,9 m"
     },
     "id": 340,
     "name": "Whiscash",
-    "name_origin": "Whiscash può essere una combinazione di whisker, basette, e mustache, baffi, in riferimento ai lunghi baffi che possiede, o anche catfish, pesce gatto. ",
-    "origin": "Whiscash si basa su Namazu, un pesce gatto nella mitologia giapponese che ha provocato terremoti. ",
+    "name_origin": "Whiscash potrebbe derivare da whiskers, vibrisse, mustache, baffo, e possibilmente catfish, pesce gatto. La prima lettera del suo nome inglese potrebbe derivare dalla forma a \"W\" sulla fronte del Pokémon. Namazun, il suo nome giapponese, potrebbe derivare da 鯰 namazu, pesce gatto, o da 大鯰 Ōnamazu, nome alternativo del Namazu della mitologia. ",
+    "origin": "Whiscash sembra essere basato su un pesce gatto; nello specifico presenta somiglianze con Namazu, un enorme pesce gatto della mitologia giapponese detto causare terremoti. La sua capacità di imparare Divinazione e la sua abilità Presagio possono alludere a questo mito, derivato dal fatto che i pesce gatto possano prevedere i terremoti e diventare agitati ore prima che accadano. A volte Namazu è descritto come un drago-serpente, possibilmente spiegando come Whiscash possa imparare Dragodanza. La parte gialla sulla fronte di Whiscash può ricordare una corona. Dato che la sua preevoluzione ricorda un cobite di stagno orientale, è possibile che Whiscash si basi su un Amphiliidae, una famiglia di pesce gatto simile ai cobiti. Potrebbe inoltre essere basato sui pesci gatto elettrici data la sua abilità di imparare Scintilla. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Whiscash",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Baffetti",
     "sprites": {
         "whiscash": {
@@ -85,11 +81,11 @@
     },
     "types": {
         "whiscash": [
-            "Terra",
-            "Acqua"
+            "Acqua",
+            "Terra"
         ]
     },
     "weight": {
-        "whiscash": "23.6 kg"
+        "whiscash": "23,6 kg"
     }
 }

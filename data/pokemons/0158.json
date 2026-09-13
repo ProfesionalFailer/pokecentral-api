@@ -6,12 +6,41 @@
         }
     },
     "curiosities": [
-        "Totodile è il Pokémon iniziale di tipo acqua non evoluto più alto e più pesante.",
-        "Totodile, insieme a Turtwig, è uno dei due Pokémon iniziali che si evolvono a livello 18, il più alto per un Pokémon iniziale che si può ancora evolvere.",
-        "In quarta generazione, Totodile è l'unico Pokémon che può imparare Dragartigli tramite allevamento, ma non tramite MT02. Tuttavia, questo è stato invertito in quinta generazione."
+        "Totodile è il Pokémon iniziale di tipo Acqua non evoluto più alto e più pesante.",
+        "Totodile, insieme a Turtwig, è uno dei due Pokémon iniziali che si evolvono a livello 18, il più alto per un Pokémon iniziale che può ancora evolversi.",
+        "In quarta generazione, Totodile è l'unico Pokémon che può imparare Dragartigli tramite allevamento, ma non tramite MT02. Tuttavia, la situazione si è invertita in quinta generazione."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/totodile.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "totodile": {
+            "gold": "Le sue potenti mandibole possono frantumare qualsiasi cosa. Anche l'allenatore dev'essere cauto.",
+            "silver": "È piccolo, ma forte e deciso. Non esita ad avventarsi su qualsiasi cosa si muova.",
+            "crystal": "Particolarmente violento, mastica tutto ciò che trova: è meglio non perderlo d'occhio.",
+            "ruby": "Nonostante il suo corpicino minuto, le mascelle di TOTODILE sono molto potenti. Sebbene creda solo di giocare, il suo morso è così forte e pericoloso da causare serie ferite.",
+            "sapphire": "Nonostante il suo corpicino minuto, le mascelle di TOTODILE sono molto potenti. Sebbene creda solo di giocare, il suo morso è così forte e pericoloso da causare serie ferite.",
+            "emerald": "Nonostante il suo corpo minuto, le mascelle di TOTODILE sono molto potenti. Sebbene creda di giocare, il suo morso è così forte e pericoloso da causare serie ferite.",
+            "fire-red": "È piccolo, ma forte e deciso. Non esita ad avventarsi su qualsiasi cosa si muova.",
+            "leaf-green": "Le sue potenti mandibole possono frantumare qualsiasi cosa. Anche l'ALLENATORE dev'essere cauto.",
+            "diamond": "Ha l’abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "pearl": "Ha l’abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "platinum": "Ha l’abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "heart-gold": "Le sue potenti mandibole possono frantumare qualsiasi cosa. Anche l’Allenatore dev'essere cauto.",
+            "soul-silver": "Piccolo, ma forte e deciso. Non esita ad avventarsi su qualsiasi cosa si muova.",
+            "black": "Ha l'abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "white": "Ha l'abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "black-2": "Ha l'abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "white-2": "Ha l'abitudine di mordere ogni cosa con le potenti mandibole. Neppure il suo Allenatore è al sicuro!",
+            "x": "Piccolo, ma forte e deciso. Non esita ad avventarsi su qualsiasi cosa si muova.",
+            "y": "Le sue potenti mandibole possono frantumare qualsiasi cosa. Anche l'Allenatore dev'essere cauto.",
+            "omega-ruby": "Nonostante il suo corpicino minuto, le mascelle di Totodile sono molto potenti. Sebbene creda solo di giocare, il suo morso è così forte e pericoloso da causare serie ferite.",
+            "alpha-sapphire": "Nonostante il suo corpicino minuto, le mascelle di Totodile sono molto potenti. Sebbene creda solo di giocare, il suo morso è così forte e pericoloso da causare serie ferite.",
+            "brilliant-diamond": "Ha l’abitudine di mordere ogni cosa con le mascelle molto sviluppate. Neppure il suo Allenatore è al sicuro!",
+            "shining-pearl": "Ha l’abitudine di mordere ogni cosa con le mascelle molto sviluppate. Neppure il suo Allenatore è al sicuro!",
+            "scarlet": "Le sue mandibole ben sviluppate sono così potenti da frantumare qualsiasi cosa, perciò anche chi lo allena deve agire con cautela.",
+            "violet": "Particolarmente violento, azzanna qualsiasi cosa veda muoversi. È bene non dargli le spalle.",
+            "legends-za": "Nonostante le dimensioni ridotte, è una vera furia. Se vede qualcosa muoversi la azzanna senza pensarci due volte."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Acqua 1"
@@ -19,14 +48,14 @@
     "flat_name": "totodile",
     "generation": 2,
     "height": {
-        "totodile": "0.6 m"
+        "totodile": "0,6 m"
     },
     "id": 158,
     "name": "Totodile",
-    "name_origin": "Il suo nome deriva dalle parole inglesi tot  e crocodile . ",
-    "origin": "Totodile è basato su un cucciolo di coccodrillo. ",
+    "name_origin": "Totodile potrebbe derivare dalle parole tot, bimbo, e crocodile, coccodrillo. ",
+    "origin": "Totodile sembra essere basato su un cucciolo di coccodrillo. Le strisce gialle sul suo corpo ricordano quelle di un cucciolo di alligatore del Mississippi. In Pokémon Sleep, Totodile e le sue evoluzioni dormono con un occhio aperto, proprio come i coccodrilli del mondo reale. La cresta sul suo dorso potrebbe ricordare un taglio alla mohawk, in possibile riferimento alla natura turbolenta del Pokémon. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Totodile",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Mascellone",
     "sprites": {
         "totodile": {
@@ -54,6 +83,6 @@
         ]
     },
     "weight": {
-        "totodile": "9.5 kg"
+        "totodile": "9,5 kg"
     }
 }

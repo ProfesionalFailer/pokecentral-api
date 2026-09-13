@@ -24,8 +24,9 @@
             "alpha-sapphire": "Attira a sé altri Pokémon con la sua forma a Poké Ball e soffia su di loro le sue spore velenose.",
             "sword": "A tutt'oggi nessuno è a conoscenza del significato o dell'origine del motivo simile a una Poké Ball che sfoggia.",
             "shield": "Le spore che rilascia dalle mani sono molto velenose, ma se sono essiccate pare che possano essere usate come farmaco gastrointestinale.",
-            "scarlet": "C’è chi teorizza che questo Pokémon piacesse molto all’inventore delle Poké Ball. Nessuno però sa se sia vero o no.",
-            "violet": "Preferisce i terreni umidi. Spruzza spore velenose per allontanare i nemici che si avvicinano."
+            "scarlet": "C'è chi teorizza che questo Pokémon piacesse molto all'inventore delle Poké Ball. Nessuno però sa se sia vero o no.",
+            "violet": "Preferisce i terreni umidi. Spruzza spore velenose per allontanare i nemici che si avvicinano.",
+            "legends-za": "Adesca i nemici grazie al motivo simile a una Poké Ball e sparge su di loro spore velenose. Da dove venga questa somiglianza è un vero mistero."
         }
     },
     "egg_groups": [
@@ -34,14 +35,14 @@
     "flat_name": "foongus",
     "generation": 5,
     "height": {
-        "foongus": "0.2 m"
+        "foongus": "0,2 m"
     },
     "id": 590,
     "name": "Foongus",
     "name_origin": "Foongus è una corruzione di fungus, o una combinazione di quest'ultimo temine con fool . Assieme alla sua evoluzione, Amoonguss, è corruzione della frase fungus among us . ",
     "origin": "Foongus sembra essere basato sui funghi del genere agaricus o su una amanita muscaria, a causa del tipo Veleno. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Foongus",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Fungo",
     "sprites": {
         "foongus": {
@@ -70,6 +71,6 @@
         ]
     },
     "weight": {
-        "foongus": "1.0 kg"
+        "foongus": "1,0 kg"
     }
 }

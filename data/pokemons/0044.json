@@ -6,28 +6,62 @@
         }
     },
     "curiosities": [
-        "In Pokémon Rosso e Blu, il Pokémon Glitch  si può evolvere in Gloom se riesce a raggiungere il livello 224. Si evolve poi normalmente in un Vileplume usando una Pietrafoglia.",
-        "Gloom è il primo Pokémon nel Pokédex Nazionale ad avere più di un'evoluzione, per quanto riguarda la seconda generazione. Prima di allora, c'era soltanto Eevee.",
         "La descrizione di James del tanfo di Gloom è confusa per certi aspetti con la descrizione del suo Koffing.",
         "Gloom è l'unico Pokémon con due tipi che si evolve in un Pokémon di un solo tipo.\n\tÈ anche l'unico Pokémon ad evolversi in due Pokémon differenti con due pietre differenti, oltre ad Eevee.",
-        "È anche l'unico Pokémon ad evolversi in due Pokémon differenti con due pietre differenti, oltre ad Eevee."
+        "È anche l'unico Pokémon ad evolversi in due Pokémon differenti con due pietre differenti, oltre ad Eevee.",
+        "Nonostante abbia l'abilità Clorofilla, questo sembra essere basato su un genere di pianta , che non ha clorofilla."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/gloom.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "gloom": {
+            "red": "Il fluido che gli esce dalla bocca non è bava. È un nettare usato per attirare le prede.",
+            "blue": "Il fluido che gli esce dalla bocca non è bava. È un nettare usato per attirare le prede.",
+            "yellow": "Puzza da levare il fiato! Tuttavia circa una persona su mille adora annusarne il fetido lezzo.",
+            "gold": "Ciò che sembra bava è in realtà dolce miele. È molto viscoso: si attacca appena lo si sfiora.",
+            "silver": "Secerne un miele viscoso, simile a bava. È dolce, ma ha un odore insopportabile se ci si avvicina.",
+            "crystal": "Il puzzo della bava e del polline dei suoi petali è così forte che può mandare al tappeto il nemico.",
+            "ruby": "GLOOM rilascia un odore fetido dai pistilli dei suoi fiori. Quando è in pericolo, l'olezzo peggiora. Quando invece si sente tranquillo e sicuro, non emana questa sostanza maleodorante.",
+            "sapphire": "Dalla bocca di GLOOM fuoriesce una resina maleodorante e disgustosa. Evidentemente adora questo fetido olezzo, poiché lo annusa avidamente producendo poi altra resina.",
+            "emerald": "La disgustosa resina che esce dalla bocca di GLOOM può far perdere la memoria a chi l'annusa. Tuttavia, pare che alcuni apprezzino questo fetido olezzo.",
+            "fire-red": "I pistilli emanano un puzzo orribile, capace di fare svenire chi si trova in un raggio di due chilometri.",
+            "leaf-green": "Il fluido che gli esce dalla bocca non è bava. È un nettare usato per attirare le prede.",
+            "diamond": "Il fluido che fuoriesce dalla sua bocca è così puzzolente che si sente anche a 2 km di distanza.",
+            "pearl": "Il fluido che fuoriesce dalla sua bocca è così puzzolente che si sente anche a 2 km di distanza.",
+            "platinum": "Il fluido che fuoriesce dalla sua bocca è così puzzolente che si sente anche a 2 km di distanza.",
+            "heart-gold": "Ciò che sembra bava è in realtà dolce miele. È molto viscoso: si attacca appena lo si sfiora.",
+            "soul-silver": "Secerne un miele viscoso, simile a bava. È dolce, ma ha un odore insopportabile se ci si avvicina.",
+            "black": "Il fluido che fuoriesce dalla sua bocca è così puzzolente che si sente anche a 2 km di distanza.",
+            "white": "Il fluido che fuoriesce dalla sua bocca è così puzzolente che si sente anche a 2 km di distanza.",
+            "black-2": "Il fluido che fuoriesce dalla sua bocca è così puzzolente che si sente anche a 2 km di distanza.",
+            "white-2": "Il fluido che fuoriesce dalla sua bocca è così puzzolente che si sente anche a 2 km di distanza.",
+            "x": "Puzza da levare il fiato! Tuttavia circa una persona su mille adora annusarne il fetido lezzo.",
+            "y": "Il fluido che fuoriesce dalla sua bocca è così puzzolente che si sente anche a 2 km di distanza.",
+            "omega-ruby": "Gloom rilascia un odore fetido dal pistillo del suo fiore. Quando è in pericolo, l'olezzo peggiora. Quando invece si sente tranquillo e sicuro, non emana questa sostanza maleodorante.",
+            "alpha-sapphire": "Dalla bocca di Gloom fuoriesce una resina maleodorante e disgustosa. Evidentemente adora questo fetido olezzo, poiché se lo annusa avidamente producendo poi altra resina.",
+            "lets-go-pikachu": "Puzza da levare il fiato! Tuttavia circa una persona su mille adora annusare il fetido lezzo.",
+            "lets-go-eevee": "Puzza da levare il fiato! Tuttavia circa una persona su mille adora annusare il fetido lezzo.",
+            "sword": "I pistilli emanano un puzzo orribile, capace di far svenire chiunque nel raggio di 2 km.",
+            "shield": "Ciò che sembra bava è in realtà dolce nettare. È molto viscoso: si appiccica appena lo si sfiora.",
+            "brilliant-diamond": "Il fluido che fuoriesce dalla sua bocca è così puzzolente che fa storcere il naso anche a 2 km di distanza.",
+            "shining-pearl": "Il fluido che fuoriesce dalla sua bocca è così puzzolente che fa storcere il naso anche a 2 km di distanza.",
+            "scarlet": "Il fluido che gli esce dalla bocca non è bava. È un nettare usato per attirare le prede.",
+            "violet": "Secerne un nettare viscoso, simile a bava, che pur essendo dolce ha un odore così insopportabile da non potercisi avvicinare."
+        }
+    },
     "egg_groups": [
         "Erba"
     ],
     "flat_name": "gloom",
     "generation": 1,
     "height": {
-        "gloom": "0.8 m"
+        "gloom": "0,8 m"
     },
     "id": 44,
     "name": "Gloom",
-    "name_origin": "Gloom viene dalla parola gloom  e potrebbe essere riferito alla malinconia associata con l'annusare la sua puzza ola sua faccia depressa. potrebbe anche derivare da bloom, visto che si trova ancora nello stato di fioritura di un Rafflesia Arnoldii. Potrebbe anche riferirsi al termine glume , un tipo di brattea nell'anatomia dei fiori. Kusaihana significa letteralmente \"fiore che puzza\" . ",
-    "origin": "Gloom sembra assomigliare al fiore notturno conosciuto come Rafflesia Arnoldii, che ha un pessimo odore. Il fatto che il suo polline puzzolente possa essere usato per fare profumi meravigliosi e che ad 1 persona su 1000 piaccia il suo odore potrebbe essere un riferimento alle puzzole, il cui muschio ha simili caratteristiche. ",
+    "name_origin": "Gloom viene dalla parola gloom , bloom  o glue . Potrebbe anche riferirsi al termine glume , un tipo di brattea nell'anatomia dei fiori. Kusaihana potrebbe derivare da 臭い花 kusai hana . ",
+    "origin": "Gloom sembra essere basato su una mandragora, una pianta le cui radici possono assomigliare a delle figure umane e che sono state oggetto di vari miti, e lo stato germogliante della rafflesia, un genere di piante parassite dagli enormi petali e dall'odore altamente sgradevole. Le foglie marroni potrebbero essere un riferimento al parassitismo della rafflesia, che sta rubando i nutrimenti alle foglie in precedenza verdi di Oddish facendole appassire. A causa dei punti più grandi sui loro germogli, le Gloom femmina possono ricordare di più una Rafflesia hasseltii. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Gloom",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Malerba",
     "sprites": {
         "gloom": {
@@ -60,6 +94,6 @@
         ]
     },
     "weight": {
-        "gloom": "8.6 kg"
+        "gloom": "8,6 kg"
     }
 }

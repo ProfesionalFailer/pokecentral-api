@@ -15,7 +15,8 @@
             "omega-ruby": "Sembra sia nato quando uno spirito si impossessò di un'antica spada. Si lega agli esseri umani per assorbirne la forza vitale.",
             "alpha-sapphire": "Avvolge il drappo blu attorno al braccio di chiunque si azzardi a impugnare l'elsa e assorbe la sua energia fino a fargli perdere i sensi.",
             "sword": "La sua anima è quella di un essere umano ucciso tanto tempo fa dalla spada che ora forma il suo corpo.",
-            "shield": "L'occhio blu sull'elsa della spada è il suo vero corpo. Usa il drappo consunto per assorbire la forza vitale degli uomini."
+            "shield": "L'occhio blu sull'elsa della spada è il suo vero corpo. Usa il drappo consunto per assorbire la forza vitale degli uomini.",
+            "legends-za": "Sembra sia nato quando uno spirito si impossessò di un'antica spada. Si lega agli esseri umani per assorbirne la forza vitale."
         }
     },
     "egg_groups": [
@@ -24,14 +25,14 @@
     "flat_name": "honedge",
     "generation": 6,
     "height": {
-        "honedge": "0.8 m"
+        "honedge": "0,8 m"
     },
     "id": 679,
     "name": "Honedge",
     "name_origin": "Il nome Honedge potrebbe derivare dal verbo to hone, affilare, one, uno, ed edge, filo della lama. ",
     "origin": "Honedge sembra essere basato sul concetto di arma magica posseduta completamente senziente. Il fatto che lo stadio base è basato su una spada potrebbe riferirsi al mito del Bushido dietro l'uso di una katana, secondo cui le katana erano spade possedute dalle anime di samurai e che quindi attaccavano di loro spontanea volontà. Secondo le leggende giapponesi, se si lascia o si dimentica di un oggetto per molto tempo esso diventa uno Tsukomogami, tra questi gli ombrelli e le spade erano quelli che più comunemente attaccavano gli umani. Il fatto che assorbe l'energia vitale di chi lo impugna sembra invece basarsi sul tyrfing maledetto. L'aspetto di Honedge e del'elsa invece potrebbe rimandare su una spatha, claymore oppure una spada jian, mentre il panno ricorda quelli usati nelle sciabole simili ad arti pensili. Il simbolo presente nel fodero di Honedge e Doublade può essere riferito alla triquetra, chiaramente presente in quella di Honedge e dove in Doublade è più ornamentale. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Honedge",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Armabianca",
     "sprites": {
         "honedge": {
@@ -55,8 +56,8 @@
     },
     "types": {
         "honedge": [
-            "Spettro",
-            "Acciaio"
+            "Acciaio",
+            "Spettro"
         ]
     },
     "weight": {

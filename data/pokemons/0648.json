@@ -5,9 +5,7 @@
         }
     },
     "curiosities": [
-        "In quinta generazione Meloetta Forma Danza aveva una combinazione di tipi unica.",
-        "Nonostante sia basato su una cantante e una ballerina, Meloetta è di sesso sconosciuto.\n\tNonostante questo, nell'anime sembra essere femmina visto che Oshawott e Piplup si innamorano di lei.",
-        "Nonostante questo, nell'anime sembra essere femmina visto che Oshawott e Piplup si innamorano di lei."
+        "In quinta generazione Meloetta Forma Danza aveva una combinazione di tipi unica."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/meloetta.mp3",
     "dex_entries": {
@@ -19,7 +17,11 @@
             "x": "Canta una melodia che ha il potere di portare la gioia o la tristezza nel cuore dei Pokémon che l'ascoltano.",
             "y": "Controlla a suo piacimento le emozioni di coloro che ascoltano i suoi singolari vocalizzi.",
             "omega-ruby": "Canta una melodia che ha il potere di portare la gioia o la tristezza nel cuore dei Pokémon che l'ascoltano.",
-            "alpha-sapphire": "Controlla a suo piacimento le emozioni di coloro che ascoltano i suoi singolari vocalizzi."
+            "alpha-sapphire": "Controlla a suo piacimento le emozioni di coloro che ascoltano i suoi singolari vocalizzi.",
+            "legends-za": "Controlla a suo piacimento le emozioni di coloro che ascoltano i suoi singolari vocalizzi."
+        },
+        "forma-danza": {
+            "legends-za": "Ha riscoperto una melodia a lungo dimenticata e sulle sue note esegue ammalianti passi di danza in grado di stregare chiunque."
         }
     },
     "egg_groups": [
@@ -28,14 +30,14 @@
     "flat_name": "meloetta",
     "generation": 5,
     "height": {
-        "meloetta": "0.6 m"
+        "meloetta": "0,6 m"
     },
     "id": 648,
     "name": "Meloetta",
     "name_origin": "Il suo nome probabilmente deriva dalla parola greca melòs . ",
     "origin": "Meloetta è basata su una cantante nella Forma Canto, e nella Forma Danza su una ballerina. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Meloetta",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Melodia",
     "sprites": {
         "forma-canto": {
@@ -72,15 +74,15 @@
     },
     "types": {
         "forma-canto": [
-            "Psico",
-            "Normale"
+            "Normale",
+            "Psico"
         ],
         "forma-danza": [
-            "Lotta",
-            "Normale"
+            "Normale",
+            "Lotta"
         ]
     },
     "weight": {
-        "meloetta": "6.5 kg"
+        "meloetta": "6,5 kg"
     }
 }

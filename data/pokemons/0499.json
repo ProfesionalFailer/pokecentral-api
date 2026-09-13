@@ -6,13 +6,8 @@
         }
     },
     "curiosities": [
-        "Ha una grossa somiglianza ad un wrestler.",
-        "È l'unica seconda evoluzione dei Pokémon iniziali di Unima che:\n\tHa un doppio tipo.\n\tNon era stato visto in un concept design.",
-        "Ha un doppio tipo.",
-        "Non era stato visto in un concept design.",
-        "Secondo un'intervista Pignite rappresenta il gusto della cultura cinese.\n\tCasualmente, l'anno 2007, quello in cui erano iniziati i lavori per le versioni Nero e Bianco, era l'anno del Maiale di Fuoco sul Calendario Cinese.",
-        "Casualmente, l'anno 2007, quello in cui erano iniziati i lavori per le versioni Nero e Bianco, era l'anno del Maiale di Fuoco sul Calendario Cinese.",
-        "Pignite era un soprannome che era stato usato per riferirsi a Tepig dai fan dei Pokémon, prima che fosse rivelato il suo vero nome.",
+        "Pignite è stato rivelato internazionalmente nella sigla iniziale della serie Pokémon Nero e Bianco.",
+        "Pignite era un soprannome che era stato usato per riferirsi a Tepig dai fan prima che fosse rivelato il suo nome ufficiale.",
         "Pignite e la sua famiglia evolutiva sono stati ideati da Lee Hyunjung."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/pignite.mp3",
@@ -25,7 +20,10 @@
             "x": "Più mangia e più le fiamme che bruciano nel suo stomaco si rinvigoriscono, aumentando così il suo potere.",
             "y": "Quando la fiamma interna arde intensa, diventa più rapido e scattante. Nei momenti critici esala fumo.",
             "omega-ruby": "Più mangia e più le fiamme che bruciano nel suo stomaco si rinvigoriscono, aumentando così il suo potere.",
-            "alpha-sapphire": "Quando la fiamma interna arde intensa, diventa più rapido e scattante. Nei momenti critici esala fumo."
+            "alpha-sapphire": "Quando la fiamma interna arde intensa, diventa più rapido e scattante. Nei momenti critici esala fumo.",
+            "scarlet": "Quando è il momento di lottare, la sua temperatura corporea sale rapidamente fino a trasformarlo in una sfera di fuoco incandescente.",
+            "violet": "Quando c’è da proteggere i compagni ha una forza tale da poter contrastare ogni avversario, ma la fame proprio non riesce a vincerla.",
+            "legends-za": "Più mangia, più alimenta le fiamme nel suo stomaco, che si rinvigoriscono facendolo straripare di potere."
         }
     },
     "egg_groups": [
@@ -38,10 +36,10 @@
     },
     "id": 499,
     "name": "Pignite",
-    "name_origin": "Il suo nome deriva dall'inglese pig  e ignite . ",
-    "origin": "Basato su un maiale domestico o un cinghiale e un wrestler o un luchador. Ken Sugimori ha dichiarato che la sua linea evolutiva è disegnata secondo lo stile cinese. Questo potrebbe far presupporre che Pignite tragga ispirazione da Zhu Wuneng. ",
+    "name_origin": "Pignite potrebbe derivare da pig, maiale, e ignite, dare fuoco. Potrebbe anche derivare da lignite, un tipo di carbone. Chaoboo, il suo nome giapponese, potrebbe derivare da 超 chāo, \"super\" in cinese, o 炒 chǎo, \"frittura al salto\" in cinese, e 豚 buta, maiale, o ブー bū, grugnito. ",
+    "origin": "Pignite sembra essere basato sui maiali della specie British Saddleback. Le macchie scure ricordano anche un singlet. Le spirali sul suo corpo ricordano quelle su un vaso ding o tipiche della ceramica greca. I tipi di Pignite potrebbero anche derivare dai maiali da guerra, nello specifico sui maiali incendiari, una tattica descritta da alcuni scrittori greci. Ken Sugimori ha affermato che Tepig, Pignite e Emboar sono basati sulla cultura cinese, quindi sono possibilmente ispirati da Zhu Wuneng, un maiale demone del romanzo cinese Il viaggio in Occidente. Le linee evolutive di Snivy, Tepig, e Oshawott rappresentano le culture che hanno ispirato il design di Unima: occidentale, cinese e giapponese, rispettivamente. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Pignite",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Suinfuoco",
     "sprites": {
         "pignite": {
@@ -70,6 +68,6 @@
         ]
     },
     "weight": {
-        "pignite": "55.5 kg"
+        "pignite": "55,5 kg"
     }
 }

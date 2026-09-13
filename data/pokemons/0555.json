@@ -16,9 +16,9 @@
         }
     },
     "curiosities": [
-        "Darmanitan in Forma Normalità possiede la statistica di attacco più alta fra tutti i Pokémon di tipo Fuoco non leggendari o misteriosi e non megaevoluti.",
+        "Darmanitan di Galar in Forma Zen possiede la statistica di Attacco più alta fra tutti i Pokémon di tipo Fuoco non leggendari o misteriosi e non megaevoluti.",
         "La Forma Zen di Darmanitan è l'unica forma alternativa che non appare in Pokémon Super Mystery Dungeon.",
-        "La forma stato zen del Darmanitan di Galar ha una combinazione di tipi unica."
+        "Darmanitan di Galar in Forma Zen ha una combinazione di tipi unica."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/darmanitan.mp3",
     "dex_entries": {
@@ -32,7 +32,7 @@
             "omega-ruby": "Se resta ferito durante una battaglia violenta, diventa duro come la pietra e medita per purificare la mente.",
             "alpha-sapphire": "La sua fiamma interna, alla temperatura di 1400 °C, sviluppa una potenza tale da distruggere un autocarro."
         },
-        "forma-normalita": {
+        "stato-normale": {
             "sword": "Pokémon dal sangue caldo. I pugni che sferra con i suoi massicci arti superiori possono ridurre in polvere anche un autocarro.",
             "shield": "La sua fiamma interna può raggiungere temperature di oltre 1.400 °C. Più intensamente arde, più la potenza del Pokémon aumenta."
         },
@@ -55,17 +55,17 @@
     "flat_name": "darmanitan",
     "generation": 5,
     "height": {
-        "darmanitan-forma-normalita": "1.3 m",
-        "darmanitan-stato-zen": "1.3 m",
-        "forma-di-galar-forma-normalita": "1.7 m",
-        "forma-di-galar-stato-zen": "1.7 m"
+        "darmanitan-stato-normale": "1,3 m",
+        "darmanitan-stato-zen": "1,3 m",
+        "forma-di-galar-stato-normale": "1,7 m",
+        "forma-di-galar-stato-zen": "1,7 m"
     },
     "id": 555,
     "name": "Darmanitan",
-    "name_origin": "Darmanitan deriva da dharma e orangutan, orngotango. Il nome giapponese, ヒヒダルマ Hihidaruma, deriva da ヒヒ hihi, babbuino, 火達磨 hidaruma, l'essere ricoperto di fiamme, e だるま daruma. ",
-    "origin": "Darmanitan è basato su una bambola dharma, con riferimenti a Bodhidharma, e su una scimmia antropomorfa, oltre ad avere degli aspetti in comune con l'orangotango e il babbuino. Il suo Stato Zen è ispirato inoltre alle tre scimmie sagge: \"colei che non sente il male\", \"colei che non vede il male\" e \"colei che non parla del male\", segni riportati dalle mani con cui si tappa le orecchie, gli occhi vuoti, privi di pupilla, la bocca sottile e fermamente chiusa. La sua forma Zen di Galar è ispirata a un pupazzo di neve, che in giapponese è Yukidaruma . ",
+    "name_origin": "Darmanitan deriva da dharma e orangutan, orangotango. Il nome giapponese, ヒヒダルマ Hihidaruma, deriva da ヒヒ hihi, babbuino, 火達磨 hidaruma, l'essere ricoperto di fiamme, e だるま daruma. ",
+    "origin": "Darmanitan è basato su una bambola dharma, con riferimenti a Bodhidharma, e su una scimmia antropomorfa, oltre ad avere degli aspetti in comune con l'orangotango e il babbuino. La sua Forma Zen è ispirato inoltre alle tre scimmie sagge: \"colei che non sente il male\", \"colei che non vede il male\" e \"colei che non parla del male\", segni riportati dalle mani con cui si tappa le orecchie, gli occhi vuoti, privi di pupilla, la bocca sottile e fermamente chiusa. La sua Forma Zen di Galar è ispirata a un pupazzo di neve, che in giapponese è Yukidaruma . ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Darmanitan",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Altefiamme",
     "sprites": {
         "stato-normale": {
@@ -143,9 +143,9 @@
         ]
     },
     "weight": {
-        "darmanitan-forma-normalita": "92.9 kg",
-        "darmanitan-stato-zen": "92.9 kg",
-        "forma-di-galar-forma-normalita": "120.0 kg",
-        "forma-di-galar-stato-zen": "120.0 kg"
+        "darmanitan-stato-normale": "92,9 kg",
+        "darmanitan-stato-zen": "92,9 kg",
+        "forma-di-galar-stato-normale": "120,0 kg",
+        "forma-di-galar-stato-zen": "120,0 kg"
     }
 }

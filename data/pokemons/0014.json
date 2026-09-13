@@ -14,21 +14,53 @@
         "Le \"braccia\" di Kakuna, viste nello sprite di Pokémon Rosso e Blu, vengono spesso scambiate per un errore poiché non vengono mostrate in nessun altro media. Finora sono state mostrate solo nello sprite dei due giochi e in una carta Carddass."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/kakuna.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "kakuna": {
+            "red": "Quasi incapace di muoversi, questo POKéMON può solo indurire la sua corazza per proteggersi.",
+            "blue": "Quasi incapace di muoversi, questo POKéMON può solo indurire la sua corazza per proteggersi.",
+            "yellow": "Si muove molto lentamente. Se si sente minacciato avvelena il nemico con il suo pungiglione.",
+            "gold": "Pur essendo un bozzolo, può muoversi un po'. Può estendere il pungiglione quando è attaccato.",
+            "silver": "È destinato ad evolversi in un adulto. Mentre il corpo diventa più morbido, il guscio s'indurisce.",
+            "crystal": "Quasi incapace di muoversi, resta attaccato ai forti alberi, attendendo di evolversi.",
+            "ruby": "KAKUNA rimane praticamente immobile abbarbicato agli alberi. Tuttavia, internamente è intento a preparare la sua futura evoluzione. Lo si può capire dall'intensità del calore sviluppato dal guscio.",
+            "sapphire": "KAKUNA rimane praticamente immobile abbarbicato agli alberi. Tuttavia, internamente è intento a preparare la sua futura evoluzione. Lo si può capire dall'intensità del calore sviluppato dal guscio.",
+            "emerald": "KAKUNA rimane quasi immobile abbarbicato agli alberi. L'intensità del calore sviluppato dal guscio indica che internamente è intento a preparare la sua evoluzione.",
+            "fire-red": "Poiché il suo corpo è ancora in via di formazione, questo POKéMON è quasi totalmente incapace di muoversi.",
+            "leaf-green": "Quasi incapace di muoversi, questo POKéMON può solo indurire il proprio guscio per proteggersi.",
+            "diamond": "Si nasconde dai predatori dietro le foglie e fra i rami, in attesa dell'evoluzione.",
+            "pearl": "Si nasconde dai predatori dietro le foglie e fra i rami, in attesa dell'evoluzione.",
+            "platinum": "Si nasconde dai predatori dietro le foglie e fra i rami, in attesa dell'evoluzione.",
+            "heart-gold": "Pur essendo un bozzolo, può muoversi un po'. Può estendere il pungiglione quando è attaccato.",
+            "soul-silver": "Destinato ad evolversi in un adulto. Mentre il corpo diventa più morbido, il guscio s'indurisce.",
+            "black": "Si nasconde dai predatori dietro le foglie e fra i rami, in attesa dell'evoluzione.",
+            "white": "Si nasconde dai predatori dietro le foglie e fra i rami, in attesa dell'evoluzione.",
+            "black-2": "Si nasconde dai predatori dietro le foglie e fra i rami, in attesa dell'evoluzione.",
+            "white-2": "Si nasconde dai predatori dietro le foglie e fra i rami, in attesa dell'evoluzione.",
+            "x": "Quasi incapace di muoversi, questo Pokémon può solo indurire il proprio guscio per proteggersi.",
+            "y": "Si nasconde dai predatori dietro le foglie e fra i rami, in attesa dell'evoluzione.",
+            "omega-ruby": "Kakuna rimane praticamente immobile abbarbicato sugli alberi. Tuttavia, internamente è intento a preparare la sua futura evoluzione. Lo si può capire dall'intensità del calore sviluppato del guscio.",
+            "alpha-sapphire": "Kakuna rimane praticamente immobile abbarbicato sugli alberi. Tuttavia, internamente è intento a preparare la sua futura evoluzione. Lo si può capire dall'intensità del calore sviluppato del guscio.",
+            "lets-go-pikachu": "È molto limitato nei movimenti. Se si sente minacciato, estrae il pungiglione e avvelena il nemico.",
+            "lets-go-eevee": "È molto limitato nei movimenti. Se si sente minacciato, estrae il pungiglione e avvelena il nemico.",
+            "brilliant-diamond": "Si nasconde dai predatori dietro le foglie e fra i rami, in attesa dell'evoluzione.",
+            "shining-pearl": "Si nasconde dai predatori dietro le foglie e fra i rami, in attesa dell'evoluzione.",
+            "legends-za": "È quasi incapace di muoversi, e quando è in pericolo può indurire il proprio guscio per proteggersi."
+        }
+    },
     "egg_groups": [
         "Coleottero"
     ],
     "flat_name": "kakuna",
     "generation": 1,
     "height": {
-        "kakuna": "0.6 m"
+        "kakuna": "0,6 m"
     },
     "id": 14,
     "name": "Kakuna",
     "name_origin": "Kakuna potrebbe essere una corruzione di cocoon, bozzolo. Cocoon potrebbe derivare da コクーン cocoon, bozzolo. ",
     "origin": "Kakuna potrebbe essere basato su una pupa d'ape o di vespa. Nello specifico, potrebbe essere basato su una pupa di ape comune. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Kakuna",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Bozzolo",
     "sprites": {
         "kakuna": {
@@ -52,11 +84,11 @@
     },
     "types": {
         "kakuna": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {
-        "kakuna": "10.0 kg"
+        "kakuna": "10,0 kg"
     }
 }

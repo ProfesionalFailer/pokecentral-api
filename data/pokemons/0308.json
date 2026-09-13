@@ -9,28 +9,55 @@
         }
     },
     "curiosities": [
-        "In terza generazione, Meditite e Medicham avevano una combinazione di tipi unica.",
-        "Meditite e Medicham sono gli unici Pokémon che hanno l'abilità Forzapura.",
-        "È insieme a Meditite uno dei pochi Pokémon ad usare il suo aspetto femminile come artwork ufficiale.\n\tIn terza generazione, prima dell'introduzione delle differenze tra i sessi, tutti i Meditite e i Medicham avevano l'aspetto della femmina, indipendentemente dal sesso.",
-        "In terza generazione, prima dell'introduzione delle differenze tra i sessi, tutti i Meditite e i Medicham avevano l'aspetto della femmina, indipendentemente dal sesso.",
+        "È insieme a Meditite uno dei pochi Pokémon ad usare il suo aspetto femminile come artwork ufficiale.\n\tIn terza generazione, prima dell'introduzione delle differenze tra i sessi, tutti i Meditite e i Medicham avevano l'aspetto della femmina.",
+        "In terza generazione, prima dell'introduzione delle differenze tra i sessi, tutti i Meditite e i Medicham avevano l'aspetto della femmina.",
         "La colorazione normale e quella cromatica di Medicham sono opposte a quelle della sua pre-evoluzione Meditite. La colorazione normale di Medicham è principalmente rosa, mentre la sua colorazione cromatica è principalmente blu, laddove Meditite è principalmente blu e la sua colorazione cromatica è principalmente rosa."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/medicham.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "medicham": {
+            "ruby": "Si dice che, grazie alla meditazione, MEDICHAM incrementi la propria energia fisica e affini il sesto senso. Si nasconde efficacemente mimetizzandosi nei campi e in montagna.",
+            "sapphire": "Grazie alla propria abilità meditativa MEDICHAM ha sviluppato il sesto senso. Ha acquisito anche la capacità di usare i poteri psicocinetici. È noto per rimanere fermo in meditazione un mese intero senza mangiare.",
+            "emerald": "Con rigorosi esercizi di yoga, MEDICHAM ha acquisito la capacità di prevedere le mosse del nemico. I movimenti aggraziati durante la lotta sembrano passi di danza.",
+            "fire-red": "Evita elegantemente gli attacchi a passo di danza, per poi lanciare devastanti attacchi con la stessa grazia.",
+            "leaf-green": "Evita elegantemente gli attacchi a passo di danza, per poi lanciare devastanti attacchi con la stessa grazia.",
+            "diamond": "Con gli esercizi di yoga ha affinato il sesto senso. I suoi movimenti sono molto eleganti.",
+            "pearl": "Grazie alla meditazione quotidiana affina la sua forza spirituale e riesce a intuire i pensieri altrui.",
+            "platinum": "Riesce a percepire l'aura dei nemici allenando la sua mente tramite il digiuno.",
+            "heart-gold": "Conosce le mosse del nemico grazie ai poteri di preveggenza ottenuti con le pratiche yoga.",
+            "soul-silver": "Conosce le mosse del nemico grazie ai poteri di preveggenza ottenuti con le pratiche yoga.",
+            "black": "Riesce a percepire l'aura dei nemici allenando la sua mente tramite il digiuno.",
+            "white": "Riesce a percepire l'aura dei nemici allenando la sua mente tramite il digiuno.",
+            "black-2": "Riesce a percepire l'aura dei nemici allenando la sua mente tramite il digiuno.",
+            "white-2": "Riesce a percepire l'aura dei nemici allenando la sua mente tramite il digiuno.",
+            "x": "Evita elegantemente gli attacchi a passo di danza, per poi lanciare devastanti attacchi con la stessa grazia.",
+            "y": "Conosce le mosse del nemico grazie ai poteri di preveggenza ottenuti con le pratiche yoga.",
+            "omega-ruby": "Si dice che, grazie alla meditazione, Medicham incrementi la propria energia fisica e affini il sesto senso. Si nasconde efficacemente mimetizzandosi nei campi e in montagna.",
+            "alpha-sapphire": "Grazie alla propria abilità meditativa Medicham ha sviluppato il sesto senso. Ha acquisito anche la capacità di usare i poteri psicocinetici. È noto per rimanere fermo in meditazione un mese intero senza mangiare.",
+            "brilliant-diamond": "Ha affinato il sesto senso facendo yoga. I suoi movimenti sono molto eleganti.",
+            "shining-pearl": "Grazie alla meditazione quotidiana affina la sua forza spirituale e riesce a intuire i pensieri altrui.",
+            "scarlet": "È in grado di conoscere in anticipo le mosse del nemico grazie ai poteri di preveggenza ottenuti con le pratiche yoga.",
+            "violet": "Evita gli attacchi con la grazia di un ballerino e controbatte lanciando devastanti colpi altrettanto elegantemente.",
+            "legends-za": "È in grado di prevedere i movimenti del nemico grazie ai poteri psichici temprati con le pratiche yoga."
+        },
+        "megamedicham": {
+            "legends-za": "Dopo la megaevoluzione il potere della sua mente non ha più limiti. Atterra il nemico evocando col pensiero delle braccia assetate di sangue."
+        }
+    },
     "egg_groups": [
         "Umanoide"
     ],
     "flat_name": "medicham",
     "generation": 3,
     "height": {
-        "medicham": "1.30 m"
+        "medicham": "1,30 m"
     },
     "id": 308,
     "name": "Medicham",
-    "name_origin": "Medicham potrebbe essere combinazione di meditate  e champion . Il nome giapponese チャーレム Charem può essere una storpiatura di champ , charm , harem o challenge . ",
-    "origin": "Come per la sua pre-evoluzione ricorda un primato che pratica yoga, il suo aspetto ricorda un danzatore orientale o un jinn. ",
+    "name_origin": "Medicham potrebbe essere combinazione di meditate, meditare, e champion, campione. Charem, il suo nome giapponese, potrebbe derivare da charm, fascino, harem pants, Pantaloni alla turca, champion, e possibilmente challenge, sfida. ",
+    "origin": "Meditite sembra essere basato su un praticante di yoga, ed è visto in meditazione in quasi tutti i media in cui appare. Potrebbe anche basarsi su delle ballerine del ventre arabe, mentre i suoi pantaloni ricordano dei badlah, dei pantaloni tradizionali, mentre la testa ricorda uno scialle. L'escrescenza più lunga sulla testa del Pokémon ricorda una coda di cavallo, con cui sono spesso raffigurati i Jinn, o geni, della mitologia araba nei media occidentali. Potrebbe inoltre prendere ispirazione dai monaci Shaolin, famosi per la loro tecnica di combattimento. La sua forma Megaevoluta potrebbe prendere ispirazione da un danzatore della pioggia. Come la sua preevoluzione, Medicham ricorda varie divinità induiste, come Siva e Ardhanārīśvara, la fusione di Siva e sua moglie Śakti. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Medicham",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Meditazione",
     "sprites": {
         "medicham": {
@@ -76,6 +103,6 @@
         ]
     },
     "weight": {
-        "medicham": "31.5 kg"
+        "medicham": "31,5 kg"
     }
 }

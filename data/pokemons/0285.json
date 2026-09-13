@@ -13,7 +13,32 @@
         "In quarta generazione, Shroomish può imparare Falsofinale tramite accoppiamento ma non tramite MT."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/shroomish.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "shroomish": {
+            "ruby": "SHROOMISH vive nel suolo umido nel cuore della foresta buia. Spesso si nasconde sotto le foglie cadute. Si ciba dell'humus creato dal letto di foglie decomposte sul terreno.",
+            "sapphire": "In caso di pericolo SHROOMISH agita il proprio corpo spargendo spore dalla sommità del capo. Le spore di questo POKéMON sono così tossiche da far appassire fiori e piante.",
+            "emerald": "Gli SHROOMISH prediligono come nutrimento l'humus della foresta. Dopo lunghe piogge, è facile vederli riempirsene la pancia.",
+            "fire-red": "Predilige le aree umide. Di giorno resta immobile nell'ombra della foresta. Dal capo rilascia polvere tossica.",
+            "leaf-green": "Predilige le aree umide. Di giorno resta immobile nell'ombra della foresta. Dal capo rilascia polvere tossica.",
+            "diamond": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "pearl": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "platinum": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "heart-gold": "Quando fiuta il pericolo, si difende spargendo spore tossiche dalla sommità del capo.",
+            "soul-silver": "Quando fiuta il pericolo, si difende spargendo spore tossiche dalla sommità del capo.",
+            "black": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "white": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "black-2": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "white-2": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "x": "Predilige le aree umide. Di giorno resta immobile nell'ombra della foresta. Dal capo rilascia polvere tossica.",
+            "y": "Sparge spore tossiche dalla sommità del capo. Se inalate, queste spore provocano dolore in tutto il corpo.",
+            "omega-ruby": "Shroomish vive nel suolo umido nel cuore della foresta buia. Spesso si nasconde sotto le foglie cadute. Si ciba dell'humus creato dal letto di foglie decomposte sul terreno.",
+            "alpha-sapphire": "In caso di pericolo Shroomish agita il proprio corpo spargendo spore dalla sommità del capo. Le spore di questo Pokémon sono così tossiche da far appassire fiori e piante.",
+            "brilliant-diamond": "Dalla sommità del capo sparge spore tossiche che, se inalate, provocano dolore in tutto il corpo.",
+            "shining-pearl": "Dalla sommità del capo sparge spore tossiche che, se inalate, provocano dolore in tutto il corpo.",
+            "scarlet": "Predilige le aree umide. Di giorno resta immobile nell’ombra della foresta. Dal capo rilascia una polvere tossica.",
+            "violet": "Quando fiuta il pericolo, si difende spargendo spore tossiche dalla sommità del capo."
+        }
+    },
     "egg_groups": [
         "Magico",
         "Erba"
@@ -21,14 +46,14 @@
     "flat_name": "shroomish",
     "generation": 3,
     "height": {
-        "shroomish": "0.40 m"
+        "shroomish": "0,40 m"
     },
     "id": 285,
     "name": "Shroomish",
-    "name_origin": "\"Shroomish\" può derivare da mushroom, fungo, e dal suffisso -ish, che indica approssimazione, o skirmish, schermaglia. \"Kinococo\" può essere una combinazione di キノコ kinoko, fungo, e 子 ko, bambino. ",
+    "name_origin": "Shroomish potrebbe derivare da mushroom, fungo, e dal suffisso -ish, che indica similitudine , o skirmish, schermaglia. Kinococo, il suo nome giapponese, potrebbe essere una combinazione di キノコ kinoko, fungo, e 子 ko, bambino. ",
     "origin": "Shroomish sembra essere basato su un fungo, in particolare sul fungo palloncino o su un fungo stella. Potrebbe anche essere basato su un uovo di dinosauro per via della sua forma rotonda, del suo schema di colori che corrisponde a quello di un Uovo Pokémon e della somiglianza della sua forma evoluta Breloom con alcuni dinosauri. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Shroomish",
-    "shape": "testa e gambe",
+    "shape": "None",
     "specie": "Pokémon Fungo",
     "sprites": {
         "shroomish": {
@@ -56,6 +81,6 @@
         ]
     },
     "weight": {
-        "shroomish": "4.5 kg"
+        "shroomish": "4,5 kg"
     }
 }

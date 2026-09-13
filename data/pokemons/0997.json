@@ -18,13 +18,16 @@
         "Pokémon di Gruppo Uova Drago",
         "Pokémon di Gruppo Uova Minerale",
         "Pokémon appartenenti a una linea di evoluzione a tre stadi",
-        "Pokémon con statistiche base totali di 423"
+        "Pokémon con statistiche base totali di 423",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/arctibax.mp3",
     "dex_entries": {
         "arctibax": {
             "scarlet": "Congela l'aria circostante per proteggere il muso con una maschera di ghiaccio e ricoprire la cresta dorsale di lame di ghiaccio.",
-            "violet": "Colpisce il nemico con le lame ghiacciate della cresta dorsale facendo una capriola in avanti. Questo attacco richiede gambe molto potenti."
+            "violet": "Colpisce il nemico con le lame ghiacciate della cresta dorsale facendo una capriola in avanti. Questo attacco richiede gambe molto potenti.",
+            "legends-za": "È equipaggiato di lame sulla cresta dorsale e di una maschera di ghiaccio. Si lancia contro l'avversario con agili movimenti per poi lacerarlo."
         }
     },
     "egg_groups": [
@@ -34,14 +37,14 @@
     "flat_name": "arctibax",
     "generation": 9,
     "height": {
-        "arctibax": "0.8 m"
+        "arctibax": "0,8 m"
     },
     "id": 997,
     "name": "Arctibax",
     "name_origin": "Arctibax potrebbe essere una combinazione di arctic  e back . ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Arctibax",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Gelopinna",
     "sprites": {
         "arctibax": {
@@ -70,6 +73,6 @@
         ]
     },
     "weight": {
-        "arctibax": "30.0 kg"
+        "arctibax": "30,0 kg"
     }
 }

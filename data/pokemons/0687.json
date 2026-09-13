@@ -4,10 +4,13 @@
             "primary": "Inversione",
             "secondary": "Ventose",
             "hidden": "Intrapasso"
+        },
+        "megamalamar": {
+            "primary": "Inversione"
         }
     },
     "curiosities": [
-        "Malamar, così come la sua pre-evoluzione Inkay, hanno un tipo unico nel loro genere. Infatti sono gli unici Pokémon ad essere del doppio tipo Buio/Psico.\n\tQuesto non contando Hoopa Libero, che però ha la combinazione di tipi invertita.",
+        "Malamar, così come la sua pre-evoluzione Inkay, hanno una combinazione di tipi unica.\n\tQuesto non contando Hoopa Libero, che però ha la combinazione di tipi invertita.",
         "Questo non contando Hoopa Libero, che però ha la combinazione di tipi invertita.",
         "Questo è il primo Pokémon che si evolve tramite livello e con la console capovolta.",
         "Malamar e la sua pre-evoluzione sono stati disegnati da Hitoshi Ariga.",
@@ -24,7 +27,11 @@
             "ultra-sun": "Possiede incredibili poteri ipnotici che tanti malintenzionati cercano di sfruttare a proprio vantaggio.",
             "ultra-moon": "Fa lampeggiare i motivi sul suo corpo per attirare a sé la preda. Le estremità dei suoi tentacoli sono affilatissime.",
             "sword": "Chi osserva troppo a lungo la luce dei motivi sul suo corpo viene ipnotizzato e cade sotto il suo controllo.",
-            "shield": "Si dice che il potere ipnotico di questo Pokémon abbia giocato un ruolo nei grandi avvenimenti che hanno cambiato il corso della storia."
+            "shield": "Si dice che il potere ipnotico di questo Pokémon abbia giocato un ruolo nei grandi avvenimenti che hanno cambiato il corso della storia.",
+            "legends-za": "È il Pokémon con il potere ipnotico più forte in assoluto. Può controllare a piacimento i suoi nemici."
+        },
+        "megamalamar": {
+            "legends-za": "Usa le luci dai vividi colori per sovrascrivere la personalità e i ricordi dell'avversario. In questo modo lo controlla a suo piacimento."
         }
     },
     "egg_groups": [
@@ -34,39 +41,52 @@
     "flat_name": "malamar",
     "generation": 6,
     "height": {
-        "malamar": "1.5 m"
+        "malamar": "1,5 m"
     },
     "id": 687,
     "name": "Malamar",
     "name_origin": "Malamar può essere una combinazione di mal e calamar, calamaro in inglese. Karamanero può derivare da 絡ます karamasu , calamari e 魔 ma . ",
     "origin": "Malamar è basato su un calamaro. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Malamar",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Giravolta",
     "sprites": {
         "malamar": {
             "default": "https://media.pokemoncentral.it/wiki/a/a7/Homem0687.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/8f/Homemsh0687.png"
         },
+        "megamalamar": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8c/Homem0687M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/2/24/Homemsh0687M.png"
+        },
         "official_artwork": "https://media.pokemoncentral.it/wiki/0/0d/Artwork0687_XY.png"
     },
     "stats": {
-        "statistiche-base": {
+        "malamar": {
             "hp": 86,
             "atk": 92,
             "def": 88,
             "spa": 68,
             "spd": 75,
             "spe": 73
+        },
+        "megamalamar": {
+            "hp": 86,
+            "atk": 102,
+            "def": 88,
+            "spa": 98,
+            "spd": 120,
+            "spe": 88
         }
     },
     "stats_sum": {
-        "statistiche-base": 482
+        "malamar": 482,
+        "megamalamar": 582
     },
     "types": {
         "malamar": [
-            "Psico",
-            "Buio"
+            "Buio",
+            "Psico"
         ]
     },
     "weight": {

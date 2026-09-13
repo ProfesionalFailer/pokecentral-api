@@ -6,35 +6,68 @@
         }
     },
     "curiosities": [
-        "Dal suo debutto in seconda generazione, la combinazione di colori di Crobat è stata la combinazione di colori di Golbat invertita. Ciò vale anche per la sua variazione cromatica.",
+        "La combinazione di colori di Crobat è la stessa di Golbat invertita. Ciò vale anche per la sua variazione cromatica.",
         "Crobat è il più veloce Pokémon di tipo Veleno, con una velocità base di 130.",
         "Crobat è il primo Pokémon nel Pokédex Nazionale a essere correlato con l'evoluzione di un Pokémon da una generazione precedente.",
         "Crobat, insieme a Zubat e Golbat, è l'unico Pokémon ad avere la combinazione di tipi Veleno/Volante.",
         "Golbat, anche al massimo dell'affetto in Rosso Fuoco e Verde Foglia, non può evolversi in Crobat se non si possiede il Pokédex Nazionale: al momento dell'evoluzione il Pokémon rimarrà uguale e apparirà la scritta \"...?\"",
-        "In sesta generazione, nel videogioco Pokémon X e Y, il verso di Crobat è cambiato.",
+        "In Pokémon X e Y il verso di Crobat è cambiato.",
         "I \"piedi\" di Crobat non sono mai stati mostrati negli sprite frontali dei giochi fino alla Quinta Generazione. Nonostante ciò, alcune voci del Pokédex più recenti descrivono come le sue zampe posteriori si siano trasformate in ali.",
         "Crobat condivide con Zubat, Golbat e Woobat la stessa categoria. Sono tutti noti come Pokémon Pipistrello.",
-        "Crobat può essere visto come un parallelo di Noivern.\n\tSono Pokémon di tipo Volante.\n\tPossono avere Intrapasso come abilità.\n\tHanno la stessa statistica base di Difesa, Punti Salute, e Difesa Speciale.",
+        "Crobat può essere visto come un parallelo di Noivern:\n\tSono Pokémon di tipo Volante.\n\tPossono avere Intrapasso come abilità.\n\tHanno la stessa statistica base di Difesa, Punti Salute, e Difesa Speciale.",
         "Sono Pokémon di tipo Volante.",
         "Possono avere Intrapasso come abilità.",
         "Hanno la stessa statistica base di Difesa, Punti Salute, e Difesa Speciale."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/crobat.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "crobat": {
+            "gold": "È così silenzioso quando vola nel buio con le sue quattro ali, che è difficile notarlo anche se è vicino.",
+            "silver": "Le ali sviluppatissime lo fanno volare veloce, ma gli rendono anche difficile fermarsi e riposarsi.",
+            "crystal": "Gli è cresciuto un altro paio di ali, con cui può volare in modo ancora più rapido e silenzioso.",
+            "ruby": "Quando CROBAT vola agitando soltanto un paio d'ali, quelle anteriori o quelle posteriori, significa che ha affrontato un volo molto lungo. Infatti, se è stanco cambia le ali che sta usando.",
+            "sapphire": "CROBAT si avvicina furtivo alla preda con le sue ali silenziosissime. Questo POKéMON si riposa aggrappato ai rami degli alberi con le zampe posteriori, che servono anche da ali.",
+            "emerald": "Con l'evoluzione, le zampe posteriori di CROBAT si sono trasformate in ali. È in grado di volare per giornate intere alternando nell'uso ali posteriori e anteriori.",
+            "fire-red": "Le ali sviluppatissime lo fanno volare veloce, ma gli rendono anche difficile fermarsi e riposarsi.",
+            "leaf-green": "È così silenzioso quando vola nel buio con le sue quattro ali, che è difficile notarlo anche se è vicino.",
+            "diamond": "Le sue quattro ali gli permettono di volare più velocemente e più silenziosamente. È attivo di notte.",
+            "pearl": "Le zampe di questo Pokémon si sono trasformate in ali e in questo modo è diventato abilissimo a volare.",
+            "platinum": "La trasformazione delle sue zampe in ali lo ha reso più leggiadro in volo ma più goffo a terra.",
+            "heart-gold": "Vola nel buio con le sue quattro ali in modo talmente silenzioso che è difficile notarlo anche se è vicino.",
+            "soul-silver": "Le ali sviluppatissime lo fanno volare veloce, ma gli rendono anche difficile fermarsi e riposarsi.",
+            "black": "La trasformazione delle sue zampe in ali lo ha reso più leggiadro in volo ma più goffo a terra.",
+            "white": "La trasformazione delle sue zampe in ali lo ha reso più leggiadro in volo ma più goffo a terra.",
+            "black-2": "Con il secondo paio d'ali ottenuto dall'evoluzione, vola verso le prede in modo ancora più veloce e silenzioso.",
+            "white-2": "Con il secondo paio d'ali ottenuto dall'evoluzione, vola verso le prede in modo ancora più veloce e silenzioso.",
+            "x": "Vola nel buio con le sue quattro ali in modo talmente silenzioso che è difficile notarlo anche se è vicino.",
+            "y": "Con il secondo paio d'ali ottenuto dall'evoluzione, vola verso le prede in modo ancora più veloce e silenzioso.",
+            "omega-ruby": "Quando Crobat vola agitando soltanto un paio d'ali, quelle anteriori o quelle posteriori, significa che ha affrontato un volo molto lungo. Infatti, se è stanco cambia le ali che sta usando.",
+            "alpha-sapphire": "Crobat si avvicina furtivo alla preda con le sue ali silenziosissime. Questo Pokémon si riposa aggrappato ai rami degli alberi con le zampe posteriori, che servono anche da ali.",
+            "sun": "Le sue zampe si sono trasformate in ali, rendendolo molto goffo negli spostamenti a terra, dove ormai può avanzare solo strisciando.",
+            "moon": "Vola rapido e silenzioso grazie alle sue quattro ali. Azzanna l'ignara preda e e fugge via in un baleno lasciandola esangue.",
+            "ultra-sun": "Succhia il sangue alle sue vittime nell'oscurità. Le sue zanne sono così affilate che i suoi morsi sono indolori e le vittime non se ne accorgono.",
+            "ultra-moon": "Si nutre del sangue di persone e Pokémon. Se rimane senza anche solo per poco, si indebolisce al punto di non riuscire più a volare.",
+            "sword": "Le due zampe si sono mutate in ali. Vola verso la preda ad alta velocità senza fare alcun rumore e le affonda le zanne nella nuca.",
+            "shield": "Vola controllando indipendentemente le sue quattro ali. Non riduce la velocità nemmeno nelle caverne più anguste.",
+            "brilliant-diamond": "Le sue quattro ali gli permettono di volare più velocemente e più silenziosamente. È attivo di notte.",
+            "shining-pearl": "Le zampe di questo Pokémon si sono trasformate in ali, tanto da renderlo abilissimo a volare.",
+            "legends-arceus": "Le ali posteriori erano in origine arti. Grazie alle quattro ali sfreccia in volo con destrezza e velocità, che rimane immutata persino in anguste caverne."
+        }
+    },
     "egg_groups": [
         "Volante"
     ],
     "flat_name": "crobat",
     "generation": 2,
     "height": {
-        "crobat": "1.8 m"
+        "crobat": "1,8 m"
     },
     "id": 169,
     "name": "Crobat",
-    "name_origin": "Il nome è una combinazione delle parole \"cross\"  e \"bat\" , oppure potrebbe essere una corruzione di \"acrobat\"  a causa della sua destrezza in aria. ",
-    "origin": "Crobat è basato su un pipistrello. ",
+    "name_origin": "Crobat potrebbe essere una combinazione di parole cross, croce, e bat, pipistrello, oppure potrebbe essere una corruzione di acrobat, acrobata. ",
+    "origin": "Crobat sembra essere ispirato ad un pipistrello, più precisamente ad un pipistrello vampiro che si nutre del sangue delle proprie prede. Potrebbe inoltre prendere ispirazione dai vampiri mitologici. Le sue quattro ali potrebbero essere ispirate dal fatto che le zampe anteriori e posteriori di un pipistrello sono collegate dal patagio. La sua alta velocità potrebbe derivare dal pipistrello dalla coda libera messicano, l'animale con la velocità di volo orizzontale maggiore. Il suo tipo veleno potrebbe derivare dalle proprietà anticoagulanti della saliva di pipistrello vampiro, o dal fatto che i pipistrelli possono diffondere malattie come la rabbia. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Crobat",
-    "shape": "due paia di ali",
+    "shape": "None",
     "specie": "Pokémon Pipistrello",
     "sprites": {
         "crobat": {
@@ -58,11 +91,11 @@
     },
     "types": {
         "crobat": [
-            "Veleno",
-            "Volante"
+            "Volante",
+            "Veleno"
         ]
     },
     "weight": {
-        "crobat": "75.0 kg"
+        "crobat": "75,0 kg"
     }
 }

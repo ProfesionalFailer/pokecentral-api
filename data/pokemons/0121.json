@@ -4,6 +4,9 @@
             "primary": "Risplendi",
             "secondary": "Alternacura",
             "hidden": "Ponderazione"
+        },
+        "megastarmie": {
+            "primary": "Macroforza"
         }
     },
     "curiosities": [
@@ -22,13 +25,13 @@
             "ruby": "Il centro del corpo di STARMIE, il suo nucleo, brilla in sette colori. Per la sua luminosità è chiamato Gemma del mare.",
             "sapphire": "STARMIE nuota roteando vorticosamente il corpo a stella come fosse l'elica di una nave. Il suo nucleo brilla in sette diversi colori.",
             "emerald": "Nell'antichità si pensava che STARMIE venisse generato dai riflessi delle stelle che brillano sulle onde leggere del mare durante la notte.",
-            "firered": "A causa del corpo geometrico, la gente crede che si tratti di una creatura aliena.",
-            "leafgreen": "Nel suo nucleo brillano i sette colori dell'arcobaleno. Qualcuno lo considera una pietra preziosa.",
+            "fire-red": "A causa del corpo geometrico, la gente crede che si tratti di una creatura aliena.",
+            "leaf-green": "Nel suo nucleo brillano i sette colori dell'arcobaleno. Qualcuno lo considera una pietra preziosa.",
             "diamond": "Al centro del corpo ha un nucleo rosso che diffonde misteriosi segnali radio nel cielo notturno.",
             "pearl": "Al centro del corpo ha un nucleo rosso che diffonde misteriosi segnali radio nel cielo notturno.",
             "platinum": "Al centro del corpo ha un nucleo rosso che diffonde misteriosi segnali radio nel cielo notturno.",
-            "heartgold": "La parte centrale del suo corpo è chiamata nucleo. Ogni volta ha un colore diverso.",
-            "soulsilver": "Indipendentemente da dove vive, il suo corpo cresce assumendo una forma geometrica simmetrica.",
+            "heart-gold": "La parte centrale del suo corpo è chiamata nucleo. Ogni volta ha un colore diverso.",
+            "soul-silver": "Indipendentemente da dove vive, il suo corpo cresce assumendo una forma geometrica simmetrica.",
             "black": "Al centro del corpo ha un nucleo rosso che diffonde misteriosi segnali radio nel cielo notturno.",
             "white": "Al centro del corpo ha un nucleo rosso che diffonde misteriosi segnali radio nel cielo notturno.",
             "black-2": "Il suo nucleo brilla dei colori dell'iride ed emette delle onde radio con le quali Starmie comunica con l' universo.",
@@ -44,7 +47,11 @@
             "lets-go-pikachu": "La parte centrale, chiamata nucleo, riluce dei sette colori dell'arcobaleno. Si dice che lo usi per comunicare.",
             "lets-go-eevee": "La parte centrale, chiamata nucleo, riluce dei sette colori dell'arcobaleno. Si dice che lo usi per comunicare.",
             "sword": "Quando scatena i suoi poteri psichici, l'organo centrale, detto nucleo, brilla di sette colori diversi.",
-            "shield": "Risucchia il plancton mentre nuota nel mare facendo ruotare il suo corpo ad alta velocità."
+            "shield": "Risucchia il plancton mentre nuota nel mare facendo ruotare il suo corpo ad alta velocità.",
+            "legends-za": "Al centro del corpo ha un nucleo rosso che diffonde misteriosi segnali radio nel cielo notturno."
+        },
+        "megastarmie": {
+            "legends-za": "I suoi movimenti si sono fatti più umani. Non si sa se sia per comunicare meglio con gli esseri umani o se invece intenda prendere il loro posto."
         }
     },
     "egg_groups": [
@@ -53,19 +60,24 @@
     "flat_name": "starmie",
     "generation": 1,
     "height": {
-        "starmie": "1.1 m"
+        "starmie": "1,1 m",
+        "megastarmie": "2,3 m"
     },
     "id": 121,
     "name": "Starmie",
-    "name_origin": "Il nome di Starmie deriva da star, stella, e mie, probabilmente una corruzione di me, me, in opposizione allo yu di Staryu. Il suo nome potrebbe anche contenere 珠 mi, gemma, in riferimento al suo nucleo. ",
-    "origin": "È una stella marina stilizzata, particolarmente simile alla specie Acanthaster planci. In alcuni dei suoi sprite assomiglia ad una bussola. ",
+    "name_origin": "Starmie potrebbe derivare da star , mystery, mistero, o me, in opposizione al you in Staryu. ",
+    "origin": "Starmie sembra essere basato su una stella marina, più precisamente su una Pisaster ochraceus dato il colore, una Pycnopodia helianthoides dato il numero di arti, o una Fromia heffernani dato il colore e il pattern centrale. Come Starmie, molte stelle marine reali possono rigenerare parti del corpo perdute. Date le connessioni con lo spazio, potrebbe essere basato su una vera e propria stella o su una meteora. Ricorda anche dei gioielli ornati, con il nucleo che presenta somiglianze ad un cabochon in un'incastonatura a griffe. Il colore della gemma nella forma normale ricorda un rubino, mentre nella forma cromatica ricorda uno zaffiro. La sua tendenza a roteare il proprio corpo ad alta velocità lo accomuna a degli shuriken o ad un'elica. Il suo genere sconosciuto potrebbe rappresentare l'ermafroditismo, presente anche nelle stelle marine. La possibilità di imparare vari attacchi basati sui raggi e la gemma al suo centro che si comporta come cuore potrebbero essere un riferimento alla serie di Ultra, in cui alcuni personaggi sono dotati di gemme simili sul petto che lampeggiano quando sono deboli, in modo simile alla gemma di Staryu come visto nella serie animata. I collegamenti allo spazio, insieme all'aspetto generale, possono ricordare i Pairan, alieni a forma di stella marina con un occhio al centro del corpo del film Warning from Space. La forma più umanoide di MegaStarmie potrebbe essere un gioco di parole su 人手 hitode , che si può tradurre anche con \"mano umana\", con enfasi su \"umana\". L'aspetto umanoide può farlo assomigliare ad una persona in costume, ovvero come erano raffigurati i mostri in serie tokusatsu. La posa in cui si trova dopo la megaevoluzione ricorda pose tipiche di vari eroi. Questa posa, oltre all'abilità di usare attacchi basati su raggi, può ricordare gli Starman della serie di videogiochi EarthBound, alla quale hanno collaborato alcuni membri di GAME FREAK. Alcune forme più potenti di Starmen presentano punte sulle spalle, in modo simile alla seconda stella sul retro di Starmie. La voce Pokédex di MegaStarmie fornisce un ulteriore collegamento ai Pairan: in essa viene descritto come non siano conosciuti i suoi obiettivi, se rimpiazzare gli umani o comunicare con loro; nel film i Pairan cercano di avvisare con gli umani riguardo una minaccia aliena, e per farlo si trasformano in umani a loro volta, comportamento che viene interpretato come tentativo di sostituire gli umani. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Starmie",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Misterioso",
     "sprites": {
         "starmie": {
             "default": "https://media.pokemoncentral.it/wiki/b/b9/Homem0121.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/88/Homemsh0121.png"
+        },
+        "megastarmie": {
+            "default": "https://media.pokemoncentral.it/wiki/7/75/Homem0121M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/3/39/Homemsh0121M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/a/a7/Artwork0121_RFVF.png"
     },
@@ -77,18 +89,28 @@
             "spa": 100,
             "spd": 85,
             "spe": 115
+        },
+        "megastarmie": {
+            "hp": 60,
+            "atk": 100,
+            "def": 105,
+            "spa": 130,
+            "spd": 105,
+            "spe": 120
         }
     },
     "stats_sum": {
-        "starmie": 520
+        "starmie": 520,
+        "megastarmie": 620
     },
     "types": {
         "starmie": [
-            "Psico",
-            "Acqua"
+            "Acqua",
+            "Psico"
         ]
     },
     "weight": {
-        "starmie": "80.0 kg"
+        "starmie": "80,0 kg",
+        "megastarmie": "80,0 kg"
     }
 }

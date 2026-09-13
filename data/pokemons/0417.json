@@ -7,9 +7,9 @@
         }
     },
     "curiosities": [
-        "Nonostante il suo nome derivi dall'onomatopea giapponese del battere le mani , Pachirisu ha le zampe anteriori talmente corte che difficilmente riuscirebbe a metterle a contatto fra di loro.",
         "Pachirisu ha il totale di statistiche base più basso di qualsiasi Pokémon facente parte di una squadra vincente ai Campionati Mondiali.",
-        "Pachirisu è l'unico Pokémon ammesso al Parco Concordia a non avere una linea evolutiva."
+        "Pachirisu è l'unico Pokémon ammesso al Parco Concordia a non avere una linea evolutiva.",
+        "Pachirisu è l'unico Pokémon capace di imparare Iperzanna a non essere di tipo Normale."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/pachirisu.mp3",
     "dex_entries": {
@@ -17,8 +17,8 @@
             "diamond": "Forma delle palle di pelo cariche elettrostaticamente e le conserva negli alberi insieme alle bacche.",
             "pearl": "Nelle sacche sulle guance si forma elettricità, che rilascia poi dalla coda. Vive in cima agli alberi.",
             "platinum": "Talvolta due esemplari si sfregano le guance per condividere l'elettricità immagazzinata.",
-            "heartgold": "Nelle sacche sulle sue guance si forma elettricità, che la coda poi rilascia.",
-            "soulsilver": "Nelle sacche sulle sue guance si forma elettricità, che la coda poi rilascia.",
+            "heart-gold": "Nelle sacche sulle sue guance si forma elettricità, che la coda poi rilascia.",
+            "soul-silver": "Nelle sacche sulle sue guance si forma elettricità, che la coda poi rilascia.",
             "black": "Talvolta due esemplari si sfregano le guance per condividere l'elettricità immagazzinata.",
             "white": "Talvolta due esemplari si sfregano le guance per condividere l'elettricità immagazzinata.",
             "black-2": "Talvolta due esemplari si sfregano le guance per condividere l'elettricità immagazzinata.",
@@ -41,14 +41,14 @@
     "flat_name": "pachirisu",
     "generation": 4,
     "height": {
-        "pachirisu": "0.4 m"
+        "pachirisu": "0,4 m"
     },
     "id": 417,
     "name": "Pachirisu",
-    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole giapponesi パチパチ pachipachi  e りす risu . ",
-    "origin": "Pachirisu è basato su uno scoiattolo. ",
+    "name_origin": "Pachirisu potrebbe derivare da パチパチ pachipachi, onomatopea per lo scoppiettio dell'elettricità, e りす risu, scoiattolo. ",
+    "origin": "Pachirisu sembra essere basato su uno scoiattolo. Le parti spinose sulla coda e possibilmente le sue orecchie ricordano gli effetti dell'elettricità statica sui peli. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Pachirisu",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Elescoiatto",
     "sprites": {
         "pachirisu": {
@@ -59,7 +59,7 @@
             "default": "https://media.pokemoncentral.it/wiki/1/14/Homef0417.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/33/Homefsh0417.png"
         },
-        "official_artwork": "https://media.pokemoncentral.it/wiki/6/69/Artwork0417_DLPS.png"
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/c2/Artwork0417_DP.png"
     },
     "stats": {
         "pachirisu": {
@@ -80,6 +80,6 @@
         ]
     },
     "weight": {
-        "pachirisu": "3.9 kg"
+        "pachirisu": "3,9 kg"
     }
 }

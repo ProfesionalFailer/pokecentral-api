@@ -6,10 +6,7 @@
         }
     },
     "curiosities": [
-        "Dusknoir non ha l'abilità Levitazione, sebbene galleggi in aria, come accadeva di fatto anche a Duskull.",
-        "Il volto sulla sua pancia sembra arrabbiato, mentre il volto sulla schiena sembra sorridere. Condivide questa particolarità con Spinarak.",
-        "Dusknoir non possedeva un'abilità speciale prima della sesta generazione, in cui acquista Indagine.",
-        "In tutte le lingue il suo nome rimanda all'oscurità e alle tenebre ma nonostante ciò non è di tipo Buio, anche se può imparare molte mosse di tale tipo come Neropulsar."
+        "Dusknoir "
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/dusknoir.mp3",
     "dex_entries": {
@@ -17,8 +14,8 @@
             "diamond": "Capta con l'antenna onde che arrivano dal mondo degli spiriti, che gli ordinano di portare lì le persone.",
             "pearl": "Capta con l'antenna onde che arrivano dal mondo degli spiriti, che gli ordinano di portare lì le persone.",
             "platinum": "Si dice che accolga gli spiriti smarriti nel suo corpo flessibile per riportarli a casa.",
-            "heartgold": "Fa la spola tra questo mondo e l'altro. È temuto perché assorbe gli spiriti vaganti e li porta via.",
-            "soulsilver": "Fa la spola tra questo mondo e l'altro. È temuto perché assorbe gli spiriti vaganti e li porta via.",
+            "heart-gold": "Fa la spola tra questo mondo e l'altro. È temuto perché assorbe gli spiriti vaganti e li porta via.",
+            "soul-silver": "Fa la spola tra questo mondo e l'altro. È temuto perché assorbe gli spiriti vaganti e li porta via.",
             "black": "Si dice che accolga gli spiriti smarriti nel suo corpo flessibile per riportarli a casa.",
             "white": "Si dice che accolga gli spiriti smarriti nel suo corpo flessibile per riportarli a casa.",
             "black-2": "Si dice che accolga gli spiriti smarriti nel suo corpo flessibile per riportarli a casa.",
@@ -31,7 +28,9 @@
             "shield": "Divora la preda in un boccone con la bocca che ha sulla pancia, si nutre del suo spirito e ne sputa fuori il corpo.",
             "brilliant-diamond": "Con l'antenna che ha sul capo capta onde radio provenienti dal mondo degli spiriti, che gli ordinano di condurre lì le persone.",
             "shining-pearl": "Con l'antenna che ha sul capo capta onde radio provenienti dal mondo degli spiriti, che gli ordinano di condurre lì le persone.",
-            "legends-arceus": "Si palesa al capezzale dei prossimi al trapasso per condurne all'aldilà le anime. Talvolta, seppur di rado, cade in fallo carpendo anime precocemente."
+            "legends-arceus": "Si palesa al capezzale dei prossimi al trapasso per condurne all'aldilà le anime. Talvolta, seppur di rado, cade in fallo carpendo anime precocemente.",
+            "scarlet": "Si dice che inglobi le anime smarrite nel suo corpo flessibile per condurle all’altro mondo.",
+            "violet": "Fa la spola tra questo mondo e l’altro. È temuto perché assorbe gli spiriti vaganti e li porta via."
         }
     },
     "egg_groups": [
@@ -40,14 +39,14 @@
     "flat_name": "dusknoir",
     "generation": 4,
     "height": {
-        "dusknoir": "2.2 m"
+        "dusknoir": "2,2 m"
     },
     "id": 477,
     "name": "Dusknoir",
-    "name_origin": "Deriva dalle parole dusk  con la parola francese noir . ",
-    "origin": "Dusknoir sembra essere ispirato a un ciclope fantasma, l'ispirazione potrebbe anche essere data dallo Yamawarawa, una creatura con un occhio solo della mitologia giapponese che vive nelle montagna, mentre il fatto che riceve trasmissioni dall'oltretomba potrebbe essere ispirato al fenomeno paranormale delle voci elettroniche. ",
+    "name_origin": "Dusknoir potrebbe derivare da dusk, crepuscolo, e noir, \"nero\" in francese. Yonoir, il suo nome giapponese, potrebbe derivare da 妖魔 yōma, fantasma, 夜 yoru, notte, e ノワール noir o 悪 waru, malvagio. ",
+    "origin": "Dusknoir sembra essere un fantasma ciclopico. Questo occhio singolo è comune a molti Yōkai, ma la sua corporatura lo riconduce nelle specifico al Chōchin-obake. Il suo occhio singolo e corpa sul ventre ricorda il Mapinguari. Il suo ruolo di guida per gli spiriti perduti verso l'aldilà ricorda il tristo mietitore e uno psicopompo. La sua bocca ha la forma di un jack-o'-lantern e la sua funzione ricorda la bocca dell'inferno. La sua possibilità di captare onde dal mondo degli spiriti ricorda il fenomeno delle voci elettroniche. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Dusknoir",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Pinza",
     "sprites": {
         "dusknoir": {
@@ -75,6 +74,6 @@
         ]
     },
     "weight": {
-        "dusknoir": "106.6 kg"
+        "dusknoir": "106,6 kg"
     }
 }

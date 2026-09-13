@@ -10,7 +10,7 @@
         "È il primo Pokémon ad avere accenti nel suo nome inglese/italiano.",
         "Nel Castello Lotta, la Flabébé della Baronessa Sibilla usa erroneamente il verso di Floette."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/flabébé.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/flabebe.mp3",
     "dex_entries": {
         "flabebe": {
             "x": "È in grado di controllare a piacimento la forza nascosta dei fiori. Il fiore a cui si aggrappa fa parte del suo stesso corpo.",
@@ -22,23 +22,28 @@
         },
         "fiore-rosso": {
             "scarlet": "Possiede il dono di estrarre la forza nascosta dei fiori che sbocciano nei campi. Ama in particolar modo i fiori rossi.",
-            "violet": "Un Flabébé sopra a un fiore rosso. Appena nato, questo Pokémon si lancia subito in volo alla ricerca di un fiore che gli vada a genio."
+            "violet": "Un Flabébé sopra a un fiore rosso. Appena nato, questo Pokémon si lancia subito in volo alla ricerca di un fiore che gli vada a genio.",
+            "legends-za": "Possiede il dono di estrarre la forza nascosta dei fiori che sbocciano nei campi. Ama in particolar modo i fiori rossi."
         },
         "fiore-giallo": {
             "scarlet": "Un Flabébé su un fiore giallo. Finché non trova un fiore da cui ricavare la forza è indifeso e vulnerabile.",
-            "violet": "Sferra una varietà di mosse sfruttando la forza dei fiori. Predilige i fiori gialli."
+            "violet": "Sferra una varietà di mosse sfruttando la forza dei fiori. Predilige i fiori gialli.",
+            "legends-za": "Un Flabébé su un fiore giallo. Finché non trova un fiore da cui ricavare la forza è indifeso e vulnerabile."
         },
         "fiore-arancione": {
             "scarlet": "Un Flabébé su un fiore arancione. Porta sulla testa una corona di polline dalle proprietà curative.",
-            "violet": "Riceve la forza dai fiori e dà loro in cambio parte della sua energia. Gli piacciono i fiori arancioni."
+            "violet": "Riceve la forza dai fiori e dà loro in cambio parte della sua energia. Gli piacciono i fiori arancioni.",
+            "legends-za": "Riceve la forza dai fiori e dà loro in cambio parte della sua energia. Gli piacciono i fiori arancioni."
         },
         "fiore-blu": {
             "scarlet": "Una volta trovato un fiore di suo gradimento, se ne prende cura per tutta la vita. Questo Flabébé è su un fiore blu.",
-            "violet": "Preferisce i fiori blu. Fluttua dolcemente nell’aria usando il potere sprigionato dal suo fiore."
+            "violet": "Preferisce i fiori blu. Fluttua dolcemente nell'aria usando il potere sprigionato dal suo fiore.",
+            "legends-za": "Preferisce i fiori blu. Fluttua dolcemente nell'aria usando il potere sprigionato dal suo fiore."
         },
         "fiore-bianco": {
             "scarlet": "Un Flabébé su un fiore bianco. Si lascia trasportare dal vento alla ricerca di un prato fiorito.",
-            "violet": "Al tramonto cerca un terreno in cui siano sbocciati fiori bianchi come il suo per andare a dormire."
+            "violet": "Al tramonto cerca un terreno in cui siano sbocciati fiori bianchi come il suo per andare a dormire.",
+            "legends-za": "Al tramonto cerca un terreno in cui siano sbocciati fiori bianchi come il suo per andare a dormire."
         }
     },
     "egg_groups": [
@@ -47,14 +52,14 @@
     "flat_name": "flabebe",
     "generation": 6,
     "height": {
-        "flabebe": "0.1 m"
+        "flabebe": "0,1 m"
     },
     "id": 669,
     "name": "Flabébé",
     "name_origin": "Flabébé è una combinazione tra flower, fiore, e bébé, francese per bambino. Furabebe è una combinazione tra フラワー Furawā, fiore, e bébé. ",
     "origin": "Flabébé sembra essere basato su una fata e una ninfa, in particolare Anthea, per via del suo fiore e della \"corona\" sulla sua testa, così come eventualmente Clori. Potrebbe essere stato ispirato anche al concetto di impollinazione degli insetti, considerando la sua piccola statura e il fatto che colga l'organo femminile del fiore, lo stigma. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Flabébé",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Monofiore",
     "sprites": {
         "fiore-rosso": {
@@ -98,6 +103,6 @@
         ]
     },
     "weight": {
-        "flabebe": "0.1 kg"
+        "flabebe": "0,1 kg"
     }
 }

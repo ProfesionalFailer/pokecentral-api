@@ -6,7 +6,6 @@
         }
     },
     "curiosities": [
-        "Articoli incompleti",
         "Pokémon",
         "Pokémon di sesta generazione",
         "Pokémon di tipo Erba",
@@ -26,7 +25,8 @@
             "x": "Respinge gli attacchi dei nemici grazie al guscio che gli ricopre il corpo e contrattacca con gli aculei affilati.",
             "y": "Allena la parte inferiore del corpo scontrandosi con i suoi simili. Ha una natura mite e non inizia mai una lotta per primo.",
             "omega-ruby": "Respinge gli attacchi dei nemici grazie al guscio che gli ricopre il corpo e contrattacca con gli aculei affilati.",
-            "alpha-sapphire": "Allena la parte inferiore del corpo scontrandosi con i suoi simili. Ha una natura mite e non inizia mai una lotta per primo."
+            "alpha-sapphire": "Allena la parte inferiore del corpo scontrandosi con i suoi simili. Ha una natura mite e non inizia mai una lotta per primo.",
+            "legends-za": "Allena la parte inferiore del corpo scontrandosi con i suoi simili. Ha una natura mite e non inizia mai una lotta per primo."
         }
     },
     "egg_groups": [
@@ -35,14 +35,14 @@
     "flat_name": "quilladin",
     "generation": 6,
     "height": {
-        "quilladin": "0.7 m"
+        "quilladin": "0,7 m"
     },
     "id": 651,
     "name": "Quilladin",
     "name_origin": "Quilladin deriva dall'inglese quill  e paladin . ",
     "origin": "Come la sua pre-evoluzione, Quilladin è basato su uno scoiattolo striato del genere Tamias, più conosciuto come scoiattolo striato. Tuttavia, la somiglianza con un riccio di castagna già accennata in Chespin, qui si fa più evidente, con Quilladin che dopo l'evoluzione si fa più robusto e viene quasi totalmente ricoperto dal guscio. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Quilladin",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Spincorazza",
     "sprites": {
         "quilladin": {
@@ -70,6 +70,6 @@
         ]
     },
     "weight": {
-        "quilladin": "29.0 kg"
+        "quilladin": "29,0 kg"
     }
 }

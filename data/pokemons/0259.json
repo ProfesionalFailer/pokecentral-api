@@ -6,10 +6,38 @@
         }
     },
     "curiosities": [
-        "Marshtomp è l'unico starter di tipo Acqua di primo stadio con due tipi."
+        "Marshtomp è l'unico Pokémon iniziale di tipo Acqua di primo stadio con due tipi.",
+        "Marshtomp e la sua evoluzione Swampert sono gli unici Pokémon iniziali ad avere una debolezza 4x contro un altro tipo di Pokémon iniziale .",
+        "Marshtomp è l'unica forma evoluta di un Pokémon iniziale usabile nei Pokésalti."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/marshtomp.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "marshtomp": {
+            "ruby": "La superficie corporea di MARSHTOMP è avvolta da una spessa pellicola appiccicosa che gli consente di vivere sulla terraferma. Questo POKéMON gioca con la fanghiglia sul fondo del mare nei momenti di bassa marea.",
+            "sapphire": "MARSHTOMP è molto più a suo agio nel fango che non in acqua e sa muoversi con estrema rapidità. La parte inferiore del suo corpo mostra un chiaro sviluppo, consentendogli di camminare solo sugli arti inferiori.",
+            "emerald": "Grazie alle robuste zampe posteriori, riesce a stare ritto in piedi. Si indebolisce se l'epidermide si secca, perciò la mantiene umida giocando nel fango.",
+            "fire-red": "Predilige i terreni fangosi, dove l'equilibrio è precario. Nel fango si disfa rapidamente dei nemici.",
+            "leaf-green": "Predilige i terreni fangosi, dove l'equilibrio è precario. Nel fango si disfa rapidamente dei nemici.",
+            "diamond": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "pearl": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "platinum": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "heart-gold": "Dato che si allena sempre sguazzando nel fango, si ritrova con due arti inferiori fortissimi.",
+            "soul-silver": "Dato che si allena sempre sguazzando nel fango, si ritrova con due arti inferiori fortissimi.",
+            "black": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "white": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "black-2": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "white-2": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "x": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "y": "Dato che si allena sempre sguazzando nel fango, si ritrova con due arti inferiori fortissimi.",
+            "omega-ruby": "La superficie corporea di Marshtomp è avvolta da una spessa pellicola appiccicosa che gli consente di vivere sulla terraferma. Questo Pokémon gioca con la fanghiglia sul fondo del mare nei momenti di bassa marea.",
+            "alpha-sapphire": "Marshtomp è molto più a suo agio nel fango che non in acqua e sa muoversi con estrema rapidità. La parte inferiore del suo corpo mostra un chiaro sviluppo, consentendogli di camminare solo sugli arti inferiori.",
+            "brilliant-diamond": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "shining-pearl": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma.",
+            "scarlet": "Vivere in terreni molto fangosi e viscosi gli ha permesso di allenare col tempo gli arti inferiori, che sono diventati estremamente robusti.",
+            "violet": "Dà il meglio di sé nei terreni fangosi, dove approfitta della mobilità ridotta degli avversari per sopraffarli in un attimo.",
+            "legends-za": "Grazie alle zampe vigorose, si muove con disinvoltura anche nel fango. Dorme immerso nella melma."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Acqua 1"
@@ -17,14 +45,14 @@
     "flat_name": "marshtomp",
     "generation": 3,
     "height": {
-        "marshtomp": "0.70 m"
+        "marshtomp": "0,70 m"
     },
     "id": 259,
     "name": "Marshtomp",
-    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi marsh  e stomp . Il suo nome giapponese, ヌマクロー Numacraw, probabilmente deriva da 沼 numa  e da crawfish . ",
-    "origin": "Marshtomp sembra essere basato su una specie di saltafango o su un Ambystoma mexicanum. ",
+    "name_origin": "Marshtomp potrebbe derivare dall'unione di marsh  e stomp . Numacraw, il suo nome giapponese, potrebbe derivare da 沼 numa  e da crawfish . ",
+    "origin": "Marshtomp potrebbe essere ispirato ad un anfibio del genere Necturus, su un saltafango o possibilmente su un axolotl. In modo simile alla sua preevoluzione, è possibile che prenda ispirazione da un Protopterus amphibius o un Pylodictis olivaris, entrambi pesci che vivono in acque fangose. La pinna sulla testa del Pokémon ricorda un elmo di mirmillone, un tipo di gladiatore, o l'elmo corinzio con una cresta di crini di cavallo indossata da opliti greci. È da notare come il termine \"mirmillone\" derivi dalla parola greca μορμύρος mormyrus, indicante un tipo di pesce. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Marshtomp",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Fango Pesce",
     "sprites": {
         "marshtomp": {
@@ -48,8 +76,8 @@
     },
     "types": {
         "marshtomp": [
-            "Terra",
-            "Acqua"
+            "Acqua",
+            "Terra"
         ]
     },
     "weight": {

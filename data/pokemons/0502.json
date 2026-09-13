@@ -6,13 +6,11 @@
         }
     },
     "curiosities": [
-        "Dewott è stato mostrato per la prima volta su di un concept art per la serie animata Best Wishes insieme a Servine, Woobat e Axew.",
-        "Lui e Bagon sono i due Pokémon bipedi che si evolvono in quadrupedi.",
-        "Il suo ventre ha l'aspetto di una armatura di Kendo.",
-        "Nella sua animazione si può vedere come si toglie la conchiglia sul suo fianco.\n\tSarebbe un riferimento al suo attacco Conchilama.",
-        "Sarebbe un riferimento al suo attacco Conchilama.",
-        "La sua famiglia evolutiva può imparare due mosse di tipo Coleottero, Tagliofuria e Forbice X.",
-        "Dewott è l'unica forma evolutiva intermedia di uno starter di Unima ad avere la specie diversa dalla forma base."
+        "Dewott è stato visto per la prima volta su una reference sheet per gli animatori della Pokémon Nero e Bianco, insieme a Servine, Axew e Woobat.\n\tIl nome di Dewott, così come quello di Servine, fu ufficialmente confermato nell'episodio Il Club di Lotta e la scelta di Tepig!.",
+        "Il nome di Dewott, così come quello di Servine, fu ufficialmente confermato nell'episodio Il Club di Lotta e la scelta di Tepig!.",
+        "I Pokémon nella famiglia evolutiva di Dewott sono stati disegnati da Yusuke Ohmura.",
+        "La linea evolutiva di Dewott è l'unica tra i Pokémon iniziali di tipo acqua a non essere incorporato nel Gruppo Uova Acqua 1.",
+        "I Pokémon nella linea evolutiva di Dewott sono le uniche specie presenti in Leggende Pokémon: Arceus non apparsi in altri giochi dell'ottava generazione."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/dewott.mp3",
     "dex_entries": {
@@ -25,7 +23,9 @@
             "y": "Le loro conchiglie sono tutte diverse nella forma e ogni Dewott si allena duramente per imparare a usarle.",
             "omega-ruby": "Ha appreso tramite un durissimo allenamento l'arte di maneggiare le sue due conchiglie come fossero lame.",
             "alpha-sapphire": "Le loro conchiglie sono tutte diverse nella forma e ogni Dewott si allena duramente per imparare a usarle.",
-            "legends-arceus": "La sua padronanza nel brandire le duplici mollusciabole eccede quella di un mastro schermidore. La ritengo esser frutto di pratica quotidiana."
+            "legends-arceus": "La sua padronanza nel brandire le duplici mollusciabole eccede quella di un mastro schermidore. La ritengo esser frutto di pratica quotidiana.",
+            "scarlet": "Si dice che i movimenti con cui maneggia le due mollusciabole, fluidi come l’acqua, abbiano ispirato l’arte della scherma.",
+            "violet": "Ha un’indole coscienziosa e austera. Padroneggia l’uso delle sue mollusciabole grazie a un costante e scrupoloso esercizio."
         }
     },
     "egg_groups": [
@@ -34,14 +34,14 @@
     "flat_name": "dewott",
     "generation": 5,
     "height": {
-        "dewott": "0.8 m"
+        "dewott": "0,8 m"
     },
     "id": 502,
     "name": "Dewott",
-    "name_origin": "Il suo nome deriva da dew , water  e otter . Potrebbero essere coinvolti anche i termini duel  e dual , oppure potrebbe ispirarsi a Helen DeWitt , l'autrice del libro \"The Last Samurai\". ",
-    "origin": "Deriva da una lontra marina e da un samurai. Il modo in cui adopera le conchiglie come arma è ispirato al tessenjutsu, l'arte marziale nella quale si combatte con i ventagli. ",
+    "name_origin": "Dewott potrebbe derivare da dew, rugiada, water, acqua, e otter, lontra. Potrebbe anche includere duel, duello, dual, doppio, o duo, date le due mollusciabole. É possibile che derivi anche da Helen DeWitt, nome dell'autrice de L'Ultimo Samurai. Futachimaru, il suo nome giapponese, potrebbe derivare da 二つ futatsu, due, 太刀 tachi, spada lunga, e 丸 maru, tondo, anche un suffisso comune nei nomi giapponesi. ",
+    "origin": "Oshawott è basato su una lontra marina e un samurai. La sua tecnica di combattimento con due mollusciabole ricorda il tessenjutsu, una tecnica di combattimento che include i ventagli da combattimento giapponesi. Il pelo del suo corpo può ricordare un'armatura di kendō. Oshawott, Dewott e Samurott sono basati sulla vita di un samurai: Oshawott è un bambino, Dewott un giovane samurai e Samurott un comandante militare. Le linee evolutive di Snivy, Tepig, e Oshawott rappresentano le culture che hanno ispirato il design di Unima: occidentale, cinese e giapponese, rispettivamente. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Dewott",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Apprendista",
     "sprites": {
         "dewott": {
@@ -69,6 +69,6 @@
         ]
     },
     "weight": {
-        "dewott": "24.5 kg"
+        "dewott": "24,5 kg"
     }
 }

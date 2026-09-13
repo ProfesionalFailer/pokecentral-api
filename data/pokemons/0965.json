@@ -6,19 +6,7 @@
         }
     },
     "curiosities": [
-        "Pokémon",
-        "Pokémon di nona generazione",
-        "Pokémon di tipo Acciaio",
-        "Pokémon di tipo Veleno",
-        "Pokémon di doppio tipo",
-        "Pokémon nel gruppo di esperienza Medio-Veloce",
-        "Pokémon di colore Grigio",
-        "Pokémon dalla sagoma n. 01",
-        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
-        "Pokémon di Gruppo Uova Minerale",
-        "Pokémon appartenenti a una linea di evoluzione a due stadi",
-        "Pokémon con statistiche base totali di 300",
-        "Pokémon artificiali"
+        "Varoom e la sua evoluzione Revavroom sono gli unici Pokémon ad avere la combinazione di tipi Acciaio/Veleno."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/varoom.mp3",
     "dex_entries": {
@@ -33,14 +21,14 @@
     "flat_name": "varoom",
     "generation": 9,
     "height": {
-        "varoom": "1.0 m"
+        "varoom": "1,0 m"
     },
     "id": 965,
     "name": "Varoom",
     "name_origin": "Varoom potrebbe derivare da vroom . Buroron potrebbe derivare da ブルルン bururun . ",
-    "origin": "",
+    "origin": "Varoom è probabilmente basato su un motore e potrebbe prendere ispirazione anche da vari yokai che si impossessano di oggetti, come l'Oboroguruma, uno yokai dall'aspetto di carro con una faccia. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Varoom",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Monocilindro",
     "sprites": {
         "varoom": {
@@ -64,11 +52,11 @@
     },
     "types": {
         "varoom": [
-            "Veleno",
-            "Acciaio"
+            "Acciaio",
+            "Veleno"
         ]
     },
     "weight": {
-        "varoom": "35.0 kg"
+        "varoom": "35,0 kg"
     }
 }

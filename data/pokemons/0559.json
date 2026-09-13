@@ -26,7 +26,8 @@
             "ultra-sun": "Gli Scraggy formano piccoli gruppi e si mettono a gironzolare tirando improvvisamente testate a chiunque incroci il loro sguardo.",
             "ultra-moon": "Si protegge tirando la pelle su fino al collo. Sembra che gli esemplari dalla pelle più lunga siano quelli più rispettati.",
             "sword": "È molto molesto e prende a testate chiunque gli capiti a tiro, perciò incrociare il suo sguardo può essere molto pericoloso.",
-            "shield": "Il suo corpo è protetto da una pelle robustissima. Si dice che quando questa raggiunge il limite dell'elasticità, Scraggy sia sul punto di evolversi."
+            "shield": "Il suo corpo è protetto da una pelle robustissima. Si dice che quando questa raggiunge il limite dell'elasticità, Scraggy sia sul punto di evolversi.",
+            "legends-za": "Assume la posizione difensiva tirando su fino al collo la pelle, che è elastica come la gomma e limita i danni."
         }
     },
     "egg_groups": [
@@ -36,14 +37,14 @@
     "flat_name": "scraggy",
     "generation": 5,
     "height": {
-        "scraggy": "0.6 m"
+        "scraggy": "0,6 m"
     },
     "id": 559,
     "name": "Scraggy",
     "name_origin": "Il nome Scraggy letteralmente significa magro/pelle ossa, potrebbe anche derivare da scrappy  riferendosi al suo stile di combattimento da principiante e infantile e alla sua tendenza a lottare, baggy  riferimento alla pelle morta simile a pantaloni larghi, oppure da scruggly , che invece indica il suo aspetto con la pelle morta. ",
     "origin": "Scraggy sembra una sorta di lucertola, tuttavia la pelle che gli cade e che sembra un paio di pantaloni ricorda molto alcune sub culture giovanili moderne cioè l'Hip Hop o il Punk. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Scraggy",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Mutapelle",
     "sprites": {
         "scraggy": {
@@ -72,6 +73,6 @@
         ]
     },
     "weight": {
-        "scraggy": "11.8 kg"
+        "scraggy": "11,8 kg"
     }
 }

@@ -8,8 +8,7 @@
     },
     "curiosities": [
         "Patrat ha la somma dei valori di base più bassa dei Pokémon della Quinta generazione.",
-        "Patrat condivide la sua categoria con Sentret. Entrambi sono conosciuti come Pokémon Esploratore.",
-        "Patrat è l'unico Pokémon in assoluto a possedere la somma delle statistiche base pari a 255."
+        "Patrat condivide la sua categoria con Sentret e Growlithe di Hisui. Sono tutti conosciuti come Pokémon Esploratore."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/patrat.mp3",
     "dex_entries": {
@@ -21,7 +20,8 @@
             "x": "Immagazzina cibo nelle guance e monta la guardia per molti giorni di seguito. Usa la coda per fare segnali ai compagni.",
             "y": "Sono molto guardinghi e almeno uno del branco è sempre di guardia. Non vedono però il nemico se li attacca da dietro.",
             "omega-ruby": "Immagazzina cibo nelle guance e monta la guardia per molti giorni di seguito. Usa la coda per fare segnali ai compagni.",
-            "alpha-sapphire": "Sono molto guardinghi e almeno uno del branco è sempre di guardia. Non vedono però il nemico se li attacca da dietro."
+            "alpha-sapphire": "Sono molto guardinghi e almeno uno del branco è sempre di guardia. Non vedono però il nemico se li attacca da dietro.",
+            "legends-za": "Immagazzina cibo nelle guance e monta la guardia per molti giorni di seguito. Usa la coda per fare segnali ai compagni."
         }
     },
     "egg_groups": [
@@ -30,14 +30,14 @@
     "flat_name": "patrat",
     "generation": 5,
     "height": {
-        "patrat": "0.5 m"
+        "patrat": "0,5 m"
     },
     "id": 504,
     "name": "Patrat",
-    "name_origin": "Il suo nome deriva da patrol  e rat  o da packrat . ",
-    "origin": "L'aspetto potrebbe essere basato su un suricato, sullo scoiattolo striato, o sul cane della prateria. ",
+    "name_origin": "Patrat potrebbe derivare da patrol, pattuglia, e rat, ratto. Potrebbe anche includere packrat, Neotoma. Minezumi, il suo nome giapponese, potrebbe derivare da 見 mi, guardare, e 鼠 nezumi, topo. ",
+    "origin": "Patrat ricorda un cane della prateria, un chipmunk e un suricato. Il modo in cui controlla per pericoli lo rende simile ad uno scout. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Patrat",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Esplorante",
     "sprites": {
         "patrat": {
@@ -65,6 +65,6 @@
         ]
     },
     "weight": {
-        "patrat": "11.6 kg"
+        "patrat": "11,6 kg"
     }
 }

@@ -5,17 +5,12 @@
         }
     },
     "curiosities": [
-        "In terza generazione Vibrava e Flygon avevano una combinazione di tipi unica.",
-        "La linea evolutiva di Flygon è l'unica, oltre a quella di Gligar, formata da Pokémon non di tipo Coleottero ma parte del Gruppo Uova Coleottero.",
-        "Vibrava, Flygon, Noibat e Noivern, prima dell'ottava generazione, non facevano parte del Gruppo Uova Drago.",
-        "Flygon ha la stessa specie di Xatu: entrambi sono noti come Pokémon Magico.\n\tNonostante questo, nessuno dei due appartiene al Gruppo Uova Magico.",
-        "Nonostante questo, nessuno dei due appartiene al Gruppo Uova Magico.",
-        "Flygon ha lo stesso Attacco base della sua forma iniziale Trapinch.",
+        "Flygon e la sua preevoluzione Vibrava sono gli unici Pokémon presenti sia nel Gruppo Uova Coleottero che Drago.",
+        "Flygon ha la stessa specie di Xatu: entrambi sono noti come Pokémon Magico.",
+        "Flygon ha lo stesso Attacco base della sua forma iniziale Trapinch.\n\tTutte le statistiche di Vibrava salgono di esattamente 30 punti quando si evolve in Flygon.",
         "Tutte le statistiche di Vibrava salgono di esattamente 30 punti quando si evolve in Flygon.",
         "I PA ceduti da Flygon  sono unici.",
-        "Secondo alcuni fan i nomi di Flygon e Salamence sono stati scambiati: infatti il nome Flygon risulta più idoneo a quest'ultimo Pokémon  ed è in linea con il resto della sua famiglia evolutiva .",
-        "Flygon, Kingdra e Haxorus sono gli unici Pokémon di tipo Drago evoluti due volte a non essere degli pseudo-leggendari.",
-        "Era stata prevista una megaevoluzione di Flygon, ma il suo design non venne mai completato e quindi l'idea venne scartata."
+        "Secondo Ken Sugimori in un intervista nel numero di Aprile 2015 di Nintendo Dream, Flygon avrebbe dovuto ricevere una Megaevoluzione in Pokémon X e Y, ma l'idea è stata scartata a seguito di un suo blocco dell'artista."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/flygon.mp3",
     "dex_entries": {
@@ -23,13 +18,13 @@
             "ruby": "FLYGON è detto anche \"Spirito primordiale del deserto\". Poiché le sue ali sollevano nubi di sabbia, è sempre accompagnato da una tempesta di sabbia quando vola.",
             "sapphire": "FLYGON crea tempeste di sabbia agitando le ali, che emettono note musicali creando una sorta di canto. Poiché questo canto è l'unica cosa udibile durante la tempesta, FLYGON è considerato lo spirito del deserto.",
             "emerald": "Il movimento delle ali di FLYGON crea una sorta di melodia. Sbattendo le ali, inoltre, questo POKéMON solleva nubi di sabbia che gli servono per nascondersi dai nemici.",
-            "firered": "Solleva sabbia con le ali per nascondersi. Un rivestimento rosso protegge gli occhi dalla sabbia stessa.",
-            "leafgreen": "Solleva sabbia con le ali per nascondersi. Un rivestimento rosso protegge gli occhi dalla sabbia stessa.",
+            "fire-red": "Solleva sabbia con le ali per nascondersi. Un rivestimento rosso protegge gli occhi dalla sabbia stessa.",
+            "leaf-green": "Solleva sabbia con le ali per nascondersi. Un rivestimento rosso protegge gli occhi dalla sabbia stessa.",
             "diamond": "Genera tempeste di sabbia con il battito delle ali. È detto anche \"Spirito primordiale del deserto\".",
             "pearl": "Genera tempeste di sabbia con il battito delle ali. È detto anche \"Spirito primordiale del deserto\".",
             "platinum": "Genera tempeste di sabbia con il battito delle ali. È detto anche \"Spirito primordiale del deserto\".",
-            "heartgold": "Poiché il suono del suo battito d'ali sembra una bel canto femminile, lo chiamano \"Spirito del deserto\".",
-            "soulsilver": "Poiché il suono del suo battito d'ali sembra una bel canto femminile, lo chiamano \"Spirito del deserto\".",
+            "heart-gold": "Poiché il suono del suo battito d'ali sembra una bel canto femminile, lo chiamano \"Spirito del deserto\".",
+            "soul-silver": "Poiché il suono del suo battito d'ali sembra una bel canto femminile, lo chiamano \"Spirito del deserto\".",
             "black": "Genera tempeste di sabbia con il battito delle ali. È detto anche \"Spirito primordiale del deserto\".",
             "white": "Genera tempeste di sabbia con il battito delle ali. È detto anche \"Spirito primordiale del deserto\".",
             "black-2": "Viene chiamato \"Spirito primordiale del deserto\". Si nasconde nelle tempeste di sabbia che genera sbattendo le ali.",
@@ -45,7 +40,9 @@
             "sword": "Si nasconde nelle tempeste di sabbia che genera sbattendo le ali. Raramente gli esseri umani riescono a vederlo.",
             "shield": "Viene chiamato anche \"spirito del deserto\", poiché il suono del suo battito d'ali ricorda un bellissimo canto di donna.",
             "brilliant-diamond": "Genera tempeste di sabbia con il potente battito delle ali. È detto anche \"spirito del deserto\".",
-            "shining-pearl": "Genera tempeste di sabbia con il potente battito delle ali. È detto anche \"spirito del deserto\"."
+            "shining-pearl": "Genera tempeste di sabbia con il potente battito delle ali. È detto anche \"spirito del deserto\".",
+            "scarlet": "Viene chiamato \"spirito del deserto\". Si nasconde nelle tempeste di sabbia che genera battendo le ali.",
+            "violet": "Le prede ammaliate dal suono delle sue ali, simile a un canto, si ritrovano intrappolate in una tempesta di sabbia."
         }
     },
     "egg_groups": [
@@ -56,14 +53,14 @@
     "flat_name": "flygon",
     "generation": 3,
     "height": {
-        "flygon": "2.0 m"
+        "flygon": "2,0 m"
     },
     "id": 330,
     "name": "Flygon",
-    "name_origin": "Flygon deriva dall'unione delle parole fly, volo, e dragon, drago, oppure potrebbe essere un anagramma di dragonfly, libellula. ",
-    "origin": "Flygon è basato su un formicaleone adulto, il cui aspetto è molto simile a quello di una libellula, infatti questi due animali spesso vengono confusi, oppure ha tratto ispirazione da entrambi, a prova di ciò esistono delle libellule che vengono chiamate \"draghi della sabbia\" che spiega la loro tipologia, inoltre comprende anche tratti rettiliani e draconici come le braccia e la coda. ",
+    "name_origin": "Flygon potrebbe derivare da fly, volo, e dragon, drago, oppure da dragonfly, libellula. ",
+    "origin": "Flygon sembra essere basato sulla forma adulta della formica leone. Queste forme adulte sono simili a libellule, e spesso vengono scambiate, rendendo possibile che Flygon prenda ispirazione anche da queste ultime. I membri di alcune specie di libellule sono chiamati sanddragon  in inglese, da cui potrebbe derivare la combinazione di tipi di Flygon. In genrale, l'aspetto di Flygon ricorda quello di un drago europeo. Gli occhi simili a visiere potrebbero derivare da specie di mantoidei o altri insetti che possiedono occhi compositi, su cui spesso si vede una pseudopupilla, che viene frequentemente scambiata per una pupilla vera. Il suono simile ad un canto che emette potrebbe derivare dalla singing sand, sabbia cantante. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Flygon",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Magico",
     "sprites": {
         "flygon": {
@@ -92,6 +89,6 @@
         ]
     },
     "weight": {
-        "flygon": "82.0 kg"
+        "flygon": "82,0 kg"
     }
 }

@@ -7,6 +7,9 @@
         },
         "forma-ash": {
             "primary": "Morfosintonia"
+        },
+        "megagreninja": {
+            "primary": "Mutatipo"
         }
     },
     "curiosities": [
@@ -25,7 +28,13 @@
             "x": "Crea lame d'acqua micidiali che ruotano ad alta velocità e, se lanciate, possono perforare il metallo.",
             "y": "Agile e sfuggente come un ninja, si fa beffe dei nemici grazie alla sua velocità e li bersaglia di shuriken d'acqua.",
             "omega-ruby": "Crea lame d'acqua micidiali che ruotano ad alta velocità e, se lanciate, possono perforare il metallo.",
-            "alpha-sapphire": "Agile e sfuggente come un ninja, si fa beffe dei nemici grazie alla sua velocità e li bersaglia di shuriken d'acqua."
+            "alpha-sapphire": "Agile e sfuggente come un ninja, si fa beffe dei nemici grazie alla sua velocità e li bersaglia di shuriken d'acqua.",
+            "scarlet": "Sente il movimento dell'aria con la lunga lingua arrotolata attorno al collo. Così può percepire anche nemici al di fuori del suo campo visivo.",
+            "violet": "Gli shuriken creati con il muco prodotto dalle sue cosce sono in grado di recidere di netto cavi di acciaio.",
+            "legends-za": "Crea shuriken d'acqua compressa che fa ruotare ad alta velocità. Se lanciati, possono spaccare in due il metallo."
+        },
+        "megagreninja": {
+            "legends-za": "Fa roteare uno shuriken gigante a gran velocità per farlo rimanere in aria, poi vi si attacca a testa in giù per cogliere di sorpresa l'avversario."
         }
     },
     "egg_groups": [
@@ -34,14 +43,14 @@
     "flat_name": "greninja",
     "generation": 6,
     "height": {
-        "greninja": "1.5 m"
+        "greninja": "1,5 m"
     },
     "id": 658,
     "name": "Greninja",
     "name_origin": "Greninja potrebbe derivare da grenouille, rana in francese, e ninja. Gekkouga potrebbe essere una combinazione di げこっ geko, gracchiare, e 甲賀流 Kōga-ryū, un'antica scuola di Ninjutsu. Potrebbe derivare anche da 月光 gekkō, chiaro di luna, in riferimento ad una concezione popolare che vede i ninja attivi di notte o per il tipo Buio che assume il Pokémon con l'evoluzione. ",
     "origin": "Greninja è basato su una rana. Nello specifico potrebbe ispirarsi alle rane del genere Megophrys o Ceratophrys, dotate di corna riconducibili alle escrescenze che Greninja ha sul capo. La sua colorazione è invece simile a quella della Cruziohyla calcarifer. Le protuberanze, o bolle di schiuma, che ha sugli arti potrebbero basarsi sulle ghiandole parotoidi dei rospi. Come suggerisce il nome della specie, Greninja potrebbe anche essere basato su un ninja. La cultura giapponese associa rane e rospi con i ninja basabdosi sul racconto folkloristico del \"Galante Jiraya\", 児雷也豪傑物語 Jiraiya goketsu monogatari, un ninja che può cambiare forma diventando un rospo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Greninja",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Ninja",
     "sprites": {
         "greninja": {
@@ -51,6 +60,10 @@
         "forma-ash": {
             "default": "https://media.pokemoncentral.it/wiki/e/ec/Homem0658A.png",
             "shiny": "https://media.pokemoncentral.it/wiki/f/fa/Homemsh0658A.png"
+        },
+        "megagreninja": {
+            "default": "https://media.pokemoncentral.it/wiki/f/fd/Homem0658M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a5/Homemsh0658M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/0/04/Artwork0658_XY.png"
     },
@@ -70,11 +83,20 @@
             "spa": 153,
             "spd": 71,
             "spe": 132
+        },
+        "megagreninja": {
+            "hp": 72,
+            "atk": 125,
+            "def": 77,
+            "spa": 133,
+            "spd": 81,
+            "spe": 142
         }
     },
     "stats_sum": {
         "greninja": 530,
-        "forma-ash": 640
+        "forma-ash": 640,
+        "megagreninja": 630
     },
     "types": {
         "greninja": [
@@ -83,6 +105,6 @@
         ]
     },
     "weight": {
-        "greninja": "40.0 kg"
+        "greninja": "40,0 kg"
     }
 }

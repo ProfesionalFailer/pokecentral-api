@@ -2,6 +2,9 @@
     "abilities": {
         "magearna": {
             "primary": "Cuoreanima"
+        },
+        "megamagearna": {
+            "primary": "Sconosciuta"
         }
     },
     "curiosities": [
@@ -14,9 +17,23 @@
     "dex_entries": {
         "magearna": {
             "sun": "È un Pokémon artificiale costruito più di 500 anni fa. Capisce il linguaggio degli esseri umani, ma non è in grado di parlare.",
-            "moon": "Il suo corpo meccanico è solo un contenitore. La sua vera essenza è un’anima artificiale chiamata “Cuoreanima”.",
-            "ultra-sun": "Sincronizzando la sua coscienza a quella degli altri, riesce a capire il loro stato d’animo. Grazie a quest’abilità si prende cura degli esseri umani.",
-            "ultra-moon": "Fu costruito circa 500 anni fa da uno scienziato. La sua vera essenza si trova in un componente chiamato “Cuoreanima”."
+            "moon": "Il suo corpo meccanico è solo un contenitore. La sua vera essenza è un'anima artificiale chiamata \"Cuoreanima\".",
+            "ultra-sun": "Sincronizzando la sua coscienza a quella degli altri, riesce a capire il loro stato d’animo. Grazie a quest'abilità si prende cura degli esseri umani.",
+            "ultra-moon": "Fu costruito circa 500 anni fa da uno scienziato. La sua vera essenza si trova in un componente chiamato \"Cuoreanima\".",
+            "legends-za": "Fu costruito circa 500 anni fa da uno scienziato. Il corpo vero e proprio è il componente chiamato \"Cuoreanima\"."
+        },
+        "colore-antico": {
+            "sun": "Questa è la forma dell'affascinante Pokémon Magearna quando venne offerto in regalo alla figlia di un re circa 500 anni fa.",
+            "moon": "La forma originale di Magearna. Si racconta che i suoi sontuosi ornamenti furono molto apprezzati dalla figlia di un re.",
+            "ultra-sun": "Questa è la forma che Magearna aveva circa 500 anni fa. Il corpo è solo un contenitore, e la sua vera essenza risiede in un'anima artificiale.",
+            "ultra-moon": "È vivo grazie alla sua anima artificiale. I suoi splendidi ornamenti mostrano che fu offerto in dono a una famiglia reale.",
+            "legends-za": "La forma che Magearna aveva quando è stato inventato. Si narra che i suoi sontuosi ornamenti furono molto apprezzati dalla figlia di un re."
+        },
+        "megamagearna": {
+            "legends-za": "Assume questa forma quando si attiva la modalità nascosta. Le sue emozioni vengono soppresse sul nascere e atterra ogni nemico che si trova davanti."
+        },
+        "megamagearna-(colore-antico)": {
+            "legends-za": "500 anni fa gli fu impiantato di nascosto un meccanismo atto a rimuovere le sue restrizioni. La Megapietra ne è la chiave."
         }
     },
     "egg_groups": [
@@ -25,14 +42,14 @@
     "flat_name": "magearna",
     "generation": 7,
     "height": {
-        "magearna": "1.0 m"
+        "magearna": "1,0 m"
     },
     "id": 801,
     "name": "Magearna",
-    "name_origin": "Magearna potrebbe essere una combinazione di gear, ingranaggio, e una corruzione di machina, latino per macchina. ",
+    "name_origin": "Il suo nome potrebbe derivare dall'inglese gear  e dal latino machina . ",
     "origin": "È probabilmente basato su di una bambola Karakuri e, in particolare per l'ingranaggio che fa da crestino, ad una cameriera. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Magearna",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Artificiale",
     "sprites": {
         "magearna": {
@@ -42,6 +59,14 @@
         "colore-antico": {
             "default": "https://media.pokemoncentral.it/wiki/4/4f/Homem0801A.png",
             "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homemsh0801A.png"
+        },
+        "megamagearna": {
+            "default": "https://media.pokemoncentral.it/wiki/7/77/Homem0801M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/59/Homemsh0801M.png"
+        },
+        "megamagearna-colore-antico": {
+            "default": "https://media.pokemoncentral.it/wiki/5/53/Homem0801AM.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/17/Homemsh0801AM.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/e/e8/Artwork0801_SL.png"
     },
@@ -53,10 +78,19 @@
             "spa": 130,
             "spd": 115,
             "spe": 65
+        },
+        "megamagearna": {
+            "hp": 80,
+            "atk": 125,
+            "def": 115,
+            "spa": 170,
+            "spd": 115,
+            "spe": 95
         }
     },
     "stats_sum": {
-        "magearna": 600
+        "magearna": 600,
+        "megamagearna": 700
     },
     "types": {
         "magearna": [
@@ -65,6 +99,6 @@
         ]
     },
     "weight": {
-        "magearna": "80.5 kg"
+        "magearna": "80,5 kg"
     }
 }

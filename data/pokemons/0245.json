@@ -6,29 +6,52 @@
         }
     },
     "curiosities": [
-        "Nonostante rappresenti i gelidi venti nordici, stranamente Suicune non è di tipo Ghiaccio. Tuttavia, può imparare molte mosse di tale tipo aumentando di livello.",
         "Suicune è l'unico Pokémon puro di tipo Acqua ad imparare Bora aumentando di livello.",
-        "Sebbene Suicune faccia parte delle bestie leggendarie di Johto, si sfida a Kanto in Oro HeartGold e Argento SoulSilver. Moltres ha una situazione identica ma le regioni sono invertite.",
-        "Suicune può essere risfidato nella Torre Campana se è stato sconfitto sul Percorso 25.",
-        "L'ordine che il trio leggendario di Johto ha nel Pokédex è rivelato nella distruzione della Torre Bruciata: il fulmine che ha dato inizio all'incendio , il fuoco che ha bruciato la torre  e la pioggia che ha spento il fuoco .",
+        "Suicune è l'unico Pokémon leggendario che fa parte di un trio ad apparire sulla copertina di un gioco quando gli altri membri del trio non lo fanno.",
         "Suicune, insieme ad Entei e Raikou, è stato disegnato da Muneo Saitō."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/suicune.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "suicune": {
+            "gold": "Si dice che sia la reincarnazione dei venti nordici. Può purificare all'istante l'acqua torbida e putrida.",
+            "silver": "Un POKéMON che corre in lungo e in largo. Si dice che ogni volta che appare, soffino i venti del nord.",
+            "crystal": "POKéMON divino che gira per il mondo sempre alla ricerca di una fonte di purezza.",
+            "ruby": "SUICUNE rappresenta la purezza delle sorgenti d'acqua dolce. Corre con grazia immerso nella natura. Questo POKéMON ha la facoltà di depurare le acque di scarico.",
+            "sapphire": "SUICUNE rappresenta la purezza delle sorgenti d'acqua dolce. Corre con grazia immerso nella natura. Questo POKéMON ha la facoltà di depurare le acque di scarico.",
+            "emerald": "SUICUNE rappresenta la purezza delle sorgenti d'acqua dolce. Corre con grazia immerso nella natura e ha la facoltà di depurare le acque di scarico.",
+            "fire-red": "Ama correre in lungo e in largo. Si dice che ogni volta che appare, soffino i venti del nord.",
+            "leaf-green": "Si dice che sia la reincarnazione dei venti nordici. Può purificare all'istante l'acqua torbida e putrida.",
+            "diamond": "Corre per tutto il mondo per purificare l'acqua contaminata. Si allontana con i venti del nord.",
+            "pearl": "Corre per tutto il mondo per purificare l'acqua contaminata. Si allontana con i venti del nord.",
+            "platinum": "Corre per tutto il mondo per purificare l'acqua contaminata. Si allontana con i venti del nord.",
+            "heart-gold": "Si dice che sia la reincarnazione dei venti nordici. Purifica all’istante l’acqua torbida e putrida.",
+            "soul-silver": "Un Pokémon che corre in lungo e in largo. Si dice che ogni volta che appare, soffino i venti del nord.",
+            "black": "Corre per tutto il mondo per purificare l'acqua contaminata. Si allontana con i venti del nord.",
+            "white": "Corre per tutto il mondo per purificare l'acqua contaminata. Si allontana con i venti del nord.",
+            "black-2": "Corre per tutto il mondo per purificare l'acqua contaminata. Si allontana con i venti del nord.",
+            "white-2": "Corre per tutto il mondo per purificare l'acqua contaminata. Si allontana con i venti del nord.",
+            "x": "Corre per tutto il mondo per purificare l'acqua contaminata. Si allontana con i venti del nord.",
+            "y": "Si dice che sia la reincarnazione dei venti nordici. Purifica all'istante l'acqua torbida e putrida.",
+            "omega-ruby": "Suicune rappresenta la purezza delle sorgenti d'acqua dolce. Corre con grazia immerso nella natura. Questo Pokémon ha la facoltà di depurare le acque di scarico.",
+            "alpha-sapphire": "Suicune rappresenta la purezza delle sorgenti d'acqua dolce. Corre con grazia immerso nella natura. Questo Pokémon ha la facoltà di depurare le acque di scarico.",
+            "brilliant-diamond": "Corre per tutto il mondo per purificare l'acqua contaminata. Si allontana con i venti del nord.",
+            "shining-pearl": "Corre per tutto il mondo per purificare l'acqua contaminata. Si allontana con i venti del nord."
+        }
+    },
     "egg_groups": [
         "Sconosciuto"
     ],
     "flat_name": "suicune",
     "generation": 2,
     "height": {
-        "suicune": "2.0 m"
+        "suicune": "2,0 m"
     },
     "id": 245,
     "name": "Suicune",
-    "name_origin": "Il nome di Suicune è probabilmente basato sul suo nome giapponese, Suikun. Suikun è una probabile combinazione di 水 sui, acqua e 君 Kun, monarca. Tuttavia, il titolo del gioco è la mascotte del suggerimento che il nome può essere derivato da 水晶suishō, cristallo. ",
-    "origin": "Suicune assomiglia a un Chrysocyon brachyurus, o a un Panthera pardus sia nel corpo che nelle abitudini, o a un Acinonyx jubatus nel modo in cui corre. La sua abilità di purificare l'acqua lo riconduce anche ad un Unicorno. ",
+    "name_origin": "Suicune potrebbe derivare da 水 sui, acqua, 水晶suishō, cristallo, e 君 kun, monarca. ",
+    "origin": "Suicune sembra essere basato su un leopardo. Questo, e l'associazione del Pokémon con i venti del nord, potrebbe essere un riferimento a Fūjin, la divinità shintoista del vento, spesso raffigurata indossare pelli di leopardo. La criniera del Pokémon ricorda inoltre l'aurora polare. La sua corporatura, la gemma sulla testa, e abilità di camminare sull'acqua lo riconducono ad un Qilin. Suicune rappresenta inoltre la pioggia che spense le fiamme della Torre Bruciata. Allo stesso modo, Raikou rappresenta il fulmine che la colpì, ed Entei rappresenta il fuoco che la distrusse. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Suicune",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Aurora",
     "sprites": {
         "suicune": {
@@ -56,6 +79,6 @@
         ]
     },
     "weight": {
-        "suicune": "187.0 kg"
+        "suicune": "187,0 kg"
     }
 }

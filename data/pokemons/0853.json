@@ -12,7 +12,8 @@
     "dex_entries": {
         "grapploct": {
             "sword": "Il suo corpo è un ammasso di muscoli. È in grado di stritolare con una potenza formidabile grazie ai suoi tentacoli.",
-            "shield": "Si spinge sulla terraferma in cerca di avversari da sfidare per mettere alla prova la propria forza. Terminata la lotta, ritorna in mare."
+            "shield": "Si spinge sulla terraferma in cerca di avversari da sfidare per mettere alla prova la propria forza. Terminata la lotta, ritorna in mare.",
+            "legends-za": "Inchioda a terra l'avversario con i suoi tentacoli possenti. Nemmeno Pokémon straordinariamente forti riescono a svincolarsi per scappare."
         }
     },
     "egg_groups": [
@@ -22,14 +23,14 @@
     "flat_name": "grapploct",
     "generation": 8,
     "height": {
-        "grapploct": "1.6 m"
+        "grapploct": "1,6 m"
     },
     "id": 853,
     "name": "Grapploct",
     "name_origin": "Grapploct potrebbe essere una combinazione di grapple, presa, e octopus, polpo. Otosupus potrebbe essere una combinazione di 落とす otosu, buttare giù qualcuno, e octopus, polpo. ",
     "origin": "Clobbopus potrebbe essere basato su un polpo e su un lottatore di jūjitsu. L'aspetto della sua faccia sembra essere basato su una maschera da wrestling, mentre il tentacolo attorno alla sua vita ricorda una cintura delle arti marziali. Potrebbe essere un riferimento alle lotte contro i polpi che si praticavano nella costa orientale degli Stati Uniti durante gli anni '60; in questo tipo di lotta, un subacqueo alle prese con un polpo in acque poco profonde avrebbe dovuto trascinare l'animale fino alla terraferma. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Grapploct",
-    "shape": "più di 4 arti",
+    "shape": "None",
     "specie": "Pokémon Jujitsu",
     "sprites": {
         "grapploct": {
@@ -57,6 +58,6 @@
         ]
     },
     "weight": {
-        "grapploct": "39.0 kg"
+        "grapploct": "39,0 kg"
     }
 }

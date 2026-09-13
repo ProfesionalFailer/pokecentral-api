@@ -7,10 +7,10 @@
         }
     },
     "curiosities": [
-        "Le macchie di Spinda hanno oltre 4 miliardi di combinazioni possibili e sono determinate dal valore della personalità di Spinda.",
         "Spinda è uno dei Pokémon con lo stesso valore in tutte le statistiche base.",
         "Il totale delle statistiche di Spinda è pari a 360, uguale ai gradi presenti in un angolo giro, che ricorda la peculiarità del Pokémon di girare su se stesso. Condivide questa caratteristica con Whirlipede.",
-        "Nonostante Spinda non abbia differenze tra i sessi, il Pokédex Rotom mostra Spinda maschio e femmina in modo separato."
+        "Spinda e Deoxys sono gli unici Pokémon a non avere un secondo sprite nella loro animazione di ingresso in lotta in Pokémon Smeraldo.",
+        "In Pokémon Battle Revolution, l'animazione di Tossina mostra due sfere muoversi in linea retta fino al bersaglio. Se la mossa viene usata da Spinda o Carnivine, viaggeranno invece in un movimento errante."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/spinda.mp3",
     "dex_entries": {
@@ -18,13 +18,13 @@
             "ruby": "Pare che ogni SPINDA esistente abbia un motivo maculato unico rispetto agli altri. Il suo passo barcollante e malsicuro dà l'impressione che stia ballando.",
             "sapphire": "Pare che non esistano due SPINDA dall'identico motivo maculato. Questo POKéMON si muove in modo curioso barcollando come in preda alle vertigini. Tale comportamento può confondere l'avversario.",
             "emerald": "Ogni esemplare di SPINDA ha un diverso motivo maculato sul corpo. Il suo passo incerto e barcollante confonde il nemico, che non riesce a prenderlo di mira.",
-            "firered": "Ogni SPINDA ha un diverso disegno sul corpo. I suoi movimenti confusi disorientano i nemici.",
-            "leafgreen": "Ogni SPINDA ha un diverso disegno sul corpo. I suoi movimenti confusi disorientano i nemici.",
+            "fire-red": "Ogni SPINDA ha un diverso disegno sul corpo. I suoi movimenti confusi disorientano i nemici.",
+            "leaf-green": "Ogni SPINDA ha un diverso disegno sul corpo. I suoi movimenti confusi disorientano i nemici.",
             "diamond": "Non ci sono due SPINDA con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
             "pearl": "Non ci sono due SPINDA con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
             "platinum": "Non ci sono due SPINDA con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
-            "heartgold": "La probabilità che due SPINDA con lo stesso disegno si incontrino è praticamente nulla.",
-            "soulsilver": "La probabilità che due SPINDA con lo stesso disegno si incontrino è praticamente nulla.",
+            "heart-gold": "La probabilità che due SPINDA con lo stesso disegno si incontrino è praticamente nulla.",
+            "soul-silver": "La probabilità che due SPINDA con lo stesso disegno si incontrino è praticamente nulla.",
             "black": "Non ci sono due Spinda con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
             "white": "Non ci sono due Spinda con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
             "black-2": "Non ci sono due Spinda con lo stesso motivo maculato. Il suo passo barcollante confonde i nemici.",
@@ -48,14 +48,14 @@
     "flat_name": "spinda",
     "generation": 3,
     "height": {
-        "spinda": "1.10 m"
+        "spinda": "1,10 m"
     },
     "id": 327,
     "name": "Spinda",
-    "name_origin": "Il nome deriva dall'unione della parola inglese spin  con la parola panda. ",
-    "origin": "Basato su un panda minore. ",
+    "name_origin": "Spinda sembra derivare da spi, girare, e panda. Patcheel, il suo nome giapponese, potrebbe derivare da patch, toppa, e reel, perdere l'equilibrio. ",
+    "origin": "Spinda sembra essere basato su un panda di Qinling con tratti di un coniglio. Presenta anche somiglianze con un orsacchiotto o altri animali di peluche. Le spirali sui suoi occhi sono una rappresentazione cartoonesca che indica che qualcuno è stordito, e il suo passo ricorda lo stile di lotta Zui Baxianquan, detto anche \"Pugilato degli Otto Immortali ubriachi\", che prova a imitare i movimenti di una persona ubriaca per rendersi imprevedibile. La connessione tra i panda di Qinling e l'essere stordite sembra derivare dai monti Qinling dove vivono: i monti soffrono di inquinamento di metalli nel suolo e nelle piante, che può portare a avvelenamenti da metallo che possono portare stordimento e confusione negli abitanti nel tempo. L'habitat di Spinda, il Percorso 113, è usato per terreni agricoli, possibilmente in riferimento ai terreni coltivati nei monti Qinling che sono una causa parziale dell'inquinamento. Inoltre, i panda di Qinling possono vivere fino a 3,000 metri sui monti, delle altezze in cui la pressione dell'aria causerebbe mal di montagna agli esseri umani. L'uso della parola \"patch\"  nel nome giapponese di Spinda potrebbe essere un riferimento alle toppe usare per riparare buchi negli animali di peluche. I numerosi motivi di Spinda potrebbero essere quindi varie toppe messe ad un giocattolo per ripararlo, o cerotti messi ad un neonato che continua a cader per la sua inabilità a camminare. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Spinda",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Macchipanda",
     "sprites": {
         "spinda": {
@@ -83,6 +83,6 @@
         ]
     },
     "weight": {
-        "spinda": "5.0 kg"
+        "spinda": "5,0 kg"
     }
 }

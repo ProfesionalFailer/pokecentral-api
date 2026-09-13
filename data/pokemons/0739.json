@@ -18,7 +18,8 @@
             "ultra-sun": "Utilizza le robuste chele sia per attaccare che per difendersi. Le lotte tra Crabrawler assomigliano molto a incontri di boxe.",
             "ultra-moon": "A volte si arrampica sugli Exeggutor, prendendoli per vere palme. Per tutta risposta, questi si adirano, lo scaraventano a terra e lo calpestano.",
             "scarlet": "Prende a pugni gli alberi, per poi cibarsi delle bacche che cadono dai rami. In questo modo, si allena e si procaccia il cibo simultaneamente.",
-            "violet": "Se perde le chele, queste ricrescono subito. Dal loro guscio si ricava un ottimo brodo, infatti sono un ingrediente molto apprezzato per la paella."
+            "violet": "Se perde le chele, queste ricrescono subito. Dal loro guscio si ricava un ottimo brodo, infatti sono un ingrediente molto apprezzato per la paella.",
+            "legends-za": "Utilizza le robuste chele sia per attaccare che per difendersi. Le lotte tra Crabrawler assomigliano molto a incontri di boxe."
         }
     },
     "egg_groups": [
@@ -27,14 +28,14 @@
     "flat_name": "crabrawler",
     "generation": 7,
     "height": {
-        "crabrawler": "0.6 m"
+        "crabrawler": "0,6 m"
     },
     "id": 739,
     "name": "Crabrawler",
     "name_origin": "Crabrawler potrebbe essere una combinazione di crab, granchio, e brawler, attaccabrighe. Makenkani potrebbe essere una combinazione di 負けん気 makenki, odia perdere, 喧嘩 kenka, lotta, e カニ kani, granchio. ",
     "origin": "Crabrawler è basato su un Birgus latro  e su un pugile. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Crabrawler",
-    "shape": "insettoide",
+    "shape": "None",
     "specie": "Pokémon Pugile",
     "sprites": {
         "crabrawler": {
@@ -62,6 +63,6 @@
         ]
     },
     "weight": {
-        "crabrawler": "7.0 kg"
+        "crabrawler": "7,0 kg"
     }
 }

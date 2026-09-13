@@ -7,10 +7,7 @@
     },
     "curiosities": [
         "Eccetto i Pokémon leggendari, misteriosi, le Ultracreature e le forme megaevolute, Rampardos ha la statistica base Attacco più alta di tutti i Pokémon.",
-        "Rampardos ha la statistica base Difesa più bassa fra tutti i Pokémon di tipo Roccia completamente evoluti.",
-        "Rampardos e la sua pre-evoluzione Cranidos sono gli unici Pokémon fossili ad essere di tipo Roccia puro.\n\tSono inoltre gli unici fossili a non avere un doppio tipo.",
-        "Sono inoltre gli unici fossili a non avere un doppio tipo.",
-        "Anche se è detto che Rampardos usa come arma principale la testa, non poteva imparare Metaltestata fino a Pokémon Platino. Inoltre, non può in alcun modo imparare Capocciata né avere l'abilità Testadura."
+        "Rampardos e la sua pre-evoluzione Cranidos sono gli unici Pokémon fossili ad essere di un solo tipo."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/rampardos.mp3",
     "dex_entries": {
@@ -18,8 +15,8 @@
             "diamond": "Tira testate talmente potenti da frantumare anche oggetti durissimi.",
             "pearl": "Il suo cranio è duro come il ferro. È violento e abbatte gli alberi della giungla mentre va a caccia di prede.",
             "platinum": "Anche se si prendono a testate, due RAMPARDOS non vanno KO perché il loro cranio è molto spesso.",
-            "heartgold": "Il suo spesso cranio, che sopporta qualunque impatto, è ridotto, e il cervello non si è sviluppato.",
-            "soulsilver": "Il suo spesso cranio, che sopporta qualunque impatto, è ridotto, e il cervello non si è sviluppato.",
+            "heart-gold": "Il suo spesso cranio, che sopporta qualunque impatto, è ridotto, e il cervello non si è sviluppato.",
+            "soul-silver": "Il suo spesso cranio, che sopporta qualunque impatto, è ridotto, e il cervello non si è sviluppato.",
             "black": "Anche se si prendono a testate, due Rampardos non vanno KO perché il loro cranio è molto spesso.",
             "white": "Anche se si prendono a testate, due Rampardos non vanno KO perché il loro cranio è molto spesso.",
             "black-2": "Anche se si prendono a testate, due Rampardos non vanno KO perché il loro cranio è molto spesso.",
@@ -34,8 +31,11 @@
             "ultra-moon": "Questo antico Pokémon eccelle nel dare testate. Secondo una teoria, si è estinto perché troppo ottuso. Il suo cervello è infatti molto piccolo.",
             "brilliant-diamond": "Tira testate talmente potenti da frantumare in un colpo solo anche gli oggetti più duri.",
             "shining-pearl": "Il suo cranio è duro come il ferro. È violento e abbatte gli alberi della giungla mentre va a caccia di prede.",
-            "legends-arceus": "Poco si conosce sulla sua biologia. Abbatte grandi alberi con il contundente cranio, la cui bellezza rammenta quella di una perla."
-        }
+            "legends-arceus": "Poco si conosce sulla sua biologia. Abbatte grandi alberi con il contundente cranio, la cui bellezza rammenta quella di una perla.",
+            "scarlet": "Il suo cervello non si è sviluppato perché limitato dalle dimensioni del cranio, che è così spesso da sopportare qualunque impatto.",
+            "violet": "Poiché il loro cranio è spesso ben 30 cm, non perdono i sensi nemmeno se si prendono a forti testate tra di loro."
+        },
+        "\n": {}
     },
     "egg_groups": [
         "Mostro"
@@ -43,14 +43,14 @@
     "flat_name": "rampardos",
     "generation": 4,
     "height": {
-        "rampardos": "1.6 m"
+        "rampardos": "1,6 m"
     },
     "id": 409,
     "name": "Rampardos",
-    "name_origin": "Deriva dalle parole rampage  o rampart  con il suffisso -don  o dal francese os . ",
-    "origin": "Basato su un pachicefalosauro con caratteristiche dello stygimoloch. ",
+    "name_origin": "Rampardos potrebbe derivare da rampart, cinta muraria, ram, sbattere contro qualcosa, o rampage, furia e hard, duro, oltre che Cranidos. Rampald, il suo nome giapponese, potrebbe derivare da rampart o ram e hard o bald, calvo. ",
+    "origin": "Rampardos sembra essere basato sulla famiglia di dinosauri Pachycephalosauria. Le spine intorno la testa ricordano uno Stygimoloch o un Dracorex, data la sua altezza. Insieme a Bastiodon sembra essere basato sul paradosso della forza inarrestabile, dove si incontrano una forza che non può essere fermata/una lancia che attraversa ogni difesa  e un oggetto che non può essere mosso/uno scudo che protegge da ogni attacco . ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Rampardos",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Cranioso",
     "sprites": {
         "rampardos": {
@@ -78,6 +78,6 @@
         ]
     },
     "weight": {
-        "rampardos": "102.5 kg"
+        "rampardos": "102,5 kg"
     }
 }

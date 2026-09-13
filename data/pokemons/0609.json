@@ -4,6 +4,9 @@
             "primary": "Fuocardore",
             "secondary": "Corpodifuoco",
             "hidden": "Intrapasso"
+        },
+        "megachandelure": {
+            "primary": "Intrapasso"
         }
     },
     "curiosities": [
@@ -27,7 +30,11 @@
             "sword": "Infesta vecchie case. Ipnotizza l'avversario facendo tremolare le fiammelle sugli arti.",
             "shield": "Si dice che nelle ville in cui i Chandelure erano utilizzati al posto dei lampadari i funerali si susseguissero senza sosta.",
             "scarlet": "Le anime bruciate dalle sue fiamme cupe perdono la strada e rimangono a vagare in questo mondo per l'eternità.",
-            "violet": ""
+            "violet": "Consuma nel fuoco le anime che ha risucchiato. Ipnotizza l'avversario facendo tremolare le fiammelle sugli arti.",
+            "legends-za": "Le fiamme di Chandelure risucchiano lo spirito di chi ne è avvolto per poi bruciarlo, riducendo il corpo a un semplice guscio vuoto."
+        },
+        "megachandelure": {
+            "legends-za": "Assorbe rancore e lo trasforma in energia. Uno dei suoi occhi è una finestra che collega questo e l'altro mondo."
         }
     },
     "egg_groups": [
@@ -36,19 +43,24 @@
     "flat_name": "chandelure",
     "generation": 5,
     "height": {
-        "chandelure": "1.0 m"
+        "chandelure": "1,0 m",
+        "megachandelure": "2,5 m"
     },
     "id": 609,
     "name": "Chandelure",
     "name_origin": "Il nome Chandelure potrebbe derivare dalla parola inglese chandelier  e lure o allure . ",
     "origin": "È una combinazione di Hitodama  e un lampadario. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Chandelure",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Attiranime",
     "sprites": {
         "chandelure": {
             "default": "https://media.pokemoncentral.it/wiki/5/59/Homem0609.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/75/Homemsh0609.png"
+        },
+        "megachandelure": {
+            "default": "https://media.pokemoncentral.it/wiki/4/41/Homem0609M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/b0/Homemsh0609M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/6/6e/Artwork0609_NB.png"
     },
@@ -60,18 +72,28 @@
             "spa": 145,
             "spd": 90,
             "spe": 80
+        },
+        "megachandelure": {
+            "hp": 60,
+            "atk": 75,
+            "def": 110,
+            "spa": 175,
+            "spd": 110,
+            "spe": 90
         }
     },
     "stats_sum": {
-        "chandelure": 520
+        "chandelure": 520,
+        "megachandelure": 620
     },
     "types": {
         "chandelure": [
-            "Fuoco",
-            "Spettro"
+            "Spettro",
+            "Fuoco"
         ]
     },
     "weight": {
-        "chandelure": "34.3 kg"
+        "chandelure": "34,3 kg",
+        "megachandelure": "69,6 kg"
     }
 }

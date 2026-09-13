@@ -11,7 +11,30 @@
         "Nonostante Delcatty e Skitty siano disponibili in Pokémon Diamante Lucente e Perla Splendente, la loro ex mossa peculiare, Assistente, è inutilizzabile a partire dall'ottava generazione."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/delcatty.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "delcatty": {
+            "ruby": "DELCATTY preferisce vivere una vita in libertà, in cui poter fare ciò che più gli aggrada in base alle proprie esigenze. Poiché anche gli orari dei pasti e del sonno sono completamente liberi, la sua vita quotidiana è casuale.",
+            "sapphire": "DELCATTY dorme dove più gli aggrada senza mai una dimora fissa. Se gli si avvicinano altri POKéMON, DELCATTY non lotta mai, ma leva le tende e si sposta da un'altra parte.",
+            "emerald": "DELCATTY non ha una tana fissa, ma si sposta sempre alla ricerca di un posto comodo per dormire. È un POKéMON notturno e pertanto diventa attivo all'imbrunire.",
+            "fire-red": "POKéMON preferito dagli ALLENATORI di sesso femminile più alla moda, spesso è esibito per la pelliccia e l'aria elegante.",
+            "leaf-green": "POKéMON preferito dagli ALLENATORI di sesso femminile più alla moda, spesso è esibito per la pelliccia e l'aria elegante.",
+            "diamond": "Ha successo fra gli Allenatori di sesso femminile per la sua bellissima pelliccia. Non ha una tana fissa.",
+            "pearl": "Ha successo fra gli Allenatori di sesso femminile per la sua bellissima pelliccia. Non ha una tana fissa.",
+            "platinum": "Ha successo fra gli Allenatori di sesso femminile per la sua bellissima pelliccia. Non ha una tana fissa.",
+            "heart-gold": "Detesta gli ambienti sporchi. Se ne sta sempre ad allisciarsi la pelliccia in luoghi accoglienti.",
+            "soul-silver": "Detesta gli ambienti sporchi. Se ne sta sempre ad allisciarsi la pelliccia in luoghi accoglienti.",
+            "black": "Ha successo fra gli Allenatori di sesso femminile per la sua bellissima pelliccia. Non ha una tana fissa.",
+            "white": "Ha successo fra gli Allenatori di sesso femminile per la sua bellissima pelliccia. Non ha una tana fissa.",
+            "black-2": "Non ha una tana fissa perché è sempre alla ricerca di un posto bello e accogliente in cui dormire.",
+            "white-2": "Non ha una tana fissa perché è sempre alla ricerca di un posto bello e accogliente in cui dormire.",
+            "x": "Detesta gli ambienti sporchi. Se ne sta sempre ad allisciarsi la pelliccia in luoghi accoglienti.",
+            "y": "Ha successo fra gli Allenatori di sesso femminile per la sua bellissima pelliccia. Non ha una tana fissa.",
+            "omega-ruby": "Delcatty preferisce vivere una vita in libertà, in cui poter fare ciò che più gli aggrada in base alle proprie esigenze. Poiché anche gli orari dei pasti e del sonno sono completamente liberi, la sua vita quotidiana è casuale.",
+            "alpha-sapphire": "Delcatty dorme dove più gli aggrada senza mai una dimora fissa. Se gli si avvicinano altri Pokémon, Delcatty non lotta mai, ma leva le tende e si sposta da un'altra parte.",
+            "brilliant-diamond": "Ha successo fra gli Allenatori per la sua stupenda pelliccia. Non ha una tana fissa.",
+            "shining-pearl": "Ha successo fra gli Allenatori per la sua stupenda pelliccia. Non ha una tana fissa."
+        }
+    },
     "egg_groups": [
         "Campo",
         "Magico"
@@ -19,14 +42,14 @@
     "flat_name": "delcatty",
     "generation": 3,
     "height": {
-        "delcatty": "1.10 m"
+        "delcatty": "1,10 m"
     },
     "id": 301,
     "name": "Delcatty",
-    "name_origin": "Deriva dalle parole delicate, elegante o delicious , delizioso, cat, gatto e kitty, gattino. ",
-    "origin": "Ricorda un gatto domestico. ",
+    "name_origin": "Deriva dalle parole delicate, delicato, e kitty, gattino. Enekororo , il suo nome giapponese, potrebbe derivare da 狗尾草 enokorogusa, Setaria viridis, 猫 neko, gatto, e 心 kokoro . ",
+    "origin": "Delcatty sembra essere ispirato ad un gatto domestico. Potrebbe anche prendere ispirazione da una lince, avendo una peluria simile all'animale intorno alla faccia. La peluria intorno al collo ricorda un portaspilli, o possibilmente un cuscino ortopedico, dato che il Pokémon dorme dovunque. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Delcatty",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Finezza",
     "sprites": {
         "delcatty": {
@@ -54,6 +77,6 @@
         ]
     },
     "weight": {
-        "delcatty": "32.6 kg"
+        "delcatty": "32,6 kg"
     }
 }

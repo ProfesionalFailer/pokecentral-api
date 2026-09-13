@@ -13,7 +13,8 @@
     "dex_entries": {
         "thievul": {
             "sword": "Marca di nascosto le prede interessanti, ne segue l'odore per rintracciarle e approfitta di una loro distrazione per rubare nelle loro tane.",
-            "shield": "Se ne va in giro rubando Uova e cibo grazie al suo corpo agile e alle unghie affilate. Il suo nemico naturale è Boltund."
+            "shield": "Se ne va in giro rubando Uova e cibo grazie al suo corpo agile e alle unghie affilate. Il suo nemico naturale è Boltund.",
+            "legends-za": "Marca le prede con il proprio odore per poi seguirle con astuzia e individuare così la loro tana."
         }
     },
     "egg_groups": [
@@ -22,14 +23,14 @@
     "flat_name": "thievul",
     "generation": 8,
     "height": {
-        "thievul": "1.2 m"
+        "thievul": "1,2 m"
     },
     "id": 828,
     "name": "Thievul",
     "name_origin": "Thievul potrebbe essere una combinazione di thief, ladro, evil, malvagio, e vulpine, di volpe. Foxly potrebbe essere una combinazione di fox, volpe, e sly, scaltro. ",
     "origin": "Thievul potrebbe essere basato su una volpe rossa. I dettagli sul muso e i baffi sembrano rappresentare lo stereotipo dei ladri e degli scassinatori o il tropo del ladro gentiluomo. Le zampe anteriori ricordano i guanti che indossano solitamente i ladri e gli scassinatori. La correlazione con Boltund potrebbe essere un riferimento alla caccia alla volpe, dove una volpe veniva cacciata da un English Foxhound su cui Boltund sembra appunto essere basato. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Thievul",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Volpe",
     "sprites": {
         "thievul": {
@@ -57,6 +58,6 @@
         ]
     },
     "weight": {
-        "thievul": "19.9 kg"
+        "thievul": "19,9 kg"
     }
 }

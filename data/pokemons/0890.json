@@ -10,8 +10,8 @@
         "Eternatus è il primo Pokémon leggendario di tipo Veleno .",
         "Eternatus è il Pokémon più pesante di tipo Veleno e Drago.",
         "Nonostante possegga una forma alternativa simile ad una forma Gigamax, non è in grado di dynamaxizzarsi o gigamaxizzarsi.",
-        "Eternatus in forma Dynamax Infinito:\n\tHa i PS più alti in assoluto, a pari merito con Blissey.\n\tHa la Difesa e la Difesa Speciale più alte in assoluto tra tutti i Pokémon.\n\tHa le statistiche base totali più alte tra tutti i Pokémon, 1125.\n\tQuesto lo rende l'unico Pokémon ad avere la somma di statistiche a quattro cifre.\n\tHa un tema inutilizzato nel gioco.",
-        "Ha i PS più alti in assoluto, a pari merito con Blissey.",
+        "Eternatus in forma Dynamax Infinito:\n\tHa i Punti Salute più alti in assoluto, a pari merito con Blissey.\n\tHa la Difesa e la Difesa Speciale più alte in assoluto tra tutti i Pokémon.\n\tHa le statistiche base totali più alte tra tutti i Pokémon, 1125.\n\tQuesto lo rende l'unico Pokémon ad avere la somma di statistiche a quattro cifre.\n\tHa un tema inutilizzato nel gioco.",
+        "Ha i Punti Salute più alti in assoluto, a pari merito con Blissey.",
         "Ha la Difesa e la Difesa Speciale più alte in assoluto tra tutti i Pokémon.",
         "Ha le statistiche base totali più alte tra tutti i Pokémon, 1125.\n\tQuesto lo rende l'unico Pokémon ad avere la somma di statistiche a quattro cifre.",
         "Questo lo rende l'unico Pokémon ad avere la somma di statistiche a quattro cifre.",
@@ -40,15 +40,15 @@
     "flat_name": "eternatus",
     "generation": 8,
     "height": {
-        "eternatus": "20.0 m",
-        "dynamax-infinito": "100.0 m"
+        "eternatus": "20,0 m",
+        "dynamax-infinito": "100,0 m"
     },
     "id": 890,
     "name": "Eternatus",
     "name_origin": "Eternatus potrebbe essere la combinazione di eternal, eterno, aeternatus, reso immortale in latino, e Thanatus, translitterazione latina per Tanato. Mugendina potrebbe essere la combinazione di 無限大 mugendai, infinito, ダイマックス Daimax, Dynamax, e probabilmente dynamic, dinamico. ",
     "origin": "Eternatus potrebbe essere basato su diversi giganti della mitologia e della letteratura. La sua natura extra-terrestre e il suo aspetto simile ad un drago potrebbero essere un riferimento a Uther Pendragon, il padre di Re Artù, che acquisì il suo epiteto dopo aver visto una cometa a forma di drago. Il suo aspetto ricorda anche dei resti scheletrici di un drago, con la cassa toracica a forma di cannone. La forma Dynamax Infinito potrebbe trarre ispirazione da un drago biblico a sette teste, comparso nel libro dell'Apocalisse, che lanciò un terzo di tutte le stelle sulla Terra con l'aiuto dei nefilim, i giganti ebraici. L'evento avrebbe portato quindi la fine dei tempi. Questa considerazione potrebbe essere anche l'origine delle Desiostelle e della Notte Oscura. Eternatus forma Dynamax Infinito potrebbe essere basato anche su Shesha, il re dei nāga nella mitologia indù, che di solito è rappresentato come un serpente gigante a forma di spirale, con mille teste  e in grado di sputare veleno e fuoco. Shesha porta la divinità Visnù nelle sue spirali in modo simile al modo in cui Eternatus Dynamax Infinito porta il suo nucleo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Eternatus",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Gigante",
     "sprites": {
         "eternatus": {
@@ -85,12 +85,12 @@
     },
     "types": {
         "eternatus": [
-            "Veleno",
-            "Drago"
+            "Drago",
+            "Veleno"
         ]
     },
     "weight": {
-        "eternatus": "950.0 kg",
-        "dynamax-infinito": "???.? kg"
+        "eternatus": "950,0 kg",
+        "dynamax-infinito": "???,? kg"
     }
 }

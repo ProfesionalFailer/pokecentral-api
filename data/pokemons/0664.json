@@ -17,7 +17,8 @@
             "omega-ruby": "Se assalito da Pokémon uccello, si difende emettendo velenose scaglie nere che paralizzano al minimo contatto.",
             "alpha-sapphire": "La sua temperatura corporea è regolata dalle scaglie che ne ricoprono il corpo. Grazie ad esse può adattarsi e sopravvivere in qualsiasi condizione climatica.",
             "scarlet": "Può mangiare foglie e radici velenose perché è in grado di trasformare le tossine che assorbe in una polvere nera, che poi espelle.",
-            "violet": "Mette in fuga il nemico emettendo una polvere velenosa. Le piante di cui si ciba variano a seconda del luogo in cui vive."
+            "violet": "Mette in fuga il nemico emettendo una polvere velenosa. Le piante di cui si ciba variano a seconda del luogo in cui vive.",
+            "legends-za": "La sua temperatura corporea è regolata dalle scaglie che ne ricoprono il corpo. Grazie a esse può adattarsi e sopravvivere in qualsiasi condizione climatica."
         }
     },
     "egg_groups": [
@@ -26,14 +27,14 @@
     "flat_name": "scatterbug",
     "generation": 6,
     "height": {
-        "scatterbug": "0.3 m"
+        "scatterbug": "0,3 m"
     },
     "id": 664,
     "name": "Scatterbug",
     "name_origin": "Scatterbug è una combinazione tra scatter  e bug . Kofukimushi è una combinazione tra コフキコガネ Kofukikogane  e 虫 mushi . ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Scatterbug",
-    "shape": "insettoide",
+    "shape": "None",
     "specie": "Pokémon Tirascaglie",
     "sprites": {
         "scatterbug": {
@@ -61,6 +62,6 @@
         ]
     },
     "weight": {
-        "scatterbug": "2.5 kg"
+        "scatterbug": "2,5 kg"
     }
 }

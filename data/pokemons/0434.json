@@ -7,7 +7,9 @@
         }
     },
     "curiosities": [
-        "Fino a Nero e Bianco, si può catturare Skuntank solo in Diamante. Non si può dire lo stesso per la sua controparte Glameow: infatti è sì ottenibile solo in Perla in quarta generazione, ma si può catturare anche in quinta, nel Boschetto."
+        "Nonostante sia basato su una specie di puzzola striata, Stunky secerne fluido puzzolente stando sulle zampe anteriori, come le specie di puzzole maculate, come visto in Il furto della sfera.",
+        "Stunky condivide il suo nome giapponese con un nemico nella serie di Bomberman.",
+        "Stunky può essere visto come un parallelo a Glameow: Stunky è esclusivo di Pokémon Diamante e Nero 2, mentre Glameow di Pokémon Perla e Bianco 2. Sono inoltre usati dalle Comandanti Galassia Martes e Giovia. Sono inoltre entrambi nel Gruppo Uova Campo, hanno famiglie evolutive a due stadi e non possono essere trovati selvatici in Pokémon Platino."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/stunky.mp3",
     "dex_entries": {
@@ -15,8 +17,8 @@
             "diamond": "Si protegge spruzzando un fluido puzzolente dal posteriore. Il tanfo permane per 24 ore.",
             "pearl": "Spruzza un fluido puzzolente e disgustoso dal posteriore per allontanare i nemici.",
             "platinum": "Emette un fluido puzzolente dal posteriore. Il tanfo si sparge per 2 km e tiene lontani i Pokémon.",
-            "heartgold": "Dal posteriore spruzza un liquido talmente puzzolente che ci si sente male anche a due km di distanza.",
-            "soulsilver": "Dal posteriore spruzza un liquido talmente puzzolente che ci si sente male anche a due km di distanza.",
+            "heart-gold": "Dal posteriore spruzza un liquido talmente puzzolente che ci si sente male anche a due km di distanza.",
+            "soul-silver": "Dal posteriore spruzza un liquido talmente puzzolente che ci si sente male anche a due km di distanza.",
             "black": "Emette un fluido puzzolente dal posteriore. Il tanfo si sparge per 2 km e tiene lontani i Pokémon.",
             "white": "Emette un fluido puzzolente dal posteriore. Il tanfo si sparge per 2 km e tiene lontani i Pokémon.",
             "black-2": "Emette un fluido puzzolente dal posteriore. Il tanfo si sparge per 2 km e tiene lontani i Pokémon.",
@@ -40,14 +42,14 @@
     "flat_name": "stunky",
     "generation": 4,
     "height": {
-        "stunky": "0.4 m"
+        "stunky": "0,4 m"
     },
     "id": 434,
     "name": "Stunky",
-    "name_origin": "Il nome deriva dalla combinazione delle parole inglesi skunk, moffetta, e stinky, puzzolente. ",
-    "origin": "È basato su una moffetta, ma ha anche delle somiglianze con un gatto, il che rispecchia il fatto che le piccole moffette in inglese possono essere chiamate kittens . ",
+    "name_origin": "Stunky potrebbe derivare da skunk, moffetta, e stinky, puzzolente. Skunpuu, il suo nome giapponese, potrebbe derivare da skunk e プー pū, onomatopea per le flatulenze. ",
+    "origin": "Stunky sembra essere basato su una moffetta, possibilmente un Conepatus. Presenta somiglianze anche con un gatto. Il suo nome giapponese e il suo verso menzionano e ricordano delle flatulenze, e la sua faccia ricorda delle natiche. Il fatto che possa imparare mosse come Esplosione e Autodistruzione, oltre ad avere l'abilità Scoppio, potrebbe essere un riferimento alle bombe a gas, a flatulenze, o come le moffette rilascino tutte le loro sostanze puzzolenti allo stesso momento. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Stunky",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Moffetta",
     "sprites": {
         "stunky": {
@@ -71,11 +73,11 @@
     },
     "types": {
         "stunky": [
-            "Veleno",
-            "Buio"
+            "Buio",
+            "Veleno"
         ]
     },
     "weight": {
-        "stunky": "19.2 kg"
+        "stunky": "19,2 kg"
     }
 }

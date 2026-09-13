@@ -6,7 +6,7 @@
         }
     },
     "curiosities": [
-        "Mentre la sua pre-evoluzione Piplup può imparare Botta, Prinplup ed Empoleon imparano Azione."
+        "Prinplup condivide la specie con la sua preevoluzione e con Eiscue: sono tutti noti come \"Pokémon Pinguino\"."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/prinplup.mp3",
     "dex_entries": {
@@ -14,8 +14,8 @@
             "diamond": "Vive da solo lontano dagli altri. Apparentemente ogni esemplare crede di essere il più importante.",
             "pearl": "Il battito delle ali è tanto potente da abbattere gli alberi più robusti. Cerca le prede nei mari ghiacciati.",
             "platinum": "Poiché ogni esemplare si considera il più importante, i PRINPLUP non riescono mai a creare un gruppo.",
-            "heartgold": "Vive senza riunirsi in gruppi. Con i suoi poderosi colpi d'ala, può spaccare in due degli alberi enormi.",
-            "soulsilver": "Vive senza riunirsi in gruppi. Con i suoi poderosi colpi d'ala, può spaccare in due degli alberi enormi.",
+            "heart-gold": "Vive senza riunirsi in gruppi. Con i suoi poderosi colpi d'ala, può spaccare in due degli alberi enormi.",
+            "soul-silver": "Vive senza riunirsi in gruppi. Con i suoi poderosi colpi d'ala, può spaccare in due degli alberi enormi.",
             "black": "Poiché ogni esemplare si considera il più importante, i Prinplup non riescono mai a creare un gruppo.",
             "white": "Poiché ogni esemplare si considera il più importante, i Prinplup non riescono mai a creare un gruppo.",
             "black-2": "Poiché ogni esemplare si considera il più importante, i Prinplup non riescono mai a creare un gruppo.",
@@ -26,7 +26,9 @@
             "alpha-sapphire": "Vive senza riunirsi in gruppi. Con i suoi poderosi colpi d'ala, può spaccare in due degli alberi enormi.",
             "brilliant-diamond": "Vive da solo, senza fare gruppo con i suoi simili. Pare che ogni esemplare creda di essere il più importante.",
             "shining-pearl": "Il battito delle sue ali è così potente da spezzare in due anche gli alberi più robusti. Va in cerca di prede nei mari ghiacciati.",
-            "legends-arceus": "Nuota con agio in algidi mari, intonando un canto simigliante al ruggito delle onde. Ha ali possenti ed incommensurato orgoglio."
+            "legends-arceus": "Nuota con agio in algidi mari, intonando un canto simigliante al ruggito delle onde. Ha ali possenti ed incommensurato orgoglio.",
+            "scarlet": "Vive senza riunirsi in gruppi. Con i suoi poderosi colpi d’ala, può spaccare in due degli alberi enormi.",
+            "violet": "Poiché ogni esemplare si considera il più importante, i Prinplup non riescono mai a creare un gruppo."
         }
     },
     "egg_groups": [
@@ -36,14 +38,14 @@
     "flat_name": "prinplup",
     "generation": 4,
     "height": {
-        "prinplup": "0.8 m"
+        "prinplup": "0,8 m"
     },
     "id": 394,
     "name": "Prinplup",
-    "name_origin": "Deriva dalle parole prince, principe, e plup, onomatopea di un ciottolo che colpisce la superficie dell'acqua, o più semplicemente il nome della sua pre-evoluzione, Piplup. ",
-    "origin": "Basato su un pinguino fronte dorata. ",
+    "name_origin": "Prinplup potrebbe derivare da prince, principe, e plup, il suono di un ciottolo che cade nell'acqua Pottaishi, il suo nome giapponese, potrebbe derivare da ぽちゃぽちゃ pochapocha, il suono di un ciottolo che cade nell'acqua, e 皇太子 kōtaishi, principe della corona. ",
+    "origin": "Prinplup sembra essere basato su un pinguino. Le creste sulla testa ricordano un pinguino crestato. Il piumaggio di Prinplup può ricordare un frac con bottoni, abito spesso comparato alle piume bianche e nere dei pinguini. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Prinplup",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Pinguino",
     "sprites": {
         "prinplup": {
@@ -71,6 +73,6 @@
         ]
     },
     "weight": {
-        "prinplup": "23.0 kg"
+        "prinplup": "23,0 kg"
     }
 }

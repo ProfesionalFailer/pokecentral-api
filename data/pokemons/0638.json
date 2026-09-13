@@ -19,7 +19,8 @@
             "omega-ruby": "Ha un corpo e uno spirito d'acciaio. Gli basta lo sguardo per farsi ubbidire anche dai Pokémon più feroci.",
             "alpha-sapphire": "Ha un corpo e uno spirito d'acciaio. È comparso con i suoi compagni per punire coloro che un tempo ferirono i Pokémon.",
             "sword": "La leggenda narra che abbia lottato assieme a Terrakion e Virizion contro gli esseri umani per proteggere i Pokémon di Unima.",
-            "shield": "È un leader nato. Al suo cospetto anche i Pokémon più feroci assumono un atteggiamento reverenziale."
+            "shield": "È un leader nato. Al suo cospetto anche i Pokémon più feroci assumono un atteggiamento reverenziale.",
+            "legends-za": "Ha un corpo e uno spirito d'acciaio. Gli basta lanciare un'occhiata per farsi ubbidire anche dai Pokémon più feroci."
         }
     },
     "egg_groups": [
@@ -28,14 +29,14 @@
     "flat_name": "cobalion",
     "generation": 5,
     "height": {
-        "cobalion": "2.1 m"
+        "cobalion": "2,1 m"
     },
     "id": 638,
     "name": "Cobalion",
     "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi cobalt, cobalto, e champion, campione, o lion, leone. ",
     "origin": "Cobalion è basato sulla figura di Athos, personaggio del racconto \"I tre moschettieri\". Come il suo omonimo è il più anziano e il leader del gruppo. Il suo aspetto ricorda quello del markhor, una grossa capra selvatica afghana, o del kudu maggiore, ma il colore del manto ricorda la pelliccia del lupo grigio, ed è un riferimento esplicito al blu cobalto. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Cobalion",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Metalcuore",
     "sprites": {
         "cobalion": {
@@ -64,6 +65,6 @@
         ]
     },
     "weight": {
-        "cobalion": "250.0 kg"
+        "cobalion": "250,0 kg"
     }
 }

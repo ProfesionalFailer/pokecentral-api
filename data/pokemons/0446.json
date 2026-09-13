@@ -8,7 +8,14 @@
     },
     "curiosities": [
         "Munchlax è il Pokémon che insieme a Shuckle e Pyukumuku ha la statistica base della velocità più bassa in assoluto.",
-        "Munchlax ha il più alto totale di statistiche base di tutti i Pokémon Baby, ben 390."
+        "Munchlax ha il più alto totale di statistiche base di tutti i Pokémon Baby, ben 390.",
+        "Il nome inglese di Munchlax è stato rivelato il 9 ottobre 2004.",
+        "Munchlax è apparso in quattro giochi prima della sua apparizione nella serie principale: Pokémon Dash, Pokémon XD: Tempesta Oscura, Pokémon Team Turbo, e Pokémon Mystery Dungeon: Squadra Rossa e Squadra Blu.\n\tNon è possibile avere Munchlax in squadra in Pokémon XD senza hacking.",
+        "Non è possibile avere Munchlax in squadra in Pokémon XD senza hacking.",
+        "Munchlax ha l'ultimo numero d'indice in Pokémon XD, escludendo le forme di Unown.",
+        "La descrizione del trofeo di Super Smash Bros. Brawl dice che Munchlax è apparso per la prima volta in Pokémon Diamante e Perla, anche se è apparso per la prima volta in Pokémon Dash.",
+        "La linea evolutiva di Munchlax è l'unica in cui tutti i membri possono uscire da una Poké Ball nello stesso gioco della serie Super Smash Bros.",
+        "La bocca di Munchlax è cambiata nel tempo: l'artwork principale e i primi giochi la mostrano aprirsi solo al mezzo, mentre raffigurazioni più recenti la mostrano aprirsi in modo più largo, quasi simile ad un pupazzo. Questo rende Munchlax uno dei pochi Pokémon il cui modello di Pokémon HOME differisce dall'artwork principale."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/munchlax.mp3",
     "dex_entries": {
@@ -16,8 +23,8 @@
             "diamond": "Divora quotidianamente una quantità di cibo pari al suo peso mandandolo giù quasi senza masticare.",
             "pearl": "Nasconde il cibo sotto i lunghi peli del suo corpo. Tuttavia, finisce spesso per dimenticarlo.",
             "platinum": "Il suo insaziabile appetito gli fa spesso dimenticare di avere del cibo nascosto sotto il pelo.",
-            "heartgold": "Nasconde il cibo sotto il pelo arruffato. Lo inghiotte senza masticarlo: glop!",
-            "soulsilver": "Nasconde il cibo sotto il pelo arruffato. Lo inghiotte senza masticarlo: glop!",
+            "heart-gold": "Nasconde il cibo sotto il pelo arruffato. Lo inghiotte senza masticarlo: glop!",
+            "soul-silver": "Nasconde il cibo sotto il pelo arruffato. Lo inghiotte senza masticarlo: glop!",
             "black": "Il suo insaziabile appetito gli fa spesso dimenticare di avere del cibo nascosto sotto il pelo.",
             "white": "Il suo insaziabile appetito gli fa spesso dimenticare di avere del cibo nascosto sotto il pelo.",
             "black-2": "Il suo insaziabile appetito gli fa spesso dimenticare di avere del cibo nascosto sotto il pelo.",
@@ -36,8 +43,9 @@
             "shining-pearl": "Ha l'abitudine di nascondere il cibo sotto i lunghi peli del suo corpo, ma poi si dimentica di averlo fatto.",
             "legends-arceus": "Provvisto di un robusto stomaco, si sazia con cibi marcescenti senza remore. Visita assiduamente il villaggio in cerca di rifiuti destinati al concime.",
             "scarlet": "Ogni giorno deve mangiare una quantità di cibo pari al suo peso corporeo. Non bada troppo al sapore dio ciò che ingurgita.",
-            "violet": ""
-        }
+            "violet": "La foga con cui mangia è tale da fargli dimenticare di avere del cibo nascosto sotto il pelo."
+        },
+        "": {}
     },
     "egg_groups": [
         "Sconosciuto"
@@ -45,21 +53,21 @@
     "flat_name": "munchlax",
     "generation": 4,
     "height": {
-        "munchlax": "0.6 m"
+        "munchlax": "0,6 m"
     },
     "id": 446,
     "name": "Munchlax",
-    "name_origin": "Il nome potrebbe derivare dalla combinazione tra i verbi inglesi munch, masticare, biascicare, e lax, infiacchito, pigro, negligente, o relax, rilassarsi. ",
-    "origin": "Munchlax è basato su un cucciolo d'orso. Questo è confermato dal fatto che può essere trovato su alcuni alberi del Miele, che alcune specie di orso adorano particolarmente, e che ha l'abitudine di mangiare a volontà, proprio come gli orsi prima del letargo, rappresentato dalla sua pigrizia. ",
+    "name_origin": "Munchlax potrebbe derivare da munch, masticare, e lax, infiacchito, pigro, relax, rilassarsi, o Snorlax. Gonbe, il suo nome giapponese, potrebbe derivare da カビゴン Kabigon, Snorlax, baby, bambino, e possibilmente 権兵衛 Gonbē, un antico nome generico per un cittadino. ",
+    "origin": "Munchlax è basato su un cucciolo d'orso. Le sue abitudini alimentari sono simili a quelle di un orso che si prepara per il letargo, incluso il consumo di miele . La sua tendenza a cercare cibo nella spazzatura deriva anch'essa dagli orsi. La parte gialla della sua pelliccia sotto il mento ricorda un bavaglino. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Munchlax",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Ghiottone",
     "sprites": {
         "munchlax": {
             "default": "https://media.pokemoncentral.it/wiki/b/b5/Homem0446.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/54/Homemsh0446.png"
         },
-        "official_artwork": "https://media.pokemoncentral.it/wiki/f/ff/Artwork0446_DP.png"
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/ca/Artwork0446_SL.png"
     },
     "stats": {
         "munchlax": {
@@ -80,6 +88,6 @@
         ]
     },
     "weight": {
-        "munchlax": "105.0 kg"
+        "munchlax": "105,0 kg"
     }
 }

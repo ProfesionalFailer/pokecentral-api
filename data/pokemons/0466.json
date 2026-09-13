@@ -7,7 +7,10 @@
     },
     "curiosities": [
         "Può essere considerato la controparte di Magmortar. Entrambi sono lo stadio evolutivo finale di un Pokémon Baby e si evolvono tramite scambio con strumenti simili. Entrambi hanno una percentuale di 75 maschi su 100 e un tasso di cattura di 30, inoltre entrambi hanno la somma delle statistiche base pari a 540.",
-        "Electivire condivide la categoria con Zebstrika. Sono entrambi noti come Pokémon Saetta."
+        "Electivire condivide la categoria con Zebstrika. Sono entrambi noti come Pokémon Saetta.",
+        "Electivire, insieme a Magmortar, Tangrowth e Gliscor, erano gli unici Pokémon di quarta generazione che richiedevano l'uso di un gioco di terza per essere ottenuti fino al rilascio di Pokémon Platino. Nel caso di Electivire, sia Elekid che l'Elettritore erano ottenibili solo con Pokémon Rosso Fuoco nel dual slot.\n\tQuesto escludendo l'Electivire speciale ottenibile in Pokémon Battle Revolution.",
+        "Questo escludendo l'Electivire speciale ottenibile in Pokémon Battle Revolution.",
+        "Electivire è l'unico Pokémon di quarta generazione ad aver debuttato nella serie prima della serie Pokémon Diamante e Perla a non averlo fatto in un film: appare infatti in La decisione di Vera."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/electivire.mp3",
     "dex_entries": {
@@ -15,8 +18,8 @@
             "diamond": "Tocca il nemico con le sue due code e rilascia una scarica elettrica di oltre 20000 volt.",
             "pearl": "Tocca il nemico con le sue due code e rilascia una scarica elettrica di oltre 20000 volt.",
             "platinum": "Incurante degli attacchi nemici, si avvicina, tocca il nemico con le code e rilascia una scarica elettrica.",
-            "heartgold": "Quando accumula tanta elettricità sparge scintille azzurrine dallo spazio tra le due corna.",
-            "soulsilver": "Quando accumula tanta elettricità sparge scintille azzurrine dallo spazio tra le due corna.",
+            "heart-gold": "Quando accumula tanta elettricità sparge scintille azzurrine dallo spazio tra le due corna.",
+            "soul-silver": "Quando accumula tanta elettricità sparge scintille azzurrine dallo spazio tra le due corna.",
             "black": "Incurante degli attacchi nemici, si avvicina, tocca il nemico con le code e rilascia una scarica elettrica.",
             "white": "Incurante degli attacchi nemici, si avvicina, tocca il nemico con le code e rilascia una scarica elettrica.",
             "black-2": "Tocca il nemico con la punta delle code rilasciando in un istante una scarica ad alta tensione di oltre 20.000 volt.",
@@ -42,21 +45,21 @@
     "flat_name": "electivire",
     "generation": 4,
     "height": {
-        "electivire": "1.8 m"
+        "electivire": "1,8 m"
     },
     "id": 466,
     "name": "Electivire",
-    "name_origin": "Deriva dalle parole electric  o electricity  e wire  o una contrazione di live wire . ",
-    "origin": "Sembra che si basi su uno yeti, un oni o un gorilla. Il disegno che ha sulla schiena ricorda una presa della corrente, a cui sono collegati due cavi elettrici. ",
+    "name_origin": "Electivire potrebbe derivare da electric, elettrico, o electricity, elettricità, e wire, filo, cavo, o live wire, filo sotto tensione. Elekible, il suo nome giapponese, potrebbe derivare da electric, エレキ eleki, elettrico, o electricity e cable, cavo. ",
+    "origin": "Electivire sembra essere basato su un oni, spesso detti poter manipolare tuoni e indossare pelli di tigre. Dato il suo pelo irsuto, potrebbe anche prendere ispirazione dal namahage, rappresentati da uomini con maschere da oni e indossanti un mino. Può anche ricordare uno yeti. La sua abilità Elettrorapid lo riconduce ad un motore elettrico, le sue code ricordano cavi elettrici, il segno sulla sua schiena ricorda una presa di corrente, mentre le sue corna ricordano bobine di Tesla. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Electivire",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Saetta",
     "sprites": {
         "electivire": {
             "default": "https://media.pokemoncentral.it/wiki/c/ca/Homem0466.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/c2/Homemsh0466.png"
         },
-        "official_artwork": "https://media.pokemoncentral.it/wiki/2/21/Artwork0466_DLPS.png"
+        "official_artwork": "https://media.pokemoncentral.it/wiki/0/04/Artwork0466_DP.png"
     },
     "stats": {
         "electivire": {
@@ -77,6 +80,6 @@
         ]
     },
     "weight": {
-        "electivire": "138.6 kg"
+        "electivire": "138,6 kg"
     }
 }

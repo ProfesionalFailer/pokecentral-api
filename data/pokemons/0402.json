@@ -6,7 +6,7 @@
         }
     },
     "curiosities": [
-        "A differenza di molti altri Pokémon pienamente evoluti, Kricketune è più facile da trovare rispetto alla sua pre-evoluzione, in quanto compare sempre, senza restrizioni legate all'ora, al contrario di Kricketot."
+        "A partire dalla settima generazione Kricketune ha il totale di statistiche più basso dei Pokémon completamente evoluti il cui totale è calcolato con la formula normale. Shedinja ha un totale più basso dato il suo singolo punto in Punti Salute, non usato nel calcolo dei suoi PS."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/kricketune.mp3",
     "dex_entries": {
@@ -14,8 +14,8 @@
             "diamond": "Quando canta tiene le zampe incrociate al petto. Sa improvvisare melodie.",
             "pearl": "Esprime le proprie emozioni con melodie, che sono oggetto di studio di molti scienziati.",
             "platinum": "C'è un villaggio che organizza una gara basata sulle melodie incredibilmente varie di questo Pokémon.",
-            "heartgold": "Canta delle belle melodie, provocando interessanti risonanze nelle cavità del proprio corpo.",
-            "soulsilver": "Canta delle belle melodie, provocando interessanti risonanze nelle cavità del proprio corpo.",
+            "heart-gold": "Canta delle belle melodie, provocando interessanti risonanze nelle cavità del proprio corpo.",
+            "soul-silver": "Canta delle belle melodie, provocando interessanti risonanze nelle cavità del proprio corpo.",
             "black": "C'è un villaggio che organizza una gara basata sulle melodie incredibilmente varie di questo Pokémon.",
             "white": "C'è un villaggio che organizza una gara basata sulle melodie incredibilmente varie di questo Pokémon.",
             "black-2": "C'è un villaggio che organizza una gara basata sulle melodie incredibilmente varie di questo Pokémon.",
@@ -37,14 +37,14 @@
     "flat_name": "kricketune",
     "generation": 4,
     "height": {
-        "kricketune": "1.0 m"
+        "kricketune": "1,0 m"
     },
     "id": 402,
     "name": "Kricketune",
-    "name_origin": "Deriva dalla parole cricket  e tune . ",
-    "origin": "Basato sul carabo violino e s'ispira ad un violoncello. ",
+    "name_origin": "Kricketune potrebbe derivare da cricket, grillo, e tune, melodia. Korotock, il suo nome giapponese, potrebbe derivare da 蟋蟀 koorogi, grillo, e tock, onomatopea del ticchettio di un orologio o un metronomo. ",
+    "origin": "Kricketot sembra essere basato su un grillo, famosi per emettere suoni per attirare le femmine. I grilli producono suoni tramite stridulazione tramite le ali, ma una credenza popolare vede questo suono originare quando strusciano le zampe sull'addome, in modo simile a Kricketune. Ricorda un Mormolyce phyllodes, detto anche \"insetto violino\" data la forma dell'addome simile ad uno strumento a corda, e le sue braccia funziano come un archetto. Le sfere sulle antenne ricordano un Compsocerus violaceus, una specie di insetti del Brasile meridionale, Uruguay e Argentina, i cui nomi popolari derivano da strumenti musicali: \"besouro viola\"  in Brasile e \"guitarrero\"  nelle regioni dove è parlato lo spagnolo. L'aspetto di Kricketune ricorda quello di un musicista o un direttore d'orchestra, dati i suoi baffi, ali che ricordano un abito elegante e braccia simili ad una bacchetta. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Kricketune",
-    "shape": "due paia di ali",
+    "shape": "None",
     "specie": "Pokémon Grillo",
     "sprites": {
         "kricketune": {
@@ -76,6 +76,6 @@
         ]
     },
     "weight": {
-        "kricketune": "25.5 kg"
+        "kricketune": "25,5 kg"
     }
 }

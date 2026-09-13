@@ -6,13 +6,14 @@
         }
     },
     "curiosities": [
-        "Fidough condivide la sua specie con Growlithe, Lillipup, Rockruff e Yamper: tutti e cinque sono conosciuti come Pokémon Cagnolino."
+        "Fidough condivide la sua categoria con Growlithe, Lillipup, Rockruff e Yamper: tutti e cinque sono conosciuti come Pokémon Cagnolino."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/fidough.mp3",
     "dex_entries": {
         "fidough": {
             "scarlet": "È umido e liscio al tatto. Fa fermentare ciò che lo circonda grazie al lievito contenuto nel suo alito.",
-            "violet": "Il lievito contenuto nel suo alito è utile in cucina, perciò questo Pokémon è stato protetto dagli esseri umani fin dall'antichità."
+            "violet": "Il lievito contenuto nel suo alito è utile in cucina, perciò questo Pokémon è stato protetto dagli esseri umani fin dall'antichità.",
+            "legends-za": "Produce lievito all'interno del suo corpo. Accompagna l'uomo e sostiene la sua alimentazione fin da tempi immemorabili."
         }
     },
     "egg_groups": [
@@ -22,14 +23,14 @@
     "flat_name": "fidough",
     "generation": 9,
     "height": {
-        "fidough": "0.3 m"
+        "fidough": "0,3 m"
     },
     "id": 926,
     "name": "Fidough",
-    "name_origin": "La prima parte del nome, Fido, potrebbe aver origine dal nome del famoso cane italiano vissuto in provincia di Firenze che fedelmente aveva continuato a seguire il padrone che lo aveva adottato anche dopo la morte.\nLa seconda metà, deriva invece dall'inglese di impasto, dough. Il nome potrebbe anche fare riferimento alla pasta fillo e a dog, cane in inglese.",
+    "name_origin": "La prima parte del nome, Fido, potrebbe aver origine dal nome del famoso cane italiano vissuto in provincia di Firenze che fedelmente aveva continuato a seguire il padrone che lo aveva adottato anche dopo la morte.\nLa seconda metà, deriva invece dall'inglese di impasto, dough. Il nome potrebbe anche fare riferimento alla pasta fillo e a dog, cane in inglese. ",
     "origin": "Fidough potrebbe essere basato su un cane e su impasti di pane umidi. Potrebbe anche essere ispirato all'ensaïmada, un tipo di dolce spagnolo a forma di spirale. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Fidough",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Cagnolino",
     "sprites": {
         "fidough": {
@@ -57,6 +58,6 @@
         ]
     },
     "weight": {
-        "fidough": "10.9 kg"
+        "fidough": "10,9 kg"
     }
 }

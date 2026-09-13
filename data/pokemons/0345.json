@@ -6,8 +6,10 @@
         }
     },
     "curiosities": [
-        "Prima della nona generazione, Lileep e Cradily avevano una combinazione di tipi unica.",
-        "Nonostante il nome della categoria sia Pokémon Fiordimare e viva in acqua, Lileep non è un Pokémon di tipo Acqua."
+        "Lileep e Cradily sono gli unici Pokémon:\n\tDi tipo Erba nel Gruppo Uova Acqua 3;\n\tDi tipo Roccia consistenti di una testa e una base.",
+        "Di tipo Erba nel Gruppo Uova Acqua 3;",
+        "Di tipo Roccia consistenti di una testa e una base.",
+        "Prima dell'ottava generazione la famiglia di Lileep poteva avere la propria abilità speciale solo tramite Dream World. Alla chiusura del servizio, era impossibile ottenere l'abilità se non tramite accoppiamento. In ottava generazione è stato possibile ottenerla tramite Raid Dynamax e Cerotto abilità."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/lileep.mp3",
     "dex_entries": {
@@ -15,13 +17,13 @@
             "ruby": "LILEEP si è estinto circa cento milioni di anni or sono. Questo POKéMON antico si aggrappa alle rocce sui fondali marini e cattura le prede che si avvicinano con i propri tentacoli a forma di petali di fiori.",
             "sapphire": "LILEEP è un POKéMON antico rigenerato da un fossile. Rimane sempre attaccato alla roccia. Dalla sua postazione fissa, questo POKéMON scandaglia attentamente i fondali con i suoi due occhi.",
             "emerald": "LILEEP fa ondeggiare i suoi tentacoli, fingendosi così un'alga marina per inghiottire in un sol boccone le ignare prede. Si è estinto 100 milioni di anni fa.",
-            "firered": "Si era estinto 100 milioni di anni fa. Recentemente, tecniche avanzate hanno permesso di rigenerarlo da un fossile.",
-            "leafgreen": "Si era estinto 100 milioni di anni fa. Recentemente, tecniche avanzate hanno permesso di rigenerarlo da un fossile.",
+            "fire-red": "Si era estinto 100 milioni di anni fa. Recentemente, tecniche avanzate hanno permesso di rigenerarlo da un fossile.",
+            "leaf-green": "Si era estinto 100 milioni di anni fa. Recentemente, tecniche avanzate hanno permesso di rigenerarlo da un fossile.",
             "diamond": "Viveva sul fondo marino 100 milioni di anni fa ed è stato rigenerato in laboratorio.",
             "pearl": "Viveva sul fondo marino 100 milioni di anni fa ed è stato rigenerato in laboratorio.",
             "platinum": "Viveva sul fondo marino 100 milioni di anni fa ed è stato rigenerato in laboratorio.",
-            "heartgold": "Cattura le prede che si avvicinano con i tentacoli a forma di corolla. Si è estinto 100 milioni di anni fa.",
-            "soulsilver": "Cattura le prede che si avvicinano con i tentacoli a forma di corolla. Si è estinto 100 milioni di anni fa.",
+            "heart-gold": "Cattura le prede che si avvicinano con i tentacoli a forma di corolla. Si è estinto 100 milioni di anni fa.",
+            "soul-silver": "Cattura le prede che si avvicinano con i tentacoli a forma di corolla. Si è estinto 100 milioni di anni fa.",
             "black": "Viveva sul fondo marino 100 milioni di anni fa ed è stato rigenerato in laboratorio.",
             "white": "Viveva sul fondo marino 100 milioni di anni fa ed è stato rigenerato in laboratorio.",
             "black-2": "Viveva sul fondo marino 100 milioni di anni fa ed è stato rigenerato in laboratorio.",
@@ -36,7 +38,8 @@
             "shield": "Si attacca alle rocce dei fondali marini e usa i tentacoli simili a petali per catturare le prede che si avvicinano.",
             "brilliant-diamond": "Viveva sul fondo marino 100 milioni di anni fa ed è stato rigenerato grazie al potere della scienza.",
             "shining-pearl": "Viveva sul fondo marino 100 milioni di anni fa ed è stato rigenerato grazie al potere della scienza."
-        }
+        },
+        "\n": {}
     },
     "egg_groups": [
         "Acqua 3"
@@ -44,14 +47,14 @@
     "flat_name": "lileep",
     "generation": 3,
     "height": {
-        "lileep": "1.0 m"
+        "lileep": "1,0 m"
     },
     "id": 345,
     "name": "Lileep",
-    "name_origin": "Può essere una combinazione di lily  e peep  o deep . Potrebbe anche derivare da likiep, un atollo dell'Oceano Pacifico. ",
-    "origin": "Può essere basato sul giglio di mare o sui crinoidi, animali marini una volta ritenuti estinti. ",
+    "name_origin": "Lileep potrebbe derivare da lily, giglio, e peep, sbirciare, deep, profondo, to creep, strisciare, e sleep, dormire. Potrebbe anche derivare da likiep, un atollo dell'Oceano Pacifico. Lilyla, il suo nome giapponese, potrebbe derivare da lily e possibilmente lila, spagnolo per il colore lilla, in riferimento al colore viola. ",
+    "origin": "Lileep può essere basato sul crinoidi, animali marini una volta ritenuti estinti. I fossili di queste specie sono abbondanti, il che potrebbe aver ispirato lo status di Lileep come fossile. I tentacoli del Pokémon ricordano quelli di un'anemone. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Lileep",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Fiordimare",
     "sprites": {
         "lileep": {
@@ -80,6 +83,6 @@
         ]
     },
     "weight": {
-        "lileep": "23.8 kg"
+        "lileep": "23,8 kg"
     }
 }

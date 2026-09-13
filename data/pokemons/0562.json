@@ -23,11 +23,13 @@
             "omega-ruby": "Erano un tempo spettri che riposavano in antiche tombe. Conservano la memoria della loro vita mortale.",
             "alpha-sapphire": "La maschera che indossa è il volto che aveva quando era un umano. A volte si mette a piangere mentre la guarda.",
             "sword": "Una tavoletta d'argilla su cui è incisa una maledizione si è impossessata di lui. Si dice che assorba energia dal rancore.",
-            "shield": "Spirito di un uomo dell'antichità divenuto Pokémon. Vaga tra le rovine in cerca di qualcuno che riconosca il suo volto."
+            "shield": "Spirito di un uomo dell'antichità divenuto Pokémon. Vaga tra le rovine in cerca di qualcuno che riconosca il suo volto.",
+            "legends-za": "La maschera che porta con sé è il volto che aveva quando era un umano. A volte si mette a piangere mentre la guarda."
         },
         "forma-di-galar": {
             "sword": "Una tavoletta d'argilla su cui è incisa una maledizione si è impossessata di lui. Si dice che assorba energia dal rancore.",
-            "shield": "Si dice che questo Pokémon sia nato da un'antica tavoletta di argilla che si è impossessata di un'anima tormentata dal rancore."
+            "shield": "Si dice che questo Pokémon sia nato da un'antica tavoletta di argilla che si è impossessata di un'anima tormentata dal rancore.",
+            "legends-za": "È il risultato dell'unione tra una tavoletta d'argilla maledetta e l'anima di un defunto. Agita la tavoletta pieno di rancore."
         }
     },
     "egg_groups": [
@@ -37,14 +39,14 @@
     "flat_name": "yamask",
     "generation": 5,
     "height": {
-        "yamask": "0.5 m"
+        "yamask": "0,5 m"
     },
     "id": 562,
     "name": "Yamask",
     "name_origin": "Il suo nome potrebbe derivare dall'unione della parola giapponese 闇 yami , や ya  o Yama  con la parola inglese mask . ",
     "origin": "Yamask è basato sulla Ba della religione egizia che tiene una maschera mortuaria. La forma di Galar, invece, è basata su una runa. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Yamask",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Fatuanima",
     "sprites": {
         "yamask": {
@@ -84,11 +86,11 @@
             "Spettro"
         ],
         "forma-di-galar": [
-            "Terra",
-            "Spettro"
+            "Spettro",
+            "Terra"
         ]
     },
     "weight": {
-        "yamask": "1.5 kg"
+        "yamask": "1,5 kg"
     }
 }

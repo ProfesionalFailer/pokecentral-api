@@ -7,7 +7,20 @@
         }
     },
     "curiosities": [
-        "Spheal era il Pokémon di tipo Ghiaccio più lento prima dell'introduzione di Snom."
+        "Pokémon",
+        "Pokémon di terza generazione",
+        "Pokémon di tipo Ghiaccio",
+        "Pokémon di tipo Acqua",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Medio-Lento",
+        "Pokémon di colore Blu",
+        "Pokémon dalla sagoma n. 03",
+        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
+        "Pokémon di Gruppo Uova Acqua 1",
+        "Pokémon di Gruppo Uova Campo",
+        "Pokémon appartenenti a una linea di evoluzione a tre stadi",
+        "Pokémon con statistiche base totali di 290",
+        "Pokémon con un totale massimo di 16 stelle prestazione"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/spheal.mp3",
     "dex_entries": {
@@ -15,13 +28,13 @@
             "ruby": "SPHEAL si muove molto più velocemente rotolando che non camminando. Quando si raggruppano per pranzo, questi POKéMON sbattono le zampette per dimostrare la loro gioia. I loro pasti sono molto rumorosi.",
             "sapphire": "SPHEAL si muove sempre rotolando sul corpo a pallone. Nella stagione del disgelo lo si vede rotolare da una lastra di ghiaccio all'altra per attraversare il mare.",
             "emerald": "SPHEAL è ricoperto da una morbida pelliccia che gli permette di rotolare su lastre di ghiaccio o di tuffarsi in mare senza avvertire il freddo.",
-            "firered": "Ha il corpo ricoperto di una morbida pelliccia, che gli permette di rotolare sul ghiaccio senza avvertire il freddo.",
-            "leafgreen": "Ha il corpo ricoperto di una morbida pelliccia, che gli permette di rotolare sul ghiaccio senza avvertire il freddo.",
+            "fire-red": "Ha il corpo ricoperto di una morbida pelliccia, che gli permette di rotolare sul ghiaccio senza avvertire il freddo.",
+            "leaf-green": "Ha il corpo ricoperto di una morbida pelliccia, che gli permette di rotolare sul ghiaccio senza avvertire il freddo.",
             "diamond": "Poiché il suo corpo non è adatto al nuoto, rotola su lastre di ghiaccio per raggiungere la riva.",
             "pearl": "Poiché il suo corpo non è adatto al nuoto, rotola su lastre di ghiaccio per raggiungere la riva.",
             "platinum": "Poiché il suo corpo non è adatto al nuoto, rotola su lastre di ghiaccio per raggiungere la riva.",
-            "heartgold": "Attraversa il mare rotolando sulle lastre di ghiaccio. La soffice pelliccia lo protegge dal gelo.",
-            "soulsilver": "Attraversa il mare rotolando sulle lastre di ghiaccio. La soffice pelliccia lo protegge dal gelo.",
+            "heart-gold": "Attraversa il mare rotolando sulle lastre di ghiaccio. La soffice pelliccia lo protegge dal gelo.",
+            "soul-silver": "Attraversa il mare rotolando sulle lastre di ghiaccio. La soffice pelliccia lo protegge dal gelo.",
             "black": "Poiché il suo corpo non è adatto al nuoto, rotola su lastre di ghiaccio per raggiungere la riva.",
             "white": "Poiché il suo corpo non è adatto al nuoto, rotola su lastre di ghiaccio per raggiungere la riva.",
             "black-2": "Non sa ancora nuotare molto bene e si muove più velocemente rotolando. Quando è felice batte le pinne.",
@@ -32,6 +45,8 @@
             "alpha-sapphire": "Spheal si muove sempre rotolando sul corpo a pallone. Nella stagione del disgelo lo si vede rotolare da una lastra di ghiaccio all'altra per attraversare il mare.",
             "sword": "Il suo corpo, avvolto in uno spesso strato lipidico, è perfettamente rotondo. Si sposta più velocemente rotolando che camminando.",
             "shield": "Fluttua tra le onde ispezionando il mare. Quando individua una preda, avverte i Walrein del suo gruppo.",
+            "brilliant-diamond": "Poiché il suo corpo non è adatto al nuoto, rotola su lastre di ghiaccio per raggiungere la riva.",
+            "shining-pearl": "Poiché il suo corpo non è adatto al nuoto, rotola su lastre di ghiaccio per raggiungere la riva.",
             "legends-arceus": "Nella stagione algida, allorché gli iceberg si accostano alla terraferma, preferisce dimorare sui ghiacci, lungi dai predatori. Il caldo vello ben tollera le temperature più austere."
         }
     },
@@ -42,14 +57,14 @@
     "flat_name": "spheal",
     "generation": 3,
     "height": {
-        "spheal": "0.8 m"
+        "spheal": "0,8 m"
     },
     "id": 363,
     "name": "Spheal",
-    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi sphere, sfera, e seal, foca. ",
-    "origin": "Spheal è basato su un leone marino di forma sferica. ",
+    "name_origin": "Spheal potrebbe derivare da sphere, sfera, e seal, foca. Tamazarashi, il suo nome giapponese, potrebbe derivare da 球 tama, sfera, e 海豹 azarashi, otaria. ",
+    "origin": "Spheal sembra essere basato su un'otaria e su una palla. L'abilità di Sealeo di far roteare Spheal sul suo muso è simile ad un trucco fatto spesso compiere da leoni marini con delle palle. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Spheal",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Rotolante",
     "sprites": {
         "spheal": {
@@ -73,11 +88,11 @@
     },
     "types": {
         "spheal": [
-            "Ghiaccio",
-            "Acqua"
+            "Acqua",
+            "Ghiaccio"
         ]
     },
     "weight": {
-        "spheal": "39.5 kg"
+        "spheal": "39,5 kg"
     }
 }

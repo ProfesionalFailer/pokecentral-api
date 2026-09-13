@@ -7,25 +7,50 @@
         }
     },
     "curiosities": [
-        "Poochyena ha il totale delle statistiche base più basso tra tutti i Pokémon di tipo Buio.",
+        "Poochyena ha il totale delle statistiche base più basso di tutti i Pokémon di tipo Buio.",
         "Poochyena e la sua forma evoluta Mightyena condividono la loro categoria con Drednaw. Sono infatti conosciuti come Pokémon Morso."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/poochyena.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "poochyena": {
+            "ruby": "POOCHYENA azzanna al minimo movimento anche senza sapere cos'è. Caccia la sua preda finché questa non è tanto stanca da cedere. Tuttavia, se il nemico contrattacca, POOCHYENA talvolta scappa.",
+            "sapphire": "POOCHYENA è onnivoro: mangia di tutto. Una caratteristica distintiva è la dimensione delle zanne rispetto al corpo. Cerca di intimidire i nemici rizzando il pelo della coda.",
+            "emerald": "POOCHYENA intimidisce i nemici mostrando le zanne e dà la caccia con tenacia a quelli che fuggono. Talvolta, se il nemico contrattacca, POOCHYENA se la dà a gambe.",
+            "fire-red": "POKéMON molto tenace. L'olfatto sviluppatissimo gli permette di seguire una preda senza mai perderne le tracce.",
+            "leaf-green": "POKéMON molto tenace. L'olfatto sviluppatissimo gli permette di seguire una preda senza mai perderne le tracce.",
+            "diamond": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "pearl": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "platinum": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "heart-gold": "Insegue la preda prescelta fino a spossarla. Tuttavia, se viene attaccato indietreggia.",
+            "soul-silver": "Insegue la preda prescelta fino a spossarla. Tuttavia, se viene attaccato indietreggia.",
+            "black": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "white": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "black-2": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "white-2": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "x": "Pokémon di natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "y": "Pokémon molto tenace. L'olfatto sviluppatissimo gli permette di seguire una preda senza mai perderne le tracce.",
+            "omega-ruby": "Poochyena azzanna al minimo movimento senza riflettere. Caccia la sua preda finché questa non è tanto stanca da cedere. Tuttavia, se il nemico contrattacca, Poochyena talvolta scappa.",
+            "alpha-sapphire": "Poochyena è onnivoro: mangia di tutto. Una caratteristica distintiva è la dimensione delle zanne rispetto al corpo. Cerca di intimidire i nemici rizzando il pelo della coda.",
+            "brilliant-diamond": "Pokémon dalla natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "shining-pearl": "Pokémon dalla natura ostinata. Insegue la preda prescelta finché questa non è esausta.",
+            "scarlet": "I tentativi di intimidire l'avversario mostrando le grandi zanne e abbaiando vigorosamente sono un segno della sua indole pavida.",
+            "violet": "Inseguono la preda in branco e la finiscono quando è esausta, ma se capita che questa contrattacchi scappano."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "poochyena",
     "generation": 3,
     "height": {
-        "poochyena": "0.50 m"
+        "poochyena": "0,50 m"
     },
     "id": 261,
     "name": "Poochyena",
-    "name_origin": "Deriva dalle parole pooch , e hyena . ",
-    "origin": "Basato su un lupo e una iena. ",
+    "name_origin": "Poochyena potrebbe derivare da pooch, cagnolino, e hyena, iena. Pochiena, il suo nome giapponese, potrebbe derivare da ポチ Pochi, un nome popolare per i cani in Giappone, e hyena, iena ",
+    "origin": "Poochyena sembra essere basato su uno ienide e su un lupo. La sua piccola taglia, comportamento aggressivo e tendenza mordace lo riconduce ad un diavolo della Tasmania. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Poochyena",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Morso",
     "sprites": {
         "poochyena": {
@@ -53,6 +78,6 @@
         ]
     },
     "weight": {
-        "poochyena": "13.6 kg"
+        "poochyena": "13,6 kg"
     }
 }

@@ -6,13 +6,10 @@
         }
     },
     "curiosities": [
-        "Chimchar è l'unico Pokémon iniziale ad appartenere al Gruppo Uova Umanoide.",
-        "Chimchar, insieme a Cyndaquil, è il Pokémon iniziale che si evolve al livello più basso: 14.",
-        "Prima della quinta generazione, Chimchar era l'unico Pokémon ad apprendere Facciata aumentando di livello.",
-        "Nonostante non possieda materialmente una coda, può imparare Codacciaio.",
-        "Chimchar è l'unico Pokémon non evoluto di tipo Fuoco non leggendario introdotto in quarta generazione.",
-        "Senza contare Eevee, Chimchar è l'unico Pokémon iniziale di colore marrone.",
-        "Tra i Pokémon iniziali di Sinnoh, Chimchar è l'unico ad ottenere un secondo tipo già alla prima evoluzione."
+        "Chimchar condivide la sua categoria con Grookey: sono entrambi noti come \"Pokémon Scimpanzé\".",
+        "In Pokémon Diamante e Perla se il giocatore sceglie Chimchar è possibile per gli Starly selvatici a inizio gioco sconfiggere il Pokémon se ha 4 PS rimanenti, saltando la barra di salute rossa che farebbe fuggire gli Starly. Questo causa il blocco del gioco per via del glitch della sconfitta contro lo Starly iniziale.\n\tQuesto non accade con Turtwig o Piplup, dato che Chimchar ha PS base più bassi.",
+        "Questo non accade con Turtwig o Piplup, dato che Chimchar ha PS base più bassi.",
+        "Chimchar e la sua linea evolutiva sono stati creati da Takao Unno."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/chimchar.mp3",
     "dex_entries": {
@@ -20,8 +17,8 @@
             "diamond": "Scala agilmente le rocce scoscese e vive in cima ai monti. Prima di dormire spegne le fiamme.",
             "pearl": "Le fiamme sulla coda, alimentate dai gas della pancia, non si spengono neppure quando piove.",
             "platinum": "È molto agile. Prima di addormentarsi spegne la fiamma sulla coda per scongiurare il rischio di incendi.",
-            "heartgold": "Le fiamme sulla coda sono alimentate dal gas della pancia. Si affievoliscono quando sta male.",
-            "soulsilver": "Le fiamme sulla coda sono alimentate dal gas della pancia. Si affievoliscono quando sta male.",
+            "heart-gold": "Le fiamme sulla coda sono alimentate dal gas della pancia. Si affievoliscono quando sta male.",
+            "soul-silver": "Le fiamme sulla coda sono alimentate dal gas della pancia. Si affievoliscono quando sta male.",
             "black": "È molto agile. Prima di addormentarsi spegne la fiamma sulla coda per scongiurare il rischio di incendi.",
             "white": "È molto agile. Prima di addormentarsi spegne la fiamma sulla coda per scongiurare il rischio di incendi.",
             "black-2": "È molto agile. Prima di addormentarsi spegne la fiamma sulla coda per scongiurare il rischio di incendi.",
@@ -32,7 +29,9 @@
             "alpha-sapphire": "Le fiamme sulla coda sono alimentate dal gas della pancia. Si affievoliscono quando sta male.",
             "brilliant-diamond": "Scala agilmente pareti rocciose e va a vivere sulle cime dei monti. Prima di dormire spegne la sua fiamma.",
             "shining-pearl": "La fiamma sulla coda, alimentata dai gas della pancia, non si spegne neppure quando piove.",
-            "legends-arceus": "Creatura assai vivace, con il fuoco addosso. Veniva chiamato \"lanterga\" dagli antichi ed era temuto al pari di uno spirito malevolo."
+            "legends-arceus": "Creatura assai vivace, con il fuoco addosso. Veniva chiamato \"lanterga\" dagli antichi ed era temuto al pari di uno spirito malevolo.",
+            "scarlet": "È molto agile. Prima di addormentarsi spegne le fiamme del posteriore per scongiurare il rischio di incendi.",
+            "violet": "Le fiamme del posteriore sono alimentate dal gas che gli si forma nella pancia. Quando non è in salute, si affievoliscono."
         }
     },
     "egg_groups": [
@@ -42,21 +41,21 @@
     "flat_name": "chimchar",
     "generation": 4,
     "height": {
-        "chimchar": "0.5 m"
+        "chimchar": "0,5 m"
     },
     "id": 390,
     "name": "Chimchar",
-    "name_origin": "Chimchar viene da chimp  e char . ",
-    "origin": "Chimchar è evidentemente basato su una giovane scimmia. La coda infuocata ricalca la figura di Charmander, ed entrambi i Pokémon hanno la radice char nel loro nome. Questo deriva dal loro nome giapponese: Hikozaru  and Hitokage , contenenti l'elemento 火 hi, che vuol dire fuoco. ",
+    "name_origin": "Chimchar potrebbe derivare da chimp, scimpanzé, e char, carbonizzare. Hikozaru, il suo nome giapponese, potrebbe derivare da 火 hi, fuoco, 小 ko, piccolo, 子 ko, bambino, e 猿 saru, scimmia. ",
+    "origin": "Chimchar sembra essere basato su un cucciolo di scimpanzé. I segni sul posteriore lo riconducono anche ad un babbuino. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Chimchar",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Scimpanzé",
     "sprites": {
         "chimchar": {
             "default": "https://media.pokemoncentral.it/wiki/1/1c/Homem0390.png",
             "shiny": "https://media.pokemoncentral.it/wiki/1/1f/Homemsh0390.png"
         },
-        "official_artwork": "https://media.pokemoncentral.it/wiki/7/74/Artwork0390_DLPS.png"
+        "official_artwork": "https://media.pokemoncentral.it/wiki/c/ca/Artwork0390_Pt.png"
     },
     "stats": {
         "chimchar": {
@@ -77,6 +76,6 @@
         ]
     },
     "weight": {
-        "chimchar": "6.2 kg"
+        "chimchar": "6,2 kg"
     }
 }

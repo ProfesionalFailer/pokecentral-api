@@ -7,24 +7,55 @@
         }
     },
     "curiosities": [
-        "Ledyba può essere visto come la controparte di Spinarak. Sono entrambi dei Pokémon di tipo Coleottero introdotti in seconda generazione. Ledyba è esclusivo di Pokémon Argento e di Pokémon Argento SoulSilver mentre Spinarak di Pokémon Oro e Pokémon Oro HeartGold. Nei suddetti giochi, Ledyba è un Pokémon mattutino, mentre Spinarak è un Pokémon notturno. In aggiunta, la loro rarità è invertita, con Ledyba più comune in Pokémon Verde Foglia mentre Spinarak in Pokémon Rosso Fuoco. Entrambi inoltre sono stati aggiunti alla Zona Safari di Pokémon Smeraldo, ed entrambi possono essere ottenuti solo allevando le loro forme evolute in Pokémon Diamante e Perla, Platino, Nero e Bianco. Inoltre, in Pokémon Bianco 2, nel Percorso 22 è possibile trovare la sua evoluzione nelle comparse massicce, mentre in Pokémon Nero 2 l'evoluzione di Spinarak."
+        "Ledyba può essere visto come la controparte di Spinarak. Sono entrambi dei Pokémon di tipo Coleottero introdotti in seconda generazione. Ledyba è esclusivo di Pokémon Argento e di Pokémon Argento SoulSilver mentre Spinarak di Pokémon Oro e Pokémon Oro HeartGold. Nei suddetti giochi, Ledyba è un Pokémon mattutino, mentre Spinarak è un Pokémon notturno. In aggiunta, la loro rarità è invertita, con Ledyba più comune in Pokémon Verde Foglia mentre Spinarak in Pokémon Rosso Fuoco. Entrambi inoltre sono stati aggiunti alla Zona Safari di Pokémon Smeraldo, ed entrambi possono essere ottenuti solo allevando le loro forme evolute in Pokémon Diamante e Perla, Platino, Nero e Bianco. Inoltre, in Pokémon Bianco 2, nel Percorso 22 è possibile trovare la sua evoluzione nelle comparse massicce, mentre in Pokémon Nero 2 l'evoluzione di Spinarak.",
+        "Il nome della specie di Ledyba ha un errore di traduzione in molte lingue: il nome giapponese, いつつぼし itsutsuboshi, contiene 星 hoshi, ovvero \"stella\", ma è il termine usato per riferirsi ai puntini delle coccinelle."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/ledyba.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "ledyba": {
+            "gold": "È timidissimo. Ha sempre paura di muoversi da solo. Ma in gruppo sa diventare molto attivo.",
+            "silver": "Quando inizia a far freddo, i LEDYBA si riuniscono da ogni luogo per scaldarsi tra loro.",
+            "crystal": "Timidi, stanno sempre uniti. La traccia del liquido che esce dalle zampe mostra dove si trovano.",
+            "ruby": "Dalla giuntura delle zampe col corpo LEDYBA secerne un fluido aromatico usato per comunicare con i simili. Questo POKéMON comunica le sue sensazioni alterando l'odore del fluido.",
+            "sapphire": "Dalla giuntura delle zampe col corpo LEDYBA secerne un fluido aromatico usato per comunicare con i simili. Questo POKéMON comunica le sue sensazioni alterando l'odore del fluido.",
+            "emerald": "Dalla giuntura delle zampe col corpo LEDYBA secerne un fluido aromatico con cui comunica le sue sensazioni ai suoi simili alterandone l'odore.",
+            "fire-red": "Quando inizia a far freddo, i LEDYBA si riuniscono da ogni luogo per scaldarsi tra loro.",
+            "leaf-green": "È timidissimo. Ha sempre paura di muoversi da solo. Ma in gruppo sa diventare molto attivo.",
+            "diamond": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "pearl": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "platinum": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "heart-gold": "Timidissimo. Ha sempre paura di muoversi da solo. Ma in gruppo sa diventare molto attivo.",
+            "soul-silver": "Quando inizia a far freddo, i LEDYBA si riuniscono da ogni luogo per scaldarsi tra loro.",
+            "black": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "white": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "black-2": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "white-2": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando una fragranza.",
+            "x": "Quando inizia a far freddo, i Ledyba si riuniscono da ogni luogo per scaldarsi tra loro.",
+            "y": "Timidi, stanno sempre uniti. La traccia del liquido che esce dalle zampe mostra dove si trovano.",
+            "omega-ruby": "Dalla giuntura delle zampe col corpo Ledyba secerne un fluido aromatico usato per comunicare con i simili. Questo Pokémon comunica le sue sensazioni alterando l'odore del fluido.",
+            "alpha-sapphire": "Dalla giuntura delle zampe col corpo Ledyba secerne un fluido aromatico usato per comunicare con i simili. Questo Pokémon comunica le sue sensazioni alterando l'odore del fluido.",
+            "sun": "È molto timido e senza il suo gruppo si sente perso. Il motivo sul suo dorso è leggermente diverso in ciascun esemplare.",
+            "moon": "Secerne un liquido aromatico per comunicare con i suoi simili. Quando è arrabbiato, l'odore si fa pungente.",
+            "ultra-sun": "Nel clima temperato di Alola, questo Pokémon estremamente sensibile al freddo è arzillo e pieno di vita.",
+            "ultra-moon": "È un Pokémon incredibilmente timido. Protegge il nido usando Riflesso assieme ai suoi simili.",
+            "brilliant-diamond": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando un fluido aromatico.",
+            "shining-pearl": "È tanto timido da non muoversi se non è in gruppo. Trasmette le sue emozioni emanando un fluido aromatico."
+        }
+    },
     "egg_groups": [
         "Coleottero"
     ],
     "flat_name": "ledyba",
     "generation": 2,
     "height": {
-        "ledyba": "1.0 m"
+        "ledyba": "1,0 m"
     },
     "id": 165,
     "name": "Ledyba",
-    "name_origin": "Ledyba può essere una corruzione di \"ladybug\"  o un accorciamento corrotto di \"ladybird\". ",
-    "origin": "Ledyba si basa su un Coccinellidae. ",
+    "name_origin": "Ledyba e il suo nome giapponese Rediba possono essere una corruzione di ladybug, coccinella, o un accorciamento corrotto di ladybird, inisieme a red, rosso. ",
+    "origin": "Ledyba sembra basarsi su un coccinellide, in particolare sulla coccinella comune o la coccinella arlecchino per il suo colore rosso acceso e i punti sul dorso. Come Ledyba, molti coccinellidi migrano in sciami durante l'inverno e secernono un liquido dalle zampe come difesa. Il nome della sua specie, \"Pokémon Pentastra\"  potrebbe derivare dal nome giapponese della coccinella arlecchino, ovvero 七星瓢虫 coccinella a sette stelle. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Ledyba",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Pentastra",
     "sprites": {
         "ledyba": {
@@ -57,6 +88,6 @@
         ]
     },
     "weight": {
-        "ledyba": "10.8 kg"
+        "ledyba": "10,8 kg"
     }
 }

@@ -22,7 +22,9 @@
             "ultra-sun": "Scocca piume come fossero frecce. Quando non deve mancare il bersaglio, tira le liane del cappuccio per ridurne l'apertura e mirare meglio.",
             "ultra-moon": "È in grado di scoccare piume e colpire il nemico in un decimo di secondo, aggiudicandosi la vittoria in un batter d'occhio.",
             "sword": "Scocca piume dalle sue ali come fossero frecce lanciate da un arco. Una volta presa la mira, non manca mai il bersaglio.",
-            "shield": "Può preparare e scoccare una delle sue piume affilate in 0,1 secondi. Trafigge l'avversario nei suoi punti vitali prima che se ne accorga."
+            "shield": "Può preparare e scoccare una delle sue piume affilate in 0,1 secondi. Trafigge l'avversario nei suoi punti vitali prima che se ne accorga.",
+            "scarlet": "Scocca piume dalle sue ali come se fossero frecce. È preciso al punto da riuscire a trafiggere una piccola pietra a 100 m di distanza.",
+            "violet": "Scocca piume come fossero frecce. Quando non deve mancare il bersaglio, tira le liane del cappuccio per ridurne l'apertura e mirare meglio."
         },
         "forma-di-hisui": {
             "legends-arceus": "Resiste all'algido clima di Hisui grazie all'aria trattenuta nel rachide delle sue piume. Un chiaro esempio d'evoluzione cagionata dall'ambiente."
@@ -34,14 +36,14 @@
     "flat_name": "decidueye",
     "generation": 7,
     "height": {
-        "decidueye": "1.6 m"
+        "decidueye": "1,6 m"
     },
     "id": 724,
     "name": "Decidueye",
-    "name_origin": "Decidueye è una combinazione di deciduos, Deciduo, duel, duello, e deadeye, cecchino. Junaipā potrebbe essere una combinazione di 樹 ju, albero, juniper, ginepro, e sniper, cecchino. ",
+    "name_origin": "Decidueye potrebbe essere una combinazione di deciduos, deciduo, duel, duello, e deadeye, cecchino. Junaipā potrebbe essere una combinazione di 樹 ju, albero, juniper, ginepro, e sniper, cecchino. ",
     "origin": "Decidueye potrebbe essere ispirato su un Grallistrix, una specie di gufo, estinto, nativo delle Hawaii. Decidueye condivide alcuni elementi con gli arcieri e può anche essere basato sull'eroe inglese Robin Hood. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Decidueye",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Alifreccia",
     "sprites": {
         "decidueye": {
@@ -82,11 +84,11 @@
             "Erba"
         ],
         "forma-di-hisui": [
-            "Erba",
-            "Lotta"
+            "Lotta",
+            "Erba"
         ]
     },
     "weight": {
-        "decidueye": "36.6 kg"
+        "decidueye": "36,6 kg"
     }
 }

@@ -19,6 +19,9 @@
         "Pokémon di Gruppo Uova Campo",
         "Pokémon appartenenti a una linea di evoluzione a due stadi",
         "Pokémon con statistiche base totali di 525",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti",
+        "Compagni dell'antico eroe",
         "Pokémon con evoluzioni trans-generazionali"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/wyrdeer.mp3",
@@ -33,14 +36,14 @@
     "flat_name": "wyrdeer",
     "generation": 8,
     "height": {
-        "wyrdeer": "1.8 m"
+        "wyrdeer": "1,8 m"
     },
     "id": 899,
     "name": "Wyrdeer",
     "name_origin": "Wyrdeer potrebbe essere una combinazione di wyrd, concetto di destino nella cultura antica inglese, weird, strano, e deer, cervo. Ayashishi potrebbe essere una combinazione di 怪しい ayashii, strano, e 鹿威し shishiodoshi, un dispositivo giapponese tradizionalmente usato per spaventare e far allontanare cervi e uccelli dai giardini. ",
     "origin": "Wyrdeer potrebbe essere basato su una renna. Per via della sua criniera bianca simile a una barba e delle sopracciglia, assomiglia anche a un uomo anziano. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Wyrdeer",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Grancorno",
     "sprites": {
         "wyrdeer": {
@@ -64,11 +67,11 @@
     },
     "types": {
         "wyrdeer": [
-            "Psico",
-            "Normale"
+            "Normale",
+            "Psico"
         ]
     },
     "weight": {
-        "wyrdeer": "95.1 kg"
+        "wyrdeer": "95,1 kg"
     }
 }

@@ -6,7 +6,9 @@
     },
     "curiosities": [
         "Nessun altro Pokémon possiede la stessa combinazione di tipi di Baltoy e della sua evoluzione Claydol.",
-        "Nonostante il fatto che Baltoy sia un Pokémon asessuato, in PokéPark Wii: la grande avventura di Pikachu è maschio."
+        "Baltoy è alla pari con Toedscool per la statistica di attacco più bassa tra i Pokémon di tipo Terra.",
+        "Nonostante il fatto che Baltoy sia un Pokémon asessuato, in PokéPark Wii: la grande avventura di Pikachu viene trattato maschio. Lo stesso vale per Claydol.",
+        "Baltoy può essere visto come un parallelo di Gulpin. Entrambi sono Pokémon di terza generazione. Baltoy è esclusivo di Pokémon Oro HeartGold, mentre Gulpin è esclusivo di Pokémon Argento SoulSilver, con entrambi che si possono trovare in una comparsa massiccia negli stessi luoghi nelle rispettive versioni. Inoltre, entrambi possono essere catturati come Pokémon Ombra in Pokémon XD al Laboratorio di Cripto, con entrambi che conoscono la stessa mossa Ombra, Ombrattacco."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/baltoy.mp3",
     "dex_entries": {
@@ -14,13 +16,13 @@
             "ruby": "BALTOY si muove piroettando sull'unica estremità inferiore del proprio corpo. La scoperta di alcune rovine antiche ha portato alla luce dipinti di questo POKéMON che viveva a stretto contatto con gli esseri umani.",
             "sapphire": "Appena incontra i propri simili, BALTOY forma un gruppo molto rumoroso. Questo POKéMON dorme bilanciandosi con maestria sull'unica estremità inferiore del proprio corpo.",
             "emerald": "BALTOY si muove piroettando sulla sua unica estremità inferiore. Sono stati scoperti dipinti che raffigurano la sua vita in popolose città dell'antichità.",
-            "firered": "Scoperto in antiche rovine. Si sposta girando continuamente su se stesso. Dorme su di una zampa.",
-            "leafgreen": "Scoperto in antiche rovine. Si sposta girando continuamente su se stesso. Dorme su di una zampa.",
+            "fire-red": "Scoperto in antiche rovine. Si sposta girando continuamente su se stesso. Dorme su di una zampa.",
+            "leaf-green": "Scoperto in antiche rovine. Si sposta girando continuamente su se stesso. Dorme su di una zampa.",
             "diamond": "Pokémon raro che si muove roteando su se stesso. È stato scoperto nei pressi di antiche rovine.",
             "pearl": "Pokémon raro che si muove roteando su se stesso. È stato scoperto nei pressi di antiche rovine.",
             "platinum": "Pokémon raro che si muove roteando su se stesso. È stato scoperto nei pressi di antiche rovine.",
-            "heartgold": "Si sposta piroettando sull'unica estremità inferiore del proprio corpo. Molti fanno la verticale.",
-            "soulsilver": "Si sposta piroettando sull'unica estremità inferiore del proprio corpo. Molti fanno la verticale.",
+            "heart-gold": "Si sposta piroettando sull'unica estremità inferiore del proprio corpo. Molti fanno la verticale.",
+            "soul-silver": "Si sposta piroettando sull'unica estremità inferiore del proprio corpo. Molti fanno la verticale.",
             "black": "Pokémon raro che si muove roteando su se stesso. È stato scoperto nei pressi di antiche rovine.",
             "white": "Pokémon raro che si muove roteando su se stesso. È stato scoperto nei pressi di antiche rovine.",
             "black-2": "È stato scoperto in antiche rovine. Si sposta ruotando su se stesso. Cerca i suoi simili per formare dei branchi.",
@@ -43,14 +45,14 @@
     "flat_name": "baltoy",
     "generation": 3,
     "height": {
-        "baltoy": "0.5 m"
+        "baltoy": "0,5 m"
     },
     "id": 343,
     "name": "Baltoy",
-    "name_origin": "Baltoy è probabilmente la combinazione di balance e toy. Yajilon è l'abbreviazione di 弥次郎兵衛 yajirobe'e, giocattolo in equilibrio. ",
-    "origin": "Baltoy è ispirato ai 土偶 dogū, misteriose statuette d'argilla del periodo Jōmon su cui si sa molto poco. In particolare ricalca la forma del tipo più noto, lo 遮光器土偶 shakōkidogū , che gli pseudoarcheologi presumono essere un anacronismo o addirittura rappresentazioni di alieni sbarcati sulla terra secoli fa. ",
+    "name_origin": "Baltoy potrebbe derivare da balancing toy, giocattolo basato sull'equilibrio. Yajilon potrebbe derivare da 弥次郎兵衛 yajirobē, giocattolo basato sull'equilibrio. ",
+    "origin": "Baltoy sembra essere ispirato da un giocattolo basato sull'equilibrio e sui 遮光器土偶 shakōkidogū , una figura di argilla simile ad un \"astronauta\" del periodo Jōmon. Potrebbe anche prendere ispirazione da una bambola Hopi Kachina. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Baltoy",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Argilla",
     "sprites": {
         "baltoy": {
@@ -79,6 +81,6 @@
         ]
     },
     "weight": {
-        "baltoy": "21.5 kg"
+        "baltoy": "21,5 kg"
     }
 }

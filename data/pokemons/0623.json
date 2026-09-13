@@ -4,11 +4,14 @@
             "primary": "Ferropugno",
             "secondary": "Impaccio",
             "hidden": "Nullodifesa"
+        },
+        "megagolurk": {
+            "primary": "Pugni Invisibili"
         }
     },
     "curiosities": [
         "Prima della settima generazione Golett e Golurk avevano una combinazione di tipi unica.",
-        "Game Freak ha confermato che Golett e Golurk sono stati disegnati da James Turner.",
+        "GAME FREAK ha confermato che Golett e Golurk sono stati disegnati da James Turner.",
         "Golurk è il Pokémon non leggendario più pesante introdotto in quinta generazione.\n\tÈ anche il Pokémon non leggendario di tipo Spettro più pesante.",
         "È anche il Pokémon non leggendario di tipo Spettro più pesante.",
         "Golurk è il Pokémon Spettro non leggendario più alto.",
@@ -29,7 +32,11 @@
             "ultra-sun": "Pare che sia stato creato dagli antichi per aiutare nei lavori pesanti. Esegue gli ordini del suo padrone senza battere ciglio.",
             "ultra-moon": "Se il sigillo che ha sul petto viene rimosso, perde il controllo e distrugge tutto ciò che incontra, riducendo intere città in macerie.",
             "sword": "Nelle mura degli antichi castelli si trovano dei basamenti, simili a quelli dei cannoni, dai quali i Golurk potevano sparare i loro raggi.",
-            "shield": "Si dice che all'interno del corpo abbia un motore perpetuo che produce energia, ma a tutt'oggi non è ancora chiaro se sia così."
+            "shield": "Si dice che all'interno del corpo abbia un motore perpetuo che produce energia, ma a tutt'oggi non è ancora chiaro se sia così.",
+            "legends-za": "Si dice che all'interno del corpo abbia un motore perpetuo che produce energia, ma a tutt'oggi non è ancora chiaro se sia così."
+        },
+        "megagolurk": {
+            "legends-za": "L'energia al suo interno si è attivata in seguito alla megaevoluzione e potrebbe farlo esplodere da un momento all'altro."
         }
     },
     "egg_groups": [
@@ -38,19 +45,24 @@
     "flat_name": "golurk",
     "generation": 5,
     "height": {
-        "golurk": "2.8 m"
+        "golurk": "2,8 m",
+        "megagolurk": "4,0 m"
     },
     "id": 623,
     "name": "Golurk",
     "name_origin": "Il nome deriva dalle parole golem e lurk, nascosto, riferendosi al suo tipo Spettro. ",
     "origin": "Golurk sembra basato sui golem, uomini di argilla che secondo alcune versioni della mitologia possono essere animati da incantesimi scritti su una pergamena posta al loro interno, che potrebbe corrispondere all'energia misteriosa che anima Golurk. Data la sua postura e la capacità di imparare Volo potrebbe essere stato concepito anche traendo ispirazione di vari robot giganti d'animazione. Golurk pare aver preso ispirazione da un golem della mitologia ebraica, il Golem di Praga in quanto entrambi hanno una spaccatura sul petto e un cinturino su di essa. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Golurk",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Statuanimata",
     "sprites": {
         "golurk": {
             "default": "https://media.pokemoncentral.it/wiki/b/b8/Homem0623.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/ec/Homemsh0623.png"
+        },
+        "megagolurk": {
+            "default": "https://media.pokemoncentral.it/wiki/4/49/Homem0623M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/52/Homemsh0623M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/3/3b/Artwork0623_NB.png"
     },
@@ -62,18 +74,28 @@
             "spa": 55,
             "spd": 80,
             "spe": 55
+        },
+        "megagolurk": {
+            "hp": 89,
+            "atk": 159,
+            "def": 105,
+            "spa": 70,
+            "spd": 105,
+            "spe": 55
         }
     },
     "stats_sum": {
-        "golurk": 483
+        "golurk": 483,
+        "megagolurk": 583
     },
     "types": {
         "golurk": [
-            "Terra",
-            "Spettro"
+            "Spettro",
+            "Terra"
         ]
     },
     "weight": {
-        "golurk": "330.0 kg"
+        "golurk": "330,0 kg",
+        "megagolurk": "330,0 kg"
     }
 }

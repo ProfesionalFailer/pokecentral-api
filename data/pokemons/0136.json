@@ -12,21 +12,62 @@
         "Nonostante abbia l'attacco fisico più alto di quello speciale, l'unica mossa fisica che Flareon poteva imparare aumentando di livello e che poteva usufruire del bonus di tipo fino alla quarta generazione era soltanto Rogodenti."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/flareon.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "flareon": {
+            "red": "Quando accumula energia termica, la temperatura corporea può salire fino a 900 gradi.",
+            "blue": "Quando accumula energia termica, la temperatura corporea può salire fino a 900 gradi.",
+            "yellow": "Il suo corpo è una camera di combustione. Inspira e sputa fiamme roventi a 1000 gradi.",
+            "gold": "Immagazzina parte dell'aria che inala in una tasca ardente interna, che arriva fino a 1700 gradi.",
+            "silver": "Arruffa il folto pelo intorno al collo per raffreddare il corpo, che può raggiungere i 900 gradi.",
+            "crystal": "Quando immagazzina abbastanza calore, la sua temperatura corporea può salire fino a 900 gradi.",
+            "ruby": "La morbida pelliccia di FLAREON ha uno scopo ben preciso: libera calore nell'aria in modo da abbassare la temperatura corporea, che nel caso di questo POKéMON può raggiungere al massimo 900°C.",
+            "sapphire": "La morbida pelliccia di FLAREON ha uno scopo ben preciso: libera calore nell'aria in modo da abbassare la temperatura corporea, che nel caso di questo POKéMON può raggiungere al massimo 900°C.",
+            "emerald": "La morbida pelliccia di FLAREON ha lo scopo di liberare calore nell'aria abbassando in tal modo la temperatura corporea, che raggiunge al massimo 900 gradi centigradi.",
+            "fire-red": "Nel corpo ha una tasca infuocata. Dopo aver inspirato profondamente, sputa fiamme alla temperatura di 1.700 °C.",
+            "leaf-green": "Quando accumula energia termica, la temperatura corporea può salire fino a 900 °C.",
+            "diamond": "Nel corpo conserva una tasca ardente. Prima di lottare, la sua temperatura si innalza a 900 °C.",
+            "pearl": "Nel corpo conserva una tasca ardente. Prima di lottare, la sua temperatura si innalza a 900 °C.",
+            "platinum": "La sacca ardente dentro il suo corpo infiamma l'aria che respira, che supera i 1650 °C.",
+            "heart-gold": "Immagazzina parte dell'aria che inala in una tasca ardente interna, che arriva fino a 1700 °C.",
+            "soul-silver": "Arruffa il folto pelo intorno al collo per raffreddare il corpo che può raggiungere i 900 °C.",
+            "black": "La sacca ardente dentro il suo corpo infiamma l'aria che respira, che supera i 1650 °C.",
+            "white": "La sacca ardente dentro il suo corpo infiamma l'aria che respira, che supera i 1650 °C.",
+            "black-2": "L'aria che respira si infiamma passando nella sacca ardente dentro il suo corpo, raggiungendo i 1700 °C.",
+            "white-2": "L'aria che respira si infiamma passando nella sacca ardente dentro il suo corpo, raggiungendo i 1700 °C.",
+            "x": "Nel corpo conserva una tasca ardente. Prima di lottare, la sua temperatura si innalza a 900 °C.",
+            "y": "Nel corpo ha una tasca infuocata. Dopo aver inspirato profondamente, sputa fiamme alla temperatura di 1700 °C.",
+            "omega-ruby": "La morbida pelliccia di Flareon ha uno scopo ben preciso: libera calore nell'aria in modo da abbassare la temperatura corporea, che nel caso di questo Pokémon può raggiungere al massimo 900 °C.",
+            "alpha-sapphire": "La morbida pelliccia di Flareon ha uno scopo ben preciso: libera calore nell'aria in modo da abbassare la temperatura corporea, che nel caso di questo Pokémon può raggiungere al massimo 900 °C.",
+            "sun": "Arrostisce con le sue fiamme le prede che cattura e le bacche che raccoglie finché non sono ben cotte e poi le mangia.",
+            "moon": "La sua temperatura corporea media oscilla tra i 700 e gli 800 °C. In una sacca all'interno del suo corpo ardono fiamme a 1.700 °C.",
+            "ultra-sun": "Quando inspira profondamente significa che si sta preparando all'attacco. Sputa fiamme alla temperatura di 1.700 °C.",
+            "ultra-moon": "Quando si agita si genera del fuoco in una sacca interna e la sua temperatura corporea sale fino a raggiungere i 900 °C.",
+            "lets-go-pikachu": "Nel corpo ha una sacca ardente con cui trasforma l'aria che respira in fiamme e le emette dalla bocca alla temperatura di 1.700 °C.",
+            "lets-go-eevee": "Nel corpo ha una sacca ardente con cui trasforma l'aria che respira in fiamme e le emette dalla bocca alla temperatura di 1.700 °C.",
+            "sword": "Quando immagazzina abbastanza calore, la sua temperatura corporea può salire fino a 900 ºC.",
+            "shield": "Parte dell'aria che inala finisce in una sacca interna, dove brucia raggiungendo una temperatura di 1.700 ºC.",
+            "brilliant-diamond": "All'interno del corpo ha una sacca ardente. Prima di lottare, la sua temperatura si innalza a 900 ºC.",
+            "shining-pearl": "All'interno del corpo ha una sacca ardente. Prima di lottare, la sua temperatura si innalza a 900 ºC.",
+            "legends-arceus": "Ha nelle viscere una sacca colma di fiamme ardenti capaci di raggiungere 1.700 ºC. Il suo vigore igneo s'accresce all'inspirare.",
+            "scarlet": "L'aria che inspira si infiamma passando per la sacca ardente che ha nel corpo, per poi essere espirata alla temperatura di 1.700 ºC.",
+            "violet": "Arruffa il folto pelo intorno al collo per raffreddare il corpo, che può raggiungere i 900 ºC.",
+            "legends-za": "Nel corpo ha una sacca infuocata. Dopo aver inspirato profondamente, sputa fiamme alla temperatura di 1.700 °C."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "flareon",
     "generation": 1,
     "height": {
-        "flareon": "0.9 m"
+        "flareon": "0,9 m"
     },
     "id": 136,
     "name": "Flareon",
-    "name_origin": "Il suo nome deriva dalle parole inglesi flare  e eon , suffisso per ogni Eevoluzione. ",
-    "origin": "Si basa su una volpe per via della sua forma corporea e del colorito, ma ha anche tratti felini, la coda soffice e il pelo intorno al collo ricordano un volpino e la criniera di un leone. ",
+    "name_origin": "Flareon potrebbe derivare dalle parole inglesi flare  e eon , suffisso finale di ogni Eeveeluzione. ",
+    "origin": "Il design di Flareon sembra ispirato da diverse specie di animali. Le lunghe orecchie, il colore rossastro e la lunga coda pelosa potrebbero essere un riferimento alle volpi, in particolare alla volpe rossa, mentre la forma del corpo e la criniera ricordano i leoni o alcune razze di gatti come il Gatto delle foreste norvegesi o il Maine Coon. Potrebbe inoltre essere ispirato ad alcune specie di conigli come il Coniglio Testa di Leone. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Flareon",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Fiamma",
     "sprites": {
         "flareon": {
@@ -54,6 +95,6 @@
         ]
     },
     "weight": {
-        "flareon": "25.0 kg"
+        "flareon": "25,0 kg"
     }
 }

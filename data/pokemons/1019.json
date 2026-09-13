@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "hydrapple": {
+            "primary": "Sciroppo Sublime",
+            "secondary": "Rigenergia",
+            "hidden": "Antifurto"
+        }
+    },
+    "curiosities": [
+        "È l'unica evoluzione finale di Applin ad evolversi due volte.",
+        "Hydrapple è l'unico Pokémon evoluto introdotto nella stessa generazione della propria preevoluzione a non seguire questa nella numerazione del Pokédex Nazionale.",
+        "Prima ancora che Hydrapple fosse presente nei giochi, era stata rivelata la possibilità di evolvere Dipplin, dato che l'Evolcondensa aveva effetto sul Pokémon."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/hydrapple.mp3",
+    "dex_entries": {
+        "hydrapple": {
+            "scarlet": "Sette creature dette Appliserpi vivono in un pomo fatto di melassa. L'Appliserpe al centro fa da comandante.",
+            "violet": "Un gruppo di Appliserpi capricciose che occupa un'unica dimora. Nelle rare occasioni in cui si trovano d'accordo, sfoderano la loro vera forza."
+        }
+    },
+    "egg_groups": [
+        "Erba",
+        "Drago"
+    ],
+    "flat_name": "hydrapple",
+    "generation": 9,
+    "height": {
+        "hydrapple": "1,8 m"
+    },
+    "id": 1019,
+    "name": "Hydrapple",
+    "name_origin": "Hydrapple potrebbe essere una combinazione di Hydra, Idra, e apple, mela. Kamitsuorochi potrebbe essere una combinazione di 果 ka, frutto, 花蜜 kamitsu, nettare, e 八岐大蛇 Yamata no Orochi ",
+    "origin": "Hydrapple sembra essere ispirato a Ladone, essere della mitologia greca descritto come un drago con cento teste che faceva da guardia ai pomi d'oro nel Giardino delle Esperidi, che secondo la leggenda si potevano trovare nella penisola iberica, da cui Paldea prende ispirazione. Inoltre, presenta somiglianze con l'Idra di Lerna, altro essere della mitologia greca sconfitto da Eracle, e con la Yamata no Orochi, mostro della mitologia giapponese simile ad un serpente a otto teste. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Hydrapple",
+    "shape": "None",
+    "specie": "Pokémon Pomidra",
+    "sprites": {
+        "hydrapple": {
+            "default": "https://media.pokemoncentral.it/wiki/2/2e/Homem1019.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/0/08/Homemsh1019.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/e/ed/Artwork1019_SV.png"
+    },
+    "stats": {
+        "hydrapple": {
+            "hp": 106,
+            "atk": 80,
+            "def": 110,
+            "spa": 120,
+            "spd": 80,
+            "spe": 44
+        }
+    },
+    "stats_sum": {
+        "hydrapple": 540
+    },
+    "types": {
+        "hydrapple": [
+            "Drago",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "hydrapple": "93,0 kg"
+    }
+}

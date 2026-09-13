@@ -7,7 +7,6 @@
         }
     },
     "curiosities": [
-        "Articoli incompleti",
         "Pokémon",
         "Pokémon di quinta generazione",
         "Pokémon di tipo Lotta",
@@ -19,7 +18,9 @@
         "Pokémon di Gruppo Uova Campo",
         "Pokémon di Gruppo Uova Umanoide",
         "Pokémon appartenenti a una linea di evoluzione a due stadi",
-        "Pokémon con statistiche base totali di 350"
+        "Pokémon con statistiche base totali di 350",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mienfoo.mp3",
     "dex_entries": {
@@ -37,7 +38,7 @@
             "sword": "I Mienfoo più allenati sono in grado di sferrare più di 100 colpi al minuto con il taglio della mano.",
             "shield": "Ha un temperamento turbolento, malgrado le dimensioni ridotte. Sferra eleganti raffiche di colpi contro chi gli si avvicina incautamente.",
             "scarlet": "Soggioga il nemico con una raffica incessante di attacchi e lo fa a brandelli con le unghie affilate.",
-            "violet": ""
+            "violet": "Si ritira sui monti per allenarsi assieme ai suoi compagni. Ogni gruppo sviluppa tecniche di calci e pugni diverse."
         }
     },
     "egg_groups": [
@@ -47,14 +48,14 @@
     "flat_name": "mienfoo",
     "generation": 5,
     "height": {
-        "mienfoo": "0.9 m"
+        "mienfoo": "0,9 m"
     },
     "id": 619,
     "name": "Mienfoo",
     "name_origin": "Mienfoo è una combinazione dell'inglese ermine  e kung fu. ",
     "origin": "MIenfoo si basa su un mustelide, come un ermellino, e un praticante di kung fu. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Mienfoo",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Marziale",
     "sprites": {
         "mienfoo": {
@@ -82,6 +83,6 @@
         ]
     },
     "weight": {
-        "mienfoo": "20.0 kg"
+        "mienfoo": "20,0 kg"
     }
 }

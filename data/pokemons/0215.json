@@ -7,31 +7,71 @@
         }
     },
     "curiosities": [
-        "Nonostante sia un tipo Ghiaccio, Sneasel non può imparare mosse di questo tipo salendo di livello nei giochi di seconda generazione.",
         "Prima della quarta generazione la mossa esclusiva di Sneasel era Picchiaduro.",
         "Prima della nona generazione, nessun Pokémon, eccetto la sua evoluzione Weavile, possedeva la stessa combinazione di tipi di Sneasel.",
         "Sneasel ha la più alta statistica di base in Velocità tra tutti i Pokémon non completamente evoluti.",
         "La colorazione dello sprite originale di Sneasel in Pokémon Oro e Argento era diversa rispetto a quella attuale.",
         "Sneasel può essere considerato \"parallelo\" a Gligar. Entrambi sono Pokémon di doppio tipo; hanno lo stesso totale delle statistiche di base; le loro rispettive evoluzioni sono stata introdotte in quarta generazione; si evolvono di notte tenendo strumenti dai nomi molto simili .",
         "Sneasel è uno dei quattordici Pokémon ottenibili in Diamante e Perla con la descrizione del Pokédex in una lingua straniera.",
-        "Sneasel è l'unico Pokémon ad avere una forma di Hisui la cui forma originale è ottenibile e trasferibile in Leggende Pokémon: Arceus."
+        "Sneasel è l'unico Pokémon ad avere una forma di Hisui la cui forma originale è ottenibile e trasferibile in Leggende Pokémon: Arceus.",
+        "Sneasel è l'unico Pokémon ad avere una differenza tra i sessi sia nella sua forma normale che in quella regionale.\n\tSneasel di Hisui è inoltre l'unica forma regionale ad avere una differenza tra i sessi.",
+        "Sneasel di Hisui è inoltre l'unica forma regionale ad avere una differenza tra i sessi.",
+        "Sneasel è l'unico Pokémon con due tipi ad avere una forma regionale che non condivide nessuno dei due tipi."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/sneasel.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "sneasel": {
+            "gold": "Le zampe nascondono artigli affilati. Se è attaccato, sferra gli artigli spaventando i nemici.",
+            "silver": "Di spirito malevolo, spinge i PIDGEY ad abbandonare il nido per avventarsi sulle uova incustodite.",
+            "crystal": "Questo POKéMON scaltro si nasconde nel buio notturno, attendendo la preda.",
+            "ruby": "SNEASEL si arrampica sugli alberi conficcando i suoi artigli uncinati nella corteccia. È sempre alla ricerca di nidi incustoditi per rubare le uova e cibarsene mentre i genitori sono assenti.",
+            "sapphire": "SNEASEL si arrampica sugli alberi conficcando i suoi artigli uncinati nella corteccia. È sempre alla ricerca di nidi incustoditi per rubare le uova e cibarsene mentre i genitori sono assenti.",
+            "emerald": "SNEASEL usa i suoi artigli uncinati per arrampicarsi sugli alberi. È sempre alla ricerca di nidi incustoditi per cibarsi delle uova mentre i genitori sono assenti.",
+            "fire-red": "Di spirito malevolo, spinge i PIDGEY a lasciare il proprio nido per poi avventarsi sulle uova incustodite.",
+            "leaf-green": "Le zampe nascondono artigli affilati. Se è attaccato, sfodera gli artigli spaventando i nemici.",
+            "diamond": "Mangia uova rubate dai nidi. Attacca i nemici nei punti deboli con i suoi artigli uncinati.",
+            "pearl": "È spietatissimo e continua ad attaccare il nemico finché questo non è più capace di muoversi.",
+            "platinum": "Un Pokémon furbo e subdolo. Attira altri Pokémon lontano dal nido, mentre un altro ruba le uova.",
+            "heart-gold": "Le zampe nascondono artigli affilati. Se è attaccato, allunga gli artigli spaventando i nemici.",
+            "soul-silver": "Di spirito malevolo, spinge i PIDGEY ad abbandonare il nido per avventarsi sulle uova incustodite.",
+            "black": "Un Pokémon furbo e subdolo. Attira altri Pokémon lontano dal nido, mentre un altro ruba le uova.",
+            "white": "Un Pokémon furbo e subdolo. Attira altri Pokémon lontano dal nido, mentre un altro ruba le uova.",
+            "black-2": "Un Pokémon scaltro e imprevedibile. Fa tentennare l'avversario sguainando i suoi lunghi artigli all'improvviso.",
+            "white-2": "Un Pokémon scaltro e imprevedibile. Fa tentennare l'avversario sguainando i suoi lunghi artigli all'improvviso.",
+            "x": "Mangia uova rubate dai nidi. Attacca i nemici nei punti deboli con i suoi artigli uncinati.",
+            "y": "Le zampe nascondono artigli affilati. Se è attaccato, allunga gli artigli spaventando i nemici.",
+            "omega-ruby": "Sneasel si arrampica sugli alberi conficcando i suoi artigli uncinati nella corteccia. È sempre alla ricerca di nidi incustoditi per rubare le uova e cibarsene mentre i genitori sono assenti.",
+            "alpha-sapphire": "Sneasel si arrampica sugli alberi conficcando i suoi artigli uncinati nella corteccia. È sempre alla ricerca di nidi incustoditi per rubare le uova e cibarsene mentre i genitori sono assenti.",
+            "sun": "È furbo e subdolo. Si intrufola nei nidi incustoditi per rubare le uova mente i genitori sono assenti.",
+            "moon": "Buca le uova con gli artigli per succhiarne il contenuto. Gli Allevapokémon lo considerano un flagello e cercano di tenerlo alla larga.",
+            "ultra-sun": "Questi Pokémon agiscono in squadra per rubare le Uova dai nidi dei Pokémon alati, ma poi litigano per stabilire chi le mangerà.",
+            "ultra-moon": "Si nasconde nell'oscurità puntando la preda. Quando attacca i Sandshrew, che hanno la pelle molto dura, a volte i suoi artigli si spezzano.",
+            "sword": "Intimidisce l'avversario sfoderando all'improvviso gli affilati artigli nascosti nelle sue zampe.",
+            "shield": "È furbo e feroce. Si intrufola nei nidi incustoditi per rubare le Uova mentre i genitori sono assenti.",
+            "brilliant-diamond": "Mangia Uova rubate dai nidi. Lacera i nemici con i suoi artigli uncinati, sfruttando i loro punti deboli.",
+            "shining-pearl": "È spietatissimo e continua ad attaccare il nemico finché questo non è più capace di muoversi.",
+            "legends-arceus": "Condivide la medesima origine degli Sneasel di Hisui, ma è di natura insidiosa. La terra e l'acqua potrebbero esercitare su di lui grande influenza.",
+            "scarlet": "Questo scaltro Pokémon si cela nell’oscurità per lanciarsi sulla preda.",
+            "violet": "Sono Pokémon furbi e subdoli. A volte lavorano in squadra: mentre uno Sneasel attira i Pokémon lontano dal loro nido, l’altro ne ruba le Uova."
+        },
+        "sneasel-di-hisui": {
+            "legends-arceus": "Possiede dei robusti artigli, la cui foggia adunca gli consente di valicare scoscesi dirupi. Le estremità stillano veleno che reca danno ai nervi delle prede catturate."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "sneasel",
     "generation": 2,
     "height": {
-        "sneasel": "0.9 m"
+        "sneasel": "0,9 m"
     },
     "id": 215,
     "name": "Sneasel",
-    "name_origin": "Il suo nome probabilmente deriva dall'unione delle parole inglesi sneaky  o snow  e weasel . Il suo nome giapponese, ニューラ Nyula, potrebbe derivare dall'unione delle parole 潜入 sennyū  o にゃ nyā  e 鼬 yū . ",
-    "origin": "Sneasel è probabilmente ispirato a un kamaitachi, creatura mitologica del folklore nipponico. ",
+    "name_origin": "Sneasel deriva probabilmente da sneaky, furtivo, e weasel, donnola. Potrebbe anche derivare da snow, neve, sneeze, starnutire, o sneesl, termine scozzese per indicare che sta iniziando a piovere o nevicare, tutto in possibile riferimento al suo tipo ghiaccio. Nyula, il suo nome giapponese, potrebbe derivare da にゅー nyu, le fusa del gatto, 鼬 yū, un modo alternativo di leggere itachi, donnola, e 拉 ra, portare via. potrebbe anche inludere 野良 nora, animale selvatico. ",
+    "origin": "Sneasel sembra essere ispirato al Kamaitachi, uno Yōkai raffigurato come una donnola con lunghi artiglie con cui ferisce le caviglie dei viandanti, e su un gatto. Questo accoppiamento potrebbe derivare dalla presenza del carattere ゆう yu  in にゅー nyu . Le piume sul suo corpo potrebbero essere ispirate alle foglie che fluttuano nei diavoli di sabbia, mezzi di locomozione per i Kamaitachi. Sneasel di Hisui potrebbe essere basato su una versione dei Kamaitachi, che fanno ammalare coloro che incontrano invece che ferirli fisicamente, spiegando il suo tipo veleno. Una di queste versioni è chiamata yama-misaki, e consiste di spiriti di persone morte accidentalmente incontrabili nelle parti più remote delle montagne. In alcune versioni sono associati con dirupi, tratto condiviso con il Pokémon. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Sneasel",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Lamartigli",
     "sprites": {
         "sneasel": {
@@ -72,6 +112,6 @@
         ]
     },
     "weight": {
-        "sneasel": "28.0 kg"
+        "sneasel": "28,0 kg"
     }
 }

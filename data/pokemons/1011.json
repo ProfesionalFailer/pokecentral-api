@@ -1,0 +1,66 @@
+{
+    "abilities": {
+        "dipplin": {
+            "primary": "Sciroppo Sublime",
+            "secondary": "Voracità",
+            "hidden": "Antifurto"
+        }
+    },
+    "curiosities": [
+        "Prima ancora che la sua evoluzione fosse presente nei giochi, era stata rivelata la possibilità di evolvere Dipplin, dato che l'Evolcondensa aveva effetto sul Pokémon.",
+        "Dipplin è l'unico membro di una famiglia evolutiva a più rami che si può evolvere ancora mentre le altre evoluzioni non possono.",
+        "Dipplin è l'unico Pokémon che si evolve conoscendo una mossa che può imparare solo tramite MT."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/dipplin.mp3",
+    "dex_entries": {
+        "dipplin": {
+            "scarlet": "Pokémon formato da due individui. Si è evoluto grazie a un pomo speciale coltivato solo in una certa zona.",
+            "violet": "L'Applitesta, che fa capolino, e l'Applicoda, di cui invece sbuca solo la parte posteriore, vivono nel pomo aiutandosi a vicenda."
+        }
+    },
+    "egg_groups": [
+        "Erba",
+        "Drago"
+    ],
+    "flat_name": "dipplin",
+    "generation": 9,
+    "height": {
+        "dipplin": "0,4 m"
+    },
+    "id": 1011,
+    "name": "Dipplin",
+    "name_origin": "Dipplin potrebbe essere una combinazione del verbo to dip, intingere, come le mele intinte nel caramello, e Applin, la sua pre-evoluzione. ",
+    "origin": "Dipplin sembra essere basato su una mela caramellata, un dolce che consiste in una mela coperta di caramello e attaccata ad un bastone. Ricorda anche vagamente la forma Gigamax di Flapple e Appletun. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Dipplin",
+    "shape": "None",
+    "specie": "Pokémon Pomelassa",
+    "sprites": {
+        "dipplin": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9e/Homem1011.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/7d/Homemsh1011.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/6/68/Artwork1011_SV.png"
+    },
+    "stats": {
+        "dipplin": {
+            "hp": 80,
+            "atk": 80,
+            "def": 110,
+            "spa": 95,
+            "spd": 80,
+            "spe": 40
+        }
+    },
+    "stats_sum": {
+        "dipplin": 485
+    },
+    "types": {
+        "dipplin": [
+            "Drago",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "dipplin": "4,4 kg"
+    }
+}

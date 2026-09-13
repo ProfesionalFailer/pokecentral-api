@@ -7,10 +7,13 @@
         }
     },
     "curiosities": [
-        "Secondo un’intervista a Ken Sugimori, Shellos e Gastrodon erano in origine programmati per Pokémon Rubino e Zaffiro, ma non furono inclusi per delle limitazioni di tempo.\n\tInfatti il backsprite sia di Shellos che di Gastrodon sono presenti nella beta di Pokémon Diamante e Perla, senza però alcun frontsprite.",
-        "Infatti il backsprite sia di Shellos che di Gastrodon sono presenti nella beta di Pokémon Diamante e Perla, senza però alcun frontsprite.",
-        "In Diamante e Perla nessun Allenatore utilizza la forma Mare Est di Shellos in battaglia, anche se l'Allenatore si trova a est del Monte Corona. Questo poi è stato corretto in Platino.",
-        "La descrizione inglese del Pokédex di Shellos in Pokémon Oro HeartGold e Argento SoulSilver è la più corta di ogni gioco Pokémon, in quanto consiste in sole nove parole."
+        "Secondo un'intervista a Ken Sugimori, Shellos e Gastrodon erano in origine programmati per Pokémon Rubino e Zaffiro, ma non furono inclusi per delle limitazioni di tempo..\n\tGli sprite retro beta sia di Gastrodon che di Shellos sono presenti nel codice di gioco di Pokémon Diamante e Perla, senza però alcuno sprite frontale.",
+        "Gli sprite retro beta sia di Gastrodon che di Shellos sono presenti nel codice di gioco di Pokémon Diamante e Perla, senza però alcuno sprite frontale.",
+        "In Pokémon Diamante e Perla nessun Allenatore utilizza la forma Mare Est di Shellos in lotta, anche se l'Allenatore si trova a est del Monte Corona. Questo è poi stato corretto in Pokémon Platino.",
+        "La descrizione inglese del Pokédex di Shellos in Pokémon Oro HeartGold e Argento SoulSilver è la più corta di ogni gioco Pokémon, in quanto consiste di sole nove parole. Lo stesso vale per Kyurem in Pokémon Bianco.",
+        "Prima della sesta generazione Shellos aveva la sagoma .",
+        "Gastrodon e Shellos furono accidentalmente rilasciati su Pokémon GO il 29 aprile 2019, ma furono rimossi poco dopo. Furono effettivamente introdotti il 17 maggio 2019 con vari altri Pokémon di quarta generazione.",
+        "Shellos è l'unico Pokémon con Silicoforza a trarre beneficio dall'immunità alla tempesta di sabbia di questa abilità, dato che tutti gli altri Pokémon che la possiedono sono immuni naturalmente a causa del loro tipo."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/shellos.mp3",
     "dex_entries": {
@@ -18,8 +21,8 @@
             "diamond": "Forma e colori variano di regione in regione. Pare che nella regione di Sinnoh ne esistano due tipi.",
             "pearl": "Vive in prossimità dell'acqua. La forma del suo corpo è mutata per adattarsi all'habitat.",
             "platinum": "Se si esercita una forte pressione sul suo corpo, ne fuoriesce un misterioso liquido viola.",
-            "heartgold": "Cambia facilmente aspetto e colore secondo il luogo di provenienza.",
-            "soulsilver": "Cambia facilmente aspetto e colore secondo il luogo di provenienza.",
+            "heart-gold": "Cambia facilmente aspetto e colore secondo il luogo di provenienza.",
+            "soul-silver": "Cambia facilmente aspetto e colore secondo il luogo di provenienza.",
             "black": "Se si esercita una forte pressione sul suo corpo, ne fuoriesce un misterioso liquido viola.",
             "white": "Se si esercita una forte pressione sul suo corpo, ne fuoriesce un misterioso liquido viola.",
             "black-2": "Se si esercita una forte pressione sul suo corpo, ne fuoriesce un misterioso liquido viola.",
@@ -61,14 +64,14 @@
     "flat_name": "shellos",
     "generation": 4,
     "height": {
-        "shellos": "0.3 m"
+        "shellos": "0,3 m"
     },
     "id": 422,
     "name": "Shellos",
-    "name_origin": "Deriva dalle parole shell  e less  o loss . ",
-    "origin": "Basato su un nudibranco. ",
+    "name_origin": "Shellos potrebbe derivare da shell, guscio, e less, senza, o loss, perdita, dato che si tratta di una lumaca senza guscio, dal suffisso tedesco -los, \"privo di\". Karanakushi, il suo nome giapponese, potrebbe derivare da 殻 kara, guscio, e 無くした nakushita, aver perso, e 海牛 umiushi, lumaca di mare, nudibranco. ",
+    "origin": "Shellos è basato su una lumaca di mare. Ricorda varie specie di nudibranchi, e la sua abilità di secernere un liquido viola ricorda un membro della famiglia Aplysiida, molti dei quali secernono un inchiostro violaceo come meccanismo di difesa. La voce del Pokédex di Pokémon Scarlatto della forma Mare Est menziona che gli esemplari di questa forma sono in diminuzione: questo potrebbe essere un riferimento a come le specie di lumache di mare che vivono in ambienti caldi sono in aumento nel mondo reale a scapito di quelle che vivono in acque fredde, a causa del riscaldamento globale. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Shellos",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Lumacomare",
     "sprites": {
         "mare-ovest": {
@@ -100,6 +103,6 @@
         ]
     },
     "weight": {
-        "shellos": "6.3 kg"
+        "shellos": "6,3 kg"
     }
 }

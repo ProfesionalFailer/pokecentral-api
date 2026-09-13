@@ -7,14 +7,14 @@
         }
     },
     "curiosities": [
-        "È l'unico Pokémon di tipo Roccia puro evoluto in grado di evolversi ancora.",
-        "Boldor è molto simile a Graveler. Entrambi sono Pokémon di tipo Roccia, introdotti in una generazione dispari, condividono la somma delle statistiche base , si è evoluto al livello 25 e può evolversi a sua volta tramite scambio"
+        "Boldore condivide il nome della categoria con Glimmet e Glimmora: sono tutti conosciuti come Pokémon Minerale.",
+        "Boldore è molto simile a Graveler. Entrambi sono Pokémon di tipo Roccia, introdotti in una generazione dispari, condividono la somma delle statistiche base , si è evoluto al livello 25 e può evolversi a sua volta tramite scambio."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/boldore.mp3",
     "dex_entries": {
         "boldore": {
             "black": "Quando la sua energia è al massimo, i cristalli arancioni si illuminano. Cerca l'acqua nelle grotte sotterranee.",
-            "white": "L’energia sovrabbondante cerca sfogo all'esterno del corpo e si solidifica formando cristalli di colore arancione.",
+            "white": "L'energia sovrabbondante cerca sfogo all'esterno del corpo e si solidifica formando cristalli di colore arancione.",
             "black-2": "Se è in forma, il suo nucleo è visibile. Si sposta rapidamente nelle quattro direzioni senza cambiare orientamento.",
             "white-2": "Se è in forma, il suo nucleo è visibile. Si sposta rapidamente nelle quattro direzioni senza cambiare orientamento.",
             "x": "L'energia sovrabbondante cerca sfogo all'esterno del corpo e si solidifica formando cristalli di colore arancione.",
@@ -23,7 +23,7 @@
             "alpha-sapphire": "Se è in forma, il suo nucleo è visibile. Si sposta rapidamente nelle quattro direzioni senza cambiare orientamento.",
             "sun": "I cristalli arancioni sul suo corpo sono fatti di energia condensata. Un unico frammento potrebbe fornire carburante a 100 camion.",
             "moon": "Perlustra le grotte alla ricerca di falde sotterranee. Quando trova l'acqua, la lecca piano piano per poterla assorbire.",
-            "ultra-sun": "L’energia che fuoriesce dal suo corpo forma dei cristalli arancioni talmente duri da frantumare anche i diamanti.",
+            "ultra-sun": "L'energia che fuoriesce dal suo corpo forma dei cristalli arancioni talmente duri da frantumare anche i diamanti.",
             "ultra-moon": "È un Pokémon molto ambito per i preziosi cristalli arancioni che ha sul corpo, fatti di energia condensata.",
             "sword": "Quando i cristalli arancioni cominciano a brillare, è bene fare attenzione perché è segno che il Pokémon sta per emettere energia.",
             "shield": "Perlustra la zona intorno a sé servendosi dei rumori. Se irritato, insegue chi lo ha importunato senza cambiare orientamento del corpo."
@@ -35,14 +35,14 @@
     "flat_name": "boldore",
     "generation": 5,
     "height": {
-        "boldore": "0.9 m"
+        "boldore": "0,9 m"
     },
     "id": 525,
     "name": "Boldore",
-    "name_origin": "Il nome di Boldore ha origine da boulder  o bold  e ore . ",
-    "origin": "Boldore si basa su un geode ma ha dei tratti in comune con i granchi. ",
+    "name_origin": "Boldore potrebbe derivare da boulder  o bold  e ore . Gantle, il suo nome giapponese, potrebbe derivare da 岩 gan  e mantle . ",
+    "origin": "Roggenrola sembra essere basato su un geode e su un elementale della terra. Ha tratti in comune con granchi e un tripode. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Boldore",
-    "shape": "più di 4 arti",
+    "shape": "None",
     "specie": "Pokémon Minerale",
     "sprites": {
         "boldore": {
@@ -70,6 +70,6 @@
         ]
     },
     "weight": {
-        "boldore": "102.0 kg"
+        "boldore": "102,0 kg"
     }
 }

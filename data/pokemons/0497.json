@@ -6,14 +6,9 @@
         }
     },
     "curiosities": [
-        "È il più alto tra:\n\tI Pokémon di quinta generazione.\n\tI Pokémon di tipo Erba.\n\tI Pokémon iniziali completamente evoluti.",
-        "I Pokémon di quinta generazione.",
-        "I Pokémon di tipo Erba.",
-        "I Pokémon iniziali completamente evoluti.",
-        "Serperior è l'unico Pokémon iniziale di tipo Erba e l'unico Pokémon della quinta generazione ad avere la forma di un serpente.",
-        "Serperior è il primo starter Erba completamente evoluto a non avere un nome di otto lettere.",
+        "Serperior è il più alto tra i Pokémon iniziali completamente evoluti.",
         "Serperior, Samurott e Emboar condividono lo stesso totale delle statistiche di base pari a 528.",
-        "Serperior è l'unico Pokémon privo di zampe ad essere imparentato con uno starter."
+        "Serperior è l'unica forma evolutiva finale dei Pokémon iniziali di Unima a non avere una forma alternativa."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/serperior.mp3",
     "dex_entries": {
@@ -25,7 +20,9 @@
             "x": "Dà il meglio di sé solo contro chi non resta intimidito dal suo nobile sguardo.",
             "y": "Può bloccare i movimenti dell'avversario con il solo sguardo. Amplifica l'energia solare all'interno del suo corpo.",
             "omega-ruby": "Dà il meglio di sé solo contro chi non resta intimidito dal suo nobile sguardo.",
-            "alpha-sapphire": "Può bloccare i movimenti dell'avversario con il solo sguardo.Amplifica l'energia solare all'interno del suo corpo."
+            "alpha-sapphire": "Può bloccare i movimenti dell'avversario con il solo sguardo. Amplifica l'energia solare all'interno del suo corpo.",
+            "scarlet": "Produce energia grazie alla luce solare e l’amplifica di decine di volte all’interno del suo lungo corpo.",
+            "violet": "Il suo sguardo che immobilizza gli avversari e il suo aspetto solenne gli sono valsi l’appellativo di \"signore della foresta\"."
         }
     },
     "egg_groups": [
@@ -35,14 +32,14 @@
     "flat_name": "serperior",
     "generation": 5,
     "height": {
-        "serperior": "3.3 m"
+        "serperior": "3,3 m"
     },
     "id": 497,
     "name": "Serperior",
-    "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi serpent  e superior  o anche emperor . Il nome giapponese, romanizzato in Jalorda, è invece formato dalle parole 蛇 ja  e lord . ",
-    "origin": "Serperior è basato su molteplici specie di serpenti non velenosi e lucertole prive di arti, come il serpente liana, il boa arboricolo smeraldino, il pitone reale o il lialis burtonis. L'anatomia del corpo può invece basarsi sul genere di piante erbacee della Strelitzia, più nello specifico sulle specie di strelitzia juncea e/o di strelitzia reginae. Il suo aspetto si ispira anche al Quetzalcoatl, ovvero il dio serpente piumato presente nel pantheon delle divinità principali delle civilizzazioni messicane e centro americane. Le foglie presenti sul corpo di Serperior sembrano rifarsi ai motivi di foglia di acanto, ornamenti utilizzati in particolar modo nell'architettura del diciottesimo secolo. È stato confermato che Serperior e le sue pre-evoluzioni sono basati sulla nobiltà europea, precisamente francese. Sono infatti svariati i rimandi a livello di anatomia e di caratteristiche che rientrano a far parte di questo ambiente. Il fatto che Serperior amplifichi l'energia solare all'interno del suo corpo, come affermato dal Pokédex, può essere un'allusione a Luigi XIV, un famoso re francese del Seicento al quale ci si riferiva con l'appellativo di \"Re Sole\". Il colore bianco utilizzato per il muso di Serperior allude invece alla pelle incipriata, in voga e di moda nell'ambiente dell'aristocrazia europea del diciassettesimo secolo. La macchia verde scuro sul torace di Serperior disegna un giglio, simbolo araldico della monarchia francese e di regalità. Il fatto che Serperior possa bloccare i movimenti dell'avversario con un solo sguardo è un chiaro rimando al basilisco, re dei serpenti nelle leggende medioevali europee. ",
+    "name_origin": "Il suo nome potrebbe derivare da serpent, serpente, superior, superiore, e possibilmente warrior, guerriero, e emperor, imperatore. Jalorda, il suo nome giapponese, potrebbe derivare da 蛇 ja, serpente, e lord, signore. ",
+    "origin": "Serperior è basato su un serpente, possibilmente su serpenti che assomigliano a liane e viticci. Nello specifico potrebbe quindi prendere ispirazione da serpenti arboricoli e dal genere Opheodrys. Alcuni aspetti di Serperior potrebbero derivare da lucertole senza arti. La forma della testa e protrusioni sulle spalle ricordano il cappuccio dei Cobra o la pelle della muta. Lo ricollegano anche ai fiori Strelitzia e Heliconia. Questo, oltre al fatto che il primo fiore prenda il nome dalla regina Carlotta di Meclemburgo-Strelitz, si ricollegano al tema regale di Serperior. Ken Sugimori ha affermato che Snivy, Servine e Serperior sono basati sulla cultura occidentali, menzionando nella specifico il manga Lady Oscar come fonte di ispirazione.  Le linee evolutive di Snivy, Tepig, e Oshawott rappresentano le culture che hanno ispirato il design di Unima: occidentale, cinese e giapponese, rispettivamente. La sua abilità di amplificare la luce solare, come menzionato nelle sue voci Pokédex, potrebbe essere un riferimento a Luigi XIV di Francia, autoproclamatosi \"il Re Sole\". La faccia bianca ricorda la depigmentazione popolare tra i nobili del 17° secolo. Il modo in cui tiene le braccia piegate dietro la schiena sono un simbolo di autorità. I segni sul corpo ricordano le foglie di acanto, un motivo popolare nel rinascimento. I segni più scuri sul corpo hanno la stessa forma del giglio araldico, un simbolo trovato spesso negli stemmi di famiglie nobili europee. La sua abilità di bloccare gli avversari con lo sguardo potrebbe essere un riferimento al basilisco. Le foglie simili a basilico sulla coda potrebbero collegarsi a questa possibile ispirazione as basilisco, dato che entrambi i termini derivano dalla radice greca Βασιλεύς Basileús, ovvero \"re\", ritornando al tema della regalità. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Serperior",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Regale",
     "sprites": {
         "serperior": {
@@ -70,6 +67,6 @@
         ]
     },
     "weight": {
-        "serperior": "63.0 kg"
+        "serperior": "63,0 kg"
     }
 }

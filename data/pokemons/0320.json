@@ -8,7 +8,8 @@
     },
     "curiosities": [
         "Wailmer fu uno dei primi Pokémon rivelati della terza generazione nel marzo del 2001, assieme ad Azurill e Kecleon.",
-        "Wailmer non compare nei giochi ambientati a Paldea, tuttavia viene menzionata dal Pokédex una parentela tra questo Pokémon e i Cetoddle."
+        "Wailmer non compare nei giochi ambientati a Paldea, tuttavia viene menzionata dal Pokédex una parentela tra questo Pokémon e i Cetoddle.",
+        "Nonostante compaia nel Mar Gelido, Wailmer non compare nel Pokédex Corona, ed è lò'unico Pokémon incontrabile normalmente che ha questa caratteristica."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/wailmer.mp3",
     "dex_entries": {
@@ -16,13 +17,13 @@
             "ruby": "Le narici di WAILMER sono posizionate sopra gli occhi. È un giocherellone e ama spaventare le persone sparando dalle narici l'acqua del mare, che accumula all'interno del proprio corpo.",
             "sapphire": "WAILMER accumula acqua all'interno del proprio corpo per trasformarsi in un pallone e rimbalzare al suolo. Questo POKéMON aumenta l'altezza del balzo incrementando la quantità d'acqua con cui si gonfia.",
             "emerald": "Pur vivendo in mare, WAILMER può sopravvivere sulla terraferma, ma solo per brevi periodi. Se il suo corpo si secca, infatti, il POKéMON perde vitalità.",
-            "firered": "Se ingloba molta acqua diventa una specie di palla rimbalzante. Ha bisogno di una tonnellata di cibo al giorno.",
-            "leafgreen": "Se ingloba molta acqua diventa una specie di palla rimbalzante. Ha bisogno di una tonnellata di cibo al giorno.",
+            "fire-red": "Se ingloba molta acqua diventa una specie di palla rimbalzante. Ha bisogno di una tonnellata di cibo al giorno.",
+            "leaf-green": "Se ingloba molta acqua diventa una specie di palla rimbalzante. Ha bisogno di una tonnellata di cibo al giorno.",
             "diamond": "In giornate soleggiate, gioca rimbalzando sulla spiaggia. Spruzza acqua dalle narici.",
             "pearl": "In giornate soleggiate, gioca rimbalzando sulla spiaggia. Spruzza acqua dalle narici.",
             "platinum": "In giornate soleggiate, gioca rimbalzando sulla spiaggia. Spruzza acqua dalle narici.",
-            "heartgold": "Si diverte a rimbalzare come una palla. Più acqua di mare ingolla, più in alto riesce a rimbalzare.",
-            "soulsilver": "Si diverte a rimbalzare come una palla. Più acqua di mare ingolla, più in alto riesce a rimbalzare.",
+            "heart-gold": "Si diverte a rimbalzare come una palla. Più acqua di mare ingolla, più in alto riesce a rimbalzare.",
+            "soul-silver": "Si diverte a rimbalzare come una palla. Più acqua di mare ingolla, più in alto riesce a rimbalzare.",
             "black": "In giornate soleggiate, gioca rimbalzando sulla spiaggia. Spruzza acqua dalle narici.",
             "white": "In giornate soleggiate, gioca rimbalzando sulla spiaggia. Spruzza acqua dalle narici.",
             "black-2": "Mangia una tonnellata di cibo al giorno. Si diverte a spruzzare con forza l'acqua marina attraverso il suo sfiatatoio.",
@@ -48,14 +49,14 @@
     "flat_name": "wailmer",
     "generation": 3,
     "height": {
-        "wailmer": "2.0 m"
+        "wailmer": "2,0 m"
     },
     "id": 320,
     "name": "Wailmer",
-    "name_origin": "Wailmer può essere una combinazione dell'inglese whale, balena, o wail, lamento, che può riferirsi anche ai suoni o ai versi che le balene o gli Wailmer possono produrre, e del francese mer, mare. ",
-    "origin": "Wailmer si basa su una balena con gli aspetti di un pallone da spiaggia. ",
+    "name_origin": "Wailmer potrebbe derivare da whale, balena, o wail, lamento, anche termine per il verso delle balene, e dal francese mer, mare. Hoeruko, il suo nome giapponese, potrebbe essere una combinazione di whale, 吠える hoeru, lamento, anche termine per il verso delle balene, e 子 ko, bambino. ",
+    "origin": "Wailmer sembra essere basato su un misticete, con aspetti di un pallone da spiaggia. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Wailmer",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Balenottero",
     "sprites": {
         "wailmer": {
@@ -83,6 +84,6 @@
         ]
     },
     "weight": {
-        "wailmer": "130.0 kg"
+        "wailmer": "130,0 kg"
     }
 }

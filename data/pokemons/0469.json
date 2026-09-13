@@ -7,7 +7,7 @@
         }
     },
     "curiosities": [
-        "Le Megaevoluzioni furono introdotte due generazioni dopo il debutto di Yanmega. I Pokémon megaevoluti hanno il prefisso \"Mega\", similmente al nome Giapponese di Yanmega, Megayanma."
+        "Nonostante abbia la statistica di Attacco Speciale più alta di quella dell'Attacco, Yanmega cede 2 punti base in Attacco."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/yanmega.mp3",
     "dex_entries": {
@@ -15,8 +15,8 @@
             "diamond": "Agitando le ali crea onde d'urto che infliggono gravi ferite agli organi interni dei nemici.",
             "pearl": "Agitando le ali crea onde d'urto che infliggono gravi ferite agli organi interni dei nemici.",
             "platinum": "La forza della sua mascella è incredibile. Trancia i nemici mentre vola a grande velocità.",
-            "heartgold": "Riesce a volare comodamente anche trasportando un adulto con le sue sei zampe. Si bilancia con la coda.",
-            "soulsilver": "Ha talmente tanta forza nelle ali che quando spicca il volo abbatte gli alberi a colpi d'ala.",
+            "heart-gold": "Riesce a volare comodamente anche trasportando un adulto con le sue sei zampe. Si bilancia con la coda.",
+            "soul-silver": "Ha talmente tanta forza nelle ali che quando spicca il volo abbatte gli alberi a colpi d'ala.",
             "black": "La forza della sua mascella è incredibile. Trancia i nemici mentre vola a grande velocità.",
             "white": "La forza della sua mascella è incredibile. Trancia i nemici mentre vola a grande velocità.",
             "black-2": "Preferisce piombare sui nemici a grande velocità per tagliuzzarli a dovere in un batter d'occhio.",
@@ -36,14 +36,14 @@
     "flat_name": "yanmega",
     "generation": 4,
     "height": {
-        "yanmega": "1.9 m"
+        "yanmega": "1,9 m"
     },
     "id": 469,
     "name": "Yanmega",
-    "name_origin": "Il suo nome deriva dall'unione della parola giapponese 蜻蜓 yanma  con la parola inglese meganeura. ",
-    "origin": "Basato su una libellula, in particolare una meganeura, e su un elicottero. Come suggerisce il nome, però, potrebbe anche essere basato sullo stereotipo di un orco o di un troll. ",
+    "name_origin": "Yanmega e Megayanma, il suo nome giapponese, potrebbero derivare da 蜻蜓 yanma, \"grande libellula\", e il prefisso mega-, \"versione più grande\", o Meganeura, un genere di antenati delle moderne libellule. ",
+    "origin": "Yanmega sembra essere basato su una libellula, in particolare su una meganeura, un antenato delle damigelle di grandi dimensioni, spiegando perché si evolva conoscendo Forzantica. Il nome della sue specie sembra indicare sia basato su una Anotogaster sieboldii, chiamata オニヤンマ oniyanma in giapponese, letteralmente \"libellula oni\". Il suo colore verde, forma del corpo e abilità di trasportare umani in volo lo ricollegano ad un elicottero militare. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Yanmega",
-    "shape": "due paia di ali",
+    "shape": "None",
     "specie": "Pokémon Libellorco",
     "sprites": {
         "yanmega": {
@@ -72,6 +72,6 @@
         ]
     },
     "weight": {
-        "yanmega": "51.5 kg"
+        "yanmega": "51,5 kg"
     }
 }

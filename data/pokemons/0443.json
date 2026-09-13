@@ -6,7 +6,7 @@
         }
     },
     "curiosities": [
-        "La famiglia di Gible debutta nell'anime in ordine inverso alla loro evoluzione. Garchomp appare in Il coraggio di Paul, Gabite in Gabite mangia la polvere! e Gible in Rivalità per un Gible!."
+        "La famiglia di Gible debutta nella serie animata in ordine inverso alla loro evoluzione. Garchomp appare in Il coraggio di Paul, Gabite in Gabite mangia la polvere! e Gible in Rivalità per un Gible!."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/gible.mp3",
     "dex_entries": {
@@ -14,8 +14,8 @@
             "diamond": "Nidifica in piccole cavità orizzontali nelle pareti delle grotte. Si avventa sulle prede che si avvicinano.",
             "pearl": "Un tempo viveva ai tropici. Per evitare il freddo, vive in grotte riscaldate dal calore geotermico.",
             "platinum": "Attacca con la sua enorme bocca. È forte, ma molto maldestro e spesso si danneggia da solo.",
-            "heartgold": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta.",
-            "soulsilver": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta.",
+            "heart-gold": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta.",
+            "soul-silver": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta.",
             "black": "Attacca con la sua enorme bocca. È forte, ma molto maldestro e spesso si danneggia da solo.",
             "white": "Attacca con la sua enorme bocca. È forte, ma molto maldestro e spesso si danneggia da solo.",
             "black-2": "Attacca con la sua enorme bocca. È forte, ma molto maldestro e spesso si danneggia da solo.",
@@ -34,7 +34,8 @@
             "shining-pearl": "Un tempo viveva ai tropici. Per ripararsi dal freddo, vive in grotte riscaldate dal calore geotermico.",
             "legends-arceus": "Fa di oscuri antri la propria dimora. I suoi denti aguzzi, pur cadendo per via dell'usura o d'urti, tornano a formarsi in pochi giorni.",
             "scarlet": "Aspetta nemici e prede in agguato nella sua tana. Quando gli arrivano a tiro, li addenta con tale forza che a volte si spezza i denti.",
-            "violet": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta."
+            "violet": "Vive in gallerie scaldate dal calore geotermico. Se sente un nemico arrivare, salta fuori e lo addenta.",
+            "legends-za": "Nidifica in piccoli tunnel nelle pareti delle grotte. Si avventa rapido sulle prede per catturarle quando si avvicinano."
         }
     },
     "egg_groups": [
@@ -44,14 +45,14 @@
     "flat_name": "gible",
     "generation": 4,
     "height": {
-        "gible": "0.7 m"
+        "gible": "0,7 m"
     },
     "id": 443,
     "name": "Gible",
-    "name_origin": "Il suo nome probabilmente deriva dall'unione della parola inglese gobble, trangugiare, ingurgitare, o ground, terra, con il verbo nibble, sgranocchiare. In giapponese è フカマル Fukuamaru, che unisce 鱶 fuka, squalo, con 丸 maru, tondo. ",
-    "origin": "Gible è basato su un drago ed uno squalo. ",
+    "name_origin": "Gible potrebbe derivare da gobble, trangugiare, ingurgitare, e nibble, sgranocchiare. Fukamaru, il suo nome giapponese potrebbe derivare da 鱶 fuka, squalo, e 丸 maru, tondo, anche un suffisso nei nomi di ragazzini. Potrebbe anche essere un gioco di parole con 深まる fukamaru, approfondire, andare in profondità. ",
+    "origin": "Gible condivide caratteristiche con squali, nello specifico lo squalo martello. Il suo addome rosso e forma arrotondata lo possono ricollegare anche ad un piranha rosso. Il suo tipo Terra potrebbe derivare dagli Carcharhiniformes, chiamatati anche \"ground sharks\", o dagli Odontaspididae, chiamati anche \"sand sharks\". Il fatto che effettivamente viva sulla terraferma potrebbe derivare dai land shark, esseri tipici di scenari fantasy. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Gible",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Squaloterra",
     "sprites": {
         "gible": {
@@ -84,6 +85,6 @@
         ]
     },
     "weight": {
-        "gible": "20.5 kg"
+        "gible": "20,5 kg"
     }
 }

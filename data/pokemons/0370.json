@@ -6,8 +6,7 @@
         }
     },
     "curiosities": [
-        "Inizialmente il Pokémon Alomomola era stato scambiato per un'evoluzione di Luvdisc per via della sua somiglianza.",
-        "In quinta generazione i cerchi sulle guance di Luvdisc sono cambiati da bianchi a rosa."
+        "Luvdisc non aveva mosse uovo in Pokémon Scarlatto e Violetto fino alla versione 2.0.1, dove le ha riottenute. Condivide questa caratteristica con Cacnea e Grimer di Alola."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/luvdisc.mp3",
     "dex_entries": {
@@ -15,13 +14,13 @@
             "ruby": "LUVDISC vive nei mari tropicali poco profondi. Questo POKéMON a forma di cuore ha preso questo nome per aver seguito una coppia innamorata individuata tra le onde oceaniche.",
             "sapphire": "Il corpo a forma di cuore di LUVDISC è il simbolo delle storie d'amore. Si dice che le coppie a cui capita di vederlo siano destinate a vivere un'intensa passione che non avrà mai fine.",
             "emerald": "I LUVDISC dimorano nelle ramificazioni dei CORSOLA. La tradizione vuole che si doni uno di questi POKéMON alla persona amata come pegno d'amore.",
-            "firered": "Durante il periodo riproduttivo, numerosi LUVDISC si riuniscono intorno alla barriera corallina, colorando l'acqua di rosa.",
-            "leafgreen": "Durante il periodo riproduttivo, numerosi LUVDISC si riuniscono intorno alla barriera corallina, colorando l'acqua di rosa.",
+            "fire-red": "Durante il periodo riproduttivo, numerosi LUVDISC si riuniscono intorno alla barriera corallina, colorando l'acqua di rosa.",
+            "leaf-green": "Durante il periodo riproduttivo, numerosi LUVDISC si riuniscono intorno alla barriera corallina, colorando l'acqua di rosa.",
             "diamond": "Vive nei mari caldi. Si dice che le coppie che trovano questo Pokémon riceveranno in dono l’eterno amore.",
             "pearl": "Vive nei mari caldi. Si dice che le coppie che trovano questo Pokémon riceveranno in dono l’eterno amore.",
             "platinum": "Vive nei mari caldi. Si dice che le coppie che trovano questo Pokémon riceveranno in dono l’eterno amore.",
-            "heartgold": "Ricercato per la forma a cuore. Da qualche parte si usa ancora inviare un LUVDISC alla persona amata.",
-            "soulsilver": "Ricercato per la forma a cuore. Da qualche parte si usa ancora inviare un LUVDISC alla persona amata.",
+            "heart-gold": "Ricercato per la forma a cuore. Da qualche parte si usa ancora inviare un LUVDISC alla persona amata.",
+            "soul-silver": "Ricercato per la forma a cuore. Da qualche parte si usa ancora inviare un LUVDISC alla persona amata.",
             "black": "Vive nei mari caldi. Si dice che le coppie che trovano questo Pokémon riceveranno in dono l'eterno amore.",
             "white": "Vive nei mari caldi. Si dice che le coppie che trovano questo Pokémon riceveranno in dono l'eterno amore.",
             "black-2": "Vive nei mari caldi. Si dice che le coppie che trovano questo Pokémon riceveranno in dono l'eterno amore.",
@@ -34,6 +33,8 @@
             "moon": "È molto popolare tra gli innamorati, perciò viene messo nelle piscine degli hotel frequentati dalle coppiette in luna di miele.",
             "ultra-sun": "In passato è stato vittima di una caccia sfrenata per via delle sue scaglie a forma di cuore, che si riteneva facessero trovare l’anima gemella.",
             "ultra-moon": "Vive nelle barriere coralline dei mari caldi. Ama particolarmente dormire fra le ramificazioni dei Corsola.",
+            "brilliant-diamond": "Vive nei mari caldi. Si dice che le coppie che trovano questo Pokémon riceveranno in dono l'amore eterno.",
+            "shining-pearl": "Vive nei mari caldi. Si dice che le coppie che trovano questo Pokémon riceveranno in dono l'amore eterno.",
             "scarlet": "Ricercato per la sua forma a cuore. In qualche regione si usa ancora regalare un Luvdisc alla persona amata.",
             "violet": "Durante il periodo riproduttivo, numerosi Luvdisc si riuniscono intorno alla barriera corallina, colorando l’acqua di rosa."
         }
@@ -44,14 +45,14 @@
     "flat_name": "luvdisc",
     "generation": 3,
     "height": {
-        "luvdisc": "0.60 m"
+        "luvdisc": "0,60 m"
     },
     "id": 370,
     "name": "Luvdisc",
-    "name_origin": "Il nome Luvdisc è una combinazione delle parole \"Love\"  e \"Discus\" o \"Disc\" . ",
-    "origin": "Luvdisc è basato sul pesce disco, ma anche su speci di pesce che sembrano baciarsi come il gurami sbaciucchione. Il suo aspetto ricorda quello di un cuore stilizzato. La colorazione cromatica dorata potrebbe riferirsi al concetto di cuore d'oro, ovvero una persona senza malizia molto amorevole e caricatevole. ",
+    "name_origin": "Luvdisc potrebbe derivare da love, amore, e discus, disco. ",
+    "origin": "Luvdisc sembra essere basato sul pesce disco e alcune specie di pesce che sembrano baciarsi come il gurami sbaciucchione. Il suo aspetto ricorda quello di un cuore stilizzato. La colorazione cromatica dorata potrebbe riferirsi al concetto di \"cuore d'oro\", ovvero una persona senza malizia, molto amorevole e caricatevole. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Luvdisc",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Rendezvous",
     "sprites": {
         "luvdisc": {
@@ -79,6 +80,6 @@
         ]
     },
     "weight": {
-        "luvdisc": "8.7 kg"
+        "luvdisc": "8,7 kg"
     }
 }

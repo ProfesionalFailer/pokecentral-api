@@ -6,28 +6,62 @@
         }
     },
     "curiosities": [
-        "In seconda generazione, il Nonno di Bill chiede al giocatore di portargli un Pokémon tondo e verde con foglie sulla testa. Il Pokémon richiesto è Oddish, che è verde solo nella forma cromatica. Probabilmente è un errore di traduzione dovuto all'ambiguità del giapponese aoi, che può significare blu e verde. L'errore è stato corretto in quarta generazione.",
+        "In seconda generazione, il Nonno di Bill chiede al giocatore di portargli un Pokémon tondo e verde con foglie sulla testa. Il Pokémon richiesto è Oddish, che è verde solo nella forma cromatica. Probabilmente è un errore di traduzione dovuto all'ambiguità del giapponese aoi, che può significare blu e verde. L'errore è stato corretto in Oro HeartGold e Argento SoulSilver.",
         "Oddish ha un nome scientifico: Oddium viandantis. L'unico altro Pokémon con un nome scientifico è Kabutops, con Kabutops maximis.",
-        "Oddish è il primo Pokémon del Pokédex Nazionale ad avere un'evoluzione ramificata.",
-        "Bellsprout poteva originariamente essere visto come un parallelo di Oddish: sono entrambi Pokémon di tipo Erba/Veleno di prima generazione, si evolvono prima al livello 21 e poi con Pietrafoglia. Oddish è esclusivo di Blu e Bellsprout di Rosso e possono essere trovati nella Foresta Bianca. Il parallelismo si è perso in seconda generazione con l'introduzione dell'evoluzione ramificata di Oddish.",
+        "Oddish può essere visto come un parallelo di Bellsprout: sono entrambi Pokémon di tipo Erba/Veleno di prima generazione, si evolvono prima al livello 21 e poi con Pietrafoglia. Oddish è esclusivo di Pokémon Rosso, Rosso Fuoco e Let's Go, Pikachu! e Bellsprout di Pokémon Blu, Verde Foglia e Let's Go, Eevee! e possono essere trovati nella Foresta Bianca.",
         "In Pokémon Oro e Argento, Oddish era programmato per apprendere Fascino tramite allevamento, ma nessun altro Pokémon nel Gruppo Uova Erba poteva impararla legittimamente e passarla quindi come Mossa Uovo. Dalla terza generazione, Oddish può apprendere Fascino grazie a Shroomish attraverso una catena di accoppiamenti. Dalla quinta generazione, Oddish può apprendere la mossa tramite accoppiamento direttamente da Cottonee."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/oddish.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "oddish": {
+            "red": "Di giorno tiene la testa sotto terra. Di notte vaga spargendo le sue sementi.",
+            "blue": "Di giorno tiene la testa sotto terra. Di notte vaga spargendo le sue sementi.",
+            "yellow": "Spesso confuso con una malerba questo POKéMON stride atrocemente se si prova a estirparlo.",
+            "gold": "Gira di notte, svegliandosi con la luce lunare. Di giorno se ne sta tranquillamente sottoterra.",
+            "silver": "Inizia a muoversi quando è esposto alla luce lunare. Di notte percorre grandi distanze spargendo i semi.",
+            "crystal": "Di giorno vive nel freddo sottosuolo, per evitare la luce del sole. Cresce assorbendo la luce lunare.",
+            "ruby": "Durante il giorno, ODDISH si nasconde nel terreno per assorbire sostanze nutritive con tutto il corpo. Più il suolo è fertile, più lucide diventano le foglie.",
+            "sapphire": "ODDISH cerca suolo fertile e ricco di sostanze nutritive per piantarvi le radici. Durante il giorno quando è fisso nel terreno, si dice che le sue zampe si trasformino prendendo la forma delle radici degli alberi.",
+            "emerald": "ODDISH cresce assorbendo la luce lunare. Per non farsi individuare dai nemici, durante il giorno si nasconde nel terreno lasciando fuori solo le foglie.",
+            "fire-red": "Nome scientifico: \"Oddium Viandantis\". Percorre fino a 300 m in una notte sulle due radici fatte a piede.",
+            "leaf-green": "Di giorno tiene la testa sotto terra. Di notte vaga spargendo le sue sementi.",
+            "diamond": "Durante il giorno, pianta i piedi per terra come se fossero radici. Di notte cammina seminando.",
+            "pearl": "Durante il giorno, pianta i piedi per terra come se fossero radici. Di notte cammina seminando.",
+            "platinum": "Durante il giorno, pianta i piedi per terra come se fossero radici. Di notte cammina seminando.",
+            "heart-gold": "Gira di notte, svegliandosi con la luce lunare. Di giorno se ne sta tranquillamente sottoterra.",
+            "soul-silver": "Inizia a muoversi quando è esposto alla luce lunare. Di notte percorre grandi distanze spargendo semi.",
+            "black": "Durante il giorno, pianta i piedi per terra come se fossero radici. Di notte cammina seminando.",
+            "white": "Durante il giorno, pianta i piedi per terra come se fossero radici. Di notte cammina seminando.",
+            "black-2": "Durante il giorno, pianta i piedi per terra come se fossero radici. Di notte cammina seminando.",
+            "white-2": "Durante il giorno, pianta i piedi per terra come se fossero radici. Di notte cammina seminando.",
+            "x": "Di giorno vive nel freddo sottosuolo, per evitare la luce del sole. Cresce assorbendo la luce lunare.",
+            "y": "Nome scientifico: \"Oddium Viandantis\". Percorre fino a 300 m in una notte sulle due radici fatte a piede.",
+            "omega-ruby": "Durante il giorno, Oddish si nasconde nel terreno per assorbire sostanze nutritive con tutto il corpo. Più il suolo è fertile, più lucide diventano le foglie.",
+            "alpha-sapphire": "Oddish cerca suolo fertile e ricco di sostanze nutritive per piantarvi le radici. Si dice che durante il giorno, quando è fisso nel terreno, le sue zampe si trasformino prendendo la forma delle radici sugli alberi.",
+            "lets-go-pikachu": "Spesso confuso con un'erbaccia, questo Pokémon stride atrocemente se si prova a estirparlo.",
+            "lets-go-eevee": "Spesso confuso con un'erbaccia, questo Pokémon stride atrocemente se si prova a estirparlo.",
+            "sword": "Inizia a muoversi quando è illuminato dalla luce lunare. Di notte se ne va in giro a spargere semi.",
+            "shield": "Di giorno vive nel freddo sottosuolo per evitare la luce del sole. Cresce assorbendo la luce lunare.",
+            "brilliant-diamond": "Durante il giorno sta spesso fermo con i suoi piedi-radici piantati per terra. Di notte se ne va spargendo semi in giro.",
+            "shining-pearl": "Durante il giorno sta spesso fermo con i suoi piedi-radici piantati per terra. Di notte se ne va spargendo semi in giro.",
+            "scarlet": "Nome scientifico: \"Oddium Viandantis\". Percorre fino a 300 m in una notte sulle due radici.",
+            "violet": "Gira di notte, svegliandosi con la luce lunare. Di giorno se ne sta tranquillamente sottoterra."
+        }
+    },
     "egg_groups": [
         "Erba"
     ],
     "flat_name": "oddish",
     "generation": 1,
     "height": {
-        "oddish": "0.5 m"
+        "oddish": "0,5 m"
     },
     "id": 43,
     "name": "Oddish",
-    "name_origin": "Il nome è una combinazione di odd  e radish . Potrebbe anche essere un gioco di parole in modo che suoni come oddish, \"un po' strano\". ",
-    "origin": "È basato su una mandragora. ",
+    "name_origin": "Il suo nome potrebbe essere una combinazione di odd  e radish . Potrebbe anche essere un gioco di parole in modo che suoni come oddish, \"un po' strano\". ",
+    "origin": "Oddish sembra essere basato su una mandragora, una pianta le cui radici possono assomigliare a delle figure umane e che sono state oggetto di vari miti. La sua tendenza a urlare quanto estratto dal terreno potrebbe essere un altro riferimento alla mandragora mitologica, che urla nello stesso contesto ma con un grido mortale. Il suo aspetto è simile a quello di una pianta da bulbo, come la cipolla, o una pianta da radice come il ravanello comune o la rapa. Le sue foglie assomigliano a quelle di una sanseveria. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Oddish",
-    "shape": "testa e gambe",
+    "shape": "None",
     "specie": "Pokémon Malerba",
     "sprites": {
         "oddish": {
@@ -56,6 +90,6 @@
         ]
     },
     "weight": {
-        "oddish": "5.4 kg"
+        "oddish": "5,4 kg"
     }
 }

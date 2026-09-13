@@ -22,20 +22,20 @@
             "alpha-sapphire": "Al cambio della stagione, muta la pellicia e l'odore. È un Pokémon che annuncia il passaggio delle stagioni."
         },
         "forma-primavera": {
-            "scarlet": "L’odore dei Deerling cambia con le stagioni. A inizio primavera è delicato, dolce e molto rilassante.",
+            "scarlet": "L'odore dei Deerling cambia con le stagioni. A inizio primavera è delicato, dolce e molto rilassante.",
             "violet": "Sono Pokémon molto carini, ma siccome amano nutrirsi di germogli non sono visti di buon occhio dagli agricoltori."
         },
         "forma-estate": {
             "scarlet": "Per evitare che entri nei campi coltivati, molti agricoltori si servono dei Lycanroc, suoi predatori naturali, per fare la guardia.",
-            "violet": "Il suo odore cambia con le stagioni. Quando emette un particolare profumo di erba fresca, significa che è iniziata l’estate."
+            "violet": "Il suo odore cambia con le stagioni. Quando emette un particolare profumo di erba fresca, significa che è iniziata l'estate."
         },
         "forma-autunno": {
             "scarlet": "Non è timido e si trova a suo agio anche davanti agli esseri umani. Basta dargli da mangiare perché si affezioni.",
             "violet": "Il suo odore cambia con le stagioni. In questa forma, Deerling ha un profumo dolciastro e persistente."
         },
         "forma-inverno": {
-            "scarlet": "L’odore dei Deerling cambia con le stagioni. Quando assumono la Forma Inverno, diventa quasi impercettibile.",
-            "violet": "Quando fa amicizia con qualcuno gioca a dargli delle testate, che fanno un po’ male a causa delle corna nascoste sotto il fiore."
+            "scarlet": "L'odore dei Deerling cambia con le stagioni. Quando assumono la Forma Inverno, diventa quasi impercettibile.",
+            "violet": "Quando fa amicizia con qualcuno gioca a dargli delle testate, che fanno un po' male a causa delle corna nascoste sotto il fiore."
         }
     },
     "egg_groups": [
@@ -44,14 +44,14 @@
     "flat_name": "deerling",
     "generation": 5,
     "height": {
-        "deerling": "0.6 m"
+        "deerling": "0,6 m"
     },
     "id": 585,
     "name": "Deerling",
     "name_origin": "Il nome potrebbe essere la combinazione di deer  e yearling  o sapling , in alternativa potrebbe essere anche la combinazione di dear e darling  due termini d'affetto. ",
     "origin": "Deerling è basato su un cervo del Giappone. Potrebbe alludere inoltre al modo in cui alcuni animali cambiano il pelo in colore o consistenza per adattarsi alla stagione. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Deerling",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Stagione",
     "sprites": {
         "forma-primavera": {
@@ -87,11 +87,11 @@
     },
     "types": {
         "deerling": [
-            "Erba",
-            "Normale"
+            "Normale",
+            "Erba"
         ]
     },
     "weight": {
-        "deerling": "19.5 kg"
+        "deerling": "19,5 kg"
     }
 }

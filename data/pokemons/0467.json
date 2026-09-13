@@ -7,11 +7,8 @@
     },
     "curiosities": [
         "Magmortar, insieme a Electivire, Gliscor e Tangrowth, sono gli unici Pokémon di quarta generazione che richiedono l'uso di un gioco di terza generazione per essere disponibili fino all'uscita di Pokémon Platino. Infatti, sia il Magmatore che Magby sono disponibili solamente tramite l'uso della modalità dual-slot con Pokémon Verde Foglia.",
-        "Magmortar può imparare Tuonopugno in tre maniere differenti: come mossa al livello 1, tramite Insegnamosse e come mossa Uovo. Condivide questa caratteristica con Electivire, che impara Fuocopugno nelle stesse maniere.",
-        "Può essere considerato la controparte di Electivire. Entrambi sono lo stadio evolutivo finale di un Pokémon Baby e si evolvono tramite scambio con strumenti simili. Entrambi hanno una percentuale di 75 maschi su 100 e un tasso di cattura di 30, inoltre entrambi hanno la somma delle statistiche base pari a 540.\n\tL'opposizione tra Magmortar ed Electivire ricorda quella tra Reshiram e Zekrom .",
-        "L'opposizione tra Magmortar ed Electivire ricorda quella tra Reshiram e Zekrom .",
-        "Magmortar è stato disegnato da Hironobu Yoshida.",
-        "Nonostante sia il Pokémon Esplosivo, non può imparare Esplosione."
+        "Può essere considerato la controparte di Electivire. Entrambi sono lo stadio evolutivo finale di un Pokémon Baby e si evolvono tramite scambio con strumenti simili. Entrambi hanno una percentuale di 75 maschi su 100 e un tasso di cattura di 30, inoltre entrambi hanno la somma delle statistiche base pari a 540.",
+        "Magmortar è stato disegnato da Hironobu Yoshida."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/magmortar.mp3",
     "dex_entries": {
@@ -19,8 +16,8 @@
             "diamond": "Spara palle di fuoco di oltre 2000°C dagli arti superiori. Vive nei crateri dei vulcani.",
             "pearl": "Spara palle di fuoco di oltre 2000°C dagli arti superiori. Vive nei crateri dei vulcani.",
             "platinum": "Spara palle di fuoco di oltre 2000°C e il corpo assume una tinta bianca a causa del calore intenso.",
-            "heartgold": "Spara palle di fuoco di oltre 2000ºC dagli arti superiori. L'aria che espira è incandescente.",
-            "soulsilver": "Spara palle di fuoco di oltre 2000°C dagli arti superiori. L'aria che espira è incandescente.",
+            "heart-gold": "Spara palle di fuoco di oltre 2000ºC dagli arti superiori. L'aria che espira è incandescente.",
+            "soul-silver": "Spara palle di fuoco di oltre 2000°C dagli arti superiori. L'aria che espira è incandescente.",
             "black": "Spara palle di fuoco di oltre 2000°C e il corpo assume una tinta bianca a causa del calore intenso.",
             "white": "Spara palle di fuoco di oltre 2000°C e il corpo assume una tinta bianca a causa del calore intenso.",
             "black-2": "Spara palle di fuoco di oltre 2000°C e il suo corpo assume una tinta bianca a causa del calore intenso.",
@@ -37,7 +34,9 @@
             "shield": "Vivendo nei crateri il suo corpo è diventato simile a un vulcano, sviluppando un organo analogo a una camera magmatica.",
             "brilliant-diamond": "Spara palle di fuoco di oltre 2.000 ºC dagli arti superiori. Vive nei crateri dei vulcani.",
             "shining-pearl": "Spara palle di fuoco di oltre 2.000 ºC dagli arti superiori. Vive nei crateri dei vulcani.",
-            "legends-arceus": "Si è evoluto per mezzo di un singolare strumento. L'incandescenza dei globi infuocati eiettati dalle membra cilindriche è tale da fondere tosto persino un tegame di ferro."
+            "legends-arceus": "Si è evoluto per mezzo di un singolare strumento. L'incandescenza dei globi infuocati eiettati dalle membra cilindriche è tale da fondere tosto persino un tegame di ferro.",
+            "scarlet": "Quando spara palle di fuoco di oltre 2.000 ºC dagli arti superiori, il suo corpo assume una tinta biancastra a causa del calore intenso.",
+            "violet": "Vive nei crateri vulcanici. Sembra che in ogni vulcano possa abitare solo una coppia di Magmortar."
         }
     },
     "egg_groups": [
@@ -46,21 +45,21 @@
     "flat_name": "magmortar",
     "generation": 4,
     "height": {
-        "magmortar": "1.6 m"
+        "magmortar": "1,6 m"
     },
     "id": 467,
     "name": "Magmortar",
-    "name_origin": "Il nome è una combinazione tra la parola magma e la parola inglese mortar . Il nome giapponese Booburn è una combinazione tra le parole booby , burn  ed eventualmente boom . ",
-    "origin": "Magmortar sembrerebbe essere una combinazione tra un'anatra, una sula e una salamandra. Si basa con tutta probabilità sulla figura mitologica del Karura. Le braccia si aprono come dei cannoni. ",
+    "name_origin": "Magmortar potrebbe derivare da magma e mortar, mortaio, un'arma di artiglieria. Booburn, il suo nome giapponese, potrebbe derivare da booby, sula, e burn, bruciare. ",
+    "origin": "Magmortar sembra una versione più grande di un Karura. Condivide tratti con anatre e sula, insieme ad una salamandra mitologica. Le spine sulla schiena ricordano quelle delle iguane. Le sue braccia si aprono come dei cannoni ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Magmortar",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Esplosivo",
     "sprites": {
         "magmortar": {
             "default": "https://media.pokemoncentral.it/wiki/f/f4/Homem0467.png",
             "shiny": "https://media.pokemoncentral.it/wiki/b/b8/Homemsh0467.png"
         },
-        "official_artwork": "https://media.pokemoncentral.it/wiki/f/ff/Artwork0467_DLPS.png"
+        "official_artwork": "https://media.pokemoncentral.it/wiki/9/95/Artwork0467_DP.png"
     },
     "stats": {
         "magmortar": {
@@ -81,6 +80,6 @@
         ]
     },
     "weight": {
-        "magmortar": "68.0 kg"
+        "magmortar": "68,0 kg"
     }
 }

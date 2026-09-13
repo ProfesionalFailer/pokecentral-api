@@ -7,7 +7,8 @@
         }
     },
     "curiosities": [
-        "Palpitoad condivide la sua categoria con Vibrava e Seismitoad. Sono tutti conosciuti come Pokémon Vibrazione."
+        "Palpitoad e la sua evoluzione condividono il nome della specie con Vibrava: sono tutti conosciuti come Pokémon Vibrazione.",
+        "Tympole e Palpitoad sono stati disegnati partendo dal design di Seismitoad."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/palpitoad.mp3",
     "dex_entries": {
@@ -30,14 +31,14 @@
     "flat_name": "palpitoad",
     "generation": 5,
     "height": {
-        "palpitoad": "0.8 m"
+        "palpitoad": "0,8 m"
     },
     "id": 536,
     "name": "Palpitoad",
-    "name_origin": "Il suo nome deriva probabilmente dalle parole inglesi palpitation  e toad . ",
-    "origin": "Probabilmente si ispira al girino di un rospo e a un altoparlante. I rigonfiamenti sulle guance sono tipici delle rane, ma ricordano anche delle cuffie per ascoltare la musica. Le sfere sul suo corpo invece hanno un'aspetto simile alle verruche delle rane, o alle loro ghiandole velenose, oppure potrebbero essere basate sulla rana del Surinam, che sul dorso ha delle sacche per contenere le uova e che inoltre, come Palpitoad, produce vibrazioni subacquee. ",
+    "name_origin": "Palpitoad potrebbe derivare da palpitation, palpitazione, e toad, rospo. Gamagaru, il suo nome giapponese, potrebbe derivare da 蝦蟇 gamagaeru, rospo comune giapponese. ",
+    "origin": "Tympole sembra essere ispirato a un girino di rospo e ad un altoparlante. I suoi rigonfiamenti ricordano delle cuffie, oltre che le ghiandole partoidi dei rospi, o dei timpani che nelle rane sono collocati nella stessa zona ai lati della testa. La connessione tra un rospo e apparati acustici potrebbe derivare da come i maschi di questi animali richiamano altri esemplari per accoppiarsi. Potrebbe inoltre essere ispirato al Pipa pipa, anfibio la cui schiena è dotata di tasche dove vengono contenute le uova. La voce Pokédex menziona la sua abilità di creare vibrazioni nell'acqua, in modo simile a come il Pipa pipa può percepire vibrazioni sott'acqua. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Palpitoad",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Vibrazione",
     "sprites": {
         "palpitoad": {
@@ -61,11 +62,11 @@
     },
     "types": {
         "palpitoad": [
-            "Terra",
-            "Acqua"
+            "Acqua",
+            "Terra"
         ]
     },
     "weight": {
-        "palpitoad": "17.0 kg"
+        "palpitoad": "17,0 kg"
     }
 }

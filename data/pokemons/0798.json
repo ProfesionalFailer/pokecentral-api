@@ -5,12 +5,11 @@
         }
     },
     "curiosities": [
-        "Kartana ha la più alta statistica base di Attacco di tutti i Pokémon senza considerare Megaevoluzioni, abilità o Mosse.",
-        "A pari merito con Ferrothorn ha la statistica base di Difesa più alta di tutti i Pokémon di tipo Erba.\n\tCuriosamente, entrambi posseggono la stessa combinazione di tipi.",
-        "Curiosamente, entrambi posseggono la stessa combinazione di tipi.",
-        "Con solo 0.1 kg, Kartana è assieme a Gastly, Haunter, Flabébé e Cosmog il Pokémon più leggero di tutti.",
-        "Ha anche la statistica base di Difesa Speciale più bassa di tutti i Pokémon di tipo Acciaio.",
-        "Data la rimozione della MN01, Taglio, Kartana è l'unico Pokémon di settima generazione a poterla apprendere, in quanto la impara per livello."
+        "Kartana ha la statistica base di Attacco più alta tra tutti i Pokémon di tipo Erba e Acciaio ed è a pari merito con Ferrothorn per la statistica base di Difesa più alta tra tutti i Pokémon di tipo Erba.",
+        "Kartana è il Pokémon di tipo Erba e Acciaio più leggero.",
+        "Kartana ha la statistica base di Difesa Speciale più bassa tra tutti i Pokémon di tipo Acciaio.",
+        "In Pokémon Sole e Luna, Kartana ha un tasso di cattura di 255 e una cessione di esperienza base di 114.\n\tPoiché le UC Ball hanno un modificatore del tasso di cattura di 5x per le Ultracreature, non si può mai fallire la cattura di un Kartana in Sole e Luna.",
+        "Poiché le UC Ball hanno un modificatore del tasso di cattura di 5x per le Ultracreature, non si può mai fallire la cattura di un Kartana in Sole e Luna."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/kartana.mp3",
     "dex_entries": {
@@ -28,14 +27,14 @@
     "flat_name": "kartana",
     "generation": 7,
     "height": {
-        "kartana": "0.3 m"
+        "kartana": "0,3 m"
     },
     "id": 798,
     "name": "Kartana",
     "name_origin": "Kartana può essere una combinazione di Katana e carta. Kamitsurugi deriva da 紙 kami , 神 kami  e 剣 tsurugi . UC 04 Sectio è una combinazione tra UC, sigla di Ultracreatura, 04 e la parola latina Sectio . ",
     "origin": "Kartana può essere basato su un Origami e un Samurai. In particolare, ha una forte somiglianza con il noshi, un origami cerimoniale usato per accompagnare i regali di congratulazioni come segno di buona fortuna. Potrebbe anche essere un riferimento agli shikigami, figure di carta tagliate nella forma di una persona o animale e intrise di potere spirituale, create secondo le tecniche del taoismo esoterico per scacciare o invocare maledizioni, o eseguire gli ordini di chi le ha create. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Kartana",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Spadatratta",
     "sprites": {
         "kartana": {
@@ -64,6 +63,6 @@
         ]
     },
     "weight": {
-        "kartana": "0.1 kg"
+        "kartana": "0,1 kg"
     }
 }

@@ -7,25 +7,53 @@
         }
     },
     "curiosities": [
-        "Sentret, Patrat e Growlithe di Hisui sono noti come Pokémon Esplorante.",
+        "Sentret condivide il nome della specie con Patrat e Growlithe di Hisui. Sono tutti e tre noti come Pokémon Esplorante.",
         "Sentret è l'unico Pokémon ad avere la somma delle statistiche base pari a 215."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/sentret.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "sentret": {
+            "gold": "È un POKéMON molto cauto, che si alza da terra con la coda per scrutare i dintorni.",
+            "silver": "Ritto sulla coda, guarda lontano. Se nota un nemico fa forti versi per avvertire quelli della sua specie.",
+            "crystal": "La vedetta avverte i suoi compagni del pericolo gridando e battendo la coda sul terreno.",
+            "ruby": "SENTRET dorme soltanto se un suo simile rimane vigile. La vedetta allerta gli altri al primo segnale di pericolo. Se viene allontanato dal branco, questo POKéMON non riesce più a dormire dalla paura.",
+            "sapphire": "SENTRET dorme soltanto se un suo simile rimane vigile. La vedetta allerta gli altri al primo segnale di pericolo. Se viene allontanato dal branco, questo POKéMON non riesce più a dormire dalla paura.",
+            "emerald": "SENTRET dorme soltanto se un suo simile rimane vigile. La vedetta allerta gli altri del pericolo. Se viene allontanato dal branco, non dorme più dalla paura.",
+            "fire-red": "Ritto sulla coda, guarda lontano. Se nota un nemico lancia forti grida per avvertire i suoi simili.",
+            "leaf-green": "È un POKéMON molto cauto, che si alza da terra con la coda per scrutare i dintorni.",
+            "diamond": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "pearl": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "platinum": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "heart-gold": "Pokémon molto cauto. Si alza da terra con la coda per scrutare i dintorni.",
+            "soul-silver": "Ritto sulla coda, guarda lontano. Se nota un nemico lancia forti richiami per avvertire quelli della sua specie.",
+            "black": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "white": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "black-2": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "white-2": "Ha un'indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "x": "La vedetta avverte i suoi compagni del pericolo gridando e battendo la coda sul terreno.",
+            "y": "Ritto sulla coda, guarda lontano. Se nota un nemico lancia forti richiami per avvertire quelli della sua specie.",
+            "omega-ruby": "Sentret dorme soltanto se un suo simile rimane vigile. La vedetta allerta gli altri al primo segnale di pericolo. Se viene allontanato dal branco, questo Pokémon non riesce più a dormire dalla paura.",
+            "alpha-sapphire": "Sentret dorme soltanto se un suo simile rimane vigile. La vedetta allerta gli altri al primo segnale di pericolo. Se viene allontanato dal branco, questo Pokémon non riesce più a dormire dalla paura.",
+            "brilliant-diamond": "Ha un’indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "shining-pearl": "Ha un’indole alquanto nervosa. Sta ritto sulla punta della coda per riuscire a sorvegliare ampie aree.",
+            "scarlet": "Un Pokémon sempre all'erta. L'agile coda è muscolosa e dura al tatto.",
+            "violet": "Quando s'imbatte in un nemico, cerca di intimidirlo sollevandosi sulla coda per apparire più grande."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "sentret",
     "generation": 2,
     "height": {
-        "sentret": "0.8 m"
+        "sentret": "0,8 m"
     },
     "id": 161,
     "name": "Sentret",
-    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi sentry, sentinella, e ferret, furetto. ",
-    "origin": "Basato sullo scoiattolo volante o sul tanuki, fa parte della mitologia del Giappone sin da tempi antichi; si ritiene che siano maliziosi e scherzosi, maestri del travestimento e mutaforma, ma in qualche modo ingenui e distratti. ",
+    "name_origin": "Sentret potrebbe derivare dall'unione delle parole inglesi sentry, sentinella, e ferret, furetto. ",
+    "origin": "Sentret ha comportamenti più simili a quelli di un suricato che di un furetto, come suggerirebbe il nome. Il suo aspetto ricorda quello di un tanuki, un tipo di Yōkai con grandi pancie associati al Nyctereutes viverrinus, chiamato appunto tanuki in giapponese. Condivide anche tratti con conigli, scoiattoli volanti , e con il petauro dello zucchero. La sua coda ad anelli potrebbe derivare da quella di un Notocitellus annulatus, di un procione o di un tanuki. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Sentret",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Esplorante",
     "sprites": {
         "sentret": {
@@ -53,6 +81,6 @@
         ]
     },
     "weight": {
-        "sentret": "6.0 kg"
+        "sentret": "6,0 kg"
     }
 }

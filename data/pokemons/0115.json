@@ -10,7 +10,8 @@
         }
     },
     "curiosities": [
-        "In Pokémon Rosso e Blu era una delle evoluzioni di 'M.",
+        "In Pokémon Rosso e Blu era una delle evoluzioni di 'M.\n\tGrazie a questa particolarità può avere accesso alla mossa Aeroattacco.",
+        "Grazie a questa particolarità può avere accesso alla mossa Aeroattacco.",
         "È uno dei pochi Pokémon di prima generazione a non avere ancora nessuna evoluzione. Gli altri sono Farfetch'd, Pinsir, Tauros, Lapras, Ditto e Aerodactyl.\n\tIn sesta generazione però Kangaskhan, insieme a Pinsir e Aerodactyl, ha ottenuto una Megaevoluzione, mentre in ottava generazione, Farfetch'd di Galar può evolversi in Sirfetch'd.",
         "In sesta generazione però Kangaskhan, insieme a Pinsir e Aerodactyl, ha ottenuto una Megaevoluzione, mentre in ottava generazione, Farfetch'd di Galar può evolversi in Sirfetch'd.",
         "Nella Forma Mega il piccolo risulta più cresciuto, mentre invece la madre non subisce alcuna modifica.",
@@ -20,21 +21,66 @@
         "Dalla settima generazione anche Wishiwashi nella forma Banco condivide questa peculiarità, essendo composto da molti esemplari."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/kangaskhan.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "kangaskhan": {
+            "red": "Normalmente il cucciolo non esce dal marsupio protettivo della madre fino all'età di 3 anni.",
+            "blue": "Normalmente il cucciolo non esce dal marsupio protettivo della madre fino all'età di 3 anni.",
+            "yellow": "Il suo cucciolo cresce dentro al marsupio. È pronto a qualsiasi lotta pur di proteggerlo.",
+            "gold": "Se è al sicuro, il piccolo esce dal marsupio e inizia a giocare sotto gli occhi vigili dell'adulto.",
+            "silver": "Per proteggere i piccoli non si arrende mai nella lotta, per quanto gravi siano le sue ferite.",
+            "crystal": "Dorme sempre in piedi per non disturbare il piccolo che porta dentro al marsupio.",
+            "ruby": "Vedendo un cucciolo di KANGASKHAN giocare per conto suo, non bisogna mai disturbarlo o cercare di catturarlo. Il suo genitore, infatti, è sicuramente nei paraggi e potrebbe reagire molto violentemente.",
+            "sapphire": "Vedendo un cucciolo di KANGASKHAN giocare per conto suo, non bisogna mai disturbarlo o cercare di catturarlo. Il suo genitore, infatti, è sicuramente nei paraggi e potrebbe reagire molto violentemente.",
+            "emerald": "È meglio non disturbare mai un cucciolo di KANGASKHAN cercando di prenderlo. Il suo genitore, infatti, è sicuramente lì vicino e potrebbe reagire in modo violento.",
+            "fire-red": "La femmina tiene i cuccioli nel marsupio che ha sulla pancia. Molto abile nell'uso di COMETAPUGNO.",
+            "leaf-green": "Normalmente il cucciolo non esce dal marsupio protettivo della madre fino all'età di 3 anni.",
+            "diamond": "Tiene il cucciolo nel marsupio che ha sulla pancia e lo lascia uscire solo quando non ci sono pericoli.",
+            "pearl": "Tiene il cucciolo nel marsupio che ha sulla pancia e lo lascia uscire solo quando non ci sono pericoli.",
+            "platinum": "Tiene il cucciolo nel marsupio che ha sulla pancia e lo lascia uscire solo quando non ci sono pericoli.",
+            "heart-gold": "Se è al sicuro, il piccolo esce dal marsupio e inizia a giocare sotto gli occhi vigili dell’adulto.",
+            "soul-silver": "Per proteggere i piccoli non si arrende mai nella lotta; poco importa quanto gravi siano le sue ferite.",
+            "black": "Tiene il cucciolo nel marsupio che ha sulla pancia e lo lascia uscire solo quando non ci sono pericoli.",
+            "white": "Tiene il cucciolo nel marsupio che ha sulla pancia e lo lascia uscire solo quando non ci sono pericoli.",
+            "black-2": "Tiene il cucciolo nel marsupio che ha sulla pancia e lo lascia uscire solo quando non ci sono pericoli.",
+            "white-2": "Tiene il cucciolo nel marsupio che ha sulla pancia e lo lascia uscire solo quando non ci sono pericoli.",
+            "x": "Tiene il cucciolo nel marsupio che ha sulla pancia e lo lascia uscire solo quando non ci sono pericoli.",
+            "y": "Se è al sicuro, il piccolo esce dal marsupio e inizia a giocare sotto gli occhi vigili dell'adulto.",
+            "omega-ruby": "Vedendo un cucciolo di Kangaskhan giocare per conto suo, non bisogna mai disturbarlo o cercare di catturarlo. Il suo genitore, infatti, è sicuramente nei paraggi e potrebbe reagire molto violentemente.",
+            "alpha-sapphire": "Vedendo un cucciolo di Kangaskhan giocare per conto suo, non bisogna mai disturbarlo o cercare di catturarlo. Il suo genitore, infatti, è sicuramente nei paraggi e potrebbe reagire molto violentemente.",
+            "sun": "L'amore materno di Kangaskhan è molto profondo. Non esiterebbe a mettere in pericolo la propria vita pur di proteggere il suo piccolo.",
+            "moon": "Il cucciolo esce dal marsupio verso i tre anni ed è l’unico momento in cui la madre si lascia sfuggire possenti grida.",
+            "ultra-sun": "Protegge il proprio cucciolo tenendolo nel marsupio che ha sulla pancia e attacca furiosamente chiunque osi ferirlo.",
+            "ultra-moon": "Non bisogna avvicinarsi a un cucciolo che gioca fuori dal marsupio: la madre è sempre nei paraggi e vigila attenta su di lui.",
+            "lets-go-pikachu": "Cresce il suo cucciolo dentro al marsupio. È pronto a qualsiasi lotta pur di proteggerlo.",
+            "lets-go-eevee": "Cresce il suo cucciolo dentro al marsupio. È pronto a qualsiasi lotta pur di proteggerlo.",
+            "sword": "Ha un agile gioco di gambe, nonostante si porti appresso il cucciolo nel marsupio ventrale. Intimidisce gli avversari con jab velocissimi.",
+            "shield": "Alcuni documenti parlano di Kangaskhan senza cuccioli che hanno allevato bambini umani dispersi.",
+            "legends-za": "Alleva il suo piccolo nel marsupio sul ventre, lasciandolo uscire per giocare solo quando non ci sono pericoli."
+        },
+        "megakangaskhan": {
+            "sun": "La sua forza nasce dalla gioia materna che prova nel vedere il suo piccolo crescere sano grazie ai propri sforzi.",
+            "moon": "Con la megaevoluzione, il suo piccolo è cresciuto diventando molto competitivo e sua madre è preoccupata per il suo futuro.",
+            "ultra-sun": "Avendo assorbito una quantità esorbitante di energia, il piccolo è cresciuto di colpo, facendo impensierire molto la madre.",
+            "ultra-moon": "Guardando il suo piccolo cresciuto grazie alla megaevoluzione, la madre comincia a pensare che un giorno dovrà separarsi da lui.",
+            "lets-go-pikachu": "Il piccolo è cresciuto di colpo grazie all'energia della megaevoluzione e lotta insieme alla madre in un gioco di squadra che lascia senza fiato.",
+            "lets-go-eevee": "Il piccolo è cresciuto di colpo grazie all'energia della megaevoluzione e lotta insieme alla madre in un gioco di squadra che lascia senza fiato.",
+            "legends-za": "Il piccolo è cresciuto di colpo grazie all'energia della megaevoluzione e lotta insieme alla madre in un gioco di squadra che lascia senza fiato."
+        }
+    },
     "egg_groups": [
         "Mostro"
     ],
     "flat_name": "kangaskhan",
     "generation": 1,
     "height": {
-        "kangaskhan": "2.2 m"
+        "kangaskhan": "2,2 m"
     },
     "id": 115,
     "name": "Kangaskhan",
-    "name_origin": "Il suo nome potrebbe derivare dall'unione della parola inglese kangaroo, canguro, con l'appellativo nobiliare di origine mongola Khan, monarca. Il suo nome giapponese, ガルーラ Garūra, probabilmente deriva dall'unione di garuu, canguro, e gojira, nome giapponese di Godzilla. ",
-    "origin": "Kangaskhan sembra essere basato su un canguro con il cucciolo nel suo marsupio. ",
+    "name_origin": "Il suo nome potrebbe derivare dall'unione della parola inglese kangaroo, canguro, con l'appellativo nobiliare di origine mongola Khan, monarca, possibilmente in riferimento a Gengis Khan. Il suo nome giapponese, ガルーラ Garūra, probabilmente deriva dall'unione di garuu, canguro, e ruler, regnante. ",
+    "origin": "Kangaskhan sembra essere basata su un canguro con degli elementi di un'armatura laminare mongola. Il suo aspetto potrebbe anche essere basato su un kaiju. Il fatto che Stordipugno era la mossa esclusiva di questo Pokémon potrebbe essere un riferimento ai cartoni animati, in cui i canguri sono spesso raffigurati come pugili. Potrebbe anche essere basata su un canguro arboricolo, data la corporatura più tozza, la faccia più larga e artigli più lunghi rispetto ad un canguro normale, o ad un procoptoda, un gene di canguro estinto di cui faceva parte la specie P. goliah, la specie di canguro più grande mai vissuta. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Kangaskhan",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Genitore",
     "sprites": {
         "kangaskhan": {
@@ -75,7 +121,7 @@
         ]
     },
     "weight": {
-        "kangaskhan": "80.0 kg",
-        "megakangaskhan": "100.0 kg"
+        "kangaskhan": "80,0 kg",
+        "megakangaskhan": "100,0 kg"
     }
 }

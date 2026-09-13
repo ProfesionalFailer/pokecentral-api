@@ -16,14 +16,18 @@
         "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
         "Pokémon di Gruppo Uova Campo",
         "Pokémon che non fanno parte di una linea di evoluzione",
-        "Pokémon con statistiche base totali di 480"
+        "Pokémon con statistiche base totali di 480",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti",
+        "Pokémon dominanti "
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/orthworm.mp3",
     "dex_entries": {
         "orthworm": {
             "scarlet": "Quando viene assalito da un nemico, fa vibrare le ciglia laterali per investirlo con una tempesta di pugni.",
             "violet": "Vive in zone sabbiose dal clima secco. Si nutre del ferro contenuto nel terreno per sostentare il suo corpo metallico."
-        }
+        },
+        "": {}
     },
     "egg_groups": [
         "Campo"
@@ -31,14 +35,14 @@
     "flat_name": "orthworm",
     "generation": 9,
     "height": {
-        "orthworm": "2.5 m"
+        "orthworm": "2,5 m"
     },
     "id": 968,
     "name": "Orthworm",
-    "name_origin": "Orthworm potrebbe essere una combinazione di ore  ed earthworm . Mimizuzu potrebbe essere una combinazione di 蚯蚓 mimizu  e 埋める uzumeru . ",
-    "origin": "",
+    "name_origin": "Orthworm potrebbe essere una combinazione di ore  o orthoclase ed earthworm . Mimizuzu potrebbe essere una combinazione di 蚯蚓 mimizu  e 埋める uzumeru . ",
+    "origin": "Orthworm sembra essere basato sui lombrichi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Orthworm",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Lombrico",
     "sprites": {
         "orthworm": {
@@ -66,6 +70,6 @@
         ]
     },
     "weight": {
-        "orthworm": "310.0 kg"
+        "orthworm": "310,0 kg"
     }
 }

@@ -3,6 +3,9 @@
         "victreebel": {
             "primary": "Clorofilla",
             "hidden": "Voracità"
+        },
+        "megavictreebel": {
+            "primary": "Espellinterno"
         }
     },
     "curiosities": [
@@ -21,13 +24,13 @@
             "ruby": "VICTREEBEL è dotato di una lunga liana che parte dalla testa. Il POKéMON la sventola e la agita come fosse un'esca per attirare la preda. Quando la preda ignara si avvicina, il POKéMON la inghiotte in un sol boccone.",
             "sapphire": "VICTREEBEL è dotato di una lunga liana che parte dalla testa. Il POKéMON la sventola e la agita come fosse un'esca per attirare la preda. Quando la preda ignara si avvicina, il POKéMON la inghiotte in un sol boccone.",
             "emerald": "VICTREEBEL è dotato di una lunga liana che parte dalla testa. La sventola come un'esca per attirare l'ignara preda che inghiottirà in un sol boccone.",
-            "firered": "Attira la preda verso la bocca servendosi di un aroma simile al miele, per poi dissolverla con un solvente.",
-            "leafgreen": "Pare che viva in grandi colonie nel cuore della giungla, ma nessuno è mai tornato da lì per raccontarlo.",
+            "fire-red": "Attira la preda verso la bocca servendosi di un aroma simile al miele, per poi dissolverla con un solvente.",
+            "leaf-green": "Pare che viva in grandi colonie nel cuore della giungla, ma nessuno è mai tornato da lì per raccontarlo.",
             "diamond": "Tiene in bocca un liquido dall'aroma simile al miele, che in realtà è un acido altamente corrosivo.",
             "pearl": "Tiene in bocca un liquido dall'aroma simile al miele, che in realtà è un acido altamente corrosivo.",
             "platinum": "Tiene in bocca un liquido dall'aroma simile al miele, che in realtà è un acido altamente corrosivo.",
-            "heartgold": "L’acido si fa più dolce dopo avervi dissolto molte prede. Così attrae nuove prede ancora più facilmente.",
-            "soulsilver": "Questo spaventoso Pokémon simile ad una pianta attrae le prede con miele profumato e se le scioglie in bocca.",
+            "heart-gold": "L’acido si fa più dolce dopo avervi dissolto molte prede. Così attrae nuove prede ancora più facilmente.",
+            "soul-silver": "Questo spaventoso Pokémon simile ad una pianta attrae le prede con miele profumato e se le scioglie in bocca.",
             "black": "Tiene in bocca un liquido dall'aroma simile al miele, che in realtà è un acido altamente corrosivo.",
             "white": "Tiene in bocca un liquido dall'aroma simile al miele, che in realtà è un acido altamente corrosivo.",
             "black-2": "Tiene in bocca un liquido dall'aroma simile al miele, che in realtà è un acido altamente corrosivo.",
@@ -39,7 +42,11 @@
             "lets-go-pikachu": "Attira le prede con il dolce aroma del miele, le inghiotte e nel giro di un giorno le scioglie completamente, ossa incluse.",
             "lets-go-eevee": "Attira le prede con il dolce aroma del miele, le inghiotte e nel giro di un giorno le scioglie completamente, ossa incluse.",
             "scarlet": "Servendosi di un aroma simile a quello del nettare, attira inesorabilmente la preda nella bocca per poi scioglierla con un solvente.",
-            "violet": "Dissolvendo una gran quantità di prede, il suo acido si fa più dolce. Ciò gli permette di attirarne altre con più facilità."
+            "violet": "Dissolvendo una gran quantità di prede, il suo acido si fa più dolce. Ciò gli permette di attirarne altre con più facilità.",
+            "legends-za": "Qualunque cosa resti intrappolata dentro il suo corpo, fosse anche la più dura al mondo, svanisce nell'acido senza lasciar traccia."
+        },
+        "megavictreebel": {
+            "legends-za": "Con la megaevoluzione il volume dell'acido nella sua bocca è aumentato fino a riempirla del tutto. Se si distrae, ne fuoriesce un po'."
         }
     },
     "egg_groups": [
@@ -48,19 +55,24 @@
     "flat_name": "victreebel",
     "generation": 1,
     "height": {
-        "victreebel": "1.7 m"
+        "victreebel": "1,7 m",
+        "megavictreebel": "4,5 m"
     },
     "id": 71,
     "name": "Victreebel",
-    "name_origin": "Il nome Victreebel sembra essere una combinazione di bell , che si riferisca alla sua forma, e victory . Le due E nel nome potrebbero anche derivare dalla parola tree . Il suo nome giapponese è basato su 靫葛 utsubokazura, o \"pianta carnivora\". Può inoltre contenere il simbolo giapponese 壷 tsubo, che significa bottiglia, o ポット, pot , in riferimento alla sua forma. ",
-    "origin": "Victreebel e le sue pre-evoluzioni sembrano basate su piante carnivore, precisamente Victreebel sembra basato sulla Nephentes. ",
+    "name_origin": "Victreebel sembra essere una combinazione di bell , tree  e victory . L'abbreviazione di bell in bel deriva dal limite di lunghezza dei nomi a dieci caratteri. Utsubot, il suo nome giapponese, potrebbe derivare da 靫葛 utsubokazura, Nepenthes, e pot, vaso. ",
+    "origin": "Victreebel sembra essere basato su una pianta del gene Nepenthes. Le labbra blu della sua colorazione cromatica sembrano derivare dal colore che questa piante assumono sotto luce ultravioletta. MegaVictreebel sembra essere basato specificamente su una pianta Nepenthes la cui parte inferiore è situata sul terreno. Il modo in cui tiene la propria bocca chiusa è simile al fatto che molte piante Nepenthes presentano viticci arrotolati, come nella Nepenthes mirabilis. Presenta somiglianze anche con una zucca a fiasco o con un otre. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Victreebel",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Moschivoro",
     "sprites": {
         "victreebel": {
             "default": "https://media.pokemoncentral.it/wiki/d/d1/Homem0071.png",
             "shiny": "https://media.pokemoncentral.it/wiki/e/e7/Homemsh0071.png"
+        },
+        "megavictreebel": {
+            "default": "https://media.pokemoncentral.it/wiki/e/e5/Homem0071M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/4/46/Homemsh0071M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/1/1a/Artwork0071_RFVF.png"
     },
@@ -72,10 +84,19 @@
             "spa": 100,
             "spd": 70,
             "spe": 70
+        },
+        "megavictreebel": {
+            "hp": 80,
+            "atk": 125,
+            "def": 85,
+            "spa": 135,
+            "spd": 95,
+            "spe": 70
         }
     },
     "stats_sum": {
-        "victreebel": 490
+        "victreebel": 490,
+        "megavictreebel": 590
     },
     "types": {
         "victreebel": [
@@ -84,6 +105,7 @@
         ]
     },
     "weight": {
-        "victreebel": "15.5 kg"
+        "victreebel": "15,5 kg",
+        "megavictreebel": "125,5 kg"
     }
 }

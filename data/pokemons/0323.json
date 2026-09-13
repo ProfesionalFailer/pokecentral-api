@@ -10,14 +10,9 @@
         }
     },
     "curiosities": [
-        "Prima della sesta generazione Numel e Camerupt avevano una combinazione di tipi unica.",
-        "Secondo i Pokédex di Pokémon Smeraldo, Oro HeartGold e Argento SoulSilver i vulcani di Camerupt eruttano ogni dieci anni, mentre quelli di Zaffiro, Rosso Fuoco e Verde Foglia affermano che eruttano ogni volta che lui è arrabbiato, come viene mostrato nell'anime. Quella di Rubino e di Rubino Omega invece dice che eruttano ogni tanto. Infine, la descrizione di Pokémon Nero 2 e Bianco 2 dice che erutta in tutti i casi sopracitati.",
-        "La linea evolutiva di Camerupt può essere considerata la controparte di quella di Sharpedo:\n\tSono classificati in posizioni vicine nel Pokédex.\n\tSia Numel e Carvanha che Camerupt e Sharpedo hanno lo stesso valore di statistiche totali.\n\tSono rispettivamente i Pokémon principali dei Capi del Team Magma  e del Team Idro .\n\tSia Camerupt che Sharpedo hanno ricevuto una megaevoluzione in sesta generazione.",
-        "Sono classificati in posizioni vicine nel Pokédex.",
-        "Sia Numel e Carvanha che Camerupt e Sharpedo hanno lo stesso valore di statistiche totali.",
-        "Sono rispettivamente i Pokémon principali dei Capi del Team Magma  e del Team Idro .",
-        "Sia Camerupt che Sharpedo hanno ricevuto una megaevoluzione in sesta generazione.",
-        "Camerupt è il Pokémon non leggendario di tipo Fuoco più pesante."
+        "MegaCamerupt è alla pari con Slugma, Torkoal e Litwick per la statistica di Velocità più bassa tra i Pokémon di tipo Fuoco.",
+        "La linea evolutiva di Numel può essere considerata un parallelo di quella di Carvanha: entrambi i Pokémon hanno un doppio tipo, hanno le stesse statistiche totali ad ogni stadio evolutivo, sono usate rispettivamente dal capo del Team Magma Max e del Team Idro Ivan, ed entrambe le loro evoluzioni possono Megaevolvere.",
+        "Camerupt è l'unico Pokémon non di tipo roccia a poter avere l'abilità Solidroccia."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/camerupt.mp3",
     "dex_entries": {
@@ -25,13 +20,13 @@
             "ruby": "CAMERUPT ha un vulcano all'interno del proprio corpo. Nelle sue vene scorre magma liquido a 10.000 gradi centigradi. Talvolta le gobbe che ha sulla schiena eruttano, espellendo magma rovente.",
             "sapphire": "Le gobbe sulla schiena di CAMERUPT si sono formate dalla trasformazione delle sue ossa. Talvolta emettono magma fuso. Pare che questo POKéMON erutti spesso quando è infuriato.",
             "emerald": "CAMERUPT vive in un cratere e ha a sua volta dei vulcani sul dorso che eruttano ogni 10 anni. Non si conoscono ancora le cause di questa violenta eruzione.",
-            "firered": "Vive nei crateri dei vulcani. Se è adirato, erutta una pioggia di lava fusa dalle gobbe sul dorso.",
-            "leafgreen": "Vive nei crateri dei vulcani. Se è adirato, erutta una pioggia di lava fusa dalle gobbe sul dorso.",
+            "fire-red": "Vive nei crateri dei vulcani. Se è adirato, erutta una pioggia di lava fusa dalle gobbe sul dorso.",
+            "leaf-green": "Vive nei crateri dei vulcani. Se è adirato, erutta una pioggia di lava fusa dalle gobbe sul dorso.",
             "diamond": "Ha dei vulcani sul dorso. Se il magma nel suo corpo aumenta, trema e poi erutta violentemente.",
             "pearl": "Ha dei vulcani sul dorso. Se il magma nel suo corpo aumenta, trema e poi erutta violentemente.",
             "platinum": "Ha dei vulcani sul dorso. Se il magma nel suo corpo aumenta, trema e poi erutta violentemente.",
-            "heartgold": "Vive nei crateri dei vulcani. È noto per l’eruzione gigante delle sue gobbe, che avviene ogni dieci anni.",
-            "soulsilver": "Vive nei crateri dei vulcani. È noto per l’eruzione gigante delle sue gobbe, che avviene ogni dieci anni.",
+            "heart-gold": "Vive nei crateri dei vulcani. È noto per l'eruzione gigante delle sue gobbe, che avviene ogni dieci anni.",
+            "soul-silver": "Vive nei crateri dei vulcani. È noto per l'eruzione gigante delle sue gobbe, che avviene ogni dieci anni.",
             "black": "Ha dei vulcani sul dorso. Se il magma nel suo corpo aumenta, trema e poi erutta violentemente.",
             "white": "Ha dei vulcani sul dorso. Se il magma nel suo corpo aumenta, trema e poi erutta violentemente.",
             "black-2": "I vulcani sul suo dorso eruttano ogni dieci anni, o quando è veramente arrabbiato.",
@@ -43,7 +38,11 @@
             "brilliant-diamond": "Ha dei vulcani sul dorso. Se il magma nel suo corpo aumenta, trema e poi erutta con violenza.",
             "shining-pearl": "Ha dei vulcani sul dorso. Se il magma nel suo corpo aumenta, trema e poi erutta con violenza.",
             "scarlet": "Vive nei crateri dei vulcani. È noto per la gigantesca eruzione delle sue gobbe, che avviene ogni dieci anni.",
-            "violet": "Costruisce la tana nei crateri dei vulcani. Quando è adirato, erutta una pioggia di lava incandescente dalle gobbe che ha sul dorso."
+            "violet": "Costruisce la tana nei crateri dei vulcani. Quando è adirato, erutta una pioggia di lava incandescente dalle gobbe che ha sul dorso.",
+            "legends-za": "I vulcani sul suo dorso eruttano ogni dieci anni o quando è veramente arrabbiato."
+        },
+        "megacamerupt": {
+            "legends-za": "Quando non ci vede più dalla rabbia, il vulcano gigante sul suo dorso esplode in una violenta eruzione che dà vita a una fontana di lava."
         }
     },
     "egg_groups": [
@@ -52,15 +51,15 @@
     "flat_name": "camerupt",
     "generation": 3,
     "height": {
-        "camerupt": "1.9 m",
-        "megacamerupt": "2.5 m"
+        "camerupt": "1,9 m",
+        "megacamerupt": "2,5 m"
     },
     "id": 323,
     "name": "Camerupt",
-    "name_origin": "L'origine del nome proviene dalle parole inglesi camel  e erupt . ",
-    "origin": "Le origini di Camerupt si possono individuare nel Camelus bactrianus. ",
+    "name_origin": "Camerupt potrebbe essere una combinazione di camel, cammello, ed erupt, eruttare. Bakuuda, il suo nome giapponese, potrebbe includere 爆発 bakuhatsu, eruzione, e 駱駝 rakuda, camello. Potrebbe anche includere Camelus bactrianus, il nome scientifico del cammello. ",
+    "origin": "Camerupt sembra essere basato su un cammello, con le gobbe sul dorso sotituite da dei vulcani, anche se le sue proporzioni ricordano di più delle vacche, buoi muschiati o yak. Gli anelli blu ai lati del corpo potrebbero derivare da dei giochi dei parchi divertimenti dove si deve colpire il centro di un bersaglio: nell'episodio Il tour del mistero! si è visto come colpendo questi anelli uno dei vulcani del Pokémon erutti. MegaCamerupt sembra essere invece basato su un dromediario, che presenta una solla gobba, mentre la peluria intorno alle zampe ricorda uno yak selvatico. La \"M\" presente sulla fronte del Pokémon potrebbe essere un riferimento al Team Magma, dato che \nMax, il capo di questo Team, usa un MegaCamerupt in {Pokémon Rubino Omega e Zaffiro Alpha. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Camerupt",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Eruzione",
     "sprites": {
         "camerupt": {
@@ -106,7 +105,7 @@
         ]
     },
     "weight": {
-        "camerupt": "220.0 kg",
-        "megacamerupt": "320.5 kg"
+        "camerupt": "220,0 kg",
+        "megacamerupt": "320,5 kg"
     }
 }

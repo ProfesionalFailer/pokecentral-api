@@ -10,9 +10,9 @@
     },
     "curiosities": [
         "Abomasnow è il primo Pokémon secondo l'ordine alfabetico.",
-        "Abomasnow, insieme alla sua pre-evoluzione Snover, è l'unico Pokémon di doppio tipo Erba/Ghiaccio.\n\tQuesta combinazione di tipi unica rende lui e la sua pre-evoluzione due dei sei Pokémon con più debolezze, essendo debole a ben sette tipi diversi.",
-        "Questa combinazione di tipi unica rende lui e la sua pre-evoluzione due dei sei Pokémon con più debolezze, essendo debole a ben sette tipi diversi.",
-        "Abomasnow è uno dei Pokémon con più debolezze, ben 7."
+        "Nessun altro Pokémon ha la stessa combinazione di tipi di Abomasnow e della sua preevoluzione.\n\tSnover e Abomasnow sono gli unici Pokémon di tipo Ghiaccio a far parte del Gruppo Uova Erba.\n\tSono gli unici Pokémon di tipo Erba ad avere una combinazione di tipi unica.",
+        "Snover e Abomasnow sono gli unici Pokémon di tipo Ghiaccio a far parte del Gruppo Uova Erba.",
+        "Sono gli unici Pokémon di tipo Erba ad avere una combinazione di tipi unica."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/abomasnow.mp3",
     "dex_entries": {
@@ -20,8 +20,8 @@
             "diamond": "Crea bufere di neve sui monti ricoperti da nevi perenni. È l'abominevole essere delle nevi.",
             "pearl": "Crea bufere che ricoprono di neve ampissime aree. È noto anche come “Mostro dei ghiacci”.",
             "platinum": "Appare quando sbocciano i fiori invernali. Quando i petali cadono si ritira in luoghi sconosciuti.",
-            "heartgold": "Vive nella pace delle cime montuose tra le nevi eterne: scatena bufere di neve e poi si nasconde.",
-            "soulsilver": "Vive nella pace delle cime montuose tra le nevi eterne: scatena bufere di neve e poi si nasconde.",
+            "heart-gold": "Vive nella pace delle cime montuose tra le nevi eterne: scatena bufere di neve e poi si nasconde.",
+            "soul-silver": "Vive nella pace delle cime montuose tra le nevi eterne: scatena bufere di neve e poi si nasconde.",
             "black": "Appare quando sbocciano i fiori invernali. Quando i petali cadono si ritira in luoghi sconosciuti.",
             "white": "Appare quando sbocciano i fiori invernali. Quando i petali cadono si ritira in luoghi sconosciuti.",
             "black-2": "Appare quando sbocciano i fiori invernali. Quando i petali cadono si ritira in luoghi sconosciuti.",
@@ -36,7 +36,11 @@
             "shining-pearl": "Crea bufere che ricoprono di neve ampissime aree. È noto anche come \"mostro dei ghiacci\".",
             "legends-arceus": "Coriaceo e atto a frantumare macigni con agio, mal sopporta le interazioni, preferendo un eremo montano ove sollazzarsi con la neve.",
             "scarlet": "Vive nella pace delle cime montuose tra le nevi perenni. Si nasconde scatenando bufere di neve.",
-            "violet": "Appare da chissà dove quando sbocciano i fiori invernali, e non appena i loro petali cadono torna a nascondersi nel luogo da cui era venuto."
+            "violet": "Appare da chissà dove quando sbocciano i fiori invernali, e non appena i loro petali cadono torna a nascondersi nel luogo da cui era venuto.",
+            "legends-za": "Crea bufere che ricoprono di neve ampissime aree. È noto anche come \"mostro dei ghiacci\"."
+        },
+        "megaabomasnow": {
+            "legends-za": "Dai boccioli sulla schiena sono cresciuti grossi pilastri di ghiaccio in grado di scatenare violente bufere di neve che raggiungono i -30 °C."
         }
     },
     "egg_groups": [
@@ -46,15 +50,15 @@
     "flat_name": "abomasnow",
     "generation": 4,
     "height": {
-        "abomasnow": "2.2 m",
-        "megaabomasnow": "2.7 m"
+        "abomasnow": "2,2 m",
+        "megaabomasnow": "2,7 m"
     },
     "id": 460,
     "name": "Abomasnow",
-    "name_origin": "Il suo nome deriva dall'abbreviazione inglese Abominable Snowman , un altro nome per indicare lo yeti. ",
-    "origin": "Abomasnow è basato sull'unione di una pianta sempreverde coperta di neve e uno yeti. ",
+    "name_origin": "Abomasnow potrebbe derivare da Abominable Snowman, \"Abominevole uomo delle nevi\", un altro nome per indicare lo yeti. Yukinooh, il suo nome giapponese, potrebbe derivare da 雪の王 yuki no ō, \"re delle nevi\". ",
+    "origin": "Abomasnow sembra essere basato su un sempreverde innevato e uno yeti. Potrebbe anche essere basato sugli 樹氷 juhyou, alberi coperti di neve detti \"mostri di neve\". Può anche ricordare un gufo delle nevi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Abomasnow",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Albergelo",
     "sprites": {
         "abomasnow": {
@@ -100,7 +104,7 @@
         ]
     },
     "weight": {
-        "abomasnow": "135.5 kg",
-        "megaabomasnow": "185.0 kg"
+        "abomasnow": "135,5 kg",
+        "megaabomasnow": "185,0 kg"
     }
 }

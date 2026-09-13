@@ -8,7 +8,7 @@
     },
     "curiosities": [
         "Nonostante esiste l'artwork del Dream World della forma femminile di Frillish, durante il Global Link userà l'artwork della forma maschile indipendentemente dal sesso.",
-        "Nessun altro Pokémon ha la stessa combinazione di tipi di Frillish e della sua evoluzione Jellicent.",
+        "Frillish e Jellicent, prima dell'ottava generazione, erano gli unici Pokémon ad avere il doppio tipo Acqua/Spettro.",
         "Il nome beta giapponese di Frillish era プルンス Purunsu."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/frillish.mp3",
@@ -40,14 +40,14 @@
     "flat_name": "frillish",
     "generation": 5,
     "height": {
-        "frillish": "1.2 m"
+        "frillish": "1,2 m"
     },
     "id": 592,
     "name": "Frillish",
     "name_origin": "Frillish deriva dalle parole inglesi frill  e jellyfish . ",
     "origin": "Frillish è ispirato probabilmente al Nurahrihyon, uno yokai che appare con l'aspetto di una medusa demoniaca o come un uomo simile ad una medusa vestito raffinatamente o con abiti regali, ed è possibile che abbia tratto ispirazione anche dal Kurage no Hinotama, un tipo di medusa simile al fuoco fatuo. Il suo aspetto è chiaramente ispirato a quello delle meduse a agli abbigliamenti monarchici in stile vittoriano, in particolare la forma maschile basa il suo design sugli abiti di un re, mentre la forma femminile su quelli di una regina. La somiglianza con la medusa luna  ha ispirato il tipo Spettro di questo Pokémon, tuttavia i due tentacoli più lunghi sono più simili a quelli dei calamari che a quelli delle meduse. Frillish possiede anche tratti in cumune con alcuni mostri marini come il Kraken, in quanto si dice che affondino navi e si nutrano dell'equipaggio. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Frillish",
-    "shape": "più di 4 arti",
+    "shape": "None",
     "specie": "Pokémon Fluttuante",
     "sprites": {
         "frillish": {
@@ -75,8 +75,8 @@
     },
     "types": {
         "frillish": [
-            "Spettro",
-            "Acqua"
+            "Acqua",
+            "Spettro"
         ]
     },
     "weight": {

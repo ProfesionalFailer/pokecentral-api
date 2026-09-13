@@ -7,13 +7,45 @@
         }
     },
     "curiosities": [
-        "Seel è uno dei 4 Pokémon non di tipo Ghiaccio che si evolve in un Pokémon di quel tipo, assieme a Shellder, Eevee e Crabrawler.",
         "Nonostante Seel venne introdotto in prima generazione come un Pokémon d'Acqua puro, non poteva apprendere nessuna mossa d'Acqua tramite livello fino alla quarta generazione.",
         "Seel e Dewgong condividono la stessa categoria con Popplio: tutti e tre sono conosciuti come Pokémon otaria.",
-        "Seel è l'unico pokemon non di tipo Ghiaccio ad avere accesso all'abilità Corpogelo."
+        "Seel è l'unico pokemon non di tipo Ghiaccio ad avere accesso all'abilità Corpogelo. Di conseguenza, è l'unico Pokémon che trae beneficio dall'immunità alla grandine data dall'abilità."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/seel.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "seel": {
+            "red": "Il corno che gli sporge dalla testa è molto duro. Lo usa per fendere lastroni di ghiaccio.",
+            "blue": "Il corno che gli sporge dalla testa è molto duro. Lo usa per fendere lastroni di ghiaccio.",
+            "yellow": "Adora gli ambienti freddi gelidi. Nuota in acque a temperature polari di circa 10 gradi sotto zero.",
+            "gold": "Sebbene poco abile sulla terraferma, è un elegante nuotatore. Apprezza particolarmente i mari gelidi.",
+            "silver": "Di giorno lo si può trovare addormentato sul fondo del mare in acque basse. Se nuota chiude le narici.",
+            "crystal": "Il pelo azzurro che lo ricopre lo protegge dal freddo. Predilige l'oceano, nuotando tra gli iceberg.",
+            "ruby": "SEEL caccia le prede nel mare gelido sotto le lastre di ghiaccio. Per respirare apre un foro nel ghiaccio usando la protuberanza appuntita sulla sommità del capo.",
+            "sapphire": "SEEL caccia le prede nel mare gelido sotto le lastre di ghiaccio. Per respirare apre un foro nel ghiaccio usando la protuberanza appuntita sulla sommità del capo.",
+            "emerald": "SEEL caccia le prede nel mare gelido sotto le lastre di ghiaccio. Per respirare apre un foro nel ghiaccio usando la protuberanza appuntita sulla sommità del capo.",
+            "fire-red": "Sotto la pelliccia azzurra ha una pelle spessa e dura. Può resistere ad una temperatura di - 40 ºC.",
+            "leaf-green": "Il corno che gli sporge dalla testa è molto duro. Lo usa per fendere lastroni di ghiaccio.",
+            "diamond": "Pokémon che vive sugli iceberg. Nuota spaccando il ghiaccio con la punta che ha sulla testa.",
+            "pearl": "Pokémon che vive sugli iceberg. Nuota spaccando il ghiaccio con la punta che ha sulla testa.",
+            "platinum": "Pokémon che vive sugli iceberg. Nuota spaccando il ghiaccio con la punta che ha sulla testa.",
+            "heart-gold": "Pur poco abile sulla terraferma, è un elegante nuotatore. Apprezza particolarmente i mari gelidi.",
+            "soul-silver": "Di giorno lo si può trovare addormentato sul fondo del mare in acque basse. Se nuota chiude le narici.",
+            "black": "Pokémon che vive sugli iceberg. Nuota spaccando il ghiaccio con la punta che ha sulla testa.",
+            "white": "Pokémon che vive sugli iceberg. Nuota spaccando il ghiaccio con la punta che ha sulla testa.",
+            "black-2": "Più fa freddo, più si sente a suo agio. Si diverte a nuotare tra i blocchi di ghiaccio dei mari più gelidi.",
+            "white-2": "Più fa freddo, più si sente a suo agio. Si diverte a nuotare tra i blocchi di ghiaccio dei mari più gelidi.",
+            "x": "Pokémon che vive sugli iceberg. Nuota spaccando il ghiaccio con la punta che ha sulla testa.",
+            "y": "Sotto la pelliccia azzurra ha una pelle spessa e dura. Può resistere a una temperatura di -40 °C.",
+            "omega-ruby": "Seel caccia le prede nel mare gelido sotto le lastre di ghiaccio. Per respirare apre un foro nel ghiaccio usando la protuberanza appuntita sulla sommità del capo.",
+            "alpha-sapphire": "Seel caccia le prede nel mare gelido sotto le lastre di ghiaccio. Per respirare apre un foro nel ghiaccio usando la protuberanza appuntita sulla sommità del capo.",
+            "ultra-sun": "Finora si pensava che i Seel potessero vivere solo nei mari gelidi, pertanto la loro comparsa ad Alola è alquanto misteriosa.",
+            "ultra-moon": "Grazie al suo spesso strato di grasso nuota tranquillamente nell'acqua gelida. Nei mari caldi rischia facilmente lo sfinimento.",
+            "lets-go-pikachu": "Adora gli ambienti gelidi. Nuota con piacere nell'acqua a temperature di circa -10 °C",
+            "lets-go-eevee": "Adora gli ambienti gelidi. Nuota con piacere nell'acqua a temperature di circa -10 °C",
+            "scarlet": "La protuberanza che ha sulla testa è estremamente dura. Si fa strada tra gli iceberg spaccandoli a testate.",
+            "violet": "Più fa freddo, più si sente a suo agio. Si diverte a nuotare tra i blocchi di ghiaccio dei mari più gelidi."
+        }
+    },
     "egg_groups": [
         "Acqua 1",
         "Campo"
@@ -21,14 +53,14 @@
     "flat_name": "seel",
     "generation": 1,
     "height": {
-        "seel": "1.1 m"
+        "seel": "1,1 m"
     },
     "id": 86,
     "name": "Seel",
-    "name_origin": "L'origine del nome di Seel potrebbe derivare da una storpiatura delle parole inglesi sea  e seal . ",
-    "origin": "Seel è basato su cuccioli di foca, con una particolare somiglianza con un cucciolo di foca della Groenlandia. ",
+    "name_origin": "Seel potrebbe derivare da seal, foca. Pawou potrebbe derivare dall'onomatopea del verso della foca. ",
+    "origin": "Seel sembra essere basato su una foca, in particolare su un cucciolo di foca della Groenlandia. Condivide anche tratti con vari mammiferi marini abitanti nel Mar Glaciale Artico: il corpo bianco allungato ricorda un beluga, il corno sulla testa un narvalo e le zanne un tricheco. La forma della coda ricorda uno schizzo d'acqua o un geyser stilizzato. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Seel",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Otaria",
     "sprites": {
         "seel": {
@@ -56,6 +88,6 @@
         ]
     },
     "weight": {
-        "seel": "90.0 kg"
+        "seel": "90,0 kg"
     }
 }

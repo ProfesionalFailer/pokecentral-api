@@ -7,9 +7,12 @@
         }
     },
     "curiosities": [
-        "Noibat ha i punti base più bassi di tutti i Pokémon di tipo Drago.",
-        "Il nome tedesco di Noibat, eF-eM, è l'unico nome che usa l'alfabeto latino e non inizia con una lettera maiuscola.",
-        "Prima dell'ottava generazione Noibat e la sua evoluzione, Noivern, erano gli unici Pokémon a possedere il tipo Volante come tipo primario."
+        "Noibat ha le statistiche base più basse di tutti i Pokémon di tipo Drago.\n\tInoltre, Noibat è il Pokémon di tipo Drago che ha l'Attacco più basso.",
+        "Inoltre, Noibat è il Pokémon di tipo Drago che ha l'Attacco più basso.",
+        "Il nome tedesco di Noibat, eF-eM, è l'unico nome che usa l'alfabeto latino non iniziando con una lettera maiuscola.",
+        "Originariamente, la voce Pokédex di Noibat sul sito ufficiale Pokémon era errata, in quanto lo mostrava come un Pokémon di tipo Volante puro. Ciò venne successivamente corretto.",
+        "Prima dell'ottava generazione, Noibat e la sua evoluzione Noivern erano gli unici Pokémon a possedere il tipo Volante come tipo primario.",
+        "In nona generazione, prima dell'aggiornamento alla versione 2.0.1 per Pokémon Scarlatto e Violetto, Noibat e la sua evoluzione non imparavano Rapidscambio tramite accoppiamento."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/noibat.mp3",
     "dex_entries": {
@@ -23,7 +26,8 @@
             "sword": "La sera esce dalla grotta in cui vive e vola in cerca di frutti maturi, che individua grazie agli ultrasuoni.",
             "shield": "Controlla onde sonore di qualsiasi frequenza. Nemmeno i Pokémon più grandi riescono a sopportare i suoi ultrasuoni.",
             "scarlet": "Riesce a individuare i frutti di cui si ciba grazie agli ultrasuoni che emette dalle grandi orecchie. A volte scambia gli Applin per cibo.",
-            "violet": "Può cambiare a piacimento la frequenza delle proprie onde sonore, fino a raggiungere ultrasuoni di un massimo di 200.000 hertz."
+            "violet": "Può cambiare a piacimento la frequenza delle proprie onde sonore, fino a raggiungere ultrasuoni di un massimo di 200.000 hertz.",
+            "legends-za": "Questo Pokémon emette ultrasuoni a 200.000 Hz in grado di stordire e stendere anche un nerboruto lottatore di wrestling."
         }
     },
     "egg_groups": [
@@ -34,14 +38,14 @@
     "flat_name": "noibat",
     "generation": 6,
     "height": {
-        "noibat": "0.5 m"
+        "noibat": "0,5 m"
     },
     "id": 714,
     "name": "Noibat",
     "name_origin": "Noibat è una combinazione tra noise  e bat . ",
     "origin": "Noibat è basato su un pipistrello. In particolare sul Plecotus sardus. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Noibat",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Ondasonora",
     "sprites": {
         "noibat": {
@@ -70,6 +74,6 @@
         ]
     },
     "weight": {
-        "noibat": "8.0 kg"
+        "noibat": "8,0 kg"
     }
 }

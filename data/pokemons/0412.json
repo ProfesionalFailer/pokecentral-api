@@ -6,11 +6,20 @@
         }
     },
     "curiosities": [
-        "Burmy è uno dei cinque Pokémon la cui evoluzione è basata sul genere. Gli altri quattro sono Combee in Vespiquen, Kirlia in Gallade, Snorunt in Froslass e Salandit in Salazzle.",
-        "Wormadam e Burmy condividono la categoria con Pineco e Forretress. Sono tutti noti come Pokémon Larva.",
-        "La famiglia evolutiva di Burmy è una delle più complesse, con due fattori determinanti l'evento evolutivo: il suo genere e il suo aspetto.",
-        "Burmy è l'unico Pokémon che ha un totale di statistiche base di 224.",
-        "Ad oggi, non è mai stato visto un Burmy col Manto Sabbia o col Manto Scarti nell'anime."
+        "Burmy e Wormadam condividono la categoria con Pineco e Forretress. Sono tutti noti come Pokémon Larva.",
+        "Burmy è l'unico Pokémon con un totale di statistiche base pari a 224.",
+        "Anche se Burmy ha i piedi, nel Pokédex non ha un'impronta.",
+        "All'infuori dei segmenti Ookido hakase no Pokémon dai hyakka, Burmy Manto Sabbia e Manto Scarti non sono mai apparsi nella serie animata.",
+        "Prima della sesta generazione Burmy aveva la sagoma .",
+        "Il colore di Burmy è cambiato più volte:\n\tPrima della settima generazione tutte le forme erano grigie;\n\tNella settima generazione e prima del rilascio di Pokémon HOME tutte le forme erano verdi;\n\tDopo il rilascio di HOME, il Manto Pianta rimane verde, mentre quello Sabbia diventa marrone e quello Scarti rosso.",
+        "Prima della settima generazione tutte le forme erano grigie;",
+        "Nella settima generazione e prima del rilascio di Pokémon HOME tutte le forme erano verdi;",
+        "Dopo il rilascio di HOME, il Manto Pianta rimane verde, mentre quello Sabbia diventa marrone e quello Scarti rosso.",
+        "Prima dell'ottava generazione l'unico modo di ottenere l'abilità nascosta della linea di Burmy era il Dream World e accoppiando esemplari che l'avevano, rendendo quasi impossibile ottenerla dopo la chiusura del servizio. Ora è ottenibile anche con Cerotto abilità.",
+        "Burmy, Wormadam, Mothim, Geodude, Graveler e Golem sono gli unici presenti in tutti gli elenchi del Pokédex di Hisui.",
+        "Non includendo le forme regionali che possono evolversi in Pokémon diversi, Burmy è l'unico Pokémon di quarta generazione ad avere una linea evolutiva ramificata.",
+        "In Pokémon Platino, Oro HeartGold e Argento SoulSilver, Pokémon Nero 2 e Bianco 2 se il giocatore fa esaminare Burmy al PNG che rivela il tipo di Introforza questi dirà che il Pokémon non può imparare la mossa, nonostante la impari al livello 20. Questo è dovuto al fatto che Burmy non poteva impararla tramite MT.",
+        "Burmy può apparire da tutti i metodi d'incontro relativi ad alberi  nei giochi in cui è disponibile. Condivide questa peculiarità con Cherubi."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/burmy.mp3",
     "dex_entries": {
@@ -18,8 +27,8 @@
             "diamond": "Per ripararsi dal freddo e dai venti invernali si copre con un manto fatto di rami e foglie.",
             "pearl": "Se il suo manto si rompe mentre lotta, lo rifa velocemente con ciò che trova attorno a sé.",
             "platinum": "Anche se dove nasce non ci sono materiali per fare bozzoli, si ritrova sempre coperto da un manto.",
-            "heartgold": "Per ripararsi dal freddo si avvolge in un mantello. Nella stagione calda usa un mantello più leggero.",
-            "soulsilver": "Per ripararsi dal freddo si avvolge in un mantello. Nella stagione calda usa un mantello più leggero.",
+            "heart-gold": "Per ripararsi dal freddo si avvolge in un mantello. Nella stagione calda usa un mantello più leggero.",
+            "soul-silver": "Per ripararsi dal freddo si avvolge in un mantello. Nella stagione calda usa un mantello più leggero.",
             "black": "Anche se dove nasce non ci sono materiali per fare bozzoli, si ritrova sempre coperto da un manto.",
             "white": "Anche se dove nasce non ci sono materiali per fare bozzoli, si ritrova sempre coperto da un manto.",
             "black-2": "Anche se dove nasce non ci sono materiali per fare bozzoli, si ritrova sempre coperto da un manto.",
@@ -47,14 +56,14 @@
     "flat_name": "burmy",
     "generation": 4,
     "height": {
-        "burmy": "0.2 m"
+        "burmy": "0,2 m"
     },
     "id": 412,
     "name": "Burmy",
-    "name_origin": "Burmy può essere una combinazione di bug  o bag  e worm  o bagworm . ",
-    "origin": "Burmy si basa su una pupa, probabilmente quella della Psychidae , che poi si trasformerà in una farfalla se maschio, o rimarrà una creatura simile a una pupa se femmina. ",
+    "name_origin": "Burmy potrebbe derivare da bag, borsa, bug, insetto, e worm, verme, col suffisso diminutivo inglese -y. Minomucchi, il suo nome giapponese, potrebbe derivare da 蓑虫 minomushi, bagworm, e possibilmente プチ puchi, piccolo. ",
+    "origin": "Burmy sembra essere basato su una larva di psichide, conosciuta anche come \"bagworm\" a causa della teca che costruiscono sul proprio dorso con materiali naturali. La sua evoluzione in base al sesso imita il ciclo vitale degli psichidi: mentre i maschi si sviluppano in falene, le femmine spesso rimangono simili a larve all'interno della teca. Può ricordare anche una scopa da sauna, e può ricordare il Bannik, uno spirito svedese delle saune, descritto come un vecchietto senza vestiti la cui barba è composta di foglie e rami. Il Manto Scarti sembra essere creato da isolante in vetroresina, spesso colorato di rosa. Questo sembrerebbe confermato dalla voce Pokédex di Leggende Pokémon: Arceus, dove viene descritto come comodo. L'uso di materiali artificiali per creare il manto potrebbe derivare dal Phereoeca uterella, le cui larve creano tece come i bagworm, ma usando polvere, peli, capelli e altro che trovano nelle case. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Burmy",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Larva",
     "sprites": {
         "manto-pianta": {
@@ -90,6 +99,6 @@
         ]
     },
     "weight": {
-        "burmy": "3.4 kg"
+        "burmy": "3,4 kg"
     }
 }

@@ -4,14 +4,16 @@
             "primary": "Remasabbia",
             "secondary": "Silicoforza",
             "hidden": "Rompiforma"
+        },
+        "megaexcadrill": {
+            "primary": "Punta Perforante"
         }
     },
     "curiosities": [
-        "Tra i Pokémon di tipo Acciaio non leggendari o misteriosi, Excadrill ha i PS più alti.",
-        "I suoi PS base sono uguali a quelli della sua prima versione nel GCC.",
-        "Nei video promozionali precedenti l'uscita di Nero e Bianco, Excadrill era viola invece di marrone e le strisce sulla sua pancia erano orientate nella direzione opposta.",
-        "Excadrill era l'unico Pokémon con la somma delle statistiche base pari a 508 prima dell'ottava generazione.",
-        "Excadrill è l'unico Pokémon che apprende due mosse OHKO aumentando di livello ed esse sono Perforcorno e Abisso."
+        "I PS base di Excadrill sono uguali a quelli della sua prima carta nel GCC.",
+        "In alcuni video promozionali di Nero e Bianco, Excadrill era viola invece di marrone e le strisce sulla sua pancia erano orientate nella direzione opposta.",
+        "MegaExcadrill è l'unico Pokémon con la somma delle statistiche base pari a 608.",
+        "Excadrill è l'unico Pokémon che apprende due mosse OHKO aumentando di livello: Perforcorno e Abisso."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/excadrill.mp3",
     "dex_entries": {
@@ -25,7 +27,11 @@
             "omega-ruby": "La trivella si è evoluta diventando d'acciaio e può perforare una lastra di ferro. È molto utile per scavare tunnel.",
             "alpha-sapphire": "Costruisce una tana simile a un labirinto 100 m sotto terra. A volte apre buchi nei tunnel della metropolitana.",
             "sword": "Si dice che le grotte all'apparenza naturali siano in realtà spesso il risultato degli scavi forsennati effettuati da Excadrill.",
-            "shield": "Conosciuto anche come \"re delle trivelle\", questo Pokémon è capace di scavare sottoterra a una velocità di 150 km/h."
+            "shield": "Conosciuto anche come \"re delle trivelle\", questo Pokémon è capace di scavare sottoterra a una velocità di 150 km/h.",
+            "legends-za": "Scava una tana simile a un labirinto 100 m sottoterra. A volte apre buchi nei tunnel della metropolitana."
+        },
+        "megaexcadrill": {
+            "legends-za": "Unendo testa e braccia assume una forma aerodinamica per ruotare vorticosamente: in questo modo può distruggere qualsiasi cosa."
         }
     },
     "egg_groups": [
@@ -34,19 +40,24 @@
     "flat_name": "excadrill",
     "generation": 5,
     "height": {
-        "excadrill": "0.7 m"
+        "excadrill": "0,7 m",
+        "megaexcadrill": "0,9 m"
     },
     "id": 530,
     "name": "Excadrill",
-    "name_origin": "Excadrill è una combinazione di excavate  e drill . ",
-    "origin": "Excadrill è basato su una talpa con caratteristiche che ricordano strumenti da scavo come pale e trivelle. ",
+    "name_origin": "Excadrill potrebbe derivare da excavate  e drill . Doryuzu, il suo nome giapponese, potrebbe derivare da ドリル doriru , 土竜 doryū , e 渦 uzu .alternativamente, \"ryuzu\" potrebbe derivare da 竜頭 ryūzu, termine che indica qualcosa che assomiglia alla testa di un drago, come la cresta di un elmo. ",
+    "origin": "Excadrill sembra essere basato su una talpa con caratteristiche che ricordano strumenti da scavo come pale e trivelle. Quando si chiude a trivella, le spine sugli artigli e sulla cresta ricordano quelle di una fresa meccanica ad attacco puntuale, un veicolo usato per scavare nel sottosuolo. Ricorda anche alcuni veicoli sotterranei, spesso chiamati \"battle mole\" , con il cui nome inglese condivide il nome della categoria. MegaExcadrill enfatizza le somiglianze ad una trivella allungando gli artigli e la cresta. Le fiamme blu che si vedono quando si chiude a trivella lo fanno assomigliare a un razzo. Queste, insieme al colore rosso degli artigli e della cresta, potrebbe essere un riferimento al surriscaldamento delle trivelle quando scavano. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Excadrill",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Sottoterra",
     "sprites": {
         "excadrill": {
             "default": "https://media.pokemoncentral.it/wiki/e/e4/Homem0530.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/8c/Homemsh0530.png"
+        },
+        "megaexcadrill": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c8/Homem0530M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f4/Homemsh0530M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/5/57/Artwork0530_NB.png"
     },
@@ -58,18 +69,28 @@
             "spa": 50,
             "spd": 65,
             "spe": 88
+        },
+        "megaexcadrill": {
+            "hp": 110,
+            "atk": 165,
+            "def": 100,
+            "spa": 65,
+            "spd": 65,
+            "spe": 103
         }
     },
     "stats_sum": {
-        "excadrill": 508
+        "excadrill": 508,
+        "megaexcadrill": 608
     },
     "types": {
         "excadrill": [
-            "Terra",
-            "Acciaio"
+            "Acciaio",
+            "Terra"
         ]
     },
     "weight": {
-        "excadrill": "40.4 kg"
+        "excadrill": "40,4 kg",
+        "megaexcadrill": "60,0 kg"
     }
 }

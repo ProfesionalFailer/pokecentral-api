@@ -3,6 +3,9 @@
         "falinks": {
             "primary": "Lottascudo",
             "hidden": "Agonismo"
+        },
+        "megafalinks": {
+            "primary": "Agonismo"
         }
     },
     "curiosities": [
@@ -15,8 +18,12 @@
         "falinks": {
             "sword": "Questo Pokémon è formato da un capo e da cinque sottoposti che obbediscono ciecamente ai suoi ordini.",
             "shield": "Pokémon dallo spiccato spirito di squadra, è formato da 6 elementi che lottano assieme cambiando schieramento in base alla situazione.",
-            "scarlet": "L’elemento che sta davanti e che dà ordini al gruppo è il più forte e intelligente tra i sei.",
-            "violet": "L’elemento che viene considerato il capo usa il proprio corno estensibile per indicare al gruppo in che tipo di formazione schierarsi."
+            "scarlet": "L'elemento che sta davanti e che dà ordini al gruppo è il più forte e intelligente tra i sei.",
+            "violet": "L'elemento che viene considerato il capo usa il proprio corno estensibile per indicare al gruppo in che tipo di formazione schierarsi.",
+            "legends-za": "Questo Pokémon è formato da un capo e da cinque sottoposti che obbediscono ciecamente ai suoi ordini."
+        },
+        "megafalinks": {
+            "legends-za": "Solo unità strette da un saldissimo legame sono in grado di formare questo schieramento definitivo."
         }
     },
     "egg_groups": [
@@ -26,19 +33,23 @@
     "flat_name": "falinks",
     "generation": 8,
     "height": {
-        "falinks": "3.0 m"
+        "falinks": "3,0 m"
     },
     "id": 870,
     "name": "Falinks",
     "name_origin": "Falinks potrebbe essere una combinazione di phalanx, falange, e link, catena di collegamento. Tairetsu potrebbe derivare da 隊列 tairetsu, una formazione assunta dai militari. ",
     "origin": "Falinks potrebbe essere ispirato agli opliti greci che possedevano anche uno scudo circolare che tenevano al lato del loro corpo. Le singole unità ricordano gli elmi spartani durante il periodo dell'antica Roma, ornati con placche dorate e stemmi rossi. Potrebbe essere ispirato anche alla Legio IX Hispana che scomparve misteriosamente in Gran Bretagna nel 120 d.C.. Può trarre ispirazione anche dall'eusocialità, un comportamento sociale degli insetti, dei crostacei e dei mammiferi caratterizzato dalla divisione del lavoro dei membri della colonia, formando così delle caste. Nel caso dei Falinks, la loro casta sarebbe quella dei soldati. In aggiunta, Falinks potrebbe essere ispirato a una Vanessa. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Falinks",
-    "shape": "corpi multipli",
+    "shape": "None",
     "specie": "Pokémon Schieramento",
     "sprites": {
         "falinks": {
             "default": "https://media.pokemoncentral.it/wiki/4/47/Homem0870.png",
             "shiny": "https://media.pokemoncentral.it/wiki/7/7a/Homemsh0870.png"
+        },
+        "megafalinks": {
+            "default": "https://media.pokemoncentral.it/wiki/8/8c/Homem0870M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/f/f5/Homemsh0870M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/a/a9/Artwork0870_SpSc.png"
     },
@@ -50,10 +61,19 @@
             "spa": 70,
             "spd": 60,
             "spe": 75
+        },
+        "megafalinks": {
+            "hp": 65,
+            "atk": 135,
+            "def": 135,
+            "spa": 70,
+            "spd": 65,
+            "spe": 100
         }
     },
     "stats_sum": {
-        "falinks": 470
+        "falinks": 470,
+        "megafalinks": 570
     },
     "types": {
         "falinks": [
@@ -61,6 +81,6 @@
         ]
     },
     "weight": {
-        "falinks": "63.0 kg"
+        "falinks": "63,0 kg"
     }
 }

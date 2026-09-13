@@ -6,25 +6,14 @@
         }
     },
     "curiosities": [
-        "Pokémon",
-        "Pokémon di nona generazione",
-        "Pokémon di tipo Roccia",
-        "Pokémon di tipo Veleno",
-        "Pokémon di doppio tipo",
-        "Pokémon nel gruppo di esperienza Medio-Lento",
-        "Pokémon di colore Blu",
-        "Pokémon dalla sagoma n. 01",
-        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
-        "Pokémon di Gruppo Uova Minerale",
-        "Pagine con articoli di Johto World",
-        "Pokémon appartenenti a una linea di evoluzione a due stadi",
-        "Pokémon con statistiche base totali di 350"
+        "Glimmet e la sua evoluzione Glimmora condividono la loro categoria con Boldore. Tutti e tre sono noti infatti come Pokémon Minerale."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/glimmet.mp3",
     "dex_entries": {
         "glimmet": {
             "scarlet": "Assorbe sostanze nutritive dalle pareti delle caverne. Il suo corpo è avvolto da petali composti da cristalli velenosi.",
-            "violet": "I suoi cristalli di veleno sembrano in tutto e per tutto dei petali. Per proteggersi sparge polvere tossica come se fosse polline."
+            "violet": "I suoi cristalli di veleno sembrano in tutto e per tutto dei petali. Per proteggersi sparge polvere tossica come se fosse polline.",
+            "legends-za": "Si attacca al soffitto delle caverne. Si difende percuotendo i nemici con il suo bocciolo ricolmo di sostanze velenose."
         }
     },
     "egg_groups": [
@@ -33,14 +22,14 @@
     "flat_name": "glimmet",
     "generation": 9,
     "height": {
-        "glimmet": "0.7 m"
+        "glimmet": "0,7 m"
     },
     "id": 969,
     "name": "Glimmet",
-    "name_origin": "Glimmet potrebbe derivare da Glimmer . ",
-    "origin": "",
+    "name_origin": "Glimmet potrebbe derivare da Glimmer  e dal suffisso -et, che indica qualcosa di piccolo, o emit . ",
+    "origin": "Glimmet potrebbe essere basato sulla calcantite, ma anche su vari tipi di animali sessili, come l'anemone di mare o le spugne. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Glimmet",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Minerale",
     "sprites": {
         "glimmet": {
@@ -64,11 +53,11 @@
     },
     "types": {
         "glimmet": [
-            "Veleno",
-            "Roccia"
+            "Roccia",
+            "Veleno"
         ]
     },
     "weight": {
-        "glimmet": "8.0 kg"
+        "glimmet": "8,0 kg"
     }
 }

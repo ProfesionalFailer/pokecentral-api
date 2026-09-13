@@ -12,7 +12,34 @@
         "Un Nuzleaf con la faccia del personaggio di Lost John Locke è un personaggio ricorrente della serie webcomic Nuzlocke e la mascotte non ufficiale della Nuzlocke Challenge."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/nuzleaf.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "nuzleaf": {
+            "ruby": "NUZLEAF vive in foreste molto fitte. A volte si avventura fuori dalla foresta per spaventare le persone. Questo POKéMON si irrita molto, se qualcuno tenta di pizzicargli il lungo naso.",
+            "sapphire": "NUZLEAF crea una sorta di flauto con la foglia che ha sul capo. Il suono di questo flauto placa la paura e l'incertezza nel cuore di coloro che si sono persi nella foresta.",
+            "emerald": "NUZLEAF vive nella foresta ed è molto abile a salire sugli alberi. Se qualcuno afferra il suo lungo naso appuntito, il POKéMON perde potenza.",
+            "fire-red": "Vive in buchi scavati in grandi alberi. Il suono del suo flauto di foglia terrorizza chi lo ascolta.",
+            "leaf-green": "Vive in buchi scavati in grandi alberi. Il suono del suo flauto di foglia terrorizza chi lo ascolta.",
+            "diamond": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "pearl": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "platinum": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "heart-gold": "Vive nelle foreste più fitte. Con la foglia che ha in testa, crea un flauto dal suono inquietante.",
+            "soul-silver": "Vive nelle foreste più fitte. Con la foglia che ha in testa, crea un flauto dal suono inquietante.",
+            "black": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "white": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "black-2": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "white-2": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "x": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nelle foreste più fitte.",
+            "y": "Vive nelle foreste più fitte. Con la foglia che ha in testa, crea un flauto dal suono inquietante.",
+            "omega-ruby": "Nuzleaf vive in foreste molto fitte. A volte si avventura fuori dalla foresta per spaventare le persone. Questo Pokémon si irrita molto se qualcuno tenta di pizzicargli il lungo naso.",
+            "alpha-sapphire": "Nuzleaf crea una sorta di flauto con la foglia che ha sul capo. Il suono di questo flauto placa la paura e l'incertezza nel cuore di coloro che si sono persi nella foresta.",
+            "sword": "Vive nelle foreste più fitte. Con la foglia che ha in testa, crea un flauto dal suono inquietante.",
+            "shield": "Vive in buchi scavati in grandi alberi. Il suono del suo flauto di foglia inquieta chi lo ascolta.",
+            "brilliant-diamond": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nel fitto della foresta.",
+            "shining-pearl": "Il fischio del suo flauto di foglia mette a disagio chi lo sente. Vive nel fitto della foresta.",
+            "scarlet": "Vive nella calma delle foreste. Il suono del suo flauto di foglia serve da avvertimento a chi si introduce nel suo territorio.",
+            "violet": "Il suo naso appuntito concentra in sé le funzioni sensoriali e gli permette di percepire ciò che lo circonda. Tuttavia, è anche il suo punto debole."
+        }
+    },
     "egg_groups": [
         "Campo",
         "Erba"
@@ -20,14 +47,14 @@
     "flat_name": "nuzleaf",
     "generation": 3,
     "height": {
-        "nuzleaf": "1.00 m"
+        "nuzleaf": "1,00 m"
     },
     "id": 274,
     "name": "Nuzleaf",
-    "name_origin": "\"Nuzleaf\" può essere una combinazione di \"nuzzle\"  o \"nose\"  e \"leaf\" . \"Konohana\" può essere una combinazione di 子 \"ko\" , 木の葉 \"konoha\"  e 鼻 \"hana\" . Potrebbe anche provenire dal Konoha-Tengu, un tipo di tengu debole che non ha molti poteri. ",
+    "name_origin": "Nuzleaf potrebbe essere una combinazione di nuzzle, strofinare con il naso, o nose  e leaf, foglia. Konohana, il suo nome giapponese, può essere una combinazione di 子 ko, bambino, 木の葉 konoha, foglie, e 鼻 hana, naso. Potrebbe anche provenire dal Konoha-Tengu, un tipo di tengu debole che non ha molti poteri. ",
     "origin": "Nuzleaf sembra essere basato su una ghianda in germoglio e su un tengu, yōkai giapponese con il naso lungo che usa i suoi poteri soprannaturali per proteggere le foreste e fare scherzi crudeli alle persone. Potrebbe anche essere in parte basato sugli shibatengu, dal nome simile, ovvero yōkai infantili che indossano pochi vestiti e fanno lotte di sumo con gli umani. La sua abitudine di suonare un flauto d'erba ricorda Pan, il dio greco della natura noto per suonare il suo particolare flauto. Il suo corpo legnoso e umanoide e il suo naso lungo ricordano anche Pinocchio. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Nuzleaf",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Scaltro",
     "sprites": {
         "nuzleaf": {
@@ -60,6 +87,6 @@
         ]
     },
     "weight": {
-        "nuzleaf": "28.0 kg"
+        "nuzleaf": "28,0 kg"
     }
 }

@@ -1,0 +1,65 @@
+{
+    "abilities": {
+        "munkidori": {
+            "primary": "Catena Tossica",
+            "hidden": "Indagine"
+        }
+    },
+    "curiosities": [
+        "Il tesoro dell'Area Zero",
+        "La maschera turchese",
+        "Nordivia"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/munkidori.mp3",
+    "dex_entries": {
+        "munkidori": {
+            "scarlet": "La sua catena, composta di tossine che accrescono le sue capacità, gli ha stimolato il cervello, donandogli poteri psichici.",
+            "violet": "Mette nel sacco i nemici emettendo da un luogo sicuro una forza psichica che causa fortissime vertigini."
+        },
+        "": {}
+    },
+    "egg_groups": [
+        "Sconosciuto"
+    ],
+    "flat_name": "munkidori",
+    "generation": 9,
+    "height": {
+        "munkidori": "1,0 m"
+    },
+    "id": 1015,
+    "name": "Munkidori",
+    "name_origin": "Munkidori potrebbe essere una combinazione di monkey, scimmia, e hunky dory, gergo per indicare che le cose vanno bene. Mashimashira potrebbe essere una combinazione di 増し mashi, miglioramento, e 猿 mashira, parola antica per scimmia o gorilla. ",
+    "origin": "Munkidori è basato su una scimmia, più precisamente su quella che accompagna il protagonista della favola Momotarō. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Munkidori",
+    "shape": "None",
+    "specie": "Pokémon Servo",
+    "sprites": {
+        "munkidori": {
+            "default": "https://media.pokemoncentral.it/wiki/3/3a/Homem1015.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/a8/Homemsh1015.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/d/d2/Artwork1015_SV.png"
+    },
+    "stats": {
+        "munkidori": {
+            "hp": 88,
+            "atk": 75,
+            "def": 66,
+            "spa": 130,
+            "spd": 90,
+            "spe": 106
+        }
+    },
+    "stats_sum": {
+        "munkidori": 555
+    },
+    "types": {
+        "munkidori": [
+            "Psico",
+            "Veleno"
+        ]
+    },
+    "weight": {
+        "munkidori": "12,2 kg"
+    }
+}

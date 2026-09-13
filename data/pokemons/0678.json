@@ -9,6 +9,9 @@
             "primary": "Sguardofermo",
             "secondary": "Intrapasso",
             "hidden": "Tenacia"
+        },
+        "megameowstic": {
+            "primary": "Traccia"
         }
     },
     "curiosities": [
@@ -26,11 +29,13 @@
         },
         "maschio": {
             "sword": "I motivi a forma di occhio all'interno delle orecchie sono la fonte del suo potere psichico. Di solito tiene nascosti i suoi poteri.",
-            "shield": "Il maschio ha un forte istinto protettivo. Se deve difendere se stesso o il suo Allenatore, attacca con una forza formidabile."
+            "shield": "Il maschio ha un forte istinto protettivo. Se deve difendere se stesso o il suo Allenatore, attacca con una forza formidabile.",
+            "legends-za": "Se si sente minacciato, drizza le orecchie e libera un potere psichico in grado di accartocciare un camion da 10 tonnellate come fosse una lattina."
         },
         "femmina": {
             "sword": "La femmina è un po' più capricciosa e aggressiva del maschio. Con i suoi poteri psichici concia per le feste i seccatori.",
-            "shield": "Se sprigiona tutto il suo potere psichico, ha una potenza tale da distruggere una petroliera. Ha un carattere scostante, ma fa parte del suo fascino."
+            "shield": "Se sprigiona tutto il suo potere psichico, ha una potenza tale da distruggere una petroliera. Ha un carattere scostante, ma fa parte del suo fascino.",
+            "legends-za": "La femmina è un po' più capricciosa e aggressiva del maschio. Con i suoi poteri psichici concia per le feste i seccatori."
         }
     },
     "egg_groups": [
@@ -39,38 +44,60 @@
     "flat_name": "meowstic",
     "generation": 6,
     "height": {
-        "meowstic": "0.6 m"
+        "meowstic": "0,6 m"
     },
     "id": 678,
     "name": "Meowstic",
     "name_origin": "Meowstic è una combinazione tra meow e mystic . Nyaonikusu è una combinazione tra ニャー, meow e ὄνυξ, artiglio in greco antico. ",
     "origin": "Meowstic è basato su un gatto, probabilmente un nekomata. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Meowstic",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Temperanza",
     "sprites": {
-        "meowstic": {
+        "maschio": {
             "default": "https://media.pokemoncentral.it/wiki/9/93/Homem0678.png",
             "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0678.png"
         },
-        "meowstic-f": {
+        "femmina": {
             "default": "https://media.pokemoncentral.it/wiki/7/74/Homef0678F.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/2/2a/Homefsh0678F.png"
+            "shiny": "https://media.pokemoncentral.it/wiki/5/56/Homemsh0678.png"
+        },
+        "megameowstic": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c9/Homem0678M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/5/5f/Homemsh0678M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/4/42/Artwork0678_XY.png"
     },
     "stats": {
-        "meowstic": {
+        "maschio": {
             "hp": 74,
             "atk": 48,
             "def": 76,
             "spa": 83,
             "spd": 81,
             "spe": 104
+        },
+        "femmina": {
+            "hp": 74,
+            "atk": 48,
+            "def": 76,
+            "spa": 83,
+            "spd": 81,
+            "spe": 104
+        },
+        "megameowstic": {
+            "hp": 74,
+            "atk": 48,
+            "def": 76,
+            "spa": 143,
+            "spd": 101,
+            "spe": 124
         }
     },
     "stats_sum": {
-        "meowstic": 466
+        "maschio": 466,
+        "femmina": 466,
+        "megameowstic": 566
     },
     "types": {
         "meowstic": [
@@ -78,6 +105,6 @@
         ]
     },
     "weight": {
-        "meowstic": "8.5 kg"
+        "meowstic": "8,5 kg"
     }
 }

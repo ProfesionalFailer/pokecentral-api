@@ -7,14 +7,40 @@
         }
     },
     "curiosities": [
-        "In seconda generazione Hoppip, Skiploom e Jumpluff avevano una combinazione di tipi unica.",
-        "Col peso di 0,5 kg, Hoppip è il più leggero Pokémon Erba, di tipo Volante e di seconda generazione.",
+        "Col peso di 0,5 kg, Hoppip è il più leggero Pokémon di tipo Volante e di seconda generazione.",
         "In seconda generazione Hoppip può imparare Giornopaga tramite allevamento, ma solo da un Pikachu o Raichu trasferiti da un gioco di prima generazione.",
-        "Hoppip è l'unico Pokémon Volante nel gruppo colore Rosa.",
-        "Il nome Inglese di Hoppip e delle sue evoluzioni è stato dato da Nob Ogasawara."
+        "I nomi inglesi di Hoppip e delle sue evoluzioni è stato dato da Nob Ogasawara."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/hoppip.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "hoppip": {
+            "gold": "Si stringono uno accanto all'altro per resistere al vento. Al contrario, amano la brezza leggera.",
+            "silver": "Ha un corpo così leggero che deve aggrapparsi saldamente al suolo per non volare via.",
+            "crystal": "Anche la brezza leggera può trasportarlo lontano, a volte fino ad un'altra città.",
+            "ruby": "HOPPIP fluttua nell'aria trasportato dal vento. Se percepisce l'avvicinarsi di una forte corrente, HOPPIP unisce le foglie con quelle dei suoi simili e si prepara ad essere spazzato via.",
+            "sapphire": "HOPPIP fluttua nell'aria trasportato dal vento. Se percepisce l'avvicinarsi di una forte corrente, HOPPIP unisce le foglie con quelle dei suoi simili e si prepara ad essere spazzato via.",
+            "emerald": "HOPPIP fluttua nell'aria trasportato dal vento. Se percepisce l'avvicinarsi di una forte corrente, unisce le foglie con quelle dei suoi simili per non farsi spazzare via.",
+            "fire-red": "Ha un corpo così leggero che deve aggrapparsi saldamente al suolo per non volare via.",
+            "leaf-green": "Si stringono fra di loro per resistere al vento. Al contrario, amano la brezza leggera.",
+            "diamond": "Giunge sospinto dai venti. Si dice che quando HOPPIP appare su campi e monti, la primavera sia in arrivo.",
+            "pearl": "Giunge sospinto dai venti. Si dice che quando HOPPIP appare su campi e monti, la primavera sia in arrivo.",
+            "platinum": "Giunge sospinto dai venti. Si dice che quando HOPPIP appare su campi e monti, la primavera sia in arrivo.",
+            "heart-gold": "Si stringono l’uno accanto all'altro per resistere al vento. Tuttavia, amano la brezza leggera.",
+            "soul-silver": "Ha un corpo così leggero che deve aggrapparsi saldamente al suolo per non volare via.",
+            "black": "Giunge sospinto dai venti. Si dice che quando Hoppip appare su campi e monti, la primavera sia in arrivo.",
+            "white": "Giunge sospinto dai venti. Si dice che quando Hoppip appare su campi e monti, la primavera sia in arrivo.",
+            "black-2": "Giunge sospinto dai venti. Si dice che quando Hoppip appare su campi e monti, la primavera sia in arrivo.",
+            "white-2": "Giunge sospinto dai venti. Si dice che quando Hoppip appare su campi e monti, la primavera sia in arrivo.",
+            "x": "Ha un corpo così leggero che deve aggrapparsi saldamente al suolo per non volare via.",
+            "y": "Giunge sospinto dai venti. Si dice che quando Hoppip appare su campi e monti, la primavera sia in arrivo.",
+            "omega-ruby": "Hoppip fluttua nell'aria trasportato dal vento. Se percepisce l'avvicinarsi di una forte corrente, Hoppip unisce le foglie con quelle dei suoi simili e si prepara ad essere spazzato via.",
+            "alpha-sapphire": "Hoppip fluttua nell'aria trasportato dal vento. Se percepisce l'avvicinarsi di una forte corrente, Hoppip unisce le foglie con quelle dei suoi simili e si prepara ad essere spazzato via.",
+            "brilliant-diamond": "Fluttua sospinto dai venti. Si dice che quando gli Hoppip si radunano nei campi o sui monti, la primavera sia in arrivo.",
+            "shining-pearl": "Fluttua sospinto dai venti. Si dice che quando gli Hoppip si radunano nei campi o sui monti, la primavera sia in arrivo.",
+            "scarlet": "Percorre distanze notevoli trasportato dal vento. La provenienza esatta degli esemplari che popolano Paldea è tuttora sconosciuta.",
+            "violet": "Va dove lo porta il vento. Per questo motivo, escluse le regioni più fredde, è possibile incontrare Hoppip praticamente in ogni luogo."
+        }
+    },
     "egg_groups": [
         "Magico",
         "Erba"
@@ -22,14 +48,14 @@
     "flat_name": "hoppip",
     "generation": 2,
     "height": {
-        "hoppip": "0.4 m"
+        "hoppip": "0,4 m"
     },
     "id": 187,
     "name": "Hoppip",
-    "name_origin": "Deriva dalle parole hop  e pip . ",
-    "origin": "Basato su un fittone e le sue foglie ricordano quelle del soffione. ",
+    "name_origin": "Hoppip potrebbe essere una combinazione di Hop, saltello, hippity-hop, pip, un seme piccolo e duro, o pipsqueak, nanerottolo. Il suo nome, combinato insieme a quello del resto della sua famiglia evolutiva, potrebbe derivare dalla frase Just a hop, skip, and a jump away, usata per indicare che qualcosa si trova a poca distanza. Hanecco, il suo nome giapponese, potrebbe essere una combinazione di 葉 ha, foglia, 跳ねる haneru, saltare, o 羽 hane, ala, e 根っ子 nekko, radice. Potrebbe anche essere un gioco di parole con 猫 neko, gatto, viste le sue orecchie e la sua coda simili a quelle di un gatto. ",
+    "origin": "Hoppip sembra essere ispirato ad un bulbo o ad una radice. Le foglie sulla sue testa ricordano quelle delle piante del genere Taraxacum, in cui rientra il dente di leone. Il suo corpo ricorda quello di un gatto, possibilmente in riferimento alla costolina giuncolina, detta in inglese \"cat's ear\", \"orecchio di gatto\", che assomiglia ad un dente di leone nonostante le due specie non siano imparentate. Quando vola le foglie si muovono come le pale di un elicottero. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Hoppip",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Gramigna",
     "sprites": {
         "hoppip": {
@@ -58,6 +84,6 @@
         ]
     },
     "weight": {
-        "hoppip": "0.5 kg"
+        "hoppip": "0,5 kg"
     }
 }

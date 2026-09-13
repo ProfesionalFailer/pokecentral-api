@@ -17,7 +17,8 @@
         "Pokémon di Gruppo Uova Erba",
         "Pagine con articoli di Johto World",
         "Pokémon appartenenti a una linea di evoluzione a due stadi",
-        "Pokémon con statistiche base totali di 480"
+        "Pokémon con statistiche base totali di 480",
+        "Pokémon dominanti "
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/lurantis.mp3",
     "dex_entries": {
@@ -30,7 +31,8 @@
             "shield": "I petali delle sue braccia sono sottili e affilati. Li usa per assorbire la luce ed emettere raggi energetici.",
             "scarlet": "Sfrutta il suo dolce profumo floreale per attrarre i Pokémon Coleottero e li inganna fingendosi uno di loro. Dopodiché, li abbatte con le sue falci.",
             "violet": "Per mantenere vividi i suoi colori servono molte cure. È un Pokémon che richiede una dedizione totale da parte del suo Allenatore."
-        }
+        },
+        "": {}
     },
     "egg_groups": [
         "Erba"
@@ -38,15 +40,15 @@
     "flat_name": "lurantis",
     "generation": 7,
     "height": {
-        "lurantis": "0.9 m",
-        "dominante": "1.5 m"
+        "lurantis": "0,9 m",
+        "dominante": "1,5 m"
     },
     "id": 754,
     "name": "Lurantis",
     "name_origin": "Lurantis è probabilmente una combinazione di lure, allure, fleur, fiore in francese, e di mantis, mantide. Rarantesu potrebbe essere una combinazione di 蘭 ran, orchidea, e una corruzione di mantis, mantide. ",
     "origin": "Lurantis è probabilmente basato su una mantide orchidea. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Lurantis",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Mantifiore",
     "sprites": {
         "lurantis": {
@@ -74,7 +76,7 @@
         ]
     },
     "weight": {
-        "lurantis": "18.5 kg",
-        "dominante": "58.0 kg"
+        "lurantis": "18,5 kg",
+        "dominante": "58,0 kg"
     }
 }

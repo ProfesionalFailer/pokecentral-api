@@ -6,9 +6,9 @@
         }
     },
     "curiosities": [
-        "Sebbene si dice che Metang è costituito da due Beldum, non vi sono prove di questo visibile.",
+        "Sebbene si dice che Metang è costituito da due Beldum, questo non è mai stato visto in alcun media. L'episodio Un amico ritrovato è l'unico a mostrare un Beldum evolversi, e si vede il Beldum di Morrison \"creare\" un secondo Beldum e un corpo a cui unirsi per creare Metang, invece di fondersi con un altro esemplare. Nonostante questo, il Pokédex in Prova di affinità! afferma che Metang è il risultato della fusione di due Beldum.",
         "Il numero di Metang nel Pokédex di Hoenn e nel Navigatore di Fiore sono gli stessi: 191.",
-        "Anche se sembra che Metang leviti nei giochi e nell'anime, non possiede l'abilità Levitazione."
+        "Metang e la sua famiglia evolutiva condividono le stesse abilità di Registeel."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/metang.mp3",
     "dex_entries": {
@@ -16,13 +16,13 @@
             "ruby": "Fondendo insieme due BELDUM, si crea METANG. I cervelli dei BELDUM sono uniti da un sistema nervoso magnetico. Questo particolare sistema di unione genera forti poteri psicocinetici.",
             "sapphire": "Fondendosi, due BELDUM formano METANG. I cervelli dei BELDUM sono uniti da un sistema nervoso magnetico. Questo POKéMON ruota le zampe all'indietro per muoversi ad elevata velocità.",
             "emerald": "Gli artigli di METANG sono dotati di un potere distruttivo tale da ridurre a brandelli spessi blocchi di ferro come se fossero seta. Vola a oltre 100 km/h.",
-            "firered": "Usa il magnetismo per volare a mezz'aria. Ha un corpo così possente che neppure lo scontro con un jet può scalfirlo.",
-            "leafgreen": "Usa il magnetismo per volare a mezz'aria. Ha un corpo così possente che neppure lo scontro con un jet può scalfirlo.",
+            "fire-red": "Usa il magnetismo per volare a mezz'aria. Ha un corpo così possente che neppure lo scontro con un jet può scalfirlo.",
+            "leaf-green": "Usa il magnetismo per volare a mezz'aria. Ha un corpo così possente che neppure lo scontro con un jet può scalfirlo.",
             "diamond": "È sorto dalla fusione di due BELDUM. Il suo corpo d’acciaio non viene scalfito neanche se urta un jet.",
             "pearl": "È sorto dalla fusione di due BELDUM. Il suo corpo d’acciaio non viene scalfito neanche se urta un jet.",
             "platinum": "È sorto dalla fusione di due BELDUM. Il suo corpo d’acciaio non viene scalfito neanche se urta un jet.",
-            "heartgold": "Sorto dalla fusione di 2 BELDUM. I cervelli dei BELDUM sono uniti da un sistema nervoso magnetico.",
-            "soulsilver": "Sorto dalla fusione di 2 BELDUM. I cervelli dei BELDUM sono uniti da un sistema nervoso magnetico.",
+            "heart-gold": "Sorto dalla fusione di 2 BELDUM. I cervelli dei BELDUM sono uniti da un sistema nervoso magnetico.",
+            "soul-silver": "Sorto dalla fusione di 2 BELDUM. I cervelli dei BELDUM sono uniti da un sistema nervoso magnetico.",
             "black": "È sorto dalla fusione di due Beldum. Il suo corpo d'acciaio non viene scalfito neanche se urta un jet.",
             "white": "È sorto dalla fusione di due Beldum. Il suo corpo d'acciaio non viene scalfito neanche se urta un jet.",
             "black-2": "È nato dalla fusione di due Beldum. L'unione di due cervelli rende ancora più forti i suoi poteri psichici.",
@@ -38,7 +38,10 @@
             "sword": "Due Beldum si sono uniti tramite l'attrazione magnetica, raddoppiando i loro poteri psichici grazie ai due cervelli.",
             "shield": "Levita sfruttando la forza magnetica. Si fa strada fra i picchi scoscesi volando a grande velocità mentre insegue le prede.",
             "brilliant-diamond": "È nato dalla fusione di due Beldum. Il suo corpo d'acciaio non viene scalfito neanche dall'urto con un jet.",
-            "shining-pearl": "È nato dalla fusione di due Beldum. Il suo corpo d'acciaio non viene scalfito neanche dall'urto con un jet."
+            "shining-pearl": "È nato dalla fusione di due Beldum. Il suo corpo d'acciaio non viene scalfito neanche dall'urto con un jet.",
+            "scarlet": "È nato dalla fusione di due Beldum. L'unione di due cervelli rende ancora più forti i suoi poteri psichici.",
+            "violet": "È ghiotto di minerali dotati di proprietà magnetiche. Quando dà la caccia ai Nosepass, può raggiungere i 100 km/h.",
+            "legends-za": "È nato dalla fusione di due Beldum. Il suo corpo d'acciaio non viene scalfito neanche dall'urto con un jet."
         }
     },
     "egg_groups": [
@@ -47,14 +50,14 @@
     "flat_name": "metang",
     "generation": 3,
     "height": {
-        "metang": "1.2 m"
+        "metang": "1,2 m"
     },
     "id": 375,
     "name": "Metang",
-    "name_origin": "Metang potrebbe essere l'unione di metal  e del suono onomatopeico del metallo, tang, o dal francese étang . Metang è anche l'anagramma di magnet . ",
-    "origin": "È composto da due Beldum fusi insieme. ",
+    "name_origin": "Metang potrebbe derivare da metal, metallo, e tang, suono onomatopeico del metallo, o dal francese étang, il colore blu lago. Metang è anche un anagramma di magnet, magnete. ",
+    "origin": "Metang è formato da due Beldum fusi insieme. In generale, sembra prendere ispirazione da dischi volanti e granchi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Metang",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Ferrunghia",
     "sprites": {
         "metang": {
@@ -78,11 +81,11 @@
     },
     "types": {
         "metang": [
-            "Psico",
-            "Acciaio"
+            "Acciaio",
+            "Psico"
         ]
     },
     "weight": {
-        "metang": "202.5 kg"
+        "metang": "202,5 kg"
     }
 }

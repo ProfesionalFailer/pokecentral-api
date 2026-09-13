@@ -14,21 +14,53 @@
         "Nella serie animata, Pidgey viene raffigurato erroneamente con quattro artigli al posto di tre."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/pidgey.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "pidgey": {
+            "red": "Molto comune in boschi e foreste, sbatte le ali a livello del suolo per raccogliere sabbia accecante.",
+            "blue": "Molto comune in boschi e foreste, sbatte le ali a livello del suolo per raccogliere sabbia accecante.",
+            "yellow": "Di indole docile preferisce alzare sabbia sul nemico per proteggersi piuttosto che attaccarlo.",
+            "gold": "Di solito si nasconde nell'erba alta. Poiché odia lottare, tira la sabbia con le zampe come difesa.",
+            "silver": "Comune tra l'erba e nelle foreste, è molto docile e tiene alla larga i nemici sollevando sabbia.",
+            "crystal": "Agitando le ali nell'erba, solleva una nube di polvere per far uscire gli insetti allo scoperto.",
+            "ruby": "PIDGEY ha un senso dell'orientamento molto sviluppato. È sempre in grado di ritornare al suo nido, anche quando si spinge molto lontano dal suo ambiente abituale.",
+            "sapphire": "PIDGEY ha un senso dell'orientamento molto sviluppato. È sempre in grado di ritornare al suo nido, anche quando si spinge molto lontano dal suo ambiente abituale.",
+            "emerald": "PIDGEY ha un senso dell'orientamento molto sviluppato. È sempre in grado di ritornare al suo nido, anche quando si spinge lontano dal suo ambiente abituale.",
+            "fire-red": "POKéMON pacifico, che passa la maggior parte del tempo nell'erba alta alla ricerca di cibo, tra cui piccoli insetti.",
+            "leaf-green": "Molto comune in boschi e foreste, sbatte le ali a livello del suolo per sollevare sabbia accecante.",
+            "diamond": "È docile e preferisce evitare i conflitti. Ma se viene disturbato, contrattacca ferocemente.",
+            "pearl": "È docile e preferisce evitare i conflitti. Ma se viene disturbato, contrattacca ferocemente.",
+            "platinum": "È docile e preferisce evitare i conflitti. Ma se viene disturbato, contrattacca ferocemente.",
+            "heart-gold": "Di solito si nasconde nell'erba alta. Poiché odia lottare, tira la sabbia con le zampe come difesa.",
+            "soul-silver": "Comune tra l’erba e nelle foreste, è molto docile e tiene alla larga i nemici sollevando sabbia.",
+            "black": "È docile e preferisce evitare i conflitti. Ma se viene disturbato, contrattacca ferocemente.",
+            "white": "È docile e preferisce evitare i conflitti. Ma se viene disturbato, contrattacca ferocemente.",
+            "black-2": "È docile e preferisce evitare i conflitti. Ma se viene disturbato, contrattacca ferocemente.",
+            "white-2": "È docile e preferisce evitare i conflitti. Ma se viene disturbato, contrattacca ferocemente.",
+            "x": "Molto comune in boschi e foreste, sbatte le ali a livello del suolo per sollevare sabbia accecante.",
+            "y": "È docile e preferisce evitare i conflitti. Ma se viene disturbato, contrattacca ferocemente.",
+            "omega-ruby": "Pidgey ha un senso dell'orientamento molto sviluppato. È sempre in grado di ritornare al suo nido, anche quando si spinge molto lontano dal suo ambiente abituale.",
+            "alpha-sapphire": "Pidgey ha un senso dell'orientamento molto sviluppato. È sempre in grado di ritornare al suo nido, anche quando si spinge molto lontano dal suo ambiente abituale.",
+            "lets-go-pikachu": "Di indole docile, preferisce gettare sabbia verso il nemico per proteggersi piuttosto che attaccarlo.",
+            "lets-go-eevee": "Di indole docile, preferisce gettare sabbia verso il nemico per proteggersi piuttosto che attaccarlo.",
+            "brilliant-diamond": "È docile e preferisce evitare conflitti. Ma se viene disturbato, contrattacca ferocemente.",
+            "shining-pearl": "È docile e preferisce evitare conflitti. Ma se viene disturbato, contrattacca ferocemente.",
+            "legends-za": "È docile e preferisce evitare conflitti, ma se viene disturbato contrattacca ferocemente."
+        }
+    },
     "egg_groups": [
         "Volante"
     ],
     "flat_name": "pidgey",
     "generation": 1,
     "height": {
-        "pidgey": "0.3 m"
+        "pidgey": "0,3 m"
     },
     "id": 16,
     "name": "Pidgey",
     "name_origin": "Pidgey potrebbe essere una combinazione di pigeon, piccione, o da budgie, il parrocchetto ondulato, chickadee, cinciallegra, e pudgy, tozzo. Poppo potrebbe derivare da ぽっぽ poppo, il verso dei piccioni. ",
     "origin": "Nonostante il suo nome, Pidgey potrebbe essere basato su un passero, su un beccofrusone o su un Thryothorus ludovicianus piuttosto che su un piccione. Tuttavia, ci sono alcuni riferimenti che alludono al piccione viaggiatore. Pidgey e le sue evoluzioni ricordano anche il falco pescatore. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Pidgey",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Uccellino",
     "sprites": {
         "pidgey": {
@@ -57,6 +89,6 @@
         ]
     },
     "weight": {
-        "pidgey": "1.8 kg"
+        "pidgey": "1,8 kg"
     }
 }

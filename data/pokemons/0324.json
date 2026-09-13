@@ -7,8 +7,8 @@
         }
     },
     "curiosities": [
-        "Pur essendo basato su una tartaruga, non è in grado di accoppiarsi con Pokémon tartaruga come Blastoise o Torterra, appartenendo essi a gruppi uova diversi.",
-        "Anche se si dice che il fumo che emette sia nero, la sua sprite mostra fumo bianco."
+        "Torkoal è alla pari con Slugma, MegaCamerupt e Litwick per la statistica di Velocità più bassa tra i Pokémon di tipo Fuoco.",
+        "Torkoal condivide la categoria con Rolycoly, Carkol e Coalossal: sono tutti noti come \"Pokémon Carbone\"."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/torkoal.mp3",
     "dex_entries": {
@@ -16,13 +16,13 @@
             "ruby": "TORKOAL scava in montagna in cerca di carbone. Quando lo trova, lo usa per riempire la cavità della propria corazza e poi lo brucia. In caso di aggressione, emette nubi di fumo nero per poi battere in ritirata.",
             "sapphire": "TORKOAL genera energia bruciando il carbone. Si indebolisce con l'affievolirsi del fuoco. In preparazione alle lotte il POKéMON brucia maggiori quantità di carbone.",
             "emerald": "TORKOAL lotta grazie all'energia prodotta dalla combustione del carbone. Quando gli esce il fumo dalle narici, emette anche un suono simile al fischio di una locomotiva.",
-            "firered": "All'interno del suo guscio si trova carbone ardente. Se è attaccato, fugge liberando una cupa e densa nube di fumo.",
-            "leafgreen": "All'interno del suo guscio si trova carbone ardente. Se è attaccato, fugge liberando una cupa e densa nube di fumo.",
+            "fire-red": "All'interno del suo guscio si trova carbone ardente. Se è attaccato, fugge liberando una cupa e densa nube di fumo.",
+            "leaf-green": "All'interno del suo guscio si trova carbone ardente. Se è attaccato, fugge liberando una cupa e densa nube di fumo.",
             "diamond": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
             "pearl": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
             "platinum": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
-            "heartgold": "I TORKOAL eleggono a propria dimora miniere di carbone abbandonate e vi scavano carbone con ardore.",
-            "soulsilver": "I TORKOAL eleggono a propria dimora miniere di carbone abbandonate e vi scavano carbone con ardore.",
+            "heart-gold": "I TORKOAL eleggono a propria dimora miniere di carbone abbandonate e vi scavano carbone con ardore.",
+            "soul-silver": "I TORKOAL eleggono a propria dimora miniere di carbone abbandonate e vi scavano carbone con ardore.",
             "black": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
             "white": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
             "black-2": "Genera energia bruciando carbone all'interno della corazza. Se è in pericolo, emette fuliggine scura.",
@@ -49,14 +49,14 @@
     "flat_name": "torkoal",
     "generation": 3,
     "height": {
-        "torkoal": "0.50 m"
+        "torkoal": "0,50 m"
     },
     "id": 324,
     "name": "Torkoal",
-    "name_origin": "Il nome potrebbe derivare dall'unione delle parole inglesi tortoise , oppure torch  e coal . ",
-    "origin": "Torkoal è basato su una tartaruga gigante con caratteristiche da forno o stufa di cucina a causa anche delle cavità del guscio. ",
+    "name_origin": "Torkoal e Cotoise, il suo nome giapponese, potrebbero derivare da, tortoise, testuggine, e coal, carbone. ",
+    "origin": "Torkoal sembra essere basato su una testudinide. Potrebbe essere basato specificamente sulla tartaruga dalle zampe rosse, il cui nome della specie, carbonarius, significa \"simile al carbone\", dato il suo aspetto simile ad un pezzo di carbone acceso, in modo simile al guscio di Torkoal. Il guscio di Torkoal sembra essere ispirato ad un'antica fornace a cupola, usate per produrre carbone vegetale, o da qualche tipo di forno. Potrebbe essere anche basato su un piano cottura. Infine, potrebbe prendere ispirazione da un incensiere o da una camera di combustione di un motore a vapore, come potrebbe indicare la sua precedente abilità esclusiva Fumochiaro. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Torkoal",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Carbone",
     "sprites": {
         "torkoal": {
@@ -84,6 +84,6 @@
         ]
     },
     "weight": {
-        "torkoal": "80.4 kg"
+        "torkoal": "80,4 kg"
     }
 }

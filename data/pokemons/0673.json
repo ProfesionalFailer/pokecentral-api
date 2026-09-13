@@ -20,7 +20,8 @@
             "omega-ruby": "È in grado di intuire gli stati d'animo del suo Allenatore dal modo in cui questi gli afferra le corna. Questo permette a entrambi di correre in perfetta armonia.",
             "alpha-sapphire": "Vive in regioni montuose. Questi Pokémon stabiliscono il leader del gruppo confrontandosi a cornate.",
             "scarlet": "Riesce a percepire lo stato d’animo di chiunque tocchi con le corna. Aiuta gli esseri umani nelle loro attività da 5.000 anni.",
-            "violet": "I Gogoat vivono in grandi gruppi nelle regioni montane. Il capobranco viene deciso tramite scontri a colpi di corna."
+            "violet": "I Gogoat vivono in grandi gruppi nelle regioni montane. Il capobranco viene deciso tramite scontri a colpi di corna.",
+            "legends-za": "È in grado di intuire gli stati d'animo del suo Allenatore dal modo in cui questi gli afferra le corna. Questo permette loro di galoppare in perfetta armonia."
         }
     },
     "egg_groups": [
@@ -29,14 +30,14 @@
     "flat_name": "gogoat",
     "generation": 6,
     "height": {
-        "gogoat": "1.7 m"
+        "gogoat": "1,7 m"
     },
     "id": 673,
     "name": "Gogoat",
     "name_origin": "Gogoat deriva dalle parole go , 轟轟 gōgō  e goat . ",
     "origin": "Gogoat è basato su una capra ricoperta di erba. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Gogoat",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Cavalcatura",
     "sprites": {
         "gogoat": {
@@ -64,6 +65,6 @@
         ]
     },
     "weight": {
-        "gogoat": "91.0 kg"
+        "gogoat": "91,0 kg"
     }
 }

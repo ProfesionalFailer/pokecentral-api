@@ -5,7 +5,8 @@
         }
     },
     "curiosities": [
-        "Chingling è il Pokémon Baby più leggero di tutti."
+        "Chingling è il Pokémon Baby più leggero.",
+        "Chingling è l'unico Pokémon Baby non ottenibile in Pokémon Spada e Scudo."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/chingling.mp3",
     "dex_entries": {
@@ -13,8 +14,8 @@
             "diamond": "Emette versi muovendo la sfera che ha nella gola. Si muove saltellando agilmente.",
             "pearl": "Ad ogni salto produce un suono che sembra uno squillo. I suoi versi ad alta frequenza assordano i nemici.",
             "platinum": "Ha una sfera nella gola. Quando saltella, la sfera si muove emettendo dei trilli.",
-            "heartgold": "Emette un verso ad alta frequenza insopportabile all'orecchio umano. Se comincia, non finisce più.",
-            "soulsilver": "Emette un verso ad alta frequenza insopportabile all'orecchio umano. Se comincia, non finisce più.",
+            "heart-gold": "Emette un verso ad alta frequenza insopportabile all'orecchio umano. Se comincia, non finisce più.",
+            "soul-silver": "Emette un verso ad alta frequenza insopportabile all'orecchio umano. Se comincia, non finisce più.",
             "black": "Ha una sfera nella gola. Quando saltella, la sfera si muove emettendo dei trilli.",
             "white": "Ha una sfera nella gola. Quando saltella, la sfera si muove emettendo dei trilli.",
             "black-2": "Ha una sfera nella gola. Quando saltella, la sfera si muove emettendo dei trilli.",
@@ -27,8 +28,10 @@
             "shining-pearl": "A ogni salto produce un suono che sembra uno squillo. I suoi versi ad alta frequenza assordano i nemici.",
             "legends-arceus": "Intollerabili mal di testa assalgono chiunque ascolti il suo canto, perciò non escluderei che contenga suoni impercettibili all'orecchio umano.",
             "scarlet": "Quando saltella, la sfera che ha in bocca sbatacchia, creando un riverbero simile a una campana.",
-            "violet": ""
-        }
+            "violet": "Emette un verso ad alta frequenza impercettibile all’orecchio umano. Se comincia, non la finisce più.",
+            "legends-za": "Emette versi agitando la sfera che ha in fondo alla gola. Si muove saltellando dolcemente."
+        },
+        "": {}
     },
     "egg_groups": [
         "Sconosciuto"
@@ -36,14 +39,14 @@
     "flat_name": "chingling",
     "generation": 4,
     "height": {
-        "chingling": "0.2 m"
+        "chingling": "0,2 m"
     },
     "id": 433,
     "name": "Chingling",
-    "name_origin": "Deriva dalle parole chime  e jingling  o youngling  perché è appunto solo un cucciolo. ",
-    "origin": "È basato su un campanello Suzu presente nei santuari shintoisti. ",
+    "name_origin": "Chingling potrebbe derivare da chime, campanello, e jingling, tintinnio, e il suffisso -ing, indicante qualcosa di più giovane. Lisyan, il suo nome giapponese, potrebbe derivare da 鈴 rin, campana, りんりん rinrin, onomatopea del rintocco di una campana, e しゃんしゃん shanshan, onomatopea per il tintinnio di una campana. ",
+    "origin": "Chingling è basato su un campanello 鈴 Suzu presente nei templi shintoisti. I suoi pianti assordanti e continui potrebbero essere spirati a quelli di un neonato. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Chingling",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Sonaglio",
     "sprites": {
         "chingling": {
@@ -71,6 +74,6 @@
         ]
     },
     "weight": {
-        "chingling": "0.6 kg"
+        "chingling": "0,6 kg"
     }
 }

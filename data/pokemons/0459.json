@@ -6,9 +6,9 @@
         }
     },
     "curiosities": [
-        "Nessun altro Pokémon ha la stessa combinazione di tipi di Snover e della sua evoluzione.\n\tSnover e Abomasnow sono gli unici Pokémon di tipo Ghiaccio a far parte del Gruppo Uova Erba.",
+        "Nessun altro Pokémon ha la stessa combinazione di tipi di Snover e della sua evoluzione.\n\tSnover e Abomasnow sono gli unici Pokémon di tipo Ghiaccio a far parte del Gruppo Uova Erba.\n\tSono gli unici Pokémon di tipo Erba ad avere una combinazione di tipi unica.",
         "Snover e Abomasnow sono gli unici Pokémon di tipo Ghiaccio a far parte del Gruppo Uova Erba.",
-        "Snover è uno dei Pokémon che hanno ben 7 debolezze, come Exeggcute, Exeggutor, Tyranitar, Celebi, Nuzleaf, Shiftry, Cacturne, Lunatone, Solrock, la sua evoluzione Abomasnow, Terrakion, Zarude, Calyrex, Meowscarada, Fungofurioso, Wo-Chien, Fogliaferrea e Massoferreo."
+        "Sono gli unici Pokémon di tipo Erba ad avere una combinazione di tipi unica."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/snover.mp3",
     "dex_entries": {
@@ -16,8 +16,8 @@
             "diamond": "Vive sui monti innevati. Ha avuto pochi contatti con gli umani, quindi è molto curioso nei loro confronti.",
             "pearl": "In primavera, attorno al ventre gli crescono delle bacche simili a dolci ghiaccioli.",
             "platinum": "Gli uomini lo incuriosiscono molto. Si raduna in gruppi attorno alle impronte sulle montagne innevate.",
-            "heartgold": "In inverno scende a valle, ma in primavera se ne torna sulle cime montuose dove c'è ancora neve.",
-            "soulsilver": "In inverno scende a valle, ma in primavera se ne torna sulle cime montuose dove c'è ancora neve.",
+            "heart-gold": "In inverno scende a valle, ma in primavera se ne torna sulle cime montuose dove c'è ancora neve.",
+            "soul-silver": "In inverno scende a valle, ma in primavera se ne torna sulle cime montuose dove c'è ancora neve.",
             "black": "Gli uomini lo incuriosiscono molto. Si raduna in gruppi attorno alle impronte sulle montagne innevate.",
             "white": "Gli uomini lo incuriosiscono molto. Si raduna in gruppi attorno alle impronte sulle montagne innevate.",
             "black-2": "Gli uomini lo incuriosiscono molto. Si raduna in gruppi attorno alle impronte sulle montagne innevate.",
@@ -32,7 +32,8 @@
             "shining-pearl": "In primavera, attorno al ventre gli crescono delle bacche simili a dolci ghiaccioli.",
             "legends-arceus": "È assai probabile incrociarlo fra le nevi. Si dice visiti gli insediamenti umani non per recare danno, ma per stringere amicizia con gli infanti.",
             "scarlet": "In inverno scende fino ai piedi delle montagne, ma in primavera se ne torna sulle cime montuose dove c’è ancora neve.",
-            "violet": "Sembrano essere incuriositi dagli esseri umani, e se trovano delle impronte umane sulle montagne innevate si raccolgono in gruppo tutt’intorno."
+            "violet": "Sembrano essere incuriositi dagli esseri umani, e se trovano delle impronte umane sulle montagne innevate si raccolgono in gruppo tutt’intorno.",
+            "legends-za": "In primavera, attorno al ventre gli crescono delle bacche simili a dolci ghiaccioli."
         }
     },
     "egg_groups": [
@@ -42,14 +43,14 @@
     "flat_name": "snover",
     "generation": 4,
     "height": {
-        "snover": "1.0 m"
+        "snover": "1,0 m"
     },
     "id": 459,
     "name": "Snover",
-    "name_origin": "Deriva dalle parole snow  e clover  o cover  riferendosi al fatto che sembra coperto di neve. Potrebbe anche derivare dalla frase inglese \"snowed over\" . ",
-    "origin": "Basato su una radice daikon, nota anche come radice invernale, perché di solito viene raccolta e consumata durante l'inverno. Potrebbe essere basato anche su un abete innevato, la parte superiore della testa ricorda il kanji della montagna  che viene usato per le montagne a tre cime. ",
+    "name_origin": "Snover potrebbe derivare da snow, neve, e cover, coperto, oltre che da un gioco di parole con snowed over, coperto di neve. Yukikaburi, il suo nome giapponese, potrebbe derivare da 雪 yuki, neve, e 頭 kaburi, testa, o 被り kaburi, copricapo. Potrebbe anche includere 蕪 kabu, rapa. ",
+    "origin": "Snover sembra essere basato su un abete innevato e uno yeti. La sua testa ricorda il kanji per montagna 山, che ha origine dalla stilizzazione di tre picchi montani. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Snover",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Albergelo",
     "sprites": {
         "snover": {
@@ -82,6 +83,6 @@
         ]
     },
     "weight": {
-        "snover": "50.5 kg"
+        "snover": "50,5 kg"
     }
 }

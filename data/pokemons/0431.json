@@ -7,7 +7,8 @@
         }
     },
     "curiosities": [
-        "La tavola di colori di Glameow è stata leggermente modificata in Pokémon Oro HeartGold e Argento SoulSilver, nonostante non sia un Pokémon di Johto. Questo accadde anche a Purugly, Registeel, Torterra, Chimchar, Stunky, Skuntank, e Chatot."
+        "Glameow e Aron sono gli unici Pokémon non introdotti o che hanno ricevuto forme in settima generazione ad aver ricevuto modifiche ai loro modelli tra la sesta e la settima generazione: nel caso di Glameow, le sue orecchie sono state abbassate.",
+        "Glameow può essere visto come un parallelo a Stunky: Glameow è esclusivo di Pokémon Perla e Bianco 2, mentre Stunky di Pokémon Diamante e Nero 2. Sono inoltre usati dalle Comandanti Galassia Martes e Giovia. Sono inoltre entrambi nel Gruppo Uova Campo, hanno famiglie evolutive a due stadi e non possono essere trovati selvatici in Pokémon Platino."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/glameow.mp3",
     "dex_entries": {
@@ -15,8 +16,8 @@
             "diamond": "Se disturbato, tira fuori gli artigli; se soddisfatto, fa le fusa. La sua incostanza piace a molti.",
             "pearl": "Con il suo sguardo riesce a ipnotizzare leggermente il nemico. È un Pokémon molto lunatico.",
             "platinum": "Se l'Allenatore non gli dà da mangiare, gli graffia il naso. È un'abitudine che cerca di nascondere.",
-            "heartgold": "Il lunatico GLAMEOW fa sinuosi movimenti di coda che ricordano i nastri della ginnastica artistica.",
-            "soulsilver": "Il lunatico GLAMEOW fa sinuosi movimenti di coda che ricordano i nastri della ginnastica artistica.",
+            "heart-gold": "Il lunatico GLAMEOW fa sinuosi movimenti di coda che ricordano i nastri della ginnastica artistica.",
+            "soul-silver": "Il lunatico GLAMEOW fa sinuosi movimenti di coda che ricordano i nastri della ginnastica artistica.",
             "black": "Se l'Allenatore non gli dà da mangiare, gli graffia il naso. È un'abitudine che cerca di nascondere.",
             "white": "Se l'Allenatore non gli dà da mangiare, gli graffia il naso. È un'abitudine che cerca di nascondere.",
             "black-2": "Se l'Allenatore non gli dà da mangiare, gli graffia il naso. È un'abitudine che cerca di nascondere.",
@@ -36,14 +37,14 @@
     "flat_name": "glameow",
     "generation": 4,
     "height": {
-        "glameow": "0.5 m"
+        "glameow": "0,5 m"
     },
     "id": 431,
     "name": "Glameow",
-    "name_origin": "Il nome di Glameow probabilmente deriva da glamorous  e meow . Il suo nome giapponese, Nyarmar, deriva dalla parola にゃあ nyā , e da glamour . ",
-    "origin": "Glameow si basa su un normale gatto addomesticato. ",
+    "name_origin": "Glameow potrebbe derivare da glamour, fascino, e meow, un miagolio. Nyarmar, il suo nome giapponese, potrebbe derivare da parola ニャー nyā, miagolio, e glamour. ",
+    "origin": "Glameow potrebbe essere basato su un Devon rex e un atleta con nastro. La sua coda ricorda un giocattolo a molla, e si collega alla credenza del periodo Edo che i gatti con la coda arricciata potessero stregare le persone. Questo è menzionato anche nella voce del Pokédex di Leggende Pokémon: Arceus. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Glameow",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Felide",
     "sprites": {
         "glameow": {
@@ -71,6 +72,6 @@
         ]
     },
     "weight": {
-        "glameow": "3.9 kg"
+        "glameow": "3,9 kg"
     }
 }

@@ -19,7 +19,39 @@
         "Gardevoir compare nel nono episodio della serie Beyond the Pokédex."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/gardevoir.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "gardevoir": {
+            "ruby": "GARDEVOIR ha l'abilità di prevedere il futuro. Se percepisce un pericolo imminente per il proprio ALLENATORE, pare che scateni tutta l'energia psicocinetica di cui è capace.",
+            "sapphire": "GARDEVOIR ha il potere psicocinetico di distorcere le dimensioni creando un piccolo buco nero. Questo POKéMON cerca di proteggere il proprio ALLENATORE anche a rischio della sua stessa vita.",
+            "emerald": "Pare che GARDEVOIR non sia soggetto alla forza di gravità, perché è in grado di sostenersi con i poteri psichici. Darebbe la vita per proteggere il suo ALLENATORE.",
+            "fire-red": "Ha la capacità di prevedere il futuro. Le sue potenzialità sono esaltate dalla protezione di un ALLENATORE.",
+            "leaf-green": "Ha la capacità di prevedere il futuro. Le sue potenzialità sono esaltate dalla protezione di un ALLENATORE.",
+            "diamond": "Difende il suo fidato Allenatore a costo della vita. Ha l’abilità di predire il futuro.",
+            "pearl": "Difende il suo fidato Allenatore a costo della vita. Ha l’abilità di predire il futuro.",
+            "platinum": "Quando il suo Allenatore è in pericolo usa tutto il suo potere psichico per creare un piccolo buco nero.",
+            "heart-gold": "Affezionato al proprio Allenatore, sfodera tutta l’energia psicocinetica di cui è capace per difenderlo.",
+            "soul-silver": "Affezionato al proprio Allenatore, sfodera tutta l’energia psicocinetica di cui è capace per difenderlo.",
+            "black": "Quando il suo Allenatore è in pericolo usa tutto il suo potere psichico per creare un piccolo buco nero.",
+            "white": "Quando il suo Allenatore è in pericolo usa tutto il suo potere psichico per creare un piccolo buco nero.",
+            "black-2": "Quando il suo Allenatore è in pericolo usa tutto il suo potere psichico per creare un piccolo buco nero.",
+            "white-2": "Quando il suo Allenatore è in pericolo usa tutto il suo potere psichico per creare un piccolo buco nero.",
+            "x": "Quando il suo Allenatore è in pericolo usa tutto il suo potere psichico per creare un piccolo buco nero.",
+            "y": "Ha la capacità di prevedere il futuro. Le sue potenzialità sono esaltate quando protegge il suo Allenatore.",
+            "omega-ruby": "Gardevoir ha l'abilità di prevedere il futuro. Se percepisce un pericolo imminente per il proprio Allenatore, pare che scateni tutta l'energia psicocinetica di cui è capace",
+            "alpha-sapphire": "Gardevoir ha il potere psicocinetico di distorcere le dimensioni creando un piccolo buco nero. Questo Pokémon cerca di proteggere il proprio allenatore anche a rischio della sua stessa vita.",
+            "sword": "Ha la capacità di prevedere il futuro. Quando deve proteggere il suo Allenatore, mette in mostra tutta la sua potenza.",
+            "shield": "Quando il suo Allenatore è in pericolo, usa tutto il suo potere psichico per creare un piccolo buco nero.",
+            "brilliant-diamond": "Difende il suo fidato Allenatore a costo della vita. Ha l'abilità di predire il futuro.",
+            "shining-pearl": "Difende il suo fidato Allenatore a costo della vita. Ha l'abilità di predire il futuro.",
+            "legends-arceus": "Dedica la vita alla protezione di chi reputa sua prediletta guida. Le vesti immacolate, che ricordano quelle di una nobildonna, sono espressione della sua pura abnegazione.",
+            "scarlet": "Per proteggere l’Allenatrice o l’Allenatore dal pericolo, utilizza tutti i poteri psichici di cui dispone per creare un piccolo buco nero.",
+            "violet": "Quando si affeziona alla propria Allenatrice o al proprio Allenatore, è disposto a sfoderare tutta l’energia psichica di cui è capace in sua difesa.",
+            "legends-za": "Ha la capacità di prevedere il futuro. Quando deve proteggere il suo Allenatore, mette in mostra tutta la sua potenza."
+        },
+        "megagardevoir": {
+            "legends-za": "Quando dischiude la placca rossa sul petto per liberarsi da ansia e stress, i suoi poteri psichici raggiungono il massimo della loro potenza."
+        }
+    },
     "egg_groups": [
         "Amorfo",
         "Umanoide",
@@ -28,14 +60,14 @@
     "flat_name": "gardevoir",
     "generation": 3,
     "height": {
-        "gardevoir": "1.60 m"
+        "gardevoir": "1,60 m"
     },
     "id": 282,
     "name": "Gardevoir",
-    "name_origin": "\"Gardevoir\" può essere una combinazione delle parole francesi \"garde\"  o \"garder\"  e \"devoir\" , così come \"voir\" . \"Sirnight\" potrebbe essere una combinazione di \"sir\" , \"knight\" , \"Syrinx\"  e forse un gioco di parole di さあ、ナイト saa, naito . ",
-    "origin": "Gardevoir sembra essere basato su una prima ballerina femminile e su un cavaliere, così come sui concetti di cavalleria ed empatia. I lunghi volant bianchi che circondano il suo corpo ricordano un vestito lungo fino al pavimento, e le sue gambe sottili e appuntite lo fanno sembrare come se fosse in punta e indossasse collant bianchi. I suoi capelli sono acconciati a caschetto e ricordano un elmo barbuta, mentre le corte punte dietro gli occhi ricordano una maschera da ballo. Le sue corna rosse assomigliano alla metà del simbolo di un cuore e sembrano perforargli il petto, il che implica che la sua capacità di percepire le emozioni è ancora più forte delle sue forme pre-evolute, poiché le corna sono collegate direttamente al suo cuore. Il tipo Folletto di Gardevoir e la natura protettiva nei confronti del suo Allenatore sembrano essere ispirati dagli angeli custodi, e il suo corpo bianco e fluente ricorda fantasmi o spiriti come una dama bianca. La sua grande testa, i lineamenti del viso e il fisico fragile sono simili a quelli dell'anesama ningyō, un tipo di bambola di carta giapponese. MegaGardevoir sembra essere basato su una ballerina di sala che indossa un ampio abito da ballo e guanti da sera. ",
+    "name_origin": "Gardevoir potrebbe essere una combinazione delle parole francesi garde, guardia, o garder, custodire, e devoir, dovere, o voir, vedere, riferendosi ai suoi poteri psichici. Sirnight, il suo nome giapponese, potrebbe essere una combinazione di sir, titolo onorifico per i cavalieri maschi, knight, cavaliere, Syrinx, Siringa, ninfa dell'antica mitologia greca, e forse un gioco di parole con さあ、ナイト saa, naito . ",
+    "origin": "Gardevoir sembra essere basato su una prima ballerina femminile e su un cavaliere, così come sui concetti di cavalleria ed empatia. I lunghi volant bianchi che circondano il suo corpo ricordano un vestito lungo fino al pavimento, e le sue gambe sottili e appuntite lo fanno sembrare come se fosse in punta e indossasse collant bianchi. I suoi capelli sono acconciati a caschetto e ricordano un elmo barbuta, mentre le corte punte dietro gli occhi ricordano una maschera da ballo. Le sue corna rosse assomigliano alla metà del simbolo di un cuore e sembrano perforargli il petto, il che implica che la sua capacità di percepire le emozioni è ancora più forte delle sue forme pre-evolute, poiché le corna sono collegate direttamente al suo cuore. Il tipo Folletto di Gardevoir e la natura protettiva nei confronti del suo Allenatore sembrano essere ispirati agli angeli custodi, e il suo corpo bianco e fluente ricorda fantasmi o spiriti come una dama bianca. La sua grande testa, i lineamenti del viso e il fisico fragile sono simili a quelli dell'anesama ningyō, un tipo di bambola di carta giapponese. MegaGardevoir sembra essere basato su una ballerina di sala che indossa un ampio abito da ballo e guanti da sera. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Gardevoir",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Abbraccio",
     "sprites": {
         "gardevoir": {
@@ -77,6 +109,6 @@
         ]
     },
     "weight": {
-        "gardevoir": "48.4 kg"
+        "gardevoir": "48,4 kg"
     }
 }

@@ -10,9 +10,9 @@
         "Dreepy e Frigibax sono le uniche forme base di Pokémon pseudo-leggendari a non avere il totale delle statistiche base pari a 300.",
         "Dreepy e le sue evoluzioni Drakloak e Dragapult sono gli unici Pokémon che si trovano nel Gruppo Uova Drago e Amorfo.",
         "Giratina, Dragapult e le sue pre-evoluzioni Dreepy e Drakloak sono gli unici Pokémon con doppio tipo ad essere deboli ai loro stessi tipi.",
-        "Dreepy:\n\tHa la Difesa base più bassa tra tutti i Pokémon di tipo Drago.\n\tHa i PS base più bassi tra tutti i Pokémon di tipo Drago.\n\tCondivide con Bagon la Difesa Speciale base più bassa tra tutti i Pokémon di tipo Drago.\n\tCondivide con Gastly la Difesa più bassa tra tutti i Pokémon di tipo Spettro.\n\tCondivide con Shedinja la Difesa Speciale più bassa tra tutti i Pokémon di tipo Spettro.",
+        "Dreepy:\n\tHa la Difesa base più bassa tra tutti i Pokémon di tipo Drago.\n\tHa i Punti Salute base più bassi tra tutti i Pokémon di tipo Drago.\n\tCondivide con Bagon la Difesa Speciale base più bassa tra tutti i Pokémon di tipo Drago.\n\tCondivide con Gastly la Difesa più bassa tra tutti i Pokémon di tipo Spettro.\n\tCondivide con Shedinja la Difesa Speciale più bassa tra tutti i Pokémon di tipo Spettro.",
         "Ha la Difesa base più bassa tra tutti i Pokémon di tipo Drago.",
-        "Ha i PS base più bassi tra tutti i Pokémon di tipo Drago.",
+        "Ha i Punti Salute base più bassi tra tutti i Pokémon di tipo Drago.",
         "Condivide con Bagon la Difesa Speciale base più bassa tra tutti i Pokémon di tipo Drago.",
         "Condivide con Gastly la Difesa più bassa tra tutti i Pokémon di tipo Spettro.",
         "Condivide con Shedinja la Difesa Speciale più bassa tra tutti i Pokémon di tipo Spettro."
@@ -33,14 +33,14 @@
     "flat_name": "dreepy",
     "generation": 8,
     "height": {
-        "dreepy": "0.5 m"
+        "dreepy": "0,5 m"
     },
     "id": 885,
     "name": "Dreepy",
     "name_origin": "Dreepy potrebbe essere una combinazione di dragon, drago, o dreary, tetro, e creepy, spaventoso, o sleepy, assonnato. Dorameshiya potrebbe essere una combinazione di dragon, drago, e うらめしや urameshiya, una frase che viene tipicamente detta dai fantasmi. ",
     "origin": "Dreepy sembra essere la combinazione di un anfibio preistorico, il Diplocaulus, di un dardo e di un missile. Il tipo Drago potrebbe essere un riferimento al proteo, una specie di salamandra originaria dell'Europa centrale e sud-orientale che si credeva fosse un discendente dei draghi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Dreepy",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Risentimento",
     "sprites": {
         "dreepy": {
@@ -69,6 +69,6 @@
         ]
     },
     "weight": {
-        "dreepy": "2.0 kg"
+        "dreepy": "2,0 kg"
     }
 }

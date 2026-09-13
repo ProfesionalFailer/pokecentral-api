@@ -7,10 +7,8 @@
         }
     },
     "curiosities": [
-        "Nonostante non sia un Pokémon d'Acqua, e il suo habitat naturale sia esclusivamente la terraferma, Drapion fa parte del Gruppo Uova Acqua 3.\n\tOltre che con la sua pre-evoluzione Skorupi, condivide questa caratteristica con Archen e Archeops.",
-        "Oltre che con la sua pre-evoluzione Skorupi, condivide questa caratteristica con Archen e Archeops.",
-        "Nonostante sia basato su uno scorpione ha perso il tipo Coleottero con l'evoluzione.",
-        "È uno dei Pokémon che nell'anime vengono rappresentati in modo diverso rispetto alle dimensioni dei giochi: in uno scontro contro il Gliscor di Ash  viene rappresentato molto più grande di questo, mentre nei giochi viene descritto come alto solo 1.3 metri."
+        "Drapion e Skorupi sono gli unici Pokémon con un corpo insettoide inrodotti in quarta generazione.\n\tSono anche gli unici Pokémon nel Gruppo Uova Acqua 3 inrodotti in quarta generazione.",
+        "Sono anche gli unici Pokémon nel Gruppo Uova Acqua 3 inrodotti in quarta generazione."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/drapion.mp3",
     "dex_entries": {
@@ -18,8 +16,8 @@
             "diamond": "Con le zampe può accartocciare una macchina. Le punte degli artigli sono velenose.",
             "pearl": "Ha il corpo incassato in un robusto carapace. Ruota la testa di 180° e riesce a vedere tutto.",
             "platinum": "Dotato di una costituzione robusta, va orgoglioso della sua forza e abbatte i nemici senza usare tossine.",
-            "heartgold": "Temuto come la peste giacché attacca tutti i viaggiatori del deserto, umani o Pokémon.",
-            "soulsilver": "Temuto come la peste giacché attacca tutti i viaggiatori del deserto, umani o Pokémon.",
+            "heart-gold": "Temuto come la peste giacché attacca tutti i viaggiatori del deserto, umani o Pokémon.",
+            "soul-silver": "Temuto come la peste giacché attacca tutti i viaggiatori del deserto, umani o Pokémon.",
             "black": "Dotato di una costituzione robusta, va orgoglioso della sua forza e abbatte i nemici senza usare tossine.",
             "white": "Dotato di una costituzione robusta, va orgoglioso della sua forza e abbatte i nemici senza usare tossine.",
             "black-2": "Va fiero della sua forza con cui può fare a pezzi il nemico, ma in genere preferisce finirlo usando le sue tossine.",
@@ -42,14 +40,14 @@
     "flat_name": "drapion",
     "generation": 4,
     "height": {
-        "drapion": "1.3 m"
+        "drapion": "1,3 m"
     },
     "id": 452,
     "name": "Drapion",
-    "name_origin": "Deriva dalle parole Dracula o dragon  e scorpion . Potrebbe inoltre derivare da harpoon  e poison . ",
-    "origin": "Drapion sembra essere basato sulla classe di aracnidi degli Uropygi, aracnidi che riconducono ad uno scorpione. Per il fatto che appartiene al Gruppo Uova Acqua 3 potrebbe anche derivare da un antico gruppo di antropodi, gli euripteridi. ",
+    "name_origin": "Drapion potrebbe derivare da dragon, drago, drastic, drastico, in riferimento alla sua natura violenta, o Conte Dracula, in riferimento ai sui denti simili a quelli di un vampiro, e scorpion, scorpione. ",
+    "origin": "Drapion sembra essere basato su uno scorpione. Condivide tratti con il gruppo Thelyphonida. Il fatto che sia nel Gruppo Uova Acqua 3 potrebbe derivare dagli euripteridi, detti anche \"scorpioni di mare\", considerati antenati degli scorpioni moderni. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Drapion",
-    "shape": "insettoide",
+    "shape": "None",
     "specie": "Pokémon Scorpiaccio",
     "sprites": {
         "drapion": {
@@ -73,11 +71,11 @@
     },
     "types": {
         "drapion": [
-            "Veleno",
-            "Buio"
+            "Buio",
+            "Veleno"
         ]
     },
     "weight": {
-        "drapion": "61.5 kg"
+        "drapion": "61,5 kg"
     }
 }

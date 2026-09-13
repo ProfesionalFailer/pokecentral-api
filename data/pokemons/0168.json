@@ -11,25 +11,57 @@
         "Nonostante il suo nome e il suo aspetto ricordano un ragno, Ariados non ha le 8 zampe necessarie per essere un vero aracnide.",
         "Ariados e la sua pre-evoluzione Spinarak sono gli unici Pokémon di tipo Coleottero che possono imparare Ombra Notturna.",
         "Nelle versioni di Diamante, Perla e Platino, Ariados, Banette e Ledian possono essere trovati selvatici, al contrario delle loro pre-evoluzioni. L'unico modo per ottenere queste ultime è tramite allevamento, nonostante non siano collegati con nessun Pokémon baby.",
-        "Il suo nome nell'anime è stato pronunciato sia ar-ia-dos che er-ia-dos.",
-        "Nonostante Ariados possieda delle zanne molto simili a quelle che vengono mostrate nell’animazione di Velenodenti della sesta generazione, non può imparare questa mossa."
+        "Il suo nome nella serie animata è stato pronunciato sia ar-ia-dos che er-ia-dos."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/ariados.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "ariados": {
+            "gold": "Tesse un filo sia dalla bocca, sia dall'estremità opposta. È dura distinguerne l'inizio e la fine.",
+            "silver": "Sputa un filo ininterrotto dalla sua parte posteriore. Seguendo il filo si giunge al suo nido.",
+            "crystal": "Piuttosto che fare una tana in un luogo preciso, preferisce girare di notte alla ricerca di cibo.",
+            "ruby": "Le zampe di ARIADOS sono dotate di artigli uncinati che gli consentono di aggrapparsi a soffitti e pareti. Questo POKÉMON intrappola il nemico con la sua ragnatela sottile e robusta.",
+            "sapphire": "Le zampe di ARIADOS sono dotate di artigli uncinati che gli consentono di aggrapparsi a soffitti e pareti. Questo POKÉMON intrappola il nemico con la sua ragnatela sottile e robusta.",
+            "emerald": "Le zampe di ARIADOS sono dotate di artigli uncinati che gli consentono di aggrapparsi a soffitti e pareti. Intrappola il nemico con la sua ragnatela sottile e robusta.",
+            "fire-red": "Dalla sua parte posteriore si sviluppa un filo ininterrotto. Seguendo il filo si raggiunge il nido di questo POKéMON.",
+            "leaf-green": "Tesse un filo sia dalla bocca, sia dall'estremità opposta. È dura distinguere l'inizio e la fine.",
+            "diamond": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "pearl": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "platinum": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "heart-gold": "Seguendo il filo che gli esce da dietro, si giunge di certo fino al suo nido.",
+            "soul-silver": "Tesse un filo ininterrotto dalla sua parte posteriore. Seguendo il filo si giunge al suo nido.",
+            "black": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "white": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "black-2": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "white-2": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "x": "Seguendo il filo che gli esce da dietro, si giunge di certo fino al suo nido.",
+            "y": "Aggancia la preda con un filo di seta e la lascia andare. Poi segue il filo e la trova quando è in gruppo.",
+            "omega-ruby": "Le zampe di Ariados sono dotate di artigli uncinati che gli consentono di aggrapparsi a soffitti e pareti. Questo Pokémon intrappola il nemico con la sua ragnatela sottile e robusta.",
+            "alpha-sapphire": "Le zampe di Ariados sono dotate di artigli uncinati che gli consentono di aggrapparsi a soffitti e pareti. Questo Pokémon intrappola il nemico con la sua ragnatela sottile e robusta.",
+            "sun": "In alcune regioni il filo di Ariados viene usato per tessere al telaio, grazie alla sua straordinaria resistenza.",
+            "moon": "Tesse un filo sia dalla bocca che dalla parte posteriore del corpo. Vi avvolge la preda e lentamente ne succhia i fluidi vitali.",
+            "ultra-sun": "Vaga di notte in cerca di prede. Quando ne trova una, usa il suo filo per immobilizzarla e poi la divora con le sue zanne.",
+            "ultra-moon": "Intrappola la preda usando il filo che secerne dalla bocca. Quando scende la notte si allontana dalla tela per cacciare.",
+            "brilliant-diamond": "Attacca un filo alla preda e la lascia andare di proposito. Poi segue il filo per catturare la preda e tutti i suoi compagni.",
+            "shining-pearl": "Attacca un filo alla preda e la lascia andare di proposito. Poi segue il filo per catturare la preda e tutti i suoi compagni.",
+            "scarlet": "Tesse un filo ininterrotto dalla sua parte posteriore. Seguendo il filo si giunge al suo nido.",
+            "violet": "Non fa il nido in un luogo specifico. Quando cala la notte, va in giro in cerca di cibo.",
+            "legends-za": "Poiché tesse il filo sia dall'addome che dalla bocca, a prima vista è difficile capire quale sia la testa."
+        }
+    },
     "egg_groups": [
         "Coleottero"
     ],
     "flat_name": "ariados",
     "generation": 2,
     "height": {
-        "ariados": "1.1 m"
+        "ariados": "1,1 m"
     },
     "id": 168,
     "name": "Ariados",
-    "name_origin": "Il nome di Ariados deriva probabilmente da aracnide, ragno in latino o Arianna, Aracne. Dos potrebbe derivare dal giapponese 脅す odosu, minacciare. Come alternativa, dos potrebbe riferirsi alla parola spagnola dos che significa due, usata forse perché il Pokémon ha due pungiglioni, o perché è la seconda forma della sua linea evolutiva. ",
-    "origin": "L'aspetto di Ariados sembra basarsi sul Myrmarachne formicaria, ma ricorda due yōkai: l'ushi-oni e lo tsuchigumo, chiamato anche Yatsukahagi, che di solito appare come un ragno gigante. ",
+    "name_origin": "Ariados deriva probabilmente da Ἀριάδνη Ariádnē, nome greco della principessa mitologica Arianna, associata con il mito di Teseo e Arianna, dove la principessa dona all'eroe una palla di filo perché possa tracciare la strada all'interno del labirinto del minotauro. Potrebbe anche derivare da aracnide e 脅す odosu, minacciare o la parola spagnola dos, due, usata forse perché il Pokémon ha due pungiglioni, o perché è la seconda forma della sua linea evolutiva. ",
+    "origin": "Ariados sembra essere basato su un Myrmarachne formicaria, ma con l'addome invertito col resto del corpo, che potrebbe essere descritto nelle sue voci del Pokédex. La sua abilità di secernere fili dalla bocca e la sua mossa esclusiva lo riconducono ai ragni del genere Scytodidae, che secernono un filo velenoso dai cheliceri per catturare le prede. Le sue \"zampe posteriori\" potrebbero essere un riferimento agli araneidi come i Trichonephila clavata o i Micrathena sagittata. Il corno sulla testa lo riconduce anche alle tarantole del genere Ceratogyrus, alcune delle quali hanno un corno simile. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Ariados",
-    "shape": "insettoide",
+    "shape": "None",
     "specie": "Pokémon Lungazampa",
     "sprites": {
         "ariados": {
@@ -53,11 +85,11 @@
     },
     "types": {
         "ariados": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {
-        "ariados": "33.5 kg"
+        "ariados": "33,5 kg"
     }
 }

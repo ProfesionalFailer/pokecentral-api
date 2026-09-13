@@ -10,23 +10,26 @@
         }
     },
     "curiosities": [
-        "Secondo i creatori rappresenta lo stile giapponese.",
-        "È il Pokémon iniziale di tipo Acqua col totale delle statistiche base più basso.",
-        "È il Pokémon iniziale di tipo Acqua più pesante.",
-        "Samurott ha la durata del verso più lunga di qualsiasi altro Pokémon iniziale, durando 2,099 secondi.",
-        "Samurott, Emboar e Serperior hanno la stessa somma di statistiche base, 528."
+        "Emboar, Samurott e Serperior condividono lo stesso totale delle statistiche di base pari a 528.",
+        "La linea evolutiva di Dewott è l'unica tra i Pokémon iniziali di tipo acqua a non essere incorporato nel Gruppo Uova Acqua 1.",
+        "I Pokémon nella linea evolutiva di Dewott sono le uniche specie presenti in Leggende Pokémon: Arceus non apparsi in altri giochi dell'ottava generazione.\n\tSamurott di Unima è l'unico Pokémon non disponibile in ottava generazione, mentre le sue preevoluzioni lo sono.",
+        "Samurott di Unima è l'unico Pokémon non disponibile in ottava generazione, mentre le sue preevoluzioni lo sono.",
+        "Samurott e le sue preevoluzioni sono stati disegnati da Yusuke Ohmura.",
+        "Nei dati di Leggende Pokémon: Arceus l'abilità di Smaurott di Hisui è Guscioscudo invece di Affilama."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/samurott.mp3",
     "dex_entries": {
         "samurott": {
             "black": "Atterra l'avversario con un solo colpo della spada inserita nell'armatura. Una sua occhiata ammutolisce il nemico.",
             "white": "Usa parte dell'armatura degli arti anteriori come fosse una grande spada. Intimidisce il nemico col solo ruggito.",
-            "black-2": "Riesce ad estrarre le sue spade, colpire il nemico e riporle al loro posto nelle zampe anteriori in un batter d'occhio.",
-            "white-2": "Riesce ad estrarre le sue spade, colpire il nemico e riporle al loro posto nelle zampe anteriori in un batter d'occhio.",
+            "black-2": "Riesce a estrarre le sue spade, colpire il nemico e riporle al loro posto nelle zampe anteriori in un batter d'occhio.",
+            "white-2": "Riesce a estrarre le sue spade, colpire il nemico e riporle al loro posto nelle zampe anteriori in un batter d'occhio.",
             "x": "Riesce a estrarre le sue spade, colpire il nemico e riporle al loro posto nelle zampe anteriori in un batter d'occhio.",
             "y": "Atterra l'avversario con un solo colpo della spada inserita nell'armatura. Una sua occhiata ammutolisce il nemico.",
             "omega-ruby": "Riesce a estrarre le sue spade, colpire il nemico e riporle a loro posto nelle zampe anteriori in un batter d'occhio.",
-            "alpha-sapphire": "Atterra l'avversario con un solo colpo della spada inserita nell'armatura. Una sua occhiata ammutolisce il nemico."
+            "alpha-sapphire": "Atterra l'avversario con un solo colpo della spada inserita nell'armatura. Una sua occhiata ammutolisce il nemico.",
+            "scarlet": "È un maestro nello sguainare la spada. Decide le sorti della lotta con un solo colpo delle grandi spade inserite nell'armatura degli arti anteriori.",
+            "violet": "Ha un carattere intransigente e picchia senza pietà chi non rispetta le regole del gruppo che comanda."
         },
         "forma-di-hisui": {
             "legends-arceus": "Abile spadaccino dal carattere spietato, attacca con una sequela di colpi simili a mille burrascosi flutti. Di raro sembiante, frutto dell'evoluzione a Hisui."
@@ -38,14 +41,14 @@
     "flat_name": "samurott",
     "generation": 5,
     "height": {
-        "samurott": "1.5 m"
+        "samurott": "1,5 m"
     },
     "id": 503,
     "name": "Samurott",
-    "name_origin": "Il suo nome deriva da samurai e otter . ",
-    "origin": "Ha l'aspetto di un leone marino o una lontra gigante sudamericana e di un samurai o uno shōgun. La sua coda è basata sui ventagli da combattimento giapponesi. La conchiglia sulla sua testa ricorda quelle del genere Murex. ",
+    "name_origin": "Samurott potrebbe derivare da samurai e otter, lontra. Daikenki, il suo nome giapponese, potrebbe derivare da 大 dai, grande, 剣 ken, spada, 鬼 ki, demone, e 剣鬼 kenki, spadaccino demoniaco. ",
+    "origin": "Oshawott è basato su una lontra, anche se più simile a una ] rispetto alla lontra marina delle sue preevoluzioni, un samurai e un leone marino. Anche se era stato deciso che Oshawott sarebbe stato basato su una lontra marina, i designer hanno avuto problemi a creare un design finale che non fosse solo una lontra bipede più grande. In quel periodo Yusuke Ohmura andò all'Acquario di Sunshine City in Ikebukuro per vedere una mostra sulle lontre, ma fu invece incuriosito dalla forza dei leoni marini, decidendo quindi di incorporare alcuni loro aspetti nel design. L'aspetto della coda di Samurott ricorda i ventagli da combattimento giapponesi, mentre il suo \"elmo\" ricorda il guscio di Murex trapa. I segni sul petto ricordano una lontra gigante. Il modo in cui estrai, attacca con, e ripone le sue spade ricorda lo iaidō, un tipo di arte marziale che usa lame. Le vibrisse del Pokémon ricordano i menpō, un tipo di armatura facciale giapponese che presenta grandi baffi. Oshawott, Dewott e Samurott sono basati sulla vita di un samurai: Oshawott è un bambino, Dewott un giovane samurai e Samurott un comandante militare. Le linee evolutive di Snivy, Tepig, e Oshawott rappresentano le culture che hanno ispirato il design di Unima: occidentale, cinese e giapponese, rispettivamente. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Samurott",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Dignità",
     "sprites": {
         "samurott": {
@@ -90,6 +93,6 @@
         ]
     },
     "weight": {
-        "samurott": "94.6 kg"
+        "samurott": "94,6 kg"
     }
 }

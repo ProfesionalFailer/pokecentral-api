@@ -19,7 +19,9 @@
             "x": "Quando viene attaccato schizza acqua da tutte le piume del corpo. Fugge dileguandosi in una nuvola di spruzzi.",
             "y": "È più ferrato nel nuoto che nel volo. Si immerge nell'acqua per mangiare i licheni marini di cui va matto.",
             "omega-ruby": "Quando viene attaccato schizza acqua da tutte le piume del corpo. Fugge dileguandosi in una nuvola di spruzzi.",
-            "alpha-sapphire": "È più ferrato nel nuoto che nel volo. Si immerge nell'acqua per mangiare i licheni marini di cui va matto."
+            "alpha-sapphire": "È più ferrato nel nuoto che nel volo. Si immerge nell'acqua per mangiare i licheni marini di cui va matto.",
+            "scarlet": "",
+            "violet": "Allena la muscolatura nuotando nelle profondità degli specchi d'acqua in cerca di muschi acquatici con cui nutrirsi."
         }
     },
     "egg_groups": [
@@ -29,14 +31,14 @@
     "flat_name": "ducklett",
     "generation": 5,
     "height": {
-        "ducklett": "0.5 m"
+        "ducklett": "0,5 m"
     },
     "id": 580,
     "name": "Ducklett",
     "name_origin": "Il suo nome deriva dall'inglese duckling  e wet , oppure un'abbreviazione del suffisso -ette . ",
     "origin": "Si basa su un piccolo di anatra o cigno. Il fatto che Swanna sia basato appunto su un cigno, potrebbe essere un riferimento alla favola de il brutto anatroccolo. Il piumaggio inferiore più scuro ricorda i salvagenti ad anello , e con l'evoluzione assume l'aspetto di un bikini. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Ducklett",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Alacquatico",
     "sprites": {
         "ducklett": {
@@ -65,6 +67,6 @@
         ]
     },
     "weight": {
-        "ducklett": "5.5 kg"
+        "ducklett": "5,5 kg"
     }
 }

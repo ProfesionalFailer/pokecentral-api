@@ -7,10 +7,11 @@
         }
     },
     "curiosities": [
-        "Secondo un’intervista a Ken Sugimori, Shellos e Gastrodon erano in origine programmati per Pokémon Rubino e Zaffiro, ma non furono inclusi per delle limitazioni di tempo.\n\tInfatti il backsprite sia di Shellos che di Gastrodon sono presenti nella beta di Pokémon Diamante e Perla, senza però alcun frontsprite.",
-        "Infatti il backsprite sia di Shellos che di Gastrodon sono presenti nella beta di Pokémon Diamante e Perla, senza però alcun frontsprite.",
-        "In Diamante e Perla nessun Allenatore utilizza la forma Mare Est di Shellos in battaglia, anche se l'Allenatore si trova a est del Monte Corona. Questo poi è stato corretto in Platino.",
-        "In Pokémon X e Y è possibile catturare solo la forma Mare Ovest di Gastrodon, mentre in Pokémon Sole e Luna solo la forma Mare Est. In entrambi i casi per registrare tutte le forme sono necessari scambi o trasferimenti da generazioni passate."
+        "Secondo un'intervista a Ken Sugimori, Shellos e Gastrodon erano in origine programmati per Pokémon Rubino e Zaffiro, ma non furono inclusi per delle limitazioni di tempo.\n\tGli sprite retro beta sia di Shellos che di Gastrodon sono presenti nel codice di gioco di Pokémon Diamante e Perla, senza però alcuno sprite frontale.",
+        "Gli sprite retro beta sia di Shellos che di Gastrodon sono presenti nel codice di gioco di Pokémon Diamante e Perla, senza però alcuno sprite frontale.",
+        "In Pokémon Diamante e Perla nessun Allenatore utilizza la forma Mare Est di Gastrodon in battaglia, anche se l'Allenatore si trova a est del Monte Corona. Questo è poi stato corretto in Pokémon Platino.",
+        "Prima della sesta generazione Shellos aveva la sagoma .",
+        "Shellos e Gastrodon furono accidentalmente rilasciati su Pokémon GO il 29 Aprile 2019, ma furono rimossi poco dopo. Furono effettivamente introdotti il 17 Maggio 2019 con vari altri Pokémon di quarta generazione."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/gastrodon.mp3",
     "dex_entries": {
@@ -18,8 +19,8 @@
             "diamond": "Ha un corpo flessibile e senza ossa. Qualsiasi parte del corpo che gli venga lacerata ricresce subito.",
             "pearl": "Pare che in passato il suo corpo fosse protetto da un enorme carapace. Vive in bacini poco profondi.",
             "platinum": "In passato portava sulla schiena un robusto carapace. Ne rimangono tracce nelle sue cellule.",
-            "heartgold": "Se minacciato da un nemico naturale rilascia un liquido viola e se la dà a gambe, per così dire...",
-            "soulsilver": "Se minacciato da un nemico naturale rilascia un liquido viola e se la dà a gambe, per così dire...",
+            "heart-gold": "Se minacciato da un nemico naturale rilascia un liquido viola e se la dà a gambe, per così dire...",
+            "soul-silver": "Se minacciato da un nemico naturale rilascia un liquido viola e se la dà a gambe, per così dire...",
             "black": "In passato portava sulla schiena un robusto carapace. Ne rimangono tracce nelle sue cellule.",
             "white": "In passato portava sulla schiena un robusto carapace. Ne rimangono tracce nelle sue cellule.",
             "black-2": "In passato portava sulla schiena un robusto carapace. Ne rimangono tracce nelle sue cellule.",
@@ -61,14 +62,14 @@
     "flat_name": "gastrodon",
     "generation": 4,
     "height": {
-        "gastrodon": "0.9 m"
+        "gastrodon": "0,9 m"
     },
     "id": 423,
     "name": "Gastrodon",
-    "name_origin": "Deriva dalla parola inglese gastropod  con la parola spagnola don . ",
-    "origin": "Gastrodon è probabilmente ispirato ad una lumaca di mare. In particolare Gastrodon Mare Ovest sembra basarsi su una Opisthobranchia, mentre Gastrodon Mare Est sull'Anaspidea. ",
+    "name_origin": "Gastrodon potrebbe derivare da gastropod, gasteropode, o Gastropteron, un genere di lumache di mare, e don, spagnolo per \"Signore\", o -don, suffisso spesso usato nei nomi dei dinosauri derivato dal greco per \"dente\". Tritodon, il suo nome giapponese, potrebbe derivare da Tritoniidae, un genere di lumache di mare, o triton snail, Charonia, un tipo di lumaca di mare che prende il suo nome comune da Tritone, divinità greca del mare, e don, spagnolo per \"Signore\", o -don, suffisso spesso usato nei nomi dei dinosauri derivato dal greco per \"dente\". ",
+    "origin": "Shellos è basato su una lumaca di mare. Ricorda varie specie di opisthobranchi, e la sua abilità di secernere un liquido viola ricorda un membro della famiglia Aplysiida, molti dei quali secernono un inchiostro violaceo come meccanismo di difesa. La voce del Pokédex di Pokémon Scarlatto della forma Mare Est menziona che gli esemplari di questa forma sono in diminuzione: questo potrebbe essere un riferimento a come le specie di lumache di mare che vivono in ambienti caldi sono in aumento nel mondo reale a scapito di quelle che vivono in acque fredde, a causa del riscaldamento globale. I tentacoli sulla testa di Gastrodon ricordano corna di una mucca: questo è possibilmente un gioco di parole con il nome giapponese della lumaca di mare, 海牛 umiushi, composto da 海 umi, mare, e 牛 ushi, mucca, bovino. Questo è supportato da alcune illustrazioni rilasciate nel 2021 per l'anno del bue, che raffigurano il Pokémon insieme ad altri molto più bovini, come Tauros e Miltank. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Gastrodon",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Lumacomare",
     "sprites": {
         "mare-ovest": {
@@ -96,11 +97,11 @@
     },
     "types": {
         "gastrodon": [
-            "Terra",
-            "Acqua"
+            "Acqua",
+            "Terra"
         ]
     },
     "weight": {
-        "gastrodon": "29.9 kg"
+        "gastrodon": "29,9 kg"
     }
 }

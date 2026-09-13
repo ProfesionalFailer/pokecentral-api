@@ -18,13 +18,16 @@
         "Pokémon di Gruppo Uova Erba",
         "Pagine con articoli di Johto World",
         "Pokémon appartenenti a una linea di evoluzione a due stadi",
-        "Pokémon con statistiche base totali di 304"
+        "Pokémon con statistiche base totali di 304",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/capsakid.mp3",
     "dex_entries": {
         "capsakid": {
             "scarlet": "Più si espone alla luce solare e più all'interno del suo corpo aumentano le sostanze che determinano la piccantezza delle sue mosse.",
-            "violet": "La cucina di Paldea fa ampio uso degli incisivi caduti dei Capsakid, che rendono i piatti estremamente piccanti."
+            "violet": "La cucina di Paldea fa ampio uso degli incisivi caduti dei Capsakid, che rendono i piatti estremamente piccanti.",
+            "legends-za": "Ha dei forti sbalzi emotivi, forse per via delle sostanze piccanti contenute nel suo corpo. Morde tutto ciò che non gli va a genio."
         }
     },
     "egg_groups": [
@@ -33,14 +36,14 @@
     "flat_name": "capsakid",
     "generation": 9,
     "height": {
-        "capsakid": "0.3 m"
+        "capsakid": "0,3 m"
     },
     "id": 951,
     "name": "Capsakid",
     "name_origin": "Capsakid è l'unione di capsaicina, la sostanza che causa la piccantezza nel cibo, e kid, ragazzino. Kapusaiji potrebbe essere la combinazione di カプサイシン kapusaishin, capsaicina, e 児 ji, bambino. ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Capsakid",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Habanero",
     "sprites": {
         "capsakid": {
@@ -68,6 +71,6 @@
         ]
     },
     "weight": {
-        "capsakid": "3.0 kg"
+        "capsakid": "3,0 kg"
     }
 }

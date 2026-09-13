@@ -10,10 +10,45 @@
         "Il percorso in cui compaiono sciami di Snubbull in Pokémon Diamante e Perla corrisponde al suo numero di Pokédex Nazionale: 209.",
         "Snubbull e Granbull condividono la stessa categoria di Clefairy e Clefable. Sono tutti noti col nome di Pokémon Fata.\n\tCasualmente entrambe le famiglie evolutive hanno cambiato tipo da Normale a Folletto in sesta generazione.",
         "Casualmente entrambe le famiglie evolutive hanno cambiato tipo da Normale a Folletto in sesta generazione.",
-        "Escludendo alcuni Pokémon evento che conoscevano Visotruce in seconda generazione, Snubbull è l'unico Pokémon che può imparare sia questa mossa che Fascino, in qualunque modo."
+        "Escludendo alcuni Pokémon evento che conoscevano Visotruce in seconda generazione, Snubbull è l'unico Pokémon che può imparare sia questa mossa che Fascino, in qualunque modo.",
+        "Nel merchandise per il film Mewtwo contro Mew, incluso il libro tratto da Le vacanze di Pikachu, Snubbull è erroneamente chiamato \"Snubble\".\n\tQuesto accade anche nella scheda del titolo inglese di Credi sempre in te stesso.",
+        "Questo accade anche nella scheda del titolo inglese di Credi sempre in te stesso.",
+        "Snubbull viene chiamato \"Buru\" nelle carte collezionabili del primo film."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/snubbull.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "snubbull": {
+            "gold": "Nonostante l'aspetto spaventoso è in realtà caro e affettuoso. È molto popolare tra le donne.",
+            "silver": "Ha uno spirito attivo e giocoso. A molti piace giocherellare con lui per i suoi modi affettuosi.",
+            "crystal": "Ringhia spavaldo per nascondere la paura verso il nemico, ma in realtà è piuttosto codardo.",
+            "ruby": "Mostrando le zanne e ringhiando furiosamente, SNUBBULL terrorizza i POKéMON più piccoli mettendoli in fuga. Tuttavia, pare intristirsi ogni volta che il nemico scappa atterrito.",
+            "sapphire": "Mostrando le zanne e ringhiando furiosamente, SNUBBULL terrorizza i POKéMON più piccoli mettendoli in fuga. Tuttavia, pare intristirsi ogni volta che il nemico scappa atterrito.",
+            "emerald": "Mostrando le zanne e ringhiando, SNUBBULL terrorizza i POKéMON più piccoli mettendoli in fuga. Tuttavia, pare intristirsi ogni volta che il nemico scappa atterrito.",
+            "fire-red": "Ha uno spirito attivo e giocoso. Per i suoi modi affettuosi, è apprezzato soprattutto dalle donne.",
+            "leaf-green": "Nonostante l'aspetto spaventoso è in realtà caro e affettuoso. È molto popolare tra le donne.",
+            "diamond": "I Pokémon più piccoli fuggono alla vista della sua faccia terrificante. Ma le donne lo trovano carino.",
+            "pearl": "I Pokémon più piccoli fuggono alla vista della sua faccia terrificante. Ma le donne lo trovano carino.",
+            "platinum": "I Pokémon più piccoli fuggono alla vista della sua faccia terrificante. Ma le donne lo trovano carino.",
+            "heart-gold": "Nonostante l'aspetto spaventoso è in realtà dolce e affettuoso. È molto popolare tra le donne.",
+            "soul-silver": "Ha uno spirito attivo e giocoso. A molti piace giocherellare con lui per i suoi modi affettuosi.",
+            "black": "I Pokémon più piccoli fuggono alla vista della sua faccia terrificante. Ma le donne lo trovano carino.",
+            "white": "I Pokémon più piccoli fuggono alla vista della sua faccia terrificante. Ma le donne lo trovano carino.",
+            "black-2": "I Pokémon più piccoli fuggono alla vista della sua faccia terrificante. Ma le donne lo trovano carino.",
+            "white-2": "I Pokémon più piccoli fuggono alla vista della sua faccia terrificante. Ma le donne lo trovano carino.",
+            "x": "Ha uno spirito attivo e giocoso. A molti piace giocherellare con lui per i suoi modi affettuosi.",
+            "y": "I Pokémon più piccoli fuggono alla vista della sua faccia terrificante. Ma le donne lo trovano carino.",
+            "omega-ruby": "Mostrando le zanne e ringhiando furiosamente, Snubbull terrorizza i Pokémon più piccoli mettendoli in fuga. Tuttavia, pare intristirsi ogni volta che il nemico scappa atterrito.",
+            "alpha-sapphire": "Mostrando le zanne e ringhiando furiosamente, Snubbull terrorizza i Pokémon più piccoli mettendoli in fuga. Tuttavia, pare intristirsi ogni volta che il nemico scappa atterrito.",
+            "sun": "Nonostante la faccia torva, è molto timido. Si sforza di apparire minaccioso, ma proprio per questo motivo molti lo trovano carino.",
+            "moon": "Emette versi inquietanti, ma di solito è tranquillo e passa metà della giornata a dormire.",
+            "ultra-sun": "Si affeziona facilmente ed è sempre in cerca di attenzioni, nonostante la sua espressione. I giovani lo adorano proprio per questo.",
+            "ultra-moon": "Nonostante il suo aspetto, è piuttosto timido. Quando si ritrova in mezzo a dei Pokémon Cagnolino, tutti lo prendono in giro.",
+            "brilliant-diamond": "I Pokémon più piccoli fuggono alla vista della sua faccia terrificante. Tuttavia, molte persone la trovano adorabile.",
+            "shining-pearl": "I Pokémon più piccoli fuggono alla vista della sua faccia terrificante. Tuttavia, molte persone la trovano adorabile.",
+            "scarlet": "È piuttosto codardo, ma ringhia a più non posso per nascondere la paura.",
+            "violet": "Emette versi inquietanti, ma di solito è tranquillo e passa metà della giornata a dormire."
+        }
+    },
     "egg_groups": [
         "Campo",
         "Magico"
@@ -21,14 +56,14 @@
     "flat_name": "snubbull",
     "generation": 2,
     "height": {
-        "snubbull": "0.6 m"
+        "snubbull": "0,6 m"
     },
     "id": 209,
     "name": "Snubbull",
-    "name_origin": "Il nome di Snubbull potrebbe essere una combinazione di bull, riferito ai bulldog, e snub, che indica sia una sensazione di disprezzo che un naso schiacciato. Il nome potrebbe anche contenere Snuggle, coccole. ",
-    "origin": "Snubbull è basato su un bulldog. ",
+    "name_origin": "Snubbull potrebbe essere una combinazione di snub, trattare con sdegno, e bulldog o bully, bullo. Potrebbe anche includere snuggle, coccolare. Bulu, il suo nome giapponese, potrebbe derivare da bulldog. ",
+    "origin": "Snubbull sembra essere basato su un bulldog data la sua stazza, il naso schiacciato e mascella inferiore prominente. Il suo pelo rosa e simile ad un abito potrebbero essere ispirati dalla tendenza di alcuni proprietari di cani di tingere il loro pelo e far indossare loro indumenti. La sua associazione con le fate potrebbe derivare dal Cù Sìth, una creatura del folclore scozzese il cui nome significa \"cane fata\". Alternativamente, nonostante il suo aspetto aggressivo faccia pensare a goblin e orchi, il Pokémon potrebbe essere ispirato ad un coboldo, una specie di folletto tipicamente rappresentata con fattezze di cane in media giapponesi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Snubbull",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Fata",
     "sprites": {
         "snubbull": {
@@ -56,6 +91,6 @@
         ]
     },
     "weight": {
-        "snubbull": "7.8 kg"
+        "snubbull": "7,8 kg"
     }
 }

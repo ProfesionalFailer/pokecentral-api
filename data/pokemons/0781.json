@@ -5,17 +5,17 @@
         }
     },
     "curiosities": [
-        "Dhelmise ha la statistica base di Attacco più alta di tutti i tipi Erba e Spettro.",
-        "Dhelmise è l'unico Pokémon non di tipo Acqua che si può trovare selvatico solo pescando.",
         "Dhelmise è l'unico Pokémon con un totale di statistiche base pari a 517.",
-        "Dhelmise è l'unico Pokémon a ricevere di fatto tre bonus di tipo: due sono acquisiti dal doppio tipo Erba/Spettro, mentre il terzo è dato dalla sua abilità, che aumenta la potenza delle mosse di tipo Acciaio del 50%."
+        "In settima generazione, Dhelmise poteva imparare Attrazione nonostante sia un Pokémon di sesso sconosciuto, quindi la mossa sarebbe stata inutile. A partire dall'ottava generazione, Dhelmise non può più imparare Attrazione.",
+        "Dhelmise è l'unico Pokémon a ricevere di fatto tre bonus di tipo: due sono acquisiti dal doppio tipo Erba/Spettro, mentre il terzo è dato dalla sua abilità Tempracciaio, che aumenta la potenza delle mosse di tipo Acciaio del 50%.",
+        "Dhelmise è l'unico Pokémon che si trova negli incontri casuali sull'Isola dell'Armatura che non appare nel Pokédex Armatura."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/dhelmise.mp3",
     "dex_entries": {
         "dhelmise": {
             "sun": "Roteando l'enorme ancora, è capace di mandare KO con un solo colpo persino un Wailord. Il suo vero corpo è composto da alghe verdi.",
             "moon": "È la reincarnazione dello spirito delle alghe marine. Si protegge stringendo a sé i rifiuti che trova in mare avvolgendoli nelle sue alghe.",
-            "ultra-sun": "Ruba l’energia vitale della preda avvolgendola con le sue alghe verdi. Prende di mira solo i Pokémon di grossa stazza come Wailord.",
+            "ultra-sun": "Ruba l'energia vitale della preda avvolgendola con le sue alghe verdi. Prende di mira solo i Pokémon di grossa stazza come Wailord.",
             "ultra-moon": "Le sue alghe formano una specie di catena che può allungarsi per diverse centinaia di metri. Per qualche strano motivo, va d'accordo con Skrelp.",
             "sword": "Alcune alghe, impigliandosi a dei pezzi di relitti sul fondo del mare, si sono tramutate in questo Pokémon di tipo Spettro.",
             "shield": "Cattura le prede calando la sua ancora in mare. Riesce ad assorbire l'energia vitale persino di Pokémon enormi come Wailord."
@@ -27,14 +27,14 @@
     "flat_name": "dhelmise",
     "generation": 7,
     "height": {
-        "dhelmise": "3.9 m"
+        "dhelmise": "3,9 m"
     },
     "id": 781,
     "name": "Dhelmise",
     "name_origin": "Dhelmise è una combinazione tra demise  e helm . Dadarin è una combinazione tra 祟り tatari  e 舵輸 darin . ",
-    "origin": "",
+    "origin": "Dhelmise sembrerebbe essere ispirato a un ammasso di alghe marine che tengono insieme l'ancora e il timone di una nave naufragata. Concettualmente, potrebbe basarsi su varie leggende di navi fantasma, come l'Olandese Volante, una nave maledetta condannata a solcare eternamente i mari. Il comportamento di Dhelmise potrebbe richiamare due celebri capitani della letteratura classica: il Capitano Achab, protagonista di Moby Dick di Herman Melville, che muore legato al proprio arpione mentre tenta di uccidere una balena, e il capitano della nave fantasma Demeter, che in Dracula  di Bram Stoker viene ritrovato legato al timone, prosciugato dal protagonista. Il tipo di alga su cui si basa Dhelmise potrebbe essere la Codium fragile, conosciuta anche come \"dita del morto\". La sua versione cromatica con il corpo rosso potrebbe invece essere un riferimento alle alghe rosse. Il concetto di Dhelmise come mostro marino basato su alghe ricorda le opere di William Hope Hodgson, in particolare i racconti ambientati nel mar dei Sargassi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Dhelmise",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Brandellalga",
     "sprites": {
         "dhelmise": {
@@ -58,11 +58,11 @@
     },
     "types": {
         "dhelmise": [
-            "Erba",
-            "Spettro"
+            "Spettro",
+            "Erba"
         ]
     },
     "weight": {
-        "dhelmise": "210.0 kg"
+        "dhelmise": "210,0 kg"
     }
 }

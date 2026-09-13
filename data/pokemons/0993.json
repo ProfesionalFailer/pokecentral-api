@@ -17,10 +17,11 @@
         "Pokémon di Gruppo Uova Sconosciuto",
         "Pokémon che non fanno parte di una linea di evoluzione",
         "Pokémon con statistiche base totali di 570",
-        "Pagine che richiamano file inesistenti",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti",
         "Pokémon Paradosso"
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/colloferreo.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/ironjugulis.mp3",
     "dex_entries": {
         "colloferreo": {
             "scarlet": "Somiglia a un Pokémon presentato da una rivista di paranormale come il frutto dell'amore tra un Hydreigon e un robot.",
@@ -33,14 +34,14 @@
     "flat_name": "colloferreo",
     "generation": 9,
     "height": {
-        "colloferreo": "1.3 m"
+        "colloferreo": "1,3 m"
     },
     "id": 993,
     "name": "Colloferreo",
-    "name_origin": "",
+    "name_origin": "Colloferreo in italiano significa letteralmente \"collo di ferro\".\nL'inglese Iron Jugulis si può tradurre come \"giugulare di ferro\". ",
     "origin": "Colloferreo potrebbe essere una versione robotica di Hydreigon. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Colloferreo",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Paradosso",
     "sprites": {
         "colloferreo": {
@@ -64,11 +65,11 @@
     },
     "types": {
         "colloferreo": [
-            "Volante",
-            "Buio"
+            "Buio",
+            "Volante"
         ]
     },
     "weight": {
-        "colloferreo": "111.0 kg"
+        "colloferreo": "111,0 kg"
     }
 }

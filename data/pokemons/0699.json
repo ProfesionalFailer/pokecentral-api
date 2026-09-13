@@ -6,7 +6,7 @@
         }
     },
     "curiosities": [
-        "È il Pokémon di sesta generazione non leggendario più alto, con i suoi 2,7 m. È subito seguito da Tyrantrum, che misura 2,5 cm.",
+        "È il Pokémon di sesta generazione non leggendario più alto, con i suoi 2,7 m. È subito seguito da Tyrantrum, che misura 2,5 m.",
         "Aurorus ha la più alta statistica base di Punti Salute fra tutti i Pokémon di tipo Roccia.",
         "Prima di Leggende Pokémon: Arceus nessun Pokémon aveva la stessa combinazione di tipi di Aurorus e della sua pre evoluzione."
     ],
@@ -20,8 +20,10 @@
             "ultra-sun": "Di recente ha fatto notizia il ritrovamento di un esemplare in perfetto stato di conservazione intrappolato in un iceberg.",
             "ultra-moon": "La superficie del suo corpo ha una temperatura di -150 °C. È un Pokémon generalmente molto tranquillo e docile.",
             "sword": "È stato rigenerato da un fossile. Si dice che quando Aurorus ulula, nel cielo notturno compaia l'aurora boreale.",
-            "shield": "Quando è in preda all’ira emette un getto violento di aria gelida che congela tutto ciò che lo circonda."
-        }
+            "shield": "Quando è in preda all'ira emette un getto violento di aria gelida che congela tutto ciò che lo circonda.",
+            "legends-za": "Avvolge e congela i nemici con un getto di aria gelida a -150 °C che emette dai cristalli romboidali che ha sul corpo."
+        },
+        "\n": {}
     },
     "egg_groups": [
         "Mostro"
@@ -29,14 +31,14 @@
     "flat_name": "aurorus",
     "generation": 6,
     "height": {
-        "aurorus": "2.7 m"
+        "aurorus": "2,7 m"
     },
     "id": 699,
     "name": "Aurorus",
     "name_origin": "Aurorus è una combinazione tra aurora e Amargasaurus. Amaruruga deriva da Amargasaurus. ",
     "origin": "Probabilmente è basato su un Diplodocus e le creste rappresentano l'aurora boreale, fenomeno che appare solo in paesi molto freddi, il che si va a collegare con il tipo Ghiaccio del Pokémon. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Aurorus",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Tundra",
     "sprites": {
         "aurorus": {
@@ -65,6 +67,6 @@
         ]
     },
     "weight": {
-        "aurorus": "225.0 kg"
+        "aurorus": "225,0 kg"
     }
 }

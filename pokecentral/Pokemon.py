@@ -41,14 +41,24 @@ class Pokemon:
             "lxml",
         )
 
+        '''
         self._indices = {
             _POKEHELP.decode(i.find("span", {"class": "toctext"}).text): i.get(
                 "href"
             ).strip("#")
-            for i in self.soup.find("div", {"id": "toc"}).find("ul").find_all(href=True)
+            for i in self.soup.find("div", {"id": "toc"}).find("ul")
+            .find_all(href=True)
         }
+        '''
 
-        print(self._indices)
+        self._indices = {
+            _POKEHELP.decode(i.find("span", {"class": "toctext"}).text): i.get("href").strip("#")
+
+            for li in self.soup.find("div", {"id": "toc"}).find_all("li", {"class": "toclevel-1"})
+            if not (li.a and "animazione" in li.a.get("href", "") or "manga" in li.a.get("href", ""))
+
+            for i in li.find_all(href=True)
+        }
 
         # Cries are taken from pokemon showdown beacuse on pokemoncentral they aren't available for all pokemons
         self.cry = f"https://play.pokemonshowdown.com/audio/cries/{_POKEHELP.cry_corrector(self.name)}.mp3"
@@ -80,7 +90,7 @@ class Pokemon:
                         ]
                         if j.find("div", {"class": "small-text"}) != None
                         else "primary"
-                    ): j.find_all(href=True)[-1].text
+                    ): a[-1].text if (a := j.find_all(href=True)) else "Sconosciuta"
                     for j in i[1].find_all("div", {"class": "width-xl-33 width-xs-50"})
                 }
                 for i in _POKEHELP.split_by_two(
@@ -117,6 +127,8 @@ class Pokemon:
                         for sub_game in game.find_all(
                             "div", {"style": "padding: 0.2em;"}
                         )
+
+                        if sub_game.text.strip("\n") not in ['aka', 'midori']
                     ]
                     for game in form.find_all("div", {"class": "width-xl-20"})
                 ],
@@ -143,7 +155,7 @@ class Pokemon:
             ): i.split("(")[0].strip(" ")
             for i in [
                 j
-                for j in self.soup.find("a", href="/Elenco_Pok%C3%A9mon_per_altezza")
+                for j in self.soup.find("a", href="/Altezza")
                 .find_parents()[3]
                 .find_next_sibling()
                 .text.strip(" ")
@@ -158,7 +170,7 @@ class Pokemon:
             ): i.split("(")[0].strip(" ")
             for i in [
                 j
-                for j in self.soup.find("a", href="/Elenco_Pok%C3%A9mon_per_peso")
+                for j in self.soup.find("a", href="/Peso")
                 .find_parents()[3]
                 .find_next_sibling()
                 .text.strip(" ")
@@ -233,17 +245,15 @@ class Pokemon:
                 if i.text != ""
                 else self.flat_name
             ): {
-                "default": _POKEHELP.correct_sprite_url(
-                    i.find_all("img")[0].get("src")
-                ),
-                "shiny": _POKEHELP.correct_sprite_url(i.find_all("img")[1].get("src")),
+                "default": _POKEHELP.correct_sprite_url(sprts[0].get("src")) if len((sprts := i.find_all("img"))) > 1 else "",
+                "shiny": _POKEHELP.correct_sprite_url(sprts[1].get("src")) if len(sprts) > 1 else "",
             }
             for i in self.soup.find("span", {"id": self._indices["sprite e modelli"]})
             .find_parent()
             .find_next_siblings()[1]
             .find_all("div", {"style": "padding: 0.1em;"})
             # Eevee companion form and eternal floette don't have a sprite
-            if "compagno" not in i.text.lower() and "eterno" not in i.text.lower()
+            if "compagno" not in i.text.lower() and "eterno" not in i.text.lower() and "spunzorek" not in i.text.lower()
         }
 
         for k, v in {

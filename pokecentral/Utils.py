@@ -28,6 +28,8 @@ class _POKEHELP:
     }
 
     GAMES = {
+        "aka": "green",
+        "midori": "green",
         "rosso": "red",
         "blu": "blue",
         "giallo": "yellow",
@@ -37,13 +39,13 @@ class _POKEHELP:
         "rubino": "ruby",
         "zaffiro": "sapphire",
         "smeraldo": "emerald",
-        "rosso fuoco": "firered",
-        "verde foglia": "leafgreen",
+        "rosso fuoco": "fire-red",
+        "verde foglia": "leaf-green",
         "diamante": "diamond",
         "perla": "pearl",
         "platino": "platinum",
-        "heartgold": "heartgold",
-        "soulsilver": "soulsilver",
+        "heartgold": "heart-gold",
+        "soulsilver": "soul-silver",
         "nero": "black",
         "bianco": "white",
         "nero 2": "black-2",
@@ -66,6 +68,7 @@ class _POKEHELP:
         "leggende arceus": "legends-arceus",
         "scarlatto": "scarlet",
         "violetto": "violet",
+        "leggende z-a": "legends-za"
     }
     SHAPES = {
         "Body01.png": "testa",
@@ -94,6 +97,31 @@ class _POKEHELP:
         "velocità": "spe",
     }
 
+    ENGLISH_NAMES = {
+        "tipo zero": "Type Null",
+        "grandizanne": "Great Tusk",
+        "codaurlante": "Scream Tail",
+        "fungofurioso": "Brute Bonnet",
+        "crinealato": "Flutter Mane",
+        "alirasenti": "Slither Wing",
+        "peldisabbia": "Sandy Shocks",
+        "solcoferreo": "Iron Treads",
+        "saccoferreo": "Iron Bundle",
+        "manoferrea": "Iron Hands",
+        "colloferreo": "Iron Jugulis",
+        "falenaferrea": "Iron Moth",
+        "spineferree": "Iron Thorns",
+        "lunaruggente": "Roaring Moon",
+        "eroeferreo": "Iron Valiant",
+        "acquecrespe": "Walking Wake",
+        "fogliaferrea": "Iron Leaves",
+        "vampeaguzze": "Gouging Fire",
+        "furiatonante": "Raging Bolt",
+        "massoferreo": "Iron Boulder",
+        "capoferreo": "Iron Crown",
+    }
+
+
     @staticmethod
     def add_name_if(text: str, name: str) -> str:
         if text == "" or text == "-f":
@@ -109,15 +137,24 @@ class _POKEHELP:
         return "/".join(
             [sub_url for sub_url in url.split("/")[:-1] if sub_url != "thumb"]
         )
+    
+    @staticmethod
+    def english_name(name:str):
+        return _POKEHELP.ENGLISH_NAMES.get(name.lower(), name)
+
 
     @staticmethod
     def cry_corrector(name: str):
         return (
-            name.lower()
+            _POKEHELP.english_name(name)
+            .lower()
             .replace(" ", "")
             .replace("'", "")
-            .replace("♂", "")
-            .replace("♀", "-f")
+            .replace("-", "")
+            .replace("♂", "m")
+            .replace("♀", "f")
+            .replace(".", "")
+            .replace("é", "e")
         )
 
     @staticmethod
@@ -127,6 +164,10 @@ class _POKEHELP:
             for key, value in poke_dict.items()
             for new_key in key.replace(",", " e ").split(" e ")
         }
+
+    @staticmethod
+    def escape_selector(selector: str):
+        return selector.replace(".", "\\\\.").replace("#", "\\\\#")
 
     @staticmethod
     def flat_name(name: str) -> str:
@@ -146,7 +187,7 @@ class _POKEHELP:
 
     @staticmethod
     def rmv_sqr_brckts(text: str) -> str:
-        return sub("[\(\[].*?[\)\]]", "", text)
+        return sub(r"[\(\[].*?[\)\]]", "", text)
 
     @staticmethod
     def split_by_two(og_list: list) -> list:
@@ -155,7 +196,7 @@ class _POKEHELP:
 
     @staticmethod
     def split_dex(games: list, dexes: list) -> dict:
-        return {sub_key: value for key, value in zip(games, dexes) for sub_key in key}
+        return {sub_key: value for key, value in zip(games, dexes) for sub_key in key if sub_key != 'green'}
 
     @staticmethod
     def urlencode(url: str) -> str:

@@ -7,8 +7,18 @@
     "curiosities": [
         "Manaphy è uno dei Pokémon con lo stesso valore in tutte le statistiche base.",
         "In Pokémon Platino nella Villa Pokémon è presente un libro che mostra l'immagine di Manaphy necessaria per il completamento del Pokédex. Questo è dovuto al fatto che Manaphy non si può ottenere legittimamente senza eventi.",
-        "Manaphy è l'unico Pokémon misterioso che può accoppiarsi.\n\tTuttavia dall'accoppiamento nascerà solo ed esclusivamente un Phione, che a sua volta può far nascere solo altri Phione.",
-        "Tuttavia dall'accoppiamento nascerà solo ed esclusivamente un Phione, che a sua volta può far nascere solo altri Phione."
+        "Il nome inglese di Manaphy fu scoperto insieme a quello di Sinnoh nei dati di gioco di Pokémon Ranger il 2 novembre 2006.",
+        "Manaphy e Ditto sono gli unici Pokémon che possono accoppiarsi ma non essere ottenuti da un uovo.",
+        "Manaphy e Phione sono gli unici Pokémon misteriosi  che possono accoppiarsi.",
+        "Nonostante sia un Pokémon asessuato, per Manaphy sono stati usati sia termini maschili che femminili.",
+        "In Template:PMDTO i testi parlano di Manaphy esclusivamente al maschile.\n\tIn Pokémon Ranger viene definito \"Prince of the Sea\", \"Principe del Mare\", in inglese britannico, ma \"Princess of the Sea\", \"Principessa del Mare\", in inglese americano.\n\tIn Diamante Lucente e Perla Splendente viene descritto come \"un Pokémon conosciuto come ’il principe’\" in un libro nella Biblioteca di Canalipoli.",
+        "In Pokémon Ranger viene definito \"Prince of the Sea\", \"Principe del Mare\", in inglese britannico, ma \"Princess of the Sea\", \"Principessa del Mare\", in inglese americano.",
+        "In Diamante Lucente e Perla Splendente viene descritto come \"un Pokémon conosciuto come ’il principe’\" in un libro nella Biblioteca di Canalipoli.",
+        "Nei giochi, le uova di Manaphy sono le uniche ad avere un aspetto diverso.\n\tNonostante le uova non possano essere inviate tramite Pokétrasporto, è presente uno sprite per le uova di Manaphy nei dati dei giochi della quinta generazione, insieme a dati per \"Pokémon Ranger\" come luogo di incontro.\n\tQueste uova hanno anche un'animazione di schiusa unica in Pokémon Diamante, Perla, Platino, Diamante Lucente e Perla Splendente.",
+        "Nonostante le uova non possano essere inviate tramite Pokétrasporto, è presente uno sprite per le uova di Manaphy nei dati dei giochi della quinta generazione, insieme a dati per \"Pokémon Ranger\" come luogo di incontro.",
+        "Queste uova hanno anche un'animazione di schiusa unica in Pokémon Diamante, Perla, Platino, Diamante Lucente e Perla Splendente.",
+        "Come per la maggior parte dei Pokémon evento ottenuti tramite Dono Segreto, Manaphy non sarebbe dovuto poter essere ottenuto cromatico. Tuttavia, era possibile per l'uovo di Manaphy ottenibile in Pokémon Ranger schiudersi in un Pokémon cromatico se scambiato prima della schiusa: Il gioco infatti usa l'ID Allenatore e l'ID Segreto per rendere un Pokémon cromatico, ma una volta scambiato l'uovo gli ID dell'allenatore originale invece che quelli dell'Allenatore a cui è stato scambiato. Questo errore è stato corretto prima della reintroduzione dell'uovo in ottava generazione. I Manaphy cromatici ottenuti in questo modo some comunque considerati legali dai vari giochi.",
+        "Dato che ogni uovo di Manaphy produce un Phione, non è chiaro come l'uovo di Pokémon Ranger che si schiude nella prima specie possa esistere."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/manaphy.mp3",
     "dex_entries": {
@@ -16,8 +26,8 @@
             "diamond": "Nato su freddi fondali marini, percorre a nuoto lunghe distanze per tornare al suo luogo di nascita.",
             "pearl": "Il suo corpo è composto per l'80% d'acqua. È influenzato molto facilmente dall'ambiente circostante.",
             "platinum": "Dispone di un potere innato che lo fa legare con qualsiasi specie di Pokémon.",
-            "heartgold": "Dispone di un potere innato che lo fa legare con qualsiasi specie di Pokémon.",
-            "soulsilver": "Dispone di un potere innato che lo fa legare con qualsiasi specie di Pokémon.",
+            "heart-gold": "Dispone di un potere innato che lo fa legare con qualsiasi specie di Pokémon.",
+            "soul-silver": "Dispone di un potere innato che lo fa legare con qualsiasi specie di Pokémon.",
             "black": "Dispone di un potere innato che lo fa legare con qualsiasi specie di Pokémon.",
             "white": "Dispone di un potere innato che lo fa legare con qualsiasi specie di Pokémon.",
             "black-2": "Dispone di un potere innato che lo fa legare con qualsiasi specie di Pokémon.",
@@ -38,14 +48,14 @@
     "flat_name": "manaphy",
     "generation": 4,
     "height": {
-        "manaphy": "0.3 m"
+        "manaphy": "0,3 m"
     },
     "id": 490,
     "name": "Manaphy",
-    "name_origin": "Potrebbe derivare dall'unione dalla parola polinesiana mana  e dalla parola inglese fairy . Ha delle somiglianze anche con manatee . ",
-    "origin": "Basato su un  gimnosomato, un tipo di lumaca di mare per lo più sconosciuto in occidente ma molto popolare in Giappone, curiosamente chiamato anche angelo di mare. ",
+    "name_origin": "Manaphy potrebbe derivare da mana, forza vitale e spirituale delle culture polinesiane, e da fay, fata. ",
+    "origin": "Phione sembra essere basato su un gimnosomato. Il design del suo uovo ricorda un Turritopsis dohrnii. La peculiarità delle uova di Manaphy di potersi schiudere solo in Phione potrebbe derivare dall'eusocialità, un fenomeno biologico in cui è presente una sola femmina fertile di cui si prendono cura i discendenti, spesso infertili. Potrebbe inoltre essere una mutazione genetica rara e unica, come l'albinismo o la polidattilia. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Manaphy",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Oceandante",
     "sprites": {
         "manaphy": {
@@ -73,6 +83,6 @@
         ]
     },
     "weight": {
-        "manaphy": "1.4 kg"
+        "manaphy": "1,4 kg"
     }
 }

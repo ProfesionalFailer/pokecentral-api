@@ -7,10 +7,8 @@
     },
     "curiosities": [
         "Gli sprite di terza generazione di Dusclops lo mostrano con quattro dita in ogni mano, mentre nell'artwork ufficiale e negli sprite successivi ne ha cinque.",
-        "Di tutti i Pokémon capaci di evolversi, Dusclops ha la Difesa Speciale più alta.",
-        "Dusclops non possedeva un'abilità speciale prima della sesta generazione, in cui acquista Indagine.",
-        "Dusclops sembra essere un parallelo di Banette: entrambi sono usciti in terza generazione, entrambi sono di tipo Spettro puro, Banette ha una funzionalità offensiva mentre invece Dusclops è più resistente.\n\tPrima della quarta generazione i due Pokémon condividevano anche il fatto di avere solamente uno stadio evolutivo. In quarta generazione, tuttavia, Dusknoir fa il suo debutto, dando un secondo stadio evolutivo a Dusclops e spezzando questa similitudine. In sesta generazione con l'invenzione delle Megapietre anche Banette acquisisce un ulteriore stadio evolutivo , riconfermando il parallelismo dei due Pokémon.",
-        "Prima della quarta generazione i due Pokémon condividevano anche il fatto di avere solamente uno stadio evolutivo. In quarta generazione, tuttavia, Dusknoir fa il suo debutto, dando un secondo stadio evolutivo a Dusclops e spezzando questa similitudine. In sesta generazione con l'invenzione delle Megapietre anche Banette acquisisce un ulteriore stadio evolutivo , riconfermando il parallelismo dei due Pokémon."
+        "Dusclops può essere visto come una controparte di Banette: entrambi sono Pokémon di tipo Spettro, entrambi sono stati introdotti in terza generazione, hanno lo stesso totale di statistiche base, entrambi si evolvono al livello 37, Banette è incontrabile selvatico solo in Pokémon Zaffiro mentre Dusclops selvatico in Pokémon Rubino.\n\tLe similitudini tra i due vengono perse col passare delle generazioni: in quarta generazione Dusclops ha un'evoluzione in Dusknoir mentre Banette una megaevoluzione in sesta.",
+        "Le similitudini tra i due vengono perse col passare delle generazioni: in quarta generazione Dusclops ha un'evoluzione in Dusknoir mentre Banette una megaevoluzione in sesta."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/dusclops.mp3",
     "dex_entries": {
@@ -18,13 +16,13 @@
             "ruby": "Il corpo di DUSCLOPS è completamente vuoto. Non contiene assolutamente nulla. Infatti si dice che sia una sorta di buco nero. Il POKéMON assorbe ogni cosa all'interno del proprio corpo, ma non rilascia mai nulla.",
             "sapphire": "DUSCLOPS assorbe qualsiasi cosa indipendentemente dalle sue dimensioni. Questo POKéMON ipnotizza il nemico con un macabro movimento delle mani e con il suo unico occhio, costringendolo ad eseguire i suoi ordini.",
             "emerald": "Secondo una teoria, il corpo di DUSCLOPS è vuoto, se non per una spettrale palla di fuoco che brucia al suo interno. Questa ipotesi non è mai stata confermata.",
-            "firered": "Il suo corpo è completamente vuoto all'interno. Apre la bocca per risucchiare qualsiasi cosa, come un buco nero.",
-            "leafgreen": "Il suo corpo è completamente vuoto all'interno. Apre la bocca per risucchiare qualsiasi cosa, come un buco nero.",
+            "fire-red": "Il suo corpo è completamente vuoto all'interno. Apre la bocca per risucchiare qualsiasi cosa, come un buco nero.",
+            "leaf-green": "Il suo corpo è completamente vuoto all'interno. Apre la bocca per risucchiare qualsiasi cosa, come un buco nero.",
             "diamond": "Il suo corpo è vuoto. Pare che chiunque si avvicini per guardare dentro venga risucchiato.",
             "pearl": "Il suo corpo è vuoto. Pare che chiunque si avvicini per guardare dentro venga risucchiato.",
             "platinum": "Va in cerca di fuochi fatui e li risucchia nel suo corpo vuoto. Cosa succeda all'interno è un mistero.",
-            "heartgold": "Se si osserva troppo da vicino la palla di fuoco dentro DUSCLOPS, la propria anima viene risucchiata.",
-            "soulsilver": "Se si osserva troppo da vicino la palla di fuoco dentro DUSCLOPS, la propria anima viene risucchiata.",
+            "heart-gold": "Se si osserva troppo da vicino la palla di fuoco dentro DUSCLOPS, la propria anima viene risucchiata.",
+            "soul-silver": "Se si osserva troppo da vicino la palla di fuoco dentro DUSCLOPS, la propria anima viene risucchiata.",
             "black": "Va in cerca di fuochi fatui e li risucchia nel suo corpo vuoto. Cosa succeda all'interno è un mistero.",
             "white": "Va in cerca di fuochi fatui e li risucchia nel suo corpo vuoto. Cosa succeda all'interno è un mistero.",
             "black-2": "Va in cerca di fuochi fatui e li risucchia nel suo corpo vuoto. Cosa succeda all'interno è un mistero.",
@@ -37,7 +35,9 @@
             "shield": "Va in cerca di fuochi fatui e li risucchia nel suo corpo vuoto. Cosa succeda all'interno è un mistero.",
             "brilliant-diamond": "Il suo corpo è vuoto. Pare che chiunque si avvicini per guardare dentro venga risucchiato.",
             "shining-pearl": "Il suo corpo è vuoto. Pare che chiunque si avvicini per guardare dentro venga risucchiato.",
-            "legends-arceus": "Corre voce che chiunque cerchi di scrutare tra i pertugi delle bende che lo avvolgono ne venga per sempre inghiottito. La paura mi frena dal verificare quanto tali voci siano fondate."
+            "legends-arceus": "Corre voce che chiunque cerchi di scrutare tra i pertugi delle bende che lo avvolgono ne venga per sempre inghiottito. La paura mi frena dal verificare quanto tali voci siano fondate.",
+            "scarlet": "È temuto perché si dice sia in grado di strappare via l'anima dal corpo di chi osserva i misteriosi movimenti delle sue mani.",
+            "violet": "Si dice che il suo vero corpo sia in realtà un occhio rosso acceso che brucia al suo interno, ma nessuno lo ha mai visto."
         }
     },
     "egg_groups": [
@@ -46,14 +46,14 @@
     "flat_name": "dusclops",
     "generation": 3,
     "height": {
-        "dusclops": "1.60 m"
+        "dusclops": "1,60 m"
     },
     "id": 356,
     "name": "Dusclops",
-    "name_origin": "Il nome deriva dalla combinazione delle parole inglesi dusk, crepuscolo, e cyclops, ciclope. ",
-    "origin": "Ispirato ad un chōchinobake, una lanterna di carta maledetta con un occhio. Ha anche alcune caratteristiche delle mummie. ",
+    "name_origin": "Dusclops potrebbe derivare da dusk, crepuscolo, e cyclops, ciclope. Samayouru, il suo nome giapponese, potrebbe derivare da 彷徨う samayou, errare, vagare, e 夜 yoru, notte. ",
+    "origin": "Il suo corpo vuoto e segmentato orizzontalmente, contenente una palla di fuoco  potrebbero indicare che Dusclops è ispirato ad un Chōchin-obake, una lanterna di carta infestata. Il suo occhio singolo ciclopico è un tratto condiviso da molti Yōkai. Dato che il suo corpo è descritto come coperto di bende, potrebbe essere ispirato anche ad una mummia. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Dusclops",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Ipnosguardo",
     "sprites": {
         "dusclops": {
@@ -81,6 +81,6 @@
         ]
     },
     "weight": {
-        "dusclops": "30.6 kg"
+        "dusclops": "30,6 kg"
     }
 }

@@ -7,8 +7,7 @@
         }
     },
     "curiosities": [
-        "Prima della sesta generazione Numel e Camerupt avevano una combinazione di tipi unica.",
-        "Prima dell'ottava generazione Numel era l'unico Pokémon le cui due abilità sono differenti dalle due abilità della sua forma evoluta."
+        "La linea evolutiva di Numel può essere considerata un parallelo di quella di Carvanha: entrambi i Pokémon hanno un doppio tipo, hanno le stesse statistiche totali ad ogni stadio evolutivo, sono usate rispettivamente dal capo del Team Magma Max e del Team Idro Ivan, ed entrambe le loro evoluzioni possono Megaevolvere."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/numel.mp3",
     "dex_entries": {
@@ -16,13 +15,13 @@
             "ruby": "NUMEL è estremamente tardo, tanto da non notare di essere attaccato. Tuttavia, non sa resistere alla fame per più di un secondo. Il suo corpo è un calderone bollente di magma liquido.",
             "sapphire": "NUMEL accumula magma ad una temperatura di 1.200 gradi centigradi all'interno del proprio corpo. Se si bagna, il magma si raffredda e si solidifica. Se si appesantisce diventa goffo nei movimenti.",
             "emerald": "NUMEL accumula magma bollente nella gobba. Utilizzato da sempre dall'uomo per lavori pesanti in virtù della sua forza, il POKéMON può trasportare carichi di un quintale.",
-            "firered": "Il magma nel suo corpo sfiora i 1.200 ºC. Se si raffredda, si indurisce, facendo rallentare il POKéMON.",
-            "leafgreen": "Il magma nel suo corpo sfiora i 1.200 ºC. Se si raffredda, si indurisce, facendo rallentare il POKéMON.",
+            "fire-red": "Il magma nel suo corpo sfiora i 1.200 ºC. Se si raffredda, si indurisce, facendo rallentare il POKéMON.",
+            "leaf-green": "Il magma nel suo corpo sfiora i 1.200 ºC. Se si raffredda, si indurisce, facendo rallentare il POKéMON.",
             "diamond": "Nella gobba accumula magma. Quando piove, il magma si indurisce e il Pokémon diventa più lento.",
             "pearl": "Nella gobba accumula magma. Quando piove, il magma si indurisce e il Pokémon diventa più lento.",
             "platinum": "Nella gobba accumula magma. Quando piove, il magma si indurisce e il Pokémon diventa più lento.",
-            "heartgold": "Con l'energia rilasciata dal magma che ribolle dentro la sua gobba, sprigiona una forza straordinaria.",
-            "soulsilver": "Con l'energia rilasciata dal magma che ribolle dentro la sua gobba, sprigiona una forza straordinaria.",
+            "heart-gold": "Con l'energia rilasciata dal magma che ribolle dentro la sua gobba, sprigiona una forza straordinaria.",
+            "soul-silver": "Con l'energia rilasciata dal magma che ribolle dentro la sua gobba, sprigiona una forza straordinaria.",
             "black": "Nella gobba accumula magma. Quando piove, il magma si indurisce e il Pokémon diventa più lento.",
             "white": "Nella gobba accumula magma. Quando piove, il magma si indurisce e il Pokémon diventa più lento.",
             "black-2": "Nel suo corpo accumula magma che ribolle a 1200°C. Dopo aver usato una mossa di tipo Fuoco, la sua gobba si restringe.",
@@ -34,7 +33,8 @@
             "brilliant-diamond": "Nella gobba accumula magma incandescente. Quando piove, il magma si raffredda e i suoi movimenti si fanno più lenti.",
             "shining-pearl": "Nella gobba accumula magma incandescente. Quando piove, il magma si raffredda e i suoi movimenti si fanno più lenti.",
             "scarlet": "All’interno del suo corpo scorre del magma che raggiunge i 1.200 ºC. Con il freddo questo magma si indurisce, rallentandone i movimenti.",
-            "violet": "Il magma che ribolle dentro la sua gobba si trasforma in energia, donandogli una forza straordinaria."
+            "violet": "Il magma che ribolle dentro la sua gobba si trasforma in energia, donandogli una forza straordinaria.",
+            "legends-za": "Nel corpo accumula magma a 1.200 °C. Dopo aver usato una mossa di tipo Fuoco, la sua gobba si gonfia."
         }
     },
     "egg_groups": [
@@ -43,14 +43,14 @@
     "flat_name": "numel",
     "generation": 3,
     "height": {
-        "numel": "0.70 m"
+        "numel": "0,70 m"
     },
     "id": 322,
     "name": "Numel",
-    "name_origin": "Il nome Numel può essere la combinazione di numb  e camel . ドンメル , Donmel deriva probabilmente da 鈍 don  e camel . ",
-    "origin": "Numel è basato su un dromedario misto ad un vulcano. ",
+    "name_origin": "Numel potrebbe essere una combinazione di numb, intontito, e camel, cammello. Donmel, il suo nome giapponese, deriva probabilmente da 鈍 don, ottuso, lento, o stupido, e camel, cammello. ",
+    "origin": "Numel potrebbe essere ispirato ad un dromedario ls cui gobba ricorda un vulcano. Il suo corpo a forma di barile e arti semplificati lo fanno anche somigliare ad una pentolaccia a forma di mulo o asino. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Numel",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Torpore",
     "sprites": {
         "numel": {
@@ -83,6 +83,6 @@
         ]
     },
     "weight": {
-        "numel": "24.0 kg"
+        "numel": "24,0 kg"
     }
 }

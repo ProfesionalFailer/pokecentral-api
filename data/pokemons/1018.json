@@ -1,0 +1,64 @@
+{
+    "abilities": {
+        "archaludon": {
+            "primary": "Sopportazione",
+            "secondary": "Vigore",
+            "hidden": "Volontà di Ferro"
+        }
+    },
+    "curiosities": [
+        "È l'unico Pokémon che non sia un misterioso, uno pseudo-leggendario o megaevoluto ad avere un totale di statistiche base di 600."
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/archaludon.mp3",
+    "dex_entries": {
+        "archaludon": {
+            "scarlet": "Raccoglie elettricità statica dall'ambiente circostante. Quando è a quattro zampe può emettere un raggio di enorme potenza.",
+            "violet": "Scava buchi nelle montagne in cerca di cibo. È talmente robusto che non si fa un graffio neanche se viene travolto da una frana."
+        }
+    },
+    "egg_groups": [
+        "Minerale",
+        "Drago"
+    ],
+    "flat_name": "archaludon",
+    "generation": 9,
+    "height": {
+        "archaludon": "2,0 m"
+    },
+    "id": 1018,
+    "name": "Archaludon",
+    "name_origin": "Archaludon potrebbe essere una combinazione di arch, arco  e Duraludon, la sua pre-evoluzione. ",
+    "origin": "Come Duraludon sembra basato su un grattacielo, Archaludon sembra basato su un'altra opera architettonica, un ponte. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Archaludon",
+    "shape": "None",
+    "specie": "Pokémon Metallolega",
+    "sprites": {
+        "archaludon": {
+            "default": "https://media.pokemoncentral.it/wiki/c/c2/Homem1018.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/71/Homemsh1018.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/5/58/Artwork1018_SV.png"
+    },
+    "stats": {
+        "archaludon": {
+            "hp": 90,
+            "atk": 105,
+            "def": 130,
+            "spa": 125,
+            "spd": 65,
+            "spe": 85
+        }
+    },
+    "stats_sum": {
+        "archaludon": 600
+    },
+    "types": {
+        "archaludon": [
+            "Drago",
+            "Acciaio"
+        ]
+    },
+    "weight": {
+        "archaludon": "60,0 kg"
+    }
+}

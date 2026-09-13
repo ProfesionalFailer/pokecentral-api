@@ -7,7 +7,10 @@
         }
     },
     "curiosities": [
-        "Di tutti i Pokémon che si evolvono tramite scambio, Phantump è l'unico la cui forma evoluta può essere trovata selvatica nella stessa generazione in cui è stata introdotta."
+        "Nessun altro Pokémon conosciuto ha la stessa combinazione di Gruppo Uova di Phantump e della sua evoluzione Trevenant.",
+        "Di tutti i Pokémon che si evolvono tramite scambio , Phantump è l'unico la cui forma evoluta può anche essere catturata direttamente allo stato selvatico nella stessa generazione in cui è stata introdotta.",
+        "Phantump e la sua evoluzione sono stati disegnati da James Turner.",
+        "Phantump e Pumpkaboo possono essere visti come controparti. Entrambi sono Pokémon di doppio tipo Erba/Spettro che sono il primo stadio di una linea evolutiva a due stadi introdotta in sesta generazione la cui evoluzione avviene tramite scambio. Entrambi hanno anche una mossa peculiare che aggiunge un tipo al bersaglio."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/phantump.mp3",
     "dex_entries": {
@@ -21,7 +24,10 @@
             "ultra-sun": "Imita la voce di un bambino per spingere chi la sente ad addentrarsi nei boschi e smarrirsi, sperando così di farsi nuovi amici.",
             "ultra-moon": "Ha preso vita quando uno spirito è entrato nel ceppo di un albero. Dalle sue foglie verdi si ricava un infuso che cura ogni male.",
             "sword": "Questo Pokémon è nato quando l'anima di un bambino smarritosi nel bosco è entrata nel ceppo di un albero.",
-            "shield": "Emette un pianto simile a quello di un bambino per attirare gli adulti nel cuore della foresta e farli perdere."
+            "shield": "Emette un pianto simile a quello di un bambino per attirare gli adulti nel cuore della foresta e farli perdere.",
+            "scarlet": "Si crede che le sue foglie verdi curino ogni male ma, appena colte, queste si seccano.",
+            "violet": "Pokémon nato quando il ceppo di un albero è stato posseduto dall'anima di un bambino defunto. Vaga per i boschi in cerca di amici.",
+            "legends-za": "Secondo la leggenda, lo spirito di un bambino smarritosi e morto in un bosco è entrato in un ceppo d'albero, dando vita a questo Pokémon."
         }
     },
     "egg_groups": [
@@ -31,14 +37,14 @@
     "flat_name": "phantump",
     "generation": 6,
     "height": {
-        "phantump": "0.4 m"
+        "phantump": "0,4 m"
     },
     "id": 708,
     "name": "Phantump",
     "name_origin": "Phantump è una combinazione tra phantom, fantasma, e stump, ceppo. Bokurei è una lettura alternativa di 木霊 kodama, che è una combinazione tra 木 boku, legno, albero, e 霊 rei, spirito, spettro. ",
     "origin": "Phantump sembra essere basato su un ceppo di Kodama, ovvero spiriti di antichi alberi che dimorano dentro alberi molto vecchi, possiede anche dei tratti simili ad altri tipi di alberi o divinità della natura come le driadi. La forma cromatica sembra invece basata su di una betulla, alberi le cui foglie, in autunno, diventano di colore arancio intenso, proprio come nei Phantump cromatici. Dato che questo cambio di colore, oltretutto, avviene verso halloween, questo potrebbe essere un leggero rimando alle controparti di Phantump e Trevenant, Pumpkaboo e Gourgeist. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Phantump",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Ceppo",
     "sprites": {
         "phantump": {
@@ -62,11 +68,11 @@
     },
     "types": {
         "phantump": [
-            "Erba",
-            "Spettro"
+            "Spettro",
+            "Erba"
         ]
     },
     "weight": {
-        "phantump": "7.0 kg"
+        "phantump": "7,0 kg"
     }
 }

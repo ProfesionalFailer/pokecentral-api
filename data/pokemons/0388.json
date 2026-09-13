@@ -7,10 +7,8 @@
     },
     "curiosities": [
         "Grotle è il Pokémon iniziale di secondo stadio più pesante.",
-        "Nell'anime viene detto che Turtwig diventa più lento quando si evolve. In realtà Grotle ha una velocità di base più alta della sua pre-evoluzione.",
-        "Grotle è l'unico Pokémon iniziale di Sinnoh a evolversi al livello 32. Gli altri due, Monferno e Prinplup evolvono al 36.",
-        "Quando Grotle si evolve in Torterra, tutte le sue statistiche salgono di 20 punti.",
-        "Le famiglie evolutive di Turtwig e Oshawott sono le uniche di Pokémon iniziali che condividono l'abilità speciale, Guscioscudo."
+        "Grotle è l'unico Pokémon iniziale di Sinnoh a evolversi al livello 32. Gli altri due, Monferno e Prinplup, evolvono al 36.",
+        "Quando Grotle si evolve in Torterra, tutte le sue statistiche salgono di 20 punti."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/grotle.mp3",
     "dex_entries": {
@@ -18,8 +16,8 @@
             "diamond": "Vive nelle foreste vicino all'acqua, ma esce di giorno per far prendere sole alle piante sul guscio.",
             "pearl": "Il suo guscio è terra indurita. Le bacche delle piante sul suo dorso sono molto amate da altri Pokémon.",
             "platinum": "Sa come trovare sorgenti incontaminate, dove porta i Pokémon amici tenendoli sulla schiena.",
-            "heartgold": "GROTLE vive in foreste dove ci sono fonti d'acqua cristallina che, a quanto pare, nessun altro conosce.",
-            "soulsilver": "GROTLE vive in foreste dove ci sono fonti d'acqua cristallina che, a quanto pare, nessun altro conosce.",
+            "heart-gold": "GROTLE vive in foreste dove ci sono fonti d'acqua cristallina che, a quanto pare, nessun altro conosce.",
+            "soul-silver": "GROTLE vive in foreste dove ci sono fonti d'acqua cristallina che, a quanto pare, nessun altro conosce.",
             "black": "Sa come trovare sorgenti incontaminate, dove porta i Pokémon amici tenendoli sulla schiena.",
             "white": "Sa come trovare sorgenti incontaminate, dove porta i Pokémon amici tenendoli sulla schiena.",
             "black-2": "Sa come trovare sorgenti incontaminate, dove porta i Pokémon amici tenendoli sulla schiena.",
@@ -30,7 +28,9 @@
             "alpha-sapphire": "Sa come trovare sorgenti incontaminate, dove porta i Pokémon amici tenendoli sulla schiena.",
             "brilliant-diamond": "Vive in prossimità dell'acqua nel cuore delle foreste, ma di giorno esce allo scoperto per far prendere sole alle piante sul guscio.",
             "shining-pearl": "Il suo guscio è fatto di terra indurita. Le bacche delle piante sulla sua schiena sono molto amate da alcuni Pokémon.",
-            "legends-arceus": "Si manifesta laddove sgorgano sorgenti d'acqua pura. Sulla schiena crescono piante dai frutti dolci e nutrienti, in verità deliziosi."
+            "legends-arceus": "Si manifesta laddove sgorgano sorgenti d'acqua pura. Sulla schiena crescono piante dai frutti dolci e nutrienti, in verità deliziosi.",
+            "scarlet": "Si dice che nelle foreste in cui vive ci siano sorgenti d’acqua pura che solo lui conosce.",
+            "violet": "Conosce luoghi in cui sgorgano sorgenti incontaminate. Vi conduce i Pokémon amici trasportandoli sul dorso."
         }
     },
     "egg_groups": [
@@ -40,14 +40,14 @@
     "flat_name": "grotle",
     "generation": 4,
     "height": {
-        "grotle": "1.1 m"
+        "grotle": "1,1 m"
     },
     "id": 388,
     "name": "Grotle",
-    "name_origin": "Il nome deriva dall'unione fra le parole grove  o grotto  e turtle  ",
-    "origin": "Grotle deriva probabilmente dalla comune tartaruga azzannatrice. ",
+    "name_origin": "Grotle potrebbe derivare da grove, boschetto, grow, crescere, e turtle, tartaruga. Hayashigame, il suo nome giapponese, potrebbe derivare da 林 hayashi, boschetto, e 亀 kame, tartaruga. ",
+    "origin": "Grotle potrebbe essere basato su una tartaruga azzannatrice. Concettualmente potrebbe anche fare riferimento alla tartaruga del mondo, possibilmente Akūpāra. Condivide tratti anche con anchilosauri. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Grotle",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Boschetto",
     "sprites": {
         "grotle": {

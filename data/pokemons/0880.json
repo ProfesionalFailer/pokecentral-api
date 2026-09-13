@@ -17,7 +17,8 @@
         "dracozolt": {
             "sword": "Nell'antichità era invincibile grazie alla possente parte inferiore del corpo, ma si è estinto perché ha mangiato tutte le piante di cui si nutriva.",
             "shield": "Produce elettricità con i possenti muscoli della coda. La parte superiore del suo corpo è troppo piccola se paragonata a quella inferiore."
-        }
+        },
+        "\n": {}
     },
     "egg_groups": [
         "Sconosciuto"
@@ -25,14 +26,14 @@
     "flat_name": "dracozolt",
     "generation": 8,
     "height": {
-        "dracozolt": "1.8 m"
+        "dracozolt": "1,8 m"
     },
     "id": 880,
     "name": "Dracozolt",
     "name_origin": "Dracozolt potrebbe essere una combinazione di dracō, drago in latino, e volt o jolt, scossa. Patchiragon potrebbe essere una combinazione di パチパチ pachipachi, l'onomatopea dello scoppiettio, e dragon, drago. ",
     "origin": "Dracozolt, come le sue controparti, potrebbe prendere ispirazione dai dinosauri di Crystal Palace, una serie di sculture disassemblate di dinosauri e altri animali estinti esposte nel Parco di Crystal Palace di Londra. Nel caso di Dracozolt, la parte superiore sembra essere basata su un paraves, mentre la metà inferiore potrebbe essere ispirata a uno stegosauro. Sembra ricordare anche una chimera ed altre creature mitologiche simili a quest'ultima, mostri che presentano caratteristiche di diverse specie animali e che sono spesso interpretati scientificamente come costruiti da diverse parti di animali. Le voci del Pokédex di tutti i fossili di Galar menzionano che gli stessi Pokémon sono la causa della loro stessa estinzione. Questo potrebbe essere un riferimento all'ipotesi, obsoleta, che i dinosauri fossero inerti evolutivi; ciò li avrebbe resi più grandi, lenti e stupidi al punto da non potersela cavare. Il fatto che Dracozolt non sia in grado di accoppiarsi potrebbe essere un riferimento agli animali ibridi, quindi sterili. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Dracozolt",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Fossile",
     "sprites": {
         "dracozolt": {
@@ -56,11 +57,11 @@
     },
     "types": {
         "dracozolt": [
-            "Drago",
-            "Elettro"
+            "Elettro",
+            "Drago"
         ]
     },
     "weight": {
-        "dracozolt": "190.0 kg"
+        "dracozolt": "190,0 kg"
     }
 }

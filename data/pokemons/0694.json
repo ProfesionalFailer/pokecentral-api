@@ -21,7 +21,8 @@
             "omega-ruby": "Vive nei deserti. Può produrre energia elettrica sfruttando la luce solare e, grazie a essa, può sopravvivere anche senza mangiare.",
             "alpha-sapphire": "Le pieghe ai due lati della testa contengono cellule in grado di convertire la luce solare in energia elettrica.",
             "sword": "Distende le pieghe sulla testa per raccogliere la luce solare e produrre energia elettrica che usa per sferrare potenti mosse di tipo Elettro.",
-            "shield": "Possiede un organo con cui genera energia elettrica fotovoltaica. Se viene disturbato mentre la produce, si stressa e si indebolisce."
+            "shield": "Possiede un organo con cui genera energia elettrica fotovoltaica. Se viene disturbato mentre la produce, si stressa e si indebolisce.",
+            "legends-za": "Le pieghe ai due lati della testa contengono cellule in grado di convertire la luce solare in energia elettrica."
         }
     },
     "egg_groups": [
@@ -31,14 +32,14 @@
     "flat_name": "helioptile",
     "generation": 6,
     "height": {
-        "helioptile": "0.5 m"
+        "helioptile": "0,5 m"
     },
     "id": 694,
     "name": "Helioptile",
     "name_origin": "Helioptile è una combinazione tra ἥλιος elio  e reptile . Erikiteru probabilmente è una combinazione tra elekiter e エリマキトカゲ erimaki tokage . ",
     "origin": "Helioptile è basato su una lucertola o su un clamidosauro. Probabilmente è basato anche sulla salamandra pezzata che può fare la fotosintesi clorofilliana. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Helioptile",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Generatore",
     "sprites": {
         "helioptile": {
@@ -67,6 +68,6 @@
         ]
     },
     "weight": {
-        "helioptile": "6.0 kg"
+        "helioptile": "6,0 kg"
     }
 }

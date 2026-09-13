@@ -6,8 +6,8 @@
         }
     },
     "curiosities": [
-        "Prima della sesta generazione non possedeva nessuna abilità speciale.",
-        "Duskull può essere visto come un parallelo di Shuppet."
+        "Duskull può essere visto come un parallelo di Shuppet: entrambi sono Pokémon di tipo Spettro, entrambi sono stati introdotti in terza generazione, hanno lo stesso totale di statistiche base e entrambi si evolvono al livello 37.",
+        "Duskull condivide con Shedinja, Yamask di Galar e Greavard la statistica di Attacco Speciale più bassa tra i Pokémon di tipo Spettro."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/duskull.mp3",
     "dex_entries": {
@@ -15,13 +15,13 @@
             "ruby": "DUSKULL riesce a passare attraverso i muri indipendentemente dal loro spessore. Una volta scelto un bersaglio perseguita la vittima designata fino all'alba.",
             "sapphire": "DUSKULL vaga come un'anima persa nella tetra oscurità notturna. Spesso ai bimbi capricciosi si dice che questo POKéMON si porti via i bambini che fanno arrabbiare la mamma.",
             "emerald": "DUSKULL vaga nella tetra oscurità della notte. Un solo sguardo lanciato dal suo occhio scarlatto fa raggelare il sangue anche a un adulto forte e coraggioso.",
-            "firered": "Si avvicina alla preda rendendosi invisibile. Ha la capacità di passare attraverso spesse pareti.",
-            "leafgreen": "Si avvicina alla preda rendendosi invisibile. Ha la capacità di passare attraverso spesse pareti.",
+            "fire-red": "Si avvicina alla preda rendendosi invisibile. Ha la capacità di passare attraverso spesse pareti.",
+            "leaf-green": "Si avvicina alla preda rendendosi invisibile. Ha la capacità di passare attraverso spesse pareti.",
             "diamond": "Segue ostinatamente la preda ovunque essa vada. Abbandona la caccia solo all'alba.",
             "pearl": "Segue ostinatamente la preda ovunque essa vada. Abbandona la caccia solo all'alba.",
             "platinum": "Adora il pianto dei bambini. Spaventa i bimbi cattivi passando attraverso le pareti.",
-            "heartgold": "Si racconta che questo Pokémon porti via nella notte i bambini che sono stati disobbedienti.",
-            "soulsilver": "Si racconta che questo Pokémon porti via nella notte i bambini che sono stati disobbedienti.",
+            "heart-gold": "Si racconta che questo Pokémon porti via nella notte i bambini che sono stati disobbedienti.",
+            "soul-silver": "Si racconta che questo Pokémon porti via nella notte i bambini che sono stati disobbedienti.",
             "black": "Adora il pianto dei bambini. Spaventa i bimbi cattivi passando attraverso le pareti.",
             "white": "Adora il pianto dei bambini. Spaventa i bimbi cattivi passando attraverso le pareti.",
             "black-2": "Adora il pianto dei bambini. Spaventa i bimbi cattivi passando attraverso le pareti.",
@@ -34,7 +34,9 @@
             "shield": "Si avvicina alla preda rendendosi invisibile. Ha la capacità di passare attraverso spesse pareti.",
             "brilliant-diamond": "Segue ostinatamente la preda ovunque essa vada. Abbandona la caccia solo all'alba.",
             "shining-pearl": "Segue ostinatamente la preda ovunque essa vada. Abbandona la caccia solo all'alba.",
-            "legends-arceus": "Pare che i fanciulli di Hisui si facciano ubbidienti nell'udire che questa creatura vaga a notte fonda per ghermire i monelli alla stregua di un orco."
+            "legends-arceus": "Pare che i fanciulli di Hisui si facciano ubbidienti nell'udire che questa creatura vaga a notte fonda per ghermire i monelli alla stregua di un orco.",
+            "scarlet": "Adora l'energia vitale dei bambini, che cerca vagando per le città a notte fonda.",
+            "violet": "Quando fissa il suo occhio rosso acceso su una vittima e ne risucchia l'energia vitale, le provoca terribili brividi gelidi."
         }
     },
     "egg_groups": [
@@ -43,14 +45,14 @@
     "flat_name": "duskull",
     "generation": 3,
     "height": {
-        "duskull": "0.80 m"
+        "duskull": "0,80 m"
     },
     "id": 355,
     "name": "Duskull",
-    "name_origin": "Deriva dall'unione delle parole inglesi dusk  e skull . ",
-    "origin": "Basato sul Tristo Mietitore e nel Baubau, l'equivalente Giapponese del Baubau è Namahage. ",
+    "name_origin": "Duskull potrebbe derivare da dusk, crepuscolo, e skull, teschio. Yomawaru, il suo nome giapponese, potrebbe derivare da 妖魔 yōma, fantasma, 悪 waru, qualcosa di negativo, e 夜回り yomawari, sorveglianza notturna. È inoltre simile a 山童 Yamawaro, uno spirito peloso con un solo occhio apparso in Gazu hyakki yagyō. ",
+    "origin": "Duskull sembra essere un fantasma a forma di hitodama. Il suo occhio singolo ciclopico è un tratto condiviso da molti Yōkai. I suoi tratti scheletrici lo riconducono ad alcune figure associate con la morte, tra cui il tristo mietitore, tra l'altro spesso raffigurato con un cappuccio simile a quello di Duskull, e interpretazioni moderne di Caronte. Il suo rapire bambini ubbedienti e le storie al riguardo lo riconducono alla figura dell'uomo nero e all'equivalente giapponese, il Namahage. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Duskull",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Requiem",
     "sprites": {
         "duskull": {
@@ -78,6 +80,6 @@
         ]
     },
     "weight": {
-        "duskull": "15.0 kg"
+        "duskull": "15,0 kg"
     }
 }

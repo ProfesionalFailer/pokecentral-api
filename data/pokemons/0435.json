@@ -7,7 +7,8 @@
         }
     },
     "curiosities": [
-        "Skuntank pesa esattamente quanto il protagonista maschile di Pokémon Diamante e Perla e Platino. Condivide questa peculiarità con Sudowoodo, Yanma, Togekiss e Fearow."
+        "Skuntank pesa esattamente quanto il protagonista maschile di Pokémon Diamante e Perla e Platino. Condivide questa peculiarità con Sudowoodo, Yanma, Togekiss e Fearow.",
+        "A causa della censura sui soprannomi dei Pokémon in quinta generazione, uno Skuntunk con il nome inglese non può essere scambiato senza soprannome nel GTS."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/skuntank.mp3",
     "dex_entries": {
@@ -15,8 +16,8 @@
             "diamond": "Attacca spruzzando un fluido puzzolente dalla coda. Ha un raggio d’azione di oltre 50 metri.",
             "pearl": "Spruzza un fluido puzzolente dalla coda. Quest’odore diventa insopportabile se fatto suppurare.",
             "platinum": "Attacca spruzzando un fluido puzzolente dalla punta della coda. Gli attacchi dall’alto lo confondono.",
-            "heartgold": "Attacca spruzzando un liquido mefitico dalla coda. Se attacca a ripetizione, l’odore si affievolisce.",
-            "soulsilver": "Attacca spruzzando un liquido mefitico dalla coda. Se attacca a ripetizione, l’odore si affievolisce.",
+            "heart-gold": "Attacca spruzzando un liquido mefitico dalla coda. Se attacca a ripetizione, l’odore si affievolisce.",
+            "soul-silver": "Attacca spruzzando un liquido mefitico dalla coda. Se attacca a ripetizione, l’odore si affievolisce.",
             "black": "Attacca spruzzando un fluido puzzolente dalla punta della coda. Gli attacchi dall'alto lo confondono.",
             "white": "Attacca spruzzando un fluido puzzolente dalla punta della coda. Gli attacchi dall'alto lo confondono.",
             "black-2": "Attacca spruzzando un fluido puzzolente dalla punta della coda. Gli attacchi dall'alto lo confondono.",
@@ -40,14 +41,14 @@
     "flat_name": "skuntank",
     "generation": 4,
     "height": {
-        "skuntank": "1.0 m"
+        "skuntank": "1,0 m"
     },
     "id": 435,
     "name": "Skuntank",
-    "name_origin": "Il nome deriva dalla combinazione tra le parole inglesi skunk , stank  e tank . ",
-    "origin": "È basato su una moffetta dal naso di porco. Alcuni tratti del viso ricordano quelli di un gatto. ",
+    "name_origin": "Skuntank e Skutank, il suo nome giapponese, potrebbero derivare da skunk, moffetta, stank, puzzava, tempo passato di stink, e tank, carro armato, cisterna. ",
+    "origin": "Skuntank sembra essere basato su una moffetta, possibilmente un Conepatus, e una cisterna. Il suo aspetto e il suo pessimo odore possono ricondurlo anche ad un tasso del miele. La forma della coda sulla testa ricorda un Pompadour. Presenta somiglianze anche con un gatto. Il suo nome giapponese e il suo verso menzionano e ricordano delle flatulenze, e la sua faccia ricorda delle natiche. Il fatto che possa imparare mosse come Esplosione e Autodistruzione, oltre ad avere l'abilità Scoppio, potrebbe essere un riferimento alle bombe a gas, a flatulenze, o come le moffette rilascino tutte le loro sostanze puzzolenti allo stesso momento. La sua abilità di imparare Lanciafiamme e sparare proiettili dalla coda davanti alla testa ricorda un carro armato. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Skuntank",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Moffetta",
     "sprites": {
         "skuntank": {
@@ -71,11 +72,11 @@
     },
     "types": {
         "skuntank": [
-            "Veleno",
-            "Buio"
+            "Buio",
+            "Veleno"
         ]
     },
     "weight": {
-        "skuntank": "38.0 kg"
+        "skuntank": "38,0 kg"
     }
 }

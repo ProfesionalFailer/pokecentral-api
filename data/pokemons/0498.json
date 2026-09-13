@@ -7,17 +7,9 @@
     },
     "curiosities": [
         "Sono state mostrate le sagome di Tepig e degli altri Pokémon iniziali di Pokémon Nero e Bianco per la prima volta durante l'episodio di Pokémon Sunday del 9 maggio 2010. Sono stati svelati completamente nel numero di giugno 2010 di CoroCoro.",
-        "Tepig è il Pokémon iniziale di tipo Fuoco più pesante di tutti.",
-        "Secondo un'intervista Tepig rappresenta il gusto dei cinesi.",
-        "La coda di Tepig sembra una Baccaliegia.",
-        "È l'unico Pokémon iniziale di Unima che, evolvendosi, ottiene un tipo secondario.",
-        "È il terzo Pokémon iniziale di tipo Fuoco la cui famiglia evolutiva ottiene il tipo Lotta con le successive evoluzioni. Gli altri due sono Torchic e Chimchar.",
-        "È il primo Pokémon che nella serie animata appare molto magro, come si vede nell'episodio in cui Ash prova a catturarlo, tanto che viene scambiato per un Umbreon.",
-        "Tepig, come tutti gli altri Pokémon iniziali di tipo fuoco, è rappresentato nello zodiaco cinese come maiale.",
-        "Tepig è il Pokémon più leggero in assoluto che impara Pesobomba.",
-        "Tepig ha la somma di statistiche più bassa fra tutti i Pokémon iniziali di tipo Fuoco.\n\tInoltre, insieme a Snivy e Oshawott, è il Pokémon che ha l'esperienza base più bassa, con una base di 28.",
-        "Inoltre, insieme a Snivy e Oshawott, è il Pokémon che ha l'esperienza base più bassa, con una base di 28.",
-        "Tepig e le relative evoluzioni sono state ideate da Lee Hyunjung."
+        "Tepig e le sue evoluzioni sono state disegnate da Lee Hyunjung. Tepig è anche il primo Pokémon iniziale di quinta generazione a essere stato disegnato.",
+        "In Pokémon Nero e Bianco Tepig, insieme a Snivy e Oshawott, cede il numero minore di punti esperienza. Questo è stato fatto per rendere impossibile che salga di livello nella prima lotta contro Belle, avendo quindi un vantaggio contro Komor.\n\tDa Pokémon Nero 2 e Bianco 2 cedono 62 punti esperienza, al pari con tutti gli altri Pokémon iniziali.",
+        "Da Pokémon Nero 2 e Bianco 2 cedono 62 punti esperienza, al pari con tutti gli altri Pokémon iniziali."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/tepig.mp3",
     "dex_entries": {
@@ -29,7 +21,10 @@
             "x": "Lancia palle di fuoco dal naso mentre evita abilmente gli attacchi del nemico. Mangia bacche che arrostisce lui stesso.",
             "y": "Adora mangiare le bacche arrostite, ma a volte si fa prendere la mano per l'eccitazione e le riduce in cenere.",
             "omega-ruby": "Lancia palle di fuoco dal naso mentre evita abilmente gli attacchi del nemico. Mangia bacche che arrostisce lui stesso.",
-            "alpha-sapphire": "Adora mangiare le bacche arrostite, ma a volte si fa prendere la mano per l'eccitazione e le riduce in cenere."
+            "alpha-sapphire": "Adora mangiare le bacche arrostite, ma a volte si fa prendere la mano per l'eccitazione e le riduce in cenere.",
+            "scarlet": "Si beffa dei nemici muovendosi con un’agilità sorprendente per il suo aspetto. Spara palle di fuoco a raffica dalle narici.",
+            "violet": "È un insaziabile ghiottone. Usa il suo sensibilissimo naso per scovare il cibo, che mangia dopo averlo abbrustolito a puntino.",
+            "legends-za": "Lancia palle di fuoco dal naso mentre evita abilmente gli attacchi del nemico. Mangia bacche che arrostisce lui stesso."
         }
     },
     "egg_groups": [
@@ -38,14 +33,14 @@
     "flat_name": "tepig",
     "generation": 5,
     "height": {
-        "tepig": "0.5 m"
+        "tepig": "0,5 m"
     },
     "id": 498,
     "name": "Tepig",
-    "name_origin": "Tepig potrebbe essere una combinazione di tepid , e pig . il nome giapponese Pokabu deriva da ぽかぽか pokapoka , combinato con 豚 buta  o ブー bū . ",
-    "origin": "Sembra sia basato su un maiale Berkshire. ",
+    "name_origin": "Tepig potrebbe essere una combinazione di tepid, tiepido, e pig, maiale. Pokabu, il suo nome giapponese, potrebbe derivare da ぽかぽか pokapoka, caloroso, 豚 buta, maiale, o ブー bū, grugnito. ",
+    "origin": "Tepig è basato su un maialino, e in particolare la sua abilità di emettere fiamme dal naso è basata sul fatto che i maiali hanno spesso problemi a regolare la propria temperatura corporea. Nello specifico sembra essere basato sulla specie British Saddleback. Il tipo di Tepig potrebbe anche derivare dai maiali da guerra, nello specifico sui maiali incendiari, una tattica descritta da alcuni scrittori greci. Ken Sugimori ha affermato che Tepig, Pignite e Emboar sono basati sulla cultura cinese, quindi sono possibilmente ispirati da Zhu Wuneng, un maiale demone del romanzo cinese Il viaggio in Occidente. Le linee evolutive di Snivy, Tepig, e Oshawott rappresentano le culture che hanno ispirato il design di Unima: occidentale, cinese e giapponese, rispettivamente. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Tepig",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Suinfuoco",
     "sprites": {
         "tepig": {
@@ -73,6 +68,6 @@
         ]
     },
     "weight": {
-        "tepig": "9.9 kg"
+        "tepig": "9,9 kg"
     }
 }

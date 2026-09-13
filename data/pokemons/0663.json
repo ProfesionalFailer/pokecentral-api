@@ -6,11 +6,10 @@
         }
     },
     "curiosities": [
-        "Talonflame è il primo Pokémon ad avere più di cinque caratteri nel suo nome giapponese.",
-        "Tra i Pokémon di tipo Volante che si evolvono da Pokémon che si trovano all'inizio dell'avventura  è quello con il totale delle statistiche di base più alto.",
-        "È l'unico Pokémon ad avere il totale delle statistiche di base pari a 499.",
-        "I versi di Talonflame e di Xerneas sono molto simili. Quello di Xerneas è più acuto e lento rispetto a quello di Talonflame.",
-        "Talonflame ha la più alta statistica base di Velocità di tutti i Pokémon di tipo Fuoco e di tutti i Pokémon introdotti con la sesta generazione."
+        "Talonflame è stato il primo Pokémon ad avere più di cinque caratteri katakana nel suo nome giapponese.",
+        "Talonflame è l'unico Pokémon ad avere il totale delle statistiche di base pari a 499.\n\tPrima della sesta generazione, anche Seismitoad aveva un totale di statistiche base di 499.",
+        "Prima della sesta generazione, anche Seismitoad aveva un totale di statistiche base di 499.",
+        "Prima dell'introduzione di Fletchinder all'uscita di Pokémon X e Y, sul sito ufficiale Pokémon era stato affermato che Talonflame si evolve da Fletchling."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/talonflame.mp3",
     "dex_entries": {
@@ -26,7 +25,8 @@
             "sword": "Caccia soprattutto Pokémon alati. Intimorisce il bersaglio sprizzando scintille dalle fessure che ha tra le piume.",
             "shield": "Piomba sulle prede a 500 km/h e le attacca con calci potentissimi senza dargli via di scampo.",
             "scarlet": "Le sue capacità di volo sono stupefacenti. Riesce a volare con estrema facilità anche dopo aver afferrato una preda di oltre 100 kg.",
-            "violet": "Se si emoziona emette scintille dalle fessure fra le piume. Queste ultime non prendono fuoco e vengono spesso usate come materiale ignifugo."
+            "violet": "Se si emoziona emette scintille dalle fessure fra le piume. Queste ultime non prendono fuoco e vengono spesso usate come materiale ignifugo.",
+            "legends-za": "Quando si infervora in lotte senza esclusione di colpi, vola sprizzando scintille dalle fessure che ha tra le piume."
         }
     },
     "egg_groups": [
@@ -35,14 +35,14 @@
     "flat_name": "talonflame",
     "generation": 6,
     "height": {
-        "talonflame": "1.2 m"
+        "talonflame": "1,2 m"
     },
     "id": 663,
     "name": "Talonflame",
     "name_origin": "Talonflame è una combinazione tra talon  e flame . ",
     "origin": "Nonostante le pre-evoluzioni siano ispirate al pettirosso, Talonflame è ispirato ad un falco pellegrino, ma possiede alcuni tratti di altri rapaci come il nibbio reale e l'astore che potrebbero aver contribuito per la sua ispirazione. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Talonflame",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Ardifiamma",
     "sprites": {
         "talonflame": {
@@ -71,6 +71,6 @@
         ]
     },
     "weight": {
-        "talonflame": "24.5 kg"
+        "talonflame": "24,5 kg"
     }
 }

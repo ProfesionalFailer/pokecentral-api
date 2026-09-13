@@ -5,9 +5,11 @@
         }
     },
     "curiosities": [
-        "Mesprit fa eccezione col suo trio, in quanto non rimane nella sua grotta nel Lago Verità, ma vaga per la regione di Sinnoh.\n\tInoltre, in Pokémon Mystery Dungeon: Esploratori del Tempo ed Esploratori dell'Oscurità è l'unico del suo trio che può essere affrontato prima della fine della storia.",
+        "Mesprit è alquanto diverso dagli altri membri del suo trio, in quanto non rimane nella sua grotta nel Lago Verità, ma vaga per la regione di Sinnoh.\n\tInoltre, in Pokémon Mystery Dungeon: Esploratori del Tempo ed Esploratori dell'Oscurità è l'unico del suo trio che può essere affrontato prima della fine della storia.",
         "Inoltre, in Pokémon Mystery Dungeon: Esploratori del Tempo ed Esploratori dell'Oscurità è l'unico del suo trio che può essere affrontato prima della fine della storia.",
-        "Mesprit condivide il nome della specie con Kirlia: sono entrambi noti come Pokémon Emozione."
+        "Mesprit condivide il nome della specie con Kirlia e Indeedee: sono tutti noti come Pokémon Emozione.",
+        "Mesprit condivide con Uxie e Azelf il più alto affetto base tra tutti i Pokémon leggendari.",
+        "Prima dell'aggiornamento 2.0.1 di Pokémon Scarlatto e Violetto Mesprit non poteva imparare mosse dall'Insegnamosse."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mesprit.mp3",
     "dex_entries": {
@@ -15,8 +17,8 @@
             "diamond": "Detto “Essere delle emozioni”. Ha insegnato agli uomini la nobiltà di tristezza, gioia e dolore.",
             "pearl": "Dorme sul fondo di un lago. Si dice che il suo spirito abbandoni il corpo per volare in superficie.",
             "platinum": "Al volo di MESPRIT, gli uomini conobbero le gioie e i dolori della vita. In tal modo nacquero le emozioni.",
-            "heartgold": "Pare che sia stato MESPRIT a mettere nel cuore degli umani sentimenti come gioia e tristezza.",
-            "soulsilver": "Pare che sia stato MESPRIT a mettere nel cuore degli umani sentimenti come gioia e tristezza.",
+            "heart-gold": "Pare che sia stato MESPRIT a mettere nel cuore degli umani sentimenti come gioia e tristezza.",
+            "soul-silver": "Pare che sia stato MESPRIT a mettere nel cuore degli umani sentimenti come gioia e tristezza.",
             "black": "Al volo di Mesprit, gli uomini conobbero le gioie e i dolori della vita. In tal modo nacquero le emozioni.",
             "white": "Al volo di Mesprit, gli uomini conobbero le gioie e i dolori della vita. In tal modo nacquero le emozioni.",
             "black-2": "Al volo di Mesprit, gli uomini conobbero le gioie e i dolori della vita. In tal modo nacquero le emozioni.",
@@ -36,14 +38,14 @@
     "flat_name": "mesprit",
     "generation": 4,
     "height": {
-        "mesprit": "0.3 m"
+        "mesprit": "0,3 m"
     },
     "id": 481,
     "name": "Mesprit",
-    "name_origin": "Deriva dalla parola inglese me  e da sprite  o dal francese esprit . ",
-    "origin": "Potrebbe basarsi su uno spirito fatato e sul colore magenta, in quanto colore primario insieme al giallo e al ciano . Inoltre si ispira al Yasakani no Magatama, la gemma di giada simbolo di benevolenza, una delle insegne imperiali del giappone, sulle quali l'intero trio dei Guardiani dei laghi si basa. ",
+    "name_origin": "Mesprit potrebbe derivare dalla M di UMA  e spirit, spirito, sprite, folletto, o esprit, spririto, animo. Potrebbe anche includere il pronome me. Emrit, il suo nome giapponese, potrebbe derivare dalla M di UMA e spirit, spirito. ",
+    "origin": "Uxie sembra essere basato su una fata e sul colore magenta, colore primario insieme al giallo e al ciano di Uxie e Azelf. Insieme potrebbero essere basati sulle insegne imperiali del Giappone: Mesprit sembrerebbe basato sulla Yasakani no Magatama, la magatama simbolo di benevolenza. Potrebbe inoltre derivare da un Serafino, un angelo appartenente a uno dei tre più alti ranghi angelici, caratterizzati dalla loro amore per Dio. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Mesprit",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Emozione",
     "sprites": {
         "mesprit": {
@@ -71,6 +73,6 @@
         ]
     },
     "weight": {
-        "mesprit": "0.3 kg"
+        "mesprit": "0,3 kg"
     }
 }

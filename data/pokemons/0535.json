@@ -7,9 +7,10 @@
         }
     },
     "curiosities": [
-        "Tympole condivide il nome della specie con Poliwag, Poliwhirl e Poliwrath. Sono tutti e quattro noti come Pokémon Girino.",
+        "Tympole condivide il nome della specie con Poliwag, Poliwhirl e Poliwrath: sono tutti e quattro noti come Pokémon Girino.",
         "Il volto di Tympole è diventato un fenomeno nel famoso gruppo di artisti giapponese Pixiv.",
-        "Anche se nel Pokédex 3D è simulato il suo nuoto, a differenza degli altri Pokémon non viene visualizzato l'effetto delle bolle. La ragione di ciò è sconosciuta."
+        "Anche se nel Pokédex 3D è simulato il suo nuoto, a differenza degli altri Pokémon non viene visualizzato l'effetto delle bolle. La ragione di ciò è sconosciuta.",
+        "Tympole e Palpitoad sono stati disegnati partendo dal design di Seismitoad."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/tympole.mp3",
     "dex_entries": {
@@ -32,14 +33,14 @@
     "flat_name": "tympole",
     "generation": 5,
     "height": {
-        "tympole": "0.5 m"
+        "tympole": "0,5 m"
     },
     "id": 535,
     "name": "Tympole",
-    "name_origin": "Il suo nome deriva probabilmente dalla parola tympanum , perché i suoni che emette fanno male ai timpani, e tadpole . Un'altra possibile origine è tempo , o lo strumenti musicale timpano. ",
-    "origin": "Tympole è ispirato a un girino e ad un altoparlante. Le sue guance ricordano le cuffie per ascoltare la musica, ma possono anche ispirarsi alle ghiandole velenose o ai gonfiori tipici delle rane, o ai timpani che nelle rane sono collocati nella stessa zona. Le sue sopracciglia hanno la forma di note musicali. ",
+    "name_origin": "Tympole potrebbe derivare da timpani, timpano come strumento musicale, o tympanic membrane, membrana timpanica, e tadpole, girino. Otamaro, il suo nome giapponese, potrebbe derivare da お玉杓子 otamajakushi  e 麿 maro  o 麻呂眉 maro-mayu . ",
+    "origin": "Tympole sembra essere ispirato a un girino di rospo e ad un altoparlante. Le sue guance ricordano delle cuffie, oltre che le ghiandole partoidi dei rospi, o dei timpani che nelle rane sono collocati nella stessa zona. Le sue sopracciglia sembrano avere la forma di note musicali, nello specifico una semiminima. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Tympole",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Girino",
     "sprites": {
         "tympole": {
@@ -67,6 +68,6 @@
         ]
     },
     "weight": {
-        "tympole": "4.5 kg"
+        "tympole": "4,5 kg"
     }
 }

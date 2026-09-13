@@ -7,11 +7,8 @@
         }
     },
     "curiosities": [
-        "Per ragioni sconosciute, Lumineon in sesta generazione non può imparare Naturforza tramite MT, mentre la sua pre-evoluzione, Finneon, può.",
-        "Lumineon può essere visto come parallelo di Lanturn:\n\tHanno lo stesso totale di statistiche.\n\tSecondo alcune voci del Pokédex, si contendono cibo e zone di caccia, oltre ad avere comportamenti simili e la stessa abilità nel emettere luce propria.\n\tAnche le loro pre-evoluzioni, Finneon e Chinchou, hanno le medesime somiglianze, soprattutto alle statistiche.",
-        "Hanno lo stesso totale di statistiche.",
-        "Secondo alcune voci del Pokédex, si contendono cibo e zone di caccia, oltre ad avere comportamenti simili e la stessa abilità nel emettere luce propria.",
-        "Anche le loro pre-evoluzioni, Finneon e Chinchou, hanno le medesime somiglianze, soprattutto alle statistiche."
+        "Lumineon non può imparare Naturforza tramite MT, mentre la sua preevoluzione può.",
+        "Lumineon e Finneon sono gli unici Pokémon di quarta generazione ad avere le pinne."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/lumineon.mp3",
     "dex_entries": {
@@ -19,8 +16,8 @@
             "diamond": "Vive negli abissi marini. Attira le prede illuminando i motivi delle sue quattro pinne.",
             "pearl": "Per non farsi scoprire dai nemici, si muove lentamente sui fondali marini con le due pinne pettorali.",
             "platinum": "Si sposta sui fondali con le lunghe pinne anteriori. LANTURN è suo rivale nella ricerca del cibo.",
-            "heartgold": "LUMINEON brilla negli abissi marini e sembra proprio una stella che risplende nel cielo notturno.",
-            "soulsilver": "LUMINEON brilla negli abissi marini e sembra proprio una stella che risplende nel cielo notturno.",
+            "heart-gold": "LUMINEON brilla negli abissi marini e sembra proprio una stella che risplende nel cielo notturno.",
+            "soul-silver": "LUMINEON brilla negli abissi marini e sembra proprio una stella che risplende nel cielo notturno.",
             "black": "Si sposta sui fondali con le lunghe pinne anteriori. Lanturn è suo rivale nella ricerca del cibo.",
             "white": "Si sposta sui fondali con le lunghe pinne anteriori. Lanturn è suo rivale nella ricerca del cibo.",
             "black-2": "Si sposta sui fondali con le lunghe pinne anteriori. Lanturn è suo rivale nella ricerca del cibo.",
@@ -46,14 +43,14 @@
     "flat_name": "lumineon",
     "generation": 4,
     "height": {
-        "lumineon": "1.2 m"
+        "lumineon": "1,2 m"
     },
     "id": 457,
     "name": "Lumineon",
-    "name_origin": "Deriva dalle parole luminous  e neon, riferito alla sua bioluminescenza e al pesce neon. ",
-    "origin": "È basato su un pesce farfalla, anche se le pinne caudali ricordano le ali di una farfalla vera e propria. Inoltre, ha delle somiglianze con il pesce combattente o con il neon cardinale. ",
+    "name_origin": "Lumineon potrebbe derivare da luminous, luminoso, e neon. Neolant, il suo nome giapponese, potrebbe derivare da neon, lantern, lanterna, e possibilmente neon tetra, neon cardinale. ",
+    "origin": "Le grandi pinne di Lumineon ricordano quelle di un pesce farfalla africano, oltre ad assomigliare ad un'effettiva farfalla. Secondo la voce Pokédex di Pokémon Platino può camminare con le pinne sui fondali, ricollegandolo ai pesci treppiede. Secondo varie voci del Pokédex possiede bioluminescenza, indicando una possibile ispirazione a vari pesci che hanno questa capacità. Il suo aspetto iridescente e lunghe pinne lo accomunano con i pesci combattenti. Il nome potrebbe suggerire che prende ispirazione anche dai neon. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Lumineon",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Neon",
     "sprites": {
         "lumineon": {
@@ -85,6 +82,6 @@
         ]
     },
     "weight": {
-        "lumineon": "24.0 kg"
+        "lumineon": "24,0 kg"
     }
 }

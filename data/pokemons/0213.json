@@ -7,44 +7,60 @@
         }
     },
     "curiosities": [
-        "In seconda generazione Shuckle aveva una combinazione di tipi unica.",
         "Shuckle detiene diversi record in fatto di statistiche base:\n\tSe usa Ingannoforza ottiene l'Attacco più alto in assoluto.\n\tAveva la Difesa più alta a pari merito con MegaAggron e MegaSteelix prima dell'ottava generazione.\n\tAveva la Difesa Speciale base più alta prima dell'ottava generazione.\n\tHa l'Attacco Speciale più basso a pari merito con Sandshrew di Alola, Feebas e Bonsly.\n\tHa la Velocità più bassa a pari merito con Munchlax e Pyukumuku.",
         "Se usa Ingannoforza ottiene l'Attacco più alto in assoluto.",
         "Aveva la Difesa più alta a pari merito con MegaAggron e MegaSteelix prima dell'ottava generazione.",
         "Aveva la Difesa Speciale base più alta prima dell'ottava generazione.",
         "Ha l'Attacco Speciale più basso a pari merito con Sandshrew di Alola, Feebas e Bonsly.",
         "Ha la Velocità più bassa a pari merito con Munchlax e Pyukumuku.",
-        "Shuckle è il Pokémon in grado di infliggere più danno con un solo attacco  se rispetta le seguenti condizioni:\n\tÈ di livello 100;\n\tLa lotta è in Triplo ed entrambi gli alleati usano Altruismo;\n\tEntrambi gli alleati hanno Regalfiore come abilità  e c'è luce solare intensa;\n\tTiene un Plessimetro;\n\tUsa Ingannoforza;\n\tHa Forzapura o Macroforza come abilità ;\n\tHa usato per la quinta volta Rotolamento potenziato con Ricciolscudo;\n\tRotolamento infligge un brutto colpo;\n\tIl bersaglio è un Ledyba di livello 1;\n\tHa l'Attacco aumentato di 6 livelli e il nemico ha la Difesa diminuita di 6 livelli;\n\tHa la più alta Difesa possibile .",
-        "È di livello 100;",
-        "La lotta è in Triplo ed entrambi gli alleati usano Altruismo;",
-        "Entrambi gli alleati hanno Regalfiore come abilità  e c'è luce solare intensa;",
-        "Tiene un Plessimetro;",
-        "Usa Ingannoforza;",
-        "Ha Forzapura o Macroforza come abilità ;",
-        "Ha usato per la quinta volta Rotolamento potenziato con Ricciolscudo;",
-        "Rotolamento infligge un brutto colpo;",
-        "Il bersaglio è un Ledyba di livello 1;",
-        "Ha l'Attacco aumentato di 6 livelli e il nemico ha la Difesa diminuita di 6 livelli;",
-        "Ha la più alta Difesa possibile .",
-        "Pur essendo in parte di tipo Coleottero, non era in grado di apprendere alcuna mossa di questo tipo prima della quarta generazione.",
-        "Nei giochi di seconda generazione, Shuckle può trasformare una Bacca in Succodibacca dopo una lotta."
+        "Nei giochi di seconda generazione, Shuckle può trasformare una Bacca in Succodibacca dopo una lotta.",
+        "Nonostante sia debole al tipo Acqua e non possa usare Surf, Shuckle appare nel mare del Parco Amici.",
+        "In Pokémon Sole, Luna, Ultrasole e Ultraluna viene detto che Shuckle è stato disegnato da Shigeki Morimoto."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/shuckle.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "shuckle": {
+            "gold": "Le BACCHE che raccoglie nel guscio fatto a vaso marciscono trasformandosi in liquido vischioso.",
+            "silver": "Nel guscio raccoglie BACCHE. Per evitare attacchi, si nasconde sotto le rocce e non fa alcun rumore.",
+            "crystal": "Secerne un liquido con cui scava il nido nelle rocce e che, mischiato alle BACCHE, è un'ottima bevanda.",
+            "ruby": "SHUCKLE si nasconde tranquillo sotto le rocce mentre mangia le bacche che ha raccolto precedentemente all'interno della sua corazza. Queste si trasformano in succo col fluido del corpo.",
+            "sapphire": "SHUCKLE si nasconde tranquillo sotto le rocce mentre mangia le bacche che ha raccolto precedentemente all'interno della sua corazza. Queste si trasformano in succo col fluido del corpo.",
+            "emerald": "SHUCKLE si nasconde sotto le rocce per mangiare le bacche raccolte precedentemente nella sua corazza. Queste si trasformano in succo col fluido del corpo.",
+            "fire-red": "Nel guscio raccoglie BACCHE. Per evitare attacchi, si nasconde sotto le rocce e non fa alcun rumore.",
+            "leaf-green": "Le BACCHE che raccoglie nel guscio fatto a vaso marciscono, trasformandosi in liquido vischioso.",
+            "diamond": "Conserva nel guscio delle bacche che, quando fermentano, si trasformano in un succo delizioso.",
+            "pearl": "Conserva nel guscio delle bacche che, quando fermentano, si trasformano in un succo delizioso.",
+            "platinum": "Conserva nel guscio delle bacche che, quando fermentano, si trasformano in un succo delizioso.",
+            "heart-gold": "Le bacche che raccoglie nel guscio fatto a vaso marciscono trasformandosi in liquido vischioso.",
+            "soul-silver": "Nel guscio raccoglie delle bacche. Per evitare attacchi, si nasconde sotto le rocce e non fa alcun rumore.",
+            "black": "Conserva nel guscio delle bacche che, quando fermentano, si trasformano in un succo delizioso.",
+            "white": "Conserva nel guscio delle bacche che, quando fermentano, si trasformano in un succo delizioso.",
+            "black-2": "Usa il guscio a mo' di vaso per stipare le bacche, che dopo un po' fermentano e si trasformano in un succo delizioso.",
+            "white-2": "Usa il guscio a mo' di vaso per stipare le bacche, che dopo un po' fermentano e si trasformano in un succo delizioso.",
+            "x": "Il suo guscio è come un vaso nel quale conserva le bacche, che a un certo punto si trasformano in un denso succo.",
+            "y": "Nel guscio raccoglie delle bacche. Per evitare attacchi, si nasconde sotto le rocce e non fa alcun rumore.",
+            "omega-ruby": "Shuckle si nasconde tranquillo sotto le rocce mentre mangia le bacche che ha raccolto precedentemente all'interno della sua corazza. Queste si trasformano in succo col fluido del corpo.",
+            "alpha-sapphire": "Shuckle si nasconde tranquillo sotto le rocce mentre mangia le bacche che ha raccolto precedentemente all'interno della sua corazza. Queste si trasformano in succo col fluido del corpo.",
+            "sword": "Nel guscio raccoglie delle bacche. Per evitare gli attacchi, si nasconde sotto le rocce e rimane immobile senza fare alcun rumore.",
+            "shield": "Il suo guscio è come un vaso nel quale conserva le bacche, che a un certo punto si trasformano in un denso succo.",
+            "brilliant-diamond": "Conserva nel guscio delle bacche che con il tempo si mescolano ai suoi fluidi corporei, trasformandosi in un succo delizioso.",
+            "shining-pearl": "Conserva nel guscio delle bacche che con il tempo si mescolano ai suoi fluidi corporei, trasformandosi in un succo delizioso."
+        }
+    },
     "egg_groups": [
         "Coleottero"
     ],
     "flat_name": "shuckle",
     "generation": 2,
     "height": {
-        "shuckle": "0.6 m"
+        "shuckle": "0,6 m"
     },
     "id": 213,
     "name": "Shuckle",
-    "name_origin": "Il suo nome probabilmente deriva dall'unione della parola inglese shuck  e turtle  o barnacle . ",
-    "origin": "Sembra essere basato su un Endolith, organismo che vive dentro rocce porose o nelle conchiglie di altri animali, oppure in un abalone. Potrebbe essere ispirato ad un fungo, che è un tipo di muffa, il tipo più comune di endolith, da qui la sua specie \"Pokémon Muffa\". Potrebbe essere basato anche sulle cocciniglie, piccoli parassiti sgranati che producono un liquido dolciastro noto come melata che attira gli insetti. Sembra avere anche caratteristiche di vari molluschi, in quanto vive dentro una roccia, ha il corpo molliccio, si muove in modo lento e goffo, utilizza il suo acido gastrico per nutrirsi e per abbattere ostacoli, si nutre di cibi fermentati e vive nei pressi dell'acqua. Dal suo aspetto sembra essere basato anche in tartarughe o testuggini. ",
+    "name_origin": "Shuckle potrebbe deriva da shuck, guscio, e turtle, tartaruga, o barnacle, cirripede. Tsubotsubo potrebbe derivare da 壺 tsubo, giara, e 富士壺 fujitsubo, un tipo di cirripede. ",
+    "origin": "Shuckle sembra essere basato su un organismo endolitico, organismi che vivono dentro rocce porose o nelle conchiglie di altri animali. Dato il nome della sua categoria, \"Pokémon Muffa\", sembra essere basato su un fungo o un tipo di muffa. Questa categoria lo potrebbe ricondurre anche al fungo Gymnosporangium juniperi-virginianae, che mostra una somiglianza col Pokémon, o ai Funghi mucillaginosi che assomigliano alla muffa. Dato il suo tipo Coleottero, Shuckle potrebbe essere basato su una cocciniglia, degli insetti con guscio che rilasciano una sostanza zuccherina chiamata melata per attirare altri insetti. Sembra inoltre essere basato sul Ceroplastes cirripediformis, con caratteristiche di effettivi cirripedi. Questa specie di coccide è anche detta in inglese \"tartoise scale\" , il che potrebbe spiegare l'aspetto di Shuckle simile a una tartaruga o una testuggine. Il Pokémon potrebbe essere inoltre un riferimento al processo di fermentazione del cibo: in molte culture questo avviene tramite giare, possibilmente l'origine del tipo Roccia di Shuckle, e il processo avviene spesso tramite funghi. Shuckle potrebbe inoltre prendere ispirazione dai molluschi: condivide con essi il guscio, gli arti muscolosi ma dall'apparenza molle, uso di acidi e vivere vicino l'acqua. Il suo aspetto simile ad un verme lo può ricondurre ad un nematoda. La sua associazione con le bacche, voci del Pokédex, e il fatto che Fortunata, la Regina Serpe, abbia uno Shuckle in squadra, può ricondurre il Pokémon al vino di serpente. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Shuckle",
-    "shape": "insettoide",
+    "shape": "None",
     "specie": "Pokémon Muffa",
     "sprites": {
         "shuckle": {
@@ -73,6 +89,6 @@
         ]
     },
     "weight": {
-        "shuckle": "20.5 kg"
+        "shuckle": "20,5 kg"
     }
 }

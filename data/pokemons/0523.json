@@ -7,8 +7,8 @@
         }
     },
     "curiosities": [
-        "Zebstrika condivide la categoria con Electivire. Sono entrambi conosciuti come Pokémon Saetta.",
-        "In inglese la sua categoria  coincide con il nome di una mossa, essendo entrambi noti come Thunderbolt Pokémon.",
+        "Zebstrika condivide la categoria con Electivire: sono entrambi conosciuti come Pokémon Saetta.",
+        "Tutte le abilità di Zebstrika lo rendono immune ad un tipo specifico. Escludendo i Pokémon con una sola abilità, condivide questa caratteristica solo con la sua preevoluzione.",
         "Zebstrika è l'unico Pokémon con la somma di statistiche base pari a 497."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/zebstrika.mp3",
@@ -30,14 +30,14 @@
     "flat_name": "zebstrika",
     "generation": 5,
     "height": {
-        "zebstrika": "1.6 m"
+        "zebstrika": "1,6 m"
     },
     "id": 523,
     "name": "Zebstrika",
-    "name_origin": "Il nome deriva dall'unione della parola zebra con la corruzione della parola inglese strike . Potrebbe anche derivare dal giapponese 雷火 raika , da elettrica, o dal corrispondente spagnolo eléctrica. ",
-    "origin": "Zebstrika è ispirato ad una zebra. Potrebbe essere ispirato inoltre ai cavalli che trainavano il carro infuocato del dio greco Helios . ",
+    "name_origin": "Zebstrika potrebbe derivare da zebra e lightning strike, colpo di fulmine. Zebraika, il suo nome giapponese, potrebbe derivare da zebra e 雷火 raika, lampo. ",
+    "origin": "Zebstrika sembra essere basato su un puledro di zebra. Potrebbe inoltre prenderi ispirazione da due dei cavalli che trainavano il carro di fuoco del dio greco Elio, rispettivamente Bronte  e Sterope . Il nome della categoria del Pokémon in giapponese si può tradurre come Pokémon tuono e lampo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Zebstrika",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Saetta",
     "sprites": {
         "zebstrika": {
@@ -65,6 +65,6 @@
         ]
     },
     "weight": {
-        "zebstrika": "79.5 kg"
+        "zebstrika": "79,5 kg"
     }
 }

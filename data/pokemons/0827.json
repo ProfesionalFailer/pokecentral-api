@@ -13,7 +13,8 @@
     "dex_entries": {
         "nickit": {
             "sword": "Vive rubando il cibo trovato dagli altri Pokémon. I morbidi cuscinetti plantari rendono i suoi passi silenziosi.",
-            "shield": "È scaltro e molto prudente. Quando ruba il cibo, scappa cancellando le sue orme con la coda."
+            "shield": "È scaltro e molto prudente. Quando ruba il cibo, scappa cancellando le sue orme con la coda.",
+            "legends-za": "Arraffa il cibo di Pokémon ed esseri umani per poi seminare gli inseguitori cancellando le sue orme con la coda durante la fuga."
         }
     },
     "egg_groups": [
@@ -22,14 +23,14 @@
     "flat_name": "nickit",
     "generation": 8,
     "height": {
-        "nickit": "0.6 m"
+        "nickit": "0,6 m"
     },
     "id": 827,
     "name": "Nickit",
     "name_origin": "Nickit potrebbe essere una combinazione di nick, gergo per rubare, e kit, volpacchiotto. Potrebbe essere anche un gioco di parole con nick it, ingannare. Kusune potrebbe essere una combinazione di くすねる kusuneru, rubacchiare, e 狐 kitsune, volpe. ",
     "origin": "Nickit potrebbe essere basato su un volpacchiotto di volpe rossa. La maschera sul suo volto e i guanti sulle zampe potrebbero prendere ispirazione dagli indumenti utilizzati dai ladri, mentre la coda potrebbe rappresentare un sacco con dentro gli oggetti rubati. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Nickit",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Volpe",
     "sprites": {
         "nickit": {
@@ -57,6 +58,6 @@
         ]
     },
     "weight": {
-        "nickit": "8.9 kg"
+        "nickit": "8,9 kg"
     }
 }

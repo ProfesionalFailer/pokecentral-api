@@ -10,21 +10,53 @@
         "Bellsprout poteva originariamente essere visto come un parallelo di Oddish: sono entrambi Pokémon di tipo Erba/Veleno di prima generazione, si evolvono prima al livello 21 e poi con Pietrafoglia. Oddish è esclusivo di Blu e Bellsprout di Rosso e possono essere trovati nella Foresta Bianca. Il parallelismo si è perso in seconda generazione, con l'introduzione dell'evoluzione ramificata di Oddish."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/bellsprout.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "bellsprout": {
+            "red": "POKéMON carnivoro che caccia e si nutre di insetti. Usa le radici per assorbire l'umidità.",
+            "blue": "POKéMON carnivoro che caccia e si nutre di insetti. Usa le radici per assorbire l'umidità.",
+            "yellow": "Ama i luoghi caldi e umidi. Cattura minuscoli insetti con le sue liane e poi li divora.",
+            "gold": "Sebbene abbia un corpo magrissimo, sa essere molto rapido quando si scaglia sulla preda.",
+            "silver": "Penetra il terreno con le zampe per rifornirsi d'acqua. Durante quest'azione non può difendersi.",
+            "crystal": "Appena vede qualcosa muoversi, lo colpisce con il tralcio della pianta che forma il suo corpo.",
+            "ruby": "Il corpo esile e flessibile di BELLSPROUT gli consente di piegarsi e oscillare per evitare ogni attacco, anche violento. Dalla bocca sputa un fluido corrosivo in grado di sciogliere anche il ferro.",
+            "sapphire": "Il corpo esile e flessibile di BELLSPROUT gli consente di piegarsi e oscillare per evitare ogni attacco, anche violento. Dalla bocca sputa un fluido corrosivo in grado di sciogliere anche il ferro.",
+            "emerald": "Il corpo esile e flessibile di BELLSPROUT gli consente di oscillare per evitare anche attacchi violenti. Sputa un fluido corrosivo che scioglie persino il ferro.",
+            "fire-red": "Il bocciolo somigliante ad un volto umano fa ritenere che si tratti di un leggendario esemplare di mandragola.",
+            "leaf-green": "POKéMON carnivoro che caccia e si nutre di insetti. Usa le radici per assorbire l'umidità.",
+            "diamond": "Preferisce gli habitat caldi e umidi. Cattura velocemente le prede con i suoi rampicanti.",
+            "pearl": "Preferisce gli habitat caldi e umidi. Cattura velocemente le prede con i suoi rampicanti.",
+            "platinum": "Preferisce gli habitat caldi e umidi. Cattura velocemente le prede con i suoi rampicanti.",
+            "heart-gold": "Sebbene abbia un corpo magrissimo, sa essere molto rapido quando si scaglia sulla preda.",
+            "soul-silver": "Penetra il terreno con le zampe per rifornirsi d'acqua. Durante quest'azione non può difendersi.",
+            "black": "Preferisce gli habitat caldi e umidi. Cattura velocemente le prede con i suoi rampicanti.",
+            "white": "Preferisce gli habitat caldi e umidi. Cattura velocemente le prede con i suoi rampicanti.",
+            "black-2": "Preferisce gli habitat caldi e umidi. Cattura velocemente le prede con i suoi rampicanti.",
+            "white-2": "Preferisce gli habitat caldi e umidi. Cattura velocemente le prede con i suoi rampicanti.",
+            "x": "Sebbene abbia un corpo magrissimo, sa essere molto rapido quando si scaglia sulla preda.",
+            "y": "Il bocciolo somigliante a un volto umano fa ritenere che si tratti di un leggendario esemplare di mandragola.",
+            "omega-ruby": "Il corpo esile e flessibile di Bellsprout gli consente di piegarsi e oscillare per evitare ogni attacco, anche violento. Dalla bocca sputa un fluido corrosivo in grado di sciogliere anche il ferro.",
+            "alpha-sapphire": "Il corpo esile e flessibile di Bellsprout gli consente di piegarsi e oscillare per evitare ogni attacco, anche violento. Dalla bocca sputa un fluido corrosivo in grado di sciogliere anche il ferro.",
+            "lets-go-pikachu": "Ama i luoghi caldi e umidi. Cattura minuscoli Pokémon di tipo Coleottero con i suoi viticci e poi li divora.",
+            "lets-go-eevee": "Ama i luoghi caldi e umidi. Cattura minuscoli Pokémon di tipo Coleottero con i suoi viticci e poi li divora.",
+            "scarlet": "Se qualcosa si muove intorno a lui, reagisce istantaneamente tendendo i suoi viticci.",
+            "violet": "Penetra il terreno con le zampe per rifornirsi d'acqua. Se in quel momento viene attaccato, non può scappare.",
+            "legends-za": "Nonostante la corporatura esile, cattura le prede con movimenti talmente rapidi da risultare impercettibili a occhio nudo."
+        }
+    },
     "egg_groups": [
         "Erba"
     ],
     "flat_name": "bellsprout",
     "generation": 1,
     "height": {
-        "bellsprout": "0.7 m"
+        "bellsprout": "0,7 m"
     },
     "id": 69,
     "name": "Bellsprout",
-    "name_origin": "Bellsprout è una combinazione di \"bell\"  e \"sprout\" . ",
-    "origin": "Bellsprout e le sue evoluzioni possono essere basate sulle piante carnivore. ",
+    "name_origin": "Il suo nome potrebbe essere una combinazione di bell  e sprout . ",
+    "origin": "Bellsprout sembra essere basato su una pianta del gene Nepenthes. La sua voce del Pokédex da Pocket Monsters aka e midori lo accumuna ad una Mandragora. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Bellsprout",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Fiore",
     "sprites": {
         "bellsprout": {
@@ -53,6 +85,6 @@
         ]
     },
     "weight": {
-        "bellsprout": "4.00 kg"
+        "bellsprout": "4,00 kg"
     }
 }

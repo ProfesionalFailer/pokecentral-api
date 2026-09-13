@@ -14,7 +14,7 @@
         "Tipo Zero è uno dei Pokémon con caratteri non alfabetici nel nome.",
         "Possiede alcune similitudini con Arceus: il collare incluso nella maschera ricorda l'anello di Arceus e lo stesso Pokédex afferma che Tipo Zero è ispirato ad un \"Pokémon mitologico\"."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/tipozero.mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/typenull.mp3",
     "dex_entries": {
         "tipo-zero": {
             "sun": "La pesante maschera che indossa agisce come un freno che gli impedisce di usare la sua vera potenza. Nasconde in sé un potere speciale.",
@@ -31,14 +31,14 @@
     "flat_name": "tipo-zero",
     "generation": 7,
     "height": {
-        "tipo-zero": "1.9 m"
+        "tipo-zero": "1,9 m"
     },
     "id": 772,
     "name": "Tipo Zero",
     "name_origin": "Tipo Zero è una sorta di nome in codice. Type: Null significa letteralmente \"tipo nullo\". ",
     "origin": "Sembra che Tipo Zero sia basato su una chimera e su un grifone. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Tipo_Zero",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Multigene",
     "sprites": {
         "tipo-zero": {
@@ -66,6 +66,6 @@
         ]
     },
     "weight": {
-        "tipo-zero": "120.5 kg"
+        "tipo-zero": "120,5 kg"
     }
 }

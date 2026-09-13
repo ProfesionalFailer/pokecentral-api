@@ -5,9 +5,9 @@
         }
     },
     "curiosities": [
-        "Claydol e la sua pre-evoluzione Baltoy sono gli unici Pokémon possedenti il doppio tipo Terra/Psico.",
-        "In quinta generazione il colore di Claydol è leggermente più scuro rispetto alle altre.",
-        "Claydol ha la più alta statistica base di Difesa Speciale di tutti i Pokémon di tipo Terra."
+        "Claydol e la sua pre-evoluzione Baltoy hanno una combinazione di tipi unica.",
+        "I simboli sul petto di Claydol ricordano la forma Q di Unown.",
+        "Claydol condivide con Toedscruel la più alta statistica base di Difesa Speciale di tutti i Pokémon di tipo Terra."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/claydol.mp3",
     "dex_entries": {
@@ -15,13 +15,13 @@
             "ruby": "Pare che Claydol sia una bambola d'argilla creata dall'uomo primitivo e portata in vita grazie all'esposizione a misteriose radiazioni. Questo Pokémon si muove per levitazione.",
             "sapphire": "Claydol rimane ancora un mistero: comparve da una statua d'argilla creata da un popolo antico 20.000 anni fa. Questo Pokémon emette radiazioni dai propri arti superiori.",
             "emerald": "Claydol dorme fluttuando a mezz'aria. I suoi arti superiori sono separati dal corpo e pare che riesca a mantenerli sospesi grazie ai suoi poteri psichici.",
-            "firered": "Pare che sia nato da un'antica bambola di argilla. Si solleva e si sposta usando la telecinesi.",
-            "leafgreen": "Pare che sia nato da un'antica bambola di argilla. Si solleva e si sposta usando la telecinesi.",
+            "fire-red": "Pare che sia nato da un'antica bambola di argilla. Si solleva e si sposta usando la telecinesi.",
+            "leaf-green": "Pare che sia nato da un'antica bambola di argilla. Si solleva e si sposta usando la telecinesi.",
             "diamond": "Pokémon nato da un'antica statuetta d'argilla portata in vita da misteriose radiazioni.",
             "pearl": "Pokémon nato da un'antica statuetta d'argilla portata in vita da misteriose radiazioni.",
             "platinum": "Pokémon nato da un'antica statuetta d'argilla portata in vita da misteriose radiazioni.",
-            "heartgold": "Si tramanda che sia una statuetta d'argilla creata dagli antichi 20000 anni fa che ha preso vita.",
-            "soulsilver": "Si tramanda che sia una statuetta d'argilla creata dagli antichi 20000 anni fa che ha preso vita.",
+            "heart-gold": "Si tramanda che sia una statuetta d'argilla creata dagli antichi 20000 anni fa che ha preso vita.",
+            "soul-silver": "Si tramanda che sia una statuetta d'argilla creata dagli antichi 20000 anni fa che ha preso vita.",
             "black": "Pokémon nato da un'antica statuetta d'argilla portata in vita da misteriose radiazioni.",
             "white": "Pokémon nato da un'antica statuetta d'argilla portata in vita da misteriose radiazioni.",
             "black-2": "È un Pokémon enigmatico nato da un'antica statuetta d'argilla costruita dagli antichi 20.000 anni or sono.",
@@ -44,14 +44,14 @@
     "flat_name": "claydol",
     "generation": 3,
     "height": {
-        "claydol": "1.5 m"
+        "claydol": "1,5 m"
     },
     "id": 344,
     "name": "Claydol",
-    "name_origin": "Il nome proviene dall'inglese clay  e doll  o idol . Questo probabilmente si riferisce all'aspetto e al tipo Terra di Claydol. Potrebbe derivare, seguendo la sua pronuncia, anche da dreidel. ",
-    "origin": "Basato sul dogū, idolo in argilla giapponese del periodo Jōmon. ",
+    "name_origin": "Claydol potrebbe derivare da clay, argilla, terra, e doll, bambola, o idol, idolo. Potrebbe derivare, seguendo la sua pronuncia, anche da dreydl, sevivon. Nendoll, il suo nome giapponese, potrebbe derivare da 念動 nendō, telecinesi, 粘土 nendo, argilla, e doll, bambola. ",
+    "origin": "Claydol sembra essere ispirato dai 遮光器土偶 shakōkidogū , una figura di argilla simile ad un \"astronauta\" del periodo Jōmon. Data la protuberanza sopra la testa, questa può assomigliare ad una trottola con manico, nello specifico un sevivon o un barralliccu. I molteplici occhi identici posso ricordare il concetto di smear frame, ovvero una cella di animazione che spesso ritrae personaggi con anatomia distorta e ripetuta posizionata tra altre due celle per rendere meglio l'idea di movimento tra queste. Questo si ricollegherebbe al suo aspetto simile ad una trottola. Le forme di cerchi concentrici sul petto possono ricordare dei seni: questo, insieme alla forma del corpo più sferica, può ricondurlo anche ad una venere paleolitica. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Claydol",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Argilla",
     "sprites": {
         "claydol": {
@@ -80,6 +80,6 @@
         ]
     },
     "weight": {
-        "claydol": "108.0 kg"
+        "claydol": "108,0 kg"
     }
 }

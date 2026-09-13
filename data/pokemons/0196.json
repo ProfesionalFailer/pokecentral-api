@@ -13,25 +13,60 @@
         "Espeon ha l'Attacco Speciale più alto di tutti i Pokémon della seconda generazione.",
         "Il tipo di Espeon è l'unico a non essere avvantaggiato su quello di nessun'altra eeveeluzione.",
         "Insieme ad Umbreon è l'unico Pokémon iniziale già evoluto.",
-        "Lo sprite di Pokémon Cristallo ha un colore leggermente diverso rispetto agli altri sprite di seconda generazione.",
-        "Nonostante Espeon possa apprendere Elettrocannone solo in seconda generazione, in Ritenta, sarai più fortunato l'Espeon di Alberta conosce la mossa."
+        "Nei giochi, l'interno delle orecchie di Espeon è spesso blu, mentre nella serie animata è viola."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/espeon.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "espeon": {
+            "gold": "Il pelo sottile che ricopre il suo corpo analizza le correnti d'aria e predice le mosse del nemico.",
+            "silver": "Legge le correnti d'aria per predire le condizioni atmosferiche o la prossima mossa del nemico.",
+            "crystal": "Mentre predice la prossima mossa del nemico, la coda biforcuta gli inizia a tremare.",
+            "ruby": "ESPEON è estremamente leale nei confronti di qualsiasi ALLENATORE considerato all'altezza. Si dice che questo POKéMON abbia sviluppato capacità precognitive per proteggere il proprio ALLENATORE.",
+            "sapphire": "ESPEON è estremamente leale nei confronti di qualsiasi ALLENATORE considerato all'altezza. Si dice che questo POKéMON abbia sviluppato capacità precognitive per proteggere il proprio ALLENATORE.",
+            "emerald": "È leale nei confronti degli ALLENATORI che considera alla sua altezza. Si dice abbia sviluppato capacità precognitive per proteggere il proprio ALLENATORE.",
+            "fire-red": "Legge le correnti d'aria per predire le condizioni atmosferiche o la prossima mossa del nemico.",
+            "leaf-green": "Il pelo sottile che ricopre il suo corpo analizza le correnti d'aria e predice le mosse del nemico.",
+            "diamond": "Il suo pelo è simile al velluto. Quando usa i suoi poteri psichici, la sfera che ha sulla fronte brilla.",
+            "pearl": "La sua pelliccia, al tocco, ricorda il velluto. La sfera sulla fronte brilla quando usa i poteri psichici.",
+            "platinum": "Con il pelo sensibile riesce ad analizzare le correnti d'aria e a prevedere le condizioni atmosferiche.",
+            "heart-gold": "Il pelo sottile che ricopre il suo corpo analizza le correnti d'aria e predice le mosse del nemico.",
+            "soul-silver": "Analizza le correnti d'aria per predire le condizioni atmosferiche o la prossima mossa del nemico.",
+            "black": "Con il pelo sensibile riesce ad analizzare le correnti d'aria e a prevedere le condizioni atmosferiche.",
+            "white": "Con il pelo sensibile riesce ad analizzare le correnti d'aria e a prevedere le condizioni atmosferiche.",
+            "black-2": "Grazie al pelo sensibile, percepisce pure gli spostamenti d'aria. Sa leggere nel pensiero e prevedere il tempo.",
+            "white-2": "Grazie al pelo sensibile, percepisce pure gli spostamenti d'aria. Sa leggere nel pensiero e prevedere il tempo.",
+            "x": "Mentre predice la prossima mossa del nemico, la coda biforcuta gli inizia a tremare.",
+            "y": "Grazie al pelo sensibile, percepisce pure gli spostamenti d'aria. Sa leggere nel pensiero e prevedere il tempo.",
+            "omega-ruby": "Espeon è estremamente leale nei confronti di qualsiasi Allenatore considerato all'altezza. Si dice che questo Pokémon abbia sviluppato capacità precognitive per proteggere il proprio Allenatore.",
+            "alpha-sapphire": "Espeon è estremamente leale nei confronti di qualsiasi Allenatore considerato all'altezza. Si dice che questo Pokémon abbia sviluppato capacità precognitive per proteggere il proprio Allenatore.",
+            "sun": "Riesce a prevedere in un istante le mosse dei nemici analizzando le correnti d'aria grazie al suo pelo corto e fine.",
+            "moon": "Lotta emettendo poteri psichici dalla sfera che ha sulla fronte, che diventa più scura man mano che le sue energie diminuiscono.",
+            "ultra-sun": "Inizialmente non aveva particolari abilità, ma in seguito ha sviluppato delle capacità premonitrici per difendersi.",
+            "ultra-moon": "Accumula poteri psichici esponendo alla luce solare la sfera che ha sulla fronte. Le lotte notturne non sono il suo forte.",
+            "sword": "Analizza le correnti d'aria per predire le condizioni atmosferiche o la prossima mossa del nemico.",
+            "shield": "Lotta emettendo poteri psichici dalla sfera che ha sulla fronte, che diventa più scura man mano che le sue energie diminuiscono.",
+            "brilliant-diamond": "Il suo pelo è lucido e vellutato. Quando usa i suoi poteri psichici, la sfera che ha sulla fronte brilla.",
+            "shining-pearl": "Il suo pelo è lucido e vellutato. Quando usa i suoi poteri psichici, la sfera che ha sulla fronte brilla.",
+            "legends-arceus": "Ha facoltà di prevedere il tempo e leggere le menti umane. Il sole gli dona vitalità, facendo rilucere la sfera scarlatta sulla fronte.",
+            "scarlet": "Mentre prevede la prossima mossa del nemico, le punte della sua coda biforcuta tremano lievemente.",
+            "violet": "Il pelo sottile che ricopre il suo corpo gli permette di percepire le correnti d'aria e prevedere le mosse del nemico.",
+            "legends-za": "Percepisce gli spostamenti d'aria grazie ai peli delicati che ricoprono il suo corpo, riuscendo così a prevedere il tempo e le intenzioni del nemico."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "espeon",
     "generation": 2,
     "height": {
-        "espeon": "0.9 m"
+        "espeon": "0,9 m"
     },
     "id": 196,
     "name": "Espeon",
-    "name_origin": "Il suo nome deriva probabilmente dall'unione tra l'acronimo inglese ESP  e il suffisso -eon ovvero eone, tipico della famiglia evolutiva di Eevee. ",
-    "origin": "Espeon sembra essere basato sulla creatura mitologica nekomata o al bakeneko, queste creature sono gatti-goblin con code biforcute e con una grande intelligenza. Il suo aspetto ricorda anche il Carbuncle, creatura mitologica dell'America latina con un gioiello sulla fronte, ha anche molti tratti dei Caraclas, gatti sphynx, linci e volpi fennec. ",
+    "name_origin": "Espeon deriva probabilmente dall'unione tra l'acronimo inglese ESP  e eon , suffisso finale di ogni Eeveeluzione. Eifie, il suo nome giapponese, potrebbe derivare da エスパー ESPer  e フィール feel, inglese per \"sentire\", \"percepire\". Assomiglia anche a イーブイ Eievui, il nome giapponese di Eevee. ",
+    "origin": "Dato il suo aspetto, Espeon sembra essere basato sul Bakeneko o sul Nekomata: entrambi sono gatti Yōkai descritti come misteriosi e intelligenti, e si differenziano poiché il secondo ha una coda biforcuta. Potrebbe inoltre basarsi sulla lince mitologica, una creatura felina che possiede poteri psichici come la chiaroveggenza. Il gioiello sulla sua testa potrebbe essere un riferimento al Carbuncle, una creatura del folklore sudamericano con un gioiello o specchio sulla fronte. La posizione di questo gioiello ricorda inoltre un terzo occhio. Le grandi orecchie del Pokémon potrebbero derivare da specie feline come il caracal, il Foreign white, la lince o il servalo, mentre il pelo sottile potrebbe derivare dallo Sphynx. La sua abilità di analizzare le correnti d'aria tramite il pelo è simile all'abilità dei gatti di percepire movimenti nell'aria tramite le loro vibrisse. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Espeon",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Sole",
     "sprites": {
         "espeon": {
@@ -59,6 +94,6 @@
         ]
     },
     "weight": {
-        "espeon": "26.5 kg"
+        "espeon": "26,5 kg"
     }
 }

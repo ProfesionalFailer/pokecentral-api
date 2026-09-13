@@ -6,7 +6,10 @@
         }
     },
     "curiosities": [
-        "Nonostante il Pokédex dica che i due Pokémon siano acerrimi nemici, Seviper può accoppiarsi con Zangoose, poiché sono entrambi del Gruppo Uova Campo."
+        "Seviper ed il suo rivale Zangoose condividono diverse caratteristiche: fanno parte del Gruppo Uova Campo, risiedono nello stesso Campo Base e sono gli unici due Pokémon con statistiche base totali di 458.\n\tZangoose e Seviper presentano tuttavia tassi di crescita opposti: Zangoose ha una crescita irregolare, mentre Seviper ha una crescita fluttuante.",
+        "Zangoose e Seviper presentano tuttavia tassi di crescita opposti: Zangoose ha una crescita irregolare, mentre Seviper ha una crescita fluttuante.",
+        "Seviper è l'unico Pokémon di tipo Veleno puro a non appartenere ad una linea evolutiva.",
+        "In Pokémon X e Y, se il giocatore si imbatte in un'orda composta da Zangoose e Seviper, questi si attaccheranno a vicenda."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/seviper.mp3",
     "dex_entries": {
@@ -14,13 +17,13 @@
             "ruby": "Da generazioni SEVIPER è in lotta contro ZANGOOSE, suo nemico dichiarato. Le cicatrici sul suo corpo sono prove di scontri efferati. Questo POKéMON attacca usando la coda a forma di spada.",
             "sapphire": "La coda a forma di spada di SEVIPER ha una duplice funzione: lacera il nemico e gli inietta un potente veleno. Il POKéMON non dimentica mai le lotte con il suo secolare nemico, ZANGOOSE.",
             "emerald": "SEVIPER respinge gli attacchi dell'agile ZANGOOSE, suo acerrimo nemico, con la coda a forma di spada, che secerne anche un micidiale veleno.",
-            "firered": "Affila la coda simile a una spada nella dura roccia. Si nasconde nell'erba colpendo le prede con i denti velenosi.",
-            "leafgreen": "Affila la coda simile a una spada nella dura roccia. Si nasconde nell'erba colpendo le prede con i denti velenosi.",
+            "fire-red": "Affila la coda simile a una spada nella dura roccia. Si nasconde nell'erba colpendo le prede con i denti velenosi.",
+            "leaf-green": "Affila la coda simile a una spada nella dura roccia. Si nasconde nell'erba colpendo le prede con i denti velenosi.",
             "diamond": "È acerrimo nemico di ZANGOOSE. Prima della lotta, affila sulle rocce la sua coda simile ad una spada.",
             "pearl": "È acerrimo nemico di ZANGOOSE. Prima della lotta, affila sulle rocce la sua coda simile ad una spada.",
             "platinum": "È acerrimo nemico di ZANGOOSE. Prima della lotta, affila sulle rocce la sua coda simile ad una spada.",
-            "heartgold": "Respinge gli attacchi dell'agile ZANGOOSE con la coda affilatissima, che secerne un micidiale veleno.",
-            "soulsilver": "Respinge gli attacchi dell'agile ZANGOOSE con la coda affilatissima, che secerne un micidiale veleno.",
+            "heart-gold": "Respinge gli attacchi dell'agile ZANGOOSE con la coda affilatissima, che secerne un micidiale veleno.",
+            "soul-silver": "Respinge gli attacchi dell'agile ZANGOOSE con la coda affilatissima, che secerne un micidiale veleno.",
             "black": "È acerrimo nemico di Zangoose. Prima della lotta, affila sulle rocce la sua coda simile ad una spada.",
             "white": "È acerrimo nemico di Zangoose. Prima della lotta, affila sulle rocce la sua coda simile ad una spada.",
             "black-2": "Affila di continuo la lama della sua coda sulle rocce per renderla taglientissima. È un acerrimo nemico di Zangoose.",
@@ -32,7 +35,8 @@
             "brilliant-diamond": "Si batte contro Zangoose da generazioni. Prima della lotta, affila sulle rocce la sua coda simile a una spada.",
             "shining-pearl": "Si batte contro Zangoose da generazioni. Prima della lotta, affila sulle rocce la sua coda simile a una spada.",
             "scarlet": "Affila la coda simile a una lama utilizzando le rocce più dure. Striscia nascosto nell’erba alta, attaccando le prede con le sue zanne velenose.",
-            "violet": "Affila di continuo sulle rocce la sua coda a forma di lama, rendendola sempre più tagliente. È l’acerrimo nemico di Zangoose."
+            "violet": "Affila di continuo sulle rocce la sua coda a forma di lama, rendendola sempre più tagliente. È l’acerrimo nemico di Zangoose.",
+            "legends-za": "Respinge gli attacchi dell'agile Zangoose con la coda affilatissima, che secerne un micidiale veleno."
         }
     },
     "egg_groups": [
@@ -42,14 +46,14 @@
     "flat_name": "seviper",
     "generation": 3,
     "height": {
-        "seviper": "2.7 m"
+        "seviper": "2,7 m"
     },
     "id": 336,
     "name": "Seviper",
-    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi severe, violento, intenso, o dal verbo to sever, tagliare, staccare, e viper, vipera. ",
-    "origin": "Seviper è basato sugli habu, nome comune dato a varie specie di vipere velenose endemiche della regione del Kyushu, su cui Hoenn è basata. Il suo antagonismo con il Pokémon Zangoose deriva dal fatto che le manguste sono in grado di cacciare i serpenti. ",
+    "name_origin": "Seviper potrebbe derivare da to sever, tagliare, recidere, o severe, severo, intenso, e viper, vipera. Habunake, il suo nome giapponese, potrebbe derivare da 波布 habu e snake, serpente. ",
+    "origin": "Seviper sembra essere basato su una vipera; specificamente su un habu, nome comune dato a varie specie di vipere velenose endemiche delle isole Ryūkyū nella regione del Kyushu, su cui Hoenn è basata. Il pattern sul suo corpo lo riconduce ad un Protobothrops elegans. La rivalità tra Seviper e Zangoose sembra essere ispirata alla relazione tra le manguste e i serpenti nel mondo reale. In molte culture le manguste sono infatti rappresentate come antagoniste dei serpenti, dato che sono il loro predatore naturale. In Giappone era comune vedere spettacoli ai late delle strade dove si facevano combattere serpenti e manguste, una pratica ormai considerata disumana e di conseguenza vista raramente al giorno d'oggi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Seviper",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Zannaserpe",
     "sprites": {
         "seviper": {
@@ -77,6 +81,6 @@
         ]
     },
     "weight": {
-        "seviper": "52.5 kg"
+        "seviper": "52,5 kg"
     }
 }

@@ -8,10 +8,12 @@
     },
     "curiosities": [
         "Wailord è stato il Pokémon più alto dalla terza alla settima generazione, superato da Eternatus in ottava generazione.",
-        "Wailord è noto per l'HSOWA.",
+        "Data la sua presenza nel Gruppo Uova Campo, Wailord è in grado di accoppiarsi con Pokémon molto più piccoli di lui, creando il meme Hot Skitty on Wailord Action.",
         "L'altezza di Wailord differisce da quella della sua pre-evoluzione Wailmer di ben 12,5 metri.",
-        "Con 170 punti base, Wailord è il Pokémon di tipo Acqua con il più alto valore di PS.",
-        "Nonostante le sue dimensioni, Wailord pesa molto meno rispetto a quanto ci si aspetterebbe. Il peso di una balena reale si calcola su ordini di grandezza di centinaia di tonnellate. Wailord, invece, pesa solo 398 chilogrammi. Approssimando il volume del suo corpo, il peso specifico  di Wailord risulta perciò talmente basso da essere inferiore a quello dell'aria. Ciò significa che Wailord dovrebbe fluttuare in aria come un palloncino ."
+        "Wailord è il Pokémon di tipo Acqua con il più alto valore di PS.",
+        "Wailord è il Pokémon di tipo Acqua più alto, e il più alto tra i Pokémon non leggendari o misteriosi.",
+        "Nonostante le sue dimensioni, Wailord pesa molto solo 398 chilogrammi, al contrario delle balene reali che pesano centinaia di tonnellate. Approssimando il volume del suo corpo, il peso specifico  di Wailord risulta perciò talmente basso da essere inferiore a quello dell'aria. Ciò significa che Wailord dovrebbe fluttuare in aria come un palloncino .",
+        "In Pokémon Ranger: Ombre su Almia, Wailord è l'unico Pokémon registrato nel Navigatore senza bisogno di catturarlo. La voce del Navigatore dice infatti che è troppo grande per essere catturato"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/wailord.mp3",
     "dex_entries": {
@@ -19,13 +21,13 @@
             "ruby": "WAILORD è il più grande tra tutti i POKéMON finora identificati. Con la sua gigante mole nuota dolcemente nella vastità del mare aperto, ingoiando enormi quantità di cibo con la bocca enorme.",
             "sapphire": "Cacciando le prede, i WAILORD eseguono balzi e tuffi spettacolari in acqua. È davvero uno spettacolo mozzafiato vedere questi POKéMON esibirsi in branco.",
             "emerald": "WAILORD respira con le narici a pelo dell'acqua. Dopo aver inalato quanta più aria possibile, si immerge fino a raggiungere una profondità di quasi 3.000 metri.",
-            "firered": "È uno dei POKéMON più grandi. Caccia le prede in branco, inghiottendole in un solo boccone.",
-            "leafgreen": "È uno dei POKéMON più grandi. Caccia le prede in branco, inghiottendole in un solo boccone.",
+            "fire-red": "È uno dei POKéMON più grandi. Caccia le prede in branco, inghiottendole in un solo boccone.",
+            "leaf-green": "È uno dei POKéMON più grandi. Caccia le prede in branco, inghiottendole in un solo boccone.",
             "diamond": "Il Pokémon più grande che esista. Dopo aver inalato aria, si immerge a una profondità di 3000 metri.",
             "pearl": "Il Pokémon più grande che esista. Dopo aver inalato aria, si immerge a una profondità di 3000 metri.",
             "platinum": "Il Pokémon più grande che esista. Dopo aver inalato aria, si immerge a una profondità di 3000 metri.",
-            "heartgold": "Il Pokémon più grande. In branco, saltano tutti insieme e mettono le prede in difficoltà per catturarle.",
-            "soulsilver": "Il Pokémon più grande. In branco, saltano tutti insieme e mettono le prede in difficoltà per catturarle.",
+            "heart-gold": "Il Pokémon più grande. In branco, saltano tutti insieme e mettono le prede in difficoltà per catturarle.",
+            "soul-silver": "Il Pokémon più grande. In branco, saltano tutti insieme e mettono le prede in difficoltà per catturarle.",
             "black": "Il Pokémon più grande che esista. Dopo aver inalato aria, si immerge a una profondità di 3000 metri.",
             "white": "Il Pokémon più grande che esista. Dopo aver inalato aria, si immerge a una profondità di 3000 metri.",
             "black-2": "L'impatto creato dai suoi salti fuori e dentro l'acqua può arrivare a mandare KO un avversario.",
@@ -51,14 +53,14 @@
     "flat_name": "wailord",
     "generation": 3,
     "height": {
-        "wailord": "14.50 m"
+        "wailord": "14,50 m"
     },
     "id": 321,
     "name": "Wailord",
-    "name_origin": "Il nome Wailord deriva probabilmente da wail  e lord . Whaloh deriva da whale, 吠える hoeru  e 王 ō . ",
+    "name_origin": "Wailord deriva da wail, lamento, anche termine per il verso delle balene, e lord, signore. Potrebbe anche includere whale, balena. Whaloh, il suo nome giapponese, deriva da 吠える hoeru, lamento, anche termine per il verso delle balene, e 王 ō, re. Potrebbe anche includere whale, balena. ",
     "origin": "Wailord è basato su una balena, probabilmente in particolare sulla balenottera azzurra, l'animale più grande conosciuto. Ricorda anche un sottomarino o un dirigibile. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Wailord",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Megabalena",
     "sprites": {
         "wailord": {
@@ -86,6 +88,6 @@
         ]
     },
     "weight": {
-        "wailord": "398.0 kg"
+        "wailord": "398,0 kg"
     }
 }

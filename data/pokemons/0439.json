@@ -7,21 +7,22 @@
         }
     },
     "curiosities": [
-        "Il suo nome negli Stati Uniti è stato rivelato il 28 maggio 2006, lo stesso giorno di Weavile.",
-        "Mime Jr. è uno dei tre Pokémon in squadra del giocatore nella versione demo di Pokémon Diamante e Perla.",
-        "Ad oggi, Mime Jr. è l'unico Pokémon con un tasso di cattura di 145.",
+        "Mime Jr. ha la statistica di Punti Salute base più bassa tra tutti i Pokémon di tipo Psico e Folletto",
+        "Mime Jr. è l'unico Pokémon con un tasso di cattura di 145.",
+        "Mime Jr. è l'unico Pokémon Baby che ha ricevuto il tipo Folletto in sesta generazione a non essere di tipo normale in precedenza.\n\tÈ anche l'unico Pokémon Baby di tipo Folletto introdotto in quarta generazione.",
+        "È anche l'unico Pokémon Baby di tipo Folletto introdotto in quarta generazione.",
         "La sua linea evolutiva è l'unica in cui ogni Pokémon ha un carattere non alfabetico.",
-        "In Oro HeartGold e Argento SoulSilver, se il giocatore ha un Mime Jr. come Pokémon seguace ed entra nella stanza di Copiona, il Pokémon \"mimerà\" il giocatore se ci si interagisce.",
-        "Mime Jr. è uno dei Pokémon con caratteri non alfabetici nel nome."
+        "Mime Jr. è uno dei Pokémon con caratteri non alfabetici nel nome.",
+        "Mime Jr. è l'unico Pokémon il cui tipo primario diventa il tipo secondario dopo l'evoluzione. Questo si applica solo a Mr. Mime di Galar."
     ],
-    "cry": "https://play.pokemonshowdown.com/audio/cries/mimejr..mp3",
+    "cry": "https://play.pokemonshowdown.com/audio/cries/mimejr.mp3",
     "dex_entries": {
         "mime-jr": {
             "diamond": "Imita i movimenti dei nemici. Quando un nemico viene imitato, non riesce più a distogliere lo sguardo da lui.",
             "pearl": "Ama i luoghi affollati. Imita i nemici per confonderli, poi ne approfitta per fuggire.",
             "platinum": "Imita i movimenti e le espressioni di coloro che vede per capire i sentimenti degli altri.",
-            "heartgold": "Imita i movimenti del nemico, approfittando del suo momento di confusione per fuggire.",
-            "soulsilver": "Imita i movimenti del nemico, approfittando del suo momento di confusione per fuggire.",
+            "heart-gold": "Imita i movimenti del nemico, approfittando del suo momento di confusione per fuggire.",
+            "soul-silver": "Imita i movimenti del nemico, approfittando del suo momento di confusione per fuggire.",
             "black": "Imita i movimenti e le espressioni di coloro che vede per capire i sentimenti degli altri.",
             "white": "Imita i movimenti e le espressioni di coloro che vede per capire i sentimenti degli altri.",
             "black-2": "Imita i movimenti e le espressioni di coloro che vede per capire i sentimenti degli altri.",
@@ -36,8 +37,10 @@
             "shield": "Considera Mr. Rime il proprio maestro per le sue doti di ballerino, e ne imita diligentemente i passi di danza.",
             "brilliant-diamond": "Imita i movimenti dei nemici. Si dice che questi ultimi non riescano più a distogliere lo sguardo da lui.",
             "shining-pearl": "Ama i luoghi affollati. Imita le movenze dei nemici per confonderli e ne approfitta per fuggire.",
-            "legends-arceus": "Si palesa di quando in quando in gremiti mercati. Con gli occhi rilucenti di curiosità, imita gli umani e ne osserva le reazioni alla stregua di un fanciullo."
-        }
+            "legends-arceus": "Si palesa di quando in quando in gremiti mercati. Con gli occhi rilucenti di curiosità, imita gli umani e ne osserva le reazioni alla stregua di un fanciullo.",
+            "legends-za": "Le imitazioni sono la sua specialità. Se riesce a disorientare il nemico, la sua felicità è tale che si interrompe nel bel mezzo della performance."
+        },
+        "": {}
     },
     "egg_groups": [
         "Sconosciuto"
@@ -45,14 +48,14 @@
     "flat_name": "mime-jr",
     "generation": 4,
     "height": {
-        "mime-jr": "0.6 m"
+        "mime-jr": "0,6 m"
     },
     "id": 439,
     "name": "Mime Jr.",
-    "name_origin": "Il suo nome è un ovvio riferimento al fatto che si tratta della pre-evoluzione di Mr. Mime. ",
-    "origin": "È basato su un mimo ed un clown. ",
+    "name_origin": "Mime Jr. deriva da mime, mimo, e jr., abbreviazione di junior, messo in seguito ad un altro termine per indicare che ciò di cui si parla ne è la versione più giovane. Manene, il suo nome giapponese, potrebbe derivare da 真似 mane, imitazione, e ね ne, particella usata per indicare enfasi o domande, o nene, spagnolo per \"bambino\". ",
+    "origin": "Mime Jr. sembra essere basato su un infante e su un mimo, date le sue abilità di imitazione. Ricorda anche un pagliaccio dati i suoi colori vivaci e il grande naso rosso. La parte blu della testa ricorda un berretto di maglia con paraorecchie, o un cappello con sonagli indossato da giullari. Il suo tipo folletto e cappello a punta lo riconducono a vari esseri fiabeschi umanoidi, come gnomi, nani e elfi. La forma del suo corpo ricorda anche un burattino o una bambola, possibilmente ricollegandolo agli Tsukumogami, Yōkai nati da oggetti posseduti. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Mime_Jr.",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Mimo",
     "sprites": {
         "mime-jr": {
@@ -81,6 +84,6 @@
         ]
     },
     "weight": {
-        "mime-jr": "13.0 kg"
+        "mime-jr": "13,0 kg"
     }
 }

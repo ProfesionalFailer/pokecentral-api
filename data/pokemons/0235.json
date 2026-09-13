@@ -7,26 +7,60 @@
         }
     },
     "curiosities": [
-        "Anche se non è in grado di apprendere alcuna mossa tramite MT o Insegnamosse, tramite Schizzo è in grado di apprendere tutte le mosse esistenti, con alcune eccezioni.",
-        "Smeargle è l'unico Pokémon che può imparare la stessa mossa più di due volte. Infatti Smeargle se, nel momento in cui sale di livello non la possiede, può imparare Schizzo ben 10 volte, una ogni 10 livelli ",
-        "Negli sprite di seconda generazione, i colori della coda di Smeargle nella forma normale e in quella cromatica erano invertiti."
+        "Smeargle è l'unico Pokémon che può imparare la stessa mossa più di quattro volte. Infatti, se nel momento in cui sale di livello non la possiede, può imparare Schizzo ben 10 volte, una ogni 10 livelli.",
+        "Negli sprite di seconda generazione, i colori della coda di Smeargle nella forma normale e in quella cromatica erano invertiti. Questa colorazione è presente anche in Pokémon Colosseum e Pokémon XD, nonostante i colori siano stati cambiati in terza generazione.",
+        "Data la sua capacità di imparare solo Schizzo salendo di livello, ma potendola usare per imparare ogni mossa, e non poter imparare mosse tramite MT e MN, Smeargle può allo stesso tempo apprendere il numero più alto e più basso di mosse rispetto ad ogni altro Pokémon.",
+        "In Pokémon Stadium 2 Smeargle può avere la vernice sulla coda di colore rosso, verde o blu, mentre la sua colorazione cromatica può averla verde acqua, indico o arancione, a seconda dei suoi Punti individuali in Velocità, Difesa, Speciali e Attacco.\n\tQuesto rende Stadium 2 l'unico gioco in Smeargle ha la vernice di colori diversi indipendentemente dalla colorazione cromatica, e l'unico in cui la vernice sulla sua schiena è di colore diverso da quella della coda.",
+        "Questo rende Stadium 2 l'unico gioco in Smeargle ha la vernice di colori diversi indipendentemente dalla colorazione cromatica, e l'unico in cui la vernice sulla sua schiena è di colore diverso da quella della coda."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/smeargle.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "smeargle": {
+            "gold": "Sulla coda ha un fluido speciale, che lascia ovunque per marcare il suo territorio.",
+            "silver": "Quando è adulto tende a farsi lasciare orme di zampe sul dorso dai propri compagni.",
+            "crystal": "Il colore del fluido misterioso che secerne dalla coda è predeterminato per ogni SMEARGLE.",
+            "ruby": "SMEARGLE delimita i confini del suo territorio con il fluido corporeo secreto dalla punta della coda. Sono state rinvenute ben 5.000 diverse delimitazioni lasciate da questo POKéMON.",
+            "sapphire": "SMEARGLE delimita i confini del suo territorio con il fluido corporeo secreto dalla punta della coda. Sono state rinvenute ben 5.000 diverse delimitazioni lasciate da questo POKéMON.",
+            "emerald": "SMEARGLE delimita il suo territorio con il fluido corporeo secreto dalla punta della coda. Sono stati rinvenuti ben 5.000 diversi segni di delimitazione.",
+            "fire-red": "Quando è adulto tende a farsi stampare sul dorso le orme delle zampe dei propri compagni.",
+            "leaf-green": "Sulla coda ha un fluido speciale, che lascia ovunque per marcare il suo territorio.",
+            "diamond": "Delimita il suo territorio usando la coda come se fosse un pennello. Ha lasciato oltre 5000 segni diversi.",
+            "pearl": "Delimita il suo territorio usando la coda come se fosse un pennello. Ha lasciato oltre 5000 segni diversi.",
+            "platinum": "Delimita il suo territorio usando la coda come se fosse un pennello. Ha lasciato oltre 5000 segni diversi.",
+            "heart-gold": "Sulla coda ha un fluido speciale, che rilascia ovunque per marcare il suo territorio.",
+            "soul-silver": "Quando è adulto tende a farsi lasciare orme di zampe sul dorso dai propri compagni.",
+            "black": "Delimita il suo territorio usando la coda come se fosse un pennello. Ha lasciato oltre 5000 segni diversi.",
+            "white": "Delimita il suo territorio usando la coda come se fosse un pennello. Ha lasciato oltre 5000 segni diversi.",
+            "black-2": "Delimita il suo territorio usando la coda come se fosse un pennello. Ha lasciato oltre 5000 segni diversi.",
+            "white-2": "Delimita il suo territorio usando la coda come se fosse un pennello. Ha lasciato oltre 5000 segni diversi.",
+            "x": "Delimita il suo territorio usando la coda come se fosse un pennello. Ha lasciato oltre 5000 segni diversi.",
+            "y": "Quando è adulto tende a farsi lasciare orme di zampe sul dorso dai propri compagni.",
+            "omega-ruby": "Smeargle delimita i confini del suo territorio con il fluido corporeo secreto dalla punta della coda. Sono state rinvenute ben 5000 diverse delimitazioni lasciate da questo graffiti.",
+            "alpha-sapphire": "Smeargle delimita i confini del suo territorio con il fluido corporeo secreto dalla punta della coda. Sono state rinvenute ben 5000 diverse delimitazioni lasciate da questo graffiti.",
+            "sun": "Delimita i confini del suo territorio dipingendo segni particolari con il fluido corporeo che secerne dalla punta della coda.",
+            "moon": "Marca il suo territorio dipingendo con la coda. Nelle città che ospitano molti Smeargle, i muri sono pieni di graffiti.",
+            "ultra-sun": "Dalla punta della coda secerne un fluido corporeo la cui tonalità cambia in base alle sue emozioni.",
+            "ultra-moon": "Traccia dei segni con il fluido prodotto dalla punta della coda. Gli appassionati comprano le sue opere a caro prezzo.",
+            "brilliant-diamond": "Delimita il suo territorio tracciando segni con la coda come se fosse un pennello. Se ne contano oltre 5.000 diversi.",
+            "shining-pearl": "Delimita il suo territorio tracciando segni con la coda come se fosse un pennello. Se ne contano oltre 5.000 diversi.",
+            "scarlet": "Fra gli esemplari adulti è usanza portare sul dorso le impronte delle zampe dei propri compagni.",
+            "violet": "Il colore del fluido misterioso che secerne dalla coda cambia da esemplare a esemplare."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "smeargle",
     "generation": 2,
     "height": {
-        "smeargle": "1.2 m"
+        "smeargle": "1,2 m"
     },
     "id": 235,
     "name": "Smeargle",
-    "name_origin": "Il nome Smeargle deriva dall'unione delle parole inglesi smear  e beagle . ",
-    "origin": "È basato su un pittore con l'aspetto di un beagle. ",
+    "name_origin": "Smeargle potrebbe derivare dall'unione delle parole inglesi smear  e beagle . Doble, il suo nome giapponese, potrebbe derivare da dog, cane, daub, imbrattare, e doodle, scarabocchio. Potreeb derivare anche dalla parola spagnola doble, doppio, possibilmente in riferimento alla sua abilità di copiare mosse. ",
+    "origin": "Smeargle sembra essere su un pittore con l'aspetto di un beagle. La sua coda ricorda un pennello, la parte superiore della testa un basco, copricapo associato con i pittori, e sulla schiema ha un'orma, che potrebbe rappresentare l'uso di queste nell'arte. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Smeargle",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Pittore",
     "sprites": {
         "smeargle": {
@@ -54,6 +88,6 @@
         ]
     },
     "weight": {
-        "smeargle": "58.0 kg"
+        "smeargle": "58,0 kg"
     }
 }

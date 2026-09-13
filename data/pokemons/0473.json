@@ -7,13 +7,9 @@
         }
     },
     "curiosities": [
-        "La descrizione del Pokédex di questo Pokémon da Pokémon Diamante e Perla e Pokémon Argento SoulSilver si riferiscono all'estinzione del mammut lanoso.",
-        "Mamoswine e la sua famiglia sono gli unici Pokémon deboli a tutti i tipi degli starter: Fuoco, Acqua ed Erba.\n\tComunque, possono perdere la debolezza al fuoco con l'abilità Grassospesso.",
-        "Comunque, possono perdere la debolezza al fuoco con l'abilità Grassospesso.",
-        "Le mosse con bonus di tipo di Mamoswine e famiglia possono essere superefficaci su ben nove tipi: Veleno, Volante, Terra, Roccia, Fuoco, Erba, Elettro e Drago.",
-        "Mamoswine e le sue pre-evoluzioni Piloswine e Swinub sono gli unici Pokémon ad avere il doppio tipo Ghiaccio/Terra.",
-        "Mamoswine è il Pokémon di tipo Ghiaccio più pesante.",
-        "Essendo sia di tipo Ghiaccio che di tipo Terra, è in grado di resistere sia a Terrempesta che a Grandine."
+        "Mamoswine e le sue pre-evoluzioni Piloswine e Swinub sono gli unici Pokémon ad avere il doppio tipo Ghiaccio/Terra.\n\tQuesta è l'unica combinazione di tipi possibile ad essere debole a tutti i tipi dei Pokémon iniziali .",
+        "Questa è l'unica combinazione di tipi possibile ad essere debole a tutti i tipi dei Pokémon iniziali .",
+        "Mamoswine sarebbe potuto essere ottenibile sia in seconda generazione che in terza generazione se fosse esistito, dato che in entrambe era possibile ottenere un Piloswine che avesse Forzantica, analogamente al caso di Lickilicky."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mamoswine.mp3",
     "dex_entries": {
@@ -21,8 +17,8 @@
             "diamond": "Ha enormi zanne di ghiaccio. La popolazione di questo Pokémon è diminuita alla fine dell'era glaciale.",
             "pearl": "Ha enormi zanne di ghiaccio. La popolazione di questo Pokémon è diminuita alla fine dell'era glaciale.",
             "platinum": "Un esemplare congelato risalente a 10.000 anni fa si è risvegliato tra lo stupore generale.",
-            "heartgold": "Un Pokémon antico al punto che ne sono stati ritrovati degli esemplari tra i ghiacci di 10000 anni fa.",
-            "soulsilver": "Un Pokémon molto diffuso durante l'era glaciale ma i cui esemplari sono drasticamente diminuiti dopo.",
+            "heart-gold": "Un Pokémon antico al punto che ne sono stati ritrovati degli esemplari tra i ghiacci di 10000 anni fa.",
+            "soul-silver": "Un Pokémon molto diffuso durante l'era glaciale ma i cui esemplari sono drasticamente diminuiti dopo.",
             "black": "Un esemplare congelato risalente a 10.000 anni fa si è risvegliato tra lo stupore generale.",
             "white": "Un esemplare congelato risalente a 10.000 anni fa si è risvegliato tra lo stupore generale.",
             "black-2": "Si dice che molti Mamoswine sparirono verso la fine dell'era glaciale a causa dell'aumento della temperatura.",
@@ -46,14 +42,14 @@
     "flat_name": "mamoswine",
     "generation": 4,
     "height": {
-        "mamoswine": "2.5 m"
+        "mamoswine": "2,5 m"
     },
     "id": 473,
     "name": "Mamoswine",
-    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi mammoth  e swine . ",
-    "origin": "Basato su un mammut lanoso con caratteristiche di un cinghiale. ",
+    "name_origin": "Mamoswine potrebbe derivare da mammoth, mammut, e swine, suino. Mammoo, il suo nome giapponese, potrebbe derivare da mammoth e ブーブー būbū, onomatopea del grugnire dei suini. ",
+    "origin": "Mamoswine sembra essere basato su un mammut lanoso e un cinghiale, rendendolo simile ad un Mangalica, un tipo di maiale peloso. Le parti blu e bianche intorno agli occhi ricordano occhiali da sci. Il suo tipo Terra potrebbe derivare dal fatto che \"mammut\" derivi dalla parola russa \"ма́монт\", che a sua volta origina dalle parole Mansi \"ма̄\"  e \"а̄ньт\" . Il tipo Ghiaccio, invece, potrebbe derivare dall'associazione tra i mammut e l'era glaciale, tra l'altro menzionata in alcune voci del Pokédex del Pokémon. Il fatto che non abbia una proboscide potrebbe derivare da una raffigurazione del mammut di Adams che in modo simile lo raffigura senza proboscide, e che lo fa assomigliare ad un cinghiale per le orecchie piccole e corporatura tozza. Il suo colorito verde potrebbe derivare dagli intagli della giada, in cui spesso erano rappresentati elefanti. Il fatto che è basato su una creatura antica potrebbe essere il motivo per cui l'evoluzione richiede Forzantica. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Mamoswine",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Duezanne",
     "sprites": {
         "mamoswine": {
@@ -81,11 +77,11 @@
     },
     "types": {
         "mamoswine": [
-            "Ghiaccio",
-            "Terra"
+            "Terra",
+            "Ghiaccio"
         ]
     },
     "weight": {
-        "mamoswine": "291.0 kg"
+        "mamoswine": "291,0 kg"
     }
 }

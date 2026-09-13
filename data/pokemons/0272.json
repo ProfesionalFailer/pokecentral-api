@@ -18,7 +18,34 @@
         "Entrambe sono basate su creature leggendarie giapponesi o yōkai: la linea di Ludicolo è basata sul kappa, mentre quella di Shiftry è basata sul tengu."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/ludicolo.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "ludicolo": {
+            "ruby": "LUDICOLO inizia a ballare appena sente una musica allegra e festosa. Pare che questo POKéMON appaia quando sente il canto gioioso dei bambini durante le escursioni.",
+            "sapphire": "Quando sente un motivetto allegro e vivace, le cellule corporee di LUDICOLO diventano attive e piene di energia. Anche in lotta il POKéMON dimostra una potenza incredibile.",
+            "emerald": "Se sente una musica festosa, LUDICOLO comincia a muoversi a ritmo perché le sue cellule vengono sollecitate. Non ha paura neppure di fronte ai nemici più potenti.",
+            "fire-red": "Le sue cellule sono sollecitate dalla musica festosa, che lo rende più potente.",
+            "leaf-green": "Le sue cellule sono sollecitate dalla musica festosa, che lo rende più potente.",
+            "diamond": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "pearl": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "platinum": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "heart-gold": "Danzando al ritmo di una musica gioiosa, aumenta la propria forza.",
+            "soul-silver": "Danzando al ritmo di una musica gioiosa, aumenta la propria forza.",
+            "black": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "white": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "black-2": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "white-2": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "x": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce ad evitare di ballare.",
+            "y": "Le sue cellule sono sollecitate dalla musica festosa, che lo rende più potente.",
+            "omega-ruby": "Ludicolo inizia a ballare appena sente una musica allegra e festosa. Pare che questo Pokémon appaia quando sente il canto gioioso dei bambini durante le escursioni.",
+            "alpha-sapphire": "Quando sente un motivetto allegro e vivace, le cellule corporee di Ludicolo diventano attive e piene di energia. Anche in lotta il Pokémon dimostra una potenza incredibile.",
+            "sword": "Le sue cellule sono sollecitate dalla musica festosa, che lo rende più potente.",
+            "shield": "Aumenta la propria forza danzando al ritmo di una musica giocosa.",
+            "brilliant-diamond": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce a fare a meno di ballare.",
+            "shining-pearl": "Se ascolta musica allegra, tutto il suo corpo si rivitalizza e non riesce a fare a meno di ballare.",
+            "scarlet": "Il suo corpo è dotato di un sistema che genera energia quando vengono captate le onde acustiche di un ritmo festoso.",
+            "violet": "Quando danza al ritmo di una musica festosa, si esalta al punto da perdere ogni paura del nemico."
+        }
+    },
     "egg_groups": [
         "Acqua 1",
         "Erba"
@@ -26,14 +53,14 @@
     "flat_name": "ludicolo",
     "generation": 3,
     "height": {
-        "ludicolo": "1.50 m"
+        "ludicolo": "1,50 m"
     },
     "id": 272,
     "name": "Ludicolo",
-    "name_origin": "Ludicolo può essere una combinazione di \"ludic\" , \"ludicrous\", \"ridiculous\" , \"paludicolous\"  e \"colocynth\" . Può anche includere un anagramma di \"loco\" . Rumpappa potrebbe essere una combinazione di ルンルン runrun, felice e morbido, e pappa, che forse è il suono di un veloce rullo di tamburo. Potrebbe essere anche una combinazione di rumba e kappa. ",
-    "origin": "Ludicolo sembra essere basato su una ninfea e sul kappa, uno yōkai giapponese con una depressione piena d'acqua sulla testa e un becco simile a quello di una tartaruga . I colori e la forma del suo corpo sono simili a vari frutti o piante come la zucca, l'ananas o la papaia. Assomiglia anche a uno stereotipo di ballerino popolare messicano o artista mariachi, per via della testa a forma di sombrero, della pelliccia che ricorda un poncho e dei movimenti di danza. ",
+    "name_origin": "Ludicolo potrebbe essere una combinazione di ludic, giocosoì, ludicrous, ridiculous, ridicolo, paludicolous, che abita una palude, e colocynth, una pianta che dà un frutto rotondo e verde. Può anche includere un anagramma di loco, spagnolo per \"pazzo\". Runpappa, il suo nome giapponese, potrebbe essere una combinazione di ルンルン runrun, felice o vivace, o rumba, e kappa o papaya. ",
+    "origin": "Ludicolo sembra essere basato su una ninfea e sul kappa, uno yōkai giapponese con una depressione piena d'acqua sulla testa e un becco simile a quello di una tartaruga . I colori e la forma del suo corpo sono simili a vari frutti o piante come i frutti delle cucurbitaceae, l'ananas o la papaya. Assomiglia anche a uno stereotipo di ballerino popolare messicano o artista mariachi, per via della testa a forma di sombrero, della pelliccia che ricorda un poncho e dei movimenti di danza. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Ludicolo",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Spensierato",
     "sprites": {
         "ludicolo": {
@@ -61,11 +88,11 @@
     },
     "types": {
         "ludicolo": [
-            "Erba",
-            "Acqua"
+            "Acqua",
+            "Erba"
         ]
     },
     "weight": {
-        "ludicolo": "55.0 kg"
+        "ludicolo": "55,0 kg"
     }
 }

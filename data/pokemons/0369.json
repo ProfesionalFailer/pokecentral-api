@@ -7,6 +7,9 @@
         }
     },
     "curiosities": [
+        "Relicanth è l'unico Pokémon a cedere 1 punto base in PS e 1 in Difesa.",
+        "Relicanth condivide delle caratteristiche con i Pokémon fossili: è di tipo Roccia, ha una divisione di sessi di 1 femmina per 7 maschi, ed è descritto come un Pokémon antico nel Pokédex.",
+        "Relicanth è l'unico Pokémon di tipo Roccia con le pinne e l'unico di questo tipo nel gruppo uova Acqua 2.",
         "Relicanth e Zigzagoon sono gli unici due Pokémon assenti nel Pokérap di Hoenn."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/relicanth.mp3",
@@ -15,13 +18,13 @@
             "ruby": "RELICANTH è una specie esistente da cento milioni di anni senza alcuna mutazione di forma. Questo antichissimo POKéMON si nutre di microrganismi come prova la sua bocca sdentata.",
             "sapphire": "RELICANTH è una specie rara scoperta durante le esplorazioni nelle profondità marine. Il suo corpo riesce a resistere all'incredibile pressione degli abissi oceanici ed è ricoperto di squame dure come roccia viva.",
             "emerald": "Un tempo si credeva che RELICANTH si fosse estinto. Questa specie, la cui forma è immutata da 100 milioni di anni, si muove sui fondali marini con le pinne pettorali.",
-            "firered": "Immutato da 100 milioni di anni, è stato scoperto durante un'esplorazione nelle profondità marine.",
-            "leafgreen": "Immutato da 100 milioni di anni, è stato scoperto durante un'esplorazione nelle profondità marine.",
+            "fire-red": "Immutato da 100 milioni di anni, è stato scoperto durante un'esplorazione nelle profondità marine.",
+            "leaf-green": "Immutato da 100 milioni di anni, è stato scoperto durante un'esplorazione nelle profondità marine.",
             "diamond": "Un Pokémon raro scoperto durante un'esplorazione del mare profondo. È immutato da 100 milioni di anni.",
             "pearl": "Un Pokémon raro scoperto durante un'esplorazione del mare profondo. È immutato da 100 milioni di anni.",
             "platinum": "Un Pokémon raro scoperto durante un'esplorazione del mare profondo. È immutato da 100 milioni di anni.",
-            "heartgold": "Scoperto per caso nelle profondità marine durante una perlustrazione. È immutato da 100 milioni di anni.",
-            "soulsilver": "Scoperto per caso nelle profondità marine durante una perlustrazione. È immutato da 100 milioni di anni.",
+            "heart-gold": "Scoperto per caso nelle profondità marine durante una perlustrazione. È immutato da 100 milioni di anni.",
+            "soul-silver": "Scoperto per caso nelle profondità marine durante una perlustrazione. È immutato da 100 milioni di anni.",
             "black": "Un Pokémon raro scoperto durante un'esplorazione del mare profondo. È immutato da 100 milioni di anni.",
             "white": "Un Pokémon raro scoperto durante un'esplorazione del mare profondo. È immutato da 100 milioni di anni.",
             "black-2": "Un Pokémon raro scoperto durante un'esplorazione del mare profondo. È immutato da 100 milioni di anni.",
@@ -47,14 +50,14 @@
     "flat_name": "relicanth",
     "generation": 3,
     "height": {
-        "relicanth": "1.00 m"
+        "relicanth": "1,00 m"
     },
     "id": 369,
     "name": "Relicanth",
-    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi relic  e coelacanth . ",
-    "origin": "Relicanth è basato sul celacanto, una specie creduta estinta, essi sono dei veri fossili viventi siccome risultano quasi immutati dai loro antenati preistorici, lo stesso vale per i Relicanth. I celacanti vennero riscoperti quando un esemplare venne pescato nel 1938 in Sudafrica, nell'Oceano Indiano all'altezza della foce del fiume Chalumna. Il colorito normale di Relicanth ricorda un celacanto indonesiano, mentre la versione cromatica ricorda un celacanto del mare indiano dell'ovest. ",
+    "name_origin": "Relicanth potrebbe derivare da relic, reliquia, relict, specie relitta, e coelacanth, celacanto. Glanth, il suo nome giapponese, potrebbe derivare da 爺 jī, vecchietto, e coelacanth, celacanto. ",
+    "origin": "Relicanth sembra essere basato su un celacanto, un'ordine di pesci ritenuto estinto 66 milioni di anni fa fino alla loro riscoperta nel 1938. Sono considerati fossili viventi, in quanto immutati dai loro parenti preistorici; questo potrebbe spiegare il tipo Roccia di Relicanth, tipico dei Pokémon fossili, e il suo aspetto \"anziano\". La colorazione di Relicanth è simile a quella del celacanto indonesiano, mentre quella cromatica ricorda il celacanto delle Comore. Le forme marrone chiaro e il punto rosso sul corpo del Pokémon possono ricordare una mappa del tesoro. La forma della sua testa ricorda quella di un Dunkleosteus. La voce Pokédex di Pokémon Ultrasole presenta un riferimento al genere dei celacanti, Latimeria, che prende il nome da Marjorie Courtenay-Latimer, la prima persona a descrivere un celacanto vivo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Relicanth",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Longevità",
     "sprites": {
         "relicanth": {
@@ -87,6 +90,6 @@
         ]
     },
     "weight": {
-        "relicanth": "23.4 kg"
+        "relicanth": "23,4 kg"
     }
 }

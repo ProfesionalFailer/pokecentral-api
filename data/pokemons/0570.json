@@ -5,8 +5,8 @@
         }
     },
     "curiosities": [
-        "Zorua e la sua evoluzione sono stati i primi Pokémon della quinta generazione ad essere rilevati al pubblico il 10 febbraio 2010; tuttavia la loro immagine completa fu mostrata nel mese di marzo dal manga CoroCoro.",
-        "Zorua è uno dei pochi Pokémon ad aver mantenuto il suo nome Giapponese anche in Inglese e nelle altre lingue europee.",
+        "Zorua e la sua evoluzione sono stati i primi Pokémon della quinta generazione ad essere rivelati al pubblico il 10 febbraio 2010; tuttavia la loro immagine completa fu mostrata nel mese di marzo dal manga CoroCoro.",
+        "Zorua è uno dei pochi Pokémon ad aver mantenuto il suo nome giapponese anche in inglese e nelle altre lingue europee.",
         "Insieme alla sua evoluzione, è stato il primo Pokémon della quinta generazione ad essere rivelato al pubblico il 7 febbraio 2010."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/zorua.mp3",
@@ -20,7 +20,7 @@
             "y": "Si protegge dai pericoli trasformandosi in essere umano o in un altro Pokémon, nascondendo così la sua identità.",
             "omega-ruby": "Inganna spesso il nemico assumendone la forma e lasciandolo esterrefatto, per poi darsi alla fuga.",
             "alpha-sapphire": "Si protegge dai pericoli trasformandosi in essere umano o in un altro Pokémon, nascondendo così la sua vera identità.",
-            "ultra-sun": "È un Pokémon molto timido. Quando non è circondato dai suoi simili, assume sembianze diverse dalle quelle abituali.",
+            "ultra-sun": "È un Pokémon molto timido. Quando non è circondato dai suoi simili, assume sembianze diverse dalle quelle abituali.[2]",
             "ultra-moon": "Se un bambino chiacchierone diventa di colpo taciturno, potrebbe essere in realtà uno Zorua che ne ha preso le sembianze.",
             "sword": "Pare che abbia sviluppato l'abilità di alterare le sue sembianze per via della sua natura timorosa.",
             "shield": "Quando è in cerca di cibo, capita persino che appaia in città assumendo sembianze umane. Si trasforma principalmente in bambini.",
@@ -37,14 +37,14 @@
     "flat_name": "zorua",
     "generation": 5,
     "height": {
-        "zorua": "0.7 m"
+        "zorua": "0,7 m"
     },
     "id": 570,
     "name": "Zorua",
-    "name_origin": "Il suo nome deriva dalla parola spagnola zorro  e dall'irlandese rua , ad indicare sia le striature del suo manto sia la volpe, madra rua. ",
+    "name_origin": "Il suo nome deriva dalla parola spagnola zorro  e dall'irlandese rua , a indicare sia le striature del suo manto sia la volpe, madra rua. ",
     "origin": "Zorua è basato su un cucciolo di volpe, i cui disegni sul viso ricordano il trucco teatrale Kabuki o Nō, il fatto che Zorua mantenga la coda quando si trasforma in umano ricorda il mito del Kitsune, volpe mitologica giapponese mutaforma che ha difficoltà a nascondere la coda quando si trasforma in umano. Potrebbe anche essere basato su un ninja per il fatto che usa le illusioni contro i nemici; infatti i ninja praticano il genjutsu . ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Zorua",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Malavolpe",
     "sprites": {
         "zorua": {
@@ -84,11 +84,11 @@
             "Buio"
         ],
         "forma-di-hisui": [
-            "Spettro",
-            "Normale"
+            "Normale",
+            "Spettro"
         ]
     },
     "weight": {
-        "zorua": "12.5 kg"
+        "zorua": "12,5 kg"
     }
 }

@@ -6,7 +6,6 @@
         }
     },
     "curiosities": [
-        "Articoli incompleti",
         "Pokémon",
         "Pokémon di quarta generazione",
         "Pokémon di tipo Acqua",
@@ -27,8 +26,8 @@
             "diamond": "Nuota con il suo grosso galleggiante e aiuta a soccorrere chi sta per annegare.",
             "pearl": "Il suo galleggiante, che funge da gommone, si è sviluppato perché caccia le prede nell'acqua.",
             "platinum": "Si vede spesso vicino ai porti dove si pesca. Porta in salvo le persone e trascina via le prede.",
-            "heartgold": "Se gonfia il galleggiante riesce a soccorrere chi sta per annegare. Lo sgonfia per immergersi.",
-            "soulsilver": "Se gonfia il galleggiante riesce a soccorrere chi sta per annegare. Lo sgonfia per immergersi.",
+            "heart-gold": "Se gonfia il galleggiante riesce a soccorrere chi sta per annegare. Lo sgonfia per immergersi.",
+            "soul-silver": "Se gonfia il galleggiante riesce a soccorrere chi sta per annegare. Lo sgonfia per immergersi.",
             "black": "Si vede spesso vicino ai porti dove si pesca. Porta in salvo le persone e trascina via le prede.",
             "white": "Si vede spesso vicino ai porti dove si pesca. Porta in salvo le persone e trascina via le prede.",
             "black-2": "Vive spesso vicino ai porti dove si pesca. Porta in salvo le persone e trascina via le prede.",
@@ -51,14 +50,14 @@
     "flat_name": "floatzel",
     "generation": 4,
     "height": {
-        "floatzel": "1.1 m"
+        "floatzel": "1,1 m"
     },
     "id": 419,
     "name": "Floatzel",
-    "name_origin": "Il nome Floatzel deriva delle parole float  o flow  e weasel . Il suo nome giapponese può derivare dalle parole inglesi flow  o float e weasel. ",
-    "origin": "Floatzel è basato su una lontra, che si trova nella stessa famiglia delle donnole. Tuttavia assomiglia più ad una donnola che ad una lontra. Sembra essere ispirato alla leggenda del Kamaitachi. ",
+    "name_origin": "Floatzel e floazel, il suo nome giapponese, potrebbero derivare da float, fluttuare, galleggiare, o flow, flusso, corrente, e weasel, donnola. ",
+    "origin": "Buizel sembra essere basato su una donnola con caratteristiche di una lontra. Include anche elementi di dispositivi galleggianti, come salvagenti, giubbotti salvagente e scialuppe di salvataggio. Il suo modo di roteare le coda per muoversi nell'acqua ricorda le eliche usate dalle barche. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Floatzel",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Maridonnola",
     "sprites": {
         "floatzel": {
@@ -90,6 +89,6 @@
         ]
     },
     "weight": {
-        "floatzel": "33.5 kg"
+        "floatzel": "33,5 kg"
     }
 }

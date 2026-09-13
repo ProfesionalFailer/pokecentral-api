@@ -18,7 +18,8 @@
             "omega-ruby": "È in grado di emanare profumi di diversi tipi. Durante la lotta, mette in difficoltà i nemici emettendo odori sgradevoli.",
             "alpha-sapphire": "Emette un profumo intensissimo. Se un Allenatore non è un assoluto estimatore di quel particolare aroma, avrà grosse difficoltà anche solo a stargli vicino.",
             "sword": "Il suo pelo emette un profumo così intenso da compromettere irrimediabilmente l'olfatto del suo Allenatore.",
-            "shield": "Può produrre un tanfo così tremendo da far passare ai nemici la voglia di lottare, e un profumo così buono da incoraggiare gli alleati."
+            "shield": "Può produrre un tanfo così tremendo da far passare ai nemici la voglia di lottare, e un profumo così buono da incoraggiare gli alleati.",
+            "legends-za": "Emette un profumo intensissimo. Se un Allenatore non è un assoluto estimatore del suo aroma, avrà grosse difficoltà anche solo a stargli vicino."
         }
     },
     "egg_groups": [
@@ -27,14 +28,14 @@
     "flat_name": "aromatisse",
     "generation": 6,
     "height": {
-        "aromatisse": "0.8 m"
+        "aromatisse": "0,8 m"
     },
     "id": 683,
     "name": "Aromatisse",
     "name_origin": "Il suo nome deriva da aroma, aromatic  o aromatize . Potrebbe anche contenere il nome del noto pittore francese Henri Matisse. ",
     "origin": "Aromatisse sembra essere ispirato alle ballerine di flamenco o alle ballerine di can-can . È probabilmente, data la pre-evoluzione, basato anche su un fenicottero.\nCome per Spritzee, la colorazione bianca sul volto si ispira alle maschere carnevalesche indossate tradizionalmente nell'Europa centrale e meridionale, ma è più probabilmente un riferimento al medico della peste, la cui maschera, dotata di un becco adunco, conteneva fragranze profumate per tener lontani i cattivi odori portati dalle epidemie.\nLa sua forma vagamente a clessidra è peculiare di alcune boccette di profumo, mentre il becco, collocato nella parte alta, si può ricollegare all'imboccatura della boccetta.\nLa soffice consistenza del suo piumaggio può essere un richiamo ai piumini da cipria. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Aromatisse",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Fragranza",
     "sprites": {
         "aromatisse": {
@@ -62,6 +63,6 @@
         ]
     },
     "weight": {
-        "aromatisse": "15.5 kg"
+        "aromatisse": "15,5 kg"
     }
 }

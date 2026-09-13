@@ -18,17 +18,19 @@
         "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
         "Pokémon di Gruppo Uova Acqua 2",
         "Pokémon che non fanno parte di una linea di evoluzione",
-        "Pokémon con statistiche base totali di 475"
+        "Pokémon con statistiche base totali di 475",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/bruxish.mp3",
     "dex_entries": {
         "bruxish": {
             "sun": "Quando proietta il suo potere psichico dalla protuberanza sulla testa, diffonde tutto intorno un fastidioso rumore di denti che stridono.",
             "moon": "Paralizza le prede con la telecinesi e le addenta con le sue robuste zanne, capaci di frantumare persino il guscio di uno Shellder.",
-            "ultra-sun": "Si nasconde nella sabbia ed emette il suo potere psichico dalla protuberanza sulla testa. Aspetta la preda sorvegliando l’ambiente che lo circonda.",
+            "ultra-sun": "Si nasconde nella sabbia ed emette il suo potere psichico dalla protuberanza sulla testa. Aspetta la preda sorvegliando l'ambiente che lo circonda.",
             "ultra-moon": "La sua pelle spessa non viene scalfita neanche dagli aculei dei Mareanie, che sgranocchia con le robuste zanne.",
             "scarlet": "Fa stridere i denti per stimolare il proprio cervello e creare così onde psichiche, che poi emette dalla protuberanza sulla testa.",
-            "violet": "Quando i raggi solari si riflettono sull’acqua increspata dallo stridore dei suoi denti, producono bagliori accecanti."
+            "violet": "Quando i raggi solari si riflettono sull'acqua increspata dallo stridore dei suoi denti, producono bagliori accecanti."
         }
     },
     "egg_groups": [
@@ -37,14 +39,14 @@
     "flat_name": "bruxish",
     "generation": 7,
     "height": {
-        "bruxish": "0.9 m"
+        "bruxish": "0,9 m"
     },
     "id": 779,
     "name": "Bruxish",
     "name_origin": "Bruxish potrebbe essere una combinazione di bruxism, bruxismo, e fish, pesce. Hagigishiri potrebbe essere una combinazione di 歯 ha, dente, カワハギ科 kawahagika, Monacantide, ぎっしり gisshiri, zeppo, e 歯軋り hagishiri, bruxismo. ",
-    "origin": "Bruxish potrebbe essere ispriato ad un Monacantide o a un Rhinecanthus rectangulus. ",
+    "origin": "Bruxish potrebbe essere ispriato a un Monacantide o a un Rhinecanthus rectangulus. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Bruxish",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Sfregadenti",
     "sprites": {
         "bruxish": {
@@ -68,8 +70,8 @@
     },
     "types": {
         "bruxish": [
-            "Psico",
-            "Acqua"
+            "Acqua",
+            "Psico"
         ]
     },
     "weight": {

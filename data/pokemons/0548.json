@@ -7,7 +7,6 @@
         }
     },
     "curiosities": [
-        "Articoli incompleti",
         "Pokémon",
         "Pokémon di quinta generazione",
         "Pokémon di tipo Erba",
@@ -21,6 +20,8 @@
         "Pokémon appartenenti a una linea di evoluzione a due stadi",
         "Pokémon con evoluzioni ramificate",
         "Pokémon con statistiche base totali di 280",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti",
         "Pokémon con evoluzioni trans-generazionali",
         "Pokémon che si evolvono solo ad Hisui",
         "Pokémon che si evolvono tramite una pietra evolutiva",
@@ -37,7 +38,7 @@
             "y": "Dato che predilige i terreni ricchi di acqua e nutrimento, nelle zone in cui vive Petilil i raccolti sono rigogliosi.",
             "omega-ruby": "Le foglie che ha sul corpo sono molto amare ma, se masticate, hanno l'effetto di rinvigorire il corpo stanco.",
             "alpha-sapphire": "Dato che predilige i terreni ricchi di acqua e nutrimento, nelle zone in cui vive Petilil i raccolti sono rigogliosi.",
-            "sun": "Le foglie che ha sul capo sono marissime, ma hanno un effetto rinvigorente per il corpo. Bevute in infusione, sono ancora più efficaci.",
+            "sun": "Le foglie che ha sul capo sono amarissime, ma hanno un effetto rinvigorente per il corpo. Bevute in infusione, sono ancora più efficaci.",
             "moon": "Le foglie che ha sul capo vanno spuntate di tanto in tanto per permettergli di crescere florido e pieno.",
             "ultra-sun": "Le foglie che ha sul capo sono molto amate dagli anziani perché, essiccate al sole e bevute come tisana, hanno un effetto rinvigorente.",
             "ultra-moon": "I Petilil prediligono i luoghi caratterizzati da terra e acqua pulite. Se il loro ambiente si deteriora, si trasferiscono in massa.",
@@ -54,14 +55,14 @@
     "flat_name": "petilil",
     "generation": 5,
     "height": {
-        "petilil": "0.5 m"
+        "petilil": "0,5 m"
     },
     "id": 548,
     "name": "Petilil",
     "name_origin": "Petilil deriva probabilmente dall'insieme della parola francese petit , o dall'inglese petite , petal , o petunia, e dalla parola inglese lily , o li'l . ",
     "origin": "Petilil è basato sul bulbo di una liliacea, probabilmente della pianta del tulipano. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Petilil",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Radice",
     "sprites": {
         "petilil": {
@@ -89,6 +90,6 @@
         ]
     },
     "weight": {
-        "petilil": "6.6 kg"
+        "petilil": "6,6 kg"
     }
 }

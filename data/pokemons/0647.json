@@ -5,7 +5,7 @@
         }
     },
     "curiosities": [
-        "Keldeo, Cobalion, Terrakion e Virizion sono comparabili ai quattro protagonisti del romanzo I tre Moschettieri di Alexandre Dumas: Cobalion rappresenta Athos, il leader del gruppo, Terrakion Porthos, il personaggio più forte e prestante, Virizion Aramis, più snello ed elegante, e Keldeo D'Artagnan, il più giovane, oltre che un membro \"esterno\" del gruppo.",
+        "Keldeo, Cobalion, Terrakion e Virizion sono comparabili ai quattro protagonisti del romanzo I tre moschettieri di Alexandre Dumas: Cobalion rappresenta Athos, il leader del gruppo, Terrakion Porthos, il personaggio più forte e prestante, Virizion Aramis, più snello ed elegante, e Keldeo D'Artagnan, il più giovane, oltre che un membro \"esterno\" del gruppo.",
         "Keldeo e Lucario sono gli unici Pokémon di tipo Lotta con l'Attacco Speciale più alto dell'Attacco.",
         "Pur non potendo essere trovato selvatico, se si utilizzano trucchi per trovarlo, esso avrà come musica da combattimento la medesima di Cobalion, Terrakion e Virizion.",
         "Il tipo primario di Keldeo, così come quello degli altri tre solenni spadaccini, sembra voler richiamare i 4 biomi principali che caratterizzano la Terra: L'Acciaio di Cobalion per le grandi metropoli, la Roccia di Terrakion per le imponenti catene montuose, l'Erba di Virizion per le lunghe distese di praterie e foreste, infine l'Acqua di Keldeo per i grandi mari e oceani.\n\tCoincidenza vuole inoltre che i membri principali degli spadaccini sacri abbiano in comune lo stato \"Solido\" di questi suddetti biomi, mentre Keldeo, membro esterno del gruppo, rappresenta lo stato \"Liquido\".",
@@ -26,11 +26,13 @@
         },
         "forma-normale": {
             "sword": "Ha imparato a lottare da Cobalion, Terrakion e Virizion. Ora continua i suoi allenamenti in giro per il mondo.",
-            "shield": "Si dice che quando supera difficili battaglie il corno sulla sua fronte si rafforzi e solo allora si risvegli la sua vera forza."
+            "shield": "Si dice che quando supera difficili battaglie il corno sulla sua fronte si rafforzi e solo allora si risvegli la sua vera forza.",
+            "legends-za": "Spara acqua dagli zoccoli e si sposta scivolando sulla superficie bagnata. Lotta usando abilmente le zampe."
         },
         "forma-risoluta": {
             "sword": "La sua determinazione nella lotta ha infuso nel suo corpo un immenso vigore che ha determinato un cambiamento di forma.",
-            "shield": "L'energia sopita dentro di lui ha pervaso il suo corno trasformandolo in una spada in grado di tagliare qualunque cosa."
+            "shield": "L'energia sopita dentro di lui ha pervaso il suo corno trasformandolo in una spada in grado di tagliare qualunque cosa.",
+            "legends-za": "Il magnifico corno è testimonianza della sua determinazione. L'affetto dei suoi mentori ha preso forma nell'ornamento di piume tricolore."
         }
     },
     "egg_groups": [
@@ -39,14 +41,14 @@
     "flat_name": "keldeo",
     "generation": 5,
     "height": {
-        "keldeo": "1.4 m"
+        "keldeo": "1,4 m"
     },
     "id": 647,
     "name": "Keldeo",
     "name_origin": "Il suo nome deriva da kelpie, un demone del folklore celtico che può assumere la forma di un cavallo. ",
     "origin": "Keldeo è basato sulla figura di d'Artagnan, personaggio del romanzo I tre moschettieri. Come il suo omonimo è il più giovane del gruppo. Il suo aspetto ricorda quello del kelpie uno spirito maligno proveniente dal folklore celtico in grado di assumere la forma di un cavallo bianco, o del kirin, anche chiamato \"unicorno cinese\" che è spesso raffigurato con un unico corno ricurvo all'indietro e possiede la capacità di camminare sull'acqua. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Keldeo",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Puledro",
     "sprites": {
         "forma-normale": {
@@ -79,6 +81,6 @@
         ]
     },
     "weight": {
-        "keldeo": "48.5 kg"
+        "keldeo": "48,5 kg"
     }
 }

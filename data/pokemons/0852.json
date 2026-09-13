@@ -12,7 +12,8 @@
     "dex_entries": {
         "clobbopus": {
             "sword": "Si spinge sulla terraferma in cerca di cibo. È molto curioso e colpisce con i tentacoli tutto quello che entra nel suo campo visivo.",
-            "shield": "Ha l'intelligenza di un bambino di 3 anni. Gli si staccano spesso i tentacoli, ma poiché gli ricrescono naturalmente non se ne preoccupa."
+            "shield": "Ha l'intelligenza di un bambino di 3 anni. Gli si staccano spesso i tentacoli, ma poiché gli ricrescono naturalmente non se ne preoccupa.",
+            "legends-za": "I suoi tentacoli dalle estremità rigonfie sono l'ideale per malmenare, ma non sono affatto idonei ad afferrare oggetti."
         }
     },
     "egg_groups": [
@@ -22,14 +23,14 @@
     "flat_name": "clobbopus",
     "generation": 8,
     "height": {
-        "clobbopus": "0.6 m"
+        "clobbopus": "0,6 m"
     },
     "id": 852,
     "name": "Clobbopus",
     "name_origin": "Clobbopus potrebbe essere una combinazione di clobber, picchiare, e octopus, polpo. Tatakko potrebbe essere una combinazione di 叩く tataku, colpire, attack, attacco, e 蛸 tako, polpo. ",
     "origin": "Clobbopus potrebbe essere basato su un polpo e su un pugile. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Clobbopus",
-    "shape": "più di 4 arti",
+    "shape": "None",
     "specie": "Pokémon Bizze",
     "sprites": {
         "clobbopus": {
@@ -57,6 +58,6 @@
         ]
     },
     "weight": {
-        "clobbopus": "4.0 kg"
+        "clobbopus": "4,0 kg"
     }
 }

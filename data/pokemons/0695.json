@@ -20,7 +20,8 @@
             "omega-ruby": "Può produrre energia elettrica aprendo il collare. Un solo Pokémon di questa specie sarebbe in grado di illuminare un intero grattacielo.",
             "alpha-sapphire": "Stimolando i suoi muscoli con l'elettricità riesce a percorrere 100 m in 5 secondi.",
             "sword": "Un tempo era tenuto in grande considerazione in un paese desertico ormai scomparso. È giunto a Galar in casse contenenti tesori.",
-            "shield": "L'energia prodotta da un Heliolisk quando apre il suo collare in un luogo soleggiato è sufficiente a soddisfare il fabbisogno di una metropoli."
+            "shield": "L'energia prodotta da un Heliolisk quando apre il suo collare in un luogo soleggiato è sufficiente a soddisfare il fabbisogno di una metropoli.",
+            "legends-za": "Apre il collare per produrre energia elettrica. Un singolo esemplare è in grado di fornire di elettricità un intero grattacielo."
         }
     },
     "egg_groups": [
@@ -30,14 +31,14 @@
     "flat_name": "heliolisk",
     "generation": 6,
     "height": {
-        "heliolisk": "1.0 m"
+        "heliolisk": "1,0 m"
     },
     "id": 695,
     "name": "Heliolisk",
     "name_origin": "Heliolisk deriva dall'unione della parola greca Ήλιος  hēlios  con la parola inglese basilisk . Elezard è una combinazione tra elekiter, エリマキトカゲ erimaki tokage  e lézard . ",
     "origin": "È ispirato ad un clamidosauro: come questo animale, anche Heliolisk si serve di un \"clamide\" che può aprire attorno al proprio collare. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Heliolisk",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Generatore",
     "sprites": {
         "heliolisk": {
@@ -66,6 +67,6 @@
         ]
     },
     "weight": {
-        "heliolisk": "21.0 kg"
+        "heliolisk": "21,0 kg"
     }
 }

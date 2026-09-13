@@ -23,11 +23,12 @@
             "alpha-sapphire": "Si dice sia antenato dei Pokémon uccello. Siccome non sa volare, si sposta di ramo in ramo saltando.",
             "sun": "È l'antenato di tutti i Pokémon alati. Poiché non sapeva volare, si spostava tra gli alberi saltando.",
             "moon": "Sembra che, non essendo in grado di volare, catturasse le prede planando da alti rami.",
-            "ultra-sun": "Si è sempre pensato che fosse l’antenato di tutti i Pokémon alati, ma studi recenti hanno messo in dubbio questa tesi.",
+            "ultra-sun": "Si è sempre pensato che fosse l'antenato di tutti i Pokémon alati, ma studi recenti hanno messo in dubbio questa tesi.",
             "ultra-moon": "Pokémon molto antico rigenerato da un fossile. Nonostante abbia le ali, non è in grado di volare.",
             "sword": "È stato rigenerato da un fossile. Come mostrato dalle ricerche, non può volare, ma è molto abile nei salti.",
             "shield": "Si dice sia l'antenato dei Pokémon alati. Viveva sugli alberi, nutrendosi di bacche e Pokémon di tipo Coleottero."
-        }
+        },
+        "\n": {}
     },
     "egg_groups": [
         "Volante",
@@ -36,14 +37,14 @@
     "flat_name": "archen",
     "generation": 5,
     "height": {
-        "archen": "0.5 m"
+        "archen": "0,5 m"
     },
     "id": 566,
     "name": "Archen",
     "name_origin": "Deriva chiaramente dal nome del dinosauro Archaeopteryx. ",
     "origin": "Archen trae ispirazione da un uccello estinto di nome Archaeopteryx, ovvero l'anello di congiunzione fra dinosauri e uccelli. Però, siccome la descrizione nel Pokédex dice che non sa volare, il Pokémon potrebbe derivare da piccoli dinosauri piumati incapaci di compiere tale azione, come il Caudipteryx o il Velociraptor. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Archen",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Paleouccello",
     "sprites": {
         "archen": {
@@ -67,11 +68,11 @@
     },
     "types": {
         "archen": [
-            "Volante",
-            "Roccia"
+            "Roccia",
+            "Volante"
         ]
     },
     "weight": {
-        "archen": "9.5 kg"
+        "archen": "9,5 kg"
     }
 }

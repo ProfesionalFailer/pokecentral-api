@@ -4,36 +4,83 @@
             "primary": "Sguardofermo",
             "secondary": "Vigore",
             "hidden": "Sottilguscio"
+        },
+        "megaskarmory": {
+            "primary": "Volontà di Ferro"
         }
     },
     "curiosities": [
         "Prima della settima generazione Skarmory aveva una combinazione di tipi unica.",
-        "Skarmory può essere visto come un parallelo di Mantine. Entrambi sono Pokémon di Seconda generazione di tipo Volante. Mantine è esclusivo di Oro e Oro HeartGold, mentre Skarmory di Argento e Argento SoulSilver. In aggiunta, in Oro e Argento entrambi non avevano evoluzioni o pre-evoluzioni.\n\tHanno inoltre lo stesso totale di statistiche base, ma con Mantine tendente alle statistiche speciali, mentre Skarmory a quelle fisiche.",
+        "Skarmory può essere visto come un parallelo di Mantine. Entrambi sono Pokémon di Seconda generazione di tipo Volante. Mantine è esclusivo di Pokémon Oro e Pokémon Oro HeartGold, mentre Skarmory di Pokémon Argento e Pokémon Argento SoulSilver. In aggiunta, in Oro e Argento entrambi non avevano evoluzioni o pre-evoluzioni.\n\tHanno inoltre lo stesso totale di statistiche base, ma con Mantine tendente alle statistiche speciali, mentre Skarmory a quelle fisiche.",
         "Hanno inoltre lo stesso totale di statistiche base, ma con Mantine tendente alle statistiche speciali, mentre Skarmory a quelle fisiche.",
         "Skarmory ha la più alta statistica base di Difesa di tutti i Pokémon di tipo Volante.",
-        "I numeri di Skarmory nel Pokédex di Johto e nel Nuovo Pokédex di Unima sono gli stessi: 203."
+        "I numeri di Skarmory nel Pokédex di Johto e nel Nuovo Pokédex di Unima sono gli stessi: 203.",
+        "Skarmory appare nella copertina della voce Pokédex di Cyndaquil nel Pokédex Mirtillo. Questo potrebbe essere un riferimento all'episodio Sfide e rivincite, dove lo Skarmory di un allenatore affronta il Cyndaquil di Ash."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/skarmory.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "skarmory": {
+            "gold": "Le imponenti ali sembrano pesanti, ma in realtà sono vuote e leggere, e lo fanno volare libero nel cielo.",
+            "silver": "Facendo il nido tra i rovi, le ali dei suoi piccoli si rinforzano per i graffi causati dalle spine.",
+            "crystal": "Le penne che perde sono molto affilate. Si dice che un tempo fossero usate come spade.",
+            "ruby": "SKARMORY è interamente corazzato all'interno di una dura armatura di protezione. Vola alla velocità di 300 km/h. Lacera il nemico con le sue ali taglienti come la lama di una spada.",
+            "sapphire": "Le ali d'acciaio di SKARMORY portano i segni e le ammaccature delle lotte. Una volta l'anno le ali ricrescono completamente, ripristinando il filo tagliente delle lame.",
+            "emerald": "Il corpo e le ali di SKARMORY sono d'acciaio. In passato, le piume perse da questi POKéMON venivano usate per fare spade e coltelli.",
+            "fire-red": "Facendo il nido tra i rovi, le ali dei suoi piccoli si rinforzano per i graffi causati dalle spine.",
+            "leaf-green": "Le imponenti ali sembrano pesanti, ma in realtà sono vuote e leggere, e lo fanno volare libero nel cielo.",
+            "diamond": "È interamente rivestito da un’armatura dura come l’acciaio. Vola alla velocità di 300 km/h.",
+            "pearl": "È interamente rivestito da un’armatura dura come l’acciaio. Vola alla velocità di 300 km/h.",
+            "platinum": "È interamente rivestito da un’armatura dura come l’acciaio. Vola alla velocità di 300 km/h.",
+            "heart-gold": "Le imponenti ali sembrano pesanti, ma in realtà sono vuote e leggere, e lo fanno volare libero nel cielo.",
+            "soul-silver": "Facendo il nido tra i rovi, le ali dei suoi piccoli si rinforzano per i graffi causati dalle spine.",
+            "black": "È interamente rivestito da un'armatura dura come l'acciaio. Vola alla velocità di 300 km/h.",
+            "white": "È interamente rivestito da un'armatura dura come l'acciaio. Vola alla velocità di 300 km/h.",
+            "black-2": "Il suo corpo metallico dà l'impressione di essere pesante, ma in realtà è leggero e gli consente di volare a 300 km/h.",
+            "white-2": "Il suo corpo metallico dà l'impressione di essere pesante, ma in realtà è leggero e gli consente di volare a 300 km/h.",
+            "x": "Facendo il nido tra i rovi, le ali dei suoi piccoli si rinforzano per i graffi causati dalle spine.",
+            "y": "È interamente rivestito da un'armatura dura come l'acciaio. Vola alla velocità di 300 km/h.",
+            "omega-ruby": "Skarmory è interamente corazzato all'interno di una dura armatura di protezione. Vola alla velocità di 300 km/h. Lacera il nemico con le sue ali taglienti come la lama di una spada.",
+            "alpha-sapphire": "Le ali d'acciaio di Skarmory portano i segni e le ammaccature delle lotte. Una volta l'anno le ali ricrescono completamente, ripristinando il filo tagliente delle lame.",
+            "sun": "Le piume che perde nella crescita sono sottili e taglienti. In passato, i guerrieri le usavano per fabbricare spade.",
+            "moon": "Il suo corpo d'acciaio è molto robusto, ma si arrugginisce facilmente, quindi quando piove deve starsene rintanato.",
+            "ultra-sun": "Le piume che perde vengono usate per fabbricare coltelli affilatissimi, particolarmente apprezzati dai migliori cuochi.",
+            "ultra-moon": "L'armatura d'acciaio di cui è rivestito lo fa sembrare pesante, ma nonostante questa può volare a una velocità di 300 km/h.",
+            "sword": "Le sue piume affilate sono più taglienti di una spada. Ha violenti scontri con Corviknight per il controllo del territorio.",
+            "shield": "Le piume perse da Skarmory sono utilizzate per produrre spade. Per questo è molto apprezzato come motivo degli stemmi nobiliari.",
+            "brilliant-diamond": "È interamente ricoperto da un’armatura dura come l’acciaio. Vola alla velocità di 300 km/h.",
+            "shining-pearl": "È interamente ricoperto da un’armatura dura come l’acciaio. Vola alla velocità di 300 km/h.",
+            "scarlet": "All’apparenza pesante, il suo resistente corpo metallico è in realtà sottile e leggero, tanto da consentirgli di volare a 300 km/h.",
+            "violet": "Le penne che perde sono sottili e affilate, e si dice che un tempo fossero usate come spade.",
+            "legends-za": "Fa il nido tra i rovi. Le ferite che i suoi piccoli riportano crescendo tra le spine ne induriscono le piume."
+        },
+        "megaskarmory": {
+            "legends-za": "Vola a velocità supersonica. Spazza via il nemico con delle onde d'urto, per poi dargli il colpo di grazia con gli artigli."
+        }
+    },
     "egg_groups": [
         "Volante"
     ],
     "flat_name": "skarmory",
     "generation": 2,
     "height": {
-        "skarmory": "1.7 m"
+        "skarmory": "1,7 m",
+        "megaskarmory": "1,7 m"
     },
     "id": 227,
     "name": "Skarmory",
-    "name_origin": "Skarmory deriva dall'unione delle parole Sky, cielo, e Armor, armatura, o Armory, armeria. Potrebbe derivare anche da Scar, cicatrice, riferimento al fatto che attaccano violentemente chiunque vada nel loro territorio o un riferimento agli Skarmory stessi che da piccoli tendono a ferirsi a causa dei nidi posizionati nei rovi spinosi fino a sviluppare un'armatura di metallo. ",
-    "origin": "Gli Skarmory condividono molte somiglianze con i condor delle Ande, le Gru e con la classe dei Pteranodon, tutti animali volanti che sono tenuti molto in considerazione in Giappone. Potrebbero essere ispirati ad uccelli metallici della mitologia come l'Alicanto, gli Uccelli del lago Stinfalo e la Gagana. Gli Skarmory potrebbero essere basati anche sui cavalieri in armatura. ",
+    "name_origin": "Skarmory potrebbe derivare da sky, cielo, arm, arma, e armory, armeria. Potrebbe anche includere scar, cicatrice. Airmd, il suo nome giapponese, potrebbe derivare da エア air, aria, e アームド armed, armato, che sono entrambi gairaigo, ovvero dei prestiti linguistici. ",
+    "origin": "Skarmory condivide molte somiglianze con i condor delle Ande e le Gru, queste ultime tenute in alta considerazione in Giappone. Condivide anche tratti con creature mitologiche come gli uccelli del lago Stinfalo, Gagana e l'alicanto, vari esseri simili ad ucceli con tratti specifici  o l'intero corpo composto di metallo e altri minerali. Il suo design ricorda inoltre una viverna. Il concetto di Skarmory potrebbe derivare da un gioco di parole tra 鶴 tsuru , in riferimento ad una gru origami, e 剣 tsurugi . Le sue ali ricordano inoltre un ventaglio giapponese. Il colore dorato di MegaSkarmory potrebbe essere un ulteriore riferimento all'alicanto: questi uccelli vivono vicino a miniere di oro e argento, e si nutrono di minerali al loro interno, da cui prendono il colore. In questo caso, Skarmory sarebbe un alicanto che si è nutrito di argento, più comune, mentre MegaSkarmory uno che si è nutrito di oro. In alternativa, i colori potrebbero essere un riferimento ai giochi in cui è stato introdotto il Pokémon, ovvero Pokémon Oro e Argento. Data la sua introduzione a Luminopoli, è possibile che prenda anche riferimento dall'Aquila romana, simbolo delle legioni romane, tipicamente di argento o oro, in seguito divenuto simbolo araldico per varie dinastie europee, e viene usato tuttora come simbolo in stati non europei. I piedi più grandi visti nella forma megaevoluta potrebbero essere un riferimento a quelli visti in vari uccelli: nello specifico ricordano quelli del genere Fulica o della famiglia Jacanidae. Considerando la possibile origine di Skarmory con le gru, è possibile inoltre sia un gioco di parole con le macchine Claw crane , dei macchinari che permettono di vincere vari premi manovrando un braccio simile a quello di una gru. Questo collegamento sembrerebbe essere rinforzato in Leggende Pokémon: Z-A, dove MegaSkarmoey viene usato da Gypso, generale del Clan Ruggine: il Clan in sé prende vari motivi dalla Yakuza, la mafia giapponese, che ha forti legami con il gioco d'azzardo; le macchine Claw crane sono una forma di gioco d'azzardo mirato ai più piccoli, in quanto al contrario di quello che si pensi non ha nulla a che vedere con l'abilità del giocatore, ma sono impostate per avere più probabilità di vittoria più soldi vengono inseriti. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Skarmory",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Armuccello",
     "sprites": {
         "skarmory": {
             "default": "https://media.pokemoncentral.it/wiki/2/2c/Homem0227.png",
             "shiny": "https://media.pokemoncentral.it/wiki/3/30/Homemsh0227.png"
+        },
+        "megaskarmory": {
+            "default": "https://media.pokemoncentral.it/wiki/8/81/Homem0227M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/b/bb/Homemsh0227M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/a/ac/Artwork0227_HGSS.png"
     },
@@ -45,10 +92,19 @@
             "spa": 40,
             "spd": 70,
             "spe": 70
+        },
+        "megaskarmory": {
+            "hp": 65,
+            "atk": 140,
+            "def": 110,
+            "spa": 40,
+            "spd": 100,
+            "spe": 110
         }
     },
     "stats_sum": {
-        "skarmory": 465
+        "skarmory": 465,
+        "megaskarmory": 565
     },
     "types": {
         "skarmory": [
@@ -57,6 +113,7 @@
         ]
     },
     "weight": {
-        "skarmory": "50.5 kg"
+        "skarmory": "50,5 kg",
+        "megaskarmory": "40,4 kg"
     }
 }

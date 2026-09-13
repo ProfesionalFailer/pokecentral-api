@@ -7,7 +7,8 @@
         }
     },
     "curiosities": [
-        "Anche se il Pokédex sostiene che sia in grado di sputare fino a 100 Kg di sabbia, Sandaconda ne pesa solo 65."
+        "Anche se il Pokédex sostiene che sia in grado di sputare fino a 100 Kg di sabbia, Sandaconda ne pesa solo 65.",
+        "Sandaconda è l'unico Pokémon di tipo Terra a possedere una forma Gigamax."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/sandaconda.mp3",
     "dex_entries": {
@@ -29,15 +30,15 @@
     "flat_name": "sandaconda",
     "generation": 8,
     "height": {
-        "sandaconda": "3.8 m",
-        "sandaconda-gigamax": "> 22.0 m"
+        "sandaconda": "3,8 m",
+        "sandaconda-gigamax": "> 22,0 m"
     },
     "id": 844,
     "name": "Sandaconda",
     "name_origin": "Sandaconda potrebbe essere una combinazione di sand, sabbia, e anaconda. Sadaija potrebbe essere una combinazione di 沙 sa, sabbia, e 大蛇 daija, serpente. ",
     "origin": "Sandaconda potrebbe essere basato su un'anaconda, sebbene possa ricordare alcune razze di serpenti che vivono nei deserti come il crotalo ceraste, un serpente noto per i suoi particolari movimenti ondulatori che compie quando striscia sulla sabbia. Potrebbe essere basato anche su una doppietta. Sandaconda ricorda, inoltre, il pitone reale, anche chiamato pitone palla per via della sua tendenza ad arricciarsi quando stressato o spaventato. La sua forma Gigamax potrebbe essere basata su un diavolo di sabbia. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Sandaconda",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Sabbiaserpe",
     "sprites": {
         "sandaconda": {
@@ -69,7 +70,7 @@
         ]
     },
     "weight": {
-        "sandaconda": "65.5 kg",
-        "sandaconda-gigamax": "???.? kg"
+        "sandaconda": "65,5 kg",
+        "sandaconda-gigamax": "???,? kg"
     }
 }

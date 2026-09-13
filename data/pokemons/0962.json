@@ -18,14 +18,18 @@
         "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
         "Pokémon di Gruppo Uova Volante",
         "Pokémon che non fanno parte di una linea di evoluzione",
-        "Pokémon con statistiche base totali di 485"
+        "Pokémon con statistiche base totali di 485",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti",
+        "Pokémon dominanti "
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/bombirdier.mp3",
     "dex_entries": {
         "bombirdier": {
             "scarlet": "Intreccia le piume cadute a quelle del petto per creare un grembiule in cui mettere oggetti, che fa poi precipitare dall'alto.",
             "violet": "Usa il grembiule pettorale per trasportare cibo al nido. Si diverte a far precipitare oggetti che, schiantandosi, fanno un gran fracasso."
-        }
+        },
+        "": {}
     },
     "egg_groups": [
         "Volante"
@@ -33,14 +37,14 @@
     "flat_name": "bombirdier",
     "generation": 9,
     "height": {
-        "bombirdier": "1.5 m"
+        "bombirdier": "1,5 m"
     },
     "id": 962,
     "name": "Bombirdier",
     "name_origin": "Bombirdier potrebbe essere una combinazione di bombardier  e bird . ",
-    "origin": "",
+    "origin": "Bombirdier sembra essere basato sulle cicogne e sulle storie popolari in cui questi uccelli portano i bambini appena nati alle loro famiglie avvolgendoli in lenzuola, con Bombirdier che invece usa gli oggetti che porta in volo per attaccare, gettandoli a terra. Quest'ultima caratteristica potrebbe essere inoltre ispirata da alcune specie di avvoltoi, che lasciano cadere oggetti o animali, come le tartarughe, per romperli e potersene cibare. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Bombirdier",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Gettaoggetti",
     "sprites": {
         "bombirdier": {
@@ -64,11 +68,11 @@
     },
     "types": {
         "bombirdier": [
-            "Volante",
-            "Buio"
+            "Buio",
+            "Volante"
         ]
     },
     "weight": {
-        "bombirdier": "42.9 kg"
+        "bombirdier": "42,9 kg"
     }
 }

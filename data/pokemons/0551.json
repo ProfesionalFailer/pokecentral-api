@@ -27,7 +27,8 @@
             "sword": "Affronta le fredde notti del deserto rintanandosi in profondità sotto la sabbia e dormendo fino al sorgere del sole.",
             "shield": "Nonostante la corporatura minuta, ha zampe robuste. Si fa strada nel deserto come nuotando nella sabbia.",
             "scarlet": "Si nasconde sotto la sabbia e si sposta come se nuotasse. In questo modo evita i nemici e mantiene alta la propria temperatura corporea.",
-            "violet": "Vive nascosto tra le calde sabbie del deserto per evitare che la temperatura del suo corpo diminuisca."
+            "violet": "Vive nascosto tra le calde sabbie del deserto per evitare che la temperatura del suo corpo diminuisca.",
+            "legends-za": "Si nasconde sotto la sabbia e si sposta cacciando fuori gli occhi e il naso. Una membrana nera gli protegge gli occhi."
         }
     },
     "egg_groups": [
@@ -36,14 +37,14 @@
     "flat_name": "sandile",
     "generation": 5,
     "height": {
-        "sandile": "0.7 m"
+        "sandile": "0,7 m"
     },
     "id": 551,
     "name": "Sandile",
     "name_origin": "Il nome Sandile è la combinazione delle parole sand  e crocodile . Il suo nome giapponese, メグロコ Meguroco, probabilmente deriva dalla parola 目黒 meguro  e dall'inglese crocodile . ",
     "origin": "Sandile è probabilmente basto su un coccodrillo catafratto, anche se presenta tratti ricordanti un caimano dagli occhiali e di uno scinco. Il suo corpo a righe è simile allo stereotipo di un ladro. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Sandile",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Sabbiadrillo",
     "sprites": {
         "sandile": {
@@ -72,6 +73,6 @@
         ]
     },
     "weight": {
-        "sandile": "15.2 kg"
+        "sandile": "15,2 kg"
     }
 }

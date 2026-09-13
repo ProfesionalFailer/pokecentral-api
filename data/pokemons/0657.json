@@ -17,7 +17,8 @@
             "x": "Lancia dei sassi racchiusi in bolle di schiuma. È talmente preciso da riuscire a colpire una lattina vuota a 30 m di distanza.",
             "y": "Grazie alla sua straordinaria agilità, è in grado di scalare una torre alta più di 600 m in meno di un minuto.",
             "omega-ruby": "Lancia dei sassi racchiusi in bolle di schiuma. È talmente preciso da riuscire a colpire una lattina vuota a 30 m di distanza.",
-            "alpha-sapphire": "Grazie alla sua straordinaria agilità, è in grado di scalare una torre alta più di 600 m in meno di un minuto."
+            "alpha-sapphire": "Grazie alla sua straordinaria agilità, è in grado di scalare una torre alta più di 600 m in meno di un minuto.",
+            "legends-za": "Ha un'agilità impareggiabile. È in grado di scalare una torre alta più di 600 m in un minuto."
         }
     },
     "egg_groups": [
@@ -26,14 +27,14 @@
     "flat_name": "frogadier",
     "generation": 6,
     "height": {
-        "frogadier": "0.6 m"
+        "frogadier": "0,6 m"
     },
     "id": 657,
     "name": "Frogadier",
     "name_origin": "Frogadier deriva dall'inglese frog  e brigadier . ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Frogadier",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Schiumorana",
     "sprites": {
         "frogadier": {
@@ -61,6 +62,6 @@
         ]
     },
     "weight": {
-        "frogadier": "10.9 kg"
+        "frogadier": "10,9 kg"
     }
 }

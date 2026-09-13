@@ -6,16 +6,10 @@
         }
     },
     "curiosities": [
-        "È l'unico Pokémon di tipo Fuoco in grado di imparare Sporcolancio tramite Insegnamosse in quarta generazione.",
-        "Infernape è l'unico Pokémon iniziale di Sinnoh pienamente evoluto a non avere una combinazione di tipi unica. Condivide la sua con Blaziken ed Emboar.\n\tÈ anche l'unico Pokémon iniziale di Sinnoh a non essere immune ai danni della tempesta di sabbia.\n\tComunque, mentre Torterra ed Empoleon con l'evoluzione perdono la resistenza rispettivamente ad Acqua e Fuoco, Infernape perde la debolezza alla Roccia.",
-        "È anche l'unico Pokémon iniziale di Sinnoh a non essere immune ai danni della tempesta di sabbia.",
-        "Comunque, mentre Torterra ed Empoleon con l'evoluzione perdono la resistenza rispettivamente ad Acqua e Fuoco, Infernape perde la debolezza alla Roccia.",
-        "Infernape è l'unico starter pienamente evoluto di Sinnoh a non avere un'immunità: Empoleon è immune al Veleno e Torterra all'Elettro.",
-        "Infernape condivide il nome della specie con Charmeleon, Charizard, Flareon e Moltres: sono tutti noti come Pokémon Fiamma.",
+        "Infernape condivide il nome della specie con Charmeleon, Charizard, Flareon e Moltres di Kanto: sono tutti noti come Pokémon Fiamma.\n\tIn giapponese Flareon ha la specie ほのおポケモン Honō Pokémon, mentre gli altri quattro かえんポケモン Kaen Pokémon .",
+        "In giapponese Flareon ha la specie ほのおポケモン Honō Pokémon, mentre gli altri quattro かえんポケモン Kaen Pokémon .",
         "Infernape è il primo Pokémon iniziale ad essere usato da un membro dei Superquattro.",
-        "Infernape è il Pokémon di tipo Fuoco più veloce dopo Talonflame e Salazzle.",
-        "È il Pokémon iniziale pienamente evoluto più basso, essendo alto solo 120 cm.",
-        "Infernape è l'unico Pokémon di quarta generazione il cui nome inizia con I."
+        "Infernape e la sua linea evolutiva sono stati creati da Takao Unno."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/infernape.mp3",
     "dex_entries": {
@@ -23,8 +17,8 @@
             "diamond": "Usa un tipo speciale di arte marziale che coinvolge tutti gli arti. Le sue fiamme non si estinguono mai.",
             "pearl": "La sua criniera di fuoco è indice della sua natura violenta. Nessuno può batterlo in velocità.",
             "platinum": "Con mani e piedi infuocati, usa speciali mosse di lotta. Affronta qualsiasi nemico.",
-            "heartgold": "Confonde il nemico con la velocità. Ha uno stile di lotta speciale, che prevede l’uso dei quattro arti.",
-            "soulsilver": "Confonde il nemico con la velocità. Ha uno stile di lotta speciale, che prevede l’uso dei quattro arti.",
+            "heart-gold": "Confonde il nemico con la velocità. Ha uno stile di lotta speciale, che prevede l’uso dei quattro arti.",
+            "soul-silver": "Confonde il nemico con la velocità. Ha uno stile di lotta speciale, che prevede l’uso dei quattro arti.",
             "black": "Con mani e piedi infuocati, usa mosse di lotta speciali. Affronta qualsiasi nemico.",
             "white": "Con mani e piedi infuocati, usa mosse di lotta speciali. Affronta qualsiasi nemico.",
             "black-2": "Con mani e piedi infuocati, usa mosse di lotta speciali. Affronta qualsiasi nemico.",
@@ -35,7 +29,9 @@
             "alpha-sapphire": "Confonde il nemico con la velocità. Ha uno stile di lotta speciale, che prevede l'uso dei quattro arti.",
             "brilliant-diamond": "Usa un tipo speciale di arte marziale che coinvolge tutti gli arti. La sua fiamma non si estingue mai.",
             "shining-pearl": "La sua criniera di fuoco è indice della sua natura violenta. Nessuno può batterlo in velocità.",
-            "legends-arceus": "Una brillante creatura, imponente e poderosa. Lotta avvolto in fiamme come se danzasse. In verità, un pregevole spettacolo per gli occhi."
+            "legends-arceus": "Una brillante creatura, imponente e poderosa. Lotta avvolto in fiamme come se danzasse. In verità, un pregevole spettacolo per gli occhi.",
+            "scarlet": "Confonde il nemico con la velocità. Ha uno stile di lotta speciale, che prevede l’uso dei quattro arti.",
+            "violet": "Affronta qualsiasi avversario sferrando mosse di lotta speciali con mani e piedi infuocati."
         }
     },
     "egg_groups": [
@@ -45,14 +41,14 @@
     "flat_name": "infernape",
     "generation": 4,
     "height": {
-        "infernape": "1.2 m"
+        "infernape": "1,2 m"
     },
     "id": 392,
     "name": "Infernape",
-    "name_origin": "Il nome Infernape viene dall'unione delle parole inferno e ape . Il nome giapponese deriva probabilmente dall'unione delle parole 業火 gouka  e 猿 saru . ",
-    "origin": "Basato su una scimmia e s'ispira a Su Wukong. ",
+    "name_origin": "Infernape potrebbe derivare da inferno, mare di fiamme, e ape, scimmia. Goukazaru, il suo nome giapponese, potrebbe derivare da 孫悟空 Son Gokū, 業火 gouka, fiamme infernali, e 猿 saru, scimmia. ",
+    "origin": "Infernape sembra essere basato su una scimmia, con elementi di uno scimpanzé. Gli elementi dorati del suo design e il suo nome giapponese lo ricollegano a Son Gokū, l'interpretazione giapponese di Sun Wukong, una scimmia con molte abilità protagonista del classico della letteratura cinese Il viaggio in Occidente. Infernape potrebbe anche essere basato sui Vānara, una razza di umanoidi simili a scimmie dell'epica Rāmāyana, più specificamente su Hanuman, a cui è stata donata l'immunità al fuoco ed è creduto aver ispirato Sun Wukong. Potrebbe anche derivare dall'Houquan, o \"pugilato della scimmia\", spiegando il suo tipo Lotta. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Infernape",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Fiamma",
     "sprites": {
         "infernape": {
@@ -81,6 +77,6 @@
         ]
     },
     "weight": {
-        "infernape": "55.0 kg"
+        "infernape": "55,0 kg"
     }
 }

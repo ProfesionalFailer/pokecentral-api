@@ -21,23 +21,28 @@
         },
         "fiore-rosso": {
             "scarlet": "Questo Pokémon trasforma il proprio territorio in uno splendido giardino fiorito. I suoi poteri derivano dai fiori rossi che ha attorno al collo.",
-            "violet": "Si dice che nei giardini fioriti realizzati dai Florges si riversi costantemente un potere capace di guarire il corpo e la mente."
+            "violet": "Si dice che nei giardini fioriti realizzati dai Florges si riversi costantemente un potere capace di guarire il corpo e la mente.",
+            "legends-za": "Si dice che nei giardini fioriti realizzati dai Florges si riversi costantemente un potere capace di guarire il corpo e la mente."
         },
         "fiore-giallo": {
             "scarlet": "Si dice che un Florges abbia protetto il giardino fiorito del suo castello per più di 300 anni.",
-            "violet": "Lotta traendo il potere dai fiori gialli. Fa soffrire senza pietà chi danneggia le piante."
+            "violet": "Lotta traendo il potere dai fiori gialli. Fa soffrire senza pietà chi danneggia le piante.",
+            "legends-za": "Si dice che un Florges abbia protetto il giardino fiorito di un castello per più di 300 anni."
         },
         "fiore-arancione": {
             "scarlet": "I suoi fiori arancioni attaccano sparando potenti raggi proprio come una batteria di cannoni.",
-            "violet": "Anticamente, i padroni dei castelli allevavano con amore i Florges perché si prendessero cura dei loro meravigliosi giardini."
+            "violet": "Anticamente, i padroni dei castelli allevavano con amore i Florges perché si prendessero cura dei loro meravigliosi giardini.",
+            "legends-za": "I suoi fiori arancioni attaccano sparando potenti raggi proprio come una batteria di cannoni."
         },
         "fiore-blu": {
             "scarlet": "È di indole caritatevole, ma dà una caccia spietata a chiunque deturpi i suoi giardini. Ignora anche le suppliche di avere salva la vita.",
-            "violet": "In passato il blu era un pigmento prezioso, perciò i dipinti che ritraggono esemplari di questo colore valgono molto."
+            "violet": "In passato il blu era un pigmento prezioso, perciò i dipinti che ritraggono esemplari di questo colore valgono molto.",
+            "legends-za": "In passato il blu era un pigmento prezioso, perciò i dipinti che ritraggono esemplari di questo colore valgono molto."
         },
         "fiore-bianco": {
             "scarlet": "I giardini creati dai Florges Fiore Bianco sono ricchi di piante variopinte e perciò molto belli.",
-            "violet": "Gli esemplari adornati con fiori bianchi riescono a sincronizzarsi con le lunghezze d’onda di vari colori e sfruttarne così il potere."
+            "violet": "Gli esemplari adornati con fiori bianchi riescono a sincronizzarsi con le lunghezze d'onda di vari colori e sfruttarne così il potere.",
+            "legends-za": "I giardini creati dai Florges Fiore Bianco sono ricchi di piante variopinte e perciò molto belli."
         }
     },
     "egg_groups": [
@@ -46,14 +51,14 @@
     "flat_name": "florges",
     "generation": 6,
     "height": {
-        "florges": "1.1 m"
+        "florges": "1,1 m"
     },
     "id": 671,
     "name": "Florges",
     "name_origin": "Il suo nome deriva dall'unione delle parole francesi flore, flora, e orge, orzo. ",
     "origin": "Florges è basato su una fata o su una ninfa. Potrebbe essere ispirato alla mandragora. Il suo aspetto ricorda quello di una dama francese del Settecento. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Florges",
-    "shape": "testa e braccia",
+    "shape": "None",
     "specie": "Pokémon Giardino",
     "sprites": {
         "fiore-rosso": {
@@ -97,6 +102,6 @@
         ]
     },
     "weight": {
-        "florges": "10.0 kg"
+        "florges": "10,0 kg"
     }
 }

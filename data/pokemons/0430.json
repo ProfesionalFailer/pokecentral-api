@@ -7,9 +7,7 @@
         }
     },
     "curiosities": [
-        "Prima della quinta generazione Murkrow e Honchkrow avevano una combinazione di tipi unica.",
-        "Honchkrow viene usato da vari antagonisti principali: Cyrus, Giovanni ed Elisio.",
-        "Nonostante sia anche di tipo Volante l'unica mossa che può imparare di tale tipo aumentando di livello è Attacco d'Ala."
+        "Honchkrow può essere visto come un parallelo a Mismagius: entrambi sono evoluzioni introdotte in quarta generazione di Pokémon di seconda ed entrambi si evolvono tramite Neropietra. Honchkrow è esclusivo di Pokémon Diamante, Nero e Diamante Lucente, mentre Mismagius di Pokémon Perla, Bianco e Perla Splendente."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/honchkrow.mp3",
     "dex_entries": {
@@ -17,8 +15,8 @@
             "diamond": "Diventa attivo di notte e lo si vede spesso in compagnia di numerosi MURKROW.",
             "pearl": "Si fa portare il cibo dai suoi amici MURKROW, mentre lui passa il tempo a lisciarsi le penne nel nido.",
             "platinum": "Se emette un verso profondo, molti MURKROW accorrono all'istante. È detto \"Evocatore della notte\".",
-            "heartgold": "Ha un carattere spietato. Pare che non perdoni il minimo errore commesso dai MURKROW suoi seguaci.",
-            "soulsilver": "Ha un carattere spietato. Pare che non perdoni il minimo errore commesso dai MURKROW suoi seguaci.",
+            "heart-gold": "Ha un carattere spietato. Pare che non perdoni il minimo errore commesso dai MURKROW suoi seguaci.",
+            "soul-silver": "Ha un carattere spietato. Pare che non perdoni il minimo errore commesso dai MURKROW suoi seguaci.",
             "black": "Se emette un verso profondo, molti Murkrow accorrono all'istante. È detto \"Evocatore della notte\".",
             "white": "Se emette un verso profondo, molti Murkrow accorrono all'istante. È detto \"Evocatore della notte\".",
             "black-2": "Se emette un verso profondo, molti Murkrow accorrono all'istante. È detto \"Evocatore della notte\".",
@@ -44,14 +42,14 @@
     "flat_name": "honchkrow",
     "generation": 4,
     "height": {
-        "honchkrow": "0.9 m"
+        "honchkrow": "0,9 m"
     },
     "id": 430,
     "name": "Honchkrow",
-    "name_origin": "Il suo nome deriva dalla parola spagnola \"honcho\"  e dalla parola inglese \"crow\" . ",
-    "origin": "Honchkrow è basato sui corvi, soprattutto sulle cornacchie grigie. Nonostante Murkrow assomigli più alle streghe, Honchkrow sembra un boss criminale, dando una nuova interpretazione a Murkrow come membro criminale: la sua cresta infatti ricorda vagamente un Borsalino, cappello spesso associato ai mafiosi. La sua coda invece, come la pre-evoluzione, ha un'aspetto simile ad una scopa e porta anche una barba bianca, tutto ciò lo rende vagamente simile anche ad un mago o uno stregone. ",
+    "name_origin": "Honchkrow potrebbe derivare da honcho, capo criminale, e crow, corvo. Dongkarasu, il suo nome giapponese, potrebbe derivare da don, capo mafioso, e 烏 karasu corvo. ",
+    "origin": "Honchkrow sembra essere basato su un corvi, più specificatamente alle cornacchie. Nonostante la sua corporatura tozza ricordi un corvo più della sua preevoluzione, la colorazione lo riconduce ad una cornacchia grigia. Dove Murkrow ricorda le streghe del folklore occidentale, Honchkrow ricorda un boss criminale, dando a Murkrow l'interpretazione di un malavitoso al comando di Honchkrow. Le piume sulla testa ricordano un largo borsalino. La sua coda ricorda una scopa, tipicamente associata alla stregoneria. Questo, combinato con le piume bianche sul petto simili ad una lunga barba e quelle simili ad un cappello lo riconducono ad un mago o uno stregone. In generale, potrebbe essere ispirato ai famigli delle streghe, spesso appunto corvi. Sotto questo punto di vista, la relazione tra Murkrow e Honchkrow potrebbe anche essere paragonabile ad una coven o un'organizzazione magica, rendendo Honchkrow il sacerdote a capo della coven. La parte bianca intorno agli occhi del Pokémon ricorda una luna crescente, riconducendolo ancora al tema della stregoneria. Il design del \"cappello\" potrebbe derivare da quello di creste di uccelli come il bucero maggiore o il casuario. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Honchkrow",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Grancapo",
     "sprites": {
         "honchkrow": {
@@ -75,11 +73,11 @@
     },
     "types": {
         "honchkrow": [
-            "Volante",
-            "Buio"
+            "Buio",
+            "Volante"
         ]
     },
     "weight": {
-        "honchkrow": "27.3 kg"
+        "honchkrow": "27,3 kg"
     }
 }

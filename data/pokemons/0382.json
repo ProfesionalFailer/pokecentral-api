@@ -8,12 +8,12 @@
         }
     },
     "curiosities": [
-        "Nei giochi precedenti a Pokémon Rubino Omega e Zaffiro Alpha, Kyogre ha un tasso di cattura pari a 5.",
-        "Sire Palazzo Spartaco ha un bastone decorato con un motivo che ricorda Kyogre.",
+        "Spartaco ha un bastone decorato con un motivo che ricorda Kyogre.",
         "ArcheoKyogre ha le più alte statistiche base in Attacco Speciale, Difesa Speciale e totali di tutti i Pokémon di tipo Acqua.",
         "In Pokémon Battle Revolution, Marina indossa un costume di Kyogre.",
-        "In Pokémon Rubino Omega e Zaffiro Alpha, un Kyogre che conosce Surf, consente al giocatore di spostarsi molto più velocemente sull'acqua rispetto agli altri Pokémon. Quest'azione ha la sua animazione e un hitbox più grande. Inoltre, un Kyogre che conosce Sub consente al giocatore di evitare le lotte subacquee. Anche quest'azione ha la sua animazione e un hitbox più grande.",
-        "ArcheoKyogre è il Pokémon di tipo Acqua più pesante."
+        "In {Pokémon Rubino Omega e Zaffiro Alpha, un Kyogre che conosce Surf consente al giocatore di spostarsi molto più velocemente sull'acqua rispetto agli altri Pokémon. Quest'azione ha la sua animazione e un hitbox più grande.\n\tInoltre, un Kyogre che conosce Sub consente al giocatore di evitare le lotte subacquee contro gli allenatori. Anche quest'azione ha la sua animazione e un hitbox più grande.",
+        "Inoltre, un Kyogre che conosce Sub consente al giocatore di evitare le lotte subacquee contro gli allenatori. Anche quest'azione ha la sua animazione e un hitbox più grande.",
+        "Le statistiche di Attacco Speciale e Attacco, e Difesa Speciale e Difesa di Kyogre sono le stesse di Groudon ma invertite."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/kyogre.mp3",
     "dex_entries": {
@@ -21,13 +21,13 @@
             "ruby": "KYOGRE ha la capacità di creare enormi nubi temporalesche in modo da coprire il cielo totalmente e causare piogge torrenziali. Questo POKéMON ha salvato molte persone dalla siccità.",
             "sapphire": "Nella mitologia KYOGRE è considerato il POKéMON che ha ingrandito il mare allagando la terra con alluvioni ed enormi maree. Dopo un cataclisma causato dalla sua lotta con GROUDON è andato in letargo.",
             "emerald": "Nella mitologia, KYOGRE è il creatore del mare. Dopo anni di lotta con GROUDON, questo POKéMON è andato in letargo sui fondali marini.",
-            "firered": "Le violente piogge da lui scatenate hanno aumentato la superficie del mare. Ha il potere di controllare le acque.",
-            "leafgreen": "Le violente piogge da lui scatenate hanno aumentato la superficie del mare. Ha il potere di controllare le acque.",
+            "fire-red": "Le violente piogge da lui scatenate hanno aumentato la superficie del mare. Ha il potere di controllare le acque.",
+            "leaf-green": "Le violente piogge da lui scatenate hanno aumentato la superficie del mare. Ha il potere di controllare le acque.",
             "diamond": "Si dice che abbia ampliato i mari provocando piogge torrenziali. Si è assopito in una fossa marina.",
             "pearl": "Si dice che abbia ampliato i mari provocando piogge torrenziali. Si è assopito in una fossa marina.",
             "platinum": "Si dice che abbia ampliato i mari provocando piogge torrenziali. Si è assopito in una fossa marina.",
-            "heartgold": "Nella mitologia, KYOGRE è il Pokémon che ha ampliato i mari con megaonde e megapiogge. Nemico di GROUDON.",
-            "soulsilver": "Nella mitologia, KYOGRE è il Pokémon che ha ampliato i mari con megaonde e megapiogge. Nemico di GROUDON.",
+            "heart-gold": "Nella mitologia, KYOGRE è il Pokémon che ha ampliato i mari con megaonde e megapiogge. Nemico di GROUDON.",
+            "soul-silver": "Nella mitologia, KYOGRE è il Pokémon che ha ampliato i mari con megaonde e megapiogge. Nemico di GROUDON.",
             "black": "Si dice che abbia ampliato i mari provocando piogge torrenziali. Si è assopito in una fossa marina.",
             "white": "Si dice che abbia ampliato i mari provocando piogge torrenziali. Si è assopito in una fossa marina.",
             "black-2": "Si dice che abbia ampliato i mari provocando piogge torrenziali. Si è assopito in una fossa marina.",
@@ -35,7 +35,11 @@
             "x": "Nella mitologia, Kyogre è il Pokémon che ha ampliato i mari con megaonde e megapiogge. Nemico di Groudon.",
             "y": "Si dice che abbia ampliato i mari provocando piogge torrenziali. Si è assopito in una fossa marina.",
             "omega-ruby": "L'energia della natura può causare l'archeorisveglio di questo Pokémon, facendolo tornare al suo aspetto originario. Può provocare diluvi torrenziali in grado di espandere la superficie dei mari.",
-            "alpha-sapphire": "Si dice che questo Pokémon abbia un profondo legame con le distese dei mari. Le leggende narrano dei suoi continui scontri con Groudon per ottenere l'energia della natura."
+            "alpha-sapphire": "Si dice che questo Pokémon abbia un profondo legame con le distese dei mari. Le leggende narrano dei suoi continui scontri con Groudon per ottenere l'energia della natura.",
+            "legends-za": "Nella mitologia, Kyogre è il Pokémon che ampliò i mari con piogge torrenziali e tsunami. Lottò ferocemente contro Groudon."
+        },
+        "archeorisveglio": {
+            "legends-za": "Si è risvegliato grazie alla Gemma blu, pietra che racchiude in sé l’energia del mondo primordiale. Il suo corpo è simile all’acqua marina."
         }
     },
     "egg_groups": [
@@ -44,15 +48,15 @@
     "flat_name": "kyogre",
     "generation": 3,
     "height": {
-        "kyogre": "4.5 m",
-        "archeokyogre": "9.8 m"
+        "kyogre": "4,5 m",
+        "archeokyogre": "9,8 m"
     },
     "id": 382,
     "name": "Kyogre",
-    "name_origin": "Il nome deriva dal giapponese 海 kai, oceano, ed orca. Potrebbe derivare anche da 海王 Kaio, re del mare, o da 海王星 Kaiōsei, Nettuno; altra possibile origine è eygre, un fenomeno oceanico noto anche come mascheretto. ",
-    "origin": "Kyogre è basato principalmente sulla creatura mitologica ebraica nota come Leviatano, il signore degli oceani primordiali, le sue controparti erano il Behemoth e lo Ziz. Proprio come Kyogre con Groudon, anche il Leviatano era destinato a combattere il Behemoth in una battaglia mortale. La parola Leviatano in ebraico significa anche balena, il che può spiegare perché anatomicamente Kyogre assomiglia così tanto alle balene e alle orche. ",
+    "name_origin": "Kyogre è una combinazione di 海 kai, oceano, 海王 Kaio, re del mare, e ogre, orco. Potrebbe anche includere orca. ",
+    "origin": "Kyogre sembra essere un'incarnazione degli oceani terrestri. Il suo conflitto contro Groudon ricorda quello tra il Leviatano e il Behemoth, che avrebbe ucciso entrambi alla fine dei tempi. Come Kyogre, il Leviatano è associato al mare, e la parola ebraica per \"Leviatano\" viene usata in ebraico moderno per indicare le balene in generale, possibilmente spiegando le similitudini tra Kyogre e i cetacei, in particolare le orche. Comunque, il Leviatano non assomiglia in sé a Kyogre. I disegni sul corpo di Kyogre ricordano la lettera greca alfa, indicante l'inizio della vita, in opposizione all'omega di Groudon. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Kyogre",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Oceano",
     "sprites": {
         "kyogre": {
@@ -93,7 +97,7 @@
         ]
     },
     "weight": {
-        "kyogre": "352.0 kg",
-        "archeokyogre": "430.0 kg"
+        "kyogre": "352,0 kg",
+        "archeokyogre": "430,0 kg"
     }
 }

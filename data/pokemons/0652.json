@@ -3,10 +3,13 @@
         "chesnaught": {
             "primary": "Erbaiuto",
             "hidden": "Antiproiettile"
+        },
+        "megachesnaught": {
+            "primary": "Antiproiettile"
         }
     },
     "curiosities": [
-        "Chesnaught ha la difesa base più alta di tutti i Pokémon iniziali completamente evoluti."
+        "Chesnaught ha la Difesa base più alta di tutti i Pokémon iniziali completamente evoluti."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/chesnaught.mp3",
     "dex_entries": {
@@ -14,7 +17,8 @@
             "x": "Attaccando può rovesciare un carro armato da 50 t. Protegge gli alleati facendo loro scudo con il proprio corpo.",
             "y": "In posizione difensiva, con i pugni in guardia, è in grado di resistere persino a un'esplosione diretta.",
             "omega-ruby": "Attaccando può rovesciare un carro armato da 50 t. Protegge gli alleati facendo loro scudo con il proprio corpo.",
-            "alpha-sapphire": "In posizione difensiva, con i pugni in guardia, è in grado di resistere persino a un'esplosione diretta."
+            "alpha-sapphire": "In posizione difensiva, con i pugni in guardia, è in grado di resistere persino a un'esplosione diretta.",
+            "legends-za": "Può rovesciare un carro armato da 50 tonnellate caricandolo. Protegge i compagni facendo loro scudo con il proprio corpo."
         }
     },
     "egg_groups": [
@@ -23,42 +27,55 @@
     "flat_name": "chesnaught",
     "generation": 6,
     "height": {
-        "chesnaught": "1.6 m"
+        "chesnaught": "1,6 m"
     },
     "id": 652,
     "name": "Chesnaught",
     "name_origin": "Chesnaught deriva da chestnut , juggernaut e knight . ",
     "origin": "Chesnaught, oltre che sul riccio di castagna e sullo scoiattolo striato del genere Tamias, sembra essere basato su un cavaliere. Questo sarebbe spiegato dalla possente corazza, dello stesso colore del cranio che richiamerebbe quindi un elmo e soprattutto dall'origine del nome. Seguendo la classificazione degli starter di tipo erba, ovvero animali preistorici, Chesnaught sembra essere basato sul Doedicurus, un animale estinto circa 10.000 anni fa. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Chesnaught",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Spincorazza",
     "sprites": {
         "chesnaught": {
             "default": "https://media.pokemoncentral.it/wiki/6/64/Homem0652.png",
             "shiny": "https://media.pokemoncentral.it/wiki/8/80/Homemsh0652.png"
         },
+        "megachesnaught": {
+            "default": "https://media.pokemoncentral.it/wiki/5/5f/Homem0652M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/aa/Homemsh0652M.png"
+        },
         "official_artwork": "https://media.pokemoncentral.it/wiki/a/a1/Artwork0652_XY.png"
     },
     "stats": {
-        "statistiche-base": {
+        "chesnaught": {
             "hp": 88,
             "atk": 107,
             "def": 122,
             "spa": 74,
             "spd": 75,
             "spe": 64
+        },
+        "megachesnaught": {
+            "hp": 88,
+            "atk": 137,
+            "def": 172,
+            "spa": 74,
+            "spd": 115,
+            "spe": 44
         }
     },
     "stats_sum": {
-        "statistiche-base": 530
+        "chesnaught": 530,
+        "megachesnaught": 630
     },
     "types": {
         "chesnaught": [
-            "Erba",
-            "Lotta"
+            "Lotta",
+            "Erba"
         ]
     },
     "weight": {
-        "chesnaught": "90.0 kg"
+        "chesnaught": "90,0 kg"
     }
 }

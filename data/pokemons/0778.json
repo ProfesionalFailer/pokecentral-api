@@ -5,7 +5,7 @@
         }
     },
     "curiosities": [
-        "Il riferimento al merchandising che indossa Mimikyu, è un probabile riferimento al fatto che il lancio di Pokémon Sole e Luna, primi giochi in cui appare, è avvenuto 20 anni dopo il lancio di Pokémon Rosso e Verde, i primi della serie principale e ovviamente i primi in cui compare anche Pikachu."
+        "Il riferimento al merchandising che indossa Mimikyu, è un probabile riferimento al fatto che il lancio di Pokémon Sole e Luna, primi giochi in cui appare, è avvenuto 20 anni dopo il lancio di Pocket Monsters aka e midori, i primi della serie principale e ovviamente i primi in cui compare anche Pikachu."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mimikyu.mp3",
     "dex_entries": {
@@ -17,7 +17,8 @@
             "sword": "Per non spaventare gli altri, cela il suo aspetto sotto a un panno che imita le fattezze di Pikachu, ma questo lo rende ancor più inquietante.",
             "shield": "Uno scienziato che studiava questo Pokémon morì di una misteriosa malattia dopo aver guardato sotto il suo panno.",
             "scarlet": "Vive nell’ombra, lontano dalla luce del sole. Quando appare davanti alle persone si nasconde sotto un panno che somiglia a un Pikachu.",
-            "violet": "È stato identificato come Pokémon in tempi abbastanza recenti: prima di allora si pensava che fosse solo uno spettro coperto da un panno."
+            "violet": "È stato identificato come Pokémon in tempi abbastanza recenti: prima di allora si pensava che fosse solo uno spettro coperto da un panno.",
+            "legends-za": "Soffre molto la solitudine e, per poter avvicinare gli esseri umani e gli altri Pokémon, cela il suo tremendo aspetto sotto a un panno."
         },
         "forma-smascherata": {
             "sun": "Dopo tanti sforzi per camuffarsi, il collo del travestimento si è rotto! Sembra che il Pokémon stia bene, ma dev'esserci rimasto un po’ male...",
@@ -27,8 +28,10 @@
             "sword": "Non perdona chi smaschera il suo travestimento da Pikachu e lo finisce anche a costo della sua stessa incolumità.",
             "shield": "Ha evitato l'attacco nemico grazie al potere del panno, ma il collo del suo travestimento si è rotto rivelando la sua vera identità.",
             "scarlet": "Continua a fingersi un Pikachu mentre si affanna all’interno del panno per riparare il collo rotto del suo travestimento.",
-            "violet": "Il danno subito ha tolto il sostegno alla testa fatta di panno. Non dimenticherà l’avversario che lo ha attaccato finché avrà vita."
-        }
+            "violet": "Il danno subito ha tolto il sostegno alla testa fatta di panno. Non dimenticherà l’avversario che lo ha attaccato finché avrà vita.",
+            "legends-za": "È affranto perché il suo vero aspetto rischia di essere scoperto. Si vendica sempre su chi ha rotto la parte di travestimento che corrisponde al collo."
+        },
+        "": {}
     },
     "egg_groups": [
         "Amorfo"
@@ -36,15 +39,15 @@
     "flat_name": "mimikyu",
     "generation": 7,
     "height": {
-        "mimikyu": "0.2 m",
-        "dominante": "0.4 m"
+        "mimikyu": "0,2 m",
+        "dominante": "0,4 m"
     },
     "id": 778,
     "name": "Mimikyu",
     "name_origin": "Mimikyu e Mimikkyu potrebbero derivare dalla parola mimic, imitare o dalla trascrizione fonetica delle frasi \"To mimic you\", \"I mimic you\": \"imitarti\", \"ti imito\". Potrebbe derivare anche dall'onomatopea del verso di Pikachu. ",
     "origin": "Mimikyu si basa su un panno raffigurante un Pikachu. Questo travestimento assomiglia ai costumi da fantasma creati con le lenzuola. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Mimikyu",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Fantasmanto",
     "sprites": {
         "forma-mascherata": {
@@ -77,7 +80,7 @@
         ]
     },
     "weight": {
-        "mimikyu": "0.7 kg",
-        "dominante": "2.8 kg"
+        "mimikyu": "0,7 kg",
+        "dominante": "2,8 kg"
     }
 }

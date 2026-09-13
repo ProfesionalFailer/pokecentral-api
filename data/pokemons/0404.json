@@ -7,9 +7,8 @@
         }
     },
     "curiosities": [
-        "La posizione di Luxio nello sprite di Platino ricorda molto la Sfinge di Giza, in Egitto.",
-        "Luxio ha lo stesso nome in tutte le lingue. Questo è dovuto al fatto che il nome deriva dal latino e non dalle lingue in cui è tradotto.",
-        "Luxio è l'unico Pokémon con le statistiche base totali pari a 363."
+        "Luxio è l'unico Pokémon con le statistiche base totali pari a 363.",
+        "Il sito Pokémon ufficiale giapponese ha un Luxio nella propria pagina di errore 404, in riferimento al numero di Luxio nel Pokédex nazionale, 404."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/luxio.mp3",
     "dex_entries": {
@@ -17,8 +16,8 @@
             "diamond": "Dagli artigli rilascia un'elettricità talmente intensa da mandare KO il nemico. Vive in piccoli gruppi.",
             "pearl": "Comunica mediante gli impulsi elettrici ritmici emessi dagli artigli anteriori, che posa sui suoi simili.",
             "platinum": "I suoi artigli rilasciano una forte corrente elettrica e con un solo graffio manda KO i nemici.",
-            "heartgold": "Se due LUXIO collegano le code, riescono ad emettere dagli artigli una vigorosa scarica elettrica.",
-            "soulsilver": "Se due LUXIO collegano le code, riescono ad emettere dagli artigli una vigorosa scarica elettrica.",
+            "heart-gold": "Se due LUXIO collegano le code, riescono ad emettere dagli artigli una vigorosa scarica elettrica.",
+            "soul-silver": "Se due LUXIO collegano le code, riescono ad emettere dagli artigli una vigorosa scarica elettrica.",
             "black": "I suoi artigli rilasciano una forte corrente elettrica e con un solo graffio manda KO i nemici.",
             "white": "I suoi artigli rilasciano una forte corrente elettrica e con un solo graffio manda KO i nemici.",
             "black-2": "I suoi artigli rilasciano una forte corrente elettrica e con un solo graffio manda KO i nemici.",
@@ -42,14 +41,14 @@
     "flat_name": "luxio",
     "generation": 4,
     "height": {
-        "luxio": "0.9 m"
+        "luxio": "0,9 m"
     },
     "id": 404,
     "name": "Luxio",
-    "name_origin": "Luxio è il risultato dell'unione della parole latine lux  e leo , oppure dell'inglese lion . \"Lux-\" potrebbe derivare anche da Luxor dove è situato il complesso templare di Karnak, che presenta molte sfingi. ",
-    "origin": "Luxio è basato su un giovane leone. ",
+    "name_origin": "Luxio potrebbe derivare da lux, \"luce\" in latino, e leo, \"leone\" in latino. \"Lux-\" potrebbe derivare anche da Luxor, dove è situato il complesso templare di Karnak, che presenta molte sfingi. ",
+    "origin": "Dato il suo aspetto e la stella sulla coda, Luxio potrebbe essere ispirato dalla costellazione della Lince e dalle linci normali e linci mitologiche, a volte raffigurate come creature simili a leoni. Ricorda anche un leone maschio adolescente, possibilmente collegandolo alla costellazione del Leone o del Leone Minore. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Luxio",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Favilla",
     "sprites": {
         "luxio": {
@@ -81,6 +80,6 @@
         ]
     },
     "weight": {
-        "luxio": "30.5 kg"
+        "luxio": "30,5 kg"
     }
 }

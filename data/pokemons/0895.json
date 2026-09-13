@@ -5,8 +5,8 @@
         }
     },
     "curiosities": [
-        "Regidrago è l'unico tra i golem leggendari che:\n\tNon ha 80 PS base.\n\tNon impara Localizza  e Falcecannone  aumentando di livello.\n\tNon condivide una debolezza con gli altri golem.",
-        "Non ha 80 PS base.",
+        "Regidrago è l'unico tra i golem leggendari che:\n\tNon ha 80 Punti Salute base.\n\tNon impara Localizza  e Falcecannone  aumentando di livello.\n\tNon condivide una debolezza con gli altri golem.",
+        "Non ha 80 Punti Salute base.",
         "Non impara Localizza  e Falcecannone  aumentando di livello.",
         "Non condivide una debolezza con gli altri golem.",
         "Insieme a Regieleki, Regidrago è l'unico Pokémon leggendario introdotto in ottava generazione a non essere shiny locked in Pokémon Spada e Scudo."
@@ -24,14 +24,14 @@
     "flat_name": "regidrago",
     "generation": 8,
     "height": {
-        "regidrago": "2.1 m"
+        "regidrago": "2,1 m"
     },
     "id": 895,
     "name": "Regidrago",
     "name_origin": "Regidrago potrebbe essere una combinazione di regis, regale in latino, e dragon/draco, drago. ",
     "origin": "Regidrago potrebbe essere basato sui golem dei miti ebraici. Si dice che questi golem fossero servi di poteri superiori e che avessero delle scritte sulla testa. Quando i testi vengono rimossi, la creatura viene indebolita o addirittura portata alla morte. Regidrago potrebbe essere basato su una sfera di cristallo con un motivo draconico. I golem leggendari possono avere come tema comune le epoche storiche, con Regidrago che rappresenta i secoli bui. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Regidrago",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Dracosfera",
     "sprites": {
         "regidrago": {
@@ -59,6 +59,6 @@
         ]
     },
     "weight": {
-        "regidrago": "200.0 kg"
+        "regidrago": "200,0 kg"
     }
 }

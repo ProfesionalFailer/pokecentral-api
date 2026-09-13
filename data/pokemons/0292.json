@@ -25,21 +25,46 @@
         "In Pokémon GO Shedinja è l'unico Pokémon oltre a Ditto che non può essere usato nelle Sfide Allenatore."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/shedinja.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "shedinja": {
+            "ruby": "Il corpo coriaceo di SHEDINJA non si muove neanche di un millimetro. In realtà sembra quasi un guscio vuoto. Si dice che questo POKéMON rubi lo spirito di chiunque osi spiare dentro il suo guscio.",
+            "sapphire": "SHEDINJA è molto particolare. Pare comparire all'improvviso in una POKé BALL dopo l'evoluzione di NINCADA. Questo strano POKéMON è completamente immobile. Non è nemmeno in grado di respirare.",
+            "emerald": "SHEDINJA è un POKéMON particolare che riesce a fluttuare nell'aria senza muovere le ali. Il suo corpo è vuoto e completamente buio all'interno.",
+            "fire-red": "POKéMON particolare, che appare misteriosamente in una POKé BALL dopo l'evoluzione di un NINCADA.",
+            "leaf-green": "POKéMON particolare, che appare misteriosamente in una POKé BALL dopo l'evoluzione di un NINCADA.",
+            "diamond": "È nato dal guscio vuoto di un insetto. Pare che chi spia nella fessura sul suo dorso perda l'anima.",
+            "pearl": "È nato dal guscio vuoto di un insetto. Pare che chi spia nella fessura sul suo dorso perda l'anima.",
+            "platinum": "È nato dal guscio vuoto di un insetto. Pare che chi spia nella fessura sul suo dorso perda l'anima.",
+            "heart-gold": "Svolazza in giro senza muovere le ali. È un Pokémon strano: è vuoto all'interno e non respira.",
+            "soul-silver": "Svolazza in giro senza muovere le ali. È un Pokémon strano: è vuoto all'interno e non respira.",
+            "black": "È nato dal guscio vuoto di un insetto. Pare che chi spia nella fessura sul suo dorso perda l'anima.",
+            "white": "È nato dal guscio vuoto di un insetto. Pare che chi spia nella fessura sul suo dorso perda l'anima.",
+            "black-2": "È nato dal guscio vuoto di un insetto. Pare che chi spia nella fessura sul suo dorso perda l'anima.",
+            "white-2": "È nato dal guscio vuoto di un insetto. Pare che chi spia nella fessura sul suo dorso perda l'anima.",
+            "x": "È nato dal guscio vuoto di un insetto. Pare che chi spia nella fessura sul suo dorso perda l'anima.",
+            "y": "Pokémon particolare, che appare misteriosamente in una Poké Ball dopo l'evoluzione di un Nincada.",
+            "omega-ruby": "Il corpo coriaceo di Shedinja non si muove neanche di un millimetro. In realtà sembra quasi un guscio vuoto. Si dice che questo Pokémon rubi lo spirito di chiunque osi spiare dentro il suo guscio.",
+            "alpha-sapphire": "Shedinja è molto particolare. Pare comparire all'improvviso in una Poké Ball dopo l'evoluzione di Nincada. Questo strano Pokémon è completamente immobile. Non è nemmeno in grado di respirare.",
+            "sword": "È un Pokémon molto particolare. Appare misteriosamente in una Poké Ball dopo l'evoluzione di un Nincada.",
+            "shield": "Svolazza in giro senza muovere le ali. È un Pokémon strano: è vuoto all'interno e non respira.",
+            "brilliant-diamond": "È un involucro ninfale che ha preso vita. Si dice che l'anima di chi spia dalla fessura sul suo dorso venga risucchiata al suo interno.",
+            "shining-pearl": "È un involucro ninfale che ha preso vita. Si dice che l'anima di chi spia dalla fessura sul suo dorso venga risucchiata al suo interno."
+        }
+    },
     "egg_groups": [
         "Minerale"
     ],
     "flat_name": "shedinja",
     "generation": 3,
     "height": {
-        "shedinja": "0.80 m"
+        "shedinja": "0,80 m"
     },
     "id": 292,
     "name": "Shedinja",
-    "name_origin": "Il suo nome è l'unione delle parole \"Shed\"  e \"Ninja\". ",
-    "origin": "Shedinja è basato su un'esuvia  di cicala dopo la metamorfosi per lo stadio adulto. Sembra essere inoltre basato sulla tecnica leggendaria del ninjitsu 空蝉 Utsusemi, tecnica in cui il ninja usa una sua replica o un manichino per eludere gli attacchi e fuggire dalle minacce . Shedinja potrebbe anche essere basato su un angelo custode visto l'aureola che ha sulla testa e l'abilità Magidifesa. ",
+    "name_origin": "Shedinja potrebbe essere l'unione delle parole shed, fare la muta, e ninja. Nukenin, il suo nome giapponese, potrebbe essere una combinazione di 抜け殻 nukegara, guscio vuoto, e 忍者 ninja, oltre a essere un gioco di parole con 抜け忍 nukenin, termine che indica un \"ninja fuggitivo\" . ",
+    "origin": "Shedinja sembrerebbe essere basato sull'esuvia, il guscio abbandonato dalle cicale al termine della loro metamorfosi in adulti. Fa anche riferimento alla tecnica leggendaria del ninjutsu chiamata 空蝉 utsusemi, in cui un ninja utilizza un fantoccio o una replica di sé per eludere i pericoli; il termine stesso allude proprio all'involucro vuoto lasciato da una cicala. Inoltre, Shedinja potrebbe essere ispirato anche a un angelo custode, data la presenza di un oggetto simile a un'aureola fluttuante sopra la sua testa e la sua abilità Magidifesa, che lo protegge da quasi tutti gli attacchi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Shedinja",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Cambiapelle",
     "sprites": {
         "shedinja": {
@@ -68,6 +93,6 @@
         ]
     },
     "weight": {
-        "shedinja": "1.2 kg"
+        "shedinja": "1,2 kg"
     }
 }

@@ -6,9 +6,9 @@
         }
     },
     "curiosities": [
-        "Kricketot è più raro della sua evoluzione, Kricketune, in quanto non può essere trovato di giorno , ma solo di mattina e di sera.",
-        "Kricketot è l'unico Pokémon con un totale di statistiche base pari a 194.\n\tHa però anche il totale di statistiche base più basso fra tutti i Pokémon di tipo Coleottero.",
-        "Ha però anche il totale di statistiche base più basso fra tutti i Pokémon di tipo Coleottero."
+        "Kricketot è l'unico Pokémon con un totale di statistiche base pari a 194.",
+        "Come effettivamente detto nelle voci del Pokédex, il verso di Kricketot sembra essere stato creato usando suoni di uno xilofono.",
+        "Kricketot si evolve il più presto di ogni Pokémon in una famiglia evolutiva a due stadi, al livello 10."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/kricketot.mp3",
     "dex_entries": {
@@ -16,8 +16,8 @@
             "diamond": "Muove la testa avanti e indietro e le antenne, scontrandosi, producono un suono simile allo xilofono.",
             "pearl": "Comunica con il suono prodotto dallo scontro delle sue antenne. Esso indica l'arrivo dell’autunno.",
             "platinum": "Ha le zampe corte. Quando inciampa le sue antenne si urtano, producendo un suono simile allo xilofono.",
-            "heartgold": "Le antenne, scontrandosi, producono un suono simile allo xilofono: klon, klon!",
-            "soulsilver": "Le antenne, scontrandosi, producono un suono simile allo xilofono: klon, klon!",
+            "heart-gold": "Le antenne, scontrandosi, producono un suono simile allo xilofono: klon, klon!",
+            "soul-silver": "Le antenne, scontrandosi, producono un suono simile allo xilofono: klon, klon!",
             "black": "Ha le zampe corte. Quando inciampa le sue antenne si urtano, producendo un suono simile allo xilofono.",
             "white": "Ha le zampe corte. Quando inciampa le sue antenne si urtano, producendo un suono simile allo xilofono.",
             "black-2": "Ha le zampe corte. Quando inciampa le sue antenne si urtano, producendo un suono simile allo xilofono.",
@@ -39,14 +39,14 @@
     "flat_name": "kricketot",
     "generation": 4,
     "height": {
-        "kricketot": "0.3 m"
+        "kricketot": "0,3 m"
     },
     "id": 401,
     "name": "Kricketot",
-    "name_origin": "Deriva dalle parole cricket  e tot . ",
-    "origin": "Basato su un piccolo grillo. ",
+    "name_origin": "Kricketot potrebbe derivare da cricket, grillo, e tot, bambino, o totter, barcollare. Korobohshi, il suo nome giapponese, potrebbe derivare da 蟋蟀 koorogi, grillo, e 起き上がり小法師 Okiagari-koboshi, una bambola tradizionale giapponese che, se rovesciata, torna in piedi da sola. ",
+    "origin": "Kricketot sembra essere basato su un grillo, famosi per emettere suoni per attirare le femmine. Alcuni tratti lo riconducono ad un musicista, possibilmente un conduttore membro di un'orchestra. Il suo corpo funziona come uno strumento musicale: l'addome ricorda uno strumento a corda, mentre le antenne possono emettere suoni simili a quelli di uno xilofono o di una marimba. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Kricketot",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Grillo",
     "sprites": {
         "kricketot": {
@@ -78,6 +78,6 @@
         ]
     },
     "weight": {
-        "kricketot": "2.2 kg"
+        "kricketot": "2,2 kg"
     }
 }

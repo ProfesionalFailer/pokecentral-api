@@ -6,8 +6,10 @@
         }
     },
     "curiosities": [
-        "Mothim e Wormadam sono gli unici Pokémon con un totale di statistiche base pari a 424.",
-        "A differenza di Wormadam, non ha differenze di forma."
+        "Wormadam e Mothim sono gli unici Pokémon con un totale di statistiche base pari a 424.",
+        "Prima dell'ottava generazione l'unico modo di ottenere l'abilità nascosta della linea di Burmy era il Dream World e accoppiando esemplari che l'avevano, rendendo quasi impossibile ottenerla dopo la chiusura del servizio. Ora è ottenibile anche con Cerotto abilità.",
+        "Burmy, Wormadam, Mothim, Geodude, Graveler e Golem sono gli unici presenti in tutti gli elenchi del Pokédex di Hisui.",
+        "In Leggende Pokémon: Arceus Mothim apparirà sempre nella forma che si evolve da Burmy Manto Pianta, nonostante si possa incontrare solo in un luogo dove è presente quel Manto."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/mothim.mp3",
     "dex_entries": {
@@ -15,8 +17,8 @@
             "diamond": "Ama il nettare dei fiori. Ruba e mangia il nettare raccolto da COMBEE.",
             "pearl": "Non ha una tana fissa. Vola su campi e monti in perenne ricerca del nettare dei fiori.",
             "platinum": "Anche se ama il nettare dei fiori, non lo raccoglie. Preferisce rubarlo ai COMBEE.",
-            "heartgold": "Vola qua e là di notte per derubare i COMBEE del loro nettare mentre dormono, e poi fuggire.",
-            "soulsilver": "Vola qua e là di notte per derubare i COMBEE del loro nettare mentre dormono, e poi fuggire.",
+            "heart-gold": "Vola qua e là di notte per derubare i COMBEE del loro nettare mentre dormono, e poi fuggire.",
+            "soul-silver": "Vola qua e là di notte per derubare i COMBEE del loro nettare mentre dormono, e poi fuggire.",
             "black": "Anche se ama il nettare dei fiori, non lo raccoglie. Preferisce rubarlo ai Combee.",
             "white": "Anche se ama il nettare dei fiori, non lo raccoglie. Preferisce rubarlo ai Combee.",
             "black-2": "Anche se ama il nettare dei fiori, non lo raccoglie. Preferisce rubarlo ai Combee.",
@@ -36,14 +38,14 @@
     "flat_name": "mothim",
     "generation": 4,
     "height": {
-        "mothim": "0.9 m"
+        "mothim": "0,9 m"
     },
     "id": 414,
     "name": "Mothim",
-    "name_origin": "Deriva dalle parole moth  con il pronome him . ",
-    "origin": "Basato su un maschio adulto di un lepidottero, precisamente la falena adulata della famiglia delle Psychidae . ",
+    "name_origin": "Mothim potrebbe derivare da moth, falena, e him, lui. Gamale, il suo nome giapponese, potrebbe derivare da 蛾 ga, falena, e male, maschio. ",
+    "origin": "Mothim sembra essere basato su un adulto maschio di falena psichide, che al contrario della femmina si sviluppa completamente in una falena adulta. Il suo aspetto e la sua tendenza di rubare il miele ricordano un Acherontia styx, detta anche lesser death's head hawkmoth o bee robber. La sua \"coda\" ricorda l'addome segmentato di uno sfingide, in particolare un Hemaris. Mothim potrebbe anche prendere ispirazione dalla Cikavac, creatura della mitologia serba alata dalla capacità di esaudire desideri con una tendenza a rubare miele e latte. Cikavac in serbo significa \"squittente\", e le Acherontia styx emettono un suono simile a uno squittio. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Mothim",
-    "shape": "due paia di ali",
+    "shape": "None",
     "specie": "Pokémon Falena",
     "sprites": {
         "mothim": {
@@ -72,6 +74,6 @@
         ]
     },
     "weight": {
-        "mothim": "23.3 kg"
+        "mothim": "23,3 kg"
     }
 }

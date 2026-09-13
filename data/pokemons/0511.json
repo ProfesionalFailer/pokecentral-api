@@ -6,7 +6,10 @@
         }
     },
     "curiosities": [
-        "Pansage fu visto per la prima volta, insieme ad Axew, descritto come un giocattolo, in due immagini viste durante luglio 2010, ma non era stato ancora rivelato il nome e non si sapeva nulla di esso. All'inizio di agosto 2010 circolò in rete una versione fasulla dell'edizione di settembre di CoroCoro in cui veniva mostrato questo Pokémon. Pansage fu rivelato per la prima volta il 22 agosto 2010 nel Pokémon Sunday."
+        "Pansage fu visto per la prima volta, insieme ad Axew, come un giocattolo in due immagini viste durante luglio 2010, ma non era stato ancora rivelato il nome e non si sapeva nulla di esso. Fu poi rivelato per la prima volta il 22 agosto 2010 nel Pokémon Sunday.",
+        "Pansage e la sua evoluzione sono gli unici Pokémon ad avere l'abilità Erbaiuto a non essere Pokémon iniziali.",
+        "In Pokémon GO Pansage è esclusivo dell'Asia Pacifica, Pansear in Europa, Medio Oriente, Africa e India, mentre Panpour in America e Groenlandia.",
+        "Pansage, Pansear e Panpour sono stati disegnati da Takao Unno. Sono stati tutti ideati come compagni per Spighetto, Chicco e Maisello e, dato che la loro palestra è in parte un ristorante, ai tre Pokémon è stato dato un tema alimentare, con le loro mani disegnate per essere simili a guanti da forno."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/pansage.mp3",
     "dex_entries": {
@@ -18,7 +21,8 @@
             "x": "Distribuisce le foglie sulla sua testa ai Pokémon affaticati, per alleviare la loro stanchezza.",
             "y": "È un Pokémon molto generoso. Abilissimo nello scovare le bacche, va in giro a raccoglierle per poi condividerle.",
             "omega-ruby": "Distribuisce le foglie sulla sua testa ai Pokémon affaticati, per alleviare la loro stanchezza.",
-            "alpha-sapphire": "È un Pokémon molto generoso. Abilissimo nello scovare le bacche, va in giro a raccoglierle per poi condividerle."
+            "alpha-sapphire": "È un Pokémon molto generoso. Abilissimo nello scovare le bacche, va in giro a raccoglierle per poi condividerle.",
+            "legends-za": "Le foglie che ha sulla testa hanno la capacità di alleviare la stanchezza. Le distribuisce ai Pokémon affaticati."
         }
     },
     "egg_groups": [
@@ -27,14 +31,14 @@
     "flat_name": "pansage",
     "generation": 5,
     "height": {
-        "pansage": "0.6 m"
+        "pansage": "0,6 m"
     },
     "id": 511,
     "name": "Pansage",
-    "name_origin": "Il suo nome deriva da pan , e dalla parola inglese sage , o dal tedesco sagen . ",
-    "origin": "Pansage si basa sulle scimmie e su una pianta. Potrebbe ispirarsi al modo in cui la sottofamiglia dei colombini viene chiamata in inglese, leaf monkey . È basato inoltre sulla scimmia Iwazaru  del santuario di Nikko. ",
+    "name_origin": "Pansage potrebbe derivare da pan , e da sage  o sage, saggio, in riferimento alle tre scimmie sagge. Yanappu, il suo nome giapponese, potrebbe derivare da 柳 yanagi , 野菜 yasai , 菜 na , e ape, scimmia antropomorfa. ",
+    "origin": "Pansage è basato su una scimmia. La cima della sua testa ricorda un albero o un altro vegetale, come un broccolo. In generale potrebbe essere basato sull'albero-scimmia, e essere un gioco di parole con il nome inglese delle Colobine, ovvero \"leaf monkeys\", \"scimmie foglia\". Insieme a Pansear e Panpour sembra essere ispirato alle tre scimmie sagge. Dato che ha la bocca aperta, Pansage potrebbe rappresentare non parlare del male. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Pansage",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Scimperba",
     "sprites": {
         "pansage": {
@@ -62,6 +66,6 @@
         ]
     },
     "weight": {
-        "pansage": "10.5 kg"
+        "pansage": "10,5 kg"
     }
 }

@@ -3,6 +3,9 @@
         "meganium": {
             "primary": "Erbaiuto",
             "hidden": "Fogliamanto"
+        },
+        "megameganium": {
+            "primary": "Megasolar"
         }
     },
     "curiosities": [
@@ -10,7 +13,39 @@
         "Meganium è uno dei pochi Pokémon ad avere tre sprite diversi nei tre giochi di seconda generazione."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/meganium.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "meganium": {
+            "gold": "L'aroma che si spande dai suoi petali contiene una sostanza che placa gli istinti aggressivi.",
+            "silver": "Il respiro di MEGANIUM può far riprendere l'erba e le piante morte, che ricrescono rigogliose.",
+            "crystal": "Chiunque gli stia vicino si ritempra come se riposasse in una foresta accarezzata dal sole.",
+            "ruby": "L'aroma del fiore di MEGANIUM placa le emozioni. Nella lotta questo POKéMON emana un profumo con effetto calmante per smorzare l'aggressività del nemico.",
+            "sapphire": "L'aroma del fiore di MEGANIUM placa le emozioni. Nella lotta questo POKéMON emana un profumo con effetto calmante per smorzare l'aggressività del nemico.",
+            "emerald": "L'aroma del fiore di MEGANIUM placa le emozioni. Nella lotta, emana un profumo con effetto calmante per smorzare l'aggressività del nemico.",
+            "fire-red": "Il respiro di MEGANIUM può far riprendere l'erba e le piante morte, che ricrescono rigogliose.",
+            "leaf-green": "L'aroma che si spande dai suoi petali contiene una sostanza che placa gli istinti aggressivi.",
+            "diamond": "Il suo respiro ha lo straordinario potere di far tornare rigogliosi piante secche e fiori avvizziti.",
+            "pearl": "Il suo respiro ha lo straordinario potere di far tornare rigogliosi piante secche e fiori avvizziti.",
+            "platinum": "Il suo respiro ha lo straordinario potere di far tornare rigogliosi piante secche e fiori avvizziti.",
+            "heart-gold": "L’aroma che si spande dai suoi petali contiene una sostanza che placa gli istinti aggressivi.",
+            "soul-silver": "Il respiro di MEGANIUM può far riprendere l’erba e le piante morte che ricrescono rigogliose.",
+            "black": "Il suo respiro ha lo straordinario potere di far tornare rigogliosi piante secche e fiori avvizziti.",
+            "white": "Il suo respiro ha lo straordinario potere di far tornare rigogliosi piante secche e fiori avvizziti.",
+            "black-2": "Il suo respiro ha lo straordinario potere di far tornare rigogliosi piante secche e fiori avvizziti.",
+            "white-2": "Il suo respiro ha lo straordinario potere di far tornare rigogliosi piante secche e fiori avvizziti.",
+            "x": "L'aroma che si spande dai suoi petali contiene una sostanza che placa gli istinti aggressivi.",
+            "y": "Il respiro di Meganium può far riprendere l'erba e le piante morte che ricrescono rigogliose.",
+            "omega-ruby": "L'aroma del fiore di Meganium placa le emozioni. Nella lotta questo Pokémon emana un profumo con effetto calmante per smorzare l'aggressività del nemico.",
+            "alpha-sapphire": "L'aroma del fiore di Meganium placa le emozioni. Nella lotta questo Pokémon emana un profumo con effetto calmante per smorzare l'aggressività del nemico.",
+            "brilliant-diamond": "Il suo respiro ha lo straordinario potere di far tornare rigogliosi piante secche e fiori avvizziti.",
+            "shining-pearl": "Il suo respiro ha lo straordinario potere di far tornare rigogliosi piante secche e fiori avvizziti.",
+            "scarlet": "Chiunque gli stia vicino si sente rigenerato come se avesse fatto una rilassante passeggiata nel bosco.",
+            "violet": "Il respiro di Meganium ha il potere di rigenerare la vegetazione avvizzita.",
+            "legends-za": "L'aroma che si spande dai suoi petali contiene una sostanza che placa gli istinti aggressivi."
+        },
+        "megameganium": {
+            "legends-za": "Il Solarraggio emesso dai suoi quattro fiori ha una potenza immensa e viene anche chiamato \"Megacannone Solare\"."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Erba"
@@ -18,14 +53,15 @@
     "flat_name": "meganium",
     "generation": 2,
     "height": {
-        "meganium": "1.8 m"
+        "meganium": "1,8 m",
+        "megameganium": "2,4 m"
     },
     "id": 154,
     "name": "Meganium",
-    "name_origin": "Il suo nome deriva dal prefisso mega e dalla parola geranium, geranio. ",
-    "origin": "Meganium sembra essere ispirato ad un sauropode, per la precisione ad un apatosauro, mentre i petali attorno al collo ricordano un Geranio Hibicus o un Amorphophallus Titanum o addirittura al Hippeastrum. ",
+    "name_origin": "Meganium potrebbe derivare da mega e geranium, geranio. ",
+    "origin": "Meganium sembra essere basato su un gruppo di sauropodi, precisamente l'Apatosauro. Il fiore sul suo collo sembra essere ispirato ad un emerocallide, mentre il lungo collo lo riconduce all'aro titano. Potrebbe inoltre prendere ispirazione dai gerani, come suggerisce il nome. Potrebbe inoltre prendere ispirazione dall'aachenosaurus, un fossile vegetale originariamente creduto essere animale. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Meganium",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Erbe",
     "sprites": {
         "meganium": {
@@ -35,6 +71,10 @@
         "meganium-f": {
             "default": "https://media.pokemoncentral.it/wiki/8/8b/Homef0154.png",
             "shiny": "https://media.pokemoncentral.it/wiki/c/c4/Homefsh0154.png"
+        },
+        "megameganium": {
+            "default": "https://media.pokemoncentral.it/wiki/3/33/Homem0154M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/6/6d/Homemsh0154M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/f/f0/Artwork0154_HGSS.png"
     },
@@ -46,17 +86,31 @@
             "spa": 83,
             "spd": 100,
             "spe": 80
+        },
+        "megameganium": {
+            "hp": 80,
+            "atk": 92,
+            "def": 115,
+            "spa": 143,
+            "spd": 115,
+            "spe": 80
         }
     },
     "stats_sum": {
-        "meganium": 525
+        "meganium": 525,
+        "megameganium": 625
     },
     "types": {
         "meganium": [
             "Erba"
+        ],
+        "megameganium": [
+            "Folletto",
+            "Erba"
         ]
     },
     "weight": {
-        "meganium": "100.5 kg"
+        "meganium": "100,5 kg",
+        "megameganium": "201,0 kg"
     }
 }

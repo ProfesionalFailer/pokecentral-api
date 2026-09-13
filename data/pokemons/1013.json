@@ -1,0 +1,86 @@
+{
+    "abilities": {
+        "sinistcha": {
+            "primary": "Ospitalità",
+            "hidden": "Antifuoco"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Erba",
+        "Pokémon di tipo Spettro",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Verde",
+        "Pokémon dalla sagoma n. 01",
+        "Pokémon di sesso sconosciuto",
+        "Pokémon di Gruppo Uova Minerale",
+        "Pokémon di Gruppo Uova Amorfo",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pagine che richiamano file inesistenti",
+        "Pokémon con statistiche base totali di 508",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/sinistcha.mp3",
+    "dex_entries": {
+        "forma-dozzinale": {
+            "scarlet": "Finge di essere del tè e cerca di farsi bere da qualche malcapitato per rubargli l'energia vitale, ma spesso viene scoperto.",
+            "violet": "Gli piace stare in posti bui e freschi, ad esempio in fondo agli scaffali o sotto i pavimenti delle case. Dopo il tramonto vaga in cerca di prede."
+        },
+        "forma-eccezionale": {
+            "scarlet": "Gli appassionati stravedono per questo Pokémon che prende dimora in tazze da tè realizzate da un rinomato ceramista.",
+            "violet": "Si carica di energia mescolando se stesso con la frusta che ha in testa. È così che si prepara a lottare."
+        }
+    },
+    "egg_groups": [
+        "Minerale",
+        "Amorfo"
+    ],
+    "flat_name": "sinistcha",
+    "generation": 9,
+    "height": {
+        "sinistcha": "0,2 m"
+    },
+    "id": 1013,
+    "name": "Sinistcha",
+    "name_origin": "Sinistcha potrebbe essere un'unione di sinistro, Sinistea e macha. ",
+    "origin": "Sinistcha potrebbe essere ispirato al matcha preparato in una bevanda nel tradizionale Cerimonia del tè. Il suo design incorpora molti utensili usati nella summenzionata cerimonia, cioè il chawan  e il chasen . Potrebbe inoltre essere ispirato agli tsukumogami, ovvero oggetti casalinghi che hanno preso vita. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Sinistcha",
+    "shape": "None",
+    "specie": "Pokémon Matcha",
+    "sprites": {
+        "forma-dozzinale": {
+            "default": "https://media.pokemoncentral.it/wiki/2/26/Homem1013.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/ac/Homemsh1013.png"
+        },
+        "forma-eccezionale": {
+            "default": "https://media.pokemoncentral.it/wiki/8/89/Homem1013E.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/7/76/Homemsh1013E.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/8/8d/Artwork1013_SV.png"
+    },
+    "stats": {
+        "sinistcha": {
+            "hp": 71,
+            "atk": 60,
+            "def": 106,
+            "spa": 121,
+            "spd": 80,
+            "spe": 70
+        }
+    },
+    "stats_sum": {
+        "sinistcha": 508
+    },
+    "types": {
+        "sinistcha": [
+            "Spettro",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "sinistcha": "2,2 kg"
+    }
+}

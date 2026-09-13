@@ -13,7 +13,8 @@
     "dex_entries": {
         "shroodle": {
             "scarlet": "È di natura mite, ma se qualcuno lo fa arrabbiare lo morde con gli incisivi impregnati di un veleno paralizzante.",
-            "violet": "Per evitare che i nemici si avvicinino al suo territorio, disegna figure intorno alla tana con un liquido velenoso dall'odore pungente."
+            "violet": "Per evitare che i nemici si avvicinino al suo territorio, disegna figure intorno alla tana con un liquido velenoso dall'odore pungente.",
+            "legends-za": "Si difende dai nemici con la sua saliva tossica e i lunghi incisivi, sproporzionati rispetto alle dimensioni minute del suo corpo."
         }
     },
     "egg_groups": [
@@ -22,14 +23,14 @@
     "flat_name": "shroodle",
     "generation": 9,
     "height": {
-        "shroodle": "0.2 m"
+        "shroodle": "0,2 m"
     },
     "id": 944,
     "name": "Shroodle",
     "name_origin": "Shroodle potrebbe essere una combinazione di shrew , shrewd , e doodle . ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Shroodle",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Velentopo",
     "sprites": {
         "shroodle": {
@@ -53,11 +54,11 @@
     },
     "types": {
         "shroodle": [
-            "Veleno",
-            "Normale"
+            "Normale",
+            "Veleno"
         ]
     },
     "weight": {
-        "shroodle": "0.7 kg"
+        "shroodle": "0,7 kg"
     }
 }

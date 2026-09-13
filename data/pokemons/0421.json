@@ -5,9 +5,8 @@
         }
     },
     "curiosities": [
-        "Cherrim è uno degli unici due Pokémon che cambiano la loro forma a seconda del tempo, l'altro è Castform.\n\tCherrim è anche uno dei due Pokémon in grado di trasformarsi in una forma alternativa, mentre la sua pre-evoluzione non può. L'altro è Darmanitan.",
-        "Cherrim è anche uno dei due Pokémon in grado di trasformarsi in una forma alternativa, mentre la sua pre-evoluzione non può. L'altro è Darmanitan.",
-        "Anche se il Pokédex in Pokémon Diamante e Perla e in Pokémon Platino permette di visualizzare diverse forme di un Pokémon, Cherrim è l'unico Pokémon la cui forma alternativa non può essere visualizzata."
+        "Cherrim e Castform sono gli unici Pokémon le cui forme alternative non sono visualizzabili nel Pokédex di Pokémon Diamante, Perla e Platino: solo la forma normale e le differenze di sesso sono visibili.",
+        "Un errore di programmazione in Leggende Pokémon: Arceus rendeva Cherrim forma Splendore impossibile da catturare. Questo è stato corretto nella versione 1.0.2."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/cherrim.mp3",
     "dex_entries": {
@@ -15,8 +14,8 @@
             "diamond": "Sboccia quando fa caldo e cerca di godersi fino all'ultimo ogni momento che può passare al sole.",
             "pearl": "È un timido germoglio che si rallegra quando fiorisce. Al calar del sole, torna ad essere germoglio.",
             "platinum": "Quando splende il sole, ama aprire i suoi petali per assorbire i raggi solari con tutto il corpo.",
-            "heartgold": "Sboccia quando si espone ai raggi solari, espandendo la corolla e diventando molto attivo.",
-            "soulsilver": "Sboccia quando si espone ai raggi solari, espandendo la corolla e diventando molto attivo.",
+            "heart-gold": "Sboccia quando si espone ai raggi solari, espandendo la corolla e diventando molto attivo.",
+            "soul-silver": "Sboccia quando si espone ai raggi solari, espandendo la corolla e diventando molto attivo.",
             "black": "Quando splende il sole, ama aprire i suoi petali per assorbire i raggi solari con tutto il corpo.",
             "white": "Quando splende il sole, ama aprire i suoi petali per assorbire i raggi solari con tutto il corpo.",
             "black-2": "Quando splende il sole, ama aprire i suoi petali per assorbire i raggi solari con tutto il corpo.",
@@ -46,14 +45,14 @@
     "flat_name": "cherrim",
     "generation": 4,
     "height": {
-        "cherrim": "0.5 m"
+        "cherrim": "0,5 m"
     },
     "id": 421,
     "name": "Cherrim",
-    "name_origin": "Cherrim è una combinazione di cherry  e blossom  o cherubim , ma potrebbero anche essere coinvolti i termini cherimoya  e l'irlandese tirim  ",
-    "origin": "Sembra che Cherrim si basi sui fiori di ciliegio. I fiori di ciliegio sono fiori che simboleggiano il Giappone. ",
+    "name_origin": "Cherrim potrebbe derivare da cherry, ciliegia, cherubim, cherubino, e blossom, germoglio. ",
+    "origin": "La reazione di Cherrim al sole sembra ispirata ai fiori fotofili. La sua forma Splendore ricorda un fiore di ciliegio, fiori simbolici del Giappone. La forma Nuvola ricorda invece un bocciolo di fuchsia e altri boccioli e fiori di piante che crescono infiorescenze, come le ciliegie. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Cherrim",
-    "shape": "testa e gambe",
+    "shape": "None",
     "specie": "Pokémon Bocciolo",
     "sprites": {
         "forma-nuvola": {
@@ -94,6 +93,6 @@
         ]
     },
     "weight": {
-        "cherrim": "9.3 kg"
+        "cherrim": "9,3 kg"
     }
 }

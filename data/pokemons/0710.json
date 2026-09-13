@@ -7,8 +7,9 @@
         }
     },
     "curiosities": [
-        "Pumpkaboo nella Forma Maxi ha il verso più lungo e profondo rispetto alle altre tre forme.",
-        "Soltanto nella Forma Grande e nella Forma Maxi può avere l'abilità Nascota Insonnia; il primo si può trovare nel Safari Amici, mentre il secondo distribuito come evento."
+        "Pumpkaboo Varietà Gigante ha il verso più lungo e profondo rispetto alle altre tre forme.",
+        "Soltanto nelle Varietà Grande e Gigante può avere l'abilità speciale Insonnia; il primo si può trovare nel Safari Amici, mentre il secondo distribuito come evento.",
+        "Pumpkaboo e Phantump possono essere visti come controparti. Entrambi sono Pokémon di doppio tipo Erba/Spettro che sono il primo stadio di una linea evolutiva a due stadi introdotta in sesta generazione la cui evoluzione avviene tramite scambio. Entrambi hanno anche una mossa peculiare che aggiunge un tipo al bersaglio."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/pumpkaboo.mp3",
     "dex_entries": {
@@ -18,21 +19,25 @@
             "omega-ruby": "Pokémon nato quando uno spirito inquieto è entrato in una zucca. Si attiva dopo il calar del sole.",
             "alpha-sapphire": "Si dice che aiuti le anime smarrite a ritrovare il cammino."
         },
-        "normale": {
+        "varieta-media": {
             "sword": "Le anime che vagano in questo mondo entrano nel suo corpo per iniziare il loro viaggio verso l'aldilà.",
-            "shield": "Con la luce che emana dai buchi nella zucca ipnotizza esseri umani e Pokémon e ne assume il controllo."
+            "shield": "Con la luce che emana dai buchi nella zucca ipnotizza esseri umani e Pokémon e ne assume il controllo.",
+            "legends-za": "È emerso di recente come le diverse varietà si distinguano non solo per le dimensioni del corpo ma anche per quelle delle anime che trasportano."
         },
-        "mini": {
+        "varieta-piccola": {
             "sword": "I Pumpkaboo Mini amano accompagnare le anime dei bambini nell'aldilà.",
-            "shield": "Si dice che sia rimasto così piccolo perché ha vissuto in un luogo con poche anime erranti."
+            "shield": "Si dice che sia rimasto così piccolo perché ha vissuto in un luogo con poche anime erranti.",
+            "legends-za": "Questa varietà conduce nell'aldilà le piccole anime dei bambini, ben adatte alle dimensioni del suo corpo."
         },
-        "grande": {
+        "varieta-grande": {
             "sword": "I Pumpkaboo Grandi amano accompagnare le anime degli adulti nell'aldilà.",
-            "shield": "Si dice che sia diventato così grande perché ha vissuto in un luogo con molte anime erranti."
+            "shield": "Si dice che sia diventato così grande perché ha vissuto in un luogo con molte anime erranti.",
+            "legends-za": "Questa varietà conduce nell'aldilà le grandi anime degli adulti, ben adatte alle dimensioni del suo corpo."
         },
-        "maxi": {
+        "varieta-gigante": {
             "sword": "I Pumpkaboo Maxi adorano le anime degli esseri umani di corporatura particolarmente robusta.",
-            "shield": "Si dice che sia diventato particolarmente grande perché ha vissuto in un luogo con tantissime anime erranti."
+            "shield": "Si dice che sia diventato particolarmente grande perché ha vissuto in un luogo con tantissime anime erranti.",
+            "legends-za": "Questa varietà conduce nell'aldilà le anime gigantesche, ben adatte alle dimensioni del suo corpo."
         }
     },
     "egg_groups": [
@@ -41,17 +46,17 @@
     "flat_name": "pumpkaboo",
     "generation": 6,
     "height": {
-        "normale": "0.4 m",
-        "mini": "0.3 m",
-        "grande": "0.5 m",
-        "maxi": "0.8 m"
+        "varieta-media": "0,4 m",
+        "varieta-piccola": "0,3 m",
+        "varieta-grande": "0,5 m",
+        "varieta-gigante": "0,8 m"
     },
     "id": 710,
     "name": "Pumpkaboo",
     "name_origin": "Pumpkaboo potrebbe essere una combinazione di pumpkin, zucca, e boo, una parola comune usata per spaventare le persone, o peek-a-boo, gioco del cucù. Bakeccha potrebbe essere una combinazione di お化け obake, spettro, e 南瓜 kabocha, zucca. ",
     "origin": "Pumpkaboo sembra essere basato su una zucca, in particolare quelle che vengono usate come lanterne ad Halloween: le jack-o'-lantern. Le zucche sono anche note per le loro varie dimensioni, ecco perché esistono esemplari di Pumpkaboo di dimensioni diverse. La parte marrone scuro del corpo e le zanne ricordano i pipistrelli, animali spesso associati alla festa di Halloween. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Pumpkaboo",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Zucca",
     "sprites": {
         "normale": {
@@ -114,14 +119,14 @@
     },
     "types": {
         "pumpkaboo": [
-            "Erba",
-            "Spettro"
+            "Spettro",
+            "Erba"
         ]
     },
     "weight": {
-        "normale": "5.0 kg",
-        "mini": "3.5 kg",
-        "grande": "7.5 kg",
-        "maxi": "15.0 kg"
+        "varieta-media": "5,0 kg",
+        "varieta-piccola": "3,5 kg",
+        "varieta-grande": "7,5 kg",
+        "varieta-gigante": "15,0 kg"
     }
 }

@@ -6,27 +6,55 @@
         }
     },
     "curiosities": [
-        "Pineco è l'unico Pokémon di tipo Coleottero puro introdotto in seconda generazione.",
         "Pineco condivide la sua categoria con Forretress, Burmy e Wormadam. Sono tutti noti come Pokémon Larva.",
-        "Stranamente, Pineco può imparare Comete nella Terza Generazione tramite allevamento, ma non può tramite Insegnamosse. Lo stesso discorso vale per Forretress.",
-        "In Platino, sia Pineco che Forretress possono imparare Coleomorso pur non avendo una bocca visibile."
+        "Pineco può imparare Comete nella Terza Generazione tramite allevamento, ma non può tramite Insegnamosse o MT fino alla nona generazione. Lo stesso discorso vale per Forretress."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/pineco.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "pineco": {
+            "gold": "Inspessisce il guscio aggiungendo strati di corteccia. Non lo impensierisce l'aumento di peso.",
+            "silver": "Sta appeso attendendo di catturare gli insetti che si avvicinano in volo. Non ama molto muoversi.",
+            "crystal": "Sputa un liquido che gli serve per incollare al corpo la corteccia. Con l'aria, il liquido si solidifica.",
+            "ruby": "PINECO pende dal ramo di un albero e attende pazientemente l'arrivo della sua preda. Se l'albero viene scosso mentre il POKéMON mangia, PINECO cade a terra esplodendo senza preavviso.",
+            "sapphire": "PINECO pende dal ramo di un albero e attende pazientemente l'arrivo della sua preda. Se l'albero viene scosso mentre il POKéMON mangia, PINECO cade a terra esplodendo senza preavviso.",
+            "emerald": "PINECO attende la preda appeso ad un albero. Se mentre mangia l'albero viene scosso, il POKéMON cade a terra esplodendo senza preavviso.",
+            "fire-red": "Sta appeso in attesa di catturare gli insetti che si avvicinano in volo. Non ama molto muoversi.",
+            "leaf-green": "Ispessisce il guscio aggiungendo strati di corteccia. Non lo impensierisce l'aumento di peso.",
+            "diamond": "Ha l'aspetto di una pigna. Il suo guscio lo protegge dai Pokémon uccello che lo beccano per errore.",
+            "pearl": "Ha l'aspetto di una pigna. Il suo guscio lo protegge dai Pokémon uccello che lo beccano per errore.",
+            "platinum": "Ha l'aspetto di una pigna. Il suo guscio lo protegge dai Pokémon uccello che lo beccano per errore.",
+            "heart-gold": "Inspessisce il guscio aggiungendo strati di corteccia. Non lo impensierisce l’aumento di peso.",
+            "soul-silver": "Sta appeso in attesa di catturare gli insetti che si avvicinano in volo. Non ama molto muoversi.",
+            "black": "Ha l'aspetto di una pigna. Il suo guscio lo protegge dai Pokémon uccello che lo beccano per errore.",
+            "white": "Ha l'aspetto di una pigna. Il suo guscio lo protegge dai Pokémon uccello che lo beccano per errore.",
+            "black-2": "Ha l'aspetto di una pigna. Il suo guscio lo protegge dai Pokémon uccello che lo beccano per errore.",
+            "white-2": "Ha l'aspetto di una pigna. Il suo guscio lo protegge dai Pokémon uccello che lo beccano per errore.",
+            "x": "Inspessisce il guscio aggiungendo strati di corteccia. Non lo impensierisce l’aumento di peso.",
+            "y": "Ha l'aspetto di una pigna. Il suo guscio lo protegge dai Pokémon uccello che lo beccano per errore.",
+            "omega-ruby": "Pineco pende dal ramo di un albero e attende pazientemente l'arrivo della sua preda. Se l'albero viene scosso mentre il Pokémon mangia, Pineco cade a terra esplodendo senza preavviso.",
+            "alpha-sapphire": "Pineco pende dal ramo di un albero e attende pazientemente l'arrivo della sua preda. Se l'albero viene scosso mentre il Pokémon mangia, Pineco cade a terra esplodendo senza preavviso.",
+            "ultra-sun": "Si ciba di Pokémon Coleottero e attende pazientemente le prede appeso a un ramo. Quelli che vivono ad Alola sono ghiotti di Cutiefly.",
+            "ultra-moon": "Aumenta di dimensioni e spessore incollandosi addosso strati di corteccia con la saliva. Con il tempo può raggiungere dimensioni spropositate.",
+            "brilliant-diamond": "Ha l'aspetto di una pigna. Il suo guscio lo protegge dai Pokémon alati che lo beccano per errore.",
+            "shining-pearl": "Ha l'aspetto di una pigna. Il suo guscio lo protegge dai Pokémon alati che lo beccano per errore.",
+            "scarlet": "Gli piace ispessire il guscio aggiungendo strati di corteccia. Non è impensierito dall’aumento di peso.",
+            "violet": "Sputa un liquido che gli serve per incollare la corteccia al proprio corpo. Con l’aria, il liquido si solidifica."
+        }
+    },
     "egg_groups": [
         "Coleottero"
     ],
     "flat_name": "pineco",
     "generation": 2,
     "height": {
-        "pineco": "0.6 m"
+        "pineco": "0,6 m"
     },
     "id": 204,
     "name": "Pineco",
-    "name_origin": "Il suo nome deriva dalla parola inglese pinecone . ",
-    "origin": "Basato su una pigna.\nLa sua tendenza a esplodere potrebbe ricondurre Pineco anche ad una bomba a mano. ",
+    "name_origin": "Pineco potrebbe derivare da pine cone, pigna. Kunugidama, il suo nome giapponese,potrebbe essere una combinazione di 椚木 kunugi, quercia a foglie appuntite, e 玉 tama, palla. ",
+    "origin": "Pineco sembra essere basato su una larva di psichide, che crea delle protezioni tramite ramoscelli che possono ricordare pigne. Siccome il mezzo di locomozione principale del Pokémon è saltare, potrebbe prendere ispirazione dal Mexican jumping bean, ovvero un seme che sembra saltare poiché contiene una larva di falena che si muove al suo interno. Il suo aspetto e abilità di esplodere lo riconducono ad una bomba a mano. Data questa associazione con le armi è possibile che la sua abilità di imparare Punte sia un riferimento al piede di corvo, che tra l'altro condivide il nome giapponese con la mossa. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Pineco",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Larva",
     "sprites": {
         "pineco": {
@@ -54,6 +82,6 @@
         ]
     },
     "weight": {
-        "pineco": "7.2 kg"
+        "pineco": "7,2 kg"
     }
 }

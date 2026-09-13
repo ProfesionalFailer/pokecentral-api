@@ -15,7 +15,7 @@
         "È l'unico Pokémon con il totale delle statistiche base pari a 185.",
         "È l'unico Pokémon di tipo Ghiaccio che non può imparare Geloraggio e Bora.",
         "Nonostante le sue ridotte dimensioni, quando Snom è il primo Pokémon in squadra, gli viene sempre cucinata la porzione grande di curry nel Pokécampeggio, al contrario per la sua evoluzione Frosmoth viene cucinata la porzione più piccola.",
-        "Snom è uno dei pochi Pokémon, insieme a Ninetales di Alola, Shedinja, Amaura, Aurorus e Frosmoth, che possono essere mandati KO da una entry hazard quando hanno tutti i PS. Se uno di questi Pokémon viene mandato in campo mentre sono presenti tre file di Punte, di Levitoroccia o dell'effetto di Gigaferroaculei sulla sua porzione di campo, il danno totale è pari al 100% dei suoi PS ."
+        "Snom è uno dei pochi Pokémon, insieme a Ninetales di Alola, Shedinja, Amaura, Aurorus e Frosmoth, che possono essere mandati KO da una entry hazard quando hanno tutti i Punti Salute. Se uno di questi Pokémon viene mandato in campo mentre sono presenti tre file di Punte, di Levitoroccia o dell'effetto di Gigaferroaculei sulla sua porzione di campo, il danno totale è pari al 100% dei suoi PS ."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/snom.mp3",
     "dex_entries": {
@@ -32,14 +32,14 @@
     "flat_name": "snom",
     "generation": 8,
     "height": {
-        "snom": "0.3 m"
+        "snom": "0,3 m"
     },
     "id": 872,
     "name": "Snom",
     "name_origin": "Snom potrebbe essere una combinazione di snow, neve, worm, verme, e nom, gergo per indicare qualcuno che mangia. Yukihami potrebbe essere una combinazione di 雪 yuki, neve, e 食み hami, mangiare. ",
     "origin": "Snom potrebbe essere basato su un bruco della famiglia Dalceridae. Potrebbe essere ispirato anche alle larve delle falene alpine e artiche del genere Gynaephora. Una specie in particolare, la Gynaephora groenlandica, può entrare in uno stato dormiente che gli consente di sopportare fino a -70 gradi Celsius. Il grande appetito di Snom è probabilmente un riferimento alla famiglia delle Saturnidi, i cui bruchi mangiano una grande quantità di cibo a causa della perdità della capacità di mangiare quando diventano delle falene. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Snom",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Baco",
     "sprites": {
         "snom": {
@@ -63,11 +63,11 @@
     },
     "types": {
         "snom": [
-            "Ghiaccio",
-            "Coleot"
+            "Coleot",
+            "Ghiaccio"
         ]
     },
     "weight": {
-        "snom": "3.8 kg"
+        "snom": "3,8 kg"
     }
 }

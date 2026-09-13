@@ -15,11 +15,11 @@
         "coalossal": {
             "sword": "Di solito è tranquillo, ma se gli esseri umani danneggiano la sua miniera va su tutte le furie e brucia tutto emettendo fiamme a 1.500 °C.",
             "shield": "Quando lotta, la montagna di carbone brucia con bagliori rossastri e sparge scintille che anneriscono tutta l'area circostante.",
-            "scarlet": "Intimidisce gli avversari agitandosi vigorosamente per spargere tutt’intorno i carboni ardenti che porta sulle spalle.",
-            "violet": "È d’indole mite, ma quando perde le staffe è davvero temibile. Ustiona i nemici colpendoli con il suo corpo che brucia a 1.500 ºC."
+            "scarlet": "Intimidisce gli avversari agitandosi vigorosamente per spargere tutt'intorno i carboni ardenti che porta sulle spalle.",
+            "violet": "È d'indole mite, ma quando perde le staffe è davvero temibile. Ustiona i nemici colpendoli con il suo corpo che brucia a 1.500 °C."
         },
         "coalossal-gigamax": {
-            "sword": "Il suo corpo è una fornace gigantesca in cui bruciano fiamme a 2.000 °C alimentate dall’energia del fenomeno Gigamax.",
+            "sword": "Il suo corpo è una fornace gigantesca in cui bruciano fiamme a 2.000 °C alimentate dall'energia del fenomeno Gigamax.",
             "shield": "Si dice che in passato abbia salvato molte vite durante un'ondata di gelo fungendo da stufa gigantesca."
         }
     },
@@ -29,15 +29,15 @@
     "flat_name": "coalossal",
     "generation": 8,
     "height": {
-        "coalossal": "2.8 m",
-        "coalossal-gigamax": "> 42.0 m"
+        "coalossal": "2,8 m",
+        "coalossal-gigamax": "> 42,0 m"
     },
     "id": 839,
     "name": "Coalossal",
     "name_origin": "Coalossal potrebbe essere una combinazione di coal, carbone, e colossal, colossale. Sekitanzan potrebbe essere una combinazione di 石炭 sekitan, carbone, e 炭山 tanzan, montagna di carbone minato. ",
     "origin": "Coalossal potrebbe essere basato su un dinosauro o su un kaijū e su una pila di carbone. In alternativa, il suo nome giapponese suggerisce che potrebbe essere l'impersonificazione delle miniere di carbone. Coalossal Gigamax potrebbe essere basato su un focolare, su una fornace o su un forno. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Coalossal",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Carbone",
     "sprites": {
         "coalossal": {
@@ -65,12 +65,12 @@
     },
     "types": {
         "coalossal": [
-            "Fuoco",
-            "Roccia"
+            "Roccia",
+            "Fuoco"
         ]
     },
     "weight": {
-        "coalossal": "310.5 kg",
-        "coalossal-gigamax": "???.? kg"
+        "coalossal": "310,5 kg",
+        "coalossal-gigamax": "???,? kg"
     }
 }

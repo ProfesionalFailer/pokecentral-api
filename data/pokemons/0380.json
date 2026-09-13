@@ -5,12 +5,11 @@
         }
     },
     "curiosities": [
-        "Sebbene nel film Pokémon Heroes sia stato dimostrato che Latias e Latios si riproducono questa specie fa parte del gruppo Sconosciuto.",
-        "Inizialmente Latias e Blaziken erano un unico Pokémon, ma poi si è deciso di separarli.",
-        "Latias, Latios e UltraNecrozma sono gli unici Pokémon possedenti il doppio tipo Drago/Psico.",
-        "Latias, Latios, Rayquaza e Mewtwo sono gli unici Pokémon leggendari in grado di megaevolversi.",
-        "Nonostante la sua megaevoluzione sia stata ufficialmente rivelata in Pokémon Rubino Omega e Zaffiro Alpha, come per Latios, i dati relativi esistono anche in Pokémon X e Y. Tuttavia, la Megapietra non è ottenibile senza ricorrere all'uso di trucchi.",
-        "In uno speciale video dedicato alla distribuzione di Latios e Latias in Pokémon Sole e Luna e Ultrasole e Ultraluna, Shigeki Morimoto ha rivelato che l'Abilità Levitazione è stata assegnata a loro per ovviare all'impossibilità di dare il tipo Volante ai Pokémon Eone , ma renderli comunque immuni alle mosse di tipo Terra dato che volano."
+        "Latias condivide la sua categoria con Latios: sono entrambi conosciuti come \"Pokémon Eone\".",
+        "Nei primi disegni di Pokémon Rubino e Zaffiro era presente un design inutilizzato che presentavi tratti di Blaziken e Latias.",
+        "Latias è l'ultimo Pokémon di terza generazione ad essere apparso nella serie animata, nell'episodio Per strade già conosciute!.",
+        "L'esistenza della megaevoluzione di Latias è stata scoperta prima del suo annuncio ufficiale durante il pre-lancio di Pokémon Rubino Omega e Zaffiro Alpha dall'hacker Smealum tramite datamine di Pokémon X e Y, insieme a Diancie, Hoopa, Volcanion e la megaevoluzione di Latios.",
+        "La decorazione sul petto di Latias e della sua versione cromatica ricordano il colore principale di Latios  e la sua versione cromatica ."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/latias.mp3",
     "dex_entries": {
@@ -18,13 +17,13 @@
             "ruby": "LATIAS è sensibilissimo alle emozioni delle persone. Se percepisce una certa ostilità, questo POKéMON arruffa le piume su tutto il corpo ed emette un grido lancinante per intimidire il nemico.",
             "sapphire": "Estremamente intelligente, LATIAS è in grado di capire il linguaggio umano. Il suo corpo e ricoperto di piumino vetroso che usa per rifrangere la luce e mutare il proprio aspetto.",
             "emerald": "I LATIAS vivono in piccoli gruppi e solo di rado entrano in contatto con altri POKéMON o con gli uomini. Fuggono se percepiscono un pericolo.",
-            "firered": "Sa comunicare telepaticamente con gli umani. Si serve della luce riflessa dal piumaggio per cambiare aspetto.",
-            "leafgreen": "Sa comunicare telepaticamente con gli umani. Si serve della luce riflessa dal piumaggio per cambiare aspetto.",
+            "fire-red": "Sa comunicare telepaticamente con gli umani. Si serve della luce riflessa dal piumaggio per cambiare aspetto.",
+            "leaf-green": "Sa comunicare telepaticamente con gli umani. Si serve della luce riflessa dal piumaggio per cambiare aspetto.",
             "diamond": "Questo Pokémon ha il corpo ricoperto di piume che riflettono la luce e lo rendono invisibile.",
             "pearl": "Questo Pokémon ha il corpo ricoperto di piume che riflettono la luce e lo rendono invisibile.",
             "platinum": "Questo Pokémon ha il corpo ricoperto di piume che riflettono la luce e lo rendono invisibile.",
-            "heartgold": "Sa comunicare telepaticamente. Le piume sul suo corpo riflettono la luce e lo rendono invisibile.",
-            "soulsilver": "Sa comunicare telepaticamente. Le piume sul suo corpo riflettono la luce e lo rendono invisibile.",
+            "heart-gold": "Sa comunicare telepaticamente. Le piume sul suo corpo riflettono la luce e lo rendono invisibile.",
+            "soul-silver": "Sa comunicare telepaticamente. Le piume sul suo corpo riflettono la luce e lo rendono invisibile.",
             "black": "Questo Pokémon ha il corpo ricoperto di piume che riflettono la luce e lo rendono invisibile.",
             "white": "Questo Pokémon ha il corpo ricoperto di piume che riflettono la luce e lo rendono invisibile.",
             "black-2": "Questo Pokémon ha il corpo ricoperto di piume che riflettono la luce e lo rendono invisibile.",
@@ -34,7 +33,8 @@
             "omega-ruby": "Latias è sensibilissimo alle emozioni delle persone. Se percepisce una certa ostilità, questo Pokémon arruffa le piume su tutto il corpo ed emette un grido lancitante per intimorire il nemico.",
             "alpha-sapphire": "Estremamente intelligente, Latias è in grado di capire il linguaggio umano. Il suo corpo è ricoperto di piumino vetroso che usa per rifrangere la luce e mutare il proprio aspetto.",
             "brilliant-diamond": "Questo Pokémon ha il corpo ricoperto di piume che rifrangono la luce e lo rendono invisibile.",
-            "shining-pearl": "Questo Pokémon ha il corpo ricoperto di piume che rifrangono la luce e lo rendono invisibile."
+            "shining-pearl": "Questo Pokémon ha il corpo ricoperto di piume che rifrangono la luce e lo rendono invisibile.",
+            "legends-za": "Sa comunicare telepaticamente. Può rendersi invisibile avviluppandosi nel suo piumaggio, che rifrange la luce."
         }
     },
     "egg_groups": [
@@ -43,15 +43,15 @@
     "flat_name": "latias",
     "generation": 3,
     "height": {
-        "latias": "1.4 m",
-        "megalatias": "1.8 m"
+        "latias": "1,4 m",
+        "megalatias": "1,8 m"
     },
     "id": 380,
     "name": "Latias",
-    "name_origin": "È possibile che il nome Latias sia basato sulla parola latina lateo, celarsi, essere nascosto. Il suffisso -as nel suo nome indica che è una femmina, mentre quello -os di Latios indica che è un maschio. ",
-    "origin": "Latias sembra essere un incrocio tra un jet ed un drago, sebbene lei e Latios possano aver attinto ispirazione dalla filosofia dello Yin/Yang e dalla psicologia io/ego. ",
+    "name_origin": "Latias potrebbe derivare dal latino lateō, \"mi celo\", \"mi nascondo\", e dal suffisso femminile -as. Potrebbe anche includere Eos, dea greca dell'alba, o Eos, genere di pappagalli dal colore blu e rosso. Potrebbe inoltre derivare da Κριτίας critias, crizia, un dialogo di Platone. ",
+    "origin": "Latias sembra essere un incrocio tra un aereo a reazione , un drago, un grifone ed un uccello. Il suo corpo è coperto da un piumino, come accade per molti uccelli. La sua mancanza di piedi e continuo fluttuare ricorda un rondone, un uccello con zampe molto piccole  che spende la maggior parte del tempo in aria. In modo simile, potrebbe prendere ispirazione dal martlet, un uccello mitologico araldico raffigurato con piume al posto delle zampe. La colorazione rossa e blu ricorda i pappagalli del genere Eos. Data la sua origine combinata con Blaziken, potrebbe prendere ispirazione anche dal genere Gallus. Data la loro classificazione come \"Pokémon Eone\" e il collegamento con la Cuorugiada è possibile che Latias e Latios prendano ispirazione dagli eoni dello gnosticismo, detti essere emanazioni di Dio. Nel valentinianismo questi eoni formano coppie maschio/femmina dette \"sizigie\". Potrebbero anche prendere ispirazione dal concetto di yin e yang, ovvero forze naturali opposte ma dipendenti l'una dall'altra. Latias, essendo femminile e più passiva, rappresenterebbe lo yin. I nomi dei due Pokémon e l'abilità di Latias di riflettere la luce li collega a Eos, dea greca dell'alba. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Latias",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Eone",
     "sprites": {
         "latias": {
@@ -88,12 +88,12 @@
     },
     "types": {
         "latias": [
-            "Psico",
-            "Drago"
+            "Drago",
+            "Psico"
         ]
     },
     "weight": {
-        "latias": "40.0 kg",
-        "megalatias": "52.0 kg"
+        "latias": "40,0 kg",
+        "megalatias": "52,0 kg"
     }
 }

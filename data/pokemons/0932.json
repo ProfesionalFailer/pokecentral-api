@@ -13,7 +13,8 @@
     "dex_entries": {
         "nacli": {
             "scarlet": "È nato nei giacimenti sotterranei di salgemma. In passato era tenuto in grande considerazione poiché condivideva il suo prezioso sale.",
-            "violet": "Muovendosi struscia contro il terreno, lasciando una scia di sale. Produce continuamente sale nel corpo per sostituire quello che perde."
+            "violet": "Muovendosi struscia contro il terreno, lasciando una scia di sale. Produce continuamente sale nel corpo per sostituire quello che perde.",
+            "legends-za": "Al loro passaggio i Nacli lasciano sul terreno dei grani di salgemma formando quelle che fin dai tempi antichi vengono chiamate \"vie del sale\"."
         }
     },
     "egg_groups": [
@@ -22,14 +23,14 @@
     "flat_name": "nacli",
     "generation": 9,
     "height": {
-        "nacli": "0.4 m"
+        "nacli": "0,4 m"
     },
     "id": 932,
     "name": "Nacli",
-    "name_origin": "Nacli potrebbe derivare da NaCl .",
+    "name_origin": "Nacli potrebbe derivare da NaCl . ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Nacli",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Salgemma",
     "sprites": {
         "nacli": {
@@ -57,6 +58,6 @@
         ]
     },
     "weight": {
-        "nacli": "16.0 kg"
+        "nacli": "16,0 kg"
     }
 }

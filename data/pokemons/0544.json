@@ -7,8 +7,8 @@
         }
     },
     "curiosities": [
-        "In quinta generazione, insieme alla sua famiglia evolutiva possiede come abilità speciale Piedisvelti invece di Acceleratore. Se un Whirlipede con Piedisvelti viene trasferito dalla quinta generazione alla sesta generazione tramite il Pokétrasporto, acquisirà l'abilità Acceleratore.",
-        "Il totale delle statistiche di Whirlipede è pari a 360, uguale ai gradi presenti in un angolo giro, che ricorda la peculiarità del Pokémon di girare su se stesso. Condivide questa caratteristica con Spinda."
+        "Il totale delle statistiche base di Whirlipede è pari a 360, uguale ai gradi presenti in un angolo giro, che ricorda la peculiarità del Pokémon di girare su se stesso. Condivide questa caratteristica con Spinda.",
+        "La famiglia evolutiva di Whirlipede è stata disegnata da Tomohiro Kitakaze."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/whirlipede.mp3",
     "dex_entries": {
@@ -22,7 +22,8 @@
             "omega-ruby": "È protetto da un guscio resistente. Si scaglia contro il nemico rotolando come uno pneumatico.",
             "alpha-sapphire": "Di solito non si muove, ma se viene attaccato, comincia a turbinare su se stesso e si scaglia contro il nemico.",
             "sword": "Attacca l'avversario turbinando rapidamente su se stesso. Può raggiungere una velocità di circa 100 km/h.",
-            "shield": "Mentre accumula l'energia necessaria per evolversi, si difende con il guscio resistente e le spine velenose."
+            "shield": "Mentre accumula l'energia necessaria per evolversi, si difende con il guscio resistente e le spine velenose.",
+            "legends-za": "È protetto da un guscio resistente. Si scaglia contro il nemico rotolando come uno pneumatico."
         }
     },
     "egg_groups": [
@@ -31,14 +32,14 @@
     "flat_name": "whirlipede",
     "generation": 5,
     "height": {
-        "whirlipede": "1.2 m"
+        "whirlipede": "1,2 m"
     },
     "id": 544,
     "name": "Whirlipede",
     "name_origin": "Probabilmente una combinazione di whirl  e centipede  o millipede . ",
     "origin": "Basato su un millepiedi. Il suo aspetto ricorda molto quello di un'oniscidea o di un porcellino di terra, piccoli crostacei che quando si sentono attaccati o in pericolo si arrotolano su se stessi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Whirlipede",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Rotopede",
     "sprites": {
         "whirlipede": {
@@ -62,11 +63,11 @@
     },
     "types": {
         "whirlipede": [
-            "Veleno",
-            "Coleot"
+            "Coleot",
+            "Veleno"
         ]
     },
     "weight": {
-        "whirlipede": "58.5 kg"
+        "whirlipede": "58,5 kg"
     }
 }

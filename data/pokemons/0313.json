@@ -7,9 +7,10 @@
         }
     },
     "curiosities": [
-        "Fino alla quarta generazione Volbeat era l'unico Pokémon in grado di apprendere la mossa Codadiluce.",
-        "La sua controparte femminile è Illumise, con la quale condivide la categoria. Sono infatti entrambi il Pokémon Lucciola.",
-        "In terza generazione Volbeat poteva imparare per livello ben tre mosse che nessun altro Pokémon poteva imparare allo stesso modo: Codadiluce, Flash e Segnoraggio."
+        "Condivide la sua categoria con la sua controparte femminile Illumise, sono infatti entrambi conosciuti come Pokémon Lucciola.",
+        "Volbeat e la sua controparte sono gli unici Pokémon di tipo Coleottero nel Gruppo Uova Umanoide.\n\tNessun altro Pokémon ha lo stesso doppio Gruppo Uova di Volbeat e della sua controparte .",
+        "Nessun altro Pokémon ha lo stesso doppio Gruppo Uova di Volbeat e della sua controparte .",
+        "In settima generazione, Volbeat è l'unico Pokémon con una combinazione illegittima di mosse Uovo , poiché è solo maschio e ha mosse Uovo diverse dalla sua controparte femminile, Illumise. Nidoran♂ si trova in una situazione simile, ma è nel Gruppo Uova Campo e può quindi ereditare qualsiasi combinazione di mosse Uovo da Smeargle."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/volbeat.mp3",
     "dex_entries": {
@@ -17,13 +18,13 @@
             "ruby": "Quando cala la notte, VOLBEAT emette una luce intensa dalla coda. Comunica con gli altri regolando l'intensità e l'intermittenza della propria luce. Il POKéMON è attratto dal dolce aroma di ILLUMISE.",
             "sapphire": "La coda di VOLBEAT si illumina come una lampadina. Assieme ai suoi simili usa la coda per tracciare figure geometriche nel cielo notturno. Questo POKéMON ama il dolce aroma emanato da ILLUMISE.",
             "emerald": "Insieme ai suoi simili, VOLBEAT traccia figure geometriche nel cielo notturno con la sua coda illuminata. Se l'acqua dello stagno si sporca, fa il suo nido altrove.",
-            "firered": "Vive vicino a stagni puliti. Di notte, la sua coda lancia una luce intermittente per comunicare.",
-            "leafgreen": "Vive vicino a stagni puliti. Di notte, la sua coda lancia una luce intermittente per comunicare.",
+            "fire-red": "Vive vicino a stagni puliti. Di notte, la sua coda lancia una luce intermittente per comunicare.",
+            "leaf-green": "Vive vicino a stagni puliti. Di notte, la sua coda lancia una luce intermittente per comunicare.",
             "diamond": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di ILLUMISE.",
             "pearl": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di ILLUMISE.",
             "platinum": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di ILLUMISE.",
-            "heartgold": "Lancia una luce intermittente dalla coda per comunicare. È attratto dal dolce aroma di ILLUMISE.",
-            "soulsilver": "Lancia una luce intermittente dalla coda per comunicare. È attratto dal dolce aroma di ILLUMISE.",
+            "heart-gold": "Lancia una luce intermittente dalla coda per comunicare. È attratto dal dolce aroma di ILLUMISE.",
+            "soul-silver": "Lancia una luce intermittente dalla coda per comunicare. È attratto dal dolce aroma di ILLUMISE.",
             "black": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di Illumise.",
             "white": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di Illumise.",
             "black-2": "Di notte comunica con gli altri illuminando la sua coda. Ama il dolce aroma di Illumise.",
@@ -45,14 +46,14 @@
     "flat_name": "volbeat",
     "generation": 3,
     "height": {
-        "volbeat": "0.70 m"
+        "volbeat": "0,70 m"
     },
     "id": 313,
     "name": "Volbeat",
-    "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi volt, per la sua capacità di illuminare, e beetle, coleottero, insetto, o beat, battito, forse riferito al lampeggiare della coda. Potrebbe essere ispirato anche all'omonimo gruppo musicale danese. ",
-    "origin": "È basato su di una lucciola. ",
+    "name_origin": "Volbeat potrebbe derivare da volt, beetle, coleottero, o beat, battito. Barubeat, il suo nome giapponese, potrebbe essere una combinazione di バルブ bulb, lampadina, beat, battito, e beetle, coleottero. ",
+    "origin": "Volbeat sembra essere basato su una lucciola, con la sua colorazione che ricorda specificamente il gene Cyphonocerus. Il suo design sembra ispirato anche ai greaser, una cultura degli anni '50, la cui controparte giapponese sono i bōsōzoku. I greaser indossavano tipicamente giacche nere o marroni con sottomaglie, e avevano capelli pesantemente laccati. Questo si può ritrovare nella \"giacca\" nera di Volbeat, con tanto di colletto rosso e la \"sottomaglia\" a righe. La posa di Volbeat nell'artwork ufficiale potrebbe essere un altro riferimento ai greaser, visto che sono spesso visti con le mani sul colletto della giacca. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Volbeat",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Lucciola",
     "sprites": {
         "volbeat": {
@@ -80,6 +81,6 @@
         ]
     },
     "weight": {
-        "volbeat": "17.7 kg"
+        "volbeat": "17,7 kg"
     }
 }

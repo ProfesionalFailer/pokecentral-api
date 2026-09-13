@@ -14,7 +14,34 @@
         "Entrambe sono basate su creature leggendarie giapponesi o yōkai: la linea di Shiftry è basata sul tengu, mentre quella di Ludicolo è basata sul kappa."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/shiftry.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "shiftry": {
+            "ruby": "SHIFTRY è un POKéMON misterioso che vive sulla cima degli alberi più alti, di solito plurisecolari. Usa le foglie degli arti superiori come ventole per generare terribili raffiche di vento.",
+            "sapphire": "Le grandi ventole di SHIFTRY generano forti raffiche di vento alla velocità di 30 metri al secondo. La violenza del vento spazza via ogni cosa. Vive pacifico nel cuore della foresta.",
+            "emerald": "Si dice che arrivi trasportato dai gelidi venti invernali. SHIFTRY è da sempre un temuto guardiano delle foreste, dove vive lontano dal mondo e dagli uomini.",
+            "fire-red": "Un tempo era un temuto guardiano della foresta. Sa leggere nella mente del nemico, anticipandolo.",
+            "leaf-green": "Un tempo era un temuto guardiano della foresta. Sa leggere nella mente del nemico, anticipandolo.",
+            "diamond": "Con le sue foglie provoca raffiche di vento della velocità di 30 m/s che spazzano via interi edifici.",
+            "pearl": "Con le sue foglie provoca raffiche di vento della velocità di 30 m/s che spazzano via interi edifici.",
+            "platinum": "Con le sue foglie provoca raffiche di vento della velocità di 30 m/s che spazzano via interi edifici.",
+            "heart-gold": "Vive nella calma delle foreste. A quanto pare, crea raffiche di vento gelido con le sue grandi ventole.",
+            "soul-silver": "Vive nella calma delle foreste. A quanto pare, crea raffiche di vento gelido con le sue grandi ventole.",
+            "black": "Con le sue foglie provoca raffiche di vento della velocità di 30 m/s che spazzano via interi edifici.",
+            "white": "Con le sue foglie provoca raffiche di vento della velocità di 30 m/s che spazzano via interi edifici.",
+            "black-2": "Con le sue foglie provoca raffiche di vento della velocità di 30 m/s che spazzano via interi edifici.",
+            "white-2": "Con le sue foglie provoca raffiche di vento della velocità di 30 m/s che spazzano via interi edifici.",
+            "x": "Un tempo era un temuto guardiano della foresta. Sa leggere nella mente del nemico, anticipandolo.",
+            "y": "Con le sue foglie provoca raffiche di vento della velocità di 30 m/s che spazzano via interi edifici.",
+            "omega-ruby": "Shiftry è un misterioso Pokémon che vive sulla cima degli alberi più alti, di solito plurisecolari. usa le foglie degli arti superiori come ventole per generare terribili raffiche di vento.",
+            "alpha-sapphire": "Le grandi ventole di Shiftry generano forti raffiche di vento alla velocità di 30 metri al secondo. La violenza del vento spazza via ogni cosa. Vive pacifico nel cuore della foresta.",
+            "sword": "Un tempo era un temuto guardiano della foresta. Sa leggere nella mente del nemico anticipandolo.",
+            "shield": "Vive nella calma delle foreste. Si dice che sia in grado di creare raffiche di vento gelido agitando i suoi grandi ventagli.",
+            "brilliant-diamond": "Con le sue foglie provoca raffiche di vento della velocità di 30 m/s che spazzano via interi edifici.",
+            "shining-pearl": "Con le sue foglie provoca raffiche di vento della velocità di 30 m/s che spazzano via interi edifici.",
+            "scarlet": "Si dice che, quando agita i suoi ventagli di foglie sulla cima di vecchi alberi, crei un vento gelido che provoca l'arrivo dell'inverno.",
+            "violet": "Secondo le leggende, un tempo era un Pokémon alato a cui vennero mutati becco e ali come punizione divina per le proprie cattive azioni."
+        }
+    },
     "egg_groups": [
         "Campo",
         "Erba"
@@ -22,14 +49,14 @@
     "flat_name": "shiftry",
     "generation": 3,
     "height": {
-        "shiftry": "1.30 m"
+        "shiftry": "1,30 m"
     },
     "id": 275,
     "name": "Shiftry",
-    "name_origin": "\"Shiftry\" potrebbe derivare dalle parole \"shifty\"  e \"tree\" . \"Dirteng\" potrebbe essere una combinazione di \"dirty\"  e 天狗 tengu. ",
+    "name_origin": "Shiftry potrebbe derivare dalle parole shifty, ingannevole, e tree, albero. Dirteng potrebbe essere una combinazione di dirty,sporco, inteso come disonesto, e 天狗 tengu. ",
     "origin": "Shiftry sembra essere basato su una quercia e un tengu, yōkai giapponese con il naso lungo che usa i suoi poteri soprannaturali per proteggere le foreste e fare scherzi crudeli alle persone. Come Shiftry, i tengu sono spesso raffigurati con fluenti capelli bianchi e indossano tradizionali sandali di legno chiamati \"geta\". Inoltre brandiscono ventagli magici che hanno il potere di suscitare grandi venti, similmente agli arti di Shiftry e alla sua capacità di apprendere grazie ad essi mosse come Turbine e Tifone, oltre ad avere l'abilità Vento Propizio. La colorazione rossastra della sua forma cromatica potrebbe essere ispirata alla pelle rossa tipica del tengu. Il suo corpo umanoide in legno e la grande bocca possono anche ricordare uno schiaccianoci. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Shiftry",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Burbero",
     "sprites": {
         "shiftry": {
@@ -62,6 +89,6 @@
         ]
     },
     "weight": {
-        "shiftry": "59.6 kg"
+        "shiftry": "59,6 kg"
     }
 }

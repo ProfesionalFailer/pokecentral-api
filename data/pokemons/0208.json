@@ -10,30 +10,69 @@
         }
     },
     "curiosities": [
-        "Prima della quinta generazione Steelix aveva una combinazione di tipi unica.",
         "Prima dell'ottava generazione MegaSteelix aveva la statistica base di Difesa più alta in assoluto assieme a MegaAggron e Shuckle.",
         "Steelix, Marill, Altaria e Fletchinder sono gli unici Pokémon di doppio tipo il cui tipo primario è diverso rispetto alla loro pre-evoluzione.\n\tDi questi, Steelix è l'unico la cui pre-evoluzione non ha Normale come tipo primario.",
         "Di questi, Steelix è l'unico la cui pre-evoluzione non ha Normale come tipo primario.",
         "Steelix presenta differenze tra sessi, la sua pre-evoluzione no.",
+        "Steelix è stato visto fluttuare in molti giochi, mentre la sua pre-evoluzione si muove solo sul terreno.",
+        "Steelix può essere visto come una controparte di Scizor:\n\tEntrambi sono evoluzioni di Pokémon di prima generazione introdotti in seconda;\n\tEntrambi si evolvono tramite Metalcopertura\n\tDopo l'evoluzione, entrambi perdono i tipi della lore pre-evoluzione e guadagnano il tipo Acciaio;\n\tEntrambi hanno ottenuto una Megaevoluzione in sesta generazione;\n\tEntrambi perdono 40 punti base in velocità dopo l'evoluzione.",
+        "Entrambi sono evoluzioni di Pokémon di prima generazione introdotti in seconda;",
+        "Entrambi si evolvono tramite Metalcopertura",
+        "Dopo l'evoluzione, entrambi perdono i tipi della lore pre-evoluzione e guadagnano il tipo Acciaio;",
+        "Entrambi hanno ottenuto una Megaevoluzione in sesta generazione;",
+        "Entrambi perdono 40 punti base in velocità dopo l'evoluzione.",
         "Escludendo i cameo, tutti gli Steelix apparsi nell'anime hanno usato Codacciaio."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/steelix.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "steelix": {
+            "gold": "Il suo corpo, pressato a grandissime profondità, è diventato più duro del diamante.",
+            "silver": "Sembra che se ONIX vive per più di 100 anni, cambi la composizione per diventare duro come il diamante.",
+            "crystal": "I pezzetti di metallo che gli ricoprono il corpo riflettono molto bene la luce intensa.",
+            "ruby": "STEELIX è noto per i suoi scavi in profondità, a distanze maggiori rispetto ad ONIX. Sono stati riportati record di profondità pari a 1 km sottoterra.",
+            "sapphire": "STEELIX è noto per i suoi scavi in profondità, a distanze maggiori rispetto ad ONIX. Sono stati riportati record di profondità pari a 1 km sottoterra.",
+            "emerald": "STEELIX è noto per i suoi scavi in profondità, a distanze maggiori rispetto ad ONIX. Sono stati riportati record di profondità pari a 1 km sottoterra.",
+            "fire-red": "Sembra che se ONIX vive per più di 100 anni, cambi la composizione per diventare duro come il diamante.",
+            "leaf-green": "Il suo corpo, compresso a grandissime profondità, è diventato più duro del diamante.",
+            "diamond": "Temprato dalla pressione e dal calore sotterraneo, il suo corpo è più duro di qualsiasi metallo.",
+            "pearl": "Distrugge le rocce con le mascelle robuste per farsi strada. I suoi occhi vedono nei bui sotterranei.",
+            "platinum": "Si dice che si sia trasformato a causa del ferro contenuto nella terra che mangia.",
+            "heart-gold": "Il suo corpo, pressato a grandissime profondità, è diventato più duro del diamante.",
+            "soul-silver": "Un ONIX vissuto più di 100 anni. Il suo corpo ha cambiato composizione ed è diventato duro come il diamante.",
+            "black": "Si dice che si sia trasformato a causa del ferro contenuto nella terra che mangia.",
+            "white": "Si dice che si sia trasformato a causa del ferro contenuto nella terra che mangia.",
+            "black-2": "Il ferro contenuto nella terra di cui si nutre ha trasformato il suo corpo rendendolo più duro del diamante.",
+            "white-2": "Il ferro contenuto nella terra di cui si nutre ha trasformato il suo corpo rendendolo più duro del diamante.",
+            "x": "Temprato dalla pressione e dal calore sotterraneo, il suo corpo è più duro di qualsiasi metallo.",
+            "y": "Distrugge le rocce con le mascelle robuste per farsi strada. I suoi occhi vedono nei bui sotterranei.",
+            "omega-ruby": "Steelix è noto per i suoi scavi in profondità, a distanze maggiori rispetto ad Onix. Sono stati riportati record di profondità pari a 1 km sottoterra.",
+            "alpha-sapphire": "Steelix è noto per i suoi scavi in profondità, a distanze maggiori rispetto ad Onix. Sono stati riportati record di profondità pari a 1 km sottoterra.",
+            "sword": "Un Onix vissuto più di 100 anni. Il suo corpo ha cambiato composizione ed è diventato duro come il diamante.",
+            "shield": "Si pensa che si sia trasformato a causa del ferro contenuto nella terra che mangia.",
+            "brilliant-diamond": "Il suo corpo, temprato dalla pressione e dal calore sotterranei, è più duro di qualsiasi metallo.",
+            "shining-pearl": "Distrugge le rocce con le mascelle robuste per farsi strada. I suoi occhi riescono a vedere nell'oscurità sotterranea.",
+            "legends-arceus": "Evolutosi per mezzo di un singolare strumento, ha il corpo rivestito di granuli d'acciaio talmente compatti che neppure un diamante può scalfirli.",
+            "legends-za": "Distrugge le rocce con le mascelle robuste per farsi strada. I suoi occhi riescono a vedere nell'oscurità sotterranea."
+        },
+        "megasteelix": {
+            "legends-za": "Controlla magneticamente le robuste placche che si sono staccate dal suo corpo, proteggendosi così dagli attacchi avversari."
+        }
+    },
     "egg_groups": [
         "Minerale"
     ],
     "flat_name": "steelix",
     "generation": 2,
     "height": {
-        "steelix": "9.2 m",
-        "megasteelix": "10.5 m"
+        "steelix": "9,2 m",
+        "megasteelix": "10,5 m"
     },
     "id": 208,
     "name": "Steelix",
-    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi steel  e helix . Potrebbe anche riferirsi alla parola onyx . ",
-    "origin": "Basato sul wyrm, su un serpente e un millepiedi. ",
+    "name_origin": "Steelix potrebbe derivare da steel, acciaio, e helix  e possibilmente Onix o onyx, onice. Haganeil, il suo nome giapponese, potrebbe essere una combinazione di 鋼 hagane, acciaio, e nail, chiodo o unghia, o tail, coda. ",
+    "origin": "Steelix, come Onix, potrebbe essere basato su un serpente e un Earthworm, verme terrestre. Potrebbe anche essere ispirato ad un Tatzelwurm, o Stollenwurm, un drago capace di scavare cunicoli. Le strutture cristalline sul corpo di MegaSteelix potrebbero essere un riferimento a come la grafite si trasformi in diamante ad alte pressioni. Le forme blu sul suo corpo ricordano degli anelli di Leisegang, soprattutto quelli trovati nell'onice. Potrebbe inoltre essere un riferimento al Crystal Onix, un Onix apparso nell'episodio Il messaggio in bottiglia che mostrava un corpo fatto di cristallo trasparente invece che di rocce. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Steelix",
-    "shape": "serpentiforme",
+    "shape": "None",
     "specie": "Pokémon Ferroserpe",
     "sprites": {
         "steelix": {
@@ -74,12 +113,12 @@
     },
     "types": {
         "steelix": [
-            "Terra",
-            "Acciaio"
+            "Acciaio",
+            "Terra"
         ]
     },
     "weight": {
-        "steelix": "400.0 kg",
-        "megasteelix": "740.0 kg"
+        "steelix": "400,0 kg",
+        "megasteelix": "740,0 kg"
     }
 }

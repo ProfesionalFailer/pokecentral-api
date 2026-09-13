@@ -12,7 +12,8 @@
     "dex_entries": {
         "frigibax": {
             "scarlet": "Assorbe il calore con la pinna dorsale e lo trasforma in energia Ghiaccio. Più alta è la temperatura, più energia accumula.",
-            "violet": "Vive nelle foreste e in aree rocciose. Usa la cresta dorsale per raffreddare l'interno della tana quasi come fosse un frigorifero."
+            "violet": "Vive nelle foreste e in aree rocciose. Usa la cresta dorsale per raffreddare l'interno della tana quasi come fosse un frigorifero.",
+            "legends-za": "È dotato di una cresta dorsale che gli permette di congelare l'aria convertendo il calore delle mosse di tipo Fuoco in energia di tipo Ghiaccio."
         }
     },
     "egg_groups": [
@@ -22,14 +23,14 @@
     "flat_name": "frigibax",
     "generation": 9,
     "height": {
-        "frigibax": "0.5 m"
+        "frigibax": "0,5 m"
     },
     "id": 996,
     "name": "Frigibax",
     "name_origin": "Frigibax potrebbe essere una combinazione di frigid  e back . ",
     "origin": "Frigibax e Dreepy sono le uniche forme base di Pokémon pseudo-leggendari a non avere il totale delle statistiche base pari a 300. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Frigibax",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Gelopinna",
     "sprites": {
         "frigibax": {
@@ -58,6 +59,6 @@
         ]
     },
     "weight": {
-        "frigibax": "17.0 kg"
+        "frigibax": "17,0 kg"
     }
 }

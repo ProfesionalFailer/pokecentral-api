@@ -16,22 +16,63 @@
         "Entrambi hanno una forma alternativa disponibile solamente durante la lotta: Butterfree Gigamax e MegaBeedrill."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/butterfree.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "butterfree": {
+            "red": "In lotta sbatte le ali a gran velocità per liberare le sue polveri tossiche nell'aria.",
+            "blue": "In lotta sbatte le ali a gran velocità per liberare le sue polveri tossiche nell'aria.",
+            "yellow": "Possiede ali idrorepellenti ricoperte da una polvere velenosa. Può volare anche quando piove.",
+            "gold": "Raccoglie miele tutti i giorni, e se lo spalma sui peli delle zampe per trasportarlo al nido.",
+            "silver": "Grazie alla polvere idrorepellente sulle ali, può raccogliere miele anche sotto la forte pioggia.",
+            "crystal": "Vola di fiore in fiore raccogliendo miele. Può individuare i fiori anche da grande distanza.",
+            "ruby": "BUTTERFREE è dotato di abilità molto raffinate per estrarre il delizioso nettare dai fiori. Riesce a trovare, estrarre e trasportare il nettare dai fiori in boccio al nido anche per 10 km.",
+            "sapphire": "BUTTERFREE è dotato di abilità molto raffinate per estrarre il delizioso nettare dai fiori. Riesce a trovare, estrarre e trasportare il nettare dai fiori in boccio al nido anche per 10 km.",
+            "emerald": "BUTTERFREE è molto abile nell'estrarre il delizioso nettare dai fiori. Riesce a trovare, estrarre e trasportare il nettare dai fiori in boccio al nido anche per 10 km.",
+            "fire-red": "Una polvere idrorepellente gli ricopre le ali, permettendogli di volare anche sotto la pioggia.",
+            "leaf-green": "In lotta sbatte le ali a gran velocità per liberare le sue polveri tossiche nell'aria.",
+            "diamond": "Adora il nettare dei fiori e riesce a localizzare i campi in cui si trova anche una minima quantità di polline.",
+            "pearl": "Adora il nettare dei fiori e riesce a localizzare i campi in cui si trova anche una minima quantità di polline.",
+            "platinum": "Adora il nettare dei fiori e riesce a localizzare i campi in cui si trova anche una minima quantità di polline.",
+            "heart-gold": "Raccoglie miele tutti i giorni, e se lo spalma sui peli delle zampe per trasportarlo al nido.",
+            "soul-silver": "Grazie alla polvere idrorepellente sulle ali, può raccogliere miele anche sotto la forte pioggia.",
+            "black": "Adora il nettare dei fiori e riesce a localizzare i campi in cui si trova anche una minima quantità di polline.",
+            "white": "Adora il nettare dei fiori e riesce a localizzare i campi in cui si trova anche una minima quantità di polline.",
+            "black-2": "Adora il nettare dei fiori e riesce a localizzare i campi in cui si trova anche una minima quantità di polline.",
+            "white-2": "Adora il nettare dei fiori e riesce a localizzare i campi in cui si trova anche una minima quantità di polline.",
+            "x": "Adora il nettare dei fiori e riesce a localizzare i campi in cui si trova anche una minima quantità di polline.",
+            "y": "Una polvere idrorepellente gli ricopre le ali, permettendogli di volare anche sotto la pioggia.",
+            "omega-ruby": "Butterfree è dotato di abilità molto raffinate per individuare il delizioso nettare dei fiori. Riesce a trovare, estrarre e trasportare il nettare dai fiori in boccio al nido anche per 10 km.",
+            "alpha-sapphire": "Butterfree è dotato di abilità molto raffinate per individuare il delizioso nettare dei fiori. Riesce a trovare, estrarre e trasportare il nettare dai fiori in boccio al nido anche per 10 km.",
+            "sun": "Osservando da vicino i suoi occhi si nota che in realtà sono composti da una miriade di minuscoli occhietti.",
+            "moon": "Quando viene attaccato da altri Pokémon, si difende sbattendo le ali e cospargendo intorno a sé polveri velenose.",
+            "ultra-sun": "Se vede dei Pokémon alati attaccare Caterpie, li scaccia cospargendoli con la velenosissima polvere che ricopre le sue ali.",
+            "ultra-moon": "È ghiotto del nettare dei fiori più belli. Si contende i prati in fiore con Cutiefly in furiose lotte per il territorio.",
+            "lets-go-pikachu": "Possiede ali idrorepellenti ricoperte da una polvere velenosa. Può volare anche quando piove.",
+            "lets-go-eevee": "Possiede ali idrorepellenti ricoperte da una polvere velenosa. Può volare anche quando piove.",
+            "sword": "Sbatte le ali a gran velocità per liberare le sue polveri tossiche nell'aria.",
+            "shield": "Raccoglie nettare tutti i giorni e lo spalma sulla peluria che ricopre le sue zampe per trasportarlo al nido.",
+            "brilliant-diamond": "Adora il nettare dei fiori e riesce a localizzare i campi in cui si trova anche solo una minima quantità di polline.",
+            "shining-pearl": "Adora il nettare dei fiori e riesce a localizzare i campi in cui si trova anche solo una minima quantità di polline."
+        },
+        "butterfree-gigamax": {
+            "sword": "L'energia del fenomeno Gigamax si è cristallizzata formando scaglie velenosissime dalla lucentezza accecante.",
+            "shield": "Travolge il nemico con un tornado in grado di far volare via un camion di 10 tonnellate e lo finisce con le sue scaglie altamente tossiche."
+        }
+    },
     "egg_groups": [
         "Coleottero"
     ],
     "flat_name": "butterfree",
     "generation": 1,
     "height": {
-        "butterfree": "1.1 m",
-        "butterfree-gigamax": "> 17.0 m"
+        "butterfree": "1,1 m",
+        "butterfree-gigamax": "> 17,0 m"
     },
     "id": 12,
     "name": "Butterfree",
     "name_origin": "Butterfree potrebbe essere una combinazione di butterfly, farfalla, e free, libero. \"Libero\" potrebbe riferirsi alla sua capacità di volare dopo essere stato a terra quando era ancora un Caterpie o un Metapod. Potrebbe derivare anche da パタパタ patapata, onomatopea per qualcosa che sbatti le ali, e 振る furu, sbattere . ",
     "origin": "Butterfree potrebbe essere ispirato da una pieride del biancospino. Butterfree Gigamax ricorda il kaijū Mothra. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Butterfree",
-    "shape": "due paia di ali",
+    "shape": "None",
     "specie": "Pokémon Farfalla",
     "sprites": {
         "butterfree": {
@@ -68,7 +109,7 @@
         ]
     },
     "weight": {
-        "butterfree": "32.0 kg",
-        "butterfree-gigamax": "???.? kg"
+        "butterfree": "32,0 kg",
+        "butterfree-gigamax": "???,? kg"
     }
 }

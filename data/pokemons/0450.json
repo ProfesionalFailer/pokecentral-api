@@ -6,8 +6,7 @@
         }
     },
     "curiosities": [
-        "Nonostante sia il Pokémon Grandepeso, ci sono ben 20 Pokémon più pesanti di Hippowdon, contando le due forme di Giratina come due Pokémon diversi.",
-        "Pur avendo evidenti differenze di sesso, sia Hippowdon che la sua pre-evoluzione hanno solo uno sprite nel menu e solo un'immagine nel Dream World, che rappresentano entrambe la versione maschile del Pokémon."
+        "Nonostante abbiano evidenti differenze di sesso, sia Hippowdon che la sua preevoluzione hanno solo un artwork, uno sprite nel menu  e solo un'immagine nel Dream World, che presentano tutti la versione maschile del Pokémon."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/hippowdon.mp3",
     "dex_entries": {
@@ -15,8 +14,8 @@
             "diamond": "Immagazzina sabbia all'interno del corpo e l'espelle con violenza dai pori, formando enormi vortici.",
             "pearl": "La sua bocca enorme misura quasi 2 metri. È tanto forte da poter demolire un'automobile.",
             "platinum": "Si infuria molto facilmente. Per mostrare la sua forza tiene la bocca spalancata.",
-            "heartgold": "Mostra la propria forza spalancando le fauci. Attacca sollevando immani quantità di sabbia.",
-            "soulsilver": "Mostra la propria forza spalancando le fauci. Attacca sollevando immani quantità di sabbia.",
+            "heart-gold": "Mostra la propria forza spalancando le fauci. Attacca sollevando immani quantità di sabbia.",
+            "soul-silver": "Mostra la propria forza spalancando le fauci. Attacca sollevando immani quantità di sabbia.",
             "black": "Si infuria molto facilmente. Per mostrare la sua forza tiene la bocca spalancata.",
             "white": "Si infuria molto facilmente. Per mostrare la sua forza tiene la bocca spalancata.",
             "black-2": "Si infuria molto facilmente. Per mostrare la sua forza tiene la bocca spalancata.",
@@ -31,7 +30,8 @@
             "shining-pearl": "La sua enorme bocca misura quasi 2 m. È tanto forte da poter demolire un'automobile.",
             "legends-arceus": "È iracondo e per nulla paziente. Genera dei turbini di vento e sabbia per debilitare l'inimico e indi assalirlo.",
             "scarlet": "Si infuria molto facilmente. Per mostrare la sua forza tiene la bocca spalancata.",
-            "violet": "Mostra la propria forza spalancando le fauci. Attacca sollevando immani quantità di sabbia."
+            "violet": "Mostra la propria forza spalancando le fauci. Attacca sollevando immani quantità di sabbia.",
+            "legends-za": "Immagazzina sabbia all'interno del corpo e la espelle con violenza dai pori per attaccare, formando enormi vortici."
         }
     },
     "egg_groups": [
@@ -40,14 +40,14 @@
     "flat_name": "hippowdon",
     "generation": 4,
     "height": {
-        "hippowdon": "2.0 m"
+        "hippowdon": "2,0 m"
     },
     "id": 450,
     "name": "Hippowdon",
-    "name_origin": "Deriva dalle parole hippopotamus , powder  e lo spagnolo don . ",
-    "origin": "Hippowdon è ispirato ad un ippopotamo. Per la sabbia che gli esce costantemente dai pori della schiena, potrebbe essere basato sulla leggenda del bahamut, pesce della mitologia musulmana che in alcune versioni si sostiene abbia una testa di ippopotamo e sorregga un letto di sabbia. ",
+    "name_origin": "Hippowdon potebbe derivare da ippopotamo, ippopotamo, power, potere, powder, polvere, sabbia, o pow, onomatopea per un colpo, e don, \"dente\" in greco, o don, \"signore\" in spagnolo. Kabaldon, il suo nome giapponese, potrebbe derivare da 河馬 kaba, ippopotamo, e don. ",
+    "origin": "Hippopotas sembra essere basato su un ippopotamo. Date le protuberanze sul corpo che secerne sabbia, Hippowdon e la sua preevoluzione potrebbero essere basati sul Bahamūt, in alcuni miti detto reggere un letto di sabbia e avere la testa di ippopotamo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Hippowdon",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Grandepeso",
     "sprites": {
         "hippowdon": {
@@ -79,6 +79,6 @@
         ]
     },
     "weight": {
-        "hippowdon": "300.0 kg"
+        "hippowdon": "300,0 kg"
     }
 }

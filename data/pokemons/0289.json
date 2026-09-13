@@ -9,21 +9,46 @@
         "Slaking ha il totale delle statistiche base più alto di qualsiasi altro Pokémon non misterioso, non leggendario e non megaevoluto."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/slaking.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "slaking": {
+            "ruby": "SLAKING passa tutto il giorno disteso comodamente, mangiando l'erba che cresce a portata di mano. Anche dopo aver esaurito l'erba vicino a sé, è raro che si sposti in un altro luogo.",
+            "sapphire": "Dove vive SLAKING, si formano anelli del raggio di un metro nei prati erbosi. Infatti, quando questo POKéMON si stende prono al suolo, mangia tutta l'erba che riesce a raggiungere.",
+            "emerald": "Quando i frutti giungono a maturazione, gli SLAKING si raggruppano sotto gli alberi e aspettano pazientemente che cadano a terra.",
+            "fire-red": "È il POKéMON più pigro del mondo, ma può sprigionare di colpo una quantità spaventosa di energia a lungo repressa.",
+            "leaf-green": "È il POKéMON più pigro del mondo, ma può sprigionare di colpo una quantità spaventosa di energia a lungo repressa.",
+            "diamond": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per attaccare",
+            "pearl": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per attaccare",
+            "platinum": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per attaccare",
+            "heart-gold": "Il più pigro Pokémon del mondo. Si sposta solo quando non ha più cibo a portata di mano.",
+            "soul-silver": "Il più pigro Pokémon del mondo. Si sposta solo quando non ha più cibo a portata di mano.",
+            "black": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per attaccare.",
+            "white": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per attaccare.",
+            "black-2": "Sta tutto il tempo disteso a terra. Si sposta rotolando solo quando ha mangiato tutta l'erba circostante.",
+            "white-2": "Sta tutto il tempo disteso a terra. Si sposta rotolando solo quando ha mangiato tutta l'erba circostante.",
+            "x": "Il più pigro Pokémon del mondo. Si sposta solo quando non ha più cibo a portata di mano.",
+            "y": "È il Pokémon più pigro del mondo, ma può sprigionare di colpo una quantità spaventosa di energia a lungo repressa.",
+            "omega-ruby": "Slaking passa tutto il giorno disteso pigramente, mangiando l'erba che cresce a portata di mano. Dopo aver esaurito l'erba vicino a sé, si sposta controvoglia in un altro luogo.",
+            "alpha-sapphire": "Dove vive Slaking, si formano anelli del raggio di un metro nei prati erbosi. Infatti, quando questo Pokémon si stende prono al suolo, mangia tutta l'erba che riesce a raggiungere.",
+            "brilliant-diamond": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per contrattaccare.",
+            "shining-pearl": "Il Pokémon più pigro in assoluto. Stando disteso, in realtà cerca di risparmiare forze per contrattaccare.",
+            "scarlet": "È il Pokémon più pigro del mondo, ma può sprigionare di colpo una potenza spaventosa grazie all’energia accumulata.",
+            "violet": "Vive perennemente sdraiato e si muove solo per cambiare lato quando attorno a lui non c’è più erba da mangiare."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "slaking",
     "generation": 3,
     "height": {
-        "slaking": "2.0 m"
+        "slaking": "2,0 m"
     },
     "id": 289,
     "name": "Slaking",
-    "name_origin": "\"Slaking\" potrebbe essere una combinazione di slacking, rilassatezza, e king, re. \"Kekking\" potrebbe essere una combinazione di 欠勤 kekkin, assenza dal lavoro, e king, re. ",
-    "origin": "Slaking sembra essere basato su un bradipo, in particolare l'estinto bradipo gigante, e su un gorilla. A causa della sua calvizie, del muso rosa e del pelo bianco sulla testa e attorno al collo, Slaking potrebbe anche trarre ispirazione da un uomo anziano. La linea evolutiva di Slaking passa attraverso tre stadi: Slakoth è pigro, Vigoroth diventa straordinariamente energico e successivamente Slaking diventa di nuovo pigro. Questo potrebbe essere un riferimento all'enigma della sfinge, in cui il bambino gattona su quattro gambe, l'adulto ha più energia e cammina su due gambe, e il vecchio cammina su tre gambe, una delle quali è un bastone. Nel caso di Slaking, due gambe e un braccio toccano il suolo quando si trova nella sua posizione classica. ",
+    "name_origin": "Slaking potrebbe essere una combinazione di slacking, battere la fiacca, e king, re. Kekking, il suo nome giapponese, potrebbe essere una combinazione di 欠勤 kekkin, assenza dal lavoro, e king, re. ",
+    "origin": "Slaking sembra essere basato su un bradipo, in particolare l'estinto bradipo gigante, e su un gorilla. A causa della sua calvizie, del muso rosa e del pelo bianco sulla testa e attorno al collo, Slaking potrebbe anche trarre ispirazione da un uomo anziano. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Slaking",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Pigrizia",
     "sprites": {
         "slaking": {
@@ -51,6 +76,6 @@
         ]
     },
     "weight": {
-        "slaking": "130.5 kg"
+        "slaking": "130,5 kg"
     }
 }

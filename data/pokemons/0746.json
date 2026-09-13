@@ -27,7 +27,8 @@
             "ultra-moon": "Viene chiamato anche \"Demone del mare\". Se troppi Wishiwashi scappano per le ferite riportate, il banco si disperde.",
             "sword": "Presi singolarmente sono deboli, ma unendo le forze possono dare vita a una creatura chiamata \"demone del mare\".",
             "shield": "I Wishiwashi affrontano i nemici più forti uniti in questa forma. Se si feriscono durante la lotta, il banco si disperde."
-        }
+        },
+        "": {}
     },
     "egg_groups": [
         "Acqua 2"
@@ -35,15 +36,15 @@
     "flat_name": "wishiwashi",
     "generation": 7,
     "height": {
-        "forma-individuale": "0.2 m",
-        "forma-banco": "8.2 m"
+        "forma-individuale": "0,2 m",
+        "forma-banco": "8,2 m"
     },
     "id": 746,
     "name": "Wishiwashi",
     "name_origin": "Wishiwashi potrebbe derivare da wishy-washy e 鰯 iwashi, sardina. Yowashi potrebbe essere una combinazione di 弱し yowai  o di 弱々しい yowayowashii, fragile, e di イワシ iwashi, sardina. ",
     "origin": "La forma individuale di Wishiwashi è ispirata ad una sardina. La forma Banco, invece, è ispirata al fenomeno dei banchi di pesci che si fingono un'unica creatura o anche ad un sottomarino o all'estinto Dunkleosteus. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Wishiwashi",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Pesciolino",
     "sprites": {
         "forma-individuale": {
@@ -84,7 +85,7 @@
         ]
     },
     "weight": {
-        "forma-individuale": "0.3 kg",
-        "forma-banco": "78.6 kg"
+        "forma-individuale": "0,3 kg",
+        "forma-banco": "78,6 kg"
     }
 }

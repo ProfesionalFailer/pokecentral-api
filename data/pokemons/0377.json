@@ -6,11 +6,9 @@
         }
     },
     "curiosities": [
-        "Regirock, insieme a Regice, Regieleki e Regidrago è il Pokémon leggendario con la statistica singola più alta: ha infatti la Difesa di 200. Regice ha lo stesso valore di Difesa Speciale, Regieleki in Velocità e Regidrago in PS.",
-        "Nei codici di Pokémon Rubino e Zaffiro c'è il modello di una \"Bambola Regirock\" inottenibile nel gioco. Forse era da ottenere con l'e-Reader, una periferica del Game Boy Advance uscita con molte limitazioni negli USA e completamente inedita in Europa.",
-        "Nel manga Pokémon Adventures, Regirock è l'unico golem leggendario a non essere usato da uno specialista del suo tipo: Regice è stato usato da Frida, una specialista del tipo Ghiaccio; e Registeel da Rocco Petri, specialista del tipo Acciaio; mentre Regirock da Fosco e Drake, specialisti rispettivamente dei tipi Buio e Drago.",
-        "L'impronta di Regirock somiglia a uno Scarabeus sacer, un insetto considerato sacro dagli antichi egizi. Questo è probabilmente un riferimento all'habitat desertico di Regirock.",
-        "Regirock, insieme agli altri due membri del suo trio, è l'unico Pokémon leggendario di terza generazione a non avere una mossa esclusiva."
+        "L'impronta di Regirock somiglia a uno Scarabaeus sacer, un insetto considerato sacro dagli antichi egizi. Questo è probabilmente un riferimento all'habitat desertico di Regirock.",
+        "L'Attacco e Attacco Speciale e la Difesa e Difesa Speciale di Regirock sono identiche in Regice, ma invertite.",
+        "Regirock è il primo Pokémon Leggendario mostrato appartenere ad un allenatore nella serie animata."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/regirock.mp3",
     "dex_entries": {
@@ -18,13 +16,13 @@
             "ruby": "Molto tempo fa REGIROCK era stato imprigionato dagli esseri umani. Se subisce danni in lotta, cerca nuove rocce adatte per riparare le rotture.",
             "sapphire": "Il corpo di REGIROCK è formato interamente da pietre. Da un recente studio è emerso che ogni pietra proviene da un luogo diverso.",
             "emerald": "REGIROCK è interamente formato da pietre e rocce. Se qualche roccia si stacca durante la lotta, ne cerca delle nuove per sostituirle.",
-            "firered": "È formato interamente da rocce, senza tracce di funzioni cerebrali o cardiovascolari. La sua natura è un mistero.",
-            "leafgreen": "È formato interamente da rocce, senza tracce di funzioni cerebrali o cardiovascolari. La sua natura è un mistero.",
+            "fire-red": "È formato interamente da rocce, senza tracce di funzioni cerebrali o cardiovascolari. La sua natura è un mistero.",
+            "leaf-green": "È formato interamente da rocce, senza tracce di funzioni cerebrali o cardiovascolari. La sua natura è un mistero.",
             "diamond": "È formato interamente da rocce. Se si staccano nella lotta, ne cerca altre per sostituirle.",
             "pearl": "È formato interamente da rocce. Se si staccano nella lotta, ne cerca altre per sostituirle.",
             "platinum": "È formato interamente da rocce. Se si staccano nella lotta, ne cerca altre per sostituirle.",
-            "heartgold": "I tipi di roccia che compongono il suo corpo possono trovarsi in tutti gli strati geologici del mondo.",
-            "soulsilver": "I tipi di roccia che compongono il suo corpo possono trovarsi in tutti gli strati geologici del mondo.",
+            "heart-gold": "I tipi di roccia che compongono il suo corpo possono trovarsi in tutti gli strati geologici del mondo.",
+            "soul-silver": "I tipi di roccia che compongono il suo corpo possono trovarsi in tutti gli strati geologici del mondo.",
             "black": "È formato interamente da rocce. Se si staccano nella lotta, ne cerca altre per sostituirle.",
             "white": "È formato interamente da rocce. Se si staccano nella lotta, ne cerca altre per sostituirle.",
             "black-2": "È formato interamente da rocce. Se si staccano nella lotta, ne cerca altre per sostituirle.",
@@ -45,14 +43,14 @@
     "flat_name": "regirock",
     "generation": 3,
     "height": {
-        "regirock": "1.7 m"
+        "regirock": "1,7 m"
     },
     "id": 377,
     "name": "Regirock",
-    "name_origin": "Il suo nome deriva dalla parola latina regius, regale, e da rock, roccia. ",
-    "origin": "Regirock è basato sulle leggende ebraiche dei golem. Le leggende li definiscono come dei servitori con enormi poteri, che vengono esercitati tramite delle parole scritte sulle loro fronti. Se le parole vengono rimosse, essi si indeboliscono. I golem leggendari possono avere come tema comune le epoche storiche, con Regirock che rappresenta l'età della pietra. ",
+    "name_origin": "Regirock potrebbe derivare da regius, latino per \"regale\", e da rock, roccia. ",
+    "origin": "Regirock potrebbe essere basato sui golem della mitologia ebraica. Le leggende li definiscono come dei servitori con enormi poteri, che vengono esercitati tramite delle parole scritte sulle loro fronti. Se le parole vengono rimosse, essi si indeboliscono o, in alcune versioni, muoiono. La faccia di Regirock presenta una scritta simile, ma basata sull'alfabeto Braille, possibilmente in riferimento al metodo per incontrarlo in Pokémon Rubino, Zaffiro e Smeraldo. I golem leggendari sembrano avere come tema comune le epoche storiche, con Regirock che rappresenta l'età della pietra. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Regirock",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Picco",
     "sprites": {
         "regirock": {
@@ -80,6 +78,6 @@
         ]
     },
     "weight": {
-        "regirock": "230.0 kg"
+        "regirock": "230,0 kg"
     }
 }

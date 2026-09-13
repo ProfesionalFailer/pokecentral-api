@@ -15,43 +15,61 @@
     "dex_entries": {
         "lattevaniglia": {
             "sword": "Agli Allenatori di cui si fida regala bacche decorate con la panna.",
-            "shield": "La panna che Alcremie produce dalle mani è più dolce e gustosa quando è felice."
+            "shield": "La panna che Alcremie produce dalle mani è più dolce e gustosa quando è felice.",
+            "scarlet": "I dolci decorati da un Alcremie, con la loro profonda dolcezza, rendono felici tutti quelli che li mangiano.",
+            "violet": "La panna prodotta da un Alcremie trattato con riguardo è una vera prelibatezza, quindi tutti gli Allenatori sono amorevoli con loro."
         },
         "latterosa": {
             "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore agrodolce.",
-            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore agrodolce."
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore agrodolce.",
+            "scarlet": "Al momento dell’evoluzione, si è generata nelle sue cellule una lieve vibrazione che gli ha conferito un sapore agrodolce.",
+            "violet": "Quando viene assalito da un nemico, contrattacca lanciando della panna dalle note agrodolci."
         },
         "lattematcha": {
             "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore fragrante e aromatico.",
-            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore fragrante e aromatico."
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore fragrante e aromatico.",
+            "scarlet": "Al momento dell’evoluzione, si è generata nelle sue cellule una lieve vibrazione che gli ha conferito un sapore fragrante e aromatico.",
+            "violet": "Quando viene assalito da un nemico, contrattacca lanciando della panna dalle note fragranti e aromatiche."
         },
         "lattementa": {
             "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore rinfrescante.",
-            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore rinfrescante."
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore rinfrescante.",
+            "scarlet": "Al momento dell’evoluzione, si è generata nelle sue cellule una lieve vibrazione che gli ha conferito un sapore rinfrescante.",
+            "violet": "Quando viene assalito da un nemico, contrattacca lanciando della panna dalle note rinfrescanti."
         },
         "lattelimone": {
             "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore acido.",
-            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore acido."
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore acido.",
+            "scarlet": "Al momento dell’evoluzione, si è generata nelle sue cellule una lieve vibrazione che gli ha conferito un sapore acido.",
+            "violet": "Quando viene assalito da un nemico, contrattacca lanciando della panna dalle note acide."
         },
         "lattesale": {
             "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore salato.",
-            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore salato."
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore salato.",
+            "scarlet": "Al momento dell’evoluzione, si è generata nelle sue cellule una lieve vibrazione che gli ha conferito un sapore salato.",
+            "violet": "Quando viene assalito da un nemico, contrattacca lanciando della panna dalle note salate."
         },
         "rosamix": {
             "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore speciale.",
-            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore speciale."
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore speciale.",
+            "scarlet": "Al momento dell’evoluzione, si è generata nelle sue cellule una lieve vibrazione che gli ha conferito un sapore speciale.",
+            "violet": "Quando viene assalito da un nemico, contrattacca lanciando della panna dalle note speciali."
         },
         "caramelmix": {
             "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore amaro.",
-            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore amaro."
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore amaro.",
+            "scarlet": "Al momento dell’evoluzione, si è generata nelle sue cellule una lieve vibrazione che gli ha conferito un sapore amaro.",
+            "violet": "Quando viene assalito da un nemico, contrattacca lanciando una panna dalle note amare."
         },
         "triplomix": {
             "sword": "La vibrazione delle sue cellule al momento dell'evoluzione gli ha conferito un sapore complesso.",
-            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore complesso."
+            "shield": "L'evoluzione ha causato una vibrazione nelle cellule addette alla creazione della panna, conferendogli un sapore complesso.",
+            "scarlet": "Al momento dell’evoluzione, si è generata nelle sue cellule una lieve vibrazione che gli ha conferito un sapore complesso.",
+            "violet": "Quando viene assalito da un nemico, contrattacca lanciando una panna dalle note complesse."
         },
         "alcremie-gigamax": {
             "sword": "Il suo corpo, dal quale trabocca panna senza sosta, diventa tanto più duro quanto più forti sono gli attacchi che subisce.",
-            "shield": "Lancia missili di panna dall’apporto calorico di 100.000 chilocalorie l'uno. Chi viene colpito è preso da fortissimi giramenti di testa."
+            "shield": "Lancia missili di panna dall'apporto calorico di 100.000 chilocalorie l'uno. Chi viene colpito è preso da fortissimi giramenti di testa."
         }
     },
     "egg_groups": [
@@ -61,15 +79,15 @@
     "flat_name": "alcremie",
     "generation": 8,
     "height": {
-        "alcremie": "0.3 m",
-        "alcremie-gigamax": "> 30.0 m"
+        "alcremie": "0,3 m",
+        "alcremie-gigamax": "> 30,0 m"
     },
     "id": 869,
     "name": "Alcremie",
     "name_origin": "Alcremie è probabilmente una combinazione di alchemy, alchimia, cream, crema, o creamy, cremoso. Mawhip è probabilmente una combinazione di 魔法 mahō, magico, e ホイップ hoippu, panna montata. ",
     "origin": "Alcremie potrebbe essere basata su un Eton mess, un dolce tradizionale inglese fatto con la frutta, su una meringa o sulla panna montata. La forma Gigamax potrebbe essere basata su una torta nuziale. La sua capacità di indurirsi quando viene colpito dovrebbe invece essere basata su una proprietà fisica di alcuni fluidi non newtoniani, e nel particolare sul fenomeno di dilatamento dato dalla mescolatura tra acqua e amido di mais, la quale è di uso comune in pasticceria. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Alcremie",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Pannafresca",
     "sprites": {
         "alcremie": {
@@ -97,7 +115,7 @@
         ]
     },
     "weight": {
-        "alcremie": "0.5 kg",
-        "alcremie-gigamax": "???.? kg"
+        "alcremie": "0,5 kg",
+        "alcremie-gigamax": "???,? kg"
     }
 }

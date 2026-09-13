@@ -4,6 +4,9 @@
             "primary": "Clorofilla",
             "secondary": "Insonnia",
             "hidden": "Altalena"
+        },
+        "megascovillain": {
+            "primary": "Spargipiccante"
         }
     },
     "curiosities": [
@@ -16,7 +19,11 @@
     "dex_entries": {
         "scovillain": {
             "scarlet": "La testa rossa trasforma le proprie sostanze pungenti in energia Fuoco che usa per lanciare fiammate superpiccanti.",
-            "violet": "Le sue sostanze piccanti influiscono sul cervello della testa verde, rendendola feroce. Quando va fuori di senno, non c'è modo di fermarla."
+            "violet": "Le sue sostanze piccanti influiscono sul cervello della testa verde, rendendola feroce. Quando va fuori di senno, non c'è modo di fermarla.",
+            "legends-za": "Le due teste hanno carattere e modo di lottare differenti, ma quando scendono in campo sono in perfetta sintonia."
+        },
+        "megascovillain": {
+            "legends-za": "La megaevoluzione l’ha reso ancora più piccante. Colpisce gli avversari agitando la parte del corpo a forma di cravatta."
         }
     },
     "egg_groups": [
@@ -25,19 +32,23 @@
     "flat_name": "scovillain",
     "generation": 9,
     "height": {
-        "scovillain": "0.9 m"
+        "scovillain": "0,9 m"
     },
     "id": 952,
     "name": "Scovillain",
     "name_origin": "Scovillain è la combinazione di Scoville, riferimento alla scala di Scoville, ovvero la scala utilizzata per misurare la piccantezza, e villain, inglese per cattivo. ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Scovillain",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Habanero",
     "sprites": {
         "scovillain": {
             "default": "https://media.pokemoncentral.it/wiki/a/ad/Homem0952.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/4d/Homemsh0952.png"
+        },
+        "megascovillain": {
+            "default": "https://media.pokemoncentral.it/wiki/9/9e/Homem0952M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/a/aa/Homemsh0952M.png"
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/d/d8/Artwork0952_SV.png"
     },
@@ -49,10 +60,19 @@
             "spa": 108,
             "spd": 65,
             "spe": 75
+        },
+        "megascovillain": {
+            "hp": 65,
+            "atk": 138,
+            "def": 85,
+            "spa": 138,
+            "spd": 85,
+            "spe": 75
         }
     },
     "stats_sum": {
-        "scovillain": 486
+        "scovillain": 486,
+        "megascovillain": 586
     },
     "types": {
         "scovillain": [
@@ -61,6 +81,6 @@
         ]
     },
     "weight": {
-        "scovillain": "15.0 kg"
+        "scovillain": "15,0 kg"
     }
 }

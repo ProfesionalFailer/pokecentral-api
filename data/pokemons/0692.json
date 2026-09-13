@@ -18,8 +18,9 @@
             "ultra-moon": "Si sposta spruzzando acqua dalla chela destra. Ha un pessimo equilibrio e non riesce a nuotare seguendo una traiettoria dritta.",
             "sword": "Se le sue chele si staccano durante la lotta, ricrescono. La polpa al loro interno è considerata una rara prelibatezza a Galar.",
             "shield": "Sconfigge i nemici con proiettili d'acqua che spara facendo esplodere il gas che accumula nella chela destra.",
-            "scarlet": "Può sparare acqua facendo esplodere dei gas all’interno della sua chela destra. Questa tecnica gli permette di abbattere i Pokémon in volo.",
-            "violet": "Anche se staccate, le sue chele ricrescono. La loro polpa è commestibile, ma ha un sapore particolare: alcuni la amano, altri la odiano."
+            "scarlet": "Può sparare acqua facendo esplodere dei gas all'interno della sua chela destra. Questa tecnica gli permette di abbattere i Pokémon in volo.",
+            "violet": "Anche se staccate, le sue chele ricrescono. La loro polpa è commestibile, ma ha un sapore particolare: alcuni la amano, altri la odiano.",
+            "legends-za": "Abbatte le prede volanti sparando un getto d'acqua ad alta pressione dalla chela più grande, che usa come una pistola."
         }
     },
     "egg_groups": [
@@ -29,14 +30,14 @@
     "flat_name": "clauncher",
     "generation": 6,
     "height": {
-        "clauncher": "0.5 m"
+        "clauncher": "0,5 m"
     },
     "id": 692,
     "name": "Clauncher",
     "name_origin": "Clauncher probabilmente è una combinazione tra claw  e launcher . Udeppou deriva da 水鉄砲 mizudeppou  e 腕 ude . ",
     "origin": "Clauncher è basato su un Gambero Pistolero. Il suo intenso colore blu può essere basato su un Gambero della Florida o può anche essere un riferito a un'aragosta americana mutata. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Clauncher",
-    "shape": "insettoide",
+    "shape": "None",
     "specie": "Pokémon Zampillo",
     "sprites": {
         "clauncher": {
@@ -64,6 +65,6 @@
         ]
     },
     "weight": {
-        "clauncher": "8.3 kg"
+        "clauncher": "8,3 kg"
     }
 }

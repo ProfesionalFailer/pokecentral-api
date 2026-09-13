@@ -7,8 +7,10 @@
         }
     },
     "curiosities": [
-        "Tropius ha lo stesso peso e la stessa altezza di un altro Pokémon di tipo Erba, Venusaur. Entrambi sono alti 2,0 m e pesano 100 kg.",
-        "Tropius è stato il primo Pokémon ad essere distribuito in una Pregio Ball."
+        "Tropius ha lo stesso peso, altezza e Gruppi Uova di Venusaur. Entrambi sono alti 2,0 m, pesano 100 kg e sono nei gruppi uova Mostro e Erba.",
+        "Tropius è stato il primo Pokémon ad essere distribuito in una Pregio Ball.",
+        "Tropius condivide la sua categoria con la linea di Bounsweet: sono tutti noti come Pokémon Frutto.",
+        "Di tutti i Pokémon ottenibili in quarta generazione, Tropius è esclusivo di Pokémon Platino. É comunque ottenibile in Pokémon Oro HeartGold e Argento SoulSilver tramite Pokéwalker."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/tropius.mp3",
     "dex_entries": {
@@ -16,13 +18,13 @@
             "ruby": "Tutti i bambini conoscono i grappoli di frutti penzolanti attorno al collo di TROPIUS. Anche il POKéMON stesso ne mangia in continuazione. Pare che il suo amore per la frutta sia dovuto al fatto che egli stesso la produca.",
             "sapphire": "I bambini dei tropici meridionali fanno merenda coi frutti che crescono a grappoli attorno al collo di TROPIUS. Questo POKéMON vola agitando le foglie sulla schiena come se fossero ali.",
             "emerald": "TROPIUS vola agitando le sue grandi foglie come ali. Frutti deliziosi gli crescono attorno al collo e da esso, in primavera, il POKéMON sparge il polline.",
-            "firered": "Vive in giungle tropicali. Due volte all'anno gli crescono frutti deliziosi intorno al collo.",
-            "leafgreen": "Vive in giungle tropicali. Due volte all'anno gli crescono frutti deliziosi intorno al collo.",
+            "fire-red": "Vive in giungle tropicali. Due volte all'anno gli crescono frutti deliziosi intorno al collo.",
+            "leaf-green": "Vive in giungle tropicali. Due volte all'anno gli crescono frutti deliziosi intorno al collo.",
             "diamond": "Poiché mangiava sempre i suoi frutti preferiti, questi hanno cominciato a crescergli attorno al collo.",
             "pearl": "Poiché mangiava sempre i suoi frutti preferiti, questi hanno cominciato a crescergli attorno al collo.",
             "platinum": "Poiché era solito mangiare frutti deliziosi, questi hanno cominciato a crescergli attorno al collo.",
-            "heartgold": "Due volte l'anno il suo collare produce dei frutti dolci e squisiti, molto amati dai bambini dei tropici.",
-            "soulsilver": "Due volte l'anno il suo collare produce dei frutti dolci e squisiti, molto amati dai bambini dei tropici.",
+            "heart-gold": "Due volte l'anno il suo collare produce dei frutti dolci e squisiti, molto amati dai bambini dei tropici.",
+            "soul-silver": "Due volte l'anno il suo collare produce dei frutti dolci e squisiti, molto amati dai bambini dei tropici.",
             "black": "Poiché era solito mangiare frutti deliziosi, questi hanno cominciato a crescergli attorno al collo.",
             "white": "Poiché era solito mangiare frutti deliziosi, questi hanno cominciato a crescergli attorno al collo.",
             "black-2": "Vola sbattendo delle grandi ali a forma di foglia e distribuisce ai bambini i deliziosi frutti che gli crescono sul collo.",
@@ -46,14 +48,14 @@
     "flat_name": "tropius",
     "generation": 3,
     "height": {
-        "tropius": "2.00 m"
+        "tropius": "2,00 m"
     },
     "id": 357,
     "name": "Tropius",
-    "name_origin": "Deriva dalla parola inglese tropical, tropicale, con la parola greca σαῦρος sauros, lucertola. Potrebbe anche essere una corruzione di tropism, tropismo. ",
-    "origin": "Basato su un sauropode con caratteristiche tipiche del banano. ",
+    "name_origin": "Tropius potrebbe derivare da tropical, tropicale, e dalla parola greca σαῦρος sauros, lucertola. Potrebbe anche essere una corruzione di tropism, tropismo, l'orientamento delle piante derivato da una caratteristica ambientale. ",
+    "origin": "Tropius ricorda un sauropode combinato ad un banano. Le sue caratteristiche tropicali e aspetto da sauropode lo possono ricollegare anche al Mokele mbembe, un criptide detto vivere nel bacino del fiume Congo e descritto come un sauropode. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Tropius",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Frutto",
     "sprites": {
         "tropius": {
@@ -82,6 +84,6 @@
         ]
     },
     "weight": {
-        "tropius": "100.0 kg"
+        "tropius": "100,0 kg"
     }
 }

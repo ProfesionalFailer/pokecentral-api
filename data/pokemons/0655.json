@@ -3,6 +3,9 @@
         "delphox": {
             "primary": "Aiutofuoco",
             "hidden": "Prestigiatore"
+        },
+        "megadelphox": {
+            "primary": "Levitazione"
         }
     },
     "curiosities": [
@@ -15,7 +18,10 @@
             "x": "Fissando la fiamma del ramo che ha in mano, aumenta al massimo la concentrazione e può predire il futuro.",
             "y": "Grazie ai suoi poteri psichici, può generare un vortice di fiamme a 3000 °C con il quale avvolge i nemici e li incenerisce.",
             "omega-ruby": "Fissando la fiamma del ramo che ha in mano, aumenta al massimo la concentrazione e può predire il futuro.",
-            "alpha-sapphire": "Grazie ai suoi poteri psichici, può generare un vortice di fiamme a 3000 ºC con il quale avvolge i nemici e li incenerisce."
+            "alpha-sapphire": "Grazie ai suoi poteri psichici, può generare un vortice di fiamme a 3000 ºC con il quale avvolge i nemici e li incenerisce.",
+            "scarlet": "Usa la fiamma sulla bacchetta per lasciare a terra tracce di bruciato. Gli antichi ne interpretavano la forma nelle loro pratiche divinatorie.",
+            "violet": "Controlla il fuoco con i suoi poteri psichici. Avvolge i nemici in un vortice di fiamme a 3.000 ºC e li incenerisce.",
+            "legends-za": "Grazie ai suoi poteri psichici, può generare un vortice di fiamme a 3.000 °C con il quale avvolge i nemici e li incenerisce."
         }
     },
     "egg_groups": [
@@ -24,34 +30,47 @@
     "flat_name": "delphox",
     "generation": 6,
     "height": {
-        "delphox": "1.5 m"
+        "delphox": "1,5 m"
     },
     "id": 655,
     "name": "Delphox",
     "name_origin": "Delphox deriva da Delphic  e fox . ",
     "origin": "Delphox è ispirato ad una volpe e presenta alcuni elementi in comune con i maghi o le streghe. Potrebbe anche essere basato su una Kitsune del folclore giapponese. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Delphox",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Volpe",
     "sprites": {
         "delphox": {
             "default": "https://media.pokemoncentral.it/wiki/f/fd/Homem0655.png",
             "shiny": "https://media.pokemoncentral.it/wiki/4/49/Homemsh0655.png"
         },
+        "megadelphox": {
+            "default": "https://media.pokemoncentral.it/wiki/7/7f/Homem0655M.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/d/db/Homemsh0655M.png"
+        },
         "official_artwork": "https://media.pokemoncentral.it/wiki/8/8c/Artwork0655_XY.png"
     },
     "stats": {
-        "statistiche-base": {
+        "delphox": {
             "hp": 75,
             "atk": 69,
             "def": 72,
             "spa": 114,
             "spd": 100,
             "spe": 104
+        },
+        "megadelphox": {
+            "hp": 75,
+            "atk": 69,
+            "def": 72,
+            "spa": 159,
+            "spd": 125,
+            "spe": 134
         }
     },
     "stats_sum": {
-        "statistiche-base": 534
+        "delphox": 534,
+        "megadelphox": 634
     },
     "types": {
         "delphox": [
@@ -60,6 +79,6 @@
         ]
     },
     "weight": {
-        "delphox": "39.0 kg"
+        "delphox": "39,0 kg"
     }
 }

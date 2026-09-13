@@ -21,7 +21,8 @@
             "ultra-sun": "Da piccolo vive in gruppo con i suoi simili, ma appena impara a catturare da solo le sue prede viene allontanato e diventa indipendente.",
             "ultra-moon": "Ha una spiccata curiosità ed è pieno di energie. Quando si arrabbia o si appresta a lottare, la sua corta criniera si scalda.",
             "scarlet": "Da cucciolo impara a cacciare dalle femmine di Pyroar. Una volta cresciuto, si allontana dal gruppo per vivere in autonomia.",
-            "violet": "Più un Litleo ha allenato corpo e spirito lottando contro nemici potenti, più alta è la temperatura della sua criniera."
+            "violet": "Più un Litleo ha allenato corpo e spirito lottando contro nemici potenti, più alta è la temperatura della sua criniera.",
+            "legends-za": "Si allontana dal gruppo e inizia una vita solitaria per diventare più forte. Ha un carattere impetuoso ed è sempre pronto a gettarsi nella mischia."
         }
     },
     "egg_groups": [
@@ -30,14 +31,14 @@
     "flat_name": "litleo",
     "generation": 6,
     "height": {
-        "litleo": "0.6 m"
+        "litleo": "0,6 m"
     },
     "id": 667,
     "name": "Litleo",
     "name_origin": "Litleo è una combinazione tra little  e leo. Shishiko è una combinazione tra 獅子 shishi  e 子 ko . ",
     "origin": "Litleo è basato su un cucciolo di leone. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Litleo",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Leoncino",
     "sprites": {
         "litleo": {
@@ -61,11 +62,11 @@
     },
     "types": {
         "litleo": [
-            "Fuoco",
-            "Normale"
+            "Normale",
+            "Fuoco"
         ]
     },
     "weight": {
-        "litleo": "13.5 kg"
+        "litleo": "13,5 kg"
     }
 }

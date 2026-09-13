@@ -5,10 +5,9 @@
         }
     },
     "curiosities": [
-        "Xerneas ed Yveltal sono i primi Pokémon dei quali è stato rivelato il nome inglese prima di quello giapponese.",
-        "Xerneas ed Yveltal hanno le statistiche base uguali.",
-        "Xerneas ed Yveltal, insieme a Ho-Oh , Dialga , Palkia , Solgaleo  e Lunala  sono gli unici Pokémon leggendari il cui nome inizia con la stessa lettera del nome della versione.",
-        "Yveltal è l'unico membro del Trio Nordico a non avere più forme."
+        "Yveltal ha la stessa distribuzione delle statistiche di Xerneas.",
+        "Yveltal, insieme a Xerneas, è stato disegnato da Ken Sugimori e Yusuke Ohmura. I primi abbozzi dei due Pokémon leggendari sono stati iniziati da Sugimori, che però andò incontro ad un \"blocco dell'artista\". Per la prima volta, Sugimori affidò quindi il lavoro a un altro disegnatore, Ohmura, che portò avanti i disegni; dopodiché Sugimori tornò per finirli.",
+        "Yveltal, insieme a Xerneas, sono le uniche mascotte dei giochi che non sono ottenibili tramite trasferimento in Pokémon Scarlatto e Violetto."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/yveltal.mp3",
     "dex_entries": {
@@ -16,7 +15,8 @@
             "x": "Quando le ali e le piume della coda di questo Pokémon leggendario sono spiegate e di colore rosso acceso, può assorbire l'energia degli esseri viventi.",
             "y": "Secondo la leggenda, quando la sua lunga esistenza giunge al termine, assorbe l'energia di tutti gli esseri viventi e si trasforma in un bozzolo.",
             "omega-ruby": "Quando le ali e le piume della coda di questo Pokémon leggendario sono spiegate e di colore rosso acceso, può assorbire l'energia degli esseri viventi.",
-            "alpha-sapphire": "Secondo la leggenda, quando la sua lunga esistenza giunge al termine, assorbe l'energia di tutti gli esseri viventi e si trasforma in un bozzolo."
+            "alpha-sapphire": "Secondo la leggenda, quando la sua lunga esistenza giunge al termine, assorbe l'energia di tutti gli esseri viventi e si trasforma in un bozzolo.",
+            "legends-za": "Si dice che al termine del suo ciclo vitale risucchi la vita da tutti gli esseri viventi e riassuma la forma di un bozzolo."
         }
     },
     "egg_groups": [
@@ -25,14 +25,14 @@
     "flat_name": "yveltal",
     "generation": 6,
     "height": {
-        "yveltal": "5.8 m"
+        "yveltal": "5,8 m"
     },
     "id": 717,
     "name": "Yveltal",
     "name_origin": "Yveltal deriva dalla lettera Y. Potrebbe anche derivare da una combinazione dell'inglese evil, male, con quetzal, o con Quetzacoatl. ",
-    "origin": "È possibile che Yveltal sia basato sull'aquila nella mitologia nordica situata in cima ad Yggdrasill, l'Albero Cosmico; essa è cieca e ciò potrebbe essere confermato dal fatto che Yveltal ha gli occhi completamente azzurri. Molti lo definiscono il classico \"Uccello del Malaugurio\" a causa della sua malvagità. ",
+    "origin": "È possibile che Yveltal sia basato sull'aquila nella mitologia nordica situata in cima ad Yggdrasill, l'Albero Cosmico; essa è cieca e ciò potrebbe essere confermato dal fatto che Yveltal ha gli occhi completamente azzurri. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Yveltal",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Distruzione",
     "sprites": {
         "yveltal": {
@@ -56,11 +56,11 @@
     },
     "types": {
         "yveltal": [
-            "Volante",
-            "Buio"
+            "Buio",
+            "Volante"
         ]
     },
     "weight": {
-        "yveltal": "203.0 kg"
+        "yveltal": "203,0 kg"
     }
 }

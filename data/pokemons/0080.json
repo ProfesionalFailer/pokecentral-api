@@ -15,19 +15,75 @@
         }
     },
     "curiosities": [
-        "Nonostante sia spesso menzionato nel Pokédex che l'evoluzione di Slowpoke in Slowbro è causata dalla presenza di uno Shellder, nei giochi tale evoluzione non ha nulla a che fare con Shellder, contrariamente al caso di Mantyke.\n\tIl Pokédex di Slowbro afferma che ritorna ad essere uno Slowpoke se lo Shellder è rimosso. Ciò che succede allo Shellder non è mai detto. Questo nei giochi è impossibile e, nel caso fosse vero, questo sarebbe l'unico caso in cui un Pokémon evoluto può retrocedere la sua evoluzione.",
-        "Il Pokédex di Slowbro afferma che ritorna ad essere uno Slowpoke se lo Shellder è rimosso. Ciò che succede allo Shellder non è mai detto. Questo nei giochi è impossibile e, nel caso fosse vero, questo sarebbe l'unico caso in cui un Pokémon evoluto può retrocedere la sua evoluzione.",
-        "È noto che molti Pokémon si evolvono dalla combinazione di due o più esemplari, come ad esempio Metang che è formato da due Beldum. Tuttavia, l'anime non lo mostra accadere e fa semplicemente apparire il secondo esemplare dal nulla. L'evoluzione di Slowbro è l'unica volta in cui l'unione fisica di due Pokémon è effettivamente mostrata.",
+        "Nonostante sia spesso menzionato nel Pokédex che l'evoluzione di Slowpoke in Slowbro è causata dalla presenza di uno Shellder, nei giochi tale evoluzione non ha nulla a che fare con Shellder, a differenza del caso di Mantyke.\n\tIl Pokédex di Slowbro afferma che ritorna a essere uno Slowpoke se lo Shellder si stacca o viene tolto. Non viene mai chiarito il destino dello Shellder in questo caso. Questo nei giochi è impossibile e, nel caso fosse vero, sarebbe l'unico caso conosciuto in cui un Pokémon evoluto potrebbe de-evolvere.",
+        "Il Pokédex di Slowbro afferma che ritorna a essere uno Slowpoke se lo Shellder si stacca o viene tolto. Non viene mai chiarito il destino dello Shellder in questo caso. Questo nei giochi è impossibile e, nel caso fosse vero, sarebbe l'unico caso conosciuto in cui un Pokémon evoluto potrebbe de-evolvere.",
+        "È noto che vari Pokémon si evolvono dalla combinazione di due o più esemplari, come per esempio Metang che si forma a partire da due Beldum. Tuttavia nella serie animata le evoluzioni di Slowpoke in Slowbro e Slowking sono le uniche a mostrare l'unione fisica di due Pokémon al momento dell'evoluzione.",
         "Il verso di Slowbro è molto simile al verso di Machamp: cambia solamente il tono.",
-        "Il Pokédex afferma che questo Pokémon è diventato insensibile al dolore a causa del veleno del suo Shellder. Tuttavia Shellder non è un Pokémon di tipo Veleno.\n\tTuttavia, Slowbro di Galar presenta il tipo Veleno.",
-        "Tuttavia, Slowbro di Galar presenta il tipo Veleno.",
+        "Il Pokédex afferma che questo Pokémon è diventato insensibile al dolore a causa del veleno del suo Shellder. Tuttavia Shellder non è un Pokémon di tipo Veleno.\n\tCuriosamente, Slowbro di Galar acquisisce il tipo Veleno.",
+        "Curiosamente, Slowbro di Galar acquisisce il tipo Veleno.",
         "La Megaevoluzione di Slowbro è stata accidentalmente rivelata dal sito Pokémon ufficiale coreano il 12 agosto 2014, per poi essere prontamente rimossa.",
-        "MegaSlowbro è il Pokémon di tipo Psico con la Difesa più alta ed è a pari merito con Cloyster per la Difesa più alta tra i tipi Acqua.",
-        "È l'unico Pokémon ad avere sia una megaevoluzione che una forma regionale.",
-        "Slowbro di Galar e la sua controparte, insieme a Gholdengo, sono gli unici Pokémon ad ottenere un secondo tipo evolvendosi, ma che hanno il nuovo tipo come tipo primario anziché tipo secondario."
+        "MegaSlowbro è il Pokémon di tipo Psico con la Difesa più alta e, a pari merito con Cloyster, possiede la Difesa più alta tra i tipi Acqua.",
+        "Slowbro e Raichu sono gli unici Pokémon ad avere sia una megaevoluzione che una forma regionale.",
+        "Slowbro e Slowking di Galar, insieme a Mr. Mime di Galar, Sliggoo di Hisui, Ursaluna e Gholdengo, sono gli unici Pokémon che acquisiscono un nuovo tipo con l'evoluzione a ricevevere quest'ultimo come primo tipo, mentre il tipo che rimane dallo stadio precedente diventa il secondo tipo."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/slowbro.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "slowbro": {
+            "red": "Si dice che lo SHELLDER attaccato alla coda di SLOWPOKE si nutra degli avanzi di questo.",
+            "blue": "Si dice che lo SHELLDER attaccato alla coda di SLOWPOKE si nutra degli avanzi di questo.",
+            "yellow": "È lento e pigro e vive in riva al mare. Diventa SLOWPOKE se gli si stacca lo SHELLDER dalla coda.",
+            "gold": "Se combattendo perde lo SHELLDER che gli morde la coda, si trasforma in un comune SLOWPOKE.",
+            "silver": "Di natura piuttosto ottusa, ha perso la sensibilità al dolore a causa del veleno di uno SHELLDER.",
+            "crystal": "Lo SHELLDER che gli sta attaccato non si stacca mai, a causa del profumo appetitoso della coda.",
+            "ruby": "SLOWBRO ha uno SHELLDER saldamente attaccato alla coda, che quindi non può più essere usata per pescare. Così SLOWBRO può essere visto nuotare di malavoglia per catturare una preda.",
+            "sapphire": "SLOWBRO ha uno SHELLDER saldamente attaccato alla coda, che quindi non può più essere usata per pescare. Così SLOWBRO può essere visto nuotare di malavoglia per catturare una preda.",
+            "emerald": "SLOWBRO non può usare la coda per pescare perché ha uno SHELLDER attaccato ad essa. Anche se di malavoglia, è quindi costretto a nuotare per catturare una preda.",
+            "fire-red": "Uno SLOWPOKE che si trovava in mare in cerca di cibo fu morso da uno SHELLDER, evolvendosi in SLOWBRO.",
+            "leaf-green": "Si dice che lo SHELLDER attaccato alla coda di SLOWPOKE si nutra degli avanzi di questo.",
+            "diamond": "Non è molto perspicace, ma sembra aguzzare l’ingegno se lo SHELLDER che ha sulla coda lo morde.",
+            "pearl": "Non è molto perspicace, ma sembra aguzzare l’ingegno se lo SHELLDER che ha sulla coda lo morde.",
+            "platinum": "Non è molto perspicace, ma sembra aguzzare l’ingegno se lo SHELLDER che ha sulla coda lo morde.",
+            "heart-gold": "Se combattendo perde lo SHELLDER che gli morde la coda, si trasforma in un comune SLOWPOKE.",
+            "soul-silver": "Di natura piuttosto ottusa, ha perso la sensibilità al dolore a causa del veleno di uno SHELLDER.",
+            "black": "Non è molto perspicace, ma sembra aguzzare l'ingegno se lo Shellder che ha sulla coda lo morde.",
+            "white": "Non è molto perspicace, ma sembra aguzzare l'ingegno se lo Shellder che ha sulla coda lo morde.",
+            "black-2": "Non è molto perspicace, ma sembra aguzzare l'ingegno se lo Shellder che ha sulla coda lo morde.",
+            "white-2": "Non è molto perspicace, ma sembra aguzzare l'ingegno se lo Shellder che ha sulla coda lo morde.",
+            "x": "Lo Shellder che gli sta attaccato non si stacca mai a causa del profumo appetitoso della coda.",
+            "y": "Uno Slowpoke che si trovava in mare in cerca di cibo fu morso da uno Shellder, evolvendosi in Slowbro.",
+            "omega-ruby": "Slowbro ha uno Shellder saldamente attaccato alla coda, che quindi non può più essere usata per pescare. Così Slowbro può essere visto nuotare di malavoglia per catturare una preda.",
+            "alpha-sapphire": "Slowbro ha uno Shellder saldamente attaccato alla coda, che quindi non può più essere usata per pescare. Così Slowbro può essere visto nuotare di malavoglia per catturare una preda.",
+            "sun": "Contempla il mare con aria assente. Il veleno di Shellder che circola nel suo corpo lo rende ancora più stordito.",
+            "moon": "Ogni volta che lo Shellder che ha sulla coda lo morde, aguzza l'ingegno e gli viene un'idea brillante, ma un attimo dopo l'ha già dimenticata.",
+            "ultra-sun": "Ha sempre un’aria un po’ assente. Se perde la coda e lo Shellder che vi è attaccato, si trasforma in uno Slowpoke.",
+            "ultra-moon": "Lo Shellder che sta attaccato alla sua coda per succhiarne avidamente la dolce linfa si è trasformato, assumendo una forma a spirale.",
+            "lets-go-pikachu": "Vive tranquillo vicino al mare. Se per caso lo Shellder che ha sulla coda si stacca, torna ad essere uno Slowpoke.",
+            "lets-go-eevee": "Vive tranquillo vicino al mare. Se per caso lo Shellder che ha sulla coda si stacca, torna ad essere uno Slowpoke.",
+            "sword": "Si è evoluto in seguito al morso di uno Shellder. Gli Shellder sono inebriati dalla dolce linfa secreta dalla coda.",
+            "shield": "Ha assunto una postura eretta per lo shock causato dal morso di uno Shellder. Pare che torni a essere uno Slowpoke se lo Shellder si stacca.",
+            "brilliant-diamond": "Non è molto perspicace, ma sembra che aguzzi l'ingegno se lo Shellder che ha sulla coda lo morde.",
+            "shining-pearl": "Non è molto perspicace, ma sembra che aguzzi l'ingegno se lo Shellder che ha sulla coda lo morde.",
+            "scarlet": "Uno Slowpoke che si trovava in mare in cerca di cibo fu morso da uno Shellder, evolvendosi in Slowbro.",
+            "violet": "Se durante l’impeto di una lotta perde lo Shellder che gli morde la coda, torna a essere uno Slowpoke.",
+            "legends-za": "Lo Shellder che gli sta attaccato alla coda non lascia mai la presa per via del sapore squisito che sprigiona."
+        },
+        "forma-di-galar": {
+            "sword": "Lo stimolo dato dal morso di uno Shellder ha innescato una reazione chimica con le spezie nel suo organismo, rendendolo di tipo Veleno.",
+            "shield": "Stringendo la lingua dello Shellder che gli si è attaccato addosso, può sparare un liquido molto velenoso dall'estremità della sua conchiglia.",
+            "scarlet": "Lo Shellder che gli morde il braccio è svenuto a causa delle tossine che Slowbro rilascia, ma pare anche che sia in estasi per il sapore delizioso.",
+            "violet": "Lo Shellder che gli morde il braccio con forza per succhiarne le tossine sembra dargli prurito. Per questo, ogni tanto si infuria.",
+            "legends-za": "Lo stimolo dato dal morso di uno Shellder ha innescato una reazione chimica con le spezie nel suo organismo, rendendolo di tipo Veleno."
+        },
+        "megaslowbro": {
+            "sun": "L'energia della megaevoluzione si è riversata tutta sullo Shellder attaccato alla coda che ha finito per inghiottire lo Slowpoke.",
+            "moon": "La megaevoluzione ha trasformato lo Shellder in un’armatura impenetrabile. Lo Slowpoke, invece, non sembra aver subito cambiamenti.",
+            "ultra-sun": "Un’energia formidabile ha potenziato lo Shellder attaccato alla coda. Lo Slowpoke, invece, non sembra aver subito cambiamenti.",
+            "ultra-moon": "Viene completamente inghiottito da Shellder che gli fornisce un riparo impenetrabile e piuttosto confortevole.",
+            "lets-go-pikachu": "Immerso nei succhi gastrici di Shellder, Slowpoke ha risvegliato il suo potere nascosto ed è diventato un po' più vispo e molto più potente.",
+            "lets-go-eevee": "Immerso nei succhi gastrici di Shellder, Slowpoke ha risvegliato il suo potere nascosto ed è diventato un po' più vispo e molto più potente.",
+            "legends-za": "La megaevoluzione ha trasformato lo Shellder in un'armatura impenetrabile. Lo Slowpoke, invece, non sembra aver subito cambiamenti."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Acqua 1"
@@ -35,16 +91,16 @@
     "flat_name": "slowbro",
     "generation": 1,
     "height": {
-        "slowbro": "1.6 m",
-        "slowbro-di-galar": "1.6 m",
-        "megaslowbro": "2.0 m"
+        "slowbro": "1,6 m",
+        "slowbro-di-galar": "1,6 m",
+        "megaslowbro": "2,0 m"
     },
     "id": 80,
     "name": "Slowbro",
-    "name_origin": "Il nome di Slowbro è una combinazione di slow, \"lento\", e bro, abbreviazione di brother, \"fratello\", probabilmente in riferimento alla relazione simbiotica dello Slowpoke e dello Shellder dai quali è formato. Yadoran può essere interpretato come 宿らん, \"non abitare\". È anche possibile che derivi da 宿借り yadokari, \"paguro\", o 宿主 yadonushi, \"ospite \". Inoltre, 鈍感 donkan significa \"solido\" o \"dalla testa dura\", e 鈍 don significa \"lento\" o \"stupido\". ",
-    "origin": "La conchiglia di Slowbro e parte del suo stile di vita sono simili a quelle dei paguri. Il suo aspetto potrebbe essere basato anche sul quello di un ippopotamo. ",
+    "name_origin": "Slowbro potrebbe essere una combinazione di slow, \"lento\", e bro, abbreviazione di brother, \"fratello\". Yadoran può essere interpretato come 宿らん, \"non abitare\". È anche possibile che derivi da 宿借り yadokari, \"paguro\", o 宿主 yadonushi, \"ospite \". Inoltre, 鈍感 donkan significa \"solido\" o \"dalla testa dura\", e 鈍 don significa \"lento\" o \"stupido\". Come Slowking, il suo nome deriva in parte dalla cantante jugoslava Jadranka Stojaković, che lavorava per Konami durante il suo soggiorno in Giappone. Il suo nome si scrive in giapponese come ヤドランカ Yadoranka, da cui un suo collega ha avuto l'ispirazione per i nomi di Slowbro e Slowking. ",
+    "origin": "Slowbro potrebbe prendere ispirazione da un ippopotamo, da una lontra gigante, da una salamandra gigante o dallo Sazae-oni, un essere della mitologia giapponese con un guscio a spirale sulla testa. Il guscio di slobro e i suoi comportamentio potrebbero derivare dai paguri. La sua relazione con Shellder ricorda quella tra una sanguisuga e il suo ospite. Il tipo veleno della sua forma di Galar potrebbe derivare dall'alta tossicità delle lumache coniche. Il fatto che il guscio si trovi sul suo braccio e possa sparare ricorda i bracci-cannone tipicamente visti in opere di finzione. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Slowbro",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Paguro",
     "sprites": {
         "slowbro": {
@@ -94,21 +150,21 @@
     },
     "types": {
         "slowbro": [
-            "Psico",
-            "Acqua"
+            "Acqua",
+            "Psico"
         ],
         "megaslowbro": [
-            "Psico",
-            "Acqua"
+            "Acqua",
+            "Psico"
         ],
         "forma-di-galar": [
-            "Veleno",
-            "Psico"
+            "Psico",
+            "Veleno"
         ]
     },
     "weight": {
-        "slowbro": "78.5 kg",
-        "slowbro-di-galar": "70.5 kg",
-        "megaslowbro": "120.0 kg"
+        "slowbro": "78,5 kg",
+        "slowbro-di-galar": "70,5 kg",
+        "megaslowbro": "120,0 kg"
     }
 }

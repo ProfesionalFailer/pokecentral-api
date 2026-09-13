@@ -7,7 +7,10 @@
     },
     "curiosities": [
         "Simipour rappresenta il mese di febbraio  nell'oroscopo di Unima.",
-        "Inizialmente, la coda di Simipour doveva essere completamente azzurra, non solo la punta, come si può vedere da un artwork provvisorio di Ken Sugimori."
+        "Anche se i suoi occhi sembrano perennemente chiusi, in alcune animazioni lo si può vedere battere gli occhi.",
+        "Nei suoi sprite di Pokémon Nero, Bianco, Nero 2 e Bianco 2, Simipour sembra star facendo i gesti tipici della morra cinese.",
+        "In Pokémon GO Simipour è esclusivo dell'America e Groenlandia, Simisage dell'Asia Pacifica, mentre Simisear in Europa, Medio Oriente, Africa e India.",
+        "La coda di Simipour era stata originariamente disegnata come completamente blu."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/simipour.mp3",
     "dex_entries": {
@@ -19,7 +22,8 @@
             "x": "Spruzza dalla coda un getto d'acqua ad alta pressione, con una potenza tale da distruggere anche pareti di cemento.",
             "y": "Predilige i luoghi dove l'acqua è pura. Se l'acqua che ha sul capo diminuisce, ne aggiunge altra aspirandola con la coda.",
             "omega-ruby": "Spruzza dalla coda un getto d'acqua ad alta pressione, con una potenza tale da distruggere anche pareti di cemento.",
-            "alpha-sapphire": "Predilige i luoghi dove l'acqua è pura. Se l'acqua che ha sul capo diminuisce, ne aggiunge altra aspirandola con la coda."
+            "alpha-sapphire": "Predilige i luoghi dove l'acqua è pura. Se l'acqua che ha sul capo diminuisce, ne aggiunge altra aspirandola con la coda.",
+            "legends-za": "Predilige i luoghi dove l'acqua è pura. Se l'acqua che ha sul capo diminuisce, ne aggiunge altra aspirandola con la coda."
         }
     },
     "egg_groups": [
@@ -28,14 +32,14 @@
     "flat_name": "simipour",
     "generation": 5,
     "height": {
-        "simipour": "1.0 m"
+        "simipour": "1,0 m"
     },
     "id": 516,
     "name": "Simipour",
-    "name_origin": "Simipour è una combinazione dei termini inglesi simian  e pour . ",
-    "origin": "È basato su una scimmia e su una fontana. Si ispira alle tre scimmie sagge del santuario di Nikko, nello specifico a Mizaru, la scimmia che \"Non vede il Male\", motivo per il quale ha gli occhi chiusi. Un'altra possibile ispirazione è l'Ahuizotl, un mostro acquatico della mitologia azteca che aveva zampe scimmiesche. Potrebbe inoltre giocare sul modo in cui vengono chiamate le artemia salina, scimmie di mare. La rappresentazione degli sgorghi d'acqua sulla coda e sulla testa potrebbe trarre ispirazione, oltre che dalle fontane, dai geyser o dalle cascate. ",
+    "name_origin": "Simisage potrebbe derivare da simian  e pour . Hiyakkie, il suo nome giapponese, potrebbe derivare da 冷や hiya , e monkey, scimmia. ",
+    "origin": "Panpour sembra essere basato su una scimmia e su una fontana. Potrebbe quindi essere un gioco di parole con le Sea-Monkeys, un altro nome per crostacei del genere Artemia, letteralmente \"scimmie di mare\". La sua abilità di immagazzinare acqua nei capelli ricorda i kappa, yōkai che hanno un piatto pieno d'acqua sulla testa. I \"capelli\" potrebbero essere ispirati alla cultura hippie degli anni '60 e '70, in contrasto al pompadour di Simisage. Insieme a Simisage e Simisear sembra essere ispirato alle tre scimmie sagge. Dato che ha gli occhi chiuse, potrebbe rappresentare non vedere il male. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Simipour",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Spruzzacqua",
     "sprites": {
         "simipour": {
@@ -63,6 +67,6 @@
         ]
     },
     "weight": {
-        "simipour": "29.0 kg"
+        "simipour": "29,0 kg"
     }
 }

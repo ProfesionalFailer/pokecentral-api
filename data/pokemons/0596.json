@@ -24,7 +24,9 @@
             "omega-ruby": "Tende trappole con fili elettrificati. Consuma poi con comodo le prede immobilizzate dalla scarica elettrica.",
             "alpha-sapphire": "Quando viene attaccato, espelle una rete di fili elettrificati per formare una barriera elettrica.",
             "sword": "Attacca lanciando peli carichi di elettricità dall'addome. Chi viene colpito rimane paralizzato per tre giorni interi.",
-            "shield": "Tesse trappole di fili elettrizzati vicino ai nidi di Pokémon alati per catturare i piccoli che non sanno ancora volare."
+            "shield": "Tesse trappole di fili elettrizzati vicino ai nidi di Pokémon alati per catturare i piccoli che non sanno ancora volare.",
+            "scarlet": "Tende trappole con fili elettrificati. Consuma poi con comodo le prede immobilizzate dalla scarica elettrica.",
+            "violet": "Quando viene attaccato, espelle una rete di fili elettrificati per formare una barriera elettrica."
         }
     },
     "egg_groups": [
@@ -33,14 +35,14 @@
     "flat_name": "galvantula",
     "generation": 5,
     "height": {
-        "galvantula": "0.8 m"
+        "galvantula": "0,8 m"
     },
     "id": 596,
     "name": "Galvantula",
     "name_origin": "Il suo nome potrebbe derivare dall'unione delle parole inglesi galvanization  e tarantula . ",
     "origin": "Galvantula è basato su una tarantola o su un ragno saltellante. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Galvantula",
-    "shape": "insettoide",
+    "shape": "None",
     "specie": "Pokémon Elettroragno",
     "sprites": {
         "galvantula": {
@@ -64,11 +66,11 @@
     },
     "types": {
         "galvantula": [
-            "Coleot",
-            "Elettro"
+            "Elettro",
+            "Coleot"
         ]
     },
     "weight": {
-        "galvantula": "14.3 kg"
+        "galvantula": "14,3 kg"
     }
 }

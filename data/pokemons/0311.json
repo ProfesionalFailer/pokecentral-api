@@ -11,21 +11,46 @@
         "In Super Smash Bros. Brawl ci sono diversi file per personaggi giocabili inutilizzati. Uno di questi file si chiama \"Pra_Mai\", portando alcuni giocatori a ipotizzare che Plusle e Minun fossero considerati per apparire come un tag team, come gli Ice Climbers."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/plusle.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "plusle": {
+            "ruby": "PLUSLE agisce sempre da mascotte del gruppo. Ogni volta che un suo compagno ottiene buoni risultati in lotta, PLUSLE crea un cortocircuito per provocare l'allegro scoppiettio delle scintille e dimostrare la sua gioia.",
+            "sapphire": "Quando PLUSLE s'esibisce per rallegrare i suoi compagni, emana vivaci scintille elettriche da tutto il corpo. Se la sua squadra perde, piange rumorosamente.",
+            "emerald": "Per rallegrare i suoi compagni, PLUSLE crea un corto circuito con l'elettricità che emana dalle zampe, generando così un vivace scoppiettio di scintille.",
+            "fire-red": "Produce allegre scintille per festeggiare i suoi amici. Assorbe energia salendo sui pali della luce.",
+            "leaf-green": "Produce allegre scintille per festeggiare i suoi amici. Assorbe energia salendo sui pali della luce.",
+            "diamond": "Incoraggia gli amici con un vivace scoppiettio di scintille. Assorbe elettricità dai pali telefonici.",
+            "pearl": "Incoraggia gli amici con un vivace scoppiettio di scintille. Assorbe elettricità dai pali telefonici.",
+            "platinum": "Incoraggia gli amici con un vivace scoppiettio di scintille. Assorbe elettricità dai pali telefonici.",
+            "heart-gold": "Assorbe elettricità dai pali della luce, la accumula e poi crea dei rumorosi cortocircuiti.",
+            "soul-silver": "Assorbe elettricità dai pali della luce, la accumula e poi crea dei rumorosi cortocircuiti.",
+            "black": "Incoraggia gli amici con un vivace scoppiettio di scintille. Assorbe elettricità dai pali telefonici.",
+            "white": "Incoraggia gli amici con un vivace scoppiettio di scintille. Assorbe elettricità dai pali telefonici.",
+            "black-2": "Incoraggia gli amici con un vivace scoppiettio di scintille. Assorbe elettricità dai pali telefonici.",
+            "white-2": "Incoraggia gli amici con un vivace scoppiettio di scintille. Assorbe elettricità dai pali telefonici.",
+            "x": "Incoraggia gli amici con un vivace scoppiettio di scintille. Assorbe elettricità dai pali telefonici.",
+            "y": "Assorbe elettricità dai pali della luce, la accumula e poi crea dei rumorosi cortocircuiti.",
+            "omega-ruby": "Plusle agisce sempre da mascotte del gruppo. Ogni volta che un suo compagno ottiene buoni risultati nella lotta, Plusle crea un cortocircuito per provocare l'allegro scoppiettio delle scintille e dimostrare la sua gioia.",
+            "alpha-sapphire": "Quando Plusle si esibisce per rallegrare i suoi compagni, emana vivaci scintille elettriche da tutto il corpo. Se la sua squadra perde, piange rumorosamente.",
+            "brilliant-diamond": "Fa il tifo per i suoi amici con dei pompon fatti di scintille. Assorbe elettricità dai pali telefonici.",
+            "shining-pearl": "Fa il tifo per i suoi amici con dei pompon fatti di scintille. Assorbe elettricità dai pali telefonici.",
+            "scarlet": "Fa il tifo per i suoi compagni emanando scintille dal corpo. Sale sui pali della luce per assorbire energia elettrica.",
+            "violet": "Assorbe elettricità dai pali della luce, la accumula e poi crea dei rumorosi cortocircuiti."
+        }
+    },
     "egg_groups": [
         "Magico"
     ],
     "flat_name": "plusle",
     "generation": 3,
     "height": {
-        "plusle": "0.40 m"
+        "plusle": "0,40 m"
     },
     "id": 311,
     "name": "Plusle",
-    "name_origin": "Il nome \"Plusle\" è basato su \"plus\" , riferendosi a qualcosa con una carica elettrica positiva. Potrebbe anche derivare da \"pulse\" , riferimento a Pulseman ",
-    "origin": "Sembra essere basato su un topo o un coniglio. ",
+    "name_origin": "Plusle potrebbe derivare da plus, più, simbolo della carica elettrica positiva. Potrebbe anche derivare da pulse, pulsazione. ",
+    "origin": "Sembra essere basato su un topo, coniglio, o chipmunk e una cheerleader. Potrebbe anche essere un'incarnazione di una carica elettrica positiva. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Plusle",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Incitamento",
     "sprites": {
         "plusle": {
@@ -53,6 +78,6 @@
         ]
     },
     "weight": {
-        "plusle": "4.2 kg"
+        "plusle": "4,2 kg"
     }
 }

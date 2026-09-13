@@ -7,28 +7,17 @@
         }
     },
     "curiosities": [
-        "Articoli incompleti",
-        "Pokémon",
-        "Pokémon di quarta generazione",
-        "Pokémon di tipo Acqua",
-        "Pokémon di tipo singolo",
-        "Pokémon nel gruppo di esperienza Irregolare",
-        "Pokémon di colore Blu",
-        "Pokémon dalla sagoma n. 03",
-        "Pokémon con una proporzione sessuale di un maschio per ogni femmina",
-        "Pokémon di Gruppo Uova Acqua 2",
-        "Pokémon appartenenti a una linea di evoluzione a due stadi",
-        "Pokémon con statistiche base totali di 330",
-        "Pokémon con un totale massimo di 19 stelle prestazione"
+        "Finneon può imparare Naturforza tramite MT, mentre la sua evoluzione non può.",
+        "Finneon e Lumineon sono gli unici Pokémon di quarta generazione ad avere le pinne."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/finneon.mp3",
     "dex_entries": {
         "finneon": {
-            "diamond": "Dopo una lunga esposizione al sole, i motivi sulle sue pinne brillano vividamente al calar dell’oscurità.",
+            "diamond": "Dopo una lunga esposizione al sole, i motivi sulle sue pinne brillano vividamente al calar dell'oscurità.",
             "pearl": "Il modo in cui agita le sue due pinne nuotando gli è valso il soprannome di “BEAUTIFLY dei mari”.",
             "platinum": "La linea che contorna il suo corpo immagazzina la luce solare. Di notte si illumina di una luce splendente.",
-            "heartgold": "Nuota battendo le due pinne caudali come fossero ali di BEAUTIFLY. Di notte i disegni sulle pinne brillano.",
-            "soulsilver": "Nuota battendo le due pinne caudali come fossero ali di BEAUTIFLY. Di notte i disegni sulle pinne brillano.",
+            "heart-gold": "Nuota battendo le due pinne caudali come fossero ali di BEAUTIFLY. Di notte i disegni sulle pinne brillano.",
+            "soul-silver": "Nuota battendo le due pinne caudali come fossero ali di BEAUTIFLY. Di notte i disegni sulle pinne brillano.",
             "black": "La linea che contorna il suo corpo immagazzina la luce solare. Di notte si illumina di una luce splendente.",
             "white": "La linea che contorna il suo corpo immagazzina la luce solare. Di notte si illumina di una luce splendente.",
             "black-2": "La linea che contorna il suo corpo immagazzina la luce solare. Di notte si illumina di una luce splendente.",
@@ -54,14 +43,14 @@
     "flat_name": "finneon",
     "generation": 4,
     "height": {
-        "finneon": "0.4 m"
+        "finneon": "0,4 m"
     },
     "id": 456,
     "name": "Finneon",
-    "name_origin": "Deriva dalle parole fin  e neon, ricordando oltre che il brillare dei motivi sulle pinne caricati di luce solare, il pesce neon. ",
-    "origin": "Potrebbe essere basato su un pesce farfalla, come il pesce farfalla africano. Ricorda molto il neon cardinale o il tetra neon. La sua coda tuttavia ha la sembianza di ali di una vera e propria farfalla. ",
+    "name_origin": "Finneon potrebbe derivare da fin, pinna, e neon. Keikouo, il suo nome giapponese, potrebbe derivare da 蛍光 keikō, fluorescente, e 魚 uo, pesce. ",
+    "origin": "Le grandi pinne della coda di Finneon ricordano quelle di un pesce farfalla africano, oltre ad assomigliare ad un'effettiva farfalla. In generale ricorda un neon o un neon cardinale. I suoi salti fuori dall'acqua ricordano quelli dei pesci volanti, incluso il fatto che questi salti spesso li rendano preda di uccelli marini. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Finneon",
-    "shape": "pinne",
+    "shape": "None",
     "specie": "Pokémon Pescealato",
     "sprites": {
         "finneon": {
@@ -93,6 +82,6 @@
         ]
     },
     "weight": {
-        "finneon": "7.0 kg"
+        "finneon": "7,0 kg"
     }
 }

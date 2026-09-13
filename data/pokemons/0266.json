@@ -7,24 +7,49 @@
     "curiosities": [
         "Silcoon condivide la sua categoria con Metapod, Kakuna e Cascoon. Sono tutti noti come Pokémon Bozzolo.\n\tCondividono inoltre lo stesso totale delle statistiche base, le stesse mosse apprese, le stesse abilità e gli stessi punti base ceduti.",
         "Condividono inoltre lo stesso totale delle statistiche base, le stesse mosse apprese, le stesse abilità e gli stessi punti base ceduti.",
-        "Silcoon, insieme a Cascoon, può essere visto senza le sporgenze sul suo corpo nella serie animata, in tutti i giochi della serie principale da X e Y in poi e, occasionalmente, in Pokémon Oro HeartGold e Argento SoulSilver."
+        "Silcoon, insieme a Cascoon, può essere visto senza le sporgenze sul suo corpo nella serie animata, in tutti i giochi della serie principale da X e Y in poi e, occasionalmente, in Pokémon Oro HeartGold e Argento SoulSilver.",
+        "Silcoon e Cascoon condividono il tipo, le statistiche, le mosse apprese e la forma, rendendoli praticamente identici."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/silcoon.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "silcoon": {
+            "ruby": "SILCOON si lega ai rami degli alberi grazie ad alcuni fili di seta che gli impediscono di cadere. In tale posizione aspetta pazientemente l'evoluzione. Da un piccolo foro sbircia fuori dal proprio bozzolo di seta.",
+            "sapphire": "In passato si pensava che SILCOON resistesse alla fame senza ingerire nulla fino all'evoluzione. Tuttavia, ora si presume che il POKéMON plachi la sua sete bevendo l'acqua piovana che si posa sul suo bozzolo.",
+            "emerald": "SILCOON si prepara all'evoluzione usando l'energia immagazzinata quando era un WURMPLE. Scruta l'ambiente attorno a sé con i suoi due occhi.",
+            "fire-red": "Si muove pochissimo, per conservare le energie. In attesa di evolversi, beve esigue quantità di acqua piovana.",
+            "leaf-green": "Si muove pochissimo, per conservare le energie. In attesa di evolversi, beve esigue quantità di acqua piovana.",
+            "diamond": "SILCOON si ancora ai rami con fili di seta. In questa posizione aspetta immobile l'evoluzione.",
+            "pearl": "Beve la rugiada che si posa sulla seta e aspetta l’evoluzione. Il suo bozzolo duro respinge gli attacchi.",
+            "platinum": "Si appende ai rami con fili di seta. Aspetta l’evoluzione bevendo l’acqua piovana che si posa sulla seta.",
+            "heart-gold": "Avvolge i suoi fili ai rami per non cadere e così sospeso aspetta immobile l'evoluzione.",
+            "soul-silver": "Avvolge i suoi fili ai rami per non cadere e così sospeso aspetta immobile l'evoluzione.",
+            "black": "Si appende ai rami con fili di seta. Aspetta l'evoluzione bevendo l'acqua piovana che si posa sulla seta.",
+            "white": "Si appende ai rami con fili di seta. Aspetta l'evoluzione bevendo l'acqua piovana che si posa sulla seta.",
+            "black-2": "Si appende ai rami con fili di seta. Aspetta l'evoluzione bevendo l'acqua piovana che si posa sulla seta.",
+            "white-2": "Si appende ai rami con fili di seta. Aspetta l'evoluzione bevendo l'acqua piovana che si posa sulla seta.",
+            "x": "Si appende ai rami con fili di seta. Aspetta l'evoluzione bevendo l'acqua piovana che si posa sulla seta.",
+            "y": "Beve la rugiada che si posa sulla seta e aspetta l'evoluzione. Il suo bozzolo duro respinge gli attacchi.",
+            "omega-ruby": "Silcoon si lega ai rami degli alberi grazie ad alcuni fili di seta che gli impediscono di cadere. In tale posizione aspetta pazientemente l'evoluzione. Sbircia fuori dal suo bozzolo di seta attraverso piccoli fori.",
+            "alpha-sapphire": "In passato si pensava che Silcoon resistesse alla fame senza ingerire nulla fino all'evoluzione. Tuttavia, ora si presume che il Pokémon plachi la sua sete bevendo l'acqua piovana che si posa sul suo bozzolo.",
+            "brilliant-diamond": "Si ancora ai rami con fili di seta che secerne dal corpo. In questa posizione aspetta immobile l'evoluzione.",
+            "shining-pearl": "Beve la rugiada che si posa sui suoi fili di seta e aspetta l'evoluzione. Il suo bozzolo duro respinge gli attacchi.",
+            "legends-arceus": "Avvolge le membra in fili sottili per accumulare energia per l'evoluzione. Lento nel muoversi, ha gli arti bloccati, ma i suoi occhi sono attenti e vigili."
+        }
+    },
     "egg_groups": [
         "Coleottero"
     ],
     "flat_name": "silcoon",
     "generation": 3,
     "height": {
-        "silcoon": "0.60 m"
+        "silcoon": "0,60 m"
     },
     "id": 266,
     "name": "Silcoon",
-    "name_origin": "Deriva dalle parole silk  e cocoon . ",
-    "origin": "È basato su di un bozzolo. ",
+    "name_origin": "Silcoon potrebbe derivare da silk, seta, e cocoon, bozzolo. Karasalis, il suo nome giapponese, potrebbe derivare da 殻 kara, guscio, e chrysalis, crisalide. ",
+    "origin": "Silcoon sembra essere basato su un bozzolo di Bombyx mori, dato il suo colore bianco. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Silcoon",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Bozzolo",
     "sprites": {
         "silcoon": {
@@ -52,6 +77,6 @@
         ]
     },
     "weight": {
-        "silcoon": "10.0 kg"
+        "silcoon": "10,0 kg"
     }
 }

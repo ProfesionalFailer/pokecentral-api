@@ -6,10 +6,10 @@
         }
     },
     "curiosities": [
-        "Clamperl condivide la sua categoria con Cloyster e Shellder: sono tutti noti come Pokémon Bivalve.",
-        "Clamperl è uno dei tre Pokémon introdotti in terza generazione ad evolversi tenendo uno strumento: gli altri due sono Dusclops e Feebas, tuttavia per Feebas è stata introdotta in quinta generazione l'evoluzione via scambio tenendo una Squama Bella per compensare l'assenza della statistica Bellezza.",
-        "Clamperl è l'unico Pokémon in grado di evolversi in due Pokémon distinti se scambiato con differenti oggetti: Denteabissi e Squamabissi.",
-        "Nonostante la sua perla possa amplificare i poteri psichici non è in grado di apprendere nessuna mossa offensiva di tipo  psico."
+        "Clamperl condivide la sua specie con Cloyster e Shellder: sono tutti noti come Pokémon Bivalve.",
+        "Clamperl è l'unico Pokémon in grado di evolversi in due Pokémon distinti se scambiato con differenti strumenti: Dente Abissi e Squamabissi.",
+        "Clamperl può imparare Ferroscudo tramite Insegnamosse, ma le sue evoluzioni non possono.",
+        "Clamperl e Ditto sono gli unici Pokémon ad avere strumenti esclusivi che migliorano due statistiche diverse."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/clamperl.mp3",
     "dex_entries": {
@@ -17,13 +17,13 @@
             "ruby": "La robusta conchiglia di CLAMPERL è un'eccellente protezione, ma è anche molto utile per intrappolare e catturare la preda. Di solito una conchiglia giunta alla sua completa maturità è segnata da tacche e graffi.",
             "sapphire": "CLAMPERL cresce ben protetto dalla sua conchiglia dura come la pietra. Quando cresce oltre la misura della conchiglia, significa che è prossimo all'evoluzione.",
             "emerald": "CLAMPERL chiude di scatto la conchiglia per intrappolare il nemico. Si dice che la perla che produce quando si evolve sia permeata da una forza misteriosa.",
-            "firered": "È protetto da un guscio coriaceo. Una sola volta in tutta la sua vita produce una magnifica perla.",
-            "leafgreen": "È protetto da un guscio coriaceo. Una sola volta in tutta la sua vita produce una magnifica perla.",
+            "fire-red": "È protetto da un guscio coriaceo. Una sola volta in tutta la sua vita produce una magnifica perla.",
+            "leaf-green": "È protetto da un guscio coriaceo. Una sola volta in tutta la sua vita produce una magnifica perla.",
             "diamond": "Crea una sola perla in tutta la sua vita. Si dice che questa perla amplifichi i poteri psichici.",
             "pearl": "Crea una sola perla in tutta la sua vita. Si dice che questa perla amplifichi i poteri psichici.",
             "platinum": "Crea una sola perla in tutta la sua vita. Si dice che questa perla amplifichi i poteri psichici.",
-            "heartgold": "Crea una sola perla in tutta la sua vita, quando si evolve. Questa perla amplifica i poteri psichici.",
-            "soulsilver": "Crea una sola perla in tutta la sua vita, quando si evolve. Questa perla amplifica i poteri psichici.",
+            "heart-gold": "Crea una sola perla in tutta la sua vita, quando si evolve. Questa perla amplifica i poteri psichici.",
+            "soul-silver": "Crea una sola perla in tutta la sua vita, quando si evolve. Questa perla amplifica i poteri psichici.",
             "black": "Crea una sola perla in tutta la sua vita. Si dice che questa perla amplifichi i poteri psichici.",
             "white": "Crea una sola perla in tutta la sua vita. Si dice che questa perla amplifichi i poteri psichici.",
             "black-2": "Crea una sola perla in tutta la sua vita. Si dice che questa perla amplifichi i poteri psichici.",
@@ -33,7 +33,9 @@
             "omega-ruby": "La robusta conchiglia di Clamperl è un'eccellente protezione, ma è anche molto utile per intrappolare e catturare la preda. Di solito una conchiglia giunta alla sua completa maturità è segnata da tacche e graffi.",
             "alpha-sapphire": "Clamperl cresce ben protetto dalla sua conchiglia dura come la pietra. Quando cresce oltre la misura della conchiglia, significa che è prossimo all'evoluzione.",
             "ultra-sun": "Nonostante le apparenze, è carnivoro. Intrappola la preda con la conchiglia bivalve e la tiene stretta finché non smette di muoversi.",
-            "ultra-moon": "La perla di Clamperl è talmente preziosa da valere fino a oltre dieci volte quella di Shellder."
+            "ultra-moon": "La perla di Clamperl è talmente preziosa da valere fino a oltre dieci volte quella di Shellder.",
+            "brilliant-diamond": "Crea una sola perla in tutta la sua vita, la quale si dice che amplifichi i poteri psichici.",
+            "shining-pearl": "Crea una sola perla in tutta la sua vita, la quale si dice che amplifichi i poteri psichici."
         }
     },
     "egg_groups": [
@@ -42,14 +44,14 @@
     "flat_name": "clamperl",
     "generation": 3,
     "height": {
-        "clamperl": "0.40 m"
+        "clamperl": "0,40 m"
     },
     "id": 366,
     "name": "Clamperl",
-    "name_origin": "Il suo nome deriva dall'unione delle parole inglesi clamp  oppure clam  e pearl . ",
-    "origin": "Clamperl è basato su un'ostrica o in una Tridacna gigante, tuttavia sia a causa del suo aspetto, sia a causa delle sue evoluzioni, sembra che Clamperl sia basato su un uovo di pesce. ",
+    "name_origin": "Clamperl potrebbe derivare da clam, mollusco bivalve, e pearl . Pearlulu, il suo nome giapponese, potrebbe derivare da pearl e possibilmente لؤلؤ lulu, arabo per \"perle\". ",
+    "origin": "Clamperl sembra essere basato su un'ostrica o in una Tridacna gigante. A causa del suo aspetto e delle sue evoluzioni, potrebbe anche essere basato su un uovo di pesce. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Clamperl",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Bivalve",
     "sprites": {
         "clamperl": {
@@ -77,6 +79,6 @@
         ]
     },
     "weight": {
-        "clamperl": "52.5 kg"
+        "clamperl": "52,5 kg"
     }
 }

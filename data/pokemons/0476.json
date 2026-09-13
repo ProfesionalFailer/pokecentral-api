@@ -9,8 +9,8 @@
     "curiosities": [
         "Probopass e Registeel hanno la più alta Difesa Speciale di tutti i Pokémon Acciaio.",
         "Siccome nessuna area con un campo magnetico speciale è accessibile in Pokémon Oro HeartGold e Argento SoulSilver, è impossibile far evolvere un Nosepass in questi giochi. Lo stesso accade con Magneton. Entrambi devono essere scambiati dalle versioni Pokémon Diamante e Perla e Pokémon Platino per essere ottenuti. In tutti i giochi successivi è presente almeno una zona con tale campo magnetico per permettere l'evoluzione di questi Pokémon.",
-        "Probopass impara una nuova mossa ogni 6 livelli  fino al livello 79.",
-        "A causa della censura dei soprannomi attuata in Pokémon Nero e Bianco, un Probopass proveniente dalla versione inglese non può essere trasferito nel GTS senza un soprannome adeguato."
+        "A causa della censura sui soprannomi dei Pokémon in quinta generazione, un Probopass con il nome inglese non può essere scambiato senza soprannome nel GTS.",
+        "Probopass è l'unico Pokémon non di tipo Elettro ottenibile usando una Pietratuono."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/probopass.mp3",
     "dex_entries": {
@@ -18,8 +18,8 @@
             "diamond": "Emana un forte magnetismo da tutto il corpo. Controlla tre piccole unità, dette Mininasi.",
             "pearl": "Emana un forte magnetismo da tutto il corpo. Controlla tre piccole unità, dette Mininasi.",
             "platinum": "Controlla tre piccole unità, dette Mininasi, usando la forza magnetica.",
-            "heartgold": "Controllando magneticamente tre piccole unità dette Mininasi, può battere il nemico da tre punti diversi.",
-            "soulsilver": "Controllando magneticamente tre piccole unità dette Mininasi, può battere il nemico da tre punti diversi.",
+            "heart-gold": "Controllando magneticamente tre piccole unità dette Mininasi, può battere il nemico da tre punti diversi.",
+            "soul-silver": "Controllando magneticamente tre piccole unità dette Mininasi, può battere il nemico da tre punti diversi.",
             "black": "Controlla tre piccole unità, dette Mininasi, usando la forza magnetica.",
             "white": "Controlla tre piccole unità, dette Mininasi, usando la forza magnetica.",
             "black-2": "Controlla tre piccole unità, dette Mininasi, usando la forza magnetica.",
@@ -34,7 +34,9 @@
             "ultra-moon": "Usa le tre piccole unità per procacciare il cibo e lottare contro i nemici. Il corpo centrale si limita quasi esclusivamente a impartire ordini.",
             "brilliant-diamond": "Emana un'intensa forza magnetica da tutto il corpo. Controlla tre piccole unità, dette \"Mininasi\".",
             "shining-pearl": "Emana un'intensa forza magnetica da tutto il corpo. Controlla tre piccole unità, dette \"Mininasi\".",
-            "legends-arceus": "Genera forti campi magnetici con cui manovra la sabbia ferrosa immagazzinata a guisa di baffi. Attacca le prede con dure selci e le abbatte."
+            "legends-arceus": "Genera forti campi magnetici con cui manovra la sabbia ferrosa immagazzinata a guisa di baffi. Attacca le prede con dure selci e le abbatte.",
+            "scarlet": "Controllando magneticamente tre piccole unità dette Mininasi, può battere il nemico attaccandolo da tre punti diversi.",
+            "violet": "Emette un forte campo magnetico che rende inutilizzabili le apparecchiature elettriche nelle vicinanze."
         }
     },
     "egg_groups": [
@@ -43,14 +45,14 @@
     "flat_name": "probopass",
     "generation": 4,
     "height": {
-        "probopass": "1.4 m"
+        "probopass": "1,4 m"
     },
     "id": 476,
     "name": "Probopass",
-    "name_origin": "Probopass è una combinazione delle parole proboscis  e compass . Il nome giapponese, ダイノーズ Dainose, è una combinazione delle parole 大 dai  e l'inglese nose . ",
-    "origin": "Probopass è basato sulle statue moai dell'Isola di Pasqua. Potrebbe anche essere un omaggio a Super Mario. Il suo naso e i mini-nasi , indicano come aghi di una bussola il nord e i restanti punti cardinali est, ovest e sud. ",
+    "name_origin": "Probopass potrebbe derivare da proboscis, proboscide, e compass, bussola. Dainose, il suo nome giapponese, potrebbe derivare da 大 dai, grande, north, nord, e nose, naso. In contrasto i mininasi sono detti チビノーズ Chibinose, da ちび chibi piccolo, north, e nose. ",
+    "origin": "Nosepass sembra essere basato sui Moai dell'Isola di Pasqua indossante un pukao e su una bussola con attaccata della limatura di ferro. I suoi nasi ricordano gli aghi di una bussola, con il più grande indicante il nord e i mininase le altre tre direzioni. Il suo naso funzionante come una bussola potrebbe essere un riferimento al modo di dire \"to follow someone's nose\", in italiano \"andare a naso\", ovvero seguire i propri istinti. Altrimenti potrebbe essere un gioco di parole con la pronuncia giapponese delle parole inglesi \"nose\"  e \"north\" . Potrebbe inoltre derivare dall'osso etmoide situato nelle fosse nasali, che permette ad alcune specie di avere un ottimo senso dell'orientamento tramite la magnetorecezione. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Probopass",
-    "shape": "corpi multipli",
+    "shape": "None",
     "specie": "Pokémon Bussola",
     "sprites": {
         "probopass": {
@@ -79,6 +81,6 @@
         ]
     },
     "weight": {
-        "probopass": "340.0 kg"
+        "probopass": "340,0 kg"
     }
 }

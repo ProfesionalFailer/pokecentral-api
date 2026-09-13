@@ -9,24 +9,55 @@
     "curiosities": [
         "Xatu condivide lo stesso nome di specie con Flygon. Sono entrambi conosciuti come Pokémon Magico.",
         "Nei giochi Pokémon Argento, Pokémon Rosso Fuoco e Pokémon Argento SoulSilver le voci Pokédex di Xatu affermano che in Sud America esistono leggende attorno a lui. Questo è un esempio di connessione tra mondo dei Pokémon e mondo reale.",
-        "Nello sprite di Pokémon Oro Xatu aveva degli occhi disegnati sulle ali e una striscia nera e una gialla anziché entrambe gialle. Da Pokémon Cristallo in poi, questi particolari sono stati cambiati, rendendo Xatu uno dei pochi Pokémon ad avere tre differenti sprite per ogni gioco di Seconda generazione."
+        "Nello sprite di Pokémon Oro Xatu aveva degli occhi disegnati sulle ali e una striscia nera e una gialla anziché entrambe gialle. Da Pokémon Cristallo in poi, questi particolari sono stati cambiati, rendendo Xatu uno dei pochi Pokémon ad avere tre differenti sprite per ogni gioco di Seconda generazione.",
+        "Il nome di Xatu è stato suggerito da Jeff Kalles, che ha dato il nome inglese a molti Pokémon di seconda generazione. Secondo Kalles, Nintendo e The Pokémon Company volevano un Pokémon per ogni lettera dell'alfabeto."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/xatu.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "xatu": {
+            "gold": "Si dice che sia così quieto perché sta osservando passato e futuro allo stesso tempo.",
+            "silver": "In Sudamerica si dice che il suo occhio destro veda il futuro, e quello sinistro il passato.",
+            "crystal": "Quando, all'alba, inizia a meditare, riesce a rimanere immobile fino alla fine del giorno.",
+            "ruby": "XATU rimane in piedi immobile nello stesso punto tutto il giorno. Qualcuno crede che si comporti così per gli eventi terribili che ha previsto per il futuro.",
+            "sapphire": "XATU è noto per la sua immobilità mentre guarda il sole stando in piedi tutto il giorno. Alcuni lo considerano un POKéMON mistico, convinti che XATU possegga il potere di prevedere il futuro.",
+            "emerald": "Gli XATU sono POKéMON molto enigmatici in grado di prevedere il futuro. Persone di paesi diversi credono da lungo tempo che provengano da un altro mondo.",
+            "fire-red": "In Sudamerica si dice che il suo occhio destro veda il futuro, e quello sinistro il passato.",
+            "leaf-green": "Si dice che sia così quieto perché sta osservando passato e futuro allo stesso tempo.",
+            "diamond": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "pearl": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "platinum": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "heart-gold": "Si dice che sia così quieto perché sta osservando passato e futuro allo stesso tempo.",
+            "soul-silver": "In Sudamerica si dice che il suo occhio destro veda il futuro e quello sinistro il passato.",
+            "black": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "white": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "black-2": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "white-2": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "x": "Quando, all'alba, inizia a meditare, riesce a rimanere immobile fino alla fine del giorno.",
+            "y": "Si dice che sia così quieto perché sta osservando passato e futuro allo stesso tempo.",
+            "omega-ruby": "Xatu rimane in piedi immobile nello stesso punto tutto il giorno. Qualcuno crede che si comporti così per gli eventi terribili che ha previsto per il futuro.",
+            "alpha-sapphire": "Xatu è noto per la sua immobilità mentre guarda il sole stando in piedi tutto il giorno. Alcuni lo considerano un Pokémon mistico, convinti che Xatu possegga il potere di prevedere il futuro.",
+            "ultra-sun": "Si dice che questo Pokémon abbia il potere di prevedere il futuro, ma non di cambiarlo.",
+            "ultra-moon": "Prevede il futuro ma non gradisce i mutamenti che vi scorge. Per questo pare che se ne stia sempre immobile.",
+            "sword": "Si dice che se ne stia immobile e in silenzio perché sta osservando passato e futuro allo stesso tempo.",
+            "shield": "Pokémon enigmatico che vede il passato e prevede il futuro osservando il sole tutto il giorno.",
+            "brilliant-diamond": "Pokémon enigmatico che vede il passato e prevede il futuro. Passa le giornate a osservare il moto del sole.",
+            "shining-pearl": "Pokémon enigmatico che vede il passato e prevede il futuro. Passa le giornate a osservare il moto del sole."
+        }
+    },
     "egg_groups": [
         "Volante"
     ],
     "flat_name": "xatu",
     "generation": 2,
     "height": {
-        "xatu": "1.5 m"
+        "xatu": "1,5 m"
     },
     "id": 178,
     "name": "Xatu",
-    "name_origin": "L'origine del nome è stato rivelato da Jeff Kalles, uno dei responsabili dell'adattamento dei nomi dal giapponese all'americano: la X in Xatu deriva dal fatto che la Pokémon Company desiderasse avere almeno un Pokémon per ogni lettera dell'alfabeto, atu invece come in Natu è l'abbreviazione della parola natura. ",
-    "origin": "Sembra essere basato su un Quetzal splendente con elementi di design simili a un totem dei nativi americani o dei Kachina. Il fatto che rimanga sempre fermo ricorda la meditazione Sun Gazing, nella quale infatti bisogna stare fermi in contemplazione. Questa pratica di meditazione è di origine Atzeca e si dice che conferisca abilità psichiche, che gli Xatu hanno. Potrebbe essere anche ispirato a Camio, un demone dalla testa di uccello capace di prevedere il futuro. ",
+    "name_origin": "Xatu deriva da xat, un tronco intagliato tipico dei nativi americani, e possibilmente da Natu. Natio, il suo nome giapponese, potrebbe derivare da native, nativo, e indio, parola spagnola per indicare i nativi americani. ",
+    "origin": "Xatu sembra essere basato su un quetzal splendente con elementi che lo riconducono ai totem dei nativi americani o ai Kachina. Il suo comportamento ricorda la pratica del Sun Gazing, praticata da popoli aztechi e maya credendo potesse dare poteri soprannaturali . Xatu ricorda un nemico simile ad un uccello apparso nel secondo livello di Pulseman per colori e forma. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Xatu",
-    "shape": "un paio di ali",
+    "shape": "None",
     "specie": "Pokémon Magico",
     "sprites": {
         "xatu": {
@@ -59,6 +90,6 @@
         ]
     },
     "weight": {
-        "xatu": "15.0 kg"
+        "xatu": "15,0 kg"
     }
 }

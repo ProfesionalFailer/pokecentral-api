@@ -13,14 +13,18 @@
         "forma-meteora": {
             "sun": "Vive normalmente nello strato d'ozono, ma quando il guscio esterno si indurisce precipita a terra.",
             "moon": "Ha avuto origine da una mutazione improvvisa di nanoparticelle. Un attacco violento può fargli perdere il guscio esterno.",
-            "ultra-sun": "Vive nello strato d’ozono, dove Pokémon più forti di lui lo cacciano per cibarsene. Spesso precipita sulla terraferma cercando di fuggire.",
-            "ultra-moon": "Il suo guscio esterno è estremamente resistente, ma quando precipita dallo strato d'ozono l'impatto con il suolo lo fa andare in mille pezzi."
+            "ultra-sun": "Vive nello strato d'ozono, dove Pokémon più forti di lui lo cacciano per cibarsene. Spesso precipita sulla terraferma cercando di fuggire.",
+            "ultra-moon": "Il suo guscio esterno è estremamente resistente, ma quando precipita dallo strato d'ozono l'impatto con il suolo lo fa andare in mille pezzi.",
+            "scarlet": "Nasce nello strato d'ozono. Quando il guscio esterno che avvolge il nucleo si appesantisce, precipita a terra.",
+            "violet": "Quando viene toccato o chiamato sembra reagire, ma non si sa se sia una risposta volontaria."
         },
         "nucleo": {
             "sun": "Si nutre del pulviscolo atmosferico e il suo nucleo cambia colore a seconda degli elementi assimilati.",
             "moon": "Se il nucleo rimane esposto all'aria, inizia a disgregarsi e per mantenerlo in vita bisogna farlo entrare immediatamente in una Poké Ball.",
             "ultra-sun": "Alola è uno dei rari luoghi in cui di notte è possibile vedere dei Minior cadere dal cielo.",
-            "ultra-moon": "Un Minior che ha perso il suo guscio. Le diverse colorazioni del nucleo dipendono dagli elementi che assimila."
+            "ultra-moon": "Un Minior che ha perso il suo guscio. Le diverse colorazioni del nucleo dipendono dagli elementi che assimila.",
+            "scarlet": "I Minior caduti sul nostro pianeta cercano di tornare nello spazio, ma finiscono per disgregarsi senza realizzare il proprio desiderio.",
+            "violet": "Pare che il colore del suo nucleo sia dovuto agli elementi contenuti nel pulviscolo atmosferico di cui si nutre."
         }
     },
     "egg_groups": [
@@ -29,19 +33,19 @@
     "flat_name": "minior",
     "generation": 7,
     "height": {
-        "minior": "0.3 m"
+        "minior": "0,3 m"
     },
     "id": 774,
     "name": "Minior",
     "name_origin": "Minior è probabilmente una combinazione di mini, piccolo, meteor, meteora, e junior, giovane. Meteno potrebbe essere una corruzione della parola meteor, meteora. ",
     "origin": "Minior è basato su una meteora. Inoltre, può essere ispirato dalla secolare caramella giapponese, Konpeito. Queste sono caramelle zuccherate a forma di stella che possono essere di vari colori. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Minior",
-    "shape": "testa",
+    "shape": "None",
     "specie": "Pokémon Meteora",
     "sprites": {
-        "minior": {
+        "file:homemsh0774png": {
             "default": "https://media.pokemoncentral.it/wiki/d/d3/Homem0774.png",
-            "shiny": "https://media.pokemoncentral.it/wiki/d/d3/Homem0774.png"
+            "shiny": ""
         },
         "official_artwork": "https://media.pokemoncentral.it/wiki/3/3f/Artwork0774_SL.png"
     },
@@ -74,6 +78,6 @@
         ]
     },
     "weight": {
-        "minior": "40.0 kg"
+        "minior": "40,0 kg"
     }
 }

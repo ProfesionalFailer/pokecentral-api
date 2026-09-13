@@ -5,11 +5,9 @@
         }
     },
     "curiosities": [
-        "La descrizione Pokédex di Azelf dice che Uxie, Mesprit ed Azelf sono nati dallo stesso Uovo.",
-        "Uxie è la mascotte di Poképédia, la versione francese di Pokémon Central Wiki. Il logo lo mostra con gli occhi aperti.",
-        "Uxie, insieme a Mesprit ed Azelf, è il Pokémon leggendario più leggero.",
-        "Nonostante abbia lo stesso nome, nel doppiaggio inglese dell'anime ha una voce diversa da quello giapponese.",
-        "Uxie è l'unico Pokémon di Quarta Generazione il cui nome inizia con U."
+        "Uxie è la mascotte di Poképédia, il membro francese di Encyclopædiæ Pokémonis.",
+        "Uxie condivide con Mesprit e Azelf il più alto affetto base tra tutti i Pokémon leggendari.",
+        "Prima dell'aggiornamento 2.0.1 di Pokémon Scarlatto e Violetto Uxie non poteva imparare mosse dal Ricordamosse."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/uxie.mp3",
     "dex_entries": {
@@ -17,8 +15,8 @@
             "diamond": "Noto come \"Essere della conoscenza\". Pare che faccia perdere la memoria a chiunque lo fissi.",
             "pearl": "Alla nascita di questo Pokémon l’uomo avrebbe ricevuto la capacità di migliorare la propria esistenza.",
             "platinum": "Al volo di UXIE, gli uomini impararono a risolvere i problemi. In tal modo nacque la conoscenza.",
-            "heartgold": "Si dice che gli sia stata conferita la saggezza necessaria a risolvere gli svariati problemi degli umani.",
-            "soulsilver": "Si dice che gli sia stata conferita la saggezza necessaria a risolvere gli svariati problemi degli umani.",
+            "heart-gold": "Si dice che gli sia stata conferita la saggezza necessaria a risolvere gli svariati problemi degli umani.",
+            "soul-silver": "Si dice che gli sia stata conferita la saggezza necessaria a risolvere gli svariati problemi degli umani.",
             "black": "Al volo di Uxie, gli uomini impararono a risolvere i problemi. In tal modo nacque la conoscenza.",
             "white": "Al volo di Uxie, gli uomini impararono a risolvere i problemi. In tal modo nacque la conoscenza.",
             "black-2": "Al volo di Uxie, gli uomini impararono a risolvere i problemi. In tal modo nacque la conoscenza.",
@@ -38,14 +36,14 @@
     "flat_name": "uxie",
     "generation": 4,
     "height": {
-        "uxie": "0.3 m"
+        "uxie": "0,3 m"
     },
     "id": 480,
     "name": "Uxie",
-    "name_origin": "Uxie deriva dall'unione delle parole 行く先 yukusaki  o l'inglese you  e 知識 chishiki  con la parola inglese pixie . ",
-    "origin": "Potrebbe basarsi su uno spirito fatato e sul colore giallo, in quanto colore primario insieme al magenta e al ciano  . Si ispira inoltre allo Yata no Kagami, lo specchio sacro simbolo di saggezza, uno dei tesori che costituiscono le insegne imperiali del Giappone, sulle quali l'intero trio dei Guardiani dei laghi si basa. ",
+    "name_origin": "Uxie e Yuxie, il suo nome giapponese, potrebbero derivare dall'U di UMA  e pixie. Potrebbe anche includere il pronome you, \"tu\". ",
+    "origin": "Uxie sembra essere basato su una fata e sul colore giallo, colore primario insieme al magenta e al ciano di Mesprit e Azelf. Insieme potrebbero essere basati sulle insegne imperiali del Giappone: Uxie sembrerebbe basato sullo Yata no Kagami, lo specchio sacro simbolo di saggezza. Potrebbe inoltre derivare da un cherubino, un angelo appartenente a uno dei tre più alti ranghi angelici, caratterizzati dalla loro conoscenza. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Uxie",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Sapienza",
     "sprites": {
         "uxie": {
@@ -73,6 +71,6 @@
         ]
     },
     "weight": {
-        "uxie": "0.3 kg"
+        "uxie": "0,3 kg"
     }
 }

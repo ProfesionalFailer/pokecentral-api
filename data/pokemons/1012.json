@@ -1,0 +1,87 @@
+{
+    "abilities": {
+        "poltchageist": {
+            "primary": "Ospitalità",
+            "hidden": "Antifuoco"
+        }
+    },
+    "curiosities": [
+        "Pokémon",
+        "Pokémon di nona generazione",
+        "Pokémon di tipo Erba",
+        "Pokémon di tipo Spettro",
+        "Pokémon di doppio tipo",
+        "Pokémon nel gruppo di esperienza Medio-Veloce",
+        "Pokémon di colore Verde",
+        "Pokémon dalla sagoma n. 01",
+        "Pokémon di sesso sconosciuto",
+        "Pokémon di Gruppo Uova Minerale",
+        "Pokémon di Gruppo Uova Amorfo",
+        "Pagine con articoli di Johto World",
+        "Pokémon appartenenti a una linea di evoluzione a due stadi",
+        "Pagine che richiamano file inesistenti",
+        "Pokémon con statistiche base totali di 308",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti"
+    ],
+    "cry": "https://play.pokemonshowdown.com/audio/cries/poltchageist.mp3",
+    "dex_entries": {
+        "forma-taroccata": {
+            "scarlet": "Pare sia nato quando un barattolo di matcha è stato posseduto dal dolore di un cultore della cerimonia del tè morto senza padroneggiarla.",
+            "violet": "Può sembrare una forma regionale di Sinistea, ma di recente si è scoperto che non c’è alcuna relazione fra questi due Pokémon."
+        },
+        "forma-pregiata": {
+            "scarlet": "Cosparge il cibo con un po’ della polvere che compone il suo corpo per assorbire l’energia vitale di chi lo ingerisce.",
+            "violet": "Forma che assume quando entra in un barattolo da tè estremamente costoso, che i profani, però, non riescono a distinguere da uno economico."
+        }
+    },
+    "egg_groups": [
+        "Minerale",
+        "Amorfo"
+    ],
+    "flat_name": "poltchageist",
+    "generation": 9,
+    "height": {
+        "poltchageist": "0,1 m"
+    },
+    "id": 1012,
+    "name": "Poltchageist",
+    "name_origin": "Poltchageist potrebbe essere un'unione di Poltergeist o Polteageist e Matcha. ",
+    "origin": "Poltchageist è ispirato al matcha, un tipo di tè verde. Potrebbe inoltre essere ispirato agli tsukumogami, ovvero oggetti casalinghi che hanno preso vita e sono diventati yōkai . Inoltre, i tre punti sopra il suo occhio sinistro somigliano al simbolo usato su mappe giapponesi per indicare piantagioni di tè. ",
+    "pokecentral_url": "https://wiki.pokemoncentral.it/Poltchageist",
+    "shape": "None",
+    "specie": "Pokémon Matcha",
+    "sprites": {
+        "forma-taroccata": {
+            "default": "https://media.pokemoncentral.it/wiki/d/dd/Homem1012.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/8/86/Homemsh1012.png"
+        },
+        "forma-pregiata": {
+            "default": "https://media.pokemoncentral.it/wiki/0/0c/Homem1012P.png",
+            "shiny": "https://media.pokemoncentral.it/wiki/1/1c/Homemsh1012P.png"
+        },
+        "official_artwork": "https://media.pokemoncentral.it/wiki/3/30/Artwork1012_SV.png"
+    },
+    "stats": {
+        "poltchageist": {
+            "hp": 40,
+            "atk": 45,
+            "def": 45,
+            "spa": 74,
+            "spd": 54,
+            "spe": 50
+        }
+    },
+    "stats_sum": {
+        "poltchageist": 308
+    },
+    "types": {
+        "poltchageist": [
+            "Spettro",
+            "Erba"
+        ]
+    },
+    "weight": {
+        "poltchageist": "1,1 kg"
+    }
+}

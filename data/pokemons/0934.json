@@ -18,13 +18,16 @@
         "Pokémon di Gruppo Uova Minerale",
         "Pagine con articoli di Johto World",
         "Pokémon appartenenti a una linea di evoluzione a tre stadi",
-        "Pokémon con statistiche base totali di 500"
+        "Pokémon con statistiche base totali di 500",
+        "Pagine che usano template in modo errato",
+        "Articoli incompleti"
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/garganacl.mp3",
     "dex_entries": {
         "garganacl": {
             "scarlet": "Sfrega le dita per cospargere di sale i Pokémon feriti e guarire all'istante anche le lesioni più gravi.",
-            "violet": "Sono molti i Pokémon che si raccolgono attorno a Garganacl per leccare il suo sale ricchissimo di minerali."
+            "violet": "Sono molti i Pokémon che si raccolgono attorno a Garganacl per leccare il suo sale ricchissimo di minerali.",
+            "legends-za": "Il salgemma estraibile da Garganacl contiene numerosi principi rigeneranti con effetti utili al mantenimento di una buona salute."
         }
     },
     "egg_groups": [
@@ -33,14 +36,14 @@
     "flat_name": "garganacl",
     "generation": 9,
     "height": {
-        "garganacl": "2.3 m"
+        "garganacl": "2,3 m"
     },
     "id": 934,
     "name": "Garganacl",
     "name_origin": "Garganacl potrebbe derivare da Gargantuan  e NaCl . ",
     "origin": "",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Garganacl",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Salgemma",
     "sprites": {
         "garganacl": {
@@ -68,6 +71,6 @@
         ]
     },
     "weight": {
-        "garganacl": "240.0 kg"
+        "garganacl": "240,0 kg"
     }
 }

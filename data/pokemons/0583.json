@@ -7,7 +7,6 @@
         }
     },
     "curiosities": [
-        "Articoli incompleti",
         "Pokémon",
         "Pokémon di quinta generazione",
         "Pokémon di tipo Ghiaccio",
@@ -36,7 +35,8 @@
             "ultra-sun": "Congela i nemici cospargendoli di granelli di ghiaccio. I Vanillish che vivono ad Alola sono più piccoli della media.",
             "ultra-moon": "Un Pokémon incredibilmente robusto, rimasto inalterato fin dall'era glaciale. È popolarissimo tra gli abitanti delle regioni più calde.",
             "sword": "Beve acqua pura per ingrandire il suo corpo di ghiaccio. Non si fa vedere in giro nei giorni di bel tempo.",
-            "shield": "Congela i nemici con il suo fiato a -100 °C, ma la sua indole gentile gli impedisce di infliggere loro danni letali."
+            "shield": "Congela i nemici con il suo fiato a -100 °C, ma la sua indole gentile gli impedisce di infliggere loro danni letali.",
+            "legends-za": "Congela il corpo del nemico con granelli di ghiaccio che genera raffreddando l'aria circostante."
         }
     },
     "egg_groups": [
@@ -45,14 +45,14 @@
     "flat_name": "vanillish",
     "generation": 5,
     "height": {
-        "vanillish": "1.1 m"
+        "vanillish": "1,1 m"
     },
     "id": 583,
     "name": "Vanillish",
     "name_origin": "Il nome potrebbe essere la combinazione delle parole inglesi vanilla  e delish . ",
     "origin": "Vanillish è basato su un ghiacciolo o un cono gelato fatto di neve e ghiaccio, oltre che su una stalattite. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Vanillish",
-    "shape": "testa e base",
+    "shape": "None",
     "specie": "Pokémon Geloneve",
     "sprites": {
         "vanillish": {
@@ -80,6 +80,6 @@
         ]
     },
     "weight": {
-        "vanillish": "41.0 kg"
+        "vanillish": "41,0 kg"
     }
 }

@@ -6,8 +6,9 @@
         }
     },
     "curiosities": [
-        "Panpour di Maisello",
-        "Panpour di Goh"
+        "Panpour e la sua evoluzione sono gli unici Pokémon ad avere l'abilità Acquaiuto a non essere Pokémon iniziali.",
+        "In Pokémon GO Panpour è esclusivo dell'America e Groenlandia, Pansage in Asia Pacifica, mentre Pansear in Europa, Medio Oriente, Africa e India.",
+        "Pansage, Pansear e Panpour sono stati disegnati da Takao Unno. Sono stati tutti ideati come compagni per Spighetto, Chicco e Maisello e, dato che la loro palestra è in parte un ristorante, ai tre Pokémon è stato dato un tema alimentare, con le loro mani disegnate per essere simili a guanti da forno."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/panpour.mp3",
     "dex_entries": {
@@ -19,7 +20,8 @@
             "x": "L'acqua contenuta nel suo ciuffo è ricca di nutrienti e la usa per annaffiare le piante con la coda.",
             "y": "L'acqua accumulata nel ciuffo è ricca di nutrimento e fa crescere rigogliose le piante che ne vengono annaffiate.",
             "omega-ruby": "L'acqua contenuta nel suo ciuffo è ricca di nutrienti e la usa per annaffiare le piante con la coda.",
-            "alpha-sapphire": "L'acqua accumulata nel ciuffo è ricca di nutrimento e fa crescere rigogliose le piante che ne vengono annaffiate."
+            "alpha-sapphire": "L'acqua accumulata nel ciuffo è ricca di nutrimento e fa crescere rigogliose le piante che ne vengono annaffiate.",
+            "legends-za": "L'acqua contenuta nel suo ciuffo è ricca di nutrienti e la usa per annaffiare le piante con la coda."
         }
     },
     "egg_groups": [
@@ -28,14 +30,14 @@
     "flat_name": "panpour",
     "generation": 5,
     "height": {
-        "panpour": "0.6 m"
+        "panpour": "0,6 m"
     },
     "id": 515,
     "name": "Panpour",
-    "name_origin": "Il nome Panpour è la combinazione della parola pan  con la parola inglese pour . ",
-    "origin": "È basato su una scimmia e su una fontana. Insieme a Pansage e a Pansear si ispira alle tre scimmie sagge del santuario di Nikko. Pansear rappresenta Mizaru, la scimmia che \"Non vede il Male\", motivo per il quale ha gli occhi chiusi. ",
+    "name_origin": "Panpour potrebbe derivare da pan , e da pour . Hiyappu, il suo nome giapponese, potrebbe derivare da 冷や hiya , e ape, scimmia antropomorfa. ",
+    "origin": "Panpour è basato su una scimmia. La cima della sua testa ricorda una fontana, un geyser o uno spruzzo d'azqua. Potrebbe anche essere un gioco di parole con le Sea-Monkeys, un altro nome per crostacei del genere Artemia, letteralmente \"scimmie di mare\". Insieme a Pansage e Pansear sembra essere ispirato alle tre scimmie sagge. Dato che ha gli occhi chiusi, Panpour potrebbe rappresentare non vedere il male. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Panpour",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Annaffiatore",
     "sprites": {
         "panpour": {
@@ -63,6 +65,6 @@
         ]
     },
     "weight": {
-        "panpour": "13.5 kg"
+        "panpour": "13,5 kg"
     }
 }

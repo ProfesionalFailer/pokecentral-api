@@ -5,12 +5,16 @@
         }
     },
     "curiosities": [
-        "Xerneas e Yveltal sono i primi Pokémon di cui il nome inglese è stato rivelato prima di quello giapponese.",
-        "Xerneas e Yveltal hanno le statistiche base uguali.",
-        "Xerneas e Yveltal, insieme a Ho-Oh , Dialga , Palkia , Solgaleo  e Lunala  sono gli unici Pokémon leggendari il cui nome inizia con la stessa lettera del nome del videogioco.",
-        "È il primo Pokémon leggendario nel Pokédex di sesta generazione, sia in quello nazionale che in quello regionale.\n\tÈ il primo Pokémon leggendario di tipo Folletto.",
-        "È il primo Pokémon leggendario di tipo Folletto.",
-        "È il secondo Pokémon il cui nome comincia con X. Il primo è Xatu."
+        "Xerneas ha la stessa distribuzione delle statistiche di Yveltal.",
+        "Xerneas è l'unico Pokémon leggendario di un solo tipo introdotto in sesta generazione .",
+        "Xerneas, insieme a Yveltal, è stato disegnato da Ken Sugimori e Yusuke Ohmura. I primi abbozzi dei due Pokémon leggendari sono stati iniziati da Sugimori, che però andò incontro ad un \"blocco dell'artista\". Per la prima volta, Sugimori affidò quindi il lavoro a un altro disegnatore, Ohmura, che portò avanti i disegni; dopodiché Sugimori tornò per finirli.",
+        "Xerneas è l'unica mascotte dei giochi Pokémon la cui mossa peculiare è una mossa di stato.",
+        "Quando uno Xerneas cromatico viene ottenuto tramite evento, il suo modello nella schermata del Dono Segreto è incompleto. Appare infatti nel suo Modo Attivo tranne per il fatto che le aggiunte multicolori alle sue corna sono assenti o dello stesso colore blu del suo collo.",
+        "Xerneas è a pari merito con Weezing di Galar per esser il Pokémon di tipo Folletto più alto.",
+        "Il suo Modo Relax non ha animazioni speciali che vengono riprodotte nel Pokédex di Hoenn; tuttavia, esso riproduce le animazioni di attacco del Modo Attivo se toccato nella schermata delle Info.",
+        "Nel Pokécampeggio, Xerneas non gioca con il Pokégingillo quando il giocatore lo scuote, reagendo negativamente. Xerneas è l'unico Pokémon con questa caratteristica.\n\tAllo stesso modo, Xerneas non reagisce se gli si fischia quando è un Pokémon accompagnatore nell'Isola dell'Armatura o nella Landa Corona. Condivide questa particolarità con le forme fuse di Kyurem.",
+        "Allo stesso modo, Xerneas non reagisce se gli si fischia quando è un Pokémon accompagnatore nell'Isola dell'Armatura o nella Landa Corona. Condivide questa particolarità con le forme fuse di Kyurem.",
+        "Xerneas, insieme a Yveltal, sono le uniche mascotte dei giochi che non sono ottenibili in Pokémon Scarlatto e Violetto."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/xerneas.mp3",
     "dex_entries": {
@@ -18,7 +22,8 @@
             "x": "Si dice che possieda l'immortalità e possa farne dono agli altri. Torna in vita dopo aver dormito per 1000 anni sotto forma di albero.",
             "y": "Si dice che possieda l'immortalità e che possa farne dono agli altri quando le sue corna brillano dei colori dell'arcobaleno.",
             "omega-ruby": "Si dice che possieda l'immortalità e possa farne dono agli altri. Torna in vita dopo aver dormito per 1000 anni sotto forma di albero.",
-            "alpha-sapphire": "Si dice che possieda l'immortalità e che possa farne dono agli altri quando le sue corna brillano dei colori dell'arcobaleno."
+            "alpha-sapphire": "Si dice che possieda l'immortalità e che possa farne dono agli altri quando le sue corna brillano dei colori dell'arcobaleno.",
+            "legends-za": "Si dice che possa fare dono della propria immortalità agli altri quando le sue corna brillano dei colori dell'arcobaleno."
         }
     },
     "egg_groups": [
@@ -27,14 +32,14 @@
     "flat_name": "xerneas",
     "generation": 6,
     "height": {
-        "xerneas": "3.0 m"
+        "xerneas": "3,0 m"
     },
     "id": 716,
     "name": "Xerneas",
     "name_origin": "Xerneas deriva dalla lettera X. Potrebbe anche derivare dal latino cervus , dalla divinità celtica Cernunnos e dalla cerva di Cerinea. ",
     "origin": "È possibile che Xerneas sia basato su quattro diversi animali della mitologia nordica: Dainn, Dvalinn, Duneyrr e Durapror e cioè i Cervi di Yggdrasill, l'Albero Cosmico. Ognuno di questi cervi ha nel proprio corno un gioiello di un colore diverso: Dainn ha un gioiello blu; Dvalinn ha un gioiello cremisi; Duneyrr ha un gioiello giallo e Durapror ha un gioiello porpora/nero. Infatti, Xerneas ha proprio le corna con delle gemme incastonate al loro interno di colore arancione, rosso, viola ed azzurro. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Xerneas",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Creazione",
     "sprites": {
         "modo-relax": {
@@ -66,6 +71,6 @@
         ]
     },
     "weight": {
-        "xerneas": "215.0 kg"
+        "xerneas": "215,0 kg"
     }
 }

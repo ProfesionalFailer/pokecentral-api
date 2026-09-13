@@ -7,7 +7,9 @@
         }
     },
     "curiosities": [
-        "La sua controparte maschile è Volbeat, con il quale condivide la categoria. Sono infatti entrambi il Pokémon Lucciola."
+        "Condivide la sua categoria con la sua controparte maschile Volbeat, sono infatti entrambi conosciuti come Pokémon Lucciola.",
+        "Illumise e la sua controparte sono gli unici Pokémon di tipo Coleottero nel Gruppo Uova Umanoide.\n\tNessun altro Pokémon ha lo stesso doppio Gruppo Uova di Illumise e della sua controparte .",
+        "Nessun altro Pokémon ha lo stesso doppio Gruppo Uova di Illumise e della sua controparte ."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/illumise.mp3",
     "dex_entries": {
@@ -15,13 +17,13 @@
             "ruby": "ILLUMISE attrae uno sciame di VOLBEAT con la sua fragranza dolce. Una volta radunato un gruppo di VOLBEAT, ILLUMISE dirige lo sciame luminoso, che disegna così figure geometriche nel setoso cielo notturno.",
             "sapphire": "ILLUMISE dirige i voli dei VOLBEAT luminosi per disegnare figure nel cielo notturno. Pare che guadagni maggior rispetto dai suoi simili componendo disegni sempre più complessi.",
             "emerald": "ILLUMISE è un POKéMON che diventa attivo sul far della sera. Dirige i voli dei VOLBEAT che disegnano figure nel cielo. Sono state identificate oltre 200 figure diverse.",
-            "firered": "Crea figure geometriche nel cielo notturno. Questi disegni sono al momento allo studio.",
-            "leafgreen": "Crea figure geometriche nel cielo notturno. Questi disegni sono al momento allo studio.",
+            "fire-red": "Crea figure geometriche nel cielo notturno. Questi disegni sono al momento allo studio.",
+            "leaf-green": "Crea figure geometriche nel cielo notturno. Questi disegni sono al momento allo studio.",
             "diamond": "Con il suo dolce aroma dirige il volo di VOLBEAT, che disegna figure luminose nel cielo stellato.",
             "pearl": "Con il suo dolce aroma dirige il volo di VOLBEAT, che disegna figure luminose nel cielo stellato.",
             "platinum": "Con il suo dolce aroma dirige il volo di VOLBEAT, che disegna figure luminose nel cielo stellato.",
-            "heartgold": "Con un dolce aroma dirige il volo dei VOLBEAT, che disegnano più di 200 figure luminose nel cielo stellato.",
-            "soulsilver": "Con un dolce aroma dirige il volo dei VOLBEAT, che disegnano più di 200 figure luminose nel cielo stellato.",
+            "heart-gold": "Con un dolce aroma dirige il volo dei VOLBEAT, che disegnano più di 200 figure luminose nel cielo stellato.",
+            "soul-silver": "Con un dolce aroma dirige il volo dei VOLBEAT, che disegnano più di 200 figure luminose nel cielo stellato.",
             "black": "Con il suo dolce aroma dirige il volo di Volbeat, che disegna figure luminose nel cielo stellato.",
             "white": "Con il suo dolce aroma dirige il volo di Volbeat, che disegna figure luminose nel cielo stellato.",
             "black-2": "Con il suo dolce aroma dirige il volo di Volbeat, che disegna figure luminose nel cielo stellato.",
@@ -43,14 +45,14 @@
     "flat_name": "illumise",
     "generation": 3,
     "height": {
-        "illumise": "0.60 m"
+        "illumise": "0,60 m"
     },
     "id": 314,
     "name": "Illumise",
-    "name_origin": "Il suo nome potrebbe derivare dall'unione del verbo inglese to illumine, o to illuminate,  con la parola miss . ",
-    "origin": "Illumise sembra essere basata su di una lucciola. ",
+    "name_origin": "Illumise potrebbe derivare da illuminate, illuminare, e luciferase, luciferasi, un enzima che permette la bioluminescenza. ",
+    "origin": "Volbeat sembra essere basato su una lucciola, anche se la sua colorazione non ricorda specificamente alcuna specie. Il suo design sembra ispirato anche alle flapper, una cultura femminile degli anni '20. portavano spesso capelli a caschetto, in modo simile ai \"capelli\" viola di Illumise, e indossavano abiti considerati tabù. Illumise sembra indossare un body, un abito o giacca nera, similmente a Volbeat, con polsini viola. La parte gialla vicino al collo ricorda una colliera alla Peter Pan. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Illumise",
-    "shape": "bipedi",
+    "shape": "None",
     "specie": "Pokémon Lucciola",
     "sprites": {
         "illumise": {
@@ -78,6 +80,6 @@
         ]
     },
     "weight": {
-        "illumise": "17.7 kg"
+        "illumise": "17,7 kg"
     }
 }

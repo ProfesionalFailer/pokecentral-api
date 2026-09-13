@@ -6,7 +6,7 @@
         }
     },
     "curiosities": [
-        "Nonostante abbiano evidenti differenze di sesso, sia Hippopotas che la sua evoluzione hanno solo uno sprite nel menu e solo un'immagine nel Dream World, che rappresentano entrambe la versione maschile del Pokémon."
+        "Nonostante abbiano evidenti differenze di sesso, sia Hippopotas che la sua evoluzione hanno solo un artwork, uno sprite nel menu  e solo un'immagine nel Dream World, che presentano tutti la versione maschile del Pokémon."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/hippopotas.mp3",
     "dex_entries": {
@@ -14,8 +14,8 @@
             "diamond": "Vive in territori aridi. Invece del sudore, espelle dal corpo sabbia granulosa.",
             "pearl": "Si ricopre di sabbia per proteggersi dai germi. Non ama bagnarsi.",
             "platinum": "Chiude le narici e poi si sposta attraverso la sabbia. Vive in gruppi di 10.",
-            "heartgold": "Si ricopre di sabbia per proteggersi dai germi. Si sposta attraverso le dune del deserto.",
-            "soulsilver": "Si ricopre di sabbia per proteggersi dai germi. Si sposta attraverso le dune del deserto.",
+            "heart-gold": "Si ricopre di sabbia per proteggersi dai germi. Si sposta attraverso le dune del deserto.",
+            "soul-silver": "Si ricopre di sabbia per proteggersi dai germi. Si sposta attraverso le dune del deserto.",
             "black": "Chiude le narici e poi si sposta attraverso la sabbia. Vive in gruppi di 10.",
             "white": "Chiude le narici e poi si sposta attraverso la sabbia. Vive in gruppi di 10.",
             "black-2": "Chiude le narici e poi si sposta attraverso la sabbia. Vive in gruppi di dieci.",
@@ -30,7 +30,8 @@
             "shining-pearl": "Si ricopre di sabbia per proteggersi dai germi. Non ama bagnarsi.",
             "legends-arceus": "Voluminoso nelle forme, è flemmatico di natura. Giacché s'immerge in fosse che scava nel suolo, è arduo avvistarlo. Nei suoi sprazzi di esuberanza eietta sabbia dal naso.",
             "scarlet": "Chiude le narici e poi avanza nella sabbia in tutta tranquillità. Vive in gruppi di una decina di esemplari.",
-            "violet": "Si ricopre di sabbia per proteggersi dai germi. Si sposta immerso nella sabbia del deserto."
+            "violet": "Si ricopre di sabbia per proteggersi dai germi. Si sposta immerso nella sabbia del deserto.",
+            "legends-za": "Si ricopre di sabbia per proteggersi dai germi. Non ama bagnarsi."
         }
     },
     "egg_groups": [
@@ -39,14 +40,14 @@
     "flat_name": "hippopotas",
     "generation": 4,
     "height": {
-        "hippopotas": "0.8 m"
+        "hippopotas": "0,8 m"
     },
     "id": 449,
     "name": "Hippopotas",
-    "name_origin": "Deriva da una contrazione della parola hippopotamus . ",
-    "origin": "È basato su un ippopotamo, con un camuffamento da militare. È probabile che abbia origine dalla leggenda del bahamut, un pesce della mitologia musulmana che si dice abbia una testa simile a quella di un ippopotamo. ",
+    "name_origin": "Hippopotas potrebbe derivare da hippopotamus . Potrebbe anche includere potash, una sostanza terrosa usata come fertilizzante. ",
+    "origin": "Hippopotas sembra essere basato su un ippopotamo, ma le sue abitudini sono le opposte di quelle dell'animale: gli ippopotami sono tendenzialmente notturni e vivono in acqua, mentre Hippopotas è diurno e vive nel deserto. Il disegno sul suo corpo ricorda il design usato per camuffamento militare nel deserto. Data la protuberanza sulla schiena che secerne sabbia, Hippopotas e la sua evoluzione potrebbero essere basati sul Bahamūt, in alcuni miti detto reggere un letto di sabbia e avere la testa di ippopotamo. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Hippopotas",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Ippo",
     "sprites": {
         "hippopotas": {
@@ -78,6 +79,6 @@
         ]
     },
     "weight": {
-        "hippopotas": "49.5 kg"
+        "hippopotas": "49,5 kg"
     }
 }

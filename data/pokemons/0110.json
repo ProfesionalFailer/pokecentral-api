@@ -22,22 +22,59 @@
         "Anche se una terza parte di Weezing  appare su ogni Weezing mostrato finora."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/weezing.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "weezing": {
+            "red": "Dove 2 tipi di gas velenosi si incontrano, 2 KOFFING possono fondersi in un WEEZING.",
+            "blue": "Dove 2 tipi di gas velenosi si incontrano, 2 KOFFING possono fondersi in un WEEZING.",
+            "yellow": "Vive e cresce assorbendo il gas tossico, i germi e la polvere che si trovano nelle discariche.",
+            "gold": "Se uno dei gemelli KOFFING si sgonfia l'altro si gonfia. I loro gas velenosi si mischiano incessantemente.",
+            "silver": "I suoi velenosi gas interni diluiti al massimo sono usati per produrre profumi pregiatissimi.",
+            "crystal": "Quando inspira gas velenosi dai rifiuti, il corpo si gonfia e il suo interno è ancora più maleodorante.",
+            "ruby": "WEEZING adora i gas emanati dai resti alimentari in decomposizione. Si sente a suo agio in case sudicie e maltenute. La notte, mentre dormono tutti, lui si aggira furtivo tra i rifiuti domestici.",
+            "sapphire": "WEEZING gonfia e sgonfia ritmicamente il suo duplice corpo per miscelare i gas tossici all'interno. Più a lungo vengono mescolati i gas, più nocive diventano le tossine. Anche il POKéMON diventa ancora più putrido.",
+            "emerald": "Per WEEZING, i gas emanati dai rifiuti sono un'esperienza sopraffina. Tuttavia, diluendo i gas che genera con un processo particolare, si ottiene un ottimo profumo.",
+            "fire-red": "Una rarissima mutazione può trasformare due KOFFING gemelli in un WEEZING.",
+            "leaf-green": "Quando due tipi di gas velenosi vengono a contatto, due KOFFING possono fondersi in un WEEZING.",
+            "diamond": "Cresce nutrendosi dei gas emanati dai rifiuti. Anche se rarissimi, ne hanno trovati in gruppi di tre.",
+            "pearl": "Cresce nutrendosi dei gas emanati dai rifiuti. Anche se rarissimi, ne hanno trovati in gruppi di tre.",
+            "platinum": "Cresce nutrendosi dei gas emanati dai rifiuti. Anche se rarissimi, ne hanno trovati in gruppi di tre.",
+            "heart-gold": "Se un gemello KOFFING si sgonfia, l’altro si gonfia. I gas velenosi dei due si mischiano continuamente.",
+            "soul-silver": "I suoi velenosi gas interni diluiti al massimo sono usati per produrre profumi pregiatissimi.",
+            "black": "Cresce nutrendosi dei gas emanati dai rifiuti. Anche se rarissimi, ne hanno trovati in gruppi di tre.",
+            "white": "Cresce nutrendosi dei gas emanati dai rifiuti. Anche se rarissimi, ne hanno trovati in gruppi di tre.",
+            "black-2": "Aspira i gas tossici emanati dai rifiuti, li miscela dentro il suo corpo e va in giro rilasciando un olezzo terrificante.",
+            "white-2": "Aspira i gas tossici emanati dai rifiuti, li miscela dentro il suo corpo e va in giro rilasciando un olezzo terrificante.",
+            "x": "Se un gemello Koffing si sgonfia, l'altro si gonfia. I gas velenosi dei due si mischiano continuamente.",
+            "y": "Una rarissima mutazione può trasformare due Koffing gemelli in un Weezing.",
+            "omega-ruby": "Weezing adora i gas emanati dai resti alimentari in decomposizione. Si sente a suo agio in case sudicie e maltenute. La notte, mentre dormono tutti, lui si aggira furtivo tra i rifiuti domestici.",
+            "alpha-sapphire": "Weezing gonfia e sgonfia ritmicamente il suo duplice corpo per miscelare i gas tossici all'interno. Più a lungo vengono mescolati i gas, più nocive diventano le tossine. Anche il Pokémon diventa ancora più putrido.",
+            "lets-go-pikachu": "Vive assorbendo i gas tossici, i germi e la polvere che si trovano nei rifiuti.",
+            "lets-go-eevee": "Vive assorbendo i gas tossici, i germi e la polvere che si trovano nei rifiuti.",
+            "sword": "Si serve del suo duplice corpo per miscelare i gas. Sembra che in passato lo si potesse avvistare un po’ ovunque nella regione di Galar.",
+            "shield": "La sua capacità di aspirare l’aria è leggermente inferiore rispetto al Weezing di Galar, ma è in grado di produrre tossine molto potenti.",
+            "scarlet": "I suoi velenosi gas interni diluiti al massimo sono usati per produrre profumi pregiatissimi.",
+            "violet": "Quando inspira gas velenosi dai rifiuti, il suo corpo si gonfia e diventa sempre più maleodorante all’interno."
+        },
+        "forma-di-galar": {
+            "sword": "Assorbe le particelle inquinanti dell’atmosfera e produce aria pulita invece di escrementi.",
+            "shield": "Ha assunto questa forma molto tempo fa, quando c’erano schiere di fabbriche e l’aria era molto inquinata, tuttavia il motivo non è chiaro."
+        }
+    },
     "egg_groups": [
         "Amorfo"
     ],
     "flat_name": "weezing",
     "generation": 1,
     "height": {
-        "weezing": "1.2 m",
-        "forma-di-galar": "3.0 m"
+        "weezing": "1,2 m",
+        "forma-di-galar": "3,0 m"
     },
     "id": 110,
     "name": "Weezing",
-    "name_origin": "Potrebbe derivare da wheezing  o dalle parole wee  e zing . ",
-    "origin": "Come per Koffing, dovrebbe assomigliare a due mine unite. ",
+    "name_origin": "Weezing potrebbe derivare da wheezing . ",
+    "origin": "Considerando il suo aspetto, la sua abilità di fluttuare, e la sua tendenza ad esplodere, Weezing può essere stato basato su una mina navale galleggiante. Si basa possibilmente anche sullo smog e sulle altre forme di inquinamento atmosferico. Potrebbe inoltre prendere ispirazione dall'idea che pesante inquinamento possa generare nuove forme di vita indesiderate. Il simbolo sotto la sua faccia sembra una stilizzazione di un teschio con ossa, posto a indicare la tossicità di una sostanza e il pericolo di morte in generale. La sua forma formata da tre sfere congiunte ricorda una molecola. Le due teste attaccate potrebbero essere ispirate dai gemelli siamesi e da altri difetti di nascita causati dall'inquinamento. La sua forma di Galar sembra basata su una ciminiera, oltre ad avere un aspetto simile a quello di un nobile di età vittoriana. Sembra indossare due cilindri, fusi a cappe di camino. Sia i \"baffi\" di smog che la voce Pokédex di Scudo potrebbero essere un riferimento al forte inquinamento dell'aria in età vittoriana. La sua abilità di pulire l'aria circostante, menzionata nella voce di Spada, potrebbe essere un riferimento agli Scrubber. Il modo in cui si nutre, ingerendo aria sporca e espellendola pulita, potrebbe essere un riferimento alle spugne. Potrebbe trarre ispirazione anche dalle torri di raffreddamento delle centrali nucleari, il che potrebbe trovare un riferimento da come ciò che rilascia sia vapore e non fumo, come confermato dalla mossa esclusiva Vapore Incantato. Il tipo folletto e il suo aspetto sembrano basati anche su un leprecauno. La forma cromatica della forma di Galar potrebbe essere basata sul viraggio seppia. Il suo aspetto simile ad un nobile vittoriano e la sua abilità Gas Reagente potrebbero essere un gioco di parole per gas nobile, elementi gassosi molto stabili spesso usati per prevenire reazioni non volute tra altri elementi. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Weezing",
-    "shape": "corpi multipli",
+    "shape": "None",
     "specie": "Pokémon Velenuvola",
     "sprites": {
         "weezing": {
@@ -73,7 +110,7 @@
         ]
     },
     "weight": {
-        "weezing": "9.5 kg",
-        "forma-di-galar": "16.0 kg"
+        "weezing": "9,5 kg",
+        "forma-di-galar": "16,0 kg"
     }
 }

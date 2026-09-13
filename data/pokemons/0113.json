@@ -12,21 +12,61 @@
         "Chansey condivide lo stesso nome di specie con Exeggcute. Sono entrambi conosciuti come Pokémon Uovo."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/chansey.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "chansey": {
+            "red": "Questo POKéMON raro e sfuggente si dice che porti la felicità a chiunque riesca a catturarlo.",
+            "blue": "Questo POKéMON raro e sfuggente si dice che porti la felicità a chiunque riesca a catturarlo.",
+            "yellow": "Un POKéMON gentile e generoso pronto a condividere le sue nutrienti uova con chi si trova in difficoltà.",
+            "gold": "Cammina con prudenza per non rompere il suo uovo. Tuttavia, può fuggire con estrema rapidità.",
+            "silver": "Poco numerosi e difficili da prendere, si dice che portino fortuna a chi riesce a catturarli.",
+            "crystal": "Molti provano a catturarlo per le uova molto nutrienti, ma si fa vedere molto raramente.",
+            "ruby": "Ogni giorno CHANSEY depone uova molto nutrienti. Queste uova sono così buone da far tornare l'appetito a chi lo ha perso.",
+            "sapphire": "Ogni giorno CHANSEY depone uova molto nutrienti. Queste uova sono così buone da far tornare l'appetito a chi lo ha perso.",
+            "emerald": "Ogni giorno CHANSEY depone uova molto nutrienti. Queste uova sono così buone da far tornare l'appetito a chi lo ha perso.",
+            "fire-red": "Ogni giorno depone diverse uova, che sembrano essere deliziose e molto nutrienti.",
+            "leaf-green": "Questo POKéMON raro e sfuggente si dice che porti la felicità a chiunque riesca a catturarlo.",
+            "diamond": "Si dice che porti felicità. È molto altruista e condivide le uova con chi è ferito.",
+            "pearl": "Depone molte uova al giorno e non le condivide con chi ha un animo malvagio.",
+            "platinum": "Un Pokémon altruista che depone uova molto nutrienti. Le condivide con persone o Pokémon feriti.",
+            "heart-gold": "Cammina con prudenza per non rompere il suo uovo. Tuttavia, può fuggire con estrema rapidità.",
+            "soul-silver": "Poco numerosi e difficili da prendere, si dice che portino fortuna a chi riesce a catturarli.",
+            "black": "Un Pokémon altruista che depone uova molto nutrienti. Le condivide con persone o Pokémon feriti.",
+            "white": "Un Pokémon altruista che depone uova molto nutrienti. Le condivide con persone o Pokémon feriti.",
+            "black-2": "Un Pokémon altruista che depone uova molto nutrienti. Le condivide con persone o Pokémon feriti.",
+            "white-2": "Un Pokémon altruista che depone uova molto nutrienti. Le condivide con persone o Pokémon feriti.",
+            "x": "Si dice che porti felicità. È molto altruista e condivide le uova con chi è ferito.",
+            "y": "Ogni giorno depone diverse uova, che sembrano essere deliziose e molto nutrienti.",
+            "omega-ruby": "Ogni giorno Chansey depone uova molto nutrienti. Queste uova sono così buone da far tornare l'appetito a chi lo ha perso.",
+            "alpha-sapphire": "Ogni giorno Chansey depone uova molto nutrienti. Queste uova sono così buone da far tornare l'appetito a chi lo ha perso.",
+            "sun": "Le uova di Chansey sono molto nutrienti e molti Pokémon ne vanno ghiotti.",
+            "moon": "Esistono pochi esemplari di questo Pokémon, che inoltre è anche velocissimo nella fuga. Solo chi ha la fortuna dalla sua riesce a trovarlo!",
+            "ultra-sun": "Molti Pokémon cercano di rubare le sue uova gustose e nutrienti. Probabilmente per questo è diventato velocissimo nella fuga.",
+            "ultra-moon": "In passato è stato vittima di una caccia sfrenata per le sue uova. Per questo motivo non sono rimasti molti esemplari di questo Pokémon.",
+            "lets-go-pikachu": "Un Pokémon gentile e generoso, sempre pronto a condividere le sue uova nutrienti con chi si trova in difficoltà.",
+            "lets-go-eevee": "Un Pokémon gentile e generoso, sempre pronto a condividere le sue uova nutrienti con chi si trova in difficoltà.",
+            "sword": "Il suo uovo è molto nutriente ed estremamente saporito, tanto che viene considerato un ingrediente di lusso.",
+            "shield": "Sarebbe lento per natura, ma è diventato svelto nella fuga per difendersi da chi vuole rubare il suo uovo.",
+            "brilliant-diamond": "Si dice che porti la felicità. È molto altruista e condivide le sue uova con chi è ferito.",
+            "shining-pearl": "Depone molte uova al giorno ma non le condivide con chi ha un animo malvagio.",
+            "legends-arceus": "Puro di cuore, condivide con chi è ferito le sue nutrienti uova, note ai più con il curioso epiteto di \"scacciadottore\".",
+            "scarlet": "Un Pokémon altruista che depone uova molto nutrienti e le condivide con persone o Pokémon feriti.",
+            "violet": "Cammina con prudenza per non rompere il suo uovo. Tuttavia, può fuggire con estrema rapidità."
+        }
+    },
     "egg_groups": [
         "Magico"
     ],
     "flat_name": "chansey",
     "generation": 1,
     "height": {
-        "chansey": "1.1 m"
+        "chansey": "1,1 m"
     },
     "id": 113,
     "name": "Chansey",
-    "name_origin": "Chansey è una corruzione di \"chance\" e \"chancy\", riferito ad una rarità e/o alla possibilità di una cattura di successo. ",
-    "origin": "La sua tendenza a portare le uova in un marsupio la associa ad un marsupiale. ",
+    "name_origin": "Chansey potrebbe essere una corruzione di \"chance\" e \"chancy\", riferito ad una rarità e/o alla possibilità di una cattura di successo. ",
+    "origin": "Dato il suo nome, la sua rarità e la sua tendenza a fuggire dalle lotte, Chansey potrebbe essere basata sulla fortuna in generale. Potrebbe inoltre essere un riferimento a vari elementi dei RPG: la sua capacità di curare altri tramite le sue uova è simile a quella di un medico o healer, mentre la sua rarità, tendenza di fuggire, e alta esperienza ceduta ricordano altri mostri con attributi simili, come gli Slime grigi di Dragon Quest. Fisicamente, il marsupio dove Chansey tiene le sue uova fa ricordare un monotrema o un marsupiale, ma potrebbe essere basata in generale sul concetto di maternità. Il Pokédex descrive le uova di Chansey come \"molto nutrienti\", rendendola simile al pollame. Le \"orecchie\" sulla sua testa ricordano le branchie di un axolotl. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Chansey",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Uovo",
     "sprites": {
         "chansey": {
@@ -54,6 +94,6 @@
         ]
     },
     "weight": {
-        "chansey": "34.6 kg"
+        "chansey": "34,6 kg"
     }
 }

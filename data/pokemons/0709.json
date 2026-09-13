@@ -7,7 +7,9 @@
         }
     },
     "curiosities": [
-        "È l'unico Pokémon a possedere la combinazione dei Gruppi Uova Erba e Amorfo."
+        "Nessun altro Pokémon conosciuto ha la stessa combinazione di Gruppo Uova di Trevenant e della sua pre-evoluzione Phantump.",
+        "Di tutti i Pokémon che si evolvono tramite scambio , Trevenant è l'unico che può anche essere catturato direttamente allo stato selvatico nella stessa generazione in cui è stato introdotto.",
+        "Trevenant e la sua pre-evoluzione sono stati disegnati da James Turner."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/trevenant.mp3",
     "dex_entries": {
@@ -21,7 +23,10 @@
             "ultra-sun": "È temuto e ritenuto da tutti il mostro del bosco. I taglialegna si inoltrano nei boschi solo con Pokémon di tipo Fuoco, di cui ha il terrore.",
             "ultra-moon": "Attacca chi vuole danneggiare i boschi assumendo il controllo degli alberi vicini con le radici che si dipartono dalla punta dei suoi piedi.",
             "sword": "Gli esseri umani lo temono perché mangia chi abbatte gli alberi. Tuttavia è sempre gentile con i Pokémon che vivono nei boschi.",
-            "shield": "Ha il potere di controllare gli altri alberi della foresta connettendosi a loro grazie alle radici sottili che si dipartono dalla punta dei suoi piedi."
+            "shield": "Ha il potere di controllare gli altri alberi della foresta connettendosi a loro grazie alle radici sottili che si dipartono dalla punta dei suoi piedi.",
+            "scarlet": "Sorveglia l’intero bosco connettendosi agli alberi tramite le sue radici. Gli intrusi vengono respinti a suon di maledizioni.",
+            "violet": "È molto gentile con i Pokémon che vivono nei boschi e li lascia tranquillamente nidificare nella sua chioma.",
+            "legends-za": "Usa le radici come un sistema nervoso per controllare gli alberi dei boschi. È gentile con i Pokémon che fanno il nido nel suo corpo."
         }
     },
     "egg_groups": [
@@ -31,14 +36,14 @@
     "flat_name": "trevenant",
     "generation": 6,
     "height": {
-        "trevenant": "1.5 m"
+        "trevenant": "1,5 m"
     },
     "id": 709,
     "name": "Trevenant",
     "name_origin": "Trevenant è una combinazione di tree  o treant e revenant , o ent. Il nome giapponese deriva da 大 ō  e Rot . ",
-    "origin": "Trevenant è basato su un Kodama, ovvero spiriti di antichi alberi che ora dimorano in alberi molto vecchi, o su di un Ent, creature a metà strada tra uomini e alberi, frutto della fantasia dello scrittore J.R.R Tolkien. Le strisce che ha nel corpo invece rimandano alle shimenawa, segni usati per identificare abitazioni spirituali, spesso legate ai Kodama. Possiede anche tratti in comune con molti alberi e divinità della natura come le driadi. La grande protezione che i Trevenant hanno verso le foreste potrebbero rimandarli anche alle amadriadi o forse alla protezione di foreste sacre. Il suo unico occhio sembra essere un riferimento ai ciclopi o alla dimore montana di Yamawarawa, mentre le sua forma corporea potrebbe rimandare al simbolo giapponese 木, che significa albero o legno. La forma cromatica sembra invece basata su di una betulla, alberi le cui foglie, in autunno, diventano di colore arancio intenso, proprio come nei Trevenant cromatici. Dato che questo cambio di colore, oltretutto, avviene verso halloween, questo potrebbe essere un leggero rimando alle controparti di Phantump e Trevenant, Pumpkaboo e Gourgeist. ",
+    "origin": "Trevenant potrebbe essere basato su un kodama, spirito degli alberi che talvolta abita alberi molto antichi. L'incisione simile a una striscia sul suo corpo ricorda uno shimenawa, una corda sacra utilizzata per indicare la presenza di uno spirito, spesso legata attorno agli alberi abitati dai kodama. La feroce protezione delle foreste da parte di Trevenant potrebbe essere un riferimento al concetto di tutela delle foreste e dei boschi sacri. È anche simile ad altri tipi di spiriti o divinità arboree e naturali, spesso rappresentati come guardiani delle foreste, come le driadi. Trevenant potrebbe anche essere ispirato agli Ent arborei tratti dalle opere di J. R. R. Tolkien. Trevenant potrebbe anche essere basato su una betulla o un pioppo tremulo, come suggerito dalla corteccia bianca della sua forma cromatica. La sua capacità di controllare altri alberi utilizzando le radici come sistema nervoso potrebbe essere un riferimento a Pando, un singolo albero di pioppo tremulo che forma un bosco composto da 47.000 fusti, tutti interconnessi da un unico sistema radicale. In alternativa, potrebbe alludere alle reti micorriziche. Il suo unico occhio potrebbe combinare elementi di cavità arboree o segni simili a occhi presenti nella corteccia di betulle e pioppi tremuli, con la tipica caratteristica ciclopica comune a molti yōkai. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Trevenant",
-    "shape": "più di 4 arti",
+    "shape": "None",
     "specie": "Pokémon Alberantico",
     "sprites": {
         "trevenant": {
@@ -62,11 +67,11 @@
     },
     "types": {
         "trevenant": [
-            "Erba",
-            "Spettro"
+            "Spettro",
+            "Erba"
         ]
     },
     "weight": {
-        "trevenant": "71.0 kg"
+        "trevenant": "71,0 kg"
     }
 }

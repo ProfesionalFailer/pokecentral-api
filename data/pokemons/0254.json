@@ -9,18 +9,40 @@
         }
     },
     "curiosities": [
-        "In sesta generazione MegaSceptile aveva una combinazione di tipi unica.",
-        "Sceptile ha diverse caratteristiche uniche tra le evoluzioni finali dei Pokémon iniziali:\n\tInsieme ad Inteleon, ha i PS più bassi.\n\tFino alla sesta generazione aveva la somma di statistiche base più alta tra tutte le evoluzioni finali degli starter di tipo Erba. Infatti, con la sua somma di statistiche base pari a 530, supera Venusaur, Meganium e Torterra a quota 525, e Serperior a quota 528. In sesta generazione è stato raggiunto da Chesnaught, ma se si megaevolve ottiene nuovamente questo primato.\n\tFino alla sesta generazione era il più leggero in assoluto tra i tipi Erba, primato perso con l'introduzione di Decidueye.\n\tÈ l'unico introdotto in terza generazione che non guadagna un altro tipo con l'evoluzione. Tuttavia, acquisisce il tipo Drago Megaevolvendosi.",
-        "Insieme ad Inteleon, ha i PS più bassi.",
-        "Fino alla sesta generazione aveva la somma di statistiche base più alta tra tutte le evoluzioni finali degli starter di tipo Erba. Infatti, con la sua somma di statistiche base pari a 530, supera Venusaur, Meganium e Torterra a quota 525, e Serperior a quota 528. In sesta generazione è stato raggiunto da Chesnaught, ma se si megaevolve ottiene nuovamente questo primato.",
-        "Fino alla sesta generazione era il più leggero in assoluto tra i tipi Erba, primato perso con l'introduzione di Decidueye.",
-        "È l'unico introdotto in terza generazione che non guadagna un altro tipo con l'evoluzione. Tuttavia, acquisisce il tipo Drago Megaevolvendosi.",
-        "È l'unico Pokémon di tipo Erba che può imparare Dragartigli oltre a Chesnaught.",
-        "Fino alla sesta generazione era il Pokémon iniziale con la velocità base più alta. Ora è stato superato da Greninja e da Meowscarada.\n\tTuttavia, quando si megaevolve, recupera il suo primato.",
-        "Tuttavia, quando si megaevolve, recupera il suo primato."
+        "MegaSceptile ha la statistica di Attacco Speciale più alta tra i Pokémon di tipo Erba e la statistica di Velocità più alta tra i Pokémon di tipo Drago.",
+        "Sceptile ha dato il nome ad una specie di ragno, il Anyphaena sceptile. Il nome è stato scelto in riferimento al Pokémon e al fatto che il ragno è stato scoperto in una foresta."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/sceptile.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "sceptile": {
+            "ruby": "Le foglie che crescono sul corpo di SCEPTILE hanno margini taglienti. Questo POKéMON è agilissimo, infatti salta da un ramo all'altro e piomba sui nemici sorprendendoli dall'alto.",
+            "sapphire": "Sulla schiena di SCEPTILE crescono alcuni semi. Si dice che germoglino con i fertilizzanti per le piante. Questo POKéMON coltiva amorevolmente le sue piante nella foresta.",
+            "emerald": "Nella giungla, nessuno è più potente di SCEPTILE. Coltiva amorevolmente alberi e piante e regola la sua temperatura corporea crogiolandosi al sole.",
+            "fire-red": "Le foglie sugli arti anteriori sono affilate come lame. È solito saltare di ramo in ramo per poi sferrare un attacco.",
+            "leaf-green": "Le foglie sugli arti anteriori sono affilate come lame. È solito saltare di ramo in ramo per poi sferrare un attacco.",
+            "diamond": "Le foglie che crescono sulle sue braccia tagliano anche grandi alberi. Nel suo habitat, è imbattibile.",
+            "pearl": "Le foglie che crescono sulle sue braccia tagliano anche grandi alberi. Nel suo habitat, è imbattibile.",
+            "platinum": "Le foglie che crescono sulle sue braccia tagliano anche grandi alberi. Nel suo habitat, è imbattibile.",
+            "heart-gold": "Percorre agile e veloce la giungla abbattendo le prede con le affilate foglie che ha sugli arti anteriori.",
+            "soul-silver": "Percorre agile e veloce la giungla abbattendo le prede con le affilate foglie che ha sugli arti anteriori.",
+            "black": "Le foglie che crescono sulle sue braccia tagliano anche grandi alberi. Nel suo habitat, è imbattibile.",
+            "white": "Le foglie che crescono sulle sue braccia tagliano anche grandi alberi. Nel suo habitat, è imbattibile.",
+            "black-2": "Le foglie che crescono sulle sue braccia tagliano anche grandi alberi. Nel suo habitat, è imbattibile.",
+            "white-2": "Le foglie che crescono sulle sue braccia tagliano anche grandi alberi. Nel suo habitat, è imbattibile.",
+            "x": "Le foglie che crescono sulle sue braccia tagliano anche grandi alberi. Nel suo habitat, è imbattibile.",
+            "y": "Percorre agile e veloce la giungla abbattendo le prede con le affilate foglie che ha sugli arti anteriori.",
+            "omega-ruby": "Le foglie che crescono sul corpo di Sceptile hanno margini taglienti. Questo Pokémon è agilissimo, infatti salta da un ramo all'altro e piomba sui nemici sorprendendoli dall'alto.",
+            "alpha-sapphire": "Sulla schiena di Sceptile crescono alcuni semi che si dice siano ricchi di nutrienti per gli alberi. Questo Pokémon coltiva amorevolmente le sue piante nella foresta.",
+            "brilliant-diamond": "Le foglie che crescono sulle sue braccia possono tagliare persino grandi alberi. Quando lotta nella giungla, è imbattibile.",
+            "shining-pearl": "Le foglie che crescono sulle sue braccia possono tagliare persino grandi alberi. Quando lotta nella giungla, è imbattibile.",
+            "scarlet": "Percorre agile e veloce la giungla abbattendo le prede con le affilate foglie che ha sugli arti anteriori.",
+            "violet": "Le foglie sugli arti anteriori sono affilate come lame. Assale i nemici saltando agilmente di ramo in ramo.",
+            "legends-za": "Le foglie che crescono sulle sue braccia sono così affilate da tagliare di netto anche gli alberi più grandi. Quando lotta nella giungla è imbattibile."
+        },
+        "megasceptile": {
+            "legends-za": "Spara la punta della coda facendo esplodere i semi sulla schiena, carichi dell’energia della megaevoluzione."
+        }
+    },
     "egg_groups": [
         "Mostro",
         "Drago"
@@ -28,15 +50,15 @@
     "flat_name": "sceptile",
     "generation": 3,
     "height": {
-        "sceptile": "1.7 m",
-        "megasceptile": "1.9 m"
+        "sceptile": "1,7 m",
+        "megasceptile": "1,9 m"
     },
     "id": 254,
     "name": "Sceptile",
-    "name_origin": "Il suo nome probabilmente deriva dall'incrocio delle parole inglesi reptile , Sceptridium . Può anche derivare da scepter , o scissors . Il suo nome giapponese, ジュカイン Jukain, potrebbe derivare da 樹海 jukai . ",
-    "origin": "Basato su un geco e su un dilofosauro, una razza di dinosauro. ",
+    "name_origin": "Il suo nome probabilmente deriva dall'incrocio delle parole inglesi reptile , Sceptridium . Può anche derivare da scepter , o scissors . Jukain, il suo nome giapponese, potrebbe derivare da 樹海 jukai . ",
+    "origin": "Sceptile sembra essere basato su un Dilophosaurus, un genere di dinosauro. Le sfere sulla schiena del Pokémon potrebbero derivare dalle spore riproduttrici delle felci, o al fatto che alcune piante di legumi abbiano noduli sulle radici dove trattengono nitrogeno. La forma delle foglie sulla coda combinata alle suddette sfere possono ricondurre il Pokémon ad una pianta di tasso, o una della specie Podocarpus. Come gli altri membri della sua linea evolutiva, Grovyle presenta caratteristiche comuni con il geco coda a foglia, un tipo di lucertola che presenta appendici simili a foglie con cui si mimetizza. La pelle verde e il ventre rosso possono ricondurlo ad un maschio di anolide della Carolina, i cui sacchi giugulare che presentano un colore rosaceo vengono gonfiati per difendersi dai rivali. L'abilità della forma Megaevoluta di lanciare la propria coda ricorda il fenomeno dell'autotomia, ovvero la capacità di alcuni animali di automutilarsi, e quindi perdere pardi del corpo che ricrescono in seguito, per sfuggire dai predatori. In alternativa, potrebbe derivare da un lanciarazzi, con la sua coda ricordante un missile. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Sceptile",
-    "shape": "bipedi con coda",
+    "shape": "None",
     "specie": "Pokémon Foresta",
     "sprites": {
         "sceptile": {
@@ -81,7 +103,7 @@
         ]
     },
     "weight": {
-        "sceptile": "52.2 kg",
-        "megasceptile": "55.2 kg"
+        "sceptile": "52,2 kg",
+        "megasceptile": "55,2 kg"
     }
 }

@@ -13,7 +13,9 @@
     "dex_entries": {
         "sobble": {
             "sword": "Se si spaventa, produce lacrime con un fattore lacrimogeno cento volte più potente di quello di una cipolla per far piangere anche i nemici.",
-            "shield": "Quando si bagna, la pelle cambia colore e lo rende invisibile, come se si fosse mimetizzato."
+            "shield": "Quando si bagna, la pelle cambia colore e lo rende invisibile, come se si fosse mimetizzato.",
+            "scarlet": "Spara proiettili d'acqua dalla bocca per far cadere dagli alberi le bacche di cui si nutre. La sua mira è infallibile.",
+            "violet": "È molto cauto. Quando è costretto a lottare, sferra i suoi attacchi solo dopo essersi mimetizzato."
         }
     },
     "egg_groups": [
@@ -23,14 +25,14 @@
     "flat_name": "sobble",
     "generation": 8,
     "height": {
-        "sobble": "0.3 m"
+        "sobble": "0,3 m"
     },
     "id": 816,
     "name": "Sobble",
     "name_origin": "Sobble è probabilmente una combinazione di sob, l'onomatopea del singhiozzo, e bubble, bolla, o dribble, gocciolare. Messon è probabilmente una combinazione di メソメソ mesomeso, singhiozzare, e chameleon, camaleonte. ",
     "origin": "Sobble potrebbe essere basato su un camaleonte velato per via della sua colorazione simile agli esemplari maschi di questa specie. Il modo in cui il camaleonte velato raccoglie le goccioline d'acqua dal suo casco  per portarle alla sua bocca potrebbe aver ispirato le lacrime visibili sulla faccia del Pokémon, le lacrime reali quando piange e il tipo Acqua. Il tipo Acqua e la cresta sulla testa potrebbero anche prendere ispirazione dal basilisco. Potrebbe inoltre essere ispirato ad un bebè. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Sobble",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Acquacertola",
     "sprites": {
         "sobble": {
@@ -58,6 +60,6 @@
         ]
     },
     "weight": {
-        "sobble": "4.0 kg"
+        "sobble": "4,0 kg"
     }
 }

@@ -14,25 +14,53 @@
     "curiosities": [
         "Linoone è l'unico Pokémon che può usare l'Elisir Mix in Pokémon Mystery Dungeon: Esploratori del Cielo.",
         "Linoone ha lo stesso numero nel Pokédex di Hoenn e nel Pokédex di Kalos Centrale.",
-        "Gli sprite di Linoone non cambiano tra i giochi di terza generazione e i giochi di quarta .",
         "Linoone di Galar e la sua forma cromatica sono stati disegnati da James Turner."
     ],
     "cry": "https://play.pokemonshowdown.com/audio/cries/linoone.mp3",
-    "dex_entries": {},
+    "dex_entries": {
+        "linoone": {
+            "ruby": "LINOONE è solito correre a tutta velocità e sempre in linea retta. Davanti ad un ostacolo fa una curva ad angolo retto per evitarlo. Questo POKéMON si trova in difficoltà su percorsi con curve poco accentuate.",
+            "sapphire": "Quando caccia, LINOONE si lancia rapido sulla preda. Infatti riesce a raggiungere la velocità di 100 km/h ma prima di girare è costretto a fermarsi in modo brusco e repentino.",
+            "emerald": "LINOONE riesce a correre a tutta velocità, ma solo in linea retta. Se individua una preda nell'acqua, vi salta dentro e la cattura con i suoi artigli affilati.",
+            "fire-red": "Quando corre in rettilineo può raggiungere i 100 km/h, ma rallenta molto in curva.",
+            "leaf-green": "Quando corre in rettilineo può raggiungere i 100 km/h, ma rallenta molto in curva.",
+            "diamond": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "pearl": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "platinum": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "heart-gold": "Quando corre in rettilineo può raggiungere i 100 km/h, ma le curve non sono il suo forte.",
+            "soul-silver": "Quando corre in rettilineo può raggiungere i 100 km/h, ma le curve non sono il suo forte.",
+            "black": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "white": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "black-2": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "white-2": "Carica la preda ad una velocità di 100 km/h. Ma dal momento che va solo dritto, sbaglia spesso.",
+            "x": "Quando corre in rettilineo può raggiungere i 100 km/h, ma le curve non sono il suo forte.",
+            "y": "Carica la preda a una velocità di 100 km/h. ma dal momento che va solo dritto, sbaglia spesso.",
+            "omega-ruby": "Linoone è solito correre a tutta velocità e sempre in linea retta. Davanti a un ostacolo fa una curva ad angolo retto per evitarlo. Questo Pokémon si trova in difficoltà su percorsi con curve poco accentuate.",
+            "alpha-sapphire": "Quando caccia, Linoone si lancia rapido sulla preda. Infatti riesce a raggiungere la velocità di 100 km/h ma prima di girare è costretto a fermarsi in modo brusco e repentino.",
+            "sword": "Ha un pelo forte e resistente. I pennelli da barba realizzati con le setole perse da questo Pokémon sono molto pregiati.",
+            "shield": "Si serve della sua straordinaria forza esplosiva e dei suoi artigli affilati per abbattere la preda. Correre lungo strade tortuose non è il suo forte.",
+            "brilliant-diamond": "Carica la preda a una velocità di 100 km/h. Ma dal momento che va solo dritto, spesso la manca.",
+            "shining-pearl": "Carica la preda a una velocità di 100 km/h. Ma dal momento che va solo dritto, spesso la manca."
+        },
+        "linoone-di-galar": {
+            "sword": "Provoca l'avversario con la sua lingua lunga e, dopo averlo mandato su tutte le furie, lo attacca con spintoni poderosi.",
+            "shield": "Ha un'indole molto bellicosa. È così sconsiderato da affrontare avversari molto più forti di lui senza pensarci due volte."
+        }
+    },
     "egg_groups": [
         "Campo"
     ],
     "flat_name": "linoone",
     "generation": 3,
     "height": {
-        "linoone": "0.5 m"
+        "linoone": "0,5 m"
     },
     "id": 264,
     "name": "Linoone",
-    "name_origin": "Il nome di Linoone è una combinazione di linea, e Procyon lotor. Potrebbe anche riferirsi alla sua abilità di correre in linea retta. Massuguma potrebbe essere la combinazione di まっすぐ massugu, che significa dritto, e 洗い熊 araiguma, cioè il Procyon lotor, o 穴熊 anaguma, cioè il Meles meles. ",
-    "origin": "L'aspetto di Linoone è forse un incrocio tra il Meles meles e il Mustela putorius furo. Linoone può essere basato anche sulla creatura leggendaria del Kamaitachi o sul Ramidreju, una lunga donnola con la fissazione per l'oro. Ciò potrebbe spiegare l'ossessione di Linoone per gli oggetti rotondi. Esteticamente, Linoone di Galar potrebbe essere basato su Paul Stanley del gruppo musicale Kiss. ",
+    "name_origin": "Il nome di Linoone è una combinazione di line, linea, e raccoon, procione. Massuguma, il suo nome giapponese, potrebbe essere una combinazione di まっすぐ massugu, dritto, e アライグマ araiguma, procione, o 穴熊 anaguma, tasso. Guma  è un suffisso usato nei nomi di animali somiglianti ad orsi. ",
+    "origin": "L'aspetto di Linoone lo riconduce ad un tasso europeo o un tasso giapponese, con tratti di un mustelide, possibilmente essendo ispirato ad un tasso furetto o una zorilla comune. Condivide anche i colori del cane procione giapponese, detto anche tanuki. A seconda della regione, in giapponese il termine \"tanuki\" può riferirsi sia ad un procione che ad un cane procione. Questo potrebbe essere il motivo per cui il Pokémon prende tratti di entrambe le specie. Nel folklore giapponese, i tanuki sono creature conosciute per usare le proprie pance come tamburi, in modo simile a come Zigzagoon e Linoone possano imparare Panciamburo. Le strisce sul corpo del Pokémon possono ricordare fiamme o saette, riconducendolo alle auto da corsa, che spesso presentano questi pattern. Linoone potrebbe anche prendere ispirazione dal Kamaitachi, un essere del folklore giapponese raffigurato come una donnola che si muove ad altissima velocità e dotata di lunghi artigli con cui ferisce i passanti. Sulla testa del Pokémon è presente una freccia dritta, in un possibile riferimento alla sua tendenza di muoversi sempre dritto. L'ossessione di Linoone con oggetti rotondi potrebbe derivare dal Ramidreju, una creatura simile ad una donnola con un lungo corpo attratta dall'oro; o dall'associazione tra i tanuki e l'oro. La colorazione di Linoone di Galar sembra prendere ispirazione più direttamente dai tassi europei, che mostra colori bianco e neri al contrario della controparte giapponese. Tenendo in considerazione la sua evoluzione finale Obstagoon, è possibile che questi colori, la lingua appuntita e le stelle intorno agli occhi derivino da band glam rock. La linea evolutiva di Linoone ha un tema basato sul movimento: Zigzagoon si muove a zig-zag, Linoone in linea retta, e Obstagoon blocca il passaggio. ",
     "pokecentral_url": "https://wiki.pokemoncentral.it/Linoone",
-    "shape": "quadrupede",
+    "shape": "None",
     "specie": "Pokémon Sfrecciante",
     "sprites": {
         "linoone": {
@@ -68,6 +96,6 @@
         ]
     },
     "weight": {
-        "linoone": "32.5 kg"
+        "linoone": "32,5 kg"
     }
 }
